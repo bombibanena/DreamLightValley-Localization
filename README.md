@@ -45,6 +45,7 @@
       </ul>
     </li>
     <li><a href="#license">License</a></li>
+    <li><a href="#поддержать-автора">Поддержать автора</a></li>
   </ol>
 </details>
 
@@ -64,7 +65,6 @@
 
 - [v1.14.1.990 + 2 DLC](https://github.com/bombibanena/DreamLightValley-Localization/releases/tag/v.1.0.0-v1.14.1.990%2B2DLC)
 
-<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 ## Для тех кто хочет сделать собственный перевод
 
@@ -78,7 +78,6 @@
 8. Архивируем файлы из `LocDB_en-US` в `LocDB_en-US.zip`
 9. Заменяем `LocDB_en-US.zip` в `ddv_Data\StreamingAssets\Localization` новым архивом с переводами
 
-<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 ## Decode/Encode
 
@@ -239,11 +238,16 @@ location,key,en,ru
     .\ddv_loc.exe --mode encode --format raw --in in_folder --out out_folder
     ```
 
-<p align="right">(<a href="#readme-top">Наверх</a>)</p>
-
 ## License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+
+
+## Поддержать автора
+
+- BTC: `14scpxWeW6Lr7TDqcysgBvqjFGao43jYfw`
+- TON: `UQCWzhdWmX463WqdKLLvQqssDEEmK_WFpS_I6C8-j56VR_o6`
+- USDT (TRC20): `TNbeJkE6mu7xWWadwycPUQGSj7Bw6KCBo7`
 
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
