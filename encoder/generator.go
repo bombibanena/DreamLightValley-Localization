@@ -63,7 +63,6 @@ func generateEncodedFile(fileData models.FileData, outFolder string) error {
 			continue
 		}
 
-		// Заменяем специальные теги на соответствующие символы
 		text = strings.ReplaceAll(text, "<lw>", "\n")
 		text = strings.ReplaceAll(text, "<lwr>", "\r\n")
 

@@ -130,15 +130,15 @@ func readFromRaw(folder string) ([]models.FileData, error) {
 		// Parse encoded file
 		keyValues, err := readTxtFile(data)
 		if err != nil {
-			fmt.Printf("    Decode - Error\n")
+			fmt.Printf("    Read - Error\n")
 			return fmt.Errorf("Ошибка при разборе файла %s: %v", path, err)
 		}
 
-		fmt.Printf("    Decode - OK\n")
+		fmt.Printf("    Read - OK\n")
 
 		// Fill data
 		fileData = append(fileData, models.FileData{
-			Location:   strings.Replace(filepath.ToSlash(path), filepath.ToSlash(folder), "", 1),
+			Location:   strings.Replace(filepath.ToSlash(strings.Replace(path, ".txt", ".locbin", 1)), filepath.ToSlash(folder), "", 1),
 			Dictionary: keyValues,
 		})
 

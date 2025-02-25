@@ -25,20 +25,23 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Готовый машинный перевод от меня</a>
-    </li>
-    <li>
-      <a href="#getting-started">Для тех кто хочет сделать собственный перевод</a>
-    </li>
-    <li>
-      <a href="#getting-started">Decode/Encode</a>
+      <a href="#готовый-машинный-перевод-от-меня">Готовый машинный перевод от меня</a>
       <ul>
-        <li><a href="#prerequisites">Использование</a></li>
-        <li><a href="#installation">Опции</a></li>
-        <li><a href="#installation">Режим decode</a></li>
-        <li><a href="#installation">Режим encode</a></li>
-        <li><a href="#installation">Форматы</a></li>
-        <li><a href="#installation">Примеры</a></li>
+        <li><a href="#версии">Версии</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#для-тех-кто-хочет-сделать-собственный-перевод">Для тех кто хочет сделать собственный перевод</a>
+    </li>
+    <li>
+      <a href="#decodeencode">Decode/Encode</a>
+      <ul>
+        <li><a href="#использование">Использование</a></li>
+        <li><a href="#опции">Опции</a></li>
+        <li><a href="#режим-decode">Режим decode</a></li>
+        <li><a href="#режим-encode">Режим encode</a></li>
+        <li><a href="#форматы">Форматы</a></li>
+        <li><a href="#примеры">Примеры</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -59,14 +62,16 @@
 
 ### Версии
 
-- [v 1.14.1.990 + 2 DLC](https://github.com/bombibanena/DreamLightValley-Localization)
+- [v1.14.1.990 + 2 DLC](https://github.com/bombibanena/DreamLightValley-Localization/releases/tag/v.1.0.0-v1.14.1.990%2B2DLC)
+
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 ## Для тех кто хочет сделать собственный перевод
 
-1. Загружаем архив `Util.zip`, разархивируем в любом месте на ПК
+1. Загружаем архив `Util.zip` из [Конвертер v.1.0.0](https://github.com/bombibanena/DreamLightValley-Localization/releases/tag/v.1.0.0), разархивируем в любом месте на ПК
 2. Копируем файл с переводами из `ddv_Data\StreamingAssets\Localization`, например, `LocDB_en-US.zip` рядом с `ddv_loc.exe`
 3. Разархивируем `LocDB_en-US.zip` в `LocDB_en-US`
-4. Изучаем [как работать с ddv_loc.exe]()
+4. Изучаем [как работать с ddv_loc.exe](#decodeencode)
 5. Декодируем файлы в нужный формат
 6. Делаем перевод
 7. Кодируем файлы обратно
@@ -240,7 +245,7 @@ location,key,en,ru
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/bombibanena/DreamLightValley-Localization.svg?style=for-the-badge
 [contributors-url]: https://github.com/bombibanena/DreamLightValley-Localization/graphs/contributors
