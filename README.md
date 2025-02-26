@@ -8,10 +8,10 @@
 
 <br />
 <div align="center">
-  <h3 align="center">DreamLight Valley Localization</h3>
+  <h3 align="center">Disney Dreamlight Valley русификатор</h3>
 
   <p align="center">
-    Локализация для DreamLight Valley
+    Локализация, перевод на русский, русификатор для Disney Dreamlight Valley 
     <br />
     <br />
     <a href="https://github.com/bombibanena/DreamLightValley-Localization/issues/new?labels=bug">Report Bug</a>
