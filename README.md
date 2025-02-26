@@ -20,7 +20,6 @@
   </p>
 </div>
 
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -251,6 +250,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
+
 [contributors-shield]: https://img.shields.io/github/contributors/bombibanena/DreamLightValley-Localization.svg?style=for-the-badge
 [contributors-url]: https://github.com/bombibanena/DreamLightValley-Localization/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/bombibanena/DreamLightValley-Localization.svg?style=for-the-badge
@@ -261,5 +261,4 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 [issues-url]: https://github.com/bombibanena/DreamLightValley-Localization/issues
 [license-shield]: https://img.shields.io/github/license/bombibanena/DreamLightValley-Localization.svg?style=for-the-badge
 [license-url]: https://github.com/bombibanena/DreamLightValley-Localization/blob/master/LICENSE.txt
-
 
