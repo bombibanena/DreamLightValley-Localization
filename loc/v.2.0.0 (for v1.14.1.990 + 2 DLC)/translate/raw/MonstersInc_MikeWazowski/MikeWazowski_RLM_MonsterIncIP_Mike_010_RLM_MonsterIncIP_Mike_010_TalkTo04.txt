@@ -1,0 +1,51 @@
+TAG: MikeWazowski_000_f
+Давайте взглянем на эти фотографии...
+
+TAG: MikeWazowski_003_f
+Этот парень в космосе...
+
+TAG: MikeWazowski_001_f
+Я понял!
+
+TAG: MikeWazowski_002_f
+Я заставлю его посмеяться своими шутками про стук-тук.
+
+TAG: Player_000_choice_000_f
+Можно послушать?
+
+TAG: Player_000_choice_001_f
+В соседнюю комнату!
+
+TAG: MikeWazowski_007_f
+Конечно, стук-тук!
+
+TAG: Player_001_choice_000_f
+Кто там?
+
+TAG: MikeWazowski_008_f
+Шемп!
+
+TAG: Player_002_choice_000_f
+Какого позора?
+
+TAG: MikeWazowski_010_f
+Шампунь, зачем мне это?
+
+TAG: Player_003_choice_000_f
+Молодец!
+
+TAG: Player_003_choice_001_f
+Э-э...
+
+TAG: MikeWazowski_012_f
+Спасибо, приятель!
+
+TAG: MikeWazowski_004_f
+Ладно, давай вернемся к последнему номеру {PlayerName}!
+
+TAG: MikeWazowski_013_f
+Я очень хочу закончить, так что мне нужен гарантированный смех. Почему бы тебе не принести мне подсказку из комнаты</Lore>? Не волнуйся, я положу ее обратно.
+
+TAG: MikeWazowski_011_f
+Ну, поверь мне, там это убьет.
+

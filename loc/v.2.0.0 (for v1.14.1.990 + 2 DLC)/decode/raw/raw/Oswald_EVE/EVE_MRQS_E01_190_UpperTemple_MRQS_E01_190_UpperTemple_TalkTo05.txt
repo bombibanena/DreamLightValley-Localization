@@ -1,0 +1,18 @@
+TAG: EVE_000_f
+Hmm...
+
+TAG: EVE_001_f
+What's wrong? The console won't turn on?
+
+TAG: EVE_002_f
+No. *digital beeps*
+
+TAG: EVE_003_f
+Huh. Oh. I guess we've got to restore power to it.
+
+TAG: EVE_004_f
+It looks like there are some empty <ActivityItem>Power Sockets</ActivityItem> around here.
+
+TAG: EVE_005_f
+Maybe I can find the <ActivityItem>Power Coils</ActivityItem> that are supposed to go in them scattered around. There sure is a lot of <Lore>rubble</Lore> in here.
+

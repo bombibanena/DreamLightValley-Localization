@@ -1,0 +1,42 @@
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Any_CompletedRequestDescription
+Возвращайся в Реми за твои награды.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_AvailableDescription
+У Реми есть специальный заказ на доставку!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_DisplayName
+Приятного аппетита, Мирабель!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group01_Step01_CookMeal01_StepDescription
+Приготовить 5 заказов {ItemName} для Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group02_Step02_CookMeal02_StepDescription
+Приготовить 3 <ActivityItem>Hot Cocoas</ActivityItem> для Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group03_Step03_CookMeal03_StepDescription
+Приготовить 3 <ActivityItem>5-Star Feals</ActivityItem> для Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group04_Step04_ReadyDescription
+Принесите 5 заказов {ItemName} в Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group04_Step04_StepDescription
+Получите 5 заказов {ItemName} для Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group05_Step05_ReadyDescription
+Приведите 3 <ActivityItem>Hot Cocoas</ActivityItem> в Олаф.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group05_Step05_StepDescription
+Возьмите 3 <ActivityItem>Hot Cocoas</ActivityItem> для Олаф.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group06_Step06_ReadyDescription
+Принесите 3 <ActivityItem>5-Star Feals</ActivityItem> Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group06_Step06_StepDescription
+Возьмите 3 <ActivityItem>5-Star Feals</ActivityItem> для Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_Group07_Step07_Listen01_StepDescription
+Смотрите, как Олаф доставляет угощение Мирабель.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_030_Mirabel_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

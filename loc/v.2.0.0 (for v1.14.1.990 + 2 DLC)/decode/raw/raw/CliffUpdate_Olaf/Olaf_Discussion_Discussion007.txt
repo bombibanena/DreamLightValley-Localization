@@ -1,0 +1,57 @@
+TAG: Olaf_000_f
+Merlin is so smart! And he told me that he's a wizard.
+
+TAG: Olaf_001_f
+Do you think that one day I could be a wizard?
+
+TAG: Player_000_choice_000_f
+I don't know if snowmen can be wizards.
+
+TAG: Player_000_choice_001_f
+You're already magical.
+
+TAG: Player_000_choice_002_f
+You could ask Merlin to teach you?
+
+TAG: Olaf_002_f
+True. Maybe I should ask Merlin. But...
+
+TAG: Olaf_003_f
+Yesterday, when I asked him my two-hundredth question, he said I should try doing my own research. And then he mumbled something about too many questions and turning into an encyclopedia.
+
+TAG: Olaf_004_f
+Do you think I could turn into an actual encyclopedia if I ask too many questions?!
+
+TAG: Player_001_choice_000_f
+Absolutely.
+
+TAG: Player_001_choice_001_f
+I think you misunderstood Merlin...
+
+TAG: Player_001_choice_002_f
+*gasp* You're turning into a book right now!
+
+TAG: Olaf_005_f
+Then I'll have to be careful. I really like books, especially encyclopedias...
+
+TAG: Olaf_006_f
+...but I prefer being a snowman.
+
+TAG: Olaf_007_f
+You might be right. I'll go ask him a question about it!
+
+TAG: Olaf_008_f
+AM I? Where? Oh no! I just asked two more questions!
+
+TAG: Olaf_009_f
+I'd better be quiet and hope I get less paper-y.
+
+TAG: Olaf_010_f
+True. But that's not the same as being a wizard.
+
+TAG: Olaf_011_f
+Maybe I should ask Merlin. But...
+
+TAG: Olaf_012_f
+I could, but...
+

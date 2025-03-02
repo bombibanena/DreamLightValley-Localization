@@ -1,0 +1,42 @@
+TAG: WallE_000_f
+ВАЛЛ·И!
+
+TAG: Player_000_choice_000_f
+Я всегда рад тебя видеть!
+
+TAG: Player_000_choice_001_f
+Прости, но мне нужно кое-что от тебя.
+
+TAG: Player_000_choice_002_f
+Да, да, тебе тоже ВАЛЛ·И.
+
+TAG: WallE_002_f
+*свисток*
+
+TAG: WallE_001_f
+Инструкция?
+
+TAG: WallE_005_f
+Мне нужен <ActivityItem>Матушка Готельboard</ActivityItem>. У вас есть такая штука?
+
+TAG: WallE_006_f
+Хм...
+
+TAG: WallE_007_f
+...
+
+TAG: WallE_008_f
+Та-да!
+
+TAG: WallE_009_f
+Большое спасибо, ВАЛЛ·И!
+
+TAG: WallE_010_f
+Ура!
+
+TAG: WallE_003_f
+Хорошо.
+
+TAG: WallE_004_f
+Э-э...
+

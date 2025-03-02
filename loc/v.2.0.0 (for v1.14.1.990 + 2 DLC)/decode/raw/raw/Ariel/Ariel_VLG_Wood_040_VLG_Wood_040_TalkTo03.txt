@@ -1,0 +1,36 @@
+TAG: Ariel_001_f
+Hi, {PlayerName}! It's so great to see you. Is there anything I can help you with?
+
+TAG: Ariel_000_f
+Woody and I need some treasured childhood souvenirs for an enchantment.
+
+TAG: Player_000_f
+Do you have anything I could borrow in your collection?
+
+TAG: Player_000_choice_000_f
+I promise Woody will take good care of it.
+
+TAG: Player_000_choice_001_f
+I guarantee you'll love the result.
+
+TAG: Player_000_choice_002_f
+This could help declutter your collection a bit.
+
+TAG: Ariel_006_f
+Oh, I'm sure he will. And I have the perfect thing!
+
+TAG: Ariel_003_f
+It's a beautiful Whurleesneak, but Eric calls it a <ActivityItem>Music Box</ActivityItem>.
+
+TAG: Ariel_004_f
+I'd be happy to lend it to you and Woody. After all you've done to help me, it's the least I can do.
+
+TAG: Ariel_005_f
+Here you go.
+
+TAG: Ariel_007_f
+Oh, I'm sure I will. And I've got just the thing for you.
+
+TAG: Ariel_008_f
+I suppose my shelves are getting a bit cluttered. I think I have something that might work.
+

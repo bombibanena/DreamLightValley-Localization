@@ -1,0 +1,567 @@
+TAG: acclink_account_conflict_keep_playing_local
+Продолжайте играть на местном уровне
+
+TAG: acclink_account_conflict_login_email
+Заходите на счет Gameloft
+
+TAG: acclink_account_conflict_title
+Коллизия сберегательных счетов облаков
+
+TAG: acclink_conflict_ingame_autopick_server_message
+На облаке была найдена новая версия профиля.
+
+TAG: acclink_conflict_ingame_autopick_server_title
+Автовыбранный сервер Сохранить облако
+
+TAG: acclink_conflict_ingame_uselocal_confirm_message
+Вы уверены, что хотите сохранить Местное Сохранение?<lw>The Облако Спасение будет заменено Местным Сохранением!
+
+TAG: acclink_conflict_ingame_uselocal_confirm_title
+Подтверждение сохранения локальной памяти
+
+TAG: acclink_conflict_ingame_useremote_confirm_message
+Вы уверены, что хотите сохранить облачное Сохранение?<lw>The Местное Сохранение будет заменено Облаком Сохранение, и вы будете перенаправлены на главное меню.
+
+TAG: acclink_conflict_ingame_useremote_confirm_title
+Подтверждение сохранения облаков
+
+TAG: acclink_conflict_keep_customercare
+Сохранять заботу о клиенте
+
+TAG: acclink_conflict_keep_local
+Сохранить локальное сохранение: whatsthis
+
+TAG: acclink_conflict_keep_remote
+Сохранить облако
+
+TAG: acclink_conflict_recommended_label
+Рекомендовано
+
+TAG: acclink_conflict_resolve_error_download
+Профиль не удалось загрузить с сервера. Попробуйте еще раз.
+
+TAG: acclink_conflict_resolve_error_internal
+При урегулировании конфликта произошла внутренняя ошибка. Перезапустить игру и попробовать снова. Если проблема сохраняется, свяжись с Клиентом.
+
+TAG: acclink_conflict_resolve_error_parsing
+Не удалось правильно загрузить облако. Убедитесь, что у вас установлена последняя версия игры. Попробуйте загрузить с другого из ваших устройств, связанных с этим счетом, сохраните облако и попробуйте снова. Если проблема сохранится, обратитесь в службу помощи клиентам.
+
+TAG: acclink_conflict_resolve_error_title
+Ошибка защиты облаков от конфликтов
+
+TAG: acclink_conflict_title
+Облако сберегает конфликт
+
+TAG: acclink_conflict_title_debug
+Облако сберегает конфликт**ДЕБУГ**
+
+TAG: acclink_create_account_already_exists
+Счёт не мог быть создан, потому что эта электронная почта уже существует.
+
+TAG: acclink_create_account_cancel
+Отмена
+
+TAG: acclink_create_account_confirmation_desc
+Введите код проверки, который был отправлен на ваш адрес электронной почты и выбрать"Зарегистрируйтесь"чтобы завершить расчет.
+
+TAG: acclink_create_account_confirmation_failed
+Код проверки, который вы ввели, истек или недействителен.
+
+TAG: acclink_create_account_confirmed_login_failed
+Создание счета подтверждено, но вход не сработал. Пожалуйста, попробуйте еще раз.
+
+TAG: acclink_create_account_desc
+Для того чтобы использовать это устройство на других платформах, вы должны создать аккаунт и синхронизировать Сохранение облаков.
+
+TAG: acclink_create_account_invalid_email
+Невозможно создать счет, поскольку указанный адрес электронной почты недействителен.
+
+TAG: acclink_create_account_invalid_password
+Счет не может быть создан, поскольку пароль недействителен (должен содержать по меньшей мере 8 знаков).
+
+TAG: acclink_create_account_unknown_error
+Не удалось создать счет из-за неизвестной ошибки.
+
+TAG: acclink_create_email_account_success
+Чтобы завершить создание счета, введите код проверки, который был отправлен {glemail}.
+
+TAG: acclink_create_email_account_title
+Создать счет
+
+TAG: acclink_email_auto_login_failed_prompt
+Не удалось зарегистрироваться на вашем аккаунте Gameloft. Перейдите в меню Cloud Save, убедитесь, что ваши документы обновлены, и попробуйте снова.
+
+TAG: acclink_email_login_failed_label
+Чтобы сохранить синхронизацию Облака, введите ваш пароль.
+
+TAG: acclink_logged_email_desc
+Вы можете использовать это письмо, чтобы зарегистрироваться на другом устройстве и использовать Cloud Save.
+
+TAG: acclink_login_account_desc
+Чтобы синхронизировать с Спасением Облаков, вы должны войти.
+
+TAG: acclink_login_already_logged_in
+Вы уже зарегистрированы как {playfabid}.
+
+TAG: acclink_login_another_account_already_linked
+Не удалось зарегистрироваться с этим адресом электронной почты, поскольку на него уже зарегистрирован другой счет.
+
+TAG: acclink_login_different_profile_desc
+Текущий пользователь {playfabid} зарегистрирован в.<lw>A Если вы уверены, что хотите потерять доступ к местному прогрессу и синхронизировать с Облаком Спасения? Ваш местный прогресс может быть восстановлен в будущем за счет вырубки.
+
+TAG: acclink_login_different_profile_download_error
+Не удалось загрузить Облако Сохранить.
+
+TAG: acclink_login_different_profile_title
+Отслеживание различных счетов
+
+TAG: acclink_login_different_profile_useremote_confirm_desc
+Вы уверены, что хотите зарегистрироваться на этом аккаунте Gameloft?<lw><lw>YUR LOCAL Progress WILLLLLLLLLLOFЕВАR.<lw><lw> Вы будете перенаправлены на Main Player.
+
+TAG: acclink_login_different_profile_useremote_confirm_soft_lost_desc
+Вы уверены, что хотите зарегистрироваться на этом аккаунте Gameloft?<lw><lw>YUR LOCAL Progress WILLLLLLLLLLOFЕВАR.<lw><lw> Вы будете перенаправлены на Main Player.
+
+TAG: acclink_login_different_profile_useremote_confirm_title
+Подтверждение сообщения по электронной почте
+
+TAG: acclink_login_email_account
+Зарегистрируйтесь
+
+TAG: acclink_login_email_not_confirmed
+Ваши полномочия верны, но процесс создания счета еще не завершен. Пожалуйста, заполните ваш счет и введите код проверки, отправленный по электронной почте.
+
+TAG: acclink_login_error
+Ошибка входа
+
+TAG: acclink_login_invalid_credentials
+Представлены недействительные полномочия.
+
+TAG: acclink_login_not_available
+Игра испытывает некоторые проблемы с подключением к Cloud Services. Пожалуйста, подождите несколько минут и попробуйте снова.
+
+TAG: acclink_login_success
+Заходи, ладно.
+
+TAG: acclink_logout_confirm_desc
+Вы уверены, что хотите выйти? Текущий прогресс будет синхронизирован с Облаком и вы будете перенаправлены на предыдущий Local Save.
+
+TAG: acclink_logout_confirm_title
+Подтверждение выхода
+
+TAG: acclink_logout_email_account
+Выход
+
+TAG: acclink_logout_email_error_desc
+Не удалось зарегистрироваться на вашем аккаунте Gameloft.
+
+TAG: acclink_logout_email_error_title
+Ошибка сохранения облаков
+
+TAG: acclink_logout_email_new_game_confirm_desc
+Вы уверены, что хотите создать новую игру?
+
+TAG: acclink_logout_email_new_game_confirm_title
+Облако Сохранить восстановление
+
+TAG: acclink_logout_email_recover_btn
+Возвращение
+
+TAG: acclink_logout_email_recover_error_title
+Ошибка восстановления облаков
+
+TAG: acclink_logout_email_recover_profile_found_title
+Найдено облако
+
+TAG: acclink_logout_email_recover_try_again_error_desc
+Не удалось восстановить последнюю сохранённую игру. Хочешь попробовать еще раз?
+
+TAG: acclink_logout_email_try_again_error_desc
+Не удалось полностью зарегистрироваться с твоего аккаунта Gameloft. Хочешь попробовать еще раз?
+
+TAG: acclink_logout_error_desc
+Тебя не записали.
+
+TAG: acclink_logout_error_title
+Ошибка выключения
+
+TAG: acclink_logout_success_desc
+Теперь тебя выгнали.
+
+TAG: acclink_logout_success_title
+Выпуск OK
+
+TAG: acclink_nativeauth_customid
+Идентификатор игры
+
+TAG: acclink_nativeauth_email_pwd_login
+Электронная почта
+
+TAG: acclink_nativeauth_epic
+Epic
+
+TAG: acclink_nativeauth_epic_message
+Ожидая, что Epic Games запишутся.<lw><lw>Будете уверены, что вы используете Epic Games Power и что вы дали разрешение.
+
+TAG: acclink_nativeauth_gameloftid
+Идентификатор Gameloft
+
+TAG: acclink_nativeauth_nintendo_deviceid
+Устройство переключателя Nintendo
+
+TAG: acclink_nativeauth_nintendo_nsa
+Счёт Nintendo Online
+
+TAG: acclink_nativeauth_psn
+Воспроизведение
+
+TAG: acclink_nativeauth_steam
+Пар
+
+TAG: acclink_nativeauth_unsupported
+Не поддерживается
+
+TAG: acclink_nativeauth_xbox
+Xbox
+
+TAG: acclink_offline_connect_label
+Вы должны быть в сети, чтобы сохранить облако.
+
+TAG: acclink_online_native_auth_label
+Коренное население Оут
+
+TAG: acclink_online_user_id_label
+Идентификатор пользователя в режиме онлайн
+
+TAG: acclink_profile_recovered
+Облако Сохранить
+
+TAG: acclink_register_email_error
+Электронная почта не может быть зарегистрирована.
+
+TAG: acclink_register_email_success
+Адрес электронной почты:<lw>{glemail}<lw>
+
+TAG: acclink_register_email_title
+Регистрация электронной почты
+
+TAG: acclink_reset_pwd_action
+Перезагрузить пароль
+
+TAG: acclink_reset_pwd_desc
+Вам будет отправлено письмо с проверочным кодом, чтобы перезапустить ваш пароль.
+
+TAG: acclink_reset_pwd_error
+Не удалось перезапустить пароль для электронной почты ({glemail}) из-за следующей ошибки:<lw>{error}
+
+TAG: acclink_reset_pwd_send
+Отправить
+
+TAG: acclink_reset_pwd_success
+Электронная почта отправлена {glemail}.
+
+TAG: acclink_reset_pwd_title
+Перезагрузить пароль
+
+TAG: acclink_reset_pwd_user_not_found_error
+Не удалось перезапустить пароль для электронной почты, так как не удалось найти пользователя.
+
+TAG: acclink_set_new_password_desc
+Проверьте почту на код проверки и введите новый пароль.
+
+TAG: acclink_set_new_pwd_error
+Новый пароль не был установлен из-за неизвестной ошибки.
+
+TAG: acclink_set_new_pwd_invalid_code
+Новый пароль не может быть установлен, поскольку код проверки неверен или истек.
+
+TAG: acclink_set_new_pwd_invalid_password
+Новый пароль не может быть установлен, поскольку пароль недействителен (он должен содержать по меньшей мере 8 знаков).
+
+TAG: acclink_set_new_pwd_max_attempts_reached
+Новый пароль не был установлен, потому что вы достигли максимального числа попыток. Попробуйте позже.
+
+TAG: acclink_set_new_pwd_success
+Новый пароль был установлен для этого письма: {glemail}.
+
+TAG: acclink_set_new_pwd_user_not_found
+Новый пароль не был установлен, поскольку счета не существует.
+
+TAG: acclink_status_error
+Ошибка
+
+TAG: acclink_status_ok
+Хорошо.
+
+TAG: acclink_unlink_confirm_desc
+Отключение связи удалит связь между платформами и вашим аккаунтом Gameloft. Вы можете перевязать свой счет, зарегистрировав его снова с аккаунтом Gameloft.
+
+TAG: acclink_unlink_confirm_title
+Отключить подтверждение
+
+TAG: acclink_unlink_email_account
+Отключиться
+
+TAG: acclink_unlink_email_credentials_error_desc
+Не удалось отключить связь со счетом Gameloft, потому что пароль, который вы ввели, недействителен или не соответствует.
+
+TAG: acclink_unlink_email_error_desc
+Не удалось отключить связь со счетом Gameloft. Попробуйте еще раз.
+
+TAG: acclink_unlink_email_services_error_desc
+Не удалось отключить связь со счетом Gameloft, потому что в данный момент услуги недоступны. Попробуйте еще раз позже.
+
+TAG: acclink_unlink_enter_password_label
+Пожалуйста, введите ваш пароль, чтобы подтвердить, что вы хотите отключить связь.
+
+TAG: acclink_unlink_error_title
+Отключить ссылку
+
+TAG: ccprofile_conflict_ingame_usecc_confirm_message
+Вы уверены, что хотите использовать Consider Care Save?<lw>Текущее сохранение будет потеряно, и вы будете перенаправлены на Main Lower.
+
+TAG: ccprofile_conflict_ingame_usecc_confirm_title
+Подтверждение сохранения заботы о клиенте
+
+TAG: ccprofile_conflict_ingame_uselocal_confirm_message
+Вы уверены, что хотите сохранить Local Save?<lw> Забота о клиенте не будет применяться!
+
+TAG: ccprofile_conflict_ingame_uselocal_confirm_title
+Подтверждение сохранения локальной памяти
+
+TAG: cpprofile_conflict_ingame_uselocal_confirm_title
+Подтверждение сохранения локальной памяти
+
+TAG: cpprofile_conflict_title
+Сохранить заботу о клиенте
+
+TAG: profile_upload_to_server_error
+Не удалось загрузить Облако Сохранить на сервер.
+
+TAG: profile_upload_to_server_success
+Облако Сохранить успешно загружено на сервер.
+
+TAG: profile_upload_to_server_title
+Загрузить облако в сервер
+
+TAG: applearcade_dreamsnap_restricted
+В вашем устройстве в настоящее время запрещено использовать любые функции мультиплеера, включая информацию, созданную пользователем. Чтобы изменить это, свяжитесь с человеком, который установил ограничения.
+
+TAG: applearcade_dreamsnap_restricted_title
+Ограниченные свойства
+
+TAG: applearcade_gamecenter_login_fail
+Невозможно зарегистрироваться в Game Center. Проверьте связь и попробуйте еще раз.
+
+TAG: applearcade_gamecenter_login_fail_title
+Гейм-центр не сработал!
+
+TAG: applearcade_gamecenter_required
+Требуются логины Game Center
+
+TAG: applearcade_icloud_full_body
+Проверьте, пожалуйста, ваше iCloud хранилище и оставьте некоторые данные.
+
+TAG: applearcade_icloud_full_title
+Не удалось надлежащим образом сохранить данные iCloud
+
+TAG: applearcade_icloud_load_full_title
+Не удалось надлежащим образом загрузить данные iCloud
+
+TAG: applearcade_icloud_load_no_account
+Проверьте, зарегистрированы ли вы в iCloud.
+
+TAG: applearcade_login_gamecenter
+Заголовок Game Center
+
+TAG: applearcade_login_success
+Ты успешно записался на свой аккаунт Game Center.
+
+TAG: applearcade_no_gamecenter_Boutique
+Чтобы получить доступ к Butique, вам нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на вашем аккаунте Game Center, выбрав точку доступа в центр Game.
+
+TAG: applearcade_no_gamecenter_delete_thirdparty
+Чтобы удалить все ваши данные о геймплее, хранящиеся на наших серверах, вам нужно зарегистрироваться в Game Center. Если вы выберете Не сейчас, вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на ваш аккаунт Game Center, выбрав точку доступа в Game Center.
+
+TAG: applearcade_no_gamecenter_event
+Чтобы получить доступ к элементу события, вам нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на свой аккаунт Game Center, выбрав точку доступа Game Center.
+
+TAG: applearcade_no_gamecenter_fetch_mailbox
+Чтобы найти новую онлайн-почту, нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на свой аккаунт Game Center, выбрав точку доступа Game Center.
+
+TAG: applearcade_no_gamecenter_claim_mailbox
+Чтобы получить онлайн-почту, вам нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на свой аккаунт Game Center, выбрав точку доступа Game Center.
+
+TAG: applearcade_no_gamecenter_multiplayer
+Чтобы получить доступ к параметру мультиплеера, нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на свой аккаунт Game Center, выбрав точку доступа Game Center.
+
+TAG: applearcade_no_gamecenter_photo
+Чтобы получить доступ к функции Save and Share, вам нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на свой аккаунт Game Center, выбрав точку доступа Game Center.
+
+TAG: applearcade_no_gamecenter_photo_dreamsnap
+Чтобы получить доступ к функции DreamSnaps, нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на свой аккаунт Game Center, выбрав точку доступа Game Center.
+
+TAG: applearcade_no_gamecenter_save_playfab
+Чтобы поддержать прогресс в игре, нужно зарегистрироваться в Game Center."Не сейчас,"Ты не сможешь использовать эту функцию.
+
+TAG: applearcade_no_gamecenter_showid
+Чтобы показать свой идентификатор пользователя, вам нужно зарегистрироваться в Game Center."Не сейчас,"Вы не сможете использовать эту функцию.<lw> Вы можете зарегистрироваться на свой аккаунт Game Center, выбрав точку доступа Game Center.
+
+TAG: applearcade_not_now
+Не сейчас
+
+TAG: applearcade_sysreq_block
+Похоже, ваше текущее устройство не совместимо с этой версией. Игра выйдет автоматически после закрытия этого сообщения.
+
+TAG: applearcade_sysreq_title
+О нет!
+
+TAG: applearcade_sysreq_warning
+Похоже, ваше устройство не отвечает минимальным требованиям, чтобы правильно играть в игру. Игра может не протекать гладко на вашем устройстве или иногда рушиться.
+
+TAG: ccprofile_conflict_title_description
+Забота о клиентах
+
+TAG: ccprofile_received_disclaimer_message
+Вы только что получили сэкономку от Consulter Care!<lw>{custommsg}
+
+TAG: ccprofile_received_disclaimer_title
+Забота о клиентах
+
+TAG: collect_loot_present_generic_failed
+Не удалось получить вознаграждение. Попробуйте еще раз.
+
+TAG: collect_loot_present_max_reached
+Вы собрали все свои награды на сегодня.
+
+TAG: collect_loot_present_offline_desc
+Хотите связаться, чтобы открыть это?
+
+TAG: collect_loot_present_offline_title
+Ты ошибаешься.
+
+TAG: collect_loot_you_need_to_be_online
+Ты должен быть в сети, чтобы открыть это.
+
+TAG: error_online_session_validation_concurrency
+Ваш сеанс закончился, потому что новый сеанс был создан где-то на {lastConnection}.<br><br>Пожалуйста, закройте другой экземпляр игры и затем перезапустите приложение.
+
+TAG: error_online_session_validation_default
+Сессия не была подтверждена в режиме онлайн.
+
+TAG: error_online_session_validation_title
+Проверка сеансов
+
+TAG: login_connect_button
+Подключиться
+
+TAG: login_connect_internet_error
+Невозможно подключиться к Интернету. Продолжайте играть в режиме Offline.
+
+TAG: login_connect_nativeprofile_error
+Невозможно подключиться к онлайн-услугам, потому что вы не подписываетесь на профиль первой партии.
+
+TAG: login_connect_playfab_error
+Невозможно подключиться к онлайн-услугам. Продолжайте играть в режиме Offline.
+
+TAG: login_connect_portal_error
+Невозможно подключиться к порталу игры. Продолжайте играть в режиме Offline.
+
+TAG: login_connect_success
+Теперь играем в режиме онлайн!
+
+TAG: login_connect_unknown_error
+Не удалось подключиться. Продолжайте играть в режиме Offline.
+
+TAG: login_connectivity_issue_internet_desc
+Невозможно подключиться к Интернету. Проверьте статус сети и попробуйте снова.
+
+TAG: login_connectivity_issue_internet_title
+Нет сети &lt; &lt; Интернет &gt; &gt;
+
+TAG: login_connectivity_issue_nativeprofile_desc
+Игра испытывает некоторые проблемы с подключением к онлайн-услугам. Пожалуйста, подождите несколько минут и попробуйте снова.
+
+TAG: login_connectivity_issue_nativeprofile_title
+Недоступные онлайновые услуги
+
+TAG: login_connectivity_issue_playfab_desc
+Игра испытывает некоторые проблемы с подключением к онлайн-услугам. Пожалуйста, подождите несколько минут и попробуйте снова.
+
+TAG: login_connectivity_issue_playfab_title
+Недоступные онлайновые услуги
+
+TAG: login_connectivity_issue_portal_desc
+Игра испытывает некоторые проблемы с подключением к порталу. Пожалуйста, подождите несколько минут и попробуйте еще раз.
+
+TAG: login_connectivity_issue_portal_title
+Портал игры недоступен
+
+TAG: login_continue_offline_button
+Продолжайте работать в режиме оффлайн
+
+TAG: login_request_internet_desc
+Это требует подключения к Интернету. Вы хотите освежить связь?
+
+TAG: login_request_nativeprofile_desc
+Это действие требует подключения к онлайн-услугам. Вы хотите подключиться?
+
+TAG: login_request_playfab_desc
+Это действие требует подключения к онлайн-услугам. Вы хотите подключиться?
+
+TAG: login_request_portal_desc
+Это действие требует подключения к порталу игры. Вы хотите подключиться?
+
+TAG: login_request_title
+Запрос в режиме онлайн
+
+TAG: login_request_unknown_desc
+Это действие требует, чтобы вы были в сети. Вы хотите связаться?
+
+TAG: login_success
+Удачное проникновение!
+
+TAG: logout_message
+Теперь играем в режиме оффлайн.
+
+TAG: mailbox_error_already_claimed
+Эта награда уже была заявлена.
+
+TAG: mailbox_error_generic_error
+Случилось что-то неожиданное. Попробуй позже.
+
+TAG: mailbox_error_message_expired
+Это вознаграждение истекло. Вы не можете больше требовать его.
+
+TAG: mailbox_error_message_not_found
+Это сообщение не было найдено в вашем онлайн-инвентаре.
+
+TAG: mailbox_error_not_claimable
+Это вознаграждение не подлежит компенсации.
+
+TAG: mailbox_error_rewards_failed_to_apply
+Не смог применить свои награды. Попробуйте позже.
+
+TAG: promocode_title_success
+Удачное освобождение
+
+TAG: promocode_title_error
+Ошибка в искуплении
+
+TAG: promocode_success
+Ваша награда скоро появится в вашем почтовом ящике.
+
+TAG: promocode_already_claimed
+Этот кодекс уже был заявлен или достиг предельного уровня.
+
+TAG: promocode_error_invalid_params
+Код недействителен.
+
+TAG: promocode_notFound
+Код истек или не существует.
+
+TAG: promocode_error_online_service
+Код не может быть заявлен из-за неизвестной ошибки в обслуживании в режиме онлайн.
+
+TAG: promocode_error
+Код не может быть заявлен из-за неизвестной ошибки.
+

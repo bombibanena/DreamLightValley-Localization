@@ -1,0 +1,69 @@
+TAG: Belle_000_f
+Hi Belle!
+
+TAG: Belle_001_f
+Are these books for me, {PlayerName}? How kind of you.
+
+TAG: Belle_002_f
+Oh, thank the Beast, not me â I'm just the delivery person.
+
+TAG: Belle_003_f
+Well, thank you for helping get them to me. I know he's not comfortable speaking with the other Villagers yet.
+
+TAG: Player_000_choice_000_f
+Yeah, what's up with that?!
+
+TAG: Player_000_choice_001_f
+Poor Beast...
+
+TAG: Player_000_choice_002_f
+I don't know what to do with him next!
+
+TAG: Belle_004_f
+He's a bit shy. Though, I don't think he'd admit that...
+
+TAG: Belle_013_f
+That's a wonderful idea! WALLÂ·E enjoys gardening, doesn't he?
+
+TAG: Belle_014_f
+Perhaps he and the Beast could work together with plants.
+
+TAG: Belle_015_f
+WALLÂ·E it is then! And let's see... What about Mirabel? She's helped us out already; I bet she'd be happy to help again!
+
+TAG: Belle_016_f
+She's used to managing the personalities of her whole family. The Beast's gruffness wouldn't bother her.
+
+TAG: Belle_017_f
+This is so kind of you to do, {PlayerName}. I wish you luck!
+
+TAG: Belle_005_f
+What do you think he needs?
+
+TAG: Belle_006_f
+Well, he could use a friend. Someone with a quiet disposition.
+
+TAG: Belle_007_f
+He's spent so long in a castle with only his servants for company. I think he's forgotten how to make new friends.
+
+TAG: Belle_008_f
+Hmm... but who to try and introduce him to?
+
+TAG: Belle_009_f
+Well... it would have to be someone who's friendly.
+
+TAG: Belle_010_f
+And who would be patient with him.
+
+TAG: Belle_011_f
+Let me think...
+
+TAG: Belle_012_f
+What about WALLÂ·E? He's the friendliest robot I've ever met!
+
+TAG: Belle_018_f
+He's just rather shy. That makes things difficult for him.
+
+TAG: Belle_019_f
+I understand. When he gets uncomfortable, he can be difficult to talk to.
+

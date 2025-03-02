@@ -1,0 +1,66 @@
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Any_CompletedRequestDescription
+Возвращайтесь на Флин.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_AvailableDescription
+{PlayerName} влезла в темноту на краях Диких Вудсов и нашла там странный вход, просто ожидая, когда {PlayerName} зайдет внутрь.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_CompletedStoryDescription
+{PlayerName} сняла проклятие в суде сказок и сделала дом для Флин Rider в Storybook Vale. Теперь стало ясно, что {PlayerName} нужно сделать, чтобы спасти Vale: Venture out и найти больше сказок.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_DisplayName
+Овцы в одежде Волки
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_DisplayName_000
+The Wolf of the Wilds
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group01_Step01_VisitArea01_StepDescription
+Пройдите через ворота в Диком Вудсе, чтобы войти в первый процесс <ActivityItem>Fairy Tale</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group02_Step02_TalkToCharacter01_StepDescription
+Расследуйте загадочный, рычащий дверной проем...
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem01_StepDescription
+Какие у него большие ноги.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem02_StepDescription
+Какой у него запах волчицы.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem03_StepDescription
+Какой жестокий вопль.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_ReadyDescription
+Принеси улики к двери.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_StepDescription
+Докажи, что Волк Диких - не волк, ищите доказательства в суде, чтобы опровергнуть:
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_StoryDescription
+В ходе первого испытания сказок {PlayerName} обнаружила снайперскую фигуру за запертой дверью.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group04_Step04_TalkToCharacter02_StepDescription
+Поговори с Флин.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group05_Step05_Interaction01_StepDescription
+Интерактивировать с <ActivityItem>Source коррупции</ActivityItem> в суде Фейри Тали.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group05_StoryDescription
+{PlayerName} открыл правду: The Wolf of the Wilds вообще не был волком, а Флин Rider, страдал под проклятием Малефисента.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group06_Step06_VisitArea02_StepDescription
+Возвращайся в Сказочную Долину.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group07_Step07_TalkToCharacter03_StepDescription
+Поговори с Флин.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group08_Step08_PlaceBuilding01_StepDescription
+Положите основы для <ActivityItem>Флин дома Райдера</ActivityItem> где угодно в Storybook Vale.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group09_Step09_Unlock01_StepDescription
+Разблокировать <ActivityItem>Флин Дом Райдера</ActivityItem> посредством взаимодействия со знаком Скрудж Макдак рядом с ним.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group10_Step10_VisitArea03_StepDescription
+Исследуйте испытание сказок.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group11_Step11_UnlockCharacter01_StepDescription
+Добро пожаловать Флин Всадник на Вале!
+

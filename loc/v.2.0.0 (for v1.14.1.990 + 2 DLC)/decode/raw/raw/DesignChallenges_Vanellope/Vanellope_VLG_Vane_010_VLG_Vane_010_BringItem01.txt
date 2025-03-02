@@ -1,0 +1,12 @@
+TAG: Vanellope_000_f
+Hey, these <ActivityItem>Candy Cane Sprouts</ActivityItem> look great! Okay, stand back... I learned this trick back in Sugar Rush...
+
+TAG: Vanellope_001_f
+Ta-da! Now you can <Lore>decorate around my House with these Candy Cane Trees!</Lore>
+
+TAG: Vanellope_002_f
+I also found you some more stuff to make things extra sweet. Take these <ActivityItem>Giant Lollipops</ActivityItem> and this <ActivityItem>Sugar Cookie Pavement</ActivityItem> too.
+
+TAG: Vanellope_003_f
+<Lore>We should put up at least half the decorations around my House... OH! And make a race track</Lore>!
+

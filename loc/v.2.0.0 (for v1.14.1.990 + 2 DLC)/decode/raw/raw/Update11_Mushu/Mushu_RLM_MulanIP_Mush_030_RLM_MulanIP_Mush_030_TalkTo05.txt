@@ -1,0 +1,12 @@
+TAG: Mushu_001_f
+BEHOLD! A real <ActivityItem>Defender's Sword</ActivityItem> to hang on your wall. It's like a super impressive certificate that you finished your training.
+
+TAG: Mushu_003_f
+Congratulations, {PlayerName}!
+
+TAG: Mushu_004_f
+And now...
+
+TAG: Mushu_002_f
+<Lore>Let's go to that Valley</Lore>! The Great Mushu is READY!
+

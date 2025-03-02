@@ -1,0 +1,63 @@
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_AvailableDescription
+Olaf needs help with something a bit... unusual.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_DisplayName
+Deal of the Day: Like a Warm Hug
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Olaf.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group01_StepDescription
+Olaf needs your help with something unusual.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess01_StepDescription
+<ActivityItem>Cotton</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess02_StepDescription
+<ActivityItem>Fiber</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess03_StepDescription
+<ActivityItem>White Passion Lily</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess04_StepDescription
+<ActivityItem>Red Bromeliad</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess05_StepDescription
+<ActivityItem>Blue Passion Lily</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_StepDescription
+Gather materials:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_StoryDescription
+It turns out Ursula gave Olaf a cursed stuffed animal for some nefarious reason. But Olaf has no interest in finding out why or getting revenge. Instead, he wants to return Ursula's gift with a bouquet of flowers to show her she's appreciated.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group03_Step03_CraftItem01_StepDescription
+Repair <ActivityItem>Olaf's Stuffed Animal</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group03_Step03_CraftItem02_StepDescription
+Craft a {ItemName}.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group03_Step03_StepDescription
+Use a Crafting Station to:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_BringItem01_StepDescription
+{itemName}.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_BringItem02_StepDescription
+{itemName}.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_ReadyDescription
+Bring the <ActivityItem>Gifts for Ursula</ActivityItem> to Ursula.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_StepDescription
+Make sure you have the <ActivityItem>Gifts for Ursula</ActivityItem> in your Inventory.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group04_StoryDescription
+Now that the gifts for Ursula are ready, it's time to give them to her.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_080_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+

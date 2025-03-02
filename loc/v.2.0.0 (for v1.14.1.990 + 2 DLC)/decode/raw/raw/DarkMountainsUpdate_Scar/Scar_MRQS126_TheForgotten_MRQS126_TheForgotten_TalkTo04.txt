@@ -1,0 +1,45 @@
+TAG: Scar_001_f
+Ah, you can feel it, can't you?
+
+TAG: Scar_002_f
+Whatever that monstrosity is... its power has begun to wane.
+
+TAG: Scar_003_f
+But there is still more work to do.
+
+TAG: Player_000_choice_000_f
+What should I do next?
+
+TAG: Player_000_choice_001_f
+I don't know about this...
+
+TAG: Player_000_choice_002_f
+This better be worth it...
+
+TAG: Scar_004_f
+You know, I have an idea...
+
+TAG: Scar_007_f
+I'm sure you've noticed all the strange weeds sprouting up?
+
+TAG: Scar_008_f
+The Night Thorns, you mean?
+
+TAG: Scar_009_f
+Ugh. Yes. If we must use that windbag's name for them.
+
+TAG: Scar_010_f
+Regardless of the moniker, I rather like them, don't you? Though they do seem to sap the life out of everything around them.
+
+TAG: Scar_011_f
+Wanting to know more, I dug where you would expect to see seeds, and instead I found these small bits of darkness. I suppose you could <Lore>plant them and see what happens</Lore>...
+
+TAG: Scar_012_f
+Try near the Pillar itself... or the entrance to those caverns over there... or that Dreamlight Tree that Simba's so fond of. I'll be waiting near my den when you've finished the task.
+
+TAG: Scar_005_f
+Oh, but we've already come so far. There's only a small bit left to do.
+
+TAG: Scar_006_f
+Trust me. It will be. There's only one more thing you need to do...
+

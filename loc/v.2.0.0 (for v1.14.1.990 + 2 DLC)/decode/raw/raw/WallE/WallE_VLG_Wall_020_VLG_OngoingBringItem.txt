@@ -1,0 +1,9 @@
+TAG: WallE_002_f
+Directive!
+
+TAG: WallE_000_f
+I'm still gathering <ActivityItem>Seeds</ActivityItem>, <ActivityItem>Dirt Sacks</ActivityItem>, and a <ActivityItem>Trellis</ActivityItem>!
+
+TAG: WallE_001_f
+Oooh.
+

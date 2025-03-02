@@ -1,0 +1,75 @@
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Any_CompletedRequestDescription
+Возвращайтесь на Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_AvailableDescription
+Базз Лайтер патрулировал вдоль реки в лесу Вэлора, когда его память начала возвращаться. Он чувствовал большую битву со злом, но не мог вспомнить много. Вы решили помочь ему восстановить его воспоминания.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_CompletedStoryDescription
+Теперь, когда <ActivityItem>Memory</ActivityItem> завершена, вы понимаете, что Базз Лайтер неправильно помнит свое прошлое в деревне. Как он будет реагировать?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_DisplayName
+Сокрушенное прошлое
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group01_StepDescription
+Идите к реке в лесу Вэлор с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group02_StepDescription
+Ищите закоренелую подсказку о прохождении Базз Лайтер вдоль реки в лесу Вэлор.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group03_Step03_TalkToCharacter01_StepDescription
+Поговори с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group04_Step04_TalkToCharacter02_StepDescription
+Поговори с Шрам.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group04_StoryDescription
+Память обнаружила часть более крупной сцены, где Шрам и Базз Лайтер сражались друг с другом. Вы решили встретиться с Шрам об этом.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_ReadyDescription
+Принесите еду Шрам.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_StepDescription
+Соберите следующую еду:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group06_StoryDescription
+Лев согласен сказать вам правду в обмен на еду.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group07_StepDescription
+Найдите в пещере Шрам предмет, доказывающий свою дружбу с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group08_Step08_TalkToCharacter03_StepDescription
+Поговорите с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group09_StepDescription
+Поймать следующую подсказку с реки на плато Санлит.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group09_StoryDescription
+Шрам показывает, что он никогда не сражался Базз Лайтер и даже помогает вам найти другую часть <ActivityItem>Memory</ActivityItem>. Последняя часть загадки находится рядом с рекой на плато Солнце.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group10_StepDescription
+Откройте свой список и исследуйте <ActivityItem>Old Fishing Rod</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group11_StepDescription
+Поговори с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вы будете делать?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_Group12_StepDescription
+Слушайте, как Базз Лайтер говорит с Шрам.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

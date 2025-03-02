@@ -1,0 +1,93 @@
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_AvailableDescription
+Стич - это скучно. Вы решаете, что ему действительно нужно хобби. Но что ему понравится Стич?
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_CompletedStoryDescription
+У Стич был целый день, он смотрел фильм, ехал с вами на дно мистической пещеры, и встретил морского монстра и русалку.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_DisplayName
+Стич's Hobby
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group01_Step01_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group01_Step01_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group01_Step01_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group01_Step01_StepDescription
+Соберите материалы для ремонта <ActivityItem>Broken Television</ActivityItem>:
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group02_Step02_CraftItem01_StepDescription
+Ремонт " <ActivityItem>Broken Television</ActivityItem>" на ремесленной станции.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group02_StoryDescription
+Собирайте материалы для ремонта телевизора Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group03_Step03_VisitArea01_StepDescription
+Познакомься с Стич в его доме.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group04_Step04_BringItem01_StepDescription
+Принеси Стич его телевизор.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group04_Step04_ReadyDescription
+Дай Стич его телевизор.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group05_Step05_DressUp01_StepDescription
+Спортивный топ.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group05_Step05_DressUp02_StepDescription
+Спортивные штаны.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group05_Step05_DressUp03_StepDescription
+Спортивные туфли.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group05_Step05_StepDescription
+Одевайся ради приключений!
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group05_StoryDescription
+Стич в восторге от фильма о монстрах, который вы смотрели вместе. Теперь он хочет отправиться в настоящее приключение и найти себе страшные места и монстров.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group06_Step06_TalkToCharacter01_StepDescription
+Скажи Стич, что ты готов привести его в приключение.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group07_Step07_VisitArea02_StepDescription
+Встретимся с Стич в мистической пещере на пляже Даззл.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group08_Step08_TalkToCharacter02_StepDescription
+Поговори с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group09_Step09_FollowCharacter01_StepDescription
+Следуйте Стич внизу мистической пещеры.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group09_Step09_FollowCharacter01_TalkToDescription
+Поговори с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group10_Step10_VisitArea03_StepDescription
+Встретимся с Стич внутри Урсула House.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group11_Step11_TalkToCharacter03_StepDescription
+Урсула кажется раздражённым вашим вторжением.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group12_Step12_VisitArea04_StepDescription
+Побег в долину Мечты до того, как Стич закончит в саду Урсула!
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group12_StoryDescription
+Урсула сейчас не в настроении для Стич она угрожает превратить маленького голубого пришельца в несчастную душу в своем саду, если он не выйдет.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group13_Step13_TalkToCharacter04_StepDescription
+Поговори с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group14_Step14_Listen01_StepDescription
+Слушайте Ариэль и Стич в долине Мечты.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group15_Step15_TalkToCharacter05_StepDescription
+Поговори с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_Group16_Step16_VisitArea05_StepDescription
+Встретимся с Стич в мистической пещере на пляже Даззл.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

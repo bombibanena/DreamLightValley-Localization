@@ -1,0 +1,138 @@
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Any_CompletedRequestDescription
+Поговори с Мулан о теневой пьесе.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_AvailableDescription
+Мулан хочет поделиться кое-чем из её детства с Dreamlight Valley.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_CompletedStoryDescription
+Похоже, деревенские жители наслаждались теневой игрой, но есть только один способ узнать, соответствует ли она ожиданиям Мулан.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_DisplayName
+Игра Теней
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group01_Step01_Possess01_StepDescription
+<ActivityItem>Tinkering части</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group01_Step01_Possess02_StepDescription
+<ActivityItem>Ropes</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group01_Step01_Possess03_StepDescription
+<ActivityItem>Hardwood</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group01_Step01_Possess04_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group01_Step01_StepDescription
+Соберите материалы для театра Теней:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group01_Step02_StepDescription
+Поговори с Минни Маус.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group01_StoryDescription
+Она рассказывает вам о теневой пьесе, традиционном кукольном театре с детства, она объясняет, что хотела бы поделиться этой частью своей жизни со своими соседями, у неё уже есть идеальная идея рассказать историю, но она нуждается в вашей помощи, чтобы собрать некоторые материалы, пока она пишет сценарий.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group02_Step03_BringItem01_StepDescription
+<ActivityItem>Tinkering части</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group02_Step03_BringItem02_StepDescription
+<ActivityItem>Ropes</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group02_Step03_BringItem03_StepDescription
+<ActivityItem>Hardwood</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group02_Step03_BringItem04_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group02_Step03_ReadyDescription
+Принесите материалы <ActivityItem>Shadow Theater</ActivityItem> на Мулан.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group02_Step03_StepDescription
+Убедитесь, что в вашем списке есть запчасти для <ActivityItem>Shadow Theater</ActivityItem>:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group03_Step04_TalkToCharacter02_StepDescription
+Поговори с Мушу.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group03_StoryDescription
+Как только вы вернёте все обратно в Мулан, она скажет вам, что Мушу решил помочь ей с освещением, но столкнулся с какими-то проблемами. Вы решили поговорить с ним.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group04_Step05_TalkToCharacter03_StepDescription
+Поговори с Мерлин.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group04_StoryDescription
+Мушу объясняет, что у него проблемы с фонарём для шоу. Он не хочет оставаться включенным. Он помнит что-то об использовании специального типа фонаря до Забвения, но он немного нечеткий в деталях. Вы решаете попросить Мерлин о помощи.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group05_Step06_Possess05_StepDescription
+<ActivityItem>Shiny Garnet</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group05_Step06_Possess06_StepDescription
+<ActivityItem>Dream Shards</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group05_Step06_Possess07_StepDescription
+<ActivityItem> Coal</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group05_Step06_StepDescription
+Соберите следующее для <ActivityItem>Empty Draconic Garnet</ActivityItem>:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group05_StoryDescription
+Волшебник объясняет, что решение проблемы Мушу состоит в том, чтобы создать что-то под названием Draconic Garnet.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group06_Step07_CraftItem01_StepDescription
+Подготовьте {ItemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group07_Step08_BringItem05_StepDescription
+Убедитесь, что {ItemName} в вашем списке.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group07_Step08_ReadyDescription
+Возьмите {ItemName} на Мушу.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group07_StoryDescription
+Как только ты его придумаешь, ты отнесёшь его на Мушу.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group08_Step09_BringItem06_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Draconic Garnet</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group08_Step09_ReadyDescription
+Возьмите <ActivityItem>Draconic Garnet</ActivityItem> на Мулан.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group08_StoryDescription
+Мушу заполняет Draconic Garnet своим огнем и поручает вам принести его Мулан.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group09_Step10_Decorate01_StepDescription
+Поставь его на ночь для драматического эффекта.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group09_Step10_StepDescription
+Поместите {itemName} где угодно в долину.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group09_StoryDescription
+Мулан собирает Театр Теней и дает его вам, чтобы установить его. Она позволяет вам определить место, но предлагает подождать до ночи.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group10_Step11_Party01_StepDescription
+Наслаждайтесь теневой игрой Мулан.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Кого мне пойти посмотреть?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Mulan!Mulan!VLG_Mula_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,33 @@
+TAG: Rapunzel_000_f
+Oh, it's so beautiful!
+
+TAG: Rapunzel_001_f
+But there's something missing...
+
+TAG: Player_000_choice_000_f
+We could add some sparkles?
+
+TAG: Player_000_choice_001_f
+It's not floating?
+
+TAG: Player_000_choice_002_f
+I give up. What?
+
+TAG: Rapunzel_002_f
+That would be pretty, but it's not exactly what I meant.
+
+TAG: Rapunzel_003_f
+When I saw those lights in the sky from my tower, it wasn't just the lights that were magical.
+
+TAG: Rapunzel_004_f
+It was also the wish I made and held onto.
+
+TAG: Rapunzel_005_f
+That makes sense. So why don't we <Lore>talk to some other Villagers</Lore> to discover what their wishes are?
+
+TAG: Rapunzel_006_f
+Then we can write their wishes on the lantern before we throw it in the rift! That's perfect, {PlayerName}!
+
+TAG: Rapunzel_007_f
+Well, no, not yet. But that's not what I meant.
+

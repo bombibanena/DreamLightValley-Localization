@@ -1,0 +1,33 @@
+TAG: Ursula_002_f
+Hmm... The food is... tolerable.
+
+TAG: Ursula_003_f
+It doesn't hold a candle to the delicacies I used to enjoy...
+
+TAG: Ursula_004_f
+Before being exiled.
+
+TAG: Ursula_005_f
+But it'll have to do.
+
+TAG: Player_000_f
+I've got an idea. If you want to be impressed... let's go to Scrooge McDuck's General Store.
+
+TAG: Player_000_choice_000_f
+It's the most extravagant place in the Village.
+
+TAG: Player_000_choice_001_f
+Maybe it'll be more to your liking.
+
+TAG: Player_000_choice_002_f
+It's the last idea I have.
+
+TAG: Ursula_006_f
+Sounds intriguing.
+
+TAG: Ursula_000_f
+To Scrooge McDuck's General Store we go!
+
+TAG: Ursula_008_f
+Hmm... Well, if I'm still not impressed, maybe we can make a deal to make this Valley a little more interesting!
+

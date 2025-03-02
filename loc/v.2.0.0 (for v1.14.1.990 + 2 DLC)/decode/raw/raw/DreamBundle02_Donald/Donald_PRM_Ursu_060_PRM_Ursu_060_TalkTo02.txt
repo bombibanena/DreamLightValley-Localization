@@ -1,0 +1,42 @@
+TAG: Donald_001_f
+Oh boy, oh boy, oh boy! It's done!
+
+TAG: Donald_003_f
+But now I don't have anything to give you...
+
+TAG: Player_000_choice_000_f
+Oh, it's okay!
+
+TAG: Player_000_choice_001_f
+It's the intention that counts.
+
+TAG: Player_000_choice_002_f
+I should get used to disappointment.
+
+TAG: Donald_004_f
+No, it's not. You do so much for everyone...
+
+TAG: Donald_007_f
+Oh, I know! We should go to the Restaurant together!
+
+TAG: Donald_008_f
+Let's go!
+
+TAG: Donald_009_f
+Wow, thank you Donald. That was a fun dinner.
+
+TAG: Donald_000_f
+Here! You keep the leftovers.
+
+TAG: Donald_010_f
+Now I should go and confront Ursula...
+
+TAG: Donald_011_f
+Oh, uh... I'd help ya, but Mickey needs me to help him... um, match up all his pairs of gloves! Good luck, {PlayerName}!
+
+TAG: Donald_005_f
+Aw, I never liked that saying. Especially when you do so much for everyone...
+
+TAG: Donald_006_f
+Don't be ridiculous! You do so much for everyone...
+

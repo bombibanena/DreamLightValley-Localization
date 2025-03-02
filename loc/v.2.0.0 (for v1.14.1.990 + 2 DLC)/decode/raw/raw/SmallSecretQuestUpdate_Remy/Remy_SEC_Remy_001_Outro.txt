@@ -1,0 +1,51 @@
+TAG: Remy_000_f
+Hey, {PlayerName}, you're back! Did you have time to bring those meals to Merlin, Mickey, Mr. McDuck, and Goofy?
+
+TAG: Remy_001_f
+How did they react? Did they enjoy 'em?
+
+TAG: Player_000_choice_000_f
+They were really happy.
+
+TAG: Player_000_choice_001_f
+You almost made Merlin cry!
+
+TAG: Player_000_choice_002_f
+Of course they enjoyed them. I made them.
+
+TAG: Remy_002_f
+That's great! I'm glad to hear it.
+
+TAG: Remy_003_f
+And hey... while you were taking care of all that... I thought of a special meal I could make for you.
+
+TAG: Player_001_choice_000_f
+Aw, thanks, Remy.
+
+TAG: Player_001_choice_001_f
+I don't know what to say!
+
+TAG: Player_001_choice_002_f
+You're not gonna make me gather the Ingredients, are you...?
+
+TAG: Remy_004_f
+Anytime, {PlayerName}.
+
+TAG: Remy_005_f
+Here you go... One three-course thank-you for everything you do around here.
+
+TAG: Remy_006_f
+Bon appÃ©tit!
+
+TAG: Remy_007_f
+Well, you don't need to say anything. Except maybe "you're welcome," I guess.
+
+TAG: Remy_008_f
+No, no, no. Don't worry. I already made it.
+
+TAG: Remy_009_f
+Really? Wow. It's pretty incredible when food makes people cry... for the right reasons.
+
+TAG: Remy_010_f
+Ha-ha. Right. I don't know why I even asked. You could turn burnt toast into a five-star meal.
+

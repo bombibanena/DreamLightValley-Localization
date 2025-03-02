@@ -1,0 +1,75 @@
+TAG: Merlin_011_f
+{PlayerName}, some Villagers are getting worried.
+
+TAG: Merlin_002_f
+You see, our memories are getting clouded. We fear the Forgetting may be happening again.
+
+TAG: Merlin_015_f
+Oh, what a big magical mess this all is!
+
+TAG: Player_000_f
+It's the doing of some sort of Dark Entity. It...
+
+TAG: Player_000_choice_000_f
+...cursed a cave.
+
+TAG: Player_000_choice_004_f
+...vanished through a portal.
+
+TAG: Player_000_choice_005_f
+...imprisoned Ursula in a cave.
+
+TAG: Merlin_018_f
+Ah, so it's a Dark Entity that's causing all these curses...
+
+TAG: Merlin_000_f
+If we're to stop the Forgetting from happening again, we must fully understand the situation! The what, the who, and the how!
+
+TAG: Player_002_choice_000_f
+Where do I start?
+
+TAG: Player_002_choice_001_f
+I can't do it alone.
+
+TAG: Player_002_choice_002_f
+I'll NEVER let it happen again!
+
+TAG: Merlin_006_f
+There are a few caves tucked away on the Beach. You must explore them.
+
+TAG: Merlin_013_f
+The cave Ursula mentioned is enshrined in legend. It's called the <Lore>Mystical Cave</Lore>. Once, it was a source of great power.
+
+TAG: Merlin_017_f
+Find the cave, and help the Sea Witch. She always has secrets she's willing to trade for a deal.
+
+TAG: Merlin_004_f
+When the Valley fell into chaos, the Sea Witch fled to a cave by the sea.
+
+TAG: Merlin_001_f
+She must be in the one you saw on the north side of the Beach.
+
+TAG: Merlin_010_f
+Investigate that cave and find her. If there's one thing I know about Ursula, it's that she always has secrets she's willing to trade to make a deal.
+
+TAG: Merlin_014_f
+And you won't! The whole Village is with you, but there's one person in particular that you must find.
+
+TAG: Merlin_019_f
+Someone who understands power and magic quite well...
+
+TAG: Merlin_021_f
+Ursula, the Sea Witch.
+
+TAG: Merlin_020_f
+I know you won't! And it's exactly that kind of conviction we need.
+
+TAG: Merlin_016_f
+Because sometimes you must trust the untrustworthy...
+
+TAG: Merlin_022_f
+Oh, blast it all! A Dark Entity moving through portals. That must be why the curses appear in so many places.
+
+TAG: Merlin_023_f
+This Dark Entity must be quite powerful to manage such a thing.
+

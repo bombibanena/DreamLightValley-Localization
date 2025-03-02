@@ -1,0 +1,12 @@
+TAG: Scrooge_000_f
+Well done, {PlayerName}! A Grand Opening in due form!
+
+TAG: Scrooge_001_f
+I'm sure folks will flock to this fine establishment in no time.
+
+TAG: Scrooge_002_f
+And since you're both my best employee and my best customer, I have something for you, too.
+
+TAG: Scrooge_003_f
+Here ya are!
+

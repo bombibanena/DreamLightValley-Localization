@@ -1,0 +1,75 @@
+TAG: Merlin_000_f
+Oswald, I've got a funny question for you.
+
+TAG: Merlin_001_f
+Don't you worry, chum. I'm used to funny business. Spring it on me and I'll tell ya what's what.
+
+TAG: Merlin_002_f
+You've probably noticed things around the Isle are turning black and white...
+
+TAG: Merlin_003_f
+...including my friend Mickey.
+
+TAG: Merlin_004_f
+Merlin told me we need to "use our imaginations" to close the Time Rifts...
+
+TAG: Merlin_005_f
+Oh-hoo-hoo! Have you come to the right rabbit!
+
+TAG: Merlin_006_f
+See, I been doin' some experiments of my own. Ya know, tossin' a few things into those time rift-y thingummys to see what happens...
+
+TAG: Player_000_choice_000_f
+Oswald, that sounds dangerous!
+
+TAG: Player_000_choice_001_f
+Did you discover anything?
+
+TAG: Merlin_007_f
+You bet it was! And fun, too!
+
+TAG: Merlin_008_f
+Mostly nothin' happened when I threw stuff in the rifts...
+
+TAG: Merlin_009_f
+...but THEN I drew somethin' funny on a napkin and tossed that in. After that, all I had to do was think about the rift closin' and BAM! It zipped right up!
+
+TAG: Merlin_010_f
+That's it! So all we have to do is make something using our imaginations and toss it into the rifts?
+
+TAG: Merlin_011_f
+Sure seems like it. Except... When I tried it again, I got bupkus!
+
+TAG: Merlin_012_f
+I think each rift's gotta be closed by <Lore>a different joe's imagination</Lore>.
+
+TAG: Player_001_choice_000_f
+Got any tips for using my imagination?
+
+TAG: Player_001_choice_001_f
+Got it. I'll go ask some people.
+
+TAG: Merlin_013_f
+Absopositively!
+
+TAG: Merlin_014_f
+Maximizin' your imagination is all about usin' what you got but in funny kindsa ways!
+
+TAG: Merlin_015_f
+Ya know, like lookin' at stuff and askin' what else it could be instead. Is a hat only a hat? OR is it also a giant soup bowl that leaks real slooooowly?!
+
+TAG: Merlin_016_f
+Say, maybe you could try <Lore>askin' Rapunzel, Gaston, EVE, and that Mickey fella you mentioned</Lore>?
+
+TAG: Merlin_017_f
+Sounds like Mickey's in heaps of trouble, so I bet he'd love to help.
+
+TAG: Merlin_018_f
+That Rapunzel sure has a great imagination.
+
+TAG: Merlin_019_f
+Gaston... well, since he imagines he's such a swell guy, he could prob'ly imagine just about anything.
+
+TAG: Merlin_020_f
+And as for that clankin' contraption, EVE? Gee, I'd sure like to find out what she could imagine if she put her gears to it!
+

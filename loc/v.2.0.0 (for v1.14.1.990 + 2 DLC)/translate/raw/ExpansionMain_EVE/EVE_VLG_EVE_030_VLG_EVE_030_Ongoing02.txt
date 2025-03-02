@@ -1,0 +1,6 @@
+TAG: EVE_000_f
+Инструкция?
+
+TAG: EVE_001_f
+Теперь, когда у меня есть все, я могу создать аксессуар <ActivityItem>Scanner</ActivityItem>.
+

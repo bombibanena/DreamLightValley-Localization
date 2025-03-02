@@ -1,0 +1,9 @@
+TAG: MotherGothel_000_f
+Энергия <ActivityItem>Dusk Fragment</ActivityItem> требует восстановления всего дня.
+
+TAG: MotherGothel_001_f
+Относитесь к нему как к <ActivityItem>Crop</ActivityItem>, чтобы он мог поглотить энергию Долины.
+
+TAG: MotherGothel_002_f
+Спрячь его в забытых землях и не забудь полить.
+

@@ -1,0 +1,45 @@
+TAG: Stitch_002_f
+Stitch wants to make music.
+
+TAG: Stitch_003_f
+{PlayerName} help find other musicians to be in band?
+
+TAG: Stitch_004_f
+Musicians like the King!
+
+TAG: Player_000_choice_000_f
+Let's get a band together!
+
+TAG: Player_000_choice_001_f
+I'll help you some other time.
+
+TAG: Stitch_005_f
+Yeah! Stitch be in a band! Making music TOGETHER much more fun.
+
+TAG: Stitch_007_f
+Hmm... Stitch's band should be... trio. Yeah, trio. You help find two other players?
+
+TAG: Stitch_008_f
+Sure... I think someone around here plays the lute â that's like a funny guitar... And someone else plays the flute.
+
+TAG: Stitch_009_f
+Lute... flute. That rhymes! Like a song!
+
+TAG: Stitch_010_f
+You got it. You keep practicing while I try to <Lore>find Villagers to be part of your band.</Lore>
+
+TAG: Stitch_011_f
+Yeah. Yeah. I practice hip swivel to be model citizen.
+
+TAG: Stitch_012_f
+Hmm... Stitch's band should be... duo. Yeah, duo. You help find one more player?
+
+TAG: Stitch_013_f
+Sure... I think someone around here plays the lute â that's like a funny guitar.
+
+TAG: Stitch_014_f
+You keep practicing while I try to <Lore>find another Villager to be part of your band.</Lore>
+
+TAG: Stitch_006_f
+Okitaka. Stitch practice hip swivels to be model citizen.
+

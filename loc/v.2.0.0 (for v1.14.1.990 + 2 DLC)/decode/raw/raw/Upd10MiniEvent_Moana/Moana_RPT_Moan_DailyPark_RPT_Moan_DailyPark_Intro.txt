@@ -1,0 +1,84 @@
+TAG: Moana_000_f
+Hi {PlayerName}!
+
+TAG: Player_001_choice_000_f
+What's up?
+
+TAG: Player_001_choice_001_f
+I'm a little busy to talk now.
+
+TAG: Moana_008_f
+{PlayerName}, I'm glad I found you!
+
+TAG: Moana_011_f
+I was hoping we could give the other Villagers another festival treat.
+
+TAG: Moana_012_f
+Everyone really loves those <ActivityItem>Princess Aurora Cupcakes</ActivityItem> you made.
+
+TAG: Moana_013_f
+There's something about that tart raspberry flavor with the sweetness that just kind of makes you smile.
+
+TAG: Moana_014_f
+Do you think you could make another batch? And could you help me share them with the Villagers?
+
+TAG: Moana_009_f
+Oh, {PlayerName}! Do you think you could make some more <ActivityItem>Princess Aurora Cupcakes</ActivityItem> so we can give them to the Villagers?
+
+TAG: Moana_015_f
+My father always says a leader should make sure that others have enough to eat before worrying about themselves.
+
+TAG: Moana_016_f
+I don't think he has cupcakes in mind, but the lesson about sharing is the same!
+
+TAG: Moana_017_f
+Would you like to help me do something fun to celebrate the Dreamlight Parks Fest?
+
+TAG: Moana_018_f
+I was thinking we could make more of those <ActivityItem>Princess Aurora Cupcakes</ActivityItem>.
+
+TAG: Moana_019_f
+I don't know Princess Aurora, or maybe that's just the Forgetting. But whoever she is, she has great taste in cupcakes!
+
+TAG: Moana_020_f
+Could you bake some and help me hand out these cupcakes?
+
+TAG: Moana_001_f
+Are you enjoying the festival?
+
+TAG: Player_000_choice_000_f
+The Dreamlight Parks Fest is great.
+
+TAG: Player_000_choice_001_f
+Who doesn't love a celebration?
+
+TAG: Player_000_choice_002_f
+I haven't had a chance to celebrate!
+
+TAG: Moana_002_f
+I agree! There's so much to do and see. It feels like we've voyaged to another Valley!
+
+TAG: Moana_005_f
+One of my favorite things about the festival BEFORE the Forgetting, were these special cakes...
+
+TAG: Moana_006_f
+Everyone called them <ActivityItem>Princess Aurora Cupcakes<ActivityItem>.
+
+TAG: Moana_021_f
+I'd never had raspberries until I got here. And the cakes were so bright and delicious!
+
+TAG: Moana_007_f
+Now, the tradition is that we share them with the other Villagers.
+
+TAG: Moana_023_f
+Do you think you could help me with that? Oh, and be sure to come see me afterwards. I have something special for you.
+
+TAG: Moana_003_f
+Right?! On Motunui we have all kinds of different celebrations.
+
+TAG: Moana_004_f
+Well, I have a fun way to get into the spirit of things, if you're interested.
+
+TAG: Moana_010_f
+Okay, I understand. Maybe later then?
+

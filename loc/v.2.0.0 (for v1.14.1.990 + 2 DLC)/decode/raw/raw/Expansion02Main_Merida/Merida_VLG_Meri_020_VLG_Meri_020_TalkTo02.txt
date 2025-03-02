@@ -1,0 +1,60 @@
+TAG: Merida_003_f
+Merida... Flynn tells me that you stuck some posters up around his House.
+
+TAG: Merida_004_f
+Do these look familiar to you?
+
+TAG: Merida_005_f
+Hmm? Oh, definitely. That's Flynn, all right.
+
+TAG: Merida_006_f
+They really captured his nose, don't you think?
+
+TAG: Player_000_choice_000_f
+I've gotta admit, that's pretty funny.
+
+TAG: Player_000_choice_002_f
+That's not nice, Merida.
+
+TAG: Merida_007_f
+Hee-hee. That'll show him.
+
+TAG: Merida_017_f
+What sort of person leaves a collection of his own wanted posters just lying about anyway?
+
+TAG: Merida_000_f
+I bet he takes them out and just looks at himself every day.
+
+TAG: Merida_010_f
+Well, has he learned his lesson yet?
+
+TAG: Player_001_choice_000_f
+Definitely.
+
+TAG: Player_001_choice_001_f
+I think so.
+
+TAG: Player_001_choice_002_f
+No. But he's getting there.
+
+TAG: Merida_011_f
+Good. Then, as long as he leaves me alone, I'll leave him alone.
+
+TAG: Merida_012_f
+It would be best if we could all get along. You and Flynn aren't so different.
+
+TAG: Merida_013_f
+I'll bet you would be really good friends if you just got to know one another.
+
+TAG: Merida_015_f
+We don't ALL have to be friends around here. But if you REALLY insist...
+
+TAG: Merida_014_f
+Back home, the clans would get together and talk out their disputes over a grand feast.
+
+TAG: Merida_016_f
+Great idea! I'll whip something up for you! You invite Flynn and I'll bring a meal from right here in the Bind for you.
+
+TAG: Merida_009_f
+Hmph. He ought to be happy I didn't use them for target practice.
+

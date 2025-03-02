@@ -1,0 +1,81 @@
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Any_CompletedRequestDescription
+Talk to Ursula.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_AvailableDescription
+Despite being freed, Ursula is still missing something. You decide to find out what it is.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_CompletedStoryDescription
+You brought Ursula everything she needs. She'll probably be very grateful. The next person who signs a deal with her... not so much.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_DisplayName
+Lair Sweet Lair
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group01_Step01_PlaceHouse01_StepDescription
+Place Ursula's House in the water.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group01_StoryDescription
+Since she's out of the cave, Ursula needs a proper lair. It's up to you to make sure she gets it.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group02_Step02_Unlock01_StepDescription
+Use the Scrooge McDuck Sign to finish building Ursula's House.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group03_Step03_TalkToCharacter01_StepDescription
+Talk to Merlin about what to do about Ursula's request.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group03_StoryDescription
+Now that she has a new home, Ursula wants to start making deals again. To do so, she needs some <ActivityItem>Paper</ActivityItem> and asks you to steal some for her contracts. Instead of sneaking into Villagers' homes, you talk openly with Merlin.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group04_Step05_TalkToCharacter02_StepDescription
+Talk to Ursula to see what she thinks of her new home.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group05_Step04_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group05_Step06_CraftItem01_StepDescription
+Craft {ItemName}.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group05_Step06_CraftItem02_StepDescription
+Craft {ItemName}.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group05_StepDescription
+Gather the following items to craft the <ActivityItem>Magical Scroll and Ink Kit</ActivityItem>:
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group06_Step07_CraftItem03_StepDescription
+Craft the <ActivityItem>Magical Scroll and Ink Kit</ActivityItem>.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group06_StoryDescription
+Once you've gathered the materials for the <ActivityItem>Magical Scroll and Ink Kit</ActivityItem>, it's time to craft them.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group07_Step08_ReadyDescription
+Bring the <ActivityItem>Paper</ActivityItem> to Ursula.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group07_Step08_StepDescription
+Gather <ActivityItem>Paper</ActivityItem> for Ursula from the Village's houses.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_Group08_StepDescription
+Bring the <ActivityItem>Magical Scroll and Ink Kit</ActivityItem> to Ursula.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

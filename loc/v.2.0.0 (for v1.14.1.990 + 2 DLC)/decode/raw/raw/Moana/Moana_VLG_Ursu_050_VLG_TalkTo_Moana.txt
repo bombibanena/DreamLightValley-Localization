@@ -1,0 +1,45 @@
+TAG: Moana_000_f
+Hi, {PlayerName}. Wow, you seem busy. Can I help you with anything?
+
+TAG: Player_000_choice_000_f
+Ursula told me to talk to you...
+
+TAG: Player_000_choice_001_f
+Have you found any seashells lately?
+
+TAG: Player_000_choice_002_f
+So I'm doing this spell and...
+
+TAG: Moana_001_f
+The Sea Witch... Are you sure it's a good idea to listen to her?
+
+TAG: Player_001_choice_000_f
+She's hungry for power.
+
+TAG: Player_001_choice_001_f
+She's a necessary evil...
+
+TAG: Moana_005_f
+Yeah, she reminds of a giant crab I met... I hope you don't get caught in whatever she's up to.
+
+TAG: Moana_009_f
+You said she asked you to get a seashell from me?
+
+TAG: Moana_007_f
+Well, I did find this on the Beach. I thought it was a gift from the ocean but maybe it's a gift to you. Be careful!
+
+TAG: Moana_010_f
+And she asked you to get a seashell... from me?
+
+TAG: Moana_002_f
+Actually, I did! I thought it was a nice present from the ocean, but I'm starting to think maybe it wasn't for me at all!
+
+TAG: Moana_004_f
+Here. It's all yours!
+
+TAG: Moana_008_f
+I need a seashell... from you.
+
+TAG: Moana_003_f
+Oh, okay. I guess the ocean must've known. Look what I found on the Beach...
+

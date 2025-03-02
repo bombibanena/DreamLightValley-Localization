@@ -1,0 +1,123 @@
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Any_CompletedRequestDescription
+Поговори с Мушу о его вечеринке.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_AvailableDescription
+Мушу хочет с вами кое о чем поговорить.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_CompletedStoryDescription
+В конце праздника ты свяжешься с Мушу, чтобы узнать, как он себя чувствует.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_DisplayName
+Партия стражей
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group01_Step01_StepDescription
+Знакомьтесь Мушу в <Lore>Vitalis Mines</Lore>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group01_StoryDescription
+Мушу хочет устроить праздник в Долине!
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group02_StepDescription
+Поговори с Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group03_Step03_ReadyDescription
+Зверь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group03_Step04_ReadyDescription
+Мулан.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group03_Step05_ReadyDescription
+Симба.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group03_Step06_ReadyDescription
+Мирабель.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group03_StepDescription
+Доставьте приглашения на празднование Мушу его гостям.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group03_StoryDescription
+После поиска места в шахтах Виталий Мушу просит вас доставить приглашения, пока он декорирует.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group04_Step08_TalkToCharacter02_StepDescription
+Сообщите {TargetNPC} о его гостях.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group05_Step09_Possess01_StepDescription
+Кирпичи.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group05_Step09_Possess02_StepDescription
+Лэндвуд.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group05_Step09_Possess03_StepDescription
+Руби.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group05_Step09_Possess04_StepDescription
+Золотые слитки.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group05_StepDescription
+Собирайте материалы для <ActivityItem>Modular Dragon Decorations</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group05_StoryDescription
+Мушу просит вас приготовить несколько специальных декораций драконов, чтобы вся деревня была в восторге от его вечеринки.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group06_Step10_CraftItem01_StepDescription
+Модулярная голова дракона.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group06_Step10_CraftItem02_StepDescription
+Тело модулярного дракона.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group06_Step10_CraftItem03_StepDescription
+Модулярный Драконский Хвост.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group06_StepDescription
+Два полных <ActivityItem>Modular Dragon Decorations</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group07_Step11_Decorate01_StepDescription
+Модулярная голова дракона.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group07_Step11_Decorate02_StepDescription
+Тело модулярного дракона.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group07_Step11_Decorate03_StepDescription
+Модулярный Драконский Хвост.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group07_Step11_StepDescription
+Украсить деревню полными декорациями <ActivityItem>Modul Dragon</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group08_StepDescription
+Возвращайтесь в шахты <Lore>Vitalis</Lore>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group09_Step13_TalkToCharacter03_StepDescription
+Поговорите с Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group10_Step14_Interaction01_StepDescription
+Позвони гонгу, чтобы начать празднование Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group10_Step15_StepDescription
+Одевайтесь в красное и золотое для праздника.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group11_Step16_StepDescription
+Поговори с Мушу о праздновании.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group12_Step17_Conditional01_StepDescription
+Охота на красную палочку.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group12_Step17_Conditional02_StepDescription
+Готовка<ActivityItem>Sesame Balls</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group12_Step17_Conditional03_StepDescription
+Мушу's Pieäata Extravaganza.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group12_Step17_StepDescription
+Полная праздничная деятельность.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group12_StoryDescription
+Вечеринка начинается! Мушу приглашает вас принять участие в трех специальных мероприятиях, которые он планировал: приготовление "Сезам Боллс", охота на красную палочку и качели в какой-то специфической "Пиата".
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group13_Step18_TalkToCharacter05_StepDescription
+Подытожи вечеринку {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_Group14_Step19_TakePicture01_StepDescription
+Сфотографируй Мушу на празднике.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

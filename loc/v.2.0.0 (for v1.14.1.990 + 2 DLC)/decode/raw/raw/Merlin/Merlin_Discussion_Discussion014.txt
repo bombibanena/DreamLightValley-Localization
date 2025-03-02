@@ -1,0 +1,96 @@
+TAG: Merlin_000_f
+What small discoveries will you make today, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+Well, I'm talking to you.
+
+TAG: Player_000_choice_001_f
+I don't know.
+
+TAG: Player_000_choice_002_f
+Small discoveries? What do you mean?
+
+TAG: Merlin_001_f
+Indeed! A conversation can be full of discoveries. What will we say? What will we think?
+
+TAG: Merlin_004_f
+Where might our inquiry lead us?
+
+TAG: Player_001_choice_000_f
+Hopefully somewhere useful.
+
+TAG: Player_001_choice_001_f
+Probably just around in circles.
+
+TAG: Player_001_choice_002_f
+You make talking to someone sound more exciting than it is...
+
+TAG: Merlin_005_f
+Practical conversations, with purpose and reason, are quite valuable.
+
+TAG: Merlin_008_f
+But there are many discoveries to be found in the free flow of thought as well.
+
+TAG: Merlin_006_f
+Well, when you don't know exactly where you're going, sometimes you get there faster going in circles instead of keeping to a straight line.
+
+TAG: Merlin_007_f
+Everything can be exciting with the correct perspective.
+
+TAG: Merlin_002_f
+How exciting! Not knowing quite what will happen next. The thrill of discovery!
+
+TAG: Player_002_choice_000_f
+Yeah!
+
+TAG: Player_002_choice_001_f
+Maybe?
+
+TAG: Player_002_choice_002_f
+It actually makes me nervous.
+
+TAG: Merlin_009_f
+Well, good luck on your journey, my friend!
+
+TAG: Merlin_010_f
+Ahh... you respond to uncertainty with more uncertainty. A perfectly appropriate response.
+
+TAG: Merlin_011_f
+Well, being anxious is perfectly understandable. Just don't let it thwart your curiosity.
+
+TAG: Merlin_012_f
+One must be ready for uncertainty before one can thrive in it.
+
+TAG: Merlin_003_f
+Well, anything can be an opportunity for discovery, if you have the proper attitude.
+
+TAG: Merlin_013_f
+For example, a trip to Goofy's Stall. Who knows what one will discover in his inventory today?
+
+TAG: Player_003_choice_000_f
+That doesn't sound very exciting.
+
+TAG: Player_003_choice_001_f
+EPIC APPLE VS. PEAR DILEMMA.
+
+TAG: Player_003_choice_002_f
+Being around Goofy is always full of surprises.
+
+TAG: Merlin_014_f
+Perhaps not on an ordinary day. But what if today is extraordinary?
+
+TAG: Merlin_017_f
+The choice is yours.
+
+TAG: Merlin_015_f
+Goodness, you're certainly getting into the spirit of things.
+
+TAG: Merlin_016_f
+Ah, yes. His boundless kindness, his unique wisdom...
+
+TAG: Merlin_018_f
+...and his occasional prodigious clumsiness...
+
+TAG: Merlin_019_f
+Well, there's no one quite like Goofy, is there?
+

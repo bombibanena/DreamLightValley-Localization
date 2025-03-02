@@ -1,0 +1,54 @@
+TAG: FairyGodMother_000_f
+Oh, {PlayerName}, these desserts look scrumptious!
+
+TAG: FairyGodMother_001_f
+I'm sure Ursula will be most pleased with them.
+
+TAG: Player_000_choice_000_f
+Ursula?!
+
+TAG: Player_000_choice_001_f
+Are you and Ursula friends?
+
+TAG: Player_000_choice_002_f
+I hope you didn't get sucked into a deal with her.
+
+TAG: FairyGodMother_002_f
+That's right, dear.
+
+TAG: FairyGodMother_005_f
+You see, she was telling me the other day how unappreciated she feels...
+
+TAG: FairyGodMother_006_f
+...and how sure she is that no one ever does an act of kindness for another without wanting something in return.
+
+TAG: FairyGodMother_007_f
+I'm hoping this will show her that's simply not true.
+
+TAG: Player_001_choice_000_f
+How thoughtful!
+
+TAG: Player_001_choice_001_f
+I'm sure Ursula will appreciate it.
+
+TAG: Player_001_choice_002_f
+You're wasting your time trying to be nice to her.
+
+TAG: FairyGodMother_008_f
+That's kind of you to say.
+
+TAG: FairyGodMother_010_f
+Now, off you go. Don't delay! Show Ursula that kindness is always the way.
+
+TAG: FairyGodMother_009_f
+That's my wish.
+
+TAG: FairyGodMother_011_f
+Oh, {PlayerName}. You ought to know that no gift is ever wasted. Giving is itself a marvelous reward.
+
+TAG: FairyGodMother_003_f
+I'll simply say that I'm hoping one day Ursula will see that a friend is a wonderful thing to be.
+
+TAG: FairyGodMother_004_f
+A deal? Oh no, nothing like that.
+

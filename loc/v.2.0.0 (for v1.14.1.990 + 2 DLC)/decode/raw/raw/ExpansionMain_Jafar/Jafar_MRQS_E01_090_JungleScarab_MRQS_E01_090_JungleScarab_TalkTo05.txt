@@ -1,0 +1,63 @@
+TAG: Jafar_000_f
+Finally! My plan has reached fruition.
+
+TAG: Jafar_015_f
+The Jewel of Time is nearly in our grasp.
+
+TAG: Jafar_001_f
+We are very close to putting right all that threatens Eternity Isle.
+
+TAG: Player_000_choice_000_f
+I got this.
+
+TAG: Player_000_choice_001_f
+You're welcome.
+
+TAG: Player_000_choice_002_f
+I feel like I did all the work.
+
+TAG: Jafar_002_f
+Your confidence is... reassuring.
+
+TAG: Jafar_005_f
+However, before you venture forth, it is important that I pass along the following information:
+
+TAG: Jafar_007_f
+Only a Diamond in the Rough may enter my vault.
+
+TAG: Player_001_choice_003_f
+What does that even mean?
+
+TAG: Player_001_choice_004_f
+Poor Gaston.
+
+TAG: Jafar_020_f
+No matter what their manner of speaking or dress... only the pure of heart may enter.
+
+TAG: Jafar_018_f
+Jafar, I'll be able to get in, right?
+
+TAG: Jafar_019_f
+Oh, {PlayerName}, false modesty does not become you.
+
+TAG: Jafar_022_f
+Touch the two pieces of the Scarab Key together, and it will lead you to my vault.
+
+TAG: Jafar_023_f
+That's quite the security system...
+
+TAG: Jafar_024_f
+The Jewel of Time is priceless, {PlayerName}. I must keep it protected.
+
+TAG: Jafar_014_f
+All right, I'll tell Gaston the bad news and be off.
+
+TAG: Jafar_009_f
+Do not let his disappointment distract you.
+
+TAG: Jafar_003_f
+You want approval after every step? How tiring.
+
+TAG: Jafar_004_f
+You could not be more wrong. After all, I have guided your every move.
+

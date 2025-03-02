@@ -1,0 +1,48 @@
+TAG: Gaston_001_f
+Hey Gaston, I got the furniture for you. Ready to set it all up for me?
+
+TAG: Gaston_002_f
+Of course! No one can lift heavy furniture like Gaston!
+
+TAG: Gaston_003_f
+Thanks, I've been so busy with the planning; this is a huge help.
+
+TAG: Gaston_004_f
+Hmm... where is the judge going to sit?
+
+TAG: Gaston_005_f
+Oh, I guess I hadn't thought about that yet. I still need to talk to Oswald to see who will be taking that role during the trial.
+
+TAG: Gaston_006_f
+{PlayerName}... I have an idea.
+
+TAG: Player_000_choice_000_f
+That's a first.
+
+TAG: Player_000_choice_001_f
+You do? I'm all ears!
+
+TAG: Gaston_007_f
+No, it's not. I have an excellent idea at least once a month! Now then...
+
+TAG: Gaston_010_f
+The judge is the most important person in a trial, right?
+
+TAG: Gaston_011_f
+Sure, I guess you could say that.
+
+TAG: Gaston_012_f
+Well, then the judge deserves a powerful chair! And I know just the one...
+
+TAG: Gaston_013_f
+I'll set it up with the rest of the other furnishings now.
+
+TAG: Gaston_014_f
+Oh, that's very helpful of you, Gaston, thanks!
+
+TAG: Gaston_008_f
+No, you're not. I can see you only have two ears. Though, "all ears" wouldn't be the strangest thing I've seen here.
+
+TAG: Gaston_009_f
+It's a figure of speech, Gaston. What's your idea?
+

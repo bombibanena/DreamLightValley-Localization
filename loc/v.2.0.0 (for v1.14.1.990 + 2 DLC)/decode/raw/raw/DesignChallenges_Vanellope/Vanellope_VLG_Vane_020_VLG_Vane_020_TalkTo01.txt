@@ -1,0 +1,57 @@
+TAG: Vanellope_000_f
+That's it?! That's what you do for fun around here?! I got news for you, chum...
+
+TAG: Vanellope_001_f
+Those aren't games. They're hobbies at best and WORK at worst!
+
+TAG: Player_000_choice_000_f
+That's a little harsh.
+
+TAG: Player_000_choice_001_f
+We'll find something else for you to try.
+
+TAG: Player_000_choice_002_f
+Please meditate on your need for adrenaline.
+
+TAG: Vanellope_002_f
+Hey, I'm just callin' 'em like I see 'em.
+
+TAG: Vanellope_003_f
+We tried things your way, now we try mine! I have just invented a mind-blowing game.
+
+TAG: Vanellope_004_f
+I hide somewhere in the Valley, and you have to come FIND me.
+
+TAG: Vanellope_005_f
+Do you mean "hide-and-seek"? That game already exists.
+
+TAG: Vanellope_006_f
+Pfft, please! This isn't some kid's game. This is EXTREME. I'm gonna pick one of the <Lore>darkest, most dangerous spots</Lore> in the Valley.
+
+TAG: Player_001_choice_000_f
+Sounds fun! I'm in!
+
+TAG: Player_001_choice_001_f
+Are there any special rules?
+
+TAG: Player_001_choice_002_f
+Again, this is LITERALLY just hide-and-seek.
+
+TAG: Vanellope_007_f
+Yes! I knew I could count on you, {PlayerName}! Let's play!
+
+TAG: Vanellope_008_f
+You go inside somewhere so I can hide. Maybe <Lore>try Mr. McDuck's shop, and don't forget to count to ten.</Lore>
+
+TAG: Vanellope_009_f
+Just one...
+
+TAG: Vanellope_010_f
+It's not! You'll see, I promise!
+
+TAG: Vanellope_011_f
+Worry not, my friend! I'm on it!
+
+TAG: Vanellope_012_f
+"Meditate"? Are you hearing yourself?!
+

@@ -1,0 +1,39 @@
+TAG: Mirabel_000_f
+{PlayerName}! I'm so glad to see you. I really need your help!
+
+TAG: Mirabel_010_f
+I was trying to make stuffed toys that look like some of my cousin Antonio's animal friends...
+
+TAG: Mirabel_001_f
+So I borrowed a book of sewing patterns â <ActivityItem>Crafty Creatures</ActivityItem> â from the Library. But then I saw Remy, and he wanted me to taste the new arepas he made, which of course I had to do... and now I can't find the book!
+
+TAG: Player_000_choice_000_f
+That's just what I'm here to talk to you about!
+
+TAG: Player_000_choice_001_f
+How did you lose it?
+
+TAG: Player_000_choice_002_f
+You're not the only one who's lost a book around here.
+
+TAG: Mirabel_003_f
+Really?! Phew! That's a relief.
+
+TAG: Mirabel_007_f
+The last place I remember having it was in the Plaza when I was feeding the squirrels.
+
+TAG: Mirabel_008_f
+I'll start by <Lore>looking in the Plaza</Lore>.
+
+TAG: Mirabel_004_f
+Well... The Valley is so amazing, and there's always something happening.
+
+TAG: Mirabel_006_f
+So, I must have gotten distracted.
+
+TAG: Mirabel_005_f
+Really? Well, the Valley IS pretty amazing.
+
+TAG: Mirabel_009_f
+And there's always something happening. So I guess I'm not the only one who can get distracted.
+

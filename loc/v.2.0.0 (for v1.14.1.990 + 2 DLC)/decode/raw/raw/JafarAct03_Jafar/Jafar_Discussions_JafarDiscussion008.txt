@@ -1,0 +1,30 @@
+TAG: Jafar_000_f
+You have done a great deal of exploring, {PlayerName}.
+
+TAG: Jafar_001_f
+Have you encountered any interesting Ancient artifacts left behind by the Valley's predecessors?
+
+TAG: Player_000_choice_000_f
+There's a cave of statues on the beach.
+
+TAG: Player_000_choice_001_f
+Why do you want to know?
+
+TAG: Player_000_choice_002_f
+Nothing I'd tell YOU about.
+
+TAG: Jafar_002_f
+Is there? I will have to go and examine it.
+
+TAG: Jafar_003_f
+Mere curiosity. As you know, I have made a study of them.
+
+TAG: Jafar_004_f
+It is nothing sinister. I assure you.
+
+TAG: Jafar_005_f
+Such distrust. You wound me to the quick with your suspicions.
+
+TAG: Jafar_006_f
+The vizier doth protest too much, methinks.
+

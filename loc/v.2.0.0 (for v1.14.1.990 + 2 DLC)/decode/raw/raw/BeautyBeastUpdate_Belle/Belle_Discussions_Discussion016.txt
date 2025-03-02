@@ -1,0 +1,63 @@
+TAG: Belle_000_f
+Yes, I am. I'm worried that Gaston is bothering the other Villagers.
+
+TAG: Belle_001_f
+He's already challenged WALLÂ·E to an egg-eating contest...
+
+TAG: Belle_002_f
+Claimed that he has the best chin in the Village...
+
+TAG: Belle_003_f
+And tried to recruit Olaf as his new personal helper.
+
+TAG: Player_000_choice_000_f
+I'm not sure WALLÂ·E eats food at all...
+
+TAG: Player_000_choice_001_f
+He does have a solid chin.
+
+TAG: Player_000_choice_002_f
+Olaf is a sweetie; he'd probably agree if he thought it would make Gaston happy!
+
+TAG: Belle_004_f
+I tried to explain that.
+
+TAG: Belle_005_f
+What is your impression, {PlayerName}? Do you think Gaston is going too far?
+
+TAG: Player_001_choice_000_f
+I can't lie â it's kinda hilarious!
+
+TAG: Player_001_choice_001_f
+I'm sure he'll settle down soon.
+
+TAG: Player_001_choice_002_f
+Oh, I see why you're worried...
+
+TAG: Belle_006_f
+I suppose he's not harming anyone...
+
+TAG: Belle_007_f
+But I don't want him to ruin the peacefulness we have here.
+
+TAG: Belle_008_f
+If I run into him, maybe we'll have a little chat about boundaries.
+
+TAG: Belle_009_f
+That would be very helpful, {PlayerName}.
+
+TAG: Belle_010_f
+I hope so.
+
+TAG: Belle_011_f
+There's so much peace and happiness here. I wouldn't want him to spoil that.
+
+TAG: Belle_012_f
+I knew you'd understand.
+
+TAG: Belle_013_f
+Yes, he's very proud of that cleft.
+
+TAG: Belle_014_f
+And that's just what I'm worried about!
+

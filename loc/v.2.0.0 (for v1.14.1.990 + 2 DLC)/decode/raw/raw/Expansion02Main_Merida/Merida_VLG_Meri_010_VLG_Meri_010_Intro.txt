@@ -1,0 +1,60 @@
+TAG: Merida_001_f
+Ah, jings, crivvens, help ma boab!
+
+TAG: Merida_015_f
+I've had enough of these wee flying Snippets! I swear they think my hair is fair game for building their nests.
+
+TAG: Merida_002_f
+{PlayerName}, could I help you put that Royal Net of yours to work catching more of them?
+
+TAG: Merida_003_f
+I've got loads of Clan DunBroch wisdom about tracking creatures that I learned from my dad. What do you say?
+
+TAG: Player_000_choice_000_f
+Sure! Let's hunt some Snippets!
+
+TAG: Player_000_choice_001_f
+I'm a bit busy right now.
+
+TAG: Merida_004_f
+That's grand! We'll make a whole day of it.
+
+TAG: Merida_006_f
+Now, the first rule my dad taught me, when I was only as tall as his knee and he was teaching me to use my bow out on the moors, is...
+
+TAG: Merida_007_f
+You start by <Lore>controlling the terrain</Lore>. You'll never have any luck catching Snippets if you're stumbling over all this rubble.
+
+TAG: Player_001_choice_000_f
+This place IS still a bit of a mess.
+
+TAG: Player_001_choice_001_f
+But how do I get rid of all the rubble?
+
+TAG: Player_001_choice_002_f
+I'm clumsy enough even with NOTHING in my way.
+
+TAG: Merida_009_f
+Can you imagine living here all that time with this mess and clarty ink everywhere?
+
+TAG: Merida_011_f
+We're lucky you showed up when you did.
+
+TAG: Merida_008_f
+I say we start with the <Lore>Mossy Logs</Lore>.
+
+TAG: Merida_012_f
+<Lore>Follow me</Lore> and I'll show you.
+
+TAG: Merida_010_f
+I think I've got a way. But we'll have to find some of it just to be sure.
+
+TAG: Merida_013_f
+Don't be so harsh on yourself. You're already quite good at swinging that Royal Net around.
+
+TAG: Merida_016_f
+The problem is there's so much in your way while you're trying to do it.
+
+TAG: Merida_005_f
+Well, all right. I'll just keep swatting at them till they buzz off!
+

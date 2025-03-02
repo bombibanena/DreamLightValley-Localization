@@ -1,0 +1,33 @@
+TAG: Merlin_000_f
+Ah, yes! There you are, {PlayerName}! Thank you for this collection of insectorum.
+
+TAG: Merlin_002_f
+How was battling the infestation with Timon and Pumbaa?
+
+TAG: Player_000_choice_000_f
+We make a great team!
+
+TAG: Player_000_choice_001_f
+Bug hunting is intense.
+
+TAG: Player_000_choice_002_f
+I never want to see a bug again. EVER.
+
+TAG: Merlin_005_f
+Given the multitude of mites you've delivered to me, I should say so. Your teamwork has saved the Valley.
+
+TAG: Merlin_001_f
+While you were catching the Night Mites, I was working on a cleansing enchantment to ensure they are safe enough to eat. And I've succeeded!
+
+TAG: Merlin_007_f
+Which means I have a banquet for our heroes! Please <Lore>place this feast somewhere in the Valley</Lore>. And thank you for saving our Valley, once again.
+
+TAG: Merlin_003_f
+Intense but worthwhile. And it seems to be one of your many talents, judging by the multitude of mites you just gave me.
+
+TAG: Merlin_004_f
+Yes, they can be a bit disturbing to some. Well, while I cannot guarantee you've seen the last of ANY insect here, this delivery will be the last you see of the mites... More or less.
+
+TAG: Merlin_006_f
+More or less?
+

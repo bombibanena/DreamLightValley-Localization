@@ -1,0 +1,48 @@
+TAG: Hades_000_f
+Oh, do I have my scheming face on? Well, I am workin' on something big. You might even say epic.
+
+TAG: Hades_001_f
+Just wonderin' if I should consult the Fates about it.
+
+TAG: Player_000_choice_000_f
+Who are the Fates?
+
+TAG: Player_000_choice_001_f
+That sounds like a good idea.
+
+TAG: Player_000_choice_002_f
+What if they give you bad news?
+
+TAG: Hades_002_f
+Oh, just some old biddy know-it-alls who keep an eye on the past, present, and future.
+
+TAG: Hades_003_f
+They're good consultants if ya know how to butter 'em up.
+
+TAG: Hades_004_f
+Though they like giving advice in... ugh... verse.
+
+TAG: Player_001_choice_000_f
+That sounds like a good idea.
+
+TAG: Player_001_choice_001_f
+What if they give you bad news?
+
+TAG: Hades_005_f
+I'll have to get on their calendar, which is a headache and a half.
+
+TAG: Hades_006_f
+They know everyone who's ever gonna want an appointment with 'em.
+
+TAG: Hades_007_f
+So they schedule themselves out into the next century.
+
+TAG: Hades_008_f
+Yeah, that's the headache of talking to the Fates.
+
+TAG: Hades_009_f
+They'll give ya insider intel, but what they say happens.
+
+TAG: Hades_010_f
+So if they say a plan's doomed, that's it. You're done. Nothin' can change that fate.
+

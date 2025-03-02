@@ -1,0 +1,39 @@
+TAG: Remy_000_f
+Эй, {PlayerName}, что мы сегодня готовим?
+
+TAG: Remy_001_f
+Майк Вазовски попросил у меня свежих ингридиентов, но когда я привезла их, он пожаловался, что они не такие, как ты делаешь для него.
+
+TAG: Remy_002_f
+Думаю, я знаю, что пошло не так. Я всегда убеждаюсь, что каждая из его еды содержит несколько <ActivityItem>Fresh Компост</ActivityItem>.
+
+TAG: Remy_008_f
+Похоже, монстрские вкусы предпочитают степень разложения.
+
+TAG: Remy_009_f
+Так что если я подготовлю что-то под названием <ActivityItem>hodgepodge la Monstropolis</ActivityItem> и у меня уже есть <ActivityItem>Carrots</ActivityItem>, <ActivityItem>Corn</ActivityItem>, и <ActivityItem>Bell Peppers</ActivityItem>...
+
+TAG: Remy_010_f
+Просто добавьте к рецепту <ActivityItem>Fresh Компост</ActivityItem> и вы в деле.
+
+TAG: Player_000_choice_000_f
+Наверное, каждому из них.
+
+TAG: Player_000_choice_001_f
+Если это то, что мне нужно сделать.
+
+TAG: Player_000_choice_002_f
+Отвратительно.
+
+TAG: Remy_003_f
+Деликатес одного монстра - чей-то чужой мусор.
+
+TAG: Remy_006_f
+Если вам нужен <ActivityItem>Fresh Компост</ActivityItem>, я просто положу его наружу, чтобы обогатить почву. Он должен быть рядом с Рестораном.
+
+TAG: Remy_004_f
+Иногда это нужно, чтобы стать великим шеф-поваром.
+
+TAG: Remy_005_f
+Эй, не все едят одно и то же, и это не наше место судить, но... я слышу тебя.
+

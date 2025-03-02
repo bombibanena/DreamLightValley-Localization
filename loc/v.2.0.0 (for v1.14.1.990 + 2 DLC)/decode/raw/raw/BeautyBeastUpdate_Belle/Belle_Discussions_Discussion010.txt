@@ -1,0 +1,54 @@
+TAG: Belle_000_f
+Do you have a favorite kind of book, {PlayerName}?
+
+TAG: Belle_001_f
+Is there a type of story or style that you always come back to?
+
+TAG: Player_000_choice_000_f
+Mystery!
+
+TAG: Player_000_choice_001_f
+Fairy tales, no contest.
+
+TAG: Player_000_choice_002_f
+Let me think...
+
+TAG: Belle_002_f
+Oh, I do like a good mystery. It's such fun to try and solve the puzzles!
+
+TAG: Belle_003_f
+Oh, some of my favorite stories are fairy tales!
+
+TAG: Belle_004_f
+Magical characters, talking animals, amazing places to visit in your imagination...
+
+TAG: Belle_005_f
+I can read them over and over.
+
+TAG: Belle_006_f
+I know, it's difficult for me to pick too.
+
+TAG: Player_001_choice_000_f
+Romance!
+
+TAG: Player_001_choice_001_f
+Non-fiction.
+
+TAG: Player_001_choice_002_f
+I'm not much of a reader...
+
+TAG: Belle_007_f
+Romance! Well, there are some beautiful stories about love.
+
+TAG: Belle_008_f
+It's funny... Lately, I've found myself more interested in those books too.
+
+TAG: Belle_009_f
+My father loves technical books on physics and complicated mechanisms.
+
+TAG: Belle_010_f
+I've read a few. They're not my favorites, but they certainly are interesting.
+
+TAG: Belle_011_f
+Oh... Well, I'm sure that you have other things you like to do.
+

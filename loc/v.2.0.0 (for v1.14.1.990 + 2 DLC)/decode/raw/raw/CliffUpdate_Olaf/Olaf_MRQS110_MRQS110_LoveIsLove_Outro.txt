@@ -1,0 +1,48 @@
+TAG: Olaf_000_f
+Wow, {PlayerName}. You found my missing pieces, AND stopped the blizzard. You're very talented.
+
+TAG: Olaf_001_f
+There are still a lot of questions left, though. Like what was the deal with that secret chamber?
+
+TAG: Olaf_002_f
+What was the Forgotten doing in there...?
+
+TAG: Olaf_003_f
+Don't worry, {PlayerName}. I know you'll figure it out. You're practically the Official Village Figurer Outer.
+
+TAG: Olaf_004_f
+And I'll be here if you need any warm hugs or words of sage wisdom from a snowman wise beyond his years.
+
+TAG: Olaf_005_f
+But for now, I'm going to go see what's changed in the Village while I was winning at hide-and-seek.
+
+TAG: Player_000_f
+I think you're going to love it, Olaf.
+
+TAG: Player_000_choice_000_f
+There are so many new fun facts to learn.
+
+TAG: Player_000_choice_001_f
+There are lots of new Villagers to befriend.
+
+TAG: Player_000_choice_002_f
+There are lots of critters to play games with.
+
+TAG: Olaf_006_f
+Ooo, I haven't learned a new fact in soooo long.
+
+TAG: Olaf_007_f
+Thank you for finding me, {PlayerName}. You're the best seeker a hider could have.
+
+TAG: Olaf_008_f
+Oh, and one more thing...
+
+TAG: Olaf_009_f
+Tag! You're "it"!
+
+TAG: Olaf_010_f
+Really?! Well, I can't wait to meet them all.
+
+TAG: Olaf_011_f
+That's wonderful! Though, I hope they like games that aren't "Keep-Away with Olaf's Nose." I just got my nose back, and I'd really like to keep it for a while.
+

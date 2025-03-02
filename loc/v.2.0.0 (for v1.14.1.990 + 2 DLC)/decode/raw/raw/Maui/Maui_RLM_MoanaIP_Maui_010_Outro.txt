@@ -1,0 +1,30 @@
+TAG: Maui_001_f
+Well, you did it, {PlayerName}!
+
+TAG: Maui_000_f
+Nowhere near as amazing as my fight with Tamatoa, but, hey, you're only human.
+
+TAG: Player_000_f
+Maui, I hope that some day I can...
+
+TAG: Player_000_choice_000_f
+...be as strong as you!
+
+TAG: Player_000_choice_001_f
+...be as cool as you!
+
+TAG: Player_000_choice_002_f
+...pop your inflated ego!
+
+TAG: Maui_003_f
+Ha! Not likely... but dream big, kid!
+
+TAG: Maui_005_f
+Maybe one day your feats will be ALMOST as legendary as mine.
+
+TAG: Maui_002_f
+Now go help Moana with her fish thing.
+
+TAG: Maui_004_f
+Ha! You sound just like Moana.
+

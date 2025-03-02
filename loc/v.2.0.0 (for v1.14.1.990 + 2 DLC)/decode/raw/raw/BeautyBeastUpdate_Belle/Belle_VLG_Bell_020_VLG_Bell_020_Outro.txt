@@ -1,0 +1,207 @@
+TAG: Belle_000_f
+Let's start the <ActivityItem>Translation Machine</ActivityItem> and see what happens...
+
+TAG: Belle_053_f
+...
+
+TAG: Belle_002_f
+{PlayerName}, this is amazing! I never thought Papa's invention could really be built!
+
+TAG: Belle_003_f
+The <ActivityItem>Translation Machine</ActivityItem> â it's like it's talking to me. Asking me questions.
+
+TAG: Belle_004_f
+What kind of questions?
+
+TAG: Belle_005_f
+Well, right now it's asking me, "the name of the bravest horse of them all."
+
+TAG: Belle_012_f
+Well, let's answer this and see where it goes.
+
+TAG: Player_000_f
+So, the bravest horse of them all must be...
+
+TAG: Player_000_choice_000_f
+...Maximus.
+
+TAG: Player_000_choice_001_f
+...Philippe.
+
+TAG: Player_000_choice_002_f
+...Samson.
+
+TAG: Belle_006_f
+Maximus... That sounds like the name of a general. Let's see what the machine thinks of it.
+
+TAG: Belle_001_f
+...
+
+TAG: Belle_038_f
+The machine is just asking the question again.
+
+TAG: Belle_013_f
+It's just asking the same question again. That must not have been the right answer.
+
+TAG: Belle_007_f
+You mean MY horse? Well... he did come get me to help my father once. That was very brave.
+
+TAG: Belle_056_f
+That must be it. Let's see what's next.
+
+TAG: Belle_017_f
+Now it's asking about, "the perfect time to learn about someone's real identity in a story."
+
+TAG: Player_001_f
+The right moment in a book to learn about someone's true identity?
+
+TAG: Player_001_choice_000_f
+Everybody knows it's during Chapter 3.
+
+TAG: Player_001_choice_001_f
+At the moment of tragic demise.
+
+TAG: Player_001_choice_002_f
+Right at the end.
+
+TAG: Belle_009_f
+And then he showed me where Papa was.
+
+TAG: Belle_010_f
+That's how I met the Beast...
+
+TAG: Belle_014_f
+Let's see if that's the proper answer.
+
+TAG: Belle_045_f
+...
+
+TAG: Belle_015_f
+It worked! It translated a small part of a sentence.
+
+TAG: Belle_016_f
+The <ActivityItem>Mysterious Book's</ActivityItem> first two words are "I am"...
+
+TAG: Belle_054_f
+{PlayerName}, that question was related to me. How can that be?
+
+TAG: Belle_055_f
+I'm not sure. Maybe the magic here is affecting the machine. And since you're the one using it...
+
+TAG: Belle_018_f
+Well, that is where it happens in my favorite book. I hope it's the right answer.
+
+TAG: Belle_047_f
+...
+
+TAG: Belle_023_f
+It was right! It printed two more words. "Dreamlight Valley's." "I am Dreamlight Valley's"...
+
+TAG: Belle_024_f
+I wonder what comes after that.
+
+TAG: Belle_025_f
+Is there another question?!
+
+TAG: Belle_026_f
+Yes, and hopefully it's the last one.
+
+TAG: Belle_027_f
+All right, what's the question?
+
+TAG: Belle_028_f
+It wants to know "which object a majordomo would be turned into if under an Enchantress's spell."
+
+TAG: Player_002_f
+A majordomo under an Enchantress's spell would turn into...
+
+TAG: Player_002_choice_000_f
+...a teapot!
+
+TAG: Player_002_choice_001_f
+...a candelabra... for sure.
+
+TAG: Player_002_choice_002_f
+...a clock, of course.
+
+TAG: Belle_029_f
+Not in my experience.
+
+TAG: Belle_033_f
+But if you're sure...
+
+TAG: Belle_052_f
+...
+
+TAG: Belle_032_f
+I'm afraid that wasn't right.
+
+TAG: Belle_044_f
+It doesn't look like that's the answer the <ActivityItem>Translation Machine</ActivityItem> is looking for.
+
+TAG: Belle_030_f
+That wouldn't have been my answer, but you seem certain.
+
+TAG: Belle_051_f
+...
+
+TAG: Belle_031_f
+That's what I think, too. I hope the <ActivityItem>Translation Machine</ActivityItem> agrees.
+
+TAG: Belle_050_f
+...
+
+TAG: Belle_034_f
+That's it! We did it, {PlayerName}. It's translating...
+
+TAG: Belle_035_f
+I can read the entire first sentence â "I am Dreamlight Valley's best mystery solver."
+
+TAG: Belle_036_f
+Another mystery. I can't wait to read more. Let's let the <ActivityItem>Translation Machine</ActivityItem> work.
+
+TAG: Belle_037_f
+Thank you for all your help, {PlayerName}. I'll tell you as soon as I've read this entire <ActivityItem>Mysterious Book</ActivityItem>.
+
+TAG: Belle_019_f
+That would be very sad, {PlayerName}. But I suppose some books are like that.
+
+TAG: Belle_048_f
+...
+
+TAG: Belle_022_f
+It keeps asking the same question. We must have the wrong answer again.
+
+TAG: Belle_040_f
+I'm actually a little relieved. It would be too sad if lots of stories were that way.
+
+TAG: Belle_039_f
+It didn't translate anything new. I think we have the wrong answer.
+
+TAG: Belle_020_f
+I'd be surprised if that was the answer. Usually authors want the characters to spend time together after such a revelation.
+
+TAG: Belle_021_f
+But let's check the <ActivityItem>Translation Machine</ActivityItem> and see if you're right.
+
+TAG: Belle_049_f
+...
+
+TAG: Belle_041_f
+It keeps asking the same question. We must have the wrong answer again.
+
+TAG: Belle_043_f
+Let's try something else.
+
+TAG: Belle_042_f
+It didn't translate anything new. I think we have the wrong answer.
+
+TAG: Belle_008_f
+That does sound like a strong horse.
+
+TAG: Belle_011_f
+Let's see if it works.
+
+TAG: Belle_046_f
+...
+

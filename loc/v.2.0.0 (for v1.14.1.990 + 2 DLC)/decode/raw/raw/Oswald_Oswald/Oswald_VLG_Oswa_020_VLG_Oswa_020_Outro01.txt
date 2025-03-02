@@ -1,0 +1,48 @@
+TAG: Oswald_000_f
+How was your picnic?
+
+TAG: Oswald_001_f
+Gee, {PlayerName}, it was swell!
+
+TAG: Oswald_002_f
+Stitch thought I was a dewdropper, but now he knows I was just gettin' some extra winks.
+
+TAG: Oswald_003_f
+We're gonna schedule our brunches for after lunch now.
+
+TAG: Oswald_004_f
+Glad to help!
+
+TAG: Oswald_005_f
+Now, have we learned our lessons about building household objects that run off on their own?
+
+TAG: Oswald_006_f
+You betcha!
+
+TAG: Oswald_007_f
+And the lesson is that it's a riot!
+
+TAG: Player_000_choice_000_f
+No, that wasn't the lesson...
+
+TAG: Player_000_choice_001_f
+OK, it was pretty funny...
+
+TAG: Oswald_008_f
+Okey-dokey. I understand.
+
+TAG: Oswald_010_f
+If I want your help again, I gotta be on the level.
+
+TAG: Oswald_011_f
+I... You know what? Close enough.
+
+TAG: Oswald_012_f
+Have fun with Stitch!
+
+TAG: Oswald_013_f
+Thanks! Oh, and here, take this... I ain't gonna need ALL the alarm clocks.
+
+TAG: Oswald_009_f
+But you need to be more considerate.
+

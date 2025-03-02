@@ -1,0 +1,96 @@
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Any_CompletedRequestDescription
+Return to Elsa.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_AvailableDescription
+Elsa wants to feel a little more at home in Dreamlight Valley. Together, you decide to prepare some meals inspired by Arendelle.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_CompletedStoryDescription
+The <ActivityItem>Purple Crest</ActivityItem> finds its place on the wall. It's time to go back to Elsa.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_DisplayName
+What Home Feels Like
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I do now?
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_Step01_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_Step01_BringItem02_StepDescription
+<ActivityItem>Dandelions</ActivityItem>.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_Step01_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_Step01_BringItem04_StepDescription
+<ActivityItem>Onions</ActivityItem>.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_Step01_BringItem05_StepDescription
+<ActivityItem>Empty Vial</ActivityItem>.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_Step01_ReadyDescription
+Bring the Ingredients to Elsa.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group01_Step01_StepDescription
+Gather the Ingredients for the <ActivityItem>Dandelion Syrup</ActivityItem>:
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group02_Step02_CatchFish01_StepDescription
+Catch the {ItemName} in the Glade on a rainy day.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need?
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group03_Step03_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group03_Step03_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group03_Step03_StepDescription
+Make sure to have the Ingredients in your Inventory:
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group04_Step04_CookMeal01_StepDescription
+Cook an {ItemName}.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group05_Step05_BringItem06_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group05_Step05_BringItem07_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group05_Step05_ReadyDescription
+Bring the meals to Elsa.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we looking for?
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group06_Step06_RemoveBlocker01_StepDescription
+Dig out <ActivityItem>Elsa's Secret Chest</ActivityItem> near the Ice Cavern.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group06_StoryDescription
+Upon tasting the meals you prepared together, Elsa remembers something. She buried a mysterious <ActivityItem>Chest</ActivityItem> near the Ice Cavern. You need to get it.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group07_Step07_ReadyDescription
+Give the <ActivityItem>Arendellian Extra-Pickled Herring</ActivityItem> to Elsa.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group07_Step07_StepDescription
+Pick up <ActivityItem>Elsa's Secret Chest</ActivityItem> near the Ice Cavern.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group08_Step08_FillKeyhole01_StepDescription
+Place the <ActivityItem>Purple Crest</ActivityItem> on the wall of the Ice Cavern.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_Group08_StoryDescription
+Inside the <ActivityItem>Chest</ActivityItem>, you find some <ActivityItem>Arendellian Extra-Pickled Herring</ActivityItem> and another of the mysterious <ActivityItem>Crests</ActivityItem>. Elsa asks you to place it in the wall of the Ice Cavern.
+
+TAG: Village!Frozen!Elsa!VLG_Elsa_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Request
+

@@ -1,0 +1,81 @@
+TAG: TheForgotten_000_f
+Oh! Hey, {PlayerName}.
+
+TAG: TheForgotten_001_f
+You wanted to talk to me...? Did I do something wrong...?
+
+TAG: Player_000_choice_000_f
+Of course not!
+
+TAG: Player_000_choice_001_f
+Just checking in.
+
+TAG: Player_000_choice_002_f
+As long as you haven't torn open reality again, I think we're good.
+
+TAG: TheForgotten_020_f
+I'm just visiting to see how you're doing!
+
+TAG: TheForgotten_013_f
+Say, I do remember a few things in the Village that I used to think were really beautiful.
+
+TAG: TheForgotten_014_f
+There was this <Lore>one yellow flower in the Forgotten Lands</Lore> that was really cool.
+
+TAG: TheForgotten_015_f
+And there was this <Lore>really neat bird with dark feathers</Lore>!
+
+TAG: TheForgotten_016_f
+Oh, and I think the most awesome thing in the whole Valley is that <Lore>giant skull near Dazzle Beach</Lore>! I bet you could get a pretty good shot of that.
+
+TAG: Player_001_f
+So your idea of beauty is... flowers, birds, and giant skulls.
+
+TAG: Player_001_choice_000_f
+I love it!!! Me too.
+
+TAG: Player_001_choice_001_f
+Very unconventional choices, but I support them.
+
+TAG: TheForgotten_002_f
+Oh. It's... really nice of you to actually care.
+
+TAG: TheForgotten_006_f
+I'm doing okay. Everyone in the Village has been so nice.
+
+TAG: TheForgotten_007_f
+But... I don't know... today I'm feeling a little... bored? Or like... everything I look at today, it just feels so... boring and ordinary.
+
+TAG: TheForgotten_011_f
+I remember when we were younger, everything was cool and exciting and beautiful. I wish I could see things that way again.
+
+TAG: TheForgotten_008_f
+Well, everything can be beautiful if you look at it in the right way.
+
+TAG: TheForgotten_010_f
+So... it all depends on how you frame it?
+
+TAG: TheForgotten_009_f
+Frame it...! That's it! Why don't we <Lore>take some pictures</Lore> to show you how beautiful even ordinary things around the Village can be?
+
+TAG: TheForgotten_012_f
+That could be fun!
+
+TAG: TheForgotten_017_f
+Oh, wow, really? It's nice to have somebody around who understands.
+
+TAG: TheForgotten_019_f
+Let's see what we can do. <Lore>Three pictures</Lore>, coming right up!
+
+TAG: TheForgotten_018_f
+Aw, thanks.
+
+TAG: TheForgotten_003_f
+Don't worry. I definitely won't be making THAT mistake twice...
+
+TAG: TheForgotten_004_f
+Phewf. That's a relief.
+
+TAG: TheForgotten_005_f
+But really... I just wanted to see how you're adjusting.
+

@@ -1,0 +1,96 @@
+TAG: Mushu_001_f
+Okay, {PlayerName}, now that you've looked at YOUR <ActivityItem>Ink Blot Test</ActivityItem>, tell me...
+
+TAG: Mushu_003_f
+What did the ink on the paper look like to you?
+
+TAG: Player_000_choice_000_f
+The Peaceful Meadow?
+
+TAG: Player_000_choice_001_f
+A universe of total chaos.
+
+TAG: Player_000_choice_002_f
+It looks like blotches of ink on paper.
+
+TAG: Mushu_005_f
+Hmm... Flowery, peaceful...
+
+TAG: Mushu_007_f
+You're pretty content, huh?
+
+TAG: Player_001_choice_000_f
+Well, I'm an optimist!
+
+TAG: Player_001_choice_001_f
+The Valley is my happy place.
+
+TAG: Player_001_choice_002_f
+I just picked a random option.
+
+TAG: Mushu_009_f
+You've got reason to be! You're practically a ray of sunshine around here.
+
+TAG: Mushu_019_f
+Now that you've done your Ink Blot Test, it's time for the Beast to take his.
+
+TAG: Mushu_020_f
+Will you set it up near his House? Castle? Castle-House?
+
+TAG: Mushu_021_f
+You know what I mean.
+
+TAG: Mushu_008_f
+That's great. It's one of my happy places too!
+
+TAG: Mushu_010_f
+That says "I'm uncertain" to me. And there's no problem with being uncertain.
+
+TAG: Mushu_004_f
+Hmm... that tells me you feel kinda uncertain about your direction in life.
+
+TAG: Player_002_choice_000_f
+Aren't we all?
+
+TAG: Player_002_choice_001_f
+Kinda? I'm VERY uncertain!
+
+TAG: Player_002_choice_002_f
+That's not me at all!
+
+TAG: Mushu_012_f
+Not ME, but it seems to be pretty common with you mortal types.
+
+TAG: Mushu_014_f
+Don't worry. SEEING the chaos means it probably won't take you by surprise.
+
+TAG: Mushu_011_f
+Hey, that's not a bad thing. Trust me.
+
+TAG: Mushu_013_f
+Oh, so you're someone who CONTROLS the chaos. I see you!
+
+TAG: Mushu_006_f
+Oh, I know EXACTLY what that means!
+
+TAG: Mushu_015_f
+You're being literal... Which is hilarious... Or defensive. Maybe both?
+
+TAG: Player_003_choice_000_f
+I'm very funny!
+
+TAG: Player_003_choice_001_f
+Yeah... I'm not ready to open up.
+
+TAG: Player_003_choice_002_f
+Maybe a bit of both, TBH.
+
+TAG: Mushu_017_f
+That IS true. You make me laugh every day. Sometimes with you... sometimes at you. Same thing.
+
+TAG: Mushu_016_f
+Hey, that's okay. We can just move along!
+
+TAG: Mushu_018_f
+I hear you, and that's okay. Everyone opens up in their own time.
+

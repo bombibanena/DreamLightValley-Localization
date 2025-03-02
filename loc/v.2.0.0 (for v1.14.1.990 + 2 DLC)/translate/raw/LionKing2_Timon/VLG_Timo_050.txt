@@ -1,0 +1,81 @@
+TAG: Village!LionKing!Timon!VLG_Timo_050_Any_CompletedRequestDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_AvailableDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_CompletedStoryDescription
+Вы захватываете Королеву Ночных Мит, очищаете темный замок от всех последних следов Ночных Митов. После этого вы возвращаетесь в Долину, где Мерлин ждет решения, чтобы сделать тревожные жуки безопасными для Тимон и Пумба для еды.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_DisplayName
+Часть 3 Заражение
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group01_Step01_TalkToCharacter01_StepDescription
+Проверьте Тимон для следующих шагов в борьбе с нашествием.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group02_Step02_FollowCharacter01_StepDescription
+Встретимся с Тимон и Пумба в Плазе.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group02_Step02_FollowCharacter01_TalkToDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group03_Step03_VisitArea03_StepDescription
+Следуйте Тимон к Темному Замку.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group03_StoryDescription
+Вы встретите Тимон и Пумба в Плазе, и Тимон раскрывает источник Ночных Митов. Они идут от портала в Темный Замок в Плазе. Он верит, что Королева Ночных Мит должна прятаться там, и говорит, что вы должны пройти через портал, чтобы уничтожить гнездо и захватить королеву.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group04_Step04_VisitArea01_StepDescription
+Войдите в Темный Замок.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group05_Step05_StepDescription
+Уберите все ночные гнездышки, что сможете найти.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group05_Step06_StepDescription
+Поймать всех свободных Ночных Митов.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group05_Step07_TalkToCharacter02_StepDescription
+Перегруппируйтесь с Тимон на вершине Темного Замка.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group05_StepDescription
+Очистить мятное нашествие Темного Замка:
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group06_Step08_TalkToCharacter03_StepDescription
+Поговори с Пумба в Темном Замке.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group06_StoryDescription
+Вы обнаруживаете гнездо Королевы Ночной Миты в Темном Замке, окруженном странными скалами, очищаете небольшие гнезда и ловите бродячих Митов в Темном Замке, в то время как Тимон и Пумба ищут способ пройти мимо камней.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group07_Step09_ConsumeItem01_StepDescription
+Собери и активируй {itemName} из бочка в Темном Замке.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group07_StoryDescription
+Пумба обнаружил странную бочку, которая пахнет так же, как камни блокируют гнездо Королевы Ночной Миты.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group08_StepDescription
+Дотроньтесь до гнезда Королевы Ночи, разбив странные камни в Темном Замке.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group09_Step11_StepDescription
+Уберите гнездышко Королевы Ночи.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group09_Step12_StepDescription
+Поймать Королеву Ночных Мит.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group09_Step13_StepDescription
+Поймать оставшиеся Ночные Миты.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group10_Step14_TalkToCharacter04_StepDescription
+Возвращайтесь на Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group10_StepDescription
+Темный замок очищен от Ночных Митов!
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group11_Step15_VisitArea02_StepDescription
+Возвращайся в долину Мечты через портал.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group12_Step16_Conditional01_StepDescription
+Полный"Окончание нашествия"с Мерлин.
+
+TAG: Village!LionKing!Timon!VLG_Timo_050_Group13_Step17_TalkToCharacter05_StepDescription
+Поговори с Тимон в Темной Плазе.
+

@@ -1,0 +1,51 @@
+TAG: Kristoff_000_f
+Nice <ActivityItem>Carrot Soap</ActivityItem>, {PlayerName}! It smells great!
+
+TAG: Kristoff_003_f
+And the <ActivityItem>Coconut</ActivityItem> really adds to it.
+
+TAG: Kristoff_002_f
+Okay, I have to ask: Why <ActivityItem>Carrot</ActivityItem>?
+
+TAG: Player_000_choice_000_f
+Do you really like the smell?
+
+TAG: Player_000_choice_001_f
+Is there a specific memory attached to it?
+
+TAG: Player_000_choice_002_f
+You know you don't... EAT the soap... right?
+
+TAG: Kristoff_004_f
+Yeah, doesn't everyone? What could be better than carrots?
+
+TAG: Kristoff_001_f
+Okay, time for me to try out this new soap. Be back soon!
+
+TAG: Kristoff_007_f
+You know, that felt really good. Thanks, {PlayerName}! *sniff sniff* I hope I don't smell like cake.
+
+TAG: Player_001_choice_000_f
+I'm glad to have helped.
+
+TAG: Player_001_choice_001_f
+Thanks for teaching me how to make <ActivityItem>Carrot Soap</ActivityItem>.
+
+TAG: Player_001_choice_002_f
+Hurrah! The smell is gone!
+
+TAG: Kristoff_008_f
+Well, you're really good at helping everyone around here, and I know we all appreciate it.
+
+TAG: Kristoff_009_f
+Anytime!
+
+TAG: Kristoff_010_f
+Come on! It wasn't THAT bad!
+
+TAG: Kristoff_005_f
+Kind of. When I was growing up, carrots were always a big treat for me and my friend Sven. If we had enough to make soap, that was extra special.
+
+TAG: Kristoff_006_f
+Why would Iâ *sigh* No, I don't eat the soap. It's just that reindeer love the smell. Why wouldn't I?
+

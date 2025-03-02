@@ -1,0 +1,66 @@
+TAG: Scar_011_f
+{PlayerName}, I have a little matter to discuss with you regarding my territory. Do join me.
+
+TAG: Player_001_choice_000_f
+What seems to be the problem?
+
+TAG: Player_001_choice_001_f
+I'll take care of this later.
+
+TAG: Scar_000_f
+Tell me, have you taken time from your "oh-so-busy" schedule to explore the Sunlit Plateau?
+
+TAG: Scar_007_f
+Wait â what am I saying? You never stray far from the safe and familiar.
+
+TAG: Scar_004_f
+Well, if you HAD bothered, you'd know that it's absolutely littered with wildebeest bones.
+
+TAG: Player_000_choice_000_f
+Can't you remove them yourself?
+
+TAG: Player_000_choice_001_f
+What happened to the wildebeests...?
+
+TAG: Player_000_choice_003_f
+Scar... Did you eat all the wildebeests?
+
+TAG: Scar_008_f
+If I could, I wouldn't be bothering with you. But since I can't, here we are.
+
+TAG: Scar_003_f
+It wasn't such a problem before you decided to go away. You were very good at digging out the bones and removing them...
+
+TAG: Scar_006_f
+Of course, your <ActivityItem>Royal Shovel</ActivityItem> was sharper back then.
+
+TAG: Scar_020_f
+I seem to recall it had something to do with that bombastic Scrooge McDuck. He had some manner of making your Shovel stronger.
+
+TAG: Scar_015_f
+Sounds good. I'll go talk to Mr. McDuck about making my Shovel stronger so we can clean up the Sunlit Plateau.
+
+TAG: Scar_012_f
+I couldn't say...
+
+TAG: Scar_005_f
+But that is not the point, {PlayerName}. The point is that most of the Plateau is unusable for me â ahem, for us.
+
+TAG: Scar_001_f
+If I were gorging myself on wildebeests, do you really think I'd need to ask that rodent to procure food for me?
+
+TAG: Scar_016_f
+There have never been wildebeests on the Sunlit Plateau... but there have always been bones.
+
+TAG: Scar_017_f
+Somehow, they simply appear from time to time.
+
+TAG: Scar_018_f
+On my honor.
+
+TAG: Scar_019_f
+Hm. That's weird... but I guess a lot of things about Dreamlight Valley are pretty weird.
+
+TAG: Scar_002_f
+*sigh* And I'll be here, awaiting your mere morsels of benevolence.
+

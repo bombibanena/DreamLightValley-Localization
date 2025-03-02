@@ -1,0 +1,63 @@
+TAG: Nala_000_f
+{PlayerName}, would you like to hear a story from when Simba and I were cubs?
+
+TAG: Nala_001_f
+I could tell you about elephant tag. That's a game I made up.
+
+TAG: Nala_013_f
+Or about the time we almost got killed in the elephant graveyard. Or about the giraffe incident.
+
+TAG: Player_001_choice_000_f
+Elephant tag.
+
+TAG: Player_001_choice_001_f
+Giraffe incident.
+
+TAG: Player_001_choice_002_f
+Elephant graveyard.
+
+TAG: Nala_003_f
+All right. Elephant tag is really fun. You find a herd of elephants on the move, and then you tag Simba.
+
+TAG: Nala_006_f
+As soon as you tag him, you run under the elephants' feet to get away from him!
+
+TAG: Nala_014_f
+It's like regular tag, but you have to make sure you don't get squashed by elephants.
+
+TAG: Player_002_choice_000_f
+That sounds fun!
+
+TAG: Player_002_choice_001_f
+That sounds dangerous.
+
+TAG: Nala_007_f
+It was! And I always won.
+
+TAG: Nala_008_f
+It wasn't, really. The elephants knew we were there, so they did their best not to step on us.
+
+TAG: Nala_015_f
+Simba did get his tail stepped on one time. He was pretty sore about that, but he was fine.
+
+TAG: Nala_004_f
+So Simba got this idea that we could ride on a giraffe. We'd hide on the top of a big rock and jump on this giraffe's back when he walked by.
+
+TAG: Nala_009_f
+The thing is, we didn't realize that having two lion cubs jump at him from out of nowhere would really scare the giraffe.
+
+TAG: Nala_012_f
+When we tried it, the giraffe bolted, ran right into a mud hole, and got stuck. Zazu had to talk a rhino into pulling him out.
+
+TAG: Nala_010_f
+We got in so much trouble.
+
+TAG: Nala_005_f
+Well, when Simba and I were cubs, we snuck off to explore an elephant graveyard.
+
+TAG: Nala_016_f
+It's this creepy place, with skulls bigger than the two of us put together, and holes that shoot out steam. I think you've got a place just like it in the Valley.
+
+TAG: Nala_011_f
+It turned out to be a really bad idea. We almost got eaten by hyenas. But Simba's father saved us.
+

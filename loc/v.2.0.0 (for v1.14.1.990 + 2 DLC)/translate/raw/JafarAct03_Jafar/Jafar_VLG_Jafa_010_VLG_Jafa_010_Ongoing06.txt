@@ -1,0 +1,6 @@
+TAG: Jafar_000_f
+Теперь, когда экспериментальная камера и источники энергии созданы, вы должны поместить <ActivityItem>Geology ненадежные объекты</ActivityItem> в экспериментальные слоты.
+
+TAG: Jafar_001_f
+И не забудьте поместить <ActivityItem>Dimensional Primst</ActivityItem> на Pedestal.
+

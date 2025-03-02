@@ -1,0 +1,54 @@
+TAG: Raven_000_f
+*squawk* Who are you?
+
+TAG: Raven_001_f
+*skee-waaaaak* JAFAR?!
+
+TAG: Player_000_choice_000_f
+No! I'm {PlayerName}.
+
+TAG: Player_000_choice_001_f
+Uh... depends. Who are you?
+
+TAG: Player_000_choice_002_f
+I'm the ruler of Dreamlight Valley AND Eternity Isle. So you better help me!
+
+TAG: Raven_002_f
+*bwaaakkkk* {PlayerName}?
+
+TAG: Raven_011_f
+The key! I need it! How do I get it?!
+
+TAG: Raven_014_f
+Easy. *squawk*
+
+TAG: Raven_012_f
+Feed me. *squawk*
+
+TAG: Raven_003_f
+Pleased to meet ya!
+
+TAG: Raven_004_f
+*bwaaaak* I'm Annoying Nuisance!
+
+TAG: Raven_005_f
+... Annoying Nuisance?
+
+TAG: Raven_006_f
+*squawk* What Jafar calls me.
+
+TAG: Raven_007_f
+Tells me what to do.
+
+TAG: Raven_008_f
+What does he want you to do?
+
+TAG: Raven_009_f
+*bwaaakk* Help with experiments.
+
+TAG: Raven_010_f
+Like the shiny <ActivityItem>key</ActivityItem>...
+
+TAG: Raven_013_f
+*bwaaak* If you help me!
+

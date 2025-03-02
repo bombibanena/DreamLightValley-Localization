@@ -1,0 +1,12 @@
+TAG: Anna_000_f
+Если мы хотим сделать <ActivityItem>Stone soup</ActivityItem>, нам нужно сначала несколько ингредиентов...
+
+TAG: Anna_001_f
+Некоторые <ActivityItem>Craggy Rocks</ActivityItem>, <ActivityItem>Basil</ActivityItem>, и <ActivityItem>Oregano</ActivityItem>.
+
+TAG: Anna_002_f
+Я уверен, что мы можем найти нужные камни.
+
+TAG: Anna_003_f
+Тогда, как только у нас будут все Ингредиенты, мы приготовим их и оставим у ноги Земного Гиганта.
+

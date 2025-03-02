@@ -1,0 +1,1902 @@
+TAG: CatchFish_Beach_Description
+Поймать {TargetAmount} Рыбу из Dazzle Beach
+
+TAG: CatchFishes_Cliff_Description
+Поймать {TargetAmount} рыбу с размораженных высот
+
+TAG: CatchFishes_Dark_Description
+Поймать {TargetAmount} рыбу из забытых земель
+
+TAG: CatchFishes_Description
+Поймать {TargetAmount} Рыбу
+
+TAG: CatchFishes_Desert_Description
+Поймать {TargetAmount} Рыбу в сияющих дюнах
+
+TAG: CatchFishes_Forest_Description
+Захват {TargetAmount} рыбы из леса Валор
+
+TAG: CatchFishes_Jungle_Description
+Поймать {TargetAmount} рыбу в диком стиле
+
+TAG: CatchFishes_Meadow_Description
+Захват {TargetAmount} рыбы из мирного луга
+
+TAG: CatchFishes_Outpost_Description
+Поймать {TargetAmount} Рыбу в посадке Древних
+
+TAG: CatchFishes_Savannah_Description
+Захват {TargetAmount} рыбы из плато Солнцелит
+
+TAG: CatchFishes_Wetlands_Description
+Захват {TargetAmount} рыбы из Глейда доверия
+
+TAG: CatchSeafood_Description
+Захват {TargetAmount} Seafood
+
+TAG: CatchSeafood_EternityIsle_Description
+Уловка {TargetAmount} Eternity Seafoods
+
+TAG: CatchSpecificFish_Description
+Поймать {TargetAmount} {ItemName}
+
+TAG: CatchSpecificFishFromEternityIsle_Description
+Поймать {TargetAmount} {ItemName}
+
+TAG: CatchXBeachFishes_Description
+Используй свой рыболовецкий Род в водах Даззл-Бич, чтобы ловить рыбу!
+
+TAG: CatchXBeachFishes_Title
+Поймать рыбу с пляжа Даззл
+
+TAG: CatchXDarkMountainsFishes_Description
+Используй свой рыболовецкий Род в водах забытых земель, чтобы ловить рыбу!
+
+TAG: CatchXDarkMountainsFishes_Title
+Поймать рыбу из забытых земель
+
+TAG: CatchXDesertFishes_Description
+Используй свою рыболовецкую Род в водах Дюн, чтобы ловить рыбу!
+
+TAG: CatchXDesertFishes_Title
+Поймать рыбу из сияющих дюн
+
+TAG: CatchXFishes_Description
+Воспользуйся своим рыболовецким Родом и рыбой где угодно в Долине!
+
+TAG: CatchXFishes_Title
+Поймать рыбу
+
+TAG: CatchXFishWithoutFailing_Description
+Ты можешь сохранить победную полосу во время рыбалки?
+
+TAG: CatchXFishWithoutFailing_Title
+Поймать без ошибок
+
+TAG: CatchXForestFishes_Description
+Используй свой рыболовецкий Род в водах леса Вэлор, чтобы ловить рыбу!
+
+TAG: CatchXForestFishes_Title
+Поймать рыбу из леса Валора
+
+TAG: CatchXJungleFishes_Description
+Используй свой рыболовецкий Род в водах Тангля, чтобы ловить рыбу!
+
+TAG: CatchXJungleFishes_Title
+Поймать рыбу из диких яиц
+
+TAG: CatchXMeadowFishes_Description
+Используй свою рыболовецкую роду в водах Мирного Луга, чтобы ловить рыбу!
+
+TAG: CatchXMeadowFishes_Title
+Поймать рыбу из мирного луга
+
+TAG: CatchXOutpostFishes_Description
+Используй свой рыболовецкий род в водах земли Древних, чтобы ловить рыбу!
+
+TAG: CatchXOutpostFishes_Title
+Поймать рыбу из земли Древних
+
+TAG: CatchXSavannahFishes_Description
+Используй свой рыболовецкий род в водах плато Солнцелит, чтобы ловить рыбу!
+
+TAG: CatchXSavannahFishes_Title
+Поймать рыбу из плато Солнцелит
+
+TAG: CatchXSeafood_Description
+Используй своего рыболовецкого Рода, чтобы поймать морепродукты где угодно в долине Мечты!
+
+TAG: CatchXSeafood_Title
+Захват морепродуктов
+
+TAG: CatchXSnowCliffsFishes_Description
+Используй свой рыболовецкий род в водах Грозистых высот, чтобы ловить рыбу!
+
+TAG: CatchXSnowCliffsFishes_Title
+Поймать рыбу с размораженных высот
+
+TAG: CatchXSwampFishes_Description
+Используй свой рыболовецкий род в водах Глейда Доверия, чтобы ловить рыбу!
+
+TAG: CatchXSwampFishes_Title
+Поймать рыбу из клейма доверия
+
+TAG: CatchXTypesOfFishes_Description
+Поймать различные виды рыб в любой точке Долины!
+
+TAG: CatchXTypesOfFishes_Title
+Поймать различные виды рыбы
+
+TAG: ChangeOutfit_Description
+Изменить конфигурацию
+
+TAG: Christmas_FestiveFish_Description
+{Placeholder}Dectorate использует снеговика.
+
+TAG: Christmas_FestiveFish_Title
+Даже рыба очаровательна!
+
+TAG: Christmas_OhOhOh_Description
+{Placeholder} Distribute Подарки деревенским жителям!
+
+TAG: Christmas_OhOhOh_Title
+Эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй, эй!
+
+TAG: Christmas_ReadyForHolidays_Description
+{Placeholder}Dectorate с любой 5 праздничной мебелью в вашем доме.
+
+TAG: Christmas_ReadyForHolidays_Title
+Дом для отдыха
+
+TAG: Christmas_SantaMeal_Description
+{Placeholder}Eat 3 Разное печенье.
+
+TAG: Christmas_SantaMeal_Title
+Испытание на вкус печени
+
+TAG: Christmas_Snowman_Description
+{Placeholder}Dectorate использует снеговика.
+
+TAG: Christmas_Snowman_Title
+Хочешь построить снеговика?
+
+TAG: CompleteXRoyalDuties_Description
+Полные обязанности Мечтного Света!
+
+TAG: CompleteXRoyalDuties_Title
+Полные обязанности, связанные с светом мечты
+
+TAG: Cook1StarMeal_Description
+Приготовить однозвездочную еду или лучше
+
+TAG: Cook2StarMeal_Description
+Приготовить двухзвездочную еду или лучше
+
+TAG: Cook3StarMeal_Description
+Приготовить трехзвездочную еду или лучше
+
+TAG: Cook4StarMeal_Description
+Приготовить четырехзвездочную еду или лучше
+
+TAG: Cook5StarMeal_Description
+Приготовить пятизвездочную еду
+
+TAG: CookAMealXStar_Description
+Приготовить еду: {ItemName}
+
+TAG: CookMeals_Description
+Приготовить {TargetAmount} "Питание"
+
+TAG: CookSeafoodMeals_Description
+Повар с морепродуктами
+
+TAG: CookXFishMeals_Description
+Приготовить рыбные рецепты!
+
+TAG: CookXFishMeals_Title
+Питание на основе рыбы
+
+TAG: CookXFruitMeals_Description
+Приготовить рецепты на основе фруктов!
+
+TAG: CookXFruitMeals_Title
+Питание на основе фруктов
+
+TAG: CookXGrainMeals_Description
+Приготовить рецепты на основе зерна!
+
+TAG: CookXGrainMeals_Title
+Питание на основе зерна
+
+TAG: CookXMeals_Description
+Кухонная еда на кухне Ресторана Реми!
+
+TAG: CookXMeals_Title
+Кухонное питание
+
+TAG: CookXMeals1Star_Description
+Приготовить однозвездочную еду или лучше на кухне!
+
+TAG: CookXMeals1Star_Title
+Приготовить 1-звёздную еду или лучше
+
+TAG: CookXMeals2Star_Description
+Приготовить 2-звездочную еду или лучше на кухне!
+
+TAG: CookXMeals2Star_Title
+Приготовить 2-звездочные продукты питания или лучше
+
+TAG: CookXMeals3Star_Description
+Приготовить трехзвездочную еду или лучше на кухне!
+
+TAG: CookXMeals3Star_Title
+Приготовить трехзвездочные продукты питания или лучше
+
+TAG: CookXMeals4Star_Description
+Приготовить 4-звёздную еду или лучше на кухне!
+
+TAG: CookXMeals4Star_Title
+Приготовить 4-звёздную еду или лучше
+
+TAG: CookXMeals5Star_Description
+Приготовить 5-звездочную еду на кухне!
+
+TAG: CookXMeals5Star_Title
+Приготовить 5-звёздную еду
+
+TAG: CookXSeafoodMeals_Description
+Приготовить рецепты на основе морепродуктов!
+
+TAG: CookXSeafoodMeals_Title
+Питание на основе морепродуктов
+
+TAG: CookXSpiceMeals_Description
+Приготовить реципиенты с помощью специй!
+
+TAG: CookXSpiceMeals_Title
+Повар со специями
+
+TAG: CookXVegetableMeals_Description
+Приготовить овощные рецепты!
+
+TAG: CookXVegetableMeals_Title
+Питание на растительном топливе
+
+TAG: DecorateBeach_Description
+Добавить {targetamount} Декорации в Dazzle Beach
+
+TAG: DecorateCliff_Description
+Добавить {targetamount} Награды к размораженным высотам
+
+TAG: DecorateDarkMountains_Description
+Добавить {targetamount} Награды в забытые земли
+
+TAG: DecorateForest_Description
+Добавить {targetamount} Награды в лес Валор
+
+TAG: DecorateMeadow_Description
+Добавить {targetamount} Награды в мирную лугу
+
+TAG: DecoratePlaza_Description
+Добавить {targetamount} Декорации к Плазе
+
+TAG: DecorateSavannah_Description
+Добавить {targetamount} Декорации в плато Солнцелит
+
+TAG: DecorateWetlands_Description
+Добавить {targetamount} Награды в Глейд доверия
+
+TAG: Event!HarvestEggs_Description
+Урожай {ItemName}
+
+TAG: Event!PickupEggs_Description
+Выбери {ItemName}
+
+TAG: ExpandHouseXTimes_Description
+Добавьте больше комнат в свой дом!
+
+TAG: ExpandHouseXTimes_Title
+Добавить комнаты в ваш дом
+
+TAG: Expansion01!CookASpecificMeal_Description
+Подготовить {ItemName}
+
+TAG: Expansion01!CookXEternityIsleFishMeals_Description
+Приготовить рыбные рецепты на острове Вечность!
+
+TAG: Expansion01!CookXEternityIsleFishMeals_Title
+Повар с уникальными вечными рыбами на острове
+
+TAG: Expansion01!CookXEternityIsleFruitMeals_Description
+Кухонные рецепты на острове Вечность, основанные на фруктах!
+
+TAG: Expansion01!CookXEternityIsleFruitMeals_Title
+Повар с вечными фруктами
+
+TAG: Expansion01!CookXEternityIsleSeafoodMeals_Description
+Кухонные рецепты "Вечность на острове" на основе морепродуктов!
+
+TAG: Expansion01!CookXEternityIsleSeafoodMeals_Title
+Повар с вечностью на острове Сифуд
+
+TAG: Expansion01!CookXEternityIsleSpiceMeals_Description
+Приготовить рецепты, используя специи!
+
+TAG: Expansion01!CookXEternityIsleSpiceMeals_Title
+Повар со специями острова Вечность
+
+TAG: Expansion01!CookXEternityIsleVegetableMeals_Description
+Кулинарные рецепты на острове Вечность, основанные на овощах!
+
+TAG: Expansion01!CookXEternityIsleVegetableMeals_Title
+Повар с вечными овощами
+
+TAG: Expansion01!CraftAutoCookerXTimes_Description
+Соберите свои временные ресурсы в "Авто-Кукерс".
+
+TAG: Expansion01!CraftAutoCookerXTimes_Title
+Объединить ресурсы в автоматических котлоагрегатов
+
+TAG: Expansion01!CraftGardenerXTimes_Description
+Соберите свои ресурсы, чтобы отдохнуть, в садоводов.
+
+TAG: Expansion01!CraftGardenerXTimes_Title
+Объединить ресурсы с садоводами
+
+TAG: Expansion01!CraftVacuumXTimes_Description
+Соберите свои временные ресурсы в Vacuums.
+
+TAG: Expansion01!CraftVacuumXTimes_Title
+Объединить ресурсы в вакууме
+
+TAG: Expansion01!DecorateDesert_Description
+Добавить {targetamount} Декорации к бледным дюнам
+
+TAG: Expansion01!DecorateJungle_Description
+Добавить {targetamount} Декорации в дикий стиль
+
+TAG: Expansion01!DecorateOutpost_Description
+Добавить {targetamount} награды к посадке Древних
+
+TAG: Expansion01!FindCores_Description
+Найти {TargetAmount} Временные Крепления
+
+TAG: Expansion01!FindGifts_Description
+Найти {TargetAmount} Подарок
+
+TAG: Expansion01!FindGlimmer_Description
+Найти {TargetAmount} Глиммер
+
+TAG: Expansion01!FindParts_Description
+Найти {TargetAmount} Временные части
+
+TAG: Expansion01!FindXCore_Description
+Воспользуйся своим часовым стеклом, чтобы найти "Кор".
+
+TAG: Expansion01!FindXCore_Title
+Найти ядро с помощью часового стекла
+
+TAG: Expansion01!FindXGifts_Description
+Воспользуйся часовым стеклом, чтобы найти подарки.
+
+TAG: Expansion01!FindXGifts_Title
+Найдите подарки с помощью часового стекла
+
+TAG: Expansion01!FindXGlimmer_Description
+Используй часы, чтобы найти Глиммера.
+
+TAG: Expansion01!FindXGlimmer_Title
+Найди Глиммера с твоим часовым стеклом
+
+TAG: Expansion01!FindXParts_Description
+Используй часы, чтобы найти части.
+
+TAG: Expansion01!FindXParts_Title
+Найдите части с помощью часового стекла
+
+TAG: Expansion01!HangoutForXMinutes_Description
+Оставайтесь с {itemname} на 5 минут.
+
+TAG: Expansion01!HangoutWithEternityIsleCharacters_Description
+Проведи время с друзьями, которых ты нашел на острове Вечность.
+
+TAG: Expansion01!HangoutWithEternityIsleCharacters_Title
+Потусоваться с друзьями с острова Вечность
+
+TAG: Expansion01!PlayBoardGameXTimes_Description
+Сыграем в "Скрамблкоин" против других деревенских.
+
+TAG: Expansion01!PlayBoardGameXTimes_Title
+Воспроизвести Scramblecoin
+
+TAG: Expansion01!PossessXFigurines_Description
+Заполните свою коллекцию фигурок Скрамблкоина.
+
+TAG: Expansion01!PossessXFigurines_Title
+Найти Фигурины
+
+TAG: Expansion01!RemoveDreamlightCracks_Description
+Удалить {TargetAmount} Splinters of Fate
+
+TAG: Expansion01!RemoveXDreamlightCracks_Description
+Убрать Сплячки Судьбы с острова!
+
+TAG: Expansion01!RemoveXDreamlightCracks_Title
+Удалить размножения Судьбы
+
+TAG: Expansion01!SellFishes_Description
+Продавать {TargetAmount} рыбу
+
+TAG: Expansion01!SellFruits_Description
+Продавать {TargetAmount} фрукты
+
+TAG: Expansion01!SellMeals_Description
+Продажа {TargetAmount} Еды
+
+TAG: Expansion01!SellMineral_Description
+Продажа полезных ископаемых {TargetAmount}
+
+TAG: Expansion01!SellVegetables_Description
+Продажи {TargetAmount} Овощи
+
+TAG: Expansion01!UpgradeHourglassXTimes_Description
+Усовершенствуй свой часок.
+
+TAG: Expansion01!UpgradeHourglassXTimes_Title
+Модернизация часового стекла
+
+TAG: Expansion01!WinBoardGameAgainstXOnce_Description
+Победа в Scramblecoin против {itemname}
+
+TAG: Expansion01!WinBoardGameXTime_Description
+Победа в Scramblecoin {TargetAmount} раз
+
+TAG: Expansion01!WinBoardGameXTimes_Description
+Победа против других деревенских жителей в Скрамблкоине.
+
+TAG: Expansion01!WinBoardGameXTimes_Title
+Победа в Scramblecoin
+
+TAG: Expansion02!CatchAnySnippets_Description
+Используй свой Royal Net, чтобы поймать Snippets!
+
+TAG: Expansion02!CatchAnySnippets_Title
+Поймать снайперов
+
+TAG: Expansion02!CatchFishes_FairyTales_Description
+Поймать {TargetAmount} Рыбу в вечности
+
+TAG: Expansion02!CatchFishes_Library_Description
+Поймать {TargetAmount} Рыбу в клетке
+
+TAG: Expansion02!CatchFishes_Mythology_Description
+Захват {TargetAmount} рыбы в мифопии
+
+TAG: Expansion02!CatchSnippets_Any_Description
+Поймать любые снайперы
+
+TAG: Expansion02!CatchSnippets_Bird_Description
+Поймать птицу
+
+TAG: Expansion02!CatchSnippets_Demon_Description
+Поймать Демон Сниппетс
+
+TAG: Expansion02!CatchSnippets_Frog_Description
+Поймать Лягушонок
+
+TAG: Expansion02!CatchSpecificFairyTalesFish_Description
+Поймать {TargetAmount} {ItemName}
+
+TAG: Expansion02!CatchSpecificLibraryFish_Description
+Поймать {TargetAmount} {ItemName}
+
+TAG: Expansion02!CatchSpecificMythologyFish_Description
+Поймать {TargetAmount} {ItemName}
+
+TAG: Expansion02!CatchXFairyTalesFishes_Description
+Используй свой рыболовецкий род в водах вечности, чтобы поймать рыбу!
+
+TAG: Expansion02!CatchXFairyTalesFishes_Title
+Поймать рыбу из вечности
+
+TAG: Expansion02!CatchXLibraryFishes_Description
+Используй свой рыболовецкий Род в водах Бинда, чтобы поймать рыбу!
+
+TAG: Expansion02!CatchXLibraryFishes_Title
+Поймать рыбу из скобки
+
+TAG: Expansion02!CatchXMythologyFishes_Description
+Используй свой рыболовецкий Род в водах Мифопии, чтобы поймать рыбу!
+
+TAG: Expansion02!CatchXMythologyFishes_Title
+Поймать рыбу из мифопии
+
+TAG: Expansion02!CatchXSnippetBirds_Description
+Воспользуйся своей Royal Net, чтобы поймать Bird Snippets!
+
+TAG: Expansion02!CatchXSnippetBirds_Title
+Поймать птицу
+
+TAG: Expansion02!CatchXSnippetDemons_Description
+Используй свою Королевскую сеть, чтобы поймать Демон Сниппетс!
+
+TAG: Expansion02!CatchXSnippetDemons_Title
+Поймать Демон Сниппетс
+
+TAG: Expansion02!CatchXSnippetFrogs_Description
+Используй свой Royal Net, чтобы поймать Frog Snippets!
+
+TAG: Expansion02!CatchXSnippetFrogs_Title
+Поймать Лягушонок
+
+TAG: Expansion02!CompleteStory_Description
+Перезаказать историю
+
+TAG: Expansion02!CookASpecificMeal_Description
+Подготовить {ItemName}
+
+TAG: Expansion02!CookXStorybookValeFishMeals_Description
+Приготовить рыбные рецепты с "Сказочной Книгой Вейл Фиш".
+
+TAG: Expansion02!CookXStorybookValeFishMeals_Title
+Кухарка с классической рыбой величины
+
+TAG: Expansion02!CookXStorybookValeFruitMeals_Description
+Приготовить рецепты на основе фруктовой палочки!
+
+TAG: Expansion02!CookXStorybookValeFruitMeals_Title
+Повар с фруктами из книги "История вели"
+
+TAG: Expansion02!CookXStorybookValeSeafoodMeals_Description
+Приготовить рецепты "Сказочной книги Вэйл Сифуд"!
+
+TAG: Expansion02!CookXStorybookValeSeafoodMeals_Title
+Повар с книгой "Storybook Vale Seafood"
+
+TAG: Expansion02!CookXStorybookValeSpiceMeals_Description
+Приготовить рецепты, используя специи сказочной книги!
+
+TAG: Expansion02!CookXStorybookValeSpiceMeals_Title
+Приготовить со сказочной книгой "Storybook Vale Spices"
+
+TAG: Expansion02!CookXStorybookValeVegetableMeals_Description
+Приготовить рецепты на овощной основе!
+
+TAG: Expansion02!CookXStorybookValeVegetableMeals_Title
+Повар с веловодством "Storybook Vale Waves"
+
+TAG: Expansion02!CraftChillerTraps_Description
+Славные ловушки, чтобы помочь вам поймать Сниппетса.
+
+TAG: Expansion02!CraftChillerTraps_Title
+Медленные ловушки
+
+TAG: Expansion02!CraftSnippetsBirds_Description
+Отклонение от снайппета, чтобы держаться подальше.
+
+TAG: Expansion02!CraftSnippetsBirds_Title
+Репеллентный ремесленник &lt; &lt; Сниппет &gt; &gt;
+
+TAG: Expansion02!CraftStickyTraps_Description
+Снайперские ловушки, чтобы помочь поймать Сниппетса.
+
+TAG: Expansion02!CraftStickyTraps_Title
+Крепкие ловушки
+
+TAG: Expansion02!DecorateFairyTales_Description
+Добавить {targetamount} Декорации в «Вечность»
+
+TAG: Expansion02!DecorateLibrary_Description
+Добавить {targetamount} Декорации в бинд
+
+TAG: Expansion02!DecorateMythology_Description
+Добавить {targetamount} Награды в мифопию
+
+TAG: Expansion02!FeedCritter_1_Description
+Кормите малыша Пегаса
+
+TAG: Expansion02!FeedCritter_FairyTales_Description
+Покормите дракона-ребенка
+
+TAG: Expansion02!FeedCritter_Library_Description
+Кормить сова
+
+TAG: Expansion02!FeedFairyTalesCritter_Description
+Кормите тварей из вечности!
+
+TAG: Expansion02!FeedFairyTalesCritter_Title
+Кормите маленьких драконов
+
+TAG: Expansion02!FeedFavoriteFoodFairyTalesCritter_Description
+Накормите зверей из "Вечно после их любимой еды"!
+
+TAG: Expansion02!FeedFavoriteFoodFairyTalesCritter_Title
+Накормите драконов их любимую пищу
+
+TAG: Expansion02!FeedFavoriteFoodLibraryCritter_Description
+Накормите тварей из "Бинда" их любимой едой!
+
+TAG: Expansion02!FeedFavoriteFoodLibraryCritter_Title
+Накормите Сов их любимую пищу
+
+TAG: Expansion02!FeedFavoriteFoodMythologyCritter_Description
+Накорми зверей из Мифопии их любимую еду!
+
+TAG: Expansion02!FeedFavoriteFoodMythologyCritter_Title
+Накормите малыша Пегаса любимой пищей
+
+TAG: Expansion02!FeedLibraryCritter_Description
+Накормите тварей из Бинда!
+
+TAG: Expansion02!FeedLibraryCritter_Title
+Кормите Сов
+
+TAG: Expansion02!FeedMythologyCritter_Description
+Покорми зверей из Мифопии.
+
+TAG: Expansion02!FeedMythologyCritter_Title
+Кормите малыша Пегаса
+
+TAG: Expansion02!GatherSpices_StorybookVale_Description
+Урожай {TargetAmount} Storybook Vale Spices
+
+TAG: Expansion02!GatherXCapeGooseberries_Description
+Урожай мыса Гусникера из "Сказочной книги".
+
+TAG: Expansion02!GatherXCapeGooseberries_Title
+Мыс Гусеника
+
+TAG: Expansion02!GatherXLightnings_Description
+Спайс из Сказочной Долины.
+
+TAG: Expansion02!GatherXLightnings_Title
+Спайс для сбора молний
+
+TAG: Expansion02!GatherXPorcini_Description
+Урожай Порчини из "Сказочной книги".
+
+TAG: Expansion02!GatherXPorcini_Title
+Урожай Порчини
+
+TAG: Expansion02!GatherXTrumpedSnails_Description
+Улитки Трампета из Сказочной Долины.
+
+TAG: Expansion02!GatherXTrumpedSnails_Title
+Улитки в трубах
+
+TAG: Expansion02!GatherXVanilla_Description
+Урожай Ванилья из "Сказочной книги".
+
+TAG: Expansion02!GatherXVanilla_Title
+Урожай ваниль
+
+TAG: Expansion02!HangoutForXMinutes_Description
+Оставайтесь с {itemname} на 5 минут.
+
+TAG: Expansion02!HangoutWithStorybookValeCharacters_Description
+Проведи время с друзьями, которых ты нашел в "Сказочной Долине".
+
+TAG: Expansion02!HangoutWithStorybookValeCharacters_Title
+Потусоваться с друзьями из "Сказочной книги"
+
+TAG: Expansion02!HarvestFruits_1_Description
+Урожай {TargetAmount} Серые ягоды
+
+TAG: Expansion02!HarvestFruits_Kaki_Description
+Урожай {TargetAmount} Persimmons
+
+TAG: Expansion02!HarvestFruits_Olive_Description
+Урожай {TargetAmount} Оливки
+
+TAG: Expansion02!HarvestFruits_SpiralStrawberry_Description
+Урожай {TargetAmount} Спиральная клубника
+
+TAG: Expansion02!HarvestSpices_Nutmeg_Description
+Урожай Nutmeg {TargetAmount} раз
+
+TAG: Expansion02!HarvestVegetables_BookVale_Description
+Урожай {TargetAmount} Овощи из историй
+
+TAG: Expansion02!HarvestVegetables_BrusselSprout_Description
+Урожай {TargetAmount} Brussels Sprouts
+
+TAG: Expansion02!HarvestXVegetablesInStorybookVale_Description
+Урожай овощей в вашем саду из "Сказочной книги".
+
+TAG: Expansion02!HarvestXVegetablesInStorybookVale_Title
+Урожай овоща из историй
+
+TAG: Expansion02!MineRockSpots_FairyTales_Description
+Mine {TargetAmount} Rock Spots в Everferweth
+
+TAG: Expansion02!MineRockSpots_Library_Description
+Mine {TargetAmount} Rock Spots in the Bind
+
+TAG: Expansion02!MineRockSpots_Mythology_Description
+Mine {TargetAmount} Rock Spots in Mythopia
+
+TAG: Expansion02!MineSpecificGem_FairyTales_Description
+Мой {TargetAmount} {ItemName}
+
+TAG: Expansion02!MineSpecificGem_Library_Description
+Мой {TargetAmount} {ItemName}
+
+TAG: Expansion02!MineSpecificGem_Mythology_Description
+Мой {TargetAmount} {ItemName}
+
+TAG: Expansion02!MineXMagma_Description
+Мой для "Магмы" в "Сказочной Долине"!
+
+TAG: Expansion02!MineXMagma_Title
+Моя Магма
+
+TAG: Expansion02!MineXMarble_Description
+Мой для "Марбл" в "Сказочной Долине"!
+
+TAG: Expansion02!MineXMarble_Title
+Моя Марбл
+
+TAG: Expansion02!MineXOpal_Description
+Мой для Опалс в "Сказочной Долине"!
+
+TAG: Expansion02!MineXOpal_Title
+Минная опал
+
+TAG: Expansion02!MineXPetrifiedWood_Description
+Мой для очищенного дерева в "Сказочной Долине"!
+
+TAG: Expansion02!MineXPetrifiedWood_Title
+Добыча очищенной древесины
+
+TAG: Expansion02!MineXPureIce_Description
+Моя чистая ледяная дорожка!
+
+TAG: Expansion02!MineXPureIce_Title
+Мой чистый лед
+
+TAG: Expansion02!MineXStarSapphire_Description
+Мой для Звездных Сапфиров в "Сказочной Долине"!
+
+TAG: Expansion02!MineXStarSapphire_Title
+Мой Звездный Сапфир
+
+TAG: Expansion02!Persimmon_Description
+Урожай персиммонов с деревьев в Сказочной Долине!
+
+TAG: Expansion02!Persimmon_Title
+Урожай персиммонов
+
+TAG: Expansion02!PickBrusselSprouts_Description
+Сбор брюссельских спрутов с деревьев в Сторибук Вейл.
+
+TAG: Expansion02!PickBrusselSprouts_Title
+Урожай в Брюсселье
+
+TAG: Expansion02!PickNutmegs_Description
+Урожай Натмега с деревьев в Стори-Королевской Долине!
+
+TAG: Expansion02!PickNutmegs_Title
+Урожай Nutmeg
+
+TAG: Expansion02!PickOlives_Description
+Урожай Оливок с деревьев в Сказочной Долине!
+
+TAG: Expansion02!PickOlives_Title
+Оливки жатвы
+
+TAG: Expansion02!PickSourberries_Description
+Урожай яйцеклетки с деревьев в Сказочной Долине!
+
+TAG: Expansion02!PickSourberries_Title
+Урожай ягоды
+
+TAG: Expansion02!PickSpiralStrawberries_Description
+Урожай Спиральной Клубники с деревьев в Сказочной Долине!
+
+TAG: Expansion02!PickSpiralStrawberries_Title
+Спиральная клубника
+
+TAG: Expansion02!PlantVegetables_BookVale_Description
+Растение {TargetAmount} Овощи в историйной вале
+
+TAG: Expansion02!PlantXVegetablesInStorybookVale_Description
+Посадить много овощей в Вале!
+
+TAG: Expansion02!PlantXVegetablesInStorybookVale_Title
+Растительные овощи в историйной дощечке
+
+TAG: Expansion02!PurchaseXFairyTalesSeeds_Description
+Посетите "Вестник Гуфи" в "Everweorth", чтобы купить семена!
+
+TAG: Expansion02!PurchaseXFairyTalesSeeds_Title
+Покупайте семена в вечном мире
+
+TAG: Expansion02!PurchaseXLibrarySeeds_Description
+Посетите крепость Гуфи в Бинде, чтобы купить семена!
+
+TAG: Expansion02!PurchaseXLibrarySeeds_Title
+Покупайте семена в кубке
+
+TAG: Expansion02!PurchaseXMythologySeeds_Description
+Посетите в Мифопии стойку Гуфи, чтобы купить семена!
+
+TAG: Expansion02!PurchaseXMythologySeeds_Title
+Покупайте семена в мифопии
+
+TAG: Expansion02!RemoveInkies_Description
+Удалить {TargetAmount} Incies
+
+TAG: Expansion02!RemoveXInkies_Description
+Уберите инкейс из "Сказочной Долины"!
+
+TAG: Expansion02!RemoveXInkies_Title
+Удалить инквизицию
+
+TAG: Expansion02!ReorderXStories_Description
+Посетите Лоревера и перезаказывайте истории.
+
+TAG: Expansion02!ReorderXStories_Title
+Изменить историю
+
+TAG: Expansion02!SellFishes_Description
+Продавать {TargetAmount} рыбу
+
+TAG: Expansion02!SellFruits_Description
+Продавать {TargetAmount} фрукты
+
+TAG: Expansion02!SellMeals_Description
+Продажа {TargetAmount} Еды
+
+TAG: Expansion02!SellMineral_Description
+Продажа полезных ископаемых {TargetAmount}
+
+TAG: Expansion02!SellVegetables_Description
+Продажи {TargetAmount} Овощи
+
+TAG: Expansion02!SellXFishFromStorybookVale_Description
+Продай рыбу, которую поймал, чтобы сделать Звездные Койны!
+
+TAG: Expansion02!SellXFishFromStorybookVale_Title
+Продавать рыбу из "Сказочной Велины"
+
+TAG: Expansion02!SellXFruitsFromStorybookVale_Description
+Продай фрукты, которые ты собрал, чтобы сделать Звездные Койны!
+
+TAG: Expansion02!SellXFruitsFromStorybookVale_Title
+Продавать фрукты из велины "Истории истории"
+
+TAG: Expansion02!SellXMiineralFromStorybookVale_Description
+Продай Gems Гуфи, чтобы заработать Star Coins.
+
+TAG: Expansion02!SellXMiineralFromStorybookVale_Title
+Продай "Джемс" из "Сказочной книги"
+
+TAG: Expansion02!SellXVegetablesFromStorybookVale_Description
+Продай овощи, чтобы сделать "Звездные койки"!
+
+TAG: Expansion02!SellXVegetablesFromStorybookVale_Title
+Продавать овощи из историй
+
+TAG: FeedBeachCritter_Description
+Накормите тварей из Даззл-Бич!
+
+TAG: FeedBeachCritter_Title
+Кормить морских черепах
+
+TAG: FeedCliffsCritter_Description
+Накормите тварей с размораженных высот!
+
+TAG: FeedCliffsCritter_Title
+Накормить лисами
+
+TAG: FeedCritter_Beach_Description
+Кормить морских черепах
+
+TAG: FeedCritter_Cliff_Description
+Накормить лису
+
+TAG: FeedCritter_Dark_Description
+Покормить ворон
+
+TAG: FeedCritter_Description
+Накормить кричащего
+
+TAG: FeedCritter_Desert_Description
+Покормить кобру
+
+TAG: FeedCritter_Forest_Description
+Покормите енота
+
+TAG: FeedCritter_Jungle_Description
+Покормить капибару
+
+TAG: FeedCritter_Meadow_Description
+Покорми кролика
+
+TAG: FeedCritter_Outpost_Description
+Покормить обезьяну
+
+TAG: FeedCritter_Plaza_Description
+Покормить белку
+
+TAG: FeedCritter_Savannah_Description
+Покормить солнечную птицу
+
+TAG: FeedCritter_Wetlands_Description
+Кормить крокодилом
+
+TAG: FeedDarkMountainsCritter_Description
+Накормите зверей из забытых земель!
+
+TAG: FeedDarkMountainsCritter_Title
+Кормите ворон
+
+TAG: FeedDesertCritter_Description
+Накормите тварей из Дюнов!
+
+TAG: FeedDesertCritter_Title
+Кормите кобры
+
+TAG: FeedFavoriteFoodBeachCritter_Description
+Накорми зверей из пляжа Даззл их любимую еду!
+
+TAG: FeedFavoriteFoodBeachCritter_Title
+Кормить морских черепах их любимую пищу
+
+TAG: FeedFavoriteFoodCliffsCritter_Description
+Накормите тварей из "Разморозных высот" их любимой едой!
+
+TAG: FeedFavoriteFoodCliffsCritter_Title
+Накормите лисами любимую пищу
+
+TAG: FeedFavoriteFoodDarkMountainsCritter_Description
+Накорми зверей из забытых земель их любимой едой!
+
+TAG: FeedFavoriteFoodDarkMountainsCritter_Title
+Накормите ворей их любимой пищей
+
+TAG: FeedFavoriteFoodDesertCritter_Description
+Накорми тварей из Дюна их любимую еду!
+
+TAG: FeedFavoriteFoodDesertCritter_Title
+Накормите кобрами их любимую пищу
+
+TAG: FeedFavoriteFoodForestCritter_Description
+Накормите тварей из Форест Биома их любимой едой!
+
+TAG: FeedFavoriteFoodForestCritter_Title
+Накормить лакконов любимой пищей
+
+TAG: FeedFavoriteFoodJungleCritter_Description
+Накормите тварей из Tangle их любимой едой!
+
+TAG: FeedFavoriteFoodJungleCritter_Title
+Накормите Капибара их любимую пищу
+
+TAG: FeedFavoriteFoodMeadowCritter_Description
+Накормите тварей из "Мирного луга" их любимой едой!
+
+TAG: FeedFavoriteFoodMeadowCritter_Title
+Накормите кроликов любимой пищей
+
+TAG: FeedFavoriteFoodOutpostCritter_Description
+Накормите зверей из "Древних посадок" их любимой едой!
+
+TAG: FeedFavoriteFoodOutpostCritter_Title
+Накормить обезьян их любимую пищу
+
+TAG: FeedFavoriteFoodSavannahCritter_Description
+Накорми зверей из плато Санлит их любимую еду!
+
+TAG: FeedFavoriteFoodSavannahCritter_Title
+Покормите птичек их любимую пищу
+
+TAG: FeedFavoriteFoodSwampCritter_Description
+Накормите тварей из Глэйда доверия их любимой едой!
+
+TAG: FeedFavoriteFoodSwampCritter_Title
+Накормите крокодилов их любимой пищей
+
+TAG: FeedFavoriteFoodUrbanCritter_Description
+Накорми зверей с Плаза их любимой едой!
+
+TAG: FeedFavoriteFoodUrbanCritter_Title
+Накормите белок их любимой пищей
+
+TAG: FeedForestCritter_Description
+Накормите тварей из леса Вэлор!
+
+TAG: FeedForestCritter_Title
+Кормите енотов
+
+TAG: FeedJungleCritter_Description
+Накормите тварей из "Толпы"!
+
+TAG: FeedJungleCritter_Title
+Покормите Капибара
+
+TAG: FeedMeadowCritter_Description
+Накормите тварей с Мирного луга!
+
+TAG: FeedMeadowCritter_Title
+Кормите кроликов
+
+TAG: FeedOutpostCritter_Description
+Накормите зверей из Гавани Древних.
+
+TAG: FeedOutpostCritter_Title
+Кормите обезьян
+
+TAG: FeedSavannahCritter_Description
+Накормите зверей из плато Санлит!
+
+TAG: FeedSavannahCritter_Title
+Покормите солнечных птиц
+
+TAG: FeedSwampCritter_Description
+Накормите тварей из Глэйда Доверия!
+
+TAG: FeedSwampCritter_Title
+Кормите крокодилы
+
+TAG: FeedUrbanCritter_Description
+Накормите тварей из Плаза!
+
+TAG: FeedUrbanCritter_Title
+Кормите белок
+
+TAG: GainStarCoins_Description
+Приобретите {TargetAmount} Star Coins
+
+TAG: GainXAmountOfStarCoins_Description
+Приобретите Звездные Койны, будучи активными в Долине!
+
+TAG: GainXAmountOfStarCoins_Title
+Приобретать звёздные койки
+
+TAG: GatherSpices_Description
+Урожай {TargetAmount} Spices
+
+TAG: GatherSpices_EternityIsle_Description
+Урожай {TargetAmount} Eternity Spices
+
+TAG: GatherXAgave_Description
+Урожай Агаве с острова!
+
+TAG: GatherXAgave_Title
+Урожай Агаве
+
+TAG: GatherXBasil_Description
+Урожай Бэзил в Долине!
+
+TAG: GatherXBasil_Title
+Урожай Бэзил
+
+TAG: GatherXCumin_Description
+Урожай Кумин с острова!
+
+TAG: GatherXCumin_Title
+Урожай
+
+TAG: GatherXGarlic_Description
+Урожай чеснок в долине!
+
+TAG: GatherXGarlic_Title
+Урожай чеснок
+
+TAG: GatherXGinger_Description
+Урожай Джинджер в Долине!
+
+TAG: GatherXGinger_Title
+Урожай имбирь
+
+TAG: GatherXMajestea_Description
+Урожай Мажестея с острова!
+
+TAG: GatherXMajestea_Title
+Урожай Мажестея
+
+TAG: GatherXMint_Description
+Урожай Минт в Долине!
+
+TAG: GatherXMint_Title
+Мята для уборки урожая
+
+TAG: GatherXOregano_Description
+Урожай Орегано в Долине!
+
+TAG: GatherXOregano_Title
+Урожай Орегано
+
+TAG: GatherXPaprika_Description
+Урожай Паприка с острова!
+
+TAG: GatherXPaprika_Title
+Урожай Паприка
+
+TAG: GatherXVanilla_Description
+Урожай Ванилья в Долине!
+
+TAG: GatherXVanilla_Title
+Урожай ваниль
+
+TAG: GiveFavoriteGift_Description
+Принеси другу его любимый дар
+
+TAG: GiveGifts_Description
+Принесите подарки {TargetAmount}
+
+TAG: GiveXFavoriteGifts_Description
+Принеси своим друзьям их любимые подарки!
+
+TAG: GiveXFavoriteGifts_Title
+Принесите друзьям их любимые дары
+
+TAG: GiveXGifts_Description
+Принеси подарки своим друзьям!
+
+TAG: GiveXGifts_Title
+Принесите подарки!
+
+TAG: GiveXGiftsDifferentCharacters_Description
+Принесите подарки разным друзьям!
+
+TAG: GiveXGiftsDifferentCharacters_Title
+Принесите подарки друзьям
+
+TAG: Halloween_Halloween3CourseMeal_Description
+{Placeholder}Sample все 3 эксклюзивные кэнди Хэллоуина.
+
+TAG: Halloween_Halloween3CourseMeal_Title
+Трехкратное Хэллоуинское блюдо!
+
+TAG: Halloween_ReadyForHalloween_Description
+{Placeholder}Надень маску.
+
+TAG: Halloween_ReadyForHalloween_Title
+Враждебные одевают много масок
+
+TAG: Halloween_StockpilePumpkins_Description
+{Placeholder}Harvest 100 Тыквы.
+
+TAG: Halloween_StockpilePumpkins_Title
+Запасы тыквы
+
+TAG: Halloween_SugarRush_Description
+{Placeholder}Eat много кэнди!
+
+TAG: Halloween_SugarRush_Title
+Sugar Rush
+
+TAG: Halloween_TrickOrTreat_Description
+{Placeholder} Distribute Candies для деревенских жителей!
+
+TAG: Halloween_TrickOrTreat_Title
+Кошелек или лечение
+
+TAG: HarvestFruits_Almond_Description
+Урожай {TargetAmount} миндаля
+
+TAG: HarvestFruits_Banana_Description
+Урожай {TargetAmount} Бананы
+
+TAG: HarvestFruits_Beach_Description
+Урожай {TargetAmount} &lt; &lt; Черника &gt; &gt;
+
+TAG: HarvestFruits_Cactoberry_Description
+Урожай {TargetAmount} Чактоника
+
+TAG: HarvestFruits_Cliff_Description
+Урожай {TargetAmount} Гусеника
+
+TAG: HarvestFruits_Coconut_Description
+Урожай {TargetAmount} Кокосовые орехи
+
+TAG: HarvestFruits_Coffee_Description
+Выбери немного кофейных бобов {TargetAmount}.
+
+TAG: HarvestFruits_Date_Description
+Урожай {TargetAmount} Даты
+
+TAG: HarvestFruits_Description
+Урожай {TargetAmount} Фрукты
+
+TAG: HarvestFruits_Dreamango_Description
+Урожай {TargetAmount} Dreamangoes
+
+TAG: HarvestFruits_Forest_Description
+Урожай {TargetAmount} Lemons
+
+TAG: HarvestFruits_NestlingBerry_Description
+Жемчужины {TargetAmount}
+
+TAG: HarvestFruits_PlazaMeadow_Description
+Урожай {TargetAmount} Яблоки
+
+TAG: HarvestFruits_Raspberry_Description
+Урожай {TargetAmount} &lt; &lt; Ласпика &gt; &gt;
+
+TAG: HarvestFruits_Savannah_Description
+Урожай {TargetAmount} {ItemName}
+
+TAG: HarvestFruits_Strawberry_Description
+Урожай {TargetAmount} Земляника
+
+TAG: HarvestFruits_Wetlands_Description
+Урожай {TargetAmount} какао-бобы
+
+TAG: HarvestVegetables_Description
+Урожай {TargetAmount} Овощи
+
+TAG: HarvestVegetables_EternityIsle_Description
+Урожай {TargetAmount} Овощи с острова Вечность
+
+TAG: HarvestXTypesOfVegetables_Description
+Угощайся овощами в своём саду!
+
+TAG: HarvestXTypesOfVegetables_Title
+Урожай различных овощей
+
+TAG: HarvestXVegetables_Description
+Вырасти много овощей в своем саду!
+
+TAG: HarvestXVegetables_Title
+Овощи, выращивающие урожай
+
+TAG: HarvestXVegetablesInEternityIsle_Description
+Вырасти много овощей в своем саду!
+
+TAG: HarvestXVegetablesInEternityIsle_Title
+Овощи, выращиваемые на острове Вечность
+
+TAG: HarvestXVegetablesInMeadow_Description
+Соберите много овощей с Мирного луга!
+
+TAG: HarvestXVegetablesInMeadow_Title
+Овощи, выращиваемые в мирных лугах
+
+TAG: Have10FriendsAtLevelX_Description
+Приведите 10 деревенских жителей на уровень дружбы {milestone}!
+
+TAG: Have10FriendsAtLevelX_Title
+10 деревенских жителей на уровне дружбы {milestone}
+
+TAG: Have1FriendAtLevelX_Description
+Доставьте одного деревенщину на уровень дружбы {milestone}!
+
+TAG: Have1FriendAtLevelX_Title
+Возьмите одного деревенского жителя на уровне дружбы {milestone}
+
+TAG: Have20FriendsAtLevelX_Description
+Приведите 20 деревенских жителей на уровень дружбы {milestone}!
+
+TAG: Have20FriendsAtLevelX_Title
+20 деревенских жителей на уровне дружбы {milestone}
+
+TAG: Have5FriendsAtLevelX_Description
+Отправь 5 деревенских жителей на уровень дружбы {milestone}!
+
+TAG: Have5FriendsAtLevelX_Title
+5 деревенских жителей на уровне дружбы {milestone}
+
+TAG: InsideOuit_FeelingJoyful_Description
+Заполните Розовую Память.
+
+TAG: InsideOuit_FeelingJoyful_Title
+Чувствую радость
+
+TAG: InsideOut_FeelingAccomplished_Description
+Заполните все ядро воспоминаний.
+
+TAG: InsideOut_FeelingAccomplished_Title
+Чувство удовлетворенности
+
+TAG: InsideOut_FeelingExpansive_Description
+Заполните Желтую Память.
+
+TAG: InsideOut_FeelingExpansive_Title
+Чувствую себя растянутым
+
+TAG: InsideOut_FeelingNostalgic_Description
+Заполните Голубую Память.
+
+TAG: InsideOut_FeelingNostalgic_Title
+Чувствую ностальгию
+
+TAG: InsideOut_Memorabilia_Description
+Соберите любые кусочки памяти.
+
+TAG: InsideOut_Memorabilia_Title
+Меморандумы
+
+TAG: MakeXBestFriends_Description
+Множество лучших друзей в Долине!
+
+TAG: MakeXBestFriends_Title
+Найти лучших друзей
+
+TAG: MakeXFriends_Description
+Есть много друзей в Долине!
+
+TAG: MakeXFriends_Title
+Заведи друзей
+
+TAG: MineMineral_Description
+Добыча полезных ископаемых {TargetAmount}
+
+TAG: MineRockSpot_Description
+Mine {TargetAmount} Rock Spots
+
+TAG: MineRockSpots_Beach_Description
+Mine {TargetAmount} Rock Spots на Dazzle Beach
+
+TAG: MineRockSpots_Cliff_Description
+Mine {TargetAmount} Rock Spots in the Froshed Hights
+
+TAG: MineRockSpots_Dark_Description
+Mine {TargetAmount} Rock Spots в забытых землях
+
+TAG: MineRockSpots_Desert_Description
+Mine {TargetAmount} Rock Spots in the Glittering Dunes
+
+TAG: MineRockSpots_Forest_Description
+Mine {TargetAmount} Rock Spots в лесу Валора
+
+TAG: MineRockSpots_Jungle_Description
+Mine {TargetAmount} Rock Spots in the Dile Tangle
+
+TAG: MineRockSpots_Meadow_Description
+Mine {TargetAmount} Rock Spots in the Peace Meadow
+
+TAG: MineRockSpots_Outpost_Description
+Mine {TargetAmount} Rock Spots в посадке Древних
+
+TAG: MineRockSpots_PlateauMine_Description
+Mine {TargetAmount} Rock Spots in the Vitalys Mines
+
+TAG: MineRockSpots_Plaza_Description
+Mine {TargetAmount} Rock Spots в Плазе
+
+TAG: MineRockSpots_Savannah_Description
+Mine {TargetAmount} Rock Spots на солнечном плато
+
+TAG: MineRockSpots_Wetlands_Description
+Mine {TargetAmount} Rock Spots in the Glade of Trust
+
+TAG: MineXAlexandrite_Description
+Мой для нескольких кусочков Александрита на острове!
+
+TAG: MineXAlexandrite_Title
+Мой Александрит
+
+TAG: MineXAmethyst_Description
+Мой для нескольких кусочков Аметиста в Долине!
+
+TAG: MineXAmethyst_Title
+Мои аметисты
+
+TAG: MineXAquamarine_Description
+Мой для нескольких кусочков аквамарина в Долине!
+
+TAG: MineXAquamarine_Title
+Минная аквамарина
+
+TAG: MineXBlueZircon_Description
+Мой для нескольких кусочков "Голубого Зиркона" на острове!
+
+TAG: MineXBlueZircon_Title
+Голубой Зиркон
+
+TAG: MineXBumblestone_Description
+Мой для нескольких кусочков Бамблстоуна на острове!
+
+TAG: MineXBumblestone_Title
+Минный Камблестоун
+
+TAG: MineXCitrine_Description
+Мой для нескольких кусочков цитрин в Долине!
+
+TAG: MineXCitrine_Title
+Минная цитрин
+
+TAG: MineXDiamond_Description
+Мой за множество бриллиантов в Долине!
+
+TAG: MineXDiamond_Title
+Добычные алмазы
+
+TAG: MineXEmerald_Description
+Мой для множества изумрудов в Долине!
+
+TAG: MineXEmerald_Title
+Изумруды
+
+TAG: MineXEvergems_Description
+Мой для нескольких кусочков Эвергемса на острове!
+
+TAG: MineXEvergems_Title
+Мой Эвергемс
+
+TAG: MineXGarnet_Description
+Мой для нескольких кусков Гарнета в Долине!
+
+TAG: MineXGarnet_Title
+Минные гарнеты
+
+TAG: MineXJade_Description
+Мой за несколько кусков Джейда на острове!
+
+TAG: MineXJade_Title
+"Моя невеста"
+
+TAG: MineXMineral_Description
+Мой за многочисленные кусочки руды в Долине!
+
+TAG: MineXMineral_Title
+Минеральные минералы
+
+TAG: MineXOnyx_Description
+Мой для нескольких кусков Онокса в Долине!
+
+TAG: MineXOnyx_Title
+Мой "Оникс"
+
+TAG: MineXPeridot_Description
+Мой для нескольких кусков Перидота в Долине!
+
+TAG: MineXPeridot_Title
+Минная шахта &lt; &lt; Перидот &gt; &gt;
+
+TAG: MineXRuby_Description
+Мой для нескольких кусочков Руби в Долине!
+
+TAG: MineXRuby_Title
+Минная рубина
+
+TAG: MineXSapphire_Description
+Мой для нескольких кусочков Сапфира в Долине!
+
+TAG: MineXSapphire_Title
+Минные шапки
+
+TAG: MineXSpinel_Description
+Мой для нескольких кусков Спинеля на острове!
+
+TAG: MineXSpinel_Title
+Спинель шахты
+
+TAG: MineXTopaz_Description
+Мой для нескольких кусочков Топаза в Долине!
+
+TAG: MineXTopaz_Title
+Минные топазы
+
+TAG: MineXTourmaline_Description
+Мой для нескольких кусочков Турмалина в Долине!
+
+TAG: MineXTourmaline_Title
+Минный турнир
+
+TAG: MineXVitalysCrystal_Description
+Мой для нескольких кусков Кристаллов Виталий в Долине!
+
+TAG: MineXVitalysCrystal_Title
+Кристаллы шахтных виталий
+
+TAG: Park_CraftPurpleButton_Description
+Корабль 50 Пурпурные Кнопки.
+
+TAG: Park_CraftPurpleButton_Title
+Кнопка-макер
+
+TAG: Park_FestivalPalooza_Description
+Украсьте свою Долину попкорн Бакетами.
+
+TAG: Park_FestivalPalooza_Title
+Попкорн Энтузиаст
+
+TAG: Park_SweetestNeighboorEver_Description
+Дайте деревенским ребятам 50 кексов на фестивале Dreamlight Parks.
+
+TAG: Park_SweetestNeighboorEver_Title
+Милый Самаритянин
+
+TAG: PickMushrooms_Description
+Выбери {TargetAmount} грибы
+
+TAG: PickupXMushroom_Description
+Соберите грибы в долине!
+
+TAG: PickupXMushroom_Title
+Грибы для сбора урожая
+
+TAG: PickXAlmonds_Description
+Соберите миндальные орехи с деревьев на острове!
+
+TAG: PickXAlmonds_Title
+Урожай миндальных орехов
+
+TAG: PickXApples_Description
+Урожай Яблоки с деревьев в Долине!
+
+TAG: PickXApples_Title
+Яблоки для уборки урожая
+
+TAG: PickXBanana_Description
+Урожай бананы с деревьев в Долине!
+
+TAG: PickXBanana_Title
+Бананы для сбора урожая
+
+TAG: PickXBlueberries_Description
+Урожай голубику из кустов в Долине!
+
+TAG: PickXBlueberries_Title
+Урожай голубика
+
+TAG: PickXCactoberries_Description
+Урожай кактонику с деревьев на острове!
+
+TAG: PickXCactoberries_Title
+Урожай на кактонике
+
+TAG: PickXCherries_Description
+Соберите черешни с деревьев в Долине!
+
+TAG: PickXCherries_Title
+Вишня и вишня
+
+TAG: PickXCocoa_Description
+Урожай какао с деревьев в Долине!
+
+TAG: PickXCocoa_Title
+Урожай какао
+
+TAG: PickXCoconut_Description
+Соберите кокосовые орехи с деревьев в Долине!
+
+TAG: PickXCoconut_Title
+Кокосовые орехи
+
+TAG: PickXCoffee_Description
+Заготовить кофейные бобы из кустов в Долине!
+
+TAG: PickXCoffee_Title
+Заготовка кофейных бобов
+
+TAG: PickXDate_Description
+Урожай с деревьев на острове!
+
+TAG: PickXDate_Title
+Сроки сбора урожая
+
+TAG: PickXDreamangoes_Description
+Урожай Древанго из кустов на острове!
+
+TAG: PickXDreamangoes_Title
+Урожаи Древанго
+
+TAG: PickXDreamlightFruits_Description
+Урожай Фрукты Мечты с деревьев в Долине!
+
+TAG: PickXDreamlightFruits_Title
+Урожай фруктов мечты
+
+TAG: PickXGooseberries_Description
+Урожай из кустов в Долине!
+
+TAG: PickXGooseberries_Title
+Урожай Гусеника
+
+TAG: PickXLemons_Description
+Урожай лимонов с деревьев в Долине!
+
+TAG: PickXLemons_Title
+Урожай лимонов
+
+TAG: PickXLimes_Description
+Урожай лаймов с деревьев в Долине!
+
+TAG: PickXLimes_Title
+Урожай лаймов
+
+TAG: PickXNestlingPears_Description
+Урожай Нестлинг Груши с деревьев на острове!
+
+TAG: PickXNestlingPears_Title
+Жемчужины жатвы
+
+TAG: PickXRaspberries_Description
+Урожай из кустов в долине!
+
+TAG: PickXRaspberries_Title
+Урожай
+
+TAG: PickXStrawberries_Description
+Урожай Клубники из кустов на острове!
+
+TAG: PickXStrawberries_Title
+Клубника
+
+TAG: PickXTypesOfFruits_Description
+Соберите различные фрукты в Долине!
+
+TAG: PickXTypesOfFruits_Title
+Урожай различных фруктов
+
+TAG: PlantSpecificCrops_Description
+Завод {TargetAmount} {ItemName}
+
+TAG: PlantVegetables_Description
+Растение {TargetAmount} Овощи
+
+TAG: PlantVegetables_EternityIsle_Description
+Растение {TargetAmount} Овощи на острове Вечность
+
+TAG: PlantXVegetables_Description
+Посадить много овощей в Долине!
+
+TAG: PlantXVegetables_Title
+Растительные овощи
+
+TAG: PlantXVegetablesInEternityIsle_Description
+Посадить много овощей на острове!
+
+TAG: PlantXVegetablesInEternityIsle_Title
+Растительные овощи на острове Вечность
+
+TAG: PurchaseXBeachSeeds_Description
+Покупайте семена на пляже "Даззл" Гуфи!
+
+TAG: PurchaseXBeachSeeds_Title
+Покупайте семена из Dazzle Beach
+
+TAG: PurchaseXDarkMountainsSeeds_Description
+Используйте забытые земли для покупки семян Гуфи!
+
+TAG: PurchaseXDarkMountainsSeeds_Title
+Покупайте семена из забытых земель
+
+TAG: PurchaseXDesertSeeds_Description
+Покупайте семена в Дюнах с помощью поста Гуфи!
+
+TAG: PurchaseXDesertSeeds_Title
+Покупайте семена в сияющих дюнах
+
+TAG: PurchaseXForestSeeds_Description
+Покупайте семена в лесу Валора!
+
+TAG: PurchaseXForestSeeds_Title
+Покупайте семена в лесу Валор.
+
+TAG: PurchaseXJungleSeeds_Description
+Используйте стойку Гуфи в Tangle, чтобы купить семена!
+
+TAG: PurchaseXJungleSeeds_Title
+Покупайте семена в диком стиле
+
+TAG: PurchaseXMeadowSeeds_Description
+Чтобы купить семена, используйте "Стойл" Гуфи в "Мирном лугу"!
+
+TAG: PurchaseXMeadowSeeds_Title
+Покупайте семена с мирного луга
+
+TAG: PurchaseXOutpostSeeds_Description
+Покупайте семена у Гуфи в Гавани Древних!
+
+TAG: PurchaseXOutpostSeeds_Title
+Покупайте семена в посадке Древних
+
+TAG: PurchaseXSavannahSeeds_Description
+Покупайте семена на плато "Солнце" Гуфи!
+
+TAG: PurchaseXSavannahSeeds_Title
+Покупайте семена из плато Солнце.
+
+TAG: PurchaseXSnowCliffsSeeds_Description
+Чтобы купить семена, используйте замок Гуфи на возвышенных высотах!
+
+TAG: PurchaseXSnowCliffsSeeds_Title
+Покупайте семена с размноженных высот
+
+TAG: PurchaseXSwampSeeds_Description
+Используйте стойку Гуфи в Глэйде Доверия, чтобы купить семена!
+
+TAG: PurchaseXSwampSeeds_Title
+Покупайте семена у глайда доверия
+
+TAG: RemoveNightThorns_Description
+Удалить {TargetAmount} Ночные торны
+
+TAG: RemoveXNightThorns_Description
+Уберите Ночных Торнов из долины!
+
+TAG: RemoveXNightThorns_Title
+Убрать маленькие ночные торны
+
+TAG: RepairXHouseForYourFriends_Description
+Ремонт нескольких домов, чтобы пригласить своих друзей в Долину!
+
+TAG: RepairXHouseForYourFriends_Title
+Ремонтные дома
+
+TAG: SellFishes_Description
+Продавать {TargetAmount} рыбу
+
+TAG: SellFruits_Description
+Продавать {TargetAmount} фрукты
+
+TAG: SellGems_Description
+Продажа полезных ископаемых {TargetAmount}
+
+TAG: SellMeals_Description
+Продажа {TargetAmount} Еды
+
+TAG: SellVegetables_Description
+Продажи {TargetAmount} Овощи
+
+TAG: SellXFish_Description
+Продай рыбу, которую поймал, чтобы сделать Звездные Койны!
+
+TAG: SellXFish_Title
+Продажа рыбы
+
+TAG: SellXFishFromEternityIsle_Description
+Продай рыбу, которую поймал, чтобы сделать Звездные Койны!
+
+TAG: SellXFishFromEternityIsle_Title
+Продажа рыбы с острова Вечность
+
+TAG: SellXFruits_Description
+Продай фрукты, которые ты собрал, чтобы сделать Звездные Койны!
+
+TAG: SellXFruits_Title
+Продажа фруктов
+
+TAG: SellXFruitsFromEternityIsle_Description
+Продай фрукты, которые ты собрал, чтобы сделать Звездные Койны!
+
+TAG: SellXFruitsFromEternityIsle_Title
+Продажа фруктов с острова Вечность
+
+TAG: SellXMeals_Description
+Продай свою еду, чтобы сделать "Звездные койки"!
+
+TAG: SellXMeals_Title
+Продажа продуктов питания
+
+TAG: SellXMineral_Description
+Продай много руды Гуфи!
+
+TAG: SellXMineral_Title
+Продажа драгоценностей
+
+TAG: SellXMineralFromEternityIsle_Description
+Продай много руды Гуфи!
+
+TAG: SellXMineralFromEternityIsle_Title
+Продажа драгоценностей с острова Вечность
+
+TAG: SellXVegetables_Description
+Продай овощи, чтобы сделать "Звездные койки"!
+
+TAG: SellXVegetables_Title
+Продажа овощей
+
+TAG: SellXVegetablesFromEternityIsle_Description
+Продай овощи, чтобы сделать "Звездные койки"!
+
+TAG: SellXVegetablesFromEternityIsle_Title
+Продажа овощей с острова Вечность
+
+TAG: ServeCustomerInRestaurant_Description
+Служите хлебу в ресторане
+
+TAG: Spring_DecorateEggs_Description
+Украсить все 4 кусочка мебели из яиц.
+
+TAG: Spring_DecorateEggs_Title
+Обозначение яиц
+
+TAG: Spring_EggCatcher_Description
+Таблицы V-EGG.
+
+TAG: Spring_EggCatcher_Title
+Это не то место, откуда берутся яйца!
+
+TAG: Spring_EggEater_Description
+Ешь 3 разных весенних яиц.
+
+TAG: Spring_EggEater_Title
+Испытание на весенний вкус
+
+TAG: Spring_FlowerDelivery_Description
+Выбери цветы, пока тусуешься с ВАЛЛ·И.
+
+TAG: Spring_FlowerDelivery_Title
+ВАЛЛ·И Любит цветы
+
+TAG: StartDiscussions_Description
+Ежедневно разговаривай.
+
+TAG: StartXDiscussions_Description
+Начинайте ежедневно обсуждать с друзьями!
+
+TAG: StartXDiscussions_Title
+Ведите ежедневные беседы!
+
+TAG: StartXDiscussionsDifferentCharacters_Description
+Начинайте переговоры с разными друзьями!
+
+TAG: StartXDiscussionsDifferentCharacters_Title
+Разговаривай с разными друзьями!
+
+TAG: Summer_EatSmores_Description
+Ешь С'морс.
+
+TAG: Summer_EatSmores_Title
+Наслаждайся немного сладости
+
+TAG: Summer_GiveMarshmallow_Description
+Отдай жареные маршмеллоу деревенщине.
+
+TAG: Summer_GiveMarshmallow_Title
+Немного сладкого.
+
+TAG: TakePictures_Description
+Сфотографируй.
+
+TAG: TakeXPictures_Description
+Сфотографируйся в Долине!
+
+TAG: TakeXPictures_Title
+Возьмите фотографии
+
+TAG: UnlockAreas_Description
+Уберите Великие Ночные Торны и откройте новые Биомы!
+
+TAG: UnlockAreas_Title
+Убрать гигантские ночные торны из биомов
+
+TAG: UnlockStalls_Description
+Ремонт нескольких палаток, чтобы Гуфи продал тебе больше вещей!
+
+TAG: UnlockStalls_Title
+Ремонтные стойки
+
+TAG: UpgradeGarden_Description
+Помогите Скрудж Макдак и Гуфи улучшить сад!
+
+TAG: UpgradeGarden_Title
+Модернизация сада ВАЛЛ·И
+
+TAG: UpgradeGeneralStore_Description
+Помогите Скрудж Макдак и Гуфи обновить общий магазин!
+
+TAG: UpgradeGeneralStore_Title
+Модернизация магазина Скрудж Макдак
+
+TAG: UpgradeMoanaBoat_Description
+Помогите Скрудж Макдак и Гуфи обновить лодку Моана!
+
+TAG: UpgradeMoanaBoat_Title
+Модернизация лодки Моана
+
+TAG: UpgradePlayerHouse_Description
+Помогите Скрудж Макдак и Гуфи улучшить ваш дом!
+
+TAG: UpgradePlayerHouse_Title
+Усовершенствование дома
+
+TAG: UpgradeRestaurant_Description
+Помогите Скрудж Макдак и Гуфи обновить ресторан!
+
+TAG: UpgradeRestaurant_Title
+Модернизация Реми Ресторан
+
+TAG: WaterXVegetables_Description
+Воспользуйся канистрой для воды сушеных овощей в долине!
+
+TAG: WaterXVegetables_Title
+Сушеные овощи
+

@@ -1,0 +1,45 @@
+TAG: MotherGothel_011_f
+The <ActivityItem>Sunstone</ActivityItem>! Finally!
+
+TAG: MotherGothel_007_f
+I can already feel its effect. I'll stay young and beautiful forever!
+
+TAG: Player_000_choice_000_f
+You look younger than me...
+
+TAG: Player_000_choice_001_f
+You look just like...
+
+TAG: Player_000_choice_002_f
+I guess youth is in the eye of the beholder...
+
+TAG: MotherGothel_008_f
+Of course I do, dear.
+
+TAG: MotherGothel_000_f
+Maintaining my youth is only a fraction of the <ActivityItem>Sunstone</ActivityItem>'s power. When I place it in the Giant Willow, it will grace us all.
+
+TAG: MotherGothel_001_f
+I am glad I let you help me, {PlayerName}. Getting the <ActivityItem>Scroll</ActivityItem> from that doddering fool, Scrooge...
+
+TAG: MotherGothel_002_f
+Going to the Mystical Cave and finding the <ActivityItem>Fragments</ActivityItem>...
+
+TAG: MotherGothel_003_f
+For being so good at running errands, I want to give you a present.
+
+TAG: MotherGothel_004_f
+I know you'll love it. And no, no, no! Don't give me anything in return, though of course you want to.
+
+TAG: MotherGothel_005_f
+I'm going to bathe in the rays of the <ActivityItem>Sunstone</ActivityItem> now. You should really consider it too. You look absolutely exhausted.
+
+TAG: MotherGothel_006_f
+Just teasing, dear. Ta-ta!
+
+TAG: MotherGothel_009_f
+Don't you mean fabulous? And now there's no risk of that changing. Ever.
+
+TAG: MotherGothel_010_f
+Oh, {PlayerName}, don't be so negative when you talk about yourself.
+

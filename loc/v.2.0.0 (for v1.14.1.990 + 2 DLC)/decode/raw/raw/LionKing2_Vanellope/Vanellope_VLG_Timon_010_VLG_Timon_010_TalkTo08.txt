@@ -1,0 +1,84 @@
+TAG: Vanellope_000_f
+Howdy-do, {PlayerName}!
+
+TAG: Vanellope_001_f
+Hey, Vanellope. I just wanted to come check in on you.
+
+TAG: Vanellope_012_f
+Okay... What for?
+
+TAG: Vanellope_019_f
+I know you put an Anti-Lion Security Device in Scar's Den. I had to destroy it before anything bad happened!
+
+TAG: Vanellope_020_f
+What?! But what about Timon? He's really scared!
+
+TAG: Vanellope_021_f
+I'll talk to Timon. But I also want to remind you that this is a place where everyone is welcome... even the Villains. As long as Scar is behaving himself, we have no reason to worry.
+
+TAG: Vanellope_022_f
+*sigh* I suppose you're right. I'm sorry.
+
+TAG: Player_000_choice_000_f
+Have you spoken to Timon recently?
+
+TAG: Player_000_choice_001_f
+What are you up to?
+
+TAG: Player_000_choice_002_f
+Been hanging around Scar at all?
+
+TAG: Vanellope_002_f
+Yeah! I love that little fella.
+
+TAG: Vanellope_005_f
+A bit twitchy sometimes, but you can't really blame him, can you?
+
+TAG: Vanellope_007_f
+What do you mean?
+
+TAG: Vanellope_008_f
+Well... Timon and Scar have a very complicated history. Did you know that?
+
+TAG: Player_001_choice_000_f
+I've heard some things.
+
+TAG: Player_001_choice_001_f
+Complicated in what way?
+
+TAG: Player_001_choice_002_f
+Really? I thought they were the best of friends.
+
+TAG: Vanellope_013_f
+I mean, it's not surprising... predator and prey, always fighting. Not to mention whatever happened with Scar and Simba!
+
+TAG: Vanellope_016_f
+I know Timon feels a little insecure living in Dreamlight Valley with Scar here, too.
+
+TAG: Vanellope_010_f
+And that's why I'm gonna help him get over it! Don't worry, {PlayerName}; I've got everything under control.
+
+TAG: Vanellope_023_f
+I promised Timon I wouldn't say anything, but I'll give you a hint... It involves a net. But that's all you're getting.
+
+TAG: Vanellope_011_f
+Just, uh... maybe don't go around Scar's Den anytime soon, okay?
+
+TAG: Vanellope_014_f
+Oh, you know, predator, prey, opposite ends of the food chain... plus all that stuff between Scar and Simba. It's pretty wild!
+
+TAG: Vanellope_015_f
+Could I get a little more "sar" with that "casm," {PlayerName}?
+
+TAG: Vanellope_018_f
+Sorry, sorry.
+
+TAG: Vanellope_003_f
+Oh, you know me â just helpin' out my neighbors!
+
+TAG: Vanellope_004_f
+Pfft, what? Me? Scar?
+
+TAG: Vanellope_006_f
+Why would I do that? I've heard he's extra dangerous.
+

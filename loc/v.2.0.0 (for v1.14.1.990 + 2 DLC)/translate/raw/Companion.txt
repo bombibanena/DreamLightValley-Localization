@@ -1,0 +1,891 @@
+TAG: AncientCiv!MiniAtlantisGuardian_DisplayName
+Древний робот
+
+TAG: Beach!CritterBeach01_DisplayName
+Классическая морская черепаха
+
+TAG: Beach!CritterBeach01_FavoriteItemDescription
+Морские водоросли
+
+TAG: Beach!CritterBeach02_DisplayName
+Коричневый морской черепаха
+
+TAG: Beach!CritterBeach02_FavoriteItemDescription
+Морские водоросли
+
+TAG: Beach!CritterBeach03_DisplayName
+Белый морской черепаха
+
+TAG: Beach!CritterBeach03_FavoriteItemDescription
+Морские водоросли
+
+TAG: Beach!CritterBeach04_DisplayName
+Пурпурные морские черепахи
+
+TAG: Beach!CritterBeach04_FavoriteItemDescription
+Морские водоросли
+
+TAG: Beach!CritterBeach05_DisplayName
+Черноморская черепаха
+
+TAG: Beach!CritterBeach05_FavoriteItemDescription
+Морские водоросли
+
+TAG: Bird!SnippetBird01_DisplayName
+Красная птица
+
+TAG: Bird!SnippetBird01Tuto_DisplayName
+Красная птица
+
+TAG: Bird!SnippetBird02_DisplayName
+Сниппет &lt; &lt; Синей птицы &gt; &gt;
+
+TAG: Bird!SnippetBird03_DisplayName
+Зеленая птица
+
+TAG: Bird!SnippetBird04_DisplayName
+Желтая птица
+
+TAG: Bird!SnippetBird05_DisplayName
+Белая птица
+
+TAG: Cat!Figaro01_DisplayName
+Фигаро
+
+TAG: Crocodile!Chocodile01_DisplayName
+Крокодил "Чоко"
+
+TAG: Crocodile!Crocodile01_DisplayName
+Классический крокодил
+
+TAG: Crocodile!Crocodile02_DisplayName
+Синий крокодил
+
+TAG: Crocodile!Crocodile03_DisplayName
+Красный крокодил
+
+TAG: Crocodile!Crocodile04_DisplayName
+Золотой крокодил
+
+TAG: Crocodile!Crocodile05_DisplayName
+Белый крокодил
+
+TAG: Crocodile!Crocodile06_DisplayName
+Розовый крокодил
+
+TAG: Crocodile!DapperCrocodile01_DisplayName
+Дэппер Крокодил
+
+TAG: Crocodile!Dreamlight!color01_DisplayName
+Синий крокодил
+
+TAG: Crocodile!Dreamlight!color02_DisplayName
+Розовый крокодил
+
+TAG: Crocodile!FruitCroco01_DisplayName
+Прекрасный крокодил
+
+TAG: DarkMountains!CritterDarkMountains01_DisplayName
+Классический ворон
+
+TAG: DarkMountains!CritterDarkMountains01_FavoriteItemDescription
+Любая пятизвездочная еда
+
+TAG: DarkMountains!CritterDarkMountains02_DisplayName
+Красный Ворон
+
+TAG: DarkMountains!CritterDarkMountains02_FavoriteItemDescription
+Любая пятизвездочная еда
+
+TAG: DarkMountains!CritterDarkMountains03_DisplayName
+Белый Ворона
+
+TAG: DarkMountains!CritterDarkMountains03_FavoriteItemDescription
+Любая пятизвездочная еда
+
+TAG: DarkMountains!CritterDarkMountains04_DisplayName
+Голубая ворона
+
+TAG: DarkMountains!CritterDarkMountains04_FavoriteItemDescription
+Любая пятизвездочная еда
+
+TAG: DarkMountains!CritterDarkMountains05_DisplayName
+Коричневый ворон
+
+TAG: DarkMountains!CritterDarkMountains05_FavoriteItemDescription
+Любая пятизвездочная еда
+
+TAG: Demon!DemonEvil_DisplayName
+Вечно после Демона Сниппета
+
+TAG: Demon!DemonEvil01_DisplayName
+Вечно после Демона Сниппета
+
+TAG: Demon!SnippetDemon01Pink_DisplayName
+Розовый Демон Сниппет
+
+TAG: Demon!SnippetDemon02Blue_DisplayName
+Синий Демон Сниппет
+
+TAG: Demon!SnippetDemon03Red_DisplayName
+Красный Демон Сниппет
+
+TAG: Demon!SnippetDemon04Green_DisplayName
+Зеленый Демон Сниппет
+
+TAG: Expansion01!Capybara!Capybara01_DisplayName
+Классический капибара
+
+TAG: Expansion01!Capybara!Capybara02_DisplayName
+Черный и белый Капибара
+
+TAG: Expansion01!Capybara!Capybara03_DisplayName
+Голубая полоса Капибара
+
+TAG: Expansion01!Capybara!Capybara04_DisplayName
+Серый капибара
+
+TAG: Expansion01!Capybara!Capybara05_DisplayName
+Красная и белая полоса Капибара
+
+TAG: Expansion01!Capybara!CapybaraBW01_DisplayName
+Тун Капибара
+
+TAG: Expansion01!Capybara!CapybaraCottage01_DisplayName
+Цветочный капибара
+
+TAG: Expansion01!Capybara!TinkerBellInspiredCritter01_DisplayName
+Tinker Bell Capybara
+
+TAG: Expansion01!Cobra!Cobra01_DisplayName
+Классическая кобра
+
+TAG: Expansion01!Cobra!Cobra02_DisplayName
+Кобра с голубым и красным полосами
+
+TAG: Expansion01!Cobra!Cobra03_DisplayName
+Розовая кобра
+
+TAG: Expansion01!Cobra!Cobra04_DisplayName
+Желтая и пурпурная кобра
+
+TAG: Expansion01!Cobra!Cobra05_DisplayName
+Зеленая и белая полосатая кобра
+
+TAG: Expansion01!Cobra!CobraBW01_DisplayName
+Тусовая кобра
+
+TAG: Expansion01!Desert!CritterDesert01_DisplayName
+Классическая кобра
+
+TAG: Expansion01!Desert!CritterDesert01_FavoriteItemDescription
+Яйцо
+
+TAG: Expansion01!Desert!CritterDesert02_DisplayName
+Кобра с голубым и красным полосами
+
+TAG: Expansion01!Desert!CritterDesert02_FavoriteItemDescription
+Яйцо
+
+TAG: Expansion01!Desert!CritterDesert03_DisplayName
+Розовая кобра
+
+TAG: Expansion01!Desert!CritterDesert03_FavoriteItemDescription
+Яйцо
+
+TAG: Expansion01!Desert!CritterDesert04_DisplayName
+Желтая и пурпурная кобра
+
+TAG: Expansion01!Desert!CritterDesert04_FavoriteItemDescription
+Яйцо
+
+TAG: Expansion01!Desert!CritterDesert05_DisplayName
+Зеленая и белая полосатая кобра
+
+TAG: Expansion01!Desert!CritterDesert05_FavoriteItemDescription
+Яйцо
+
+TAG: Expansion01!Desert!CritterDesertBW01_DisplayName
+Тусовая кобра
+
+TAG: Expansion01!Desert!CritterDesertBW1_FavoriteItemDescription
+Яйцо
+
+TAG: Expansion01!Jungle!CritterJungle_BW1_FavoriteItemDescription
+Капуста
+
+TAG: Expansion01!Jungle!CritterJungle01_DisplayName
+Классический капибара
+
+TAG: Expansion01!Jungle!CritterJungle01_FavoriteItemDescription
+Капуста
+
+TAG: Expansion01!Jungle!CritterJungle02_DisplayName
+Черный и белый Капибара
+
+TAG: Expansion01!Jungle!CritterJungle02_FavoriteItemDescription
+Капуста
+
+TAG: Expansion01!Jungle!CritterJungle03_DisplayName
+Голубая полоса Капибара
+
+TAG: Expansion01!Jungle!CritterJungle03_FavoriteItemDescription
+Капуста
+
+TAG: Expansion01!Jungle!CritterJungle04_DisplayName
+Серый капибара
+
+TAG: Expansion01!Jungle!CritterJungle04_FavoriteItemDescription
+Капуста
+
+TAG: Expansion01!Jungle!CritterJungle05_DisplayName
+Красная и белая полоса Капибара
+
+TAG: Expansion01!Jungle!CritterJungle05_FavoriteItemDescription
+Капуста
+
+TAG: Expansion01!Jungle!CritterJungleBW01_DisplayName
+Тун Капибара
+
+TAG: Expansion01!Monkey!Monkey01_DisplayName
+Классическая обезьяна
+
+TAG: Expansion01!Monkey!Monkey02_DisplayName
+Черная и коричневая обезьяна
+
+TAG: Expansion01!Monkey!Monkey03_DisplayName
+Красная и бежевая обезьяна
+
+TAG: Expansion01!Monkey!Monkey04_DisplayName
+Бежевая обезьяна
+
+TAG: Expansion01!Monkey!Monkey05_DisplayName
+Черная и Серая Обезьяна
+
+TAG: Expansion01!Monkey!MonkeyBW01_DisplayName
+Тусовая обезьянка
+
+TAG: Expansion01!Monkey!MonkeyJester01_DisplayName
+Обезьяны-джестеры
+
+TAG: Expansion01!Outpost!CritterOutpost_BW1_FavoriteItemDescription
+Любая пятизвездочная еда или лучше
+
+TAG: Expansion01!Outpost!CritterOutpost01_DisplayName
+Классическая обезьяна
+
+TAG: Expansion01!Outpost!CritterOutpost01_FavoriteItemDescription
+Любая пятизвездочная еда или лучше
+
+TAG: Expansion01!Outpost!CritterOutpost02_DisplayName
+Черная и коричневая обезьяна
+
+TAG: Expansion01!Outpost!CritterOutpost02_FavoriteItemDescription
+Любая пятизвездочная еда или лучше
+
+TAG: Expansion01!Outpost!CritterOutpost03_DisplayName
+Красная и бежевая обезьяна
+
+TAG: Expansion01!Outpost!CritterOutpost03_FavoriteItemDescription
+Любая пятизвездочная еда или лучше
+
+TAG: Expansion01!Outpost!CritterOutpost04_DisplayName
+Бежевая обезьяна
+
+TAG: Expansion01!Outpost!CritterOutpost04_FavoriteItemDescription
+Любая пятизвездочная еда или лучше
+
+TAG: Expansion01!Outpost!CritterOutpost05_DisplayName
+Черная и Серая Обезьяна
+
+TAG: Expansion01!Outpost!CritterOutpost05_FavoriteItemDescription
+Любая пятизвездочная еда или лучше
+
+TAG: Expansion01!Outpost!CritterOutpostBW01_DisplayName
+Тусовая обезьянка
+
+TAG: Expansion02!BabyDragon!BabyDragon01_DisplayName
+Синий детский дракон
+
+TAG: Expansion02!BabyDragon!BabyDragon02_DisplayName
+Красный Дракон
+
+TAG: Expansion02!BabyDragon!BabyDragon03_DisplayName
+Зеленый детский дракон
+
+TAG: Expansion02!BabyDragon!BabyDragon04_DisplayName
+Пурпурный детский дракон
+
+TAG: Expansion02!BabyDragon!BabyDragon05_DisplayName
+Дракон детеныша
+
+TAG: Expansion02!BabyDragon!ScholaryDragonSkin01_DisplayName
+Стипендиатский дракон
+
+TAG: Expansion02!BabyPegasus!BabyPegasus01_DisplayName
+Розовый Пегас
+
+TAG: Expansion02!BabyPegasus!BabyPegasus02_DisplayName
+Синий Пегас
+
+TAG: Expansion02!BabyPegasus!BabyPegasus03_DisplayName
+Желтый Пегас
+
+TAG: Expansion02!BabyPegasus!BabyPegasus04_DisplayName
+Персик Пегас
+
+TAG: Expansion02!BabyPegasus!BabyPegasus05_DisplayName
+Черный Пегас
+
+TAG: Expansion02!BabyPegasus!Herc_Pegasus_Baby01_DisplayName
+Малыш Пегас
+
+TAG: Expansion02!FairyTales!CritterFairyTales01_DisplayName
+Синий детский дракон
+
+TAG: Expansion02!FairyTales!CritterFairyTales01_FavoriteItemDescription
+{Placeholder}A песня "Огонь и лед"
+
+TAG: Expansion02!FairyTales!CritterFairyTales02_DisplayName
+Красный Дракон
+
+TAG: Expansion02!FairyTales!CritterFairyTales02_FavoriteItemDescription
+{Placeholder}A песня "Огонь и лед"
+
+TAG: Expansion02!FairyTales!CritterFairyTales03_DisplayName
+Зеленый детский дракон
+
+TAG: Expansion02!FairyTales!CritterFairyTales03_FavoriteItemDescription
+{Placeholder}A песня "Огонь и лед"
+
+TAG: Expansion02!FairyTales!CritterFairyTales04_DisplayName
+Пурпурный детский дракон
+
+TAG: Expansion02!FairyTales!CritterFairyTales04_FavoriteItemDescription
+{Placeholder}A песня "Огонь и лед"
+
+TAG: Expansion02!Library!CritterLibrary01_DisplayName
+Коричневая сова
+
+TAG: Expansion02!Library!CritterLibrary01_FavoriteItemDescription
+{Placeholder}grain & Barley
+
+TAG: Expansion02!Library!CritterLibrary02_DisplayName
+Фиолетовая сова
+
+TAG: Expansion02!Library!CritterLibrary02_FavoriteItemDescription
+{Placeholder}grain & Barley
+
+TAG: Expansion02!Library!CritterLibrary03_DisplayName
+Тёмная сова
+
+TAG: Expansion02!Library!CritterLibrary03_FavoriteItemDescription
+{Placeholder}grain & Barley
+
+TAG: Expansion02!Library!CritterLibrary04_DisplayName
+Легкая сова
+
+TAG: Expansion02!Library!CritterLibrary04_FavoriteItemDescription
+{Placeholder}grain & Barley
+
+TAG: Expansion02!Mythology!CritterMythology01_DisplayName
+Розовый Пегас
+
+TAG: Expansion02!Mythology!CritterMythology01_FavoriteItemDescription
+{Placeholder}Vegetable Feal Stars
+
+TAG: Expansion02!Mythology!CritterMythology02_DisplayName
+Синий Пегас
+
+TAG: Expansion02!Mythology!CritterMythology02_FavoriteItemDescription
+{Placeholder}Vegetable Feal Stars
+
+TAG: Expansion02!Mythology!CritterMythology03_DisplayName
+Желтый Пегас
+
+TAG: Expansion02!Mythology!CritterMythology03_FavoriteItemDescription
+{Placeholder}Vegetable Feal Stars
+
+TAG: Expansion02!Mythology!CritterMythology04_DisplayName
+Персик Пегас
+
+TAG: Expansion02!Mythology!CritterMythology04_FavoriteItemDescription
+{Placeholder}Vegetable Feal Stars
+
+TAG: Expansion02!Owl!Owl01_DisplayName
+Коричневая сова
+
+TAG: Expansion02!Owl!Owl02_DisplayName
+Фиолетовая сова
+
+TAG: Expansion02!Owl!Owl03_DisplayName
+Тёмная сова
+
+TAG: Expansion02!Owl!Owl04_DisplayName
+Белая сова
+
+TAG: FootStool!FootStool01_DisplayName
+Инструменты
+
+TAG: Forest!CritterForest01_DisplayName
+Классический лаксон
+
+TAG: Forest!CritterForest01_FavoriteItemDescription
+Черника
+
+TAG: Forest!CritterForest02_DisplayName
+Красный лакун
+
+TAG: Forest!CritterForest02_FavoriteItemDescription
+Черника
+
+TAG: Forest!CritterForest03_DisplayName
+Черный лаксон
+
+TAG: Forest!CritterForest03_FavoriteItemDescription
+Черника
+
+TAG: Forest!CritterForest04_DisplayName
+Белый лаксон
+
+TAG: Forest!CritterForest04_FavoriteItemDescription
+Черника
+
+TAG: Forest!CritterForest05_DisplayName
+"Голубой лаксон"
+
+TAG: Forest!CritterForest05_FavoriteItemDescription
+Черника
+
+TAG: Fox!Dreamlight!color01_DisplayName
+"Голубая вибрация"
+
+TAG: Fox!Dreamlight!color02_DisplayName
+Розовый Whimsical Fox
+
+TAG: Fox!FestiveFox01_DisplayName
+Фестивальная лиса
+
+TAG: Fox!Fox01_DisplayName
+Белая лиса
+
+TAG: Fox!Fox02_DisplayName
+Классическая лиса
+
+TAG: Fox!Fox03_DisplayName
+Черная лиса
+
+TAG: Fox!Fox04_DisplayName
+Синий лис
+
+TAG: Fox!Fox05_DisplayName
+Красная лиса
+
+TAG: Fox!GhostZeroFox01_DisplayName
+Призрачно"Ноль"Лиса
+
+TAG: Fox!LionFox01_DisplayName
+Танцующий львовый лис
+
+TAG: Fox!LionInspiredFox01_DisplayName
+"Льв"Коб-Фокс
+
+TAG: Fox!LoungeflyFox01_DisplayName
+Очаровательная хижина для гардеробов
+
+TAG: Fox!RainbowFox_DisplayName
+Радуга Фокс
+
+TAG: Fox!RoyalFox01_DisplayName
+Regal Fox
+
+TAG: Frog!FrogEvil_DisplayName
+Никогда после Лягушки Сниппет
+
+TAG: Frog!SnippetFrog01Blue_DisplayName
+Сниппет &lt; &lt; Синий лягушатник &gt; &gt;
+
+TAG: Frog!SnippetFrog02Pink_DisplayName
+Розовая лягушачья снайпетка
+
+TAG: Frog!SnippetFrog03Purple_DisplayName
+Фиолетовая лягушачья снайпетка
+
+TAG: Frog!SnippetFrog04Yellow_DisplayName
+Желтый лягушатник
+
+TAG: Meadow!CritterMeadow01_DisplayName
+Классический кролик
+
+TAG: Meadow!CritterMeadow01_FavoriteItemDescription
+Морковь
+
+TAG: Meadow!CritterMeadow02_DisplayName
+Черный кролик
+
+TAG: Meadow!CritterMeadow02_FavoriteItemDescription
+Морковь
+
+TAG: Meadow!CritterMeadow03_DisplayName
+Коричневый кролик
+
+TAG: Meadow!CritterMeadow03_FavoriteItemDescription
+Морковь
+
+TAG: Meadow!CritterMeadow04_DisplayName
+Белый кролик
+
+TAG: Meadow!CritterMeadow04_FavoriteItemDescription
+Морковь
+
+TAG: Meadow!CritterMeadow05_DisplayName
+Кролик Калико
+
+TAG: Meadow!CritterMeadow05_FavoriteItemDescription
+Морковь
+
+TAG: Moana!Heihei_DisplayName
+Хейхей
+
+TAG: Moana!Pua_DisplayName
+Пуа
+
+TAG: Rabbit!Dreamlight!color01_DisplayName
+Голубой кролик
+
+TAG: Rabbit!Dreamlight!color02_DisplayName
+Розовый кролик
+
+TAG: Rabbit!EnvyRabbit_DisplayName
+Завистливый кролик
+
+TAG: Rabbit!GingerRabbit_DisplayName
+Имбирный кролик
+
+TAG: Rabbit!PlatinumRabbit01_DisplayName
+Нежный кролик
+
+TAG: Rabbit!Rabbit01_DisplayName
+Классический кролик
+
+TAG: Rabbit!Rabbit02_DisplayName
+Черный кролик
+
+TAG: Rabbit!Rabbit03_DisplayName
+Коричневый кролик
+
+TAG: Rabbit!Rabbit04_DisplayName
+Белый кролик
+
+TAG: Rabbit!Rabbit05_DisplayName
+Кролик Калико
+
+TAG: Rabbit!SpringRabbit_Blue_DisplayName
+Синий весенний кролик
+
+TAG: Rabbit!SpringRabbit_Pink_DisplayName
+Розовый весенний кролик
+
+TAG: Rabbit!SpringRabbit_Yellow_DisplayName
+Желтый весенний кролик
+
+TAG: Racoon!Dreamlight!color01_DisplayName
+"Голубой химтический лаксон"
+
+TAG: Racoon!Dreamlight!color02_DisplayName
+Розовый Whimsic Raccoon
+
+TAG: Racoon!Emotions!RacoonAnger01_DisplayName
+Гнев Раккун
+
+TAG: Racoon!Emotions!RacoonDisgust01_DisplayName
+Отвратительный лакун
+
+TAG: Racoon!Emotions!RacoonFear01_DisplayName
+Бойтесь роккона
+
+TAG: Racoon!Emotions!RacoonJoy01_DisplayName
+Джой Ракун
+
+TAG: Racoon!Emotions!RacoonSadness01_DisplayName
+Грусть Раккун
+
+TAG: Racoon!Racoon01_DisplayName
+Классический лаксон
+
+TAG: Racoon!Racoon02_DisplayName
+Красный лакун
+
+TAG: Racoon!Racoon03_DisplayName
+Черный лаксон
+
+TAG: Racoon!Racoon04_DisplayName
+Белый лаксон
+
+TAG: Racoon!Racoon05_DisplayName
+"Голубой лаксон"
+
+TAG: Racoon!RacoonDoll01_DisplayName
+Ветряной лакюн
+
+TAG: Racoon!RacoonSnowman01_DisplayName
+Снежный лакун
+
+TAG: Raven!ChineseRaven01_DisplayName
+Мистический Феникс
+
+TAG: Raven!Dreamlight!color01_DisplayName
+Blue Whimsical Raven
+
+TAG: Raven!Dreamlight!color02_DisplayName
+Розовый волшебный ворон
+
+TAG: Raven!EnnuiRaven_DisplayName
+Эннуи Рейвен
+
+TAG: Raven!LumenRaven01_DisplayName
+Огненный ворон
+
+TAG: Raven!PirateRaven01_DisplayName
+Пиратский попугай
+
+TAG: Raven!Raven01_DisplayName
+Классический ворон
+
+TAG: Raven!Raven02_DisplayName
+Красный Ворон
+
+TAG: Raven!Raven03_DisplayName
+Белый Ворона
+
+TAG: Raven!Raven04_DisplayName
+Голубая ворона
+
+TAG: Raven!Raven05_DisplayName
+Коричневый ворон
+
+TAG: Savanna!CritterSavanna01_DisplayName
+Красная солнечная птица
+
+TAG: Savanna!CritterSavanna01_FavoriteItemDescription
+Цвет цвета
+
+TAG: Savanna!CritterSavanna02_DisplayName
+Бирюза солнечная птица
+
+TAG: Savanna!CritterSavanna02_FavoriteItemDescription
+Цвет цвета
+
+TAG: Savanna!CritterSavanna03_DisplayName
+Изумрудная солнечная птица
+
+TAG: Savanna!CritterSavanna03_FavoriteItemDescription
+Цвет цвета
+
+TAG: Savanna!CritterSavanna04_DisplayName
+Золотая солнечная птица
+
+TAG: Savanna!CritterSavanna04_FavoriteItemDescription
+Цвет цвета
+
+TAG: Savanna!CritterSavanna05_DisplayName
+Орхидеи солнечных птиц
+
+TAG: Savanna!CritterSavanna05_FavoriteItemDescription
+Цвет цвета
+
+TAG: SnowCliffs!CritterSnowCliffs01_DisplayName
+Белая лиса
+
+TAG: SnowCliffs!CritterSnowCliffs01_FavoriteItemDescription
+Уникальная рыба с размораженных высот
+
+TAG: SnowCliffs!CritterSnowCliffs02_DisplayName
+Классическая лиса
+
+TAG: SnowCliffs!CritterSnowCliffs02_FavoriteItemDescription
+Уникальная рыба с размораженных высот
+
+TAG: SnowCliffs!CritterSnowCliffs03_DisplayName
+Черная лиса
+
+TAG: SnowCliffs!CritterSnowCliffs03_FavoriteItemDescription
+Уникальная рыба с размораженных высот
+
+TAG: SnowCliffs!CritterSnowCliffs04_DisplayName
+Синий лис
+
+TAG: SnowCliffs!CritterSnowCliffs04_FavoriteItemDescription
+Уникальная рыба с размораженных высот
+
+TAG: SnowCliffs!CritterSnowCliffs05_DisplayName
+Красная лиса
+
+TAG: SnowCliffs!CritterSnowCliffs05_FavoriteItemDescription
+Уникальная рыба с размораженных высот
+
+TAG: Squirrel!AnxietySquirrel_DisplayName
+Беспокойная белка
+
+TAG: Squirrel!Dreamlight!color01_DisplayName
+Голубая белка
+
+TAG: Squirrel!Dreamlight!color02_DisplayName
+Розовая белка
+
+TAG: Squirrel!IncrediSquirrel01_DisplayName
+Белка
+
+TAG: Squirrel!ParkSquirrel01_DisplayName
+Волшебная белка
+
+TAG: Squirrel!PopCornSquirrel01_DisplayName
+Пеппи Попкорн Белка
+
+TAG: Squirrel!ScarySquirrel01_DisplayName
+Шрамy Белка
+
+TAG: Squirrel!Squirrel01_DisplayName
+Классическая белка
+
+TAG: Squirrel!Squirrel02_DisplayName
+Красная белка
+
+TAG: Squirrel!Squirrel03_DisplayName
+Серая белка
+
+TAG: Squirrel!Squirrel04_DisplayName
+Черная белка
+
+TAG: Squirrel!Squirrel05_DisplayName
+Белка
+
+TAG: Sunbird!Dreamlight!color01_DisplayName
+Голубая птичка солнечных птиц
+
+TAG: Sunbird!Dreamlight!color02_DisplayName
+Розовая птичка солнечная птица
+
+TAG: Sunbird!Lovebird!Lovebird01_DisplayName
+Розовая птичка
+
+TAG: Sunbird!Lovebird!Lovebird02_DisplayName
+Зеленая птица любви
+
+TAG: Sunbird!Sunbird01_DisplayName
+Красная солнечная птица
+
+TAG: Sunbird!Sunbird02_DisplayName
+Бирюза солнечная птица
+
+TAG: Sunbird!Sunbird03_DisplayName
+Изумрудная солнечная птица
+
+TAG: Sunbird!Sunbird04_DisplayName
+Золотая солнечная птица
+
+TAG: Sunbird!Sunbird05_DisplayName
+Орхидеи солнечных птиц
+
+TAG: Turtle!CelestialTurtle01_DisplayName
+Черепаха небесного моря
+
+TAG: Turtle!CitrusTurtle01_DisplayName
+Черепаха
+
+TAG: Turtle!Dreamlight!color01_DisplayName
+Голубая черепаха
+
+TAG: Turtle!Dreamlight!color02_DisplayName
+Розовая черепаха
+
+TAG: Turtle!EmbarassmentTurtle_DisplayName
+Смущение Черепахи
+
+TAG: Turtle!RockstarTurtle01_DisplayName
+Черепаха рок-звезда
+
+TAG: Turtle!Turtle01_DisplayName
+Классическая морская черепаха
+
+TAG: Turtle!Turtle02_DisplayName
+Коричневый морской черепаха
+
+TAG: Turtle!Turtle03_DisplayName
+Белый морской черепаха
+
+TAG: Turtle!Turtle04_DisplayName
+Пурпурные морские черепахи
+
+TAG: Turtle!Turtle05_DisplayName
+Черноморская черепаха
+
+TAG: Turtle!ValentineTurtle01_DisplayName
+Черепаха Рози Клауд Черепаха
+
+TAG: Urban!CritterUrban01_DisplayName
+Классическая белка
+
+TAG: Urban!CritterUrban01_FavoriteItemDescription
+Пыльные орехи
+
+TAG: Urban!CritterUrban02_DisplayName
+Красная белка
+
+TAG: Urban!CritterUrban02_FavoriteItemDescription
+Пыльные орехи
+
+TAG: Urban!CritterUrban03_DisplayName
+Серая белка
+
+TAG: Urban!CritterUrban03_FavoriteItemDescription
+Пыльные орехи
+
+TAG: Urban!CritterUrban04_DisplayName
+Черная белка
+
+TAG: Urban!CritterUrban04_FavoriteItemDescription
+Пыльные орехи
+
+TAG: Urban!CritterUrban05_DisplayName
+Белка
+
+TAG: Urban!CritterUrban05_FavoriteItemDescription
+Пыльные орехи
+
+TAG: Wetlands!CritterWetlands01_DisplayName
+Классический крокодил
+
+TAG: Wetlands!CritterWetlands01_FavoriteItemDescription
+Уникальная рыба из Глейда доверия
+
+TAG: Wetlands!CritterWetlands02_DisplayName
+Синий крокодил
+
+TAG: Wetlands!CritterWetlands02_FavoriteItemDescription
+Уникальная рыба из Глейда доверия
+
+TAG: Wetlands!CritterWetlands03_DisplayName
+Красный крокодил
+
+TAG: Wetlands!CritterWetlands03_FavoriteItemDescription
+Уникальная рыба из Глейда доверия
+
+TAG: Wetlands!CritterWetlands04_DisplayName
+Золотой крокодил
+
+TAG: Wetlands!CritterWetlands04_FavoriteItemDescription
+Уникальная рыба из Глейда доверия
+
+TAG: Wetlands!CritterWetlands05_DisplayName
+Белый крокодил
+
+TAG: Wetlands!CritterWetlands05_FavoriteItemDescription
+Уникальная рыба из Глейда доверия
+
+TAG: Wetlands!CritterWetlands06_DisplayName
+Розовый крокодил
+
+TAG: Wetlands!CritterWetlands06_FavoriteItemDescription
+Уникальная рыба из Глейда доверия
+

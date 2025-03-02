@@ -1,0 +1,99 @@
+TAG: Village!Oswald!VLG_Oswa_030_AvailableDescription
+Oswald seems to be feeling plucky and has been asking to speak with you! What could he want?
+
+TAG: Village!Oswald!VLG_Oswa_030_CompletedStoryDescription
+Finally leaning on his lucky nature, Oswald found a hidden tunnel shortcut that led him directly to the Cave of Wonders and a win!
+
+TAG: Village!Oswald!VLG_Oswa_030_DisplayName
+A Cockamamie Contest
+
+TAG: Village!Oswald!VLG_Oswa_030_Group01_Step01_CookMeal01_StepDescription
+Cook <ActivityItem>Tandoori Chicken</ActivityItem>.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group01_Step21_Possess01_StepDescription
+Some Chili Peppers.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group01_StepDescription
+Gather what Oswald needed:
+
+TAG: Village!Oswald!VLG_Oswa_030_Group02_StepDescription
+Meet Oswald in his House.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group03_Step03_BringItem01_StepDescription
+Tandoori Chicken.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group03_Step03_BringItem02_StepDescription
+Chili Peppers.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group03_Step03_ReadyDescription
+Deliver the spicy food to Oswald for his re-vulcanization process.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group03_Step03_StepDescription
+Make sure you have Oswald's spicy foods in your Inventory.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group04_Step04_TakePicture01_StepDescription
+Take a picture of Oswald inside his House.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group05_Step05_RemoveBlocker01_StepDescription
+Put out the fires in Oswald's House with the Watering Can.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group06_Step06_TalkToCharacter01_StepDescription
+Check back with Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group07_Step07_Conditional01_StepDescription
+Complete Gaston's challenge.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group07_Step07_Conditional02_StepDescription
+Complete EVE's challenge.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group07_Step07_Conditional03_StepDescription
+Complete Rapunzel's challenge.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group07_StoryDescription
+Oswald wanted to compete with you in a series of challenges, but his rubbery limbs weren't up to the task. Fortunately, you were able to help him with a re-vulcanization process and now you're ready to seek out judges!
+
+TAG: Village!Oswald!VLG_Oswa_030_Group08_Step08_TalkToCharacter02_StepDescription
+Talk to Oswald about his performance in the challenges.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group09_Step09_FollowCharacter02_TalkToDescription
+Talk to Oswald when you're ready to start the race.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group09_StepDescription
+Follow Oswald to the beginning of the race through Eternity Isle.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group10_Step10_VisitArea01_StepDescription
+Head onto the bridge to cross the first checkpoint.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group10_StoryDescription
+You won each challenge set by the Villagers, but Oswald's not done yet and challenges you to a footrace to the heart of the Cave of Wonders.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group11_StepDescription
+Turn right into the Wild Tangle to cross the second checkpoint.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group12_StepDescription
+Cross the third checkpoint to head over the river.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group13_StepDescription
+Cross the fourth checkpoint and head up the hill.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group14_StepDescription
+Cross the fifth checkpoint.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group15_StepDescription
+Turn left to cross the sixth checkpoint into the Glittering Dunes.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group16_StepDescription
+Cross the seventh checkpoint to head further into the Glittering Dunes.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group17_StepDescription
+Cross the eighth checkpoint to approach the Cave of Wonders.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group18_StepDescription
+Reach the checkpoint at the bottom of the Cave of Wonders.
+
+TAG: Village!Oswald!VLG_Oswa_030_Group19_Step19_TalkToCharacter03_StepDescription
+Find out how Oswald managed to beat you to the Cave of Wonders.
+
+TAG: Village!Oswald!VLG_Oswa_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

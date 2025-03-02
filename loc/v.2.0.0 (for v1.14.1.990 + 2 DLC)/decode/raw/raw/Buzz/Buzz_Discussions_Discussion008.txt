@@ -1,0 +1,30 @@
+TAG: Buzz_000_f
+{PlayerName}, do you ever look up at the stars and wonder at their infinite possibility?
+
+TAG: Player_000_choice_000_f
+Absolutely.
+
+TAG: Player_000_choice_001_f
+Not really.
+
+TAG: Player_000_choice_002_f
+Wow, Buzz. That's really deep.
+
+TAG: Buzz_001_f
+That's good to hear. I'm glad you appreciate it too.
+
+TAG: Buzz_003_f
+Well, I encourage you to try it sometime.
+
+TAG: Buzz_004_f
+Beyond this planet, there are worlds we can't possibly imagine.
+
+TAG: Buzz_005_f
+It is?
+
+TAG: Buzz_006_f
+Huh. I guess it is.
+
+TAG: Buzz_007_f
+Well, I stand by what I say.
+

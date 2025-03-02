@@ -1,0 +1,33 @@
+TAG: Merlin_001_f
+{PlayerName}, I presume you've noticed the strange debris littered all over Eternity Isle...
+
+TAG: Merlin_006_f
+Some sort of <Lore>ancient rubble</Lore> strewn about Ancient's Landing.
+
+TAG: Merlin_007_f
+...<Lore>stalagmites made of glass</Lore> in the Glittering Dunes...
+
+TAG: Merlin_008_f
+...and <Lore>malicious plants</Lore> sprouting all over the Wild Tangle.
+
+TAG: Player_000_choice_000_f
+They're blocking me from decorating!
+
+TAG: Player_000_choice_001_f
+They're stopping me from reaching places I want to explore!
+
+TAG: Player_000_choice_002_f
+They sure are ugly.
+
+TAG: Merlin_002_f
+Yes, yes... You know, it's curious. Your Royal Tools should remove the debris...
+
+TAG: Merlin_003_f
+...but it appears that the magic of Eternity Isle has seeped into them. They're <Lore>frozen in time</Lore>.
+
+TAG: Merlin_004_f
+To destroy them, <Lore>you'll need the magic of the Hourglass and the Timebending Table</Lore>.
+
+TAG: Merlin_005_f
+Examine the echoes from the past on your Timebending Table. There must be some way for you to <Lore>make potions to infuse your Royal Tools with the magic you need</Lore>.
+

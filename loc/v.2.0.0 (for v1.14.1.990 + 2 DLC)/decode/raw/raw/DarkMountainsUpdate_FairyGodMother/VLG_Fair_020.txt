@@ -1,0 +1,60 @@
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Any_CompletedRequestDescription
+Return to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_AvailableDescription
+The Fairy Godmother needs your help. She borrowed a book from Merlin a while back but lost it... and now, the wizard has asked for it back. She asks you to help Villagers in her stead while she searches for the book.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_CompletedStoryDescription
+Now that the book is back in its place, the Fairy Godmother will be relieved, but you should tell her just in case.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_DisplayName
+A Lost Book
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step01_ReadyDescription
+Bring some <ActivityItem>Pumpkin Soup</ActivityItem> to Anna.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step01_StepDescription
+Cook some <ActivityItem>Pumpkin Soup</ActivityItem> for Anna.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step02_ReadyDescription
+Bring the <ActivityItem>Sticks</ActivityItem> to Olaf.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step02_StepDescription
+Gather <ActivityItem>Sticks</ActivityItem> of any type found in Dreamlight Valley for Olaf.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step03_ReadyDescription
+Bring the <ActivityItem>Amethysts</ActivityItem> to Ursula.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step03_StepDescription
+Gather the <ActivityItem>Amethysts</ActivityItem> for Ursula.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group01_StepDescription
+Fulfill the Villagers' Wishes:
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group02_Step04_StepDescription
+Talk to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group02_StoryDescription
+After helping every Villager get what they needed from the Fairy Godmother, it's time to go see her again.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group03_Step05_StepDescription
+Clean up the Fairy Godmother's House to find Merlin's Book.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group03_StoryDescription
+You realize the Fairy Godmother looked everywhere except in her House. You decide to do it for her.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group04_Step06_TalkToCharacter02_StepDescription
+Talk to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group05_StepDescription
+Put <ActivityItem>Merlin's Book</ActivityItem> back on the bookshelf on the left in the Library.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group05_StoryDescription
+You decide to take <ActivityItem>Merlin's Book</ActivityItem> back to the Library.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

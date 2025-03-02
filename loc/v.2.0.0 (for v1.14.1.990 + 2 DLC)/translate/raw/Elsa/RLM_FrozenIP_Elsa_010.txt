@@ -1,0 +1,51 @@
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Any_CompletedRequestDescription
+Поговори с Эльза.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_AvailableDescription
+Вы нашли Эльза на другой стороне реки глубоко в Зачарованном лесу.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_CompletedStoryDescription
+Ты помог Эльза успокоить Гейла, Дух Ветра.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_DisplayName
+Преследование ветра
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group01_Step01_TalkToCharacter01_StepDescription
+Познакомьтесь с Эльза по ту сторону моста.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_Possess01_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_Possess02_StepDescription
+<ActivityItem>Iron Ingot</ActivityItem>.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_Possess03_StepDescription
+<ActivityItem>Twine</ActivityItem>.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_StepDescription
+Соберите материалы для <ActivityItem>Wind Chimes</ActivityItem>:
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_StoryDescription
+Вы решили помочь Эльза успокоить дух ветра, Гейл, подготовив несколько <ActivityItem>Wind Chimes</ActivityItem>.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group03_Step03_CraftItem01_StepDescription
+Подготовить <ActivityItem>Wind Chimes</ActivityItem>.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что теперь?
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group04_Step04_VisitArea01_StepDescription
+Возвращайся в замороженный король и найди дорогу обратно в Эльза.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group05_Step05_StepDescription
+Поместите все три <ActivityItem>Wind Chimes</ActivityItem> на разных деревьях рядом с Эльза.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,36 @@
+TAG: Elsa_000_f
+It's... beautiful.
+
+TAG: Elsa_001_f
+And so familiar...
+
+TAG: Player_000_f
+You've been here before.
+
+TAG: Player_000_choice_000_f
+You'll remember. Give it time.
+
+TAG: Player_000_choice_001_f
+The Forgetting stole your memories.
+
+TAG: Player_000_choice_002_f
+Trust me.
+
+TAG: Elsa_002_f
+You're right. It's already coming back to me. It's just a bit... cloudy. Like a dream.
+
+TAG: Elsa_006_f
+The Forest of Valor was swallowed up by Giant Night Thorns. Anna and I left here to return to Arendelle.
+
+TAG: Elsa_008_f
+But soon we'll all be back together. I can tell it's going to be different this time.
+
+TAG: Elsa_007_f
+Thank you for bringing me back, {PlayerName}. I can't wait to see Anna again... and all the other friends I've missed.
+
+TAG: Elsa_005_f
+Wait... I remember that... it's just a bit cloudy, like a dream.
+
+TAG: Elsa_004_f
+It's a lot to take in. But it's starting to come back to me...
+

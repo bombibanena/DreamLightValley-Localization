@@ -1,0 +1,63 @@
+TAG: FairyGodMother_000_f
+Oh, thank you for delivering these delicious treats, dear!
+
+TAG: FairyGodMother_001_f
+I just know my guests will love your pumpkin dishes.
+
+TAG: Player_000_choice_000_f
+No problem! Enjoy!
+
+TAG: Player_000_choice_001_f
+Anything else you need a hand with?
+
+TAG: Player_000_choice_002_f
+What's this I hear about a pumpkin party?
+
+TAG: FairyGodMother_003_f
+If you've a moment... I would like to ask for one more favor.
+
+TAG: FairyGodMother_006_f
+In my excitement to put everything together for my pumpkin party, I'm afraid I forgot one very important thing...
+
+TAG: FairyGodMother_008_f
+...to send out the invitations!
+
+TAG: Player_001_choice_000_f
+I could invite some Villagers!
+
+TAG: Player_001_choice_001_f
+Why not just send out some enchanted invitations?
+
+TAG: Player_001_choice_002_f
+That part is kind of crucial for a party.
+
+TAG: FairyGodMother_009_f
+Oh, would you, dear? I'd be most grateful.
+
+TAG: FairyGodMother_014_f
+For my inaugural party, I'd like to invite <Lore>Vanellope, Stitch, Olaf, Elsa, and Minnie</Lore>.
+
+TAG: FairyGodMother_015_f
+After all, what matters most is not cake, favors, or other odds and ends...
+
+TAG: FairyGodMother_016_f
+...but rather a welcoming atmosphere and many good friends!
+
+TAG: FairyGodMother_010_f
+Oh, enchanted invitations can be a bit tricky. They're known to wander and get themselves into trouble.
+
+TAG: FairyGodMother_011_f
+It would be much simpler if you could ask some of the Villagers for me.
+
+TAG: FairyGodMother_012_f
+Of course it is, dear.
+
+TAG: FairyGodMother_013_f
+I don't suppose you could help me by inviting some Villagers?
+
+TAG: FairyGodMother_004_f
+How kind of you to ask. And, yes, I could use your help with something...
+
+TAG: FairyGodMother_005_f
+Yes, it's a new idea I've had that I hope will become a tradition. It's just... I'm afraid I have a bit of a problem, which I was hoping you could help with.
+

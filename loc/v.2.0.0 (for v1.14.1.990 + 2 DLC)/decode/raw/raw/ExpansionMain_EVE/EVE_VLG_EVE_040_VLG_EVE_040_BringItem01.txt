@@ -1,0 +1,33 @@
+TAG: EVE_000_f
+Directive.
+
+TAG: EVE_001_f
+Whenever you're ready, EVE, you can test the <ActivityItem>Experimental Fireworks</ActivityItem>...
+
+TAG: EVE_002_f
+*digital beeps*
+
+TAG: EVE_003_f
+Ohh...
+
+TAG: Player_000_f
+<ActivityItem>Fires</ActivityItem>... again...
+
+TAG: Player_000_choice_000_f
+Hope it's the last time.
+
+TAG: Player_000_choice_001_f
+This is starting to become a theme.
+
+TAG: Player_000_choice_002_f
+I love setting things on fire for science!
+
+TAG: EVE_005_f
+*sigh*
+
+TAG: EVE_006_f
+*sigh*
+
+TAG: EVE_007_f
+Hmmm...
+

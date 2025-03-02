@@ -1,0 +1,147 @@
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_AvailableDescription
+Пумба взволнован чем-то! Поговорите с ним и посмотрите, что происходит!
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_CompletedStoryDescription
+Пумба так взволнован своим первым художественным шоу, что он благодарит вас за вашу помощь с подарком вашего собственного гончарного колеса!
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_DisplayName
+Изящные искусства для уртопов
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group01_Step01_TalkToCharacter01_StepDescription
+Получите совет от {TargetNPC} о проведении занятий по гончарной керамике.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group01_StoryDescription
+Пумба ищет хобби, и вы предлагаете гончарную гончарность из-за его интереса к глине и грязи. Он очень взволнован и хочет, чтобы все началось прямо сейчас. Вы собираетесь поговорить с художественной деревенщиной за советом.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group02_Step02_TalkToCharacter02_StepDescription
+Получите совет от {TargetNPC} о проведении занятий по гончарной керамике.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group03_Step03_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group03_Step03_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group03_Step03_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group03_Step03_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group03_Step03_Possess05_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group03_Step03_StepDescription
+Соберите следующие материалы:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group04_Step04_CraftItem01_StepDescription
+Граф <ActivityItem>Pottery Wheels</ActivityItem> для класса керамики Пумба.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group04_StoryDescription
+Вы собираете материалы, чтобы сделать Поттери Колеса и припасы для класса Пумба.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group05_Step05_BringItem01_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group05_Step05_ReadyDescription
+Возьмите <ActivityItem>Pottery Wheels</ActivityItem> на {TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group06_Step06_StepDescription
+Пригласите следующих деревенских жителей на вечеринку в керамике Пумба:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group06_Step06_TalkToCharacter03_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group06_Step06_TalkToCharacter04_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group06_Step06_TalkToCharacter05_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group06_StoryDescription
+Пумба отправляется в Прайд Рок, чтобы помочь организовать класс керамики, в то время как вы приглашаете Симба и Нала'и убеждаете Тимон, кого Пумба пытался убедить без успеха.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group07_Step07_VisitArea01_StepDescription
+Зайди в Прайд Рок, чтобы начать занятия по керамике Пумба.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group08_Step08_TalkToCharacter06_StepDescription
+Поговорите с {TargetNPC}, чтобы начать урок.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group09_Step09_StepDescription
+Помогите Пумба друзьям с их керамическими проектами:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group09_Step09_TalkToCharacter07_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group09_Step09_TalkToCharacter08_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group09_Step09_TalkToCharacter09_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group09_StoryDescription
+На занятиях по гончарности вы делаете обходы, чтобы увидеть, как каждый работает со своими проектами.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group10_Step10_TalkToCharacter10_StepDescription
+Проверь с {TargetNPC} его проект по гончарности.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group11_Step11_TalkToCharacter11_StepDescription
+Поговори с {TargetNPC} о дисплеях для шоу Пумба керамики.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group11_StoryDescription
+Пумба так гордится гончарными проектами своих друзей, он хочет показать всю деревню. Вы предлагаете художественную выставку для показа работы. Когда Пумба будет взволнован этой идеей, вы посмотрите Скрудж Макдак McDuck, чтобы попросить дисплея.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group12_Step12_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group12_Step12_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group12_Step12_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group12_Step12_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group12_Step12_BringItem06_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group12_Step12_ReadyDescription
+Обменяйтесь цветами и драгоценными камнями с Скрудж Макдак McDuck.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group12_Step12_StepDescription
+Собирайте вещи для торговли с Скрудж Макдак McDuck:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group13_Step13_TalkToCharacter12_StepDescription
+Поговори с {TargetNPC} об организации художественного шоу.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group13_StoryDescription
+Вы обмениваете цветы и драгоценные драгоценности с Скрудж Макдак McDuck на красивые стойки для показа и отправляетесь на Пумба чтобы получить готовые куски керамики.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group14_Step14_Decorate01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group14_Step14_Decorate02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group14_Step14_Decorate03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group14_Step14_Decorate04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group14_Step14_Decorate05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group14_Step14_StepDescription
+Декорация для Пумба керамического шоу с использованием:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group15_Step15_FollowCharacter01_StepDescription
+Следуйте за Пумба на выставке.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_Group15_Step15_FollowCharacter01_TalkToDescription
+Поговори с {TargetNPC} о его первом шоу.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,36 @@
+TAG: Remy_000_f
+How did things go with Anna, {PlayerName}?
+
+TAG: Remy_001_f
+Was she happy to get a little taste of home?
+
+TAG: Player_000_choice_000_f
+Mission accomplished!
+
+TAG: Player_000_choice_001_f
+It wasn't easy, but I did it.
+
+TAG: Player_000_choice_002_f
+That was a tough one.
+
+TAG: Remy_005_f
+Your skills are getting pretty incredible. Who knows? Someday you might open Chez {PlayerName}!
+
+TAG: Remy_008_f
+Here you go. Some <ActivityItem>Wrought Iron</ActivityItem>, courtesy of Mr. McDuck.
+
+TAG: Remy_009_f
+Use it to build something great for the Village. The more deliveries you do for Chez Remy Mobile, the more we'll be able to order.
+
+TAG: Remy_006_f
+You're getting better at this every day. Who knows? You might even open your own restaurant someday.
+
+TAG: Remy_007_f
+Hey, making mistakes is how we learn. Remind me to tell you about that time I mixed up the sugar and salt when I was making a tarte Tatin once.
+
+TAG: Remy_002_f
+Did she like her chocolate buffet?
+
+TAG: Remy_003_f
+Was Olaf impressed with the presentation?
+

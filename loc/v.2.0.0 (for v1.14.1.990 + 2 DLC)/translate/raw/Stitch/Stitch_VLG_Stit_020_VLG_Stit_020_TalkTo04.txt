@@ -1,0 +1,33 @@
+TAG: Stitch_000_f
+Ака Тики-ба-бах! <ActivityItem>Coffee Beans</ActivityItem>!
+
+TAG: Player_000_f
+Как бы вы хотели, чтобы я приготовил ваш кофе, Стич?
+
+TAG: Player_000_choice_000_f
+С молоком?
+
+TAG: Player_000_choice_001_f
+С посыпкой сверху?
+
+TAG: Player_000_choice_002_f
+С кокосовым тортом?
+
+TAG: Stitch_004_f
+Даже не знаю.
+
+TAG: Stitch_006_f
+Перед тем как забыть, Реми делает Стич кофе.
+
+TAG: Stitch_007_f
+Полагаю, мне стоит перейти к <Lore>talk Реми</Lore>.
+
+TAG: Stitch_009_f
+Мы можем сказать ему, что он может добавить <ActivityItem>Coffee</ActivityItem> обратно в меню.
+
+TAG: Stitch_005_f
+Кокосовый пирог?
+
+TAG: Stitch_008_f
+А теперь только кофе.
+

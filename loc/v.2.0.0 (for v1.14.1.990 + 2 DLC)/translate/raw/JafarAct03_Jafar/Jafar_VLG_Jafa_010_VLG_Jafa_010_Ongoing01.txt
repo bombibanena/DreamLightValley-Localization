@@ -1,0 +1,6 @@
+TAG: Jafar_000_f
+Все они должны быть внутри <Lore>Cave of Wonders</Lore>, за исключением <ActivityItem>Power Cables</ActivityItem>, расположенных в доме ЕВА.
+
+TAG: Jafar_001_f
+Пока нет, но я займусь этим!
+

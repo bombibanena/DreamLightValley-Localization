@@ -1,0 +1,24 @@
+TAG: Kristoff_000_f
+What do you think's the most romantic way to spend an evening with someone you love?
+
+TAG: Player_000_choice_000_f
+Candlelit dinner.
+
+TAG: Player_000_choice_001_f
+Playing charades.
+
+TAG: Player_000_choice_002_f
+Cuddling by a campfire in the snowy woods.
+
+TAG: Kristoff_001_f
+Huh? I thought that might be clichÃ©, but maybe clichÃ©s are good sometimes?
+
+TAG: Kristoff_002_f
+Especially when it comes to romance. Thanks, {PlayerName}. You've given me a lot to think about.
+
+TAG: Kristoff_003_f
+Really? I think that's fun, but I'm not sure I'd call it romantic. Let me know if you have any other ideas.
+
+TAG: Kristoff_005_f
+Really? Because that sounds perfect to me! Thanks for the idea, {PlayerName}!
+

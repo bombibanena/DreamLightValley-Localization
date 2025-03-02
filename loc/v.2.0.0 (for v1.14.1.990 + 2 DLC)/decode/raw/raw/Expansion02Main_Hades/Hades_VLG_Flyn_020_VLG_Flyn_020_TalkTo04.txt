@@ -1,0 +1,84 @@
+TAG: Hades_000_f
+Ah, {PlayerName}! What's shakin'?
+
+TAG: Hades_001_f
+A lot, actually.
+
+TAG: Player_000_choice_000_f
+Are you in the mood to be helpful?
+
+TAG: Player_000_choice_001_f
+You're all-knowing, right?
+
+TAG: Player_000_choice_002_f
+Interested in a bit of gossip?
+
+TAG: Hades_002_f
+Absolutely. You want help, I'm your guy.
+
+TAG: Hades_005_f
+What have you got for me?
+
+TAG: Hades_009_f
+Flynn Rider has been on a mission to recover his lost memories, and so far... it isn't looking too great for him.
+
+TAG: Hades_010_f
+Okay, okay. Go on...
+
+TAG: Hades_011_f
+The memories he has IMPLY he was working for Maleficent.
+
+TAG: Hades_019_f
+Ugh. Maleficent?! Why would ANYONE work with her? She's IMPOSSIBLE!
+
+TAG: Player_001_choice_000_f
+I thought that'd get your attention.
+
+TAG: Player_001_choice_001_f
+You ever tried breathing exercises?
+
+TAG: Player_001_choice_002_f
+Guess your feelings about her haven't changed.
+
+TAG: Hades_021_f
+You think? Keep talkin'.
+
+TAG: Hades_012_f
+The last thing he remembers was chasing Princess Aurora in Mythopia. We thought you might know something about this?
+
+TAG: Hades_013_f
+Sorry. Not ringing any bells.
+
+TAG: Hades_015_f
+BUT! I have this box in my House that weirdly gathers all kinds of old junk. Could be a clue in there.
+
+TAG: Hades_016_f
+You have my express permission to snoop around in that thing all you like.
+
+TAG: Hades_017_f
+Thanks, Hades. You can be a decent guy now and then.
+
+TAG: Hades_018_f
+Hey, any enemy of Maleficent is a friend of mine!
+
+TAG: Hades_014_f
+JUSTâ Whew. Look, I'm fine. I'm good. Who needs breathing? Go on.
+
+TAG: Hades_022_f
+Not one bit. Or even half a bit. I'm talkin' zilch.
+
+TAG: Hades_003_f
+Well, I wouldn't say ALL-knowing.
+
+TAG: Hades_006_f
+I mean, I know a lot, sure. What do you need to know, exactly?
+
+TAG: Hades_004_f
+Are you asking the GOD of the UNDERWORLD if he's interested in gossip?
+
+TAG: Hades_007_f
+Because yeah, obviously I am. I've been bored out of my fiery skull over here!
+
+TAG: Hades_008_f
+Tell me, and don't leave out the juicy bits.
+

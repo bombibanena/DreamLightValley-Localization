@@ -1,0 +1,33 @@
+TAG: Ursula_000_f
+Well, well. These desserts look better than anything Triton ever served at the palace.
+
+TAG: Ursula_001_f
+Are you looking to trade something for them?
+
+TAG: Player_000_f
+Nope. They're a gift from the Fairy Godmother.
+
+TAG: Player_000_choice_000_f
+She wanted to show she appreciates you just for being you.
+
+TAG: Player_000_choice_001_f
+She wanted to prove to you that people can give without expecting something in return.
+
+TAG: Ursula_002_f
+Ugh! That Goody Two-shoes!
+
+TAG: Ursula_004_f
+She's not doing this out of kindness. She's trying to one-up me after our little argument.
+
+TAG: Ursula_005_f
+For the low price of some paltry desserts, the Fairy Godmother gets to feel superior.
+
+TAG: Ursula_006_f
+I'll enjoy these desserts... almost as much as I'll enjoy knowing I was right.
+
+TAG: Ursula_007_f
+Take it from me, dearie. There's no such thing as a selfless good deed.
+
+TAG: Ursula_003_f
+Oh, please! Don't you see that all she's done is prove me right?
+

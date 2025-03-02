@@ -1,0 +1,6 @@
+TAG: Olaf_000_f
+Это {PlayerName}!
+
+TAG: Player_000_exit_000_f
+Увидимся позже.
+

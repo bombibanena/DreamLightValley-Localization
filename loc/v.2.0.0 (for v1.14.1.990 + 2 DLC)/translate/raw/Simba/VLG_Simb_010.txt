@@ -1,0 +1,51 @@
+TAG: Village!LionKing!Simba!VLG_Simb_010_CompletedStoryDescription
+С новым оазисом, который ты создал для Виллидж, Симба не должно беспокоиться, но есть только один способ узнать.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_DisplayName
+<i>Hakuna matatata</i>!
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group01_Step01_StepDescription
+Соберите костюм <ActivityItem>Casual</ActivityItem>.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_Step03_Decorate01_StepDescription
+Садись.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_Step03_Decorate03_StepDescription
+Ландшафтный ландшафт.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_Step03_StepDescription
+Добавить немного расслабляющей мебели в мирную лугу:
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_StoryDescription
+Далее Симба хочет, чтобы вы помогли Долине, создав преданную"<i>Hakuna Mata</i> Зона"где все могут расслабиться и перестать волноваться.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group05_StoryDescription
+Единственное, чего не хватает от идеального оазиса, который ты создал... где-то, где можно отдыхать и плавать!
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_ReadyDescription
+Или принести Скрудж Макдак драгоценности, которые он просил.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_StepDescription
+Или продать его, собрав следующее:
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step08_StepDescription
+Закажи бассейн из магазина Скрудж Макдак за 9000 Star Coins.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_StoryDescription
+Скрудж Макдак предлагает вам неожиданную сделку. Вы можете либо купить бассейн, либо обменять на него драгоценные камни. Это зависит от вас!
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+

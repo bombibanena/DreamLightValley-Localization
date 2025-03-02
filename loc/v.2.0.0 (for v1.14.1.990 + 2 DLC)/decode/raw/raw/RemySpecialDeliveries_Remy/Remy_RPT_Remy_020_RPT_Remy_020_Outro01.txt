@@ -1,0 +1,66 @@
+TAG: Remy_001_f
+Well, {PlayerName}? How did things go with Donald?
+
+TAG: Remy_002_f
+What was he using all those dishes for?
+
+TAG: Player_001_choice_000_f
+A celebration of himself.
+
+TAG: Player_001_choice_001_f
+They were a tribute to his favorite duck.
+
+TAG: Player_001_choice_002_f
+Eh... don't ask.
+
+TAG: Remy_011_f
+Yep. That sounds about right.
+
+TAG: Remy_003_f
+Well, in any case, your skills are getting pretty incredible. Who knows? Someday you might open Chez {PlayerName}!
+
+TAG: Remy_004_f
+Here you go. Some <ActivityItem>Wrought Iron</ActivityItem>, courtesy of Mr. McDuck.
+
+TAG: Remy_005_f
+Use it to build something great for the Village. The more deliveries you do for Chez Remy Mobile, the more we'll be able to order.
+
+TAG: Remy_012_f
+His favorite duck... I'm going to go out on a limb and guess he means himself.
+
+TAG: Remy_013_f
+Heh, okay. I won't. I find that's often safest when it comes to Donald.
+
+TAG: Remy_014_f
+What was the idea behind all those desserts?
+
+TAG: Player_002_f
+They're apology desserts.
+
+TAG: Player_002_choice_000_f
+For when he loses his temper.
+
+TAG: Player_002_choice_001_f
+I think he'll need to order some more soon.
+
+TAG: Player_002_choice_002_f
+But he'll probably eat them before he needs to apologize.
+
+TAG: Remy_016_f
+Oh boy. Well, at least it gave you a chance to show off your culinary skills.
+
+TAG: Remy_015_f
+What was Donald using all that seafood for?
+
+TAG: Player_003_choice_000_f
+I'd rather not embarrass him.
+
+TAG: Player_003_choice_002_f
+It was part of a scheme to trick Goofy into thinking he caught them all.
+
+TAG: Remy_017_f
+Heh. Okay. Forget I asked.
+
+TAG: Remy_018_f
+Huh? Kinda funny he wanted it all cooked first.
+

@@ -1,0 +1,30 @@
+TAG: PrinceEric_000_f
+There's this old riddle we used to ask new sailors on our ship. Would you like to hear it?
+
+TAG: Player_000_choice_000_f
+Yes.
+
+TAG: Player_000_choice_001_f
+No.
+
+TAG: PrinceEric_001_f
+Okay, here you go: What do you throw out to use and take back to stop?
+
+TAG: Player_001_choice_000_f
+Trash.
+
+TAG: Player_001_choice_001_f
+An anchor.
+
+TAG: Player_001_choice_002_f
+A net.
+
+TAG: PrinceEric_003_f
+Huh? That's an interesting answer. It's not the one the old sea dogs taught me, though.
+
+TAG: PrinceEric_004_f
+Yes! That's the answer. Pretty clever, huh?
+
+TAG: PrinceEric_002_f
+Guess you're not a riddle sort of a person. That's okay.
+

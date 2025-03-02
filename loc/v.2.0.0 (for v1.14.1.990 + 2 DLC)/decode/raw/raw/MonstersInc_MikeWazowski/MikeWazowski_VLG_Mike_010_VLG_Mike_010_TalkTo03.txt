@@ -1,0 +1,156 @@
+TAG: MikeWazowski_000_f
+<Italic>Hello Wazowski</Italic>...
+
+TAG: MikeWazowski_034_f
+AHH! Roz! What are you doing here? How did you get here?!
+
+TAG: MikeWazowski_035_f
+Mike, it's me, {PlayerName} â I'm wearing a Roz costume!
+
+TAG: MikeWazowski_001_f
+Oh, PHEW! The resemblance is uncanny.
+
+TAG: MikeWazowski_002_f
+Until I saw your legs, I thought you were Roz!
+
+TAG: Player_000_choice_000_f
+It's working! Let's keep going.
+
+TAG: Player_000_choice_001_f
+<Italic>Wazowski</Italic>...
+
+TAG: MikeWazowski_003_f
+<Italic>Where's your paperwork, Wazowski?</Italic>
+
+TAG: MikeWazowski_004_f
+Oh, I... was busy... and in another world... and the little animals here ate it. I'll get it done, promise!
+
+TAG: MikeWazowski_005_f
+<Italic>Don't let it happen again.</Italic>
+
+TAG: MikeWazowski_006_f
+No, I'llâ
+
+TAG: MikeWazowski_007_f
+You know what? No, I don't have to take this!
+
+TAG: MikeWazowski_008_f
+You hear me, Roz? I'm done with your paperwork! Done, I say!
+
+TAG: Player_001_choice_000_f
+<Italic>How daring of you, Wazowski</Italic>...
+
+TAG: Player_001_choice_001_f
+<Italic>I'll take this to Waternoose if I have to</Italic>.
+
+TAG: MikeWazowski_009_f
+That's right! I'm the most daring, top-performing Jokester you've ever seen!
+
+TAG: Player_002_choice_000_f
+This is your chance, Mike: Let it all out!
+
+TAG: Player_002_choice_001_f
+We're so close to a breakthrough!
+
+TAG: MikeWazowski_011_f
+<Italic>Is this really about paperwork, Wazowski? Dig deep, really open yourself up</Italic>.
+
+TAG: MikeWazowski_012_f
+Hmm... well there is something else...
+
+TAG: MikeWazowski_013_f
+It's your hair! It's your hair, Roz!
+
+TAG: MikeWazowski_014_f
+My mother has the same hairstyle. Do you know what it's like to come into work every day and see your sweet mother's hairstyle on the bane of your existence?
+
+TAG: MikeWazowski_016_f
+Ahem, lemme get my best Roz voice going again...
+
+TAG: MikeWazowski_017_f
+<Italic>Wazowski... maybe your mother and I are besties. Maybe we're as close as sisters</Italic>.
+
+TAG: MikeWazowski_018_f
+<Italic>From now on, call me "Auntie Roz."</Italic>
+
+TAG: MikeWazowski_019_f
+Don't even joke about that.
+
+TAG: MikeWazowski_022_f
+You're not my boss, Roz! You don't even work at the factory anymore!
+
+TAG: MikeWazowski_031_f
+Now I can finally breathe! I feel restored! Rejuvenated!
+
+TAG: MikeWazowski_032_f
+Thanks, {PlayerName}! I think I can actually enjoy it here now.
+
+TAG: MikeWazowski_015_f
+By the way, I heard that the Villagers try to show their thanks by giving you gifts?
+
+TAG: MikeWazowski_020_f
+Yeah, it happens sometimes, but don't feel compelled.
+
+TAG: MikeWazowski_021_f
+Oh, but I do. Here, take this!
+
+TAG: MikeWazowski_037_f
+One of the best from my collection.
+
+TAG: Player_003_f
+That's...
+
+TAG: Player_003_choice_000_f
+...really gross, Mike.
+
+TAG: Player_003_choice_001_f
+...a very unique gift!
+
+TAG: MikeWazowski_023_f
+If I wanna hand in my paperwork late, then you or Roze can go bug Sulley about it!
+
+TAG: MikeWazowski_024_f
+Yeah, go Mike â wait, what?
+
+TAG: MikeWazowski_025_f
+Sulley's the CEO. Paperwork's his problem. I am the TALENT!
+
+TAG: MikeWazowski_026_f
+Huh! I'm sure that helps. But... did THIS help? Do you feel better?
+
+TAG: MikeWazowski_027_f
+I... feel...
+
+TAG: MikeWazowski_028_f
+...SO MUCH BETTER!
+
+TAG: MikeWazowski_029_f
+Wow, {PlayerName}, that really did the trick!
+
+TAG: MikeWazowski_030_f
+Happy to help! We can't have our new visitors feeling anxious in their new home.
+
+TAG: MikeWazowski_038_f
+If dripping snot-filled tissues are gross to you, so be it.
+
+TAG: MikeWazowski_039_f
+Hope ya like it!
+
+TAG: MikeWazowski_033_f
+Since I'm no longer so anxious, or sneezing, I'm gonna see how we can make this place better than ever!
+
+TAG: MikeWazowski_036_f
+Well, I can't wait to see what you come up with! Talk to you later, Mike!
+
+TAG: MikeWazowski_040_f
+Well, the Wazowskis have a reputation for unique gift-giving!
+
+TAG: MikeWazowski_041_f
+So kind of you!
+
+TAG: MikeWazowski_042_f
+Hey, I'm just that kinda guy.
+
+TAG: MikeWazowski_010_f
+Waternoose? He's in jail! I don't have to care what that scream-sucking suit says anymore!
+

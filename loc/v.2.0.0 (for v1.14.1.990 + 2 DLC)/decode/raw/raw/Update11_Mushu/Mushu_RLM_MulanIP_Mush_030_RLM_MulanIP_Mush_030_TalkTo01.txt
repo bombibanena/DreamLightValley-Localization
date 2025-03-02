@@ -1,0 +1,63 @@
+TAG: Mushu_000_f
+Our dragon masterpieces are off to protect China! And my to-do list is finished!
+
+TAG: Mushu_004_f
+Oh, but you and me â we're not done, {PlayerName}. Mulan told me you're not a REAL recruit.
+
+TAG: Player_000_choice_000_f
+Sorry for the deception.
+
+TAG: Player_000_choice_001_f
+Are you mad?
+
+TAG: Player_000_choice_002_f
+Got ya!
+
+TAG: Mushu_005_f
+Aw, it's okay. You're excused. You might not have been a recruit when you showed up, but you trained hard. We turned you into a true defender.
+
+TAG: Mushu_008_f
+All that's to say...
+
+TAG: Mushu_002_f
+I'm ready for your Valley! But is your Valley ready for me?! Think about it.
+
+TAG: Mushu_001_f
+Anyway, one last thing... Here's a little souvenir from me so you can remember the start of our legendary friendship.
+
+TAG: Mushu_003_f
+Mulan left a little something for you too. I just need to get theâ
+
+TAG: Mushu_009_f
+Where... Where's the <ActivityItem>Key</ActivityItem>?
+
+TAG: Player_001_choice_000_f
+What key?
+
+TAG: Player_001_choice_001_f
+The-what-now?
+
+TAG: Player_001_choice_002_f
+Did you lose something important?
+
+TAG: Mushu_011_f
+The <ActivityItem>Key</ActivityItem> to open the chest where Mulan put theâ
+
+TAG: Mushu_012_f
+I had it while we put the dragons in the wagon. Then I left camp to see 'em off down the road.
+
+TAG: Mushu_015_f
+Got a little lost, went on a little nature walk...
+
+TAG: Mushu_014_f
+Musta dropped it. That key's GOTTA be around there somewhere.
+
+TAG: Mushu_013_f
+I'll look for the <ActivityItem>Key</ActivityItem>, Mushu. Don't worry!
+
+TAG: Mushu_006_f
+No... A little disappointed at myself that I didn't see through it. But not mad.
+
+TAG: Mushu_007_f
+*sigh* You did. You did. But it all turned out all right. Look how much you helped us!
+

@@ -1,0 +1,75 @@
+TAG: FairyGodMother_000_f
+И что же я сделал с этим... не в карманах... ни в рукавах...
+
+TAG: FairyGodMother_001_f
+Где это может быть...
+
+TAG: FairyGodMother_002_f
+Ах, {PlayerName}, как раз того, кого я надеялся увидеть.
+
+TAG: Player_000_choice_000_f
+Да, конечно.
+
+TAG: Player_000_choice_001_f
+Простите, я не могу сейчас.
+
+TAG: FairyGodMother_003_f
+Извините, что спрашиваю, но я просто не могу найти <ActivityItem>Book</ActivityItem>, который Мерлин одолжил мне.
+
+TAG: FairyGodMother_004_f
+Видишь ли, он спрашивал о нем, но похоже, что он вырастил ноги и сбежал... не то, чтобы я имел в виду настоящие ноги, дорогая... хотя я полагаю, что книга Мерлин могла бы сделать это...
+
+TAG: FairyGodMother_005_f
+Другие жители деревни ждут моей помощи...
+
+TAG: FairyGodMother_006_f
+Не могли бы вы помочь им вместо меня, пока я ищу книгу <ActivityItem>Мерлин?
+
+TAG: Player_001_choice_000_f
+Просто направь меня в верном направлении!
+
+TAG: Player_001_choice_001_f
+О скольких желаниях мы говорим?
+
+TAG: Player_001_choice_002_f
+Ты не забыл, кому нужна твоя помощь, не так ли?
+
+TAG: FairyGodMother_007_f
+Ничего сложного, у тебя не должно быть проблем с исполнением этих желаний.
+
+TAG: FairyGodMother_008_f
+Во-первых, наш дорогой друг Анна чувствует себя немного нездорово.
+
+TAG: FairyGodMother_009_f
+Вот, возьми это <ActivityItem>Recipe</ActivityItem> на случай, если тебе это понадобится.
+
+TAG: FairyGodMother_010_f
+Теперь кто еще... Урсула нуждался в <ActivityItem>Amethysts</ActivityItem>, и этот восхитительный Олаф парень хотел бы стопку <ActivityItem>Sticks</ActivityItem>.
+
+TAG: Player_002_choice_000_f
+Хорошо, понял.
+
+TAG: Player_002_choice_001_f
+Почему палочки?
+
+TAG: FairyGodMother_011_f
+Я пойду поищу этот <ActivityItem>Book</ActivityItem>...
+
+TAG: FairyGodMother_012_f
+Знаешь, я не имею ни малейшего представления.
+
+TAG: FairyGodMother_013_f
+Он говорил что-то о каком-то проекте, и он выглядел очень забавным из-за всего этого.
+
+TAG: FairyGodMother_014_f
+Удачи, {PlayerName}! Я пойду искать этот <ActivityItem>Book</ActivityItem>!
+
+TAG: FairyGodMother_015_f
+Не больше двух или трех, у тебя не должно быть проблем с выполнением этих желаний.
+
+TAG: FairyGodMother_016_f
+Я никогда не забуду ничего подобного, и у тебя не должно быть проблем с исполнением этих желаний.
+
+TAG: FairyGodMother_017_f
+Дай мне знать, если найдёшь время.
+

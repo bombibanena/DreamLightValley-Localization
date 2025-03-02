@@ -1,0 +1,9 @@
+TAG: Oswald_000_f
+Вы уже нашли моего <ActivityItem>Trolley Codeor Hat</ActivityItem>?
+
+TAG: Oswald_001_f
+Ты помнишь, где ты его оставил?
+
+TAG: Oswald_002_f
+Эй, может твой <Lore>Royal Hoursters</Lore> поможет тебе!
+

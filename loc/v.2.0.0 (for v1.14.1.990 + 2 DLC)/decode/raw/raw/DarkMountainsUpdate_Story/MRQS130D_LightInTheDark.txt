@@ -1,0 +1,39 @@
+TAG: Story!MRQS130D_LightInTheDark_AvailableDescription
+You found some Forgotten Beach Toys in the very same cave where you freed Ursula so long ago. Perhaps she knows the story behind them...
+
+TAG: Story!MRQS130D_LightInTheDark_CompletedStoryDescription
+Now that you know the story behind the Beach Toys, you're one step closer to saving Dreamlight Valley.
+
+TAG: Story!MRQS130D_LightInTheDark_DisplayName
+Forgotten Relics: Beach Toys
+
+TAG: Story!MRQS130D_LightInTheDark_Group01_Step01_Conditional01_StepDescription
+Bring Moana to the Valley.
+
+TAG: Story!MRQS130D_LightInTheDark_Group01_StepDescription
+Your answers lie in the <Lore>Moana Realm</Lore>:
+
+TAG: Story!MRQS130D_LightInTheDark_Group02_Step02_BringItem01_StepDescription
+Make sure you have the <ActivityItem>Forgotten Beach Toys</ActivityItem> in your Inventory.
+
+TAG: Story!MRQS130D_LightInTheDark_Group02_Step02_ReadyDescription
+Ask Moana about the <ActivityItem>Forgotten Beach Toys</ActivityItem>.
+
+TAG: Story!MRQS130D_LightInTheDark_Group02_StoryDescription
+Ursula reveals that she remembers one thing about those old toys... You and Moana used to play with them when you were a child.
+
+TAG: Story!MRQS130D_LightInTheDark_Group03_Step03_Conditional02_StepDescription
+Complete more Quests with Moana to help her remember.
+
+TAG: Story!MRQS130D_LightInTheDark_Group03_StepDescription
+Moana's memories aren't strong enough yet...
+
+TAG: Story!MRQS130D_LightInTheDark_Group04_Step04_BringItem02_StepDescription
+Make sure you have the <ActivityItem>Forgotten Beach Toys</ActivityItem> in your Inventory.
+
+TAG: Story!MRQS130D_LightInTheDark_Group04_Step04_ReadyDescription
+Ask Moana about the <ActivityItem>Forgotten Beach Toys</ActivityItem>.
+
+TAG: Story!MRQS130D_LightInTheDark_Group05_Step05_TalkToCharacter01_StepDescription
+Talk to Ursula.
+

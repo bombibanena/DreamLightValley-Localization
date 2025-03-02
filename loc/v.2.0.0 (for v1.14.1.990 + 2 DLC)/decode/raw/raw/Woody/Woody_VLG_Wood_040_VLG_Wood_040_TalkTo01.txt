@@ -1,0 +1,48 @@
+TAG: Woody_000_f
+What did that piece of paper say?
+
+TAG: Woody_005_f
+This toy chest was enchanted by Merlin...
+
+TAG: Woody_001_f
+The Carousel's lights are powered by the childhood memories from treasured possessions lent by other Villagers...
+
+TAG: Woody_006_f
+That's it! I remember now! The toy chest used to be full of all sorts of stuff!
+
+TAG: Woody_002_f
+The spell seems pretty powerful if just you touching the toy chest started to make the lights flicker.
+
+TAG: Woody_003_f
+I bet if we got just three childhood souvenirs, it would start the Carousel up!
+
+TAG: Woody_004_f
+I like the way you think, partner. Who should we ask?
+
+TAG: Player_001_f
+We need to make sure that we talk to someone with...
+
+TAG: Player_001_choice_000_f
+...a huge collection of memorabilia.
+
+TAG: Player_001_choice_001_f
+...a childhood spent with some magical creatures.
+
+TAG: Player_001_choice_002_f
+...a sense of adventure from early childhood.
+
+TAG: Woody_008_f
+Well, I hear Ariel's into collecting.
+
+TAG: Woody_011_f
+That's a great list, {PlayerName}. I'm sure they'll be happy to help us.
+
+TAG: Woody_012_f
+Can you think of anybody else?
+
+TAG: Woody_009_f
+Didn't Kristoff grow up with trolls watching over him?
+
+TAG: Woody_010_f
+Sounds like Moana to me. I bet she's got something.
+

@@ -1,0 +1,75 @@
+TAG: Goofy_000_f
+Say, {PlayerName}, I've been tryin' to fish around Eternity Isle, but my luck's been all luck-less!
+
+TAG: Goofy_018_f
+Don't worry! I'll help!
+
+TAG: Goofy_001_f
+Really?! Gawrsh, that'd be great!
+
+TAG: Goofy_002_f
+Here, I'll tell ya what happened... First I saw this <Lore>funny fish that looked like a robot swimmin' around Ancient's Landing</Lore>...
+
+TAG: Goofy_003_f
+I hooked it, but it nearly pulled me right into the water!
+
+TAG: Player_001_choice_000_f
+Uh... why don't you leave catching that one to me.
+
+TAG: Player_001_choice_001_f
+Just find some water skis and we'll have a new Village activity!
+
+TAG: Goofy_004_f
+Sure thing! I'll watch you and see how it's done.
+
+TAG: Goofy_007_f
+Then, next I tried fishing for one of them <ActivityItem>Duneboppers</ActivityItem> in the quicksand in the Glittering Dunes...
+
+TAG: Goofy_008_f
+But I lost nine fishing rods. And I don't think I'll be gettin' those ones back.
+
+TAG: Player_002_choice_000_f
+No worries. I'll handle catching that.
+
+TAG: Player_002_choice_001_f
+We could build a quicksand-proof diving suit...
+
+TAG: Player_002_choice_002_f
+Wanna try one more time to make it a nice even ten?
+
+TAG: Goofy_009_f
+Aw, thanks! You're a real pal. I can't wait to see what the trick to it is.
+
+TAG: Goofy_014_f
+Now, the last one's real special. I was walking around the Wild Tangle and I spotted somethin' glowin' in the water.
+
+TAG: Goofy_015_f
+It was some kinda shrimp, but its shell was shinin' with all the colors of the rainbow!
+
+TAG: Player_003_choice_000_f
+Prisma Shrimp! I'll catch one for you.
+
+TAG: Player_003_choice_001_f
+Now I've GOT to see this...
+
+TAG: Goofy_016_f
+Oh boy! Let's go fishin'!
+
+TAG: Goofy_010_f
+Quicksand snorkeling... now that could be fun!
+
+TAG: Goofy_012_f
+But it does sound kinda dangerous.
+
+TAG: Goofy_013_f
+Okay, fair enough. Maybe I'll just handle catching that <ActivityItem>Dunebopper</ActivityItem>.
+
+TAG: Goofy_011_f
+Gawrsh, no. Half the profits from my Stall are goin' to new fishing rods!
+
+TAG: Goofy_005_f
+Say, do you think that'd work...?
+
+TAG: Goofy_006_f
+Maybe... but I guess we should try catching one before we try to invent a new water sport. I'll handle that.
+

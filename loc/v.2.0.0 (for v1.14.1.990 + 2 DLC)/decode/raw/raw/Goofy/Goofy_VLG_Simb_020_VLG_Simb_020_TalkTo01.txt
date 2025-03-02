@@ -1,0 +1,27 @@
+TAG: Goofy_001_f
+Howdy, {PlayerName}! What brings you here?
+
+TAG: Player_000_f
+Simba is throwing a gathering to bring the Village together. He wants you to join us...
+
+TAG: Player_000_choice_000_f
+...because you're the coolest.
+
+TAG: Player_000_choice_001_f
+...so what do you say?
+
+TAG: Player_000_choice_002_f
+...and you should know: There WILL be cake!
+
+TAG: Goofy_003_f
+Gawrsh! That sure is nice of him.
+
+TAG: Goofy_006_f
+It sounds like a great idea. We should all get together for celebrations more, if ya ask me!
+
+TAG: Goofy_004_f
+That's easy... Abso-positively!
+
+TAG: Goofy_005_f
+Say no more, {PlayerName}.
+

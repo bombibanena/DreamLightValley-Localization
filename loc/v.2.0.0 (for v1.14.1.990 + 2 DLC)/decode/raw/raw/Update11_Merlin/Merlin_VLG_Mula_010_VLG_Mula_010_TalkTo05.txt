@@ -1,0 +1,27 @@
+TAG: Merlin_000_f
+Ah, good morrow, {PlayerName}! You've come to invite me to tea with Mulan, I presume?
+
+TAG: Player_000_choice_000_f
+Did you see the future?!
+
+TAG: Player_000_choice_001_f
+Merlin, have you been gossiping again?
+
+TAG: Player_000_choice_002_f
+Was that supposed to impress me?
+
+TAG: Merlin_004_f
+No, no, my friend. Though I am a prognosticator, so such a feat WOULD be within my grasp.
+
+TAG: Merlin_009_f
+I merely observed the installation of Mulan's Tea Stall. And I detect the faintest whiff of <Lore>Chrysanthemum</Lore> in the air today.
+
+TAG: Merlin_010_f
+An old favorite that I'll be delighted to indulge in again at Mulan's home.
+
+TAG: Merlin_005_f
+I'll have you know wizards do not gossip! We leave that to cantankerous owls.
+
+TAG: Merlin_007_f
+Magic and prognostication ought never to be wielded to impress others. Why, that would be major magical misconduct!
+

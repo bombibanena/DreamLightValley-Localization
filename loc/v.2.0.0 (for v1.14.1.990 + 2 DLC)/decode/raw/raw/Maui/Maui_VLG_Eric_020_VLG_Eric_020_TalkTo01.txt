@@ -1,0 +1,66 @@
+TAG: Maui_007_f
+Hey, {PlayerName}! How can I help you today? Got a giant crab bothering you? Want me to lasso a star?
+
+TAG: Player_000_f
+You're a shapeshifter, right? Ariel needs a way to turn back and forth from human to mermaid...
+
+TAG: Player_000_choice_003_f
+Can you teach Ariel?
+
+TAG: Player_000_choice_004_f
+How does it work?
+
+TAG: Player_000_choice_005_f
+How common is this kind of magic?
+
+TAG: Maui_000_f
+Whoa, whoa, whoa! Hold on. I CAN shapeshift but only because of the power of my magic hook.
+
+TAG: Maui_001_f
+And before you ask, no, you can't borrow it. Magic hooks are very personal.
+
+TAG: Maui_002_f
+You could try creating an enchanted object yourself. I mean, you're full of Dreamlight magic, right? Who knows. It could work.
+
+TAG: Player_000_choice_000_f
+Yes, I'll do that!
+
+TAG: Player_000_choice_001_f
+Would it be that simple?
+
+TAG: Player_000_choice_002_f
+I'm not sure I'm powerful enough.
+
+TAG: Maui_003_f
+That's what I like to hear, {PlayerName}!
+
+TAG: Maui_010_f
+You've got this.
+
+TAG: Maui_006_f
+Okay, so if I'm going to help Ariel and Eric... I need to enchant something.
+
+TAG: Maui_013_f
+I'll need something with Dreamlight magic in it. Maybe some <ActivityItem>Purified Night Shards</ActivityItem>.
+
+TAG: Maui_017_f
+But if I'm going to be messing with Dreamlight magic, I'll need something to ground the spell, something from the earth. Maybe some <ActivityItem>White Impatiens</ActivityItem> flowers...
+
+TAG: Maui_018_f
+... Oh, and a <ActivityItem>Vial</ActivityItem> to mix it all up in!
+
+TAG: Maui_019_f
+Sounds like Merlin's rubbing off on you, kid. You're definitely getting the hang of this magic stuff.
+
+TAG: Maui_014_f
+Of course, once you've got all that junk, you'll need something to enchant. Maybe Eric can help you figure that part out.
+
+TAG: Maui_015_f
+Have a good time enchanting stuff, {PlayerName}!
+
+TAG: Maui_004_f
+Simple? No, it won't be simple. But if anyone can manage it, it's you.
+
+TAG: Maui_005_f
+Hey, I didn't defeat a giant crab by doubting myself. It's a challenge, {PlayerName}. A part of your legend.
+

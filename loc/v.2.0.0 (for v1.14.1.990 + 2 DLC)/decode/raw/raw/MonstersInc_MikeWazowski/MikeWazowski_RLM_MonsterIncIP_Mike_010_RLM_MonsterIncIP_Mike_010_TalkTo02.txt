@@ -1,0 +1,66 @@
+TAG: MikeWazowski_003_f
+All right, perfect! We got doors! Let me have a look at the files that came with those keycards.
+
+TAG: MikeWazowski_000_f
+You know... the files with information on how to make the kid behind each one of these doors laugh themselves silly?
+
+TAG: Player_000_choice_000_f
+There were no files with these cards...
+
+TAG: Player_000_choice_001_f
+Oh no, did I lose them?!
+
+TAG: Player_000_choice_002_f
+Yeah... Files... About that...
+
+TAG: MikeWazowski_005_f
+No files?! How am I supposed to work without intel?
+
+TAG: MikeWazowski_008_f
+No files, no laughs, no breaking records â Sulley's vacation will be ruined!
+
+TAG: Player_001_choice_000_f
+Slooooow down, Mike.
+
+TAG: Player_001_choice_001_f
+There has to be some way...
+
+TAG: Player_001_choice_002_f
+He could go without you.
+
+TAG: MikeWazowski_010_f
+I am your Jokester Assistant, and we will figure out a way to do this!
+
+TAG: MikeWazowski_012_f
+Hm... Why don't I make NEW files?
+
+TAG: MikeWazowski_013_f
+New files? NEW FILES? That's preposterous! That's absurd!
+
+TAG: MikeWazowski_017_f
+... Make new files how?
+
+TAG: MikeWazowski_014_f
+I'll sneak into the kids' rooms while they're still empty... and see if I can <Lore>find clues</Lore> about what would make each one laugh.
+
+TAG: MikeWazowski_015_f
+Really? That's... genius! I knew you'd be a great Jokester Assistant.
+
+TAG: MikeWazowski_016_f
+Don't worry, Mike. I'm on the case. I'll <Lore>search for clues in each of the rooms</Lore>.
+
+TAG: MikeWazowski_002_f
+Perfect! Let's head to door F2 first!
+
+TAG: MikeWazowski_009_f
+Maybe... maybe... we could... Oh, I don't know! This isn't my department! I tell jokes, I don't do RESEARCH!
+
+TAG: MikeWazowski_011_f
+What? No, that's impossible. Trust me. Sulley and I are a package deal.
+
+TAG: MikeWazowski_004_f
+Nah, it's probably not you. I'm tellin' ya, this place is a paperwork disaster!
+
+TAG: MikeWazowski_006_f
+... There are none, are there? Ugh! This place is a paperwork disaster!
+

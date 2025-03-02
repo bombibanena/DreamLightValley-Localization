@@ -1,0 +1,18 @@
+TAG: Player_000_choice_002_f
+Let's spruce up the Beast's Greenhouse! (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_003_f
+Perhaps some other time.
+
+TAG: Scrooge_000_f
+Ah, isn't that a sight?! The Village is sure to have a lot more beautiful bouquets soon enough.
+
+TAG: Scrooge_001_f
+Och! You don't have enough Star Coins to improve the Beast's Greenhouse! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_002_f
+Curse me kilts! Stop wasting my time and find me when you're serious about investing in the Beast's Greenhouse.
+
+TAG: Scrooge_003_f
+If you make some improvements to the Beast's Greenhouse, you'll be able to cultivate even more rare flowers, and that'll mean a happier Village!
+

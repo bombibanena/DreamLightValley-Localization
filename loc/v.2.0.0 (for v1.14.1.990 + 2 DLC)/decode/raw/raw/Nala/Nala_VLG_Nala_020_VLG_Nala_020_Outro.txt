@@ -1,0 +1,33 @@
+TAG: Nala_003_f
+Ursula will help us figure out how to close the rifts once and for all.
+
+TAG: Nala_006_f
+I just hope we can do it before anything worse starts coming through them.
+
+TAG: Nala_005_f
+If anything bigger comes through those rifts, I'll be there to fight it off.
+
+TAG: Player_001_choice_000_f
+I'll be right there with you.
+
+TAG: Player_001_choice_001_f
+I hope it doesn't come to that.
+
+TAG: Player_001_choice_002_f
+I'll cheer you on from a safe distance...
+
+TAG: Nala_007_f
+Thank you, {PlayerName}. I know you will be.
+
+TAG: Nala_004_f
+All I want to do is keep the Valley safe and make sure everyone has enough food...
+
+TAG: Nala_010_f
+I just hope we can stop this before it's too late.
+
+TAG: Nala_008_f
+Me too.
+
+TAG: Nala_009_f
+I wouldn't want you to put yourself in danger for this. It was my mistake.
+

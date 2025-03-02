@@ -1,0 +1,27 @@
+TAG: Remy_007_f
+What did you just give me, {PlayerName}? It smells like a thousand dead fish...
+
+TAG: Player_001_f
+I want to create bait for a Nautilus. It needs to stink. I want to use this <ActivityItem>Fish Gut Oil</ActivityItem> as a base...
+
+TAG: Player_001_choice_000_f
+I'm sorry to ask you to do this.
+
+TAG: Player_001_choice_001_f
+It's going to be fun.
+
+TAG: Player_001_choice_002_f
+Maybe you'll be able to stomach the smell.
+
+TAG: Remy_008_f
+I'll just assume it's for a good cause...
+
+TAG: Remy_011_f
+In the meantime, I'll keep a tight lid on your <ActivityItem>Fish Gut Oil</ActivityItem>...
+
+TAG: Remy_009_f
+You and I have very different ideas of fun.
+
+TAG: Remy_010_f
+I've smelled a lot of garbage in my day. But I left that life behind me.
+

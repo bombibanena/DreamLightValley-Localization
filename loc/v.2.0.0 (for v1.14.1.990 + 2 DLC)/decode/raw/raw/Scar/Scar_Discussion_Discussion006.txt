@@ -1,0 +1,42 @@
+TAG: Scar_000_f
+{PlayerName}, do you have a Villager you're not particularly fond of?
+
+TAG: Scar_001_f
+Perhaps someone who annoys you incessantly? Who you'd rather not have around?
+
+TAG: Player_000_choice_000_f
+No. I like everyone.
+
+TAG: Player_000_choice_002_f
+Why do you ask?
+
+TAG: Player_000_choice_003_f
+... Are you drooling?
+
+TAG: Scar_003_f
+Everyone? Really? Absolutely everyone?
+
+TAG: Player_001_choice_000_f
+Really. Absolutely everyone.
+
+TAG: Player_001_choice_001_f
+... Are you drooling?
+
+TAG: Scar_005_f
+How disappointing.
+
+TAG: Scar_002_f
+Of course not. I do not drool.
+
+TAG: Scar_006_f
+I was merely... savoring the thought of... something.
+
+TAG: Scar_004_f
+Oh, no reason. Just an idle curiosity.
+
+TAG: Player_002_choice_000_f
+Well, I like everyone.
+
+TAG: Player_002_choice_001_f
+... Are you drooling?
+

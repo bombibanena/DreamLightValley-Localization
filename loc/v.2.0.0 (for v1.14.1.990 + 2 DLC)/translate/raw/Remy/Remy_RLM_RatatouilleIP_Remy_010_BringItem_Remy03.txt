@@ -1,0 +1,15 @@
+TAG: Remy_000_f
+Ужин начался!
+
+TAG: Remy_006_f
+Кто-то хочет <ActivityItem>Ranch Salad</ActivityItem>.
+
+TAG: Remy_007_f
+Я оставлю этот приказ вам, но вот вам небольшой намек:
+
+TAG: Remy_008_f
+Наш <ActivityItem>Ranch Salad</ActivityItem> сделан из <ActivityItem>Lettuce</ActivityItem>, <ActivityItem>Tomatoes</ActivityItem>, <ActivityItem>Corn</ActivityItem>, <ActivityItem>Bell Peppers</ActivityItem> и </ActivityItem>0Onions</ActivityItem>1.
+
+TAG: Remy_005_f
+Когда он будет готов, положи его на служебную шляпу рядом с дверью, чтобы его доставили клиенту.
+

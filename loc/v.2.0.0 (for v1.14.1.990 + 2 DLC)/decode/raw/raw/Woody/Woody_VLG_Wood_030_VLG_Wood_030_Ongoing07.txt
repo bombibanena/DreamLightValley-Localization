@@ -1,0 +1,3 @@
+TAG: Woody_000_f
+If we want to fix the <ActivityItem>Claw Machine</ActivityItem>, we'll need some materials for the frame first: <ActivityItem>Hardwood</ActivityItem>, an <ActivityItem>Iron Ingot</ActivityItem>, and <ActivityItem>Glass</ActivityItem>.
+

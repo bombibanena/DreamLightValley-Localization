@@ -1,0 +1,9 @@
+TAG: Scrooge_000_f
+Well, pluck my tail feathers and call me baldy! {PlayerName}, you found my <ActivityItem>Cash Register Key</ActivityItem>! Thank you kindly.
+
+TAG: Scrooge_001_f
+I know I can always count on you to fix the problems others have caused.
+
+TAG: Scrooge_002_f
+And I hope my nephew's learned his lesson this time!
+

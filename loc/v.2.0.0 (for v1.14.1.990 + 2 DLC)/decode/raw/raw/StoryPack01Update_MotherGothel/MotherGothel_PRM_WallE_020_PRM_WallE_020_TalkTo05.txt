@@ -1,0 +1,57 @@
+TAG: MotherGothel_000_f
+So... how are you feeling about that, uh... magic moment with Merlin?
+
+TAG: MotherGothel_001_f
+Magical?! Ha!
+
+TAG: MotherGothel_002_f
+That windbag's attitude only proved to show how unappreciated I am here. Why, he seemed almost offended!
+
+TAG: Player_000_choice_000_f
+It's a crying shame!
+
+TAG: Player_000_choice_001_f
+Have you tried doing anything we could appreciate?
+
+TAG: Player_000_choice_002_f
+No need to get angry at Merlin.
+
+TAG: MotherGothel_003_f
+Finally, someone understands! Merlin should have been thrilled to be seen in my company.
+
+TAG: MotherGothel_012_f
+Ugh. Fine. I'll be a tad more charitable upon our next meeting. But no more than a tad.
+
+TAG: MotherGothel_013_f
+Excellent!
+
+TAG: MotherGothel_004_f
+Well, Merlin's not the most sociable guy. Don't take it personally.
+
+TAG: MotherGothel_005_f
+In fact â he might have been intimidated by your wit and charm.
+
+TAG: MotherGothel_006_f
+Very perceptive, {PlayerName}... I suppose anyone would be intimidated, wouldn't they?
+
+TAG: MotherGothel_007_f
+Poor Merlin was likely dazzled and not thinking straight.
+
+TAG: MotherGothel_008_f
+In any case... this was all WALLÂ·E's idea.
+
+TAG: MotherGothel_009_f
+Really? Perhaps I underestimated the little rolling crate.
+
+TAG: MotherGothel_010_f
+I'll have to keep my eye on him.
+
+TAG: MotherGothel_011_f
+Well, since you're feeling more cheerful, can you let bygones be bygones with Merlin?
+
+TAG: MotherGothel_014_f
+Gracing you with my presence should be more than enough! Why, Merlin ought to be flattered that I'd even give him the time of day.
+
+TAG: MotherGothel_015_f
+Angry? He's not worth getting angry over. I'm merely appalled at his lack of taste.
+

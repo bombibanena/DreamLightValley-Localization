@@ -1,0 +1,54 @@
+TAG: Minnie_001_f
+Hello, Minnie! I'm here on an official errand.
+
+TAG: Minnie_002_f
+Oh, how exciting!
+
+TAG: Minnie_003_f
+It's for Gaston. He's looking for a new sidekick. Would you be interested?
+
+TAG: Minnie_004_f
+A sidekick. Well, if that means he'll make a friend, I think it's wonderful.
+
+TAG: Minnie_005_f
+But... I'm afraid I don't have time.
+
+TAG: Minnie_000_f
+I'm so busy with my gardening, and book club, and helping all the adorable animals.
+
+TAG: Player_001_choice_000_f
+Minnie, YOU'RE adorable.
+
+TAG: Player_001_choice_001_f
+I wish I could do the same!
+
+TAG: Minnie_010_f
+Hee-hee. Thank you. So are you, {PlayerName}!
+
+TAG: Minnie_006_f
+I hope Gaston won't be too upset.
+
+TAG: Minnie_007_f
+Oh, no worries whatsoever!
+
+TAG: Player_000_choice_000_f
+I'd have said "no" as well.
+
+TAG: Player_000_choice_001_f
+I'm sure he'll get over it.
+
+TAG: Minnie_012_f
+Well, I hope Gaston makes a friend.
+
+TAG: Minnie_008_f
+Good luck with the rest of your errand!
+
+TAG: Minnie_009_f
+Thanks, Minnie!
+
+TAG: Minnie_013_f
+With your help, I'm sure he will.
+
+TAG: Minnie_011_f
+Well, you're welcome to join me anytime!
+

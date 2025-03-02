@@ -1,0 +1,18 @@
+TAG: Village!SwordInStone!Merlin!VLG_Merl_030_Any_CompletedRequestDescription
+Поговори с Мерлин.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_030_CompletedStoryDescription
+Волшебник, вероятно, будет рад узнать, что вы приготовили.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_030_DisplayName
+Урок в разочаровывании
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_030_Group01_Step01_BringItem01_StepDescription
+Приготовить Мерлин любую двухзвездочную еду.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_030_Group01_Step01_ReadyDescription
+Принесите Мерлин любую двухзвездочную еду.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_030_Group01_StoryDescription
+Во время обсуждения с ним вы понимаете, что Мерлин не уделяли внимания самым элементарным человеческим потребностям: еде. Вы решили помочь ему.
+

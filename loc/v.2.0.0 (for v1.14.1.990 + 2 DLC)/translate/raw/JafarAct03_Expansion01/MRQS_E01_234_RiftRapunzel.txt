@@ -1,0 +1,63 @@
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_AvailableDescription
+Вам нужно помочь деревенским жителям использовать свое воображение, чтобы закрыть разломы вокруг острова Вечность.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_DisplayName
+Воспользуйтесь своим воображением: Рапунцель
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group01_Step01_FollowCharacter01_StepDescription
+Следуйте Рапунцель к разлому вовремя около Сандиал-Айленд.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group01_Step01_FollowCharacter01_TalkToDescription
+Поговори с Рапунцель.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group02_Step02_Possess01_StepDescription
+Тропическая древесина.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group02_Step02_Possess02_StepDescription
+Бамбук.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group02_Step02_Possess03_StepDescription
+Коп.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group02_Step02_StepDescription
+Соберите следующие материалы:
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group02_StoryDescription
+Рапунцель предлагает смонтировать фонарь, точно так же, как тот, что она видела с башни.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group03_Step03_CraftItem01_StepDescription
+Перевозка a <ActivityItem>Floating Fantern</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group04_Step04_ReadyDescription
+Возьмите <ActivityItem>Floating Fantern</ActivityItem> на Рапунцель.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group04_Step04_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Flowing Fantern</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group05_Step05_StepDescription
+Спросите у следующих деревенских жителей о своих самых глубоких пожеланиях:
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group05_Step05_TalkToCharacter01_StepDescription
+Микки Маус.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group05_Step05_TalkToCharacter02_StepDescription
+Гастон.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group05_Step05_TalkToCharacter03_StepDescription
+Освальд.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group05_Step05_TalkToCharacter04_StepDescription
+ЕВА.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group05_StoryDescription
+Но Рапунцель хочет больше, чем простой фонарь, она просит тебя пойти поговорить с деревенскими жителями о пожеланиях, которые они держат в своих сердцах.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group06_Step06_TalkToCharacter05_StepDescription
+Возвращайтесь на Рапунцель.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group07_Step07_FollowCharacter02_StepDescription
+Следуйте за Рапунцель до Тайм Рифт рядом с Сандиал-Айленд.
+
+TAG: Story!Expansion01!MRQS_E01_234_RiftRapunzel_Group07_Step07_FollowCharacter02_TalkToDescription
+Поговори с Рапунцель.
+

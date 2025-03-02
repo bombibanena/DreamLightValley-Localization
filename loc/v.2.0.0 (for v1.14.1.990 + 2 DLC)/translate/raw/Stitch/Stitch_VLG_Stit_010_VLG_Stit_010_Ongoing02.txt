@@ -1,0 +1,9 @@
+TAG: Stitch_000_f
+Покажите Стич, как исправить знаки. Поднимите уровень добродетели.
+
+TAG: Stitch_001_f
+Что нам нужно?
+
+TAG: Stitch_002_f
+Нам нужно найти <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Softwood</ActivityItem>, и эти <ActivityItem>Vandalized Signes</ActivityItem>.
+

@@ -1,0 +1,78 @@
+TAG: Rapunzel_000_f
+*gasp* What did you pick up off the ground? It looks like a <ActivityItem>piece of a sphere</ActivityItem>...?
+
+TAG: Rapunzel_002_f
+And it's made of the same golden material as <Lore>that sun in the door</Lore>...
+
+TAG: Rapunzel_001_f
+Right! I think it's supposed to be the <Lore>core of the sun</Lore>. But it's missing pieces... I bet if we found them and put them together, the door would open for us.
+
+TAG: Rapunzel_013_f
+This is so exciting! My paints are behind this door; I just know it!
+
+TAG: Rapunzel_016_f
+You really think your paints will be there?
+
+TAG: Player_001_choice_000_f
+You're REALLY looking everywhere for them...
+
+TAG: Player_001_choice_001_f
+Who would hide them here?
+
+TAG: Player_001_choice_002_f
+Seems a little strange...
+
+TAG: Rapunzel_017_f
+I promise. I've looked through this ENTIRE jungle. Painting is very important to me. It helped me pass the time in the tower. It's like it... made my world more beautiful.
+
+TAG: Rapunzel_018_f
+I used to see lights on the mainland from my window every night. So I painted them in a mural on my wall.
+
+TAG: Rapunzel_019_f
+Those lights had to be from the villagers' houses...
+
+TAG: Rapunzel_020_f
+But then Mother got angry. She said I was ungrateful for what I had, took my paints away, and hid them somewhere.
+
+TAG: Player_003_choice_000_f
+We'll find your paints AND the Jewel of Time.
+
+TAG: Player_003_choice_001_f
+Your Mother shouldn't have done that.
+
+TAG: Player_003_choice_002_f
+Behind this giant ancient magic door?!
+
+TAG: Rapunzel_035_f
+I can feel it. We're on the right track.
+
+TAG: Rapunzel_011_f
+Oh! Maybe you could <Lore>search for pieces of the Sun Core inside more of the Floating Rocks around the Isle</Lore>.
+
+TAG: Rapunzel_004_f
+I saw some on <Lore>the Plains</Lore> and <Lore>the Docks</Lore> this morning. You could start looking there!
+
+TAG: Rapunzel_034_f
+Thank you for saying that, {PlayerName}.
+
+TAG: Rapunzel_037_f
+She shouldn't have punished you for being curious about the world outside the tower.
+
+TAG: Rapunzel_039_f
+She just doesn't understand.
+
+TAG: Rapunzel_040_f
+Don't worry about it too much, okay? Let's just focus on getting this door open first.
+
+TAG: Rapunzel_036_f
+Mother is VERY determined. If she wants something, or wants to hide something, she'll always find a way.
+
+TAG: Rapunzel_038_f
+We're determined too. Let's get this door open!
+
+TAG: Rapunzel_031_f
+... I think it was Mother.
+
+TAG: Rapunzel_032_f
+I know, but I can't stop searching now. I HAVE to find them.
+

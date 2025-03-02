@@ -1,0 +1,60 @@
+TAG: Scrooge_000_f
+Hey, Mr. McDuck! How'd you like Hades' talk?
+
+TAG: Scrooge_001_f
+Ah, well I was already buying my produce from Goofy's Stall, so I dinnae think I was the intended audience.
+
+TAG: Scrooge_002_f
+But the merchandise there... well that certainly piqued my interest!
+
+TAG: Player_000_choice_000_f
+Daisy did a great job, didn't she?
+
+TAG: Player_000_choice_001_f
+You're a Hades fan?!
+
+TAG: Player_000_choice_002_f
+Oh? How so?
+
+TAG: Scrooge_003_f
+Aye, she did!
+
+TAG: Scrooge_006_f
+But let's just say that I was more interested in the business opportunity I saw.
+
+TAG: Scrooge_007_f
+Limited-run merchandise can become very valuable in the right markets!
+
+TAG: Scrooge_008_f
+So I bought out Hades' stock! I think I'll sit on it for a time, and then I'll bring it back to market and make myself a pretty penny.
+
+TAG: Player_001_choice_000_f
+Smart!
+
+TAG: Player_001_choice_001_f
+I don't think Hades will like that...
+
+TAG: Player_001_choice_002_f
+That's hilarious.
+
+TAG: Scrooge_009_f
+Why, thank you!
+
+TAG: Scrooge_010_f
+Why not? He still gets paid for his merchandise.
+
+TAG: Scrooge_012_f
+I think he was more in it for the fans and acclaim than to make money.
+
+TAG: Scrooge_013_f
+Well, to each their own!
+
+TAG: Scrooge_011_f
+There's nothin' funny about smart business practices!
+
+TAG: Scrooge_004_f
+Ha! Not in the least!
+
+TAG: Scrooge_005_f
+Let's just say I saw a business opportunity...
+

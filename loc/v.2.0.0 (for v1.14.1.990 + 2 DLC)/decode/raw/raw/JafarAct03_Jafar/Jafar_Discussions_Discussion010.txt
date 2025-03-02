@@ -1,0 +1,84 @@
+TAG: Jafar_000_f
+I have watched your work here for quite some time, and you seem to be... exhaustingly virtuous.
+
+TAG: Jafar_001_f
+Do you not tire of endlessly serving others' needs?
+
+TAG: Player_000_choice_000_f
+I was destined to help people.
+
+TAG: Player_000_choice_001_f
+It's how I win everyone's trust.
+
+TAG: Player_000_choice_002_f
+I. AM. SO. TIRED!
+
+TAG: Jafar_003_f
+How fortunate for the Valley to have such a generous benefactor.
+
+TAG: Player_001_choice_000_f
+Wow, thank you, bestie!!!
+
+TAG: Player_001_choice_001_f
+I'll take that as a compliment.
+
+TAG: Player_001_choice_002_f
+Your words are nice, but the tone not so much.
+
+TAG: Jafar_010_f
+Never refer to me as that again.
+
+TAG: Jafar_009_f
+If you must.
+
+TAG: Jafar_011_f
+My most abject and humblest apologies.
+
+TAG: Jafar_002_f
+How strategic of you, {PlayerName}. I am impressed.
+
+TAG: Jafar_007_f
+... Unless you are only SAYING you win the trust of others to win MY trust...
+
+TAG: Player_004_choice_000_f
+You're a little paranoid, bestie.
+
+TAG: Player_004_choice_001_f
+You got me!
+
+TAG: Player_004_choice_002_f
+It worked, didn't it?
+
+TAG: Jafar_013_f
+Vigilance is how I have survived all that I have endured.
+
+TAG: Jafar_012_f
+I knew it. Well played.
+
+TAG: Jafar_014_f
+... Perhaps. Perhaps not. We shall see.
+
+TAG: Jafar_004_f
+Well, perhaps you ought to unburden yourself of some duties and rest.
+
+TAG: Jafar_005_f
+Why, I could take numerous responsibilities off your shoulders.
+
+TAG: Player_003_choice_000_f
+No thanks, bestie!
+
+TAG: Player_003_choice_001_f
+Not gonna happen.
+
+TAG: Player_003_choice_002_f
+You're really not subtle about looking for control.
+
+TAG: Jafar_016_f
+The offer stands... if you NEVER call me that again.
+
+TAG: Jafar_015_f
+Do not sound so certain, {PlayerName}. You may have need of me yet.
+
+TAG: Jafar_017_f
+Dear {PlayerName}, whatever could you mean?
+

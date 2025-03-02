@@ -1,0 +1,69 @@
+TAG: Jafar_000_f
+{PlayerName}... I wonder what you have heard around the Isle...
+
+TAG: Player_000_choice_000_f
+Yeah, we need to talk.
+
+TAG: Player_000_choice_001_f
+I'll be back later to discuss this.
+
+TAG: Jafar_001_f
+How ominous.
+
+TAG: Jafar_002_f
+The other Villagers seem unhappy with you again. Want to tell me why before I go ask them?
+
+TAG: Jafar_003_f
+No need; I will tell you everything myself. The question is... will you believe me?
+
+TAG: Player_001_choice_000_f
+You're the only person who has lied to me in this situation.
+
+TAG: Player_001_choice_001_f
+If it confirms what I already suspect...
+
+TAG: Player_001_choice_002_f
+That's to be determined.
+
+TAG: Jafar_004_f
+Oh dear. Were my actions really so terrible? Is my social currency so deficient?
+
+TAG: Jafar_012_f
+This is serious. We trusted you to be better and from the sounds of it... you haven't even tried.
+
+TAG: Jafar_014_f
+I will, of course, find you a defense attorney while I go around and get the truth from the other Villagers.
+
+TAG: Jafar_015_f
+Really? You think any of those simpletons could form a coherent legal argument?
+
+TAG: Jafar_016_f
+I will, of course, represent myself.
+
+TAG: Jafar_018_f
+Fine, fine, I'll leave you to work on your case for now. I'll be in touch when we're ready to kick things off. Be careful, Jafar. I'm serious.
+
+TAG: Jafar_005_f
+Well, you DID try to steal Oswald's abilities and hypnotized some of the other Villagers so, yes â I'm more inclined to believe them. But I still want to hear your version of recent events.
+
+TAG: Jafar_006_f
+Well, first there was Rapunzel. I was merely trying to offer helpful artistic advice. She so clearly needs it.
+
+TAG: Jafar_007_f
+Jafar...
+
+TAG: Jafar_008_f
+And the capybaras should be glad that they're finally useful.
+
+TAG: Jafar_009_f
+As for Gaston, I am surprised he even has the capacity for speech. Obviously, you should disregard whatever he tells you.
+
+TAG: Jafar_017_f
+Finally, Scrooge McDuck and EVE cannot be trusted to speak truthfully â they both have agendas against me.
+
+TAG: Jafar_010_f
+Sounds like you've been up to SOMETHING... And I warned you about being on probation. I didn't want it to come to this, but... we're gonna need to enact the first-ever Dreamlight Court.
+
+TAG: Jafar_011_f
+A trial? Surely you jest.
+

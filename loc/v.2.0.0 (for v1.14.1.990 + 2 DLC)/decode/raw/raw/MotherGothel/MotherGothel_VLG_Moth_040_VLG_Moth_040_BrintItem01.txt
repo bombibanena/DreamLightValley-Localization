@@ -1,0 +1,39 @@
+TAG: MotherGothel_003_f
+And this smell... It reminds me of waking up in the morning and remembering how young and beautiful I am.
+
+TAG: MotherGothel_000_f
+Can you feel it, this vibration of magic in the air? The spell is working and the sun is listening...
+
+TAG: Player_000_choice_000_f
+Yes, I feel it.
+
+TAG: Player_000_choice_001_f
+Can anyone feel magic?
+
+TAG: Player_000_choice_002_f
+I feel hungry, mostly.
+
+TAG: MotherGothel_005_f
+Surprising... I didn't think you'd be sensitive enough.
+
+TAG: MotherGothel_001_f
+Now, for the <ActivityItem>Dusk Fragment</ActivityItem>... Here, take it.
+
+TAG: MotherGothel_002_f
+Its energy needs a full day to be restored. This will be quite an opportunity to showcase your very particular skills.
+
+TAG: MotherGothel_008_f
+Treat it like one of those <ActivityItem>Crops</ActivityItem> you're so fond of, so it absorbs the Valley's power.
+
+TAG: MotherGothel_004_f
+And as it's the <ActivityItem>Dusk Fragment</ActivityItem>, it must be planted in the darkest part of Dreamlight Valley: the Forgotten Lands.
+
+TAG: MotherGothel_009_f
+Bury it and water it for as long as it needs.
+
+TAG: MotherGothel_006_f
+No, not everyone. It takes a very gifted person to be attuned to the energies. Someone like me.
+
+TAG: MotherGothel_007_f
+Why am I not surprised? Let's move on to matters of actual importance...
+

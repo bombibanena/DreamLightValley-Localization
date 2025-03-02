@@ -1,0 +1,249 @@
+TAG: BackpackExpansion28_DisplayName
+28-Slot Backpack
+
+TAG: BackpackExpansion35_DisplayName
+35-Slot Backpack
+
+TAG: BackpackExpansion42_DisplayName
+42-Slot Backpack
+
+TAG: LDBlockers!Hourglass!MRQS_E01_110_FloatingRocks_DisplayName
+{Placeholder}FloatingRocksUpgrade
+
+TAG: LDBlockers!Hourglass!SandMist_Large_DisplayName
+Large Swirling Sands Hourglass Potion
+
+TAG: LDBlockers!Hourglass!SandMist_Small_DisplayName
+Small Swirling Sands Hourglass Potion
+
+TAG: LDBlockers!Hourglass!SEC_Oswa_010_LampBlocker_DisplayName
+LampBlocker_DisplayName
+
+TAG: LDBlockers!Pickaxe!Copper_Large_DisplayName
+Large Copper Rocks Pickaxe Potion
+
+TAG: LDBlockers!Pickaxe!Copper_Small_DisplayName
+Small Copper Rocks Pickaxe Potion
+
+TAG: LDBlockers!Pickaxe!Coral_Large_DisplayName
+{Placeholder} Pickaxe Coral Big Upgrade
+
+TAG: LDBlockers!Pickaxe!Coral_Small_DisplayName
+{Placeholder} Pickaxe Coral Small Upgrade
+
+TAG: LDBlockers!Pickaxe!Expansion02!MRQS_E02_010_LibraryPickaxeUpgrade_DisplayName
+{Placeholder}Petrified Wood Pickaxe Upgrade
+
+TAG: LDBlockers!Pickaxe!Expansion02!VLG_Hade_010_MythopiaPickaxeUpgrade_DisplayName
+{Placeholder}Mythopia Pickaxe Upgrade
+
+TAG: LDBlockers!Pickaxe!Glass_Large_DisplayName
+Large Glass Stalagmite Pickaxe Potion
+
+TAG: LDBlockers!Pickaxe!Glass_Small_DisplayName
+Small Glass Stalagmite Pickaxe Potion
+
+TAG: LDBlockers!Pickaxe!IceShards_Big_DisplayName
+{Placeholder} Pickaxe IceShards Big Upgrade
+
+TAG: LDBlockers!Pickaxe!IceShards_Small_DisplayName
+{Placeholder} Pickaxe IceShards Small Upgrade
+
+TAG: LDBlockers!Pickaxe!MRQS_E01_190_Rubbles02_DisplayName
+{Placeholder}MRQS_E01_190_Rubbles02_DisplayName
+
+TAG: LDBlockers!Pickaxe!RLM_BeautyBeastIP_Beast_010_StoneStatueUpgrade_DisplayName
+Stone Statue Upgrade
+
+TAG: LDBlockers!Pickaxe!RLM_LionKing2IP_Simb_020_CrownUpgradePickaxe_DisplayName
+{Placeholder}Forgotten Crown blocker upgrade
+
+TAG: LDBlockers!Pickaxe!RLM_LionKingIP_Nala_010_GiantRock_DisplayName
+{Placeholder}Giant rock upgrade
+
+TAG: LDBlockers!Pickaxe!RLM_LionKingIP_Simb_010_WaterSourceUpgrade_DisplayName
+{Placeholder} Water source blocker
+
+TAG: LDBlockers!Pickaxe!RLM_LionKingIP_Timo_010_BugRockUpgrade_DisplayName
+{Placeholder}Bug rock upgrade
+
+TAG: LDBlockers!Pickaxe!RLM_MonsterIncIP_Mike_010_VendingMachine_DisplayName
+Vending Machine Pickaxe Upgrade
+
+TAG: LDBlockers!Pickaxe!RLM_Mula_060_TrainingBlock_DisplayName
+{Placeholder}Training Blocks Upgrade
+
+TAG: LDBlockers!Pickaxe!RLM_ToyStoryIP_Woody_010_CandyBlocker_DisplayName
+{Placeholder}Candy Blocker Upgrdae
+
+TAG: LDBlockers!Pickaxe!Rocks_Big_DisplayName
+{Placeholder} Pickaxe Rocks Big Upgrade
+
+TAG: LDBlockers!Pickaxe!Rocks_Small_DisplayName
+{Placeholder} Pickaxe Rocks Small Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Kris_020_Statue_DisplayName
+{Placeholder}Ice block
+
+TAG: LDBlockers!Pickaxe!VLG_Mula_040_Iceshard_Big_Floor01_DisplayName
+Big Ice Shard Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Mula_040_Iceshard_Big_Floor02_DisplayName
+Big Ice Shard Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Mula_040_Iceshard_Big_Floor03_DisplayName
+Big Ice Shard Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Mula_040_Iceshard_Big_Floor04_DisplayName
+Big Ice Shard Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Mush_020_FurnitureUpgrade_DisplayName
+Old Furniture Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Mush_030_Gong_DisplayName
+Gong Pickaxe Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Tian_030_PotatoPickaxe_Upgrade_DisplayName
+{Placeholder}Potato Pickaxe Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Timo_040_CorruptedRock_DisplayName
+{Placeholder}VLG_Timo_040_CorruptedRock
+
+TAG: LDBlockers!Pickaxe!VLG_Vane_040_Door_DisplayName
+{Placeholder}Door Break Upgrade
+
+TAG: LDBlockers!Pickaxe!VLG_Vane_040_Monster_DisplayName
+{Placeholder}Monster Upgrade
+
+TAG: LDBlockers!Shovel!Bones_DisplayName
+{Placeholder} Shovel Bones Upgrade
+
+TAG: LDBlockers!Shovel!Expansion02!MRQS_E02_040_FairyTalesShovelUpgrade_DisplayName
+{Placeholder}Shovel Tea Cup Upgrade
+
+TAG: LDBlockers!Shovel!Expansion02!VLG_Meri_010_LibraryShovelUpgrade_DisplayName
+{Placeholder}Library Log Shovel Upgrade
+
+TAG: LDBlockers!Shovel!GazelleSkull_Big_DisplayName
+{Placeholder} Shovel Gazelle Skull Big Upgrade
+
+TAG: LDBlockers!Shovel!GazelleSkull_Small_DisplayName
+{Placeholder} Shovel Gazelle Skull Small Upgrade
+
+TAG: LDBlockers!Shovel!HoleInTheGround_DisplayName
+{Placeholder} Hole In The Ground Upgrade
+
+TAG: LDBlockers!Shovel!MRQS_E01_160_PileOfCoins_DisplayName
+{Placeholder}MRQS_E01_160_PileOfCoins_DisplayName
+
+TAG: LDBlockers!Shovel!RLM_BeautyBeastIP_Beast_010_GardenHoleUpgrade_DisplayName
+{Placeholder}Garden Hole Upgrade
+
+TAG: LDBlockers!Shovel!RLM_LionKing2IP_Simb_020_CrownBlocker_DisplayName
+{Placeholder}Forgotten crown blocker setup
+
+TAG: LDBlockers!Shovel!RLM_LionKing2IP_Simb_020_LeafPiles_DisplayName
+{Placeholder}Lion King 2 realm leaf pile blocker upgrade
+
+TAG: LDBlockers!Shovel!RLM_LionKingIP_Nala_010_BugStump_DisplayName
+{Placeholder} Bug stump
+
+TAG: LDBlockers!Shovel!RLM_LionKingIP_Nala_010_DriedStumps_DisplayName
+{Placeholder}Dried stumps
+
+TAG: LDBlockers!Shovel!RLM_LionKingIP_Nala_010_DriedThorns_DisplayName
+{Placeholder}Dried thorns
+
+TAG: LDBlockers!Shovel!RLM_LionKingIP_Simb_010_PlantUpgrade_DisplayName
+{Placeholder} Plant upgrade
+
+TAG: LDBlockers!Shovel!RLM_MonsterIncIP_Mike_010_PileOfSocks_DisplayName
+Pile of Socks Upgrade
+
+TAG: LDBlockers!Shovel!RLM_Mush_020_ClayShovelUpgrade_DisplayName
+{Placeholder}Clay Blocker Upgrade
+
+TAG: LDBlockers!Shovel!RLM_Mush_RiceSpillUpgrade_DisplayName
+{Placeholder}Rice Spills Remover
+
+TAG: LDBlockers!Shovel!RLM_ToyStoryIP_Woody_010_PaperBlocker_DisplayName
+{Placeholder}Paper Blocker Upgrdae
+
+TAG: LDBlockers!Shovel!Rubbles_Large_DisplayName
+Large Rubble Shovel Potion
+
+TAG: LDBlockers!Shovel!Rubbles_Small_DisplayName
+Small Rubble Shovel Potion
+
+TAG: LDBlockers!Shovel!TreeStump_Big_DisplayName
+{Placeholder} Shovel Tree Stump Big Upgrade
+
+TAG: LDBlockers!Shovel!TreeStump_Small_DisplayName
+{Placeholder} Shovel Tree Stump Small Upgrade
+
+TAG: LDBlockers!Shovel!VLG_Dais_010_FlowerPotRemover_DisplayName
+{Placeholder}Flower Pots Remover
+
+TAG: LDBlockers!Shovel!VLG_Gast_010_Sandpile_DisplayName
+{Placeholder}Sandpile Gaston
+
+TAG: LDBlockers!Shovel!VLG_Sull_027_Rubbish_DisplayName
+{Placeholder}Rubbish upgrade
+
+TAG: LDBlockers!WateringCan!EvilPlant_Large_DisplayName
+Large Evil Plant Watering Can Potion
+
+TAG: LDBlockers!WateringCan!EvilPlant_Small_DisplayName
+Small Evil Plant Watering Can Potion
+
+TAG: LDBlockers!WateringCan!Expansion02!MRQS_E02_080_MythopiaWateringCanUpgrade_DisplayName
+{Placeholder}Watering Can Fire Mythopia Upgrade
+
+TAG: LDBlockers!WateringCan!Expansion02!VLG_Flyn_030_FairyTalesWateringCanUpgrade_DisplayName
+{Placeholder}Watering Can Upgrade Fire Bubbles
+
+TAG: LDBlockers!WateringCan!Fire_Big_DisplayName
+{Placeholder} WateringCan Fire Big Upgrade
+
+TAG: LDBlockers!WateringCan!Fire_Small_DisplayName
+{Placeholder} WateringCan Fire Small Upgrade
+
+TAG: LDBlockers!WateringCan!Mushroom_Big_DisplayName
+{Placeholder} WateringCan Mushroom Big Upgrade
+
+TAG: LDBlockers!WateringCan!Mushroom_Small_DisplayName
+{Placeholder} WateringCan Mushroom Small Upgrade
+
+TAG: LDBlockers!WateringCan!Mushroom_VLG_Merl_020_DisplayName
+{Placeholder}Mushroom Merlin
+
+TAG: LDBlockers!WateringCan!RLM_BeautyBeastIP_Beast_010_ChimneyFireUpgrade_DisplayName
+Chimney Fire Upgrade
+
+TAG: LDBlockers!WateringCan!RLM_LionKingIP_Pumb_010_MudPileUpgrade_DisplayName
+Mud Pile Upgrade
+
+TAG: LDBlockers!WateringCan!RLM_LionKingIP_Timo_010_PumbaaButtUpgrade_DisplayName
+{Placeholder}Stuck Pumbaa upgrade
+
+TAG: LDBlockers!WateringCan!RLM_MonsterIncIP_Sull_010_SlimPuddle_DisplayName
+Slim Puddle Upgrade
+
+TAG: LDBlockers!WateringCan!VLG_Dais_010_StainsRemover_DisplayName
+{Placeholder}Stains Remover.
+
+TAG: LDBlockers!WateringCan!VLG_Eve_020_Fire_DisplayName
+{Placeholder}Fire Eve.
+
+TAG: LDBlockers!WateringCan!VLG_Jack_020_NightThornTree_DisplayName
+Night Thorn Tree Upgrade
+
+TAG: LDBlockers!WateringCan!VLG_Jack_040_SugarSkull_DisplayName
+sugar skull Watering Can upgrade
+
+TAG: LDBlockers!WateringCan!VLG_Oswa_030_FireUpgrade_DisplayName
+{Placeholder}Fire Oswald.
+
+TAG: RessourceUnlock_DisplayName
+Unlock Resource
+

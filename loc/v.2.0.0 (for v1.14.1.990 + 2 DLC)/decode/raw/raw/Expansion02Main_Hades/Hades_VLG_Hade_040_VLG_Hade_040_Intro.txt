@@ -1,0 +1,81 @@
+TAG: Hades_000_f
+{PlayerName}, I've got it! Finally!
+
+TAG: Player_000_choice_000_f
+Have what, Hades?
+
+TAG: Player_000_choice_001_f
+Oh, I'm not ready for this conversation...
+
+TAG: Hades_001_f
+The way to get the attention I deserve!
+
+TAG: Hades_002_f
+I can't believe I didn't see it sooner.
+
+TAG: Hades_003_f
+What's your idea?
+
+TAG: Hades_004_f
+Okay, so I started with the obvious fact that everyone's selfish.
+
+TAG: Player_001_choice_000_f
+No they're not!
+
+TAG: Player_001_choice_001_f
+I have my doubts about that.
+
+TAG: Player_001_choice_002_f
+Hey, speak for yourself.
+
+TAG: Hades_005_f
+Sheesh, {PlayerName}, I didn't realize you were that naive. You're worse than Pandora before the box.
+
+TAG: Hades_007_f
+Trust me; this plan is gonna work. Here's what we'll do...
+
+TAG: Hades_008_f
+Throw a celebration! That way, people think I'm giving THEM something.
+
+TAG: Player_002_choice_000_f
+That doesn't sound too wild.
+
+TAG: Player_002_choice_001_f
+Everyone loves a party!
+
+TAG: Player_002_choice_002_f
+This won't be a party to secretly steal something, will it?
+
+TAG: Hades_009_f
+Oh, it will be if you execute my plans properly.
+
+TAG: Hades_012_f
+I'm gonna throw the best party the Vale has ever seen.
+
+TAG: Hades_013_f
+Then, everyone will have no choice but to adore me!
+
+TAG: Hades_014_f
+Hades, if you want to throw a party, who am I to say no?
+
+TAG: Hades_015_f
+That's what I like to hear! Now, the first thing we need for a party is a menu.
+
+TAG: Hades_016_f
+Go <Lore>talk to Tiana</Lore>. If she caters my party, they'll be raving about the food.
+
+TAG: Hades_017_f
+Cool, I'll go chat with her now.
+
+TAG: Hades_010_f
+Exactly.
+
+TAG: Hades_011_f
+Steal? No, more like reclaim what's rightfully mine.
+
+TAG: Hades_018_f
+Hey, take it from someone who's been around kinda forever, okay?
+
+TAG: Hades_006_f
+I do! And for the dead. Which, percentage-wise, is basically everyone.
+

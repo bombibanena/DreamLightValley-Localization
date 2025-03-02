@@ -1,0 +1,75 @@
+TAG: MotherGothel_002_f
+Hey, Mother Gothel, I've got a surprise for you!
+
+TAG: MotherGothel_003_f
+Well, I certainly hope it's better than the last gift you gave me.
+
+TAG: MotherGothel_004_f
+Creative, it was not.
+
+TAG: Player_000_choice_000_f
+I think you'll like this one!
+
+TAG: Player_000_choice_001_f
+Wow, rude.
+
+TAG: Player_000_choice_002_f
+It's okay; I can find someone else.
+
+TAG: MotherGothel_017_f
+Perhaps...
+
+TAG: MotherGothel_005_f
+Well, go on â what is this surprise?
+
+TAG: MotherGothel_006_f
+You're invited to the grand opening of Tiana's Meal Stall!
+
+TAG: MotherGothel_007_f
+It's a new spot in the Valley where people can swing by for a nice meal and a cool outdoor terrace to hang out in!
+
+TAG: MotherGothel_008_f
+Oh... I was hoping it would be something interesting.
+
+TAG: MotherGothel_009_f
+Tiana means well, but her food...
+
+TAG: MotherGothel_010_f
+Well, I suppose it can't be worse than it was before the Forgetting. I distinctly remember it being far too intense for my tastes.
+
+TAG: Player_001_choice_000_f
+Are you... sure you even want to come?
+
+TAG: Player_001_choice_001_f
+I think you'll be pleasantly surprised.
+
+TAG: Player_001_choice_002_f
+The food was too hot?
+
+TAG: MotherGothel_012_f
+Why, of course I do! Tiana needs someone to give her an honest opinion.
+
+TAG: MotherGothel_013_f
+The rest of you coddle her. She needs some proper motherly advice.
+
+TAG: MotherGothel_014_f
+Um, okay... I guess I'll let her know that you're coming.
+
+TAG: MotherGothel_015_f
+I'm sure she'll be overjoyed!
+
+TAG: MotherGothel_001_f
+Oh, I doubt that...
+
+TAG: MotherGothel_016_f
+No, the temperature was fine. The spice level, however...
+
+TAG: MotherGothel_011_f
+I'll come and give my HONEST opinion of Tiana's new food. I never sugarcoat things merely to spare someone's feelings.
+
+TAG: MotherGothel_000_f
+I never sugarcoat things merely to spare someone's feelings.
+
+TAG: MotherGothel_018_f
+Oh, I'm teasing, dear. You really must stop taking everything so seriously!
+

@@ -1,0 +1,24 @@
+TAG: Elsa_000_f
+{PlayerName}. What do you think of Kristoff?
+
+TAG: Player_000_choice_000_f
+He's a stand-up guy.
+
+TAG: Player_000_choice_001_f
+He's a bit of a fixer-upper.
+
+TAG: Player_000_choice_002_f
+He smells like reindeer.
+
+TAG: Elsa_001_f
+I'm glad you think so. I value your opinion. He seems to make Anna happy. So I like him.
+
+TAG: Elsa_002_f
+You think so? I guess he's a bit rough around the edges.
+
+TAG: Elsa_004_f
+But he seems to make Anna happy. So I like him.
+
+TAG: Elsa_003_f
+He does. I suppose that's something of a drawback.
+

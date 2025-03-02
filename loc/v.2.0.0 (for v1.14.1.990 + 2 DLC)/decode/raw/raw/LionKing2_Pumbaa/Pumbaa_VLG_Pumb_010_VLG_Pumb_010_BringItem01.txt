@@ -1,0 +1,96 @@
+TAG: Pumbaa_000_f
+Hey, Pumbaa! Here are a couple of foods for you to try...
+
+TAG: Pumbaa_004_f
+Oh, I'm so glad you're here! I was gettin' real worried... and real hungry!
+
+TAG: Pumbaa_005_f
+Wait â what does food have to do with my aroma?
+
+TAG: Player_000_choice_002_f
+Eat the Onion Puffs. Then I'll explain...
+
+TAG: Player_000_choice_003_f
+We think you have a food intolerance...
+
+TAG: Player_000_choice_004_f
+It's cheese's fault.
+
+TAG: Pumbaa_007_f
+No problem!
+
+TAG: Pumbaa_012_f
+So delicious... But... Oof! My tummy doesn't feel so good...
+
+TAG: Player_002_choice_000_f
+Eating cheese is causing the smell!
+
+TAG: Player_002_choice_001_f
+I feel your pain. I can't eat cheese either!
+
+TAG: Player_002_choice_002_f
+Sorry, buddy. No cheese from here on out.
+
+TAG: Pumbaa_013_f
+Now, try eating those <ActivityItem>Gingerbread Cookies</ActivityItem> I made you. They're cheese-free, and the ginger can help your stomach.
+
+TAG: Pumbaa_001_f
+Well, they do smell good.
+
+TAG: Pumbaa_002_f
+*crunch crunch crunch*
+
+TAG: Pumbaa_018_f
+Say, my tummy feels much better now! But... how can I ever go in the restaurant again?
+
+TAG: Pumbaa_019_f
+I'm going to help with that too. I also spoke to Daisy and Elsa. They had a few thoughts to help you feel more comfortable at Chez Remy.
+
+TAG: Player_003_choice_000_f
+When did you last bathe?
+
+TAG: Player_003_choice_001_f
+And I've got just the plan!
+
+TAG: Player_003_choice_002_f
+You'll be fine-dining again soon!
+
+TAG: Pumbaa_023_f
+Me? Oh... maybe a week or two ago.
+
+TAG: Pumbaa_026_f
+I can't really remember.
+
+TAG: Pumbaa_028_f
+First things first, Pumbaa. I'm gonna get you a bubble bath.
+
+TAG: Pumbaa_030_f
+Bubbles? But how would bubbles get you clean? We warthogs use mud baths.
+
+TAG: Pumbaa_031_f
+It keeps you cool, and when it flakes off â you're clean! Gee, I could sure go for a mud bath.
+
+TAG: Pumbaa_032_f
+Hmm. All right, Pumbaa. I'll <Lore>make you a mud bath</Lore>.
+
+TAG: Pumbaa_033_f
+Thanks! I'm gonna go share some of these cookies with Timon!
+
+TAG: Pumbaa_024_f
+Oh boy, really?
+
+TAG: Pumbaa_006_f
+What's that? I tolerate all kinds of food! In fact, I love it!
+
+TAG: Pumbaa_010_f
+It means your digestive system doesn't really like certain things. Remy and I think it might be cheese.
+
+TAG: Pumbaa_011_f
+Try the Onion Puffs I gave you...
+
+TAG: Pumbaa_008_f
+What? NO! Cheese would never hurt me! It's yummy!
+
+TAG: Pumbaa_009_f
+It's just the theory Remy and I have... Let's test it, okay? Eat the Onion Puffs I made for you.
+

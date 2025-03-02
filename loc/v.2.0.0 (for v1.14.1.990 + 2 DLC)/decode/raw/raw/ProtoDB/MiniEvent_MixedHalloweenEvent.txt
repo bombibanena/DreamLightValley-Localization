@@ -1,0 +1,30 @@
+TAG: Description
+{Placeholder}Pickup up fruit, Garden and Cook meal For Halloween.
+
+TAG: Description_000
+{Placeholder}Pick up 10 fruits.
+
+TAG: Description_001
+{Placeholder}Make 5 meals with sugar.
+
+TAG: Description_002
+{Placeholder}Harvest 10 pumpkins.
+
+TAG: Description_003
+{Placeholder}Make 5 pumpkin meals.
+
+TAG: Name
+{Placeholder}Halloween Event
+
+TAG: Name_000
+{Placeholder}Sugar everywhere 1
+
+TAG: Name_001
+{Placeholder}Sugar everywhere 2
+
+TAG: Name_002
+{Placeholder}Pumpkin for Halloween 1
+
+TAG: Name_003
+{Placeholder}Pumpkin for Halloween 2
+

@@ -1,0 +1,216 @@
+TAG: Olaf_000_f
+Oh! You found me!
+
+TAG: Olaf_001_f
+Hooray! That means I'm "it."
+
+TAG: Olaf_002_f
+Now, it's your turn to hide. My advice: Choose a good spot. Anna says my finding abilities are epic!
+
+TAG: Player_000_choice_000_f
+Olaf?!
+
+TAG: Player_000_choice_001_f
+Huh? Is this a game?
+
+TAG: Player_000_choice_002_f
+What are you doing in here?
+
+TAG: Olaf_003_f
+{PlayerName}! It's you!
+
+TAG: Olaf_004_f
+Wait â you look taller than I remember.
+
+TAG: Olaf_005_f
+I suppose the last time we saw each other was a long time ago. Way back before the Forgetting.
+
+TAG: Olaf_006_f
+Does that mean you're all grown up now?
+
+TAG: Player_001_choice_000_f
+That's right.
+
+TAG: Player_001_choice_001_f
+I guess so. Even if I don't feel like it.
+
+TAG: Player_001_choice_002_f
+"Grown up" is a state of mind. I'm a kid at heart.
+
+TAG: Olaf_007_f
+Well, I hope you're not too grown up to finish playing our game.
+
+TAG: Olaf_008_f
+Now it's your turn to hide and my turn to seek. Ready?
+
+TAG: Olaf_009_f
+Let's hide and seek later. But first...
+
+TAG: Player_002_choice_000_f
+What is this place?
+
+TAG: Player_002_choice_001_f
+What happened to you?
+
+TAG: Player_002_choice_002_f
+I need your help fixing a magical mess.
+
+TAG: Olaf_010_f
+You know, I'm not exactly sure. I think maybe it used to be your special room.
+
+TAG: Olaf_011_f
+My special room? What do you mean?
+
+TAG: Olaf_012_f
+Well, you came here when you wanted to be alone.
+
+TAG: Olaf_013_f
+To get away from all the complexities of life and ponder the meaning of the universe.
+
+TAG: Player_003_choice_000_f
+That makes sense. We all need time to be alone.
+
+TAG: Player_003_choice_001_f
+But I love being around people.
+
+TAG: Player_003_choice_002_f
+I wish I could remember this...
+
+TAG: Olaf_014_f
+That is so true.
+
+TAG: Olaf_015_f
+There's so much strange magic in here. I wonder where it all comes from.
+
+TAG: Olaf_016_f
+As do I. This truly is a chamber filled with mysteries...
+
+TAG: Olaf_017_f
+Oh, but everyone needs solitude sometimes. When else would we ponder the great questions?
+
+TAG: Olaf_018_f
+Don't worry. I have an excellent memory. I'll do the remembering for both of us.
+
+TAG: Olaf_019_f
+Well, I followed you in here one day, there was a bright flash of light...
+
+TAG: Olaf_020_f
+...and then you were gone. And I've been here ever since. Mainly because I couldn't get out.
+
+TAG: Player_004_choice_000_f
+That's awful!
+
+TAG: Player_004_choice_001_f
+A bright flash of light...?
+
+TAG: Player_004_choice_002_f
+You don't seem very bothered about it.
+
+TAG: Olaf_021_f
+Well, I did get lonely. And I missed you and all my friends.
+
+TAG: Olaf_050_f
+But I've composed twelve epic novels in my head while I've been here. It's a series. I'll recite them to you later.
+
+TAG: Olaf_022_f
+Technically, it's against the hide-and-seek rules to use magic, but I presume you had a good reason.
+
+TAG: Olaf_023_f
+Well, I did prove that it's a great hiding spot. Look how long it took you to find me!
+
+TAG: Olaf_051_f
+And I've composed twelve epic novels in my head while I've been here. It's a series. I'll recite them to you later.
+
+TAG: Olaf_024_f
+There's a magical blizzard that's threatening the whole Village.
+
+TAG: Olaf_025_f
+If we're going to stop it, we need to find the Orb and restore the Pillarâ
+
+TAG: Olaf_026_f
+Ooo, I very much want to help, but first I'm in need of some assistance myself.
+
+TAG: Olaf_027_f
+You've probably noticed that I'm missing my nose, my buttons, and my arms.
+
+TAG: Player_005_choice_000_f
+I thought you looked a little different.
+
+TAG: Player_005_choice_001_f
+Wow, really? I hadn't noticed.
+
+TAG: Player_005_choice_002_f
+I didn't want to make a big deal about it.
+
+TAG: Olaf_028_f
+Some might like the minimalist look, but I'm much more fond of my full Olaf-ness.
+
+TAG: Olaf_029_f
+I'll help you get all your parts back. I think when I came in I saw some squirrels carrying them off...
+
+TAG: Olaf_030_f
+Oh, right! Silly me. Those squirrels are my friends.
+
+TAG: Olaf_031_f
+Did you know there are over two hundred species of squirrels?!
+
+TAG: Olaf_032_f
+But the ones here don't look like the squirrels I've seen before. They're all mysterious and glow-y.
+
+TAG: Olaf_033_f
+Still, they like to play keep-away with me, which is nice. It helps to pass the time. They take my buttons and nose, and I chase them around to get them back.
+
+TAG: Player_006_choice_000_f
+Sounds fun.
+
+TAG: Player_006_choice_001_f
+Are you sure this was just a game...?
+
+TAG: Olaf_034_f
+It is!
+
+TAG: Olaf_035_f
+Especially for the squirrels.
+
+TAG: Olaf_036_f
+But this time, when you came in, the squirrels ran out right past you with my nose and buttons.
+
+TAG: Olaf_037_f
+I've only ever had to chase them around here before.
+
+TAG: Olaf_038_f
+Okay. I'll help you get them back.
+
+TAG: Olaf_039_f
+Great. <Lore>Let's chase down some squirrels!</Lore>
+
+TAG: Olaf_040_f
+Well, I thought so.
+
+TAG: Olaf_041_f
+But as for the squirrels... well, who can really comprehend the mind of a squirrel?
+
+TAG: Olaf_042_f
+That's uncharacteristically unobservant of you. I would think it's as plain as the nose that's not on my face.
+
+TAG: Olaf_043_f
+Thank you. That was very polite.
+
+TAG: Olaf_044_f
+That's a relief! If you don't feel like a grown-up, then you won't be too grown-up to finish our game.
+
+TAG: Olaf_045_f
+Oh, good! I was worried you'd be too busy with grown-up matters to finish our game.
+
+TAG: Olaf_046_f
+Of course, {PlayerName}! Don't you remember? We're playing hide-and-seek.
+
+TAG: Olaf_047_f
+I'm hiding from you, {PlayerName}. And you are...? C'mon, you know it...
+
+TAG: Olaf_048_f
+Okay, I'll help you out. You're seeking me.
+
+TAG: Olaf_049_f
+Do you need me to explain the rules again?
+

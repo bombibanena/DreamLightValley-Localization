@@ -1,0 +1,93 @@
+TAG: Story!MRQS035_SpreadTheWord_Any_CompletedRequestDescription
+Return to Scrooge McDuck.
+
+TAG: Story!MRQS035_SpreadTheWord_AvailableDescription
+Fixing the store was only part of the grand reopening. Scrooge McDuck needs you to promote his store around the Village.
+
+TAG: Story!MRQS035_SpreadTheWord_CompletedStoryDescription
+It's time to report to Scrooge McDuck so you can discover what he thinks about all of your hard work.
+
+TAG: Story!MRQS035_SpreadTheWord_DisplayName
+Scrooge McDuck's Grand Re-opening
+
+TAG: Story!MRQS035_SpreadTheWord_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Story!MRQS035_SpreadTheWord_Group01_Step05_DressUp01_StepDescription
+Put on the Scrooge's Store promotional T-shirt.
+
+TAG: Story!MRQS035_SpreadTheWord_Group02_Step04_TalkToCharacter01_StepDescription
+Show Scrooge McDuck your outfit.
+
+TAG: Story!MRQS035_SpreadTheWord_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do with the signs?
+
+TAG: Story!MRQS035_SpreadTheWord_Group03_Step03_Decorate01_StepDescription
+Place Scrooge's Store signs around the Village.
+
+TAG: Story!MRQS035_SpreadTheWord_Group03_Step03_StepDescription
+(Press {input_inventory} to open your Backpack, then find the Scrooge's Store signs in the Furniture section.)
+
+TAG: Story!MRQS035_SpreadTheWord_Group03_Step03_StepDescriptionMobile
+(Access your Inventory via the Backpack icon, then find the Scrooge's Store signs in the Furniture section.)
+
+TAG: Story!MRQS035_SpreadTheWord_Group03_StoryDescription
+Once you're done crafting signs, Scrooge McDuck asks you to place them around the Village.
+
+TAG: Story!MRQS035_SpreadTheWord_Group04_Step02_TalkToCharacter02_StepDescription
+Talk to Scrooge McDuck.
+
+TAG: Story!MRQS035_SpreadTheWord_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do we do now?
+
+TAG: Story!MRQS035_SpreadTheWord_Group05_Step01_Decorate02_StepDescription
+Place the {ItemName} near Scrooge's Store.
+
+TAG: Story!MRQS035_SpreadTheWord_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need to do?
+
+TAG: Story!MRQS035_SpreadTheWord_Group06_Step06_CraftItem03_StepDescription
+Craft {ItemName} using the items collected.
+
+TAG: Story!MRQS035_SpreadTheWord_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How do I craft?
+
+TAG: Story!MRQS035_SpreadTheWord_Group07_Step07_CraftItem01_StepDescription
+Craft four signs for Scrooge's Store using a Crafting Station.
+
+TAG: Story!MRQS035_SpreadTheWord_Group08_Step08_TalkToCharacter03_StepDescription
+Scrooge McDuck has something else for you. Talk to him.
+
+TAG: Story!MRQS035_SpreadTheWord_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need to do?
+
+TAG: Story!MRQS035_SpreadTheWord_Group10_Step10_Possess02_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS035_SpreadTheWord_Group10_Step10_Possess03_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS035_SpreadTheWord_Group10_Step10_StepDescription
+Gather the following items:
+
+TAG: Story!MRQS035_SpreadTheWord_Group10_StoryDescription
+One last thing to do: Decorate the outside of the store to make it even more attractive to potential clients.
+
+TAG: Story!MRQS035_SpreadTheWord_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where can I find {ItemName}?
+
+TAG: Story!MRQS035_SpreadTheWord_Group11_Step12_ReadyDescription
+Return to Scrooge McDuck.
+
+TAG: Story!MRQS035_SpreadTheWord_Group11_Step12_StepDescription
+Gather <ActivityItem>Softwood</ActivityItem> around the Village.
+
+TAG: Story!MRQS035_SpreadTheWord_Group11_StepDescription
+(Press {input_mainmenu} to access the Collection menu to learn where to find <ActivityItem>Softwood</ActivityItem>.)
+
+TAG: Story!MRQS035_SpreadTheWord_Group11_StepDescriptionMobile
+(Access the Collection menu from the Main Menu to learn where to find <ActivityItem>Softwood</ActivityItem>.)
+
+TAG: Story!MRQS035_SpreadTheWord_Group11_StoryDescription
+To help spread the word, Scrooge McDuck instructs you to put on a Scrooge's Store branded T-shirt to wear around Dreamlight Valley. Upon seeing it on you, he decides it'd be even better with some signs. He enlists you to craft some for him.
+

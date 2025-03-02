@@ -1,0 +1,57 @@
+TAG: Nala_006_f
+So, I found what you were talking about. It's a statue. The weird thing is that the second I picked it up, I saw something shining in the water.
+
+TAG: Nala_000_f
+It looked like some kind of <Lore>mystical rift</Lore>. Here. I took a picture of it to give you a closer look.
+
+TAG: Nala_001_f
+That's so strange. Every time I look towards Dazzle Beach, my whiskers start twitching.
+
+TAG: Nala_007_f
+Ugh, and that smell! I know my nose is more sensitive than yours, but it's worse than a whole pack of hyenas.
+
+TAG: Nala_009_f
+The statue, the rift, the smell... they must be connected somehow.
+
+TAG: Player_001_choice_000_f
+I know we can fix this.
+
+TAG: Player_001_choice_001_f
+I hope we can fix this.
+
+TAG: Player_001_choice_002_f
+How do we fix this?!
+
+TAG: Nala_010_f
+Maybe if we just bury the statue again...
+
+TAG: Nala_019_f
+I'll patrol and make sure nothing dangerous comes through that rift.
+
+TAG: Nala_012_f
+I don't think that's going to help.
+
+TAG: Nala_013_f
+The smell isn't just coming from Dazzle Beach anymore. Now I smell it coming from other places in the Valley.
+
+TAG: Nala_014_f
+Uh-oh. Where?
+
+TAG: Nala_015_f
+The Frosted Heights and the Glade of Trust.
+
+TAG: Nala_016_f
+If I even look in those directions, my whiskers start twitching.
+
+TAG: Nala_017_f
+I'll go <Lore>investigate the Frosted Heights and the Glade of Trust</Lore> to see if any more mystical rifts have opened up.
+
+TAG: Nala_020_f
+Maybe there are more of these statues lying around...
+
+TAG: Nala_018_f
+Please hurry. The smell is getting worse.
+
+TAG: Nala_011_f
+I'm not sure. I've never encountered anything like this before.
+

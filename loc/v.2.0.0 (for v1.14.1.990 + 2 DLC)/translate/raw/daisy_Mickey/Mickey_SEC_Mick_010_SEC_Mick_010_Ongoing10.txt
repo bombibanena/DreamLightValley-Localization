@@ -1,0 +1,6 @@
+TAG: Mickey_000_f
+Что еще ты должен делать, {PlayerName}?
+
+TAG: Mickey_001_f
+Мне нужно полить <ActivityItem>Mini Boutique</ActivityItem> в Дейзи House.
+

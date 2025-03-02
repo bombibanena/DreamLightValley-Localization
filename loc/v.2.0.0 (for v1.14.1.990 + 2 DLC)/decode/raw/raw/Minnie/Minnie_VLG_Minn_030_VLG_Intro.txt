@@ -1,0 +1,30 @@
+TAG: Minnie_000_f
+{PlayerName}, did you know there used to be a <ActivityItem>Rustic Clock Tower</ActivityItem> in the Plaza?
+
+TAG: Minnie_005_f
+It was quite large and elegant, and it helped everyone keep time.
+
+TAG: Minnie_001_f
+It seems to have disappeared during the Forgetting.
+
+TAG: Minnie_002_f
+Would you help me bring it back to Dreamlight Valley?
+
+TAG: Player_000_choice_000_f
+Of course I'll help!
+
+TAG: Player_000_choice_001_f
+I'll help later! I promise!
+
+TAG: Minnie_003_f
+Wonderful! Now let me see...
+
+TAG: Minnie_006_f
+It was very tall. Built of <ActivityItem>Stones</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, and <ActivityItem>Clay</ActivityItem>.
+
+TAG: Minnie_007_f
+Oh, and the clock hands were made of Iron.
+
+TAG: Minnie_004_f
+I'll be looking forward to it. Come back when you're ready!
+

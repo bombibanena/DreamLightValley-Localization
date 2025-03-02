@@ -1,0 +1,36 @@
+TAG: Hades_000_f
+Hey, what can I say? Sometimes you have a day and things just work out.
+
+TAG: Player_000_choice_000_f
+Did something nice happen?
+
+TAG: Player_000_choice_001_f
+Did you do something devious?
+
+TAG: Player_000_choice_002_f
+Did you have a yummy lunch?
+
+TAG: Hades_001_f
+You could say that.
+
+TAG: Hades_004_f
+I mean, it was nice for me. Not so much for the other guy.
+
+TAG: Hades_005_f
+But I'm the one who really matters, right?
+
+TAG: Hades_002_f
+Ya know, I did. Just a little primo double-dealing.
+
+TAG: Hades_007_f
+I'm not gonna say anything else, because you've got your "quest" face on.
+
+TAG: Hades_006_f
+Go fix someone else's problems, okay?
+
+TAG: Hades_003_f
+You know what? I did. Moussaka and some really fresh pita.
+
+TAG: Hades_008_f
+Thanks for askin', {PlayerName}.
+

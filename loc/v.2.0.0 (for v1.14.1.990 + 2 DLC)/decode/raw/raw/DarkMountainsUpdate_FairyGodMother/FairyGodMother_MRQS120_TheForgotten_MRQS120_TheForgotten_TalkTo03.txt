@@ -1,0 +1,39 @@
+TAG: FairyGodMother_001_f
+Ah, here we are! Peculiar, isn't it?
+
+TAG: FairyGodMother_002_f
+It's as though we've traveled a long way... and as if we've done nothing more than close our eyes.
+
+TAG: Player_000_choice_000_f
+This place is amazing!
+
+TAG: Player_000_choice_001_f
+What do I do now?
+
+TAG: Player_000_choice_002_f
+Who built all this?
+
+TAG: FairyGodMother_003_f
+It certainly is. The Dreamscape built this out of pure imagination to help the Forgotten protect something very important.
+
+TAG: FairyGodMother_004_f
+The <ActivityItem>Orb of Remembrance</ActivityItem> is on that pedestal in the center of the room. Oh, but I'm afraid its power has grown dim...
+
+TAG: FairyGodMother_005_f
+If we're to restore it, we must find the <ActivityItem>Memories</ActivityItem> the Forgotten has scattered.
+
+TAG: FairyGodMother_006_f
+So how do we do that?
+
+TAG: FairyGodMother_011_f
+Well, each Memory holds some whisper of the virtues that have been forgotten.
+
+TAG: FairyGodMother_010_f
+And many are already here to be found. <Lore>Just gather the Memories you see all around!</Lore>
+
+TAG: FairyGodMother_008_f
+Well, where we are must have been conjured by the Forgotten from pure imagination, to protect something very important.
+
+TAG: FairyGodMother_009_f
+The Dreamscape builds itself. But it seems that it's shaped this space to match the Forgotten's own imagination.
+

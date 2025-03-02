@@ -1,0 +1,36 @@
+TAG: Nala_000_f
+Oh, hello, {PlayerName}. Can I help you with something?
+
+TAG: Nala_006_f
+I just wanted to let you know that Simba felt really bad about what happened. We went and scouted for some food around the Village.
+
+TAG: Nala_001_f
+Thank you for letting me know. I was worried when he just forgot like that.
+
+TAG: Player_001_choice_000_f
+He's trying his best.
+
+TAG: Player_001_choice_001_f
+I won't pick a side.
+
+TAG: Player_001_choice_002_f
+He just got a little too much into worrying about people worrying.
+
+TAG: Nala_002_f
+I know he is. And I know it's not easy being a leader.
+
+TAG: Nala_007_f
+There's so much for Simba to think about.
+
+TAG: Nala_008_f
+I'm glad you could help him. And I'm hoping we can figure out the role he used to play in the Valley.
+
+TAG: Nala_009_f
+Thank you, {PlayerName}... for everything.
+
+TAG: Nala_003_f
+You don't need to. We all just want what's best for the Valley.
+
+TAG: Nala_004_f
+I guess so. And I know it's not easy being a leader.
+

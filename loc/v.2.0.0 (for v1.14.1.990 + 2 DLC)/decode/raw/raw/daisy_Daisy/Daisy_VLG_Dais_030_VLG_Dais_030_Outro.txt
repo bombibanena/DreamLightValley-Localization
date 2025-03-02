@@ -1,0 +1,42 @@
+TAG: Daisy_001_f
+Tell me everything. How does Mother Gothel feel about the Glade of Trust now? Did she seem calmer? Kinder? More relaxed?
+
+TAG: Daisy_008_f
+I think she was impressed but didn't want to say it.
+
+TAG: Daisy_000_f
+Oh, {PlayerName}, thank you for all your help. I couldn't have done it without you. Even if things didn't go according to plan â it was oodles of fun!
+
+TAG: Daisy_002_f
+And the first issue of the new and improved Dreamlight Gazette is almost ready.
+
+TAG: Daisy_003_f
+It's going to be a big hit in the Village!
+
+TAG: Player_000_choice_000_f
+Yes, I agree.
+
+TAG: Player_000_choice_001_f
+What makes you say that?
+
+TAG: Player_000_choice_002_f
+Let's hope you're right.
+
+TAG: Daisy_004_f
+There it is again! We share the same instinct for business. I love that about us.
+
+TAG: Daisy_007_f
+I'm sure everyone will adore your photo essay, Minnie's special report on the Forgetting, and a BRAND-NEW edition of the "Ask Daisy" column.
+
+TAG: Daisy_010_f
+Everyone in the Valley will be reading it.
+
+TAG: Daisy_009_f
+Oh, one last thing... I want to give you that beautiful <ActivityItem>Advice Box</ActivityItem> you built. Who knows, we might use it again in the future!
+
+TAG: Daisy_005_f
+Well, it was popular before. And what do people need now more than good, honest journalism about our beloved Valley?
+
+TAG: Daisy_006_f
+Don't you worry, {PlayerName}. This relaunch issue is the first of many; I just know it.
+

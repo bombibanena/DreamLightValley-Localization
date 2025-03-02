@@ -1,0 +1,78 @@
+TAG: Tiana_002_f
+Okay, we've got some folks invited for the grand opening!
+
+TAG: Tiana_003_f
+But, umm... things are looking a little intense here.
+
+TAG: Tiana_004_f
+I guess I got a little carried away with my recipe testing.
+
+TAG: Tiana_005_f
+I still have some recipes to finish, but I'm starting to run out of clean dishes. And with everything that's cooking, I haven't had time to clean as I go.
+
+TAG: Player_000_choice_000_f
+Time to craft more dishes, stat!
+
+TAG: Player_000_choice_001_f
+Any chef snacks you can pass along?
+
+TAG: Player_000_choice_002_f
+Do you need that many recipes?
+
+TAG: Tiana_000_f
+Oh, thank you, but I think if I get any more I'll end up buried in dirty dishes.
+
+TAG: Tiana_006_f
+Back in New Orleans, I had a full restaurant staff to help out, but now I don't even have a dishwashing counter.
+
+TAG: Tiana_009_f
+What if you go talk to Merlin? He has a history of using magic to help with chores. I bet he could help out here.
+
+TAG: Tiana_008_f
+Oh, {PlayerName}, what a great idea!
+
+TAG: Player_001_choice_000_f
+Do you need a sword too?
+
+TAG: Player_001_choice_001_f
+Maybe Merlin has more magical ingredients too!
+
+TAG: Player_001_choice_002_f
+Would a walking sugar bowl be of any help?
+
+TAG: Tiana_019_f
+*laugh* Not today. I think I'm just fine with my chef's knife.
+
+TAG: Tiana_011_f
+Oh, actually I do need to start on the outdoor seating.
+
+TAG: Tiana_012_f
+Think you could <Lore>make some furnishings for me</Lore>?
+
+TAG: Tiana_013_f
+Sure! What do you need?
+
+TAG: Tiana_014_f
+To start, I'll need some <ActivityItem>Bistro Tables and Chairs</ActivityItem>.
+
+TAG: Tiana_015_f
+Once you have them ready, could you <Lore>place them near the Stall</Lore>?
+
+TAG: Tiana_016_f
+Sure! How about I aim for <Lore>fun</Lore> with the decorations?
+
+TAG: Tiana_017_f
+That would be perfect! You're a lifesaver, {PlayerName}.
+
+TAG: Tiana_020_f
+Now that's a thought. I'll keep it in mind for later.
+
+TAG: Tiana_021_f
+Unless the bowl has thumbs, it might make things more difficult...
+
+TAG: Tiana_001_f
+I wish I did, but nothing's quite ready yet.
+
+TAG: Tiana_018_f
+Well, I want to be sure I have a variety of dishes for folks with different tastes.
+

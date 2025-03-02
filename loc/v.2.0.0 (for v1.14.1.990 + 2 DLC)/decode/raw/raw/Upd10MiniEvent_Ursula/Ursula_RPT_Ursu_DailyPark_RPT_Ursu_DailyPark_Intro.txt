@@ -1,0 +1,120 @@
+TAG: Ursula_000_f
+Angelfish, do you have a moment?
+
+TAG: Player_002_choice_000_f
+Of course.
+
+TAG: Player_002_choice_001_f
+Let's talk later.
+
+TAG: Ursula_010_f
+Angelfish, I need your baking expertise once again.
+
+TAG: Ursula_011_f
+Would you bake me more <ActivityItem>Mermaid Cupcakes</ActivityItem>?
+
+TAG: Ursula_012_f
+I want to join in the celebration with the other Villagers.
+
+TAG: Player_001_choice_000_f
+I'm on the case. Or... cakes!
+
+TAG: Player_001_choice_001_f
+This is really suspicious.
+
+TAG: Player_001_choice_002_f
+Why not some eel-themed cupcakes?
+
+TAG: Ursula_013_f
+Clever â but let's get down to business.
+
+TAG: Ursula_016_f
+Make me the <ActivityItem>Mermaid Cupcakes</ActivityItem>.
+
+TAG: Ursula_029_f
+Next, I'll need you to deliver them to the Villagers, and I'll give you a reward.
+
+TAG: Ursula_017_f
+You know I always keep up MY end of a deal.
+
+TAG: Ursula_014_f
+Isn't it just? But I promise a straightforward transaction.
+
+TAG: Ursula_015_f
+Oh, I tried that one year, dearie. Apparently, gray and slimy confections aren't to everyone's taste.
+
+TAG: Ursula_018_f
+{PlayerName}, I need a little something from you. I'm not asking much. Just a token, really.
+
+TAG: Ursula_019_f
+Make me more of those <ActivityItem>Mermaid Cupcakes</ActivityItem>.
+
+TAG: Ursula_020_f
+The Villagers adore them, and the Dreamlight Parks Fest is the best way to summon a bit of goodwill for yours truly.
+
+TAG: Ursula_021_f
+Then, deliver them for me. By the time you're done, I'll have something special for you.
+
+TAG: Ursula_022_f
+Ready to do a little business, angelfish?
+
+TAG: Ursula_023_f
+As long as I have to endure this festival, I'll keep using it to help the Villagers warm up to me.
+
+TAG: Ursula_024_f
+Here's the deal... You bake me more of those <ActivityItem>Mermaid Cupcakes</ActivityItem> the Villagers love so much...
+
+TAG: Ursula_030_f
+...then deliver them for me...
+
+TAG: Ursula_025_f
+...and I'll make sure you get something EXTRA nice for your troubles.
+
+TAG: Ursula_026_f
+You're never too busy for me, are you, {PlayerName}?
+
+TAG: Ursula_027_f
+Well, I need more of those <ActivityItem>Mermaid Cupcakes</ActivityItem> you bake so well.
+
+TAG: Ursula_028_f
+Be a dear and hand those out for me. I'll have a treat for YOU when you return.
+
+TAG: Ursula_001_f
+I'll cut right to the chase... You're one of the best bakers in the Village, and I need your help.
+
+TAG: Player_000_choice_000_f
+You need help with baking?
+
+TAG: Player_000_choice_001_f
+Is this about cupcakes?
+
+TAG: Player_000_choice_002_f
+Sounds like you want to make a deal.
+
+TAG: Ursula_002_f
+Well, I'm a woman of many talents, but that's not one of them.
+
+TAG: Ursula_004_f
+It's about this "Dreamlight Parks Fest." Frankly, I loathe such inane celebrations, but indulging in the festivities will make me seem more... approachable. Trustworthy. Someone to make a deal with.
+
+TAG: Ursula_005_f
+So! I need you to make me a batch of <ActivityItem>Mermaid Cupcakes</ActivityItem>.
+
+TAG: Ursula_006_f
+Ursula, YOU want Mermaid Cupcakes?
+
+TAG: Ursula_007_f
+That's right. What better way to show that Ariel and I have buried the trident?
+
+TAG: Ursula_009_f
+If you make the cupcakes and deliver them to the Villagers, I'll reward you. Handsomely.
+
+TAG: Ursula_008_f
+That's right. A sickeningly sweet little reminder of Atlantica. The Villagers can't get enough of them.
+
+TAG: Ursula_003_f
+You guessed it, dearie.
+
+TAG: Ursula_031_f
+Come by another time, angelfish. And make it SOON!
+

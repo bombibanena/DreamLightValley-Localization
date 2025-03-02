@@ -1,0 +1,96 @@
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Any_CompletedRequestDescription
+Посмотри Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_AvailableDescription
+Матушка Готель знает, что делать с <ActivityItem>Sunstone Fragments</ActivityItem>. Прежде чем даже думать о восстановлении <ActivityItem>Sunstone</ActivityItem>, вам нужно укрепить его <ActivityItem>Fragments</ActivityItem>, чтобы можно было назвать душ <ActivityItem>Sun Meteorites</ActivityItem>. Каждый из этих осколков потребует другого метода восстановления, и Матушка Готель подробно о том, что вы должны сделать с <ActivityItem>0Dawn Fragment<ActivityItem>1.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_DisplayName
+Проект &lt; &lt; Сельская деревня &gt; &gt; : восстановление &lt; &lt; Солнечного камня &gt; &gt;
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group01_Step01_BringItem01_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Dawn Fragment</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group01_Step01_ReadyDescription
+Возьмите <ActivityItem>Dawn Fragment</ActivityItem> на Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group02_Step02_Possess01_StepDescription
+Соберите <ActivityItem>Sun Meteorites</ActivityItem> в Забытых землях.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group02_StoryDescription
+Используя три <ActivityItem>Fragments</ActivityItem>, Матушка Готель создает заклинание, которое заставляет <ActivityItem>Sun Meteorites</ActivityItem> падать с неба. Она просит вас найти <ActivityItem>Sun Meteorites</ActivityItem>, разбросанные по забытым землям.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group03_Step03_TalkToCharacter01_StepDescription
+Показать <ActivityItem>Sun Meteorites</ActivityItem> Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group04_Step04_CraftItem01_StepDescription
+Подготовьте {ItemName}.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group05_StepDescription
+Возьмите <ActivityItem>Sunstone</ActivityItem> на Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group05_StoryDescription
+Следуя инструкциям Матушка Готель, вы восстанавливаете <ActivityItem>Sunstone</ActivityItem>. Пора проверить, стоит ли это того.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What Ingredients Мне нужны?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess02_StepDescription
+<ActivityItem>{ItemName}</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess03_StepDescription
+<ActivityItem>{ItemName}</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess05_StepDescription
+<ActivityItem>{ItemName}</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess06_StepDescription
+<ActivityItem>{ItemName}</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_StepDescription
+Соберите следующие ингредиенты:
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group07_Step07_GardeningPlant01_StepDescription
+Похоронить в забытых землях фрагмент <ActivityItem>Dusk</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group07_StoryDescription
+Как только вы принесете ей <ActivityItem>Dawn Fragment</ActivityItem>, она даст вам <ActivityItem>Dusk Fragment</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group09_Step09_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Gleaming Dusk Fragment</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group09_StepDescription
+Передайте <ActivityItem>Gleaming Dusk Fragment</ActivityItem> Матушка Готель Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group10_Step10_CookMeal01_StepDescription
+Используйте кухонную станцию для восстановления <ActivityItem>Dawn Fragment</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_Group11_StepDescription
+Приложитесь к <ActivityItem>Dusk Fragment</ActivityItem> в Забытых землях, пока они не будут восстановлены. (Это займет некоторое время.)
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start
+

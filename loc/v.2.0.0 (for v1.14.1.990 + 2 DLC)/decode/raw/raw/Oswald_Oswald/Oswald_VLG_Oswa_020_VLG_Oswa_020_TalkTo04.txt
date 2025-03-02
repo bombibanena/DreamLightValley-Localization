@@ -1,0 +1,72 @@
+TAG: Oswald_001_f
+Well, that was... interesting.
+
+TAG: Oswald_002_f
+Did you know that was going to happen, Oswald?
+
+TAG: Oswald_003_f
+You betcha I did! And wasn't it swell?
+
+TAG: Oswald_004_f
+They all got the gift of gab!
+
+TAG: Oswald_005_f
+And learned to chin with the best of 'em!
+
+TAG: Player_000_choice_000_f
+Please don't do that again.
+
+TAG: Player_000_choice_001_f
+OK, it was pretty funny.
+
+TAG: Oswald_006_f
+Okey-dokey, chum. I promise... to try.
+
+TAG: Oswald_016_f
+Can ya make them decorations <Lore>Black and White</Lore>?
+
+TAG: Player_001_choice_000_f
+If you want, sure!
+
+TAG: Player_001_choice_001_f
+Oswald, with you I wouldn't pick any other colors.
+
+TAG: Oswald_008_f
+But say, now that the caper's concluded...
+
+TAG: Oswald_009_f
+How's about you help me set things straight with Stitch?
+
+TAG: Oswald_010_f
+Oh yeah, that's right. You two are getting along nicely, aren't you?
+
+TAG: Oswald_011_f
+I tell ya, that little blue guy's real swell.
+
+TAG: Oswald_012_f
+But I gotta do something to make up for missin' our brunches!
+
+TAG: Oswald_013_f
+OK, what about a nice picnic?
+
+TAG: Oswald_014_f
+Gee whillikers, that'd be poi-fect!
+
+TAG: Oswald_015_f
+I can set up a nice <ActivityItem>Rug</ActivityItem>, some <ActivityItem>Chairs</ActivityItem>, and <ActivityItem>Decorations</ActivityItem>...
+
+TAG: Oswald_017_f
+But while I do that...
+
+TAG: Oswald_018_f
+Why don't you think of something special to add to the picnic setup?
+
+TAG: Oswald_019_f
+You got it, chum! I'll put the ol' conker to work and come up with somethin' snazzy!
+
+TAG: Oswald_020_f
+Thanks for your help, {PlayerName}. You're the cat's pajamas!
+
+TAG: Oswald_007_f
+Oh-hoo-hoo! I knew you'd like it!
+

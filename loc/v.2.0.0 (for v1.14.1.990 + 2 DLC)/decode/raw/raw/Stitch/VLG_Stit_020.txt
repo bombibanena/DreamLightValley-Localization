@@ -1,0 +1,81 @@
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_AvailableDescription
+You find someone's made a mess of WALLÂ·E's Garden, leaving dirt and a coffee cup behind. You talk to WALLÂ·E to find out what happened.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_CompletedStoryDescription
+With the help of Stitch and WALLÂ·E, you brought coffee back to Dreamlight Valley!
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_DisplayName
+Very Sleepy Stitch
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group01_Step01_BringItem01_StepDescription
+Make sure you have the <ActivityItem>Coffee Cup</ActivityItem> in your Inventory:
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group01_Step01_ReadyDescription
+Bring the <ActivityItem>Coffee Cup</ActivityItem> you found to WALLÂ·E.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group01_StepDescription
+Who made a mess near WALLÂ·E's Garden?
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Stitch.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group03_StepDescription
+Bring the <ActivityItem>Dried-Out Coffee Sapling</ActivityItem> to WALLÂ·E.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group03_StoryDescription
+After learning that he messed up WALLÂ·E's Garden, you check in with Stitch. You discover that he's feeling grouchy and low energy because he misses his favorite treat: COFFEE! You promise to help him make coffee if he promises not to get too energetic after he drinks it...
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What was I doing again?
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group04_Step04_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group04_Step04_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group04_Step04_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group04_Step04_StepDescription
+Gather the materials to plant the Coffee Tree:
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group05_Step05_TalkToCharacter02_StepDescription
+Talk to WALLÂ·E.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group06_Step06_CraftItem01_StepDescription
+Craft the <ActivityItem>Coffee Sapling</ActivityItem> at a Crafting Station.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group06_StoryDescription
+With WALLÂ·E's help, you nurse the coffee sapling back to life. Now you just have to plant it.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What was I doing?
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group07_Step07_MakeGarden01_StepDescription
+Plant the <ActivityItem>Coffee Sapling</ActivityItem> in the Glade of Trust and tend to it.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What were we doing again?
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group08_Step08_Possess04_StepDescription
+Pick some <ActivityItem>Coffee Beans</ActivityItem>.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group09_Step09_TalkToCharacter03_StepDescription
+Return to Stitch.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group10_StepDescription
+Talk to Remy about what to do with the <ActivityItem>Coffee Beans</ActivityItem>.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group11_Step11_CookMeal01_StepDescription
+Brew some <ActivityItem>Coffee</ActivityItem> for Stitch at a Cooking Station.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group11_StoryDescription
+Remy is excited for all the culinary possibilities that coffee beans open up. But for now, he suggests starting simple and making some plain ol' coffee for Stitch.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group12_Step12_BringItem04_StepDescription
+Make sure you have the <ActivityItem>Coffee</ActivityItem> in your Inventory:
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_020_Group12_Step12_ReadyDescription
+Bring Stitch his <ActivityItem>Coffee</ActivityItem>.
+

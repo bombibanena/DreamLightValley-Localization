@@ -1,0 +1,45 @@
+TAG: Buzz_000_f
+Hark! The Hero has come for the final key!
+
+TAG: Player_000_choice_000_f
+I'm here to rescue you!
+
+TAG: Player_000_choice_001_f
+I'm the greatest Hero ever!
+
+TAG: Player_000_choice_002_f
+The dragon was no match for me!
+
+TAG: Buzz_001_f
+And I appreciate the effort. Of course, I was planning a clever escape should you not arrive.
+
+TAG: Buzz_002_f
+Here â take the final key! With the Mastermind's dragon defeated, it's safe to unlock the chest.
+
+TAG: Player_001_choice_000_f
+Thank you, "Princess Lightyear."
+
+TAG: Player_001_choice_001_f
+How did Vanellope talk you into this?
+
+TAG: Buzz_003_f
+Anytime, Hero. When Vanellope asked me to play, I had no idea we'd have this much fun!
+
+TAG: Buzz_004_f
+I felt it was my duty as both a Space Ranger AND a toy to participate.
+
+TAG: Buzz_005_f
+But now, it's time to make our bold escape from this dungeon.
+
+TAG: Buzz_006_f
+Lead the way, brave Hero. I've got your back.
+
+TAG: Buzz_007_f
+All she had to do was ask. I'm quite used to imaginative playtime.
+
+TAG: Buzz_008_f
+Ahem... Truly no one has achieved what you have! This is a historic day for our kingdom.
+
+TAG: Buzz_009_f
+Your bravery will be legend throughout the galaxy! I mean... throughout the kingdom!
+

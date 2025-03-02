@@ -1,0 +1,945 @@
+TAG: 2d_art_specialist
+2D Art Specialist
+
+TAG: 2d_artist
+2D Artist
+
+TAG: 2d_artists
+2D Artists
+
+TAG: 3d_artist
+3D Artist
+
+TAG: 3d_artists
+3D Artists
+
+TAG: 3d_character_artists
+3D Character Artists
+
+TAG: 3d_programmer
+3D Programmer
+
+TAG: 3d_programmers
+3D Programmers
+
+TAG: 3d_vfx_artists
+3D VFX Artists
+
+TAG: additional_art
+Additional Art
+
+TAG: additional_audio_design_vibe_avenue
+Cinematic Audio, Music and Coordination by
+
+TAG: additional_programming
+Additional Programming
+
+TAG: additional_voice_over_assistance
+Additional Voice-Over Assistance
+
+TAG: additional_writing
+Additional Writing
+
+TAG: animator
+Animator
+
+TAG: animators
+Animators
+
+TAG: anti_piracy
+Anti-Piracy
+
+TAG: apple_title
+Produced by Apple
+
+TAG: art_director
+Art Director
+
+TAG: art_directors
+Art Directors
+
+TAG: artist
+Artist
+
+TAG: assets_specialist
+Assets Specialist
+
+TAG: assets_specialists
+Assets Specialists
+
+TAG: associate_art_director
+Associate Art Director
+
+TAG: associate_audio_director
+Associate Audio Director
+
+TAG: associate_audio_supervisor
+Associate Audio Supervisor
+
+TAG: associate_brand_relations_manager
+Associate Brand Relations Manager
+
+TAG: associate_manager_brand_relations
+Associate Manager, Brand Relations
+
+TAG: associate_producer
+Associate Producer
+
+TAG: associate_producers
+Associate Producers
+
+TAG: associate_qa_lead
+Associate QA Lead
+
+TAG: audio_coordinator
+Audio Coordinator
+
+TAG: audio_director
+Audio Director
+
+TAG: audio_manager
+Audio Manager
+
+TAG: audio_mixer
+Audio Mixer
+
+TAG: audio_mixers
+Audio Mixers
+
+TAG: audio_producer
+Audio Producer
+
+TAG: audio_project_assistant
+Audio Project Assistant
+
+TAG: audio_project_manager
+Audio Project Manager
+
+TAG: audio_qa_lead
+Audio QA Lead
+
+TAG: audio_qa_leads
+Audio QA Leads
+
+TAG: audio_special_thanks
+Audio Special Thanks
+
+TAG: audio_team
+Audio Team
+
+TAG: audio_tester
+Audio Tester
+
+TAG: audio_testers
+Audio Testers
+
+TAG: babies_born
+Babies Born During Production
+
+TAG: brand_relations
+Brand Relations
+
+TAG: business_development
+Business Development
+
+TAG: business_development_associate
+Business Development Associate
+
+TAG: business_development_associates
+Business Development Associates
+
+TAG: capture_artist
+Capture Artist
+
+TAG: capture_artists
+Capture Artists
+
+TAG: ceo_founder
+CEO & Founder
+
+TAG: certification_qa
+Certification QA
+
+TAG: certification_qa_coordinators
+Certification QA Coordinators
+
+TAG: certification_qa_service_manager
+Certification QA Service Manager
+
+TAG: certification_qa_specialists
+Certification QA Specialists
+
+TAG: certification_qa_testers
+Certification QA Testers
+
+TAG: character_artists
+Character Artists
+
+TAG: chief_executive_officer
+Chief Executive Officer
+
+TAG: chief_financial_officer
+Chief Financial Officer
+
+TAG: chief_operating_officer
+Chief Operating Officer
+
+TAG: communications_manager
+Communications Manager
+
+TAG: community_moderator
+Community Moderator
+
+TAG: community_moderators
+Community Moderators
+
+TAG: compliance_qa
+Compliance QA
+
+TAG: compliance_qa_technicians
+Compliance QA Technicians
+
+TAG: concept_artist
+Concept Artist
+
+TAG: concept_artists
+Concept Artists
+
+TAG: console
+Console
+
+TAG: coordinators
+Coordinators
+
+TAG: copywriting_specialist
+Copywriting Specialist
+
+TAG: copywriting_specialists
+Copywriting Specialists
+
+TAG: creative_agency_director
+Creative Agency Director
+
+TAG: creative_director
+Creative Director
+
+TAG: creative_directors
+Creative Directors
+
+TAG: creative_game_director
+Creative/Game Director
+
+TAG: creative_game_directors
+Creative/Game Directors
+
+TAG: creative_marketing_director
+Creative Marketing Director
+
+TAG: creative_specialist
+Creative Specialist
+
+TAG: creative_supervisor
+Creative Supervisor
+
+TAG: creative_team_lead
+Creative Team Lead
+
+TAG: data_engineer
+Data Engineer
+
+TAG: data_engineers
+Data Engineers
+
+TAG: data_protection_analyst
+Data Protection Analyst
+
+TAG: deployment_operations_manager
+Deployment Operations Manager
+
+TAG: devops_ci_specialist
+DevOps â CI Specialist
+
+TAG: director_brand_relations
+Director, Brand Relations
+
+TAG: director_business_development
+Director, Business Development
+
+TAG: director_marketing
+Director, Marketing
+
+TAG: director_production_localization
+Director, Production & Localization
+
+TAG: disney_character_voices
+Disney Character Voices
+
+TAG: disney_pixar_fans
+...and all Disney & Pixar fans
+
+TAG: embedded_qa_lead
+Embedded QA Lead
+
+TAG: embedded_qa_leads
+Embedded QA Leads
+
+TAG: embedded_qa_tester
+Embedded QA Tester
+
+TAG: embedded_qa_testers
+Embedded QA Testers
+
+TAG: english_localization
+English Localization
+
+TAG: environment_artists
+Environment Artists
+
+TAG: executive_producer
+Executive Producer
+
+TAG: executive_producers
+Executive Producers
+
+TAG: factory_manager
+Factory Manager
+
+TAG: featuring_the_voice_talents_of
+Featuring the Voice Talents of
+
+TAG: feedback_club
+Feedback Club
+
+TAG: freelancers
+Freelancers
+
+TAG: french_localization
+French Localization
+
+TAG: game_community_manager
+Game Community Manager
+
+TAG: game_community_managers
+Game Community Managers
+
+TAG: game_designer
+Game Designer
+
+TAG: game_designers
+Game Designers
+
+TAG: game_economy_designers
+Game Economy Designers
+
+TAG: game_health_monitoring
+Game Health Monitoring
+
+TAG: game_manager
+Game Manager
+
+TAG: game_title
+DISNEY DREAMLIGHT VALLEY
+
+TAG: gameloft_rights_reserved
+All Rights Reserved. Gameloft and the Gameloft logo are registered trademarks of Gameloft.
+
+TAG: german_localization
+German Localization
+
+TAG: global_audio_director
+Global Audio Director
+
+TAG: head_of_business_development
+Head of Business Development
+
+TAG: head_of_ip
+Head of IP
+
+TAG: head_of_qa
+Head of QA
+
+TAG: huwiz_qa_ux
+HUWIZ QA/UX
+
+TAG: influencer_marketing_manager
+Influencer Marketing Manager
+
+TAG: influencer_marketing_managers
+Influencer Marketing Managers
+
+TAG: influencer_specialist
+Influencer Specialist
+
+TAG: ip_legal_counsel
+IP Legal Counsel
+
+TAG: it_infrastructure_managers
+IT Infrastructure Managers
+
+TAG: italian_localization
+Italian Localization
+
+TAG: japanese_localization
+Japanese Localization
+
+TAG: lead_2d_artist
+Lead 2D Artist
+
+TAG: lead_3d_artist
+Lead 3D Artist
+
+TAG: lead_animator
+Lead Animator
+
+TAG: lead_animators
+Lead Animators
+
+TAG: lead_character_artist
+Lead Character Artist
+
+TAG: lead_environment_artist
+Lead Environment Artist
+
+TAG: lead_environment_artists
+Lead Environment Artists
+
+TAG: lead_game_designer
+Lead Game Designer
+
+TAG: lead_game_designers
+Lead Game Designers
+
+TAG: lead_level_designer
+Lead Level Designer
+
+TAG: lead_motion_designer
+Lead Motion Designer
+
+TAG: lead_producer
+Lead Producer
+
+TAG: lead_product_manager
+Lead Product Manager
+
+TAG: lead_programmer
+Lead Programmer
+
+TAG: lead_programmers
+Lead Programmers
+
+TAG: lead_technical_game_designer
+Lead Technical Game Designer
+
+TAG: lead_technical_game_designers
+Lead Technical Game Designers
+
+TAG: lead_writer_narrative_designer
+Lead Writer & Narrative Designer
+
+TAG: legal_counsel
+Legal Counsel
+
+TAG: level_designers
+Level Designers
+
+TAG: local_community_managers
+Local Community Managers
+
+TAG: local_marketing_manager
+Local Marketing Manager
+
+TAG: localization_coordinator
+Localization Coordinator
+
+TAG: localization_coordinators
+Localization Coordinators
+
+TAG: localization_manager
+Localization Manager
+
+TAG: localization_qa_coordinators
+Localization QA Coordinators
+
+TAG: localization_technology_coordinator
+Localization Technology Coordinator
+
+TAG: management
+Management
+
+TAG: manager_audio
+Audio Manager
+
+TAG: marketing
+Marketing
+
+TAG: marketing_artist
+Marketing Artist
+
+TAG: marketing_coordinator
+Marketing Coordinator
+
+TAG: marketing_lead
+Marketing Lead
+
+TAG: microsoft_xbox
+Microsoft Xbox
+
+TAG: montreal_it_department
+Montreal IT Department
+
+TAG: motion_designer
+Motion Designer
+
+TAG: motion_designers
+Motion Designers
+
+TAG: music_composer
+Music Composer
+
+TAG: music_composers
+Music Composers
+
+TAG: music_composition
+Music Composition
+
+TAG: music_team
+Music Team
+
+TAG: narrative_designer
+Narrative Designer
+
+TAG: narrative_designers
+Narrative Designers
+
+TAG: nintendo_switch
+Nintendo Switch
+
+TAG: ott_operations_director
+OTT Operations Director
+
+TAG: outsourcing
+Outsourcing
+
+TAG: outsourcing_coordinator
+Outsourcing Coordinator
+
+TAG: personal_computer
+PC
+
+TAG: platform_operations_manager
+Platform Operations Manager
+
+TAG: player_qos_qa
+Player QOS QA
+
+TAG: producer
+Producer
+
+TAG: producer_i
+Producer I
+
+TAG: producer_ii
+Producer II
+
+TAG: producer_iii
+Producer III
+
+TAG: producers
+Producers
+
+TAG: producers_ii
+Producers II
+
+TAG: product_development
+Product Development
+
+TAG: product_manager
+Product Manager
+
+TAG: product_managers
+Product Managers
+
+TAG: product_marketing_managers
+Product Marketing Managers
+
+TAG: production_coordinator
+Production Coordinator
+
+TAG: production_manager
+Production Manager
+
+TAG: production_supervisor
+Production Supervisor
+
+TAG: professional_intern_games_audio
+Professional Intern, Game Audio
+
+TAG: programmer
+Programmer
+
+TAG: programmers
+Programmers
+
+TAG: project_coordinator
+Project Coordinator
+
+TAG: project_coordinators
+Project Coordinators
+
+TAG: public_relations
+Public Relations
+
+TAG: qa_business_unit
+QA Business Unit
+
+TAG: qa_director
+QA Director
+
+TAG: qa_lead
+QA Lead
+
+TAG: qa_lead_tester
+QA Lead Tester
+
+TAG: qa_lead_testers
+QA Lead Testers
+
+TAG: qa_leads
+QA Leads
+
+TAG: qa_manager
+QA Manager
+
+TAG: qa_manager_small
+QA Manager
+
+TAG: qa_managers_small
+QA Managers
+
+TAG: qa_pm
+QA PM
+
+TAG: qa_program_manager
+QA Program Manager
+
+TAG: qa_program_managers
+QA Program Managers
+
+TAG: qa_project_manager
+QA Project Manager
+
+TAG: qa_project_managers
+QA Project Managers
+
+TAG: qa_senior_project_manager
+QA Senior Project Manager
+
+TAG: qa_service_manager
+QA Service Manager
+
+TAG: qa_service_managers
+QA Service Managers
+
+TAG: qa_services_managers
+QA Service Managers
+
+TAG: qa_team
+QA Team
+
+TAG: qa_tester
+QA Tester
+
+TAG: qa_testers
+QA Testers
+
+TAG: qa_testers_small
+QA Testers
+
+TAG: research_specialist
+Research Specialist
+
+TAG: research_specialists
+Research Specialists
+
+TAG: senior_artist
+Senior Artist
+
+TAG: senior_game_designer
+Senior Game Designer
+
+TAG: senior_legal_counsel
+Senior Legal Counsel
+
+TAG: senior_level_designer
+Senior Level Designer
+
+TAG: senior_level_designers
+Senior Level Designers
+
+TAG: senior_manager_brand_relations
+Senior Manager, Brand Relations
+
+TAG: senior_manager_comms_games_merchandise
+Senior Manager, Comms Games & Merchandise
+
+TAG: senior_manager_marketing
+Senior Manager, Marketing
+
+TAG: senior_managers_brand_relations
+Senior Managers, Brand Relations
+
+TAG: senior_music_supervisor
+Senior Music Supervisor
+
+TAG: senior_narrative_designer
+Senior Narrative Designer
+
+TAG: senior_narrative_designers
+Senior Narrative Designers
+
+TAG: senior_platform_operations_manager
+Senior Platform Operations Manager
+
+TAG: senior_producer
+Senior Producer
+
+TAG: senior_product_marketing_manager
+Senior Product Marketing Manager
+
+TAG: senior_technical_qa_analyst
+Senior Technical QA Analyst
+
+TAG: senior_ui_ux_designer
+Senior UI/UX Designer
+
+TAG: senior_vice_president_production
+Senior Vice President â Production
+
+TAG: senior_vice_president_strategic_partnership
+Senior Vice President â Strategic Partnership
+
+TAG: senior_world_designer
+Senior World Designer
+
+TAG: sign_in_with_apple_unity_plugin
+Sign in with Apple Unity Plugin
+
+TAG: simplified_chinese_localization
+Simplified Chinese Localization
+
+TAG: sony_playstation
+Sony PlayStation
+
+TAG: sound_designer
+Sound Designer
+
+TAG: sound_designers
+Sound Designers
+
+TAG: spanish_localization
+Spanish Localization
+
+TAG: special_thanks
+Special Thanks
+
+TAG: special_thanks_friends
+Thank you to our friends and family that supported us through the incredible adventure that is Disney Dreamlight Valley's creation.<lw><lw>Thank you Disney and Pixar for imagining all these incredible stories and characters we grew up with. Moreover, thank you to all the Disney fans around the world that keep the magic alive.<lw><lw>Finally, a special thank you to YOU, our players. This game is the result of a lot of hard work and love from many people. You cannot imagine how excited we are to share this experience with you.<lw><lw>To infinity, and beyond.
+
+TAG: special_thanks_game_team
+SPECIAL THANKS FROM THE GAME TEAM
+
+TAG: special_thanks_to_our_qa_partners
+& Special Thanks to our QA Partners
+
+TAG: special_thanks_ukraine
+Thank you to all our coworkers, friends and families in Ukraine: None of this would have been possible without your tireless efforts under extraordinarily difficult circumstances. We send you all our solidarity, love and strength. From the bottom of our hearts, thank you for your continued support.
+
+TAG: studio_2d_art_director
+Studio 2D Art Director
+
+TAG: studio_art_director
+Studio Art Director
+
+TAG: studio_design_director
+Studio Design Director
+
+TAG: studio_design_manager
+Studio Design Manager
+
+TAG: studio_directors
+Studio Directors
+
+TAG: studio_lead_game_designer
+Studio Lead Game Designer
+
+TAG: studio_lead_game_designers
+Studio Lead Game Designers
+
+TAG: studio_lead_producer
+Studio Lead Producer
+
+TAG: studio_lead_programmer
+Studio Lead Programmer
+
+TAG: studio_lead_programmers
+Studio Lead Programmers
+
+TAG: studio_manager
+Studio Manager
+
+TAG: studio_marketing_director
+Studio Marketing Director
+
+TAG: studio_marketing_directors
+Studio Marketing Directors
+
+TAG: studio_qa_manager
+Studio QA Manager
+
+TAG: studio_technical_director
+Studio Technical Director
+
+TAG: svp_creative
+SVP, Creative
+
+TAG: system_integration_qa_coordinators
+Systems Integration QA Coordinators
+
+TAG: system_integration_qa_lead
+Systems Integration QA Lead
+
+TAG: system_integration_qa_service_manager
+Systems Integration QA Service Manager
+
+TAG: system_integration_qa_specialists
+Systems Integration QA Specialists
+
+TAG: system_integration_qa_testers
+Systems Integration QA Testers
+
+TAG: systems_integration_qa
+Systems Integration QA
+
+TAG: team_lead
+Team Lead
+
+TAG: technical_animator
+Technical Animator
+
+TAG: technical_animators
+Technical Animators
+
+TAG: technical_artist
+Technical Artist
+
+TAG: technical_artists
+Technical Artists
+
+TAG: technical_audio_designer
+Technical Audio Designer
+
+TAG: technical_department_manager
+Technical Department Manager
+
+TAG: technical_director
+Technical Director
+
+TAG: technical_game_designer
+Technical Game Designer
+
+TAG: technical_game_designers
+Technical Game Designers
+
+TAG: technical_localization_specialist
+Technical Localization Specialist
+
+TAG: technical_qa_analyst
+Technical QA Analyst
+
+TAG: thank_you_for_playing
+Thank You for Playing!
+
+TAG: thank_you_to
+Thank you to {name}
+
+TAG: tracking_specs
+Tracking Specs
+
+TAG: trailer_sound_design_and_mix
+Trailer Sound Design and Mix
+
+TAG: ui_developer
+UI Developer
+
+TAG: ui_developers
+UI Developers
+
+TAG: ui_ux_artist
+UI/UX Artist
+
+TAG: ui_ux_artists
+UI/UX Artists
+
+TAG: user_acquisition_manager
+User Acquisition Manager
+
+TAG: user_acquisition_managers
+User Acquisition Managers
+
+TAG: user_acquisition_team_lead
+User Acquisition Team Lead
+
+TAG: user_acquisition_team_leads
+User Acquisition Team Leads
+
+TAG: user_experience_qa
+User Experience QA
+
+TAG: vfx_artist
+VFX Artist
+
+TAG: vfx_artists
+VFX Artists
+
+TAG: vfx_lead
+VFX Lead
+
+TAG: vice_president_creation
+Vice President â Creation
+
+TAG: vice_president_production_operation
+Vice President â Production Operation
+
+TAG: video_editor
+Video Editor
+
+TAG: video_motion_specialists
+Video/Motion Specialists
+
+TAG: voice_over_designer
+Voice-Over Designer
+
+TAG: vp_business_dev_licensing_games
+VP, Business Dev & Licensing, Games
+
+TAG: vp_creative
+VP, Creative
+
+TAG: vp_disney_pixar_games
+VP, Disney & Pixar Games
+
+TAG: vp_marketing
+VP, Marketing
+
+TAG: vp_tech_services
+VP Tech & Services
+
+TAG: world_qa_manager
+World QA Manager
+
+TAG: worldwide_audio_director
+Worldwide Audio Director
+
+TAG: worldwide_audio_manager
+Worldwide Audio Manager
+

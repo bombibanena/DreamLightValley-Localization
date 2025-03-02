@@ -1,0 +1,54 @@
+TAG: Jafar_000_f
+{PlayerName}, what do you know of magic?
+
+TAG: Player_000_choice_000_f
+Mostly what Merlin tells me.
+
+TAG: Player_000_choice_001_f
+I've worked a lot with Dreamlight.
+
+TAG: Player_000_choice_002_f
+I know there's Light Magic and there's Dark Magic.
+
+TAG: Jafar_001_f
+Then you have a limited education.
+
+TAG: Jafar_002_f
+Merlin's moralizing keeps him from exploring the most interesting branches of magic.
+
+TAG: Jafar_003_f
+Magic is a tool. No more moral than a sword or hammer.
+
+TAG: Player_001_choice_000_f
+I agree!
+
+TAG: Player_001_choice_001_f
+I'm not so sure about that...
+
+TAG: Jafar_004_f
+You do? Marvelous.
+
+TAG: Jafar_005_f
+It just means that the magic user needs to be sure of the goodness in their own heart!
+
+TAG: Jafar_006_f
+Oh. How disappointing.
+
+TAG: Jafar_007_f
+I've seen magic here that only brings light and happiness.
+
+TAG: Jafar_008_f
+So I have seen. That is a potent form of sorcery.
+
+TAG: Jafar_009_f
+While I have no magic myself, I have worked with a number of magical ephemera â not just the lamp.
+
+TAG: Jafar_010_f
+I remember something about a Mystic Blue Diamond?
+
+TAG: Jafar_011_f
+Precisely!
+
+TAG: Jafar_012_f
+Light? Dark? Such useless distinctions.
+

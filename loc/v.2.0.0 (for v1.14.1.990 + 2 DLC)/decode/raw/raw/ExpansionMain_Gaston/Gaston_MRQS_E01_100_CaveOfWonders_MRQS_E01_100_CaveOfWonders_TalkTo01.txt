@@ -1,0 +1,84 @@
+TAG: Gaston_024_f
+Impressive! And that treasure will soon be mine!
+
+TAG: Gaston_025_f
+If it's guarded by a giant cat head, the riches inside must be of enormous value!
+
+TAG: Gaston_014_f
+Gaston, I really need to talk to you.
+
+TAG: Gaston_015_f
+Now? Can't it wait until we're inside?
+
+TAG: Player_001_choice_000_f
+I'm going to try to break the news to you gently.
+
+TAG: Player_001_choice_001_f
+It's tough-love time, Gaston.
+
+TAG: Player_001_choice_002_f
+I can't wait to see your reaction to this...
+
+TAG: Gaston_000_f
+{PlayerName}, you can't break things gently. If you're gentle, they don't break.
+
+TAG: Gaston_009_f
+I'm more... a rack of antlers mounted on a fine mahogany panel.
+
+TAG: Player_000_choice_000_f
+Yeah, I can see that.
+
+TAG: Player_000_choice_001_f
+If it means you won't fight me on this... fine.
+
+TAG: Gaston_019_f
+I'm sorry, Gaston... but you can't come with me into the vault.
+
+TAG: Gaston_002_f
+What?! And also... Why?!
+
+TAG: Gaston_003_f
+It's part of the magic of the vault â only a Diamond in the Rough can enter.
+
+TAG: Gaston_004_f
+... And...?
+
+TAG: Gaston_005_f
+You're not pure-of-heart enough to enter. The magic would reject you.
+
+TAG: Gaston_006_f
+I understand.
+
+TAG: Gaston_007_f
+Really?
+
+TAG: Gaston_008_f
+Of course. I'm clearly no Diamond in the Rough.
+
+TAG: Gaston_010_f
+It is obvious, isn't it? Manly energy wafts off me like desperation off a peasant.
+
+TAG: Gaston_020_f
+Wow, I suddenly can't wait to get away from you.
+
+TAG: Gaston_012_f
+Make sure you bring back buckets of treasure for me!
+
+TAG: Gaston_013_f
+You couldn't handle me in a fight. I'm the best at wrestling!
+
+TAG: Gaston_011_f
+All right, I guess I'll head inside.
+
+TAG: Gaston_016_f
+Well, I am tough, and I do love it.
+
+TAG: Gaston_001_f
+You can't come with me into the vault.
+
+TAG: Gaston_017_f
+No one reacts like Gaston!
+
+TAG: Gaston_018_f
+You get to wait outside while I explore the vault and its treasures.
+

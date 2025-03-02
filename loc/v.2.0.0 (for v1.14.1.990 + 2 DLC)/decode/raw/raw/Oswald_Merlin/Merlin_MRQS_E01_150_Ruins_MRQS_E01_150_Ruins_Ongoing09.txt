@@ -1,0 +1,6 @@
+TAG: Merlin_001_f
+We must find some way to open this door. Perhaps try <Lore>investigating the other chambers</Lore> on this level.
+
+TAG: Merlin_002_f
+You got it. I'll <Lore>bring you a picture</Lore> of anything I find.
+

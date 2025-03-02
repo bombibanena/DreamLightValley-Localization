@@ -1,0 +1,60 @@
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_AvailableDescription
+The tattered old spellbook seems more like something Merlin would own, but the tidy notes in the margins are unmistakably in Minnie's handwriting. You'll need to ask her why she was reading this to find out more.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_DisplayName
+Very Magical Minnie
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group01_Step01_ReadyDescription
+Return the <ActivityItem>Borrowed Spellbook</ActivityItem> to Minnie.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group01_StepDescription
+You found a tattered old spellbook with sticky notes throughout covered in Minnie's handwriting.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Merlin about Minnie's predicament.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group02_StoryDescription
+After talking to Minnie, you learn that she's been wracked with worry that she might start to disappear to the Here and There again. You offer to help her by seeking counsel from Merlin.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step03_Possess01_StepDescription
+<ActivityItem>Dream Shards</ActivityItem>.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step03_StepDescription
+Gather everything you'll need for Merlin's Enchantment:
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step04_TalkToCharacter02_StepDescription
+Talk to Anna.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step04_TalkToCharacter03_StepDescription
+Talk to Elsa.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step04_TalkToCharacter04_StepDescription
+Talk to Moana.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_StoryDescription
+Merlin asks you to gather some Dream Shards and some stories from various Villagers about what they love most about Minnie. Surely this must be for some sort of complicated enchantment Merlin is cooking up.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group04_Step05_BringItem02_StepDescription
+Gather <ActivityItem>Dream Shards</ActivityItem> to finish Merlin's spell.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group04_Step05_ReadyDescription
+Return to Merlin to complete the spell.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group05_Step06_TalkToCharacter05_StepDescription
+Talk to Minnie.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group05_StoryDescription
+Merlin explains that no spell will help Minnie. What she needs is reassurance that as long as friendship, love, and care hold Dreamlight Valley together, no one will ever be forgotten.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need?
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need?
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need?
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need?
+

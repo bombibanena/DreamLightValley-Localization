@@ -1,0 +1,6 @@
+TAG: Beast_000_f
+Have you created the mirror, {PlayerName}?
+
+TAG: Beast_001_f
+Yes! About to place it now.
+

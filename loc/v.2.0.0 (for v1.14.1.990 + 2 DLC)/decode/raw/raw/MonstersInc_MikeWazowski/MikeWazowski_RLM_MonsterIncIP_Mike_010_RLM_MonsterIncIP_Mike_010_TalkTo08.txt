@@ -1,0 +1,87 @@
+TAG: MikeWazowski_003_f
+Don't say a word. I heard everything you said to Sulley. You're a human?!<lw>I... uh... I gotta admit, I freaked out a little at first, but now that I've had some time to think about it...
+
+TAG: MikeWazowski_004_f
+You're a human with an opportunity for a vacation to someplace called "Dreamlight Valley"! And boy, do I need a vacation! There's just one problem â I can't leave. Yet.
+
+TAG: MikeWazowski_005_f
+You know I already set the All-Time Laugh Record...
+
+TAG: Player_002_choice_000_f
+Yes, so... what's the problem?
+
+TAG: Player_002_choice_002_f
+Hm, no. You never mentioned that.
+
+TAG: MikeWazowski_018_f
+If I take a vacation, some other monster could break my record while I'm on the beach pretending to read a book but really asleep!
+
+TAG: MikeWazowski_000_f
+I can't let that happen. I've gotta set a Jokester record nobody can ever beat!
+
+TAG: MikeWazowski_007_f
+You understand, right?
+
+TAG: Player_000_choice_000_f
+Let's set a record!
+
+TAG: Player_000_choice_001_f
+We can make that happen.
+
+TAG: Player_000_choice_002_f
+How will we know when it's high enough?
+
+TAG: MikeWazowski_009_f
+That's the spirit!
+
+TAG: MikeWazowski_012_f
+As Senior Co-President of Monsters, Incorporated and Chief Executive Vice-Deputy Administrative Director of Comedy Resources Management, I hereby officially promote you from intern to Jokester Assistant!
+
+TAG: MikeWazowski_013_f
+First order of business: We need DOORS, which means we need keycards!
+
+TAG: Player_001_choice_000_f
+Keycards?
+
+TAG: Player_001_choice_001_f
+I can't believe I got promoted!
+
+TAG: Player_001_choice_002_f
+I'll be running this place soon!
+
+TAG: MikeWazowski_015_f
+Okay, write this down:
+
+TAG: MikeWazowski_017_f
+Keycards tell the system which doors to the human world to bring us. Once you find a couple of those, we're in business!
+
+TAG: MikeWazowski_002_f
+Currently, all the <ActivityItem>Keycards<ActivityItem> are at <Lore>Reception</Lore>. So, start there.
+
+TAG: MikeWazowski_006_f
+Just one problem... We don't have a receptionist today, and that door is jammed up. So you might have to <Lore>find something to jimmy it open</Lore>.
+
+TAG: MikeWazowski_019_f
+<Lore>Jimmy the jammed door</Lore>! Okay!
+
+TAG: MikeWazowski_020_f
+Hey, nice rhythm!
+
+TAG: MikeWazowski_014_f
+Believe it! You're gonna join me at the top!
+
+TAG: MikeWazowski_016_f
+I like that ambition!
+
+TAG: MikeWazowski_008_f
+I like your attitude!
+
+TAG: MikeWazowski_010_f
+Good question... that I do not have an answer for.
+
+TAG: MikeWazowski_011_f
+But I will!
+
+TAG: MikeWazowski_001_f
+All right, all right. I deserve the sarcasm. My point is...
+

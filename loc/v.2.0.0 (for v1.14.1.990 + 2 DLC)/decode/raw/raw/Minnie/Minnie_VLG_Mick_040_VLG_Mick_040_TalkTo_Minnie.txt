@@ -1,0 +1,36 @@
+TAG: Minnie_000_f
+Thank you for bringing my House back! I feel much more awake now!
+
+TAG: Minnie_010_f
+But my head is still a little bit muddled. Are you Mickey?
+
+TAG: Player_000_choice_000_f
+No, I'm {PlayerName}!
+
+TAG: Player_000_choice_001_f
+That's a really weird question, Minnie.
+
+TAG: Player_000_choice_002_f
+You don't remember Mickey?
+
+TAG: Minnie_001_f
+Oh, it's lovely to meet you, {PlayerName}. But I really must find Mickey.
+
+TAG: Minnie_011_f
+I wandered for so long, and all I remember is that I was looking for Mickey.
+
+TAG: Minnie_012_f
+It was very important that I find him.
+
+TAG: Minnie_013_f
+Don't worry. He's here. And I've gotta go talk to him!
+
+TAG: Minnie_002_f
+Minnie? Is that my name? Well, that's very good to know.
+
+TAG: Minnie_006_f
+I think I've forgotten a few things. Maybe... a lot of things.
+
+TAG: Minnie_003_f
+Well, I remember the name. But not much else.
+

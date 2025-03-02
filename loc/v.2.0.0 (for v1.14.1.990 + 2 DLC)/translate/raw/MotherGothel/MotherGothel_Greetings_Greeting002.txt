@@ -1,0 +1,6 @@
+TAG: MotherGothel_000_f
+{PlayerName}, что привело вас увидеть Матушка Готель сегодня?
+
+TAG: Player_000_exit_001_f
+Мне пора.
+

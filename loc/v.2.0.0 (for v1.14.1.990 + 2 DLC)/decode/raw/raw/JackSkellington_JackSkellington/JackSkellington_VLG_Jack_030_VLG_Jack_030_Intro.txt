@@ -1,0 +1,90 @@
+TAG: JackSkellington_002_f
+{PlayerName}! You're just in time!
+
+TAG: JackSkellington_003_f
+I've made a fantastic discovery! Why, this almost rivals when I first paired orange with black!
+
+TAG: Player_000_choice_000_f
+Let's hear it!
+
+TAG: Player_000_choice_001_f
+I don't think I'm ready for something so momentous â I'll check back in later.
+
+TAG: JackSkellington_004_f
+There's something missing from the heart of Dreamlight Valley...
+
+TAG: JackSkellington_005_f
+How ominous! What is it?
+
+TAG: JackSkellington_006_f
+A holiday!
+
+TAG: JackSkellington_007_f
+Consider this... There's a clear connection between the Holiday forest and Dreamlight Valley...
+
+TAG: JackSkellington_008_f
+But there's no holiday! It's what's been missing all along.
+
+TAG: Player_001_choice_000_f
+Hmm, that actually makes sense.
+
+TAG: Player_001_choice_001_f
+I'm not so sure about that.
+
+TAG: Player_001_choice_002_f
+Do you have a corkboard full of notes and red yarn?
+
+TAG: JackSkellington_009_f
+The evidence all points in the same direction.
+
+TAG: JackSkellington_012_f
+I've dubbed the missing holiday "Dreamlight Day," and I want to bring it to life!
+
+TAG: JackSkellington_013_f
+Would you care to help me?
+
+TAG: Player_002_f
+That sounds...
+
+TAG: Player_002_choice_000_f
+...like a fun idea!
+
+TAG: Player_002_choice_001_f
+...dangerous, given your history.
+
+TAG: JackSkellington_014_f
+Excellent!
+
+TAG: JackSkellington_019_f
+Let's get it going â what do you need?
+
+TAG: JackSkellington_020_f
+I need you to poll some of the Villagers. Ask them about their favorite holidays and what those holidays mean to them.
+
+TAG: JackSkellington_021_f
+There are so many different people here that it stands to reason Dreamlight Day will be the sum of those parts.
+
+TAG: JackSkellington_022_f
+I suggest you talk to <ActivityItem>Vanellope</ActivityItem>, <ActivityItem>Scar</ActivityItem>, <ActivityItem>Olaf</ActivityItem>, and <ActivityItem>Minnie</ActivityItem> for a cross-representative sample.
+
+TAG: JackSkellington_023_f
+Sure, on my way.
+
+TAG: JackSkellington_015_f
+Oh {PlayerName}, that was a completely different situation.
+
+TAG: JackSkellington_016_f
+I've learned my lesson about taking over other people's holidays.
+
+TAG: JackSkellington_017_f
+This is more like... growing a new one from a seed.
+
+TAG: JackSkellington_018_f
+All right... I guess it can't hurt. What do you need?
+
+TAG: JackSkellington_010_f
+Let me explain. I'm sure you'll be convinced.
+
+TAG: JackSkellington_011_f
+I don't follow. But I do use a chalk and blackboard.
+

@@ -1,0 +1,69 @@
+TAG: Gaston_000_f
+The eating establishment here...
+
+TAG: Gaston_001_f
+The one run by Remy?
+
+TAG: Gaston_002_f
+Yes, the rat!
+
+TAG: Gaston_003_f
+I don't understand why it's so popular.
+
+TAG: Player_000_choice_000_f
+What's not to get?
+
+TAG: Player_000_choice_001_f
+It's got incredibly tasty food!
+
+TAG: Player_000_choice_002_f
+There's such a wide menu!
+
+TAG: Gaston_004_f
+The food is so... complicated.
+
+TAG: Gaston_005_f
+I don't know what to tell you, Gaston.
+
+TAG: Gaston_006_f
+People love the restaurant here!
+
+TAG: Gaston_007_f
+But why would they want a breakfast with more than one ingredient?
+
+TAG: Gaston_008_f
+Dozens of raw eggs are so easy and muscle-building. Why, just look at me!
+
+TAG: Player_001_choice_000_f
+Eww.
+
+TAG: Player_001_choice_001_f
+Nobody's stopping you!
+
+TAG: Player_001_choice_002_f
+I guess others don't have your dedication to fitness!
+
+TAG: Gaston_009_f
+Ah, but have you tried it?
+
+TAG: Gaston_010_f
+Start off with just four dozen eggs, and let me know what you think.
+
+TAG: Gaston_011_f
+The rat tried!
+
+TAG: Gaston_012_f
+I ordered raw eggs, and he asked if I thought he was a grocer!
+
+TAG: Gaston_013_f
+That's true.
+
+TAG: Gaston_014_f
+I'm glad at least SOMEONE noticed.
+
+TAG: Gaston_015_f
+I didn't get biceps like these by caring about "tasty."
+
+TAG: Gaston_016_f
+Surely not as wide as my shoulders!
+

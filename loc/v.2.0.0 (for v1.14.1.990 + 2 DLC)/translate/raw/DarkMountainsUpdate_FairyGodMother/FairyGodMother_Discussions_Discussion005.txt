@@ -1,0 +1,33 @@
+TAG: FairyGodMother_000_f
+Дорогая, я хочу сказать тебе кое-что важное...
+
+TAG: FairyGodMother_001_f
+Я хочу, чтобы ты знала, что тебя ценят и любят.
+
+TAG: FairyGodMother_002_f
+Куда бы ты ни пошла, что бы ты ни делала, я всегда буду заботиться о тебе.
+
+TAG: Player_000_choice_000_f
+Я тоже тебя люблю!
+
+TAG: Player_000_choice_001_f
+Приятно слышать.
+
+TAG: Player_000_choice_002_f
+Но мы едва знаем друг друга.
+
+TAG: FairyGodMother_003_f
+О, дитя, это чудесно слышать.
+
+TAG: FairyGodMother_004_f
+У этих слов есть своя магия.
+
+TAG: FairyGodMother_005_f
+Надеюсь, ты часто слышишь это в жизни, {PlayerName}.
+
+TAG: FairyGodMother_006_f
+Но мы давно знакомы, {PlayerName}.
+
+TAG: FairyGodMother_007_f
+Когда-нибудь ты это запомнишь.
+

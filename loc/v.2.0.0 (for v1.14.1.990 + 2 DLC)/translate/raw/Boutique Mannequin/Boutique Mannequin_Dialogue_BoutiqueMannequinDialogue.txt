@@ -1,0 +1,60 @@
+TAG: Player_004_choice_000_f
+Сохранить дизайн одежды.
+
+TAG: Player_004_choice_001_f
+Я вернусь позже.
+
+TAG: Boutique Mannequin_006_f
+Я пока не владею этой базой, мне нужно поговорить с Дейзи в Бутике.
+
+TAG: Boutique Mannequin_009_f
+Я пока не владею этой базой, я должен найти способ открыть ее.
+
+TAG: Boutique Mannequin_005_f
+Здесь пока нет костюма!
+
+TAG: Boutique Mannequin_001_f
+Я не могу обновлять экспозиции Бутика, пока у меня посетители Долины!
+
+TAG: Boutique Mannequin_003_f
+Что мне делать?
+
+TAG: Player_001_choice_000_f
+Одевайся.
+
+TAG: Player_001_choice_002_f
+Назад.
+
+TAG: Boutique Mannequin_000_f
+Этот дисплей закрыт!
+
+TAG: Player_002_choice_000_f
+Давайте откроем дисплей (использование <nobr>{displaycost} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_002_choice_001_f
+Я открою это позже.
+
+TAG: Boutique Mannequin_002_f
+Похоже, для этого у меня недостаточно Звездных Койн.
+
+TAG: Boutique Mannequin_007_f
+Я должен посетить свой список дизайна в меню Wardrobe, чтобы освободить место для новых дизайнов.
+
+TAG: Boutique Mannequin_004_f
+Что мне делать?
+
+TAG: Player_000_choice_003_f
+Сохранить дизайн одежды {hostusername}.
+
+TAG: Player_000_choice_004_f
+Я вернусь позже.
+
+TAG: Boutique Mannequin_008_f
+Я выбрала здесь слишком много дизайнов.
+
+TAG: Player_003_choice_000_f
+Я выберу меньше костюмов.
+
+TAG: Player_003_choice_001_f
+Отмените, я сделаю это позже.
+

@@ -1,0 +1,78 @@
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Any_CompletedRequestDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_AvailableDescription
+Рапунцель имеет новую идею и нуждается в вашей помощи.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_CompletedStoryDescription
+Рапунцель Спасибо не только за то, что помог ей с классом живописи, но и за то, что она стала частью чего-то большего в Долине.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_DisplayName
+Дом - это место, где находится искусство
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group01_Step01_Decorate01_StepDescription
+Поместите плакат Рапунцель где-нибудь на острове Вечность, чтобы все увидели.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem02_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem03_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem05_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem06_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_ReadyDescription
+Принесите материалы на {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_StepDescription
+Собирайте материалы для Рапунцель:
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group03_Step03_VisitArea01_StepDescription
+Отправляйся в башню Рапунцель, чтобы начать занятия искусством.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group03_StoryDescription
+Вы установили знамя Рапунцель и собираете материалы для ее самодельных красок.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group04_Step04_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group05_Step05_StepDescription
+Поговори с каждым деревенским человеком об их искусстве, кроме ЕВА... ей нужно больше времени.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group05_Step05_TalkToCharacter02_StepDescription
+{TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group05_Step05_TalkToCharacter03_StepDescription
+{TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group06_Step06_TalkToCharacter04_StepDescription
+Свяжитесь с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group07_Step07_TalkToCharacter05_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group08_Step08_VisitArea02_StepDescription
+Встретимся на Рапунцель в вашем доме.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group08_StoryDescription
+После успешного урока живописи Рапунцель дарит вам несколько подарков, чтобы вдохновить вас на творчество и украсить ваш дом.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group09_Step09_Decorate02_StepDescription
+(Не забудьте украсить его инструментом <ActivityItem>Touch Magic</ActivityItem> и вашими новыми мотивами!)
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_Group09_StepDescription
+Повесь своё новое искусство в своем доме.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

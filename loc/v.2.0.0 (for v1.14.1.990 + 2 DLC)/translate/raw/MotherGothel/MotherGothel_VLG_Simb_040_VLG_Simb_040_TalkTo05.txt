@@ -1,0 +1,60 @@
+TAG: MotherGothel_000_f
+Ах, {PlayerName}, для какой проблемы с пешеходом тебе нужен мой совет сегодня?
+
+TAG: MotherGothel_015_f
+Симба хочет выращивать больше <ActivityItem>Dreamlight Trees</ActivityItem>, и он помнит, что ты выбрал <ActivityItem>Fruit</ActivityItem> из них в прошлом...
+
+TAG: MotherGothel_016_f
+Так что я хотел спросить...
+
+TAG: MotherGothel_004_f
+О, {PlayerName}, вы пришли в нужное место, конечно, я помогу вам.
+
+TAG: MotherGothel_007_f
+Просто у меня есть книга, в которой содержатся все ответы, которые ты ищешь.
+
+TAG: MotherGothel_001_f
+Это что-то, что Мерлин упало в Глэйд, давным-давно.
+
+TAG: Player_000_choice_000_f
+Спасибо, что сохранили его.
+
+TAG: Player_000_choice_001_f
+Что там написано?
+
+TAG: Player_000_choice_002_f
+Почему ты не отдала его обратно?
+
+TAG: MotherGothel_008_f
+Пожалуйста, дорогая.
+
+TAG: MotherGothel_019_f
+Иди и сделай <ActivityItem>Dreamlight Dere Filtilizer</ActivityItem>, и я оставлю остальные инструкции твоему льву.
+
+TAG: MotherGothel_010_f
+Это не совсем скучное чтение.
+
+TAG: MotherGothel_014_f
+Важно помнить, что только тот, кто владеет магией Мечты, может вернуть <ActivityItem>Dreamlight Trees</ActivityItem>.
+
+TAG: MotherGothel_011_f
+Вам придется сделать что-то под названием <ActivityItem>Dreamlight Tree Filtilizer</ActivityItem>.
+
+TAG: MotherGothel_002_f
+В <ActivityItem>Empty Vial</ActivityItem> смешивать <ActivityItem>Fruit</ActivityItem> с некоторыми <ActivityItem>Vitalis Crystals</ActivityItem>...
+
+TAG: MotherGothel_003_f
+...<ActivityItem>Prefied Night Shards</ActivityItem> и <ActivityItem>Sunlit Platau Water</ActivityItem>.
+
+TAG: MotherGothel_005_f
+Как только все будет сделано, наденьте его на свой Королевский водонапорный канистры, а потом...
+
+TAG: MotherGothel_006_f
+Тогда?
+
+TAG: MotherGothel_012_f
+Но я бы не хотел перегрызть твою маленькую голову слишком большим количеством шагов.
+
+TAG: MotherGothel_009_f
+Потому что, очевидно, этому старому хулигану нельзя доверять, чтобы сохранить свои собственные книги.
+

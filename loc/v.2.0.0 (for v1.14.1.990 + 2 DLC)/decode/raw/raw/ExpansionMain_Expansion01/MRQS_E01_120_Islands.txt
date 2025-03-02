@@ -1,0 +1,51 @@
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Any_CompletedRequestDescription
+Return to Rapunzel.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_AvailableDescription
+You and Rapunzel enter an ancient grove with a strange sundial in the center and a Sun Core on the ground. A mysterious island floats nearby, just out of reach.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_CompletedStoryDescription
+You discover the Jewel of Time has been stolen â and a strange magical echo and old diary point to Mother Gothel as the culprit. You and Rapunzel head for her tower to search an old chest that Gothel kept inside.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_DisplayName
+The Sundial
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group01_Step01_VisitArea01_StepDescription
+Investigate the <ActivityItem>Second Sun Core</ActivityItem> near the <ActivityItem>Sundial</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group02_StepDescription
+Catch the <ActivityItem>Floating Sun Core</ActivityItem> on the Sundial Island.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group03_Step03_Possess01_StepDescription
+Make sure you have the <ActivityItem>Floating Sun Core</ActivityItem> in your Inventory.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group04_Step04_FillKeyhole01_StepDescription
+This Sun Core looks just like the last one... Where does it fit here?
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group05_Step05_TalkToCharacter01_StepDescription
+Talk to Rapunzel.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group06_StepDescription
+Search the Isle for <ActivityItem>Floating Sundial Gears</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group07_Step08_ReadyDescription
+Show all the <ActivityItem>Sundial Gears</ActivityItem> to Rapunzel.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group07_Step08_StepDescription
+Make sure you have all the <ActivityItem>Sundial Gears</ActivityItem> in your Inventory.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group08_Step09_Conditional01_StepDescription
+Rumbling and grinding noises? Investigate the Sundial.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group09_StepDescription
+Reach the Statue of Time with Rapunzel.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group09_StoryDescription
+You and Rapunzel fix the Sundial mechanism and discover the large platform moves just like a clock. You reach the floating island.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group10_StepDescription
+The Jewel of Time is missing... Investigate the area.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group11_Step12_ConsumeItem01_StepDescription
+Investigate the diary page near the Statue of Time.
+

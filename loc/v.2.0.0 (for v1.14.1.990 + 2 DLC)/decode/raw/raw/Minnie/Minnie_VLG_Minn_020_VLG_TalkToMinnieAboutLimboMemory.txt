@@ -1,0 +1,36 @@
+TAG: Minnie_000_f
+This place feels so familiar to me...
+
+TAG: Minnie_006_f
+{PlayerName}, do you see that strange thing?
+
+TAG: Player_000_choice_000_f
+It's flickering in and out of reality, just like you were!
+
+TAG: Player_000_choice_001_f
+Is that a fishing pole?
+
+TAG: Minnie_001_f
+Was that what I looked like? Oh goodness!
+
+TAG: Minnie_003_f
+How did you bring me back?
+
+TAG: Player_000_choice_002_f
+A device called the <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Player_000_choice_003_f
+A device. Mickey has it.
+
+TAG: Minnie_004_f
+How interesting! Let's go ask Mickey about it.
+
+TAG: Minnie_005_f
+Oh! Then we should go talk to Mickey!
+
+TAG: Minnie_002_f
+I have no idea. It seems to be here... but not quite!
+
+TAG: Minnie_007_f
+It looks just like you did â between Here and There.
+

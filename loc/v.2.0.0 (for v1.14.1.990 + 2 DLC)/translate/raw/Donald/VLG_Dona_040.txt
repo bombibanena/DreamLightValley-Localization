@@ -1,0 +1,120 @@
+TAG: Village!Mickey!Donald!VLG_Dona_040_Any_CompletedRequestDescription
+Поговори с Дональд Дак.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_AvailableDescription
+Дональд Дак нашёл что-то, что могло бы удержать секрет до завершения его проекта.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_CompletedStoryDescription
+Вместе вы и Дональд Дак построили фонтан Мечты, чтобы растоптать забытые земли.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_DisplayName
+Фонтан мечты
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group01_OngoingRequestButton
+Что мы делали?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group01_Step21_BringItem04_StepDescription
+Обыщите лагерь на плато Санлит.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group01_Step21_ReadyDescription
+Принесите то, что нашли на Дональд Дак.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group02_OngoingRequestButton
+Я не помню, что мы делали.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group02_Step02_RemoveBlocker01_StepDescription
+Обыщите лагерь, чтобы найти инструкции для <ActivityItem>Dreamlight Funtain</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group03_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group03_Step03_FollowCharacter02_StepDescription
+Познакомьтесь с Дональд Дак в Забытых землях.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group04_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group04_Step04_StepDescription
+Соберите следующие материалы, чтобы сделать <ActivityItem>Dreamlight Funtain</ActivityItem>:
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group05_OngoingRequestButton
+Что мне делать?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group05_Step05_Unlock01_StepDescription
+Возьми <ActivityItem>Memory</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group10_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group10_Step14_BringItem01_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group10_Step14_ReadyDescription
+Возьмите {itemName} на Дональд Дак.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group11_OngoingRequestButton
+Что мы делаем?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group11_Step11_TalkToCharacter01_StepDescription
+Поговорите с Дональд Дак о том, что вы обнаружили.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group12_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group12_Step12_CraftItem01_StepDescription
+Подготовьте {ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group12_StoryDescription
+Собирай все, что нужно для изготовления фонтана.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group13_OngoingRequestButton
+Что мы делаем сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group13_Step13_Party01_StepDescription
+Отпразднуйте новый <ActivityItem>Dreamlight Funtain</ActivityItem> в Забытых землях.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group13_StoryDescription
+Вы сделали забытые земли более красивым местом, теперь пора отпраздновать.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group15_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group15_Step15_Decorate02_StepDescription
+Поместите {ItemName} рядом с <ActivityItem>Dreamlight Funtain</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group16_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group16_Step17_VisitArea01_StepDescription
+Найдите второй лагерь в Забытых землях.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group16_StoryDescription
+Вы обнаруживаете, что Дональд Дак планировал построить большой фонтан, чтобы омотать забытые земли.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group17_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group17_Step16_FollowCharacter01_StepDescription
+Следуйте Дональд Дак к лагерю на плато Санлит.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_Group17_StoryDescription
+Дональд Дак открыл лагерь на плато Санлит, где могут быть какие-то подсказки о большом проекте, который он планировал до Забвения.
+
+TAG: Village!Mickey!Donald!VLG_Dona_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

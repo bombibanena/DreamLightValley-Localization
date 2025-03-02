@@ -1,0 +1,36 @@
+TAG: Mirabel_001_f
+Hola, {PlayerName}! Wow, you look busier than my sister Luisa on "move the donkeys to the pasture" day. What's going on?
+
+TAG: Mirabel_002_f
+I'm helping Minnie and Daisy launch their fashion line: Dots & Daisies. They need a <ActivityItem>Sewing Machine</ActivityItem> to get started.
+
+TAG: Player_000_f
+Do you have an extra one they could borrow?
+
+TAG: Player_000_choice_000_f
+They'd really appreciate it.
+
+TAG: Player_000_choice_001_f
+It would help a lot.
+
+TAG: Player_000_choice_002_f
+Can you believe they don't already have one?
+
+TAG: Mirabel_003_f
+I can do better than that â I can give them a sewing machine to keep! I have an extra one I never use.
+
+TAG: Mirabel_004_f
+That's so great! Muchas gracias, Mirabel!
+
+TAG: Mirabel_008_f
+De nada! Ooh, maybe I can have a sewing party with them.
+
+TAG: Mirabel_006_f
+Well, sometimes you miss the forest for the sewing machine!
+
+TAG: Mirabel_007_f
+... That joke was funnier in my head. ANYWAY!
+
+TAG: Mirabel_000_f
+I can't lend them a sewing machine.
+

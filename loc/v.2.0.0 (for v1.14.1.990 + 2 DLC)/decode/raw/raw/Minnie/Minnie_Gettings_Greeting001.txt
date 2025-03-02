@@ -1,0 +1,6 @@
+TAG: Minnie_001_f
+Hello, {PlayerName}. I'm so glad to see you!
+
+TAG: Player_000_exit_000_f
+Sorry, I can't talk right now.
+

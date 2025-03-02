@@ -1,0 +1,57 @@
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Any_CompletedRequestDescription
+Поговори с Скрудж Макдак.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_AvailableDescription
+На острове есть заброшенный магазин, который вы не можете помочь, но думаете, что он очень похож на Скрудж Макдак Store. Когда вы взглянете на него поближе, вам предупредит, что его нужно отремонтировать, вы упадете на ноги и соберёте его. Может, вам стоит отнести его на Скрудж Макдак.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_CompletedStoryDescription
+На острове Этернити открылся новый магазин Скрудж Макдак. Что об этом думает Скрудж Макдак? Есть только один способ узнать.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_DisplayName
+Новые предприятия (и приключения)
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group01_Step01_BringItem01_StepDescription
+Убедитесь, что {ItemName} в вашем списке.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group01_Step01_ReadyDescription
+Отдай {ItemName} Скрудж Макдак.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group02_Step02_FollowCharacter01_StepDescription
+Следуйте за Скрудж Макдак.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group02_Step02_FollowCharacter01_TalkToDescription
+Поговори с Скрудж Макдак.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group02_StoryDescription
+Представив возможность открыть новый магазин на острове Этернити, Скрудж Макдак решает проверить состояние здания самостоятельно.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_BringItem02_StepDescription
+Мой <ActivityItem>Quartz</ActivityItem> из камней.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_BringItem03_StepDescription
+Мина <ActivityItem>Copper</ActivityItem> из камней.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_BringItem04_StepDescription
+Найдите <ActivityItem>Pearls</ActivityItem> из земли.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_ReadyDescription
+Принесите материалы на Скрудж Макдак.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group03_Step03_StepDescription
+Соберите из Гавани Древних:
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group03_StoryDescription
+Большинство необходимых ремонтных работ для внутренней части, и пока Скрудж Макдак исправляет внешний вид, вы доставите ему материалы, чтобы сделать внутри магазина.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group04_Step04_Unlock01_StepDescription
+Разблокировать Скрудж Макдак Store в посадке Древних, взаимодействуя со знаком Скрудж Макдак рядом с ним.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group04_StoryDescription
+Всё, что у нас есть, Скрудж Макдак награждает вас честью открыть магазин для всех.
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Story!Expansion01!MRQS_E01_040_Shop_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+

@@ -1,0 +1,84 @@
+TAG: Olaf_000_f
+{PlayerName}, just who I was hoping to see! How would you like to help me tell a tale that's sure to dazzle all the Villagers?!
+
+TAG: Player_000_choice_000_f
+Of course! What can I do to help?
+
+TAG: Player_000_choice_001_f
+Not now. Kinda busy.
+
+TAG: Olaf_001_f
+Well, I've been searching everywhere for a great story to tell.
+
+TAG: Olaf_002_f
+First I talked to a very friendly squirrel... then I talked to WALLÂ·E... then I talked to Merlin...
+
+TAG: Player_001_choice_000_f
+What did the squirrel tell you?
+
+TAG: Player_001_choice_001_f
+What did WALLÂ·E tell you?
+
+TAG: Player_001_choice_002_f
+What did Merlin tell you?
+
+TAG: Olaf_003_f
+Oh, it made a loud screeching noise and ran away.
+
+TAG: Olaf_004_f
+Though I'm not sure how that story will play with our audience...
+
+TAG: Olaf_005_f
+He said, "Whoa!"
+
+TAG: Olaf_006_f
+He's a machine of few words...
+
+TAG: Olaf_007_f
+Well, Merlin always knows the best stories! Probably because he's magical and also the most aged person I know.
+
+TAG: Olaf_008_f
+He told me all about how you're fighting the Forgetting, and I decided... that's our story!
+
+TAG: Olaf_009_f
+The Legend of {PlayerName}!
+
+TAG: Player_002_f
+You want to put on a play all about me?
+
+TAG: Player_002_choice_000_f
+Good idea. I'm pretty great.
+
+TAG: Player_002_choice_001_f
+That should work, I guess.
+
+TAG: Player_002_choice_002_f
+But I'm... boring.
+
+TAG: Olaf_010_f
+Phew! I thought for a second there you wouldn't want the sudden fame that's sure to come with being the subject of our epic tale.
+
+TAG: Olaf_011_f
+Okay, I'm listening, {PlayerName}. Please regale me with your feats of heroism. Spare no details.
+
+TAG: Olaf_012_f
+Well, okay. It all started when I fell asleep under a tree andâ
+
+TAG: Olaf_013_f
+Wait, wait! We can't have story time without a snack.
+
+TAG: Olaf_014_f
+A snack? What are you hungry for?
+
+TAG: Olaf_015_f
+Oh, being a snowman, I don't need to eat. I'm just thinking of you.
+
+TAG: Olaf_016_f
+Maybe you could ask Remy. He knows all about yummy food. I bet he'd know the perfect snack for story time.
+
+TAG: Olaf_017_f
+Whoa... You're not just heroic, you're also humble. Now that's the kind of protagonist a great story needs.
+
+TAG: Olaf_018_f
+I understand. Creativity happens on its own schedule.
+

@@ -1,0 +1,60 @@
+TAG: Beast_000_f
+Heyyy, you doing okay? You seem upset.
+
+TAG: Beast_001_f
+*ROARRRR!!!* I'm not upset â I'm INFURIATED!
+
+TAG: Player_000_choice_000_f
+OK, tell me what's wrong.
+
+TAG: Player_000_choice_001_f
+Hold on; I'll need to prepare for this, I think...
+
+TAG: Beast_002_f
+It's that... that insolent, belittling... Mother Gothel!
+
+TAG: Player_001_choice_000_f
+What did she do to you?
+
+TAG: Player_001_choice_001_f
+Why am I not surprised she's messing with you...
+
+TAG: Beast_003_f
+Not to me...
+
+TAG: Beast_004_f
+She said things to Belle.
+
+TAG: Beast_005_f
+Which I will not repeat.
+
+TAG: Beast_006_f
+But Belle was quite hurt, and I WILL NOT ALLOW THAT!
+
+TAG: Player_002_choice_000_f
+OK, calm down a little.
+
+TAG: Player_002_choice_001_f
+You're right; this can't go unanswered.
+
+TAG: Beast_007_f
+Calm down?! She insulted Belle!
+
+TAG: Beast_008_f
+No time like the present â let's go confront <Lore>Mother Gothel</Lore>!
+
+TAG: Beast_009_f
+I agree!
+
+TAG: Beast_010_f
+Good.
+
+TAG: Beast_011_f
+You've had difficulty with her before?
+
+TAG: Beast_012_f
+So, so many times!
+
+TAG: Beast_013_f
+I will be here.
+

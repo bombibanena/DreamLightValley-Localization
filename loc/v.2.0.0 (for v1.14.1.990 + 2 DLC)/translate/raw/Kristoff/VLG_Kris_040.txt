@@ -1,0 +1,63 @@
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Any_CompletedRequestDescription
+Поговори с Кристофф.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_DisplayName
+Сломанная сетка
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group01_Step01_RemoveBlocker01_StepDescription
+Свободный <ActivityItem>Кристофф "Sled</ActivityItem>" от льда.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group02_Step02_Possess02_StepDescription
+<ActivityItem>Fiber</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group02_Step02_Possess06_StepDescription
+<ActivityItem>{ItemName}</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group02_Step02_StepDescription
+Соберите материалы для ремонта:
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно?
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group03_Step03_Possess04_StepDescription
+Назовите книгу <ActivityItem>"Ледяной случай: Как починить вашу санитарку"</ActivityItem> из библиотеки в доме Кристофф.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group03_StoryDescription
+Несмотря на то, что <ActivityItem>Sled</ActivityItem> из льда, Кристофф не может использовать его. Он сломан. Вы решаете помочь починить его, но вам нужны инструкции для этого.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group04_Step04_CraftItem01_StepDescription
+Ремонт <ActivityItem>Sled</ActivityItem> на ремесленной станции.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group06_Step06_BringItem05_StepDescription
+Возьмите <ActivityItem>Sled</ActivityItem> и верните его Кристофф.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group06_Step06_ReadyDescription
+Верните <ActivityItem>Sled</ActivityItem> на Кристофф.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group06_StoryDescription
+После ремонта сломанной части <ActivityItem>Sled</ActivityItem> вы можете вернуть ее на Кристофф, как новый.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group07_Step07_TalkToCharacter02_StepDescription
+Показать Кристофф его сломанный <ActivityItem>Sled</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group08_Step08_BringItem06_StepDescription
+<ActivityItem>Iron Ingots</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group08_Step08_StepDescription
+Найти образец следующих материалов для Кристофф:
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Где вы сказали, что потеряли свой <ActivityItem>Sled</ActivityItem>?
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group09_Step09_FollowCharacter01_StepDescription
+Следуйте за Кристофф к его <ActivityItem>Sled</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group09_StoryDescription
+Пока он работал на Фростед Хайтс, его <ActivityItem>Sled</ActivityItem> застрял в льду, и он надеется, что вы сможете освободить его.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что теперь?
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_040_Group10_Step11_Possess05_StepDescription
+Возвращайтесь к <ActivityItem>Sled</ActivityItem>.
+

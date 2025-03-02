@@ -1,0 +1,48 @@
+TAG: Kristoff_000_f
+Hey, {PlayerName}. Good to see you. What's up?
+
+TAG: Kristoff_008_f
+Woody and I are trying to fix his Carousel, and we could use your help to figure out where to start.
+
+TAG: Kristoff_001_f
+I'd be happy to help.
+
+TAG: Kristoff_004_f
+Actually, I'm kinda glad you came to me. I've seen how worn down the Carousel looks, and I wanted to do something but...
+
+TAG: Kristoff_005_f
+I didn't exactly know how to approach it.
+
+TAG: Kristoff_007_f
+It would've been a little odd for me to just show up with a bunch of planks and nails...
+
+TAG: Player_001_choice_000_f
+It would have been a nice gesture.
+
+TAG: Player_001_choice_001_f
+Is that what we need?
+
+TAG: Player_001_choice_002_f
+Eh, it beats bringing flowers, in my opinion...
+
+TAG: Kristoff_009_f
+I guess, but a lot of people might take it the wrong way.
+
+TAG: Kristoff_014_f
+Anyway, I've had some time to think about how I'd fix the Carousel, and you're gonna need a <ActivityItem>Repair Kit</ActivityItem>.
+
+TAG: Kristoff_015_f
+You can make 'em for everything nowadays. Boats, sleds, why not a Carousel?
+
+TAG: Kristoff_003_f
+Okay, I'm listening...
+
+TAG: Kristoff_012_f
+I jotted down a few ideas. You'll see; it's pretty simple. If you gather these materials, you should be able to craft the <ActivityItem>Carousel Repair Kit</ActivityItem> in no time.
+
+TAG: Kristoff_010_f
+Not exactly. I've had some time to think about how I'd fix the Carousel, and you're gonna need a <ActivityItem>Repair Kit</ActivityItem>.
+
+TAG: Kristoff_011_f
+Exactly. See, you get it.
+

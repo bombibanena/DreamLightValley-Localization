@@ -1,0 +1,48 @@
+TAG: Goofy_000_f
+Gawrsh, what's this I hear about a little robot fella you're tryin' to bring to the Valley?
+
+TAG: Player_000_f
+WALLÂ·E? Yeah, he's...
+
+TAG: Player_000_choice_002_f
+...very shy.
+
+TAG: Player_000_choice_003_f
+...super helpful.
+
+TAG: Player_000_choice_004_f
+...so funny.
+
+TAG: Goofy_002_f
+Believe it or not, I can be a little bashful sometimes too.
+
+TAG: Goofy_005_f
+Now, I also hear you're looking for interesting stuff to help bring the little guy out of his shell.
+
+TAG: Goofy_001_f
+Wish I had something for ya. Sorry. But I'd love to show ya this boot I fished outta the pond the other day. And guess what?
+
+TAG: Goofy_004_f
+There's a plant growin' in it!
+
+TAG: Player_000_choice_000_f
+Gimme the boot!
+
+TAG: Player_000_choice_001_f
+May I please have it?
+
+TAG: Goofy_003_f
+Gawrsh, I'm pretty fond of this boot... I wanna see what the plant grows into.
+
+TAG: Goofy_006_f
+But you know how boots are... They come in pairs!
+
+TAG: Goofy_007_f
+You should go fish around the ponds in the Meadow. I bet you'll find its match.
+
+TAG: Goofy_008_f
+That's great! We can always use more help around the Valley.
+
+TAG: Goofy_009_f
+Well, we can always use more laughs here in the Valley!
+

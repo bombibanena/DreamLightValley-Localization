@@ -1,0 +1,51 @@
+TAG: Nala_004_f
+{PlayerName}, those rifts are starting to cause more problems. I'm doing everything I can, but I need your help.
+
+TAG: Player_000_choice_000_f
+On it. What do you need?
+
+TAG: Player_000_choice_001_f
+No time. But I'll talk to you soon.
+
+TAG: Nala_006_f
+There are a lot more of those odd fish appearing in all the waters of the Valley.
+
+TAG: Nala_008_f
+It's getting so we can't catch anything else.
+
+TAG: Nala_009_f
+But if anyone tries to cook them, they just disappear. We can't let the pride go hungry.
+
+TAG: Player_001_choice_000_f
+Don't worry. I'll catch some fish for them.
+
+TAG: Player_001_choice_001_f
+I just hope I can catch something else too.
+
+TAG: Player_001_choice_002_f
+*sigh* Guess I've gotta save the day once again.
+
+TAG: Nala_012_f
+Thank you, {PlayerName}. I don't want anyone to panic.
+
+TAG: Nala_010_f
+If we <Lore>get fish for Moana, Remy, and Donald</Lore>, that will help everyone.
+
+TAG: Nala_000_f
+Moana's been trying to catch a <ActivityItem>Swordfish</ActivityItem>. But she hasn't had any luck unless she goes far out into the water.
+
+TAG: Nala_001_f
+Remy wants <ActivityItem>Crab</ActivityItem> for a meal he's making.
+
+TAG: Nala_002_f
+And Donald really wants some <ActivityItem>Tuna</ActivityItem>. I think he's gone past frustrated into full-on temper tantrum.
+
+TAG: Nala_013_f
+So do I. Let's hope that Fishing Rod thing of yours does the trick.
+
+TAG: Nala_014_f
+That is kind of your job. You should be used to it by now.
+
+TAG: Nala_007_f
+All right. I'll do what I can, but please hurry.
+

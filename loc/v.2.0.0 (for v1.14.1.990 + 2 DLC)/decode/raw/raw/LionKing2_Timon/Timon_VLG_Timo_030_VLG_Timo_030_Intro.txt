@@ -1,0 +1,60 @@
+TAG: Timon_000_f
+{PlayerName}! I just had the best idea, but I'm gonna need your help with a few minor details. What do ya say?
+
+TAG: Player_000_choice_000_f
+Sure thing, Timon. What do you need help with?
+
+TAG: Player_000_choice_001_f
+Sorry, I'm a little busy right now.
+
+TAG: Timon_002_f
+Well, as you must know by now, I was an integral part of Simba's journey to embracing the king within himself.
+
+TAG: Timon_001_f
+What if I could do that for others here in the Valley? All these royals and leaders just wandering aimlessly, with no one to guide them towards their true destiny... until now!
+
+TAG: Timon_008_f
+I call it... a Timon Talk!
+
+TAG: Player_001_choice_000_f
+I love the idea!
+
+TAG: Player_001_choice_001_f
+Are you sure you can handle that?
+
+TAG: Player_001_choice_002_f
+And how can I help with this?
+
+TAG: Timon_005_f
+I knew you would! It's got a great ring to it.
+
+TAG: Timon_011_f
+So how can I help you?
+
+TAG: Timon_012_f
+I need some kinda sign to advertise my talk to all the royalty around here.
+
+TAG: Timon_009_f
+Oh, and could ya go see Simba? He'll tell you all about my wisdom and heroics. Make sure he comes to my talk!
+
+TAG: Timon_013_f
+Okay, I'll <Lore>talk to Simba</Lore> and <Lore>gather what we need to make some billboards</Lore>! If you want this to go well, you need to start planning out your speech.
+
+TAG: Timon_014_f
+Don't worry. My speech is gonna put the "inspire" in "inspirational"!
+
+TAG: Timon_004_f
+Public speaking can be tough...
+
+TAG: Timon_006_f
+Am I sure I can handle it?! HA! {PlayerName}, didn't you just hear me say I helped Simba on his king's journey?
+
+TAG: Timon_010_f
+Okay, okay, so what do I need to do?
+
+TAG: Timon_007_f
+So you're in? Excellent!
+
+TAG: Timon_003_f
+Gotcha. Maybe later then.
+

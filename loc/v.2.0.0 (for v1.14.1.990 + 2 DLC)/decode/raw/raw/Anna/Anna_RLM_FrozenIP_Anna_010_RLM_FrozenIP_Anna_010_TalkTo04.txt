@@ -1,0 +1,33 @@
+TAG: Anna_000_f
+Look! There's Elsa...
+
+TAG: Anna_001_f
+...but she's on the other side of that raging river. And the bridge is completely flooded.
+
+TAG: Player_000_choice_000_f
+We'll need to calm the Water Spirit!
+
+TAG: Player_000_choice_001_f
+Do you have any advice?
+
+TAG: Player_000_choice_002_f
+Can your sister help?
+
+TAG: Anna_002_f
+That might be a problem...
+
+TAG: Anna_005_f
+I don't see the Water Spirit anywhere around here.
+
+TAG: Anna_008_f
+Wait a second. The river is raging... but that pond over there... It's completely calm.
+
+TAG: Anna_007_f
+Let's go investigate.
+
+TAG: Anna_006_f
+Hmm...
+
+TAG: Anna_004_f
+Yes. But she's clearly very busy. We'll have to figure something out. Okay...
+

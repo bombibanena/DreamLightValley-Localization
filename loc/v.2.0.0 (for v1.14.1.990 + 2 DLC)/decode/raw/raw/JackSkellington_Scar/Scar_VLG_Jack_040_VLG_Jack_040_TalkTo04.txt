@@ -1,0 +1,30 @@
+TAG: Scar_002_f
+Finally, there you are, {PlayerName}.
+
+TAG: Scar_010_f
+OK, OK, I'll check things out.
+
+TAG: Scar_001_f
+Once you are done, I suggest you remove yourself from my House quickly. I'm in no mood for guests.
+
+TAG: Scar_003_f
+Are you OK? I heard that Jack's Dreamlight Day gifts have been going... a little weird.
+
+TAG: Scar_004_f
+"Weird" would be how YOU'D describe it.
+
+TAG: Scar_005_f
+I, however, would say it's "an insult to dignity" and "exceedingly beyond the pale" among other choice descriptors.
+
+TAG: Scar_006_f
+What happened with your gift?
+
+TAG: Scar_007_f
+Nothing good.
+
+TAG: Scar_008_f
+Suffice to say, I am in need of redress.
+
+TAG: Scar_009_f
+Deal with it, {PlayerName}, before I am forced to take matters into my own claws.
+

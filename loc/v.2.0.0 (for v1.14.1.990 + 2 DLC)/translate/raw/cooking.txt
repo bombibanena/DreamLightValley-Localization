@@ -1,0 +1,126 @@
+TAG: button_meals
+Питание
+
+TAG: button_sub_products
+{Placeholder}Sub Продукты
+
+TAG: cookbook_buff_cooking_timer
+{percent,P0} Быстрее ({hours,%h} час)[с])
+
+TAG: cookbook_buff_fishing_reel
+Рыбалка {percent,P0} быстрее ({hours,%h} часов)
+
+TAG: cookbook_buff_friendship
+Дружба +{percent,P0} ({hours,%h} час)[с])
+
+TAG: cookbook_buff_growth_timer
+Вырастить {percent,P0} быстрее ({hours,%h} часов)
+
+TAG: cooking_ingredient_number_exeeded_desc
+Будь осторожен, здесь максимум 5 ингредиентов на реципиент.
+
+TAG: cooking_ingredient_number_exeeded_title
+Неблагоприятные вопросы
+
+TAG: cooking_missing_ingredient
+Недостающие ингредиенты:
+
+TAG: cooking_ready_in
+Готовы:
+
+TAG: cooking_refresh_in
+Обновляется в:
+
+TAG: cooking_remaining_tries
+Оставшиеся попытки: {number,D}
+
+TAG: cooking_remi_not_enough_ingredients_desc
+У тебя не хватит "Ингредиентов", чтобы приготовить этот реципиент.
+
+TAG: cooking_remi_start_desc
+Ты готов к тому, что Реми начнет готовить?
+
+TAG: cooking_start_desc
+Ты готов попробовать этот Рецип?
+
+TAG: cooking_start_remi
+Пошли!
+
+TAG: cooking_wrong_recipe_desc
+Попробуй что-нибудь другое.
+
+TAG: new_recipe_label
+Новый реципиент
+
+TAG: pantry_add_ingredients
+Добавить ингредиенты
+
+TAG: pantry_cookbook_title
+Реципиенты
+
+TAG: pantry_cooking_station
+Реми Кухня
+
+TAG: pantry_empty
+Упс, у тебя нет никаких "Ингредиентов" в этой категории.
+
+TAG: pantry_fridge_title
+Панцирь
+
+TAG: pantry_shop
+Реми Магазин.
+
+TAG: pantry_start_cooking
+Начать готовить
+
+TAG: pantry_transfer
+Передача
+
+TAG: pantry_transfer_all
+Перенести все
+
+TAG: pantry_transfer_desc
+Хочешь перевезти эти вещи в Пантрию?
+
+TAG: select_recipe
+Выбрать реципиент
+
+TAG: history_title
+История
+
+TAG: ingredient_fish
+Рыба
+
+TAG: ingredient_fruit
+Фрукты
+
+TAG: ingredient_grain
+Зерно
+
+TAG: ingredient_legend_bad_ingredient
+Ненужная неблагоприятная
+
+TAG: ingredient_legend_empty
+Пустой
+
+TAG: ingredient_legend_good_ingredient
+Обязательный ингредент
+
+TAG: ingredient_legend_good_type
+Ветровая ингредиентная
+
+TAG: ingredient_other
+Прочее
+
+TAG: ingredient_sea_food
+Морские продукты
+
+TAG: ingredient_spice
+Спайс
+
+TAG: ingredient_sub_product
+{Placeholder} Подпродукт
+
+TAG: ingredient_vegetable
+Овощное
+

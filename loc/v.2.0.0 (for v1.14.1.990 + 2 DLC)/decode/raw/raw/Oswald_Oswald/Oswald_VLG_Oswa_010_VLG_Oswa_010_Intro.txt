@@ -1,0 +1,63 @@
+TAG: Oswald_000_f
+Oswald! How are you doing?
+
+TAG: Oswald_001_f
+Oswald gives you a grin bigger than a brass band! He mimes two people walking about arm in arm.
+
+TAG: Oswald_002_f
+You want to spend some time together?
+
+TAG: Player_000_choice_000_f
+Sounds great!
+
+TAG: Player_000_choice_001_f
+Sorry, I'm busy now â I'll be back later.
+
+TAG: Oswald_003_f
+What do you want to do?
+
+TAG: Oswald_004_f
+The charming bunny examines you and regards his own stylish allure. He points to himself then tips an imaginary hat.
+
+TAG: Oswald_005_f
+He points to you and brushes some miniscule specks of dirt off of his imaginary sleeve.
+
+TAG: Oswald_006_f
+You have some thoughts on my clothes?
+
+TAG: Oswald_007_f
+Oswald nods furiously and does a few steps of a Charleston, pointing at his shorts.
+
+TAG: Player_001_choice_000_f
+You want to dance?
+
+TAG: Player_001_choice_001_f
+I should dress like you?
+
+TAG: Oswald_008_f
+Oswald shakes his head with the overblown sadness of a silent film actor.
+
+TAG: Oswald_016_f
+All right, I'm off â see you in a bit!
+
+TAG: Oswald_009_f
+Should I put on some different clothes?
+
+TAG: Oswald_010_f
+Oswald grins, jumps up, and spins his ears!
+
+TAG: Oswald_011_f
+OK, I can see what I have in my wardrobe.
+
+TAG: Oswald_012_f
+I feel like we should match â I'll find a <Lore>black shirt and light-colored pants</Lore>.
+
+TAG: Oswald_017_f
+A <ActivityItem>Black and White Fedora</ActivityItem>? Oswald, this looks great! I'll totally wear this too.
+
+TAG: Oswald_014_f
+Oswald is so excited that he jumps out of his shoes!
+
+TAG: Oswald_015_f
+Luckily, they position themselves so that Oswald lands back in them cleanly.
+

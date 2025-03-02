@@ -1,0 +1,18 @@
+TAG: Scar_001_f
+And the Forgotten?
+
+TAG: Scar_002_f
+It would seem your conversation with them was enough to convince them.
+
+TAG: Scar_003_f
+Excellent. And remember, Ursula...
+
+TAG: Scar_004_f
+No one must know what we are up to!
+
+TAG: Scar_000_f
+Then you better be a little more careful. Seems our friend {PlayerName} can hear us.
+
+TAG: Scar_005_f
+What!!! Get out of here, {PlayerName}!
+

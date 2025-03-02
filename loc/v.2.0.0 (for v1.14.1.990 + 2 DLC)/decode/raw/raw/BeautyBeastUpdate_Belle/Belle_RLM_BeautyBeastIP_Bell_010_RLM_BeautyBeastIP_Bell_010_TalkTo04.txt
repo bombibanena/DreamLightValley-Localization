@@ -1,0 +1,117 @@
+TAG: Belle_000_f
+You saw the Beast? Is he all right?
+
+TAG: Player_000_choice_000_f
+I think he's sad.
+
+TAG: Player_000_choice_001_f
+He's still upset with you.
+
+TAG: Player_000_choice_002_f
+He's having a tantrum.
+
+TAG: Belle_003_f
+He thinks he'll never measure up to the prince in that old portrait you were staring at.
+
+TAG: Belle_005_f
+Oh no...
+
+TAG: Belle_006_f
+I was just trying to see if there was something there that would help me understand who he was so I can better understand who he is now.
+
+TAG: Player_002_choice_000_f
+He didn't see it that way.
+
+TAG: Player_002_choice_001_f
+It was a simple mistake!
+
+TAG: Player_002_choice_002_f
+Good idea, bad execution.
+
+TAG: Belle_011_f
+I'm so sorry about that... *sigh* I'm not sure what to do.
+
+TAG: Belle_013_f
+... What if we made him a new painting?
+
+TAG: Belle_014_f
+What an interesting idea, but... I don't paint. Do you?
+
+TAG: Player_003_choice_000_f
+In my dreams!
+
+TAG: Player_003_choice_001_f
+Not even a little.
+
+TAG: Player_003_choice_002_f
+Finger painting is my jam.
+
+TAG: Belle_017_f
+Well, I'm sure you have many other talents.
+
+TAG: Belle_020_f
+If only we could snap our fingers and have a new painting.
+
+TAG: Belle_021_f
+Hey, great idea! Maybe I can use some of my Dreamlight Magic to help us. I'll head to the Valley and consult with Merlin.
+
+TAG: Belle_022_f
+What's a "Merlin"?
+
+TAG: Player_004_choice_000_f
+Our resident wizard.
+
+TAG: Player_004_choice_001_f
+My magical mentor!
+
+TAG: Player_004_choice_002_f
+Probably "very tired" at this point.
+
+TAG: Belle_029_f
+You mean a real wizard? Like in a storybook?
+
+TAG: Belle_008_f
+Exactly!
+
+TAG: Belle_023_f
+He's like a magical encyclopedia with a great hat.
+
+TAG: Belle_007_f
+Merlin's always trying to help people in the Valley with his magic and his experiments!
+
+TAG: Belle_024_f
+Experiments? Hmm... Merlin sounds a bit like my father and his inventions. I'd love to meet him someday.
+
+TAG: Belle_009_f
+Hey, maybe someday you will!
+
+TAG: Belle_027_f
+For now, I'll <Lore>go talk to Merlin about some magic to make a new painting</Lore>.
+
+TAG: Belle_030_f
+That would be wonderful! I look forward to hearing about what you discover.
+
+TAG: Belle_028_f
+People ask him LOTS of questions all day.
+
+TAG: Belle_016_f
+Hmm. Is there someone we could commission to create one?
+
+TAG: Belle_018_f
+Your "jam"? Does that mean you like it?
+
+TAG: Belle_019_f
+Kinda? I do like jam. And finger painting... But probably not enough to make a new painting for the Beast.
+
+TAG: Belle_010_f
+A mistake I need to fix. But I'm not sure what to do...
+
+TAG: Belle_012_f
+You're right... I should have respected his wishes. I have to find a way to fix this!
+
+TAG: Belle_002_f
+You meant well... but it bothered him that you were staring at that portrait.
+
+TAG: Belle_004_f
+He's just upset that you were staring at that old portrait in his room. I'm sure it'll pass.
+

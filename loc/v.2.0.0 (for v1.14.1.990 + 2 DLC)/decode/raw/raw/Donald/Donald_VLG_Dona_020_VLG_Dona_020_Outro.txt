@@ -1,0 +1,51 @@
+TAG: Donald_000_f
+Another <ActivityItem>Time Capsule</ActivityItem>!
+
+TAG: Donald_001_f
+But this one looks different. And it's locked up tight. Whatever's in here must be super important.
+
+TAG: Donald_005_f
+I'll try bashing it against a rock for a while...
+
+TAG: Donald_002_f
+Thanks for your help, {PlayerName}!
+
+TAG: Donald_003_f
+Wait. We never did manage to find a catfish in the ocean.
+
+TAG: Donald_004_f
+Oh...
+
+TAG: Donald_007_f
+Aw phooey. Maybe Goofy was right after all.
+
+TAG: Player_000_choice_000_f
+You should apologize.
+
+TAG: Player_000_choice_001_f
+Let's just forget this whole argument.
+
+TAG: Player_000_choice_002_f
+Never let him find out you were wrong.
+
+TAG: Donald_008_f
+You're right.
+
+TAG: Donald_006_f
+Thanks for helping me, {PlayerName}. I'll tell Goofy I'm sorry.
+
+TAG: Donald_013_f
+And I'll let you know when I figure out how to open this Time Capsule...
+
+TAG: Donald_009_f
+Yeah, I bet Goofy will forget I ever said anything about catfish.
+
+TAG: Donald_010_f
+Thanks for the advice, {PlayerName}.
+
+TAG: Donald_011_f
+Yeah, I'll keep telling him catfish are from the ocean. He'll probably spend a whole summer trying to catch one. Heh-heh-heh.
+
+TAG: Donald_012_f
+Thanks, {PlayerName}. I always have more fun when you're around.
+

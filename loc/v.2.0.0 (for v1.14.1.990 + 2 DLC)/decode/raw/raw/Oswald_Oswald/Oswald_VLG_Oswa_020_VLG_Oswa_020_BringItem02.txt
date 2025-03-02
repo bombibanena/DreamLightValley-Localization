@@ -1,0 +1,57 @@
+TAG: Oswald_001_f
+OK, I found all the missing clocks.
+
+TAG: Oswald_002_f
+Zowie!
+
+TAG: Oswald_017_f
+They made me run around, but I gotta admit, they're pretty cute!
+
+TAG: Oswald_021_f
+You betcha they are!
+
+TAG: Oswald_022_f
+Huh? What's that, clocks?
+
+TAG: Oswald_023_f
+Wait, you're... talking to them?
+
+TAG: Oswald_018_f
+Gee, sorry {PlayerName}, but Foxtrot here just said that ain't the last of 'em.
+
+TAG: Oswald_024_f
+We're gonna hafta make tracks and find the last three.
+
+TAG: Player_002_choice_000_f
+There are more?!
+
+TAG: Player_002_choice_001_f
+Of course there are more...
+
+TAG: Oswald_019_f
+Aw, you know how things go...
+
+TAG: Oswald_025_f
+The clocks say that they were so excited, they were beside themselves...
+
+TAG: Oswald_026_f
+And then they ACTUALLY were beside themselves! More of 'em just... happened. We gotta stop this before it becomes a clock-aclysm!
+
+TAG: Oswald_027_f
+Well, I guess I'm heading back out. Any idea where they might be hiding?
+
+TAG: Oswald_028_f
+Sure! Tango said Rumba's <Lore>taking a swim off Ancient's Landing</Lore>.
+
+TAG: Oswald_029_f
+Conga's <Lore>restin' under a rock in the Wild Tangle</Lore>.
+
+TAG: Oswald_030_f
+And little Waltz is <Lore>tryin' to get a tan in the Glittering Dunes</Lore>.
+
+TAG: Oswald_031_f
+OK, thanks for the tip â I'll get back to the hunt!
+
+TAG: Oswald_020_f
+Aw, you know how it is with alarm clocks â they're bustin' out with emotions.
+

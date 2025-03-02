@@ -1,0 +1,54 @@
+TAG: Description
+{Placeholder}Generic Buff Description
+
+TAG: Description_000
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: Description_001
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: Description_002
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: Description_012
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: Description_013
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: Description_014
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: Description_015
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: Description_016
+Chances increase with the Friendship Level of every Character in the Village who has this bonus.
+
+TAG: DisplayName
+{Placeholder}Generic Buff
+
+TAG: DisplayName_000
+Your companion can find more treasures when Timebending.
+
+TAG: DisplayName_001
+Your companion can find more crops while you garden.
+
+TAG: DisplayName_002
+Your companion can help you catch more Snippets.
+
+TAG: DisplayName_012
+Your companion can find more fish while you fish.
+
+TAG: DisplayName_013
+Your companion can find more minerals while you mine.
+
+TAG: DisplayName_014
+Find gems more frequently while mining.
+
+TAG: DisplayName_015
+Your companion can find more items when digging.
+
+TAG: DisplayName_016
+Your companion can find more items when harvesting wild crops and fruits.
+

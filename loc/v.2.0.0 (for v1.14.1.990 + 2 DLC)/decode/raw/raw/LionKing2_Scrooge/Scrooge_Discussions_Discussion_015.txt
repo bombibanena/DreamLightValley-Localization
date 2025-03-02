@@ -1,0 +1,36 @@
+TAG: Scrooge_000_f
+Well, bein' the richest duck in the world isn't all fun and games, ya know. I have to think about security around the clock!
+
+TAG: Scrooge_001_f
+I've got to protect my treasures from ne'er-do-wells!
+
+TAG: Player_000_choice_000_f
+Can I help?
+
+TAG: Player_000_choice_001_f
+Has anyone ever stolen from you?
+
+TAG: Player_000_choice_002_f
+I'll keep an eye out!
+
+TAG: Scrooge_003_f
+Are you sayin' you'd volunteer out of the goodness of your heart? For no compensation at all?
+
+TAG: Scrooge_005_f
+You're hired! I can always use an extra set of eyes.
+
+TAG: Scrooge_002_f
+Have they?! Have you ever heard of the Beagle Boys?
+
+TAG: Scrooge_006_f
+Those rapscallions are always trying to get their plundering paws on me gold!
+
+TAG: Scrooge_007_f
+Burns me blisters just thinkin' about it!
+
+TAG: Scrooge_004_f
+So you know what ne'er-do-wells look like, do ya?
+
+TAG: Scrooge_008_f
+Makes me wonder what kind of company you keep...
+

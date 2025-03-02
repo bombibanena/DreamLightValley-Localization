@@ -1,0 +1,42 @@
+TAG: WallE_000_f
+WALLÂ·E!
+
+TAG: Player_000_choice_000_f
+I'm always happy to see you!
+
+TAG: Player_000_choice_001_f
+I'm sorry but I need something from you.
+
+TAG: Player_000_choice_002_f
+Yeah, yeah, WALLÂ·E to you too.
+
+TAG: WallE_002_f
+*whistle*
+
+TAG: WallE_001_f
+Directive?
+
+TAG: WallE_005_f
+I need a <ActivityItem>Motherboard</ActivityItem>. Do you have such a thing?
+
+TAG: WallE_006_f
+Hmm...
+
+TAG: WallE_007_f
+...
+
+TAG: WallE_008_f
+Ta-da!
+
+TAG: WallE_009_f
+Wow, you were keeping one with you. Thank you very much, WALLÂ·E!
+
+TAG: WallE_010_f
+Whoopee!
+
+TAG: WallE_003_f
+Okay.
+
+TAG: WallE_004_f
+Uh...
+

@@ -1,0 +1,36 @@
+TAG: Simba_000_f
+Hey, {PlayerName}! I heard you've been helping Timon with something.
+
+TAG: Simba_001_f
+I am, and it's going to be spectacular!
+
+TAG: Player_000_choice_000_f
+At least Timon insists it will be.
+
+TAG: Player_000_choice_001_f
+I'm SO excited!
+
+TAG: Player_000_choice_002_f
+Well... we're TRYING to make it spectacular, anyway.
+
+TAG: Simba_002_f
+If I know Timon, I'm sure he has some pretty big plans.
+
+TAG: Simba_005_f
+The idea is... Timon remembers how you overcame so much and learned to embrace being king. Now he wants to help others around Dreamlight Valley find that same confidence!
+
+TAG: Simba_006_f
+That's great! He's really starting to find his place here, isn't he?
+
+TAG: Simba_007_f
+Definitely. So will you come to the talk? It wouldn't be the same without you there!
+
+TAG: Simba_008_f
+I wouldn't miss it!
+
+TAG: Simba_003_f
+I can't wait to hear about it!
+
+TAG: Simba_004_f
+Timon always knows how to make a scene... In a good way.
+

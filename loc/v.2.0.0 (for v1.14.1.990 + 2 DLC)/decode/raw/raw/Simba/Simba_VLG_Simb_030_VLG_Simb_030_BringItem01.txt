@@ -1,0 +1,27 @@
+TAG: Simba_002_f
+Whoa, {PlayerName}! What's this?
+
+TAG: Player_000_f
+The <ActivityItem>Dreamlight Tree Seed</ActivityItem>. It's going to help us grow a <ActivityItem>Dreamlight Tree</ActivityItem>. That was your role, Simba. You watched over it in the past...
+
+TAG: Player_000_choice_000_f
+We can bring it back.
+
+TAG: Player_000_choice_001_f
+Do you think you're up to the task?
+
+TAG: Player_000_choice_002_f
+Now we can fix whatever's wrong with the Valley.
+
+TAG: Simba_001_f
+Really?! That's great! Thanks for figuring it out.
+
+TAG: Simba_007_f
+And I know the perfect spot to plant it, near the pond on the Sunlit Plateau. Follow me!
+
+TAG: Simba_008_f
+You bet!
+
+TAG: Simba_009_f
+The Dreamlight Tree... I remember! Thanks for figuring it out.
+

@@ -1,0 +1,15 @@
+TAG: Goofy_000_f
+Hiya, pal! What can I help ya with?
+
+TAG: Player_000_choice_000_f
+Buy.
+
+TAG: Player_000_choice_001_f
+Sell.
+
+TAG: Player_000_choice_002_f
+Never mind.
+
+TAG: Goofy_001_f
+Okey dokey! Come back anytime ya need something.
+

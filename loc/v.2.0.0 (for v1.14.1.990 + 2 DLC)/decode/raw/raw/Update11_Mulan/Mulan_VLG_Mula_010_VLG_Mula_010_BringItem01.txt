@@ -1,0 +1,36 @@
+TAG: Mulan_004_f
+Oh, {PlayerName}, this looks amazing!
+
+TAG: Mulan_005_f
+It's great to be in the Valley and try new foods, isn't it?
+
+TAG: Mulan_006_f
+...
+
+TAG: Mulan_007_f
+It's not grandmother's congee â but it's delicious.
+
+TAG: Mulan_014_f
+You should eat yours if you get tired during our strength-building exercise.
+
+TAG: Player_002_choice_001_f
+I'm already tired...
+
+TAG: Player_002_choice_002_f
+Let's get STRONG!
+
+TAG: Mulan_012_f
+Then take it at a pace that's comfortable. Daily training is about patience and practice â NOT speed and perfection.
+
+TAG: Mulan_002_f
+Today, we're gonna work on our strength and focus by <Lore>mining for minerals</Lore>.
+
+TAG: Mulan_003_f
+Lifting a Pickaxe isn't just for your arms â it engages your whole body.
+
+TAG: Mulan_009_f
+Come on!
+
+TAG: Mulan_016_f
+You have a GREAT attitude, {PlayerName}!
+

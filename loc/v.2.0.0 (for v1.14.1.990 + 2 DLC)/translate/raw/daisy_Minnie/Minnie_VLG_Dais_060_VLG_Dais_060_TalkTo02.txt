@@ -1,0 +1,24 @@
+TAG: Minnie_000_f
+Ты прекрасно выглядишь, {PlayerName}, я просто обожаю твой костюм.
+
+TAG: Player_000_choice_000_f
+Я чувствую себя потрясающе.
+
+TAG: Player_000_choice_001_f
+Снова к тебе, Минни Маус!
+
+TAG: Player_000_choice_002_f
+Я чувствую себя неуместным.
+
+TAG: Minnie_001_f
+Я так рада это слышать.
+
+TAG: Minnie_004_f
+О, я спас тебе кусочек <ActivityItem>Cesecake</ActivityItem>.
+
+TAG: Minnie_002_f
+Спасибо!
+
+TAG: Minnie_003_f
+Я обещаю, все здесь любят тебя.
+

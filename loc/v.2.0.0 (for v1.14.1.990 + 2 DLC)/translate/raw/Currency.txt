@@ -1,0 +1,132 @@
+TAG: DaisyCoin_DisplayName
+Дейзи Кости
+
+TAG: DaisyCoin_PluralDisplayName
+Дейзи Сундук
+
+TAG: DreamDust_DisplayName
+Свет мечты
+
+TAG: DreamDust_PluralDisplayName
+Свет мечты
+
+TAG: Dust_DisplayName
+Пыль
+
+TAG: Dust_PluralDisplayName
+Пыль
+
+TAG: Gem_DisplayName
+Лунный камень
+
+TAG: Gem_PluralDisplayName
+Лунные камни
+
+TAG: Heart_DisplayName
+Сердце
+
+TAG: Heart_PluralDisplayName
+Сердца
+
+TAG: Mist_DisplayName
+Множество
+
+TAG: Mist_PluralDisplayName
+Множество
+
+TAG: PixelDust_DisplayName
+Пыль
+
+TAG: PixelDust_PluralDisplayName
+Пыль
+
+TAG: ShardsBoo_DisplayName
+Осколки бу
+
+TAG: ShardsBoo_PluralDisplayName
+Осколки бу
+
+TAG: ShardsBoPeep_DisplayName
+Осколки Бо-Пип
+
+TAG: ShardsBoPeep_PluralDisplayName
+Осколки Бо-Пип
+
+TAG: ShardsMickeyMouse_DisplayName
+Микки Маус Осколки
+
+TAG: ShardsMickeyMouse_PluralDisplayName
+Микки Маус Осколки
+
+TAG: ShardsMinnieMouse_DisplayName
+Минни Маус Осколки
+
+TAG: ShardsMinnieMouse_PluralDisplayName
+Минни Маус Осколки
+
+TAG: ShardsOlaf_DisplayName
+Олаф Осколки
+
+TAG: ShardsOlaf_PluralDisplayName
+Олаф Осколки
+
+TAG: ShardsRafiki_DisplayName
+Осколки Рафики
+
+TAG: ShardsRafiki_PluralDisplayName
+Осколки Рафики
+
+TAG: ShardsShank_DisplayName
+Осколки голяшки
+
+TAG: ShardsShank_PluralDisplayName
+Осколки голяшки
+
+TAG: StarCoin_DisplayName
+Звёздная оболочка
+
+TAG: StarCoin_PluralDisplayName
+Звёздные койки
+
+TAG: StorybookMagic_DisplayName
+Волшебство истории
+
+TAG: StorybookMagic_PluralDisplayName
+Волшебство истории
+
+TAG: Ticket_DisplayName
+Билеты
+
+TAG: Ticket_PluralDisplayName
+Билеты
+
+TAG: Transmute!AncientPart_DisplayName
+{Placeholder}AncientPart_ Валюта
+
+TAG: Transmute!AncientPart_PluralDisplayName
+Древние части
+
+TAG: Transmute!Core_DisplayName
+{Placeholder}Core_ Валюта
+
+TAG: Transmute!Core_PluralDisplayName
+Коры
+
+TAG: Transmute!Gift_DisplayName
+{Placeholder}Gift_ валюта
+
+TAG: Transmute!Gift_PluralDisplayName
+Подарки
+
+TAG: Transmute!Shard_DisplayName
+{Placeholder}Sard_ Валюта
+
+TAG: Transmute!Shard_PluralDisplayName
+Осколки
+
+TAG: WishToken_DisplayName
+Пожелай Токена
+
+TAG: WishToken_PluralDisplayName
+Пожелай токенов
+

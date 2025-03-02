@@ -1,0 +1,18 @@
+TAG: Goofy_000_f
+Hey there, {PlayerName}! Want an apple? They're on sale!
+
+TAG: Goofy_004_f
+No time for apples... Someone's planning to steal a <ActivityItem>Scroll</ActivityItem> from Scrooge McDuck!
+
+TAG: Goofy_001_f
+Yikes! We gotta go warn Uncle Scrooge!
+
+TAG: Goofy_005_f
+He's counting his money today, so it'll be hard to get his attention.
+
+TAG: Goofy_003_f
+But this is important, so I'll make sure I do!
+
+TAG: Goofy_002_f
+Gawrsh, I warned him, but Uncle Scrooge didn't seem too worried. Guess having you around, {PlayerName}, makes everybody feel better.
+

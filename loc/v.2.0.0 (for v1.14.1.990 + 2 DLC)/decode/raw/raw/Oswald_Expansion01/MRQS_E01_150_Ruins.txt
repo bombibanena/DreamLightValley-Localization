@@ -1,0 +1,84 @@
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Any_CompletedRequestDescription
+Return to Merlin with the pictures.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_AvailableDescription
+Merlin is hard at work trying to uncover anything he can about the Spark of Imagination.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_CompletedStoryDescription
+After investigating the ruins, you realize that you're going to need a little help from your friends to get to the Spark of Imagination.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_DisplayName
+The Sunken Ruins
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group01_Step01_Conditional01_StepDescription
+Merlin is deep in his research. Wait a bit before speaking to him.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group02_Step02_VisitArea01_StepDescription
+Meet with Merlin in his Library.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group03_Step03_TalkToCharacter01_StepDescription
+Talk to Merlin.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group04_Step04_Possess01_StepDescription
+In the Moana, Ratatouille or WALLÂ·E Realms.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group04_Step04_Possess02_StepDescription
+In Dreamlight Valley where Villagers first arrive from Realms.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group04_Step04_Possess03_StepDescription
+On Eternity Isle, in a similar place.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group04_StepDescription
+Find <ActivityItem>Flickers</ActivityItem> using your Hourglass:
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group05_Step05_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group05_Step05_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group05_Step05_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group05_Step05_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group05_Step05_ReadyDescription
+Bring all the <ActivityItem>Flickers</ActivityItem> to Merlin.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group05_Step05_StepDescription
+Make sure you have the <ActivityItem>Flickers</ActivityItem> in your Inventory.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group06_Step06_VisitArea02_StepDescription
+Return to Eternity Isle with Merlin.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group07_Step07_FollowCharacter01_StepDescription
+Follow Merlin to the Ancient Ruins.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group07_Step07_FollowCharacter01_TalkToDescription
+Talk to Merlin.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group08_Step08_VisitArea03_StepDescription
+Enter the Ancient Ruins.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group08_StoryDescription
+With the help of your Hourglass, you restore the entrance to the Ancient Ruins. Now you must venture inside.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group09_Step09_TalkToCharacter02_StepDescription
+Talk to Merlin in the <ActivityItem>Ancient Ruins</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group10_Step10_StepDescription
+Take a picture of each chamber in the Ancient Ruins.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group10_Step10_TakePicture01_StepDescription
+A mysterious pedestal in the West Chamber.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group10_Step10_TakePicture02_StepDescription
+An ancient computer terminal in the North Chamber.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group10_Step10_TakePicture03_StepDescription
+A set of musical notes in the East Chamber.
+
+TAG: Story!Expansion01!MRQS_E01_150_Ruins_Group10_StoryDescription
+Within the Ancient Ruins, you find a mysterious trap door. The key to opening it must lie in the other chambers.
+

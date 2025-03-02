@@ -1,0 +1,33 @@
+TAG: Village!LionKing!VLG_Simb_010_Any_CompletedRequestDescription
+Return to Simba.
+
+TAG: Village!LionKing!VLG_Simb_010_AvailableDescription
+Simba thinks he might know one of the reasons the Forgetting started and brought on the Night Thorns. Everyone in the Valley is too worried. Perhaps embracing a little Hakuna Matata philosophy will help. He wants to start with you and your outfit.
+
+TAG: Village!LionKing!VLG_Simb_010_Group02_Step02_TalkToCharacter01_StepDescription
+Return to Simba.
+
+TAG: Village!LionKing!VLG_Simb_010_Group04_Step04_TalkToCharacter02_StepDescription
+Return to Simba.
+
+TAG: Village!LionKing!VLG_Simb_010_Group05_Step05_TalkToCharacter03_StepDescription
+Talk to Scrooge McDuck.
+
+TAG: Village!LionKing!VLG_Simb_010_Group06_Step06_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!VLG_Simb_010_Group07_Step07_Decorate02_StepDescription
+Place the {itemName} in the Meadow.
+
+TAG: Village!LionKing!VLG_Simb_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!LionKing!VLG_Simb_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!LionKing!VLG_Simb_010_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!LionKing!VLG_Simb_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

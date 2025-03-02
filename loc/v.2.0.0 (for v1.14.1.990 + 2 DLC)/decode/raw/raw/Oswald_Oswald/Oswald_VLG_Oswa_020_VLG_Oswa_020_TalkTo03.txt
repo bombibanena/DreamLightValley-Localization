@@ -1,0 +1,126 @@
+TAG: Oswald_002_f
+So chum, how'd ya like Olaf's story?
+
+TAG: Player_000_choice_000_f
+It was great!
+
+TAG: Player_000_choice_001_f
+Kinda reminded me of Pinocchio.
+
+TAG: Player_000_choice_002_f
+I'm feeling kinda sleepy now...
+
+TAG: Oswald_003_f
+It worked like a charm. All the clock tots are snoozin' off to dream land!
+
+TAG: Oswald_004_f
+Perfect!
+
+TAG: Oswald_005_f
+Okey-dokey then, I'll be offâ
+
+TAG: Oswald_006_f
+No, no, you wait here â we have things to discuss!
+
+TAG: Oswald_007_f
+Uh... We do?
+
+TAG: Oswald_008_f
+Your alarm clocks woke up a bunch of people. We can't just leave them to be sleep deprived!
+
+TAG: Oswald_009_f
+Gee, when ya put it that way...
+
+TAG: Player_002_choice_000_f
+Let me tell you which poor Villagers got woken up.
+
+TAG: Player_002_choice_001_f
+The Villagers are wandering around like zombies now!
+
+TAG: Oswald_001_f
+I saw Merlin looking so sleepy that he thought a capybara challenged him to a wizard duel!
+
+TAG: Oswald_014_f
+We woke folks up, so let's bring 'em each a cup o' joe!
+
+TAG: Player_001_choice_000_f
+Great idea!
+
+TAG: Player_001_choice_001_f
+What if they don't like coffee?
+
+TAG: Oswald_021_f
+Gaston actually said he was too tired for five dozen eggs and only ate four dozen when he went to Remy's.
+
+TAG: Oswald_022_f
+Scrooge McDuck thought he was back in Glasgow for a moment!
+
+TAG: Oswald_023_f
+And don't get me started on Rapunzel â she mixed blue and yellow paint together to try and get red!
+
+TAG: Oswald_024_f
+Yikes, that does sound serious!
+
+TAG: Oswald_010_f
+Yeah, we're doing an apology tour.
+
+TAG: Oswald_011_f
+Buckle up, Oswald; we need to go make amends.
+
+TAG: Oswald_012_f
+Any ideas?
+
+TAG: Oswald_013_f
+Lemme just get the ol' wheels turnin'... Hmm... I got it!
+
+TAG: Oswald_015_f
+I've got my own secret recipe for <ActivityItem>Strong Black (and White) Coffee</ActivityItem>.
+
+TAG: Oswald_017_f
+But I'll need some <ActivityItem>Coal<ActivityItem>, <ActivityItem>Pearls</ActivityItem>, and <ActivityItem>Oswaldian Garlic</ActivityItem>!
+
+TAG: Player_003_choice_000_f
+Coal, pearls, and garlic for coffee?!
+
+TAG: Player_003_choice_001_f
+I'm learning not to ask questions when it comes to you...
+
+TAG: Oswald_018_f
+None of those are COFFEE Ingredients.
+
+TAG: Oswald_027_f
+The coal's to get it nice and roasty, and the pearls are for servin' it up.
+
+TAG: Oswald_028_f
+Seems like there might be an easier way, but I'll go with you. Wait â what about the garlic?
+
+TAG: Oswald_029_f
+It's gotta be black and white, right? The coal is black and the garlic's white. Naturally!
+
+TAG: Oswald_019_f
+Why don't you just use milk for the white part?
+
+TAG: Oswald_030_f
+Aw, everybody knows milk in coffee just makes it brown. But garlic â that floats around for that nice dappled look!
+
+TAG: Oswald_020_f
+OK, I get you. This doesn't make regular-sense, but it does make Oswald-sense.
+
+TAG: Oswald_031_f
+I'll be back soon with the coffees!
+
+TAG: Oswald_032_f
+Great! Here's the garlic!
+
+TAG: Oswald_000_f
+It'll be aces; you'll see!
+
+TAG: Oswald_026_f
+My <ActivityItem>Black (and White) Coffee</ActivityItem> can't be beat!
+
+TAG: Oswald_016_f
+Oh, my coffee'll turn any tea-sipper into a cup o' joe chugger!
+
+TAG: Oswald_025_f
+Maybe they're just goin' for some restful strolls?
+

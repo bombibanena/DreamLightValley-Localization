@@ -1,0 +1,9 @@
+TAG: Remy_000_f
+You've outdone yourself again, {PlayerName}! This looks good enough to be served in any fine dining restaurant.
+
+TAG: Remy_001_f
+While you were busy with the main course, I made a <ActivityItem>Coconut Cake</ActivityItem> that I'm pretty certain will leave Scar too full to eat anybody.
+
+TAG: Remy_002_f
+Let's go give it to him together. Safety in numbers, right?
+

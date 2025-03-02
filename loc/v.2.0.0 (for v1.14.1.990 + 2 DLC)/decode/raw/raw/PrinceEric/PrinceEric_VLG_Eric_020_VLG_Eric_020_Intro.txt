@@ -1,0 +1,48 @@
+TAG: PrinceEric_009_f
+{PlayerName}, I could use your help solving a mystery that came up while I was being held captive by Ursula.
+
+TAG: Player_001_choice_000_f
+Yes. Tell me everything.
+
+TAG: Player_001_choice_003_f
+Some other time, sorry.
+
+TAG: PrinceEric_000_f
+While she had me in her little "garden," Ursula liked to taunt me with something.
+
+TAG: PrinceEric_010_f
+She said there was a way that Ariel wouldn't have to be torn between worlds anymore. That we could be together on land whenever we wanted.
+
+TAG: PrinceEric_002_f
+She said there's a kind of magic that would allow Ariel to change between human and mermaid.
+
+TAG: PrinceEric_001_f
+I've been looking in every book in Merlin's library, but I can't figure out what she was talking about. It must be Dreamlight Magic.
+
+TAG: Player_000_f
+Hmm. So it's all about changing shape... I should speak to Maui...
+
+TAG: Player_000_choice_000_f
+He's got a power like that.
+
+TAG: Player_000_choice_001_f
+He's been around a long time. I bet he's seen a lot of weird magic.
+
+TAG: Player_000_choice_002_f
+He's a demigod after all.
+
+TAG: PrinceEric_005_f
+Right! Maybe he can teach Ariel.
+
+TAG: PrinceEric_008_f
+Thanks, {PlayerName}. Come back and see me after you talk to him.
+
+TAG: PrinceEric_006_f
+Yeah, maybe he heard about something like this on one of his adventures.
+
+TAG: PrinceEric_007_f
+Yeah, he probably knows all about this sort of stuff.
+
+TAG: PrinceEric_004_f
+That's okay. I'll be here when you have the time.
+

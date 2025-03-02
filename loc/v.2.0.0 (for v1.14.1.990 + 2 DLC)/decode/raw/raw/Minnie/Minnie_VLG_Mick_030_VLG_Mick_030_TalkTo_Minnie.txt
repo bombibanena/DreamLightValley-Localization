@@ -1,0 +1,42 @@
+TAG: Minnie_000_f
+Hello! Can you hear me?
+
+TAG: Minnie_001_f
+Oh dear. I can't see you very well.
+
+TAG: Player_000_f
+Minnie!
+
+TAG: Player_000_choice_000_f
+Is that really you?
+
+TAG: Player_000_choice_001_f
+Where are you?
+
+TAG: Player_000_choice_002_f
+You need to get back here!
+
+TAG: Minnie_002_f
+It is! I'm here! Is Mickey there?
+
+TAG: Minnie_005_f
+Yoo-hoo!
+
+TAG: Minnie_008_f
+Mickey!
+
+TAG: Minnie_003_f
+I'm in an odd place with no color. It feels familiar, but so strange.
+
+TAG: Minnie_006_f
+Please tell Mickey I'm safe. Is he there? I can't see.
+
+TAG: Minnie_004_f
+I'm trying! But I don't think I can do it on my own.
+
+TAG: Minnie_009_f
+Whatever you're doing is helping, though.
+
+TAG: Minnie_007_f
+Is Mickey there? I really want to talk to him.
+

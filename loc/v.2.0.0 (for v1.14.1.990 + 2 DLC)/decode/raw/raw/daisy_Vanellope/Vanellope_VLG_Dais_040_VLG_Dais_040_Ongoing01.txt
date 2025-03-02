@@ -1,0 +1,9 @@
+TAG: Vanellope_000_f
+Hey, {PlayerName}, what's goin' on?
+
+TAG: Vanellope_001_f
+Daisy got your question in her Advice Box. I'm going to talk to Minnie about it.
+
+TAG: Vanellope_002_f
+... Okay? Knock yourself out, I guess.
+

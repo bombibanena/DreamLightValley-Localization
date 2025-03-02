@@ -1,0 +1,36 @@
+TAG: Hades_001_f
+Okay, that didn't go exactly how I planned...
+
+TAG: Hades_002_f
+But hey, learning from failure is an important part of becoming a better minion, am I right?
+
+TAG: Player_000_choice_000_f
+I'll try something else, boss!
+
+TAG: Player_000_choice_001_f
+Uh, not to be rude, but pulling that lever was YOUR idea.
+
+TAG: Player_000_choice_002_f
+I don't WANT to become a better minion.
+
+TAG: Hades_005_f
+Great! You got this.
+
+TAG: Hades_009_f
+Look, there's gotta be a way to fix this.
+
+TAG: Hades_003_f
+There's a few tons of leftover marble around from when I had that statue of myself built.
+
+TAG: Hades_004_f
+Think you could <Lore>use that marble to hold up the drawbridge</Lore>?
+
+TAG: Hades_006_f
+Yeah, I think our problem here is really an issue of execution.
+
+TAG: Hades_007_f
+Well, great. Because with that attitude...
+
+TAG: Hades_008_f
+...YOU NEVER WILL!
+

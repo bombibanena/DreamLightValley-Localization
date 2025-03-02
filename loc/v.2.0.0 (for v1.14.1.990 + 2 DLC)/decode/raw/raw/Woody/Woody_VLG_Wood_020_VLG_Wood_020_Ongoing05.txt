@@ -1,0 +1,6 @@
+TAG: Woody_000_f
+Hmm... According to this <ActivityItem>Fuse Box Blueprint</ActivityItem>, we'll need <ActivityItem>Glass</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, and an <ActivityItem>Iron Ingot</ActivityItem>.
+
+TAG: Woody_001_f
+Plus, you'll also need to go to the place where you first met WALLÂ·E to get <ActivityItem>Fuses</ActivityItem> and <ActivityItem>Electrical Components</ActivityItem>.
+

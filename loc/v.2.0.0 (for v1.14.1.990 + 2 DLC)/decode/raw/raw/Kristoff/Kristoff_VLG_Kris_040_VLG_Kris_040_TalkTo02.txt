@@ -1,0 +1,39 @@
+TAG: Kristoff_000_f
+My <ActivityItem>Sled</ActivityItem>'s out of the ice, but it took a lot of damage.
+
+TAG: Kristoff_001_f
+There's a crack in the side and the runners are all bent.
+
+TAG: Kristoff_009_f
+We'll fix it...
+
+TAG: Player_000_choice_000_f
+Don't worry.
+
+TAG: Player_000_choice_001_f
+I love the opportunity to tinker with a <ActivityItem>Sled</ActivityItem>.
+
+TAG: Player_000_choice_002_f
+Worst case scenario, we'll just burn it...
+
+TAG: Kristoff_002_f
+Thanks. I just paid it off at Scrooge McDuck's Store.
+
+TAG: Kristoff_004_f
+Oh... I bought a book that should help. It's called...
+
+TAG: Kristoff_005_f
+<ActivityItem>"Ice-cident: How to Fix Your Sled."</ActivityItem>
+
+TAG: Kristoff_008_f
+Could you grab it from my House? It's probably in the library. I'll start trying to fix this thing.
+
+TAG: Kristoff_003_f
+Thanks, {PlayerName}. But be careful. I just paid it off at Scrooge McDuck's Store.
+
+TAG: Kristoff_006_f
+You better be joking.
+
+TAG: Kristoff_007_f
+I just paid it off at Scrooge McDuck's Store.
+

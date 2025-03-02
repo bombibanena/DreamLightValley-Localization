@@ -1,0 +1,144 @@
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Any_CompletedRequestDescription
+Просмотр программы M.U.S.H.U. с Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_AvailableDescription
+У Мушу определённый взгляд в его глазах.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_CompletedStoryDescription
+Вы решили свериться с Мушу и посмотреть, насколько успешна, по его мнению, программа.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_DisplayName
+Программа M.U.S.H.U.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC} о программе M.U.S.H.U.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group01_StoryDescription
+Мушу говорит вам, что он хочет помочь Зверь стать более уверенным в специальной программе и просит вас принять участие.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group02_Step02_TalkToCharacter02_StepDescription
+Проверь с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group02_StoryDescription
+Зверь неохотно соглашается участвовать в программе Мушу, но только если вы присоединитесь к нему.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group03_Step03_TalkToCharacter03_StepDescription
+Качественные чернила из Белль.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group03_Step03_TalkToCharacter04_StepDescription
+Специальная бумага из Мулан.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group03_StepDescription
+Сбор материалов от деревенских жителей для Мушу:
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group04_Step04_BringItem01_StepDescription
+Специальная бумага.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group04_Step04_BringItem02_StepDescription
+Качественные чернила.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group04_Step04_ReadyDescription
+Принесите как чернила, так и бумагу {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group04_Step04_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Quality Ink</ActivityItem> и <ActivityItem> Specialty Paper</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group05_Step05_ConsumeItem01_StepDescription
+Откройте свой <ActivityItem>Ink Blot test</ActivityItem> из вашего списка.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group06_Step06_TalkToCharacter05_StepDescription
+Поговори с {TargetNPC} о твоём тесте на чернила.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group07_Step07_Decorate01_StepDescription
+Поместите <ActivityItem>the Зверь's Test</ActivityItem> возле его замка.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group08_Step08_Listen01_StepDescription
+Слушайте Мушу и Зверь обсуждайте испытание чернил.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group09_Step09_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC} о реакции Зверь на тест.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group10_Step10_Decorate02_StepDescription
+Поместите Мебель <ActivityItem>Old</ActivityItem> рядом с замком Зверь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group10_StoryDescription
+Для первой части программы, вы и Мушу собрали анализы "Инк Блот", чтобы понять, как думает Зверь. Зверь видит что-то грустное и темное в своем собственном тесте.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group11_Step11_TalkToCharacter07_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group12_Step12_RemoveBlocker01_StepDescription
+Уничтожить с ним несколько <ActivityItem>Old Мебель</ActivityItem> рядом с домом Зверь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group13_Step13_TalkToCharacter08_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group14_Step14_TalkToCharacter09_StepDescription
+Проверь с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group14_StoryDescription
+Зверь на самом деле наслаждается тем, что нарочно использует свою силу и разрушает мебель. Слегка ослабевает его настроение, он готов к следующей части программы.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group15_Step15_TalkToCharacter10_StepDescription
+Что-то от Дейзи.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group15_Step15_TalkToCharacter11_StepDescription
+Что-то от Стич.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group15_Step16_Possess01_StepDescription
+Старая одежда Зверь из <Lore>Beauty и Зверь Realm</Lore>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group15_StepDescription
+Соберите материалы Мушу от деревенских жителей:
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group15_StoryDescription
+Мушу просит вас собрать кое-какие припасы для заключительного этапа программы.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group16_Step17_CraftItem01_StepDescription
+Перевозка a <ActivityItem>Зверьly Mannekin</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group17_Step18_Decorate03_StepDescription
+Поместите <ActivityItem>Зверьly Mannekin</ActivityItem> рядом с домом Зверь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group18_Step19_Listen02_StepDescription
+Наблюдайте за тем, как Мушу играет роль в разговоре с Зверь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group19_StepDescription
+Поговори с Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group20_StepDescription
+Читайте <ActivityItem>Wonton Soup Recipe</ActivityItem> в вашем списке.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group20_StoryDescription
+Вы слушаете Мушу на ролевом сеансе Зверь, в котором Зверь понимает, как грубо он думает о себе. Мушу просит вас сделать успокаивающий суп Wonton, пока он утешает Зверь и дает ему ободряющую речь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group21_Step22_Possess02_StepDescription
+Яйца.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group21_Step22_Possess03_StepDescription
+Креветка.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group21_Step22_Possess04_StepDescription
+Пшеница.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group21_Step22_Possess05_StepDescription
+Лук.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group21_StepDescription
+Собирайте <ActivityItem>Wonton Soup</ActivityItem> Ingredients.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group22_Step23_CookMeal01_StepDescription
+Повар <ActivityItem>Wonton soups</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group23_Step24_ReadyDescription
+Принесите суп <ActivityItem>Wonton</ActivityItem> Зверь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group23_Step25_ReadyDescription
+Принесите другой суп <ActivityItem>Wonton</ActivityItem> на Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_Group23_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Wonton soups</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

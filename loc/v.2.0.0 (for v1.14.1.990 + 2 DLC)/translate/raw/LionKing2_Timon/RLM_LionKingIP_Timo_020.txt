@@ -1,0 +1,36 @@
+TAG: Realm!LionKing!Timon!RLM_LionKingIP_Timo_020_AvailableDescription
+{Placeholder} Некоторые рисунки старого друга Симба Рафики видны в королевстве.
+
+TAG: Realm!LionKing!Timon!RLM_LionKingIP_Timo_020_Group02_Step02_TalkToCharacter01_StepDescription
+Поговорите с {TargetNPC} о рисунках, которые вы нашли.
+
+TAG: Realm!LionKing!Timon!RLM_LionKingIP_Timo_020_StartRequestButton
+{Placeholder} Запрос запуска
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_DisplayName
+{Placeholder}Drawings?
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_Step01_TakePicture01_StepDescription
+{Placeholder} Рис. 01.
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_Step01_TakePicture02_StepDescription
+{Placeholder} Рис. 02.
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_Step01_TakePicture03_StepDescription
+{Placeholder} Рис. 03.
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_Step01_TakePicture04_StepDescription
+{Placeholder} Рисунок 04.
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_Step01_TakePicture05_StepDescription
+{Placeholder} Рис. 05.
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_Step01_TakePicture06_StepDescription
+{Placeholder} Рисунок 06.
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_Step01_TakePicture07_StepDescription
+{Placeholder} Рисунок 07.
+
+TAG: Realm!LionKing2!Timon!RLM_LionKingIP_Timo_020_Group01_StepDescription
+{Placeholder} Сфотографируйте все рисунки Рафики.
+

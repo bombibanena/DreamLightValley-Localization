@@ -1,0 +1,54 @@
+TAG: Moana_000_f
+Look, someone tried to open the coconuts but didn't manage to do it. I bet it's Pua!
+
+TAG: Player_000_choice_000_f
+Great news! Where did Pua go?
+
+TAG: Player_000_choice_001_f
+How do you know? It's just sand and <ActivityItem>Coconuts</ActivityItem>!
+
+TAG: Moana_001_f
+Not to the Beach, that's for sure.
+
+TAG: Moana_005_f
+Could you track Pua, and I'll stay in case my friend comes back here?
+
+TAG: Player_001_choice_000_f
+To find a pig, we must think like a pig. Oink!
+
+TAG: Player_001_choice_001_f
+I don't know where Pua could have gone...
+
+TAG: Moana_003_f
+That's smart, {playerName}. Pigs are good trackers!
+
+TAG: Moana_010_f
+Pua will be thirsty after trying to open all those coconuts... Try to find a place where Pua would feel safe that has plenty of fresh water.
+
+TAG: Player_003_f
+To get fresh water, I think Pua went to...
+
+TAG: Player_003_choice_000_f
+The Meadow.
+
+TAG: Player_003_choice_001_f
+The Forest.
+
+TAG: Player_003_choice_002_f
+The Swamp?
+
+TAG: Moana_007_f
+Yes, good idea! Please check there.
+
+TAG: Moana_008_f
+Hmm... maybe some place with more light but still close to the Beach. Remember, Pua's from Motunui too.
+
+TAG: Moana_009_f
+No, that would be too scary.
+
+TAG: Moana_004_f
+I do. Pua would've been thirsty after trying to open the coconuts... Look for a place where Pua would feel safe that has plenty of fresh water.
+
+TAG: Moana_002_f
+When you grow up with a pig, you know how to recognize the signs.
+

@@ -1,0 +1,18 @@
+TAG: Elsa_000_f
+О, они прекрасны.
+
+TAG: Elsa_005_f
+Вот.
+
+TAG: Elsa_002_f
+Что еще, по-твоему, нам нужно?
+
+TAG: Elsa_003_f
+Так как мы хотим сделать это на зиму, давайте добавим еще больше льда в смесь с <ActivityItem>Ice Chunks</ActivityItem> из ледяного каверна...
+
+TAG: Elsa_004_f
+<ActivityItem>Vial заморозить воду</ActivityItem> из Фростд Хайтс и несколько <ActivityItem>Snow</ActivityItem>, чтобы сделать ее еще более хладнокровной.
+
+TAG: Elsa_006_f
+Я сам возьму все и соберу <ActivityItem>Cold of Winter Polion</ActivityItem>.
+

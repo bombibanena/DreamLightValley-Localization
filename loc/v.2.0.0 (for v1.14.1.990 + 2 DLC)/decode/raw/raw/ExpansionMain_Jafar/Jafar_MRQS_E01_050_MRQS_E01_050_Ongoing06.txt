@@ -1,0 +1,6 @@
+TAG: Jafar_000_f
+Search Ancient's Landing for the pieces of the <ActivityItem>Ancient Sphere</ActivityItem>.
+
+TAG: Jafar_001_f
+Once you find them, you must repair the Sphere at a <ActivityItem>Crafting Station</ActivityItem>.
+

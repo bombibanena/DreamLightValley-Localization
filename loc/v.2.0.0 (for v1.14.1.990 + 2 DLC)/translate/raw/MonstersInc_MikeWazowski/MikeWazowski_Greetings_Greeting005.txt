@@ -1,0 +1,6 @@
+TAG: MikeWazowski_000_f
+Эй, {PlayerName}!
+
+TAG: Player_000_exit_000_f
+Простите, я не могу сейчас.
+

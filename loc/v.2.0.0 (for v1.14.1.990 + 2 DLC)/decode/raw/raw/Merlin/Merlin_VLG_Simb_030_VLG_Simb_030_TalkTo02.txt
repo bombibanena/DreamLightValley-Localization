@@ -1,0 +1,57 @@
+TAG: Merlin_001_f
+Ah, {PlayerName}, you look like you're in pursuit of knowledge. How may I be of assistance?
+
+TAG: Merlin_003_f
+I've found this room below the Sunlit Plateau with seeds in it and...
+
+TAG: Merlin_004_f
+The Herbalist Room! What marvelous news! Why, I'd forgotten all about it.
+
+TAG: Player_003_f
+I want to get something called the Dreamlight Tree Seed for Simba... But it's stuck in a machine inside that room.
+
+TAG: Player_003_choice_000_f
+I need your help. Please.
+
+TAG: Player_003_choice_001_f
+What does it all mean?
+
+TAG: Player_003_choice_002_f
+You're really good at understanding this nonsense...
+
+TAG: Merlin_008_f
+Not to worry, {PlayerName}.
+
+TAG: Merlin_015_f
+You'll need <ActivityItem>Blueberries</ActivityItem> and <ActivityItem>Dream Shards</ActivityItem> for the <ActivityItem>Potion of Growth</ActivityItem>. <ActivityItem>Orange Marsh Milkweed</ActivityItem> and <ActivityItem>Night Shards</ActivityItem> for the <ActivityItem>Potion of Dust</ActivityItem>. And an <ActivityItem>Empty Vial</ActivityItem> for each potion.
+
+TAG: Merlin_016_f
+Once you've prepared them, just place them in the proper spot in the Herbalist Room and the machine should do the rest for you.
+
+TAG: Merlin_009_f
+The room you stumbled upon is a fascinating part of our history. In the past, you used it to do experiments regarding the Valley's flora...
+
+TAG: Merlin_007_f
+You hid the room to keep the experiments safe from the prying eyes of those who might want to use them for nefarious purposes. Like Scar...
+
+TAG: Merlin_000_f
+You wanted to create a haven for the critters, and you chose Simba to watch over it.
+
+TAG: Merlin_002_f
+Using a cutting of the tree above the Well in the Plaza, and after a lot of trial and error, you managed to create a new plant called the <ActivityItem>Dreamlight Tree</ActivityItem>.
+
+TAG: Merlin_005_f
+That's all well and good, but how does it help us with our problem right now?
+
+TAG: Merlin_006_f
+Ah... The impatience of youth. I was just about to explain that part...
+
+TAG: Merlin_013_f
+Right now, the <ActivityItem>Dreamlight Tree Seed</ActivityItem> is... Well, let's say it's "slumbering." You'll need to awaken it so it can be planted anew.
+
+TAG: Merlin_014_f
+If I recall, you first gave life to it with two potions. The <ActivityItem>Potion of Growth</ActivityItem> and the <ActivityItem>Potion of Dust</ActivityItem>.
+
+TAG: Merlin_010_f
+Well, if it's nonsense, it's your nonsense! You have only your past self to blame for it. But there's no need to fret. I'll help you.
+

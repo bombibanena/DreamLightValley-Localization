@@ -1,0 +1,123 @@
+TAG: Premium!WallE!PRM_WallE_030_Any_CompletedRequestDescription
+Поговори с {TargetNPC}.
+
+TAG: Premium!WallE!PRM_WallE_030_AvailableDescription
+ВАЛЛ·И вернулся с новым планом. Устроим вечеринку!
+
+TAG: Premium!WallE!PRM_WallE_030_Group01_Step01_TalkToCharacter01_StepDescription
+{TargetNPC}.
+
+TAG: Premium!WallE!PRM_WallE_030_Group02_Step02_BringItem01_StepDescription
+{itemName}.
+
+TAG: Premium!WallE!PRM_WallE_030_Group02_Step02_ReadyDescription
+Принесите запрошенные вещи на {TargetNPC}.
+
+TAG: Premium!WallE!PRM_WallE_030_Group04_Step04_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Premium!WallE!PRM_WallE_030_Group05_Step05_TakePicture01_StepDescription
+Деревянный.
+
+TAG: Premium!WallE!PRM_WallE_030_Group06_Step06_TalkToCharacter04_StepDescription
+Принесите фотографии {TargetNPC}.
+
+TAG: Premium!WallE!PRM_WallE_030_Group07_Step07_TalkToCharacter05_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Premium!WallE!PRM_WallE_030_Group08_Step08_DressUp01_StepDescription
+Надень подарки <ActivityItem>ВАЛЛ·И</ActivityItem> и <ActivityItem>Мирабель</ActivityItem>.
+
+TAG: Premium!WallE!PRM_WallE_030_Group09_Step09_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Premium!WallE!PRM_WallE_030_Group10_Step10_Decorate01_StepDescription
+Поместите {itemName}, где вы украшены в лесу.
+
+TAG: Premium!WallE!PRM_WallE_030_Group11_Step11_Party01_StepDescription
+Вечеринка с {TargetNPC} и друзьями!
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_CompletedStoryDescription
+После установки фонографа ВАЛЛ·И вечеринка прошла без стычка!
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_DisplayName
+Закрепи свои вещи.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group01_Step01_StepDescription
+Поговорите с этими деревенскими жителями:
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group01_Step01_TalkToCharacter07_StepDescription
+{TargetNPC}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group01_StepDescription
+ВАЛЛ·И хочет устроить вечеринку!
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group02_Step02_BringItem02_StepDescription
+{itemName}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group02_Step02_BringItem03_StepDescription
+{itemName}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group02_Step02_StepDescription
+Убедитесь, что эти материалы включены в ваш список:
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group02_Step12_TalkToCharacter02_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group03_Step03_TalkToCharacter08_StepDescription
+Возвращайтесь на {TargetNPC}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group04_StoryDescription
+Задачи Мирабель и Вуди уже выполнены, но на самом деле вечеринке нужен кто-то веселый и глупый, чтобы помочь настроению.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group05_Step05_TakePicture02_StepDescription
+Сподвижник животных.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group05_Step05_TakePicture03_StepDescription
+Дом деревенских.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group05_Step05_TakePicture05_StepDescription
+Фруктовое дерево.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group05_StepDescription
+Сфотографируй свои любимые:
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group07_StoryDescription
+С Мирабель, Вуди и Гуфи все подтвердились для вечеринки, осталось всего несколько приготовлений...
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group08_Step13_Decorate02_StepDescription
+Путь к постановке танцпола.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group08_Step13_Decorate03_StepDescription
+Огни.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group08_Step13_Decorate04_StepDescription
+Традиционные награды.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group08_Step13_StepDescription
+Установите зону для танцев в лесу.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group10_StoryDescription
+Вечеринка почти готова к началу!
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group12_Step14_Possess01_StepDescription
+{itemName}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group12_Step14_Possess02_StepDescription
+{itemName}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group12_Step14_Possess03_StepDescription
+{itemName}.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group12_Step14_StepDescription
+Соберите эти материалы:
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group12_Step15_MineMineral02_StepDescription
+Разбейте все горные скалы в лесу.
+
+TAG: Premium!WallE!WallE!PRM_WallE_030_Group12_StoryDescription
+Вы на охоте за вечеринками, но Мирабель и Вуди оба нуждаются в помощи, прежде чем они смогут присутствовать на вечеринке ВАЛЛ·И.
+
+TAG: Premium!WallE!PRM_WallE_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,105 @@
+TAG: FairyGodMother_000_f
+{PlayerName}, how are you, my dear?
+
+TAG: FairyGodMother_001_f
+Quite well, thank you! I'm trying to help Mike Wazowski with something.
+
+TAG: FairyGodMother_002_f
+Well, that's very kind of you. What is Michael in need of?
+
+TAG: FairyGodMother_003_f
+He's looking for people that might be interested in learning comedy. How does that sound to you?
+
+TAG: FairyGodMother_004_f
+Oh my. Learning comedy? I'm not sure I'm really the comedic sort.
+
+TAG: FairyGodMother_005_f
+You never know. Sometimes you get surprised by a hidden talent!
+
+TAG: FairyGodMother_006_f
+I don't know...
+
+TAG: Player_001_choice_001_f
+What if I tell you a joke, and then you try to imagine yourself in my place?
+
+TAG: Player_001_choice_002_f
+No problem. You don't have to participate if you don't want to!
+
+TAG: FairyGodMother_026_f
+All right.
+
+TAG: Player_000_f
+Okay, I'll tell you...
+
+TAG: Player_000_choice_000_f
+...a knock-knock joke.
+
+TAG: Player_000_choice_001_f
+...a wordplay joke.
+
+TAG: Player_000_choice_002_f
+...a "chicken crossing the road" joke.
+
+TAG: FairyGodMother_023_f
+My magic is more about helping people achieve their dreams than making them laugh.
+
+TAG: FairyGodMother_024_f
+That's really sweet.
+
+TAG: FairyGodMother_025_f
+I'll head back to my task then, and let you keep on helping people with their hopes and dreams!
+
+TAG: FairyGodMother_007_f
+Knock knock!
+
+TAG: FairyGodMother_008_f
+Oh... what are you knocking on?
+
+TAG: FairyGodMother_009_f
+It's the setup for the joke â I'm knocking on the door that you're behind, and you need to answer.
+
+TAG: FairyGodMother_010_f
+Oh, how fun! May my door answer? Sometimes I like to enchant it to speak.
+
+TAG: FairyGodMother_011_f
+Uhhh, I guess? Your door needs to respond with "who's there?" for this kind of joke.
+
+TAG: FairyGodMother_012_f
+Fortunately, my enchanted doors can see, so they'll know that it's you that's knocking!
+
+TAG: FairyGodMother_013_f
+Okay, this isn't working the way I thought it would.
+
+TAG: FairyGodMother_022_f
+I understand, {PlayerName}. I suppose comedy isn't exactly my forte.
+
+TAG: FairyGodMother_014_f
+Why was six afraid of seven?
+
+TAG: FairyGodMother_015_f
+Oh dear, I hope seven wasn't being mean to six!
+
+TAG: FairyGodMother_016_f
+No, it's because seven eight nine!
+
+TAG: FairyGodMother_028_f
+Get it... seven ate nine?
+
+TAG: FairyGodMother_017_f
+I'm sorry, I don't follow.
+
+TAG: FairyGodMother_018_f
+A chicken crossing the road? If it's a busy road, that could be dangerous!
+
+TAG: FairyGodMother_019_f
+Well, it's something of a figurative road...
+
+TAG: FairyGodMother_020_f
+May I be in the joke to help the chicken cross safely?
+
+TAG: FairyGodMother_021_f
+Perhaps I could enchant a gourd into a carriage for the chicken!
+
+TAG: FairyGodMother_027_f
+That might be best, dear. I don't really consider myself a performer.
+

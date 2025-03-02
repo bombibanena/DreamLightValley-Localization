@@ -1,0 +1,33 @@
+TAG: Buzz_000_f
+Несито Тю Аюда!
+
+TAG: Player_000_choice_000_f
+О нет, ты застрял в испанском режиме!
+
+TAG: Player_000_choice_001_f
+Как ты себя чувствуешь, Базз Лайтер?
+
+TAG: Player_000_choice_002_f
+Нет!
+
+TAG: Buzz_001_f
+"Мея какао, y cuando despertè estaba atascado en modo espaèl!"
+
+TAG: Player_001_choice_000_f
+Может, Дональд Дак поможет?
+
+TAG: Player_001_choice_001_f
+Гуфи знает испанский?
+
+TAG: Player_001_choice_002_f
+Может, Белль поможет?
+
+TAG: Buzz_002_f
+Пато Дональд Дак? Пор супуэсто! { PlayerName }!
+
+TAG: Buzz_003_f
+Я не знаю, что делать, но я не знаю, что делать.
+
+TAG: Buzz_004_f
+Квизен un libro que puede explicar c &apos; 3mo revoir esta aflició3n. Gracias, colega, has sido de gran ayuda.
+

@@ -1,0 +1,48 @@
+TAG: Oswald_001_f
+What's the news, Oswald?
+
+TAG: Oswald_002_f
+How do, {PlayerName}...
+
+TAG: Oswald_003_f
+<i>*sigh*</i>
+
+TAG: Player_000_choice_000_f
+Gee, not a lot of energy there.
+
+TAG: Player_000_choice_001_f
+Oswald, are you feeling all right?
+
+TAG: Oswald_004_f
+Sorry, I ain't exactly feelin' copacetic today.
+
+TAG: Oswald_000_f
+That'd be swell! And I know a great recipe â lemme jot it down for ya!
+
+TAG: Oswald_006_f
+To be honest, I feel kinda strange.
+
+TAG: Oswald_007_f
+Oh? What's going on?
+
+TAG: Oswald_008_f
+I'm just kinda... empty. Like my bucket of Oswald-ness is rusty and dry.
+
+TAG: Oswald_009_f
+Are there Dreamlight flus that do that?
+
+TAG: Oswald_010_f
+Hmm, not that I know of.
+
+TAG: Oswald_011_f
+But we can't have you feeling like that! Why don't I fix you something that will stick to your ribs and get rid of that nasty hollow feeling?
+
+TAG: Oswald_012_f
+Aww, you're the bee's knees, {PlayerName}!
+
+TAG: Oswald_013_f
+I'll bring you some <ActivityItem>Poutine</ActivityItem> â that's a meal that will fill you up like no other!
+
+TAG: Oswald_005_f
+Nah, I been feelin' kinda off...
+

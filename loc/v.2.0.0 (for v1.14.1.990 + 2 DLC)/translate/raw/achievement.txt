@@ -1,0 +1,24 @@
+TAG: tab_title_collection
+Сбор
+
+TAG: tab_title_cooking
+Готовка
+
+TAG: tab_title_fishing
+Рыбный промысел
+
+TAG: tab_title_foraging
+Высадка
+
+TAG: tab_title_gardening
+Огородное хозяйство
+
+TAG: tab_title_mining
+Добыча полезных ископаемых
+
+TAG: tab_title_social
+Социальные
+
+TAG: tab_title_village
+Деревня
+

@@ -1,0 +1,12 @@
+TAG: Village!LionKing!VLG_Nala_010_Any_CompletedRequestDescription
+Return to Nala.
+
+TAG: Village!LionKing!VLG_Nala_010_AvailableDescription
+Nala has scouted the Village, and she thinks it's in need of some landscaping work to make it a better hunting ground for a lion.
+
+TAG: Village!LionKing!VLG_Nala_010_Group05_Step05_TalkToCharacter02_StepDescription
+Talk to Nala.
+
+TAG: Village!LionKing!VLG_Nala_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

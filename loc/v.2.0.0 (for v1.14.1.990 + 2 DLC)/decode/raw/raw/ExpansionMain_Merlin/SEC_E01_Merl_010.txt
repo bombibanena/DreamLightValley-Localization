@@ -1,0 +1,27 @@
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Any_CompletedRequestDescription
+Return to Merlin.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_CompletedStoryDescription
+You've recreated something from the past using the Timebending Table. It's time to return to Merlin and share the fruits of your experiment.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_DisplayName
+Village Project: Timeless Treasures
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group01_Step01_Decorate01_StepDescription
+Place the <ActivityItem>Timebending Table</ActivityItem> Merlin gave you anywhere on Eternity Isle.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_Step02_StepDescription
+(Use your Hourglass to search for the pieces you need!)
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_StepDescription
+Use the Timebending Table to craft any <ActivityItem>Furniture</ActivityItem>.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_StoryDescription
+Merlin gives you a Timebending Table and asks you to do some research by crafting something with it.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group03_Step03_TalkToCharacter01_StepDescription
+Talk to Merlin.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group03_StepDescription
+Merlin must know more about the magic of this Hourglass...
+

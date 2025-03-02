@@ -1,0 +1,63 @@
+TAG: Moana_002_f
+Hey Moana, I was wondering â do you recall having a picnic in the Glade of Trust with some of the other Villagers?
+
+TAG: Moana_003_f
+I'm trying to figure out the recipe of this mystery meal â and who cooked it â by talking to everyone who was there.
+
+TAG: Moana_009_f
+Merlin remembered that it had <ActivityItem>Enchanted Chili Peppers</ActivityItem>, and Mickey remembered that the recipe base was <ActivityItem>Rice</ActivityItem>.
+
+TAG: Moana_004_f
+Okay, just let me think...
+
+TAG: Moana_005_f
+I remember! It was delicious and different from anything I'd ever had on Motunui.
+
+TAG: Moana_006_f
+It was the <ActivityItem>Onions</ActivityItem>. They were... different.
+
+TAG: Moana_007_f
+Not really sweet, but they had this wonderful full flavor from being cooked down.
+
+TAG: Player_000_choice_000_f
+I'm not a big fan of onions.
+
+TAG: Player_000_choice_001_f
+That sounds quite tasty!
+
+TAG: Player_000_choice_002_f
+Who could have made that meal?
+
+TAG: Moana_001_f
+I know a lot of people who aren't. But trust me: When they're cooked like that, they're amazing!
+
+TAG: Moana_015_f
+Maybe it was how all the flavors were combined.
+
+TAG: Moana_016_f
+I bet you're right!
+
+TAG: Moana_008_f
+Well, that's everything. I think I'm ready to make this recipe!
+
+TAG: Moana_014_f
+Thanks, Moana. You were a big help!
+
+TAG: Moana_013_f
+Great, that's one more Ingredient down!
+
+TAG: Moana_017_f
+It was incredible! I hope you can track down the Ingredients. I'd love to try it again.
+
+TAG: Moana_018_f
+I wish I could remember...
+
+TAG: Moana_010_f
+Merlin remembered that it had <ActivityItem>Enchanted Chili Peppers</ActivityItem>.
+
+TAG: Moana_011_f
+Mickey remembered that the recipe had a base of <ActivityItem>Rice</ActivityItem>.
+
+TAG: Moana_012_f
+So far, you're the first person I've spoken to.
+

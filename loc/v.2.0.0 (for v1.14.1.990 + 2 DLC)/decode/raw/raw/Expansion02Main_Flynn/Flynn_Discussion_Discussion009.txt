@@ -1,0 +1,33 @@
+TAG: Flynn_000_f
+Well, there aren't a lot of restaurants where I come from. But I do know a place called the Snuggly Duckling.
+
+TAG: Flynn_001_f
+It's good for finding... ah, let's call them "business associates."
+
+TAG: Flynn_002_f
+But honestly, the food at Remy's is much better. How about you?
+
+TAG: Player_000_choice_000_f
+I love Chez Remy.
+
+TAG: Player_000_choice_001_f
+I love Tiana's Palace.
+
+TAG: Player_000_choice_002_f
+The Snuggly Duckling sounds cute.
+
+TAG: Flynn_003_f
+You can't go wrong with a chef like that. The rat is one impressive cook.
+
+TAG: Flynn_004_f
+Which is not a sentence I ever envisioned myself saying.
+
+TAG: Flynn_005_f
+Me too! Tiana's food is amazing. Beignets for me any day!
+
+TAG: Flynn_006_f
+It does have its own rancid charm.
+
+TAG: Flynn_007_f
+And you can't beat the cupcakes.
+

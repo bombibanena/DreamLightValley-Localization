@@ -1,0 +1,57 @@
+TAG: Hades_001_f
+Okay, signs are up and Tiana is working on the catering!
+
+TAG: Hades_002_f
+Good, good. Now let's talk entertainment.
+
+TAG: Hades_003_f
+Orpheus would normally be the go-to, but... we're not exactly on speaking terms at the moment.
+
+TAG: Player_000_choice_000_f
+Orpheus?
+
+TAG: Player_000_choice_001_f
+What about me?
+
+TAG: Player_000_choice_002_f
+What about some of the Villagers?
+
+TAG: Hades_004_f
+Big-time Greek musician. Really top of the charts. I was gonna break one of my cardinal rules for him. All he had to do was walk out of my Underworld without looking back. But could he? No.
+
+TAG: Hades_016_f
+All right, let's go!
+
+TAG: Hades_005_f
+Really, it's his own fault, but he insists on blaming me for what he lost.
+
+TAG: Hades_006_f
+No, I think we'll have to recruit one of the Villagers here.
+
+TAG: Hades_010_f
+They're always humming to themselves. Surely one of them knows a setlist suitable for my party?
+
+TAG: Hades_011_f
+I've been... observing and I have a few candidates lined up. But I'll need you to tag along, give me a second opinion, and help me convince them to perform if they don't jump at the opportunity.
+
+TAG: Hades_012_f
+Sure, who are we going to audition?
+
+TAG: Hades_013_f
+I wanna <Lore>talk to Mirabel and Eric</Lore>.
+
+TAG: Hades_014_f
+Her voice doesn't make me yearn to claw my ears off. It's... nice, peppy, not gonna steal my thunder.
+
+TAG: Hades_015_f
+And Eric... Well, that little flute of his does kinda make me nostalgic for the Greek double flute.
+
+TAG: Hades_007_f
+Uhh... No.
+
+TAG: Hades_008_f
+Look, for all I know you're a genius on the lyre, but this is for MY party, and we can't have you being the center of attention now, can we?
+
+TAG: Hades_009_f
+Wait â your magic doesn't let you read minds, does it? Actually, never mind. We'll circle back to that. Now, about the Villagers...
+

@@ -1,0 +1,69 @@
+TAG: MotherGothel_000_f
+Why, {PlayerName}, have you brought me a gift?
+
+TAG: MotherGothel_001_f
+Think of it as a little something from the Beast and me. Go on and take a look.
+
+TAG: MotherGothel_002_f
+...
+
+TAG: MotherGothel_003_f
+... Something on your mind, Mother Gothel?
+
+TAG: MotherGothel_004_f
+Hm? No. Nothing at all.
+
+TAG: Player_000_choice_000_f
+I think you're lying.
+
+TAG: Player_000_choice_001_f
+You haven't been... reflecting on anything?
+
+TAG: MotherGothel_005_f
+Really, dear. Now why would you say that?
+
+TAG: MotherGothel_006_f
+Perhaps something has caused you to see yourself in a new light?
+
+TAG: MotherGothel_007_f
+Ugh! You're behind the enchantment on that mirror, aren't you? What a horrific illusion you placed within it...
+
+TAG: MotherGothel_008_f
+It's a Mirror of True Seeing. Whatever you saw in it... is already deep within you.
+
+TAG: MotherGothel_009_f
+Impossible. You're lying.
+
+TAG: MotherGothel_010_f
+I'm not.
+
+TAG: MotherGothel_011_f
+I refuse to believe you. And I refuse to look at that... that thing a moment longer. If I promise never to bother with Belle again, will you get rid of that hideous mirror and leave me be?
+
+TAG: Player_001_choice_000_f
+You have to promise.
+
+TAG: Player_001_choice_001_f
+I think that could work.
+
+TAG: MotherGothel_012_f
+You swear you're going to leave the Beast and Belle alone now?
+
+TAG: MotherGothel_013_f
+*SIGH* Yes. But only if you stop with that awful enchantment...
+
+TAG: MotherGothel_014_f
+I'll move the mirror. But if you don't keep your word... I'll put it back.
+
+TAG: MotherGothel_015_f
+I never want to see that hideous illusion again. I promise that I will leave Belle and the Beast be. Since they OBVIOUSLY can't handle a little teasing...
+
+TAG: MotherGothel_016_f
+Had I known the Beast was capable of such subterfuge, I would have been more careful. I'm... almost impressed.
+
+TAG: MotherGothel_017_f
+Well, I'll let you mull over that revelation. Bye for now â be good!
+
+TAG: MotherGothel_018_f
+No, I... Wait. Reflecting?
+

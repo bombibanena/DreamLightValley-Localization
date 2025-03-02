@@ -1,0 +1,120 @@
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Any_CompletedRequestDescription
+Поговори с Мулан о ее новой области обучения.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_AvailableDescription
+Найдите Мулан', ей нужно поговорить с вами.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_CompletedStoryDescription
+Ты помогаешь Мулан понять, что она может повеселиться в своём образе OWN, и познакомишь ее со своей собственной тренировкой в Виллидже.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_DisplayName
+Искусство веселья
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group01_Step01_PickUp01_StepDescription
+Желтый.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group01_Step01_PickUp02_StepDescription
+Синий.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group01_Step01_PickUp03_StepDescription
+Красный.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group01_Step01_StepDescription
+Собирайте цветы в следующих цветах:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group02_Step02_BringItem01_StepDescription
+Желтый.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group02_Step02_BringItem02_StepDescription
+Синий.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group02_Step02_BringItem03_StepDescription
+Красный.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group02_Step02_ReadyDescription
+Принесите цветы, которые вы выбрали Мулан.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group02_Step02_StepDescription
+Убедитесь, что у вас в списке есть следующие цвета цветов:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group02_StoryDescription
+Мулан говорит, что Мушу тренировал ее, что ей нужно больше веселья.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant01_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant02_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant03_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant04_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant05_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group03_Step03_StepDescription
+Посадить следующие культуры:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group03_StoryDescription
+После того, как Мулан придумала стратегические планы в отношении цветов, она чувствует, что ей не удалось снова развлечься. Вы предлагаете садоводство в качестве еще одного веселого хобби и собираетесь выращивать огород.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group05_Step05_TalkToCharacter01_StepDescription
+Поговори с Мулан о новом саду.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group06_Step06_StepDescription
+Поговори с Мушу.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group06_StoryDescription
+После разговора о садоводстве, он превращается в разговор о пайках и целях, Мулан просит вас поговорить с Мушу о более забавных идеях.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group07_Step07_StepDescription
+Соберите следующие материалы:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group08_Step08_StepDescription
+Немного <ActivityItem>Wooden Training Dummies</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group09_Step09_ReadyDescription
+Возьмите <ActivityItem>Wooden Training Dummies</ActivityItem> на Мушу.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group09_Step09_StepDescription
+Убедитесь, что в вашем списке есть тренировочный курс <ActivityItem>Wooden</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate01_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate02_StepDescription
+{itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate03_StepDescription
+<ActivityItem>Pale Wood Fence</ActivityItem>.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate04_StepDescription
+Внешняя мебель.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group10_Step10_StepDescription
+Сделать учебный участок для Мулан с использованием:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group10_StoryDescription
+Мушу предлагает построить тренировочную зону для Мулан. Вы строите деревянные тренировочные манекены, пока он собирает вещи.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_Group11_Step11_Party01_StepDescription
+Отпразднуем новую тренировочную зону Мулан.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,54 @@
+TAG: Raven_000_f
+*Сквак*Кто ты?
+
+TAG: Raven_001_f
+*Ски-вааак*ДЖАФАР?
+
+TAG: Player_000_choice_000_f
+Нет, я {PlayerName}.
+
+TAG: Player_000_choice_001_f
+Зависит от того, кто ты?
+
+TAG: Player_000_choice_002_f
+Я правитель долины Мечты и острова Вечности, так что помоги мне!
+
+TAG: Raven_002_f
+*bwaakkkk*{PlayerName}?
+
+TAG: Raven_011_f
+Ключ, он мне нужен, как его достать?
+
+TAG: Raven_014_f
+Полегче.*Сквак*
+
+TAG: Raven_012_f
+Покорми меня.*Сквак*
+
+TAG: Raven_003_f
+Приятно познакомиться!
+
+TAG: Raven_004_f
+*bwaaak*Я раздражаю Нерв!
+
+TAG: Raven_005_f
+Раздражающая Напряжение?
+
+TAG: Raven_006_f
+*Сквак*Как Джафар называет меня.
+
+TAG: Raven_007_f
+Говорит мне, что делать.
+
+TAG: Raven_008_f
+Что он хочет, чтобы ты сделал?
+
+TAG: Raven_009_f
+*bwaakk*Помогите с экспериментами.
+
+TAG: Raven_010_f
+Как блестящий <ActivityItem>key</ActivityItem>...
+
+TAG: Raven_013_f
+*bwaak*Если ты мне поможешь!
+

@@ -1,0 +1,54 @@
+TAG: Donald_000_f
+Oh! Now I remember!
+
+TAG: Donald_007_f
+Before the Forgetting, I did ALL the planning for the Village. I came up with lots of super-genius special projects.
+
+TAG: Player_000_choice_000_f
+You'd be great at that! You've got a big imagination.
+
+TAG: Player_000_choice_001_f
+Er... no offense, but that's a little surprising.
+
+TAG: Donald_001_f
+You bet I do! And it's fun to think of stuff to help the Village.
+
+TAG: Donald_004_f
+Before the Forgetting, I was planning something big. Something huge! Something stupendous!
+
+TAG: Donald_008_f
+But then the Night Thorns started to show up everywhere, and I forgot it all.
+
+TAG: Donald_005_f
+I hid everything I needed to make my ideas in <ActivityItem>Time Capsules</ActivityItem> all over the Village.
+
+TAG: Donald_006_f
+But now I don't remember where I hid them... or what I was trying to build.
+
+TAG: Donald_002_f
+I gotta find more of 'em! Thanks for all your help, {PlayerName}.
+
+TAG: Player_001_choice_000_f
+Any time, Donald!
+
+TAG: Player_001_choice_001_f
+Just don't get so mad next time.
+
+TAG: Player_001_choice_002_f
+We better not ask Mr. McDuck for help again.
+
+TAG: Donald_010_f
+Awww.
+
+TAG: Donald_011_f
+You're right. I'll try to control my temper.
+
+TAG: Donald_012_f
+Oh, he just bellyaches a lot. Uncle Scrooge always helps when it counts.
+
+TAG: Donald_003_f
+You're a little... impulsive. I don't think of you as much of a planner.
+
+TAG: Donald_009_f
+Hey, I've got great ideas! It's just... sometimes I need help making them happen.
+

@@ -1,0 +1,48 @@
+TAG: Olaf_000_f
+That's it! That's what's missing from the Village!
+
+TAG: Olaf_001_f
+Stories! Before the Forgetting, I was the <Lore>Official Village Storyteller</Lore>!
+
+TAG: Olaf_002_f
+That's how I brought joy to the Village.
+
+TAG: Olaf_003_f
+And there used to be a great big stage in the Frosted Heights...
+
+TAG: Olaf_004_f
+...and everyone would gather around it, and we'd put on plays!
+
+TAG: Olaf_005_f
+There isn't any stage in the Frosted Heights. It must have been destroyed during the Forgetting...
+
+TAG: Olaf_006_f
+Oh... how sad.
+
+TAG: Player_000_f
+Don't be sad! We'll build a new stage.
+
+TAG: Player_000_choice_000_f
+It'll be just as good as the old one.
+
+TAG: Player_000_choice_001_f
+It'll be EVEN BETTER than the old one!
+
+TAG: Player_000_choice_002_f
+It probably won't be as nice as the old one... but I'll do my best.
+
+TAG: Olaf_007_f
+We will? Thank you! And I even think I remember how we built the old stage...
+
+TAG: Olaf_008_f
+We used some <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, and <ActivityItem>Rope</ActivityItem>...
+
+TAG: Olaf_009_f
+I wonder where we got the <ActivityItem>Curtain</ActivityItem> though...
+
+TAG: Olaf_010_f
+I know someone who could help us with that. Minnie! She's great at all sorts of creative things.
+
+TAG: Olaf_011_f
+Okay! Let's gather everything up, make the stage, and start telling stories again!
+

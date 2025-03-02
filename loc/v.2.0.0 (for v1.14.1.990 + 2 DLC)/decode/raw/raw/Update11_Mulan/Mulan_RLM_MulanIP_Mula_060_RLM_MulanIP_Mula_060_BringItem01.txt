@@ -1,0 +1,42 @@
+TAG: Mulan_001_f
+What are these?
+
+TAG: Mulan_003_f
+Where did you find them, {PlayerName}?
+
+TAG: Mulan_004_f
+Here and there, during my training. Do you know what they are?
+
+TAG: Mulan_005_f
+I do. That's one of the <ActivityItem>Fans</ActivityItem> I had when I helped save the Emperor.
+
+TAG: Mulan_006_f
+And that's one of the <ActivityItem>Circular Weights</ActivityItem> I trained with. It helped me show Captain Shang I was serious about being a soldier... And Mushu used the <ActivityItem>Bamboo Snorkel</ActivityItem> when he tried to... help me with fishing.
+
+TAG: Player_000_choice_000_f
+So many memories!
+
+TAG: Player_000_choice_001_f
+Do you want to keep them?
+
+TAG: Player_000_choice_002_f
+Did Mushu help you cheat at fishing?
+
+TAG: Mulan_007_f
+You're right. And good memories too.
+
+TAG: Mulan_010_f
+I'd be honored if you'd display them in your House.
+
+TAG: Mulan_012_f
+Here, {PlayerName}. It'll be a fun reminder that you and I share the same kind of training.
+
+TAG: Mulan_008_f
+No, I think I'd rather have you keep them safe for me.
+
+TAG: Mulan_009_f
+I was falling behind. Not our best moment... Eventually I learned how to work on my own.
+
+TAG: Mulan_011_f
+These are important pieces of my story... Would you keep them safe?
+

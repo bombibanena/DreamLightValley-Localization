@@ -1,0 +1,42 @@
+TAG: Village!LionKing!Nala!VLG_Nala_020_CompletedStoryDescription
+Вместе вы и Нала обнаруживаете, что разрывы в реальности между Dreamlight Valley и Three и Three. Урсула обещает помочь исправить их, но ей нужно некоторое время. Осталось только проверить с Нала и посмотреть, как она себя чувствует.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_DisplayName
+Рыбный бизнес
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group02_Step02_ReadyDescription
+Показать <ActivityItem>Lioness Statue</ActivityItem> и фотографию Нала.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group02_Step02_StepDescription
+Соберите <ActivityItem>Lioness Statue</ActivityItem> на черепной скале возле пляжа Даззл.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group02_StoryDescription
+Вы нашли странную статую, похожую на Нала, полузакопанную в песке.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group03_Step03_Possess01_StepDescription
+Глэйд доверия.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group03_StepDescription
+Поиск более похороненного <ActivityItem>Lioness Statues</ActivityItem> около мистических рифов в:
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group04_StoryDescription
+Похоже, что-то сбежало от разлома и напугало Гуфи.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group06_StoryDescription
+В океане рядом с мистическим разломом, вы ловите уродливую рыбу, которая блестит и светится, и кажется, поймана на полпути отсюда и туда...
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group07_StoryDescription
+С темной магией и странными морскими существами вы и Нала решили проконсультироваться с экспертом: Урсула.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group08_Step08_Possess03_StepDescription
+Соберите полусобранный <ActivityItem>Lioness Statue</ActivityItem> на черепной скале недалеко от Даззл-Бич.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group08_Step08_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Lioness Statues</ActivityItem> и <ActivityItem>Weird Fish</ActivityItem>.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group09_Step09_TakePicture01_StepDescription
+Сфотографируй странный <Lore>Mystical Rift</Lore>, чтобы показать Нала.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group09_StepDescription
+Что-то только начало блестеть в воде прямо у Черепа...
+

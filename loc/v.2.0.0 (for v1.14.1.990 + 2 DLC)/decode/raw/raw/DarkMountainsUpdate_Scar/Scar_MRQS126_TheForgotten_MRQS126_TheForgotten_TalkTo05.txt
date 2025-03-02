@@ -1,0 +1,84 @@
+TAG: Scar_000_f
+Ahh... At last. You're the only one here who's not a complete fool.
+
+TAG: Player_000_choice_000_f
+Aw! Thanks! You're not such a fool yourself.
+
+TAG: Player_000_choice_001_f
+I'm not falling for it, Scar.
+
+TAG: Player_000_choice_002_f
+What do you want?
+
+TAG: Scar_001_f
+I'm humbled by your underwhelming compliment.
+
+TAG: Scar_005_f
+Now then, I've a small question to ask you...
+
+TAG: Scar_006_f
+It seems to me that those of us who are wise, strong, and cunning should take up the mantle of leadership.
+
+TAG: Player_001_choice_000_f
+Yes. I agree.
+
+TAG: Player_001_choice_001_f
+That sounds a bit... evil?
+
+TAG: Player_001_choice_002_f
+I don't want to rule over anything...
+
+TAG: Scar_007_f
+Oh, you are ever so wise...
+
+TAG: Scar_018_f
+<Forgotten>(Is he trying to trick me...? Like Mother Gothel did?)</Forgotten>
+
+TAG: Scar_019_f
+<Forgotten>(I can't trust him...)</Forgotten>
+
+TAG: Scar_020_f
+<Forgotten>(But I can't trust MERLIN either...)</Forgotten>
+
+TAG: Scar_021_f
+I'll do it. I'll get that Orb out of the Pillar.
+
+TAG: Scar_022_f
+I knew you'd see reason. If it were me, I'd start by <Lore>destroying the hideous flowers</Lore> scattered about. I never have cared for them...
+
+TAG: Scar_010_f
+Unfortunately, there's one minor inconvenience stopping us from assuming power.
+
+TAG: Scar_011_f
+It's that... that monstrosity there, near the end of the river.
+
+TAG: Scar_012_f
+You mean... the Pillar and the Orb of Nurturing?
+
+TAG: Scar_013_f
+Precisely. The windbag with the white mane spends hours examining it, playacting as if he's trying to understand its power.
+
+TAG: Scar_014_f
+But I'm certain it's there to watch over us. To keep us in our place, as it were.
+
+TAG: Scar_015_f
+I... I guess we could tear the Orb out... like I tore out the one in the Glade of Trust...
+
+TAG: Scar_016_f
+Precisely. And that's just what I've tried.
+
+TAG: Scar_017_f
+But it seems to feed off the nature around it. If only someone could injure the flora and fauna â temporarily, of course â perhaps you'd be able to destroy it.
+
+TAG: Scar_008_f
+Ugh. Good, evil... ridiculous distinctions that pompous windbag with the shaggy white mane put in your head.
+
+TAG: Scar_009_f
+Only because you haven't seen the good I â er, you â could do.
+
+TAG: Scar_002_f
+Oh, {PlayerName}, you wound me. My intentions are honorable. I promise.
+
+TAG: Scar_003_f
+Manners, {PlayerName}. Churlishness is far from endearing.
+

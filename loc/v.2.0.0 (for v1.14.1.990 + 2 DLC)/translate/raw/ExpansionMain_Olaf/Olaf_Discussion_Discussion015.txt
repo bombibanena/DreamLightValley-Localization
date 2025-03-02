@@ -1,0 +1,120 @@
+TAG: Olaf_000_f
+{Placeholder}Great, мы так веселимся вместе!
+
+TAG: Player_000_choice_000_f
+{Placeholder} Это потрясающе!
+
+TAG: Player_000_choice_001_f
+{Placeholder} Это сюрприз...
+
+TAG: Olaf_001_f
+{Placeholder}, не так ли?
+
+TAG: Olaf_002_f
+{Placeholder}D он сказал тебе это сказать?
+
+TAG: Olaf_003_f
+Он сказал мне, что я должна быть тихой большую часть времени.
+
+TAG: Olaf_004_f
+{Placeholder} Разве это не смешная шутка?
+
+TAG: Olaf_005_f
+{Placeholder}Oky, думаю, мне нужно поговорить с ним...
+
+TAG: Olaf_006_f
+{Placeholder} Чем вы занимались вместе?
+
+TAG: Olaf_007_f
+{Placeholder} Мы работали вместе!
+
+TAG: Olaf_008_f
+{Placeholder} Он сказал, что у меня есть руки и что мне нужно накачать кокосы.
+
+TAG: Player_001_choice_000_f
+{Placeholder}D Тебе понравилась тренировка?
+
+TAG: Player_001_choice_001_f
+{Placeholder} Он может быть прав...
+
+TAG: Player_001_choice_002_f
+{Placeholder}D вы получили какую-нибудь прибыль?
+
+TAG: Olaf_009_f
+{Placeholder}I... он назвал это приседанием?
+
+TAG: Olaf_010_f
+{Placeholder} Похоже, что мои внутренности обнимали меня тепло!
+
+TAG: Olaf_011_f
+Но {Placeholder} One вещь...
+
+TAG: Olaf_012_f
+{Placeholder} Что делает"день ножки"Гастон сказал, что у меня могут быть проблемы с этим.
+
+TAG: Player_002_choice_000_f
+{Placeholder} Не волнуйся об этом.
+
+TAG: Player_002_choice_001_f
+{Placeholder} Просто думай об этом как"День ног."
+
+TAG: Olaf_013_f
+{Placeholder}Oky!
+
+TAG: Olaf_014_f
+{Placeholder} Понял!
+
+TAG: Olaf_015_f
+{Placeholder} Может, мне стоит найти более толстые палочки для моих рук...
+
+TAG: Olaf_016_f
+{Placeholder}I получил еще большее желание получить объятие Гастон!
+
+TAG: Olaf_017_f
+{Placeholder}I люблю сюрпризы!
+
+TAG: Olaf_018_f
+{Placeholder}Well, сначала мне было грустно, что я потерял...
+
+TAG: Player_003_choice_000_f
+{Placeholder} Не грусти, Олаф!
+
+TAG: Player_003_choice_001_f
+{Placeholder} Вы не можете выиграть их все...
+
+TAG: Olaf_019_f
+{Placeholder}I понял кое-что, хотя я могу быть всем помощником!
+
+TAG: Player_004_choice_000_f
+{Placeholder}I... Наверное?
+
+TAG: Player_004_choice_001_f
+{Placeholder} Как это работает?
+
+TAG: Player_004_choice_002_f
+{Placeholder}Sure, никто не может помешать тебе быть полезным!
+
+TAG: Olaf_020_f
+{Placeholder}I помогал Гастон и многим другим!
+
+TAG: Olaf_021_f
+{Placeholder}I люблю думать о себе, как о сообщнике ВСЕХ Древних Лайт Вэлли.
+
+TAG: Player_005_choice_000_f
+{Placeholder}Олаф, ты слишком милый.
+
+TAG: Player_005_choice_001_f
+{Placeholder} Продолжайте делать хорошую работу!
+
+TAG: Player_005_choice_002_f
+{Placeholder} Я надеюсь, что люди ценят твою работу!
+
+TAG: Olaf_022_f
+{Placeholder} Так сказал Минни Маус!
+
+TAG: Olaf_023_f
+{Placeholder} Таков план!
+
+TAG: Olaf_024_f
+Даже Гастон я уверен, хотя он этого не сказал...
+

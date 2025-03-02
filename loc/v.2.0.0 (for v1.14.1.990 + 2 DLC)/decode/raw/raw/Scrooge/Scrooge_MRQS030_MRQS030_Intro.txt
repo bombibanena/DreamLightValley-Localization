@@ -1,0 +1,141 @@
+TAG: Scrooge_008_f
+Oh-ho! You gave me quite a start!
+
+TAG: Scrooge_001_f
+Don't you know never to sneak up on someone while he's contemplating his investments?!
+
+TAG: Player_001_f
+Oh! I'm {PlayerName} and...
+
+TAG: Player_001_choice_000_f
+You're Scrooge McDuck!
+
+TAG: Player_001_choice_001_f
+I'm here to help.
+
+TAG: Player_001_choice_002_f
+You don't have to yell at me.
+
+TAG: Scrooge_010_f
+Aye, that I am. You must keep up with the business news.
+
+TAG: Scrooge_009_f
+Though my business is in a sorry state these days. Just look at my shop!
+
+TAG: Player_000_choice_000_f
+The whole Village is in a sorry state!
+
+TAG: Player_000_choice_001_f
+It's not so bad...
+
+TAG: Player_000_choice_002_f
+How did it get like this?!
+
+TAG: Scrooge_019_f
+That may be. But you cannae be hopeless about it. A true visionary sees opportunity around every corner!
+
+TAG: Scrooge_005_f
+After the sky went dark, most of the Villagers skedaddled.
+
+TAG: Scrooge_031_f
+And fewer and fewer clients came in until they stopped altogether... But I cannae remember where they all went.
+
+TAG: Scrooge_033_f
+I know I stayed to take care of my shop... and my money, of course!
+
+TAG: Scrooge_032_f
+Then... Hmm... Oh yes, the Night Thorns blocked me in... and... I cannae remember much after that.
+
+TAG: Scrooge_021_f
+But like light glittering off gold, I'm starting to remember how the Village used to be, and all its investment opportunities!
+
+TAG: Player_000_choice_003_f
+Life's about more than money.
+
+TAG: Player_000_choice_004_f
+I'd like to get in on this investment!
+
+TAG: Player_000_choice_005_f
+I just want to help the Village.
+
+TAG: Scrooge_006_f
+Aye! Of course, of course.
+
+TAG: Scrooge_007_f
+You cannae forget treasure!
+
+TAG: Scrooge_014_f
+Oh boy...
+
+TAG: Scrooge_013_f
+I've got a deal for you, {PlayerName}...
+
+TAG: Scrooge_004_f
+If you <Lore>help me make enough Star Coins</Lore> to put my shop back in business...
+
+TAG: Scrooge_028_f
+...I'll make sure it's stocked with everything needed to put the Valley back together!
+
+TAG: Scrooge_000_f
+I see you've already helped Goofy get back in business.
+
+TAG: Scrooge_030_f
+That was kind of you. I'm very fond of the lad, but he doesn't exactly have a mind for money.
+
+TAG: Scrooge_035_f
+When you're ready to invest in my grand reopening, you'll <Lore>find my sign next to my shop.</Lore>
+
+TAG: Scrooge_027_f
+Goofy used to have a <Lore>Stall in the Meadow to the south</Lore>.
+
+TAG: Scrooge_015_f
+I'm sure he'd appreciate any help you can give him. The lad doesn't exactly have a mind for money.
+
+TAG: Scrooge_025_f
+With the Royal Pickaxe you found, you should be able to reach the Meadow...
+
+TAG: Scrooge_016_f
+<Lore>Find Goofy</Lore> and help him get back in business. Then you can help me with my grand re-opening!
+
+TAG: Scrooge_022_f
+Oh, and I see you have a map there. Don't forget to use it if you want to find your way around the Village.
+
+TAG: Scrooge_023_f
+You'll need to <Lore>find a way to break the rocks</Lore> blocking the road to the Meadow. When you do...
+
+TAG: Scrooge_034_f
+Hmm... I could use some help, that much is true.
+
+TAG: Scrooge_037_f
+Perhaps we could come to an arrangement.
+
+TAG: Scrooge_038_f
+Let's hear it.
+
+TAG: Scrooge_036_f
+And nothing will help the Village faster than sound investments!
+
+TAG: Scrooge_039_f
+A community cannae prosper without 'em.
+
+TAG: Scrooge_040_f
+Got it.
+
+TAG: Scrooge_020_f
+Ah... an optimist. Good for you! Where some see hopelessness, others see opportunity!
+
+TAG: Scrooge_029_f
+Well first, those blasted Night Thorns appeared... Then, the sky went dark.
+
+TAG: Scrooge_018_f
+Are ya now? Well, I appreciate that.
+
+TAG: Scrooge_011_f
+But you're gonna need a lot more coins to get this shop out of its sorry state. I'm afraid enthusiasm won't be enough.
+
+TAG: Scrooge_012_f
+Aye. Well, for that I'm sorry.
+
+TAG: Scrooge_002_f
+But it's a knife to me heart to see the sorry state of my shop.
+

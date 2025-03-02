@@ -1,0 +1,39 @@
+TAG: Goofy_002_f
+Gawrsh, {PlayerName}, am I glad to see you.
+
+TAG: Goofy_003_f
+I got kind of a problem... Ursula offered to enchant one of my fishing rods if I agreed to bring her some seaweed and red algae...
+
+TAG: Goofy_004_f
+But then, right after I signed her contract, I got nervous. I tried to catch all the stuff she asked for in a hurry.
+
+TAG: Goofy_006_f
+Then what went wrong?
+
+TAG: Goofy_005_f
+Welp, my enchanted fishing rod broke! And now I've been having terrible luck.
+
+TAG: Goofy_007_f
+Ursula's not too happy about it. She's even talkin' about adding me to her garden!
+
+TAG: Player_000_f
+I'll help you. Let's fix your <ActivityItem>Enchanted Fishing Rod</ActivityItem> first...
+
+TAG: Player_000_choice_000_f
+I can't leave you in this situation.
+
+TAG: Player_000_choice_001_f
+For the sake of the Village's peace.
+
+TAG: Player_000_choice_002_f
+Ursula deserves to be paid.
+
+TAG: Goofy_008_f
+Thanks, {PlayerName}!
+
+TAG: Goofy_011_f
+To fix it, I'm gonna need <ActivityItem>Hardwood</ActivityItem> and <ActivityItem>Tinkering Parts</ActivityItem>.
+
+TAG: Goofy_010_f
+You're right. She did hold up her side of the bargain.
+

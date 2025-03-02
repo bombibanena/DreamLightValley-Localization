@@ -1,0 +1,6 @@
+TAG: Merlin_000_f
+{PlayerName}, would you place the <ActivityItem>Night Mite Buffet</ActivityItem> somewhere for Timon, Pumbaa, and Simba?
+
+TAG: Merlin_001_f
+You, of course, are invited to the feast... No bug-eating required. Heh-heh.
+

@@ -1,0 +1,27 @@
+TAG: Olaf_000_f
+You did it! You found the <ActivityItem>Salmon</ActivityItem> and all the <ActivityItem>Flowers</ActivityItem>!
+
+TAG: Olaf_001_f
+Hey, did you know that together "salmon" and "flower" are an anagram for "Fall more, snow"?!
+
+TAG: Player_000_choice_000_f
+I did know that.
+
+TAG: Player_000_choice_001_f
+I did not know that.
+
+TAG: Player_000_choice_002_f
+Literally, who would know that???
+
+TAG: Olaf_002_f
+Wow, you really do know everything.
+
+TAG: Olaf_003_f
+C'mon! Let's go give Mother Gothel her gift. I think she's gonna love it.
+
+TAG: Olaf_004_f
+That's okay. I find that most people don't.
+
+TAG: Olaf_005_f
+Me! And now, also you!
+

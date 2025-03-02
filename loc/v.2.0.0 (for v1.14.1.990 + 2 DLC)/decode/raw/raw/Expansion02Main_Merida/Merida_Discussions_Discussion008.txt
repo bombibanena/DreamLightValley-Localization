@@ -1,0 +1,60 @@
+TAG: Merida_000_f
+Destiny? Oh, I learned that our fate lies within us.
+
+TAG: Merida_001_f
+You control your own future, not the other way around.
+
+TAG: Player_000_choice_000_f
+I agree completely!
+
+TAG: Player_000_choice_001_f
+I think we are all predestined for things.
+
+TAG: Player_000_choice_002_f
+I think life is a bit of both.
+
+TAG: Merida_002_f
+I'm glad!
+
+TAG: Merida_003_f
+If I hadn't taken control of my destiny, I don't know where I'd be now.
+
+TAG: Merida_008_f
+Where do you see your future taking you?
+
+TAG: Player_001_choice_000_f
+I hope to continue helping the Valley.
+
+TAG: Player_001_choice_001_f
+More adventures!
+
+TAG: Player_001_choice_002_f
+I have no idea.
+
+TAG: Merida_009_f
+I hope for that, too!
+
+TAG: Merida_010_f
+The Valley's a wondrous place thanks to your help.
+
+TAG: Merida_011_f
+Me too!
+
+TAG: Merida_012_f
+Life would be boring without a grand adventure now and again, eh?
+
+TAG: Merida_013_f
+Then you've got all the possibilities in the world! You just have to be brave enough to see them.
+
+TAG: Merida_004_f
+You do? I disagree.
+
+TAG: Merida_005_f
+My life would be so different if I hadn't taken control of my own destiny. I don't even want to think about it.
+
+TAG: Merida_006_f
+Hmm, that's interesting.
+
+TAG: Merida_007_f
+I think my mum would agree with you.
+

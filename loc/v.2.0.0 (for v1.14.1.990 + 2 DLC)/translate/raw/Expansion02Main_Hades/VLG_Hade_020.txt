@@ -1,0 +1,117 @@
+TAG: Village!Hercules!Hades!VLG_Hade_020_Any_CompletedRequestDescription
+Поговори с Аид о его днях экспериментов с управлением.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_AvailableDescription
+Смогут ли храбрые (и долготерпеливые) {Playername} успокоить этот новый шторм?
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_CompletedStoryDescription
+Солнце заходит сейчас на эту главу поиска работы Аид' (а также на его устремления), доказывая, что под Аид' обычно успокаивает поведение, постоянно затухает пламя гнева и обиды.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_DisplayName
+Да, Ваша славная слава.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC} о том, что Аид возьмет на себя управление Реми на один день.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem02_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem03_StepDescription
+<ActivityItem>Salt</ActivityItem> из вод Эверуэлла.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem05_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_ReadyDescription
+Возьмите "Ингредиенты" <ActivityItem>Grecian Baked Fish</ActivityItem> на {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_StepDescription
+Убедитесь, что в вашем списке есть "Ингредиенты" <ActivityItem>Grecian Baked Fish</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group03_Step03_StepDescription
+Познакомьтесь с Аид в Чезе Реми.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group03_StoryDescription
+Увы, последняя схема Аид посвящается покорению любимого кулинарного института Чеза Реми, но сможет ли Аид выдержать бурю клиентов, которые наверняка придут?
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group04_Step04_Listen01_StepDescription
+Слушай Ваниллопа, расскажи Аид точно, что она думает о его приготовлении.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group05_Step05_RemoveBlocker01_StepDescription
+Никогда не наливай воду на смазочный огонь, используй Королевский Шовель, чтобы очистить пламя.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group06_Step06_TalkToCharacter02_StepDescription
+Разъяснение Аид о его опыте в Чез Реми.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_DressUp01_StepDescription
+Одежда {Style}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_DressUp02_StepDescription
+Одежда {Color}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_DressUp03_StepDescription
+Одежда {Color}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_StepDescription
+Одевайся как нормальный продавец.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group08_Step08_Listen02_StepDescription
+Слушайте предложение Аид для продажи Флин.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group08_StoryDescription
+Когда Аид' накачанное чувство важности было проткнуто острым остроумием Ваниллопа, он решил полностью использовать свой серебряный язык, и хитроумные просьбы выступают в качестве продавца Урсула многих конкреций.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group09_Step09_TalkToCharacter03_StepDescription
+Поговори с Аид о его времени продавца зелья.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group10_Step10_VisitArea02_StepDescription
+Посетите Урсула House, чтобы найти заработок Аид'.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group11_Step11_Possess01_StepDescription
+Возьми и прочти записку Урсула.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group12_Step12_CatchFish01_StepDescription
+Урсула Нот говорит, что зарплата будет в трезвом месте, не вспыльчивом Аид'...
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group12_StepDescription
+Найдите зарплату Аид где-нибудь в Бинде.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group13_Step13_ReadyDescription
+Принесите {TargetNPC} его зарплату ( <ActivityItem>Firection Polion</ActivityItem>).
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group13_Step13_StepDescription
+Убедитесь, что у вас в списке есть заработная плата Аид ( <ActivityItem>Firection Polion</ActivityItem>) и <ActivityItem>Урсула Note</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group13_StoryDescription
+Бедный Аид, сначала обманул Флин, а затем посмеялся над Урсула, а затем бог, одержимый бог, теперь пытается сделать свою последнюю попытку овладения управленческим мастерством в магазине Скрудж Макдак.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group14_Step14_VisitArea03_StepDescription
+Посетите магазин Скрудж Макдак.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group15_Step15_TalkToCharacter04_StepDescription
+Поговори с {TargetNPC} о найме Аид на день.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group16_Step16_Listen03_StepDescription
+Послушай, как Аид справляется с его первым клиентом.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group17_Step17_RemoveBlocker02_StepDescription
+Оставьте Скрудж Макдак Store!
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group18_Step18_Listen04_StepDescription
+Слушайте Скрудж Макдак McDuck реагирует на лечение Аид его магазина.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group19_Step19_VisitArea06_StepDescription
+Возвращайтесь в магазин Скрудж Макдак.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group20_Step20_VisitArea05_StepDescription
+Оставьте Скрудж Макдак Store и возвращайтесь в Storybook Vale.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

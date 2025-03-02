@@ -1,0 +1,36 @@
+TAG: Belle_000_f
+Merlin... If you have a moment, there's something I'd like to discuss.
+
+TAG: Belle_009_f
+But what if we put something on the wrong shelf?
+
+TAG: Belle_010_f
+Heh. Don't you worry. I've cast an enchantment for such a possibility.
+
+TAG: Belle_011_f
+If you put something in the wrong section, the shelf itself will let you know.
+
+TAG: Belle_001_f
+An intellectual pursuit, I hope! And what would that be?
+
+TAG: Belle_002_f
+{PlayerName} and I wanted to help the Library...
+
+TAG: Belle_003_f
+...so we found some of your missing books.
+
+TAG: Belle_004_f
+You did?! Why, that's... that's stupendous! I was sure I'd never get them back. Goodness, I must say I'm quite impressed.
+
+TAG: Belle_005_f
+In fact, I'd like to invite you both to become honorary Dreamlight Librarians!
+
+TAG: Belle_006_f
+A librarian?! Oh, that would be wonderful! Thank you so much!
+
+TAG: Belle_007_f
+Of course, you'll have to familiarize yourself with my classification system.
+
+TAG: Belle_008_f
+Perhaps you can start by finding the proper place for all the books you've brought back.
+

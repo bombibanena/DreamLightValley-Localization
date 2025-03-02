@@ -1,0 +1,24 @@
+TAG: Story!ORQS_Scro_020_Beach_Any_CompletedRequestDescription
+Talk to Scrooge.
+
+TAG: Story!ORQS_Scro_020_Beach_AvailableDescription
+Now that the Pillar on Dazzle Beach has been restored, it's time to develop this prime waterfront real estate.
+
+TAG: Story!ORQS_Scro_020_Beach_CompletedStoryDescription
+You decorated Dazzle Beach and developed some prime waterfront real estate.
+
+TAG: Story!ORQS_Scro_020_Beach_DisplayName
+Rebuild the Valley: Dazzle Beach
+
+TAG: Story!ORQS_Scro_020_Beach_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Story!ORQS_Scro_020_Beach_Group01_Step01_Decorate01_StepDescription
+Place {TargetAmount} pieces of furniture.
+
+TAG: Story!ORQS_Scro_020_Beach_Group01_Step01_StepDescription
+Decorate Dazzle Beach.
+
+TAG: Story!ORQS_Scro_020_Beach_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

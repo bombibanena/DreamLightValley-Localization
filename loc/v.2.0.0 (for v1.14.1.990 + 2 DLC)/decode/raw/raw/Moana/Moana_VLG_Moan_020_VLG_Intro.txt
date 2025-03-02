@@ -1,0 +1,51 @@
+TAG: Moana_000_f
+{PlayerName}, do you remember that mysterious shiny thing we found on the boat?
+
+TAG: Moana_009_f
+I have an idea about it, but I'll need help.
+
+TAG: Player_000_choice_000_f
+I'm happy to help. I love a good mystery.
+
+TAG: Player_000_choice_003_f
+Not right now.
+
+TAG: Moana_001_f
+Well, I'm pretty sure it came from the sea and it has some kind of power.
+
+TAG: Moana_003_f
+Maui knows a lot about both of those things.
+
+TAG: Moana_004_f
+But... he's not really talking to me. He's still upset that I left without telling him.
+
+TAG: Player_004_choice_000_f
+It makes sense that he's upset. Have you apologized?
+
+TAG: Player_004_choice_001_f
+Why do you need to tell him everything? He's not the boss of you!
+
+TAG: Moana_006_f
+Yes, but he's still pretty grumpy.
+
+TAG: Moana_010_f
+So, I'm thinking he might change his mind if we got him some gifts.
+
+TAG: Moana_002_f
+Maui loves presents! Especially food.
+
+TAG: Moana_005_f
+Since he got here, I know he really likes <ActivityItem>Seafood Salad</ActivityItem>, <ActivityItem>Fruit Salad</ActivityItem>, and something called a <ActivityItem>Seafood Platter</ActivityItem>.
+
+TAG: Moana_011_f
+If we could bring him those meals, it might help.
+
+TAG: Moana_007_f
+No, he's not, but he's my friend. I should've told him where I was going.
+
+TAG: Moana_008_f
+I think he's upset because he was worried about me.
+
+TAG: Moana_012_f
+Okay, I'll be here... waiting. With this strange object. No rush.
+

@@ -1,0 +1,45 @@
+TAG: Oswald_003_f
+Leapin' lizards! Did ya see that?!
+
+TAG: Oswald_004_f
+No, I turned around for just a second â what happened?
+
+TAG: Oswald_019_f
+The trolley's gone!
+
+TAG: Oswald_005_f
+I think the poor thing got scared and amscrayed!
+
+TAG: Player_000_choice_000_f
+Oh no, what do we do?
+
+TAG: Player_000_choice_001_f
+It was that quick?
+
+TAG: Oswald_006_f
+We gotta act fast. Trolleys are bunk at knowin' which way to go.
+
+TAG: Oswald_010_f
+Ya got any ideas?
+
+TAG: Oswald_012_f
+What if we put up "Missing" posters and leverage the community to help?
+
+TAG: Oswald_013_f
+{PlayerName}, that's genius!
+
+TAG: Oswald_014_f
+I'm startin' to get why you're the big cheese around here.
+
+TAG: Oswald_016_f
+I bet you <Lore>Rapunzel can help with the posters</Lore>.
+
+TAG: Oswald_017_f
+Aces! And then maybe you can catch an <ActivityItem>Octopus or two for their ink</ActivityItem> plus some <ActivityItem>Tropical Wood</ActivityItem> to make some frames?
+
+TAG: Oswald_015_f
+Great, I'll start on that!
+
+TAG: Oswald_007_f
+You betcha! When trolleys get a notion to fast-track it, hold onto your hat!
+

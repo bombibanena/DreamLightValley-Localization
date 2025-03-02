@@ -1,0 +1,54 @@
+TAG: Vanellope_000_f
+Hey, {PlayerName}, how come people here eat stuff that comes out of the ground?
+
+TAG: Player_000_choice_000_f
+The five-second rule?
+
+TAG: Player_000_choice_001_f
+Who's eating stuff out of the ground?
+
+TAG: Vanellope_001_f
+The what? Listen, this food has been in the ground for WAY longer than five seconds!
+
+TAG: Vanellope_002_f
+You mess around in the dirt, add water, then you pick stuff out of the ground and eat it! What is with that?!
+
+TAG: Player_001_choice_000_f
+Are you talking about farming?!
+
+TAG: Player_001_choice_001_f
+You've never seen vegetable gardens before?
+
+TAG: Vanellope_003_f
+Farming?! Wait â farming is real?!
+
+TAG: Vanellope_004_f
+I thought it was just a thing in simulator games!
+
+TAG: Player_002_choice_000_f
+What did you think they were simulating?
+
+TAG: Player_002_choice_001_f
+We need to get you outdoors more!
+
+TAG: Player_002_choice_002_f
+You sweet, sheltered child.
+
+TAG: Vanellope_005_f
+Uhh... a world without video games? I don't know. I never really thought about it.
+
+TAG: Vanellope_006_f
+Yeah, outside IS pretty neat! I especially like the wild animals and extreme sports.
+
+TAG: Vanellope_007_f
+Aw c'mon, aren't we all just basically zeroes and ones floating around the universe like tiny specks of dust?
+
+TAG: Vanellope_008_f
+Wait â vegetables are REAL?!
+
+TAG: Vanellope_009_f
+I thought they only existed in farming simulators!
+
+TAG: Vanellope_010_f
+You! I've seen you do it!
+

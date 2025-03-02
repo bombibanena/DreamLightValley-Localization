@@ -1,0 +1,18 @@
+TAG: Pumbaa_000_f
+*ЙАВН*Я уже засыпаю.
+
+TAG: Pumbaa_001_f
+Я тоже.
+
+TAG: Player_000_choice_000_f
+Спокойной ночи, Пумба!
+
+TAG: Player_000_choice_001_f
+Спасибо за урок сегодня.
+
+TAG: Pumbaa_003_f
+Ты тоже, {PlayerName}.
+
+TAG: Pumbaa_002_f
+И завтра будет еще лучше.
+

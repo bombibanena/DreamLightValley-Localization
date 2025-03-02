@@ -1,0 +1,93 @@
+TAG: Story!Expansion01!MRQS_E01_050_Settling_AvailableDescription
+Strange Time Rifts are starting to appear around the Valley, and a Mysterious Device has appeared near the Wishing Well in the Plaza...
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_DisplayName
+The Secrets of Eternity Isle
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group01_Step01_TalkToCharacter01_StepDescription
+Use the <ActivityItem>Mysterious Device</ActivityItem> in the corner of the Plaza to talk to Jafar.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group02_Step02_Conditional01_StepDescription
+Complete "The Port of Many Worlds" Quest to proceed to Eternity Isle.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group03_Step03_VisitArea01_StepDescription
+Go to the Stardust Port in the Dream Castle.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group03_StoryDescription
+You discover Jafar, who introduces himself as the Royal Vizier of Dreamlight Valley before explaining that he is stranded in a place called Eternity Isle, sundered from the Valley by some sort of magical incident. You'll need to find a way to reach Eternity Isle to set things right.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group04_Step04_VisitArea02_StepDescription
+Interact with the <ActivityItem>Wooden Boat</ActivityItem> in the Stardust Port to travel to Eternity Isle.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group05_Step05_VisitArea03_StepDescription
+Find the <ActivityItem>Hologram Station</ActivityItem> that will allow you to speak to Jafar.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group05_StepDescription
+Welcome to Eternity Isle!
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group06_Step06_TalkToCharacter02_StepDescription
+Interact with the <ActivityItem>Hologram Station</ActivityItem> to talk to Jafar.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group07_Step07_StepDescription
+(Clear away the <ActivityItem>Splinters of Fate</ActivityItem> by approaching them and pressing {input_interact}!)
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group07_StepDescription
+Reach the <ActivityItem>Ancient Gate</ActivityItem> that leads deeper into Eternity Isle.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group07_StoryDescription
+Upon your arrival, Jafar directs you to speak to him near a gate that leads deeper into Eternity Isle. But first you need to deal with some pesky Splinters of Fate blocking the way...
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group08_Step08_TalkToCharacter03_StepDescription
+Talk to Jafar using the <ActivityItem>Hologram Station</ActivityItem> beside the Ancient Gate.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group09_StepDescription
+Find the pieces of the <ActivityItem>Ancient Sphere</ActivityItem> as you explore Ancient's Landing.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group09_StoryDescription
+He explains to you that the gate can only be opened if a broken sphere that once powered it is restored to its rightful place. You go to find its broken parts. Perhaps you'll uncover more as you begin to explore this place...
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group10_Step10_CraftItem01_StepDescription
+Repair the <ActivityItem>Ancient Sphere</ActivityItem> at a Crafting Station.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group11_Step11_FillKeyhole01_StepDescription
+Put the <ActivityItem>Ancient Sphere</ActivityItem> in the receptacle next to the Ancient Gate.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group12_Step12_Unlock01_StepDescription
+Open the Ancient Gate.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where am I going?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group13_Step13_VisitArea05_StepDescription
+Go deeper into Eternity Isle.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group14_Step14_VisitArea06_StepDescription
+Meet Jafar by the broken bridge in the Courtyard area.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group14_StoryDescription
+The gate is open, and it's time to explore more of Eternity Isle.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group15_Step15_TalkToCharacter04_StepDescription
+Talk to Jafar at the <Lore>Hologram Station</Lore>.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group15_StoryDescription
+Jafar is waiting for you by the broken bridge. Beyond him lies a desert and a jungle and some sort of strange magical disruption in time. Maybe now he'll tell you more about how this happened.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I go?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where am I going?
+

@@ -1,0 +1,39 @@
+TAG: MikeWazowski_000_f
+Hey, {PlayerName}... Don't say anything.
+
+TAG: MikeWazowski_001_f
+You came to tell me I'm the Villager of the Month and that I need to start writing my acceptance speech.
+
+TAG: MikeWazowski_009_f
+Well, joke's on you because I already finished it!
+
+TAG: Player_000_choice_000_f
+I'm sorry, Mike...
+
+TAG: Player_000_choice_001_f
+It might be hard to hear, but you lost.
+
+TAG: Player_000_choice_002_f
+Other way around, pal...
+
+TAG: MikeWazowski_002_f
+Oh?
+
+TAG: MikeWazowski_003_f
+Oh...
+
+TAG: MikeWazowski_004_f
+...
+
+TAG: MikeWazowski_005_f
+Well, thanks for warning me, {PlayerName}. Sulley probably asked you 'cause he knows I have no problems yelling at him.
+
+TAG: MikeWazowski_006_f
+There's only one thing to do now...
+
+TAG: MikeWazowski_007_f
+Oh no...
+
+TAG: MikeWazowski_008_f
+I'm gonna work twice as hard next time! Next month, that title will be mine!
+

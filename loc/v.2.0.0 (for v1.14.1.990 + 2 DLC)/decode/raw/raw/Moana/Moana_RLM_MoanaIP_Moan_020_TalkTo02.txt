@@ -1,0 +1,30 @@
+TAG: Moana_004_f
+I have no idea what you did, but it makes sense now! This shows the different areas of the ocean near this island!
+
+TAG: Moana_000_f
+The rich fishing spots will be farther out... But look â there's a thick mist blocking our way...
+
+TAG: Moana_005_f
+We need to find something to help us cross safely. Something to light the way...
+
+TAG: Player_000_choice_000_f
+I'll take a look around!
+
+TAG: Player_000_choice_001_f
+There has to be something around here...
+
+TAG: Moana_001_f
+Based on the map, we're to the south near the edge of the mist. It looks like there are a few other places marked...
+
+TAG: Moana_002_f
+These look like the Sea Stack to the northwest and the Small Islands to the northeast...
+
+TAG: Moana_006_f
+A Coral Reef to the southwest and a Wrecked Boat to the southeast.
+
+TAG: Moana_003_f
+Why don't you choose where we look first?
+
+TAG: Moana_007_f
+I've got a feeling you'll find something to light our way.
+

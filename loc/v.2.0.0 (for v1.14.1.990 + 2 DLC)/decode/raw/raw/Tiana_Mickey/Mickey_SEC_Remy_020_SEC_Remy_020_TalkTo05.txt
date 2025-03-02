@@ -1,0 +1,45 @@
+TAG: Mickey_005_f
+Mickey! Can we talk food for a moment?
+
+TAG: Mickey_006_f
+You bet, {PlayerName}!
+
+TAG: Mickey_007_f
+Great! I'm trying to figure out how to make this dish I saw in a memory â and which Villager made it.
+
+TAG: Mickey_008_f
+Do you remember sharing a Cajun meal in the Glade of Trust with some other Villagers?
+
+TAG: Mickey_001_f
+Merlin remembered some <ActivityItem>Enchanted Chili Peppers</ActivityItem> and Moana told me about the <ActivityItem>Onions</ActivityItem> in the dish.
+
+TAG: Mickey_009_f
+Gosh, let me think for a minute...
+
+TAG: Mickey_010_f
+Anything bubbling to the surface?
+
+TAG: Mickey_011_f
+Wait... Yeah! I remember the dish was based on <ActivityItem>Rice</ActivityItem>.
+
+TAG: Mickey_012_f
+It was super fluffy and perfectly cooked. It was like each bite of rice brought all the other flavors together!
+
+TAG: Mickey_014_f
+Perfect; thanks, Mickey!
+
+TAG: Mickey_013_f
+I think I have all the info I'll need to make it! I'll be sure to swing by to give you a taste once it's ready.
+
+TAG: Mickey_015_f
+Time to keep hunting for the other Ingredients! See ya!
+
+TAG: Mickey_003_f
+Merlin remembered that it had <ActivityItem>Enchanted Chili Peppers</ActivityItem>.
+
+TAG: Mickey_002_f
+Moana remembered that the dish had <ActivityItem>Onions</ActivityItem>.
+
+TAG: Mickey_004_f
+You're the first one I'm speaking to about this!
+

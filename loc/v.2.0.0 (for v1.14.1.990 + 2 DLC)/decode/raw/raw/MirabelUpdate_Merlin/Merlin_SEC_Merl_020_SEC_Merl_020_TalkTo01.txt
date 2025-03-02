@@ -1,0 +1,21 @@
+TAG: Merlin_000_f
+Let's see how the <ActivityItem>Golden Doorknob</ActivityItem> reacted to your acts of kindness.
+
+TAG: Merlin_001_f
+...
+
+TAG: Merlin_002_f
+Ah-ha! Excellent work, {PlayerName}! We're getting closer, but we still need more Dreamlight.
+
+TAG: Merlin_003_f
+What can I do?
+
+TAG: Merlin_004_f
+The best way to create more is simply to take care of the Village.
+
+TAG: Merlin_005_f
+If you need a reminder of what you can do, don't forget to gaze in the waters of the Plaza Well.
+
+TAG: Merlin_006_f
+I'll go do that and check with you later.
+

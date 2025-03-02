@@ -1,0 +1,90 @@
+TAG: Merlin_000_f
+Ahh, {PlayerName}, what new magical mystery do you have for me today?
+
+TAG: Player_000_f
+Back before the Forgetting, I took something away from Scar and hid it with some sort of enchantment. Something he can only get back if he learns a lesson...
+
+TAG: Player_000_choice_000_f
+I want to help him.
+
+TAG: Player_000_choice_001_f
+Enchantments and old riddles are your forte.
+
+TAG: Player_000_choice_002_f
+Past {PlayerName} is making life extra hard...
+
+TAG: Merlin_006_f
+You wanted to help him then, too. In fact, you took his most treasured possession and told him he'd only get it back if he understood that...
+
+TAG: Merlin_009_f
+<Lore>"Good rulers care for everyone, from the tallest to the smallest. They invite everyone to the table."</Lore>
+
+TAG: Merlin_001_f
+Quite inspired, I thought. But then, you've always been wise beyond your years.
+
+TAG: Merlin_007_f
+Now, I'm sure you've noticed that Scar is not always the most pleasant of neighbors.
+
+TAG: Merlin_002_f
+He wants to rule, but he doesn't understand the responsibilities and the care that come with it. You tried to help him...
+
+TAG: Merlin_013_f
+...but then he turned around and tried to eat one of the birds on the Sunlit Plateau.
+
+TAG: Player_002_f
+When I said inviting others to your table...
+
+TAG: Player_002_choice_000_f
+...I meant those birds as guests!
+
+TAG: Player_002_choice_001_f
+...I wasn't speaking literally.
+
+TAG: Player_002_choice_002_f
+...I could have been clearer.
+
+TAG: Merlin_015_f
+Yes, and not only the Sunbirds. You meant everyone, from all segments of the Circle of Life.
+
+TAG: Merlin_018_f
+I suggest you continue leading by example. Put up some <ActivityItem>Sunbird Feeders</ActivityItem> on the Plateau.
+
+TAG: Merlin_019_f
+Show him how to care for his kingdom. Maybe that will help where your curse has failed...
+
+TAG: Player_001_choice_000_f
+That would be so cute.
+
+TAG: Player_001_choice_001_f
+Let's hope it works.
+
+TAG: Player_001_choice_002_f
+I'll do whatever it takes.
+
+TAG: Merlin_003_f
+Don't let the Sunbirds' fragile appearance fool you, {PlayerName}. They have a fascinating yet dangerous life.
+
+TAG: Merlin_004_f
+Trust your instincts. Deep down, you always know what to do, {PlayerName}.
+
+TAG: Merlin_005_f
+"Whatever it takes"? Hmm.
+
+TAG: Merlin_012_f
+Just be careful not to become too much like Scar in your pursuit of your goals.
+
+TAG: Merlin_016_f
+Yes, you meant that he should care for everyone, from all segments of the Circle of Life.
+
+TAG: Merlin_017_f
+You wanted Scar to think about his actions. You meant that he should care for everyone, from all segments of the Circle of Life.
+
+TAG: Merlin_010_f
+Hmm. Yes, I remember what you said when you took it from him and hid it all those years ago.
+
+TAG: Merlin_008_f
+Hmm, yes. Sometimes things we did long ago can seem like the deeds of strangers to us.
+
+TAG: Merlin_011_f
+But I remember what it was you said back when you hid his little trinket.
+

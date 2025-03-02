@@ -1,0 +1,21 @@
+TAG: Remy_000_f
+Excellent! These are just what I need to get my oven working again. Thank you, {PlayerName}.
+
+TAG: Player_000_choice_000_f
+Anything to help with the art of culinary excellence!
+
+TAG: Player_000_choice_001_f
+It took me a while to get it all.
+
+TAG: Remy_001_f
+Spoken like a true chef!
+
+TAG: Remy_003_f
+Here you go. Some <ActivityItem>Wrought Iron</ActivityItem>, courtesy of Mr. McDuck.
+
+TAG: Remy_004_f
+Use it to build something great for the Village. The more you do for Chez Remy, the more we'll be able to order.
+
+TAG: Remy_002_f
+Well, I really appreciate it.
+

@@ -1,0 +1,45 @@
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Any_CompletedRequestDescription
+Wow! See what Mickey thinks.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_AvailableDescription
+Mickey wants to do something for the Village.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_CompletedStoryDescription
+After crafting and placing the birdhouse in the Village, it's time to find out if Mickey likes it.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_DisplayName
+Hangin' with Mickey
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do we need?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group01_Step01_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group01_Step01_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group01_Step01_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group01_StepDescription
+Find materials for the Tall Birdhouse around the Village.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group01_StoryDescription
+He explains he wants to make sure the Valley is welcoming again by filling it with birdsong. And if you want birds, you need to build a birdhouse.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group02_Step02_CraftItem01_StepDescription
+Craft a Tall Birdhouse.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do now?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_Group03_Step03_Decorate01_StepDescription
+Place the Tall Birdhouse in the Village.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

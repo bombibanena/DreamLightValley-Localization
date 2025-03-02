@@ -1,0 +1,144 @@
+TAG: TheForgotten_000_f
+After all this time... here we are. Face to face.
+
+TAG: TheForgotten_013_f
+I have all these... these memories in my head all of a sudden. You must have seen them too.
+
+TAG: TheForgotten_014_f
+So you must know what I am by now.
+
+TAG: Player_002_choice_000_f
+You're my inner child, aren't you?
+
+TAG: Player_002_choice_002_f
+You're everything I left behind.
+
+TAG: Player_002_choice_003_f
+You're some sort of shadow of me.
+
+TAG: TheForgotten_015_f
+You split off from me when I stopped visiting Dreamlight Valley.
+
+TAG: TheForgotten_016_f
+Inner child...? But how can we really say which one of us is the real {PlayerName}?
+
+TAG: TheForgotten_017_f
+Maybe you're just the part that moved on. A piece of ME that left...
+
+TAG: Player_000_choice_000_f
+It doesn't matter. I just want to help.
+
+TAG: Player_000_choice_001_f
+No sudden moves... I'm watching you.
+
+TAG: Player_000_choice_002_f
+That's enough. Get out of my way.
+
+TAG: TheForgotten_001_f
+I don't want to hurt you. Really. I want to help.
+
+TAG: TheForgotten_005_f
+Is that what you think about me? That I'm... I'm some kind of weakling who needs "help"?
+
+TAG: TheForgotten_006_f
+Maybe I was. Once. But not anymore.
+
+TAG: Player_001_choice_000_f
+Needing help doesn't make you weak.
+
+TAG: Player_001_choice_001_f
+You put on a big show... but I can tell you're scared.
+
+TAG: TheForgotten_012_f
+That's what Merlin was trying to tell you. Caring for others... That's not something you leave behind.
+
+TAG: TheForgotten_032_f
+Busy? Doing what...?
+
+TAG: TheForgotten_035_f
+Do you expect me to just tell you my whole plan?! Like some kind of... some kind of villain at the end of a movie?
+
+TAG: Player_003_choice_000_f
+If you've got a plan... I can help.
+
+TAG: Player_003_choice_002_f
+I mean... you're kind of giving off that vibe?
+
+TAG: TheForgotten_022_f
+It makes us stronger. Not weaker. It holds the Valley together.
+
+TAG: TheForgotten_024_f
+Please. Let us help you.
+
+TAG: TheForgotten_028_f
+You think I didn't TRY to ask for help? After that day with Scar... no one could hear me.
+
+TAG: TheForgotten_029_f
+I was trapped in the shadows. Alone. Lost. It takes all my magic now just to step out into the light.
+
+TAG: TheForgotten_030_f
+But you're here now. Let's fix all of this.
+
+TAG: TheForgotten_025_f
+Fix all of this? That's exactly what I've been trying to do.
+
+TAG: TheForgotten_031_f
+I haven't been hiding.
+
+TAG: TheForgotten_026_f
+I've been busy.
+
+TAG: TheForgotten_036_f
+You could never help. Because you could never understand.
+
+TAG: TheForgotten_027_f
+There's only one way to make sure that no one ever gets pulled to the dark side of Dreamlight Valley like I was.
+
+TAG: TheForgotten_038_f
+Only one way to make sure no one is ever lonely again.
+
+TAG: TheForgotten_033_f
+I need to rip open the walls between worlds. Between Dreamlight Valley and the other side.
+
+TAG: TheForgotten_040_f
+And now I have the last thing I was missing. The way to fuel the spell. <Lore>The Orb of Remembrance</Lore>!
+
+TAG: TheForgotten_037_f
+You still don't get it. I'm not the bad guy. YOU are.
+
+TAG: TheForgotten_023_f
+If you really felt like you were so strong, then you wouldn't have stayed in the shadows all this time. Whatever was happening to you... Merlin could have helped.
+
+TAG: TheForgotten_002_f
+I want to talk, but... you better not try to rip open a portal or hex me or anything like that!
+
+TAG: TheForgotten_007_f
+Heh. You're afraid of me? Good. You should be.
+
+TAG: TheForgotten_008_f
+Maybe Merlin should have been afraid of me too. Instead of thinking I was some weakling who needed his help.
+
+TAG: TheForgotten_003_f
+After everything you've done to this Village... we've got nothing more to talk about.
+
+TAG: TheForgotten_004_f
+Step aside so I can fix the damage you've done.
+
+TAG: TheForgotten_009_f
+Fix the damage...? Heh.
+
+TAG: TheForgotten_010_f
+Don't you see that running around and helping everybody... it makes them weak. And it makes YOU weak too.
+
+TAG: TheForgotten_018_f
+When I stopped visiting Dreamlight Valley... when I let go of my childlike wonder... You're all of that.
+
+TAG: TheForgotten_019_f
+What you left behind...? But how can you really say which one of us is the real {PlayerName}?
+
+TAG: TheForgotten_020_f
+When I left Dreamlight Valley... I left a shadow, an echo. And that's you.
+
+TAG: TheForgotten_021_f
+ME? How do you know I'm not the REAL {PlayerName}? What if YOU'RE the echo?!
+

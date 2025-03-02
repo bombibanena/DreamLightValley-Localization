@@ -1,0 +1,78 @@
+TAG: Anna_000_f
+Hi, {PlayerName}! Let me guess... You're going on a big adventure? Ooh, are you planning a feast? ... A chocolate feast?
+
+TAG: Player_000_choice_000_f
+I need you to remember something.
+
+TAG: Player_000_choice_001_f
+What do you remember about your past here?
+
+TAG: Player_000_choice_002_f
+I need you to think hard...
+
+TAG: Anna_001_f
+Great! But I'm gonna need you to be a little more specific.
+
+TAG: Anna_022_f
+Yes, we'll definitely do that! It's just... there's one small problem...
+
+TAG: Anna_026_f
+I remember it's in my House... but I don't remember where...
+
+TAG: Player_008_choice_000_f
+The Crests make music.
+
+TAG: Player_008_choice_001_f
+You said only someone you can trust should be able to find it.
+
+TAG: Player_008_choice_002_f
+It's cold like ice.
+
+TAG: Anna_027_f
+Your sister was trying to protect something.
+
+TAG: Anna_034_f
+It had to do with the Ice Cavern.
+
+TAG: Anna_038_f
+Merlin helped Elsa hide all these weird <ActivityItem>Crests</ActivityItem> around the Village.
+
+TAG: Anna_014_f
+Yes! I remember now. She asked Merlin for help...
+
+TAG: Anna_039_f
+And they gave me some strange magic thing...
+
+TAG: Anna_016_f
+Elsa wanted me to hide it where only someone we could really trust would ever find it.
+
+TAG: Anna_017_f
+So I hid it in my home.
+
+TAG: Anna_040_f
+Great! Let's go get it!
+
+TAG: Anna_012_f
+Music... hmm... Wait! I did hear some odd music in my House the other day...
+
+TAG: Anna_041_f
+But the even odder thing is, I only heard it every hour, on the hour.
+
+TAG: Anna_033_f
+So, I hid the thing you're looking for in something that's been <Lore>in my family for a long time</Lore>, that's <Lore>in the dining room</Lore> and that's been <ActivityItem>making odd music every hour, on the hour.</ActivityItem>
+
+TAG: Anna_032_f
+I hope that helps, {PlayerName}!
+
+TAG: Anna_035_f
+Right. Our friends are like family to us, so I must have picked something a friend would know has been in our family for a long time...
+
+TAG: Anna_036_f
+Well, the dining room has been a lot chillier than I remember, but I can't find where the cold is coming from.
+
+TAG: Anna_002_f
+Just bits and pieces, really. Not the whole picture, that's for sure.
+
+TAG: Anna_003_f
+Wow, this sounds important. Okay. Focusing...
+

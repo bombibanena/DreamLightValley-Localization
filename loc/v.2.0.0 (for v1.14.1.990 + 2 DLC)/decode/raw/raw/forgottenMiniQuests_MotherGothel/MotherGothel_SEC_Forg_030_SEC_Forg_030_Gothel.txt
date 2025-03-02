@@ -1,0 +1,78 @@
+TAG: MotherGothel_000_f
+Hey, Mother Gothel... you and I need to have a little chat.
+
+TAG: MotherGothel_001_f
+What is it, dear? Come to compliment me on my brilliant wit and beguiling charm?
+
+TAG: MotherGothel_002_f
+No. I wanted to talk to you about what you did to the Forgotten.
+
+TAG: MotherGothel_003_f
+Oh, this isn't about that little curse, is it? That was ages ago.
+
+TAG: MotherGothel_004_f
+Really, the two of you MUST learn to let things go.
+
+TAG: Player_000_choice_000_f
+What you did was not okay.
+
+TAG: Player_000_choice_001_f
+I'm giving you a chance to make this better.
+
+TAG: MotherGothel_005_f
+Actually, when you think about it, I was the only one looking out for the Forgotten. I wanted to keep them safe!
+
+TAG: MotherGothel_014_f
+They need a good rhyme for "told"...
+
+TAG: MotherGothel_015_f
+All right. But first, tell me... why did you come to me with this verse?
+
+TAG: MotherGothel_016_f
+It's about being afraid of getting older, so I thoughtâ
+
+TAG: MotherGothel_017_f
+Me? Afraid of something as inconsequential as that. Oh darling, don't be ridiculous. I never give it a thought.
+
+TAG: MotherGothel_018_f
+You tell the Forgotten that time passes. But it's how you spend the time that matters! Simply do all that's possible to look after yourself.
+
+TAG: MotherGothel_019_f
+There's nothing magical about it. Of course, it does help to be devastatingly charming. After all, charm never gets old.
+
+TAG: MotherGothel_020_f
+Wait... Mother Gothel... that's it! That's a perfect rhyme!
+
+TAG: MotherGothel_021_f
+<Lore>I've never been one to do what I'm told...</Lore>
+
+TAG: MotherGothel_022_f
+<Lore>I'll care for myself. Charm will never grow old!</Lore>
+
+TAG: MotherGothel_023_f
+... Of course it's perfect. It's from me!
+
+TAG: MotherGothel_006_f
+Not buying it. But there's one way you can make it up to the Forgotten.
+
+TAG: MotherGothel_007_f
+Fine. Tell me what it is.
+
+TAG: MotherGothel_008_f
+The Forgotten needs help with some poetry.
+
+TAG: MotherGothel_009_f
+Well, why didn't you say so?
+
+TAG: MotherGothel_010_f
+The Forgotten needs help with this verse...
+
+TAG: MotherGothel_011_f
+<Lore>As I watch the clock tick and the sun rise and set...</Lore>
+
+TAG: MotherGothel_012_f
+<Lore>I fear what I love, I am doomed to forget.</Lore>
+
+TAG: MotherGothel_013_f
+<Lore>But I've never been one to do what I'm told...</Lore>
+

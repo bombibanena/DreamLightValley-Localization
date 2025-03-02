@@ -1,0 +1,78 @@
+TAG: Moana_000_f
+Hey, {PlayerName}! What can I do for you?
+
+TAG: Moana_001_f
+Do you remember how Mirabel, Anna, Elsa and you used to be friends?
+
+TAG: Moana_002_f
+You know, that's funny. I was just thinking about that the other day. We had SO much fun together.
+
+TAG: Player_000_f
+I'm planning to throw a Friendship Festival because...
+
+TAG: Player_000_choice_000_f
+You're all awesome.
+
+TAG: Player_000_choice_001_f
+You're all back in the Valley.
+
+TAG: Player_000_choice_002_f
+Well, why not?
+
+TAG: Moana_003_f
+Oh, thanks. You are too!
+
+TAG: Moana_004_f
+Anna, Elsa and Kristoff are fixing the <ActivityItem>Madrigal Table</ActivityItem> and making new chairs. I was hoping you could help too. We want it to be a present for Mirabel.
+
+TAG: Moana_005_f
+Sure! Hmm... Oh! Mirabel had this beautiful cloth she used to cover the table. I can make a new one out of an old sail.
+
+TAG: Moana_006_f
+Give me half a day, and it'll be done!
+
+TAG: Moana_007_f
+Great! I'm going to take care of the cooking. Anything you want to make sure is on the menu?
+
+TAG: Moana_008_f
+I'm going to prepare <ActivityItem>BuÃ±uelos</ActivityItem> for Mirabel and <ActivityItem>Chocolate Chip Cookies</ActivityItem> for Elsa and Anna...
+
+TAG: Moana_009_f
+So I was wondering what you would like.
+
+TAG: Moana_010_f
+Maybe a <ActivityItem>Large Seafood Platter</ActivityItem>?
+
+TAG: Moana_011_f
+Here, Remy gave me this. It has a drawing of one.
+
+TAG: Moana_012_f
+Oh, it's a recipe book! Thanks, Moana. This will help a lot.
+
+TAG: Moana_013_f
+I want it to be a present for Mirabel. I plan on cooking, and I was wondering if you wanted to help with anything. I have these <ActivityItem>Pieces of a Broken Table</ActivityItem>.
+
+TAG: Moana_014_f
+I'd love to help! Maybe Anna could work on fixing the <ActivityItem>Madrigal Table</ActivityItem>.
+
+TAG: Moana_015_f
+She could ask Kristoff and Elsa for help. I'm sure that's a project they'd love.
+
+TAG: Moana_016_f
+Oh! And I can make a new cloth for the table out of an old sail.
+
+TAG: Moana_017_f
+Give me half a day, and it'll be done!
+
+TAG: Moana_018_f
+Great! I'm going to take care of the cooking. Anything you want to make sure is on the menu?
+
+TAG: Moana_019_f
+I want to prepare <ActivityItem>BuÃ±uelos</ActivityItem> for Mirabel. So I was wondering what you would like.
+
+TAG: Moana_020_f
+Which I am very happy about, by the way.
+
+TAG: Moana_021_f
+I say, "Why not?" is an excellent reason to celebrate!
+

@@ -1,0 +1,66 @@
+TAG: Merida_003_f
+He bragged about that scaffy shot, didn't he?
+
+TAG: Merida_004_f
+Well, I almost feel sorry for him. Time to put him out of his misery.
+
+TAG: Merida_005_f
+MISERY?! HA! More like victory.
+
+TAG: Merida_006_f
+"Time to put him out of his victory"...? That makes about as much sense as anything else that numpty says.
+
+TAG: Player_000_choice_000_f
+Flynn sounds awfully confident.
+
+TAG: Player_000_choice_001_f
+You're sure you've got this?
+
+TAG: Player_000_choice_002_f
+Destroy him, Merida.
+
+TAG: Merida_007_f
+All the better to prove him wrong.
+
+TAG: Merida_016_f
+WHAT?! I missed the bullseye by a mile!
+
+TAG: Merida_017_f
+Guess you're not as good a shot as you thought.
+
+TAG: Merida_018_f
+There's no way. Everything was lined up perfectly. I could make that shot in my sleep.
+
+TAG: Merida_019_f
+Could it be my bow? Or maybe the arrows?
+
+TAG: Merida_020_f
+Something isn't right here. I'll <Lore>go investigate</Lore>.
+
+TAG: Merida_010_f
+You ready? On the count of three...
+
+TAG: Merida_011_f
+Three...
+
+TAG: Merida_012_f
+Two...
+
+TAG: Merida_013_f
+One!
+
+TAG: Merida_014_f
+Fire!
+
+TAG: Merida_000_f
+Here goes...
+
+TAG: Merida_015_f
+... Huh?!
+
+TAG: Merida_008_f
+I've made far more difficult shots than this. Trust me.
+
+TAG: Merida_009_f
+When I'm finished, he'll be too embarrassed to ever loose an arrow in the Vale again.
+

@@ -1,0 +1,84 @@
+TAG: Mickey_000_f
+This is so weird... all of these things... they're <Lore>the things I made with you, Gaston, and Rapunzel</Lore>!
+
+TAG: Mickey_001_f
+Huh. That is weird.
+
+TAG: Mickey_002_f
+Wait... What did Merlin say about the Spark's magic bein' all about imagination?
+
+TAG: Mickey_003_f
+Maybe that's the key to gettin' out of here!
+
+TAG: Mickey_004_f
+That's the key to it all. That's how we'll beat Jafar.
+
+TAG: Mickey_005_f
+It's not about being stronger or smarter or more cunning or any of those things. It's about...
+
+TAG: Player_000_choice_000_f
+...unleashing our creativity!
+
+TAG: Player_000_choice_001_f
+...using our imaginations to help each other.
+
+TAG: Player_000_choice_002_f
+...sharing the things we create.
+
+TAG: Mickey_006_f
+It seems like the only thing Jafar can use his imagination for is thinking of ways to get power for himself...
+
+TAG: Mickey_007_f
+Maybe THAT'S why he can't use the magic of the Spark!
+
+TAG: Mickey_008_f
+Well, then let's put our heads together and get creative! What do ya think we could use all this to build?
+
+TAG: Player_001_choice_000_f
+A very, very tall ladder?
+
+TAG: Player_001_choice_001_f
+Some sorta flying machine?
+
+TAG: Mickey_009_f
+Gosh, even if we had enough stuff to build a ladder that tall, I don't think it would be very safe to climb.
+
+TAG: Mickey_010_f
+All right then... How about a flying machine?
+
+TAG: Mickey_011_f
+<Lore>A flying machine</Lore>? That's a great idea!
+
+TAG: Mickey_012_f
+We could sit inside <Lore>Gaston's ship</Lore>...
+
+TAG: Mickey_013_f
+...attach <Lore>Rapunzel's lanterns</Lore> to the top and use 'em like a hot air balloon...
+
+TAG: Mickey_014_f
+...and use my <Lore>Hot Dog Cart</Lore> for the heat to power the balloon!
+
+TAG: Player_002_choice_000_f
+That's a great idea!
+
+TAG: Player_002_choice_001_f
+Sounds plain crazy. Let's hope this works.
+
+TAG: Player_002_choice_002_f
+I'm not flying in something like that!!!
+
+TAG: Mickey_017_f
+Aw shucks, thanks! Just goes to show what ya can do with a little imagination.
+
+TAG: Mickey_018_f
+Welp, looks like we got our work cut out for us riggin' it up. Let's get to it!
+
+TAG: Mickey_019_f
+I'm sure it'll hold together, as long as we use our imaginations. Heh!
+
+TAG: Mickey_020_f
+Gosh, {PlayerName}, I don't know what else we can do.
+
+TAG: Mickey_021_f
+*sigh* You're right. We'll just have to hold on tight and hope for the best.
+

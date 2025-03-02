@@ -1,0 +1,36 @@
+TAG: Scar_001_f
+Hey, Scar! Can we go to your House?
+
+TAG: Player_000_choice_000_f
+Someone wants to talk to you.
+
+TAG: Player_000_choice_001_f
+We can have a nice walk together.
+
+TAG: Player_000_choice_002_f
+For... reasons...?
+
+TAG: Scar_003_f
+Someone? Whose name you can't tell me.
+
+TAG: Scar_005_f
+And you're serving as their messenger? How sad.
+
+TAG: Scar_006_f
+Regardless... This could be mildly amusing.
+
+TAG: Scar_002_f
+Oh, DO tell me this is a setup for one of your sad little surprises, {PlayerName}.
+
+TAG: Scar_007_f
+I suppose I was growing bored of being left COMPLETELY alone. *sigh* Well, let's get this over with.
+
+TAG: Scar_004_f
+You smell like the small, red dragon. I imagine he has something to do with this.
+
+TAG: Scar_008_f
+I will join you... Not because you were even remotely convincing...
+
+TAG: Scar_009_f
+...but because I'm bored, and I've been meaning to show Mushu who the true leader of the pride is around here...
+

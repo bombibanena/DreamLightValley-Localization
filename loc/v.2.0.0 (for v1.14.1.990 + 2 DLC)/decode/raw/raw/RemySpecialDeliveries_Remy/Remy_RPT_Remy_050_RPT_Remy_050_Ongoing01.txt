@@ -1,0 +1,18 @@
+TAG: Remy_001_f
+Have you been able to help the Fairy Godmother yet?
+
+TAG: Remy_002_f
+She's throwing a pumpkin party. <ActivityItem>Pumpkin Puffs</ActivityItem> and <ActivityItem>Pumpkin Soup</ActivityItem> ought to feed everyone.
+
+TAG: Remy_003_f
+It might be a challenge without the recipes, but I know you can handle it, {PlayerName}!
+
+TAG: Remy_004_f
+If you don't know how to make them... improvise! Experiment! Or see if you can find the recipes.
+
+TAG: Remy_005_f
+She ordered some dreamy meals â <ActivityItem>Dream Fizz</ActivityItem> and <ActivityItem>Dream Ice Cream</ActivityItem>.
+
+TAG: Remy_006_f
+She wanted some <ActivityItem>Desserts</ActivityItem>. Maybe she's finally treating herself to something nice...?
+

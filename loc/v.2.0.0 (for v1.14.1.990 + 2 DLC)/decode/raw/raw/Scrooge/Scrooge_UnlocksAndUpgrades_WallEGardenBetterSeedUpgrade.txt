@@ -1,0 +1,18 @@
+TAG: Scrooge_000_f
+Ya know, a better garden means a larger garden and a greater variety of crops. And gardening won't take up so much of your Energy, either.
+
+TAG: Player_000_choice_000_f
+Let's improve WALLÂ·E's Garden. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_002_f
+Ah, that's a grand thing! I cannae wait to see what you grow.
+
+TAG: Scrooge_005_f
+Och! You don't have enough Star Coins to improve WALLÂ·E's Garden! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_003_f
+But this is a sound investment! *sigh* Well, come back here when you come to your senses.
+

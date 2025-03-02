@@ -1,0 +1,45 @@
+TAG: Vanellope_000_f
+All right, you got the potions! Are you ready for this?
+
+TAG: Player_000_choice_000_f
+This is a really bad idea.
+
+TAG: Player_000_choice_001_f
+You know those aren't real potions, right?
+
+TAG: Player_000_choice_002_f
+Full steam ahead!
+
+TAG: Vanellope_001_f
+Too late to back out now.
+
+TAG: Vanellope_002_f
+Before you go in there, here's a big boss hint: Watch her attack patterns. When Ursula raises her tentacles, it's go time!
+
+TAG: Player_001_choice_000_f
+Great hint! Thanks, Vanellope!
+
+TAG: Player_001_choice_001_f
+I'm starting to get a little scared...
+
+TAG: Player_001_choice_002_f
+Does it have to be Ursula?
+
+TAG: Vanellope_003_f
+Let's do this!
+
+TAG: Vanellope_004_f
+We've got competition in our code, buckets of boba tea, and each other. Destiny awaits!
+
+TAG: Vanellope_005_f
+Don't be scared, pal. I'll be right there as your battle companion!
+
+TAG: Vanellope_006_f
+Uh, yeah! A magic wielder with tentacles is a boss battle classic!
+
+TAG: Vanellope_007_f
+Uh, yeah. But have you tried these? They're DELICIOUS!
+
+TAG: Vanellope_008_f
+Ha! I knew you were a fellow competition fiend!
+

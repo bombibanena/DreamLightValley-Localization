@@ -1,0 +1,945 @@
+TAG: 2d_art_specialist
+2D Специалист по искусству
+
+TAG: 2d_artist
+2D Исполнитель
+
+TAG: 2d_artists
+2D Художники
+
+TAG: 3d_artist
+3D Исполнитель
+
+TAG: 3d_artists
+3D Художники
+
+TAG: 3d_character_artists
+3D Художники
+
+TAG: 3d_programmer
+3D Программист
+
+TAG: 3d_programmers
+3D Программисты
+
+TAG: 3d_vfx_artists
+3D VFX Художники
+
+TAG: additional_art
+Дополнительное искусство
+
+TAG: additional_audio_design_vibe_avenue
+Синематический звук, музыка и координация
+
+TAG: additional_programming
+Дополнительные программы
+
+TAG: additional_voice_over_assistance
+Дополнительная помощь в организации &lt; &lt; Голос-обмена &gt; &gt;
+
+TAG: additional_writing
+Дополнительная запись
+
+TAG: animator
+Аниматор
+
+TAG: animators
+Аниматоры
+
+TAG: anti_piracy
+Противоядие
+
+TAG: apple_title
+Продюсер Apple
+
+TAG: art_director
+Директор по вопросам искусства
+
+TAG: art_directors
+Режиссёры по вопросам искусства
+
+TAG: artist
+Исполнитель
+
+TAG: assets_specialist
+Специалист по активам
+
+TAG: assets_specialists
+Специалисты по активам
+
+TAG: associate_art_director
+Младший директор по вопросам искусства
+
+TAG: associate_audio_director
+Младший аудиодиректор
+
+TAG: associate_audio_supervisor
+Младший аудиозаведующий
+
+TAG: associate_brand_relations_manager
+Младший управляющий по вопросам торговых отношений
+
+TAG: associate_manager_brand_relations
+Младший управляющий, &lt; &lt; Бранд дейс &gt; &gt;
+
+TAG: associate_producer
+Младший продюсер
+
+TAG: associate_producers
+Младшие производители
+
+TAG: associate_qa_lead
+Младший сотрудник по вопросам ОК
+
+TAG: audio_coordinator
+Координатор звука
+
+TAG: audio_director
+Директор звука
+
+TAG: audio_manager
+Аудиовизуальный менеджер
+
+TAG: audio_mixer
+Audio Mixer
+
+TAG: audio_mixers
+Аудиовизуальные миксеры
+
+TAG: audio_producer
+Продюсер звука
+
+TAG: audio_project_assistant
+Помощник по аудиопроекту
+
+TAG: audio_project_manager
+Руководитель аудиопроекта
+
+TAG: audio_qa_lead
+Звуковой QA свинец
+
+TAG: audio_qa_leads
+Звук QA ведет
+
+TAG: audio_special_thanks
+Аудио-специальная благодарность
+
+TAG: audio_team
+Аудиовизуальная команда
+
+TAG: audio_tester
+Аудиотектор
+
+TAG: audio_testers
+Аудиотекторы
+
+TAG: babies_born
+Дети, родившиеся во время производства
+
+TAG: brand_relations
+Торговые отношения
+
+TAG: business_development
+Развитие предпринимательства
+
+TAG: business_development_associate
+Ассоциированный сотрудник по вопросам развития предпринимательства
+
+TAG: business_development_associates
+Партнеры по развитию предпринимательства
+
+TAG: capture_artist
+Художник
+
+TAG: capture_artists
+Захват художников
+
+TAG: ceo_founder
+& Основатель
+
+TAG: certification_qa
+Сертификация QA
+
+TAG: certification_qa_coordinators
+Координаторы ОК по сертификации
+
+TAG: certification_qa_service_manager
+Сертификация ОК Менеджер обслуживания
+
+TAG: certification_qa_specialists
+Специалисты по сертификации
+
+TAG: certification_qa_testers
+Сертификационные испытания QA
+
+TAG: character_artists
+Художники
+
+TAG: chief_executive_officer
+Главный административный сотрудник
+
+TAG: chief_financial_officer
+Главный сотрудник по финансовым вопросам
+
+TAG: chief_operating_officer
+Главный оперативный сотрудник
+
+TAG: communications_manager
+Менеджер связи
+
+TAG: community_moderator
+Организатор работы на уровне общин
+
+TAG: community_moderators
+Ведущий общин
+
+TAG: compliance_qa
+Соблюдение ОК
+
+TAG: compliance_qa_technicians
+Техники по вопросам соблюдения требований
+
+TAG: concept_artist
+Художник концепции
+
+TAG: concept_artists
+Художники концепции
+
+TAG: console
+Консоль
+
+TAG: coordinators
+Координаторы
+
+TAG: copywriting_specialist
+Специалист по составлению копий
+
+TAG: copywriting_specialists
+Специалист по составлению копий
+
+TAG: creative_agency_director
+Директор Креативного агентства
+
+TAG: creative_director
+Креативный директор
+
+TAG: creative_directors
+Креативные директоры
+
+TAG: creative_game_director
+Креативный/Гейм-директор
+
+TAG: creative_game_directors
+Креативные/групповые директоры
+
+TAG: creative_marketing_director
+Креативный директор по маркетингу
+
+TAG: creative_specialist
+Креативный специалист
+
+TAG: creative_supervisor
+Творческий руководитель
+
+TAG: creative_team_lead
+Креативная команда
+
+TAG: data_engineer
+Инженер по обработке данных
+
+TAG: data_engineers
+Инженеры по обработке данных
+
+TAG: data_protection_analyst
+Специалист по вопросам защиты данных
+
+TAG: deployment_operations_manager
+Руководитель операций по развертыванию
+
+TAG: devops_ci_specialist
+Специалист CI
+
+TAG: director_brand_relations
+Директор, &lt; &lt; Бранд дейс &gt; &gt;
+
+TAG: director_business_development
+Директор, &lt; &lt; Развитие предпринимательства &gt; &gt;
+
+TAG: director_marketing
+Директор по вопросам маркетинга
+
+TAG: director_production_localization
+Директор по вопросам производства и локализации
+
+TAG: disney_character_voices
+Диснейские голоса символов
+
+TAG: disney_pixar_fans
+...и все фанаты Disney & Pixar
+
+TAG: embedded_qa_lead
+Встроенный свинец QA
+
+TAG: embedded_qa_leads
+Встроенные свинец QA
+
+TAG: embedded_qa_tester
+Встроенный QA Tester
+
+TAG: embedded_qa_testers
+Встроенные QA-тестеры
+
+TAG: english_localization
+Перевод на английский язык
+
+TAG: environment_artists
+Художники, занимающиеся вопросами окружающей среды
+
+TAG: executive_producer
+Исполнительный продюсер
+
+TAG: executive_producers
+Исполнительные производители
+
+TAG: factory_manager
+Менеджер завода
+
+TAG: featuring_the_voice_talents_of
+Претворение талантов голоса
+
+TAG: feedback_club
+Клуб обратной связи
+
+TAG: freelancers
+Внештатные сотрудники
+
+TAG: french_localization
+Французская локализация
+
+TAG: game_community_manager
+Менеджер Game Community
+
+TAG: game_community_managers
+Менеджеры Games Community
+
+TAG: game_designer
+Дизайнер игры
+
+TAG: game_designers
+Дизайнеры игр
+
+TAG: game_economy_designers
+Дизайнеры Game Economy
+
+TAG: game_health_monitoring
+Наблюдение за состоянием здоровья в играх
+
+TAG: game_manager
+Менеджер игры
+
+TAG: game_title
+СВЯЗЬ С СВОБОДОЙ ВАЛЛИ
+
+TAG: gameloft_rights_reserved
+Gameloft и логотип Gameloft - зарегистрированные товарные знаки Gameloft.
+
+TAG: german_localization
+Немецкая локализация
+
+TAG: global_audio_director
+Директор по глобальным аудиоматериалам
+
+TAG: head_of_business_development
+Руководитель отдела развития предпринимательства
+
+TAG: head_of_ip
+Руководитель КП
+
+TAG: head_of_qa
+Руководитель ОК
+
+TAG: huwiz_qa_ux
+HUWIZ QA/UX
+
+TAG: influencer_marketing_manager
+Менеджер по маркетингу &lt; &lt; Влиятель &gt; &gt;
+
+TAG: influencer_marketing_managers
+Менеджеры по маркетингу &lt; &lt; Влиятель &gt; &gt;
+
+TAG: influencer_specialist
+Специалист по воздействию
+
+TAG: ip_legal_counsel
+IP Юрисконсульт
+
+TAG: it_infrastructure_managers
+Руководители инфраструктуры ИТ
+
+TAG: italian_localization
+Итальянская локализация
+
+TAG: japanese_localization
+Японская локализация
+
+TAG: lead_2d_artist
+Ведущий 2D-исполнитель
+
+TAG: lead_3d_artist
+Ведущий 3D-исполнитель
+
+TAG: lead_animator
+Ведущий аниматор
+
+TAG: lead_animators
+Ведущие аниматоры
+
+TAG: lead_character_artist
+Ведущий персонаж
+
+TAG: lead_environment_artist
+Ведущий специалист в области охраны окружающей среды
+
+TAG: lead_environment_artists
+Ведущие специалисты в области охраны окружающей среды
+
+TAG: lead_game_designer
+Ведущий дизайн игры
+
+TAG: lead_game_designers
+Ведущие дизайнеры игр
+
+TAG: lead_level_designer
+Проектировщик уровня свинца
+
+TAG: lead_motion_designer
+Ведущий дизайнер движения
+
+TAG: lead_producer
+Ведущий производитель
+
+TAG: lead_product_manager
+Ведущий менеджер по продуктам
+
+TAG: lead_programmer
+Ведущий программист
+
+TAG: lead_programmers
+Ведущие программисты
+
+TAG: lead_technical_game_designer
+Ведущий технический дизайн игры
+
+TAG: lead_technical_game_designers
+Ведущие технические дизайнеры игр
+
+TAG: lead_writer_narrative_designer
+Ведущая писательница и дизайнер
+
+TAG: legal_counsel
+Юрисконсульт
+
+TAG: level_designers
+Конструкторы уровня
+
+TAG: local_community_managers
+Руководители местных общин
+
+TAG: local_marketing_manager
+Местный менеджер по маркетингу
+
+TAG: localization_coordinator
+Координатор по вопросам локализации
+
+TAG: localization_coordinators
+Координаторы по вопросам локализации
+
+TAG: localization_manager
+Менеджер по вопросам локализации
+
+TAG: localization_qa_coordinators
+Координаторы ОК
+
+TAG: localization_technology_coordinator
+Координатор по технологии локализации
+
+TAG: management
+Руководство
+
+TAG: manager_audio
+Аудиовизуальный менеджер
+
+TAG: marketing
+Маркетинг
+
+TAG: marketing_artist
+Художник маркетинга
+
+TAG: marketing_coordinator
+Координатор по вопросам маркетинга
+
+TAG: marketing_lead
+Свинец в маркетинге
+
+TAG: microsoft_xbox
+Microsoft Xbox
+
+TAG: montreal_it_department
+Монреальский департамент ИТ
+
+TAG: motion_designer
+Дизайнер движения
+
+TAG: motion_designers
+Дизайнеры движения
+
+TAG: music_composer
+Композитор музыки
+
+TAG: music_composers
+Композиторы музыки
+
+TAG: music_composition
+Музыкальный состав
+
+TAG: music_team
+Музыкальная команда
+
+TAG: narrative_designer
+Скриншотный дизайнер
+
+TAG: narrative_designers
+Описывающие дизайнеры
+
+TAG: nintendo_switch
+Переключатель Nintendo
+
+TAG: ott_operations_director
+Директор по операциям УОТТ
+
+TAG: outsourcing
+Внешний подряд
+
+TAG: outsourcing_coordinator
+Координатор по внешним подрядам
+
+TAG: personal_computer
+ПК
+
+TAG: platform_operations_manager
+Менеджер по эксплуатации платформы
+
+TAG: player_qos_qa
+Игрок QOS QA
+
+TAG: producer
+Продюсер
+
+TAG: producer_i
+Продюсер I
+
+TAG: producer_ii
+Продюсер II
+
+TAG: producer_iii
+Продюсер III
+
+TAG: producers
+Производители
+
+TAG: producers_ii
+Продюсеры II
+
+TAG: product_development
+Разработка продукции
+
+TAG: product_manager
+Менеджер продукта
+
+TAG: product_managers
+Менеджеры продуктов
+
+TAG: product_marketing_managers
+Менеджеры по маркетингу продукции
+
+TAG: production_coordinator
+Координатор по вопросам производства
+
+TAG: production_manager
+Руководитель производства
+
+TAG: production_supervisor
+Орган по контролю за производством
+
+TAG: professional_intern_games_audio
+Профессиональный стажер, Game Audio
+
+TAG: programmer
+Программист
+
+TAG: programmers
+Программисты
+
+TAG: project_coordinator
+Координатор проекта
+
+TAG: project_coordinators
+Координаторы проектов
+
+TAG: public_relations
+Связи с общественностью
+
+TAG: qa_business_unit
+Бизнес-группа &lt; &lt; QA &gt; &gt;
+
+TAG: qa_director
+Директор ОК
+
+TAG: qa_lead
+QA Свинец
+
+TAG: qa_lead_tester
+QA Свинцовый тестер
+
+TAG: qa_lead_testers
+QA Свинцовые тестеры
+
+TAG: qa_leads
+QA свинец
+
+TAG: qa_manager
+Менеджер QA
+
+TAG: qa_manager_small
+Менеджер QA
+
+TAG: qa_managers_small
+Менеджеры QA
+
+TAG: qa_pm
+QA PM
+
+TAG: qa_program_manager
+Руководитель программы QA
+
+TAG: qa_program_managers
+Руководители программ ОК
+
+TAG: qa_project_manager
+Руководитель проекта QA
+
+TAG: qa_project_managers
+ОК Руководители проектов
+
+TAG: qa_senior_project_manager
+QA Старший руководитель проекта
+
+TAG: qa_service_manager
+Управляющий обслуживанием QA
+
+TAG: qa_service_managers
+ОК Руководители служб
+
+TAG: qa_services_managers
+ОК Руководители служб
+
+TAG: qa_team
+Группа QA
+
+TAG: qa_tester
+QA Тестер
+
+TAG: qa_testers
+QA-тестеры
+
+TAG: qa_testers_small
+QA-тестеры
+
+TAG: research_specialist
+Специалист по научным исследованиям
+
+TAG: research_specialists
+Специалисты по исследованиям
+
+TAG: senior_artist
+Старший исполнитель
+
+TAG: senior_game_designer
+Старший дизайнер игр
+
+TAG: senior_legal_counsel
+Старший юрисконсульт
+
+TAG: senior_level_designer
+Проектировщик старшего уровня
+
+TAG: senior_level_designers
+Дизайнеры старшего уровня
+
+TAG: senior_manager_brand_relations
+Старший управляющий по вопросам торговых отношений
+
+TAG: senior_manager_comms_games_merchandise
+Старший менеджер, игры связи и торговля
+
+TAG: senior_manager_marketing
+Старший менеджер по маркетингу
+
+TAG: senior_managers_brand_relations
+Старшие руководители, торговые отношения
+
+TAG: senior_music_supervisor
+Старший музыкальный руководитель
+
+TAG: senior_narrative_designer
+Старший дизайнер
+
+TAG: senior_narrative_designers
+Старшие дизайнеры
+
+TAG: senior_platform_operations_manager
+Старший руководитель операций по платформе
+
+TAG: senior_producer
+Старший продюсер
+
+TAG: senior_product_marketing_manager
+Старший менеджер по маркетингу продукции
+
+TAG: senior_technical_qa_analyst
+Старший технический аналитик по ОК
+
+TAG: senior_ui_ux_designer
+Старший дизайнер UI/UX
+
+TAG: senior_vice_president_production
+Старший вице-президент
+
+TAG: senior_vice_president_strategic_partnership
+Старший вице-президент Стратегическое партнерство
+
+TAG: senior_world_designer
+Старший дизайнер мира
+
+TAG: sign_in_with_apple_unity_plugin
+Подпишитесь с Apple Unity Plugin
+
+TAG: simplified_chinese_localization
+Упрощенная локализация в Китае
+
+TAG: sony_playstation
+Sony PlayStation
+
+TAG: sound_designer
+Звуковой дизайнер
+
+TAG: sound_designers
+Звуковые дизайнеры
+
+TAG: spanish_localization
+Локализация на испанском языке
+
+TAG: special_thanks
+Особая благодарность
+
+TAG: special_thanks_friends
+Спасибо нашим друзьям и семье, которые поддерживали нас в невероятном приключении, которое является творением Дисней Древней Долины.<lw><lw>Thank You Disney and Pixar за представление всех этих невероятных историй и персонажей, с которыми мы выросли. Кроме того, спасибо всем фанатам Disney во всем мире, которые поддерживают волшебство.<lw><lw> в конце концов, особая благодарность вам, нашим игрокам. Эта игра является результатом большой тяжелой работы и любви многих людей. Вы не представляете, как мы рады делиться этим опытом с вами.<lw><lw>To бесконечность и далее.
+
+TAG: special_thanks_game_team
+СПЕЦИАЛЬНЫЕ ХАРАКТЕРИСТИКИ ГАМЕРСКОЙ ГРУППЫ
+
+TAG: special_thanks_to_our_qa_partners
+& Особая благодарность нашим партнерам QA
+
+TAG: special_thanks_ukraine
+Спасибо всем нашим коллегам, друзьям и семьям на Украине: без Ваших неустанных усилий в чрезвычайно трудных обстоятельствах невозможно было бы ничего из этого, мы посылаем вам всю нашу солидарность, любовь и силу, от всего сердца благодарю вас за вашу неизменную поддержку.
+
+TAG: studio_2d_art_director
+Студия 2D Директор по вопросам искусства
+
+TAG: studio_art_director
+Директор по искусству студии
+
+TAG: studio_design_director
+Директор студийного дизайна
+
+TAG: studio_design_manager
+Менеджер студийного дизайна
+
+TAG: studio_directors
+Директоры студий
+
+TAG: studio_lead_game_designer
+Студийный дизайнер игровой игры
+
+TAG: studio_lead_game_designers
+Дизайнеры студийных ведущих игр
+
+TAG: studio_lead_producer
+Студийный ведущий продюсер
+
+TAG: studio_lead_programmer
+Студийный ведущий программист
+
+TAG: studio_lead_programmers
+Студии ведущих программистов
+
+TAG: studio_manager
+Менеджер студии
+
+TAG: studio_marketing_director
+Директор по маркетингу студий
+
+TAG: studio_marketing_directors
+Директоры по маркетингу студий
+
+TAG: studio_qa_manager
+Менеджер студии QA
+
+TAG: studio_technical_director
+Технический директор студии
+
+TAG: svp_creative
+СВП, творческий
+
+TAG: system_integration_qa_coordinators
+Координаторы ОК по интеграции систем
+
+TAG: system_integration_qa_lead
+Интеграция систем QA Свинец
+
+TAG: system_integration_qa_service_manager
+Менеджер обслуживания ОК по интеграции систем
+
+TAG: system_integration_qa_specialists
+Специалисты по интеграции систем
+
+TAG: system_integration_qa_testers
+Проверочные QA
+
+TAG: systems_integration_qa
+Интеграция систем QA
+
+TAG: team_lead
+Группа &lt; &lt; Свинец &gt; &gt;
+
+TAG: technical_animator
+Технический аниматор
+
+TAG: technical_animators
+Технические аниматоры
+
+TAG: technical_artist
+Технический исполнитель
+
+TAG: technical_artists
+Технические художники
+
+TAG: technical_audio_designer
+Технический звукодизайнер
+
+TAG: technical_department_manager
+Руководитель технического департамента
+
+TAG: technical_director
+Технический директор
+
+TAG: technical_game_designer
+Технический дизайн игры
+
+TAG: technical_game_designers
+Технологические дизайнеры игр
+
+TAG: technical_localization_specialist
+Специалист по технической локализации
+
+TAG: technical_qa_analyst
+Технический аналитик по ОК
+
+TAG: thank_you_for_playing
+Спасибо за игру!
+
+TAG: thank_you_to
+Спасибо {name}
+
+TAG: tracking_specs
+Отслеживание спекуляций
+
+TAG: trailer_sound_design_and_mix
+Проектирование звука прицепа и смешение
+
+TAG: ui_developer
+Разработчик UI
+
+TAG: ui_developers
+Разработчики UI
+
+TAG: ui_ux_artist
+Художник UI/UX
+
+TAG: ui_ux_artists
+Художники UI/UX
+
+TAG: user_acquisition_manager
+Приобретатель
+
+TAG: user_acquisition_managers
+Менеджеры-пользователи
+
+TAG: user_acquisition_team_lead
+Команда пользователей
+
+TAG: user_acquisition_team_leads
+Команда пользователей
+
+TAG: user_experience_qa
+Опыт пользователя QA
+
+TAG: vfx_artist
+Художник VFX
+
+TAG: vfx_artists
+VFX Художники
+
+TAG: vfx_lead
+VFX Свинец
+
+TAG: vice_president_creation
+Вице-президент
+
+TAG: vice_president_production_operation
+Вице-президент:
+
+TAG: video_editor
+Редактор видеоматериалов
+
+TAG: video_motion_specialists
+Специалисты по видеоматериалам/моторам
+
+TAG: voice_over_designer
+Голосовой дизайнер
+
+TAG: vp_business_dev_licensing_games
+ВП, бизнес-дев и лицензирование, игры
+
+TAG: vp_creative
+ВП, творческий
+
+TAG: vp_disney_pixar_games
+VP, Disney & Pixar Игры
+
+TAG: vp_marketing
+ВП, маркетинг
+
+TAG: vp_tech_services
+VP Tech & Services
+
+TAG: world_qa_manager
+Всемирный менеджер QA
+
+TAG: worldwide_audio_director
+Всемирный аудиодиректор
+
+TAG: worldwide_audio_manager
+Всемирный менеджер аудиоматериалов
+

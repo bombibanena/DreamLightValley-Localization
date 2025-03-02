@@ -1,0 +1,30 @@
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Any_CompletedRequestDescription
+Talk to Elsa.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_AvailableDescription
+It's time to bring Elsa to Dreamlight Valley.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_CompletedStoryDescription
+Now that Elsa is in the Village, you'll be able to find out what she thinks of it.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_DisplayName
+Welcoming Elsa
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group01_Step01_TalkToCharacter01_StepDescription
+Go to the Frozen Realm and talk to Elsa.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What now?
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group02_Step02_VisitArea01_StepDescription
+Return to Dreamlight Valley.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group03_Step03_UnlockCharacter01_StepDescription
+Welcome Elsa to Dreamlight Valley.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group03_StoryDescription
+Elsa wants to come to Dreamlight Valley to visit Anna and solve the mystery of the strange Ice Cavern.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

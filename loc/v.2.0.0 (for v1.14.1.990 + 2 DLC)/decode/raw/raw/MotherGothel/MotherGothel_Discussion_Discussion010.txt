@@ -1,0 +1,51 @@
+TAG: MotherGothel_000_f
+{PlayerName}, I'm feeling a little run-down. Unappreciated. Alone.
+
+TAG: MotherGothel_001_f
+Say something to make me feel better.
+
+TAG: Player_000_choice_000_f
+Your hair is so dark and glossy.
+
+TAG: Player_000_choice_001_f
+Your dress sense is on point.
+
+TAG: Player_000_choice_002_f
+You're capable and cunning.
+
+TAG: MotherGothel_002_f
+I've often thought it's one of my best features.
+
+TAG: MotherGothel_005_f
+Go on. There must be more.
+
+TAG: Player_001_choice_000_f
+You're absolutely ruthless.
+
+TAG: Player_001_choice_001_f
+You're a strong, independent woman.
+
+TAG: Player_001_choice_002_f
+Your skin has very few wrinkles!
+
+TAG: MotherGothel_006_f
+I'll assume you meant that as a compliment.
+
+TAG: MotherGothel_009_f
+Ahh, I feel much better now. Thank you, dear.
+
+TAG: MotherGothel_007_f
+I am, aren't I?
+
+TAG: MotherGothel_008_f
+Correction, dear â my skin has NO wrinkles.
+
+TAG: MotherGothel_010_f
+Clearly, your eyesight leaves something to be desired.
+
+TAG: MotherGothel_003_f
+It is, isn't it? This is velvet, you know.
+
+TAG: MotherGothel_004_f
+Mmm. That's true, I am.
+

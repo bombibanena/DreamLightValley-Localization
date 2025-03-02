@@ -1,0 +1,84 @@
+TAG: Hades_001_f
+Heyyyy Hades. How are you feeling?
+
+TAG: Player_000_choice_000_f
+That was kinda brutal.
+
+TAG: Player_000_choice_001_f
+I guess you need a little more DJ practice?
+
+TAG: Player_000_choice_002_f
+I hope you have a more accurate view of your DJ skills now.
+
+TAG: Hades_004_f
+I feel like I just went five rounds with Wonder Boy...
+
+TAG: Hades_013_f
+The mistake I made was doing anything for you mortals in the first place. Artists perform FOR ME! Not the other way around.
+
+TAG: Player_001_choice_000_f
+Ah, so we learned nothing.
+
+TAG: Player_001_choice_001_f
+I didn't know there were performances in the Underworld.
+
+TAG: Player_001_choice_002_f
+Yeah, you're better than that!
+
+TAG: Hades_007_f
+You sure you don't want to try again? Maybe with a simpler concept?
+
+TAG: Hades_008_f
+No. No way. Absolutely not. We are done with this for now. In fact...
+
+TAG: Hades_009_f
+EVERYBODY OUT!!!
+
+TAG: Hades_010_f
+There... much better.
+
+TAG: Hades_011_f
+So, what have we learned about jumping headfirst into new endeavors and expectations about our abilities?
+
+TAG: Hades_012_f
+Oh no, you don't get to "moral of the story" me.
+
+TAG: Hades_014_f
+ENOUGH!
+
+TAG: Hades_027_f
+Wow, and that's my cue to leave â bye Hades!
+
+TAG: Hades_017_f
+I... I just gotta go back to doin' what I do best â brimstone, souls and suffering!
+
+TAG: Hades_019_f
+Let's just forget about this whole thing, okay?
+
+TAG: Hades_021_f
+Still, you were a good head minion. You get the whole beck and call thing.
+
+TAG: Hades_023_f
+So here â a little reward for not totally screwing up.
+
+TAG: Hades_024_f
+Aww, thanks, Hades!
+
+TAG: Hades_025_f
+Yeah, yeah, you're not worthy, you bow before me, I've heard it all before.
+
+TAG: Hades_026_f
+Now maybe I can modify that Lightning Generator to REALLY put out some big bolts...
+
+TAG: Hades_015_f
+Nice. Thank you. I happened to forget for one moment that all the other gods get the parties and the entertainment, and YOU have to go and remind me!
+
+TAG: Hades_016_f
+{PlayerName}... you're a gem.
+
+TAG: Hades_005_f
+What? No! Everyone here had horrible taste.
+
+TAG: Hades_006_f
+What I have is an accurate view of the terrible taste you all have.
+

@@ -1,0 +1,24 @@
+TAG: Elsa_000_f
+О, это идеально!
+
+TAG: Elsa_003_f
+Эти Ингредиенты должны хорошо работать.
+
+TAG: Elsa_004_f
+Теперь, чтобы смешать их вместе...
+
+TAG: Elsa_005_f
+Как я и помню.
+
+TAG: Elsa_007_f
+Знаешь, я уже начинаю чувствовать себя как дома.
+
+TAG: Elsa_001_f
+В дополнение к <ActivityItem>Dandelion Syrup</ActivityItem>, <ActivityItem>Wheat</ActivityItem> и <ActivityItem>Butter</ActivityItem>, нам понадобится рыба...
+
+TAG: Elsa_006_f
+Я помню, как мы использовали специальную рыбу <ActivityItem>Glittering Herring</ActivityItem>, которая появилась только <Lore>in the Glade of Trust в дождливые дни</Lore>.
+
+TAG: Elsa_002_f
+О, и вот тот <ActivityItem>Dandelion Syrup</ActivityItem>, который мы вместе сделали.
+

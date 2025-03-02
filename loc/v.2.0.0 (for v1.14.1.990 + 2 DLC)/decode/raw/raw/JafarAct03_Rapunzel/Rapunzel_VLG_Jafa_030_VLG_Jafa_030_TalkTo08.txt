@@ -1,0 +1,78 @@
+TAG: Rapunzel_002_f
+Hi, Rapunzel. I'm checking in with the Villagers around here: Are you feeling all right?
+
+TAG: Rapunzel_004_f
+<i>Why yes, I am feeling excellent. Thank you for inquiring, {PlayerName}.</i>
+
+TAG: Rapunzel_003_f
+Because Oswald â and Gaston for that matter â have been feeling and acting strange lately.
+
+TAG: Rapunzel_007_f
+I want to make sure that there isn't a bug, or something worse, going around.
+
+TAG: Rapunzel_008_f
+<i>Oh, I am certain that Oswald will recuperate presently.</i>
+
+TAG: Rapunzel_009_f
+<i>There is no need for you to spend your limited time on such a trifling issue.</i>
+
+TAG: Player_000_choice_000_f
+If you say so...
+
+TAG: Player_000_choice_001_f
+You're not concerned?
+
+TAG: Player_000_choice_002_f
+You're speaking... strangely.
+
+TAG: Rapunzel_010_f
+<i>I do! Have I ever spoken untruth to you, {PlayerName}?</i>
+
+TAG: Rapunzel_025_f
+<i>Now, if you will excuse me, I have important affairs that require my attention.</i>
+
+TAG: Rapunzel_026_f
+Uhh, sure, I guess.
+
+TAG: Rapunzel_013_f
+No, I guess not.
+
+TAG: Rapunzel_014_f
+But something seems weird with you too.
+
+TAG: Rapunzel_015_f
+What if we try and do something nice for Oswald? I was thinking of grabbing EVE and seeing if she can make some fun mods to his Trolleyâ
+
+TAG: Rapunzel_016_f
+<i>Ugh, that flying... contraption? I think not!</i>
+
+TAG: Rapunzel_017_f
+What? What's wrong with EVE?
+
+TAG: Rapunzel_018_f
+<i>You do not need her help, {PlayerName}. In fact, you do not need the help of anyone here.</i>
+
+TAG: Rapunzel_019_f
+You don't sound like yourself, Rapunzel.
+
+TAG: Rapunzel_024_f
+<i>Perhaps, in the past, you have not listened to me closely.</i>
+
+TAG: Rapunzel_012_f
+<i>Of course not! Why would I be?</i>
+
+TAG: Rapunzel_023_f
+Huh, that's weird.
+
+TAG: Rapunzel_011_f
+<i>Is this not my standard style of discourse?</i>
+
+TAG: Rapunzel_021_f
+Uhh, no.
+
+TAG: Rapunzel_005_f
+Because Oswald â and Mr. McDuck for that matter â have been feeling and acting strange lately.
+
+TAG: Rapunzel_006_f
+Oswald has been feeling strange lately.
+

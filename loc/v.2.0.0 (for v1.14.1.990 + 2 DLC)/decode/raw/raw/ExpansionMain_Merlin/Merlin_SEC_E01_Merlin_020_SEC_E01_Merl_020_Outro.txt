@@ -1,0 +1,24 @@
+TAG: Merlin_001_f
+Marvelous! Your Royal Tools have been <Lore>infused with the magic of the Hourglass</Lore>!
+
+TAG: Merlin_002_f
+You should have no trouble <Lore>removing the smaller pieces of rubble, the glass stalagmites, and the malicious plants now</Lore>.
+
+TAG: Merlin_004_f
+Though I'm afraid the larger ones may require more research...
+
+TAG: Player_000_choice_000_f
+Let's research fast! I want to clean up the whole Isle!
+
+TAG: Player_000_choice_001_f
+No problem! I already have enough to clean up around here.
+
+TAG: Merlin_000_f
+Such determination! Quite admirable. Well, I'm off to my library to do just that.
+
+TAG: Merlin_003_f
+I'll be sure to let you know if anything turns up.
+
+TAG: Merlin_005_f
+Yes, it seems like you've got your hands, er, quite full. I'll just return to my library and get to work.
+

@@ -1,0 +1,36 @@
+TAG: WallE_000_f
+*beep*
+
+TAG: Player_000_choice_000_f
+Is that a yes?
+
+TAG: Player_000_choice_001_f
+Is that a no?
+
+TAG: Player_000_choice_002_f
+You have a new directive?!
+
+TAG: WallE_001_f
+WALLÂ·E!
+
+TAG: WallE_002_f
+Good luck, then!
+
+TAG: WallE_003_f
+Uh...
+
+TAG: WallE_004_f
+Well, keep a look out!
+
+TAG: WallE_005_f
+You never know when your talents will be needed!
+
+TAG: WallE_006_f
+Ta-da!
+
+TAG: WallE_007_f
+Garbage clean-up AND matchmaking?!
+
+TAG: WallE_008_f
+I'm impressed, WALLÂ·E!
+

@@ -1,0 +1,30 @@
+TAG: Merlin_000_f
+{PlayerName}, I see you've found another <Lore>mysterious Time Rift</Lore>. This too is connected to the magic of your Hourglass.
+
+TAG: Merlin_001_f
+Channel the magical <ActivityItem>Mist</ActivityItem> within it to mend this wound in time and space...
+
+TAG: Merlin_002_f
+When you do, you can explore another area of the Wild Tangle... the <Lore>Grove</Lore>!
+
+TAG: Player_000_choice_000_f
+I'll channel the magic of the Hourglass... (Use {UpgradePrice} <sprite="iconCurrencyMist" index=0>)
+
+TAG: Player_000_choice_001_f
+I'm not quite ready yet...
+
+TAG: Merlin_003_f
+At last! You can explore the Grove, {PlayerName}! Why, it's almost as if this grove hums with life of its own, all waiting to be discovered!
+
+TAG: Merlin_004_f
+Yes... yes... What?! No! You don't have enough <ActivityItem>Mist</ActivityItem> to mend this Time Rift.
+
+TAG: Merlin_005_f
+Remember... the <ActivityItem>Mist</ActivityItem> is <Lore>connected to the magic of your Hourglass and to Eternity Isle itself</Lore>.
+
+TAG: Merlin_006_f
+You must keep uncovering wonders with your Hourglass and continue to make Eternity Isle a home. As you do, you'll gain the <ActivityItem>Mist</ActivityItem> required!
+
+TAG: Merlin_007_f
+Well, that's fine, but don't take long. There's much to discover, you know.
+

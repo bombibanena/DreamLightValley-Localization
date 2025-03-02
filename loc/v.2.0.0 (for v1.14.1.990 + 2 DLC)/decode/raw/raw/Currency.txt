@@ -1,0 +1,132 @@
+TAG: DaisyCoin_DisplayName
+Daisy Coin
+
+TAG: DaisyCoin_PluralDisplayName
+Daisy Coins
+
+TAG: DreamDust_DisplayName
+Dreamlight
+
+TAG: DreamDust_PluralDisplayName
+Dreamlight
+
+TAG: Dust_DisplayName
+Dust
+
+TAG: Dust_PluralDisplayName
+Dust
+
+TAG: Gem_DisplayName
+Moonstone
+
+TAG: Gem_PluralDisplayName
+Moonstones
+
+TAG: Heart_DisplayName
+Heart
+
+TAG: Heart_PluralDisplayName
+Hearts
+
+TAG: Mist_DisplayName
+Mist
+
+TAG: Mist_PluralDisplayName
+Mists
+
+TAG: PixelDust_DisplayName
+Pixel Dust
+
+TAG: PixelDust_PluralDisplayName
+Pixel Dust
+
+TAG: ShardsBoo_DisplayName
+Boo Shards
+
+TAG: ShardsBoo_PluralDisplayName
+Boo Shards
+
+TAG: ShardsBoPeep_DisplayName
+Bo Peep Shards
+
+TAG: ShardsBoPeep_PluralDisplayName
+Bo Peep Shards
+
+TAG: ShardsMickeyMouse_DisplayName
+Mickey Mouse Shards
+
+TAG: ShardsMickeyMouse_PluralDisplayName
+Mickey Mouse Shards
+
+TAG: ShardsMinnieMouse_DisplayName
+Minnie Mouse Shards
+
+TAG: ShardsMinnieMouse_PluralDisplayName
+Minnie Mouse Shards
+
+TAG: ShardsOlaf_DisplayName
+Olaf Shards
+
+TAG: ShardsOlaf_PluralDisplayName
+Olaf Shards
+
+TAG: ShardsRafiki_DisplayName
+Rafiki Shards
+
+TAG: ShardsRafiki_PluralDisplayName
+Rafiki Shards
+
+TAG: ShardsShank_DisplayName
+Shank Shards
+
+TAG: ShardsShank_PluralDisplayName
+Shank Shards
+
+TAG: StarCoin_DisplayName
+Star Coin
+
+TAG: StarCoin_PluralDisplayName
+Star Coins
+
+TAG: StorybookMagic_DisplayName
+Storybook Magic
+
+TAG: StorybookMagic_PluralDisplayName
+Storybook Magic
+
+TAG: Ticket_DisplayName
+Ticket
+
+TAG: Ticket_PluralDisplayName
+Tickets
+
+TAG: Transmute!AncientPart_DisplayName
+{Placeholder}AncientPart_currency
+
+TAG: Transmute!AncientPart_PluralDisplayName
+Ancient Parts
+
+TAG: Transmute!Core_DisplayName
+{Placeholder}Core_currency
+
+TAG: Transmute!Core_PluralDisplayName
+Cores
+
+TAG: Transmute!Gift_DisplayName
+{Placeholder}Gift_currency
+
+TAG: Transmute!Gift_PluralDisplayName
+Gifts
+
+TAG: Transmute!Shard_DisplayName
+{Placeholder}Shard_currency
+
+TAG: Transmute!Shard_PluralDisplayName
+Shards
+
+TAG: WishToken_DisplayName
+Wish Token
+
+TAG: WishToken_PluralDisplayName
+Wish Tokens
+

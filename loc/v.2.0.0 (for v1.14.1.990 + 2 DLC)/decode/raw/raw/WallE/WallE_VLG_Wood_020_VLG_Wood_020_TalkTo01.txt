@@ -1,0 +1,51 @@
+TAG: WallE_000_f
+Ha!
+
+TAG: WallE_002_f
+Hey, WALLÂ·E. I'm trying to help Woody fix the Carousel and I was wondering if...
+
+TAG: WallE_003_f
+Whoopeee! Earth!
+
+TAG: Player_001_f
+No, not Earth. Directive: light! I want to make...
+
+TAG: Player_001_choice_000_f
+...Woody happy.
+
+TAG: Player_001_choice_001_f
+...the Carousel look pretty.
+
+TAG: Player_001_choice_002_f
+...the Village perfect.
+
+TAG: WallE_011_f
+Oh!
+
+TAG: WallE_017_f
+So I'll need to gather some materials in your Realm, then craft the <ActivityItem>Fuse Box</ActivityItem>. Thanks, WALLÂ·E!
+
+TAG: WallE_018_f
+Whoopeee!
+
+TAG: WallE_004_f
+Ta-da!
+
+TAG: WallE_015_f
+Huh? What are these? Oh, <ActivityItem>Fuse Box Blueprints</ActivityItem>! Thanks, WALLÂ·E!
+
+TAG: WallE_012_f
+Ah... ah... ah!
+
+TAG: WallE_013_f
+WALLÂ·E... Directive: Earth.
+
+TAG: WallE_016_f
+Yes... Earth. Very good. The planet we both come from.
+
+TAG: WallE_001_f
+Oh, wait. Do you mean I need to go back to where I first met you to find the components?
+
+TAG: WallE_008_f
+Earth... Okay!
+

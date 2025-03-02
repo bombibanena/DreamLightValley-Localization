@@ -1,0 +1,48 @@
+TAG: Nala_001_f
+{PlayerName}, do you have a favorite animal to hunt?
+
+TAG: Player_000_choice_001_f
+Pizza.
+
+TAG: Player_000_choice_002_f
+I'm vegetarian.
+
+TAG: Player_000_choice_003_f
+Big, fat, juicy grubs.
+
+TAG: Nala_003_f
+I've never hunted a pizza before. Is it hard?
+
+TAG: Player_001_choice_000_f
+Very hard.
+
+TAG: Player_001_choice_001_f
+Pretty easy.
+
+TAG: Nala_005_f
+I like hunting prey that's hard to catch. It's a challenge.
+
+TAG: Nala_000_f
+I'll keep my eye out for some of this "pizza."
+
+TAG: Nala_006_f
+Then you must hunt a lot of pizza. It sounds like a good way to feed your pride.
+
+TAG: Nala_004_f
+Oh, does that mean you eat grass, like the antelope?
+
+TAG: Player_002_choice_000_f
+Sort of.
+
+TAG: Player_002_choice_001_f
+No. Other plants.
+
+TAG: Nala_007_f
+I understand. Everyone has their place in the Circle of Life.
+
+TAG: Nala_008_f
+You'd like Timon and Pumbaa's jungle, then. I've never seen so many different kinds of plants before.
+
+TAG: Nala_009_f
+Oh, just like Timon and Pumbaa.
+

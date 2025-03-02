@@ -1,0 +1,39 @@
+TAG: Simba_001_f
+Huh? That looks just like <ActivityItem>Rafiki's Walking Stick</ActivityItem>.
+
+TAG: Simba_002_f
+You're not gonna bop me on the head with it, are you?
+
+TAG: Player_000_choice_000_f
+Of course not!
+
+TAG: Player_000_choice_001_f
+We need it for a spell.
+
+TAG: Player_000_choice_002_f
+Only if you want me to.
+
+TAG: Simba_003_f
+Good.
+
+TAG: Simba_007_f
+Merlin told me that to cast this spell, I'd need to start by finding something to remind you of the past.
+
+TAG: Simba_008_f
+Well, that definitely works. Just looking at that thing makes me think of all the things Rafiki's told me.
+
+TAG: Simba_009_f
+Then I think it's time for the next part of the enchantment.
+
+TAG: Simba_010_f
+Stand back. This is going to take a lot of Dreamlight Magic to cast. Merlin says it might be dangerous.
+
+TAG: Simba_011_f
+I don't think we'll be able to try this twice if it goes wrong...
+
+TAG: Simba_004_f
+A... spell?
+
+TAG: Simba_005_f
+That's okay. I'm not really looking for a headache today.
+

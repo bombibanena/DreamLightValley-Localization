@@ -1,0 +1,27 @@
+TAG: Olaf_000_f
+Ooh, {PlayerName}! Did you talk to Mr. McDuck, Buzz Lightyear, and Anna about auditioning for the play?
+
+TAG: Olaf_001_f
+Er, yeah. Mr. McDuck said the pay wasn't worth it.
+
+TAG: Olaf_002_f
+And Buzz... I don't know if he's got the range for this role.
+
+TAG: Olaf_003_f
+What about Anna?
+
+TAG: Olaf_004_f
+She said she'd love to audition!
+
+TAG: Player_000_choice_000_f
+I think she'd be great!
+
+TAG: Player_000_choice_001_f
+I think she'd be okay.
+
+TAG: Player_000_choice_002_f
+She was basically the only option.
+
+TAG: Olaf_005_f
+Oh, I'm sure Anna will be perfect for the role. Let's go audition her right now!
+

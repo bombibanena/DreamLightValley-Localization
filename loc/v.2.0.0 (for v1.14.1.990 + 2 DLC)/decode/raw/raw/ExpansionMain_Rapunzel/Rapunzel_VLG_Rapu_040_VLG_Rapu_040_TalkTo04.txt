@@ -1,0 +1,12 @@
+TAG: Rapunzel_000_f
+That was amazing! And it was so nice to have visitors.
+
+TAG: Rapunzel_001_f
+Thank you for helping me get things ready for the class, {PlayerName}. I couldn't have done it without you.
+
+TAG: Rapunzel_002_f
+Here. I put together something for you. It's a canvas. I thought you might want to make art of your own!
+
+TAG: Rapunzel_003_f
+Why don't we <Lore>meet at your House</Lore> and hang up some art together?
+

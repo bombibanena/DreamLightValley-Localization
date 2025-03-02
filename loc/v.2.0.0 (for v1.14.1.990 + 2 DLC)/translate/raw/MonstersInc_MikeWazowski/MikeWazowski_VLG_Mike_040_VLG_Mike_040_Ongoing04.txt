@@ -1,0 +1,9 @@
+TAG: MikeWazowski_000_f
+Вы готовы поговорить с людьми Ваниллопа?
+
+TAG: MikeWazowski_001_f
+Ещё не надо сначала одеваться.
+
+TAG: MikeWazowski_002_f
+Займитесь чем-нибудь <Lore> профессионалом</Lore>, <Lore>elegant</Lore>, или <Lore>modrn</Lore>. Я должен выглядеть скользким для встречи!
+

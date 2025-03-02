@@ -1,0 +1,75 @@
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Any_CompletedRequestDescription
+Return to the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_AvailableDescription
+The Forgotten has been socializing in the Village a little more lately. Maybe they're finally feeling at home?
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_CompletedStoryDescription
+Goofy is thrilled with the meal you made. You bet the Forgotten is pretty happy too!
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_DisplayName
+Acts of Care
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group01_Step01_TalkToCharacter01_StepDescription
+Check in on the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group01_StepDescription
+The Forgotten seems to be getting much friendlier with the other Villagers!
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_ReadyDescription
+Bring the flowers to the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_StepDescription
+Gather flowers for the Forgotten:
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_StoryDescription
+Together, you and the Forgotten decide to fix what went wrong that day you saw in the Dreamscape. You start by collecting some of the Village's most beautiful flowers for Mickey.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group03_Step03_Listen01_StepDescription
+Watch as the Forgotten gives the flowers to Mickey in the Village.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group04_Step04_TalkToCharacter02_StepDescription
+Check in on the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group05_Step05_GardeningHarvest02_StepDescription
+Harvest another <ActivityItem>Vegetable</ActivityItem> from your crops.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group05_Step06_CatchFish02_StepDescription
+Fish two more of any kind of <ActivityItem>Seafood</ActivityItem>.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group05_StepDescription
+Get the rest of the Ingredients for a <ActivityItem>Bouillabaisse</ActivityItem>:
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group06_Step07_CookMeal01_StepDescription
+Cook a fresh <ActivityItem>Bouillabaisse</ActivityItem>.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group06_StoryDescription
+Next, you decide to harvest and fish to get the freshest Ingredients you can for Goofy. You're going to show the Forgotten how to cook a meal to remember.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group07_Step08_ReadyDescription
+Bring the <ActivityItem>Bouillabaisse</ActivityItem> to Goofy.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group07_Step08_StepDescription
+Make sure you have <ActivityItem>Bouillabaisse</ActivityItem> in your Inventory.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group08_Step09_GardeningHarvest03_StepDescription
+Harvest a fresh <ActivityItem>Tomato</ActivityItem> from your crops.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group08_Step10_CatchFish03_StepDescription
+Catch a fresh <ActivityItem>Shrimp</ActivityItem>.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group08_StepDescription
+Get the key Ingredients for a <ActivityItem>Bouillabaisse</ActivityItem>:
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What were we doing again?
+

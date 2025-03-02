@@ -1,0 +1,81 @@
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Any_CompletedRequestDescription
+Return to Remy.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_AvailableDescription
+Remy seems excited about a new opportunity in the Valley.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_DisplayName
+Bon AppÃ©tit!
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group01_Step01_Unlock01_StepDescription
+Investigate the strange <ActivityItem>Menu</ActivityItem> in your Inventory.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Remy.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step03_ReadyDescription
+Bring something made with <ActivityItem>Slush Ice</ActivityItem> to Elsa.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step03_StepDescription
+Get something made with <ActivityItem>Slush Ice</ActivityItem> for Elsa.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step04_ReadyDescription
+Bring a <ActivityItem>Dessert</ActivityItem> to Belle.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step04_StepDescription
+Get a <ActivityItem>Dessert</ActivityItem> for Belle.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step05_ReadyDescription
+Bring a meal made with fish to Nala.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step05_StepDescription
+Get a meal made with fish for Nala.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step06_ReadyDescription
+Bring a <ActivityItem>5-Star Meal</ActivityItem> to Ariel.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_Step06_StepDescription
+Get a <ActivityItem>5-Star Meal</ActivityItem> for Ariel.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group03_StepDescription
+Bring Villagers some free samples to show them Chez Remy Mobile is open for business:
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group04_Step07_TalkToCharacter02_StepDescription
+Return to Remy.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem01_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem02_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem03_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem04_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_StepDescription
+(Complete daily deliveries for Remy if you need more Wrought Iron!)
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group05_StepDescription
+Craft any of the following using Wrought Iron:
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate01_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate02_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate03_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate04_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_Group06_StepDescription
+Decorate around Chez Remy in Dreamlight Valley with any of the following:
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_050_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

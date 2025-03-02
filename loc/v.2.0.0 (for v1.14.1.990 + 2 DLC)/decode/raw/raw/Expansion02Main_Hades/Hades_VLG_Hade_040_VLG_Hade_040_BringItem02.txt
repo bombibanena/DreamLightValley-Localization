@@ -1,0 +1,96 @@
+TAG: Hades_001_f
+Invitations are all sent!
+
+TAG: Hades_002_f
+Ah, nothing like a good scheme coming together!
+
+TAG: Player_000_choice_000_f
+Excuse me, "scheme"?
+
+TAG: Player_000_choice_001_f
+Yeah, they're more fun when you have competent help!
+
+TAG: Player_000_choice_002_f
+Now you just need to bring the DJ skills.
+
+TAG: Hades_004_f
+Plan? Goal? Come on, {PlayerName}; I'm not a thesaurus.
+
+TAG: Hades_005_f
+Sorry, I guess I'm used to that sort of word choice having ominous connotations.
+
+TAG: Hades_015_f
+I get it. But as my faithful head minion, I recommend you stop jumping to conclusions.
+
+TAG: Hades_020_f
+Or what about a nature theme? Green, Brown and Sporty could be interesting. You'll be wearing it â what do you think?
+
+TAG: Player_001_f
+Personally, I'd prefer to dress up in...
+
+TAG: Player_001_choice_000_f
+White, Yellow, and Elegant.
+
+TAG: Player_001_choice_001_f
+Red, Yellow, and Modern.
+
+TAG: Player_001_choice_002_f
+Green, Brown, and Sporty.
+
+TAG: Hades_003_f
+So, how's the DJ practice going?
+
+TAG: Hades_011_f
+Good. I'm really gettin' the hang of it.
+
+TAG: Hades_012_f
+My guests are gonna be treated to a revolution in music!
+
+TAG: Hades_013_f
+Wow, you seem quite sure of yourself.
+
+TAG: Hades_014_f
+Oh, you'll see! Okay, next on the list... You are definitely not dressed for the kind of classy function I'm tryin' to cultivate here.
+
+TAG: Hades_006_f
+But... I'm having a hard time deciding on a dress code for the party.
+
+TAG: Hades_018_f
+At first I thought White, Yellow, and Elegant to steal Zeus's thunder...
+
+TAG: Hades_019_f
+But then, why would I want to imitate him? So, I could go Red, Yellow and Modern for a fiery look that says "I do what I want!"
+
+TAG: Hades_000_f
+Which of these dress codes would I go with?
+
+TAG: Hades_021_f
+It's gotta be Olympus-core â show Zeus that you can do his style better than him!
+
+TAG: Hades_024_f
+Okay, okay... I can see it. Well, you know your dress code.
+
+TAG: Hades_017_f
+Dionysus is gonna flip when he hears I out party-hosted him!
+
+TAG: Hades_025_f
+Oh, and by the way, to make things easy, I've set up a little portal to zoom you and the other guests to the party location.
+
+TAG: Hades_022_f
+Definitely the modern Hephaestus-core look. Your blue highlights will stand out and everyone will notice you!
+
+TAG: Hades_023_f
+Earthy and sporty? I'd call that Artemis-core and would love to dress up like that!
+
+TAG: Hades_007_f
+I get it. But as my faithful intermediate minion, I recommend you stop jumping to conclusions.
+
+TAG: Hades_008_f
+I get it. But as my faithful associate minion, I recommend you stop jumping to conclusions.
+
+TAG: Hades_009_f
+I get it. But as my faithful junior minion, I recommend you stop jumping to conclusions.
+
+TAG: Hades_010_f
+Yep. Working with you has made me realize just how useless Pain and Panic really are.
+

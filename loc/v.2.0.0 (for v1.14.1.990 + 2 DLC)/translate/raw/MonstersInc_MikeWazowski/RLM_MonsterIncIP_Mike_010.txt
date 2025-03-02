@@ -1,0 +1,108 @@
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Any_CompletedRequestDescription
+Свяжитесь с Майк Вазовски.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_AvailableDescription
+Поговорите с Майк Вазовски Вазовски, чтобы начать.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_CompletedStoryDescription
+Победивший селфи с Майк Вазовски и поприветствуй его в своей деревне. Майк Вазовски и Салли наконец-то в Долине!
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_DisplayName
+Смотрите на премию
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Майк Вазовски.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group02_Step02_ReadyDescription
+Принесите ключи на {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group02_Step02_StepDescription
+Поиск ключей.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group02_StoryDescription
+Майк Вазовски не может уехать в долину Мечты до тех пор, пока он не установит рекордный рекорд!
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group03_Step04_TalkToCharacter02_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group04_Step05_VisitArea01_StepDescription
+Войдите в залив F2 на полу смеха.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group04_StoryDescription
+Как помощник Джокера, вы собираете ключи, чтобы вызвать двери для детских комнат, вы решаете обыскать пустые комнаты, чтобы узнать, что заставляет детей смеяться.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group05_Step06_StepDescription
+Поиск подсказок за дверью F2.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group06_Step07_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group07_Step08_VisitArea02_StepDescription
+Войдите в залив F3 на полу смеха.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group08_Step09_StepDescription
+Сфотографируй улики в комнате за дверью F3.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group09_Step10_TalkToCharacter04_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group10_Step11_VisitArea03_StepDescription
+Войдите в залив F4 на полу смеха.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group11_Step12_Possess01_StepDescription
+Обыщите комнату на предмет физической подсказки, чтобы принести Майк Вазовски.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group12_Step13_BringItem02_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group12_Step13_ReadyDescription
+Возьмите {ItemName} на {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_BringItem03_StepDescription
+Красная содовая.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_BringItem04_StepDescription
+Синяя содовая.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_BringItem05_StepDescription
+Зеленая содовая.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_ReadyDescription
+Принеси газировку {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_StepDescription
+Найдите следующую газировку:
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group14_Step16_TalkToCharacter05_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group15_StepDescription
+Место Майк Вазовски и Салли в Долине.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group15_StoryDescription
+После того, как он помог Майк Вазовски сломать свой старый рекорд на огромное расстояние, это время отдыха! "Dreamlight Valley" звонит. Вы готовы принять Майк Вазовски и Салли, приготовив место для их пребывания.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group16_Step19_Unlock01_StepDescription
+Откройте дом Майк Вазовски и Салли.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group17_Step20_UnlockCharacter01_StepDescription
+Открой Салли.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group18_Step21_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group19_Step22_TalkToCharacter07_StepDescription
+Поговорите с {TargetNPC} в монстрах, инк.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group19_StoryDescription
+Салли просит вас вернуться в "Monsters, Inc. Rem", чтобы получить Майк Вазовски, который остался, чтобы сфотографировать его новый рекорд.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group20_Step23_TakePicture04_StepDescription
+Возьми селфи с Майк Вазовски.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group21_Step24_TalkToCharacter08_StepDescription
+Покажите Майк Вазовски селфи.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group22_Step25_UnlockCharacter02_StepDescription
+Открой Майк Вазовски.
+

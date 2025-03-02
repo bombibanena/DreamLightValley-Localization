@@ -1,0 +1,30 @@
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Any_CompletedRequestDescription
+Поговори с Эльза.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_AvailableDescription
+Пора привести Эльза в долину Мечты.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_CompletedStoryDescription
+Теперь, когда Эльза в деревне, вы сможете узнать, что она думает об этом.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_DisplayName
+Приветствую Эльза
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group01_Step01_TalkToCharacter01_StepDescription
+Идите в замороженное королевство и поговорите с Эльза.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что теперь?
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group02_Step02_VisitArea01_StepDescription
+Возвращайся в долину Мечты.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group03_Step03_UnlockCharacter01_StepDescription
+Добро пожаловать Эльза в долину Мечты.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_Group03_StoryDescription
+Эльза хочет приехать в долину Мечты, чтобы посетить Анна и разгадать тайну странного ледяного каверна.
+
+TAG: Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

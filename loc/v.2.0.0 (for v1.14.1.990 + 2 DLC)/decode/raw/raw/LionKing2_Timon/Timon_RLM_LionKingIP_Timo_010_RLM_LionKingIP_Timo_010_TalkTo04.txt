@@ -1,0 +1,36 @@
+TAG: Timon_001_f
+Hey, {PlayerName}, did that fancy rock you pointed at Pumbaa show ya anything that'll help?
+
+TAG: Player_000_f
+You mean my phone?
+
+TAG: Player_000_choice_000_f
+Yeah, Pumbaa's REALLY stuck in there.
+
+TAG: Player_000_choice_002_f
+I didn't notice anything, but it was pretty funny.
+
+TAG: Timon_002_f
+We're gonna need something slippery to apply that might help us pull him out.
+
+TAG: Timon_004_f
+How did you get Pumbaa free from the last log he was stuck in?
+
+TAG: Timon_005_f
+Let me think... Oh yeah! I mashed up some of the greasiest bugs I could find into a special oil, and that got him loose.
+
+TAG: Timon_006_f
+Could we do that again?
+
+TAG: Timon_007_f
+I don't see why not. It was pretty complicated, though... I made <Lore>two bug oils</Lore> and then <Lore>combined THOSE oils</Lore> to make a <ActivityItem>Super Slippery Bug Oil</ActivityItem>.
+
+TAG: Timon_008_f
+Okay... I'll start collecting the different types of bugs we need. How do I find them?
+
+TAG: Timon_009_f
+It'll be easy for you with that choppy thing of yours. Just <Lore>break rocks around the jungle</Lore> and <Lore>get the bugs under 'em</Lore>.
+
+TAG: Timon_003_f
+Funny but serious, right? We gotta get Pumbaa outta that log!
+

@@ -1,0 +1,39 @@
+TAG: Timon_000_f
+This is it! This is where our quest begins!
+
+TAG: Timon_001_f
+I can smell those Night Mites. They're near. And they'll lead us RIGHT to one of their nests.
+
+TAG: Player_000_choice_000_f
+Let's follow those mites!
+
+TAG: Player_000_choice_001_f
+Why do we want the nest?
+
+TAG: Player_000_choice_002_f
+Like a bird's nest?
+
+TAG: Timon_003_f
+That's the spirit, {PlayerName}!
+
+TAG: Timon_005_f
+Onward to <Lore>catch some Night Mites</Lore>!
+
+TAG: Timon_009_f
+And remember, ya gotta <Lore>use your Dreamlight Magic on the nests</Lore> to take care of 'em!
+
+TAG: Timon_002_f
+'Cause that's where most of the Night Mites'll be.
+
+TAG: Timon_006_f
+Get the nests, ya stop the infestation. Now...
+
+TAG: Timon_004_f
+More like... wasps. Except these are filled with crunchy, purple... Ooh I'm gettin' hungry just thinkin' about it.
+
+TAG: Timon_007_f
+Just remember, Timon, they're not safe to eat. We have to wait for Merlin's help.
+
+TAG: Timon_008_f
+You're right, you're right. Don't worry, I'm a professional! Now...
+

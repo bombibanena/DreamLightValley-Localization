@@ -1,0 +1,42 @@
+TAG: Lorekeeper_001_f
+{PlayerName}... I'm feeling more and more myself.
+
+TAG: Lorekeeper_000_f
+I daresay my pages are crisp, and my spine is not so creased!
+
+TAG: Lorekeeper_002_f
+Have you done it? Have you ended the feud between Maleficent and Hades?
+
+TAG: Player_000_choice_000_f
+Not quite.
+
+TAG: Player_000_choice_001_f
+I'm so close!
+
+TAG: Player_000_choice_002_f
+Those two are IMPOSSIBLE!
+
+TAG: Lorekeeper_003_f
+Both of them want to hear an apology, but neither of them wants to apologize.
+
+TAG: Lorekeeper_004_f
+I'm not surprised. Nothing can be simple with those two.
+
+TAG: Lorekeeper_005_f
+I did discover something interesting though...
+
+TAG: Lorekeeper_006_f
+Both of them stole Story Magic from your pages. Maybe that's what set this whole thing off?
+
+TAG: Lorekeeper_007_f
+Why... why yes! Now I remember â Maleficent flipped through my pages and drained me of an old story about her...
+
+TAG: Lorekeeper_008_f
+...and Hades did the same, ripping from me an old tale about him.
+
+TAG: Lorekeeper_009_f
+The Snippets in Maleficent's castle and the palace on Mount Olympus were causing all sorts of trouble. I captured them using my Royal Net!
+
+TAG: Lorekeeper_010_f
+Why didn't you say so? <Lore>Restore them to my pages</Lore> at once!
+

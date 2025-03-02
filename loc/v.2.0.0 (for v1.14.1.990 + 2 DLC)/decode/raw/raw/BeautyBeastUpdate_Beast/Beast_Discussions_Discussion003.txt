@@ -1,0 +1,66 @@
+TAG: Beast_000_f
+Belle is very kind, isn't she?
+
+TAG: Player_000_choice_000_f
+She is!
+
+TAG: Player_000_choice_001_f
+Not particularly.
+
+TAG: Player_000_choice_002_f
+You LIKE her.
+
+TAG: Beast_001_f
+When I first met her, I had no idea how patient she could be. And she's very smart.
+
+TAG: Beast_002_f
+The more I learn about her, the more I admire her.
+
+TAG: Player_001_choice_000_f
+Tell her that yourself!
+
+TAG: Player_001_choice_001_f
+Dance with her.
+
+TAG: Player_001_choice_002_f
+Give her a library.
+
+TAG: Beast_003_f
+I don't know if I could do that. I'll... I'll think about it.
+
+TAG: Beast_004_f
+That would be... nice. I hope I don't step on her feet.
+
+TAG: Beast_005_f
+I've already done that.
+
+TAG: Beast_006_f
+How can you say that?! I've never met anyone so patient. Who cared so much for others. You have no idea what you're talking about!!!
+
+TAG: Beast_007_f
+I... I do. Why, I would face ten packs of wolves for her!
+
+TAG: Beast_008_f
+Wait â are there wolves here?
+
+TAG: Player_002_choice_000_f
+Fortunately not!
+
+TAG: Player_002_choice_001_f
+Maybe! Be on your guard...
+
+TAG: Player_002_choice_002_f
+I'm sure you'll keep Belle safe!
+
+TAG: Beast_009_f
+I'll keep a look out, just in case.
+
+TAG: Beast_010_f
+Thank you for the warning.
+
+TAG: Beast_011_f
+With my every breath.
+
+TAG: Beast_012_f
+But what's the point? No one could ever love a beast...
+

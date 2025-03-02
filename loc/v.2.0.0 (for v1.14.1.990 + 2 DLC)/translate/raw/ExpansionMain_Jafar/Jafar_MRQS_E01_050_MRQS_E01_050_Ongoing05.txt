@@ -1,0 +1,6 @@
+TAG: Jafar_000_f
+Найдите врата <ActivityItem>Ancient</ActivityItem>, которые ведут глубже к острову Вечность.
+
+TAG: Jafar_001_f
+Вам придется расчистить путь, сфокусировав свою магию на <ActivityItem>Splinters of Fate</ActivityItem>, найденных вокруг.
+

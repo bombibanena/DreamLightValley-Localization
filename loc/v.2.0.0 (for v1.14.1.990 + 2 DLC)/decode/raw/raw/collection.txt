@@ -1,0 +1,171 @@
+TAG: area_title_all_areas
+All Areas
+
+TAG: area_title_dreamlight_valley
+Dreamlight Valley
+
+TAG: area_title_eternity_isle
+Eternity Isle
+
+TAG: area_title_storybook_vale
+Storybook Vale
+
+TAG: by_progressing
+Unlock by progressing
+
+TAG: desc_be_friend
+Be a friend!
+
+TAG: harvest_gives
+HARVEST GIVES:
+
+TAG: hourglass_level_x
+Level {level}
+
+TAG: label_abilities
+ABILITIES
+
+TAG: label_all_day
+All day
+
+TAG: label_availability
+AVAILABILITY
+
+TAG: label_available
+Available today
+
+TAG: label_entry_point
+ENTRY POINT
+
+TAG: label_grows_in
+GROWS IN:
+
+TAG: label_hourglass_level
+HOURGLASS LEVEL
+
+TAG: label_location
+WHERE TO FIND IT
+
+TAG: label_movement
+MOVEMENT
+
+TAG: label_not_available
+Not available
+
+TAG: label_not_here_today
+Not here today
+
+TAG: label_play_condition
+PLAY CONDITION
+
+TAG: label_recipe
+RECIPE
+
+TAG: label_related_activity
+RELATED ACTIVITY
+
+TAG: label_schedule
+Schedule:
+
+TAG: label_tooltip_lock
+Unlock this to get more details about it
+
+TAG: label_unavailable
+Not available today
+
+TAG: label_universe
+UNIVERSE & HANGOUT BONUS
+
+TAG: label_unlock_at_friendship
+Unlock at Friendship lv.
+
+TAG: label_where_to_buy
+WHERE TO BUY IT
+
+TAG: label_where_to_find
+WHERE TO FIND IT
+
+TAG: memory_shards_condition_catchingsnippets
+Find exclusive Memory Pieces when catching Snippets
+
+TAG: memory_shards_condition_cooking
+Find exclusive Memory Pieces when cooking
+
+TAG: memory_shards_condition_digging
+Find exclusive Memory Pieces when digging
+
+TAG: memory_shards_condition_exploring
+Find exclusive Memory Pieces when exploring the Valley
+
+TAG: memory_shards_condition_feedingcritters
+Find exclusive Memory Pieces when feeding critters
+
+TAG: memory_shards_condition_fishing
+Find exclusive Memory Pieces when fishing
+
+TAG: memory_shards_condition_gardening
+Find exclusive Memory Pieces when gardening
+
+TAG: memory_shards_condition_mining
+Find exclusive Memory Pieces when mining
+
+TAG: memory_shards_condition_removingblockers
+Find exclusive Memory Pieces when removing obstacles
+
+TAG: memory_shards_condition_removingweeds
+Find exclusive Memory Pieces when removing small Night Thorns
+
+TAG: memory_shards_condition_wateringflowers
+Find exclusive Memory Pieces when watering flowers
+
+TAG: no_abilities
+None
+
+TAG: or_more
+or more
+
+TAG: tab_title_board_game
+Board Game
+
+TAG: tab_title_characters
+Characters
+
+TAG: tab_title_clothing
+Clothing Sets
+
+TAG: tab_title_crafting
+Crafting
+
+TAG: tab_title_critters
+Critters
+
+TAG: tab_title_crops
+Ingredients
+
+TAG: tab_title_fish
+Fish
+
+TAG: tab_title_foraging
+Foraging
+
+TAG: tab_title_furniture
+Furniture Sets
+
+TAG: tab_title_lorekeeper_tales
+Lorekeeper Tales
+
+TAG: tab_title_meals
+Meals
+
+TAG: tab_title_memories
+Memories
+
+TAG: tab_title_minerals
+Gems
+
+TAG: tab_title_snippets
+Snippets
+
+TAG: tab_title_time_bending
+Timebending
+

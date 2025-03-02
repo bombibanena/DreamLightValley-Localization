@@ -1,0 +1,27 @@
+TAG: WallE_000_f
+WALLÂ·E.
+
+TAG: Player_000_f
+You want to show me something?
+
+TAG: Player_001_f
+Are those cubes of compressed garbage?
+
+TAG: Player_000_choice_000_f
+Let's go!
+
+TAG: Player_001_choice_000_f
+You know you don't have to do that anymore.
+
+TAG: Player_000_choice_002_f
+I don't have time right now!
+
+TAG: Player_001_choice_001_f
+I suppose the Village could be cleaner.
+
+TAG: WallE_008_f
+Yoo-hoo!
+
+TAG: WallE_007_f
+Aw...
+

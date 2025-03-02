@@ -1,0 +1,27 @@
+TAG: Kristoff_000_f
+Hey, great looking <ActivityItem>Lye</ActivityItem>, {PlayerName}! Nice work.
+
+TAG: Kristoff_001_f
+Okay, the next Ingredient we need for <ActivityItem>Soap</ActivityItem> is <ActivityItem>Oil</ActivityItem>. I usually use <ActivityItem>Carrot</ActivityItem> oil.
+
+TAG: Kristoff_002_f
+Sure you could do that... but why not mix it up? Let's add something else. Maui has pretty great hair. We could find out what he uses.
+
+TAG: Player_000_choice_000_f
+I'll ask him.
+
+TAG: Player_000_choice_001_f
+My guess... it must have something to do with <ActivityItem>Coconuts</ActivityItem>.
+
+TAG: Player_000_choice_002_f
+He loves to talk about himself, so it'll be easy to get the info.
+
+TAG: Kristoff_003_f
+Thanks!
+
+TAG: Kristoff_004_f
+That makes sense, but I don't know anything about coconuts. You might wanna ask him to be sure.
+
+TAG: Kristoff_005_f
+Yeah... Maui isn't exactly shy, is he?
+

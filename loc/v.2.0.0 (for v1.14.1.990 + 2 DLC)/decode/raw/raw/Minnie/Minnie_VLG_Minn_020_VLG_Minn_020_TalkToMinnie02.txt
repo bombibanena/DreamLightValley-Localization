@@ -1,0 +1,39 @@
+TAG: Minnie_000_f
+This is... Donald's hat? Yes... I remember Donald! Donald Duck!
+
+TAG: Minnie_001_f
+I was catching fish for him. He was about to go on a dangerous mission...
+
+TAG: Minnie_002_f
+So, I was packing food for him.
+
+TAG: Player_000_choice_000_f
+I found Donald in the Forest!
+
+TAG: Player_000_choice_001_f
+Did you manage to bring it to him?
+
+TAG: Minnie_004_f
+The Forest? I... remember that! I followed Donald...
+
+TAG: Minnie_003_f
+...to give him food for his journey. But while I was following him...
+
+TAG: Minnie_006_f
+...something happened to me.
+
+TAG: Minnie_007_f
+Could we go to the Forest? It's the last thing I remember.
+
+TAG: Minnie_005_f
+I don't remember. I think... he left before I could.
+
+TAG: Minnie_008_f
+And I tried to follow him. I went towards the Forest...
+
+TAG: Minnie_009_f
+But something happened to me. What happened...
+
+TAG: Minnie_010_f
+Could we go to the Forest? It's the last thing I remember.
+

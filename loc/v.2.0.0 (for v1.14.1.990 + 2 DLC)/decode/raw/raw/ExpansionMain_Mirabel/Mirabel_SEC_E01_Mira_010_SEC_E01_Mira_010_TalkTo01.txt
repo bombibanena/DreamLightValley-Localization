@@ -1,0 +1,39 @@
+TAG: Mirabel_000_f
+Antonio is going to love the pictures you took!
+
+TAG: Mirabel_001_f
+But some of those chigÃ¼iros looked a little hungry. I wonder if we should try <Lore>feeding them</Lore>?
+
+TAG: Mirabel_002_f
+What do you think their favorite food is here?
+
+TAG: Player_000_choice_000_f
+Veggies...?
+
+TAG: Player_000_choice_001_f
+Anything 5 stars?
+
+TAG: Player_000_choice_002_f
+Obviously molten chocolate lava cake.
+
+TAG: Mirabel_003_f
+That makes sense... But what kind of vegetables?
+
+TAG: Mirabel_007_f
+If we can <Lore>figure out the chigÃ¼iros' favorite food</Lore> and feed them, I can include that in my letter to Antonio.
+
+TAG: Mirabel_008_f
+He'll want to know if they're like the ones back home.
+
+TAG: Mirabel_009_f
+There must be <Lore>someone who's spent a lot of time in the Wild Tangle</Lore> who knows what they like...
+
+TAG: Mirabel_004_f
+Hmm... If I had to guess, I'd say it's probably something simpler.
+
+TAG: Mirabel_006_f
+Heh-heh! I think you're thinking of Anna, not the chigÃ¼iros.
+
+TAG: Mirabel_005_f
+Ooh, no. I think that would make a chigÃ¼iro sick.
+

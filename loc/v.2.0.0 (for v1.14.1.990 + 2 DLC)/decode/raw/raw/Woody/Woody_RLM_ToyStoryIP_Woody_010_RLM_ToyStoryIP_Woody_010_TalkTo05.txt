@@ -1,0 +1,36 @@
+TAG: Woody_000_f
+Wouldya look at that? Bonnie's farm looks great!
+
+TAG: Player_000_f
+It looks...
+
+TAG: Player_000_choice_000_f
+...so cute!
+
+TAG: Player_000_choice_001_f
+...just like Bonnie's drawings!
+
+TAG: Player_000_choice_002_f
+...good enough.
+
+TAG: Woody_005_f
+The daisies sure are a nice touch. My hat's off to you.
+
+TAG: Woody_001_f
+I couldn't have done it without you, {PlayerName}.
+
+TAG: Woody_002_f
+Now, there's just one thing left to do.
+
+TAG: Woody_003_f
+When Bonnie's farm got knocked over, all her <ActivityItem>Origami Animals</ActivityItem> got scattered around the room.
+
+TAG: Woody_004_f
+We'll have to search the room and round 'em up.
+
+TAG: Woody_006_f
+Yep, it's like they jumped right off the page.
+
+TAG: Woody_007_f
+Hey, I think we did a pretty good job.
+

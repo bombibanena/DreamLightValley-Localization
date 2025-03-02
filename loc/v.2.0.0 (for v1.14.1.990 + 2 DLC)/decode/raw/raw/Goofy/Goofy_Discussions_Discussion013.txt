@@ -1,0 +1,42 @@
+TAG: Goofy_000_f
+Howdy, {PlayerName}. I'm doin' a customer satisfaction survey, and you're one of my most loyal customers.
+
+TAG: Goofy_001_f
+Is there anything you'd like to change about my Stall?
+
+TAG: Player_000_choice_000_f
+Lower prices.
+
+TAG: Player_000_choice_001_f
+A more diversified inventory.
+
+TAG: Player_000_choice_002_f
+No complaints. You're doing great!
+
+TAG: Goofy_002_f
+Gawrsh, Uncle Scrooge told me my prices were too low already.
+
+TAG: Goofy_003_f
+Then he said something about "profit margins," and "surplus value." I didn't really follow.
+
+TAG: Goofy_004_f
+But I could have some sales. Everybody loves buyin' somethin' and gettin' somethin' else for free.
+
+TAG: Goofy_005_f
+Thanks, {PlayerName}. I sure do appreciate the feedback.
+
+TAG: Goofy_006_f
+Gawrsh, I try to change up my stock as much as I can...
+
+TAG: Goofy_007_f
+...but don't worry. I'll keep looking for more stuff to sell!
+
+TAG: Goofy_008_f
+Really? Wow!
+
+TAG: Goofy_009_f
+Uncle Scrooge is always tellin' me I gotta be more savvy about business.
+
+TAG: Goofy_010_f
+But I guess all that really matters is making your customers happy.
+

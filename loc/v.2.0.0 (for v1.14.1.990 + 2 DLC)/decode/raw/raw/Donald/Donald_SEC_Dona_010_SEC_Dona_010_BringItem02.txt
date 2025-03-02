@@ -1,0 +1,63 @@
+TAG: Donald_000_f
+Huh? What is it?
+
+TAG: Player_000_choice_000_f
+I think it's some sort of extraterrestrial technology.
+
+TAG: Player_000_choice_001_f
+It's just some broken junk.
+
+TAG: Player_000_choice_002_f
+I have no idea what it is.
+
+TAG: Donald_017_f
+HA! That proves it. We've got ourselves a whole bunch of sock-stealing space aliens.
+
+TAG: Donald_010_f
+I think it means that this thing belongs to whatever chewed on your sock.
+
+TAG: Donald_011_f
+And maybe if we could just find a couple more DNA samples... it would power up this weird device.
+
+TAG: Donald_012_f
+Smart thinkin', {PlayerName}. Maybe that will lead us right to the sock thieves...
+
+TAG: Donald_013_f
+...and prove to everybody around here that I was right!
+
+TAG: Donald_014_f
+I'll <Lore>keep an eye out for any more missing socks</Lore> or lights in the sky.
+
+TAG: Donald_015_f
+I'll keep this doohickey for now... and go wash this sock.
+
+TAG: Donald_016_f
+(Why would somebody chew on a sock? This is disgusting...)
+
+TAG: Donald_002_f
+They must've dropped it when they were stealing my stuff.
+
+TAG: Donald_003_f
+WAAAAAK! It's making a beeping sound!
+
+TAG: Donald_005_f
+Wait a minute... it's beepin' louder when I put it near my sock...
+
+TAG: Donald_006_f
+Did ya see that? When the drool from the sock fell on that doohickey, it lit up.
+
+TAG: Donald_007_f
+Hm. It says something on the screen...
+
+TAG: Donald_008_f
+<Lore>"DNA MATCH. AUTHORIZATION 33% COMPLETE."</Lore>
+
+TAG: Donald_009_f
+What does that mean? This is preposterous!
+
+TAG: Donald_018_f
+Junk?! Look at it. It obviously came from a space alien's ship.
+
+TAG: Donald_019_f
+I'll tell ya what it is. It's proof that we've got a bunch of sock-stealing space aliens in the Village.
+

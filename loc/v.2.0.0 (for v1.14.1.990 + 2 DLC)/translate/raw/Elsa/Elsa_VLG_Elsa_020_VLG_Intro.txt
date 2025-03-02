@@ -1,0 +1,123 @@
+TAG: Elsa_005_f
+{PlayerName}, мне нужен совет.
+
+TAG: Player_001_choice_000_f
+Конечно, что тебе нужно?
+
+TAG: Player_001_choice_001_f
+Не сейчас, извините.
+
+TAG: Elsa_028_f
+Ну... ты когда-нибудь...
+
+TAG: Elsa_001_f
+Наверное, мне просто интересно...
+
+TAG: Elsa_017_f
+Это тяжело.
+
+TAG: Elsa_018_f
+Я начну сначала...
+
+TAG: Elsa_029_f
+С тех пор, как я приехала сюда, я пыталась найти свое место, чтобы совместиться со всеми.
+
+TAG: Elsa_030_f
+Но я чувствую себя немного потерянной.
+
+TAG: Player_000_choice_012_f
+Я понимаю, я чувствую то же самое.
+
+TAG: Player_000_choice_013_f
+Ты всегда так чувствовала?
+
+TAG: Player_000_choice_014_f
+У меня никогда не было такой проблемы...
+
+TAG: Elsa_013_f
+Похоже, тебе легко бегать, помогать всем.
+
+TAG: Elsa_037_f
+Это довольно странно, {PlayerName}.
+
+TAG: Elsa_038_f
+Когда я начала читать эти книги рецептов, они вернули воспоминания о моем прошлом здесь, в Долине.
+
+TAG: Elsa_027_f
+Я готовил с друзьями...
+
+TAG: Elsa_039_f
+Я просто не помню, что мы делали раньше.
+
+TAG: Elsa_040_f
+Мы делали <ActivityItem>Arendellian Fish Pie</ActivityItem> и <ActivityItem>Arendellian Pickled Herring</ActivityItem>.
+
+TAG: Elsa_041_f
+Это было так мило, может, мы могли бы приготовить одну из посуды снова вместе.
+
+TAG: Player_003_f
+Давай сделаем и то, и другое!
+
+TAG: Player_003_choice_000_f
+Будет весело.
+
+TAG: Player_003_choice_001_f
+Мне очень любопытно насчет твоей кухни.
+
+TAG: Player_003_choice_002_f
+Ты будешь чувствовать себя как дома в два раза быстрее.
+
+TAG: Elsa_016_f
+Но приятно знать, что я не единственный, кто так думает.
+
+TAG: Elsa_020_f
+Эй, я только что придумал кое-что, что Реми сказал мне на днях, он говорил о том, как наше обоняние и вкус больше всего связаны с нашими воспоминаниями...
+
+TAG: Elsa_026_f
+Если ты хочешь чувствовать себя как дома... почему бы нам не попробовать приготовить что-то, что напоминает тебе, откуда ты родом?
+
+TAG: Elsa_033_f
+Как интересно, но я не много готовил раньше.
+
+TAG: Elsa_034_f
+Ну, это еще одна вещь Реми говорит.
+
+TAG: Elsa_035_f
+"Любой умеет готовить."
+
+TAG: Elsa_032_f
+Знаешь, это забавно. Я видел пару традиционных аренделлианцев <ActivityItem> Recipe Books</ActivityItem> в ледяной каверне.
+
+TAG: Elsa_036_f
+Я пойду возьму их...
+
+TAG: Elsa_021_f
+Спасибо, я очень ценю это.
+
+TAG: Elsa_000_f
+Согласно <ActivityItem>Recipe Book</ActivityItem>, то, что делает <ActivityItem>Arendellian Fish Pie</ActivityItem>, так особенным, это то, что вы используете <ActivityItem>Dandelion Syrup</ActivityItem> и <ActivityItem>Herring</ActivityItem>, плюс некоторые <ActivityItem>Wheat</ActivityItem> и </ActivityItem>0Butter</ActivityItem>1.
+
+TAG: Elsa_024_f
+<ActivityItem>Dandelion Syrup</ActivityItem> сделан из <ActivityItem>Garlic</ActivityItem>, <ActivityItem>Lemons</ActivityItem>, <ActivityItem>Dandelions</ActivityItem>, и <ActivityItem>Onions</ActivityItem>.
+
+TAG: Elsa_019_f
+Если ты приведешь мне этих Ингредиентов, возможно, мы сможем приготовить сироп вместе.
+
+TAG: Elsa_025_f
+О, и <ActivityItem>Arendellian Pickled Herring</ActivityItem> довольно просто. Вот <ActivityItem>Recipe Book</ActivityItem>.
+
+TAG: Elsa_022_f
+Спасибо, надеюсь, вам понравится.
+
+TAG: Elsa_023_f
+Спасибо, {PlayerName}.
+
+TAG: Elsa_014_f
+Раньше я прятал свои силы и был так изолирован, но последние несколько лет, благодаря помощи Анна, я чувствовал гораздо больше покоя.
+
+TAG: Elsa_015_f
+Тебе очень повезло.
+
+TAG: Elsa_002_f
+О, я понимаю, я бы с удовольствием догнал, когда у тебя будет время.
+

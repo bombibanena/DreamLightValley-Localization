@@ -1,0 +1,33 @@
+TAG: Elsa_001_f
+With that <ActivityItem>Crest</ActivityItem>, we're just missing the last one. I wonder where it could be.
+
+TAG: Player_000_choice_000_f
+I'm sure we'll have an answer soon enough.
+
+TAG: Player_000_choice_001_f
+I don't know. I hope we'll find it soon.
+
+TAG: Player_000_choice_002_f
+I won't stop trying until we solve this.
+
+TAG: Elsa_003_f
+I hope you're right.
+
+TAG: Elsa_000_f
+Thank you for your help, {PlayerName}. And for your friendship.
+
+TAG: Elsa_005_f
+With your <ActivityItem>Pickaxe</ActivityItem> so enchanted, no ice will stop you now.
+
+TAG: Elsa_002_f
+And I hope that we can solve the mystery of the cave wall and that strange sound soon.
+
+TAG: Elsa_008_f
+Every time we investigate, more of my memories come back. So I'm sure we can get to the bottom of this puzzle together.
+
+TAG: Elsa_006_f
+So do I.
+
+TAG: Elsa_007_f
+Neither will I.
+

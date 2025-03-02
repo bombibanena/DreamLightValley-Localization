@@ -1,0 +1,30 @@
+TAG: Vanellope_000_f
+Hey, {PlayerName}! Do you like racing games?
+
+TAG: Player_000_choice_000_f
+I like cute and colorful ones!
+
+TAG: Player_000_choice_001_f
+I like gritty and dangerous ones.
+
+TAG: Player_000_choice_002_f
+I like all kinds of games.
+
+TAG: Vanellope_001_f
+Nice! I got my start in Sugar Rush. That's like the gold medal of cute and colorful.
+
+TAG: Vanellope_002_f
+But after a while, I learned all the secrets and shortcuts... Then it was time for something new!
+
+TAG: Vanellope_003_f
+Me too! A high-octane race with constant peril will rock you to your code.
+
+TAG: Vanellope_004_f
+Someday I'll introduce you to a little game called Slaughter Race.
+
+TAG: Vanellope_005_f
+You do? Have you ever thought about living in an arcade? You can play tons of games there.
+
+TAG: Vanellope_006_f
+Fix-It Felix Jr., Sugar Rush, Hero'sâ *giggle* Hero's Duty.
+

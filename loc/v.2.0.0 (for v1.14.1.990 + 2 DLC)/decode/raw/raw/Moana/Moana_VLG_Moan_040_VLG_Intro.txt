@@ -1,0 +1,33 @@
+TAG: Moana_000_f
+Hi, {PlayerName}! I put my plan to work after you gave me the <ActivityItem>Coconuts</ActivityItem>...
+
+TAG: Moana_004_f
+Want to come with me to see if Pua came out to get them?
+
+TAG: Player_000_choice_000_f
+Fingers crossed. Let's go!
+
+TAG: Player_000_choice_001_f
+What if another animal got to the coconuts?
+
+TAG: Player_000_choice_002_f
+How does a pig get a taste for coconuts?
+
+TAG: Player_000_choice_003_f
+I can't right now. I'm sorry.
+
+TAG: Moana_001_f
+I don't know what "fingers crossed" means, but it sounds good! Follow me!
+
+TAG: Moana_002_f
+Trust me. A hungry Pua will get to them first!
+
+TAG: Moana_006_f
+Follow me!
+
+TAG: Moana_003_f
+Pua mostly loves coconut water. We drink a lot of it on Motunui. I hope Pua remembers that. Guess there's only one way to find out.
+
+TAG: Moana_005_f
+Okay, but come back quickly!
+

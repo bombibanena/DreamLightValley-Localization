@@ -1,0 +1,36 @@
+TAG: WolfDoor_004_f
+<i>You've... you've returned?!</i>
+
+TAG: WolfDoor_005_f
+<i>That was most foolish of you!</i>
+
+TAG: Player_000_choice_000_f
+I'm starting to think you really BELIEVE that you're a wolf.
+
+TAG: Player_000_choice_001_f
+You're the foolish one here. Give it up.
+
+TAG: WolfDoor_013_f
+Whoa. My head... I feel... dizzy all of a sudden...
+
+TAG: WolfDoor_014_f
+Open this door! Let me help you!
+
+TAG: WolfDoor_007_f
+<i>Believe...? What's to believe? I'm the Wolf of the Wilds, guardian of these woods and right hand of Maleficent!</i>
+
+TAG: WolfDoor_009_f
+Those big wolfy feet of yours? Nothing more than some slippers you wear. Here!
+
+TAG: WolfDoor_010_f
+That wolfish scent? It doesn't come from you. It comes from a spray bottle. I found it down here. Look!
+
+TAG: WolfDoor_011_f
+And that howl of yours? Just a sound effect. I found the phonograph you use to play it! Voila!
+
+TAG: WolfDoor_012_f
+<i>I... I... But...</i>
+
+TAG: WolfDoor_008_f
+<i>How many times do I have to tell you...?! Leave, now, before you enrage me more!</i>
+

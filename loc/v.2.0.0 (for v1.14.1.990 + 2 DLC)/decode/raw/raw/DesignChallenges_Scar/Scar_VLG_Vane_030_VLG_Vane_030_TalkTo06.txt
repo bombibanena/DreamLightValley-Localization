@@ -1,0 +1,378 @@
+TAG: Scar_036_f
+Which is...?
+
+TAG: Player_013_choice_000_f
+Pixel Sword!
+
+TAG: Player_013_choice_001_f
+Friendship!
+
+TAG: Scar_000_f
+Ah, {PlayerName}... So it's you I have to thank for leaving that mess outside my den...
+
+TAG: Player_000_choice_000_f
+This is GREAT pre-boss battle banter.
+
+TAG: Player_000_choice_001_f
+Ehh... yeah, sorry about that.
+
+TAG: Scar_037_f
+That is a child's plaything. Did that sticky little cub give it to you?
+
+TAG: Scar_038_f
+Please don't let it touch me. It'll mat my fur.
+
+TAG: Scar_039_f
+Ha, see! Even you cower before the might of the Pixel Sword!
+
+TAG: Scar_040_f
+Vanellope and I will defeat you together!
+
+TAG: Scar_041_f
+How quaint. Now, please leave. Your earnestness is making me nauseous.
+
+TAG: Scar_042_f
+And what way is that exactly?
+
+TAG: Player_014_choice_000_f
+The way where you surrender!
+
+TAG: Player_014_choice_001_f
+The way my sidekick and I will defeat you!
+
+TAG: Scar_043_f
+Is there a reason you're speaking like this? It's even more inane than usual...
+
+TAG: Scar_044_f
+Sidekick?
+
+TAG: Scar_045_f
+The fish were a fitting tribute. I'll savor them later.
+
+TAG: Scar_046_f
+Now, why are you here?
+
+TAG: Player_015_choice_000_f
+For the final boss battle!
+
+TAG: Player_015_choice_001_f
+I'm humoring Vanellope.
+
+TAG: Scar_047_f
+She wants me to "battle" you as a game.
+
+TAG: Scar_048_f
+I mostly came along to make sure you don't decide she'll make a good snack.
+
+TAG: Scar_049_f
+No need to worry. She smells far too sweet for me to even consider it.
+
+TAG: Scar_050_f
+Still, you let this precocious little cub talk you into provoking me? For a game?
+
+TAG: Player_016_choice_000_f
+Everyone needs to have fun sometimes.
+
+TAG: Player_016_choice_001_f
+Why do you hate joy?
+
+TAG: Scar_051_f
+I find your definition of "fun" rather pathetic.
+
+TAG: Scar_052_f
+But you did say you came here for a fight? May I entice you with a battle of wits?
+
+TAG: Scar_053_f
+That's much more my idea of "fun."
+
+TAG: Player_017_choice_000_f
+I'll show you. Play the game!
+
+TAG: Player_017_choice_001_f
+Our fun helps you blow off steam.
+
+TAG: Scar_054_f
+Ugh, very well.
+
+TAG: Scar_055_f
+Then you have an odd way of releasing tension...
+
+TAG: Scar_056_f
+Running into danger seems far from relaxing.
+
+TAG: Player_018_choice_000_f
+Okay, so your fun is different.
+
+TAG: Player_018_choice_001_f
+We wanted to include you!
+
+TAG: Scar_057_f
+There are tons of ways to have fun!
+
+TAG: Scar_058_f
+Loud, tiresome, ridiculous ways, clearly.
+
+TAG: Player_019_choice_000_f
+Maybe you like quiet fun?
+
+TAG: Player_019_choice_001_f
+Nothing wrong with that!
+
+TAG: Scar_059_f
+I certainly enjoy lounging by the pond in the shade on hot days.
+
+TAG: Scar_060_f
+The warm breeze in my mane.
+
+TAG: Scar_061_f
+Catching fresh fish with my bare claws.
+
+TAG: Player_020_choice_000_f
+Those sound really fun!
+
+TAG: Player_020_choice_001_f
+You look happy, Scar.
+
+TAG: Scar_062_f
+Even though it's not loud and boisterous?
+
+TAG: Scar_063_f
+Well, we seem to have reached some sort of... dÃ©tente. But since I doubt you'll leave it at that...
+
+TAG: Scar_064_f
+I'll concede victory to you... just this once.
+
+TAG: Scar_065_f
+"Happy"? Don't be absurd. At most... content.
+
+TAG: Scar_066_f
+Unless you're having a bad time...
+
+TAG: Scar_067_f
+What was that?
+
+TAG: Scar_068_f
+We wanted to include you in our game?
+
+TAG: Player_021_choice_000_f
+Teeth, claws and all!
+
+TAG: Player_021_choice_001_f
+There's a fuzzy softie somewhere in there!
+
+TAG: Scar_069_f
+You want me in your game, knowing all you know about me?
+
+TAG: Scar_070_f
+Fascinating. I'm rarely included by choice.
+
+TAG: Player_022_choice_000_f
+Are you upset?
+
+TAG: Player_022_choice_001_f
+First time for everything!
+
+TAG: Scar_071_f
+No...
+
+TAG: Scar_072_f
+Surprisingly, I'm not.
+
+TAG: Scar_073_f
+Oh, enough of this! Would you please leave?
+
+TAG: Scar_074_f
+...
+
+TAG: Scar_075_f
+Indeed.
+
+TAG: Scar_076_f
+You couldn't be more wrong. And yet...
+
+TAG: Scar_077_f
+Oh, I don't.
+
+TAG: Scar_001_f
+Battle? My my, I must say I have been waiting for you to show your claws.
+
+TAG: Player_001_choice_000_f
+This is the final battle!
+
+TAG: Player_001_choice_001_f
+I'm sorry it had to be this way, Scar...
+
+TAG: Scar_002_f
+Oh, I see. You brought the sticky little cub with you.
+
+TAG: Scar_003_f
+This is some sort of game?
+
+TAG: Player_002_choice_000_f
+Prepare for swift defeat!
+
+TAG: Player_002_choice_001_f
+Yeah, so play along!
+
+TAG: Scar_004_f
+And how exactly will you "defeat" me?
+
+TAG: Player_003_choice_000_f
+I'll watch your attack patterns!
+
+TAG: Player_003_choice_001_f
+I'll wield my Pixel Sword!
+
+TAG: Player_003_choice_002_f
+My sidekick will help me!
+
+TAG: Scar_005_f
+My what? Ugh, this is getting tiresome...
+
+TAG: Player_004_choice_000_f
+Tired? Your health is low!
+
+TAG: Player_004_choice_001_f
+Victory is almost mine!
+
+TAG: Scar_006_f
+Yes, yes. You've worn me down, I couldn't possibly lift a paw against you.
+
+TAG: Player_005_choice_000_f
+Sweet triumph!
+
+TAG: Player_005_choice_001_f
+Now drop some loot!
+
+TAG: Scar_007_f
+Bravo. You win this inane charade. Now kindly... get out.
+
+TAG: Scar_008_f
+I've no idea what you're talking about. Now please, leave. My patience is growing dangerously thin.
+
+TAG: Scar_009_f
+If I admit "defeat" in this ridiculous tableau, will you leave?
+
+TAG: Player_006_choice_000_f
+I accept your surrender!
+
+TAG: Player_006_choice_001_f
+Well fought, Final Boss.
+
+TAG: Scar_010_f
+Surrender? I... Oh, fine. Yes. I surrender. Now leave.
+
+TAG: Scar_011_f
+Don't feel too bad. Vanellope and I make an unstoppable team.
+
+TAG: Scar_012_f
+An insufferable team, more like. I suggest you leave before I lose my temper.
+
+TAG: Scar_013_f
+That? It looks as though a child made it... *sigh* This is becoming exhausting.
+
+TAG: Scar_014_f
+The sticky one? Ugh, she's utterly exhausting.
+
+TAG: Scar_015_f
+I rarely "play."
+
+TAG: Player_007_choice_000_f
+Today, you do! En garde!
+
+TAG: Player_007_choice_001_f
+This is no game...
+
+TAG: Scar_016_f
+*sigh* Your preoccupation with games is rather childish, you know?
+
+TAG: Player_008_choice_000_f
+You won't break me, Villain!
+
+TAG: Player_008_choice_001_f
+Not as pathetic as this messy lair!
+
+TAG: Scar_017_f
+No? How are you planning on turning this in your favor?
+
+TAG: Player_009_choice_000_f
+With my Pixel Sword!
+
+TAG: Player_009_choice_001_f
+I've been watching your attack patterns!
+
+TAG: Player_009_choice_002_f
+I have a battle sidekick!
+
+TAG: Scar_018_f
+A plaything for a child. Are you finished?
+
+TAG: Scar_019_f
+No, but YOU are!
+
+TAG: Scar_020_f
+Fine, yes. You "defeated" me. Now leave.
+
+TAG: Scar_021_f
+Goody for you. I really don't care.
+
+TAG: Scar_022_f
+I'll accept apathy as surrender!
+
+TAG: Scar_023_f
+The sticky little cub? Ugh, what a nuisance.
+
+TAG: Scar_024_f
+Get her out of here, and I'll declare you the victor.
+
+TAG: Scar_025_f
+Oh? You don't like my decor? I'm wounded.
+
+TAG: Player_010_choice_000_f
+You're low on health!
+
+TAG: Player_010_choice_001_f
+Living in a skull is clichÃ©!
+
+TAG: Scar_026_f
+If you mean I'm bored with this interaction, then most definitely.
+
+TAG: Scar_027_f
+If you don't like my home, I invite you to leave. Now. Oh, and don't forget the cub.
+
+TAG: Scar_028_f
+This is for real, serious Final Boss battle time!
+
+TAG: Scar_029_f
+Yes, this sounds INCREDIBLY high stakes.
+
+TAG: Player_011_choice_000_f
+I'm immune to sarcasm!
+
+TAG: Player_011_choice_001_f
+Time to use my secret weapon!
+
+TAG: Scar_030_f
+Oh woe is me, whatever will I do?
+
+TAG: Scar_031_f
+I just told you that wouldn't work! I'm more powerful than ever!
+
+TAG: Scar_032_f
+Oh dear, I'm trembling. Will you accept my surrender for your mercy?
+
+TAG: Player_012_choice_000_f
+I accept your surrender!
+
+TAG: Player_012_choice_001_f
+Better luck next time, Scar!
+
+TAG: Scar_033_f
+*sigh* Yes, I'm defeated. Now, leave.
+
+TAG: Scar_034_f
+Maybe you should think about leveling up!
+
+TAG: Scar_035_f
+I've no idea what that means. But I do know this is over. You win. We're finished. Now, go.
+

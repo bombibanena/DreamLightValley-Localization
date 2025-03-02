@@ -1,0 +1,9 @@
+TAG: Rapunzel_000_f
+I spoke to Ursula. I need to gather Ingredients and craft the Eternal Sundrop Charm myself.
+
+TAG: Rapunzel_001_f
+What do you need?
+
+TAG: Rapunzel_002_f
+Just <ActivityItem>Dream Shards</ActivityItem>, <ActivityItem>Evergems</ActivityItem>, and <ActivityItem>Skeleton Fish</ActivityItem>.
+

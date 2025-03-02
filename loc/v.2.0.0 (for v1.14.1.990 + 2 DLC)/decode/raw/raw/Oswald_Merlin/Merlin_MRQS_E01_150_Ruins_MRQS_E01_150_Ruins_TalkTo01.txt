@@ -1,0 +1,150 @@
+TAG: Merlin_000_f
+Hmmm... I know I put it here somewhere... Oh, blast it all!
+
+TAG: Merlin_029_f
+What was it called again? Splinter of Inspiration...? Shard of Creativity...?
+
+TAG: Player_000_choice_000_f
+Spark of Imagination!
+
+TAG: Player_000_choice_001_f
+Hello? Earth to Merlin?
+
+TAG: Merlin_001_f
+Yes! Yes! That's it! <Lore>The Spark of Imagination!</Lore>
+
+TAG: Merlin_002_f
+I've uncovered some notes about the <Lore>ancient civilization</Lore> that once lived in Dreamlight Valley.
+
+TAG: Merlin_003_f
+It seems they created this "Spark of Imagination" to give them the ability to bend Dreamlight Valley to their whim.
+
+TAG: Merlin_004_f
+Its power is what holds this entire Valley together! You see, it's the source of all Dreamlight. So, we must find it before Jafar does.
+
+TAG: Player_001_choice_000_f
+So Dreamlight Valley is more than just my dream?
+
+TAG: Player_001_choice_001_f
+What sorts of things could this Spark do?
+
+TAG: Player_001_choice_002_f
+How do we find the Spark?
+
+TAG: Merlin_006_f
+Well yes, yes, it is a dream. After all, you got here by falling asleep, didn't you?
+
+TAG: Merlin_007_f
+But remember: Just because it's a dream doesn't mean it isn't real.
+
+TAG: Player_002_choice_000_f
+Got it.
+
+TAG: Player_002_choice_001_f
+Seems confusing, but I think I'm getting it.
+
+TAG: Player_002_choice_002_f
+I shouldn't have asked...
+
+TAG: Merlin_008_f
+I knew you would.
+
+TAG: Merlin_009_f
+Then you're right on time. Confusion is the first step towards enlightenment, you know.
+
+TAG: Merlin_010_f
+Never be sorry for asking. Questioning is the only way we get to the truth!
+
+TAG: Merlin_011_f
+Oh, I fear if someone truly knew how to wield it, its power would be unstoppable.
+
+TAG: Merlin_012_f
+Why, it could be as powerful as a genie's wish. With just a snap of his fingers, Jafar could change all of Dreamlight Valley to his liking.
+
+TAG: Player_003_choice_000_f
+I'm not gonna let that happen.
+
+TAG: Player_003_choice_001_f
+He'd probably put statues of himself everywhere...
+
+TAG: Player_003_choice_002_f
+This Spark sounds pretty useful.
+
+TAG: Merlin_013_f
+As long as we work together to stop him, it most certainly will not.
+
+TAG: Merlin_014_f
+That would be a tragedy after all the marvelous work you've done here. But I fear statuary is the least of the harm he could cause.
+
+TAG: Merlin_015_f
+Don't be tempted, {PlayerName}. If we find it, we must keep it safe, study it, and absolutely nothing more! It's far too dangerous.
+
+TAG: Merlin_016_f
+My research shows that the Spark was once kept somewhere quite special...
+
+TAG: Merlin_017_f
+An <Lore>Ancient Temple</Lore> near Ancient's Landing. However, I'm afraid there's... Well, there's a problem.
+
+TAG: Merlin_018_f
+The door to the temple was worn away by time, and the entire temple has sunk into the water. Currently, there's no way inside.
+
+TAG: Player_004_choice_000_f
+I know exactly the place you mean! The sunken door, between the two waterfalls?
+
+TAG: Player_004_choice_001_f
+Guess it's lost forever then.
+
+TAG: Player_004_choice_002_f
+Well... if we can't get it, Jafar can't either, right?
+
+TAG: Merlin_019_f
+Yes! Yes! That's it!
+
+TAG: Player_005_choice_000_f
+I'll try my best to figure out where that might be on my own...
+
+TAG: Player_005_choice_001_f
+Come on. You must have a theory. Gimme a hint?
+
+TAG: Merlin_020_f
+And I know precisely how we can get to the Spark... By <Lore>harnessing the magic of your Hourglass to turn back time</Lore>!
+
+TAG: Merlin_021_f
+Tiny <Lore>Flickers</Lore> of the Spark's magic are scattered throughout <Lore>the Valley, Eternity Isle, and the Realms</Lore>.
+
+TAG: Merlin_034_f
+Here. I found this one in the course of my research.
+
+TAG: Merlin_022_f
+You must <Lore>venture into the Realms</Lore> and use your Hourglass to uncover more of them.
+
+TAG: Merlin_023_f
+Then <Lore>use your Hourglass around Eternity Isle and Dreamlight Valley</Lore> to uncover additional <Lore>Flickers</Lore>.
+
+TAG: Merlin_030_f
+The Valley and the Isle are big places. Where should I look?
+
+TAG: Merlin_031_f
+I suspect you'll find them <Lore>where Villagers first arrive</Lore> from the Realms.
+
+TAG: Merlin_032_f
+I suspect your theory will be as good as mine.
+
+TAG: Merlin_024_f
+Once you're finished, your Hourglass should be able to channel the magic of the Spark and <Lore>restore the doorway to the sunken temple</Lore>.
+
+TAG: Merlin_033_f
+Hmm... Well, perhaps you could try <Lore>searching near the Wishing Well in the Plaza</Lore> in Dreamlight Valley and <Lore>the Wishing Well near the Docks</Lore> on Eternity Isle.
+
+TAG: Merlin_025_f
+Now then, haven't you learned by now that in Dreamlight Valley, nothing is lost forever?
+
+TAG: Merlin_026_f
+I wouldn't count on that.
+
+TAG: Merlin_027_f
+Jafar can be quite ingenious when it comes to getting what he wants.
+
+TAG: Merlin_028_f
+Spark of Imagination! Yes, that's it... Oh, {PlayerName}! I was so absorbed in my research that I scarcely saw you there.
+

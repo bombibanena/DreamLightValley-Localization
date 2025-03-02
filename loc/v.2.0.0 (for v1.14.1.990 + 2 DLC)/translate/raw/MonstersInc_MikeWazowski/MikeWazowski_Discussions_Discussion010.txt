@@ -1,0 +1,54 @@
+TAG: MikeWazowski_000_f
+Хочешь услышать шутку?
+
+TAG: Player_000_choice_000_f
+Конечно!
+
+TAG: Player_000_choice_001_f
+Нет, спасибо.
+
+TAG: MikeWazowski_001_f
+Так... почему коровы носят колокольчики?
+
+TAG: Player_001_choice_000_f
+Я не знаю почему?
+
+TAG: Player_001_choice_001_f
+Хватит шутить.
+
+TAG: MikeWazowski_002_f
+Потому что их рога не работают!
+
+TAG: MikeWazowski_003_f
+Как ты называешь злобную морковку?
+
+TAG: Player_002_choice_000_f
+Как ты это называешь?
+
+TAG: Player_002_choice_001_f
+Хватит шутить.
+
+TAG: MikeWazowski_004_f
+Вегетарианец с паром!
+
+TAG: MikeWazowski_005_f
+Последний... где Безумный Снежный Человек держит свои деньги?
+
+TAG: Player_003_choice_000_f
+Куда?
+
+TAG: Player_003_choice_001_f
+Снежный банк?
+
+TAG: Player_003_choice_002_f
+Вообще-то, я думаю, что на данный момент я в порядке.
+
+TAG: MikeWazowski_006_f
+Говорил же, что я гений комедии!
+
+TAG: MikeWazowski_007_f
+Эй, неплохо, мы должны посадить тебя на этаж Смеха!
+
+TAG: MikeWazowski_008_f
+Вау, крутая толпа.
+

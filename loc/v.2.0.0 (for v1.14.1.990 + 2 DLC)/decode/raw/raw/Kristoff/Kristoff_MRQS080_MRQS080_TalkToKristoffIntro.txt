@@ -1,0 +1,126 @@
+TAG: Kristoff_004_f
+Someone's here?
+
+TAG: Kristoff_005_f
+Wait... SOMEONE'S HERE! WOOHOO!
+
+TAG: Kristoff_006_f
+Sorry. I've just been lost in these woods for so long.
+
+TAG: Player_001_choice_000_f
+What were you doing in the woods?
+
+TAG: Player_001_choice_001_f
+Are you here alone?
+
+TAG: Player_001_choice_002_f
+Do you need help?
+
+TAG: Kristoff_007_f
+Well, Donald Duck and I were searching the Valley for something to help fight the Night Thorns and stop the Forgetting.
+
+TAG: Kristoff_000_f
+But I sort of... lost him. Or maybe he lost me.
+
+TAG: Player_000_choice_000_f
+How do you lose Donald Duck?
+
+TAG: Player_000_choice_001_f
+I'm sure it wasn't your fault.
+
+TAG: Player_000_choice_002_f
+Is he in danger?
+
+TAG: Kristoff_002_f
+It's actually easier than you'd think.
+
+TAG: Kristoff_008_f
+We were in the <Lore>Forest of Valor</Lore> when the Night Thorns blocked us in...
+
+TAG: Kristoff_019_f
+...and that's when we saw a <Lore>Dark Entity</Lore> removing the <ActivityItem>Orb of Courage</ActivityItem> from the Forest Pillar...
+
+TAG: Kristoff_031_f
+Dark Entity? It must have been the Forgotten! Ursula warned me about this.
+
+TAG: Kristoff_032_f
+Never heard of 'em... but whoever it was, they didn't seem friendly.
+
+TAG: Kristoff_017_f
+Out of the blue, they just opened a... a doorway and stepped through it! That <Lore>Dark Portal</Lore> over there.
+
+TAG: Kristoff_014_f
+Then Donald ran right through the portal, chasing after the Dark Entity.
+
+TAG: Player_000_choice_003_f
+That was brave!
+
+TAG: Player_000_choice_004_f
+That was foolish!
+
+TAG: Player_000_choice_005_f
+Classic Donald Duck. Always in trouble.
+
+TAG: Kristoff_020_f
+Brave? Maybe. Foolish? Definitely!
+
+TAG: Kristoff_018_f
+I tried to follow him, but he yelled at me to stay put and guard his back. I wanted to argue with him, but you really can't win a fight with Donald Duck.
+
+TAG: Kristoff_015_f
+And that's the last time I saw him.
+
+TAG: Kristoff_016_f
+It's been so long; I hope he's all right.
+
+TAG: Kristoff_010_f
+Hey... if you were able to remove the Thorns and find me â maybe you're powerful enough to go through the portal and save him!
+
+TAG: Player_000_choice_006_f
+Never fear. I'm on it!
+
+TAG: Player_000_choice_007_f
+Gulp. Here goes nothing.
+
+TAG: Player_000_choice_008_f
+Too scared to do it yourself?
+
+TAG: Kristoff_026_f
+Whoa, I wish you'd come to the Valley a long time ago.
+
+TAG: Kristoff_027_f
+There's something... special about you... I don't know why, but I know you can do this.
+
+TAG: Kristoff_030_f
+Just step through the portal. And don't worry. I'll be waiting for you when you get back.
+
+TAG: Kristoff_028_f
+Aw, don't worry.
+
+TAG: Kristoff_023_f
+Hey! Not scared. Just... Well, I guess I forgot what had happened. I didn't remember until I saw you.
+
+TAG: Kristoff_029_f
+But that's not the reason I think you should be the one to go through that portal.
+
+TAG: Kristoff_021_f
+Maybe, but we had to do something!
+
+TAG: Kristoff_022_f
+I just hope this time he hasn't gotten himself into trouble he can't get out of.
+
+TAG: Kristoff_003_f
+Thanks for saying that. I've been kicking myself ever since we got split up.
+
+TAG: Kristoff_009_f
+I really hope not... But maybe.
+
+TAG: Kristoff_011_f
+No. I mean... yeah... or maybe... I was with someone, but I can't find him now.
+
+TAG: Kristoff_013_f
+You see, Donald Duck and I were searching the Valley for something to help fight the Night Thorns and stop the Forgetting.
+
+TAG: Kristoff_012_f
+You could say that.
+

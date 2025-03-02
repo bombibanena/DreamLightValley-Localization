@@ -1,0 +1,144 @@
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Any_CompletedRequestDescription
+Поговори с Мушу о завершенной статуе.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_AvailableDescription
+Мушу выглядит обеспокоенным чем-то.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_DisplayName
+Напоминание в камне
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group01_Step01_VisitArea01_StepDescription
+Возвращайся в королевство Мулан.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group01_StoryDescription
+Мушу хочет построить статую Великого каменного дракона, чтобы он всегда помнил свое место в Долине как Хранитель. Он просит вас забрать Лаки Багса из своего дома, чтобы начать проект с правой ноги.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group02_Step02_Chase01_StepDescription
+На южном поле.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group02_Step02_Chase02_StepDescription
+В тренировочном лагере.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group02_Step02_Chase03_StepDescription
+В Восточном лесу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group02_Step02_StepDescription
+Чейз и поймать три <ActivityItem>Lucky Bugs</ActivityItem>:
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group03_Step03_ReadyDescription
+Возьмите <ActivityItem>Lucky Bugs</ActivityItem> на Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group03_Step03_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Lucky Bugs</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group04_Step04_DressUp01_StepDescription
+Очистить <ActivityItem>Incense Fantern</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group05_Step05_StepDescription
+Скаутировать различные биомы с вашим <ActivityItem>Incense Fantern</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group05_Step05_VisitArea02_StepDescription
+Плаза.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group05_Step05_VisitArea03_StepDescription
+Мирный луг.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group05_Step05_VisitArea04_StepDescription
+Даззл-Бич.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group06_Step06_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group06_StoryDescription
+Выследив Лаки Багс, Мушу дает вам фонарь Инсенс, и вы двое отправляетесь на разведку лучшего места для статуи в Долине и чтобы она пахла очень вкусно!
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group07_Step07_Possess01_StepDescription
+Мягкая древесина.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group07_Step07_Possess02_StepDescription
+Камни.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group07_StepDescription
+Соберите материалы для построения Statusue</ActivityItem> <ActivityItem>Great Statuson Dragon Statuse.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group07_StoryDescription
+У вас есть довольно хорошее представление о том, где вы хотите разместить Великий Стоун Дракона Статуя. Следующий шаг - это собрать материалы и на самом деле построить их.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group08_StepDescription
+Подготовить статую каменного дракона <ActivityItem>Great<ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group09_Step09_Decorate01_StepDescription
+Поместите <ActivityItem>Great Statue Statuson Statusue</ActivityItem> в долину.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group09_StoryDescription
+Мушу говорит, что вы должны поместить построенную статую в биом по вашему выбору.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group10_Step10_TalkToCharacter02_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess03_StepDescription
+Красные цветы.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess04_StepDescription
+Гарнеты.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess05_StepDescription
+Аквамарины.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess06_StepDescription
+Топаз.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group11_Step11_StepDescription
+Найди дополнительные украшения для статуи.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group11_StoryDescription
+Мушу хочет прикоснуться к статуе, включая красные цветы, Гарнеты и... освещение?
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem02_StepDescription
+<ActivityItem>Red Flowers</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem03_StepDescription
+<ActivityItem>Garnets</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem04_StepDescription
+<ActivityItem>Aquamarines</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem05_StepDescription
+<ActivityItem>Topase</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_ReadyDescription
+Отдай украшения {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Red Flowers</ActivityItem>, <ActivityItem>Garnets</ActivityItem>, <ActivityItem>Aquamarines</ActivityItem> и <ActivityItem>Topazes</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group13_Step13_FillKeyhole01_StepDescription
+Поместите <ActivityItem>Garnet</ActivityItem> на <ActivityItem>Great Statue Statuse</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group14_Step14_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group14_StoryDescription
+Когда статуя украшена, последний шаг - это добавить драматическое освещение. Мушу просит вас собрать клинт из камней, которые вы можете разбить вокруг пляжа Даззл. Он сможет зажечь факелы своим огненным дыханием, но вам понадобится дополнительная помощь.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group15_Step15_RemoveBlocker01_StepDescription
+Разбейте золото и чёрные <ActivityItem>Flint Rocks</ActivityItem> на Dazzle Beach своим Pickaxe.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group16_Step16_ReadyDescription
+Передайте <ActivityItem>Flint</ActivityItem> {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group16_Step16_StepDescription
+Соберите несколько <ActivityItem>Flint</ActivityItem> для Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group17_Step17_Conditional01_StepDescription
+Левый факел.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group17_Step17_Conditional02_StepDescription
+Прямой факел.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_Group17_Step17_StepDescription
+Зажгите два факела:
+
+TAG: Village!Mulan!Mushu!VLG_Mush_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

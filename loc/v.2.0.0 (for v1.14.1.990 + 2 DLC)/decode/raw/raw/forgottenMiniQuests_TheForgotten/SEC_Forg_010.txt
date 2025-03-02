@@ -1,0 +1,69 @@
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Any_CompletedRequestDescription
+Return to the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_AvailableDescription
+The Forgotten has had some time to adjust to life in the Village but still seems to be spending an awful lot of time in the Dark Castle. You decide it's time to check in on them.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_CompletedStoryDescription
+You create a space in your House that should be perfect for the Forgotten. Time to see how they feel!
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_DisplayName
+The Magic in Everything
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group01_StepDescription
+The Forgotten's been spending an awful lot of time in the Dark Castle...
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_Step02_StepDescription
+A cool yellow flower that grows only in the Forgotten Lands.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_Step06_StepDescription
+A neat bird with the darkest feathers in the Valley.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_Step07_StepDescription
+A giant skull off Dazzle Beach.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_StepDescription
+Take pictures of things around the Village that the Forgotten might like:
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_StoryDescription
+The Forgotten is struggling to find the beauty and excitement in life. You invite them to join you in taking some pictures around the Valley, capturing snapshots of unconventional beauty wherever you can find it.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group03_Step03_TalkToCharacter02_StepDescription
+Show the photos to the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate01_StepDescription
+Calm.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate02_StepDescription
+Elegant.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate03_StepDescription
+Black. (Obviously.)
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate04_StepDescription
+Purple.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate05_StepDescription
+Seating.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate06_StepDescription
+Art.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_StepDescription
+Decorate a room in your House for the Forgotten using furniture that's:
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_StoryDescription
+The Forgotten is feeling a lot more at home in the Village now. So at home, in fact, that they'd love it if you decorated a space for them in YOUR home!
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group05_Step05_TakePicture04_StepDescription
+Take a picture of the room you've made for the Forgotten.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What were we doing?
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How should I decorate?
+

@@ -1,0 +1,48 @@
+TAG: Mirabel_000_f
+{PlayerName}, I found something kind of strange in my House, and I could use your help. Can you spare a minute?
+
+TAG: Player_000_choice_000_f
+Another mystery to solve? Sure!
+
+TAG: Player_000_choice_001_f
+I can't just yet.
+
+TAG: Mirabel_001_f
+Okay, so this <ActivityItem>Torn Cloth</ActivityItem> just flew out from under a counter! The lights started flickering, the wood planks of the floor brought it closer to me...
+
+TAG: Mirabel_002_f
+Mini-Casita wanted to be SURE that I saw it.
+
+TAG: Mirabel_003_f
+It looks familiar, but I can't place it. I KNOW it's gotta be important. Think you can help?
+
+TAG: Player_001_choice_000_f
+I'm here for you.
+
+TAG: Player_001_choice_001_f
+What do you need?
+
+TAG: Player_001_choice_002_f
+My help? With a torn cloth?
+
+TAG: Mirabel_004_f
+Thanks, {PlayerName}! That means a lot.
+
+TAG: Mirabel_005_f
+Could you take a look at the <ActivityItem>Torn Cloth</ActivityItem>?
+
+TAG: Mirabel_006_f
+See if you notice anything strange about it. And by anything, I mean ANYTHING.
+
+TAG: Mirabel_007_f
+Okay, give it to me; I'll examine it.
+
+TAG: Mirabel_008_f
+Here you go.
+
+TAG: Mirabel_009_f
+Yeah, I know it probably sounds a little... weird. But can you take a look at it?
+
+TAG: Mirabel_010_f
+I understand. Whenever you have time would be great.
+

@@ -1,0 +1,33 @@
+TAG: Anna_000_f
+Ooh, what are these meals? They look fancy!
+
+TAG: Anna_001_f
+Remy told me you were teaching Olaf about fine dining.
+
+TAG: Player_000_choice_000_f
+I brought you the three finest meals I could whip up.
+
+TAG: Player_000_choice_001_f
+I did my best.
+
+TAG: Player_000_choice_002_f
+But I don't know much about it myself...
+
+TAG: Anna_002_f
+Wow! You did an amazing job.
+
+TAG: Anna_003_f
+Olaf will be so excited to see them.
+
+TAG: Anna_006_f
+Hey, why don't you <Lore>come with me</Lore> so you can see his reaction?
+
+TAG: Anna_007_f
+Oh! I almost forgot! This is for you.
+
+TAG: Anna_004_f
+Are you kidding me? These are amazing!
+
+TAG: Anna_005_f
+Well, you could have fooled me. These look amazing!
+

@@ -1,0 +1,9 @@
+TAG: Mushu_001_f
+Yes! This is just what we need to start the M.U.S.H.U. program with the Beast.
+
+TAG: Mushu_002_f
+Now, it's time to make some masterpieces! And by masterpieces I mean <ActivityItem>Ink Blot Tests</ActivityItem>.
+
+TAG: Mushu_003_f
+{PlayerName}, <Lore>open yours up and have a look</Lore>.
+

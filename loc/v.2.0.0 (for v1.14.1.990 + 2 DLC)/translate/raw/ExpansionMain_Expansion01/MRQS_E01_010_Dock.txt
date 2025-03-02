@@ -1,0 +1,30 @@
+TAG: Story!Expansion01!MRQS_E01_010_Dock_AvailableDescription
+Мерлин хочет вам что-то рассказать о особых местах за пределами долины Мечты.
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_DisplayName
+Порт многих миров
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Мерлин.
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group01_StepDescription
+Мерлин вспомнил что-то о особенном месте в долине Мечты...
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group02_Step02_VisitArea01_StepDescription
+Познакомься с Мерлин в замке Мечты.
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group03_Step03_FollowCharacter01_StepDescription
+Следуйте Мерлин к воротам в замке Мечты.
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group03_Step03_FollowCharacter01_TalkToDescription
+Поговори с Мерлин.
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group04_Step04_VisitArea02_StepDescription
+Проходите через ворота в замке Мечты.
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group05_Step05_TalkToCharacter02_StepDescription
+Поговори с Мерлин в порту Старпы.
+
+TAG: Story!Expansion01!MRQS_E01_010_Dock_Group02_OngoingRequestButton
+{title}</smallcaps><br> Куда мы идем?
+

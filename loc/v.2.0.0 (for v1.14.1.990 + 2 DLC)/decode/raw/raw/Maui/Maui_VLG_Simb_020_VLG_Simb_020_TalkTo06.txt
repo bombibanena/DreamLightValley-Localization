@@ -1,0 +1,27 @@
+TAG: Maui_001_f
+Hey, {PlayerName}. Need anything rescued or fought today?
+
+TAG: Player_000_f
+Simba wants to have a gathering. He's wondering if you could come along and...
+
+TAG: Player_000_choice_000_f
+...fight stress.
+
+TAG: Player_000_choice_001_f
+...rescue some relaxation.
+
+TAG: Maui_002_f
+"Stress"? Never heard of that monster before...
+
+TAG: Maui_004_f
+Just kidding!
+
+TAG: Maui_005_f
+I get it. Sounds like a great time.
+
+TAG: Maui_006_f
+I'll be there.
+
+TAG: Maui_003_f
+"Relaxation"? Is that what you named one of the islands?
+

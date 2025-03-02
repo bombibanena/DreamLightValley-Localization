@@ -1,0 +1,114 @@
+TAG: Buzz_000_f
+{PlayerName}, which planet is your favorite?
+
+TAG: Player_000_choice_000_f
+I'm pretty fond of Earth.
+
+TAG: Player_000_choice_001_f
+Jupiter! It's big.
+
+TAG: Player_000_choice_002_f
+Neither of those...
+
+TAG: Buzz_001_f
+That's understandable. After all, it is our home.
+
+TAG: Buzz_002_f
+And it's a beautiful one.
+
+TAG: Buzz_003_f
+Yes, it is an impressive planet in terms of size.
+
+TAG: Buzz_004_f
+And did you know that the red spot on its surface is a giant storm?
+
+TAG: Buzz_005_f
+Fascinating stuff.
+
+TAG: Buzz_006_f
+A different planet, then?
+
+TAG: Player_001_choice_000_f
+I like Saturn. Pretty rings.
+
+TAG: Player_001_choice_001_f
+Mars. It's red. Red is cool.
+
+TAG: Player_001_choice_002_f
+Some other planet...
+
+TAG: Buzz_007_f
+Saturn's rings are quite impressive.
+
+TAG: Buzz_008_f
+Did you know they're made almost entirely of ice?
+
+TAG: Buzz_009_f
+Well, did you know that Mars has red soil because of oxidation?
+
+TAG: Buzz_011_f
+A different planet, then?
+
+TAG: Player_002_choice_000_f
+Mercury. It's so tiny!
+
+TAG: Player_002_choice_001_f
+Neptune. It's so icy!
+
+TAG: Player_002_choice_002_f
+No... neither of those...
+
+TAG: Buzz_012_f
+Ah, yes, Mercury. It's the smallest and closest to the Sun in our solar system.
+
+TAG: Buzz_013_f
+Neptune? Well, that is one of the coldest places in the solar system.
+
+TAG: Buzz_014_f
+It wouldn't make much of a vacation spot, but it is fascinating.
+
+TAG: Buzz_015_f
+We're running low on planets, {PlayerName}.
+
+TAG: Player_003_choice_000_f
+Venus. It's our closest neighbor.
+
+TAG: Player_003_choice_001_f
+Uranus. It's got so many moons.
+
+TAG: Player_003_choice_002_f
+Hm... Neither of those...
+
+TAG: Buzz_016_f
+Venus, huh? That's the hottest planet in this whole system.
+
+TAG: Buzz_019_f
+Even if we had actual space suits, I don't think either of us would last long there.
+
+TAG: Buzz_017_f
+Last time I counted, it had over twenty.
+
+TAG: Buzz_018_f
+It's always nice when something comes with a lot of accessories.
+
+TAG: Buzz_020_f
+I don't think there are any more planets in our solar system, {PlayerName}.
+
+TAG: Player_004_choice_000_f
+I maintain that Pluto is a planet and it's my favorite.
+
+TAG: Player_004_choice_001_f
+My favorite planet is the Sun.
+
+TAG: Buzz_021_f
+As a Space Ranger, or at least a toy one, I must remain neutral on this contentious issue.
+
+TAG: Buzz_022_f
+Well, my friend, that's a bit outside the boundaries of my question, but I can't fault your selection.
+
+TAG: Buzz_023_f
+This solar system's Sun is certainly impressive.
+
+TAG: Buzz_024_f
+A yellow dwarf, if I'm not mistaken.
+

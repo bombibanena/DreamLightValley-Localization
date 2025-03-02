@@ -1,0 +1,93 @@
+TAG: Scar_000_f
+{PlayerName}... here at last to seek my advice on ruling the Village?
+
+TAG: Scar_010_f
+Start by instilling fear in your subjects by exiling someone. Goofy, perhaps?
+
+TAG: Scar_011_f
+I do need some advice, but not about that.
+
+TAG: Scar_012_f
+The Forgotten needs help writing some poetry.
+
+TAG: Player_000_f
+I thought you might be able to help because...
+
+TAG: Player_000_choice_000_f
+...you owe the Forgotten for what you did to them.
+
+TAG: Player_000_choice_001_f
+...you have such a way with words.
+
+TAG: Player_000_choice_002_f
+...you might be able to relate to their situation.
+
+TAG: Scar_013_f
+What I did...? I haven't the faintest idea what you're talking about.
+
+TAG: Scar_026_f
+Come on, Scar. Those feelings... they aren't just a little bit familiar?
+
+TAG: Scar_027_f
+*sigh* Fine. Perhaps it does remind me of something...
+
+TAG: Scar_001_f
+I remember what it was like to watch Mufasa rule over the Pride Lands.
+
+TAG: Scar_002_f
+He had no sense of a king's real power! If I were king, every animal there would grovel for my favor.
+
+TAG: Scar_003_f
+I told myself I would rule over the darkness until one day I could claim the light.
+
+TAG: Scar_004_f
+Scar! That's it! You're a poet and you didn't know it.
+
+TAG: Scar_005_f
+Hrm? What are you blathering about?
+
+TAG: Scar_007_f
+That's a perfect rhyme! And it's exactly how the Forgotten felt.
+
+TAG: Scar_006_f
+<Lore>Nothing I do seems to make the world right...</Lore>
+
+TAG: Scar_008_f
+<Lore>...I'll take the darkness if I can't have the light.</Lore>
+
+TAG: Scar_014_f
+Years ago, you tricked the Forgotten into helping spread the Night Thorns around the Valley.
+
+TAG: Scar_009_f
+... I suppose it does have a certain ring to it, doesn't it?
+
+TAG: Scar_015_f
+Oh... Well, if helping you with this poetic problem will put that unpleasantness behind us... do go on.
+
+TAG: Scar_019_f
+The Forgotten is looking for a way to complete this verse...
+
+TAG: Scar_021_f
+<Lore>I once was the ruler of all I surveyed...</Lore>
+
+TAG: Scar_022_f
+<Lore>But now I'm cast out and I feel so afraid.</Lore>
+
+TAG: Scar_023_f
+<Lore>Nothing I do seems to make the world right...</Lore>
+
+TAG: Scar_024_f
+What should the next line be...?
+
+TAG: Scar_025_f
+I haven't the faintest idea. It's not like I could possibly relate.
+
+TAG: Scar_016_f
+True. All good kings must know how to speak to their kingdoms.
+
+TAG: Scar_020_f
+Fine. I'll help you.
+
+TAG: Scar_018_f
+Well, I must admit, I am a bit intrigued.
+

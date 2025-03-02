@@ -1,0 +1,36 @@
+TAG: Simba_007_f
+I'm starting to remember something, {PlayerName}. You and Remy used the <ActivityItem>Dreamlight Fruit</ActivityItem> in a bunch of recipes...
+
+TAG: Simba_008_f
+But I'm still not sure if the fruit will help us get more <ActivityItem>Dreamlight Trees</ActivityItem>...
+
+TAG: Simba_003_f
+Maybe I knew once.
+
+TAG: Simba_006_f
+For now, the only other thing I remember is Mother Gothel sometimes picked the fruit.
+
+TAG: Simba_000_f
+Do you think she knows something?
+
+TAG: Player_000_f
+I'll talk to her...
+
+TAG: Player_000_choice_000_f
+She'll want to help.
+
+TAG: Player_000_choice_001_f
+I don't think she likes lions too much.
+
+TAG: Player_000_choice_002_f
+She's difficult to deal with.
+
+TAG: Simba_001_f
+That'd be great. Thanks, {PlayerName}!
+
+TAG: Simba_004_f
+Yeah. Some folks are a little wary around us.
+
+TAG: Simba_005_f
+Good luck, then. Thanks, {PlayerName}.
+

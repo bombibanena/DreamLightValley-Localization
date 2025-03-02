@@ -1,0 +1,15 @@
+TAG: Elsa_001_f
+Спасибо за помощь, {PlayerName}.
+
+TAG: Elsa_002_f
+Вы можете прийти и поделиться со мной <ActivityItem>Arendellian Pickled Herring</ActivityItem>, когда захотите.
+
+TAG: Elsa_003_f
+Жду не дождусь, когда узнаю больше о Деревне.
+
+TAG: Elsa_004_f
+И, конечно, разгадывая тайну пещеры.
+
+TAG: Elsa_000_f
+Мы все еще упускаем два <ActivityItem>Crests</ActivityItem>. Но я уверен, что мы сможем найти их вместе.
+

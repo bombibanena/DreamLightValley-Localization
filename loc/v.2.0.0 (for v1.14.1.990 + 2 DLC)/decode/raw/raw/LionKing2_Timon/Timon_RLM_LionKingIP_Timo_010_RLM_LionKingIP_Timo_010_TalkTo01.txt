@@ -1,0 +1,57 @@
+TAG: Timon_000_f
+{PlayerName}! Have you seen Pumbaa?!
+
+TAG: Player_000_f
+Pumbaa's missing?
+
+TAG: Player_000_choice_000_f
+We have to find him!
+
+TAG: Player_000_choice_001_f
+He's probably looking for grubs to eat.
+
+TAG: Player_000_choice_002_f
+When did you last see him?
+
+TAG: Timon_002_f
+Of course we have to find him! This is a disaster!
+
+TAG: Timon_004_f
+What do we do?!
+
+TAG: Player_001_choice_000_f
+Take a deep breath.
+
+TAG: Player_001_choice_001_f
+Timon, I've never seen you like this.
+
+TAG: Player_001_choice_002_f
+Where's your "hakuna matata" attitude?
+
+TAG: Timon_006_f
+*inhale* *exhale* *inhale* *exhale* Okay... You're right.
+
+TAG: Timon_005_f
+It's just, I've never lost Pumbaa before! I looked all over for him.
+
+TAG: Timon_008_f
+Maybe you missed something? I'll <Lore>search for Pumbaa</Lore>.
+
+TAG: Timon_007_f
+There are times for hakuna matata, and there are times to panic.
+
+TAG: Timon_003_f
+Guess which time this is?
+
+TAG: Timon_009_f
+Time to panic?
+
+TAG: Timon_010_f
+YES! What if he got eaten by a predator?!
+
+TAG: Timon_011_f
+Try to relax, Timon.
+
+TAG: Timon_001_f
+Well, he LEFT to look for grubs, but that was way TOO LONG ago!
+

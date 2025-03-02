@@ -1,0 +1,189 @@
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Any_CompletedRequestDescription
+Возвращайтесь на Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_AvailableDescription
+Салли приходит к вам с проектом. Он хочет организовать охоту на мусорщиков в Долине и нуждается в вашей помощи, чтобы пригласить участников, которых он выбрал для участия.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_CompletedStoryDescription
+Теперь, когда Статуя была раскрыта, пришло время посмотреть, как Салли к ней относится.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_DisplayName
+Охота на похитителей
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group01_Step01_TalkToCharacter01_StepDescription
+Стич.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group01_Step01_TalkToCharacter02_StepDescription
+Олаф.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group01_Step01_TalkToCharacter03_StepDescription
+Ваниллопа.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group01_Step02_TalkToCharacter04_StepDescription
+Дональд Дак.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group01_StepDescription
+Приглашите участников Салли, выбранных:
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group02_Step03_VisitArea01_StepDescription
+Идите в дом Салли, чтобы начать охоту на мусор.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group02_StoryDescription
+Как только каждого участника пригласили, пришло время начать охоту на мусорщиков.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group03_Step04_Listen01_StepDescription
+Послушай Салли, давая инструкции для охоты на мусор.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group04_Step05_TalkToCharacter05_StepDescription
+Поговори с Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group05_Step06_VisitArea02_StepDescription
+Перейти"Королевский зал со многими дверями."
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group05_StoryDescription
+Салли требует, чтобы вы помогали участникам, если они застряли, но есть уловка. Вам придется найти ответ на загадки с теми же подсказками, что и деревенским жителям.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group06_Step07_TalkToCharacter06_StepDescription
+Поговори с Олаф.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group07_Step08_Possess01_StepDescription
+Найти <ActivityItem> Third Clue</ActivityItem>"Рядом с колдуном, сделанным из золота."
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group08_Step09_BringItem01_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem> Third Clue</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group08_Step09_ReadyDescription
+Возьмите <ActivityItem> Third Clue</ActivityItem> на Олаф.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group09_Step10_VisitArea03_StepDescription
+Вперёд."под каскадом"на плато Санлит.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group09_StoryDescription
+Как только вы поставите Олаф на правильный путь, вам нужно найти новое место, на которое намекает третья подсказка.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group10_Step11_TalkToCharacter07_StepDescription
+Поговори с Стич.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group10_StoryDescription
+Вы нашли это место в подсказке. Вы также нашли Стич, и он выглядит потерянным.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group11_Step12_Possess02_StepDescription
+Засунь свой крючок в подземный бассейн, чтобы найти <ActivityItem> Fifth Clue</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group12_Step13_BringItem02_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem> Fifth Clue</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group12_Step13_ReadyDescription
+Возьмите <ActivityItem> Fifth Clue</ActivityItem> на Стич.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group13_Step14_VisitArea04_StepDescription
+Найдите место, которое заполняет эту загадку:"Надеюсь, твои овощи не торчат, когда ты навещаешь Чеза..."
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group14_Step15_TalkToCharacter08_StepDescription
+Поговори с Ваниллопа.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group14_StoryDescription
+Вы найдёте путь к Чез Реми и обнаружите Ваниллопа запутанным в другой подсказке.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group15_Step16_Possess03_StepDescription
+Симмер <ActivityItem> Final Clue</ActivityItem> с фруктами <ActivityItem>sunshine, которые подают часы</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group16_Step17_BringItem03_StepDescription
+Убедитесь, что окончательный клюв <ActivityItem>Decoded в вашем списке.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group16_Step17_ReadyDescription
+Передайте <ActivityItem>Decoded Final Clue</ActivityItem> Ваниллопа.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group17_Step18_BringItem04_StepDescription
+Убедитесь, что окончательный клюв <ActivityItem>Decoded в вашем списке.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group17_Step18_ReadyDescription
+Передайте <ActivityItem>Decoded Final Clue</ActivityItem> Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group17_StoryDescription
+Ваниллопа решает, что так как она не смогла бы сделать это без тебя, ты настоящий победитель охоты на мусор.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group18_Step19_TalkToCharacter09_StepDescription
+Поговори с Ваниллопа.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group18_StoryDescription
+Чтобы извиниться за слишком сложенную охоту на мусор, Салли предложил его участникам сотрудничать в проекте по искусству и ремеслу и попросил вас помочь.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group19_Step20_BringItem05_StepDescription
+<ActivityItem>Purple Flowers</ActivityItem> из долины Мечты.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group19_Step20_BringItem06_StepDescription
+<ActivityItem> Blueberica</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group19_Step20_BringItem07_StepDescription
+<ActivityItem>Boyed Iggs</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group19_Step20_ReadyDescription
+Принесите материалы на Стич.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group19_Step20_StepDescription
+Соберите материалы:
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group20_Step21_Decorate01_StepDescription
+Поместите <ActivityItem>Салли Statue</ActivityItem> в долину.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group20_StoryDescription
+Олаф, Стич и Ваниллопа создали Статую Салли и попросили поместить ее где-нибудь в долину, чтобы её можно было показать.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group21_Step22_Party01_StepDescription
+Присутствует на открытии <ActivityItem>Салли Statue</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Какая была первая подсказка?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group15_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group17_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group18_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group19_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group20_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_Group21_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_040_BooDay_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

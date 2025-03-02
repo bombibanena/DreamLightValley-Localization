@@ -1,0 +1,48 @@
+TAG: Buzz_016_f
+They're small toy cactuses that Bonnie received as a gift. When you add water, they grow.
+
+TAG: Buzz_008_f
+If we place them under the race car tracks... add a little liquid...
+
+TAG: Player_000_choice_000_f
+...they'll grow and lift up the race car tracks! Great plan.
+
+TAG: Player_000_choice_001_f
+...they'll get all soggy and we'll have a real mess on our hands?
+
+TAG: Buzz_003_f
+But some of them aren't at the right height. What are we supposed to do now?
+
+TAG: Buzz_004_f
+Hmm... Let me think... I've got it! We'll use the local vegetation to help us.
+
+TAG: Buzz_015_f
+Vegetation? Like plants?
+
+TAG: Buzz_005_f
+Precisely. There are some <ActivityItem>Magic Growing Cactuses</ActivityItem> scattered around the room.
+
+TAG: Buzz_006_f
+<ActivityItem>Magic Growing Cactuses...?</ActivityItem> What are those?
+
+TAG: Buzz_007_f
+Don't let the name fool you. They're not really magic, but they are quite a feat of engineering.
+
+TAG: Buzz_009_f
+Exactly. You certainly have a knack for this kind of thing, my friend.
+
+TAG: Buzz_012_f
+However, there is one problem â the water. I'm not exactly a fully waterproof toy...
+
+TAG: Buzz_013_f
+Don't worry. My trusty Watering Can will take care of that.
+
+TAG: Buzz_014_f
+Excellent! Then let's <Lore>find those <ActivityItem>Magic Growing Cactuses</ActivityItem></Lore> so we can rescue my friend.
+
+TAG: Buzz_010_f
+Not with these <ActivityItem>Magic Growing Cactuses</ActivityItem>.
+
+TAG: Buzz_011_f
+They're top of the line. When they grow, they'll lift the track into place.
+

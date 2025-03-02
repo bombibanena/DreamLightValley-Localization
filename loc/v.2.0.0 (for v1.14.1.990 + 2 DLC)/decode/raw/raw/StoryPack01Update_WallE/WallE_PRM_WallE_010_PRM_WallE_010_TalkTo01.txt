@@ -1,0 +1,63 @@
+TAG: WallE_000_f
+Ooh! Ooh!
+
+TAG: WallE_001_f
+Ta-da!
+
+TAG: WallE_002_f
+*whistle*
+
+TAG: WallE_003_f
+Hey, look at you! You look great! I really like your new look!
+
+TAG: Player_000_choice_000_f
+That little tie!
+
+TAG: Player_000_choice_001_f
+Wow, your vest!
+
+TAG: Player_000_choice_002_f
+I love the tweed!
+
+TAG: WallE_004_f
+Ta-da!
+
+TAG: WallE_005_f
+Directive!
+
+TAG: WallE_006_f
+Are you trying to tell me something?
+
+TAG: WallE_007_f
+WALLÂ·E! Directive!
+
+TAG: WallE_008_f
+Hmmm...
+
+TAG: Player_001_choice_000_f
+Did you remember something new?
+
+TAG: Player_001_choice_001_f
+You like the outfit that much?
+
+TAG: Player_001_choice_002_f
+You're assuming a new role as the Valley's fashion police?
+
+TAG: WallE_009_f
+Hello.
+
+TAG: WallE_012_f
+Not sure what you're getting at.
+
+TAG: WallE_013_f
+Maybe you can show me?
+
+TAG: WallE_014_f
+Whoopee!
+
+TAG: WallE_010_f
+Oh! Oh, oh!
+
+TAG: WallE_011_f
+Huh? Uh... Eeee?
+

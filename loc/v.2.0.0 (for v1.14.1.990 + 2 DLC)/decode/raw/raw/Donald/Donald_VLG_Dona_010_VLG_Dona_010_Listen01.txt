@@ -1,0 +1,18 @@
+TAG: Donald_000_f
+Uncle Scrooge â I need your help. My houseboat is wrecked!
+
+TAG: Donald_001_f
+Ach. And you still live on that thing, don't you? I could lend you a hand.
+
+TAG: Donald_002_f
+But you need to find the raw materials! The McDucks don't give handouts.
+
+TAG: Donald_003_f
+{Placeholder}I'm pretty sure {PlayerName} will be able to help me out.
+
+TAG: Donald_004_f
+{Placeholder}Indeed, You will need a blueprint of your boat, some wood and two iron ingots to prepare the boat repair kit.
+
+TAG: Donald_005_f
+{Placeholder}I have the blueprint in my house!! We'll go pick them up.
+

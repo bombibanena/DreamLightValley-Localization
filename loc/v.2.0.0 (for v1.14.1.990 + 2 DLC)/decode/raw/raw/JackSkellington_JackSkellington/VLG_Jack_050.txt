@@ -1,0 +1,33 @@
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_AvailableDescription
+Jack needs some Candy Skulls for Vanellope...
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_DisplayName
+A Holiday Treat for Vanellope
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_StepDescription
+Gather the following Ingredients:
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step02_TalkToCharacter01_StepDescription
+Ask Remy for some advice.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group01_StoryDescription
+A gift list has been drawn up and Vanellope needs some Candy Skulls.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group02_Step03_CookMeal01_StepDescription
+Cook up a {itemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group03_Step04_BringItem01_StepDescription
+Make sure you have the {itemName} in your Inventory.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_050_Group03_Step04_ReadyDescription
+Bring the {itemName} to Jack Skellington.
+

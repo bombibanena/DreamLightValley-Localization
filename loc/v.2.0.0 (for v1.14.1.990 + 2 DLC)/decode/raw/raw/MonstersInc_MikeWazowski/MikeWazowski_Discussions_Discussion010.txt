@@ -1,0 +1,54 @@
+TAG: MikeWazowski_000_f
+Personally and professionally! Ya wanna hear a joke?
+
+TAG: Player_000_choice_000_f
+Sure!
+
+TAG: Player_000_choice_001_f
+No, thanks.
+
+TAG: MikeWazowski_001_f
+Okay okay. So... why do cows wear bells?
+
+TAG: Player_001_choice_000_f
+I don't know â why?
+
+TAG: Player_001_choice_001_f
+That's enough joking around for now.
+
+TAG: MikeWazowski_002_f
+Because their horns don't work! Get it? Cows? Horns? Funny, right?
+
+TAG: MikeWazowski_003_f
+Here's another. What do you call an angry carrot?
+
+TAG: Player_002_choice_000_f
+What do you call it?
+
+TAG: Player_002_choice_001_f
+That's enough joking around for now.
+
+TAG: MikeWazowski_004_f
+A steamed veggie!
+
+TAG: MikeWazowski_005_f
+Last one... Where does the Abominable Snowman keep his money?
+
+TAG: Player_003_choice_000_f
+Where?
+
+TAG: Player_003_choice_001_f
+A snowbank?
+
+TAG: Player_003_choice_002_f
+Actually, I think I'm good for now.
+
+TAG: MikeWazowski_006_f
+In a snowbank! Ha! Told ya I'm a comedy genius!
+
+TAG: MikeWazowski_007_f
+Hey, not bad! We should get you on the Laugh Floor!
+
+TAG: MikeWazowski_008_f
+Wow, tough crowd.
+

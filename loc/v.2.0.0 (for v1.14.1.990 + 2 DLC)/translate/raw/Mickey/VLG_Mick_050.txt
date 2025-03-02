@@ -1,0 +1,57 @@
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Any_CompletedRequestDescription
+Поговорите с Микки Маус, чтобы узнать, что он помнит.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_AvailableDescription
+Микки Маус нуждается в вашей помощи с тем, что он нашел.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_CompletedStoryDescription
+За дверью есть странная комната. Будем надеяться, Микки Маус знает об этом больше.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_DisplayName
+Секретная дверь
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Микки Маус.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group02_Step03_VisitArea01_StepDescription
+См. <ActivityItem>Микки Маус памяти</ActivityItem> для поиска секретной двери.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group02_StoryDescription
+Грудь превращается в <ActivityItem>Memory</ActivityItem>, и обсуждение с Микки Маус подводит вас к тайной двери, спрятанной где-то в долине Мечты.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group03_Step04_Unlock01_StepDescription
+Попробуйте открыть грудную клетку Микки Маус в вашем списке.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group03_StoryDescription
+Минни Маус вернулся в деревню, принес с собой память о волшебной груди Микки Маус спрятанной. Он нашел ее снова, но не может открыть, и думает, что вы идеальный кандидат для попытки.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group04_Step02_FillKeyhole01_StepDescription
+Используй загадку, чтобы открыть секретную дверь.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group04_StoryDescription
+Ты найдешь секретную дверь внутри замка Микки Маус помнит вторую часть загадки, может, это поможет тебе открыть её.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что нам теперь делать?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group05_Step05_VisitArea02_StepDescription
+Иди внутрь и посмотри, что там.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что нам теперь делать?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group07_Step07_PickUp01_StepDescription
+Используй свою магию на занавесе.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group07_Step07_StepDescription
+Ты нашел дверь!
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_Group08_Step08_TalkToCharacter02_StepDescription
+Поговори с Микки Маус.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_050_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

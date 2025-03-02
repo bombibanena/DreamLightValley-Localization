@@ -1,0 +1,105 @@
+TAG: Beast_000_f
+Beast! I've got some furnishings!
+
+TAG: Beast_001_f
+We're well on our way to showing Belle a magical evening.
+
+TAG: Beast_002_f
+I don't know, {PlayerName}... What if this isn't a good idea?
+
+TAG: Player_000_choice_000_f
+Are you saying I had a bad idea?!
+
+TAG: Player_000_choice_001_f
+You're stressing again â relax!
+
+TAG: Player_000_choice_002_f
+Why wouldn't it be?
+
+TAG: Beast_003_f
+No. It's my fault for agreeing to this.
+
+TAG: Beast_012_f
+Now one last thing â where do we set this up?
+
+TAG: Beast_013_f
+...
+
+TAG: Beast_014_f
+Please help.
+
+TAG: Beast_015_f
+Hmmm, I'll have to think about that... There are so many options around the Valley!
+
+TAG: Beast_016_f
+Perhaps somewhere outdoors?
+
+TAG: Beast_017_f
+Somewhere we could look out onto the horizon and think about our time together. What our future could be.
+
+TAG: Player_001_choice_000_f
+Now you're thinking with your heart!
+
+TAG: Player_001_choice_001_f
+Who is this suave prince and what did you do with the Beast?!
+
+TAG: Beast_004_f
+What if Belle already has something planned?
+
+TAG: Beast_005_f
+What if she doesn't enjoy the food?
+
+TAG: Beast_006_f
+What if... what if she's changed since coming here? Learned new things, found new dreams... while I'm still... me.
+
+TAG: Beast_007_f
+Beast, you're spiraling.
+
+TAG: Beast_008_f
+Do you care about Belle?
+
+TAG: Beast_009_f
+Of course I do!
+
+TAG: Beast_010_f
+Then just invite her to dinner. If she wants to come, she'll come!
+
+TAG: Beast_011_f
+... I guess that makes sense.
+
+TAG: Beast_018_f
+You go freshen up, comb your fur and try to relax until it's time, okay?
+
+TAG: Beast_026_f
+All right. I'll go and do as you suggested. I will try to relax.
+
+TAG: Beast_027_f
+Thank you, {PlayerName}.
+
+TAG: Beast_019_f
+Now... are there any particular foods that Belle really likes?
+
+TAG: Beast_020_f
+Well... I know of a few dishes that Belle would often ask my chef to prepare.
+
+TAG: Beast_021_f
+Here are the recipes. Some of them may require using utensils, which are difficult for me...
+
+TAG: Beast_022_f
+But I will try!
+
+TAG: Beast_023_f
+These recipes look perfect for a dinner date!
+
+TAG: Beast_024_f
+Don't worry about the cooking. I'll make sure they're ready for when you meet up with Belle.
+
+TAG: Beast_025_f
+We can meet again in the evening if the weather is good for sitting outside.
+
+TAG: Beast_028_f
+I wish I knew how...
+
+TAG: Beast_029_f
+There are so many reasons!
+

@@ -1,0 +1,24 @@
+TAG: Scar_000_f
+Well, {PlayerName}, your neighbors have earned a respite from my carnivorous appetite.
+
+TAG: Player_000_f
+You should consider being nicer to people...
+
+TAG: Player_000_choice_000_f
+They could become your friends.
+
+TAG: Player_000_choice_001_f
+They'd be nicer to you.
+
+TAG: Player_000_choice_002_f
+They'll be easier to manipulate.
+
+TAG: Scar_001_f
+Friends? Please. Friends are for simpering, needy over-sharers.
+
+TAG: Scar_002_f
+I don't want nice. I want obedience and respect!
+
+TAG: Scar_003_f
+Not in my experience. The only way to get someone to obey is to be sure they properly fear you.
+

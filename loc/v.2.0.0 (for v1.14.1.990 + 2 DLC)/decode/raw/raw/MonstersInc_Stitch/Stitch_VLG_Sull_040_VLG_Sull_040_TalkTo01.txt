@@ -1,0 +1,24 @@
+TAG: Stitch_001_f
+Akata! Stitch help {PlayerName} today?
+
+TAG: Player_000_f
+Yeah! Sulley is organizing a scavenger hunt and wants you to participate...
+
+TAG: Player_000_choice_000_f
+Would you like that?
+
+TAG: Player_000_choice_001_f
+Do you know what that is?
+
+TAG: Player_000_choice_002_f
+No destruction, okay?
+
+TAG: Stitch_002_f
+Ih! Stitch like that SOOOO much!
+
+TAG: Stitch_003_f
+Ih! Stitch play!
+
+TAG: Stitch_004_f
+Okitaka. Stitch badness level low today. Stitch play!
+

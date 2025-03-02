@@ -1,0 +1,114 @@
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Any_CompletedRequestDescription
+Возвращайтесь на Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_AvailableDescription
+Запомнив, что в прошлом Базз Лайтер дружила с Шрам, маленький космический рейнджер чувствует себя немного потерянным. Вы помогаете ему понять, что, возможно, есть больше героизма, чем борьбы с злодеями, и он решает извиниться перед Урсула за их прежнюю ссору.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_CompletedStoryDescription
+Великое открытие было успешным, но ты должен сам свериться с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_DisplayName
+Определение героя
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group01_Step01_Listen01_StepDescription
+Свидетель Базз Лайтер извиняется перед Урсула.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group03_Step03_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group03_Step03_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group03_Step04_StepDescription
+Немного <ActivityItem> Blue Ink</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group03_StepDescription
+Соберите материалы для <ActivityItem>SpaceRanger Badges</ActivityItem>:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group04_Step05_CraftItem02_StepDescription
+Подготовить значок <ActivityItem>SpaceRanger</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group05_Step06_TalkToCharacter02_StepDescription
+Поговори с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group06_Step07_ReadyDescription
+Реми.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group06_Step08_ReadyDescription
+Моана.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group06_Step09_ReadyDescription
+Шрам.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group06_StepDescription
+Передайте <ActivityItem>SpaceRanger Badges</ActivityItem> по адресу:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group06_StoryDescription
+После извинений Урсула, Базз Лайтер решает открыть Академию Звездного Командования, которая приветствует всех и просит вас помочь как с выбором, так и с зачислением первых трёх новобранцев.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group07_Step10_TalkToCharacter03_StepDescription
+Поговори с Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group08_Step17_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group08_Step17_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group08_StepDescription
+Соберите или сделайте то, что необходимо для открытия Академии космических рейнджеров:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group08_StoryDescription
+Теперь, когда новобранцы согласились вступить в Академию Звездного Командования, Базз Лайтер обвиняет вас в декорации долины Мечты для Великого открытия.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group09_Step12_Decorate01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group09_Step12_Decorate02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group09_Step12_StepDescription
+Положите все для Великого открытия вокруг RV Базз Лайтер:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group10_StepDescription
+Возвращайтесь на Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что остается сделать?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group11_Step14_DressUp01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group11_Step14_DressUp02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group11_Step14_StepDescription
+(Вариант) Наденьте свой <ActivityItem>SpaceRanger Unim</ActivityItem>:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group11_Step15_StepDescription
+Поместите <ActivityItem>Space Ranger Buffet</ActivityItem> рядом с RV Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group11_StoryDescription
+И не забудь надеть свой <ActivityItem>Space Ranger Unim</ActivityItem> для этого случая.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_Group12_Step16_Party01_StepDescription
+Запускайте Большую Академию Звездного Командования.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

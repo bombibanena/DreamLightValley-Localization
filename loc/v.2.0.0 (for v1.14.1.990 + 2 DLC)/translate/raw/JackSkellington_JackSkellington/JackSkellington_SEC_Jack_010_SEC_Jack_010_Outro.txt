@@ -1,0 +1,45 @@
+TAG: JackSkellington_000_f
+О, {PlayerName}, этот дом идеален!
+
+TAG: JackSkellington_001_f
+Нравится?
+
+TAG: JackSkellington_002_f
+Конечно, я уже чувствую, как в моем черепе назревают идеи.
+
+TAG: JackSkellington_003_f
+Но мне интересно...
+
+TAG: JackSkellington_004_f
+Что?
+
+TAG: JackSkellington_005_f
+Если бы я смог добраться сюда с прогулочного пути...
+
+TAG: JackSkellington_006_f
+Значит ли это, что магия праздников и магия здесь связаны?
+
+TAG: Player_000_choice_000_f
+Хм, я не уверена.
+
+TAG: Player_000_choice_001_f
+Похоже!
+
+TAG: Player_000_choice_002_f
+Держу пари, это было бы неплохо расследовать.
+
+TAG: JackSkellington_007_f
+Я должен это изучить.
+
+TAG: JackSkellington_010_f
+А теперь я устроюсь, пока не взял чудеса Долины!
+
+TAG: JackSkellington_011_f
+Я здесь, если тебе что-то понадобится, Джек Скеллингтон.
+
+TAG: JackSkellington_008_f
+Как чудесно!
+
+TAG: JackSkellington_009_f
+Любопытно, я буду иметь это в виду.
+

@@ -1,0 +1,84 @@
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Any_CompletedRequestDescription
+Поговори с ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_AvailableDescription
+ВАЛЛ·И хочет, чтобы ты собрала цветы и принесла их ему.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_DisplayName
+Блюмирование и обесцвечивание
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group01_Step01_CraftItem01_StepDescription
+a {ItemName} для ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group02_StepDescription
+Возьмите {ItemName} на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group03_Step03_CraftItem02_StepDescription
+a {ItemName} для ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group04_StepDescription
+Возьмите {ItemName} на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group05_Step05_CraftItem03_StepDescription
+a {ItemName} для ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group06_StepDescription
+Возьмите {ItemName} на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group07_Step07_CraftItem04_StepDescription
+a {ItemName} для ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group08_StepDescription
+Возьмите {ItemName} на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group09_Step10_CraftItem05_StepDescription
+a {ItemName} для ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group10_StepDescription
+Возьмите {ItemName} на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group11_Step11_CraftItem06_StepDescription
+a {ItemName} для ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_Group12_StepDescription
+Возьмите {ItemName} на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_DailyBundles_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Daily Quest
+

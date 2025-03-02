@@ -1,0 +1,39 @@
+TAG: Merlin_000_f
+Hey, Merlin, how you feeling about that, uh, magic moment?
+
+TAG: Merlin_001_f
+{PlayerName}, now that I've had a moment to collect myself, all I'll say is that I was sorely disappointed. There was absolutely nothing magical about it!
+
+TAG: Merlin_002_f
+To think that you'd distract me from my research and send me off to consort with that... that... that... villain!
+
+TAG: Player_000_choice_000_f
+I just want everyone to get along...
+
+TAG: Player_000_choice_001_f
+No need to be mean!
+
+TAG: Player_000_choice_002_f
+It was a bit awkward...
+
+TAG: Merlin_003_f
+The Valley isn't about grudges; it's about belonging.
+
+TAG: Merlin_004_f
+Oh... yes, well, I... I suppose you are correct.
+
+TAG: Merlin_005_f
+Besides... this was all WALLÂ·E's idea. He wanted to see some romance, just like what he saw in old movies.
+
+TAG: Merlin_006_f
+I see... Well, then perhaps you can convey this to the little mechanical fellow...
+
+TAG: Merlin_007_f
+Even in Dreamlight Valley, romance doesn't work quite the way it does in the motion pictures.
+
+TAG: Merlin_008_f
+We were just trying to do something nice, even if it was a little misguided.
+
+TAG: Merlin_009_f
+That is the understatement of the millennium! But... I suppose I shouldn't be too harsh. You meant well.
+

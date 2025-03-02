@@ -1,0 +1,111 @@
+TAG: Gaston_004_f
+How do you think that went, Gaston?
+
+TAG: Gaston_005_f
+Hmm, deciding will be tricky, very tricky...
+
+TAG: Gaston_006_f
+Stitch told everyone that I struggle with my badness something or other...
+
+TAG: Gaston_007_f
+But that I'm doing an excellent job managing it.
+
+TAG: Player_001_choice_000_f
+Aww, that's adorable!
+
+TAG: Player_001_choice_001_f
+Oof, that's not exactly buttering you up LeFou-style.
+
+TAG: Gaston_009_f
+I don't need adorable in a sidekick!
+
+TAG: Gaston_020_f
+He clearly doesn't understand that compliments are meant to make one person stand out from the rest.
+
+TAG: Gaston_021_f
+How will other people understand that I'm better than they are if Olaf compliments everyone equally?
+
+TAG: Player_003_choice_000_f
+Yeah, I see why you wouldn't be happy about that.
+
+TAG: Player_003_choice_001_f
+Gaston, I don't think you understand Olaf.
+
+TAG: Gaston_011_f
+Still, he is the appropriate size for a sidekick. And he does have an interest in music.
+
+TAG: Gaston_012_f
+Having a band leader for social events would be beneficial.
+
+TAG: Gaston_014_f
+What about Olaf? How'd he do?
+
+TAG: Gaston_015_f
+Well, he was excellent at complimenting me!
+
+TAG: Gaston_016_f
+He informed everyone of my dedication to physical fitness...
+
+TAG: Gaston_017_f
+And he even sang about my neck!
+
+TAG: Gaston_018_f
+I feel like there's a "but" coming...
+
+TAG: Gaston_019_f
+BUT... he complimented EVERYONE!
+
+TAG: Gaston_022_f
+He was doing so well, but then... ruined it!
+
+TAG: Gaston_024_f
+Well, you still have to pick a winner. Who's it going to be?
+
+TAG: Gaston_025_f
+I... am not sure.
+
+TAG: Player_004_choice_000_f
+Gaston not being sure about something?! You feeling all right?
+
+TAG: Player_004_choice_001_f
+It's definitely a tough choice!
+
+TAG: Gaston_026_f
+I know, I'm surprised as well.
+
+TAG: Gaston_030_f
+You have to help me, {PlayerName}. Who do you think would make the best sidekick for me?
+
+TAG: Gaston_031_f
+Hmm, tricky question.
+
+TAG: Gaston_032_f
+Quite!
+
+TAG: Player_005_f
+Okay, the best sidekick for you would be...
+
+TAG: Player_005_choice_000_f
+...Stitch.
+
+TAG: Player_005_choice_001_f
+...Olaf.
+
+TAG: Gaston_035_f
+Fine. I'll go tell him the good news!
+
+TAG: Gaston_027_f
+Well, you know what I do with tough choices?
+
+TAG: Gaston_028_f
+What?
+
+TAG: Gaston_029_f
+I pass them along to someone else.
+
+TAG: Gaston_023_f
+What matters is that he doesn't understand me!
+
+TAG: Gaston_010_f
+Precisely!
+

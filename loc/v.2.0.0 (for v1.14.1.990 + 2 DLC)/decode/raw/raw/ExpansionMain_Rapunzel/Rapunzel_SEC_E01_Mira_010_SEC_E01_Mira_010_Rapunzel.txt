@@ -1,0 +1,57 @@
+TAG: Rapunzel_000_f
+Hey, Rapunzel! You've spent a lot of time in the Wild Tangle...
+
+TAG: Rapunzel_001_f
+And you seem to have befriended a few of the capybaras. Remember when we made a house for them?
+
+TAG: Rapunzel_002_f
+Yes! They are so cute. I've been trying to come up with names for all of them.
+
+TAG: Player_000_choice_000_f
+Pascal!
+
+TAG: Player_000_choice_001_f
+Maximus!
+
+TAG: Player_000_choice_002_f
+Eugene!
+
+TAG: Rapunzel_003_f
+How funny that you said that because I already have a very good friend named Pascal!
+
+TAG: Rapunzel_012_f
+Great tip! I'll try feeding them some <ActivityItem>Cabbage</ActivityItem>!
+
+TAG: Rapunzel_004_f
+But I'm guessing you didn't come by just to help me name the capybaras?
+
+TAG: Rapunzel_005_f
+Actually, I'm trying to help Mirabel with something.
+
+TAG: Rapunzel_006_f
+Mirabel is so much fun! I was just talking with her about what it was like to grow up in a house with so many family members instead of... well, you know...
+
+TAG: Rapunzel_007_f
+But never mind that... What do you need my help with?
+
+TAG: Rapunzel_008_f
+Did you ever figure out what the capybara's favorite food is?
+
+TAG: Rapunzel_009_f
+Ooh! Yes!
+
+TAG: Rapunzel_010_f
+I tried feeding them all sorts of things...
+
+TAG: Rapunzel_011_f
+...but what they love most is <ActivityItem>Cabbage</ActivityItem>!
+
+TAG: Rapunzel_013_f
+How funny that you said that because I recently made a new friend named Maximus!
+
+TAG: Rapunzel_014_f
+Ha-ha! Eugene would be a PERFECT name for a capybara!
+
+TAG: Rapunzel_015_f
+Have you gotten to know the <ActivityItem>Capybaras</ActivityItem> around here?
+

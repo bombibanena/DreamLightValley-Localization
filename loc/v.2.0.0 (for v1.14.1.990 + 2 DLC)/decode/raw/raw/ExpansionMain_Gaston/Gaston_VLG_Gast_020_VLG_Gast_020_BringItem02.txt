@@ -1,0 +1,84 @@
+TAG: Gaston_005_f
+What? These aren't treasures...
+
+TAG: Gaston_006_f
+They're just... junk!
+
+TAG: Gaston_023_f
+Still, I did work hard to find them. That's got to count for something.
+
+TAG: Player_000_choice_000_f
+Gaston, we talked about this...
+
+TAG: Player_000_choice_001_f
+"We," Gaston. "We" found them.
+
+TAG: Player_000_choice_002_f
+Hey, I helped!
+
+TAG: Gaston_007_f
+Don't you know by now that I'm a man of action, not talk?
+
+TAG: Gaston_002_f
+At least now we can track down who they belong to!
+
+TAG: Gaston_011_f
+Me?
+
+TAG: Gaston_012_f
+No! Remember what I told you about appearing like a hero?
+
+TAG: Gaston_013_f
+Oh, right. I suppose we can return them then.
+
+TAG: Player_001_f
+We've got a <ActivityItem>Brush</ActivityItem>, a <ActivityItem>Light Bulb</ActivityItem>, and a <ActivityItem>Climbing Pick</ActivityItem>... Let's take a closer look.
+
+TAG: Player_001_choice_000_f
+The brush...
+
+TAG: Player_001_choice_001_f
+The light bulb...
+
+TAG: Player_001_choice_002_f
+The climbing pick...
+
+TAG: Gaston_014_f
+There are some very long hairs in here!
+
+TAG: Gaston_015_f
+But they're all bleached after being in the desert so long â no way to tell who they belonged to from the color.
+
+TAG: Gaston_021_f
+Let's go talk to different Villagers and see if we can figure out the rightful owners!
+
+TAG: Gaston_003_f
+I made notes in case your memory isn't as razor-sharp as mine.
+
+TAG: Gaston_004_f
+Ugh... fine.
+
+TAG: Gaston_022_f
+Onwards! I'll keep the items with me for now so I can return them myself and receive my rightful praise.
+
+TAG: Gaston_016_f
+I've never seen such an item before.
+
+TAG: Gaston_017_f
+They make light! They can be used for all sorts of things like bright decorations, grow lights for plants, and so much more.
+
+TAG: Gaston_018_f
+Hmm... sounds like something Belle's father would make.
+
+TAG: Gaston_019_f
+Someone with a taste for adventure owned that one!
+
+TAG: Gaston_020_f
+Definitely!
+
+TAG: Gaston_008_f
+Really? I could have sworn I did it all by myself.
+
+TAG: Gaston_009_f
+I suppose.
+

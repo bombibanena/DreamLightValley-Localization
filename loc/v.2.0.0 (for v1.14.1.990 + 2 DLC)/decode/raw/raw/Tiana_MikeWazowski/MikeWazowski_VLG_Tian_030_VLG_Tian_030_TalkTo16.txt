@@ -1,0 +1,27 @@
+TAG: MikeWazowski_000_f
+Mike, you win!
+
+TAG: MikeWazowski_001_f
+I won?!
+
+TAG: MikeWazowski_002_f
+I mean... of course I won! What did I win?
+
+TAG: MikeWazowski_003_f
+Tiana's cooking contest! Something about whatever Monstropolis Ingredients you added really knocked it out of the park.
+
+TAG: MikeWazowski_004_f
+Naturally! I used a healthy pinch of the Wazowski family pickled secret juices.
+
+TAG: MikeWazowski_005_f
+Do I... want to know exactly what kind of juices were pickled?
+
+TAG: MikeWazowski_006_f
+It's a secret, {PlayerName}. It's in the name.
+
+TAG: MikeWazowski_007_f
+Right, I should do myself a favor and not inquire further.
+
+TAG: MikeWazowski_008_f
+Why don't you <Lore>follow me so you can see your meal advertised by Tiana's</Lore>?
+

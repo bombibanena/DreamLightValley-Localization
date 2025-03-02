@@ -1,0 +1,90 @@
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_AvailableDescription
+It's time to start your quest for the first of the three Jewels of Time.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_DisplayName
+The Sands in the Hourglass
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group01_Step01_StepDescription
+(Clear away the <ActivityItem>Swirling Sands</ActivityItem> by equipping your Hourglass and pressing {input_usetool} near them!)
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group01_StepDescription
+Reach the Secluded Beach down the passage to the right of the broken bridge.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group01_StoryDescription
+You first need to visit the Secluded Beach where the Statue holding the Jewel of Time is standing.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Jafar at the <ActivityItem>Hologram Station</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group03_Step03_Possess01_StepDescription
+<ActivityItem>Ancient Statue Fragments</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group03_Step03_StepDescription
+Use your Hourglass to search the Secluded Beach for what you need to repair the Statue:
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group03_StepDescription
+(Equip your Hourglass and search for lost treasures by pressing {input_usetool}!)
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group03_StoryDescription
+Now that you know what materials you need, you'll have to gather them and craft a new arm for the Statue.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group04_Step04_Possess02_StepDescription
+<ActivityItem>Ancient Plates</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group04_StepDescription
+Use your Hourglass to search for more materials lost in time around Ancient's Landing:
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group05_Step05_VisitArea02_StepDescription
+Return to Jafar on the Secluded Beach.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group06_Step06_TalkToCharacter02_StepDescription
+Talk to Jafar.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group07_Step07_ConsumeItem01_StepDescription
+Use the {ItemName} in your Inventory.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group08_Step08_CraftItem01_StepDescription
+Craft the {ItemName} at the Timebending Table on the Secluded Beach.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group08_StoryDescription
+Once the material is gathered, Jafar tells you that you need to use a Timebending Table to put the arm back together.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group09_Step09_FillKeyhole01_StepDescription
+Put the <ActivityItem>Statue's Arm</ActivityItem> back in its socket by interacting with the statue on the Secluded Beach.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group10_Step10_VisitArea03_StepDescription
+Return to the broken bridge in the Courtyard area.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group11_Step11_TalkToCharacter03_StepDescription
+Talk to Jafar using the Hologram Station.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group12_Step12_StepDescription
+(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group12_Step12_Unlock01_StepDescription
+Repair the broken bridge in the Courtyard area by using <ActivityItem>Mist</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group12_StoryDescription
+With the Jewel of Time now in your possession, you use it to make your Hourglass even more powerful. Now you're ready to repair the bridge.
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I go?
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Story!Expansion01!MRQS_E01_070_TimeStone_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+

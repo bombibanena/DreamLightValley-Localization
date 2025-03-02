@@ -1,0 +1,111 @@
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Any_CompletedRequestDescription
+Поговори с Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_AvailableDescription
+Мулан нуждается в вашей помощи, чтобы очистить дорогу и позволить кому-то забрать Армию Дракона.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_CompletedStoryDescription
+Мулан прибыла в Долину. Вы должны увидеть, как она к этому относится.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_DisplayName
+Защита лагеря
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_RemoveBlocker01_StepDescription
+<ActivityItem>Sand Piles</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_RemoveBlocker02_StepDescription
+<ActivityItem>Rocks</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_StepDescription
+Удалить:
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step02_Possess01_StepDescription
+<ActivityItem>Broken Logs</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step02_StepDescription
+Собирайся и лови рыбу:
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_StoryDescription
+Она говорит вам, что пора использовать все навыки, которые вы накопили во время тренировки, чтобы помочь исправить ущерб с оползня.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group02_Step03_TalkToCharacter01_StepDescription
+Возвращайтесь на Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_Step04_GardeningPlant01_StepDescription
+Завод <ActivityItem>Мулан "Семя деревьев"</ActivityItem> в пятнах почвы.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_Step16_WaterPlant02_StepDescription
+Водить семена <ActivityItem>Tree</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_StoryDescription
+Дорога сейчас чиста, но Мулан хочет убедиться, что она защищена от очередного оползня, посадив несколько деревьев, чтобы стабилизировать почву.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group05_Step06_TalkToCharacter02_StepDescription
+Поговори с Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_Possess02_StepDescription
+<ActivityItem>Brown Sand</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_Possess03_StepDescription
+<ActivityItem>Fiber</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_StepDescription
+Собирающие материалы:
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_StoryDescription
+Лагерь теперь защищен от потенциальных оползней, но Мулан также хочет защитить его от наводнений.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group07_Step08_CraftItem01_StepDescription
+Подготовить несколько пакетов <ActivityItem>Sands</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_Step09_ReadyDescription
+Возьмите <ActivityItem>Sandbags</ActivityItem> на Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_Step09_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Sandbags</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group09_Step10_FollowCharacter01_StepDescription
+Следуйте за Мулан в палатки.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group09_Step10_FollowCharacter01_TalkToDescription
+Поговори с Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group10_Step11_Conditional01_StepDescription
+Убедись, что все в порядке с Мушу.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group10_StoryDescription
+Теперь, когда лагерь в безопасности, Мулан ищет новое приключение.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group11_Step12_TalkToCharacter03_StepDescription
+Поговори с Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group12_Step13_PlaceBuilding01_StepDescription
+Возвращайтесь в долину и место <ActivityItem>Мулан и Мушу House</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group13_Step14_Unlock01_StepDescription
+Завершить строительство <ActivityItem>Мулан и Мушу House</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group14_Step15_UnlockCharacter01_StepDescription
+Добро пожаловать Мулан в Долину.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br> Что случилось?
+

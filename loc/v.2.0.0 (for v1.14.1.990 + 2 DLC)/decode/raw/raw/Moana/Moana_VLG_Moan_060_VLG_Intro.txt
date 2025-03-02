@@ -1,0 +1,78 @@
+TAG: Moana_028_f
+{PlayerName}, I've been thinking about you. You know all those <ActivityItem>Leader Shards</ActivityItem> we've been collecting?
+
+TAG: Moana_012_f
+I finally remembered what they're for. Want to know?
+
+TAG: Player_001_choice_000_f
+Yes, definitely!
+
+TAG: Player_001_choice_001_f
+I don't have time right now.
+
+TAG: Moana_000_f
+On my island, Motunui, we have a tradition.
+
+TAG: Moana_003_f
+We don't have one on the island, so we should build it.
+
+TAG: Moana_009_f
+There's one more thing...
+
+TAG: Moana_010_f
+What's that?
+
+TAG: Moana_011_f
+I think you should be honored as a leader alongside me. Because...
+
+TAG: Moana_001_f
+You're a great leader.
+
+TAG: Moana_015_f
+Thank you. It means a lot to hear you say that.
+
+TAG: Moana_016_f
+But if you want me to be a part of this, you'll have to go back to the island where we met.
+
+TAG: Moana_017_f
+My Shard should be a conch shell.
+
+TAG: Moana_018_f
+If you find one, use it when you build the Honored Place.
+
+TAG: Moana_019_f
+That way, I'll always be with you. We'll support each other.
+
+TAG: Moana_029_f
+On the tallest mountain, there's a stack of stones.
+
+TAG: Moana_020_f
+When you've got everything, find a spot for the Honored Place near your home and come find me.
+
+TAG: Moana_021_f
+Oh, and here. Take the <ActivityItem>Leader Shards</ActivityItem> back. You'll need them to complete the celebration.
+
+TAG: Moana_002_f
+Each new chief lays their own stone on the stack.
+
+TAG: Moana_006_f
+When you do, you raise the whole island higher.
+
+TAG: Moana_013_f
+Now I see that the <ActivityItem>Leader Shards</ActivityItem> are like those stones.
+
+TAG: Moana_014_f
+Each one is an act of leadership. And together, they make you a leader.
+
+TAG: Moana_022_f
+So we need to stack the <ActivityItem>Leader Shards</ActivityItem>.
+
+TAG: Moana_030_f
+Yes. But it's more than that.
+
+TAG: Moana_007_f
+We need to stack the Leader Shards in an Honored Place.
+
+TAG: Moana_008_f
+Okay â I'll tell you later.
+

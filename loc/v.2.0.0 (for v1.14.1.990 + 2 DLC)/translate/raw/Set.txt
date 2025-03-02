@@ -1,0 +1,1470 @@
+TAG: 00_Disney!c_Disney_Set02_DisplayName
+{Placeholder} Disney Parks
+
+TAG: 00_Disney!c_Disney_Setless_DisplayName
+Дисней
+
+TAG: 00_Disney!c_Disney_Update10_DisplayName
+{Placeholder} Disney Update 10
+
+TAG: 00_Disney!c_Disney_Update11_DisplayName
+{Placeholder} DisneyUDP11
+
+TAG: 00_Disney!c_Disney_Update13_DisplayName
+{Placeholder} Дисней обновляет одежду13
+
+TAG: 00_Disney!f_Disney_Set01_DisplayName
+{Placeholder}Chic Современный
+
+TAG: 00_Disney!f_Disney_Set02_DisplayName
+{Placeholder} Disney Parks
+
+TAG: 00_Disney!f_Disney_Set03_DisplayName
+{Placeholder} Disney Principle
+
+TAG: 00_Disney!f_Disney_Setless_DisplayName
+{Placeholder} Disney_ Бесплатно
+
+TAG: 00_Disney!f_Disney_Update10_DisplayName
+{Placeholder} Disney_ Update10
+
+TAG: 00_Disney!f_Disney_Update11_DisplayName
+{Placeholder}f_Disney_ Update11
+
+TAG: 00_Disney!f_Disney_Update12_DisplayName
+{Placeholder} f_Disney_ Update12
+
+TAG: 00_Disney!f_Disney_Update13_DisplayName
+{Placeholder} Дисней обновляет 13 мебели
+
+TAG: 00_Disney!f_Disney_Update14_DisplayName
+{Placeholder} f_Disney_ Update14
+
+TAG: 00_Disney_DisplayName
+Всё Дисней
+
+TAG: 01_Mickey!c_Mickey_Set01_DisplayName
+Гала
+
+TAG: 01_Mickey!c_Mickey_Set02_DisplayName
+Сладкая уличная одежда
+
+TAG: 01_Mickey!c_Mickey_Set03_DisplayName
+"О, парень."Спортивные костюмы
+
+TAG: 01_Mickey!c_Mickey_Set04_DisplayName
+{Placeholder}Winter Festivities
+
+TAG: 01_Mickey!c_Mickey_Set05_DisplayName
+{Placeholder}Legasy
+
+TAG: 01_Mickey!c_Mickey_Set60_DisplayName
+Подписание
+
+TAG: 01_Mickey!c_Mickey_Setless_DisplayName
+Микки Маус & Друзья
+
+TAG: 01_Mickey!c_Mickey_Update10_DisplayName
+{Placeholder}c_Микки Маус_Update10
+
+TAG: 01_Mickey!f_Mickey_Set01_DisplayName
+Средневековье Микки Маус
+
+TAG: 01_Mickey!f_Mickey_Set02_DisplayName
+Современная полька
+
+TAG: 01_Mickey!f_Mickey_Set03_DisplayName
+Играть в мышь
+
+TAG: 01_Mickey!f_Mickey_Set04_DisplayName
+Ученик колдуна
+
+TAG: 01_Mickey!f_Mickey_Set05_DisplayName
+Молодой эстетик
+
+TAG: 01_Mickey!f_Mickey_Set06_DisplayName
+{Placeholder}Winter Festivities
+
+TAG: 01_Mickey!f_Mickey_Set07_DisplayName
+{Placeholder}Legasy
+
+TAG: 01_Mickey!f_Mickey_Set60_DisplayName
+Подписание
+
+TAG: 01_Mickey!f_Mickey_Setless_DisplayName
+Микки Маус & Друзья
+
+TAG: 01_Mickey!f_Mickey_Update10_DisplayName
+{Placeholder}f_Микки Маус_Update10
+
+TAG: 01_Mickey!f_Mickey_Update11_DisplayName
+{Placeholder}f_Микки Маус_Update11
+
+TAG: 01_Mickey!f_Mickey_Update12_DisplayName
+{Placeholder} f_Микки Маус_Update12
+
+TAG: 01_Mickey_DisplayName
+Микки Маус & Друзья
+
+TAG: 02_BeautyBeast!c_BeautyBeast_Set01_DisplayName
+Вечеринка Зверь
+
+TAG: 02_BeautyBeast!c_BeautyBeast_Set02_DisplayName
+Роза Экстраваганза
+
+TAG: 02_BeautyBeast!c_BeautyBeast_Set03_DisplayName
+Книжный червь Элегантность
+
+TAG: 02_BeautyBeast!c_BeautyBeast_Set60_DisplayName
+Подписание
+
+TAG: 02_BeautyBeast!c_BeautyBeast_Setless_DisplayName
+Красота и Зверь
+
+TAG: 02_BeautyBeast!c_BeautyBeast_Update14_DisplayName
+{Placeholder} &lt; &lt; Красавчик &gt; &gt;
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Set01_DisplayName
+Зачарованная роза
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Set02_DisplayName
+Очарованный замок
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Set03_DisplayName
+Будьте гостеприимны
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Set04_DisplayName
+Французский замок
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Set60_DisplayName
+Подписание
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Setless_DisplayName
+Красота и Зверь
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Update10_DisplayName
+{Placeholder} КрасотаЗверь_Update10
+
+TAG: 02_BeautyBeast!f_BeautyBeast_Update12_DisplayName
+{Placeholder} Зверь обновления12
+
+TAG: 02_BeautyBeast_DisplayName
+Красота и Зверь
+
+TAG: 02_BeautyBeast2017!c_BeautyBeast2017_Set60_DisplayName
+Красота и Зверь
+
+TAG: 03_WallE!c_WallE_Set01_DisplayName
+Надпись ВАЛЛ·И на Junkyrd Attire
+
+TAG: 03_WallE!c_WallE_Set02_DisplayName
+ЕВА Будущие одежды
+
+TAG: 03_WallE!c_WallE_Set03_DisplayName
+Коллекция аксиом
+
+TAG: 03_WallE!c_WallE_Set60_DisplayName
+Подписание
+
+TAG: 03_WallE!c_WallE_Setless_DisplayName
+ВАЛЛ·И
+
+TAG: 03_WallE!c_WallE_Update14_DisplayName
+{Placeholder} WallE Одежда 14
+
+TAG: 03_WallE!f_WallE_Set01_DisplayName
+Подержанный
+
+TAG: 03_WallE!f_WallE_Set02_DisplayName
+Операции по спасению
+
+TAG: 03_WallE!f_WallE_Set03_DisplayName
+BnL
+
+TAG: 03_WallE!f_WallE_Set04_DisplayName
+Axiom Starliner
+
+TAG: 03_WallE!f_WallE_Set60_DisplayName
+Подписание
+
+TAG: 03_WallE!f_WallE_Setless_DisplayName
+ВАЛЛ·И
+
+TAG: 03_WallE!f_WallE_Update11_DisplayName
+{Placeholder}WallE_ Update11
+
+TAG: 03_WallE!f_WallE_Update14_DisplayName
+{Placeholder} Мебель &lt; &lt; Уолле &gt; &gt;
+
+TAG: 03_WallE_DisplayName
+ВАЛЛ·И
+
+TAG: 04_Moana!c_Moana_Set01_DisplayName
+Вулканическое изыскание
+
+TAG: 04_Moana!c_Moana_Set02_DisplayName
+Выход на пляж
+
+TAG: 04_Moana!c_Moana_Set03_DisplayName
+Вечер океана
+
+TAG: 04_Moana!c_Moana_Set60_DisplayName
+Подписание
+
+TAG: 04_Moana!c_Moana_Setless_DisplayName
+Моана
+
+TAG: 04_Moana!c_Moana_Update14_DisplayName
+{Placeholder} Моана Обновление одежды 14
+
+TAG: 04_Moana!f_Moana_Set01_DisplayName
+Океанический рай
+
+TAG: 04_Moana!f_Moana_Set02_DisplayName
+Современный остров
+
+TAG: 04_Moana!f_Moana_Set03_DisplayName
+Мистическое королевство
+
+TAG: 04_Moana!f_Moana_Set04_DisplayName
+Мотунуи
+
+TAG: 04_Moana!f_Moana_Set60_DisplayName
+Подписание
+
+TAG: 04_Moana!f_Moana_Setless_DisplayName
+Моана
+
+TAG: 04_Moana!f_Moana_Update10_DisplayName
+{Placeholder}Моана_Update10
+
+TAG: 04_Moana!f_Moana_Update14_DisplayName
+{Placeholder} Моана Мебель 14
+
+TAG: 04_Moana_DisplayName
+Моана
+
+TAG: 05_Ralph!c_Ralph_Set01_DisplayName
+Сладкий гонщик
+
+TAG: 05_Ralph!c_Ralph_Set02_DisplayName
+Долг героя
+
+TAG: 05_Ralph!c_Ralph_Set03_DisplayName
+Влиятель
+
+TAG: 05_Ralph!c_Ralph_Set60_DisplayName
+Подписание
+
+TAG: 05_Ralph!c_Ralph_Setless_DisplayName
+Ральф
+
+TAG: 05_Ralph!c_Ralph_Update14_DisplayName
+{Placeholder} Одежда Ральфа 14
+
+TAG: 05_Ralph!f_Ralph_Set01_DisplayName
+Забавный аркад
+
+TAG: 05_Ralph!f_Ralph_Set02_DisplayName
+Сладкий Геймер
+
+TAG: 05_Ralph!f_Ralph_Set03_DisplayName
+Pixel Penthouse
+
+TAG: 05_Ralph!f_Ralph_Set04_DisplayName
+Базз ЛайтерzTube
+
+TAG: 05_Ralph!f_Ralph_Set60_DisplayName
+Подписание
+
+TAG: 05_Ralph!f_Ralph_Setless_DisplayName
+Ральф
+
+TAG: 05_Ralph!f_Ralph_Update10_DisplayName
+{Placeholder} Ральф_ Update10
+
+TAG: 05_Ralph!f_Ralph_Update11_DisplayName
+{Placeholder} Ральф_ Update11
+
+TAG: 05_Ralph!f_Ralph_Update14_DisplayName
+{Placeholder} Мебель Ральфа 14
+
+TAG: 05_Ralph_DisplayName
+Ральф
+
+TAG: 06_Ratatouille!c_Ratatouille_Set01_DisplayName
+Французский модный
+
+TAG: 06_Ratatouille!c_Ratatouille_Set02_DisplayName
+Парижская цыпочка
+
+TAG: 06_Ratatouille!c_Ratatouille_Set03_DisplayName
+Непредвиденная французская принадлежность
+
+TAG: 06_Ratatouille!c_Ratatouille_Set60_DisplayName
+Подписание
+
+TAG: 06_Ratatouille!c_Ratatouille_Setless_DisplayName
+Рататуйль
+
+TAG: 06_Ratatouille!c_Ratatouille_Update13_DisplayName
+{Placeholder} Модернизация одежды Рататуйля 13
+
+TAG: 06_Ratatouille!c_Ratatouille_Update14_DisplayName
+{Placeholder} Ratatouille Одежда 14
+
+TAG: 06_Ratatouille!f_Ratatouille_Set01_DisplayName
+Парижский
+
+TAG: 06_Ratatouille!f_Ratatouille_Set02_DisplayName
+Французская деревня
+
+TAG: 06_Ratatouille!f_Ratatouille_Set03_DisplayName
+Чез Реми
+
+TAG: 06_Ratatouille!f_Ratatouille_Set04_DisplayName
+Шамбре-де-Бонн
+
+TAG: 06_Ratatouille!f_Ratatouille_Set60_DisplayName
+Подписание
+
+TAG: 06_Ratatouille!f_Ratatouille_Setless_DisplayName
+Рататуйль
+
+TAG: 06_Ratatouille!f_Ratatouille_Update10_DisplayName
+{Placeholder} Ratatouille Update10Set
+
+TAG: 06_Ratatouille!f_Ratatouille_Update11_DisplayName
+{Placeholder}f_Ratouille_ Update11
+
+TAG: 06_Ratatouille!f_Ratatouille_Update13_DisplayName
+{Placeholder} Рататуй обновляет 13 мебели
+
+TAG: 06_Ratatouille!f_Ratatouille_Update14_DisplayName
+{Placeholder} Мебель &lt; &lt; Рататуй &gt; &gt; 14
+
+TAG: 06_Ratatouille_DisplayName
+Рататуйль
+
+TAG: 07_Cinderella!c_Cinderella_Set01_DisplayName
+Приглашение на бал
+
+TAG: 07_Cinderella!c_Cinderella_Set02_DisplayName
+Элегантная угроза
+
+TAG: 07_Cinderella!c_Cinderella_Set03_DisplayName
+Весенние потребности в чистке
+
+TAG: 07_Cinderella!c_Cinderella_Set60_DisplayName
+Подписание
+
+TAG: 07_Cinderella!c_Cinderella_Setless_DisplayName
+Золушка
+
+TAG: 07_Cinderella!c_Cinderella_Update14_DisplayName
+{Placeholder} Одежда Золушки 14
+
+TAG: 07_Cinderella!f_Cinderella_Set01_DisplayName
+Декор Магикабоо
+
+TAG: 07_Cinderella!f_Cinderella_Set02_DisplayName
+Мечта создателя одежды
+
+TAG: 07_Cinderella!f_Cinderella_Set03_DisplayName
+Музыкальный урок
+
+TAG: 07_Cinderella!f_Cinderella_Set04_DisplayName
+Прием во дворце
+
+TAG: 07_Cinderella!f_Cinderella_Set05_DisplayName
+{Placeholder}Fairy Godmath Internet
+
+TAG: 07_Cinderella!f_Cinderella_Set60_DisplayName
+Подписание
+
+TAG: 07_Cinderella!f_Cinderella_Setless_DisplayName
+Золушка
+
+TAG: 07_Cinderella!f_Cinderella_Update14_DisplayName
+{Placeholder} Мебель Золушки 14
+
+TAG: 07_Cinderella_DisplayName
+Золушка
+
+TAG: 08_MonsterInc!c_MonsterInc_Set01_DisplayName
+Монстр Бэш
+
+TAG: 08_MonsterInc!c_MonsterInc_Set02_DisplayName
+Переговоры MU
+
+TAG: 08_MonsterInc!c_MonsterInc_Set03_DisplayName
+Стандартный вопрос CDA
+
+TAG: 08_MonsterInc!c_MonsterInc_Set60_DisplayName
+Подписание
+
+TAG: 08_MonsterInc!c_MonsterInc_Setless_DisplayName
+Монстры, Инк.
+
+TAG: 08_MonsterInc!f_MonsterInc_Set01_DisplayName
+Квартира ужасного города
+
+TAG: 08_MonsterInc!f_MonsterInc_Set02_DisplayName
+Чудовищные академии
+
+TAG: 08_MonsterInc!f_MonsterInc_Set03_DisplayName
+Шрамe Симулятор
+
+TAG: 08_MonsterInc!f_MonsterInc_Set04_DisplayName
+Бакалавр-монстр
+
+TAG: 08_MonsterInc!f_MonsterInc_Set05_DisplayName
+{Placeholder}f_MonsterInc_Set05
+
+TAG: 08_MonsterInc!f_MonsterInc_Set60_DisplayName
+Подписание
+
+TAG: 08_MonsterInc!f_MonsterInc_Setless_DisplayName
+Монстры, Инк.
+
+TAG: 08_MonsterInc_DisplayName
+Монстры, Инк.
+
+TAG: 09_Frozen!c_Frozen_Friendship_DisplayName
+{Placeholder} Друзья
+
+TAG: 09_Frozen!c_Frozen_Set01_DisplayName
+Традиционная Арендель
+
+TAG: 09_Frozen!c_Frozen_Set02_DisplayName
+Уютная зима
+
+TAG: 09_Frozen!c_Frozen_Set03_DisplayName
+Королевство льда
+
+TAG: 09_Frozen!c_Frozen_Set60_DisplayName
+Подписание
+
+TAG: 09_Frozen!c_Frozen_Setless_DisplayName
+Замороженные
+
+TAG: 09_Frozen!c_Frozen_Update13_DisplayName
+{Placeholder} Обновление замороженной одежды13
+
+TAG: 09_Frozen!c_Frozen_Update14_DisplayName
+{Placeholder} 09_Flozen!c_Flozen_ Update14
+
+TAG: 09_Frozen!f_Frozen_Set01_DisplayName
+Скандинавская сауна
+
+TAG: 09_Frozen!f_Frozen_Set02_DisplayName
+Альпийский декор
+
+TAG: 09_Frozen!f_Frozen_Set03_DisplayName
+Аренделл Касл
+
+TAG: 09_Frozen!f_Frozen_Set04_DisplayName
+Ледяной дворец
+
+TAG: 09_Frozen!f_Frozen_Set60_DisplayName
+Подписание
+
+TAG: 09_Frozen!f_Frozen_Setless_DisplayName
+Замороженные
+
+TAG: 09_Frozen!f_Frozen_Update11_DisplayName
+{Placeholder} Замороженное обновление 11 Комплект коллекции
+
+TAG: 09_Frozen!f_Frozen_Update12_DisplayName
+{Placeholder} Замороженное обновление12
+
+TAG: 09_Frozen!f_Frozen_Update13_DisplayName
+{Placeholder} Обновление замороженной мебели13
+
+TAG: 09_Frozen_DisplayName
+Замороженные
+
+TAG: 10_ToyStory!c_ToyStory_Set01_DisplayName
+Космический рейнджер
+
+TAG: 10_ToyStory!c_ToyStory_Set02_DisplayName
+День на ферме
+
+TAG: 10_ToyStory!c_ToyStory_Set03_DisplayName
+Западные приключения
+
+TAG: 10_ToyStory!c_ToyStory_Set60_DisplayName
+Подписание
+
+TAG: 10_ToyStory!c_ToyStory_Setless_DisplayName
+История игрушек
+
+TAG: 10_ToyStory!c_ToyStory_Update14_DisplayName
+{Placeholder} Обмундирование игрушек 14
+
+TAG: 10_ToyStory!f_ToyStory_Set01_DisplayName
+Современное веселье
+
+TAG: 10_ToyStory!f_ToyStory_Set02_DisplayName
+Космическая фаза
+
+TAG: 10_ToyStory!f_ToyStory_Set03_DisplayName
+Карнавал
+
+TAG: 10_ToyStory!f_ToyStory_Set04_DisplayName
+"Семейная дорога"
+
+TAG: 10_ToyStory!f_ToyStory_Set60_DisplayName
+Подписание
+
+TAG: 10_ToyStory!f_ToyStory_Setless_DisplayName
+История игрушек
+
+TAG: 10_ToyStory!f_ToyStory_Update10_DisplayName
+{Placeholder} ToyStory Update10
+
+TAG: 10_ToyStory!f_ToyStory_Update11_DisplayName
+{Placeholder} ToyStory Update11
+
+TAG: 10_ToyStory!f_ToyStory_Update12_DisplayName
+{Placeholder} Игрушечная история Update12
+
+TAG: 10_ToyStory!f_ToyStory_Update14_DisplayName
+{Placeholder} Мебель игрушки 14
+
+TAG: 10_ToyStory_DisplayName
+История игрушек
+
+TAG: 11_Tangled!c_Tangled_Set01_DisplayName
+Промывка мухи слона
+
+TAG: 11_Tangled!c_Tangled_Set02_DisplayName
+Матушка Готель Платья Лучшие
+
+TAG: 11_Tangled!c_Tangled_Set03_DisplayName
+Художественная душа
+
+TAG: 11_Tangled!c_Tangled_Set60_DisplayName
+Подписание
+
+TAG: 11_Tangled!c_Tangled_Setless_DisplayName
+Спутаны
+
+TAG: 11_Tangled!c_Tangled_Update11_DisplayName
+{Placeholder}c_Tangled_ Update11
+
+TAG: 11_Tangled!c_Tangled_Update14_DisplayName
+{Placeholder} Запутанная одежда
+
+TAG: 11_Tangled!f_Tangled_Set01_DisplayName
+Слезы солнца
+
+TAG: 11_Tangled!f_Tangled_Set02_DisplayName
+Студия художника
+
+TAG: 11_Tangled!f_Tangled_Set03_DisplayName
+&lt; &lt; Роял Плаза &gt; &gt;
+
+TAG: 11_Tangled!f_Tangled_Set04_DisplayName
+Обнажённые утята
+
+TAG: 11_Tangled!f_Tangled_Set60_DisplayName
+Подписание
+
+TAG: 11_Tangled!f_Tangled_Setless_DisplayName
+Спутаны
+
+TAG: 11_Tangled!f_Tangled_Update11_DisplayName
+{Placeholder}f_Tangled_ Update11
+
+TAG: 11_Tangled!f_Tangled_Update12_DisplayName
+{Placeholder}f_Tangled_ Update12
+
+TAG: 11_Tangled!f_Tangled_Update14_DisplayName
+{Placeholder} f Tangled14
+
+TAG: 11_Tangled_DisplayName
+Спутаны
+
+TAG: 12_LionKing!c_LionKing_Set01_DisplayName
+Мятежник
+
+TAG: 12_LionKing!c_LionKing_Set02_DisplayName
+У Водяной скважины.
+
+TAG: 12_LionKing!c_LionKing_Set03_DisplayName
+Гордость Элегантность
+
+TAG: 12_LionKing!c_LionKing_Set04_DisplayName
+{Placeholder}LionKing_Set04
+
+TAG: 12_LionKing!c_LionKing_Set60_DisplayName
+Подписание
+
+TAG: 12_LionKing!c_LionKing_Setless_DisplayName
+Король Льва
+
+TAG: 12_LionKing!c_LionKing_Update13_DisplayName
+{Placeholder} Обновление одежды Льва Кинга13
+
+TAG: 12_LionKing!c_LionKing_Update14_DisplayName
+{Placeholder} Львиная одежда 14
+
+TAG: 12_LionKing!f_LionKing_Set01_DisplayName
+Саванна Спрендор
+
+TAG: 12_LionKing!f_LionKing_Set02_DisplayName
+Круг жизни
+
+TAG: 12_LionKing!f_LionKing_Set03_DisplayName
+Прайд Рок
+
+TAG: 12_LionKing!f_LionKing_Set04_DisplayName
+{Placeholder}Lion King Set04
+
+TAG: 12_LionKing!f_LionKing_Set60_DisplayName
+Подписание
+
+TAG: 12_LionKing!f_LionKing_Setless_DisplayName
+Король Льва
+
+TAG: 12_LionKing!f_LionKing_Update11_DisplayName
+{Placeholder}Lion King Update 11 Коллекция
+
+TAG: 12_LionKing!f_LionKing_Update12_DisplayName
+{Placeholder} Lion King Update 12
+
+TAG: 12_LionKing!f_LionKing_Update13_DisplayName
+{Placeholder} Lion King Update 13 Мебель
+
+TAG: 12_LionKing!f_LionKing_Update14_DisplayName
+{Placeholder} Мебель LionKing 14
+
+TAG: 12_LionKing_DisplayName
+Король Льва
+
+TAG: 13_Mermaid!c_Mermaid_Set01_DisplayName
+Морская королевская власть
+
+TAG: 13_Mermaid!c_Mermaid_Set02_DisplayName
+Бедные несчастные души
+
+TAG: 13_Mermaid!c_Mermaid_Set03_DisplayName
+Элегантность поверхности
+
+TAG: 13_Mermaid!c_Mermaid_Set60_DisplayName
+Подписание
+
+TAG: 13_Mermaid!c_Mermaid_Setless_DisplayName
+Маленькая Русалочка
+
+TAG: 13_Mermaid!c_Mermaid_Update12_DisplayName
+{Placeholder} c_Mermaid_ Update12
+
+TAG: 13_Mermaid!c_Mermaid_Update13_DisplayName
+{Placeholder} Обновление одежды русалки 13
+
+TAG: 13_Mermaid!c_Mermaid_Update14_DisplayName
+{Placeholder} Одежда русалки 14
+
+TAG: 13_Mermaid!f_Mermaid_Set01_DisplayName
+Под морем
+
+TAG: 13_Mermaid!f_Mermaid_Set02_DisplayName
+Лагун
+
+TAG: 13_Mermaid!f_Mermaid_Set03_DisplayName
+Урсула Lair
+
+TAG: 13_Mermaid!f_Mermaid_Set04_DisplayName
+Фатомы ниже
+
+TAG: 13_Mermaid!f_Mermaid_Set60_DisplayName
+Подписание
+
+TAG: 13_Mermaid!f_Mermaid_Setless_DisplayName
+Маленькая Русалочка
+
+TAG: 13_Mermaid!f_Mermaid_Update10_DisplayName
+{Placeholder} Русалочка_ Update10
+
+TAG: 13_Mermaid!f_Mermaid_Update12_DisplayName
+{Placeholder} f_Mermaid_ Update12
+
+TAG: 13_Mermaid!f_Mermaid_Update13_DisplayName
+{Placeholder} Обновление мебели русалки 13
+
+TAG: 13_Mermaid!f_Mermaid_Update14_DisplayName
+{Placeholder} Мебель русалки 14
+
+TAG: 13_Mermaid_DisplayName
+Маленькая Русалочка
+
+TAG: 14_Pirates!c_Pirates_Set01_DisplayName
+{Placeholder}c_Pirates_Set01
+
+TAG: 14_Pirates!c_Pirates_Setless_DisplayName
+Пираты Карибского бассейна
+
+TAG: 14_Pirates!f_Pirates_Set01_DisplayName
+{Placeholder}f_Pirates_Set01
+
+TAG: 14_Pirates!f_Pirates_Set02_DisplayName
+{Placeholder}f_Pirates_Set02
+
+TAG: 14_Pirates!f_Pirates_Setless_DisplayName
+Пираты Карибского бассейна
+
+TAG: 14_Pirates_DisplayName
+Пираты Карибского бассейна
+
+TAG: 15_SwordinStone_DisplayName
+Меч в камне
+
+TAG: 15_SwordStone!c_SwordStone_Set60_DisplayName
+Меч в камне
+
+TAG: 15_SwordStone!c_SwordStone_Update13_DisplayName
+{Placeholder} c_SwordStone_ Update13_DisplayName
+
+TAG: 15_SwordStone!c_SwordStone_Update14_DisplayName
+{Placeholder} Одежда SwordStone 14
+
+TAG: 15_SwordStone!f_SwordStone_Set01_DisplayName
+{Placeholder}Sword и каменный набор 01
+
+TAG: 15_SwordStone!f_SwordStone_Set02_DisplayName
+{Placeholder}Sword и каменный набор 02
+
+TAG: 15_SwordStone!f_SwordStone_Set03_DisplayName
+Волшебные роскоши
+
+TAG: 15_SwordStone!f_SwordStone_Set04_DisplayName
+{Placeholder}Sword и каменный набор 04
+
+TAG: 15_SwordStone!f_SwordStone_Setless_DisplayName
+Меч в камне
+
+TAG: 15_SwordStone!f_SwordStone_Update13_DisplayName
+{Placeholder} f_SwordStone_ Update13_DisplayName
+
+TAG: 15_SwordStone!f_SwordStone_Update14_DisplayName
+{Placeholder} Мебель SwordStone 14
+
+TAG: 15_SwordStone_DisplayName
+Меч в камне
+
+TAG: 16_LiloStitch!c_LiloStitch_Friendship_DisplayName
+Lilo & Стич
+
+TAG: 16_LiloStitch!c_LiloStitch_Setless_DisplayName
+Lilo & Стич
+
+TAG: 16_LiloStitch!c_LiloStitch_Update11_DisplayName
+{Placeholder} c_LiloСтич_UDP11
+
+TAG: 16_LiloStitch!c_LiloStitch_Update14_DisplayName
+{Placeholder} LiloСтич Одежда 14
+
+TAG: 16_LiloStitch!f_LiloStitch_Set03_DisplayName
+Гавайский дом
+
+TAG: 16_LiloStitch!f_LiloStitch_Set04_DisplayName
+Гавайский день на пляже
+
+TAG: 16_LiloStitch!f_LiloStitch_Set60_DisplayName
+Подписание
+
+TAG: 16_LiloStitch!f_LiloStitch_Setless_DisplayName
+Lilo & Стич
+
+TAG: 16_LiloStitch!f_LiloStitch_Update11_DisplayName
+{Placeholder} f_LiloСтич_Update11
+
+TAG: 16_LiloStitch!f_LiloStitch_Update14_DisplayName
+{Placeholder} LiloСтич 14
+
+TAG: 16_LiloStitch_DisplayName
+Lilo & Стич
+
+TAG: 17_Raya!c_Raya_Setless_DisplayName
+Рая и последний дракон
+
+TAG: 17_Raya!f_Raya_Setless_DisplayName
+Рая и последний дракон
+
+TAG: 17_Raya_DisplayName
+Рая и последний дракон
+
+TAG: 18_Aladdin!c_Aladdin_Update10_DisplayName
+{Placeholder}Aladdin_ Update10
+
+TAG: 18_Aladdin!c_Aladdin_Update12_DisplayName
+{Placeholder} c_Aladdin_ Update12
+
+TAG: 18_Aladdin!c_Aladdin_Update14_DisplayName
+{Placeholder} Аладдин Одежда 14
+
+TAG: 18_Aladdin!f_Aladdin_Setless_DisplayName
+{Placeholder}Aladdin Беззаботно
+
+TAG: 18_Aladdin!f_Aladdin_Update10_DisplayName
+{Placeholder} F_Aladdin_ Update10
+
+TAG: 18_Aladdin!f_Aladdin_Update12_DisplayName
+{Placeholder} f_Aladdin_ Update12
+
+TAG: 18_Aladdin!f_Aladdin_Update14_DisplayName
+{Placeholder} Мебель Аладдина Обновление 14
+
+TAG: 18_Aladdin_DisplayName
+Аладдин
+
+TAG: 19_Alice!c_Alice_Setless_DisplayName
+Элис в Стране Чудес
+
+TAG: 19_Alice!c_Alice_Update12_DisplayName
+{Placeholder} 19_Alice!c_Alice_UDP12
+
+TAG: 19_Alice!f_Alice_Update10_DisplayName
+{Placeholder} AliceFurnitureUDP10
+
+TAG: 19_Alice_DisplayName
+Элис в Стране Чудес
+
+TAG: 20_Incredibles!c_Incredibles_Setless_DisplayName
+Невероятные
+
+TAG: 20_Incredibles!c_Incredibles_Update13_DisplayName
+{Placeholder} Обновление одежды
+
+TAG: 20_Incredibles!f_Incredibles_Setless_DisplayName
+Невероятные
+
+TAG: 20_Incredibles!f_Incredibles_Update13_DisplayName
+{Placeholder} Обновление мебели
+
+TAG: 20_Incredibles_DisplayName
+Невероятные
+
+TAG: 21_Hercules!c_Hercules_Setless_DisplayName
+{Placeholder} c_Hercules_ Бесплатно
+
+TAG: 21_Hercules!c_Hercules_Update14_DisplayName
+{Placeholder} Геркулес Одежда 14
+
+TAG: 21_Hercules!f_21_Hercules_Set01_DisplayName
+{Placeholder} HerculesSet01
+
+TAG: 21_Hercules!f_21_Hercules_Setless_DisplayName
+Геркулес
+
+TAG: 21_Hercules!f_Hercules_Update14_DisplayName
+{Placeholder} &lt; &lt; Геркулес &gt; &gt; Мебель 14
+
+TAG: 21_Hercules_DisplayName
+Геркулес
+
+TAG: 22_AncientCiv!f_AncientCiv_Set01_DisplayName
+Мистические руины
+
+TAG: 22_AncientCiv!f_AncientCiv_Setless_DisplayName
+Древняя цивилизация
+
+TAG: 22_AncientCiv!f_AncientCiv_Update10_DisplayName
+{Placeholder} Древняя Цив_ Update10
+
+TAG: 24_Coco!c_Coco_Setless_DisplayName
+Коко
+
+TAG: 24_Coco!f_Coco_Setless_DisplayName
+Коко
+
+TAG: 24_Coco!f_Coco_Update12_DisplayName
+{Placeholder} Комплект мебели для коко
+
+TAG: 24_Coco_DisplayName
+Коко
+
+TAG: 25_Cars!c_Cars_Setless_DisplayName
+Автомобили
+
+TAG: 25_Cars!f_Cars_Setless_DisplayName
+Автомобили
+
+TAG: 25_Cars_DisplayName
+Автомобили
+
+TAG: 26_Lightyear!c_Lightyear_Setless_DisplayName
+Световой год
+
+TAG: 26_Lightyear!f_Lightyear_Setless_DisplayName
+Световой год
+
+TAG: 26_Lightyear_DisplayName
+Световой год
+
+TAG: 27_Up!c_Up_Setless_DisplayName
+Вверх
+
+TAG: 27_Up!c_Up_Update12_DisplayName
+{Placeholder} Up_ Update12
+
+TAG: 27_Up!c_Up27_Update12_DisplayName
+{Placeholder} Up27_ Update12
+
+TAG: 27_Up!f_Up_Setless_DisplayName
+{Placeholder} Обновление 12
+
+TAG: 27_Up_DisplayName
+Вверх
+
+TAG: 28_SleepBeauty!c_SleepBeauty_Setless_DisplayName
+Спящая красавица
+
+TAG: 28_SleepBeauty!c_SleepBeauty_Update14_DisplayName
+Обновлённая красавица 14
+
+TAG: 28_SleepBeauty!f_28_SleepBeauty_Setless_DisplayName
+Спящая красавица
+
+TAG: 28_SleepBeauty_DisplayName
+Спящая красавица
+
+TAG: 29_SnowWhite!c_SnowWhite_Update12_DisplayName
+{Placeholder} "Белоснежка" , обновление 12
+
+TAG: 29_SnowWhite!c_SnowWhite_Update13_DisplayName
+{Placeholder} "Белая одежда для снег " 13
+
+TAG: 29_SnowWhite!f_29_SnowWhite_Setless_DisplayName
+Белоснежка
+
+TAG: 29_SnowWhite!f_SnowWhite_Update13_DisplayName
+{Placeholder} &lt; &lt; Белоснежная мебель &gt; &gt;
+
+TAG: 29_SnowWhite_DisplayName
+Белоснежка
+
+TAG: 30_Fantasia!c_Fantasia_Update13_DisplayName
+{Placeholder} c_Fantasia_ Update13_DisplayName
+
+TAG: 30_Fantasia!c_Fantasia_Update14_DisplayName
+{Placeholder} Fantasia Одежда 14
+
+TAG: 30_Fantasia!f_Fantasia_Update13_DisplayName
+{Placeholder} Обновленная мебель Фантазии 13
+
+TAG: 30_Fantasia!f_Fantasia_Update14_DisplayName
+{Placeholder} Фантазия Мебель 14
+
+TAG: 30_Fantasia_DisplayName
+Фантазия
+
+TAG: 31_Encanto!c_Encanto_Friendship_DisplayName
+Энканто
+
+TAG: 31_Encanto!c_Encanto_Set60_DisplayName
+Энканто
+
+TAG: 31_Encanto!f_Encanto_Set01_DisplayName
+{Placeholder} Encanto Set01
+
+TAG: 31_Encanto!f_Encanto_Set02_DisplayName
+{Placeholder} Encanto Set02
+
+TAG: 31_Encanto!f_Encanto_Set60_DisplayName
+Подписание
+
+TAG: 31_Encanto!f_Encanto_Setless_DisplayName
+Бесполезно
+
+TAG: 31_Encanto!f_Encanto_Update10_DisplayName
+Энканто
+
+TAG: 31_Encanto!f_Encanto_Update14_DisplayName
+{Placeholder} f_Encanto_ Update14_DisplayName
+
+TAG: 31_Encanto_DisplayName
+Энканто
+
+TAG: 32_PrincessFrog!c_PrincessFrog_Setless_DisplayName
+Принцесса и Лягушка
+
+TAG: 32_PrincessFrog!c_PrincessFrog_Update12_DisplayName
+{Placeholder} Принцесса Лягушка Обновленная 12
+
+TAG: 32_PrincessFrog!c_PrincessFrog_Update14_DisplayName
+{Placeholder} Принцесса Фрог Одежда 14
+
+TAG: 32_PrincessFrog!f_32_PrincessFrog_Setless_DisplayName
+Принцесса и Лягушка
+
+TAG: 32_PrincessFrog!f_PrincessFrog_Update12_DisplayName
+{Placeholder} Принцесса Лягушка Обновленная 12
+
+TAG: 32_PrincessFrog!f_PrincessFrog_Update14_DisplayName
+{Placeholder} Мебель принцессы Фрог 14
+
+TAG: 32_PrincessFrog_DisplayName
+Принцесса и Лягушка
+
+TAG: 33_FindingNemo!c_FindingNemo_Setless_DisplayName
+Поиск Немо
+
+TAG: 33_FindingNemo!f_FindingNemo_Setless_DisplayName
+Поиск Немо
+
+TAG: 33_FindingNemo!Setless_DisplayName
+Поиск Немо
+
+TAG: 33_FindingNemo_DisplayName
+Поиск Немо
+
+TAG: 34_TurningRed!c_TurningRed_Setless_DisplayName
+Красный
+
+TAG: 34_TurningRed!c_TurningRed_Update11_DisplayName
+{Placeholder} VreamRed_ Update11
+
+TAG: 34_TurningRed!f_TurningRed_Set01_DisplayName
+{Placeholder}TurningRed_Set01
+
+TAG: 34_TurningRed!f_TurningRed_Setless_DisplayName
+Красный
+
+TAG: 34_TurningRed_DisplayName
+Красный
+
+TAG: 35_InsideOut!c_InsideOut_Update11_DisplayName
+{Placeholder} InternalOut_обновленный 11
+
+TAG: 35_InsideOut!f_InsideOut_Setless_DisplayName
+Внутри
+
+TAG: 35_InsideOut!f_InsideOut_Update10_DisplayName
+{Placeholder} Internal Out_ Update10
+
+TAG: 35_InsideOut!f_InsideOut_Update11_DisplayName
+{Placeholder}f_InsideOut_ Update11
+
+TAG: 35_InsideOut_DisplayName
+Внутри
+
+TAG: 36_Elemental!c_Elemental_Setless_DisplayName
+Элементарный
+
+TAG: 36_Elemental!f_36_Elemental_Setless_DisplayName
+Элементарный
+
+TAG: 36_Elemental!f_Elemental_Setless_DisplayName
+Элементарный
+
+TAG: 36_Elemental_DisplayName
+Элементарный
+
+TAG: 37_BigHero6!f_BigHero6_Set01_DisplayName
+{Placeholder}BigHero6_Set01
+
+TAG: 37_BigHero6!f_BigHero6_Setless_DisplayName
+Большой Герой 6
+
+TAG: 38_Nightmare!c_Nightmare_Set01_DisplayName
+{Placeholder}Nightmare_Set01
+
+TAG: 38_Nightmare!c_Nightmare_Setless_DisplayName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: 38_Nightmare!c_Nightmare_Update14_DisplayName
+{Placeholder} Обновление ночной одежды14
+
+TAG: 38_Nightmare!f_Nightmare_Set01_DisplayName
+{Placeholder}Nightmare_Set01
+
+TAG: 38_Nightmare!f_Nightmare_Setless_DisplayName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: 38_Nightmare!f_Nightmare_Update14_DisplayName
+{Placeholder} Мебель &lt; &lt; Найтмэйр &gt; &gt;
+
+TAG: 38_Nightmare_DisplayName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: 39_HocusPocus!c_HocusPocus_Set01_DisplayName
+{Placeholder}c_HocusPocus_Set01
+
+TAG: 39_HocusPocus!c_HocusPocus_Setless_DisplayName
+Hocus Pocus
+
+TAG: 39_HocusPocus!c_HocusPocus_Update13_DisplayName
+{Placeholder} Модернизация одежды HocusPocus 13
+
+TAG: 39_HocusPocus!f_HocusPocus_Set01_DisplayName
+{Placeholder}f_HocusPocus_Set01
+
+TAG: 39_HocusPocus!f_HocusPocus_Setless_DisplayName
+Hocus Pocus
+
+TAG: 39_HocusPocus!f_HocusPocus_Update13_DisplayName
+{Placeholder} Мебель HocusPocus Обновление 13
+
+TAG: 39_HocusPocus_DisplayName
+Hocus Pocus
+
+TAG: 40_Pocahontas!c_Pocahontas_Setless_DisplayName
+Покахонтас
+
+TAG: 40_Pocahontas!f_Pocahontas_Setless_DisplayName
+Покахонтас
+
+TAG: 40_Pocahontas_DisplayName
+Покахонтас
+
+TAG: 41_Brave!c_Brave_Setless_DisplayName
+Храбрость
+
+TAG: 41_Brave!c_Brave_Update14_DisplayName
+{Placeholder} Обновление храбрых одежды14
+
+TAG: 41_Brave!f_Brave_Setless_DisplayName
+Храбрость
+
+TAG: 41_Brave!f_Brave_Update14_DisplayName
+{Placeholder} f_Brave_ Update14
+
+TAG: 41_Brave_DisplayName
+Храбрость
+
+TAG: 42_Maleficent!c_Maleficent_Setless_DisplayName
+Малефисента
+
+TAG: 42_Maleficent!f_Maleficent_Setless_DisplayName
+Малефисента
+
+TAG: 42_Maleficent_DisplayName
+Малефисента
+
+TAG: 43_LadyAndTheTramp!c_LadyAndTheTramp_Setless_DisplayName
+{Placeholder} Леди-Анд-Трэмп-бесплатная
+
+TAG: 43_LadyAndTheTramp!f_LadyAndTheTramp_Setless_DisplayName
+{Placeholder} Леди-Анд-ТрэмпСетс
+
+TAG: 44_Mulan!c_Mulan_Setless_DisplayName
+Мулан
+
+TAG: 44_Mulan!c_Mulan_Update11_DisplayName
+{Placeholder}c_Мулан_Update11
+
+TAG: 44_Mulan!c_Mulan_Update12_DisplayName
+{Placeholder} c_Мулан_Update12
+
+TAG: 44_Mulan!c_Mulan_Update14_DisplayName
+{Placeholder} Мулан Обновление одежды 14
+
+TAG: 44_Mulan!f_Mulan_Setless_DisplayName
+Мулан
+
+TAG: 44_Mulan!f_Mulan_Update11_DisplayName
+{Placeholder} f_Мулан_Update11
+
+TAG: 44_Mulan!f_Mulan_Update12_DisplayName
+{Placeholder} f_Мулан_Update12
+
+TAG: 44_Mulan!f_Mulan_Update14_DisplayName
+{Placeholder} Мулан Мебель Обновленная 14
+
+TAG: 44_Mulan_DisplayName
+Мулан
+
+TAG: 45_PeterPan!c_PeterPan_Setless_DisplayName
+{Placeholder} PeterPanSetless
+
+TAG: 45_PeterPan!f_PeterPan_Setless_DisplayName
+{Placeholder} PeterPanSetless
+
+TAG: 46_Oswald!c_Oswald_Update10_DisplayName
+{Placeholder} ОсвальдClothing Update10
+
+TAG: 46_Oswald!f_Oswald_Update10_DisplayName
+{Placeholder} Освальд
+
+TAG: 46_Oswald_DisplayName
+Освальд
+
+TAG: 47_Atlantis!c_Atlantis_Setless_DisplayName
+{Placeholder} Atlantis Беззаботно
+
+TAG: 47_Atlantis!c_Atlantis_Update11_DisplayName
+{Placeholder} Disney Atlantis Update11
+
+TAG: 47_Atlantis!c_Atlantis_Update12_DisplayName
+{Placeholder} C_atlantisP12
+
+TAG: 47_Atlantis!f_Atlantis_Setless_DisplayName
+{Placeholder} Atlantis Беззаботно
+
+TAG: 48_Fairies!c_Fairies_Setless_DisplayName
+{Placeholder} Disney Fairies Беспощадные
+
+TAG: 48_Fairies!c_Update11_DisplayName
+{Placeholder} Disney Fairies Update11
+
+TAG: 48_Fairies!f_Fairies_Setless_DisplayName
+{Placeholder} Disney Fairies Беспощадные
+
+TAG: 49_Tron!c_Tron_Update12_DisplayName
+{Placeholder} Комплект одежды трона
+
+TAG: 49_Tron!f_Tron_Update12_DisplayName
+{Placeholder} Комплект мебели "Трон"
+
+TAG: 51_EmperorNewGroove!c_EmperorNewGroove_Update13_DisplayName
+Новый грув императора
+
+TAG: 51_EmperorNewGroove!f_EmperorNewGroove_Update13_DisplayName
+Новый грув императора
+
+TAG: 98_DreamlightValley!c_DreamlightValley_Set01_DisplayName
+{Placeholder}Prime Gaming
+
+TAG: 98_DreamlightValley!c_DreamlightValley_Setless_DisplayName
+Долина мечты
+
+TAG: 98_DreamlightValley!c_DreamlightValley_Update13_DisplayName
+{Placeholder} 98_DreamlightValley обновляет 13 одежды
+
+TAG: 98_DreamlightValley!f_DreamlightValley_Set01_DisplayName
+{Placeholder}Prime Gaming
+
+TAG: 98_DreamlightValley!f_DreamlightValley_Setless_DisplayName
+{Placeholder}DreamlightValley_ Бесплатно
+
+TAG: 98_DreamlightValley_DisplayName
+Долина мечты
+
+TAG: 99_NonIP!c_NonIP_Set01_DisplayName
+Основные положения
+
+TAG: 99_NonIP!c_NonIP_Set02_DisplayName
+Непредвиденное веселье
+
+TAG: 99_NonIP!c_NonIP_Set03_DisplayName
+Все предприятия
+
+TAG: 99_NonIP!c_NonIP_Set04_DisplayName
+Оставайтесь в покое.
+
+TAG: 99_NonIP!c_NonIP_Set05_DisplayName
+Ассистентная мания
+
+TAG: 99_NonIP!c_NonIP_Set06_DisplayName
+Восхитительно
+
+TAG: 99_NonIP!c_NonIP_Set07_DisplayName
+Злодеи
+
+TAG: 99_NonIP!c_NonIP_Set13_DisplayName
+Высоких морей Раскаль
+
+TAG: 99_NonIP!c_NonIP_Set14_DisplayName
+Уважаемый военно-морский офицер
+
+TAG: 99_NonIP!c_NonIP_Set15_DisplayName
+Грязная винтажная одежда
+
+TAG: 99_NonIP!c_NonIP_Set16_DisplayName
+{Placeholder}c_NonIP_Set16
+
+TAG: 99_NonIP!c_NonIP_Set17_DisplayName
+{Placeholder}Set17
+
+TAG: 99_NonIP!c_NonIP_Setless_DisplayName
+Разное
+
+TAG: 99_NonIP!c_NonIP_Update10_DisplayName
+{Placeholder} Непрерывная дата 10
+
+TAG: 99_NonIP!c_NonIP_Update11_DisplayName
+{Placeholder} c_NEP_ Update10
+
+TAG: 99_NonIP!c_NonIP_Update13_DisplayName
+{Placeholder} Обновить 13 одежду
+
+TAG: 99_NonIP!c_NonIP_Update14_DisplayName
+{Placeholder} UnIP Update 14
+
+TAG: 99_NonIP!f_NonIP_Set01_DisplayName
+Простая деревня
+
+TAG: 99_NonIP!f_NonIP_Set02_DisplayName
+Грязная черная дверь
+
+TAG: 99_NonIP!f_NonIP_Set03_DisplayName
+Природа
+
+TAG: 99_NonIP!f_NonIP_Set04_DisplayName
+Парк Элегантность
+
+TAG: 99_NonIP!f_NonIP_Set05_DisplayName
+Средневековый рынок
+
+TAG: 99_NonIP!f_NonIP_Set06_DisplayName
+Средневековый лагерь
+
+TAG: 99_NonIP!f_NonIP_Set07_DisplayName
+Огородное декорирование
+
+TAG: 99_NonIP!f_NonIP_Set08_DisplayName
+Домашние основы
+
+TAG: 99_NonIP!f_NonIP_Set09_DisplayName
+Начинающие дома
+
+TAG: 99_NonIP!f_NonIP_Set10_DisplayName
+Новый дом
+
+TAG: 99_NonIP!f_NonIP_Set11_DisplayName
+Начинающие кухни
+
+TAG: 99_NonIP!f_NonIP_Set12_DisplayName
+Базовая кухня
+
+TAG: 99_NonIP!f_NonIP_Set13_DisplayName
+Коттедж ведьмы
+
+TAG: 99_NonIP!f_NonIP_Set14_DisplayName
+Восхитительно
+
+TAG: 99_NonIP!f_NonIP_Set15_DisplayName
+Злодеи
+
+TAG: 99_NonIP!f_NonIP_Set17_DisplayName
+{Placeholder}Cardboard Sutouts
+
+TAG: 99_NonIP!f_NonIP_Set18_DisplayName
+Умство в море
+
+TAG: 99_NonIP!f_NonIP_Set19_DisplayName
+Неизвестные бои
+
+TAG: 99_NonIP!f_NonIP_Set20_DisplayName
+Осенние Веселья
+
+TAG: 99_NonIP!f_NonIP_Set21_DisplayName
+Зимние праздники
+
+TAG: 99_NonIP!f_NonIP_Set23_DisplayName
+Весенние праздники
+
+TAG: 99_NonIP!f_NonIP_Set24_DisplayName
+{Placeholder}Set24
+
+TAG: 99_NonIP!f_NonIP_Setless_DisplayName
+Разное
+
+TAG: 99_NonIP!f_NonIP_Update10_DisplayName
+{Placeholder} NonIP_ Update10
+
+TAG: 99_NonIP!f_NonIP_Update11_DisplayName
+{Placeholder} f_NonIP_ Update11
+
+TAG: 99_NonIP!f_NonIP_Update12_DisplayName
+{Placeholder} UnIP Update12
+
+TAG: 99_NonIP!f_NonIP_Update13_DisplayName
+{Placeholder} Обновление 13 мебели
+
+TAG: 99_NonIP!f_NonIP_Update14_DisplayName
+{Placeholder} UnIP Update14
+
+TAG: 99_NonIP!Set01_DisplayName
+Геометрические
+
+TAG: 99_NonIP!Set02_DisplayName
+Линейный
+
+TAG: 99_NonIP!Set03_DisplayName
+Иконический
+
+TAG: 99_NonIP!Set04_DisplayName
+Флорал
+
+TAG: 99_NonIP!Set05_DisplayName
+небесные
+
+TAG: 99_NonIP!Set06_DisplayName
+Фруктовый
+
+TAG: 99_NonIP!Set07_DisplayName
+Музыка
+
+TAG: 99_NonIP!Set08_DisplayName
+Естественные
+
+TAG: 99_NonIP!Set09_DisplayName
+Животные
+
+TAG: 99_NonIP!Set10_DisplayName
+Глитзи
+
+TAG: 99_NonIP!Set11_DisplayName
+Рози
+
+TAG: 99_NonIP!Set12_DisplayName
+Филигри
+
+TAG: 99_NonIP!Set13_DisplayName
+Добропорядочные
+
+TAG: 99_NonIP!Set14_DisplayName
+Плохо.
+
+TAG: 99_NonIP!Set15_DisplayName
+Одежда
+
+TAG: 999_TouchOfmagic!f_ToM_PlayerBoutique_DisplayName
+{Placeholder} PlayerButique
+
+TAG: 999_TouchOfmagic!f_ToM_Set01_DisplayName
+{Placeholder}ToM_Set01
+
+TAG: Makeup!Beard!Stubble_DisplayName
+Стуббл
+
+TAG: Makeup!Brows!Eyebrows_DisplayName
+Брови
+
+TAG: Makeup!Cheeks!Birthmarks_DisplayName
+Знаки рождения
+
+TAG: Makeup!Cheeks!Blush_DisplayName
+Покраснеть
+
+TAG: Makeup!Cheeks!Contour_DisplayName
+Контур
+
+TAG: Makeup!Cheeks!Facelines_DisplayName
+Линия лиц
+
+TAG: Makeup!Cheeks!Freckles_DisplayName
+Фриклс
+
+TAG: Makeup!Cheeks!Scars_DisplayName
+Шрамs
+
+TAG: Makeup!Eyes!Eyeliner_DisplayName
+Глазная подводка
+
+TAG: Makeup!Eyes!Eyeshadow_DisplayName
+Глазная тень
+
+TAG: Makeup!Mouth!Lipstick_DisplayName
+Помадка
+
+TAG: Makeup!Stickers!Facepaint_DisplayName
+Краска лица
+
+TAG: TouchOfMagic_DisplayName
+"Прикосновение магии"Сбор
+

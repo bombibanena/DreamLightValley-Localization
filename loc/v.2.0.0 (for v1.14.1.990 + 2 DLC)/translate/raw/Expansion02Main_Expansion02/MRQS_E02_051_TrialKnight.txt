@@ -1,0 +1,36 @@
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Any_CompletedRequestDescription
+Возвращайтесь на Флин.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_AvailableDescription
+В некоторых старых развалинах замка {PlayerName} нашел вход в очередное испытание сказок. Какие приключения ждали внутри?
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_CompletedStoryDescription
+В рамках процесса сказок {PlayerName} воссоздал сцену из старой истории приключений: храбрые рыцари боролись с жестокими врагами. {PlayerName} нуждалось бы немного такой же смелости, если бы была какая-то надежда спуститься вниз Малефисента.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_DisplayName
+Рыцари круглого стола
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group01_Step01_VisitArea01_StepDescription
+Введите испытание сказок рядом с падшей крепостью.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group03_Step03_StepDescription
+Ищите и возвращайте недостающую часть каждому рыцарю.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group03_Step08_TalkToCharacter02_StepDescription
+Поговори с Флин.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group03_StepDescription
+Эти рыцарские статуи, кажется, что-то упускают...
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group04_Step04_Conditional01_StepDescription
+Поставь каждого рыцаря лицом к врагу.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group05_Step05_Interaction01_StepDescription
+Вступайте в контакт с источником коррупции в суде Фейри.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group06_Step06_VisitArea02_StepDescription
+Возвращайся в Сказочную Долину.
+
+TAG: Story!Expansion02!MRQS_E02_051_TrialKnight_Group07_Step07_VisitArea03_StepDescription
+Исследуйте испытание сказок.
+

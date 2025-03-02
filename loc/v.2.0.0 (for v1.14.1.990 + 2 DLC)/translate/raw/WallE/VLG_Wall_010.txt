@@ -1,0 +1,48 @@
+TAG: Village!WallE!WallE!VLG_Wall_010_Any_CompletedRequestDescription
+Возвращайтесь на ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_AvailableDescription
+ВАЛЛ·И кажется немного потерянным в деревне.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_CompletedStoryDescription
+Быть рядом с ВАЛЛ·И в Долине - это весело, но давайте осторожнее, чтобы не одолеть его. Пора узнать, что он чувствует по поводу всей поездки.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_DisplayName
+Хорошо быть дома!
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжает показывать ВАЛЛ·И деревня.)
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group01_Step01_StepDescription
+Выбери разные цветы с ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group01_Step02_StepDescription
+Покорми зверя вокруг деревни любую еду, которая ему понравится.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group01_StoryDescription
+Он кажется намного счастливее, и он очень взволнован, когда вы предлагаете собрать цветы и накормить животных по всей деревне вместе.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group02_Step03_TalkToCharacter01_StepDescription
+Поговори с ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group02_StoryDescription
+Ты надеешься, что после того, как ты увидишь остальных деревенских жителей, ВАЛЛ·И почувствует себя немного лучше, но лучший способ узнать это это спросить его напрямую.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (Introduce ВАЛЛ·И- Гуфи.)
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group03_StepDescription
+Представить ВАЛЛ·И дружескому соседу, разговаривая с Гуфи.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group03_StoryDescription
+Маленький робот все еще застенчив и нерешителен, чтобы выйти из оболочки. Вы решили помочь ему, познакомив его с соседом.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжает слушать Гуфи и ВАЛЛ·И.)
+
+TAG: Village!WallE!WallE!VLG_Wall_010_Group04_StepDescription
+Слушайте, как Гуфи и ВАЛЛ·И разговаривают друг с другом.
+
+TAG: Village!WallE!WallE!VLG_Wall_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

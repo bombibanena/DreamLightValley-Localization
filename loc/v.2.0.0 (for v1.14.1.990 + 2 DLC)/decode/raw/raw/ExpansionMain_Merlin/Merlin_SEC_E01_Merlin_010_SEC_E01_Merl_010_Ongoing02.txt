@@ -1,0 +1,6 @@
+TAG: Merlin_000_f
+Have you examined the Timebending Table, {PlayerName}?
+
+TAG: Merlin_002_f
+There must be something there that's caught your eye. <Lore>Simply use your Hourglass to find the pieces you'll need to recreate it</Lore>!
+

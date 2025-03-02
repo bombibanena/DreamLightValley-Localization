@@ -1,0 +1,33 @@
+TAG: Mirabel_000_f
+Did you find the <ActivityItem>Madrigal Table</ActivityItem>? Please say yes.
+
+TAG: Player_000_f
+I did, but it's broken into pieces...
+
+TAG: Player_000_choice_000_f
+I'm sorry, Mirabel.
+
+TAG: Player_000_choice_001_f
+Do you know what happened?
+
+TAG: Player_000_choice_002_f
+This is why you don't climb on furniture.
+
+TAG: Mirabel_001_f
+Oh... Well, that's all right...
+
+TAG: Mirabel_002_f
+I guess when everyone left, it was forgotten there and got swept away by the tides.
+
+TAG: Mirabel_003_f
+Like all those memories of our friendship. Maybe this was all a bad idea. Maybe you can't recapture something that's lost like that...
+
+TAG: Mirabel_004_f
+It's not a bad idea, Mirabel. Just... give me a day or two. I think I can fix this. I just have to talk to some people.
+
+TAG: Mirabel_005_f
+No, I have no idea.
+
+TAG: Mirabel_006_f
+Hey! I don't climb onâ Never mind. I'm sure that's not what happened.
+

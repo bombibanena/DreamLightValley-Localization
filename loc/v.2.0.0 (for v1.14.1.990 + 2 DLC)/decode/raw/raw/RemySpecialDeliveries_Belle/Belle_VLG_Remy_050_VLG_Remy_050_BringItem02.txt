@@ -1,0 +1,24 @@
+TAG: Belle_000_f
+Oh, {PlayerName}, this dessert looks almost as good as the ones the staff made for me at the Beast's Castle.
+
+TAG: Belle_001_f
+What's the special occasion?
+
+TAG: Belle_002_f
+Remy's starting a service in the Village for special deliveries.
+
+TAG: Player_000_choice_000_f
+You could order a special dinner for you and the Beast!
+
+TAG: Player_000_choice_001_f
+Maybe you can get some of that delicious gray stuff on the go?
+
+TAG: Belle_003_f
+That's a wonderful idea! I'll be sure to order something soon.
+
+TAG: Belle_005_f
+Now, if only we could get some sort of service like this in the Village for books.
+
+TAG: Belle_004_f
+I'd like that. It's become one of my favorite treats.
+

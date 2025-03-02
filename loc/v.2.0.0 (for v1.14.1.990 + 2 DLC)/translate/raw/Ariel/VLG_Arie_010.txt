@@ -1,0 +1,54 @@
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Any_CompletedRequestDescription
+Поговори с Ариэль.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_AvailableDescription
+Исследуйте остров, чтобы узнать, обитает ли он.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_CompletedStoryDescription
+Ты привёз Ариэль обратно в долину Мечты!
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_DisplayName
+Одинокий остров
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group01_Step01_PlaceBuilding01_StepDescription
+Поместите {ItemName} в воду возле пляжа Даззл.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group01_StoryDescription
+Вы обнаруживаете остров, где Ариэль застрял волшебным заклинанием, она хочет вернуться в долину Мечты, но ей нужен какой-то способ снять заклинание.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group02_StepDescription
+Добро пожаловать Ариэль в деревню.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group03_Step03_Unlock01_StepDescription
+Используйте знак Скрудж Макдак, чтобы закончить строительство Ариэль House.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group03_StoryDescription
+Вы обнаруживаете остров, где Ариэль застрял волшебным заклинанием, она хочет вернуться в долину Мечты, но ей нужен какой-то способ снять заклинание.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group08_Step06_VisitArea01_StepDescription
+Возвращайся в долину Мечты.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group09_Step09_StepDescription
+Кто-то в воде!
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group09_Step09_TalkToCharacter03_StepDescription
+Поговори с ней.
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!LilMermaid!Ariel!VLG_Arie_010_Group10_Step10_VisitArea02_StepDescription
+Исследуйте остров, чтобы узнать, обитает ли он.
+

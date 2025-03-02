@@ -1,0 +1,6 @@
+TAG: JackSkellington_000_f
+{PlayerName}, are you ready to do some science?
+
+TAG: JackSkellington_001_f
+I... guess? Still gathering those <ActivityItem>Night Shards</ActivityItem> for you.
+

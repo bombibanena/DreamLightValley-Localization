@@ -1,0 +1,84 @@
+TAG: Story!MRQS126_TheForgotten_Any_CompletedRequestDescription
+Поговори с Крёстной Феей о том, что ты узнал.
+
+TAG: Story!MRQS126_TheForgotten_AvailableDescription
+Фея-крестная приглашает вас пройти через заключительную дверь и открыть Память, которая запечатлела судьбу Забытого.
+
+TAG: Story!MRQS126_TheForgotten_CompletedStoryDescription
+Теперь, когда память закончена, вы видите, что забытых выгнали из долины и укрылись в темной тени деревни.
+
+TAG: Story!MRQS126_TheForgotten_DisplayName
+Забытые воспоминания: воспитание
+
+TAG: Story!MRQS126_TheForgotten_Group01_Step01_VisitArea01_StepDescription
+Пройдите через третьи ворота Мечты, чтобы открыть забытую память.
+
+TAG: Story!MRQS126_TheForgotten_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Крёстной Феей на последнем входе.
+
+TAG: Story!MRQS126_TheForgotten_Group03_Step03_TalkToCharacter05_StepDescription
+Что хочет Шрам? Лучше поговори с ним.
+
+TAG: Story!MRQS126_TheForgotten_Group03_StepDescription
+Откройте последнюю потерянную память забытого в Мечте:
+
+TAG: Story!MRQS126_TheForgotten_Group04_Step04_Interaction02_StepDescription
+Размажь цветы вокруг плато, чтобы ослабить энергию Полюса.
+
+TAG: Story!MRQS126_TheForgotten_Group04_StepDescription
+Откройте последнюю потерянную память забытого в Мечте:
+
+TAG: Story!MRQS126_TheForgotten_Group05_Step05_Possess01_StepDescription
+Возвращение <ActivityItem>Orb из Surturing</ActivityItem> рядом с Столбом.
+
+TAG: Story!MRQS126_TheForgotten_Group05_StepDescription
+Откройте последнюю потерянную память забытого в Мечте:
+
+TAG: Story!MRQS126_TheForgotten_Group05_StoryDescription
+Шрам обманул "Забытый" в разрушении жизни по всему плато. "Сфера" была оставлена увядать без растительной жизни, чтобы прокормить ее.
+
+TAG: Story!MRQS126_TheForgotten_Group06_Step06_VisitArea03_StepDescription
+Возвращайся в Шрам возле его пещеры.
+
+TAG: Story!MRQS126_TheForgotten_Group06_StepDescription
+Откройте последнюю потерянную память забытого в Мечте:
+
+TAG: Story!MRQS126_TheForgotten_Group07_Step07_TalkToCharacter02_StepDescription
+Поговори с Шрам.
+
+TAG: Story!MRQS126_TheForgotten_Group07_StepDescription
+Откройте последнюю потерянную память забытого в Мечте:
+
+TAG: Story!MRQS126_TheForgotten_Group09_Step09_TalkToCharacter03_StepDescription
+Противостояние Мерлин. Похоже, что у него есть еще."рекомендация"Для тебя...
+
+TAG: Story!MRQS126_TheForgotten_Group09_StepDescription
+Откройте последнюю потерянную память забытого в Мечте:
+
+TAG: Story!MRQS126_TheForgotten_Group10_Step10_VisitArea05_StepDescription
+Возвращайся к Крепости Феи в Мечте.
+
+TAG: Story!MRQS126_TheForgotten_Group10_StoryDescription
+Мерлин предостерегает забытых, чтобы они не теряли веру в любовь, дружбу и силу небольших действий по уходу.
+
+TAG: Story!MRQS126_TheForgotten_Group11_Step11_TalkToCharacter04_StepDescription
+Возвращайтесь на Шрам.
+
+TAG: Story!MRQS126_TheForgotten_Group11_StepDescription
+Откройте последнюю потерянную память забытого в Мечте:
+
+TAG: Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden01_StepDescription
+Рядом с гигантским Древом Мечты.
+
+TAG: Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden02_StepDescription
+Рядом со Столпом покорения.
+
+TAG: Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden03_StepDescription
+Рядом с шахтным входом и водопадом.
+
+TAG: Story!MRQS126_TheForgotten_Group12_StepDescription
+Откройте последнюю потерянную память забытой в Мечте, сажая и ухаживая за семенами <ActivityItem>Night Torn</ActivityItem>:
+
+TAG: Story!MRQS126_TheForgotten_Group13_Step13_Unlock01_StepDescription
+Возьмите последний <ActivityItem>Memory</ActivityItem> в Dreamscape.
+

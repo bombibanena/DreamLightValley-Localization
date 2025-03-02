@@ -1,0 +1,36 @@
+TAG: Merida_000_f
+{PlayerName}, this ink blocks the way to <Lore>the Wild Woods</Lore>.
+
+TAG: Merida_001_f
+It's a strange place, full of enchantment and shadows...
+
+TAG: Merida_002_f
+Are you going to unlock it with your <Lore>Story Magic</Lore>?
+
+TAG: Player_000_choice_000_f
+Yes, let's visit the Wild Woods. (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
+
+TAG: Player_000_choice_001_f
+No, not right now.
+
+TAG: Merida_003_f
+Good! I can't wait to explore there!
+
+TAG: Merida_004_f
+Oh no... Nothing happened? I suppose you need <Lore>more Story Magic</Lore>.
+
+TAG: Merida_005_f
+You're the only one who can reach these unreachable places, you know.
+
+TAG: Merida_006_f
+So please come back as soon as you can!
+
+TAG: Merida_007_f
+Really?
+
+TAG: Merida_008_f
+But we really should <Lore>clean up the Bind</Lore> before we get muddled up with Maleficent and Everafter.
+
+TAG: Merida_009_f
+Trust me.
+

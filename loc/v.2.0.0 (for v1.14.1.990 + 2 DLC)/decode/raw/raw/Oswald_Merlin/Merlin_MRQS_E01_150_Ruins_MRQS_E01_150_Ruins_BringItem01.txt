@@ -1,0 +1,12 @@
+TAG: Merlin_000_f
+{PlayerName}! You've succeeded yet again.
+
+TAG: Merlin_001_f
+The magic of the Spark is all around us. Now we need only harness it.
+
+TAG: Merlin_003_f
+<Lore>Follow me to the Ancient Ruins!</Lore> This will require all the power of your Hourglass.
+
+TAG: Merlin_002_f
+<Lore>Meet me on Eternity Isle!</Lore> I'll lead the way to the Ancient Ruins. We'll need all the magic in that Hourglass of yours.
+

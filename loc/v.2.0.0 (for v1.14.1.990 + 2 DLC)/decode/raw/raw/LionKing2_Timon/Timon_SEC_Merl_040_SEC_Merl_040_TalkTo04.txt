@@ -1,0 +1,39 @@
+TAG: Timon_000_f
+Hey {PlayerName}, are you all right? You look a little... perturbed? Yeah, I'm gonna go with "perturbed."
+
+TAG: Player_000_choice_000_f
+There's a bug infestation; we need your help!
+
+TAG: Player_000_choice_001_f
+So many bugs. So gross.
+
+TAG: Player_000_choice_002_f
+Evil bugs are going to start the Forgetting all OVER AGAIN!
+
+TAG: Timon_002_f
+Every meerkat has their day... And today's MY day!
+
+TAG: Timon_004_f
+These bugs... Merlin called them "Night Mites." They seem to cause some memory loss, just like the Forgetting.
+
+TAG: Timon_005_f
+Well, if you need my help to stop 'em, I'm in!
+
+TAG: Timon_006_f
+Great, I already talked to Pumbaa. He's in too!
+
+TAG: Timon_008_f
+Terrific! Let's get started!
+
+TAG: Timon_009_f
+Let's <Lore>meet in Merlin's library</Lore>.
+
+TAG: Timon_007_f
+You talk to Pumbaa. I have to prepare mentally, physically, and energetically for the greatest challenge of my LIFE.
+
+TAG: Timon_001_f
+Bugs? Where? I can help; I'm starved!
+
+TAG: Timon_003_f
+What are you talkin' about?!
+

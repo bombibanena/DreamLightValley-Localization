@@ -1,0 +1,36 @@
+TAG: Timon_000_f
+Well, Hakuna Matata to you too! But wait. You look like you've got worries.
+
+TAG: Timon_001_f
+Is that true? Do you have worries?
+
+TAG: Player_000_choice_000_f
+Just a few.
+
+TAG: Player_000_choice_001_f
+I actually have a lot of worries!
+
+TAG: Player_000_choice_002_f
+None at all!
+
+TAG: Timon_002_f
+Just a few is a few too many!
+
+TAG: Timon_003_f
+Find someplace to relax, repeat the motto to yourself, and have a beetle. It'll cure what ails ya.
+
+TAG: Timon_004_f
+We'll take care of that! Close your eyes and repeat after me:
+
+TAG: Timon_005_f
+Hakuna matata. Hakuna matata. Hakuna matata!
+
+TAG: Timon_006_f
+There! Worries gone! Have a beetle.
+
+TAG: Timon_007_f
+That's what I like to hear!
+
+TAG: Timon_008_f
+Have a beetle.
+

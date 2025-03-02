@@ -1,0 +1,93 @@
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Any_CompletedRequestDescription
+Поговори с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_AvailableDescription
+Стич хочет изучать музыку как его хобби, но не так легко начать музыкальную карьеру. Вам нужно помочь ему собрать группу.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_CompletedStoryDescription
+Стич и его группа устроили отличное шоу!
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_DisplayName
+Музыка
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group01_StepDescription
+Найдите деревенщину, которая играет идеальный инструмент, чтобы сопровождать Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group02_StepDescription
+Найдите деревенских людей, которые играют идеальные инструменты, чтобы сопровождать Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group03_Step05_TalkToCharacter10_StepDescription
+Попроси Скрудж Макдак немного музыкального оборудования.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group03_StoryDescription
+Вы собрали идеальную группу для Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_StepDescription
+Соберите материалы для <ActivityItem>Photo Backdrop</ActivityItem>:
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group04_StoryDescription
+Скрудж Макдак дает вам совет по управлению группой. Вам нужно настроить фон для фотосессии.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group05_Step07_CraftItem01_StepDescription
+Подготовить <ActivityItem>Photo Backdrop</ActivityItem>.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group06_Step08_BringItem01_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Photo Backdrop</ActivityItem>.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group06_Step08_ReadyDescription
+Возьмите <ActivityItem>Photo Backdrop</ActivityItem> на Скрудж Макдак.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group07_Step09_TalkToCharacter11_StepDescription
+Поговори с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group08_Step10_VisitArea01_StepDescription
+Приведите Стич в замок Мечты.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group09_Step11_VisitArea02_StepDescription
+Идите на третий этаж замка, где Скрудж Макдак установил фотографию.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group10_Step12_TakePicture01_StepDescription
+Сделайте 3 снимка Стич против <ActivityItem>Photo Backdrop</ActivityItem>.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group11_Step13_StepDescription
+Ваши фотографии выглядят великолепно!
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group11_Step13_TalkToCharacter12_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group11_StoryDescription
+Стич служит некоторым взглядом на фотосессию в замке Мечты.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group12_Step14_Conditional01_StepDescription
+Подождите до завтра, чтобы поговорить с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group13_Step15_TalkToCharacter13_StepDescription
+Поговори с Стич.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group14_Step16_TalkToCharacter14_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group15_Step17_Decorate01_StepDescription
+Поместите <ActivityItem>Sound Equipment</ActivityItem> на Dazzle Beach.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group15_StoryDescription
+Скрудж Макдак дает вам сценическое оборудование, чтобы помочь поставить шоу.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_Group16_Step18_Party01_StepDescription
+Присутствуйте на вечеринке с <ActivityItem>Sound Equipment</ActivityItem>.
+
+TAG: Village!LiloStitch!Stitch!VLG_Stit_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

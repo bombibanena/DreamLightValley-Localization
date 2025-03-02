@@ -1,0 +1,48 @@
+TAG: Scrooge_000_f
+{PlayerName}, you've done it! You rebuilt an <ActivityItem>Ancient Machine</ActivityItem>!
+
+TAG: Scrooge_001_f
+Eternity Isle will be runnin' itself before long!
+
+TAG: Player_000_choice_000_f
+And I'll make all the profit!
+
+TAG: Player_000_choice_001_f
+I'm just glad this will help everyone on the Isle.
+
+TAG: Scrooge_002_f
+Oh, but surely you'll toss a wee percentage my way as a finder's fee?
+
+TAG: Player_001_choice_000_f
+Of course.
+
+TAG: Player_001_choice_001_f
+No chance.
+
+TAG: Player_001_choice_002_f
+Maybe...
+
+TAG: Scrooge_003_f
+Ah, {PlayerName}, I knew ya wouldn't forget your genius business adviser.
+
+TAG: Scrooge_004_f
+And I haven't forgotten you either. Here's somethin' for your troubles.
+
+TAG: Scrooge_005_f
+While I was adventuring around the Isle, I found something that ya might find useful for makin' more of those Machines!
+
+TAG: Scrooge_006_f
+It's been a pleasure consultin' with ya. Eternity Isle is already just about takin' care of herself!
+
+TAG: Scrooge_007_f
+Fine. But my advice won't always be free, ya know.
+
+TAG: Scrooge_008_f
+Still... here: I'll toss a little somethin' your way for your trouble.
+
+TAG: Scrooge_009_f
+Ah, {PlayerName}, you're always thinkin' of everyone else. It warms my heart.
+
+TAG: Scrooge_010_f
+But you deserve some consideration, too. Here. A little somethin' for yourself.
+

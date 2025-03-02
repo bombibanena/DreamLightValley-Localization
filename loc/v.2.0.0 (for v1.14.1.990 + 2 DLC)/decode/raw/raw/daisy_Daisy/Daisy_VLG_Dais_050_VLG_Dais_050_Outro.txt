@@ -1,0 +1,33 @@
+TAG: Daisy_000_f
+How's the happy couple? Was Anna swept off her feet?
+
+TAG: Daisy_001_f
+Not exactly. Anna's a little worried by the sudden appearance of all these flowers, and Kristoff thinks you went too far.
+
+TAG: Daisy_002_f
+And what do you think, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+I agree with you.
+
+TAG: Player_000_choice_001_f
+I think both of you have a point.
+
+TAG: Player_000_choice_002_f
+I agree with Kristoff.
+
+TAG: Daisy_003_f
+This is why we get along so well. {PlayerName}, you and I have the same GRAND vision! We like to think big!
+
+TAG: Daisy_006_f
+I'm sure one day this will be a funny story we all laugh about.
+
+TAG: Daisy_007_f
+Thanks for your help, {PlayerName}!
+
+TAG: Daisy_004_f
+That's one of the many things I like about you, {PlayerName}. You always try to see both sides of things.
+
+TAG: Daisy_005_f
+Oh, well! You can't please everyone, right? You just do your best with what you have.
+

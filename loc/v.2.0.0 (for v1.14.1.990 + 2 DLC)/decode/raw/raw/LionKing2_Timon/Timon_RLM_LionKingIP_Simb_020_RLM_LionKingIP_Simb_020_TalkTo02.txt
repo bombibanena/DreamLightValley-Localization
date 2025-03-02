@@ -1,0 +1,75 @@
+TAG: Timon_000_f
+Well, look at that. You finally got your very own mane! How's it feel, kid?
+
+TAG: Player_000_choice_000_f
+I feel more relaxed already!
+
+TAG: Player_000_choice_001_f
+Kinda silly...
+
+TAG: Player_000_choice_002_f
+Like I wanna roar!
+
+TAG: Timon_001_f
+That's great!
+
+TAG: Timon_002_f
+Whatever it takes for you to let go of some of that tension.
+
+TAG: Timon_003_f
+So... was that it? Did I finish my hakuna matata lessons?
+
+TAG: Timon_004_f
+BAH! Hardly. We're just gettin' started. <Lore>Follow me</Lore>!
+
+TAG: Timon_005_f
+Hey, being silly can be very relaxing. You can't take yourself too seriously.
+
+TAG: Timon_006_f
+Take Simba â he might be king of the Pride Lands, but he's never afraid to have fun.
+
+TAG: Timon_007_f
+Well, let's hear it!
+
+TAG: Player_001_choice_000_f
+*ROAR!!!!!!!!!!!!*
+
+TAG: Player_001_choice_001_f
+Mew?
+
+TAG: Player_001_choice_002_f
+Grrrr...
+
+TAG: Timon_008_f
+Whoa!
+
+TAG: Timon_009_f
+I'm impressed. Almost as powerful as Simba's.
+
+TAG: Timon_010_f
+Ha! You sound like Simba when he was a cub.
+
+TAG: Timon_011_f
+You should ask him for lessons. He's got a GREAT roar now.
+
+TAG: Timon_012_f
+Not quite. You should ask Simba to give you a couple of lessons.
+
+TAG: Player_002_choice_000_f
+What does that mean exactly? Lessons?
+
+TAG: Player_002_choice_001_f
+I don't have time for this!
+
+TAG: Player_002_choice_002_f
+Sounds great!
+
+TAG: Timon_013_f
+Let me show you. <Lore>Follow me</Lore>!
+
+TAG: Timon_014_f
+Spoken like someone who DESPERATELY needs hakuna matata in their life. <Lore>Follow me</Lore>!
+
+TAG: Timon_015_f
+I knew you'd see it our way. Come on; <Lore>follow me</Lore>!
+

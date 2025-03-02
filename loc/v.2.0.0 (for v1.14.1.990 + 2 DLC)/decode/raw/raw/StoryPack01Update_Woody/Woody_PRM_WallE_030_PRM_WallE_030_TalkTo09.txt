@@ -1,0 +1,39 @@
+TAG: Woody_000_f
+The mission has been accomplished, and the Forest cleared of nefarious villain activity.
+
+TAG: Woody_001_f
+Phew! Thanks, {PlayerName}.
+
+TAG: Woody_002_f
+Buzz will be happy to hear that.
+
+TAG: Woody_003_f
+Does this mean you're clear to come cut a rug with the rest of us?
+
+TAG: Woody_004_f
+You betcha, partner!
+
+TAG: Woody_005_f
+Just gotta go get my party boots ready!
+
+TAG: Player_000_choice_000_f
+Polishing them up?
+
+TAG: Player_000_choice_001_f
+Making sure they contain no snakes?
+
+TAG: Woody_006_f
+Yeah. Heh-heh. That's what I meant seein' as how I've only got the one pair.
+
+TAG: Woody_007_f
+Understood.
+
+TAG: Woody_008_f
+Well, I've got to go check in with the progress.
+
+TAG: Woody_009_f
+See you in a bit, Woody!
+
+TAG: Woody_010_f
+Actually, mine don't come off, but if they did, I'd definitely do that.
+

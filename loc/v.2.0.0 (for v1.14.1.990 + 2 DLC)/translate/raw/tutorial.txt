@@ -1,0 +1,519 @@
+TAG: boardgame_02_title
+Скрамблкоин ♪ ♪ Фигрин двигается ♪
+
+TAG: boardgame_03_title
+Скрэмблкоин - коллекционирование кроватей
+
+TAG: boardgame_04_title
+Скрэмблкоин - твой поворот.
+
+TAG: boardgame_05_title
+Границы скрамблкоина
+
+TAG: boardgame_06_title
+Скрамблкоин
+
+TAG: boardgame_07_title
+Скрэмблкоин "Очки ранжирования"
+
+TAG: boardgame_08_title
+Играть с деревенским ребёнком
+
+TAG: tutorial_unlock_walle_garden
+Это твой деревенский сад.
+
+TAG: boardgame_01_subtitle_01_01
+Сначала выбери 5 фигурок для игры.
+
+TAG: boardgame_01_subtitle_01_02
+В начале игры каждый игрок выбирает <BoardgameTutorial>5 figurines</BoardgameTutorial> для передачи на доску.
+
+TAG: boardgame_01_subtitle_02_01
+У каждой фигурки разные характеристики, так что выбирай мудро!
+
+TAG: boardgame_01_subtitle_02_02
+Когда и где он может быть сыгран
+
+TAG: boardgame_01_subtitle_02_03
+Направление и расстояние движения
+
+TAG: boardgame_01_subtitle_02_04
+Диагональная
+
+TAG: boardgame_01_subtitle_02_05
+Ортогональная
+
+TAG: boardgame_01_subtitle_02_06
+Любое направление
+
+TAG: boardgame_01_subtitle_02_07
+Подробности об уникальных способностях фигуры
+
+TAG: boardgame_01_title
+Как играть в "Скрамблкоин"
+
+TAG: boardgame_02_subtitle_01_01
+У вас <BoardgameTutorial>5 поворачивает</BoardgameTutorial> чтобы собрать больше монет, чем ваш противник.
+
+TAG: boardgame_02_subtitle_01_02
+Кости собираются, как только статуэтка приземляется на плитку.
+
+TAG: boardgame_02_subtitle_02_01
+Поворот разрешен в <BoardgameTutorial>22 ступенек</BoardgameTutorial>.
+
+TAG: boardgame_02_subtitle_02_02
+Вы можете поместить одну из своих фигурок на доску:
+
+TAG: boardgame_02_subtitle_02_03
+В соответствии с пунктом въезда
+
+TAG: boardgame_02_subtitle_02_04
+На одной из твоих фигурок, чтобы заменить ее.
+
+TAG: boardgame_02_subtitle_02_05
+Перенеси все фигурки на доску.
+
+TAG: boardgame_03_subtitle_01_01
+На доске можно сразу же получить максимум <BoardgameTutorial>3 figurines</BoardgameTutorial>.
+
+TAG: boardgame_03_subtitle_02_01
+В начале каждого поворота вы можете:
+
+TAG: boardgame_03_subtitle_02_02
+Добавить рисунок <BoardgameTutorial>on сверху другого</BoardgameTutorial> в игре, чтобы заменить его.
+
+TAG: boardgame_03_subtitle_02_03
+<BoardgameTutorial>Sкип</BoardgameTutorial> помещает фигурку этот поворот
+
+TAG: boardgame_04_subtitle_01_01
+Каждый день играйте с каждым деревенским агентом, чтобы получить <BoardgameTutorial>ring очки</BoardgameTutorial> и получить <BoardgameTutorial>new figurines</BoardgameTutorial>.
+
+TAG: boardgame_04_subtitle_02_01
+Жители деревни, возможно, с удовольствием поиграют с вами в эту игру.
+
+TAG: boardgame_04_subtitle_02_02
+Это присуждает больше "Дружбы" и баллов.
+
+TAG: cooking_hint_desc1
+Если Реми выглядит расстроенным, ты собираешься сделать банальную еду!
+
+TAG: cooking_hint_desc2
+Если Реми выглядит счастливым, ты готовишь вкусную еду!
+
+TAG: cooking_hint_title
+Внимание Реми!
+
+TAG: decoration_puzzles_making_moves_text_1
+Нажмите {input_inventory} и введите меню Мебель для доступа к модулю декорации.
+
+TAG: decoration_puzzles_making_moves_text_2
+Выберите объект, уже находящийся в окружающей среде, чтобы забрать его.
+
+TAG: decoration_puzzles_making_moves_text_3
+Используйте подсказки, чтобы поместить объект в правильное место.
+
+TAG: decoration_puzzles_making_moves_title
+Делать движения — украшать музыки
+
+TAG: friend_invite_anna_desc
+Хочешь построить снеговика?
+
+TAG: friend_invite_nala_desc
+Чувствуешь любовь сегодня?
+
+TAG: friend_invite_woody_desc
+У тебя есть друг во мне!
+
+TAG: Ftue_invite_friend_title
+Выбери друга, чтобы войти в Виллидж!
+
+TAG: tutorial_press_storryfolloup_button
+Продолжайте в ВАЛЛ·Иm.
+
+TAG: tutorial_tap_on_star
+У каждого нового друга есть своя звезда.
+
+TAG: Ftue_intro_gender
+Выбери свой аватар
+
+TAG: gender_man
+Мужской
+
+TAG: gender_woman
+Женский
+
+TAG: tutorial_click_and_hold
+Нажмите и держитесь, чтобы переместить Аватар.
+
+TAG: tutorial_other_ways_step1
+Или выбери место на земле, где ты хочешь, чтобы твой Аватар поехал.
+
+TAG: tutorial_other_ways_step2
+Вы также можете использовать W, A, S, D или стрелки на клавиатуре.
+
+TAG: tutorial_other_ways_step2_or
+ИЛИ
+
+TAG: tutorial_other_ways_title
+Другие способы двигаться...
+
+TAG: tutorial_press_portrait
+Выбери свой портрет, чтобы переоценить свой Аватар.
+
+TAG: tutorial_tap_on_track
+СЛЕДУЮЩЕЕ Желание удовлетворить.
+
+TAG: tutorial_tap_to_move
+Нажмите где угодно, чтобы переместить Аватар!
+
+TAG: netactivity_01_01_title
+Поймать снайперов
+
+TAG: netactivity_01_02_title
+Использование Royal Net
+
+TAG: netactivity_01_03_title
+Поворачивающийся ход
+
+TAG: netactivity_01_subtitle_01_01
+Многих Сниппет можно найти по всей "Сказочной Долине".
+
+TAG: netactivity_01_subtitle_01_02
+Поймать их, чтобы помочь восстановить силу Лоревера.
+
+TAG: netactivity_01_subtitle_02_01
+Нажмите {input_catchsnippetmouse}{input_keyboardslash}{input_catchsnippet}, чтобы поймать Snippets перед вами!
+
+TAG: netactivity_01_subtitle_02_01_mobile
+Нажмите на сеть, чтобы поймать Сниппетса перед вами!
+
+TAG: netactivity_01_subtitle_02_02
+Держите {input_catchsnippetmouse}{input_keyboardslash}{input_catchsnippet} и отпустите для вращения и поймайте любого Snippet вокруг вас, если они не слишком высоко в воздухе!
+
+TAG: netactivity_01_subtitle_02_02_mobile
+Держите сеть, затем отпустите её, чтобы вращаться и поймать любого Сниппета вокруг вас, если они не слишком высоко в воздухе!
+
+TAG: netactivity_01_title
+Поймать снайперов
+
+TAG: netactivity_02_subtitle_01_01
+Разблокируйте истории, отдав "Лорезер Сниппетс".
+
+TAG: netactivity_02_title
+Разблокируйте истории для перезаказа.
+
+TAG: netactivity_03_subtitle_01_01
+Хватай кусочки из подноса.
+
+TAG: netactivity_03_subtitle_01_01_mobile
+Скачок и кусочки из подноса.
+
+TAG: netactivity_03_subtitle_01_02
+Повернуть их {input_rotatepuzzleright}{input_rotatepuzzleleft}{input_rotatepuzzle} и поместить в нужное место.
+
+TAG: netactivity_03_subtitle_01_02_mobile
+Поворачивайте их, проткнув кусочки и поместите их в нужное место.
+
+TAG: netactivity_03_title
+Перестройка истории - контроль
+
+TAG: catalog1_desc_step1
+Используйте вкладки Мебель, чтобы управлять Каталогом.
+
+TAG: catalog1_desc_step2
+Ищите с фильтрной панелью еще больше вариантов.
+
+TAG: catalog1_desc_step3
+Положи что-нибудь в свой дом.
+
+TAG: catalog2_desc_step1
+Задержите любой предмет в вашем доме или деревнях, чтобы войти в режим редактирования.
+
+TAG: catalog2_desc_step2
+Вы можете перемещать, добавлять и удалять элементы в режиме EDT.
+
+TAG: catalog2_desc_step3
+Выберите метку, когда закончите, чтобы сохранить изменения!
+
+TAG: designchallengeenter_desc_step1
+Вызовы дизайна доступа через меню Телефон.
+
+TAG: designchallengeenter_desc_step2
+Каждый дизайнерский вызов приходит с наградой!
+
+TAG: designchallengeenter_desc_step3
+Пользуйтесь предметами с конкретными метками вызова, чтобы набрать еще больше очков!
+
+TAG: designchallengeflow_desc_step1
+Участвуйте и заполните новые деревенские дизайны!
+
+TAG: designchallengeflow_desc_step2
+Голосуйте за дизайн других игроков.
+
+TAG: designchallengeflow_desc_step3
+Получите билеты и сердца!
+
+TAG: designchallengescore_desc_step1
+Ищите обязательные и рекомендуемые метки для включения в ваши дизайны.
+
+TAG: designchallengescore_desc_step2
+Вы должны использовать правильное количество вещей.
+
+TAG: designchallengescore_desc_step3
+Использование товаров с перечисленными тагами увеличит ваш финальный балл.
+
+TAG: designchallengetakepicture_desc_step1
+Это икона фотографии. Используйте ее, когда будете готовы сфотографироваться.
+
+TAG: enterrestaurant_desc_step1
+Положите свои ингредиенты на кухонную станцию.
+
+TAG: enterrestaurant_desc_step2
+Подожди, пока она будет готовить!
+
+TAG: enterrestaurant_desc_step3
+Проверьте новые комбинации ингредиентов, чтобы расшифровать рецепты в своей Куккниге!
+
+TAG: fishing_desc_step1
+Выбрать ручей в воде.
+
+TAG: fishing_desc_step2
+Нажмите на кнопку, когда вас просят в HOLD, остановитесь по запросу.
+
+TAG: fishing_desc_step3
+Подождите и отпустите, как указано, чтобы поймать вашу рыбу!
+
+TAG: friendshiploop_desc_step1
+Желания гранта
+
+TAG: friendshiploop_desc_step2
+Эрн Дружба XP.
+
+TAG: friendshiploop_desc_step3
+Увеличь свою дружбу, чтобы получить больше Перксов.
+
+TAG: Ftue_intro_EyeColor
+Выберите цвет глаза
+
+TAG: Ftue_intro_SkinColor
+Выберите цвет кожи
+
+TAG: Ftue_invite_friend_desc
+Выбери следующего друга, чтобы войти в Виллидж!
+
+TAG: Ftue_tutorial_ActionBlocked
+Извини, ты не можешь сделать это прямо сейчас.
+
+TAG: Ftue_tutorial_focusOnAvatar
+Выберите значок компаса, чтобы сосредоточиться на вашем Аватаре.
+
+TAG: Ftue_tutorial_gardening_harvest_hint
+Выбери свой урожай.
+
+TAG: Ftue_tutorial_gardening_select_empty
+Выберите пустое место на земле, чтобы начать сажать овощи.
+
+TAG: Ftue_tutorial_gardening_skip_hint
+Вы можете увидеть, сколько времени осталось до того, как урожай будет готов здесь.
+
+TAG: Ftue_tutorial_NewQuest
+Выбрать новый поиск
+
+TAG: Ftue_tutorial_tapToMove
+Нажмите для перемещения Аватара
+
+TAG: gardening_desc_harvest
+Перетащите корзину на жатву.
+
+TAG: gardening_desc_plant
+Перетащите овощи на пустую почву, чтобы посадить их.
+
+TAG: gardening_desc_step1
+Посади семя.
+
+TAG: gardening_desc_step2
+Напоить растение, чтобы оно росло.
+
+TAG: gardening_desc_step3
+Подожди, пока растение вырастет, и ты сможешь его выбрать!
+
+TAG: gardening_desc_water
+Оттащить палец от воды может икона на сухих капустах, чтобы полить их.
+
+TAG: intro1_desc_step1
+Что ты загадаешь?
+
+TAG: intro2_desc_step1
+Это Ваша деревня...<lw>Chooose куда идти, что сказать, и кто быть.<lw>He здесь, вы удовлетворяете желания.
+
+TAG: intro3_desc_step1
+Путешествовать через Дисней Релимс, завести новых друзей и удовлетворить свои желания.<lw>Help все живут долго и счастливо... вместе.
+
+TAG: notenoughcurrencystarcoin_desc_step1
+Пропавшие Звездные Койны?
+
+TAG: notenoughcurrencystarcoin_desc_step2
+Сад, рыба или кухня, чтобы собрать товары...
+
+TAG: notenoughcurrencystarcoin_desc_step3
+...и обменивать их на кухне Гуфи или Реми!
+
+TAG: requests1_desc_step2
+Помогите им, как любой друг!
+
+TAG: requests1_desc_step3
+Ждите больше желаний!
+
+TAG: requests2_desc_step1
+Свяжитесь с картой, чтобы получить полный обзор вашей деревни.
+
+TAG: requests2_desc_step2
+Посмотри на вещи, которые готовы собрать, и найди своих друзей.
+
+TAG: requests2_desc_step3
+Выберите что-нибудь на карте, чтобы двигаться в этом направлении!
+
+TAG: startofgame1_desc_step1
+{Placeholder}S выбрать место, чтобы переместить свой Аватар
+
+TAG: startofgame1_desc_step2
+Пинч и Драг в Зум и передвиньте камеру.
+
+TAG: startofgame1_desc_step3
+Выбери фотографию Аватара в верхней части экрана, чтобы отредактировать камеру.
+
+TAG: startofgame2_desc_step1
+Это твой дом!
+
+TAG: startofgame2_desc_step2
+Ты можешь украсить его, как захочешь!
+
+TAG: startofgame2_desc_step3
+Возьмите новые предметы и мебель из каталога!
+
+TAG: unlockcharacter_desc_step1
+Откройте новые магазины, чтобы встретить новых Диснейских персонажей.
+
+TAG: unlockcharacter_desc_step2
+Помоги своим друзьям, поговори с ними, дари им подарки или просто проведи время с ними, чтобы получить XP дружбы.
+
+TAG: unlockcharacter_desc_step3
+Поднимите уровень дружбы и пригласите их в вашу деревню.
+
+TAG: wardrobe_desc_step1
+Пользуйся таблетками для одежды, чтобы управлять Вардробом!
+
+TAG: wardrobe_desc_step2
+Ищите с фильтрной панелью еще больше вариантов.
+
+TAG: wardrobe_desc_step3
+Выберите любой предмет, чтобы его примерить!
+
+TAG: realm_teleport_hint_desc_1
+Быстрее туда, открыв свою виллидж-карту!
+
+TAG: realm_teleport_hint_desc_2
+Выберите замок Мечты, чтобы получить доступ к меню Справедливости!
+
+TAG: realm_teleport_hint_desc_3
+Выбери королевство, в которое ты хочешь телепортироваться!
+
+TAG: realm_teleport_hint_title_1
+Ты далеко от замка Мечты...
+
+TAG: realm_teleport_hint_title_2
+Телепорт в королевство!
+
+TAG: sandbox_desc_1
+Поговорите с деревенскими жителями, чтобы увеличить вашу дружбу!
+
+TAG: sandbox_desc_2
+Отдай все свое личное прикосновение, устрой дом, деревню и Аватар.
+
+TAG: sandbox_desc_3
+Вы можете продать их, чтобы заработать Star Coins.
+
+TAG: sandbox_desc_4
+Больше мероприятий ждут, чтобы их не закрыли.
+
+TAG: sandbox_title_1
+Исследуйте, пока ждёте.
+
+TAG: selling_reminder_1
+Полная деятельность в деревне.
+
+TAG: selling_reminder_2
+Приобретать ресурсы.
+
+TAG: selling_reminder_3
+Торговые ресурсы в Гуфи's Stall.
+
+TAG: selling_reminder_4
+Приобретите Звездные Койны.
+
+TAG: selling_reminder_title
+Не достаточно Звездных Койнов?
+
+TAG: transmute_desc_01_01
+Меню Upcycle позволяет вам преобразовывать вещи, которые у вас есть, в предметы с аналогичными свойствами.
+
+TAG: transmute_desc_01_02
+Вы можете создавать только предметы, которые вы обнаружили другими способами.
+
+TAG: transmute_desc_02_01
+Разобрать вещи, чтобы получить Пыль.
+
+TAG: transmute_desc_02_02
+Используйте Пыль и Мист для создания новых элементов одного типа.
+
+TAG: transmute_title
+Ускорение
+
+TAG: tutorial_start_cooking
+Выбрать Старт КУРИНГ, чтобы проверить свой реципиент!
+
+TAG: tutorial_tap_on_cauldron
+Выберите Pot, чтобы начать добавлять ингредиенты!
+
+TAG: tutorial_fishing_hold_hint
+Пригнись, когда что-то на кону.
+
+TAG: tutorial_fishing_release_hint
+Освободите линию, когда будет указано.
+
+TAG: tutorial_fishing_ripple_hint
+Выбери Риппла в воде.
+
+TAG: tutorial_wait_for_fish_to_bite
+Подожди немного!
+
+TAG: tutorial.tutorial_gardening_harvest
+Перетащите корзину над Овощами, чтобы забрать их.
+
+TAG: tutorial.tutorial_gardening_plant
+Выбери овоща и перетащи его через почву, чтобы посадить его.
+
+TAG: tutorial.tutorial_gardening_water
+Поливайте свои поля, перетащите водонапорный канистры через капусты.
+
+TAG: tutorial_gardening_select_harvestable
+Выбери овощеводимого, чтобы собрать его.
+
+TAG: tutorial_gardening_select_plantable
+Посадите свои пальцы на пустое место на земле, чтобы начать.
+
+TAG: tutorial.tutorial_highlight_gardening_stall
+Здесь можно торговать всевозможными вещами, такими, как фрукты, уголь и урожаи.
+
+TAG: tutorial.tutorial_show_garden_hint
+Это твой деревенский сад! Выбери, чтобы начать садоводство.
+
+TAG: tutorial_click_gardening_sell
+Выберите пиктограмму SELL для обмена с Гуфи.
+
+TAG: tutorial_tap_on_gardening_stall
+Теперь вы можете торговать всякими вещами на "Звездные Койны", такими, как фрукты, уголь и урожаи!
+
+TAG: tutorial_unlock_walle_stall
+Это стойка Гуфи! Выбрать её, чтобы открыть.
+

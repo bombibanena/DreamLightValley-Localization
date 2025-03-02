@@ -1,0 +1,78 @@
+TAG: JackSkellington_000_f
+{PlayerName}, would you like to join me in some screaming practice?
+
+TAG: Player_000_choice_000_f
+Let's do it!
+
+TAG: Player_000_choice_001_f
+No, thanks.
+
+TAG: Player_000_choice_002_f
+Screaming practice?!
+
+TAG: JackSkellington_001_f
+Marvelous! Now we'll start easy. A basic yelp.
+
+TAG: Player_001_choice_000_f
+Ahhhh!
+
+TAG: Player_001_choice_001_f
+Argh!
+
+TAG: Player_001_choice_002_f
+Yip!
+
+TAG: JackSkellington_002_f
+Very good! Try another yell, but longer this time.
+
+TAG: Player_002_choice_000_f
+Ahhhhhhhh!
+
+TAG: Player_002_choice_001_f
+AhhhhHHHhhHHHhhh!
+
+TAG: JackSkellington_003_f
+Now higher! A proper curdling scream!
+
+TAG: Player_003_choice_000_f
+I think I'm done, thanks.
+
+TAG: Player_003_choice_001_f
+Eeeeeeeeee!
+
+TAG: Player_003_choice_002_f
+Eiiiiiiieeee!
+
+TAG: JackSkellington_004_f
+Until next time!
+
+TAG: JackSkellington_005_f
+That sent shivers down my spine â exquisitely done!
+
+TAG: JackSkellington_006_f
+Oh, I like the ululation â a terrifying touch!
+
+TAG: JackSkellington_007_f
+Close! But that's a yip, not a yelp.
+
+TAG: JackSkellington_008_f
+Try another yell, but longer this time.
+
+TAG: JackSkellington_009_f
+All right. Perhaps you'd like to simply observe...
+
+TAG: JackSkellington_010_f
+YYYEEAAAAARRRGHHHH!
+
+TAG: JackSkellington_011_f
+Yes, even if one has no vocal chords, one must keep one's voice in prime condition for blood curdling screams.
+
+TAG: JackSkellington_012_f
+Constant practice is essential. Care to join me?
+
+TAG: Player_004_choice_000_f
+Sure!
+
+TAG: Player_004_choice_001_f
+No, thanks.
+

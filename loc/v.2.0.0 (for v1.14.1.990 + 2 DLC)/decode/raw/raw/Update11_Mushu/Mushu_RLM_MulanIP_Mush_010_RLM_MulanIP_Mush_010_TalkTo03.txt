@@ -1,0 +1,45 @@
+TAG: Mushu_005_f
+Let's take a look at you, recruit...
+
+TAG: Mushu_006_f
+Hey, that is... You know what? It's actually nice. You look great, {PlayerName}!
+
+TAG: Mushu_007_f
+Now, I hope you're ready for your next challenge because it's a doozy!
+
+TAG: Mushu_008_f
+You're gonna <Lore>prepare Mulan's breakfast</Lore>!
+
+TAG: Player_000_choice_000_f
+That's great! I love cooking!
+
+TAG: Player_000_choice_001_f
+Anything in particular?
+
+TAG: Player_000_choice_002_f
+It doesn't sound like a real challenge.
+
+TAG: Mushu_009_f
+Then you'll have lotsa fun with this!
+
+TAG: Mushu_012_f
+This breakfast is my own personal creation, designed to give you energy AND put a smile on your face.
+
+TAG: Mushu_013_f
+Here's the recipe!
+
+TAG: Mushu_014_f
+Once you've made it, just <Lore>ring the gong next to Mulan's tent</Lore>.
+
+TAG: Mushu_000_f
+That girl was flat-out exhausted after training all those recruits, so I let her sleep a little longer.
+
+TAG: Mushu_015_f
+You'll <Lore>find all the Ingredients you need in camp, over by the cauldron</Lore>. Now, get to it!
+
+TAG: Mushu_010_f
+Of course! I don't leave anything to chance.
+
+TAG: Mushu_011_f
+Okay then, mighty chef, show me what you've got!
+

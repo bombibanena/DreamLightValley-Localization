@@ -1,0 +1,48 @@
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_AvailableDescription
+Ursula needs your assistance. She's made some deals, but she has some issues collecting what is due to her. She asks you to start with Goofy.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_DisplayName
+Deal of the Day: Off the Hook
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Goofy.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_BringItem01_StepDescription
+<ActivityItem>Hardwood</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_BringItem02_StepDescription
+<ActivityItem>Tinkering Parts</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_ReadyDescription
+Bring the materials to Goofy.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_StepDescription
+Gather materials for Goofy:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group02_StoryDescription
+Goofy explains to you why he hasn't been able to bring Ursula the seaweed and algae he promised her. You decide to help him fulfill his side of the bargain and start by bringing him the materials to fix his fishing rod.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_BringItem03_StepDescription
+<ActivityItem>Seaweed</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_BringItem04_StepDescription
+<ActivityItem>Red Algae</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_ReadyDescription
+Bring the <ActivityItem>Seaweed</ActivityItem> and <ActivityItem>Red Algae</ActivityItem> to Ursula.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_StepDescription
+Gather the following for Goofy:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group03_StoryDescription
+After that, you decide to get half of the seaweed and algae he promised to Ursula and to bring it to the Sea Witch on his behalf.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

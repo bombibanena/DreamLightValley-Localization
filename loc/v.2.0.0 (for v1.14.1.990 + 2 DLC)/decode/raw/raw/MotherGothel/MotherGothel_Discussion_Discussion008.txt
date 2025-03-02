@@ -1,0 +1,60 @@
+TAG: MotherGothel_000_f
+{PlayerName}, you have my attention. Shall I give you some motherly advice?
+
+TAG: Player_000_choice_000_f
+Okay!
+
+TAG: Player_000_choice_001_f
+You're not my mother.
+
+TAG: Player_000_choice_002_f
+Your advice is kind of toxic.
+
+TAG: MotherGothel_001_f
+Oh, it's so nice to have someone appreciate my kindness!
+
+TAG: MotherGothel_006_f
+Unlike some ungrateful children who will remain unnamed.
+
+TAG: MotherGothel_007_f
+What would you like advice about, dear?
+
+TAG: Player_001_choice_000_f
+Life.
+
+TAG: Player_001_choice_001_f
+Romance.
+
+TAG: Player_001_choice_002_f
+Reasons I shouldn't leave my tower.
+
+TAG: MotherGothel_002_f
+Well, life is a race, {PlayerName}. If you're not winning, you're losing.
+
+TAG: MotherGothel_004_f
+And most people are forever losing. You must make sure you win â always.
+
+TAG: MotherGothel_010_f
+Oh, my advice about romance is simple...
+
+TAG: MotherGothel_011_f
+Don't.
+
+TAG: MotherGothel_012_f
+It's never worth it. You can only depend on yourself.
+
+TAG: MotherGothel_013_f
+I see. Now you're the one teasing me. I'll remember that.
+
+TAG: MotherGothel_003_f
+True, but I give very good advice.
+
+TAG: MotherGothel_005_f
+Toxic! Oh, I'm wounded, {PlayerName}!
+
+TAG: MotherGothel_008_f
+I come to you offering nothing but support, and you insult me.
+
+TAG: MotherGothel_009_f
+*sigh* Fine. Give me some advice.
+

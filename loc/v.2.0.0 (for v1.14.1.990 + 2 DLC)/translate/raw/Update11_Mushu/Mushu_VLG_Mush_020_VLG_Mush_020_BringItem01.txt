@@ -1,0 +1,9 @@
+TAG: Mushu_001_f
+Это то, что нам нужно, чтобы начать программу M.U.S.H.U. с Зверь.
+
+TAG: Mushu_002_f
+Теперь пришло время сделать несколько шедевров, а под шедевром я имею в виду <ActivityItem>Ink Blot Tests</ActivityItem>.
+
+TAG: Mushu_003_f
+{PlayerName}, <Lore> Открой свой и посмотри</Lore>.
+

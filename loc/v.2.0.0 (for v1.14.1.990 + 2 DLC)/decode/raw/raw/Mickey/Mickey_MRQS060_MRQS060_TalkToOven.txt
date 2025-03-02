@@ -1,0 +1,30 @@
+TAG: Mickey_000_f
+Gosh, I guess we're still missing one VERY important Ingredient...
+
+TAG: Mickey_001_f
+A <ActivityItem>Stove</ActivityItem>! You'll need one in your House before we can start cooking.
+
+TAG: Mickey_002_f
+Lucky for us, I've got an extra one!
+
+TAG: Player_000_choice_000_f
+That's handy!
+
+TAG: Player_000_choice_001_f
+Thanks! You're so generous!
+
+TAG: Player_000_choice_002_f
+That's kind of weird, Mickey.
+
+TAG: Mickey_003_f
+That's the funny thing about Dreamlight Valley. Sometimes the things you need just turn up.
+
+TAG: Mickey_006_f
+Here you go!
+
+TAG: Mickey_004_f
+Well, one thing you'll learn about Dreamlight Valley: The more you share, the more you have!
+
+TAG: Mickey_005_f
+Why? Doesn't everybody just have an extra <ActivityItem>Stove</ActivityItem> lying around?
+

@@ -1,0 +1,81 @@
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Any_CompletedRequestDescription
+Возвращайся в Реми за твои награды.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_AvailableDescription
+У Реми есть специальный заказ на доставку!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_DisplayName
+Приятного аппетита, Стич!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group01_Step01_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group01_Step01_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group01_Step01_CookMeal03_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group01_Step01_CookMeal04_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group01_Step01_CookMeal05_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group01_StepDescription
+Стич очень голоден.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group02_Step02_CookMeal06_StepDescription
+Повар <ActivityItem> Seafood Foods</ActivityItem> для Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group03_Step03_CookMeal07_StepDescription
+Повар <ActivityItem>Gingerbread Houses</ActivityItem> для Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group04_Step04_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group04_Step04_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group04_Step04_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group04_Step04_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group04_Step04_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group04_Step04_ReadyDescription
+Принесите огромную еду Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group04_Step04_StepDescription
+Получите следующее для Стич:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group05_Step05_ReadyDescription
+Принесите <ActivityItem> Seafood Foods</ActivityItem> на Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group05_Step05_StepDescription
+Возьмите <ActivityItem> Seafood Foods</ActivityItem> для Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group06_Step06_ReadyDescription
+Возьмите <ActivityItem>Gingerbread Houses</ActivityItem> на Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group06_Step06_StepDescription
+Возьмите <ActivityItem>Gingerbread Houses</ActivityItem> для Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group07_Step07_TalkToCharacter01_StepDescription
+Предупреждаю Дональд Дак, разговаривая с ним.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group07_StepDescription
+Похоже, Стич планирует еще один розыгрыш...
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group08_StepDescription
+Лучше следовать за Стич, чтобы убедиться, что он не попадет в неприятности...
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_Group09_Step09_TalkToCharacter02_StepDescription
+Свяжитесь с Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_060_Stitch_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

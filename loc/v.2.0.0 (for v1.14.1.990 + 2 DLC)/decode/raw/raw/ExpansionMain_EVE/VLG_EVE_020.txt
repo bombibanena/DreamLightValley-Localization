@@ -1,0 +1,117 @@
+TAG: Village!WallE!EVE!VLG_EVE_020_AvailableDescription
+EVE needs your assistance with a mysterious problem she caused with the plants in her secret garden. You decide to help her.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_DisplayName
+Lasers & Crafts
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group01_StepDescription
+Go to the secret garden with EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group02_Step03_RemoveBlocker01_StepDescription
+Use your Watering Can on the <ActivityItem>Fires</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group03_Step04_TalkToCharacter01_StepDescription
+Talk to EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group04_Step05_TalkToCharacter02_StepDescription
+Talk to Mirabel.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group04_StoryDescription
+EVE set the plants in the secret garden ablaze by accident. After extinguishing the fires, you decide to improve the garden and you go ask Mirabel for some inspiration.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group05_Step06_TalkToCharacter03_StepDescription
+Return to EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group05_StoryDescription
+The young Madrigal surprisingly goes above and beyond by remembering a project from before the Forgetting where there was a plan to create a Stone Canvas that EVE could then use to make a masterpiece using her laser. You go talk to EVE about it.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What am I looking for?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group06_Step07_Possess01_StepDescription
+Use your Hourglass to find the <ActivityItem>Ancient Gemstones</ActivityItem> around Ancient's Landing.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group06_StoryDescription
+The little robot is thrilled about the idea, and you go look for the Ancient Gemstones.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group07_Step08_BringItem01_StepDescription
+Make sure you have the <ActivityItem>Ancient Gemstones</ActivityItem> in your Inventory.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group07_Step08_ReadyDescription
+Bring the <ActivityItem>Ancient Gemstones</ActivityItem> to EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group07_StepDescription
+Now that you have the Ancient Gemstones, it's time to melt them.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group08_Step09_FollowCharacter02_StepDescription
+Follow EVE to a mystery location.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group08_Step09_FollowCharacter02_TalkToDescription
+Talk to EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group09_Step10_RemoveBlocker02_StepDescription
+The <ActivityItem>Fire</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group09_Step10_RemoveBlocker03_StepDescription
+The <ActivityItem>Craters</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group09_Step10_StepDescription
+Use your Royal Tools to remove:
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group09_Step11_Possess02_StepDescription
+Pick up the <ActivityItem>Melted Ancient Gemstones</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group10_Step12_TalkToCharacter04_StepDescription
+Talk to EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group11_Step13_CraftItem01_StepDescription
+Craft the <ActivityItem>Stone Canvas</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group11_StoryDescription
+With the Ancient Gemstones melted, you go to craft the Stone Canvas.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group12_Step14_BringItem02_StepDescription
+Make sure you have the <ActivityItem>Stone Canvas</ActivityItem> in your Inventory.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group12_Step14_ReadyDescription
+Bring the <ActivityItem>Stone Canvas</ActivityItem> to EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group13_Step15_FollowCharacter03_StepDescription
+Follow EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group13_Step15_FollowCharacter03_TalkToDescription
+Talk to EVE.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group13_StoryDescription
+After giving the Stone Canvas to EVE, the only thing remaining is for the little robot to create her own masterpiece.
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!WallE!EVE!VLG_EVE_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

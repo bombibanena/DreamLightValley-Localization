@@ -1,0 +1,39 @@
+TAG: Mickey_000_f
+Hiya, {PlayerName}! How can I help ya today?
+
+TAG: Mickey_002_f
+Mickey, do you remember Monster Movie Night?
+
+TAG: Mickey_003_f
+Oh boy, do I!
+
+TAG: Mickey_004_f
+Minnie used to love monster movies â especially the scary ones.
+
+TAG: Mickey_001_f
+Right before the Forgetting, I even organized a screening of one just for her.
+
+TAG: Mickey_007_f
+Uh-oh, now that I think about it... Did I forget to bring back the videotape? It was right around the time strange things started happenin' in the Valley.
+
+TAG: Mickey_008_f
+Mr. McDuck says a lot of tapes didn't get returned. Just tell me where you left it, and I'll go look for it.
+
+TAG: Mickey_009_f
+Thanks, pal! Let me think... Well, it was somewhere dark and deep on Dazzle Beach... I remember I had a screen set up there to create a scary atmosphere.
+
+TAG: Player_000_choice_000_f
+Oh, it's like a treasure hunt. I love it.
+
+TAG: Player_000_choice_001_f
+Do you remember anything else?
+
+TAG: Player_000_choice_002_f
+That's not a lot to go on.
+
+TAG: Mickey_010_f
+Well then, happy hunting, {PlayerName}!
+
+TAG: Mickey_011_f
+Maybe it was in some kinda cave on the Beach? Sorry, that's all I can remember.
+

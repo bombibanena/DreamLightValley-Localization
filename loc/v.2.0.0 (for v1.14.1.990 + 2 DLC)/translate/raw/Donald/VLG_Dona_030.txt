@@ -1,0 +1,111 @@
+TAG: Village!Mickey!Donald!VLG_Dona_030_AvailableDescription
+Дональд Дак думает, что он придумал, как открыть <ActivityItem>Time Capsule</ActivityItem> вы нашли!
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_CompletedStoryDescription
+Вы нашли запчасти для какого-то большого фонтана на плато Солнцелит, теперь Дональд Дак просто придётся придумать, как его построить.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_DisplayName
+The Forgotten Проект
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group02_OngoingRequestButton
+Что мы делали?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group02_Step12_TalkToCharacter03_StepDescription
+Поговорите с Мерлин о <ActivityItem>Time Capsule</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group02_StoryDescription
+Дональд Дак посылает вас на Мерлин чтобы узнать о таинственном <ActivityItem>Time Capsule</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess09_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess10_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_Step03_StepDescription
+Соберите ингредиенты для заклинания <ActivityItem>Odorous Magnificus</ActivityItem>:
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group03_StoryDescription
+Мерлин показывает, что <ActivityItem>Time Capsule</ActivityItem> будет открываться только для правильного запаха.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group04_OngoingRequestButton
+Куда мы пойдем?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group04_Step04_StepDescription
+Отправляйтесь на плато Санлита и найдите места, указанные в <ActivityItem>Memory</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group04_StoryDescription
+<ActivityItem>Time Capsule</ActivityItem> содержал <ActivityItem>Memory</ActivityItem>, показывающий, что Дональд Дак спрятал что-то на плато Санлита.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group05_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group05_Step05_CraftItem01_StepDescription
+Приготовьте {itemName} на станцию крафтинга.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group06_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group06_Step06_ReadyDescription
+Возьмите {itemName} на Мерлин.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group06_Step06_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group07_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group07_Step07_Unlock01_StepDescription
+Откройте <ActivityItem>Time Capsule</ActivityItem>, чтобы узнать, что внутри.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group09_Step09_TalkToCharacter01_StepDescription
+Поговори с Дональд Дак о том, что ты выяснил.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group12_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group12_Step16_Possess02_StepDescription
+Убедитесь, что у вас есть <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group12_StoryDescription
+Вы одолжите Микки Маус <ActivityItem>Dreamlight Magnifier</ActivityItem> для использования на ящиках.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group13_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group13_Step13_BringItem03_StepDescription
+Используйте <ActivityItem>Dreamlight Magnifier</ActivityItem> на <ActivityItem>Crates</ActivityItem> на плато Солнцелит.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group13_Step13_ReadyDescription
+Возьмите <ActivityItem>Crates</ActivityItem> на Дональд Дак.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group14_OngoingRequestButton
+Что теперь?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group14_Step14_StepDescription
+Поговори с Микки Маус о его владельце <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group15_OngoingRequestButton
+Что нам теперь делать?
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group15_Step15_TalkToCharacter06_StepDescription
+Поговорите с Дональд Дак о таинственном <ActivityItem>Wooden Crates</ActivityItem>.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_Group15_StoryDescription
+Вы нашли кучу штук <ActivityItem>Wooden Crates</ActivityItem>, захороненных на плато Санлит, но они застряли между мирами здесь и здесь. Вам понадобится какой-то способ, чтобы вытащить их оттуда.
+
+TAG: Village!Mickey!Donald!VLG_Dona_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

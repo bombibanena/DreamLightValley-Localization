@@ -1,0 +1,15 @@
+TAG: Remy_001_f
+Have you been able to help Vanellope yet?
+
+TAG: Remy_002_f
+Remember: I want to serve her some of the finest <ActivityItem>Vegetable Meals</ActivityItem> we have in the Valley to convince her they can taste good.
+
+TAG: Remy_003_f
+Wow! Looks like you've already made everything. Now you just have to deliver it.
+
+TAG: Remy_004_f
+She's discovered spicy food and wants some <ActivityItem>Spicy Baked Bream</ActivityItem>, <ActivityItem>Chili Pepper Puffs</ActivityItem>, and <ActivityItem>Lemon Garlic Swordfish</ActivityItem>.
+
+TAG: Remy_005_f
+She wants various <ActivityItem>Boba Teas</ActivityItem>. She said something about it being able to give her power-ups...?
+

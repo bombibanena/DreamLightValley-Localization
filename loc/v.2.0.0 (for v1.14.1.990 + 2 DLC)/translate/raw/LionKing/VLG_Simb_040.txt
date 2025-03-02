@@ -1,0 +1,30 @@
+TAG: Village!LionKing!VLG_Simb_040_Any_CompletedRequestDescription
+Поговори с Симба.
+
+TAG: Village!LionKing!VLG_Simb_040_AvailableDescription
+Симба помнит, что вокруг Долины было больше Древней Мечты. Он думает, что более тщательный анализ фруктов может помочь ему вспомнить больше, но он не может его получить, не сломав его лапами. Он просит тебя купить немного для него.
+
+TAG: Village!LionKing!VLG_Simb_040_Group04_Step04_Possess02_StepDescription
+<ActivityItem>Vitalis Chrystals</ActivityItem>.
+
+TAG: Village!LionKing!VLG_Simb_040_Group05_Step05_CraftItem01_StepDescription
+Подготовьте {itemName}.
+
+TAG: Village!LionKing!VLG_Simb_040_Group06_Step06_ConsumeItem01_StepDescription
+Используйте {itemName} в вашем списке.
+
+TAG: Village!LionKing!VLG_Simb_040_Group08_Step08_TalkToCharacter02_StepDescription
+Поговори с Симба.
+
+TAG: Village!LionKing!VLG_Simb_040_Group09_Step09_Listen01_StepDescription
+Слушайте Симба и Нала.
+
+TAG: Village!LionKing!VLG_Simb_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!LionKing!VLG_Simb_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!LionKing!VLG_Simb_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

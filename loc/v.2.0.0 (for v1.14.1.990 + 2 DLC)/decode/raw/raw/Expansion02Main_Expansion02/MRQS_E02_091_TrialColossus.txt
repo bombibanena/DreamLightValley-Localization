@@ -1,0 +1,84 @@
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Any_CompletedRequestDescription
+Return to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_AvailableDescription
+{PlayerName} uncovered another gateway to a Mythic Trial, this one beneath a great statue of Hades. What mysteries would {PlayerName} find inside?
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_CompletedStoryDescription
+{PlayerName} navigated the bridges inside the Mythic Trial and dealt with the source of the corruption deep within.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_DisplayName
+Losing Your Marbles
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group01_Step01_VisitArea01_StepDescription
+Enter the <ActivityItem>Mythic Trial</ActivityItem> beneath the statue of Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group02_Step02_TalkToCharacter01_StepDescription
+Find Hades and speak with him.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group03_Step03_Conditional01_StepDescription
+Pull the lever to lower the drawbridge.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_StepDescription
+Whoops... That didn't work so well...
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_StoryDescription
+Hades revealed that {PlayerName} would need to complete a task of Herculean proportions: push a bunch of rocks around for him. (Okay, perhaps it was not as mythic as Hades made it sound.)
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group05_Step05_Conditional02_StepDescription
+Find a way to hold up the drawbridge.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group07_Step07_Conditional03_StepDescription
+Try pulling the lever again.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group08_Step08_FollowCharacter01_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group08_Step08_FollowCharacter01_TalkToDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group10_Step10_Conditional04_StepDescription
+Turn the rotating platform.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group11_Step11_Interaction01_StepDescription
+Interact with the source of the corruption inside the first Mythic Trial.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group12_Step12_StepDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group12_Step12_TalkToCharacter05_StepDescription
+Uh-oh. The platform spins all the way around with nothing to stop it...
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group13_Step13_Conditional06_StepDescription
+Find a way to block the rotation of the bridge.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group15_Step15_FollowCharacter02_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group17_Step17_Conditional05_StepDescription
+Turn the rotating platform.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_Step18_FollowCharacter03_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_Step18_FollowCharacter03_TalkToDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_StoryDescription
+{PlayerName} soon discovered the task would be easier handed down than carried out. There were many obstacles in the way of exploring the Mythic Trial.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group19_Step19_FollowCharacter04_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group19_Step19_FollowCharacter04_TalkToDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group20_Step20_VisitArea03_StepDescription
+Explore deeper in the Mythic Trial.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group21_Step21_Conditional07_StepDescription
+Push the cart.
+

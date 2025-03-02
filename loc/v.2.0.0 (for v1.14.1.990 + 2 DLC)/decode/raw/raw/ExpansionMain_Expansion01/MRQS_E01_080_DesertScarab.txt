@@ -1,0 +1,87 @@
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Any_CompletedRequestDescription
+Check on Gaston and "LeFou."
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_AvailableDescription
+Jafar mentioned someone in the Glittering Dunes could help you out.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_CompletedStoryDescription
+The mystery of Coconut LeFou has been solved and the missing Scarab piece located... but how is Gaston dealing with this revelation?
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_DisplayName
+The Wanderer of the Dunes
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem01_StepDescription
+Green Spiky-Leafed Plant?
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem02_StepDescription
+Flexing Spider-like Thing?
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem03_StepDescription
+Sweet Brown Raisin Things?
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_ReadyDescription
+Bring Gaston the food he requested.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_StepDescription
+Gaston is clearly dehydrated. Find what he's looking for around the <ActivityItem>Glittering Dunes</ActivityItem>:
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group01_StoryDescription
+Jafar sent you to find Gaston in the desert, but when you arrived he was trapped, starving and dehydrated!
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group02_Step02_FollowCharacter01_StepDescription
+Follow Gaston to his encampment.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group02_Step02_FollowCharacter01_TalkToDescription
+Talk to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group03_Step03_StepDescription
+Look around the camp for <ActivityItem>clues</ActivityItem> to the vault key's whereabouts.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem04_StepDescription
+Paint.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem05_StepDescription
+Glue.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem06_StepDescription
+Coconut Husks.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_ReadyDescription
+Show Gaston what you found.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_StepDescription
+Make sure your Inventory includes:
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group05_Step05_Unlock01_StepDescription
+(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group05_StepDescription
+Unlock access to the <ActivityItem>Wastes</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group05_StoryDescription
+While searching the capital of Gastonia, you've managed to find what looks like an arts and crafts kit! Who does it belong to? Why is it near Gaston's camp?
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group06_Step06_FollowCharacter02_StepDescription
+Meet up with Gaston at his <ActivityItem>Shipwreck</ActivityItem> in the Wastes.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group06_Step06_FollowCharacter02_TalkToDescription
+Talk to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group07_Step07_BringItem07_StepDescription
+Search for the vault key in the <Lore>Wastes</Lore> â maybe it fell in the quicksand.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group07_Step07_ReadyDescription
+You found a LeFou... made of coconuts? Ask Gaston about your disturbing discovery.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group08_Step08_Possess04_StepDescription
+Search for the <ActivityItem>Desert Scarab Piece</ActivityItem> in the Plains using the Hourglass.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group08_StoryDescription
+Your search for the vault key has only turned up a LeFou made of coconuts. Gaston must have gotten quite lonely! The Scarab piece still remains missing and must be somewhere in the Dunes...
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_Group09_Step09_TalkToCharacter01_StepDescription
+Talk to Jafar at a Hologram Station.
+
+TAG: Story!Expansion01!MRQS_E01_080_DesertScarab_StartRequestButton
+START REQUEST
+

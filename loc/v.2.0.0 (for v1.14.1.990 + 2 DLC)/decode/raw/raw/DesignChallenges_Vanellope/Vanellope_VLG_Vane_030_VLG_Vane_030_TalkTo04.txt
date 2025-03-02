@@ -1,0 +1,63 @@
+TAG: Vanellope_000_f
+Hey, so I didn't get any cool power-ups... Turns out the Tree Witch was a total dud.
+
+TAG: Player_000_choice_000_f
+I'm so stressed for you right now.
+
+TAG: Player_000_choice_001_f
+Seems like a good time to end this...
+
+TAG: Player_000_choice_002_f
+She walked away? That means you won!
+
+TAG: Vanellope_001_f
+Pff, don't worry. I've been to the Internet and played games there. I've finished tutorials more dangerous than some cranky swamp lady. Besides...
+
+TAG: Vanellope_002_f
+You have your Pixel Sword, and we have the experience. I think we're ready to take on the Final Boss... Scar!
+
+TAG: Vanellope_003_f
+Scar? What makes Scar the final boss?
+
+TAG: Vanellope_004_f
+Uh, his lair is a GINORMOUS SKULL. Duh!
+
+TAG: Player_001_choice_000_f
+Actually, this sounds fun! I'm in!
+
+TAG: Player_001_choice_001_f
+I'm not ready to enter the actual lion's den...
+
+TAG: Player_001_choice_002_f
+You know Scar is always hungry, right?
+
+TAG: Vanellope_005_f
+Woo-hoo! Game on, {PlayerName}!
+
+TAG: Vanellope_006_f
+Here's what I'm thinking... We make a lure to bring him into his lair... and then we attack.
+
+TAG: Vanellope_007_f
+I've been playing a LOT of Extreme Fishing lately. So I know we'll need <ActivityItem>Herring</ActivityItem> for the trap because they're super stinky! Perfect for a scent lure!
+
+TAG: Vanellope_008_f
+We'll also need a <ActivityItem>Kingfish</ActivityItem> to catch a wannabe king! Pretty sure you can find those on Dazzle Beach late at night.
+
+TAG: Vanellope_009_f
+And... uh... some <ActivityItem>Softwood</ActivityItem> and <ActivityItem>Fiber</ActivityItem> to put the whole thing together.
+
+TAG: Vanellope_010_f
+<Lore>Build the Scar Lure and place it near his den.</Lore> Then, pow! Final Boss time!
+
+TAG: Vanellope_011_f
+Sure you are! We just need a good plan...
+
+TAG: Vanellope_012_f
+So am I! For victory!
+
+TAG: Vanellope_013_f
+No way! We're just getting to the good part. The FINAL BOSS!
+
+TAG: Vanellope_014_f
+Kind of a hollow victory against an unthreatening swamp lady. Anyway...
+

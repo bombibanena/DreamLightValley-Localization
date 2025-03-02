@@ -1,0 +1,33 @@
+TAG: Oswald_000_f
+Hey Oswald, you hanging in there?
+
+TAG: Oswald_009_f
+Great! I need you to speak with the other Villagers and try to find someone who can be an impartial judge.
+
+TAG: Oswald_010_f
+Oof, that might be tough, {PlayerName}. But I'll do my best! I'd be the judge, but things are always black and white with me. Oh-hoo-hoo! Ya get it?
+
+TAG: Oswald_001_f
+Aw, I'm feeling peachy! Thanks to you o' course, chum!
+
+TAG: Oswald_002_f
+That's good to hear!
+
+TAG: Oswald_003_f
+I'm interviewing Villagers about their experiences with Jafar and getting a trial together.
+
+TAG: Oswald_004_f
+How do you feel about the situation, now that you've had a chance to let things settle?
+
+TAG: Oswald_005_f
+A trial, huh? That'd be swell!
+
+TAG: Oswald_006_f
+I still mean what I said about givin' Jafar a chance, but the ol' grapevine says that he's been pretty rotten since then.
+
+TAG: Oswald_007_f
+Yeah, enough is enough. Would you want to give me a hand with the trial prep?
+
+TAG: Oswald_008_f
+Absopositively!
+

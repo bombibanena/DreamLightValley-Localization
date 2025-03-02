@@ -1,0 +1,57 @@
+TAG: Belle_000_f
+Hello, {PlayerName}. I wanted to tell you how much I'm enjoying my time here. I've made so many new friends!
+
+TAG: Belle_001_f
+Especially Minnie. She loves books as much as I do.
+
+TAG: Player_000_choice_000_f
+That's good to hear!
+
+TAG: Player_000_choice_001_f
+How did you two meet?
+
+TAG: Player_000_choice_002_f
+That must be a surprise!
+
+TAG: Belle_002_f
+It's nice to have friends with similar interests.
+
+TAG: Belle_003_f
+Minnie has books about the most unusual subjects.
+
+TAG: Belle_004_f
+Yesterday she was reading all about steamboats.
+
+TAG: Belle_005_f
+Papa's log-cutting machine runs on steam. I imagine they're similar, don't you think?
+
+TAG: Player_001_choice_000_f
+You should ask!
+
+TAG: Player_001_choice_001_f
+No idea...
+
+TAG: Player_001_choice_002_f
+Yes. It's a boat that runs on steam.
+
+TAG: Belle_006_f
+I will. We always enjoy discussing what we're reading.
+
+TAG: Belle_007_f
+Well, then maybe we can both learn.
+
+TAG: Belle_008_f
+Wouldn't it be wonderful to take a trip on one?! I'll have to ask Minnie if she's ever done that.
+
+TAG: Belle_009_f
+We were both visiting Merlin to borrow books.
+
+TAG: Belle_010_f
+So we ended up just trading books instead!
+
+TAG: Belle_011_f
+It's wonderful!
+
+TAG: Belle_012_f
+I'm used to having only Papa and the Bookseller to talk to about literature.
+

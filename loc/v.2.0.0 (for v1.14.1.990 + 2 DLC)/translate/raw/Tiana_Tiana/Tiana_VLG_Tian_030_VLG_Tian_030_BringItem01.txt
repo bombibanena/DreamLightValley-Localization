@@ -1,0 +1,21 @@
+TAG: Tiana_000_f
+Здесь все Ингредиенты!
+
+TAG: Tiana_002_f
+Замечательно! Мы почти готовы к еде. Ты голоден, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+Ну, теперь да!
+
+TAG: Player_000_choice_001_f
+Рейвен.
+
+TAG: Player_000_choice_002_f
+Чувствуя запах специй, которые ты вытащил.
+
+TAG: Tiana_003_f
+Потом все вместе будут работать над тем, чтобы сделать <ActivityItem> Seafood Boil</ActivityItem>.
+
+TAG: Tiana_001_f
+Попробуй, {PlayerName}!
+

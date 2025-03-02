@@ -1,0 +1,105 @@
+TAG: Mickey_000_f
+Gosh, {PlayerName}, things around the Village aren't looking so good.
+
+TAG: Mickey_005_f
+Those cracks in the sky are pretty scary. Is there anything I can do to help?
+
+TAG: Mickey_006_f
+Maybe you can. Does this look familiar?
+
+TAG: Mickey_007_f
+A book of fairy tales? You betcha. That's been in my House for just about as long as I can remember.
+
+TAG: Mickey_008_f
+We think it once belonged to the Forgotten. Do you know the story behind it?
+
+TAG: Mickey_001_f
+It's funny. Now that you show it to me... I'm remembering everything!
+
+TAG: Mickey_016_f
+When you were just a little kid, we read this together.
+
+TAG: Mickey_017_f
+At first, I'd read it to you. And then one day, all of a sudden, you were old enough to read it to me!
+
+TAG: Mickey_018_f
+Oh, and sometimes, we'd just make up our own stories to go along with the pictures.
+
+TAG: Mickey_019_f
+I wish I could remember this...
+
+TAG: Mickey_020_f
+It's a pretty special book. Lots of stories about brave heroics and evil villains. And everything comes out right just in time for the "happily ever after."
+
+TAG: Player_002_choice_000_f
+Maybe we can read it together again someday.
+
+TAG: Player_002_choice_001_f
+I wish things were really that simple.
+
+TAG: Player_002_choice_002_f
+Sounds kind of boring. Needs some more action.
+
+TAG: Mickey_021_f
+Aw, I'd love that! We haven't read together since... since...
+
+TAG: Mickey_024_f
+Hey, now that I think about it, the last time we read this together was right before the Forgetting.
+
+TAG: Mickey_026_f
+... But... gosh, that wasn't really you, was it? It was the Forgotten.
+
+TAG: Mickey_027_f
+They... they left the book with me. They seemed pretty mad.
+
+TAG: Mickey_028_f
+But I think deep down, they were really sad about something.
+
+TAG: Mickey_029_f
+Gee, I hope you can help the Forgotten out.
+
+TAG: Mickey_030_f
+Mickey, the storybook... the magic coming off of it is stronger than ever.
+
+TAG: Mickey_031_f
+You've done a lot to help. Now I'll do my part to try to save the Forgotten.
+
+TAG: Mickey_022_f
+Welp, I guess if life was always easy, we wouldn't need stories, would we?
+
+TAG: Mickey_025_f
+But hey, now that I think about it, that's just what you said to me the last time we read this book together. Right before the Forgetting.
+
+TAG: Mickey_023_f
+Oh, don't worry. There's lots of action. There's even a story where a hero pulls a sword out of a stone!
+
+TAG: Mickey_002_f
+Hmm... I know there's gotta be some kinda story behind it.
+
+TAG: Mickey_009_f
+But after the Forgetting, welp... I just can't remember much.
+
+TAG: Mickey_010_f
+Huh... ya know what? It's kind of funny. It seems like the more time I spend with you...
+
+TAG: Mickey_011_f
+...the more I remember!
+
+TAG: Player_000_choice_000_f
+So our friendship... it could help restore those lost memories?
+
+TAG: Player_000_choice_002_f
+Is this your way of asking me to hang out more often?
+
+TAG: Mickey_012_f
+I think so. I just know that memory's in me somewhere...
+
+TAG: Mickey_015_f
+No problem. A little bonding time for {PlayerName} and Mickey should unlock those memories!
+
+TAG: Mickey_013_f
+Ha-ha! That wouldn't be so bad, would it?
+
+TAG: Mickey_014_f
+I just know that memory's in me somewhere. We just gotta get to it.
+

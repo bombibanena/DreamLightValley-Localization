@@ -1,0 +1,81 @@
+TAG: EVE_000_f
+Directive?!
+
+TAG: EVE_002_f
+Whoa, there!
+
+TAG: EVE_003_f
+Directive! Directive!
+
+TAG: Player_001_choice_000_f
+I come in peace!
+
+TAG: Player_001_choice_002_f
+I just need that Hourglass behind you...
+
+TAG: EVE_005_f
+Hmmm?
+
+TAG: EVE_014_f
+Name?
+
+TAG: Player_000_f
+I'm {PlayerName} and...
+
+TAG: Player_000_choice_000_f
+...you must be EVE?
+
+TAG: Player_000_choice_001_f
+...it's a pleasure to meet you.
+
+TAG: Player_000_choice_002_f
+...I command you to give me that Hourglass!
+
+TAG: EVE_015_f
+*gasp*
+
+TAG: EVE_019_f
+I know your friend, WALLÂ·E!
+
+TAG: EVE_009_f
+NO!
+
+TAG: EVE_010_f
+Okay, let's not make the robot with the laser canon angry. I'm going to slowly back away...
+
+TAG: EVE_027_f
+Maybe <Lore>Jafar knows what to do</Lore>.
+
+TAG: EVE_021_f
+*gasp* WALLÂ·E?!
+
+TAG: EVE_023_f
+Hmm...
+
+TAG: EVE_024_f
+No!
+
+TAG: EVE_025_f
+I promise I'm not trying to trick you!
+
+TAG: EVE_026_f
+I just really need that Hourglass toâ
+
+TAG: EVE_007_f
+Classified!
+
+TAG: EVE_008_f
+But it's the only way I can...
+
+TAG: EVE_016_f
+Oh...
+
+TAG: EVE_017_f
+Huh?!
+
+TAG: EVE_018_f
+No!
+
+TAG: EVE_012_f
+No! Classified.
+

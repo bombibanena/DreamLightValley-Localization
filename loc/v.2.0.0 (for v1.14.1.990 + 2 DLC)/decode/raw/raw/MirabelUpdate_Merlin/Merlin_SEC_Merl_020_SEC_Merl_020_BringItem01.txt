@@ -1,0 +1,126 @@
+TAG: Merlin_000_f
+How marvelous! A <ActivityItem>Golden Doorknob</ActivityItem> with an M engraved in it!
+
+TAG: Merlin_001_f
+Now, this may not look like much, {PlayerName}, but it's proof your efforts against the Forgetting are bearing fruit.
+
+TAG: Player_000_f
+I found this lying around the Village...
+
+TAG: Player_000_choice_000_f
+Someone must be locked outside their home.
+
+TAG: Player_000_choice_001_f
+Who does it belong to?
+
+TAG: Player_000_choice_002_f
+I thought the local expert on weirdness might know what it is...
+
+TAG: Merlin_002_f
+Oh, no, no. Not to worry, {PlayerName}. This <ActivityItem>Golden Doorknob</ActivityItem> belongs to a charming lass named Mirabel Madrigal.
+
+TAG: Merlin_003_f
+You wanted her to feel at home. So, with my help, you enchanted her House to remind her of where she's from.
+
+TAG: Player_001_choice_000_f
+I'm ready to do whatever it takes.
+
+TAG: Player_001_choice_001_f
+How do you prove that to a House?
+
+TAG: Player_001_choice_002_f
+So even the buildings are judging me now...
+
+TAG: Merlin_004_f
+The enchantment gave the building the power to reflect Mirabel's kindness and energy. But even so...
+
+TAG: Merlin_005_f
+We never expected Mini-Casita to become quite so magical and so protective of its inhabitant.
+
+TAG: Merlin_006_f
+What do you mean?
+
+TAG: Merlin_007_f
+When the Forgetting struck, Mirabel, like many of us, started to lose her memories. Then, one morning, her House wasn't there anymore...
+
+TAG: Merlin_008_f
+I quickly went to investigate, and what I discovered astonished me.
+
+TAG: Merlin_009_f
+To protect Mirabel, her home disappeared into a small universe of its own.
+
+TAG: Merlin_010_f
+Finding this <ActivityItem>Golden Doorknob</ActivityItem> can only mean one thing. Mini-Casita is considering coming back.
+
+TAG: Merlin_011_f
+But first, you'll need to prove to it that the Valley is safe once again.
+
+TAG: Merlin_012_f
+Marvelous!
+
+TAG: Merlin_035_f
+After all, everyone appreciates being thought of.
+
+TAG: Merlin_022_f
+The more acts of kindness you perform, the more magic the <ActivityItem>Golden Doorknob</ActivityItem> will gain. Once it has enough, Mini-Casita will return.
+
+TAG: Merlin_023_f
+I'll give this a trial run. I'll talk to you once I'm done.
+
+TAG: Merlin_013_f
+Now, houses believe in deeds, not words. And houses often come to resemble their inhabitants.
+
+TAG: Merlin_014_f
+To prove the Valley's safe for Mirabel, you'll have to embody the Madrigals' values.
+
+TAG: Merlin_015_f
+What are the Madrigals' values?
+
+TAG: Merlin_016_f
+Well, I'm told they always believe in bringing their village together to help the community.
+
+TAG: Merlin_017_f
+And I remember Mirabel checking in on everyone here to ensure their needs were fulfilled. Oh, and she also became quite fond of photographs, if that helps.
+
+TAG: Merlin_018_f
+Hmmm... I could take some pictures of Villagers.
+
+TAG: Merlin_019_f
+As for making sure everyone's needs are fulfilled... I could check what the Villagers need and give them some gifts.
+
+TAG: Merlin_020_f
+Fine ideas indeed, {PlayerName}. Why, simply engaging some of the Villagers in conversation might be enough.
+
+TAG: Merlin_024_f
+Not to worry. You'll find it's rather simple.
+
+TAG: Merlin_025_f
+Oh. Heh-heh-heh, uh, well. Most magical things have opinions...
+
+TAG: Merlin_026_f
+Houses.
+
+TAG: Merlin_027_f
+Swords.
+
+TAG: Merlin_028_f
+Sugar bowls...
+
+TAG: Merlin_029_f
+Sounds like there's a story there.
+
+TAG: Merlin_030_f
+Some other time, perhaps. We must focus on bringing Mirabel back to the Valley.
+
+TAG: Merlin_031_f
+The Old Ruler wanted her to feel at home. So, with my help, they enchanted her House to remind her of where she's from.
+
+TAG: Merlin_032_f
+Why, this belongs to a charming young lass named Mirabel Madrigal.
+
+TAG: Merlin_033_f
+Heh. "Expert on weirdness." That's not a title I've ever heard before, but it does have a sort of ring to it, doesn't it?
+
+TAG: Merlin_034_f
+Now then, this <ActivityItem>Golden Doorknob</ActivityItem> belongs to a charming young lass named Mirabel Madrigal.
+

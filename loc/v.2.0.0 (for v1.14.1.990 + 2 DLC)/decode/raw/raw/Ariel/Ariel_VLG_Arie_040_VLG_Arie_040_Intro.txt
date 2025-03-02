@@ -1,0 +1,48 @@
+TAG: Ariel_000_f
+{PlayerName}, I just discovered the strangest thing while I was swimming around the island. Do you have some time to help me figure out what it is?
+
+TAG: Player_000_choice_000_f
+Sure. Tell me more.
+
+TAG: Player_000_choice_001_f
+I'll investigate this later.
+
+TAG: Ariel_004_f
+Well, I was swimming in the Mystical Cave by Dazzle Beach when I found a <Lore>mysterious door</Lore>! There were all sorts of neat carvings around it.
+
+TAG: Ariel_001_f
+I couldn't figure out how to open the door, but there were scratches on the side... like someone else had tried to get in.
+
+TAG: Ariel_002_f
+Hmm... a mysterious door covered in carvings? I wonder what's inside...
+
+TAG: Player_000_choice_003_f
+Untold riches?
+
+TAG: Player_000_choice_005_f
+Powerful magic?
+
+TAG: Player_000_choice_006_f
+Something that can help the Village?
+
+TAG: Ariel_003_f
+Hmm... I think if there were riches in there, Mr. McDuck would have already knocked the door down.
+
+TAG: Ariel_008_f
+Oh! One more thing. I almost forgot. I found something else down there too.
+
+TAG: Ariel_009_f
+It's a <ActivityItem>Stone Slab</ActivityItem>. It's got carvings on it just like the ones around the door. Maybe Merlin would know what it all means?
+
+TAG: Ariel_010_f
+Thanks, Ariel. I'll talk to Merlin.
+
+TAG: Ariel_006_f
+Hmm... If there was any magic behind that door, I think Ursula would have already made sure she could control it.
+
+TAG: Ariel_007_f
+I hope so! We definitely don't need any more trouble here.
+
+TAG: Ariel_005_f
+All right. I'll be here whenever you're ready.
+

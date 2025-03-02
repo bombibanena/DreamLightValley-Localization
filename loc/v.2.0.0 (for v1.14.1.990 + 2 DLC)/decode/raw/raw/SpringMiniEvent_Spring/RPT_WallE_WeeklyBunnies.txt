@@ -1,0 +1,24 @@
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Any_CompletedRequestDescription
+Talk to WALLÂ·E.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_AvailableDescription
+Bunnies are on the run! Catch them and bring them back to WALLÂ·E.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_DisplayName
+Bunnies on the Run
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do today?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_StepDescription
+Catch the Bunnies running around in the Plaza.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do today?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_StepDescription
+Bring the Runaway Bunnies to WALLÂ·E.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Weekly Quest
+

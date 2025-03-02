@@ -1,0 +1,33 @@
+TAG: Ariel_000_f
+It's amazing! I love how there's always something new to discover.
+
+TAG: Ariel_001_f
+Every time I go to a different part of the Village, I see something I haven't seen before.
+
+TAG: Ariel_002_f
+A chest. A piece of paper on the ground. A patch of soil that's hiding some secret...
+
+TAG: Player_000_choice_000_f
+I know! Every day's an adventure.
+
+TAG: Player_000_choice_001_f
+Yeah, but what makes them appear?
+
+TAG: Player_000_choice_002_f
+What?! I've never noticed!
+
+TAG: Ariel_003_f
+I wonder what we'll each find today.
+
+TAG: Ariel_004_f
+Well, if I had to guess...
+
+TAG: Ariel_006_f
+I'd say it's your magic.
+
+TAG: Ariel_005_f
+Oh, {PlayerName}, you have to explore the Valley more!
+
+TAG: Ariel_007_f
+There are so many things to discover and secrets to uncover. It's really fun. You'll see.
+

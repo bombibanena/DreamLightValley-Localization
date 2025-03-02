@@ -1,0 +1,6 @@
+TAG: Mickey_000_f
+Well, we'll need some <ActivityItem>Apples</ActivityItem> and <ActivityItem>Wheat</ActivityItem> to make a <ActivityItem>Fruit Salad</ActivityItem> and some <ActivityItem>Crackers</ActivityItem>.
+
+TAG: Mickey_001_f
+We can do that at your House when you're ready!
+

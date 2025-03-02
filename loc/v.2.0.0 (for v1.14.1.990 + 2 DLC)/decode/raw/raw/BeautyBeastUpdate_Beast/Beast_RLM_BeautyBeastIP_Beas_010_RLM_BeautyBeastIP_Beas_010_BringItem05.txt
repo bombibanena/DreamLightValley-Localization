@@ -1,0 +1,39 @@
+TAG: Beast_000_f
+A note from Belle?
+
+TAG: Beast_001_f
+It says she's very happy in the Valley... and she wants me to join her.
+
+TAG: Beast_002_f
+Hmm...
+
+TAG: Player_000_choice_000_f
+Don't doubt yourself now!
+
+TAG: Player_000_choice_001_f
+You'll fit right in there.
+
+TAG: Player_000_choice_002_f
+Don't be scared!
+
+TAG: Beast_004_f
+Belle really wants to explore with you.
+
+TAG: Beast_007_f
+And you'll be there too?
+
+TAG: Beast_008_f
+Of course. Whenever you need me.
+
+TAG: Beast_009_f
+All right. Show me. I'm ready.
+
+TAG: Beast_003_f
+Everyone in the Village is a little different â that's why it's special!
+
+TAG: Beast_005_f
+I'm not scared. I'm... cautious.
+
+TAG: Beast_006_f
+Belle will be there to help you get used to everything.
+

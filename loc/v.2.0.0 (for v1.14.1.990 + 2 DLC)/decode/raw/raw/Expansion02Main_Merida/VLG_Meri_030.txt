@@ -1,0 +1,93 @@
+TAG: Village!Brave!Merida!VLG_Meri_030_AvailableDescription
+After talking to Merida, {PlayerName} learned of a villainous plot by the Lord of the Underworld. Hades sought to steal an artifact connected to Clan DunBroch, an artifact that Hades believed allowed one to "change their fate."
+
+TAG: Village!Brave!Merida!VLG_Meri_030_DisplayName
+Change Your Fate
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group01_Step01_VisitArea01_StepDescription
+Enter Merida's cottage.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group02_Step02_Interaction01_StepDescription
+Search Merida's cottage for clues.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group03_Step03_Unlock01_StepDescription
+Pick up the Memory that appeared in Merida's cottage.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group04_Step04_TalkToCharacter01_StepDescription
+Talk to Merida.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group05_Step05_StepDescription
+Find Merida's best friend â <Lore>a fierce warrior who's good with a bo staff</Lore>.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group06_Step06_VisitArea02_StepDescription
+Search for the next clue under the wing of "a giant flying horse."
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group07_Step07_TakePicture01_StepDescription
+Take a picture of it.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group07_StepDescription
+There's something tucked under the flying horse statue's wing...
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group08_Step08_TalkToCharacter05_StepDescription
+Show the picture to {TargetNPC} in the Storybook Vale.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group09_Step09_FollowCharacter01_StepDescription
+Follow Merida to the giant horse statue in Mythopia.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group09_Step09_FollowCharacter01_TalkToDescription
+Talk to Merida.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group10_Step10_Unlock02_StepDescription
+Pick up the Memory near the giant horse statue.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group11_Step11_TalkToCharacter06_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group12_StepDescription
+Search for the next clue "where the Wolf drinks spilled tea."
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group13_Step13_Unlock03_StepDescription
+Pick up the clue along the river.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group14_Step14_TalkToCharacter07_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group15_Step15_StepDescription
+Search for the next clue in the Library of Lore.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group15_Step15_VisitArea04_StepDescription
+The last clue said something about "finding one's place in the world"...
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group16_Step16_Unlock04_StepDescription
+Pick up the clue beside the globe in the Library of Lore.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group17_Step17_ReadyDescription
+Uh-oh. Instead of a family artifact, you found a note from Hades. Show {TargetNPC} what you found.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group17_Step17_StepDescription
+Find the location from Merida's Memory in the Bind and obtain her family's artifact.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group18_Step18_TalkToCharacter08_StepDescription
+Talk to Hades.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group19_Step19_VisitArea05_StepDescription
+Check inside Hades' House for the Clan DunBroch treasure.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group20_Step20_ReadyDescription
+Give the {itemName} to {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group20_Step20_StepDescription
+Search Hades' House for {itemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group21_Step21_Interaction02_StepDescription
+Investigate the bag that fell near the giant horse statues.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group21_StepDescription
+The clue fell beneath the giant horse statue!
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group22_Step22_Conditional01_StepDescription
+Investigate the globe in the Library of Lore.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

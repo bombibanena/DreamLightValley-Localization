@@ -1,0 +1,15 @@
+TAG: Remy_001_f
+Have you been able to help Anna yet?
+
+TAG: Remy_002_f
+She's looking for 5 servings of <ActivityItem>Arendellian Pickled Herring</ActivityItem>.
+
+TAG: Remy_003_f
+Wow! Looks like you made 'em already. Now you just have to bring 'em to her.
+
+TAG: Remy_004_f
+She's looking for dishes made with <ActivityItem>Cocoa</ActivityItem> so she can serve a chocolate buffet.
+
+TAG: Remy_005_f
+She's looking for <ActivityItem>5-Star Meals</ActivityItem> to teach Olaf about presentation in fine cuisine.
+

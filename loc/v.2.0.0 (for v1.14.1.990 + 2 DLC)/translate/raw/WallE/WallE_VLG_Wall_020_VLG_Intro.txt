@@ -1,0 +1,27 @@
+TAG: WallE_000_f
+Ооо!
+
+TAG: Player_001_f
+Хочешь мне кое-что показать?
+
+TAG: Player_001_choice_000_f
+Показывай дорогу, ВАЛЛ·И!
+
+TAG: Player_001_choice_002_f
+Микки Маус упал в колодец?
+
+TAG: Player_001_choice_001_f
+Не сейчас, ВАЛЛ·И.
+
+TAG: WallE_001_f
+ВАЛЛ·И!
+
+TAG: WallE_002_f
+Что?
+
+TAG: WallE_004_f
+Не смешно? Ладно, веди.
+
+TAG: WallE_003_f
+Ооо...
+

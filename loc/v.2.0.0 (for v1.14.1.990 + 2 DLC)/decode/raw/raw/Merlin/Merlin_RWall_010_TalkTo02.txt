@@ -1,0 +1,39 @@
+TAG: Merlin_000_f
+WALLÂ·E? Hmm... Ah, yes, I remember now! A charming little robot.
+
+TAG: Merlin_002_f
+He seemed rather happy in the Valley before. I suppose you must first win his trust.
+
+TAG: Merlin_008_f
+Consider... what does he like?
+
+TAG: Player_000_choice_000_f
+Plants.
+
+TAG: Player_000_choice_001_f
+Collecting things.
+
+TAG: Player_000_choice_002_f
+<ActivityItem>Trash Cubes</ActivityItem>... apparently.
+
+TAG: Merlin_001_f
+Yes! Plants are one of the many things that WALLÂ·E enjoys collecting!
+
+TAG: Merlin_004_f
+Talk to Scrooge McDuck. He's a collector too, you know.
+
+TAG: Merlin_005_f
+He might have some bits and baubles around that you can bring to WALLÂ·E.
+
+TAG: Merlin_009_f
+Who knows? Maybe Mr. McDuck's trash can become WALLÂ·E's treasure!
+
+TAG: Merlin_003_f
+Indeed! He'd certainly appreciate some additions to his collection.
+
+TAG: Merlin_006_f
+Yes, well, that is his profession, but I don't think it's what he's passionate about.
+
+TAG: Merlin_007_f
+Consider bringing him things he might treasure... even if they seem like trash to you.
+

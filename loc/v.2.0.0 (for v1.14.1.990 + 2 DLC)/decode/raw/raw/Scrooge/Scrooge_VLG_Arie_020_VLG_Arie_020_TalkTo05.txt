@@ -1,0 +1,45 @@
+TAG: Scrooge_000_f
+Ah, {PlayerName}. Are you looking for a new investment opportunity?
+
+TAG: Player_000_choice_000_f
+You have a piece of Eric's Statue.
+
+TAG: Player_000_choice_001_f
+Would you like to help Ariel?
+
+TAG: Player_000_choice_002_f
+Do you know you're my favorite shopkeeper?
+
+TAG: Scrooge_001_f
+Aye, I do. What interest is that to you?
+
+TAG: Player_000_choice_003_f
+Could you give it to me?
+
+TAG: Player_000_choice_004_f
+I want to buy it from you.
+
+TAG: Player_000_choice_005_f
+... What is it going to cost me this time?
+
+TAG: Scrooge_004_f
+Give it to you? For free? Now what kind of a businessman would that make me?
+
+TAG: Scrooge_007_f
+How about a trade, {PlayerName}? I'll exchange it for a few <ActivityItem>Peridots</ActivityItem>.
+
+TAG: Scrooge_005_f
+A Villager after my own heart. Just bring me a few <ActivityItem>Peridots</ActivityItem>, and it's yours.
+
+TAG: Scrooge_006_f
+You sound as if I'm always over-charging ya, {PlayerName}, when I'm nothing but a savvy businessman. Here, I'll prove it.
+
+TAG: Scrooge_010_f
+Bring me a few <ActivityItem>Peridots</ActivityItem> and the Statue Piece is yours.
+
+TAG: Scrooge_002_f
+Of course! This won't cost me too much, will it?
+
+TAG: Scrooge_003_f
+Do you know I don't like flatterers? Spit it out. What do you want from me?
+

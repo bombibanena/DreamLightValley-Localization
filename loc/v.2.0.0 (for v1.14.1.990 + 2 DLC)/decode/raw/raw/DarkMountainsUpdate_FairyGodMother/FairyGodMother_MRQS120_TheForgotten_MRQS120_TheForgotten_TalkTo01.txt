@@ -1,0 +1,114 @@
+TAG: FairyGodMother_001_f
+Oh my. Is it really...? It couldn't be...? Oh, let me have a look at you...
+
+TAG: FairyGodMother_004_f
+... {PlayerName}? Oh, it is you, isn't it?!
+
+TAG: Player_000_choice_000_f
+You must be the Fairy Godmother!
+
+TAG: Player_000_choice_001_f
+I'm here to help. What happened here?
+
+TAG: Player_000_choice_002_f
+I don't know how to be anyone else!
+
+TAG: FairyGodMother_005_f
+Why, yes, of course!
+
+TAG: Player_002_choice_000_f
+What's the Dreamscape?
+
+TAG: Player_002_choice_001_f
+What sorts of Memories did the Forgotten hide?
+
+TAG: Player_002_choice_002_f
+So how do we get the Orb back?
+
+TAG: FairyGodMother_021_f
+Now, where is that wand? I... oh, I was sure I... I... Oh dear. I'm holding it, aren't I?
+
+TAG: FairyGodMother_023_f
+Heh-heh-heh. Well, then, I suppose that's one problem solved, isn't it? And now that you're here, perhaps, together, we can solve another.
+
+TAG: FairyGodMother_009_f
+Oh, but let me get one more look at you... It's been far too long, my dear.
+
+TAG: FairyGodMother_006_f
+... It really is you, isn't it? And not that... that shadow of you?
+
+TAG: FairyGodMother_017_f
+Shadow of me...? Are you talking about the Forgotten?
+
+TAG: FairyGodMother_011_f
+Yes, but now I'm certain that it's you! What a relief. You see, I've been trying to solve a magical conundrum the Forgotten left behind.
+
+TAG: FairyGodMother_012_f
+Long ago, the Forgotten stole the <ActivityItem>Orb of Remembrance</ActivityItem> and hid it, along with some lost Memories, in <Lore>the Dreamscape</Lore>.
+
+TAG: FairyGodMother_024_f
+Oh, you may not know its name, but you've been there before... nearly every time you've closed your eyes.
+
+TAG: FairyGodMother_025_f
+<Lore>The Dreamscape</Lore> is the place between dreams and the waking world. The rules there... well, they're a bit out of order.
+
+TAG: FairyGodMother_026_f
+And it's a fine place for hiding things. Such as an Orb. Or perhaps Memories you'd rather forget.
+
+TAG: FairyGodMother_028_f
+I'm afraid I haven't the faintest idea. That's one of the reasons I was so happy to see YOU!
+
+TAG: FairyGodMother_029_f
+It seems to me the Forgotten would want to forget the same sorts of things you might.
+
+TAG: FairyGodMother_030_f
+As for me... well, I'm afraid I don't need a Dreamscape or magic spell to forget things. Heh-heh... I seem to do that all on my own.
+
+TAG: FairyGodMother_031_f
+That's why I always tie my cape on, you know. Otherwise, I'd never remember where I'd put it!
+
+TAG: FairyGodMother_032_f
+Well, that's what I've been trying to do here all along... but every spell I've tried simply hasn't worked.
+
+TAG: FairyGodMother_033_f
+You mean... you've been in this Pumpkin House the whole time, trying to figure this out on your own?
+
+TAG: FairyGodMother_034_f
+Yes. But I'm afraid I've only managed to bumble it.
+
+TAG: FairyGodMother_035_f
+The Forgotten has hidden the door to the Dreamscape behind a powerful illusion. And no matter what I do, I can't seem to lift it.
+
+TAG: FairyGodMother_036_f
+Oh, but now you're here! Your magic... it's just like the Forgotten's! Perhaps if we combined our magic together...
+
+TAG: Player_003_choice_000_f
+I'm on it! One illusion-dispelling enchantment coming right up!
+
+TAG: Player_003_choice_002_f
+Magic and me... we don't get along. Try asking Merlin?
+
+TAG: FairyGodMother_038_f
+There's nothing in the world I admire more than someone who delights in their duties and doesn't see them as a chore!
+
+TAG: FairyGodMother_041_f
+Now, before the Night Thorns parted me from the rest of the Village, I managed to grab a handful of spellbooks. One enchantment seems to hold the most promise.
+
+TAG: FairyGodMother_042_f
+Would you be a dear and gather some <ActivityItem>Purified Night Shards</ActivityItem> for it? I'll take care of the rest.
+
+TAG: FairyGodMother_043_f
+<Lore>Just meet me back here once you've found it.</Lore> After all... what's lost must be found again. And on you, I know we can depend!
+
+TAG: FairyGodMother_039_f
+Merlin! Oh, I do miss my old friend. We were parted by the Night Thorns so long ago.
+
+TAG: FairyGodMother_040_f
+But I'm afraid before that, even Merlin wasn't able to lift this enchantment. We need your talents, {PlayerName}.
+
+TAG: FairyGodMother_019_f
+Well, that's a rather long story. But first, I'm afraid I've misplaced something...
+
+TAG: FairyGodMother_020_f
+And there's no one I'd rather you be! For you really are quite dear to me.
+

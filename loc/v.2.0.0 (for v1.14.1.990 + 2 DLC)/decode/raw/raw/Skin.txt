@@ -1,0 +1,129 @@
+TAG: Aladdin!Jafar!Jafar_Hologram_DisplayName
+Jafar Hologram Skin
+
+TAG: BeautyBeast!Belle!GreenPyjamasBelle_DisplayName
+Belle's Green Gown
+
+TAG: BeautyBeast!Belle!Winter_DisplayName
+Winter's Wonder Belle
+
+TAG: DreamlightValley!PortalSecretChamber!Unstable_DisplayName
+{Placeholder}Portal unstable
+
+TAG: Frozen!Anna!Frozen1An_DisplayName
+Adventurous Anna
+
+TAG: Frozen!Elsa!Frozen1_DisplayName
+Frozen â Elsa
+
+TAG: Frozen!Olaf!NoArms_DisplayName
+{Placeholder}Olaf no nose
+
+TAG: Frozen!Olaf!NoButtonNoNose_DisplayName
+{Placeholder}Olaf no button no nose
+
+TAG: Goofy!GoofyStallSkinBayou01_DisplayName
+Goofy's Bayou Stall
+
+TAG: Goofy!LionKingInspiredGoofyStall01_DisplayName
+Goofy's Savanna Stall
+
+TAG: LilMermaid!Ariel!ArielPinkGownSkin01_DisplayName
+Ariel's Pink Gown
+
+TAG: LilMermaid!Ariel!Human_DisplayName
+Ariel's Human Form
+
+TAG: LilMermaid!Ariel!Winter_DisplayName
+Winter's Wonder Ariel
+
+TAG: LilMermaid!Ursula!Vanessa_DisplayName
+"Vanessa"
+
+TAG: LiloStitch!Stitch!Island_DisplayName
+Sun-and-Surf Stitch
+
+TAG: LiloStitch!Stitch!LittleDevil_DisplayName
+Trick-or-Treat Stitch
+
+TAG: LionKing!Pumbaa!RLM_PumbaaStuck_DisplayName
+{Placeholder}Pumbaa Stuck
+
+TAG: Mickey!Daisy!MagicKingdomCircus_DisplayName
+Magic Kingdom Circus Daisy
+
+TAG: Mickey!Donald!Dapper_DisplayName
+Dapper Donald
+
+TAG: Mickey!Donald!Parks_DisplayName
+Ranger Donald
+
+TAG: Mickey!Donald!Pirate_DisplayName
+Pirate Donald
+
+TAG: Mickey!Goofy!Parks_DisplayName
+An Extremely Goofy Conductor
+
+TAG: Mickey!Goofy!StuntGreatGoofy_DisplayName
+The Great Goofini
+
+TAG: Mickey!Mickey!D100_DisplayName
+Platinum Mickey
+
+TAG: Mickey!Mickey!Magician_DisplayName
+Mickey the Magician
+
+TAG: Mickey!Mickey!SteamBoat_DisplayName
+Steamboat Mickey
+
+TAG: Mickey!Mickey!SteamBoat_Flicker_DisplayName
+{Placeholder} SteamboatFlicker
+
+TAG: Mickey!Mickey!Winter_DisplayName
+Merry Mickey
+
+TAG: Mickey!Minnie!D100_DisplayName
+Platinum Minnie
+
+TAG: Mickey!Minnie!MKC_DisplayName
+Magic Kingdom Circus Minnie
+
+TAG: Mickey!Scrooge!Vacation_DisplayName
+Summer Vacation Scrooge
+
+TAG: Moana!Moana!Skin01_DisplayName
+Celebration Moana
+
+TAG: MonsterInc!Mike!Jacket_DisplayName
+Monsters University Varsity Mike
+
+TAG: MonsterInc!Sully!Jacket_DisplayName
+Monsters University Varsity Sulley
+
+TAG: Mulan!Mulan!ClassicGreenDress_DisplayName
+Green Hanfu Mulan
+
+TAG: Nightmare!JackSkellington!Christmas_DisplayName
+Jack's Santa Suit
+
+TAG: Ralph!Vanellope!VanellopeGlitch_DisplayName
+{Placeholder}Vanellope Glitch
+
+TAG: SwordStone!Merlin!Vacation_DisplayName
+Bermuda Merlin
+
+TAG: SwordStone!Merlin!Winter_DisplayName
+Festive Merlin
+
+TAG: ToyStory!Buzz!AvatarSize_DisplayName
+{Placeholder}Buzz's Avatar Size
+
+TAG: ToyStory!Buzz!Stealth_DisplayName
+Stealthy Space Ranger
+
+TAG: ToyStory!Woody!AvatarSize_DisplayName
+{Placeholder}Woody's Avatar Size
+
+TAG: WallE!WallE!HelloDolly_DisplayName
+Dapper WALLÂ·E
+

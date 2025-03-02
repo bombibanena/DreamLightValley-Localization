@@ -1,0 +1,33 @@
+TAG: Remy_000_f
+My books! This is great! Thanks, {PlayerName}!
+
+TAG: Remy_001_f
+Oh, and I know just the dish I want to make for you.
+
+TAG: Remy_003_f
+It's this recipe with peanuts. If you get me some peanuts, I'll prepare you a dish you'll never forget!
+
+TAG: Player_000_choice_003_f
+I love peanuts!
+
+TAG: Player_000_choice_004_f
+I haven't seen any peanuts in the Valley...
+
+TAG: Remy_002_f
+Me too! Sweet, savory, they work with both. Which reminds me, I brought a huge stash of them to Paris after the Forgetting.
+
+TAG: Remy_008_f
+And I haven't seen any peanuts here in the Valley.
+
+TAG: Remy_009_f
+I can go back to Paris and get some peanuts!
+
+TAG: Remy_010_f
+Oh, that would be amazing!
+
+TAG: Remy_011_f
+You haven't? Oh! That's right!
+
+TAG: Remy_012_f
+I brought a huge stash of them to Paris after the Forgetting.
+

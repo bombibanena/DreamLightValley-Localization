@@ -1,0 +1,96 @@
+TAG: Hades_001_f
+There you go, Hades; one DJ table, fashioned in quality Greek marble!
+
+TAG: Hades_002_f
+I... Whoa, I haven't been this choked up since I got a hunk of moussakaâ Ya now what? Been there, done that.
+
+TAG: Player_000_choice_000_f
+Happy you like it!
+
+TAG: Player_000_choice_001_f
+Better start practicing!
+
+TAG: Player_000_choice_002_f
+I can send Vanellope over to give some advice if you want.
+
+TAG: Hades_003_f
+Yep, that promotion is looking more and more likely, my competent minion.
+
+TAG: Hades_014_f
+Now... I think we need to talk invitations.
+
+TAG: Hades_015_f
+Sure! Have you thought about stationary? I can go craftâ
+
+TAG: Hades_016_f
+{PlayerName}, {PlayerName}, {PlayerName}, still thinking like a mortal.
+
+TAG: Player_002_choice_000_f
+Well, I AM a mortal...
+
+TAG: Player_002_choice_001_f
+Paper is mortal?
+
+TAG: Player_002_choice_002_f
+Hey, mortals have thought up some cool stuff!
+
+TAG: Hades_020_f
+Hey, I try to be polite and not bring it up, but you keep ruining that.
+
+TAG: Hades_024_f
+But let's get back to the invitations.
+
+TAG: Hades_017_f
+I'm planning a party fit for the gods themselves! We need something better than just paper.
+
+TAG: Hades_018_f
+No, you're gonna <Lore>catch some Bird Snippets for me</Lore>. I'll write the invitations on them so that when I release 'em, they fly straight to the invitees!
+
+TAG: Hades_000_f
+The <Lore>blue ones from the Bind</Lore> should do the trick.
+
+TAG: Hades_019_f
+Okay, I'll get on that!
+
+TAG: Hades_021_f
+Sheesh. You're givin' me a headache. One moment you've got great ideas, and the next, "is paper mortal?"!
+
+TAG: Hades_022_f
+Fair enough â you did bring me the DJ table.
+
+TAG: Hades_023_f
+I revise my prior statement â mortals can be good at bringing you stuff.
+
+TAG: Hades_006_f
+Are you saying I'm gonna be terrible at this?
+
+TAG: Player_001_choice_000_f
+I'm sure you'll be great!
+
+TAG: Player_001_choice_001_f
+DJing is hard!
+
+TAG: Player_001_choice_002_f
+Well, if you don't practice, you definitely will be terrible.
+
+TAG: Hades_007_f
+Of course I'll be great â I'm Hades!
+
+TAG: Hades_008_f
+For you, maybe. But I'm kind of a god.
+
+TAG: Hades_009_f
+If I wanted to consult a philosopher, believe me, I know a few.
+
+TAG: Hades_010_f
+... {PlayerName}, we were getting along so well and then you had to go and ruin it.
+
+TAG: Hades_011_f
+I'm just saying that Vanellope might have some good advice, being a digital person and all. There might have been a DJ game in her home arcade.
+
+TAG: Hades_012_f
+I'm just gonna say this one more time... I DO NOT need mortals telling me what to do and that goes double for "digital persons"!
+
+TAG: Hades_013_f
+Fine! Suit yourself...
+

@@ -1,0 +1,72 @@
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Any_CompletedRequestDescription
+Поговори с Минни Маус о клубе.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_AvailableDescription
+Минни Маус имеет захватывающую новую идею и нуждается в вашей помощи.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_CompletedStoryDescription
+Первое собрание клуба было успешным, но лучше обсудить с Минни Маус, чтобы быть уверенным.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_DisplayName
+Обновление клуба
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_Step01_Possess04_StepDescription
+<ActivityItem>Fabric</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_Step01_Possess05_StepDescription
+<ActivityItem>Gold Nugget</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_Step09_CraftItem03_StepDescription
+Перевозка a <ActivityItem>Red Dye</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_StepDescription
+Соберите следующие вещи для изготовления <ActivityItem>Cheerful Chums Club Banner</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_StoryDescription
+Старый баннер повреждён без ремонта. Минни Маус решает, что лучший вариант - сделать совершенно новый.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group02_Step02_CraftItem01_StepDescription
+Подготовить клаб Th0Cheerful Chums Banner</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать с баннером?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group04_Step04_Decorate01_StepDescription
+Поместите <ActivityItem>Cheerful Club Cums Banner</ActivityItem> в хорошее место вашего выбора в вашем доме.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group05_Step05_TalkToCharacter03_StepDescription
+Поговори об этом с Минни Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group05_StoryDescription
+Вы находите старый плакат, на котором вы можете читать"Счастливый Чамс."Это в жалком состоянии, но Минни Маус, вероятно, будет рад это увидеть.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group06_Step06_VisitArea01_StepDescription
+Идите в свой дом.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group06_StoryDescription
+Минни Маус любит новый баннер и просит провести первую встречу клуба в вашем доме.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что осталось сделать?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group07_Step07_Party01_StepDescription
+Возобновить клуб болельщиц.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Где мне начать поиски?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group08_Step08_Possess01_StepDescription
+Расследуйте Глэйд Доверия для давно потерянного знаменателя.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group08_StoryDescription
+Она хочет снова начать клуб болельщиц и задается вопросом, осталось ли что-нибудь от их старого знаменателя.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

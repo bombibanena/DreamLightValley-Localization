@@ -1,0 +1,93 @@
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_AvailableDescription
+Вы прибыли в королевство Мулан... впереди военный лагерь; может, вам стоит его изучить.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_DisplayName
+Новый призыв
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group01_Step01_StepDescription
+Исследуйте королевство Мулан.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step02_RemoveBlocker01_StepDescription
+Разбить <ActivityItem>Rocks</ActivityItem>.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step02_RemoveBlocker02_StepDescription
+Найдите <ActivityItem>Rice Spills</ActivityItem>.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step03_StepDescription
+Переверни котёл.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_StepDescription
+Убери лагерь.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_StoryDescription
+Когда вы вошли в лагерь, вы обнаружили Мушу в месте разрушения, после некоторых первоначальных подозрений, он приходит к выводу, что вы, должно быть, последний призывник, которого он и Мулан ждали, и решаете устроить вас на работу.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group03_Step04_TalkToCharacter02_StepDescription
+Возвращайтесь на Мушу.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem02_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem03_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem04_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem05_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_ReadyDescription
+Принесите текст <ActivityItem> Training Universal</ActivityItem> на Мушу.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_StepDescription
+Оглянитесь вокруг Королевства, чтобы найти кусочки вашего <ActivityItem> Training Unim</ActivityItem> и принести их Мушу:
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_StoryDescription
+Как только закончишь, возвращаешься к маленькому дракону, который объясняет тебе, что тебе нужно хорошо одеться, чтобы начать тренироваться.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group05_Step07_TalkToCharacter03_StepDescription
+Возвращайтесь на Мушу.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_Step08_CookMeal01_StepDescription
+Приготовить тарелку <ActivityItem>Мушу's Congee</ActivityItem> для Мулан.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_StoryDescription
+Теперь, когда вы хорошо одеты, Мушу требует от вас сделать миску Конджи, чтобы Мулан хорошо позавтракала, когда она проснется.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group07_Step09_Interaction04_StepDescription
+Позвони гонгу рядом с палаткой Мулан, чтобы разбудить ее.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group07_StoryDescription
+Завтрак в руке, ты просыпаешься Мулан, взаимодействуя с гонгом рядом с палаткой.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group08_Step10_Conditional01_StepDescription
+Смотри, как Мулан просыпается.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_Step11_BringItem01_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Мушу Congee</ActivityItem>.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_Step11_ReadyDescription
+Передайте <ActivityItem>Мушу Contgee</ActivityItem> Мулан.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_StoryDescription
+Мулан проснулся, пора позавтракать с ней.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group10_Step05_DressUp01_StepDescription
+Надень свою тренировочную униформу.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+

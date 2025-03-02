@@ -1,0 +1,93 @@
+TAG: Belle_009_f
+{PlayerName}, мне так любопытно, что было на <ActivityItem>Scroll</ActivityItem>?
+
+TAG: Belle_012_f
+Это был <ActivityItem>Memory</ActivityItem>.... он показал мне несколько <ActivityItem>Symbols</ActivityItem>..
+
+TAG: Belle_018_f
+Думаешь, они связаны с этим <ActivityItem>Chest</ActivityItem>?
+
+TAG: Belle_025_f
+Понятия не имею...
+
+TAG: Belle_000_f
+Ну, я должен знать, что внутри <ActivityItem>Chest</ActivityItem>.
+
+TAG: Belle_002_f
+Я собираюсь открыть его.
+
+TAG: Player_000_choice_000_f
+Да, давай сделаем это!
+
+TAG: Player_000_choice_001_f
+Скорее всего, пусто.
+
+TAG: Player_000_choice_002_f
+Я собираюсь отойти на всякий случай.
+
+TAG: Belle_003_f
+Я рад, что ты согласен, {PlayerName}.
+
+TAG: Belle_019_f
+О, я знаю, я мог бы использовать свой <ActivityItem>Camera</ActivityItem>, он создает картинку, так что, я думаю, это может быть что-то вроде картины.
+
+TAG: Belle_015_f
+Твоя магия никогда не перестает удивлять меня, {PlayerName}.
+
+TAG: Belle_017_f
+Теперь давайте посмотрим... на надписи также написано..."Свет луны облегчит их зрение."
+
+TAG: Player_003_f
+Итак, первый символ, который я должен найти, где-то здесь, и я увижу его получше ночью...
+
+TAG: Player_003_choice_000_f
+Давайте не будем терять ни минуты и начнем прямо сейчас.
+
+TAG: Player_003_choice_001_f
+Что бы ты сделал?
+
+TAG: Player_003_choice_002_f
+Я подожду до ночи.
+
+TAG: Belle_006_f
+Я сейчас вернусь...
+
+TAG: Belle_001_f
+Он заперт.
+
+TAG: Belle_007_f
+Но на нём что-то написано...
+
+TAG: Belle_008_f
+"Чтобы раскрыть секрет внутри, нужно вернуть рассеянный <ActivityItem>Symbols</ActivityItem> на самую быструю картину..."
+
+TAG: Belle_013_f
+Должно быть тот, что с <ActivityItem>Memory</ActivityItem>.
+
+TAG: Belle_014_f
+Я уверен, что ты прав.
+
+TAG: Belle_016_f
+Но что это значит?"самая быстрая картина из всех"?
+
+TAG: Belle_020_f
+Ты никогда не уклоняешься от вызова.
+
+TAG: Belle_024_f
+Удачи, {PlayerName}.
+
+TAG: Belle_021_f
+Ну, я не знаю, как пользоваться твоей машиной <ActivityItem>Camera</ActivityItem>, так что я не уверен.
+
+TAG: Belle_023_f
+Но я знаю, что ты найдёшь его.
+
+TAG: Belle_022_f
+В сообщении говорится, что так будет проще.
+
+TAG: Belle_004_f
+Надеюсь, это не так.
+
+TAG: Belle_005_f
+*хихиканье*Ты напоминаешь мне моего друга Когсворта.
+

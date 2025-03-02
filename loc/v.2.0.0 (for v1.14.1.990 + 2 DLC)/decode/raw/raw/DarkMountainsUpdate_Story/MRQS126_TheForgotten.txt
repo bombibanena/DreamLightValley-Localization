@@ -1,0 +1,84 @@
+TAG: Story!MRQS126_TheForgotten_Any_CompletedRequestDescription
+Talk to the Fairy Godmother about what you learned.
+
+TAG: Story!MRQS126_TheForgotten_AvailableDescription
+The Fairy Godmother invites you to pass through the final door and uncover the Memory that sealed the Forgotten's fate.
+
+TAG: Story!MRQS126_TheForgotten_CompletedStoryDescription
+With the Memory complete, you see now that the Forgotten was driven out of the Valley and took refuge in a dark shadow of the Village. You suppose you'll have to venture there to put an end to all this.
+
+TAG: Story!MRQS126_TheForgotten_DisplayName
+Forgotten Memories: Nurturing
+
+TAG: Story!MRQS126_TheForgotten_Group01_Step01_VisitArea01_StepDescription
+Step through the third gate in the Dreamscape to uncover the Forgotten's final Memory.
+
+TAG: Story!MRQS126_TheForgotten_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to the Fairy Godmother at the last gateway.
+
+TAG: Story!MRQS126_TheForgotten_Group03_Step03_TalkToCharacter05_StepDescription
+What does Scar want...? Better talk to him.
+
+TAG: Story!MRQS126_TheForgotten_Group03_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape:
+
+TAG: Story!MRQS126_TheForgotten_Group04_Step04_Interaction02_StepDescription
+Crush the flowers around the Plateau to weaken the Pillar's energy.
+
+TAG: Story!MRQS126_TheForgotten_Group04_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape:
+
+TAG: Story!MRQS126_TheForgotten_Group05_Step05_Possess01_StepDescription
+Recover the <ActivityItem>Orb of Nurturing</ActivityItem> near the Pillar.
+
+TAG: Story!MRQS126_TheForgotten_Group05_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape:
+
+TAG: Story!MRQS126_TheForgotten_Group05_StoryDescription
+Scar tricked the Forgotten into destroying life throughout the Plateau. The Orb was left to wither without the plant life to feed it.
+
+TAG: Story!MRQS126_TheForgotten_Group06_Step06_VisitArea03_StepDescription
+Return to Scar near his cave.
+
+TAG: Story!MRQS126_TheForgotten_Group06_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape:
+
+TAG: Story!MRQS126_TheForgotten_Group07_Step07_TalkToCharacter02_StepDescription
+Talk to Scar.
+
+TAG: Story!MRQS126_TheForgotten_Group07_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape:
+
+TAG: Story!MRQS126_TheForgotten_Group09_Step09_TalkToCharacter03_StepDescription
+Confront Merlin. It looks like he has some more "advice" for you...
+
+TAG: Story!MRQS126_TheForgotten_Group09_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape:
+
+TAG: Story!MRQS126_TheForgotten_Group10_Step10_VisitArea05_StepDescription
+Return to the Fairy Godmother in the Dreamscape.
+
+TAG: Story!MRQS126_TheForgotten_Group10_StoryDescription
+Merlin cautioned the Forgotten not to lose faith in love, friendship, and the power of small acts of care. But the Forgotten was too far gone to heed Merlin's warning.
+
+TAG: Story!MRQS126_TheForgotten_Group11_Step11_TalkToCharacter04_StepDescription
+Return to Scar.
+
+TAG: Story!MRQS126_TheForgotten_Group11_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape:
+
+TAG: Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden01_StepDescription
+Near the giant Dreamlight Tree.
+
+TAG: Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden02_StepDescription
+Near the Pillar of Nurturing.
+
+TAG: Story!MRQS126_TheForgotten_Group12_Step12_MakeGarden03_StepDescription
+Near the Mine entrance and waterfall.
+
+TAG: Story!MRQS126_TheForgotten_Group12_StepDescription
+Uncover the Forgotten's final lost Memory in the Dreamscape by planting and tending to the <ActivityItem>Night Thorn Seeds</ActivityItem>:
+
+TAG: Story!MRQS126_TheForgotten_Group13_Step13_Unlock01_StepDescription
+Pick up the Forgotten's final <ActivityItem>Memory</ActivityItem> in the Dreamscape.
+

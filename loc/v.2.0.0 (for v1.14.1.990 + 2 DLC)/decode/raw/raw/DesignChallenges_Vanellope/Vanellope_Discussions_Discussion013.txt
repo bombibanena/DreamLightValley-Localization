@@ -1,0 +1,78 @@
+TAG: Vanellope_000_f
+You gotta help me! I think the Forgetting is getting me!
+
+TAG: Vanellope_001_f
+I can't remember the name of those mission thingies you check in the Wishing Wells!
+
+TAG: Vanellope_002_f
+Dreamlight... tasks? Ooh, it's on the tip of my tongue!
+
+TAG: Player_000_choice_000_f
+Dreamlight Duties?
+
+TAG: Player_000_choice_001_f
+Oh no, not this again!
+
+TAG: Vanellope_003_f
+That's it! Dreamlight DOODIES! Ha-ha-ha!
+
+TAG: Vanellope_004_f
+Better take a bath, {PlayerName}...
+
+TAG: Vanellope_005_f
+You're up to your neck in doodies!
+
+TAG: Player_001_choice_000_f
+You got me again!
+
+TAG: Player_001_choice_001_f
+You're not tired of this joke yet?
+
+TAG: Player_001_choice_002_f
+These doodie jokes stink!
+
+TAG: Vanellope_006_f
+Yep! Thanks for being such a good sport, pal!
+
+TAG: Vanellope_007_f
+NEVER! Hee-hee-hee!
+
+TAG: Vanellope_008_f
+Good one! Ha-ha-ha!
+
+TAG: Vanellope_009_f
+Whatever are you referencing, sweet friend?
+
+TAG: Player_002_choice_000_f
+You know what I'm talking about.
+
+TAG: Player_002_choice_001_f
+I thought you were really in trouble!
+
+TAG: Player_002_choice_002_f
+You WEREN'T trying to make me say "duties"?
+
+TAG: Vanellope_010_f
+I can't believe you won't help your good pal Vanellope remember the name of the Dreamlight thingies!
+
+TAG: Player_003_choice_000_f
+Am I neglecting my duties?
+
+TAG: Player_003_choice_001_f
+I'm not going to say it!
+
+TAG: Vanellope_011_f
+Ha-ha-ha... Aw, {PlayerName}, you said "doodie" just for me!
+
+TAG: Vanellope_012_f
+Okay, fine! Just remember that I'm small, stubborn, and I never back down from a challenge.
+
+TAG: Vanellope_013_f
+Well, if you make sure I'm okay AND tell me what those Dreamlight things are called, can we say you're doing DOUBLE DOODIE?
+
+TAG: Vanellope_014_f
+Ha-ha-ha. It never gets old!
+
+TAG: Vanellope_015_f
+No, I was! You might say, it's your "doodie"!
+

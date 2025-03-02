@@ -1,0 +1,129 @@
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Any_CompletedRequestDescription
+Возвращайтесь на Вуди.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_AvailableDescription
+Вуди немного смущен. Он пытался быть полезным и хорошим соседом, помогая Реми готовить еду в своем ресторане, но приготовление пищи немного сложнее, чем он ожидал. Ему нужна ваша помощь.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_CompletedStoryDescription
+Вы обнаруживаете, что Вуди Carusel когда-то выглядел очень по-другому в прошлом. Что это может значить для Вуди?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_DisplayName
+Неудачник лучше
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Реми.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group02_Step02_EatMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group02_Step02_EatMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group02_StepDescription
+Ешь готовую еду Вуди.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group03_Step03_TalkToCharacter02_StepDescription
+Возвращайся к Реми.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group04_Step04_TalkToCharacter03_StepDescription
+Поговори с Вуди.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_Step05_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_Step05_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_StepDescription
+Приготовить следующее питание:
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_StoryDescription
+После вкуса ужасной еды Вуди готовой, вы понимаете, что ему действительно нужна ваша помощь, и вы решаете заменить еду, которую он должен был готовить.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_ReadyDescription
+Принесите еду Реми.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_StepDescription
+Удостоверься, что у вас есть следующая еда в списке:
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group07_Step07_TalkToCharacter04_StepDescription
+Поговори с Вуди.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group08_Step08_FollowCharacter01_StepDescription
+Следуйте за Вуди до Dazzle Beach.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group08_Step08_FollowCharacter01_TalkToDescription
+Поговори с Вуди.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_Step09_StepDescription
+Возьмите свежий {ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_Step10_StepDescription
+Собери что-нибудь {ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_StoryDescription
+Выяснив проблему с Реми, Вуди объясняет, что он хотел получить некоторые ингредиенты для Гуфи, но не смог достать их безопасно. Вы решили помочь ему.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group10_Step11_ReadyDescription
+Поговори с Вуди.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group10_Step11_StepDescription
+Убедитесь, что в вашем списке есть Ингредиенты Гуфи.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Кого мне пойти посмотреть?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group11_Step12_ReadyDescription
+Приведите Ингредиентов на Гуфи.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group11_Step12_StepDescription
+Убедитесь, что у вас есть "Ингредиенты" для ужина Гуфи в вашем списке.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group12_Step13_FollowCharacter02_StepDescription
+Встретимся на Вуди в Каруселе.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group12_Step13_FollowCharacter02_TalkToDescription
+Поговори с Вуди.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group13_StepDescription
+Уберите <ActivityItem>Trash</ActivityItem> в Каруселе.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group13_StoryDescription
+Он объясняет вам, что хотел сделать что-то полезное для деревни, и вы решили, что, возможно, лучше начать с Каруселя.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group14_Step15_ConsumeItem01_StepDescription
+Исследуйте память в Каруселе.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

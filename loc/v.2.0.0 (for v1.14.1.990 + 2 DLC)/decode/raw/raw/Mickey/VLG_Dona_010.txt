@@ -1,0 +1,24 @@
+TAG: Village!Mickey!VLG_Dona_010_Any_CompletedRequestDescription
+Talk to Donald about the Time Capsule.
+
+TAG: Village!Mickey!VLG_Dona_010_AvailableDescription
+Donald seems awfully angry. It turns out that while he was away from Dreamlight Valley, his House was wrecked.
+
+TAG: Village!Mickey!VLG_Dona_010_Group02_OngoingRequestButton
+What were we doing?
+
+TAG: Village!Mickey!VLG_Dona_010_Group03_OngoingRequestButton
+What about now?
+
+TAG: Village!Mickey!VLG_Dona_010_Group03_Step03_CraftItem01_StepDescription
+Craft the {ItemName} at a Crafting Station.
+
+TAG: Village!Mickey!VLG_Dona_010_Group08_OngoingRequestButton
+What now?
+
+TAG: Village!Mickey!VLG_Dona_010_Group08_Step08_Unlock01_StepDescription
+Open the <ActivityItem>Rusty Time Capsule</ActivityItem> in your Inventory.
+
+TAG: Village!Mickey!VLG_Dona_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

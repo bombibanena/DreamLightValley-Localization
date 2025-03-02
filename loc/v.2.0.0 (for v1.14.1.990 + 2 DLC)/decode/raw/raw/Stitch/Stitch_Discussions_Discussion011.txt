@@ -1,0 +1,42 @@
+TAG: Stitch_000_f
+You have a lot of cool powers.
+
+TAG: Stitch_001_f
+Yeah, Stitch is strong. Fireproof. Can look like doggy. And see in dark!
+
+TAG: Player_000_f
+What's it like...
+
+TAG: Player_000_choice_000_f
+...being so strong?
+
+TAG: Player_000_choice_001_f
+...being so tough?
+
+TAG: Player_000_choice_002_f
+...being able to see in the dark?
+
+TAG: Stitch_002_f
+Good! Can juggle punch buggies. And open jars.
+
+TAG: Stitch_005_f
+But sometimes break jars. Still practicing jars.
+
+TAG: Stitch_003_f
+Good! I can protect my family.
+
+TAG: Stitch_006_f
+Very important.
+
+TAG: Stitch_004_f
+Mmmm. Usually good. Good for hide-and-seek.
+
+TAG: Stitch_007_f
+But sometimes, Stitch wake up in middle of night...
+
+TAG: Stitch_008_f
+...and see too many scary shadows.
+
+TAG: Stitch_009_f
+Then night vision not good.
+

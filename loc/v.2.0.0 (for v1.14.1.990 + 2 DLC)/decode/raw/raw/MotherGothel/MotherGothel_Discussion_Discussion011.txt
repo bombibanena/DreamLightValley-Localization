@@ -1,0 +1,57 @@
+TAG: MotherGothel_000_f
+{PlayerName}, I feel that I must share a bit of my knowledge of the world, so you have a chance to survive out here on your own...
+
+TAG: MotherGothel_001_f
+Now, you must have noticed the flowers growing around the Village. So beautiful and majestic... like me! Ha-ha-ha!
+
+TAG: Player_000_choice_000_f
+I love flowers!
+
+TAG: Player_000_choice_001_f
+What about them?
+
+TAG: Player_000_choice_002_f
+Ugh, flowers...
+
+TAG: MotherGothel_002_f
+Of course you do. After all, who doesn't?
+
+TAG: MotherGothel_005_f
+You must remember that every part of the Valley is home to one or two specific types of flowers...
+
+TAG: MotherGothel_009_f
+In the Plaza, you'll find <ActivityItem>Dandelions</ActivityItem>, a common, charmless weed that reminds me a little of you! Ha-ha, only kidding, dear. But also <ActivityItem>Penstemons</ActivityItem> of many colors.
+
+TAG: MotherGothel_010_f
+If you want <ActivityItem>Rising Penstemons</ActivityItem> or <ActivityItem>Daisies</ActivityItem>, you'll have to go to the Meadow.
+
+TAG: MotherGothel_011_f
+Some flowers even grow on the sand of Dazzle Beach. <ActivityItem>Hydrangeas</ActivityItem> and <ActivityItem>Sunflowers</ActivityItem> to be exact.
+
+TAG: MotherGothel_012_f
+If ever you need <ActivityItem>Bell Flowers</ActivityItem> or <ActivityItem>Star Lilies</ActivityItem>, look under the trees in the Forest of Valor.
+
+TAG: MotherGothel_013_f
+<ActivityItem>Bromeliads</ActivityItem> and <ActivityItem>Houseleeks</ActivityItem> grow only on the Sunlit Plateau.
+
+TAG: MotherGothel_008_f
+For example, if you visit my beloved Glade, you'll find all sorts of <ActivityItem>Marsh Milkweed</ActivityItem>. White, orange, purple, blue... Almost a rainbow of them.
+
+TAG: MotherGothel_014_f
+If you feel brave enough to explore the Forgotten Lands, you can gather <ActivityItem>Impatiens</ActivityItem> and <ActivityItem>Nasturtiums</ActivityItem>. Appropriately named flowers for that ugly place, if you ask me.
+
+TAG: MotherGothel_015_f
+But only one type of flower grows in the Frosted Heights â the <ActivityItem>Passion Lily</ActivityItem>. Though it does come in many colors.
+
+TAG: MotherGothel_003_f
+Well, I know how children are, so I feel it needs to be said... Try not to eat them. It wouldn't be good for you. Also...
+
+TAG: MotherGothel_004_f
+{PlayerName}, you really don't have an eye for beauty, do you?
+
+TAG: MotherGothel_006_f
+Oh well, not everyone can appreciate the finer things.
+
+TAG: MotherGothel_007_f
+Still, you should remember that every part of the Valley is home to one or two specific types of flowers...
+

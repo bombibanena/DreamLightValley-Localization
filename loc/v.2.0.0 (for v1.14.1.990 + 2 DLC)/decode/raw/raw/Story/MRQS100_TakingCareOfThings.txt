@@ -1,0 +1,114 @@
+TAG: Story!MRQS100_TakingCareOfThings_Any_CompletedRequestDescription
+Talk to Scar.
+
+TAG: Story!MRQS100_TakingCareOfThings_AvailableDescription
+A rock crumbles on the Sunlit Plateau, revealing the entrance to a mysterious lair...
+
+TAG: Story!MRQS100_TakingCareOfThings_CompletedStoryDescription
+You manage to restore life to the Sunlit Plateau with a little bit of nurturing and care. As for the Forgotten... the mystery lives on.
+
+TAG: Story!MRQS100_TakingCareOfThings_DisplayName
+Nature & Nurture
+
+TAG: Story!MRQS100_TakingCareOfThings_Group01_Step01_VisitArea01_StepDescription
+Investigate the <ActivityItem>Giant Skull</ActivityItem> in the Elephant Graveyard of the Sunlit Plateau.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Scar.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group02_StoryDescription
+Inside the giant skull, you find Scar, who has been trapped there since not long after the Forgetting. Scar suggests you explore the Vitalys Mines to find what's blocking the river on the Sunlit Plateau.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group03_Step05_Interaction01_StepDescription
+Check the sign next to the barrel in the Vitalys Mines.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group04_Step04_VisitArea02_StepDescription
+Explore the Vitalys Mines and find whatever's blocking the river.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What next?
+
+TAG: Story!MRQS100_TakingCareOfThings_Group05_StepDescription
+Talk to Merlin.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group06_Step06_VisitArea03_StepDescription
+Enter the Vitalys Mines at the mouth of the river on the Sunlit Plateau.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group07_Step08_VisitArea07_StepDescription
+Return to Dreamlight Valley.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group07_StoryDescription
+Leaving the Vitalys Mines, you spot the Forgotten, holding something. You chase them through a Dark Portal and recover the Orb of Nurturing. But you also discover that the Forgotten looks exactly like you...
+
+TAG: Story!MRQS100_TakingCareOfThings_Group08_StepDescription
+Prepare the {ItemName} at a Cooking Station using <ActivityItem>Dried Ginger</ActivityItem>, <ActivityItem>Vanilla</ActivityItem>, and <ActivityItem>Sugarcane</ActivityItem>.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group09_Step09_FillKeyhole02_StepDescription
+Put the <ActivityItem>Extra Fizzy Root Beer</ActivityItem> and the <ActivityItem>Crackling Candies</ActivityItem> in the barrel.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group09_StepDescription
+Clear the Night Thorn roots blocking the water source in the mine.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group09_StoryDescription
+Inside the Vitalys Mines, you find Night Thorn roots blocking the river. You put together a very fizzy concoction to clear the Night Thorns.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group10_StepDescription
+Search the mining camp in the Vitalys Mines for the Ingredients.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group11_Step11_VisitArea04_StepDescription
+Return to the Sunlit Plateau to see if the river has been restored.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group12_Step12_VisitArea05_StepDescription
+Follow the Forgotten through the Dark Portal near the Elephant Graveyard.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What was I doing again?
+
+TAG: Story!MRQS100_TakingCareOfThings_Group13_Step13_Possess01_StepDescription
+Pick it up.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group13_Step13_StepDescription
+The Forgotten dropped something!
+
+TAG: Story!MRQS100_TakingCareOfThings_Group14_StepDescription
+Show Merlin what you've found.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group15_Step15_Possess02_StepDescription
+Mine {ItemName} from rocks in the Vitalys Mines.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group15_Step15_Possess03_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group15_Step15_Possess04_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group15_Step15_StepDescription
+Gather the following items needed for the <ActivityItem>Miracle Growth Elixir</ActivityItem>:
+
+TAG: Story!MRQS100_TakingCareOfThings_Group16_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I do next?
+
+TAG: Story!MRQS100_TakingCareOfThings_Group16_Step16_CraftItem02_StepDescription
+Craft the {ItemName}.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group17_Step17_ConsumeItem01_StepDescription
+Use the {ItemName} in your Backpack to upgrade your Watering Can.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group18_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What now?
+
+TAG: Story!MRQS100_TakingCareOfThings_Group18_Step18_GardeningPlant01_StepDescription
+Plant the {ItemName} at the Pillar on the Sunlit Plateau.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group19_Step19_MakeGarden02_StepDescription
+Tend to the <ActivityItem>Orb of Nurturing</ActivityItem> until it's fully restored. (This might take a few days!)
+
+TAG: Story!MRQS100_TakingCareOfThings_Group20_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What next?
+
+TAG: Story!MRQS100_TakingCareOfThings_Group20_Step20_VisitArea06_StepDescription
+Check on the <ActivityItem>Orb of Nurturing</ActivityItem> on the Sunlit Plateau.
+
+TAG: Story!MRQS100_TakingCareOfThings_Group21_Step21_TalkToCharacter03_StepDescription
+Tell Merlin about what you've found.
+

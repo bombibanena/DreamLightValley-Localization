@@ -1,0 +1,120 @@
+TAG: Scar_005_f
+Ah, {PlayerName}. Just who I was thinking of. By my estimations, you're doing a rather poor job ruling over this Valley.
+
+TAG: Scar_006_f
+Why, it looks to me like the sky is falling in.
+
+TAG: Scar_007_f
+Are you sure you wouldn't be happier with someone more cunning in charge?
+
+TAG: Player_000_choice_001_f
+Nice try, Scar.
+
+TAG: Player_000_choice_002_f
+I'll think about it. But you have to help me first.
+
+TAG: Player_000_choice_003_f
+Hm... someone like Mufasa, you mean?
+
+TAG: Scar_008_f
+I've no idea what you mean.
+
+TAG: Scar_013_f
+But if you haven't come here to ask me to reign over the Valley... then what DO you want?
+
+TAG: Scar_015_f
+I found something in your cave. I think it used to belong to the Forgotten.
+
+TAG: Scar_016_f
+It might be the key to stopping the Forgotten's plans. Do you know the story behind it?
+
+TAG: Scar_017_f
+...
+
+TAG: Scar_018_f
+No. I've never seen it before.
+
+TAG: Player_001_choice_000_f
+Are you sure?
+
+TAG: Player_001_choice_001_f
+Maybe the Forgetting's gotten to you.
+
+TAG: Player_001_choice_002_f
+Why do I get the vibe that you're lying?
+
+TAG: Scar_019_f
+Positively.
+
+TAG: Scar_022_f
+Besides, why would I want to remember such a... such a hideous, charmless image of me.
+
+TAG: Scar_023_f
+Aha! So you admit it's a drawing of YOU!
+
+TAG: Scar_024_f
+...
+
+TAG: Scar_025_f
+Please, Scar. This might be the only way to stop the Forgotten and save the Valley.
+
+TAG: Scar_001_f
+*sigh* ... Fine. If I must, to ensure I have a kingdom left to rule over, then... I'll tell you.
+
+TAG: Scar_002_f
+And... I suppose you are the closest thing I have to a... well, to someone I tolerate.
+
+TAG: Scar_028_f
+You made this for me, {PlayerName}. When you were just a cub.
+
+TAG: Scar_029_f
+It hardly captures my likeness. But, I admit I found it rather... nice... to receive a gift. Even such a pitiful one.
+
+TAG: Scar_030_f
+I've kept it ever since.
+
+TAG: Scar_031_f
+Thanks, Scar. Your story might help me stop the Forgotten.
+
+TAG: Scar_032_f
+Do have a bit of mercy for the Forgotten.
+
+TAG: Scar_033_f
+Imagine what they must think, watching you ruling over all that the light touches while they are consigned to the shadows.
+
+TAG: Scar_034_f
+I know all too well how that feels.
+
+TAG: Scar_003_f
+Whatever I know about that thing... I'd sooner take it to the grave than tell you.
+
+TAG: Scar_004_f
+Look... maybe you don't trust me enough to tell me yet.
+
+TAG: Scar_026_f
+But sooner or later, Scar... I'll show you that I'm your friend. You'll tell me.
+
+TAG: Scar_027_f
+I highly doubt it.
+
+TAG: Scar_020_f
+Hardly. I recall far too much for that to have happened.
+
+TAG: Scar_021_f
+I have absolutely no idea.
+
+TAG: Scar_009_f
+Ugh. Yet again, I'm expected to do all the work with none of the reward.
+
+TAG: Scar_014_f
+What do you want?
+
+TAG: Scar_010_f
+NEVER speak that name in my presence!
+
+TAG: Scar_011_f
+Er, right... sorry.
+
+TAG: Scar_012_f
+Well, if you haven't come all this way just to insult me... what do you want?
+

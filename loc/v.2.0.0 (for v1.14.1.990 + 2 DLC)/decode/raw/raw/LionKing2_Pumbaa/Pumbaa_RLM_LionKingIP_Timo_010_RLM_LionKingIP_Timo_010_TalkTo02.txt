@@ -1,0 +1,27 @@
+TAG: Pumbaa_000_f
+Pumbaa! Are you okay in there?!
+
+TAG: Pumbaa_001_f
+{PlayerName}, is that you?! I'm stuck!
+
+TAG: Player_000_choice_000_f
+How'd you get stuck?
+
+TAG: Player_000_choice_001_f
+Timon has been worried sick!
+
+TAG: Player_000_choice_002_f
+Yeah, I can see that!
+
+TAG: Pumbaa_003_f
+I saw the biggest, juiciest grub I've ever seen crawl into this log, so I CHARGED after it real fast.
+
+TAG: Pumbaa_005_f
+You gotta help me!
+
+TAG: Pumbaa_006_f
+Don't worry, Pumbaa! I'll <Lore>talk to Timon</Lore> and we'll figure something out.
+
+TAG: Pumbaa_002_f
+Oh no! I didn't wanna make anyone worry. I was just hungry!
+

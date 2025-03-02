@@ -1,0 +1,12 @@
+TAG: Mirabel_001_f
+If we can <Lore>figure out the chigÃ¼iros' favorite food</Lore> and feed them, I can include that in my letter to Antonio.
+
+TAG: Mirabel_002_f
+He'll want to know if they're like the ones back home.
+
+TAG: Mirabel_004_f
+Rapunzel said their favorite food is <ActivityItem>Cabbage</ActivityItem>. I'll have to try that...
+
+TAG: Mirabel_003_f
+There must be <Lore>someone who's spent a lot of time in the Wild Tangle</Lore> who knows what they like.
+

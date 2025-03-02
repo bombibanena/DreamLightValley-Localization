@@ -1,0 +1,201 @@
+TAG: OngoingWhatToDo
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: OngoingWhereYouGo
+<smallcaps>{title}</smallcaps><br> Куда ты идешь?
+
+TAG: OngoingWhereWeGo
+<smallcaps>{title}</smallcaps><br> Куда мы идем?
+
+TAG: Any_Building
+любое здание
+
+TAG: Any_Character
+любой символ
+
+TAG: Any_Clothing
+любой кусок одежды
+
+TAG: Any_Crop
+любой урожай
+
+TAG: Any_Currency
+Валюта
+
+TAG: Any_Ephemeral
+{Placeholder}any Efemeral
+
+TAG: Any_Fish
+Рыбы
+
+TAG: Any_Flower
+любой цветок
+
+TAG: Any_Furniture
+любой кусок мебели
+
+TAG: Any_Ingredient
+любой непристойный
+
+TAG: Any_Insect
+любое насекомое
+
+TAG: Any_LootPresent
+любой присутствующей
+
+TAG: Any_Meal
+еда
+
+TAG: Any_Recipe
+любой реципиент
+
+TAG: Any_Seed
+любой семенной материал
+
+TAG: Decorate_Location_AnywhereInTheVillage
+<Location>Village</Location>
+
+TAG: Decorate_Location_PlayerHouse
+<Location>house</Location>
+
+TAG: Location_Anywhere
+<Location>Everywhere</Location>
+
+TAG: Location_Castle
+<Location>Castle</Location>
+
+TAG: Location_Other_WishingWell
+<Location>Wishing хорошо</Location>
+
+TAG: Location_PlayerHouse
+<Location> Ваш дом</Location>
+
+TAG: TargetItem_ActivityItemType_Crop
+Урожай
+
+TAG: TargetItem_ActivityItemType_Default
+Ошибка
+
+TAG: TargetItem_ActivityItemType_Insect
+Насекомые
+
+TAG: TargetItem_ActivityItemType_Meal
+Питание
+
+TAG: TargetItem_ActivityItemType_Seed
+Семя
+
+TAG: TargetItem_Complexity_Lavish
+Лавиш
+
+TAG: TargetItem_Complexity_Simple
+Просто
+
+TAG: TargetItem_CropType_Any
+Любые
+
+TAG: TargetItem_CropType_Fruit
+Фрукты
+
+TAG: TargetItem_CropType_Vegetable
+Овощное
+
+TAG: TargetItem_FishConstraint_Any
+Любые
+
+TAG: TargetItem_FishConstraint_Early
+Рано
+
+TAG: TargetItem_FishConstraint_Late
+Опоздал
+
+TAG: TargetItem_FlowerRarity_Any
+Любые
+
+TAG: TargetItem_FlowerRarity_Common
+Общие
+
+TAG: TargetItem_FlowerRarity_Rare
+Редкий
+
+TAG: TargetItem_FlowerRarity_Uncommon
+Необычно
+
+TAG: TargetItem_IngredientType_Fish
+Рыба
+
+TAG: TargetItem_IngredientType_Fruit
+Фрукты
+
+TAG: TargetItem_IngredientType_Grain
+Зерно
+
+TAG: TargetItem_IngredientType_None
+Нет
+
+TAG: TargetItem_IngredientType_Other
+Прочее
+
+TAG: TargetItem_IngredientType_SeaFood
+Морские продукты
+
+TAG: TargetItem_IngredientType_Spice
+Спайс
+
+TAG: TargetItem_IngredientType_SubProduct
+{Placeholder}Subproductiont
+
+TAG: TargetItem_IngredientType_Vegetable
+Овощное
+
+TAG: TargetItem_MealType_Any
+Любые
+
+TAG: TargetItem_MealType_Meal
+Питание
+
+TAG: TargetItem_MealType_SubProduct
+{Placeholder}Subproductiont
+
+TAG: TargetItem_Mood_Calm
+Успокойся.
+
+TAG: TargetItem_Mood_Playful
+Воспроизведение
+
+TAG: TargetItem_Normality_Familiar
+Знакомые
+
+TAG: TargetItem_Normality_Wondrous
+Ужасно
+
+TAG: TargetItem_Sturdiness_Delicate
+Деликат
+
+TAG: TargetItem_Sturdiness_Strong
+Сильные
+
+TAG: VillageArea_Beach
+<Area>Dazzle Beach</Area>
+
+TAG: VillageArea_Cliff
+<Area>Frosted Highes</Area>
+
+TAG: VillageArea_DarkMountains
+<Area> Забытые земли</Area>
+
+TAG: VillageArea_Forest
+<Area> Леса валора</Area>
+
+TAG: VillageArea_Meadow
+<Area> Мирная луга</Area>
+
+TAG: VillageArea_Savannah
+<Area>Sunlit Плато</Area>
+
+TAG: VillageArea_Urban
+<Area>Plaza</Area>
+
+TAG: VillageArea_Wetland
+<Area>Glade of Trust</Area>
+

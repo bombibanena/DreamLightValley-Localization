@@ -1,0 +1,45 @@
+TAG: Village!Oswald!VLG_Oswa_070_AvailableDescription
+Рапунцель безусловно имеет потрясающее испытание для вас и Освальд.
+
+TAG: Village!Oswald!VLG_Oswa_070_DisplayName
+Рапунцель Challenge.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Рапунцель.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step02_CookMeal01_StepDescription
+Черничный пирог.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step02_CookMeal02_StepDescription
+Красивая Розовая Звезда с барбекю.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step02_CookMeal03_StepDescription
+Руби Масуор Дал.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step03_TalkToCharacter02_StepDescription
+Попросите совета у Реми.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_StepDescription
+Приготовить три цветных еды.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group03_Step04_TalkToCharacter03_StepDescription
+Проверь результаты приготовления Освальд.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem01_StepDescription
+Черничный пирог.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem02_StepDescription
+Красивая Розовая Звезда с барбекю.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem03_StepDescription
+Руби Масуор Дал.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem04_StepDescription
+"Голые морковки" Освальд.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_ReadyDescription
+Принесите еду Рапунцель.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_StepDescription
+Убедитесь, что у вас есть еда для Рапунцель в вашем списке.
+

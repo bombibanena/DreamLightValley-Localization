@@ -1,0 +1,45 @@
+TAG: Scrooge_000_f
+Ahh... Another perfect day for business, {PlayerName}. And just what are we investing in today?
+
+TAG: Player_000_f
+Simba wants to make the Valley a little more relaxing, and we're only missing a pool...
+
+TAG: Player_000_choice_000_f
+I came to buy it.
+
+TAG: Player_000_choice_001_f
+Do you have anything like that in stock?
+
+TAG: Player_000_choice_002_f
+How many Garnets do you need this time?
+
+TAG: Scrooge_001_f
+Aye, that's what a shopkeeper likes to hear!
+
+TAG: Scrooge_006_f
+And I'm ready to make you a one-time offer.
+
+TAG: Scrooge_007_f
+You can either order the <ActivityItem>Relaxing Oasis</ActivityItem>, or I can trade it to ya for some <ActivityItem>Gems</ActivityItem>.
+
+TAG: Scrooge_002_f
+No need to decide right now. Take some time to think about it...
+
+TAG: Scrooge_014_f
+Though, according to my records, you have enough Star Coins to order it.
+
+TAG: Scrooge_016_f
+But according to my records, you don't have enough Star Coins to order it. So, you'll need to find a way to bring in some revenue first!
+
+TAG: Scrooge_003_f
+As a matter of fact, I do.
+
+TAG: Scrooge_004_f
+Ha-ha-ha!
+
+TAG: Scrooge_005_f
+Did you really think I'd trade you the <ActivityItem>Relaxing Oasis</ActivityItem> for just a few <ActivityItem>Garnets</ActivityItem>? That's a pittance for such an item, {PlayerName}.
+
+TAG: Scrooge_008_f
+But I'm ready to make you a one-time offer.
+

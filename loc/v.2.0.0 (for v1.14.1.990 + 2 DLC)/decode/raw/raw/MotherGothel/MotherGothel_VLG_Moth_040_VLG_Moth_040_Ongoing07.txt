@@ -1,0 +1,9 @@
+TAG: MotherGothel_000_f
+The <ActivityItem>Dusk Fragment's</ActivityItem> energy requires a whole day to be restored.
+
+TAG: MotherGothel_001_f
+Treat it like a <ActivityItem>Crop</ActivityItem>, so it can absorb the Valley's power.
+
+TAG: MotherGothel_002_f
+Bury it in the Forgotten Lands and don't forget to water it. Well, off with you! Go!
+

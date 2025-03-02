@@ -1,0 +1,45 @@
+TAG: Donald_000_f
+Oh boy. My Uncle Scrooge is already here in the Village.
+
+TAG: Player_000_choice_000_f
+You don't sound thrilled.
+
+TAG: Player_000_choice_001_f
+He's been very helpful.
+
+TAG: Player_000_choice_002_f
+He's kind of greedy.
+
+TAG: Donald_001_f
+Well, Uncle Scrooge and I don't always agree on things.
+
+TAG: Donald_002_f
+But he's my family, and you know what that means.
+
+TAG: Player_003_choice_000_f
+You have to stick together.
+
+TAG: Player_003_choice_001_f
+Friends are more important.
+
+TAG: Player_003_choice_002_f
+No, I don't.
+
+TAG: Donald_005_f
+Yep! He's always there for me when I need him.
+
+TAG: Donald_006_f
+And I'll always be there for him.
+
+TAG: Donald_007_f
+It's not a competition. My friends AND my family are both important to me.
+
+TAG: Donald_008_f
+Well, family's important to me. They're not always perfect, but we always stick together.
+
+TAG: Donald_003_f
+That's great. But I'd be surprised if he helped you do anything for free.
+
+TAG: Donald_004_f
+I'm not sure about that. But he does love his money. He even has a special display case for the first dime he earned!
+

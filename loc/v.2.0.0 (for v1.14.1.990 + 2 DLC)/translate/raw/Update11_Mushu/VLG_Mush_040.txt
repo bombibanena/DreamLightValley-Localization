@@ -1,0 +1,162 @@
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Any_CompletedRequestDescription
+Свяжитесь с Мушу о будущем Общества крошечных деревенских жителей.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_AvailableDescription
+Мушу выглядит раздражённым... что случилось?
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_CompletedStoryDescription
+Общество крошечных деревенских жителей объединилось и празднует свою победу и свое светлое будущее.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_DisplayName
+Общество крошечных деревенских жителей
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group01_Step01_StepDescription
+Спроси крошечных деревенских жителей о поведении Шрам:
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group01_Step01_TalkToCharacter01_StepDescription
+Базз Лайтер.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group01_Step01_TalkToCharacter02_StepDescription
+Вуди.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group01_Step01_TalkToCharacter03_StepDescription
+Стич.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group01_Step01_TalkToCharacter04_StepDescription
+Реми.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group01_StoryDescription
+Мушу говорит, что он заметил, что Шрам беспокоит некоторых из мелких деревенских жителей в долине, он просит вас взять у них показания.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group02_Step02_TalkToCharacter05_StepDescription
+Сообщите {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group03_Step03_Possess01_StepDescription
+Мягкая древесина.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group03_Step03_Possess02_StepDescription
+Железные слитки.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group03_Step03_Possess03_StepDescription
+Фабрик.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group03_StepDescription
+Собирайте материалы для набора стулья <ActivityItem>Tiny</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group03_StoryDescription
+Свидетельские показания подтверждают то, чего боялся Мушу: Шрам были издевательскими деревенскими жителями меньше, чем он. Мушу решает создать Общество крошечных деревенских жителей для решения этой проблемы. Это начинается с наличия мебели надлежащего размера для членов общества, включая крошечные стулья.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group04_Step04_CraftItem01_StepDescription
+Кресло <ActivityItem>Tiny</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group05_Step05_ReadyDescription
+Принесите стулья <ActivityItem>Tiny</ActivityItem> на Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group05_Step05_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Tiny sessions</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group06_Step06_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC} о крошечной еде для встречи.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group06_StoryDescription
+После того, как вы доставили крошечные стулья Мушу, вы отправляетесь поговорить с Реми о небольшом освежении для встречи.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group07_Step07_GardeningPlant01_StepDescription
+Посадить семя <ActivityItem>Miniature Leek</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group08_Step08_Possess04_StepDescription
+Лук.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group08_Step08_Possess05_StepDescription
+Гриб.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group08_Step08_Possess06_StepDescription
+Масло.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group08_Step08_Possess07_StepDescription
+Миниатюрные лики.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group08_Step08_StepDescription
+Соберите оставшиеся ингредиенты для <ActivityItem>Miniature Leek Sup</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group08_Step28_StepDescription
+Помочь <ActivityItem>Miniature Leaks</ActivityItem> и собрать их, когда они будут готовы.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group09_Step09_CookMeal01_StepDescription
+Повар <ActivityItem>Miniature Leek Soups</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group10_Step10_ReadyDescription
+Принесите {TargetNPC} <ActivityItem> Miniature Leek Soups</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group10_Step10_StepDescription
+Убедитесь, что в вашем списке есть суп <ActivityItem>Miniature Leek</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group11_StepDescription
+Познакомьтесь с Мушу в его доме на первом собрании Общества крошечных деревенских жителей.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group11_StoryDescription
+Ты готовишь и доставляешь миниатюрные супы на Мушу для встречи, а потом пришло время!
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group12_Step12_Listen01_StepDescription
+Слушайте первую встречу Общества крошечных деревенских жителей в Мушу House.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group13_Step13_TalkToCharacter07_StepDescription
+Поговори с {TargetNPC} о следующем шаге.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group13_StoryDescription
+Мушу обещает помочь членам Общества крошечных деревенских жителей избежать гнева Шрам. Вы задумали с ним план, чтобы передать послание эгоистическому льву.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group14_Step14_VisitArea01_StepDescription
+Возвращайся в королевство Мулан.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group15_Step15_Possess08_StepDescription
+Найдите <ActivityItem>Hand Fan</ActivityItem> в тренировочном лагере в Сомне.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group16_Step16_TalkToCharacter08_StepDescription
+Сообщите {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group17_Step17_FollowCharacter02_StepDescription
+Встретимся с Мушу в доме Шрам.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group18_Step18_ReadyDescription
+Передайте <ActivityItem>Hand Fan</ActivityItem> {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group18_Step18_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Hand Fan</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group19_Step19_TalkToCharacter09_StepDescription
+Поговори с {TargetNPC} и найди способ заманить его в дом.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group20_Step20_FollowCharacter03_StepDescription
+Встретимся с Шрам в его доме для обсуждения с Мушу.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group21_Step21_Listen02_StepDescription
+Смотреть Мушу против Шрам.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group22_Step22_TalkToCharacter10_StepDescription
+Свяжитесь с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group22_StoryDescription
+Установив выставку и принеся Шрам в его дом, вы стали свидетелями столкновения между Шрам и Мушу. Шрам соглашается оставить маленьких деревенских жителей в покое. Победа!
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group23_Step23_FollowCharacter04_StepDescription
+Встретимся с Мушу в его доме на еще одном собрании Общества крошечных деревенских жителей.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group24_Step24_Listen03_StepDescription
+Слушайте вторую встречу Общества крошечных деревенских жителей.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group25_Step25_TalkToCharacter11_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group25_StoryDescription
+Мушу приносит новости о победе над Шрам в Общество крошечных деревенских жителей. У каждого большие планы, но он также хочет отпраздновать этот момент.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group26_StepDescription
+Декорировать на свежем воздухе с <ActivityItem>Tiny Party Set</ActivityItem>.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_Group27_Step27_Party01_StepDescription
+Праздновать с крошечными деревенскими жителями.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

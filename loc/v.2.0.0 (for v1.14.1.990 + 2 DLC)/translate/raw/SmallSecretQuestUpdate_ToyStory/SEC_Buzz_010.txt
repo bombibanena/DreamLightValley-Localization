@@ -1,0 +1,27 @@
+TAG: Secret!ToyStory!SEC_Buzz_010_Any_CompletedRequestDescription
+Сообщите Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_AvailableDescription
+Базз Лайтер ищет пропавшие игрушки-иностранцы в долине Мечты. Похоже, он что-то нашел. Вам нужно поговорить с ним, чтобы выяснить это.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_DisplayName
+Соберите всех: Зелёных мужчин!
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group01_Step01_TalkToCharacter01_StepDescription
+Сообщите Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group01_StepDescription
+Вызываю всех Космических Рейнджеров!
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_Step02_BringItem01_StepDescription
+Присматривай за игрушками <ActivityItem>Alien</ActivityItem>, разбросанными вокруг биом в деревне!
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_Step02_ReadyDescription
+Приведите игрушки <ActivityItem>Alien</ActivityItem> на Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_StoryDescription
+Базз Лайтер ставит перед вами задачу найти игрушек-иностранцев, разбросанных по каждой Biome Dreamlight Valley. Он предупреждает вас, что они стесняются, и вы можете найти только несколько игрушек каждый день. Вы должны приглядывать за ними, пока вы делаете свою обычную работу в деревне.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Любые признаки жизни пришельцев?
+

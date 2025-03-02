@@ -1,0 +1,105 @@
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Any_CompletedRequestDescription
+Возвращайся в Реми за твои награды.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_AvailableDescription
+У Реми есть специальный заказ на доставку!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_DisplayName
+Приятного аппетита, Ваниллопа!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group01_Step01_CookMeal01_StepDescription
+Приготовить Ваниллопа немного <ActivityItem>5-Star Vegetable Feals</ActivityItem>.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal03_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal04_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_StepDescription
+Повар Ваниллопа:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal05_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal06_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal07_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal08_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal09_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_StepDescription
+Приготовить для Ваниллопа следующее:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group04_Step04_ReadyDescription
+Возьмите <ActivityItem>5-Star Vegetable Feals</ActivityItem> на Ваниллопа.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group04_Step04_StepDescription
+Возьмите <ActivityItem>5-Star Vegetable Feals</ActivityItem> для Ваниллопа.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_ReadyDescription
+Принесите острое питание Ваниллопа.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_StepDescription
+Получите следующее для Ваниллопа:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem06_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem07_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem08_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem09_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_ReadyDescription
+Возьмите <ActivityItem>Boba Tea</ActivityItem> на Ваниллопа.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_StepDescription
+Получите следующее для Ваниллопа:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group07_Step07_Listen01_StepDescription
+Следуйте за Ваниллопа, чтобы узнать, кто.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group07_StepDescription
+Похоже, Ваниллопа пытается разозлить кого-то...
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group08_Step08_Listen02_StepDescription
+Следуйте за Ваниллопа, чтобы узнать, кто последний босс.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group08_StepDescription
+Ваниллопа сказал что-то о принятии"финальный босс"...
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group09_Step09_TalkToCharacter01_StepDescription
+Свяжитесь с Мерлин.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group10_Step10_TalkToCharacter02_StepDescription
+Поговори с Скрудж Макдак, чтобы всё уладить.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

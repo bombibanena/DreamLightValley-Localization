@@ -1,0 +1,54 @@
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Any_CompletedRequestDescription
+Поговори с Мирабель.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_AvailableDescription
+Мирабель кажется любопытным о джунглях.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_CompletedStoryDescription
+После всего, что вы обнаружили, Мирабель определенно будет о многом писать Антонио!
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_DisplayName
+Письмо для Антонио
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step01_StepDescription
+<ActivityItem> Capybara</ActivityItem>.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step02_StepDescription
+<ActivityItem> Black and White Capybara</ActivityItem>.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step03_StepDescription
+<ActivityItem> BlueStenciled Capybara</ActivityItem>.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step04_StepDescription
+<ActivityItem>Gray Spoted Capybara</ActivityItem>.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_Step05_StepDescription
+<ActivityItem>Red и WhiteSteped Capybara</ActivityItem>.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_StepDescription
+Сфотографируй Мирабель рядом:
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group01_StoryDescription
+Мирабель подумывает отправить письмо Антонио о всех новых тварях на острове Вечность, но сначала вам нужно сфотографировать их...
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group02_Step06_TalkToCharacter01_StepDescription
+Поговори с Мирабель.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group02_StoryDescription
+Ты получишь отличные фотографии Мирабель с капибарами в Диком Танге. Антонио подумает, что она такая классная...
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group03_Step07_FeedCritter01_StepDescription
+Покормите любую капибару своей любимой едой.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group03_Step08_TalkToCharacter02_StepDescription
+Спросите кого-нибудь, кто провел много времени в Диком Танге о том, что <ActivityItem> Capybaras</ActivityItem> любит есть.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group03_StoryDescription
+Осталось только одно, чтобы сделать Антонио счастливым.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group04_Step09_TalkToCharacter03_StepDescription
+Поговори с Мирабель.
+
+TAG: Secret!Expansion01!Mirabel!SEC_E01_Mira_010_Group04_StepDescription
+Мирабель тратит много времени на изучение Диких Таней...
+

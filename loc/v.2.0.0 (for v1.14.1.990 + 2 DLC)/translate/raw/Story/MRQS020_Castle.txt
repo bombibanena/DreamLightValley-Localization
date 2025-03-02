@@ -1,0 +1,75 @@
+TAG: Story!MRQS020_Castle_Any_CompletedRequestDescription
+Куда ведут все эти двери? Поговори с Мерлин в замке.
+
+TAG: Story!MRQS020_Castle_AvailableDescription
+Мерлин ждет тебя в замке.
+
+TAG: Story!MRQS020_Castle_CompletedStoryDescription
+Внутри вы обнаруживаете двери. Мерлин определенно может рассказать вам о них больше.
+
+TAG: Story!MRQS020_Castle_DisplayName
+Замок Мечты
+
+TAG: Story!MRQS020_Castle_Group01_Step01_FollowCharacter01_StepDescription
+Следуйте за Мерлин.
+
+TAG: Story!MRQS020_Castle_Group01_Step01_FollowCharacter01_TalkToDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS020_Castle_Group01_StoryDescription
+Он объясняет, что "Гигантские Ночные Торны", блокирующие вход внутрь, не такие, как те, что вы видели раньше, вам понадобится магия сильнее, если вы хотите попасть в замок.
+
+TAG: Story!MRQS020_Castle_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать с сказочным светом, который я собрал?
+
+TAG: Story!MRQS020_Castle_Group03_Step03_Unlock01_StepDescription
+Открой замок Мечты.
+
+TAG: Story!MRQS020_Castle_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что только что произошло?
+
+TAG: Story!MRQS020_Castle_Group04_Step04_VisitArea01_StepDescription
+Войдите в замок Мечты.
+
+TAG: Story!MRQS020_Castle_Group04_StoryDescription
+Вызвав достаточно Мечтного Света из колодца Желаний, вы освободите замок от Ночных Торнов.
+
+TAG: Story!MRQS020_Castle_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Как я могу собрать DreamLight?
+
+TAG: Story!MRQS020_Castle_Group05_Step06_Possess02_StepDescription
+Соберите {ItemName}, чтобы открыть замок Мечты.
+
+TAG: Story!MRQS020_Castle_Group05_Step11_RoyalDuties01_StepDescription
+Полный <ActivityItem>Dreamlight Обязанности</ActivityItem>.
+
+TAG: Story!MRQS020_Castle_Group05_Step11_StepDescription
+(Присоединиться к меню DreamLight из колодца или нажать {input_mainmenu}.)
+
+TAG: Story!MRQS020_Castle_Group05_Step11_StepDescriptionMobile
+( Доступ к меню DreamLight из колодца или из главного меню.)
+
+TAG: Story!MRQS020_Castle_Group05_StoryDescription
+Мерлин показывает вам источник Dreamlight в деревне: "Пожелание добра". Он призывает вас изучить его, чтобы выяснить, какая деятельность генерирует "Dream Light", так как вы должны собрать его, чтобы открыть замок Мечты.
+
+TAG: Story!MRQS020_Castle_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Где я могу найти Микки Маус?
+
+TAG: Story!MRQS020_Castle_Group06_Step05_Conditional02_StepDescription
+Проверь Микки Маус в его доме.
+
+TAG: Story!MRQS020_Castle_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я упускаю, чтобы открыть замок?
+
+TAG: Story!MRQS020_Castle_Group07_Step08_StepDescription
+Продолжайте исследовать Долину, чтобы найти четыре <ActivityItem>Royal Tools</ActivityItem> и поговорить с Мерлин.
+
+TAG: Story!MRQS020_Castle_Group08_Step07_FollowCharacter02_TalkToDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS020_Castle_Group08_StepDescription
+Найди Мерлин, ждущего тебя в замке Мечты.
+
+TAG: Story!MRQS020_Castle_Group10_Step10_TalkToCharacter04_StepDescription
+Поговори с Мерлин.
+

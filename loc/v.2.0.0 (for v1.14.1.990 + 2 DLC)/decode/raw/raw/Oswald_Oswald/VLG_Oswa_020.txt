@@ -1,0 +1,177 @@
+TAG: Village!Oswald!VLG_Oswa_020_Any_CompletedRequestDescription
+See how Oswald enjoyed the Friendship Picnic.
+
+TAG: Village!Oswald!VLG_Oswa_020_AvailableDescription
+What's going on with Oswald? Strangely, he seems to be both sad and over-rested...
+
+TAG: Village!Oswald!VLG_Oswa_020_CompletedStoryDescription
+The alarm clock debacle dealt with, you managed to set up a Friendship Picnic for Oswald and Stitch, allowing them to finally catch up and enjoy each other's company.
+
+TAG: Village!Oswald!VLG_Oswa_020_DisplayName
+An Alarming Development
+
+TAG: Village!Oswald!VLG_Oswa_020_Group01_Step01_Possess01_StepDescription
+Mechanical Parts.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group01_Step01_Possess02_StepDescription
+Bronze Ingots.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group01_Step01_Possess03_StepDescription
+Plastic Scraps.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group01_Step01_Possess04_StepDescription
+Zinc.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group01_Step01_StepDescription
+Gather the following:
+
+TAG: Village!Oswald!VLG_Oswa_020_Group02_Step02_CraftItem01_StepDescription
+Craft a set of <ActivityItem>Oswaldian Alarm Clocks</ActivityItem>.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group03_Step03_BringItem01_StepDescription
+Make sure you have the set of <ActivityItem>Oswaldian Alarm Clocks</ActivityItem> in your Inventory.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group03_Step03_ReadyDescription
+Bring the set of <ActivityItem>Oswaldian Alarm Clocks</ActivityItem> to Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group04_Step04_Conditional01_StepDescription
+Check back with Oswald in 10 minutes.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group05_Step05_TalkToCharacter01_StepDescription
+See how Oswald is getting along with his alarm clocks.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_Step06_Chase01_StepDescription
+Charleston.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_Step06_Chase02_StepDescription
+Foxtrot.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_Step06_Chase03_StepDescription
+Texas Tommy.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_Step06_Chase04_StepDescription
+Lindy Hop.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_Step06_Chase05_StepDescription
+Tango.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_Step06_Chase06_StepDescription
+Shimmy.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_Step06_Chase07_StepDescription
+Swing.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_StepDescription
+The alarm clocks are on the loose! Catch the runaways before they wake up the entire Island.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group06_StoryDescription
+Oswald wanted some help to wake up in time for his brunch with Stitch, but after you made him a set of alarm clocks, his cartoon logic animated them all and they escaped all over Eternity Isle.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group07_Step07_BringItem02_StepDescription
+Make sure you have all the escaped clocks in your Inventory.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group07_Step07_ReadyDescription
+Bring the escaped clocks to Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group08_Step08_Possess05_StepDescription
+Rumba was seen swimming around Ancient's Landing.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group08_Step08_Possess06_StepDescription
+Conga was spotted resting under a rock in the Wild Tangle.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group08_Step08_Possess07_StepDescription
+Waltz was spied getting a good tan in the Glittering Dunes.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group08_Step08_StepDescription
+Find the remaining fugitive clocks.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group09_Step09_BringItem03_StepDescription
+Rumba.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group09_Step09_BringItem04_StepDescription
+Conga.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group09_Step09_BringItem05_StepDescription
+Waltz.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group09_Step09_ReadyDescription
+Bring the last alarm clock triplets to Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group09_Step09_StepDescription
+Make sure you have the last alarm clock triplets in your Inventory.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group10_Step10_TalkToCharacter02_StepDescription
+Talk to Olaf to see if he can calm down the rambunctious alarm clocks.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group11_Step11_VisitArea01_StepDescription
+Meet Olaf and Oswald in Oswald's House.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group12_Step12_Listen01_StepDescription
+Listen to Olaf's bedtime story.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group13_Step13_TalkToCharacter03_StepDescription
+Talk to Oswald about the consequences of his clockwork experiments.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group14_Step14_Possess08_StepDescription
+Coal.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group14_Step14_Possess09_StepDescription
+Pearls.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group14_Step14_Possess10_StepDescription
+Oswaldian Garlic.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group14_StepDescription
+Gather the following resources:
+
+TAG: Village!Oswald!VLG_Oswa_020_Group15_Step15_CraftItem02_StepDescription
+Craft <ActivityItem>Oswald's Black (and White) Coffee</ActivityItem>.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group16_Step16_ReadyDescription
+Merlin.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group16_Step17_ReadyDescription
+Rapunzel.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group16_Step18_ReadyDescription
+Gaston.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group16_Step19_ReadyDescription
+Scrooge McDuck.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group16_StepDescription
+Distribute <ActivityItem>Oswald's Black (and White) Coffee</ActivityItem> to the sleepy Villagers.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group17_Step20_TalkToCharacter04_StepDescription
+Talk to Oswald about the strange results from drinking his coffee.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group17_StoryDescription
+You managed to round up the escaped alarm clocks, but to your chagrin, the clocks had been waking people up all over Eternity Isle! Oswald distributed some special coffee as an apology, but the coffee sent everyone into a burst of Oswaldian slang.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group18_Step21_Decorate01_StepDescription
+White Furniture.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group18_Step21_Decorate02_StepDescription
+Black Furniture.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group18_Step21_Decorate03_StepDescription
+Quirky Furniture.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group18_Step21_Decorate04_StepDescription
+Seats.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group18_Step21_StepDescription
+Decorate to prepare a Friendship Picnic for Oswald and Stitch.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group19_Step22_TalkToCharacter05_StepDescription
+Talk to Oswald about the Friendship Picnic.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group20_Step23_Decorate05_StepDescription
+Place the <ActivityItem>Cartoon Parasol</ActivityItem>.
+
+TAG: Village!Oswald!VLG_Oswa_020_Group21_Step24_StepDescription
+Take a picture to start the Friendship Picnic.
+
+TAG: Village!Oswald!VLG_Oswa_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

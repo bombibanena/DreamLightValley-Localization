@@ -1,0 +1,78 @@
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_AvailableDescription
+{PlayerName} soon stumbled upon yet another grand place in Everafter: a vast moor with a ruined old castle at the far side. The place seemed like an invitation to adventure.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_DisplayName
+The Fallen Fortress
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group01_Step01_VisitArea01_StepDescription
+Explore the area around the <ActivityItem>Fallen Fortress</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group02_Step02_Interaction01_StepDescription
+Look for a way to <ActivityItem>lower the castle's drawbridge</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group02_Step02_StepDescription
+There seems to be something important on the other side of those crumbling castle walls...
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group03_Step03_Conditional01_StepDescription
+Explore the Wild Woods to find a Villager who might be able to help you.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group03_Step03_StepDescription
+The drawbridge won't budge. You might need help on this one...
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group04_Step04_StepDescription
+The drawbridge won't budge. You might need help on this one...
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group04_Step04_TalkToCharacter01_StepDescription
+Talk to Flynn about the mysterious Fortress and its drawbridge.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group05_Step05_ConsumeItem01_StepDescription
+Examine {ItemName} in your Inventory.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess01_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess02_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess03_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess04_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_StepDescription
+Gather the materials required to craft the <ActivityItem>Fairy Tale Armor</ActivityItem>:
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group07_Step07_CraftItem01_StepDescription
+Craft the {ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group08_Step08_TalkToCharacter02_StepDescription
+Return to {TargetNPC}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step09_Conditional06_StepDescription
+(Optional) Tame any <ActivityItem>Baby Dragon</ActivityItem> in Everafter.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step10_DressUp01_StepDescription
+Wearing {ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step11_Conditional03_StepDescription
+Hanging out with your squire (Flynn!).
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step11_Conditional06_StepDescription
+(Optional) Tame any </ActivityItem>Baby Dragon</ActivityItem> in Everafter.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_StepDescription
+You are making good progress on your way to becoming a knight! Complete the journey by:
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group11_Step13_StepDescription
+Enter the Fortress grounds and activate the <ActivityItem>Fairy Tale Trial</ActivityItem> with your Royal Net.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group11_StepDescription
+The drawbridge is lowered!
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group12_Step14_Conditional05_StepDescription
+Lower the drawbridge to the Fallen Fortress.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group12_StepDescription
+You are officially a knight! Congratulations, {PlayerName} the Brave.
+

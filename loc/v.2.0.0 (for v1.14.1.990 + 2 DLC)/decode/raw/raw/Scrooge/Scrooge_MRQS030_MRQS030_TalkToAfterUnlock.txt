@@ -1,0 +1,12 @@
+TAG: Scrooge_000_f
+Bless me bagpipes! I'm back in business! All I need now are some customers.
+
+TAG: Scrooge_001_f
+Oh, and a good investment deserves a good return. These coins are for you. Use 'em to get anything you like!
+
+TAG: Scrooge_002_f
+Come in! Take a look around, {PlayerName}.
+
+TAG: Scrooge_003_f
+If you're not finding anything you like, talk to me in the shop to use my patented McDuck Delivery System!
+

@@ -1,0 +1,36 @@
+TAG: Mirabel_000_f
+{PlayerName}, how are you? Just checking in.
+
+TAG: Mirabel_001_f
+You do a lot around here, which kind of reminds me of my sister Luisa.
+
+TAG: Mirabel_002_f
+And people who take on a lot... well, sometimes they take on too much.
+
+TAG: Player_000_choice_000_f
+I'm just getting started!
+
+TAG: Player_000_choice_001_f
+Maybe I should relax some more.
+
+TAG: Player_000_choice_002_f
+I'm cracking under all the pressure!!!
+
+TAG: Mirabel_003_f
+Really? Okay. As long as you're feeling good about it, I say go for it!
+
+TAG: Mirabel_004_f
+And hey, you know I'm always here if you need some help.
+
+TAG: Mirabel_005_f
+Yes! Do that! Lay back. Find a hammock. Enjoy the weather.
+
+TAG: Mirabel_006_f
+That's one thing my family's learned recently. It's important to notice when you're carrying way too much.
+
+TAG: Mirabel_007_f
+Â¡Ayyy! That's not good. And, in case you didn't know, your eyelid's twitching.
+
+TAG: Mirabel_008_f
+If you're overdoing it, you need to take some time for yourself.
+

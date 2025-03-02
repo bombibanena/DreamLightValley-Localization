@@ -1,0 +1,54 @@
+TAG: Sully_000_f
+{PlayerName}, just who I was lookin' for. Do you have a few minutes to talk?
+
+TAG: Player_000_choice_000_f
+What do you need?
+
+TAG: Player_000_choice_002_f
+Not right now!
+
+TAG: Sully_001_f
+Well, I've been thinkin', and I wanna create a class about electricity and power.
+
+TAG: Player_001_choice_000_f
+That's a great idea.
+
+TAG: Player_001_choice_001_f
+Any reason why?
+
+TAG: Player_001_choice_002_f
+Easy on the experiments?
+
+TAG: Sully_003_f
+I thought you'd be on board.
+
+TAG: Sully_004_f
+I've been spendin' some time with Vanellope. Her unstoppable energy kinda reminds me of my friend Boo. Anyway, I realized she'd probably enjoy learnin' something new.
+
+TAG: Sully_006_f
+She's always talkin' about "leveling up," and I think learning is the greatest leveling up there is.
+
+TAG: Sully_012_f
+How can I help?
+
+TAG: Sully_013_f
+Could ya make a <ActivityItem>Lemon Clock</ActivityItem> while I prep for the class?
+
+TAG: Sully_014_f
+I'm guessing I'll need lemons...
+
+TAG: Sully_015_f
+Yep! You'll need <ActivityItem>Lemons</ActivityItem> and <ActivityItem>Iron Ingots</ActivityItem>.
+
+TAG: Sully_016_f
+I'll get those and craft the <ActivityItem>Lemon Clock</ActivityItem> for your project with Vanellope.
+
+TAG: Sully_017_f
+Thanks, {PlayerName}. She's gonna love it.
+
+TAG: Sully_005_f
+Don't worry. I'm all about safety first.
+
+TAG: Sully_002_f
+Gotcha! Later then.
+

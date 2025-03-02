@@ -1,0 +1,3 @@
+TAG: MotherGothel_000_f
+Put the <ActivityItem>Orb</ActivityItem> back into the Pillar. I thought that would be obvious.
+

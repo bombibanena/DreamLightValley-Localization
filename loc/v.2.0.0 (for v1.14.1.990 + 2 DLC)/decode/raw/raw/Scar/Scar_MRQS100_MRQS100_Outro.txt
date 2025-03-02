@@ -1,0 +1,39 @@
+TAG: Scar_002_f
+Ahh... I see you've brought life back to my kingdom.
+
+TAG: Scar_004_f
+And not a moment too soon. I'm simply famished.
+
+TAG: Scar_003_f
+Frankly, I didn't think you'd be able to manage it, even with my guidance.
+
+TAG: Player_000_choice_000_f
+I didn't think so either...
+
+TAG: Player_000_choice_001_f
+I've handled bigger problems.
+
+TAG: Player_000_choice_002_f
+Don't underestimate me, Scar.
+
+TAG: Scar_005_f
+Well, as long as you listen closely and follow my every instruction, we'll each get what we want.
+
+TAG: Scar_017_f
+I suppose there's enough room in this Valley for both of us, {PlayerName}... as long as you remember one thing.
+
+TAG: Scar_001_f
+The Sunlit Plateau is MY kingdom. And no one else's.
+
+TAG: Scar_016_f
+Do not forget it.
+
+TAG: Scar_006_f
+Yes, it's clear you have some competencies, unlike a certain white-maned windbag... or a rather inconvenient nephew of mine, wherever he may be...
+
+TAG: Scar_018_f
+Is that a threat? Perhaps I'm inspiring you, {PlayerName}.
+
+TAG: Scar_019_f
+You may learn how to be a competent ruler yet.
+

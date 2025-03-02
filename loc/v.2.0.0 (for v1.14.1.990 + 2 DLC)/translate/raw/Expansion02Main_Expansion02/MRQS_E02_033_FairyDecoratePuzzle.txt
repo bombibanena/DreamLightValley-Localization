@@ -1,0 +1,36 @@
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_AvailableDescription
+В рамках процесса сказок {PlayerName} наткнулась на раздражающую головоломку: три строительных материала и три строительных площадки.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_DisplayName
+Не у волос на моём Чинни Чин Чин.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_DisplayName_000
+The Wolf of the Wilds
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_SceneryPuzzle01_StepDescription
+Кирпичи.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_SceneryPuzzle02_StepDescription
+Привет.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_SceneryPuzzle03_StepDescription
+Дерево.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_StepDescription
+(Пресс {input_inventory}, затем направляйтесь в отдел мебели, чтобы забрать и перевезти строительные материалы в правильное место!)
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_Step01_StepDescriptionMobile
+(Откройте свой список, затем отправитесь в отдел мебели, чтобы забрать и перенести строительные материалы в правильное место!)
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group01_StepDescription
+Поместите нужный строительный материал на нужном строительном объекте.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group02_Step02_VisitArea01_StepDescription
+Обследуйте комнату, полную строительных материалов.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group03_Step03_Possess01_StepDescription
+Возьми {ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_033_FairyDecoratePuzzle_Group03_StepDescription
+Занавес в задней части комнаты открыл что-то!
+

@@ -1,0 +1,21 @@
+TAG: Repeatable!Event!Park!RPT_WallE_DailyPark_Any_CompletedRequestDescription
+Возвращайтесь на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Park!RPT_WallE_DailyPark_AvailableDescription
+Поговори с ВАЛЛ·И.
+
+TAG: Repeatable!Event!Park!RPT_WallE_DailyPark_DisplayName
+Фестиваль Парков мечты: ВАЛЛ·И
+
+TAG: Repeatable!Event!Park!RPT_WallE_DailyPark_Group01_Step01_CookMeal01_StepDescription
+Приготовить космический корабль "Земные кексы".
+
+TAG: Repeatable!Event!Park!RPT_WallE_DailyPark_Group02_Step02_StepDescription
+(Неожиданно раздавать кексы тем же деревенским жителям не считается.
+
+TAG: Repeatable!Event!Park!RPT_WallE_DailyPark_Group02_StepDescription
+Доставьте космический корабль "Земные кексы" любым деревенским жителям.
+
+TAG: Repeatable!Event!Park!RPT_WallE_DailyPark_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

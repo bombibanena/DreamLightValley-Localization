@@ -1,0 +1,39 @@
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Any_CompletedRequestDescription
+Возвращайтесь на Скрудж Макдак.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_AvailableDescription
+Скрудж Макдак имеет некоторые идеи о том, как можно улучшить экономику острова Вечность.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_DisplayName
+Рай в пустыне
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group01_Step01_Conditional01_StepDescription
+Дикий стул.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group01_Step01_Conditional02_StepDescription
+Блестящие Дюны.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group01_StepDescription
+Откройте стойки Гуфи в:
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group01_StoryDescription
+Он предлагает начать с посадки товарных культур.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group02_Step02_GardeningHarvest01_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group02_Step02_GardeningHarvest02_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group02_Step02_GardeningHarvest03_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group02_StepDescription
+Посадите и соберите сад в сияющих дюнах:
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group03_Step03_TalkToCharacter01_StepDescription
+Поговори с ним.
+
+TAG: Secret!Expansion01!Scrooge!SEC_E01_Scro_010_Group03_StepDescription
+Скрудж Макдак дает тебе пару советов об экономике острова Вечность.
+

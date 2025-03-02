@@ -1,0 +1,57 @@
+TAG: Merlin_000_f
+Ah, {PlayerName}! Tell me: What did you find at the center of the blizzard?
+
+TAG: Merlin_001_f
+I found a secret chamber full of strange magical experiments. I think that I must have made it back before the Forgetting...
+
+TAG: Merlin_002_f
+How curious. I wonder what purpose it served.
+
+TAG: Merlin_003_f
+Oh, and that's not all. I found Olaf inside!
+
+TAG: Merlin_004_f
+Olaf! Oh, wonderful! Was the loquacious little snowman helpful in sorting out our magical conundrum?
+
+TAG: Player_000_choice_000_f
+Yes! He's helping me find the Orb.
+
+TAG: Player_000_choice_001_f
+I'm not sure yet. I need some more help with this mystery.
+
+TAG: Player_000_choice_002_f
+Not really. He got me to chase some squirrels around.
+
+TAG: Merlin_005_f
+Brilliant! I've always known that Olaf possesses unexpected wisdom. What did he tell you?
+
+TAG: Merlin_006_f
+Olaf's arms are missing. He says that the last thing he remembers is that they were holding on to the Orb.
+
+TAG: Merlin_007_f
+But he doesn't know where to find them. He said something about... water having memory?
+
+TAG: Merlin_008_f
+He's quite right, you know.
+
+TAG: Merlin_009_f
+That was one of the powers your Royal Watering Can used to have. It could <Lore>draw out the memories held by water</Lore>.
+
+TAG: Merlin_010_f
+Do you think my Watering Can still has that power...? Maybe we could find out exactly what happened to the Orb. But I wouldn't know where to start.
+
+TAG: Merlin_011_f
+It's always best to start off where something has begun. <Lore>Investigate the Pillar in the Frosted Heights.</Lore>
+
+TAG: Merlin_012_f
+Hold out your Watering Can and <Lore>focus your magic</Lore>. If there's anything to be found, that should help you find it.
+
+TAG: Merlin_013_f
+Well, I've always known that Olaf possesses unexpected wisdom. What did he tell you?
+
+TAG: Merlin_014_f
+Oh dear. That's not the best use of time when a magical blizzard is threatening to destroy the Valley.
+
+TAG: Merlin_015_f
+Still, I've always known that Olaf possesses unexpected wisdom. Surely he said something that could be of help?
+

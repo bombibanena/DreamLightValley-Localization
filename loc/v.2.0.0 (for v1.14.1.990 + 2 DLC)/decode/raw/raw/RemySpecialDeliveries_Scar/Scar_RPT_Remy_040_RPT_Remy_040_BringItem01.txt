@@ -1,0 +1,42 @@
+TAG: Scar_000_f
+Oh goody... My food has arrived at last.
+
+TAG: Scar_001_f
+I assume it's no longer fresh, considering how long it took you to bring it to me. The service here is simply wretched...
+
+TAG: Player_000_choice_000_f
+It's still fresh and delicious.
+
+TAG: Player_000_choice_001_f
+Why don't you try it before you judge?
+
+TAG: Player_000_choice_002_f
+Soooo does that mean you won't be tipping?
+
+TAG: Scar_002_f
+Hmm... It does smell... acceptable.
+
+TAG: Scar_007_f
+*sigh* Why are you still here? You've brought me my food. Leave.
+
+TAG: Scar_008_f
+Aren't you going to give me a tip?
+
+TAG: Scar_009_f
+A "tip"? What on earth is that?
+
+TAG: Scar_005_f
+When someone delivers you food, you're supposed to give them a little extra something to thank them.
+
+TAG: Scar_006_f
+How ridiculous. Where I come from, we pay tribute to kings, not to the hyenas who fetch things for us.
+
+TAG: Scar_010_f
+But I suppose if it's customary, I'll have to play by your rules... for now.
+
+TAG: Scar_011_f
+Here. Take this sack of worthless trinkets I found lying about.
+
+TAG: Scar_004_f
+"Tipping"? What on earth is that?
+

@@ -1,0 +1,42 @@
+TAG: Remy_000_f
+Eternity Isle...
+
+TAG: Remy_009_f
+It sure is an impressive place for a restaurant. I can already feel the culinary inspiration in my whiskers.
+
+TAG: Remy_010_f
+As for the building, though...
+
+TAG: Remy_001_f
+Well, it looks like we've got our work cut out for us... But hey, it's no bigger than other jobs we've tackled.
+
+TAG: Player_000_choice_000_f
+I agree.
+
+TAG: Player_000_choice_001_f
+You have a plan, don't you?
+
+TAG: Player_000_choice_002_f
+That's a depressing sight...
+
+TAG: Remy_002_f
+I thought you would.
+
+TAG: Remy_005_f
+Okay, I'll do some inventory and cleaning while you fetch supplies for the pantry. I definitely want some local ingredients.
+
+TAG: Remy_008_f
+What do you have in mind?
+
+TAG: Remy_006_f
+Hmm... To start, I'll need some <ActivityItem>Fish</ActivityItem> from Ancient's Landing, <ActivityItem>Cumin</ActivityItem> to spice up the meals, and...
+
+TAG: Remy_007_f
+...some <ActivityItem>Strawberries</ActivityItem> would be perfect. I've got an amazing strawberry cake idea!
+
+TAG: Remy_003_f
+As a matter of fact, I do.
+
+TAG: Remy_004_f
+Don't let the current state of the building bring you down. Sometimes you have to see what could be, not what is.
+

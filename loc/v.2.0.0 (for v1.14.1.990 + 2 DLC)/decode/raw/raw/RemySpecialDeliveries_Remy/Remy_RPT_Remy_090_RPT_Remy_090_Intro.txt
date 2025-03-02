@@ -1,0 +1,81 @@
+TAG: Remy_001_f
+Hey, {PlayerName}! I'd love to give you a special delivery order today, but I could use your help with something for the restaurant instead.
+
+TAG: Remy_002_f
+My oven has called it quits! And on a day when everyone in the Valley's ordering pizza.
+
+TAG: Remy_003_f
+Could you find me some <ActivityItem>Tinkering Parts</ActivityItem> to fix it?
+
+TAG: Remy_006_f
+I'll still make sure you get some <ActivityItem>Wrought Iron</ActivityItem> for helping me out.
+
+TAG: Player_000_choice_000_f
+Let's do it!
+
+TAG: Player_000_choice_001_f
+Maybe some other time.
+
+TAG: Remy_007_f
+Great! Thank you, {PlayerName}.
+
+TAG: Remy_008_f
+I'll have some <ActivityItem>Wrought Iron</ActivityItem> waiting for you once you're done.
+
+TAG: Remy_009_f
+Hey, no worries. I'll try to get by until the problem's fixed.
+
+TAG: Remy_010_f
+Though, if you help me out, I'll be able to order more <ActivityItem>Wrought Iron</ActivityItem> so you can build more great things for the Village.
+
+TAG: Remy_011_f
+It occurred to me that the Village is starting to have a lot of couples in it. Couples who'd like a romantic table at the restaurant for dates.
+
+TAG: Remy_012_f
+So, I thought that if you got me some flowers, I could put them out for special occasions. But I'll need a lot of flowers.
+
+TAG: Remy_014_f
+I'm trying to buy a new wood-burning oven from Scrooge McDuck. He's asking for a whole lot of Star Coins to order one.
+
+TAG: Remy_015_f
+But he said that if we could bring him some gems from around the Valley, he'd cut me a big discount. Think you could help me get those?
+
+TAG: Remy_016_f
+When I was getting something off a shelf the other day, I accidentally knocked over a bunch of my spices, and the jars shattered.
+
+TAG: Remy_017_f
+Could you get me some new <ActivityItem>Empty Vials</ActivityItem>? I need one for paprika, oregano, sage, rosemary, thyme... so five ought to do.
+
+TAG: Remy_018_f
+I just got this incredible new wood-burning oven!
+
+TAG: Remy_019_f
+But it goes through a LOT of wood really fast.
+
+TAG: Remy_020_f
+I'd gather it myself, but for me lugging one piece of wood back to Chez Remy is practically my whole day. Think you could help?
+
+TAG: Remy_025_f
+I'm running pretty low on fish, and I'd love to try some new varieties.
+
+TAG: Remy_026_f
+Could you get me some? I've got the perfect recipes ready to go!
+
+TAG: Remy_027_f
+I was talking to Merlin, and he had an interesting suggestion for me...
+
+TAG: Remy_028_f
+He said I might be able to distill <ActivityItem>Dream Shards</ActivityItem> into a magical spice.
+
+TAG: Remy_029_f
+But I don't really know how to find those, and Merlin's using all of his for his experiments. Could you find some for me?
+
+TAG: Remy_030_f
+I'm tryin' to start a compost heap, but I need better soil.
+
+TAG: Remy_031_f
+I noticed that sometimes when you garden, <ActivityItem>Rich Soil</ActivityItem> turns up. That stuff would be perfect!
+
+TAG: Remy_032_f
+Next time you find some, could you bring it over?
+

@@ -1,0 +1,87 @@
+TAG: Ursula_000_f
+Ursula, I saw you speaking to Mother Gothel...
+
+TAG: Ursula_001_f
+Oh, you've been spying on me, have you?
+
+TAG: Ursula_002_f
+I wouldn't have dreamed you'd stoop as low as that windbag wizard. I'll bet he put you up to this, didn't he?
+
+TAG: Player_000_f
+Merlin asked me to see what you and Mother Gothel are scheming about.
+
+TAG: Player_000_choice_000_f
+I know you're up to no good.
+
+TAG: Player_000_choice_001_f
+I'm just trying to prove him wrong.
+
+TAG: Player_000_choice_002_f
+He might be acting like a bit of a busybody...
+
+TAG: Ursula_003_f
+No good?! HA! Why, I've been a model citizen, dear.
+
+TAG: Ursula_004_f
+All I was doing was lending a bit of help to a neighbor.
+
+TAG: Ursula_005_f
+Mother Gothel needed something to keep her House free of pests. So I offered her a little tincture to take care of the problem.
+
+TAG: Ursula_006_f
+But I'm afraid it's impossible to get rid of the real pests around here. Like that bombastic goody-two-shoes, Merlin.
+
+TAG: Player_001_choice_000_f
+I'm not buying it.
+
+TAG: Player_001_choice_001_f
+I guess we shouldn't have judged you.
+
+TAG: Player_001_choice_002_f
+So you and Mother Gothel are friends?
+
+TAG: Ursula_007_f
+Fine. Tell that wizard whatever you like, as long as it keeps him out of my hair.
+
+TAG: Ursula_008_f
+Ugh! It's getting so someone can't even socialize around here without being accused of nefarious schemes. Can you imagine?
+
+TAG: Ursula_009_f
+Be a dear, {PlayerName}. Tell that pompous prig to leave us be, would you?
+
+TAG: Player_002_choice_000_f
+I'll tell him to leave you alone.
+
+TAG: Player_002_choice_001_f
+I'll think about it.
+
+TAG: Player_002_choice_002_f
+Not a chance. We'll be watching you, Ursula.
+
+TAG: Ursula_010_f
+Thanks, angelfish. Trust me... it's for his own good.
+
+TAG: Ursula_011_f
+If Merlin keeps bothering me, someone might slip something into his tea that turns him into a toadstool.
+
+TAG: Ursula_012_f
+Entirely by accident, of course.
+
+TAG: Ursula_013_f
+Well, it is for his own good, angelfish.
+
+TAG: Ursula_014_f
+Fine. But there may be consequences.
+
+TAG: Ursula_015_f
+Was that a hint of an apology in your voice? FINALLY!
+
+TAG: Ursula_016_f
+Friends? Well... I suppose I don't find her company all that terrible. So yes, you might say we are.
+
+TAG: Ursula_017_f
+It's hopeless, angelfish. The blithering fool's made up his mind.
+
+TAG: Ursula_018_f
+Only a BIT of a busybody? You have a talent for understatement, my dear.
+

@@ -1,0 +1,36 @@
+TAG: Moana_000_f
+Um... I don't want to be rude, but these aren't stars.
+
+TAG: Moana_001_f
+They're fireflies.
+
+TAG: Player_000_choice_000_f
+Are they... bringing up any leader-y feelings in you?
+
+TAG: Player_000_choice_001_f
+No no, they're STARS.
+
+TAG: Player_000_choice_002_f
+I'm just trying to help out Timon.
+
+TAG: Moana_002_f
+Not exactly.
+
+TAG: Moana_005_f
+Ah, okay. Timon is going to be disappointed.
+
+TAG: Moana_007_f
+He's really trying so hard.
+
+TAG: Moana_008_f
+Sorry, {PlayerName}. If it helps, you can tell him the fireflies are really pretty!
+
+TAG: Moana_003_f
+No, they're definitely fireflies.
+
+TAG: Moana_006_f
+... I know. I'm just humoring Timon.
+
+TAG: Moana_004_f
+Oh, right. With his Timon Talk.
+

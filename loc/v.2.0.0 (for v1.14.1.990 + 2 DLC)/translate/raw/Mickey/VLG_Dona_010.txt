@@ -1,0 +1,24 @@
+TAG: Village!Mickey!VLG_Dona_010_Any_CompletedRequestDescription
+Поговори с Дональд Дак о капсуле Времени.
+
+TAG: Village!Mickey!VLG_Dona_010_AvailableDescription
+Дональд Дак выглядит ужасно злым. Оказалось, что пока он был вдали от долины Мечты, его дом был разрушен.
+
+TAG: Village!Mickey!VLG_Dona_010_Group02_OngoingRequestButton
+Что мы делали?
+
+TAG: Village!Mickey!VLG_Dona_010_Group03_OngoingRequestButton
+А сейчас?
+
+TAG: Village!Mickey!VLG_Dona_010_Group03_Step03_CraftItem01_StepDescription
+Приготовьте {ItemName} на станцию крафтинга.
+
+TAG: Village!Mickey!VLG_Dona_010_Group08_OngoingRequestButton
+Что теперь?
+
+TAG: Village!Mickey!VLG_Dona_010_Group08_Step08_Unlock01_StepDescription
+Откройте <ActivityItem>Rusty Time Capsule</ActivityItem> в вашем списке.
+
+TAG: Village!Mickey!VLG_Dona_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

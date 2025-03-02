@@ -1,0 +1,63 @@
+TAG: Hades_000_f
+You wanted something, Hades?
+
+TAG: Hades_001_f
+I can't believe you've been keeping this fact about myself from me this whole time!
+
+TAG: Player_000_choice_000_f
+Oookay, let's figure this out.
+
+TAG: Player_000_choice_001_f
+Oh, no way am I dealing with this now.
+
+TAG: Hades_002_f
+What's going on? What have I been apparently keeping from you?
+
+TAG: Hades_003_f
+That here, I'm a CELEBRITY!
+
+TAG: Player_001_choice_000_f
+... You are?
+
+TAG: Player_001_choice_001_f
+Who told you that?
+
+TAG: Player_001_choice_002_f
+I thought you already knew.
+
+TAG: Hades_004_f
+Minnie told me ALL about how here, it's "celebrities" who have fans.
+
+TAG: Hades_015_f
+But I'll send her a message to <Lore>come to my House</Lore> â I'm a celebrity and people should come to me, not the other way around!
+
+TAG: Hades_007_f
+And what these fans want most is to interact with and gain the favor of their favorite "celebrities."
+
+TAG: Hades_008_f
+Yeah, that's kinda how it works.
+
+TAG: Hades_009_f
+Well, that explains everything! Nobody's been showing me the proper respect here because...
+
+TAG: Hades_010_f
+...they don't know me as a celebrity!
+
+TAG: Hades_011_f
+We need to reframe everything. Which means you â as my minion â have got a lot of work to do.
+
+TAG: Hades_012_f
+All right, well I can give you a hand with that.
+
+TAG: Hades_013_f
+Why don't we <Lore>go talk to Daisy</Lore>? Maybe she can give you some suggestions on how to communicate that you're a celebrity.
+
+TAG: Hades_014_f
+That could work. I need to up my game â can't have Jerkules be the only one with his own line of merchandise.
+
+TAG: Hades_005_f
+Hey, I knew people knew me, obviously. Big picture. But not the DETAILS of fame.
+
+TAG: Hades_006_f
+Minnie said that here it's "celebrities" who have fans.
+

@@ -1,0 +1,15 @@
+TAG: Mickey_000_f
+Well, hiya, {PlayerName}! What can I do for ya?
+
+TAG: Mickey_001_f
+I need to borrow the <ActivityItem>Dreamlight Magnifier</ActivityItem>. Donald and I have gotten ourselves into a magical predicament.
+
+TAG: Mickey_002_f
+Of course!
+
+TAG: Mickey_003_f
+Now that Minnie's back, I don't need it anymore.
+
+TAG: Mickey_007_f
+Thanks, Mickey! I'll be sure to bring it back in one piece.
+

@@ -1,0 +1,51 @@
+TAG: WallE_005_f
+WALLÂ·E! Do you remember Ariel? Nice girl, red hair, a mermaid? You used to trade things with her, and now she needs your help.
+
+TAG: WallE_000_f
+WALLÂ·E!
+
+TAG: WallE_003_f
+I knew you'd remember her! I need to find a <ActivityItem>Whisk</ActivityItem>, a <ActivityItem>Spinning Top</ActivityItem>, a <ActivityItem>Gramophone</ActivityItem>, and a <ActivityItem>Story Book</ActivityItem>.
+
+TAG: WallE_004_f
+Ta-da!
+
+TAG: WallE_009_f
+A <ActivityItem>Story Book</ActivityItem>! Thanks! Ariel will love it.
+
+TAG: Player_000_f
+Now, can you help me find...
+
+TAG: Player_000_choice_006_f
+The Whisk?
+
+TAG: Player_000_choice_007_f
+The Spinning Top?
+
+TAG: Player_000_choice_008_f
+The Gramophone?
+
+TAG: WallE_010_f
+Uhh... Ah!
+
+TAG: WallE_012_f
+You're pointing to a chef's hat... Oh! The <ActivityItem>Whisk</ActivityItem> is at Remy's House... Noted.
+
+TAG: WallE_001_f
+So, I'll find the <ActivityItem>Whisk</ActivityItem> at Remy's House, the <ActivityItem>Spinning Top</ActivityItem> at Donald's, and the <ActivityItem>Gramophone</ActivityItem> at Minnie's.
+
+TAG: WallE_002_f
+*whistles*
+
+TAG: WallE_006_f
+Hmm... Ha!
+
+TAG: WallE_019_f
+A toy sail boat... Ah, Donald's House. Got it!
+
+TAG: WallE_007_f
+Eee... Ah!
+
+TAG: WallE_026_f
+You're holding your hands up like large ears... Mickey... No? ... Minnie! I need to go to Minnie's place to find the <ActivityItem>Gramophone</ActivityItem>.
+

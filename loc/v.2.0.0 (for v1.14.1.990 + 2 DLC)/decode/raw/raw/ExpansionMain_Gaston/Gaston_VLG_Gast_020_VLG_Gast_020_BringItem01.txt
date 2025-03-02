@@ -1,0 +1,78 @@
+TAG: Gaston_008_f
+Aren't I the best at fishing?
+
+TAG: Player_000_choice_000_f
+Did you really go fishing?
+
+TAG: Player_000_choice_001_f
+Uhh, sure I guess.
+
+TAG: Gaston_010_f
+Of course!
+
+TAG: Gaston_009_f
+Now like any hunting trip, I'll have a new trophy!
+
+TAG: Gaston_011_f
+How do you think it will look on my wall next to the fish I caught?
+
+TAG: Player_001_choice_000_f
+They'll really suit the vibe!
+
+TAG: Player_001_choice_001_f
+Not my style.
+
+TAG: Player_001_choice_002_f
+As long as they don't start singing.
+
+TAG: Gaston_012_f
+Yes, well, I'll assume that's good because of course they will!
+
+TAG: Gaston_030_f
+No worries; I'll try to find the rest of the compass â maybe it will lead us to more treasure!
+
+TAG: Gaston_031_f
+Hey, I give the orders around here!
+
+TAG: Gaston_032_f
+But... yes... do that.
+
+TAG: Gaston_016_f
+So did the fishing scratch your itch for adventure?
+
+TAG: Gaston_017_f
+Actually... no.
+
+TAG: Gaston_018_f
+But I did find a piece of a compass while fishing...
+
+TAG: Gaston_027_f
+A piece of a compass? Strange...
+
+TAG: Gaston_028_f
+Yes, I had completely forgotten about it, but the memories are starting to come back...
+
+TAG: Gaston_029_f
+I found a compass ages ago. It had some sort of enchantment on it. And it was leading me to amazing treasures!
+
+TAG: Gaston_020_f
+Sadly for me, the compass has broken apart since I last saw it...
+
+TAG: Gaston_013_f
+{PlayerName}... don't brag about having bad taste.
+
+TAG: Gaston_014_f
+As my sidekick, it reflects badly on me.
+
+TAG: Gaston_015_f
+Do mounted fish do that here?
+
+TAG: Player_002_choice_000_f
+No... no they do not.
+
+TAG: Player_002_choice_001_f
+Maybe. I guess we'll find out.
+
+TAG: Gaston_019_f
+Well, if they sing about me, all the better!
+

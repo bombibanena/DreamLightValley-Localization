@@ -1,0 +1,60 @@
+TAG: MikeWazowski_000_f
+Эй, {PlayerName}!"Потрясающий ассистент"Салли обещал мне?
+
+TAG: Player_000_choice_000_f
+Да, я здесь, чтобы помочь!
+
+TAG: Player_000_choice_001_f
+Вау, теперь мне нужно оправдать это ожидание.
+
+TAG: Player_000_choice_002_f
+Потрясающе, наконец-то, точное описание меня.
+
+TAG: MikeWazowski_002_f
+Отлично, не то, чтобы мне это нужно.
+
+TAG: MikeWazowski_005_f
+С годами тренировок Салли и присмотра за ним, я знаю, что он ценит.
+
+TAG: MikeWazowski_008_f
+Мы сделаем его любимый <ActivityItem>hodgepodge la Monstropolis</ActivityItem> для всей деревни!
+
+TAG: MikeWazowski_001_f
+Значит, мы привезём еще одну деликатесную монстров в Долину?
+
+TAG: MikeWazowski_014_f
+Ещё бы!
+
+TAG: MikeWazowski_015_f
+Я почти боюсь спросить... что такое <ActivityItem>hodgepodge la Monstropolis</ActivityItem>?
+
+TAG: MikeWazowski_010_f
+Это идеально после долгого дня неустанной работы, скажем... большой энергетической компании.
+
+TAG: MikeWazowski_016_f
+И для того, чтобы это было здорово, нам нужны свежие Ингредиенты...
+
+TAG: MikeWazowski_011_f
+Какие виды ингредиентов?
+
+TAG: MikeWazowski_012_f
+Лучшая вещь в <ActivityItem>hodgepodge la Monstropolis</ActivityItem> - это то, что она хороша во всем. Чем более разнообразна, тем лучше.
+
+TAG: MikeWazowski_013_f
+Скажем, <ActivityItem>Carrots</ActivityItem>, <ActivityItem>Corn</ActivityItem> и <ActivityItem>Bell Peppers</ActivityItem>.
+
+TAG: MikeWazowski_009_f
+Что это?
+
+TAG: MikeWazowski_003_f
+Не волнуйся, ничего сложного.
+
+TAG: MikeWazowski_006_f
+С годами тренировок Салли и присмотра за ним, я знаю, что он ценит.
+
+TAG: MikeWazowski_004_f
+Да, да, ты великолепен, {PlayerName}...
+
+TAG: MikeWazowski_007_f
+После всех моих лет обучения Салли и будучи его лучшим другом во всем мире, я знаю, что он ценит.
+

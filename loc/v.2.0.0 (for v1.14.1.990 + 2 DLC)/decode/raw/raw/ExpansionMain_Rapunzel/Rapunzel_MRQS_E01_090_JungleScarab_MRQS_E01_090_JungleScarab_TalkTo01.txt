@@ -1,0 +1,51 @@
+TAG: Rapunzel_000_f
+{PlayerName}? Hello! It's so great to see you! Is there something I can help with?
+
+TAG: Rapunzel_001_f
+Yes, I'm looking for a magical item... It may have been in the Wild Tangle for some time now.
+
+TAG: Rapunzel_002_f
+Oh! What sort of item? Could it be part of one of my hobby projects?
+
+TAG: Rapunzel_003_f
+Half of a scarab, made of brass or a similar metal.
+
+TAG: Rapunzel_004_f
+I don't think I've ever found anything like that.
+
+TAG: Rapunzel_006_f
+But... there is one spot in <Lore>the Grove</Lore>...
+
+TAG: Rapunzel_007_f
+I always hear the buzzing of lots of insects coming from there. But it's been blocked off for a long time.
+
+TAG: Rapunzel_014_f
+And scarabs are bugs, right? Maybe it means something!
+
+TAG: Player_000_choice_000_f
+Nooooo, I hate bugs!
+
+TAG: Player_000_choice_001_f
+A clue!
+
+TAG: Rapunzel_008_f
+Oh, I don't mind them. They're one of Pascal's favorite snacks.
+
+TAG: Rapunzel_010_f
+I guess I'll <Lore>go check it out</Lore>.
+
+TAG: Rapunzel_012_f
+I'm so curious now. Please let me know what you find!
+
+TAG: Rapunzel_013_f
+Sure, I can <Lore>take some photos</Lore> for you â that way you can see for yourself.
+
+TAG: Rapunzel_011_f
+Good luck, {PlayerName}!
+
+TAG: Rapunzel_015_f
+Thanks! After we found that Jewel of Time together, I'm sure this will be no problem.
+
+TAG: Rapunzel_009_f
+How exciting! You really are solving a mystery.
+

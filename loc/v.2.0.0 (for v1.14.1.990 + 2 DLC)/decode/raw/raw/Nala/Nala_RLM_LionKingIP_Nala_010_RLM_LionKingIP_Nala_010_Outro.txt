@@ -1,0 +1,102 @@
+TAG: Nala_000_f
+Wow, you weren't kidding about this place. It's beautiful.
+
+TAG: Nala_006_f
+It already feels like I have friends here.
+
+TAG: Nala_010_f
+I hope Simba comes to join us soon.
+
+TAG: Nala_011_f
+I'll go talk to him. For now, you just enjoy the Village.
+
+TAG: Player_000_choice_000_f
+You could explore the Valley.
+
+TAG: Player_000_choice_001_f
+You could find something to eat.
+
+TAG: Player_000_choice_002_f
+You could start meeting the other Villagers.
+
+TAG: Nala_007_f
+Say, where's Simba?
+
+TAG: Nala_008_f
+He said he'd come meet us soon. He wanted some time alone.
+
+TAG: Nala_009_f
+The fight with the hyenas... I think it brought back some old memories about his father.
+
+TAG: Nala_001_f
+Speaking of old memories...
+
+TAG: Nala_002_f
+I think I've been here before.
+
+TAG: Nala_003_f
+You used to live here, Nala. Back before the Forgetting.
+
+TAG: Nala_004_f
+It might take a while for all your memories to come back. Just try to take it slow.
+
+TAG: Nala_005_f
+This is amazing! I can't believe I ever forgot this place.
+
+TAG: Nala_014_f
+There's so much to see. I'll do some scouting and see what I find.
+
+TAG: Nala_020_f
+There's just one thing I have to warn you about.
+
+TAG: Nala_021_f
+Watch out for Scar.
+
+TAG: Nala_022_f
+Scar is here? That'sâ How is that possible?
+
+TAG: Nala_023_f
+I watched him fall from Pride Rock and... he can't have survived.
+
+TAG: Player_001_choice_000_f
+He's pretty cunning.
+
+TAG: Player_001_choice_002_f
+Anything is possible in Dreamlight Valley.
+
+TAG: Player_001_choice_003_f
+Scar's not so bad. I've got him well-trained.
+
+TAG: Nala_026_f
+Who knows how he survived. But I wouldn't put anything past him.
+
+TAG: Nala_024_f
+I guess you're right.
+
+TAG: Nala_025_f
+Don't worry. I'll keep an eye on Scar. He better not try anything, or I'll put a stop to it.
+
+TAG: Nala_027_f
+The rules here... they're pretty different from anywhere else. Maybe this isn't quite the Scar you remember.
+
+TAG: Nala_028_f
+Oh... I guess there's a lot I don't understand about this place yet.
+
+TAG: Nala_029_f
+I've practically turned him into a housecat. You don't need to worry.
+
+TAG: Nala_030_f
+I hope you're right. But I'm going to keep an eye on him... just in case.
+
+TAG: Nala_012_f
+That's a great idea. I bet some of these rivers and ponds have fish I could eat.
+
+TAG: Nala_015_f
+That would certainly beat grubs.
+
+TAG: Nala_017_f
+I'd really like that.
+
+TAG: Nala_018_f
+One can never have too many friends.
+

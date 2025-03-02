@@ -1,0 +1,135 @@
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess09_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group16_Step17_Conditional02_StepDescription
+Убедись, что ты не тусуешься с Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group16_StepDescription
+Пусть Зверь остынет какое-то время.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Any_CompletedRequestDescription
+Возвращайтесь в Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_AvailableDescription
+Зверь... расстроен?
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_CompletedStoryDescription
+Зеркало было большим успехом! Зверь снова у тебя в долгу.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_DisplayName
+Корона или коготь
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group01_Step01_Listen01_StepDescription
+Следуйте за Зверь, чтобы увидеть его конфронтацию с Матушка Готель Матушка Готель.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group01_StoryDescription
+Матушка Готель Матушка Готель кажется расстроен Белль, и Зверь в ярости!
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group02_Step02_TalkToCharacter01_StepDescription
+Свяжитесь с Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group03_Step03_Conditional01_StepDescription
+Пусть Зверь остынет какое-то время.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group03_Step04_TalkToCharacter02_StepDescription
+Возьмите Матушка Готель Матушка Готель из истории.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group03_StepDescription
+Дайте Зверь немного пространства и попытайтесь разрядить ситуацию:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group04_Step05_TalkToCharacter03_StepDescription
+Спроси, как дела у Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group04_StoryDescription
+Зверь пытались защитить честь Белль, но вместо этого были сняты клювом Матушка Готель Матушка Готель кислотный язык.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group05_Step06_StepDescription
+Возьми сломанную мебель в замке Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group05_StoryDescription
+Зверь сейчас спокойна, но стыдно за то, что он вышел из себя и разгромил мебель в его замке.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess06_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_StepDescription
+Собери то, что нужно для ремонта мебели Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group07_Step08_CraftItem01_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group07_Step08_CraftItem02_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group07_Step08_StepDescription
+Ремонт мебели на ремесленной станции.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group08_Step09_VisitArea01_StepDescription
+Встретимся с Зверь в его замке.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_ReadyDescription
+Отдай отремонтированную мебель Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_StepDescription
+Убедись, что мебель у тебя в списке.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group10_Step11_TalkToCharacter04_StepDescription
+Поговори с Мерлин.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group10_StoryDescription
+Вы помогли Зверь исправить ущерб, который он причинил его мебели, но вы должны убедиться, что Матушка Готель Матушка Готель больше никогда не будет связываться с Белль.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess10_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_StepDescription
+Собирайте материалы для Зеркала Истинного Видения:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_StoryDescription
+Мерлин предлагает решение: "Зеркало Истинного Видения, которое покажет зрителю истинное содержание их сердца."
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group12_Step13_CraftItem03_StepDescription
+Подготовить <ActivityItem>mirror True Viewing</ActivityItem>.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group13_Step14_Decorate01_StepDescription
+Положите зеркало рядом с домом Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group13_StoryDescription
+Зеркало построено, так что пора оставить его у замка Зверь, чтобы он мог увидеть принца внутри него.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group14_Step15_Decorate02_StepDescription
+Положите зеркало у входа Гигантского Виллоу Дерево.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group14_StoryDescription
+Зеркало построено, так что пора оставить его на Матушка Готель дома, чтобы она могла видеть злодеяние в своем сердце.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group15_Step16_TalkToCharacter05_StepDescription
+Поговорите с Матушка Готель Матушка Готель.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group15_StoryDescription
+Надеюсь, Матушка Готель Матушка Готель пересмотрит свои действия после просмотра внутри...
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_StartRequestButton
+Запускать QUEST
+

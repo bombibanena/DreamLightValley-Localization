@@ -1,0 +1,108 @@
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Any_CompletedRequestDescription
+Check in with Mike.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_AvailableDescription
+Talk to Mike Wazowski to start.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_CompletedStoryDescription
+You snap a victorious selfie with Mike and welcome him to your Village. Mike and Sulley are in the Valley at last!
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_DisplayName
+Eye on the Prize
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Mike.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group02_Step02_ReadyDescription
+Bring the keycards to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group02_Step02_StepDescription
+Search reception for keycards.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group02_StoryDescription
+Mike can't leave for Dreamlight Valley until he sets a record high score! He promotes you to Jokester Assistant to help him make it happen.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group03_Step04_TalkToCharacter02_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group04_Step05_VisitArea01_StepDescription
+Enter the door in bay F2 on the Laugh Floor.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group04_StoryDescription
+As Jokester Assistant, you collect keycards to call doors for kids' rooms. You decide to search the empty rooms for clues as to what makes the kids laugh.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group05_Step06_StepDescription
+Search for clues behind door F2.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group06_Step07_TalkToCharacter03_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group07_Step08_VisitArea02_StepDescription
+Enter the door in bay F3 on the Laugh Floor.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group08_Step09_StepDescription
+Take photos of clues in the room behind door F3.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group09_Step10_TalkToCharacter04_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group10_Step11_VisitArea03_StepDescription
+Enter the door in bay F4 on the Laugh Floor.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group11_Step12_Possess01_StepDescription
+Search the room for a physical clue to bring Mike.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group12_Step13_BringItem02_StepDescription
+Make sure you have the {itemName} in your Inventory.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group12_Step13_ReadyDescription
+Bring the {ItemName} to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_BringItem03_StepDescription
+Red Soda.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_BringItem04_StepDescription
+Blue Soda.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_BringItem05_StepDescription
+Green Soda.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_ReadyDescription
+Bring the sodas to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group13_Step14_StepDescription
+Find the following sodas:
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group14_Step16_TalkToCharacter05_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group15_StepDescription
+Place Mike and Sulley's House in the Valley.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group15_StoryDescription
+After helping Mike break his old record by a huge margin, it's vacation time! Dreamlight Valley is calling. You get ready to welcome Mike and Sulley by preparing a place for them to stay.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group16_Step19_Unlock01_StepDescription
+Unlock Mike and Sulley's House.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group17_Step20_UnlockCharacter01_StepDescription
+Unlock Sulley.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group18_Step21_TalkToCharacter06_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group19_Step22_TalkToCharacter07_StepDescription
+Talk to {TargetNPC} in the Monsters, Inc. Realm.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group19_StoryDescription
+Sulley asks you to head back to the Monsters, Inc. Realm to get Mike, who stayed behind to take a picture that commemorates his new record.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group20_Step23_TakePicture04_StepDescription
+Take a selfie with Mike.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group21_Step24_TalkToCharacter08_StepDescription
+Show Mike the selfie.
+
+TAG: Realm!MonsterInc!MikeWazowski!RLM_MonsterIncIP_Mike_010_Group22_Step25_UnlockCharacter02_StepDescription
+Unlock Mike.
+

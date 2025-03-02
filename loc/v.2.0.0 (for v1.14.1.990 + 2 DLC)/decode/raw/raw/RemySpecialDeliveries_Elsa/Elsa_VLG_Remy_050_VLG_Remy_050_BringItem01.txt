@@ -1,0 +1,24 @@
+TAG: Elsa_000_f
+Oh, what's this? It looks delicious!
+
+TAG: Elsa_001_f
+An icy treat just for you! It's a little free sample.
+
+TAG: Elsa_002_f
+Remy's opening up a delivery service in the Village. He wants everyone to know about it!
+
+TAG: Player_000_choice_000_f
+You could order chocolate for Anna every day.
+
+TAG: Player_000_choice_001_f
+You could get a little taste of Arendelle whenever you like.
+
+TAG: Elsa_003_f
+That sounds like a lot of chocolate. This Remy delivery service could be dangerous!
+
+TAG: Elsa_005_f
+Thank you, {PlayerName}. I'll be sure to tell Anna and Kristoff.
+
+TAG: Elsa_004_f
+That would be wonderful.
+

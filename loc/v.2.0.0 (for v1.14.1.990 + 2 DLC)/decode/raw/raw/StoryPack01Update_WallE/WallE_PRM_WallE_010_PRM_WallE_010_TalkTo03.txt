@@ -1,0 +1,102 @@
+TAG: WallE_000_f
+Huh?
+
+TAG: WallE_001_f
+Look at all this <ActivityItem>Scrap Metal</ActivityItem> I found!
+
+TAG: WallE_002_f
+Whoa!
+
+TAG: WallE_003_f
+...
+
+TAG: WallE_004_f
+Oh. Hmm...
+
+TAG: Player_000_choice_000_f
+Something wrong?
+
+TAG: Player_000_choice_001_f
+A thank-you would be nice!
+
+TAG: Player_000_choice_002_f
+I know; it's not a new trash can lid. Yet.
+
+TAG: WallE_005_f
+Directive?
+
+TAG: WallE_012_f
+Hmm... You're gesturing like we need more of this stuff. So we just need to find you another few piecesâ
+
+TAG: WallE_013_f
+Then we can fix you up a fresh lid!
+
+TAG: WallE_014_f
+Whoopee!
+
+TAG: WallE_015_f
+Where to look, though...?
+
+TAG: WallE_016_f
+Goofy did say that Ursula has some <ActivityItem>Scrap Metal</ActivityItem> she took from Dazzle Beach.
+
+TAG: WallE_018_f
+*gasp* Whoa! Uh-oh...
+
+TAG: Player_001_choice_000_f
+Are you scared of Ursula?
+
+TAG: Player_001_choice_001_f
+I've got your back; don't worry!
+
+TAG: Player_001_choice_002_f
+Honestly, we've been getting along great recently!
+
+TAG: WallE_019_f
+*shudder*
+
+TAG: WallE_022_f
+It'll be okay. I promise.
+
+TAG: WallE_023_f
+But given what Goofy told us... Ursula might not be willing to just give the pieces to us.
+
+TAG: WallE_024_f
+Eeee!
+
+TAG: WallE_025_f
+Don't worry; I have a plan!
+
+TAG: WallE_026_f
+I'll make her a new <ActivityItem>Potion Set</ActivityItem> and then give it to her in the <ActivityItem>Cursed Cave</ActivityItem> as a distraction. You just zoom into her House and grab the <ActivityItem>Scrap Metal</ActivityItem>!
+
+TAG: WallE_027_f
+WALLÂ·E!
+
+TAG: WallE_020_f
+Whew!
+
+TAG: WallE_021_f
+Uh...
+
+TAG: WallE_006_f
+Ohh... WALLÂ·E?
+
+TAG: WallE_007_f
+Not sure if that's a thank-you...
+
+TAG: WallE_008_f
+But as Maui would sayâ
+
+TAG: WallE_009_f
+You're welcome!
+
+TAG: WallE_010_f
+Ooh!
+
+TAG: WallE_028_f
+But in any case...
+
+TAG: WallE_011_f
+Oh. Oh. Oh!
+

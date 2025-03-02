@@ -1,0 +1,78 @@
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Any_CompletedRequestDescription
+Свяжитесь с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_AvailableDescription
+В путешествии через Мифопию {PlayerName} открыл таинственный вратарь. Чтобы найти Аид и остановить Неисчислимый мир, {PlayerName} нужно будет пройти через врата и выяснить, что лежит внутри.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_CompletedStoryDescription
+{PlayerName} сделал дом для Аид в "Storybook Vale". Но покончит ли Аид с его враждой с Малефисента? {PlayerName} чувствовал, что впереди еще много пути, чтобы завершить оставшиеся испытания и добраться до горы Олимпус.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_DisplayName
+& Слава
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group01_Step01_VisitArea01_StepDescription
+Введите мифическое испытание на Элизийских полях.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group02_Step02_TalkToCharacter01_StepDescription
+Исследуйте первое мифическое испытание.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group03_Step03_Conditional01_StepDescription
+Тужьтесь по тележке Аид'.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group04_Step04_FollowCharacter01_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group05_Step05_VisitArea05_StepDescription
+Пересечь мост.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group06_Step06_Conditional02_StepDescription
+Найди способ повернуть мост.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group07_Step07_UnlockCharacter01_StepDescription
+Добро пожаловать Аид в Вале!
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group08_Step08_VisitArea04_StepDescription
+{Placeholder} Возвращение в Сказочную Долину.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group09_Step09_StepDescription
+Найди способ открыть ворота и протолкнуть тележку.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group10_Step10_FollowCharacter04_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group11_Step11_Conditional05_StepDescription
+Придумай, как освободить мост.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group12_Step12_FollowCharacter02_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group13_Step13_Conditional06_StepDescription
+Найди способ повернуть мост.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group14_Step14_VisitArea03_StepDescription
+Исследуйте глубже в мифическом испытании.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group15_Step15_FollowCharacter03_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group15_Step15_FollowCharacter03_TalkToDescription
+Поговори с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group16_Step16_StepDescription
+Найди способ открыть ворота и перевезти тележку.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group18_Step18_Interaction01_StepDescription
+Взаимодействовать с источником коррупции в ходе первого мифического процесса.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group19_Step19_TalkToCharacter02_StepDescription
+Поговори с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group19_StoryDescription
+Внутри загадочного процесса {PlayerName} встретил Аид, бога Подземного мира. Вместе они пересекли Процесс, и {PlayerName} починили какую-то темную, коррумпированную магию.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group20_Step20_PlaceBuilding01_StepDescription
+Место <ActivityItem>Аид' Lair</ActivityItem> где угодно в Storybook Vale.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group21_Step21_Unlock01_StepDescription
+Разблокировать <ActivityItem>Аид' Lair</ActivityItem> посредством взаимодействия со знаком Скрудж Макдак рядом с ним.
+

@@ -1,0 +1,84 @@
+TAG: Remy_001_f
+Hey, {PlayerName}! Are you ready to challenge your cooking skills again?
+
+TAG: Remy_002_f
+Today's customer is Vanellope!
+
+TAG: Remy_003_f
+I've been trying to convince her that vegetables can taste as good â no, even BETTER â than candy when you use them right.
+
+TAG: Remy_004_f
+But she doesn't believe me. She says she's never tasted a vegetable that she liked.
+
+TAG: Player_006_choice_000_f
+Vanellope's right â candy is way better than vegetables.
+
+TAG: Player_006_choice_001_f
+We need both vegetables AND candy to have a balanced diet.
+
+TAG: Player_006_choice_002_f
+You're right â a little butter, maybe some spice, and a vegetable beats candy any day.
+
+TAG: Remy_053_f
+No, {PlayerName}. You can't possiblyâ
+
+TAG: Remy_054_f
+You know what? I'm going to assume you're joking. Moving on...
+
+TAG: Remy_059_f
+I need you to make her some <ActivityItem>5-Star Vegetable Meals</ActivityItem>. There's no way she won't like at least ONE of them, right?
+
+TAG: Remy_011_f
+What do you say? Are you up to the challenge?
+
+TAG: Player_001_choice_000_f
+Let's do it!
+
+TAG: Player_001_choice_001_f
+Maybe some other time.
+
+TAG: Remy_006_f
+Great! Good luck, {PlayerName}. I know you've got this.
+
+TAG: Remy_007_f
+And remember to come visit me once you're done delivering your order. I'll have some <ActivityItem>Wrought Iron</ActivityItem> waiting for you.
+
+TAG: Remy_012_f
+Hey, no worries. Let me know if you change your mind and decide you want a new culinary challenge.
+
+TAG: Remy_013_f
+Remember: The more daily deliveries you do, the more <ActivityItem>Wrought Iron</ActivityItem> I can order so you can build more great things for the Village.
+
+TAG: Remy_055_f
+I suppose that's a position I can get behind. Like they say, variety is the spice of life.
+
+TAG: Remy_057_f
+Well, I'm hoping you can help me convince Vanellope to diversify her palate a little.
+
+TAG: Remy_056_f
+Right?! I'm so glad you agree.
+
+TAG: Remy_058_f
+Now I'm just hoping you can convince Vanellope.
+
+TAG: Remy_009_f
+She's recently discovered the many exciting flavors of spicy food.
+
+TAG: Remy_010_f
+And she wants some <ActivityItem>Spicy Baked Bream</ActivityItem>, <ActivityItem>Chili Pepper Puffs</ActivityItem>, and <ActivityItem>Lemon Garlic Swordfish</ActivityItem>.
+
+TAG: Remy_014_f
+She's looking for some <ActivityItem>Boba Tea</ActivityItem>. All different kinds of it.
+
+TAG: Remy_015_f
+She said something about "using them as power-ups to defeat the final boss."
+
+TAG: Remy_094_f
+I figured I probably don't want to know what that's about.
+
+TAG: Remy_016_f
+{PlayerName}! I've got another special delivery order for you.
+
+TAG: Remy_017_f
+Hey, {PlayerName}, have you got time for another Chez Remy Mobile order?
+

@@ -1,0 +1,60 @@
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_AvailableDescription
+Старая заклинательная книга больше похожа на что-то, что принадлежало бы Мерлин, но аккуратные ноты на полях несомненно содержатся в почерке Минни Маус. Вам нужно спросить ее, почему она читала это, чтобы узнать больше.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_DisplayName
+Очень волшебный Минни Маус
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group01_Step01_ReadyDescription
+Возвращайте <ActivityItem>Borrowed Spellbook</ActivityItem> Минни Маус.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group01_StepDescription
+Вы нашли старую заклинательную книгу с липкими записями, покрытую почерком Минни Маус.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Мерлин о тяжелом положении Минни Маус.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group02_StoryDescription
+После разговора с Минни Маус вы узнаете, что она была взволнована, что она может начать исчезать здесь и там снова. Вы предлагаете ей помочь, попросив совета у Мерлин.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step03_Possess01_StepDescription
+<ActivityItem>Dream Shards</ActivityItem>.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step03_StepDescription
+Соберите все, что вам нужно для Мерлин's Enchantment:
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step04_TalkToCharacter02_StepDescription
+Поговори с Анна.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step04_TalkToCharacter03_StepDescription
+Поговори с Эльза.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_Step04_TalkToCharacter04_StepDescription
+Поговори с Моана.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_StoryDescription
+Мерлин просит вас собрать несколько осколков снов и несколько историй от различных деревенских жителей о том, что они больше всего любят в Минни Маус. Конечно, это должно быть для какого-то сложного очарования Мерлин готовится.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group04_Step05_BringItem02_StepDescription
+Соберите <ActivityItem>Dream Shards</ActivityItem> для завершения заклинания Мерлин.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group04_Step05_ReadyDescription
+Возвращайтесь на Мерлин, чтобы завершить заклинание.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group05_Step06_TalkToCharacter05_StepDescription
+Поговори с Минни Маус.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group05_StoryDescription
+Мерлин объясняет, что никакое заклинание не поможет Минни Маус. Что ей нужно, так это заверения, что пока дружба, любовь и забота удерживают Долину Мечты вместе, никто не будет забыт.
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно?
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно?
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно?
+
+TAG: Secret!Mickey!Minnie!SEC_Minn_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно?
+

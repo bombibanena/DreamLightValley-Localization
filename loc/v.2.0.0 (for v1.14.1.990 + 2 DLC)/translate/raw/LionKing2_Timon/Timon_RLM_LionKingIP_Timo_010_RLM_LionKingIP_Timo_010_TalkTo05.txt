@@ -1,0 +1,27 @@
+TAG: Timon_001_f
+Ладно, Тимон! У меня есть все жуки, которые нам нужны! Что дальше?
+
+TAG: Timon_002_f
+Я помню, что объединил <Lore>22 цвета жука, чтобы сделать зеленое масло</Lore>.
+
+TAG: Timon_003_f
+И <Lore>22 Другие цвета жука, чтобы сделать апельсиновое масло</Lore>.
+
+TAG: Player_000_choice_000_f
+Фундаментальная теория цвета!
+
+TAG: Player_000_choice_001_f
+Я подумаю об этом немного...
+
+TAG: Player_000_choice_002_f
+Звучит слишком просто!
+
+TAG: Timon_004_f
+После этого вы смешиваете <ActivityItem> Green Bug Oil</ActivityItem> и <ActivityItem>Orange Bug Oil</ActivityItem> вместе для последнего <ActivityItem>Super Slippery Bug Oil</ActivityItem>.
+
+TAG: Timon_005_f
+У тебя получится, Тимон, мы быстро вытащим Пумба оттуда!
+
+TAG: Timon_000_f
+{Placeholder} С ярко-красными личинками в руке игрок возвращается на Тимон, который пытается вспомнить рецепты с верхней части головы.
+

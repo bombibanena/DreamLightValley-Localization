@@ -1,0 +1,18 @@
+TAG: Merlin_019_f
+Use your Dreamlight to open this door, and inside you'll meet a robotic little fellow of few words but great charm.
+
+TAG: Player_000_choice_000_f
+Let's open the door. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Merlin_001_f
+Most impressive! You may now visit the world of a clever little chap named WALLÂ·E.
+
+TAG: Merlin_004_f
+I'm afraid your magic isn't strong enough yet. You'll have to gather more Dreamlight.
+
+TAG: Merlin_002_f
+Fine, fine. But remember: Only YOU have the power to open these doors.
+

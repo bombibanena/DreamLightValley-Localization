@@ -1,0 +1,93 @@
+TAG: TheForgotten_020_f
+Hey, so, I... Actually, I was wondering if... maybe...
+
+TAG: TheForgotten_021_f
+Forget it. It's silly...
+
+TAG: Player_006_choice_000_f
+I won't push you, but I'm always here to talk.
+
+TAG: Player_006_choice_001_f
+Come on! Spill it! What's up?
+
+TAG: TheForgotten_022_f
+Thanks...
+
+TAG: TheForgotten_023_f
+...
+
+TAG: TheForgotten_024_f
+Ugh. Fine... I'll tell you.
+
+TAG: TheForgotten_025_f
+I wrote some poetry today. But I'm having trouble with a couple of parts. I was wondering if maybe you could help me?
+
+TAG: Player_007_choice_000_f
+Sure! I'm a great poet.
+
+TAG: Player_007_choice_001_f
+I'll do my best...
+
+TAG: TheForgotten_026_f
+Okay... let's give this a try...
+
+TAG: TheForgotten_027_f
+What would be a good rhyme for <Lore>"Woe consumes my very soul"</Lore>?
+
+TAG: Player_008_choice_000_f
+"I fear that I'll never be whole."
+
+TAG: Player_008_choice_001_f
+"I'm hungry for a jelly roll."
+
+TAG: TheForgotten_028_f
+Whoa. I like it. You're good at this.
+
+TAG: TheForgotten_029_f
+Let's try another one.
+
+TAG: TheForgotten_030_f
+"My wounded heart can take no more..."
+
+TAG: Player_009_choice_000_f
+"I've never had what I've long yearned for."
+
+TAG: Player_009_choice_001_f
+"I want my own pet dinosaur."
+
+TAG: TheForgotten_031_f
+Wow, {PlayerName}. That gave me actual chills.
+
+TAG: TheForgotten_032_f
+There's only one more line I need a rhyme for...
+
+TAG: TheForgotten_033_f
+"I fear I'm doomed to a lonely fate..."
+
+TAG: Player_010_choice_000_f
+"And now, bereft, I lie in wait."
+
+TAG: Player_010_choice_001_f
+"Something something... carbonate."
+
+TAG: TheForgotten_034_f
+That... is... AMAZING! I should ask you for help with all my poetry!
+
+TAG: Player_011_exit_000_f
+Gotta go!
+
+TAG: TheForgotten_035_f
+Huh? That doesn't make any sense.
+
+TAG: TheForgotten_036_f
+Maybe I'll try asking someone else for help writing this. I bet Goofy knows some good rhymes...
+
+TAG: TheForgotten_037_f
+... Huh? That's not really the feel I'm going for in this poem.
+
+TAG: TheForgotten_038_f
+Although... now that you mention it... a pet dinosaur would be pretty cool.
+
+TAG: TheForgotten_039_f
+... That doesn't really capture the vibe I'm going for.
+

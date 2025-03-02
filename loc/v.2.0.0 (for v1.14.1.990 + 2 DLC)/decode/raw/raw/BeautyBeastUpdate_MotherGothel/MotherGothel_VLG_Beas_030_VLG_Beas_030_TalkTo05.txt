@@ -1,0 +1,84 @@
+TAG: MotherGothel_000_f
+Well well, look what the Beast dragged in.
+
+TAG: MotherGothel_001_f
+Or did he tell you to leave him alone? I'm certain I heard the sound of a childish tantrum coming from his general direction.
+
+TAG: Player_000_choice_000_f
+Can't you just... be cool for once?
+
+TAG: Player_000_choice_001_f
+You really upset him, Mother Gothel.
+
+TAG: Player_000_choice_002_f
+You need to be more compassionate around the other Villagers.
+
+TAG: MotherGothel_002_f
+You sound like my ungrateful daughter, accusing me of being cold.
+
+TAG: MotherGothel_003_f
+Please, I'm just trying to sort this out.
+
+TAG: MotherGothel_004_f
+What did you say to Belle to make her upset in the first place?
+
+TAG: MotherGothel_005_f
+Nothing really. She's just SO sensitive.
+
+TAG: MotherGothel_006_f
+We were discussing literature, and she was telling me about her favorite fables...
+
+TAG: MotherGothel_007_f
+I merely suggested that we discuss it further once she broadens her horizons.
+
+TAG: Player_001_choice_000_f
+That doesn't sound too bad...
+
+TAG: Player_001_choice_001_f
+Is that really what you said?
+
+TAG: Player_001_choice_002_f
+Please give me the exact words.
+
+TAG: MotherGothel_008_f
+I certainly didn't think so.
+
+TAG: MotherGothel_009_f
+What did you say, precisely?
+
+TAG: MotherGothel_010_f
+Well, I believe I mentioned that her literary interests were... hmm... What word did I use? Oh, yes. Provincial.
+
+TAG: MotherGothel_011_f
+Oh boy...
+
+TAG: MotherGothel_012_f
+I also may have said that no one would be friends with someone who had such pedestrian taste in books.
+
+TAG: MotherGothel_013_f
+Mother Gothel! That's horrible!
+
+TAG: MotherGothel_014_f
+Her tastes are horrible, aren't they?
+
+TAG: MotherGothel_015_f
+Ugh, never mind. I need to talk to the Beast.
+
+TAG: MotherGothel_016_f
+Tell Belle I'm always here for self-improvement advice!
+
+TAG: MotherGothel_017_f
+In summary, yes.
+
+TAG: MotherGothel_018_f
+Well, that was my intent.
+
+TAG: MotherGothel_019_f
+After all, he needs to learn self-control.
+
+TAG: MotherGothel_020_f
+I was simply helping.
+
+TAG: MotherGothel_021_f
+I don't "need" to do anything, dear.
+

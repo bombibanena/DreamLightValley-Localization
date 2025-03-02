@@ -1,0 +1,15 @@
+TAG: Buzz_000_f
+Another mission accomplished with great success, cadet.
+
+TAG: Buzz_003_f
+While you were away, I gave Remy his first assignment. He's created an impressive <ActivityItem>Buffet</ActivityItem> for the welcoming ceremony.
+
+TAG: Buzz_002_f
+Don't worry. There'll be more than air tea and air crumpets.
+
+TAG: Buzz_001_f
+I'll need you to place the buffet. And you already have your <ActivityItem>Uniform</ActivityItem> on. Nicely done.
+
+TAG: Buzz_004_f
+I'll need you to place the buffet. And don't forget to put on your <ActivityItem>Uniform</ActivityItem> before we begin the welcoming ceremony.
+

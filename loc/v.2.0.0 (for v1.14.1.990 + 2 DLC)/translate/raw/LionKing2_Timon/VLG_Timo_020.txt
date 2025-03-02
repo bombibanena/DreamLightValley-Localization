@@ -1,0 +1,168 @@
+TAG: Village!LionKing!Timon!VLG_Timo_020_Any_CompletedRequestDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_AvailableDescription
+Тимон действительно заинтересован в тварях, бегающих по долине.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_DisplayName
+Любопытно насчет критиков
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Базз Лайтер.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group01_Step01_TalkToCharacter02_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group01_StepDescription
+Спросите Базз Лайтер и Скрудж Макдак если у них есть записывающее устройство.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_StepDescription
+Собирайте компоненты ловля рыбы в лесу Вэлор.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_StoryDescription
+Базз Лайтер и Скрудж Макдак считают, что в воде леса Вэлор могут быть записи устройств.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group03_Step03_CraftItem01_StepDescription
+Соберите записывающее устройство на станции крафтинга.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group04_Step04_ReadyDescription
+Возьмите {ItemName} на Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group04_Step04_StepDescription
+Убедитесь, что {ItemName} в вашем списке.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group04_StoryDescription
+Со всеми найденными фрагментами записывающего устройства настало время собрать их вместе, чтобы сделать <ActivityItem>Recording Organization</ActivityItem> для документального фильма Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture01_StepDescription
+Городское существо.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture02_StepDescription
+Яркая рептилия.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture03_StepDescription
+Пушистый всенивор.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture04_StepDescription
+Тёмноцветная тварь.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture05_StepDescription
+Говорящий дракон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_StepDescription
+Сфотографируйте несколько <Lore>wild bitters</Lore> в Долине для документального фильма Тимон:
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_StoryDescription
+Тимон так взволнован, чтобы начать работу над его документальным фильмом!
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group06_Step07_TalkToCharacter04_StepDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture06_StepDescription
+Прайд Рок.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture07_StepDescription
+Пещера Шрам.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture08_StepDescription
+Замок Зверь.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture09_StepDescription
+Проклятая пещера на пляже Даззл.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_StepDescription
+Сфотографируйте в домах самых жестоких соседей в Долине:
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_StoryDescription
+Теперь, когда тварей сфотографировали, Тимон хочет добавить немного опасности в его документальный фильм. Он хочет, чтобы вы сфотографировали дома более страшных деревенских жителей вокруг долины Мечты.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group08_Step10_VisitArea02_StepDescription
+Возвращайтесь в пещеру Урсула Beach.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group09_Step11_Listen01_StepDescription
+Слушайте разговоры Шрам и Урсула.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group09_StepDescription
+Шрам и Урсула что-то замышляют?
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group10_Step12_VisitArea03_StepDescription
+Выходи из пещеры.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group10_StoryDescription
+Когда вы фотографируете Тимон, вы подслушали Шрам и Урсула, замышляя что-то!
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group11_Step13_TalkToCharacter05_StepDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group11_StepDescription
+Шрам, Урсула и Матушка Готель Матушка Готель что-то замышляют...
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_Step14_ConsumeItem01_StepDescription
+Гигантское Виллоу Дерево.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_Step14_ConsumeItem02_StepDescription
+Пещера Шрам.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_Step14_ConsumeItem03_StepDescription
+Урсула Хаус.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_StepDescription
+Шрам, Урсула и Матушка Готель Матушка Готель замышляют... поиск подсказок в:
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group13_Step15_TalkToCharacter06_StepDescription
+Показать записи в дневнике Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group14_Step16_VisitArea04_StepDescription
+Войдите в шахты Виталий.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group14_StoryDescription
+Тимон услышала, что Шрам и Матушка Готель Матушка Готель направлялись в шахты Виталий. Вам нужно сфотографировать их, чтобы показать это Забытым.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group15_Step17_TakePicture10_StepDescription
+Сфотографируй Шрам и Матушка Готель Матушка Готель вместе.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group15_Step18_Listen02_StepDescription
+Послушай разговор Шрам и Матушка Готель Матушка Готель.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group15_StepDescription
+Шрам и Матушка Готель Матушка Готель проводят секретную встречу в шахтах!
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group16_Step19_TalkToCharacter07_StepDescription
+Поговори с забытым о том, что ты узнал.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group17_Step20_TalkToCharacter08_StepDescription
+Возвращайтесь на Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group17_StoryDescription
+The Forgotten открыл правду: Шрам пишет поэзию сейчас! Какой великий поворот для Тимон документального фильма.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group18_Step21_ReadyDescription
+Доставьте 1000 Star Coins на Скрудж Макдак для покупки проекта <ActivityItem>Giant Screen</ActivityItem>.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group18_Step21_StepDescription
+Соберите 1000 Star Coins для <ActivityItem>Giant Screen</ActivityItem>.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group19_Step22_Decorate01_StepDescription
+Поместите {ItemName} где угодно в долину.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group19_StoryDescription
+Когда документальный фильм закончился, пришло время встретиться с некоторыми деревенскими жителями и посмотреть его на большом экране.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group20_Step23_Party01_StepDescription
+Сфотографируй всех, воссоединившихся вокруг проекта <ActivityItem>Giant Screen</ActivityItem>.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group21_Step24_Listen03_StepDescription
+Слушай Тимон, поговори с Шрам.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

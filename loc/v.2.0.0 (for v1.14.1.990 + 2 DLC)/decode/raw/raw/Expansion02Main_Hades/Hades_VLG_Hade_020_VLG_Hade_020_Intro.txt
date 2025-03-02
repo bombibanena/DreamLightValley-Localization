@@ -1,0 +1,117 @@
+TAG: Hades_001_f
+Hey Hades, you wanted to see me?
+
+TAG: Hades_002_f
+Yes! You! Sit down; I want to talk leadership with someone.
+
+TAG: Player_000_choice_000_f
+I'll stand â what's up?
+
+TAG: Player_000_choice_001_f
+I can't deal with this now.
+
+TAG: Hades_003_f
+I have some questions for you. When I say "Hades is a skilled and inspiring leader," how do you feel about that statement...?
+
+TAG: Hades_004_f
+Strongly agree, neutral, or strongly disagree?
+
+TAG: Player_001_choice_000_f
+Strongly agree!
+
+TAG: Player_001_choice_001_f
+Neutral.
+
+TAG: Player_001_choice_002_f
+Strongly disagree!
+
+TAG: Hades_005_f
+FINALLY! I have been waiting to hear that!
+
+TAG: Hades_014_f
+So far you're the only person to give a positive response to this survey.
+
+TAG: Hades_017_f
+Which is ridiculous. Clearly, I'm a skilled and inspiring leader.
+
+TAG: Hades_019_f
+Maybe you need a new perspective?
+
+TAG: Hades_020_f
+What? No. I need... I need to show that I'm better than everyone else.
+
+TAG: Hades_021_f
+Maybe I have a flaw... or half a flaw... but I'm still a better boss than the other dolts in this place.
+
+TAG: Hades_022_f
+What if you try to work at some of the businesses around here? Maybe you can pick up some management tips, see how others run things.
+
+TAG: Hades_023_f
+Okay. Yeah, I see where you're goin' here. Because then I'll KNOW exactly how much better I am than they are! I knew there was a reason I kept you around, {PlayerName}.
+
+TAG: Player_003_choice_000_f
+Because Pain and Panic are terrible assistants?
+
+TAG: Player_003_choice_001_f
+Because I actually know what I'm doing?
+
+TAG: Player_003_choice_002_f
+Because I have incredible magic that helps this land stay healthy?
+
+TAG: Hades_024_f
+What can I say? Both things are true.
+
+TAG: Hades_027_f
+Why don't you go talk to Remy for me? I'm sure you can convince him to let me run things at the ol' restaurant for a while.
+
+TAG: Hades_028_f
+I've even got a recipe for a Grecian Baked Fish that'll knock your sandals off.
+
+TAG: Hades_029_f
+All right, I'll go talk to him...
+
+TAG: Hades_025_f
+At times.
+
+TAG: Hades_026_f
+Do I look like a horticulturist to you? Don't care.
+
+TAG: Hades_015_f
+Even you don't recognize my innate management skills.
+
+TAG: Hades_016_f
+You're as bad as the rest of them!
+
+TAG: Hades_018_f
+I work my fingers to the bone in the Underworld and this is the thanks I get?
+
+TAG: Hades_006_f
+Really?
+
+TAG: Hades_007_f
+Because... you think that I'm MORE than skilled and inspiring?
+
+TAG: Player_002_choice_000_f
+Exactly.
+
+TAG: Player_002_choice_001_f
+... No.
+
+TAG: Hades_008_f
+Yes... Good mortal.
+
+TAG: Hades_009_f
+I'm not a dog, Hades.
+
+TAG: Hades_010_f
+No, you're a mortal. And ya know what; now that I think about it...
+
+TAG: Hades_011_f
+NO?!
+
+TAG: Hades_012_f
+Don't blow your top, Hades.
+
+TAG: Hades_013_f
+DON'T TELL ME WHAT TO DO!
+

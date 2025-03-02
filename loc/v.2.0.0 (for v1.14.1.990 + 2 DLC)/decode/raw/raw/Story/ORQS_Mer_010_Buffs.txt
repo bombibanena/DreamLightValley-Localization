@@ -1,0 +1,12 @@
+TAG: Story!ORQS_Mer_010_Buffs_AvailableDescription
+Merlin has been holed up in the library, studying the Vitalys Crystals that you found in the mines beneath the Sunlit Plateau. Now, after days of fitful research, he's ready to tell you about what he's uncovered.
+
+TAG: Story!ORQS_Mer_010_Buffs_CompletedStoryDescription
+After much study, Merlin provides you with several ways to improve your Royal Tools. You'll have to use a Crafting Station if you wish to discover more.
+
+TAG: Story!ORQS_Mer_010_Buffs_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Merlin.
+
+TAG: Story!ORQS_Mer_010_Buffs_Group01_StepDescription
+Merlin has something important to tell you!
+

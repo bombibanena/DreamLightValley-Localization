@@ -1,0 +1,54 @@
+TAG: Player_000_f
+Конечно, мне нужна твоя помощь, Гуфи.
+
+TAG: Player_000_choice_000_f
+Ты самый милый парень вокруг!
+
+TAG: Player_000_choice_001_f
+Ты так много знаешь о том, как всё исправить.
+
+TAG: Player_000_choice_002_f
+Вы не ожидаете, что я заплачу вам как Скрудж Макдак...
+
+TAG: Goofy_000_f
+Ну, это очень мило с твоей стороны.
+
+TAG: Goofy_003_f
+Знаешь, я не помню, чтобы видела плот до того, как... кажется, прилив промыл его.
+
+TAG: Goofy_013_f
+На днях я услышал, как кто-то поет в море.
+
+TAG: Goofy_014_f
+У неё был очень красивый голос.
+
+TAG: Goofy_015_f
+Если мы сможем починить этот плот, то я смогу...
+
+TAG: Player_000_choice_006_f
+...идите исследуйте!
+
+TAG: Player_000_choice_008_f
+Спасите того, кто заблудился в море!
+
+TAG: Goofy_004_f
+Думаю, я знаю, что нам нужно...
+
+TAG: Goofy_010_f
+Некоторые <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Rope</ActivityItem>, <ActivityItem>Clay</ActivityItem>, и некоторые <ActivityItem>Iron Ingots</ActivityItem>.
+
+TAG: Goofy_012_f
+Вы можете найти <ActivityItem>Hardwood</ActivityItem> в лесу Вэлора и <ActivityItem>Clay</ActivityItem> в Глейде доверия...
+
+TAG: Goofy_008_f
+Это многовато, но никто не умеет собирать вещи так хорошо, как ты!
+
+TAG: Goofy_009_f
+Вам нужно что-то сделать с гигантскими ночными торнсами, прежде чем вы сможете починить <ActivityItem>Wrecked Raft</ActivityItem>.
+
+TAG: Goofy_001_f
+Я стараюсь изо всех сил.
+
+TAG: Goofy_002_f
+Ну, я думаю, помочь другу стоит больше, чем все золото в мире.
+

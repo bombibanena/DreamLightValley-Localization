@@ -1,0 +1,141 @@
+TAG: Merlin_018_f
+Goodness! The glowing Orb you pulled from the Night Thorn... it's a <Lore>Memory</Lore>!
+
+TAG: Merlin_019_f
+It's like a fog has lifted, and I can recall something of great importance...
+
+TAG: Merlin_022_f
+Mickey Mouse and I were at the <Lore>Dream Castle</Lore>... and we left something there... something important...
+
+TAG: Player_000_choice_003_f
+Let's go find it.
+
+TAG: Player_000_choice_004_f
+What was it?
+
+TAG: Player_000_choice_005_f
+I want to see the Castle!
+
+TAG: Merlin_004_f
+That's the spirit! Of course, I can't remember what it was, butâ
+
+TAG: Merlin_028_f
+But wait! There's something else returning to me...
+
+TAG: Merlin_009_f
+When our Ruler left, the <ActivityItem>Royal Tools</ActivityItem> were lost, scattered throughout the Valley.
+
+TAG: Merlin_010_f
+We must find them, quickly. They're filled with <Lore>ancient and powerful magic</Lore>.
+
+TAG: Merlin_031_f
+The <Lore>Royal Tools</Lore>? If I could find those, then maybe I could...
+
+TAG: Player_000_choice_006_f
+...help the Valley!
+
+TAG: Player_000_choice_007_f
+...learn more powerful magic!
+
+TAG: Player_000_choice_008_f
+...solve the mystery of the Forgetting!
+
+TAG: Merlin_011_f
+You have a pure heart, {PlayerName}. It's only through helping each other that we'll get out of this blasted mess.
+
+TAG: Merlin_024_f
+That is... if you're staying here with us.
+
+TAG: Player_001_choice_000_f
+Of course!
+
+TAG: Player_001_choice_001_f
+...for now.
+
+TAG: Player_001_choice_002_f
+I just want to meet everyone!
+
+TAG: Merlin_017_f
+First, we must obtain the <Lore>Pickaxe</Lore>.
+
+TAG: Merlin_029_f
+When the Forgetting came and our Ruler left, we found the Pickaxe driven into a blighted stone in the Plaza.
+
+TAG: Merlin_021_f
+Come to think of it, that was around the time the sky went dark and the Night Thorns overran the Plaza. Though it's all a bit of a muddle, I'm afraid.
+
+TAG: Merlin_023_f
+No one's been able to <Lore>lift the Pickaxe from the stone</Lore>. But then no one was you, {PlayerName}.
+
+TAG: Merlin_003_f
+And, after all, it wouldn't be the first time someone pulled something from a stone and became a hero of legend.
+
+TAG: Merlin_012_f
+<Lore>Pull the Pickaxe from the stone in the Plaza</Lore>. Got it. Anything else?
+
+TAG: Merlin_034_f
+You must also find the other three <ActivityItem>Royal Tools</ActivityItem>: the <Lore>Shovel</Lore>, the <Lore>Watering Can</Lore> and the <Lore>Fishing Rod</Lore>.
+
+TAG: Merlin_035_f
+You'll need them for what's to come.
+
+TAG: Merlin_025_f
+Magnificent! Then this House shall be <Lore>your home</Lore>.
+
+TAG: Merlin_032_f
+You'll need a safe place in the Valley to eat, sleep and keep your Energy up.
+
+TAG: Player_000_choice_000_f
+It's got so much potential!
+
+TAG: Player_000_choice_001_f
+It's a bit of a mess.
+
+TAG: Player_000_choice_002_f
+It's so small.
+
+TAG: Merlin_002_f
+That's the spirit! Just as a whispered word can conjure great magic, this House holds much promise.
+
+TAG: Merlin_000_f
+In fact, I seem to remember that the Ruler of Dreamlight Valley had a house like this once.
+
+TAG: Merlin_007_f
+Perhaps you'll do as much good for the Valley as our Ruler did! In fact, here's a little something to get you started.
+
+TAG: Merlin_016_f
+If you ever feel like you need a boost of Energy, there's something in there that will fill you right up.
+
+TAG: Merlin_014_f
+Now then, I'll be at the Dream Castle. You can find me there when you're ready.
+
+TAG: Merlin_001_f
+Ah, but it wasn't always so.
+
+TAG: Merlin_026_f
+Well then, you'll still need a safe place to eat, sleep and keep your Energy up â even if it's only temporary.
+
+TAG: Merlin_030_f
+So consider this House <Lore>your home</Lore>.
+
+TAG: Merlin_027_f
+Well, there are a few Villagers scattered about... and others... well, they'll need your help now more than ever.
+
+TAG: Merlin_020_f
+Of course, you'll need a safe place to eat, sleep and keep your Energy up if you're going to help them.
+
+TAG: Merlin_013_f
+Perhaps. But remember: Magic is only as pure as the heart that wields it.
+
+TAG: Merlin_015_f
+Well, there's certainly no shortage of mysteries to solve around here.
+
+TAG: Merlin_005_f
+Oh dear, I can't remember. We'll just have to go see for ourselves.
+
+TAG: Merlin_006_f
+As you should. The Castle is magnificent, though I'm afraid it's seen better days.
+
+TAG: Merlin_008_f
+If only I could remember what we'd left there. Well, we must go solve this mystery!
+

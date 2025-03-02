@@ -1,0 +1,51 @@
+TAG: Village!LionKing!Nala!VLG_Nala_030_CompletedStoryDescription
+Осталось только вернуться на Нала с мистическими артефактами, которые вы сделали.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_DisplayName
+Сердце львиности
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group01_Step01_BringItem01_StepDescription
+Соберите {ItemName} для Моана.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group01_Step01_ReadyDescription
+Принесите {ItemName} Моана.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group01_Step13_BringItem05_StepDescription
+Соберите {ItemName} для Реми.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group01_Step13_ReadyDescription
+Приведите {ItemName} в Реми.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group01_Step14_BringItem06_StepDescription
+Соберите {ItemName} для Дональд Дак.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group01_Step14_ReadyDescription
+Приведите {ItemName} в Дональд Дак.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group01_StepDescription
+Помогите деревням справиться с их проблемой:
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Нала.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group03_StoryDescription
+Ты собираешь еду для деревенских жителей, но тебе нужно сделать больше, чтобы решить эту проблему навсегда.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group06_StoryDescription
+Внутри Прайда Рок, вы находите Память, которая открывает ключ к спасению деревни.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group07_Step10_StepDescription
+Попроси Минни Маус одолжить что-нибудь.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group07_Step11_Possess03_StepDescription
+Собирайте <ActivityItem>Dream Shards</ActivityItem>.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group07_StepDescription
+Соберите ингредиенты для <ActivityItem>Enchaned Hearts</ActivityItem>:
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group08_StoryDescription
+Вы собираете всё, что вам нужно, что-то отсюда, что-то оттуда, и немного странной рыбы в центре проблемы.
+
+TAG: Village!LionKing!Nala!VLG_Nala_030_Group12_Step12_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Enchaned Hearts</ActivityItem>.
+

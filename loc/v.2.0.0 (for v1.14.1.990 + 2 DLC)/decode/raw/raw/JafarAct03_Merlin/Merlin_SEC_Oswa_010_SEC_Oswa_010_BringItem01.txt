@@ -1,0 +1,63 @@
+TAG: Merlin_002_f
+Hey Merlin, I've got a bit of a quandary for you â think you can help?
+
+TAG: Player_000_choice_000_f
+What kind of information?
+
+TAG: Player_000_choice_001_f
+Go on...
+
+TAG: Player_000_choice_002_f
+Sounds like you're stumped.
+
+TAG: Merlin_003_f
+Certainly, {PlayerName}. By any chance, does this relate to the Bermuda Triangle and its suitability as a holiday destination? You see, I've recentlyâ
+
+TAG: Merlin_004_f
+Uhh, not exactly. Check this out...
+
+TAG: Merlin_005_f
+Yes, let's take a closer look â what have we here...
+
+TAG: Merlin_006_f
+Extraordinary! The Dreamlight Magic in these pieces of the landscape has been tampered with.
+
+TAG: Merlin_007_f
+Yeah, they're also extremely flat.
+
+TAG: Merlin_008_f
+How right you are!
+
+TAG: Merlin_009_f
+Oswald messed up, and I'm trying to figure out how to reverse this. Any ideas?
+
+TAG: Merlin_010_f
+Hmm... I've a few ideas we might try. Reverse-hexes, asking them nicely... But we'll need more information first.
+
+TAG: Merlin_011_f
+{PlayerName}, I'm afraid that the magic governing the shape and dimension of these items has been compromised.
+
+TAG: Merlin_012_f
+And well... geometrical and dimensional magics are not exactly my forte.
+
+TAG: Merlin_013_f
+That's not good. You think there's a danger of this spreading?
+
+TAG: Merlin_014_f
+I certainly hope not!
+
+TAG: Merlin_015_f
+Hmm... Perhaps you should look about <Lore>Jafar's Palace</Lore>.
+
+TAG: Merlin_016_f
+As dastardly as he may be, he's extremely intelligent.
+
+TAG: Merlin_017_f
+And Jafar spent a very long time on Eternity Isle. I'm certain he understands its nature better than anyone. If you could find some of his notes, we may be able to fix this.
+
+TAG: Merlin_000_f
+In the meantime, I will attempt to wrestle some sense from these strange objects!
+
+TAG: Merlin_018_f
+I'll go take a look. Thanks, Merlin.
+

@@ -1,0 +1,99 @@
+TAG: Flynn_000_f
+Wow, {PlayerName}. I saw that House you built for me and...
+
+TAG: Flynn_001_f
+Well... thanks. It's not often that I've had a place that nice to call home.
+
+TAG: Flynn_010_f
+Not that I'm getting emotional, mind you. I've got a reputation to protect.
+
+TAG: Player_001_choice_000_f
+What is that reputation?
+
+TAG: Player_001_choice_001_f
+You're welcome. It was no problem, really.
+
+TAG: Player_001_choice_002_f
+You're totally getting emotional.
+
+TAG: Flynn_011_f
+You know. Flynn Rider. Swashbuckling rogue!
+
+TAG: Flynn_016_f
+Anyway, now that I'm out of there... if there's anything you need to help fight the Neverafter? Just name it.
+
+TAG: Flynn_024_f
+I guess next I'll need to find <Lore>more Fairy Tale Trials</Lore> just like this one.
+
+TAG: Flynn_025_f
+Each one I fix gets me <Lore>one step closer to Maleficent</Lore>.
+
+TAG: Flynn_026_f
+If you find more of them, let me know. I'm pretty great at exploring dungeons, plundering treasures, charming old widows into sharing their fortunes...
+
+TAG: Flynn_027_f
+You know. Charming adventurer stuff.
+
+TAG: Flynn_023_f
+In the meantime, though, I've got some unfinished business to take care of.
+
+TAG: Flynn_002_f
+I don't suppose you've seen a girl anywhere, about this tall...
+
+TAG: Flynn_003_f
+Very, VERY long blonde hair...
+
+TAG: Flynn_004_f
+Killer swing with a frying pan?
+
+TAG: Player_000_choice_000_f
+Are you talking about Rapunzel?
+
+TAG: Player_000_choice_001_f
+Doesn't ring a bell, sorry.
+
+TAG: Flynn_005_f
+You know Rapunzel?!
+
+TAG: Flynn_007_f
+I found her on Eternity Isle.
+
+TAG: Flynn_008_f
+Then that's where I'm going! We need to talk afterâ
+
+TAG: Flynn_009_f
+No, wait. I can't face Rapunzel. Not yet.
+
+TAG: Flynn_022_f
+When I see her again, I want to be the man she deserves.
+
+TAG: Flynn_017_f
+Maleficent's curse is still hanging over me.
+
+TAG: Flynn_020_f
+I'm feeling a sudden urge to form a pack and chase down an elk.
+
+TAG: Flynn_021_f
+I hope this goes away soon. But if not... well, I might need some more help. Check back with me later, would you?
+
+TAG: Flynn_006_f
+I've got to find her. She must be somewhere out there.
+
+TAG: Flynn_018_f
+There's someone I need to find and catch up with. A certain blonde with very, VERY long hair and a killer swing with a frying pan.
+
+TAG: Flynn_019_f
+But before I do that...
+
+TAG: Flynn_012_f
+Well, hey, I appreciate it. I'm a pretty good friend to have, you know.
+
+TAG: Flynn_013_f
+I am not!
+
+TAG: Flynn_014_f
+Okay... maybe JUST a little.
+
+TAG: Flynn_015_f
+Don't tell anyone. Swashbuckling rogues don't get emotional.
+

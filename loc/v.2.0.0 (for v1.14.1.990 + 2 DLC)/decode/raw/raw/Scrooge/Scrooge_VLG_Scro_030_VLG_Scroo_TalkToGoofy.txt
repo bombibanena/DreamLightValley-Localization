@@ -1,0 +1,24 @@
+TAG: Goofy_004_f
+Hey there, {PlayerName}! What can I do for you?
+
+TAG: Player_000_f
+I need to know...
+
+TAG: Player_000_choice_000_f
+What's your favorite day of the year?
+
+TAG: Player_000_choice_001_f
+How many ponds are in the Meadow?
+
+TAG: Goofy_003_f
+My favorite day of the year? Huh... let me think...
+
+TAG: Goofy_005_f
+Oh, I know! It's May 25th!
+
+TAG: Goofy_006_f
+Can't rightly recall why, though. Hmm...
+
+TAG: Goofy_007_f
+Gawrsh, that's a great question! I guess I never stopped to count 'em all!
+

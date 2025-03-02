@@ -1,0 +1,15 @@
+TAG: House!Oswald!Oswald_DisplayName
+{Placeholder}Освальд House Scene
+
+TAG: House!PrincessFrog!Tiana_DisplayName
+{Placeholder}Тиана дома
+
+TAG: Village!Expansion01_DisplayName
+Вечный остров
+
+TAG: Village!Expansion02_DisplayName
+Долина Истории
+
+TAG: Village!Village04_DisplayName
+Долина мечты
+

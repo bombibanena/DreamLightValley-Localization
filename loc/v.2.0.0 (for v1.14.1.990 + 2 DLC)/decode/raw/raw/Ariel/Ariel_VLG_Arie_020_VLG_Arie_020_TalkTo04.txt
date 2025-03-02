@@ -1,0 +1,33 @@
+TAG: Ariel_000_f
+You've got all the pieces of Eric's Statue! Oh, thank you, {PlayerName}! Now we can repair it.
+
+TAG: Ariel_006_f
+Once it's fixed, could you put it on Dazzle Beach where everyone will see it? Once they do, I just know they'll remember him! Someone has to know where he is.
+
+TAG: Ariel_001_f
+Wait! I almost forgot. You'll need this stuff Goofy gave me. He called it <ActivityItem>Superglue</ActivityItem>. He says it makes things stick together.
+
+TAG: Ariel_002_f
+I think humans use it to do their hair. But you must know all about that.
+
+TAG: Player_000_choice_000_f
+You should try that out sometime.
+
+TAG: Player_000_choice_001_f
+That's an... interesting idea.
+
+TAG: Player_000_choice_002_f
+No one uses it like that...
+
+TAG: Ariel_003_f
+Oh, I usually just use sea water. Here it is.
+
+TAG: Ariel_007_f
+I hope it'll be strong enough.
+
+TAG: Ariel_004_f
+Go ahead and use it all. I don't need it. I usually just use sea water. Here you go.
+
+TAG: Ariel_005_f
+Oh? Thank you for telling me. But I do think it's what we need to fix Eric's Statue.
+

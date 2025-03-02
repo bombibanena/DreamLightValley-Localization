@@ -1,0 +1,36 @@
+TAG: Elsa_000_f
+Is there something I can help you with, {PlayerName}?
+
+TAG: Player_000_f
+I need you to tell me the thing you love most about Minnie.
+
+TAG: Player_000_choice_000_f
+Can you think of anything?
+
+TAG: Player_000_choice_001_f
+Something really special and unique about her.
+
+TAG: Player_000_choice_002_f
+Trust me. It's a whole "magic" thing.
+
+TAG: Elsa_001_f
+Well, I can think of a lot of things I love about Minnie. But there's one that comes to mind the most...
+
+TAG: Elsa_002_f
+When you talk to Minnie, you just know that she's truly listening to you.
+
+TAG: Elsa_003_f
+She gives wonderful advice, but really... it's the listening that sets her apart.
+
+TAG: Elsa_004_f
+Was that all you needed?
+
+TAG: Elsa_005_f
+That's it. Thanks, Elsa. You've been a big help.
+
+TAG: Elsa_006_f
+I think I know exactly what you mean.
+
+TAG: Elsa_007_f
+There's no need to explain, {PlayerName}. I'm happy to share my thoughts on Minnie.
+

@@ -1,0 +1,33 @@
+TAG: Buzz_000_f
+Nice work, cadet. Now let's hop in and head out on patrol.
+
+TAG: Player_000_f
+Er, I made the <ActivityItem>Space Ranger Ship</ActivityItem> to your specifications, so it's kinda small...
+
+TAG: Player_000_choice_000_f
+It's going to be a tight squeeze for me.
+
+TAG: Player_000_choice_001_f
+I can't fit in that thing!
+
+TAG: Player_000_choice_002_f
+Er... let's patrol later.
+
+TAG: Buzz_004_f
+Ah, yes. I see how that could be a problem. Also, you're not exactly ready for official Space Ranger duties yet.
+
+TAG: Buzz_001_f
+Before we do anything else, you need a proper <ActivityItem>Uniform</ActivityItem>.
+
+TAG: Buzz_002_f
+I understand Scrooge McDuck is in charge of commerce around here. I suggest you speak to him.
+
+TAG: Buzz_005_f
+It's a spaceship, {PlayerName}. From the films I've seen, they are often bigger on the inside.
+
+TAG: Buzz_003_f
+But you are missing one thing that's essential for all Space Rangers...
+
+TAG: Buzz_006_f
+Good call, {PlayerName}. I just realized, we can't go on patrol yet. You're missing something critical to all Space Rangers.
+

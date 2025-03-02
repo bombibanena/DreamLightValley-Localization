@@ -1,0 +1,54 @@
+TAG: Village!LionKing!Scar!VLG_Scar_020_Any_CompletedRequestDescription
+Возвращайтесь на Шрам.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_AvailableDescription
+Шрам хочет избавиться от костей, которые подбрасывают плато Санлита, и просит вас помочь ему сделать это. Он говорит вам, что Скрудж Макдак McDuck имеет <ActivityItem>Mold</ActivityItem>, что может помочь вам улучшить ваш Королевский Шовель.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_CompletedStoryDescription
+Используя ваш новый и улучшенный Королевский Шовель, вы сможете удалить самые маленькие из самых диких костей, которые подбрасывают плато. Шрам должно быть счастливо.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_DisplayName
+Разбивные кости
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Скрудж Макдак МакДаком.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group04_Step04_Possess02_StepDescription
+<ActivityItem>Lion's Claws</ActivityItem> похоронен возле скал на плато Солнце.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group04_Step04_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group04_Step04_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group04_Step04_StepDescription
+Соберите материалы, чтобы улучшить свой <ActivityItem>Royal Shovel</ActivityItem>:
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group04_StoryDescription
+Получив <ActivityItem>Mold</ActivityItem> от Скрудж Макдак McDuck, вы сможете получить Шрам, чтобы запомнить, какие материалы вам нужны.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group07_Step07_RemoveBlocker01_StepDescription
+Уберите маленькие дикие кости, засыпающие плато Санлита.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group09_Step09_TalkToCharacter02_StepDescription
+Возвращайтесь на Шрам.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group10_Step10_CraftItem02_StepDescription
+Подготовьте {ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Теперь что?
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_Group11_Step11_ConsumeItem02_StepDescription
+Улучшить <ActivityItem>Shovel</ActivityItem> с помощью нового <ActivityItem>{ItemName}</ActivityItem>.
+
+TAG: Village!LionKing!Scar!VLG_Scar_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

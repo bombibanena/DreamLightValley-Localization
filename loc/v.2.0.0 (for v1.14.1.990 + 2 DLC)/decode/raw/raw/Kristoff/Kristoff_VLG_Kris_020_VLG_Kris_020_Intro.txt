@@ -1,0 +1,63 @@
+TAG: Kristoff_010_f
+Hey, {PlayerName}, I've got kind of a strange problem. I could use some help.
+
+TAG: Player_002_choice_000_f
+Tell me everything.
+
+TAG: Player_002_choice_001_f
+I'll help some other time.
+
+TAG: Kristoff_000_f
+Well, you remember that spell we did that took away my memories of Anna to help save the Village...?
+
+TAG: Kristoff_001_f
+Some of my memories are starting to come back, but not many of them. And I can tell it's breaking Anna's heart.
+
+TAG: Kristoff_002_f
+Have you ever forgotten something important?
+
+TAG: Player_000_choice_000_f
+I forgot an anniversary once.
+
+TAG: Player_000_choice_001_f
+I think I forgot this Valley.
+
+TAG: Player_000_choice_002_f
+Never.
+
+TAG: Kristoff_003_f
+That's pretty bad. Hope you didn't get in too much trouble.
+
+TAG: Kristoff_004_f
+If Anna and I have anniversaries, I don't even remember what they're for.
+
+TAG: Kristoff_012_f
+Say... you don't remember Anna, but do you remember her sister, Elsa?
+
+TAG: Kristoff_013_f
+Huh. That's funny. I do remember Elsa!
+
+TAG: Kristoff_008_f
+But in all my memories of her, it's like... parts are foggy. I know someone else was with us. I just can't see who.
+
+TAG: Kristoff_014_f
+Maybe if you've still got memories of Elsa, and she's still got memories of you...
+
+TAG: Kristoff_015_f
+...she could help fill in what's missing from your memories with Anna. I'll go ask her.
+
+TAG: Kristoff_016_f
+It's worth a try, {PlayerName}. Thanks. Let me know if Elsa thinks of anything.
+
+TAG: Kristoff_005_f
+Oh. Wow. That's a pretty big thing to forget.
+
+TAG: Kristoff_006_f
+You've never forgotten something important? You sure?
+
+TAG: Kristoff_007_f
+Maybe you've forgotten what you've forgotten.
+
+TAG: Kristoff_011_f
+Oh, sure. Don't worry. I don't think this problem's going away any time soon.
+

@@ -1,0 +1,9 @@
+TAG: Daisy_000_f
+Дональд Дак чувствует себя лучше?
+
+TAG: Daisy_001_f
+Он заканчивает твой гардероб, а я приношу ему материалы.
+
+TAG: Daisy_002_f
+Ему понадобится <ActivityItem>Dream Shards</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Tinkering части</ActivityItem>, и <ActivityItem>Iron Ingots</ActivityItem>.
+

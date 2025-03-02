@@ -1,0 +1,48 @@
+TAG: TheForgotten_000_f
+The poetry reading went so great!
+
+TAG: TheForgotten_001_f
+I'm really glad you helped me out with this, {PlayerName}.
+
+TAG: TheForgotten_002_f
+It's funny... I'm starting to feel... not so forgotten anymore.
+
+TAG: Player_000_choice_000_f
+We'll need to figure out a new name for you!
+
+TAG: Player_000_choice_001_f
+What do you want to be called?
+
+TAG: Player_000_choice_002_f
+Should I call you "The Unforgotten"?
+
+TAG: TheForgotten_003_f
+That would be fun!
+
+TAG: TheForgotten_004_f
+But after all those poems, I'm running low on creativity right now. I'll have to think of a name some other time.
+
+TAG: TheForgotten_007_f
+But one thing's for sure. The more at home I feel here... the more old memories seem to be coming back.
+
+TAG: TheForgotten_008_f
+Like <Lore>Skull Rock</Lore>. I can't stop thinking about that place...
+
+TAG: TheForgotten_009_f
+I think there's something important about it. Maybe... we used to visit it for something?
+
+TAG: TheForgotten_010_f
+Whatever it is... I hope we find out together.
+
+TAG: TheForgotten_011_f
+Thanks again, {PlayerName}. Oh! I have something for you.
+
+TAG: TheForgotten_012_f
+Merlin really liked my poem. He whipped this up for us... to help out on our next adventure!
+
+TAG: TheForgotten_005_f
+Hm. I guess I haven't figured that out yet.
+
+TAG: TheForgotten_006_f
+I think I need something that's more like a real name.
+

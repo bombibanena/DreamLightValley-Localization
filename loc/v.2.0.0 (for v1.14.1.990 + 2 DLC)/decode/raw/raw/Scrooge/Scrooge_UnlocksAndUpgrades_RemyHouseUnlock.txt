@@ -1,0 +1,18 @@
+TAG: Scrooge_000_f
+Remy may be a wee chef, but he's got refined tastes and grand expectations. If ya want a house that's up to his standards, you'll have to pay handsomely for it.
+
+TAG: Player_000_choice_000_f
+Let's make a big House for a little rat! (Use <nobr>{UpgradePrice}<sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+I'll come back later.
+
+TAG: Scrooge_003_f
+With such a fine chef around, the Valley's economy can really get cookin'!
+
+TAG: Scrooge_002_f
+Och! You don't have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_001_f
+Well, make it quick! The Village economy could use a fine chef like Remy.
+

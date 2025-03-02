@@ -1,0 +1,69 @@
+TAG: Village!Moana!Moana!VLG_Moan_040_Any_CompletedRequestDescription
+Talk to Moana.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_AvailableDescription
+Moana wants to talk about Pua.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_CompletedStoryDescription
+You should ask Moana how Pua is doing after all these twists and turns.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_DisplayName
+The Search for Pua
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group01_StepDescription
+Follow Moana to the Fishing Boat.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group01_StoryDescription
+Enough time has passed for Pua to have found the <ActivityItem>Coconuts</ActivityItem>. Moana wants to check for herself, and you go with her.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Moana.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I go?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group03_StepDescription
+Track Pua in the Meadow.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group03_StoryDescription
+You find traces of Pua but... no Pua. You're going to need to track the little pig in the Village.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group04_Step04_TalkToCharacter02_StepDescription
+More Pua hoofprints! Talk to Moana.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I go?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group07_StepDescription
+Track Pua near the Restaurant.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group08_StepDescription
+Leftover food! Talk to Moana about it.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I go?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group09_StepDescription
+Track Pua in the Forest.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group10_StepDescription
+Oh no! Pua is trapped! Free the little pig from the Night Thorns.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group10_StoryDescription
+After chasing Pua all over the Valley, you discover the little pig trapped in Night Thorns.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I do?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_Step11_ReadyDescription
+Give Moana the new <ActivityItem>Leader Shard</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_Step11_StepDescription
+Pick up the new <ActivityItem>Leader Shard</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_StoryDescription
+Finding and freeing Pua makes another <ActivityItem>Leader Shard</ActivityItem> appear.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

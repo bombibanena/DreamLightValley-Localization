@@ -1,0 +1,135 @@
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess09_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group16_Step17_Conditional02_StepDescription
+Make sure you are not hanging out with the Beast.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group16_StepDescription
+Let the Beast cool off for a while.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Any_CompletedRequestDescription
+Return to the Beast.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_AvailableDescription
+The Beast is... upset? Again?!
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_CompletedStoryDescription
+The mirror was a great success! Once again, the Beast is in your debt.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_DisplayName
+The Crown or the Claw
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group01_Step01_Listen01_StepDescription
+Follow the Beast to see his confrontation with Mother Gothel.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group01_StoryDescription
+Mother Gothel seems to have upset Belle, and the Beast is in a fury!
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group02_Step02_TalkToCharacter01_StepDescription
+Check in with the Beast.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group03_Step03_Conditional01_StepDescription
+Let the Beast cool off for a while.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group03_Step04_TalkToCharacter02_StepDescription
+Get Mother Gothel's side of the story.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group03_StepDescription
+Give the Beast some space and try to defuse the situation:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group04_Step05_TalkToCharacter03_StepDescription
+Ask how the Beast is doing now.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group04_StoryDescription
+The Beast tried to defend Belle's honor but was instead taken down a peg by Mother Gothel's acid tongue. Maybe something can be done once he calms down a little...
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group05_Step06_StepDescription
+Pick up the broken pieces of furniture in the Beast's Castle.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group05_StoryDescription
+The Beast is calm now, but feels ashamed at having lost his temper and having trashed the furniture in his castle.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_Possess06_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group06_Step07_StepDescription
+Gather what's needed to repair the Beast's furniture.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group07_Step08_CraftItem01_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group07_Step08_CraftItem02_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group07_Step08_StepDescription
+Repair the furniture at a Crafting Station.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group08_Step09_VisitArea01_StepDescription
+Meet the Beast inside his castle.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_ReadyDescription
+Give the repaired furniture to the Beast.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group09_Step10_StepDescription
+Make sure you have the furniture in your Inventory.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group10_Step11_TalkToCharacter04_StepDescription
+Talk to Merlin.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group10_StoryDescription
+You helped the Beast fix up the damage he did to his furniture, but you need to make sure that Mother Gothel doesn't tangle with Belle ever again.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_Possess10_StepDescription
+{ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_Step12_StepDescription
+Gather materials for the Mirror of True Seeing:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group11_StoryDescription
+Merlin has suggested a solution â a Mirror of True Seeing that will show the viewer the true contents of their heart.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group12_Step13_CraftItem03_StepDescription
+Craft the <ActivityItem>Mirror of True Seeing</ActivityItem>.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group13_Step14_Decorate01_StepDescription
+Place the mirror near the Beast's House.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group13_StoryDescription
+The mirror is crafted, so it's time to leave it by the Beast's Castle so he can see the prince inside him.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group14_Step15_Decorate02_StepDescription
+Place the mirror by the entrance of the Giant Willow Tree.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group14_StoryDescription
+The mirror is crafted, so it's time to leave it by Mother Gothel's home so she can see villainy in her heart.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group15_Step16_TalkToCharacter05_StepDescription
+Talk to Mother Gothel.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_Group15_StoryDescription
+The mirror is in place! Hopefully Mother Gothel will reconsider her actions after peering within...
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_030_StartRequestButton
+START QUEST
+

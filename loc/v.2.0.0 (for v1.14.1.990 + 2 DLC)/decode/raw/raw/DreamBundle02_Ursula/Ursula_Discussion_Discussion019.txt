@@ -1,0 +1,72 @@
+TAG: Ursula_000_f
+Brilliantly!
+
+TAG: Ursula_001_f
+And now that I can walk about on dry land, I'm considering creating a new one here as well.
+
+TAG: Player_000_choice_000_f
+That's a great idea!
+
+TAG: Player_000_choice_001_f
+Planning on growing anything in particular?
+
+TAG: Player_000_choice_002_f
+This one won't have unfortunate souls, will it?
+
+TAG: Ursula_002_f
+Of course it is, angelfish! It's mine, isn't it?
+
+TAG: Ursula_003_f
+Ahh, I can see it already...
+
+TAG: Ursula_004_f
+Basil, ginger, lemon, mint... I've learned they all have interesting uses in potion-making.
+
+TAG: Ursula_005_f
+I hear you're an excellent terrestrial gardener â any tips for someone used to growing things underwater?
+
+TAG: Player_001_choice_000_f
+Be careful about overwatering!
+
+TAG: Player_001_choice_001_f
+Talk to your plants to help them grow.
+
+TAG: Player_001_choice_002_f
+Dreamlight helps things grow here â go wild!
+
+TAG: Ursula_006_f
+OVER-watering? That's possible?
+
+TAG: Ursula_007_f
+Afraid so.
+
+TAG: Ursula_008_f
+Fascinating.
+
+TAG: Ursula_009_f
+{PlayerName}... don't tell me you have plants that used to be sentient creatures as well?
+
+TAG: Ursula_010_f
+No!
+
+TAG: Ursula_011_f
+What a shame... I thought we had something new in common.
+
+TAG: Ursula_012_f
+Dreamlight... I'll remember that.
+
+TAG: Ursula_013_f
+Most definitely! There are whole hosts of potions that require terrestrial plants.
+
+TAG: Ursula_014_f
+Now I won't have to trade with Gothel for them.
+
+TAG: Ursula_015_f
+... No promises.
+
+TAG: Ursula_016_f
+Ursula! That's not being very neighborly!
+
+TAG: Ursula_017_f
+Fine. Let's just say that unfortunate souls won't be the first things I'll plant.
+

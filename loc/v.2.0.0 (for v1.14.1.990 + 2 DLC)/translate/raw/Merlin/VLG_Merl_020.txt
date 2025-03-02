@@ -1,0 +1,69 @@
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Any_CompletedRequestDescription
+Поговори с Мерлин.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_AvailableDescription
+Мерлин оглядывается вокруг деревни бормочет.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_CompletedStoryDescription
+Предварительный тест был успешным. Мерлин будет рад его услышать.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_DisplayName
+Новое увековечение
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group01_Step01_BringItem01_StepDescription
+Собирайте <ActivityItem>Dream Shards</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group01_Step01_ReadyDescription
+Возьмите <ActivityItem>Dream Shards</ActivityItem> на Мерлин.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group02_StepDescription
+{itemName} с использованием <ActivityItem>Dream Shards</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group02_StoryDescription
+Волшебник проводит исследование долины Мечты и приглашает вас на помощь. Он просит вас принести ему <ActivityItem>Dream Shards</ActivityItem>, чтобы превратить их в зелье. Вы можете найти Shards Мечты, убрав Ночные Торны.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group03_Step04_RemoveBlocker01_StepDescription
+Поливайте грибы в Мидоу рядом с входом в Глейд доверия.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно сделать?
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_Step09_BringItem02_StepDescription
+{itemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_Step09_BringItem03_StepDescription
+{itemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_Step09_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_Step09_BringItem05_StepDescription
+{itemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_Step09_ReadyDescription
+Принесите Мерлин то, что вы нашли.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_Step09_StepDescription
+Соберите кое-какие вещи для Мерлин:
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group04_StoryDescription
+Вы понимаете, что в Ночь Торнов больше, чем в глаза. Мерлин дает вам указание принести ему образцы местной флоры, чтобы продолжить его изучение.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group05_StepDescription
+Возвращайся в Мерлин!
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group06_Step05_TalkToCharacter01_StepDescription
+Поговори с Мерлин.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group07_Step07_FollowCharacter01_StepDescription
+Следуйте Мерлин к грибам в Медоу рядом с входом в Глейд доверия.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_Group07_StoryDescription
+Волшебник решает использовать то, чему он научился, чтобы усовершенствовать ваш Королевский водонапорный канистр, чтобы вы могли удалить некоторые гнойные растения, такие как грибы, но сначала его нужно проверить.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

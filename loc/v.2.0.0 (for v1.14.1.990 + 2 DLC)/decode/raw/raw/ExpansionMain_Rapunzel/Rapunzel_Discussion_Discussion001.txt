@@ -1,0 +1,117 @@
+TAG: Rapunzel_000_f
+{PlayerName} â I was hoping you could give me some advice. I really want to learn more about Eugene...
+
+TAG: Rapunzel_001_f
+But it seems like talking about his past embarrasses him.
+
+TAG: Rapunzel_002_f
+What do you think the best way is to let him know that he doesn't need to be embarrassed around me?
+
+TAG: Player_000_choice_000_f
+Tell him about YOUR past.
+
+TAG: Player_000_choice_001_f
+Say you still think he's cool.
+
+TAG: Player_000_choice_002_f
+I think you can just ask him.
+
+TAG: Rapunzel_003_f
+You know what... That's a great idea! Oh, but what should I tell him? Maybe how I made a pulley system to open the sunroof?
+
+TAG: Rapunzel_004_f
+Or the time I made sixteen papier-mÃ¢chÃ© heads?
+
+TAG: Player_001_choice_000_f
+Tell the pulley-system story!
+
+TAG: Player_001_choice_001_f
+Tell the papier-mÃ¢chÃ© head story!
+
+TAG: Player_001_choice_002_f
+Talk about YOUR feelings.
+
+TAG: Rapunzel_005_f
+Okay! I made it because I was painting murals near the top of the tower, and I wanted to be able to control the light.
+
+TAG: Rapunzel_006_f
+It took me quite a few tries, and there were a couple of almost falls and sore thumbs from hammer hits, but I eventually figured it out. And I got pretty good at carpentry.
+
+TAG: Rapunzel_007_f
+Actually, it's kind of funny. I started out by making one, but the shape wasn't quite right so then I made another.
+
+TAG: Rapunzel_008_f
+But the face I drew on the second one was pretty crooked, so then I made another.
+
+TAG: Rapunzel_009_f
+Then the paper hair I made on the third one fell apart, so I made another.
+
+TAG: Rapunzel_010_f
+And, well, when Mother came home that evening there were sixteen papier-mÃ¢chÃ© heads.
+
+TAG: Rapunzel_011_f
+That's the only time I've ever seen her speechless.
+
+TAG: Rapunzel_012_f
+Oh... Okay... Maybe I'll tell him about a time I felt lonely in the tower.
+
+TAG: Rapunzel_013_f
+Ooh, but that's not very cheerful...
+
+TAG: Player_002_choice_000_f
+It doesn't need to be cheerful.
+
+TAG: Player_002_choice_001_f
+Pick a cheerful memory.
+
+TAG: Rapunzel_014_f
+You're right. I guess that's the point, really. That everyone has memories that aren't cheerful. Thanks, {PlayerName}.
+
+TAG: Rapunzel_015_f
+Well, I really love painting murals. I can tell him about that. And about ALL the mistakes I made trying to learn to paint.
+
+TAG: Rapunzel_016_f
+You're right. His reputation is pretty important to him. I wonder why that is?
+
+TAG: Player_003_choice_000_f
+It's cool to be cool.
+
+TAG: Player_003_choice_001_f
+He's trying to prove himself.
+
+TAG: Player_003_choice_002_f
+Because he's actually a dork.
+
+TAG: Rapunzel_017_f
+Wait â I just want to be sure... In this situation, "cool" means impressive, right? Because I don't know how being cold would help his reputation.
+
+TAG: Rapunzel_018_f
+Huh... That's a thoughtful way of looking at it. Well, he's already proved to me that he's pretty wonderful.
+
+TAG: Rapunzel_019_f
+If that means what I think it does, I guess he kind of is. But I like that. It's sweet.
+
+TAG: Rapunzel_020_f
+Really? I guess we did have a good conversation about it after we almost drowned in that dark cave.
+
+TAG: Rapunzel_021_f
+Thank goodness I remembered that my hair glows when I sing! We found our way out by its light.
+
+TAG: Player_004_choice_000_f
+That's awesome.
+
+TAG: Player_004_choice_001_f
+Sounds like he already knows about you.
+
+TAG: Rapunzel_022_f
+I'm glad you think so. Eugene was a little... let's say... surprised.
+
+TAG: Rapunzel_023_f
+Of course, everything Eugene shares surprises me. He is the first person I've met besides Mother.
+
+TAG: Rapunzel_024_f
+That's true. Maybe sharing MORE about my life in the tower could help him open up.
+
+TAG: Rapunzel_025_f
+Thanks, {PlayerName}!
+

@@ -1,0 +1,21 @@
+TAG: Scar_000_f
+Tell me, oh noble leader... What do you enjoy most about ruling over this Village?
+
+TAG: Player_000_choice_000_f
+Helping people.
+
+TAG: Player_000_choice_001_f
+Being in charge.
+
+TAG: Player_000_choice_002_f
+Talking to everyone.
+
+TAG: Scar_001_f
+Ugh. Really? You love "helping"? I find it rather tedious.
+
+TAG: Scar_002_f
+I couldn't agree more. Power and control are the true joys of leadership.
+
+TAG: Scar_003_f
+Really? You enjoy talking to these lackwits? Well, there's no accounting for taste.
+

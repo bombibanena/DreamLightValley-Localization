@@ -1,0 +1,36 @@
+TAG: Scrooge_000_f
+Ya know, if you improve your House, you'll have more storage space and more rooms.
+
+TAG: Scrooge_009_f
+And all that extra elbow room means more places for rest and relaxation.
+
+TAG: Player_000_choice_000_f
+Let's improve my House. (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_002_f
+Bless my Number One Dime! Isn't that a sight.
+
+TAG: Scrooge_005_f
+Och! You don't have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_003_f
+But this is a sound investment! *sigh* Well, come back here when you come to your senses.
+
+TAG: Scrooge_001_f
+Ya know, if you improve your House, you'll have more storage space and more rooms. And all that extra elbow room means more places for rest and relaxation.
+
+TAG: Scrooge_004_f
+But first I've got to make sure you understand the economy of this Valley.
+
+TAG: Scrooge_006_f
+And I've a plan to teach ya! I call it Dreamlight Valley Economy 101!
+
+TAG: Scrooge_007_f
+Once you've completed the course, we'll add the rooms even if you've already improved your House.
+
+TAG: Scrooge_008_f
+For now, I can only offer the "More Storage" upgrade. Which itself is a fine, fine deal.
+

@@ -1,0 +1,51 @@
+TAG: Vanellope_000_f
+Привет, Ваниллопа!
+
+TAG: Player_000_f
+Почему ты повторил то, что я только что сказал?
+
+TAG: Player_000_choice_000_f
+Ты что, глюкаешь?
+
+TAG: Player_000_choice_001_f
+Не копируй меня!
+
+TAG: Player_000_choice_002_f
+Это так незрело!
+
+TAG: Vanellope_001_f
+Ты что, глюкаешь?
+
+TAG: Player_001_choice_000_f
+Я очень волнуюсь за тебя!
+
+TAG: Player_001_choice_001_f
+Серьезно, хватит!
+
+TAG: Player_001_choice_002_f
+Я вонючий мозг!
+
+TAG: Vanellope_002_f
+Простите, простите... я не мог устоять!
+
+TAG: Vanellope_003_f
+Видел бы ты свое лицо!
+
+TAG: Vanellope_004_f
+Удивительно, хватит!
+
+TAG: Vanellope_005_f
+Простите, я перестану, просто немного развлекаюсь.
+
+TAG: Vanellope_006_f
+Я вонючий мозг!
+
+TAG: Vanellope_007_f
+Отлично сыграно!
+
+TAG: Vanellope_008_f
+Не копируй меня!
+
+TAG: Vanellope_009_f
+Это так незрело!
+

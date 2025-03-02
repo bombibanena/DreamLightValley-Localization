@@ -1,0 +1,48 @@
+TAG: Pumbaa_000_f
+Okay. What do ya wanna know?
+
+TAG: Player_000_choice_000_f
+How can I make more friends?
+
+TAG: Player_000_choice_001_f
+How can I learn to relax?
+
+TAG: Player_000_choice_002_f
+How do I learn something new?
+
+TAG: Pumbaa_002_f
+Oh, that's an easy one!
+
+TAG: Pumbaa_005_f
+Just be yourself, {PlayerName}. You're great!
+
+TAG: Pumbaa_006_f
+Aww!
+
+TAG: Pumbaa_014_f
+Thanks, Pumbaa!
+
+TAG: Pumbaa_003_f
+You know my motto, {PlayerName}!
+
+TAG: Pumbaa_007_f
+Hakuna matata?
+
+TAG: Pumbaa_008_f
+Hakuna matata.
+
+TAG: Pumbaa_009_f
+It's the best way to be worry-free!
+
+TAG: Pumbaa_010_f
+I thought you might say that.
+
+TAG: Pumbaa_004_f
+Hmm... Well, practice a lot, and don't be scared of mistakes. You learn the MOST from mistakes!
+
+TAG: Pumbaa_011_f
+I messed up lots of bug hunts before I perfected my technique!
+
+TAG: Pumbaa_012_f
+That's... actually really insightful.
+

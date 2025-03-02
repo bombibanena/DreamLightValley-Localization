@@ -1,0 +1,33 @@
+TAG: Minnie_001_f
+Oh, {PlayerName}! You're here for Mushu's mannequin order, I bet?
+
+TAG: Player_000_choice_000_f
+Whatever it is, I'm here to collect it.
+
+TAG: Player_000_choice_001_f
+Mushu ordered a mannequin?
+
+TAG: Player_000_choice_002_f
+Mannequins are SO creepy.
+
+TAG: Minnie_004_f
+Fabulous! I'm sure you'll see that this is some of my finest work... Whatever it's for.
+
+TAG: Minnie_000_f
+Stitch gave me a drawing of the Beast's face... I think I know what Mushu is up to.
+
+TAG: Minnie_006_f
+Well, when you're done with whatever it is, will you come back and tell me? I've just got to know!
+
+TAG: Minnie_008_f
+Here you go!
+
+TAG: Minnie_007_f
+I need to pick up something from Stitch too... Maybe that will clear things up.
+
+TAG: Minnie_003_f
+I was confused too, believe me. I tried to get him to tell me what it was for, but he wouldn't budge!
+
+TAG: Minnie_005_f
+Oh, they're not so bad â especially if you dress them up in something nice!
+

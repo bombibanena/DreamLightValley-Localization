@@ -1,0 +1,27 @@
+TAG: Daisy_001_f
+Oh, {PlayerName}! Tell me everything â how did it go? Are the Villagers excited about Dots & Daisies?
+
+TAG: Player_000_choice_000_f
+Let me fill you in!
+
+TAG: Player_000_choice_001_f
+I think it worked. What's next?
+
+TAG: Daisy_004_f
+Ursula wasn't impressed... She thought maybe you wanted to make a deal and was annoyed when I told her no.
+
+TAG: Daisy_005_f
+Anna wasn't totally sure the clothes would be for her... But she said she'll definitely spread the word and sends her congratulations.
+
+TAG: Daisy_006_f
+Remy said he'd be sure to tell all his customers!
+
+TAG: Daisy_007_f
+Fantastic! Even with those mixed reactions, the buzz is building, all thanks to you!
+
+TAG: Daisy_000_f
+While you were making the rounds, I finished the lookbook to showcase your pictures. It's exactly what we need!
+
+TAG: Daisy_002_f
+All we have to do now is show it to Uncle Scrooge. Trust me; "Dots & Daisies" will be a staple of Valley fashion in no time!
+

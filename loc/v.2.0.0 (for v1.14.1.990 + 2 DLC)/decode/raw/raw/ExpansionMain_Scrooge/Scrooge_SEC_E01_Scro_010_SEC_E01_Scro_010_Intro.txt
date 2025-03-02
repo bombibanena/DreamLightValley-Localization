@@ -1,0 +1,48 @@
+TAG: Scrooge_000_f
+{PlayerName}, perfect timing. 'Cause I've some advice for ya on how to jump-start the economy here on Eternity Isle. Do ya have a moment?
+
+TAG: Scrooge_013_f
+Let's hear it.
+
+TAG: Scrooge_002_f
+Well, Eternity Isle is full to the brim with varieties of cash crops. If ya plant 'em all and turn the desert into a garden, you'll be swimmin' in Star Coins in no time!
+
+TAG: Scrooge_004_f
+I'd recommend startin' by <Lore>planting Celery, Broccoli,</Lore> and <Lore>Cabbage</Lore>.
+
+TAG: Scrooge_005_f
+Since you've helped Goofy open his Stall in the Dunes already, it shouldn't be any trouble for ya to find seeds for <ActivityItem>Broccoli</ActivityItem>.
+
+TAG: Scrooge_001_f
+And you should have no problem buyin' <ActivityItem>Cabbage Seeds</ActivityItem> from him in the Wild Tangle.
+
+TAG: Scrooge_007_f
+Plus, there's the added bonus that if you grow those seeds, he's sure to buy it all back from ya at a premium!
+
+TAG: Player_001_choice_000_f
+Thanks! That's a great idea!
+
+TAG: Player_001_choice_001_f
+Guess I better get gardening.
+
+TAG: Player_001_choice_002_f
+Is this "advice" or just you asking me for a favor...?
+
+TAG: Scrooge_008_f
+Aye, it's no trouble.
+
+TAG: Scrooge_009_f
+In the meantime, I'll keep thinkin' of more profitable ventures around the Isle for ya to invest in!
+
+TAG: Scrooge_011_f
+That's the industrious spirit I like to hear!
+
+TAG: Scrooge_010_f
+It's just a wee tip, {PlayerName}. From one entrepreneur to another.
+
+TAG: Scrooge_012_f
+And you'll be able to buy <ActivityItem>Cabbage Seeds</ActivityItem> from him if you help him set up his Stall in the Wild Tangle.
+
+TAG: Scrooge_006_f
+Course you might have to help Goofy set up a Stall in the Dunes to get the seeds for <ActivityItem>Broccoli</ActivityItem>.
+

@@ -1,0 +1,45 @@
+TAG: Village!Oswald!VLG_Oswa_070_AvailableDescription
+Rapunzel surely has an exciting challenge to give to you and Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_070_DisplayName
+Rapunzel's Challenge.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group01_Step01_TalkToCharacter01_StepDescription
+Talk with Rapunzel.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step02_CookMeal01_StepDescription
+Blueberry Pie.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step02_CookMeal02_StepDescription
+Barbecued Pretty Pink Starfish.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step02_CookMeal03_StepDescription
+Ruby Masoor Dal.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_Step03_TalkToCharacter02_StepDescription
+(Optional) Seek advice from Remy.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group02_StepDescription
+Cook three colorful meals.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group03_Step04_TalkToCharacter03_StepDescription
+Check Oswald's cooking results.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem01_StepDescription
+Blueberry Pie.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem02_StepDescription
+Barbecued Pretty Pink Starfish.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem03_StepDescription
+Ruby Masoor Dal.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_BringItem04_StepDescription
+Oswald's Inked Carrots.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_ReadyDescription
+Bring the meals to Rapunzel.
+
+TAG: Village!Oswald!VLG_Oswa_070_Group04_Step05_StepDescription
+Make sure you have the meals for Rapunzel in your Inventory.
+

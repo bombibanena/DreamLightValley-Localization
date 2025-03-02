@@ -1,0 +1,72 @@
+TAG: Scar_000_f
+Hi, Scar. You look... agitated.
+
+TAG: Scar_018_f
+Oh I do, do I?
+
+TAG: Scar_004_f
+I know what that insolent little Vanellope creature tried to leave in my den.
+
+TAG: Scar_010_f
+And... I know that you took care of it. I suppose a show of gratitude is in order.
+
+TAG: Scar_020_f
+Keeping the Villagers safe and happy is my number one priority... ALL of the Villagers.
+
+TAG: Scar_021_f
+I'll make sure nothing like this happens to you again.
+
+TAG: Scar_022_f
+And I do appreciate that.
+
+TAG: Scar_019_f
+What happened?
+
+TAG: Scar_017_f
+I'm certain that insolent little Vanellope creature has been spying on me.
+
+TAG: Player_000_choice_000_f
+Why do you think that?
+
+TAG: Player_000_choice_001_f
+Vanellope would never do such a thing!
+
+TAG: Player_000_choice_002_f
+She does give off a mischievous vibe, doesn't she?
+
+TAG: Scar_002_f
+I've seen her lurking about, like a predator stalking prey.
+
+TAG: Scar_005_f
+Must be strange for you to be on the other side of that, huh?
+
+TAG: Scar_013_f
+Hardly. It's not as if the child could truly harm me. But she is exceedingly annoying.
+
+TAG: Scar_014_f
+Listen, I'll take care of whatever Vanellope is up to. Just... try not to get too worked up over this, okay?
+
+TAG: Scar_015_f
+Not to worry, {PlayerName}. I am imperturbable.
+
+TAG: Scar_016_f
+Sure you are, Scar.
+
+TAG: Scar_003_f
+Please. She has "bothersome brat" written all over her.
+
+TAG: Scar_006_f
+Don't be mean. Vanellope is sweet!
+
+TAG: Scar_007_f
+Ugh.
+
+TAG: Scar_008_f
+But you have a little mischief in you, too, don't you?
+
+TAG: Scar_011_f
+{PlayerName}, I am wickedly clever, cunning, ruthless, determined, perhaps mildly vengeful... but mischievous?
+
+TAG: Scar_012_f
+To boil royalty such as me down to one simplistic, juvenile word is disrespect of the highest order.
+

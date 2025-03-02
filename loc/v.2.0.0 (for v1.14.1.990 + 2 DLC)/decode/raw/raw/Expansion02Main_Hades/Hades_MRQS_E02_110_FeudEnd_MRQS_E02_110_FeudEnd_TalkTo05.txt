@@ -1,0 +1,90 @@
+TAG: Hades_000_f
+So Maleficent up and disappeared, huh?
+
+TAG: Hades_001_f
+Ya know, I thought I'd be happier about this.
+
+TAG: Player_000_choice_000_f
+Maybe you've secretly grown to appreciate her.
+
+TAG: Player_000_choice_001_f
+Maybe without Maleficent to oppose you, you don't know who you are.
+
+TAG: Player_000_choice_002_f
+What's wrong?
+
+TAG: Hades_002_f
+What?! Yeah, if you believe that, I've got a Parthenon to sell ya.
+
+TAG: Hades_005_f
+I could go my whole eternal life without ever wanting to see Maleficent again. Trust me.
+
+TAG: Hades_006_f
+Thing is... the way she just disappeared kinda bugs me.
+
+TAG: Hades_007_f
+I may not like her, but I gotta admit she's tough.
+
+TAG: Hades_008_f
+If something made her disappear like that... well, my guess is that I'm next on the chopping block.
+
+TAG: Player_001_choice_000_f
+Then I'd be rid of BOTH of you. Sounds great!
+
+TAG: Player_001_choice_001_f
+I won't let that happen.
+
+TAG: Player_001_choice_002_f
+Hades! Are you actually scared?
+
+TAG: Hades_009_f
+I'm gonna pretend I didn't hear that. Seriously...
+
+TAG: Hades_012_f
+We've gotta figure out what happened to Maleficent, and maybe that runaway princess she's always complaining about too.
+
+TAG: Hades_013_f
+But until you do that, I'm gonna enjoy running this place on my own. Maybe I'll just mosey on up to Mal's castleâ
+
+TAG: Player_002_choice_000_f
+Don't try anything. I'm watching you.
+
+TAG: Player_002_choice_002_f
+Nuh uh. The Vale is MY territory. You're welcome to be my minion though!
+
+TAG: Player_002_choice_003_f
+As long as you play nice, we can work together.
+
+TAG: Hades_014_f
+Okay, okay, I'll play nice.
+
+TAG: Hades_020_f
+If ya figure out where Maleficent went, you let me know, will ya?
+
+TAG: Hades_016_f
+Whatever's going on, I'll get to the bottom of it.
+
+TAG: Hades_017_f
+I guess that means <Lore>figuring out what happened to Princess Aurora</Lore>...
+
+TAG: Hades_015_f
+Hey, hold on! I promote you up the ladder and take all that interest in your professional development as a minion, and you stab me in the back?
+
+TAG: Hades_018_f
+{PlayerName}! I'm impressed. You've really come far.
+
+TAG: Hades_019_f
+Hey, if I could play nice with Maleficent, I can play nice with anybody.
+
+TAG: Hades_010_f
+Sure. Yeah. But how exactly are you gonna stop it if Maleficent couldn't?
+
+TAG: Hades_011_f
+Pfft. Don't be ridiculous. I've just got an extremely healthy sense of self-preservation.
+
+TAG: Hades_003_f
+What are you, my shrink?
+
+TAG: Hades_004_f
+It's not that I'm sad to have her gone, that's for sure...
+

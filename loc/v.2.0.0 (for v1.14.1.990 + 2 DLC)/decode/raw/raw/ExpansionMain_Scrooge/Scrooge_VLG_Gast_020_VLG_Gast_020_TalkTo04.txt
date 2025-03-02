@@ -1,0 +1,33 @@
+TAG: Scrooge_001_f
+Hi Mr. McDuck, do you have a moment?
+
+TAG: Scrooge_009_f
+This almost makes up for gettin' me to invest in a business with no revenue!
+
+TAG: Scrooge_010_f
+Haha! Well, happy to help.
+
+TAG: Scrooge_011_f
+I'll let you discuss the whole investment situation with Gaston...
+
+TAG: Scrooge_002_f
+I always have a moment for you, {PlayerName}.
+
+TAG: Scrooge_003_f
+What can I help ya with?
+
+TAG: Scrooge_004_f
+Gaston and I are trying to track down the owner of a climbing pick â could it be yours?
+
+TAG: Scrooge_005_f
+Leapin' Loch Ness! I'm sure it is!
+
+TAG: Scrooge_006_f
+I thought I'd lost it forever on an exploration back in my adventuring days.
+
+TAG: Scrooge_007_f
+Well, it might be a little time-worn now, but still in good condition. Gaston will bring it to you.
+
+TAG: Scrooge_008_f
+Thank ya kindly, {PlayerName}.
+

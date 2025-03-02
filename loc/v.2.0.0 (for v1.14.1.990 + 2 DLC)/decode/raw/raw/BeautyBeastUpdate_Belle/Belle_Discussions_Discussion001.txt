@@ -1,0 +1,60 @@
+TAG: Belle_000_f
+Do you like to read, {PlayerName}? I love books that take me to different worlds filled with adventures.
+
+TAG: Player_000_choice_000_f
+I love reading!
+
+TAG: Player_000_choice_001_f
+I'd rather see a movie.
+
+TAG: Belle_001_f
+You do?! Well, I think we're going to be very good friends.
+
+TAG: Belle_002_f
+I've read all of my books so many times. Do you have any stories I can borrow?
+
+TAG: Player_001_choice_000_f
+I left all my books at home!
+
+TAG: Player_001_choice_001_f
+Only if you'll lend me one of yours.
+
+TAG: Player_001_choice_002_f
+I prefer not to lend out my books.
+
+TAG: Belle_003_f
+Oh, that's too bad. Well, you're welcome to borrow one of mine anytime you'd like.
+
+TAG: Belle_004_f
+Of course!
+
+TAG: Belle_005_f
+I'll lend you my favorite... It's about far-off places, daring sword fights and magic spells.
+
+TAG: Belle_006_f
+And there's a surprise in chapter 3 that I think you'll really like.
+
+TAG: Belle_007_f
+Oh, I understand. If you change your mind, I promise to take very good care of them.
+
+TAG: Belle_008_f
+Oh... I don't know what that is. Would you tell me about it?
+
+TAG: Player_002_choice_000_f
+It's sort of like a... play?
+
+TAG: Player_002_choice_001_f
+That's... a bit complicated.
+
+TAG: Player_002_choice_002_f
+It's like magic.
+
+TAG: Belle_009_f
+Oh, I love plays! There's a traveling troupe that comes through our village each spring and puts on the most wonderful plays!
+
+TAG: Belle_010_f
+Oh, I understand. I'd love to catch up, when you have some time.
+
+TAG: Belle_011_f
+How interesting. I'd love to learn more when you have the time.
+

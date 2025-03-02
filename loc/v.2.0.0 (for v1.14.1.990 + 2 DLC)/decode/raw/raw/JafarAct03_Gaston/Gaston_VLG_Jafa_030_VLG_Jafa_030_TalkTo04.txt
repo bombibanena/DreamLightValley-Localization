@@ -1,0 +1,54 @@
+TAG: Gaston_000_f
+ARGH!
+
+TAG: Player_000_choice_000_f
+He's not really a magician.
+
+TAG: Player_000_choice_001_f
+What happened after you lost control?
+
+TAG: Gaston_001_f
+Gaston! Are you all right?
+
+TAG: Gaston_002_f
+Now I am, but before... I was enchanted!
+
+TAG: Gaston_003_f
+Enchanted? What do you mean?
+
+TAG: Gaston_004_f
+Those burning, red snake eyes... I felt myself lose control of this perfect specimen of a physique!
+
+TAG: Gaston_005_f
+Then it was like I was watching myself from a distance.
+
+TAG: Gaston_006_f
+I'm going to give that magician a piece of my mind!
+
+TAG: Gaston_007_f
+I'm sorry â magician? You're not talking about Merlin, are you?
+
+TAG: Gaston_008_f
+No! The other scrawny one. In red and black.
+
+TAG: Gaston_009_f
+Huh? But I always see him scribbling those magical symbols on paper whenever I pass by the Palace.
+
+TAG: Gaston_010_f
+You know, the x, the tiny numbers on top of other numbers, stuff like that.
+
+TAG: Gaston_011_f
+Are you referring to... math? Jafar knows a lot about mathematics as well as magic.
+
+TAG: Gaston_012_f
+There's a difference?
+
+TAG: Gaston_013_f
+Okay, let's get back on track. What happened after you were hypnotized?
+
+TAG: Gaston_014_f
+When hypnotized, I was used! ... Like a draft horse, <Lore>lugging Jafar's equipment from the Palace to the Ancient Ruins</Lore>.
+
+TAG: Gaston_015_f
+Thanks Gaston; I'll check up on the <Lore>Ancient Ruins</Lore> next.
+

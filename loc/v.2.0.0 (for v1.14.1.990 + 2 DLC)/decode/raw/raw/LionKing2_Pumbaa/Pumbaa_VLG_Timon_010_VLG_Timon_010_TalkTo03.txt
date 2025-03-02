@@ -1,0 +1,84 @@
+TAG: Pumbaa_000_f
+I heard about what happened in Scar's Cave, {PlayerName}. Thanks for helpin' out. Timon's been real nervous ever since he saw Scar was here.
+
+TAG: Pumbaa_001_f
+It's no problem. I'm just glad he's starting to relax.
+
+TAG: Pumbaa_003_f
+Do ya think he is? He still seems a little worried to me.
+
+TAG: Pumbaa_002_f
+Sort of.
+
+TAG: Player_000_choice_000_f
+I think his worries are starting to melt away.
+
+TAG: Player_000_choice_001_f
+He probably needs a little more time.
+
+TAG: Player_000_choice_002_f
+Maybe "relax" is a bit of a strong word.
+
+TAG: Pumbaa_009_f
+Well, Timon's my best buddy. I wanna help him any way I can.
+
+TAG: Pumbaa_012_f
+I was thinking we can plan something fun for him!
+
+TAG: Pumbaa_004_f
+Oooh, yeah! What are ya thinkin' about?
+
+TAG: Pumbaa_005_f
+I would like to help him learn about hakuna matata â the human way!
+
+TAG: Pumbaa_020_f
+When I need to relax, I like to...
+
+TAG: Player_001_choice_000_f
+...chill out with something tasty to eat!
+
+TAG: Player_001_choice_001_f
+...distract myself with an activity to de-stress.
+
+TAG: Player_001_choice_002_f
+...hang out with my friends.
+
+TAG: Pumbaa_006_f
+Sounds like my kind of hakuna matata!
+
+TAG: Pumbaa_023_f
+Oh, I know what to do! I'll tell him what Merlin told me about the sun. Timon thinks it's the world's biggest glowworm.
+
+TAG: Pumbaa_013_f
+I can start by making some refreshing ice cream!
+
+TAG: Pumbaa_014_f
+Oh-oh! I was talkin' to Remy about "iced cream"! He gave me this recipe that sounds delicious!
+
+TAG: Pumbaa_016_f
+That's perfect! And after the ice cream, we can get together and play a board game!
+
+TAG: Pumbaa_017_f
+Why would we play a game that makes us bored?
+
+TAG: Pumbaa_019_f
+A board game is a game that's played ON a board. Though I suppose you can play it WHEN you're bored, too.
+
+TAG: Pumbaa_021_f
+Regardless, they're tons of fun!
+
+TAG: Pumbaa_022_f
+Well, I can't wait to try!
+
+TAG: Pumbaa_018_f
+Perfect! I'll go <Lore>gather Ingredients for the ice cream</Lore> and <Lore>find materials to make a board game</Lore>. You keep Timon occupied while I'm gone!
+
+TAG: Pumbaa_007_f
+Oh, I think Timon definitely needs a distraction right now.
+
+TAG: Pumbaa_008_f
+Me too! Friends are the best!
+
+TAG: Pumbaa_010_f
+Well, Timon's my best buddy. I'm sure he'll like it here soon.
+

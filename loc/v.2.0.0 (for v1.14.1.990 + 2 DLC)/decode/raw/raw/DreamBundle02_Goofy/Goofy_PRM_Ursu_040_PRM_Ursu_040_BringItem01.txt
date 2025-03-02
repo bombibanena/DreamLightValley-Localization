@@ -1,0 +1,27 @@
+TAG: Goofy_000_f
+Thanks, {PlayerName}!
+
+TAG: Goofy_001_f
+Now, I just need to catch the <ActivityItem>Seaweed</ActivityItem> and <ActivityItem>Red Algae</ActivityItem> Ursula asked for.
+
+TAG: Player_000_f
+Why don't I help you by catching half?
+
+TAG: Player_000_choice_000_f
+It'll be fun.
+
+TAG: Player_000_choice_001_f
+This way she'll have at least half of it.
+
+TAG: Player_000_choice_002_f
+I'll show you how it's done!
+
+TAG: Goofy_002_f
+Aw, that'd be swell! I always love goin' fishing with you.
+
+TAG: Goofy_003_f
+Great idea, {PlayerName}!
+
+TAG: Goofy_004_f
+Gawrsh, it'll be just like when you first got to the Village and helped me find my lucky fishing rod!
+

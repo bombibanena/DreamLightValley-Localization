@@ -1,0 +1,90 @@
+TAG: Gaston_001_f
+How are you doing with your new sidekick, Gaston?
+
+TAG: Gaston_002_f
+Well, it's going to take some training...
+
+TAG: Gaston_003_f
+But I like having a dedicated sidekick again.
+
+TAG: Player_000_choice_000_f
+I'm so happy for you!
+
+TAG: Player_000_choice_001_f
+Does that mean you're going to be less demanding?
+
+TAG: Player_000_choice_002_f
+I hope the sidekick is as happy as you...
+
+TAG: Gaston_004_f
+Of course this means you're no longer a tentative sidekick.
+
+TAG: Gaston_005_f
+I know it's upsetting, but we can't always get everything we want.
+
+TAG: Gaston_006_f
+I'll... try to survive.
+
+TAG: Gaston_007_f
+You're very brave, {PlayerName}.
+
+TAG: Gaston_011_f
+Now then...
+
+TAG: Gaston_012_f
+You did do a fair amount of work on my behalf.
+
+TAG: Gaston_013_f
+I suppose I should reward you for it.
+
+TAG: Player_001_choice_000_f
+How kind of you!
+
+TAG: Player_001_choice_001_f
+That's one way that people show gratitude.
+
+TAG: Player_001_choice_002_f
+Oh, it's not necessary!
+
+TAG: Gaston_014_f
+It is, isn't it?
+
+TAG: Gaston_015_f
+At least you're honest about it, I guess.
+
+TAG: Gaston_019_f
+Here you are, {PlayerName}.
+
+TAG: Gaston_020_f
+Well, despite everything... I'm glad that you've settled into the Valley.
+
+TAG: Gaston_021_f
+Yes, well... the people here are rather odd and don't properly appreciate me...
+
+TAG: Gaston_022_f
+...but I am starting to feel at home.
+
+TAG: Gaston_023_f
+Great! If you need me, I'll be around...
+
+TAG: Gaston_024_f
+But maybe ask your sidekick first!
+
+TAG: Gaston_016_f
+Gratitude? Ugh, don't tell anyone.
+
+TAG: Gaston_017_f
+You don't want the gift? I'd be happy to keep it for myself.
+
+TAG: Gaston_018_f
+I didn't say that!
+
+TAG: Gaston_008_f
+No. Why would I lower my standards?
+
+TAG: Gaston_009_f
+Their happiness isn't my concern.
+
+TAG: Gaston_010_f
+Doing their job is!
+

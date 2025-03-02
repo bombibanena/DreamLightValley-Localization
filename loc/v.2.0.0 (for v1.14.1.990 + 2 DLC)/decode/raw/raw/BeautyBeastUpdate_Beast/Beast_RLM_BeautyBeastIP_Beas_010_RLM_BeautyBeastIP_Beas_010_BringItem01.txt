@@ -1,0 +1,12 @@
+TAG: Beast_000_f
+You found all the pieces of the key. Thank you.
+
+TAG: Beast_001_f
+I'll put them back together.
+
+TAG: Beast_002_f
+Would you take this key and get the <ActivityItem>Enchanted Mirror</ActivityItem> out of the chest?
+
+TAG: Beast_003_f
+If I try, I might... break something.
+

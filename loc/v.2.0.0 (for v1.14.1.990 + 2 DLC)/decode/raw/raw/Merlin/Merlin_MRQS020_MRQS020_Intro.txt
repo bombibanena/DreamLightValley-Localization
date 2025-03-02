@@ -1,0 +1,66 @@
+TAG: Merlin_003_f
+{PlayerName}! THIS is the <Lore>Dream Castle</Lore>! It holds many secrets... er... answers... er... Oh, blast it all!
+
+TAG: Merlin_004_f
+I can't seem to remember what's inside.
+
+TAG: Player_000_f
+I bet that inside the Castle, we'll find...
+
+TAG: Player_000_choice_000_f
+...the key to saving the Valley!
+
+TAG: Player_000_choice_001_f
+...riches beyond measure!
+
+TAG: Player_000_choice_002_f
+...even more mysteries.
+
+TAG: Merlin_000_f
+Precisely! The Castle is filled with mysteries and wonders.
+
+TAG: Merlin_006_f
+If we're going to restore Dreamlight Valley to its former glory, we must get inside.
+
+TAG: Player_001_choice_000_f
+So let's go inside!
+
+TAG: Player_001_choice_001_f
+Remember anything else?
+
+TAG: Player_001_choice_002_f
+Those Night Thorns are huge!
+
+TAG: Merlin_020_f
+Easier said than done, {PlayerName}.
+
+TAG: Merlin_015_f
+The Night Thorns that encase the Dream Castle aren't like any you've dealt with before.
+
+TAG: Merlin_019_f
+They're stronger and will take more of your magic to defeat.
+
+TAG: Merlin_022_f
+Follow me; there's still much to show you.
+
+TAG: Merlin_021_f
+Yes. The Dream Castle was the home of our Ruler until the day they disappeared.
+
+TAG: Merlin_001_f
+Ha-ha! You rather sound like a Mr. McDuck I know.
+
+TAG: Merlin_002_f
+Well, I've no doubt the Castle contains many wonders.
+
+TAG: Merlin_005_f
+Let's hope they include the secret to restoring Dreamlight Valley to its former glory.
+
+TAG: Merlin_007_f
+There's no doubt the Castle will have its share of mysteries to solve.
+
+TAG: Merlin_008_f
+But I'm hopeful it also holds the answers we seek...
+
+TAG: Merlin_009_f
+...such as the secret to restoring Dreamlight Valley to its former glory.
+

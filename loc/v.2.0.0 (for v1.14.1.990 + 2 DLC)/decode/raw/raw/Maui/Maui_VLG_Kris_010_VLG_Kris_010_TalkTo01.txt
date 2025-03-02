@@ -1,0 +1,27 @@
+TAG: Maui_000_f
+Hey, {PlayerName}. What can I do for you? Maui is always at your service. Well, unless I've got a thing, and I do have a lot of things. Heh-heh.
+
+TAG: Player_000_f
+I'm helping Kristoff make soap and I thought you might have a secret ingredient that keeps your hair so shiny.
+
+TAG: Player_000_choice_000_f
+What's your secret? I'd like to know.
+
+TAG: Player_000_choice_001_f
+What's your routine?
+
+TAG: Player_000_choice_002_f
+I'm not going away without your secret...
+
+TAG: Maui_001_f
+Ha! Wouldn't everybody?
+
+TAG: Maui_002_f
+Well, nothing will make anyone's hair look as great as mine. But they can get close. I have two words for you...
+
+TAG: Maui_004_f
+<ActivityItem>Coconut Oil</ActivityItem>. You're welcome.
+
+TAG: Maui_003_f
+You're funny when you try to look fierce, {PlayerName}. Pretend I'm scared.
+

@@ -1,0 +1,18 @@
+TAG: Merlin_001_f
+Remember: All the instructions you need are in the book.
+
+TAG: Player_000_choice_000_f
+Can you tell me your thoughts about <ActivityItem>Falling Water</ActivityItem>?
+
+TAG: Player_000_choice_001_f
+I don't know where to find the <ActivityItem>Ice Heart</ActivityItem>.
+
+TAG: Merlin_000_f
+Consider reversing the two words of its name.
+
+TAG: Merlin_002_f
+That is linked to the seed I found inside the book.
+
+TAG: Merlin_003_f
+What does one do with seeds?
+

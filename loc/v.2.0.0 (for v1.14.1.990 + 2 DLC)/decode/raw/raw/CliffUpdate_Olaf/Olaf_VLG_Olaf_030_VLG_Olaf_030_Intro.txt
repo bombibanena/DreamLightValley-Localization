@@ -1,0 +1,66 @@
+TAG: Olaf_000_f
+Hi, {PlayerName}! So, good news... we're almost ready to put on the play. But I'll need your help first.
+
+TAG: Player_000_choice_000_f
+Sure! I'd love to help.
+
+TAG: Player_000_choice_001_f
+I can't right now.
+
+TAG: Olaf_001_f
+That's wonderful! Because Donald and I have finished the script.
+
+TAG: Olaf_002_f
+Great! Can I read it?
+
+TAG: Olaf_003_f
+Oh no. Not yet.
+
+TAG: Olaf_004_f
+... Why?
+
+TAG: Olaf_005_f
+Well, we have it all written in our minds...
+
+TAG: Olaf_006_f
+...but we haven't written any of it down.
+
+TAG: Player_001_choice_000_f
+Don't worry. That part's not too hard.
+
+TAG: Player_001_choice_001_f
+What?! Writing it down is the most important part!
+
+TAG: Player_001_choice_002_f
+Uh oh. We better get to work.
+
+TAG: Olaf_007_f
+I didn't want to interrupt our creative flow by going to find ink...
+
+TAG: Olaf_008_f
+...and I don't have anything to write it down on either.
+
+TAG: Olaf_009_f
+No problem. I'll get some <ActivityItem>Softwood</ActivityItem> so we can whip up some paper.
+
+TAG: Olaf_010_f
+And I'll find some <ActivityItem>Purple Marsh Milk Weed</ActivityItem> and an <ActivityItem>Empty Vial</ActivityItem> to make you some ink.
+
+TAG: Olaf_011_f
+Fabulous! As soon as you have all that, bring it to Donald. He's going to write the story down.
+
+TAG: Player_002_choice_000_f
+You're not going to write it yourself?
+
+TAG: Player_002_choice_001_f
+Okay, sounds great!
+
+TAG: Olaf_012_f
+Not this time. I have to focus on the ENTIRE production.
+
+TAG: Olaf_013_f
+Oh, and one last thing! Could you ask Donald if he'll star as himself in the play? Thanks!
+
+TAG: Olaf_014_f
+I understand. Creativity really does need to happen on its own time.
+

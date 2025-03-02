@@ -1,0 +1,42 @@
+TAG: MotherGothel_000_f
+Tell me, what do you think magic is, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+Power.
+
+TAG: Player_000_choice_001_f
+Cheap trickery.
+
+TAG: Player_000_choice_002_f
+I'm not sure.
+
+TAG: MotherGothel_001_f
+Oh, you couldn't be more wrong.
+
+TAG: MotherGothel_004_f
+Magic is simply an advantage.
+
+TAG: MotherGothel_005_f
+A tool to be utilized to meet one's goals.
+
+TAG: Player_000_choice_003_f
+That's very cynical.
+
+TAG: Player_000_choice_004_f
+That's very practical.
+
+TAG: Player_000_choice_005_f
+I believe there's more to magic than that.
+
+TAG: MotherGothel_006_f
+Perhaps to you. To me, it's merely practical.
+
+TAG: MotherGothel_007_f
+And people will use that belief to take advantage of you.
+
+TAG: MotherGothel_002_f
+Ha! That skepticism will serve you well. But you're wrong.
+
+TAG: MotherGothel_003_f
+Well, at least you're willing to admit your ignorance.
+

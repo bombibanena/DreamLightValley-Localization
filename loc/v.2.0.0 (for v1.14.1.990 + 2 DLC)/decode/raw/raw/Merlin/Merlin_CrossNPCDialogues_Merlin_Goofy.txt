@@ -1,0 +1,9 @@
+TAG: Merlin_009_f
+Gawrsh Merlin, is {PlayerName} really gonna be the leader of the Village?
+
+TAG: Merlin_010_f
+Perhaps. {PlayerName} has shown all the qualities one would desire in a wise and generous leader.
+
+TAG: Merlin_011_f
+Well, if {PlayerName} needs any help, I'll be there.
+

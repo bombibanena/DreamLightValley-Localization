@@ -1,0 +1,51 @@
+TAG: Merlin_001_f
+{PlayerName}! Just who I wanted to see... You've done so much for the Village. But there's still more to do.
+
+TAG: Player_000_choice_000_f
+All in a day's work!
+
+TAG: Player_000_choice_001_f
+Can I take a nap first?
+
+TAG: Merlin_002_f
+Ha-ha! That's the attitude we need!
+
+TAG: Merlin_003_f
+Now, first off... even though the Forgotten has been pulled back from the brink...
+
+TAG: Merlin_004_f
+...we'll still be dealing with the side effects of the Forgetting for quite some time. Why, already I've seen new Night Thorns sprouting!
+
+TAG: Player_001_choice_000_f
+I guess caring for the Village is a job that's never done.
+
+TAG: Player_001_choice_001_f
+I don't mind the Night Thorns so much anymore.
+
+TAG: Merlin_005_f
+Too true. I'm glad you see it that way.
+
+TAG: Merlin_006_f
+There are still countless Villagers in their Realms, waiting for you to bring them back to the Valley. And perhaps, in time, more doors will open for you...
+
+TAG: Merlin_007_f
+Oh, and that's not all! Dreamlight Valley isn't the only place to discover in this world. There are many islands out there, each with their own secrets.
+
+TAG: Merlin_008_f
+One day, we may visit them all. Who knows what we might uncover?
+
+TAG: Merlin_009_f
+In any case, there's no shortage of secrets left to find right here in the Village. And I'm sure you'll keep making this a splendid place for all of us to call our home.
+
+TAG: Merlin_010_f
+The possibilities are quite limitless, aren't they?
+
+TAG: Merlin_011_f
+No, I suppose now they're more a reminder of our triumph than of tragedy.
+
+TAG: Merlin_012_f
+Though... it's not quite time to celebrate just yet.
+
+TAG: Merlin_013_f
+Of course! You've more than earned one. Things aren't nearly so pressing anymore. You may take your time.
+

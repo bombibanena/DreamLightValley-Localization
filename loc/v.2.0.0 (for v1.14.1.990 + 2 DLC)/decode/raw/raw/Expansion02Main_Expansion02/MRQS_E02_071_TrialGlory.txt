@@ -1,0 +1,78 @@
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Any_CompletedRequestDescription
+Check in with Hades.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_AvailableDescription
+On the journey through Mythopia, {PlayerName} discovered a mysterious gateway. To find Hades and put a stop to the Neverafter, {PlayerName} would need to step through the gateway and find out what lay inside.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_CompletedStoryDescription
+{PlayerName} made a home for Hades in the Storybook Vale. But would Hades end his feud with Maleficent? {PlayerName} had a feeling there was still quite a journey ahead to complete the remaining Trials and reach Mount Olympus.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_DisplayName
+Guts & Glory
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group01_Step01_VisitArea01_StepDescription
+Enter the Mythic Trial in the Elysian Fields.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group02_Step02_TalkToCharacter01_StepDescription
+Explore the first Mythic Trial.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group03_Step03_Conditional01_StepDescription
+Push Hades' cart.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group04_Step04_FollowCharacter01_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group05_Step05_VisitArea05_StepDescription
+Cross the bridge.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group06_Step06_Conditional02_StepDescription
+Find a way to rotate the bridge.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group07_Step07_UnlockCharacter01_StepDescription
+Welcome Hades to the Vale!
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group08_Step08_VisitArea04_StepDescription
+{Placeholder}Return to the Storybook Vale.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group09_Step09_StepDescription
+Find a way to open the gates and push the cart through.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group10_Step10_FollowCharacter04_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group11_Step11_Conditional05_StepDescription
+Figure out how to release the bridge.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group12_Step12_FollowCharacter02_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group13_Step13_Conditional06_StepDescription
+Find a way to rotate the bridge.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group14_Step14_VisitArea03_StepDescription
+Explore deeper in the Mythic Trial.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group15_Step15_FollowCharacter03_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group15_Step15_FollowCharacter03_TalkToDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group16_Step16_StepDescription
+Find a way to open the gates and move the cart along.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group18_Step18_Interaction01_StepDescription
+Interact with the source of the corruption inside the first Mythic Trial.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group19_Step19_TalkToCharacter02_StepDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group19_StoryDescription
+Inside the mysterious Trial, {PlayerName} met Hades, god of the Underworld. Together, they crossed the Trial, and {PlayerName} fixed some sort of dark, corrupted magic.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group20_Step20_PlaceBuilding01_StepDescription
+Place <ActivityItem>Hades' Lair</ActivityItem> anywhere in the Storybook Vale.
+
+TAG: Story!Expansion02!MRQS_E02_071_TrialGlory_Group21_Step21_Unlock01_StepDescription
+Unlock <ActivityItem>Hades' Lair</ActivityItem> by interacting with the Scrooge McDuck Sign next to it.
+

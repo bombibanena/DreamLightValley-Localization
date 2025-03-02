@@ -1,0 +1,21 @@
+TAG: Repeatable!Event!Park!RPT_Ursu_DailyPark_Any_CompletedRequestDescription
+Возвращайтесь на Урсула.
+
+TAG: Repeatable!Event!Park!RPT_Ursu_DailyPark_AvailableDescription
+Поговори с Урсула.
+
+TAG: Repeatable!Event!Park!RPT_Ursu_DailyPark_DisplayName
+Фестиваль Парков мечты: Урсула
+
+TAG: Repeatable!Event!Park!RPT_Ursu_DailyPark_Group01_Step01_CookMeal01_StepDescription
+Приготовить русалки.
+
+TAG: Repeatable!Event!Park!RPT_Ursu_DailyPark_Group02_Step02_StepDescription
+(Неожиданно раздавать кексы тем же деревенским жителям не считается.
+
+TAG: Repeatable!Event!Park!RPT_Ursu_DailyPark_Group02_StepDescription
+Доставьте кексы Русалки любым деревенским жителям.
+
+TAG: Repeatable!Event!Park!RPT_Ursu_DailyPark_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

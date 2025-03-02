@@ -1,0 +1,99 @@
+TAG: Beast_000_f
+I'm back!
+
+TAG: Beast_001_f
+That's good. I... I was worried.
+
+TAG: Beast_002_f
+It took an eternity.
+
+TAG: Player_000_choice_000_f
+An eternity?! Aaaaaaand now I'm leaving!
+
+TAG: Player_000_choice_001_f
+Wow, rude.
+
+TAG: Player_000_choice_002_f
+Come on; I'm trying to arrange a friend meet-up for you!
+
+TAG: Beast_003_f
+Wait! I'm... I'm sorry. Please, go on.
+
+TAG: Beast_004_f
+I spoke to a few of the Villagers and arranged for you to meet and get to know them.
+
+TAG: Beast_005_f
+That's...
+
+TAG: Player_001_choice_000_f
+Amazing?
+
+TAG: Player_001_choice_001_f
+Intriguing?
+
+TAG: Player_001_choice_002_f
+Generous?
+
+TAG: Beast_006_f
+Terrifying.
+
+TAG: Player_002_f
+I think you'd have a good time...
+
+TAG: Player_002_choice_000_f
+Gardening with WALLÂ·E!
+
+TAG: Player_002_choice_001_f
+Sewing with Mirabel!
+
+TAG: Beast_007_f
+You'll be fine, Beast. Don't worry!
+
+TAG: Beast_008_f
+WALLÂ·E is the sweetest little robot around and would love to do some gardening with you.
+
+TAG: Beast_009_f
+And Mirabel is just SO friendly and has an uncle who's also not always comfortable around people.
+
+TAG: Beast_010_f
+She loves sewing and would be happy to sit down and make something with you.
+
+TAG: Beast_011_f
+That's very nice of them... Hmm... I want this to go well...
+
+TAG: Beast_012_f
+I don't know Mirabel or WALLÂ·E. Could you choose who I should meet?
+
+TAG: Beast_013_f
+Just one, though. That's... that's all I'm prepared for in one day.
+
+TAG: Beast_014_f
+Fair enough!
+
+TAG: Beast_015_f
+I'll show you the basics you'll need for gardening and then you can go hang out with him!
+
+TAG: Beast_017_f
+All right. Let's begin.
+
+TAG: Beast_016_f
+Do I... come with you?
+
+TAG: Player_003_choice_000_f
+If you want to make a friend, then yeah!
+
+TAG: Player_003_choice_001_f
+No need for now if you want to hang out later.
+
+TAG: Beast_018_f
+Understood.
+
+TAG: Beast_019_f
+I'll show you the basics that you'll need for sewing, and then you can hang out with her!
+
+TAG: Beast_020_f
+... You're right. Please accept my apologies.
+
+TAG: Beast_021_f
+Accepted!
+

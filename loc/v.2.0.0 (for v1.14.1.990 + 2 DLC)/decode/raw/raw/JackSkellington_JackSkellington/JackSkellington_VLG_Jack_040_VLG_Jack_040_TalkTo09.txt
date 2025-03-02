@@ -1,0 +1,141 @@
+TAG: JackSkellington_003_f
+{PlayerName}, I've seen some very concerning signs around the Valley.
+
+TAG: JackSkellington_039_f
+Wait â what is that you're wearing?!
+
+TAG: JackSkellington_004_f
+Oh, this old shirt?
+
+TAG: JackSkellington_005_f
+Yes, why am I seeing signs of my old nemesis everywhere?
+
+TAG: JackSkellington_006_f
+Well, you see, I'm the president of the Oogie Boogie Fan Club!
+
+TAG: JackSkellington_007_f
+WHAT?!
+
+TAG: JackSkellington_008_f
+He arrived in the Valley yesterday, and everyone just loves him!
+
+TAG: Player_000_choice_000_f
+He wants to meet with you!
+
+TAG: Player_000_choice_001_f
+I'm going to try to encourage more insects to live here.
+
+TAG: Player_000_choice_002_f
+Why did you ever have beef with him?
+
+TAG: JackSkellington_009_f
+I'm not surprised!
+
+TAG: JackSkellington_012_f
+Shall I go grab him now?
+
+TAG: JackSkellington_015_f
+No, no, no. This is serious. I must have a plan...
+
+TAG: Player_001_choice_000_f
+Oh, come on!
+
+TAG: Player_001_choice_001_f
+OK, I gotta come clean.
+
+TAG: JackSkellington_016_f
+I heard he plans to get elected Prime Minister of Halloween Town.
+
+TAG: JackSkellington_025_f
+Oh... how kind of her! What a lovely way to welcome me to the Valley.
+
+TAG: JackSkellington_026_f
+Does that mean that Dreamlight Day was a success? Everyone loved their surprises?
+
+TAG: JackSkellington_027_f
+Well, not exactly...
+
+TAG: JackSkellington_028_f
+Not even Minnie?
+
+TAG: JackSkellington_029_f
+Well, Minnie loved hers.
+
+TAG: JackSkellington_030_f
+Everyone else was... not pleased.
+
+TAG: JackSkellington_031_f
+You gave people a solid fright! Don't you feel a little bad?
+
+TAG: JackSkellington_032_f
+For frightening them, of course not.
+
+TAG: JackSkellington_033_f
+I'm the Pumpkin King, {PlayerName}. Inspiring frightful chills is what I do!
+
+TAG: JackSkellington_040_f
+Well, watching over every resident of the Valley is what I do!
+
+TAG: JackSkellington_017_f
+What?! But I'M the Pumpkin King!
+
+TAG: JackSkellington_041_f
+Maybe let's stick to scaring the people who really want to be scared, okay?
+
+TAG: JackSkellington_042_f
+Hmm... I suppose you're right. I wanted the Villagers to enjoy my frightful surprises. But it seems that being scared isn't for everyone here.
+
+TAG: JackSkellington_034_f
+However, since some do enjoy it, I already have ideas for next year's Dreamlight Day.
+
+TAG: JackSkellington_002_f
+Let's... put that on the back burner for now.
+
+TAG: JackSkellington_000_f
+Very well... Oh, you should take this, then. I suppose I don't need this element of my research anymore. And take this, too! A special surprise, just for you!
+
+TAG: JackSkellington_001_f
+Thanks, Jack!
+
+TAG: JackSkellington_036_f
+You can stick with Halloween â at least people will be expecting something scary from you then.
+
+TAG: JackSkellington_037_f
+Yes, yes... I can work with that!
+
+TAG: JackSkellington_018_f
+Did anyone actually vote for you?
+
+TAG: JackSkellington_038_f
+Beware, {PlayerName}... next Halloween, you'll experience a fright you won't soon forget!
+
+TAG: JackSkellington_019_f
+Holidays aren't a democracy, {PlayerName}! I am literally the essence of Halloween.
+
+TAG: JackSkellington_020_f
+If Oogie Boogie takes over, it could permanently harm the holiday.
+
+TAG: JackSkellington_021_f
+Jack... you need to relax. I'm joking.
+
+TAG: JackSkellington_022_f
+Oogie Boogie isn't in the Valley â this is all a prank.
+
+TAG: JackSkellington_023_f
+... It is?
+
+TAG: JackSkellington_024_f
+Yeah! It was Minnie's idea. She wanted to give you a fright.
+
+TAG: JackSkellington_010_f
+But... but that will only make him stronger!
+
+TAG: JackSkellington_013_f
+Well, I do want to make him feel welcome...
+
+TAG: JackSkellington_011_f
+A million reasons. Such as trying to kill Sandy Claws!
+
+TAG: JackSkellington_014_f
+Maybe that was just a big misunderstanding.
+

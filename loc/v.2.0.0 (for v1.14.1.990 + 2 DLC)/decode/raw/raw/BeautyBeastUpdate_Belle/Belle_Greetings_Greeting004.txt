@@ -1,0 +1,6 @@
+TAG: Belle_000_f
+Hello, {PlayerName}! What are your plans for the day?
+
+TAG: Player_000_exit_000_f
+Improving the Village, as always!
+

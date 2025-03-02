@@ -1,0 +1,198 @@
+TAG: Village!LionKing!Timon!VLG_Timo_030_Any_CompletedRequestDescription
+Return to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_AvailableDescription
+Timon looks like he has an idea. Go see what he's brainstorming!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_DisplayName
+The Timon Talk
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_StepDescription
+Gather the materials to make Timon's billboards:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step02_StepDescription
+Take a picture of Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_StoryDescription
+Timon is working on his very own Timon Talk for other Villagers in Dreamlight Valley! You'll need to make a billboard for him to advertise.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group02_Step03_CraftItem01_StepDescription
+Craft the {ItemName} at a Crafting Station.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate01_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate02_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate03_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate04_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_StepDescription
+Place the {ItemName} in:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group04_Step05_TalkToCharacter01_StepDescription
+Talk to Simba.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group05_Step06_VisitArea01_StepDescription
+Meet Timon at Pride Rock.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group06_Step07_TalkToCharacter02_StepDescription
+Talk to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group07_Step08_VisitArea02_StepDescription
+Return to Pride Rock for the Timon Talk.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group08_Step09_Listen01_StepDescription
+Listen to Timon as he gives his talk.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group09_Step10_TalkToCharacter03_StepDescription
+Talk to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group09_StoryDescription
+Timon has given his talk to the Villagers! It was quite... something.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step12_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step12_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step12_StepDescription
+Gather Ingredients from the secret chamber in the Frosted Heights:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step13_Possess06_StepDescription
+{ItemName} in the Cursed Cave.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step13_Possess07_StepDescription
+Fish out {ItemName} from the river on the Sunlit Plateau.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step13_StepDescription
+Gather Ingredients:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess09_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess10_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess11_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess12_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_StepDescription
+Gather the remaining Ingredients for Timon's creative meals:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_StoryDescription
+Timon isn't sure the Villagers understood his talk. It's up to you to help show them the way â Timon style!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group12_Step15_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group12_Step15_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group12_StepDescription
+Cook Timon's creative meals for Anna and Elsa:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step16_ReadyDescription
+Bring the {ItemName} to Anna.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step16_StepDescription
+Make sure to have the {ItemName} in your Inventory.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step17_ReadyDescription
+Bring the {ItemName} to Elsa.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step17_StepDescription
+Make sure to have the {ItemName} in your Inventory.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_StepDescription
+Bring the creative meals to Anna and Elsa:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_StoryDescription
+Timon thinks his very creative meals will help Anna and Elsa to be the best leaders they can be!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group14_Step18_TalkToCharacter04_StepDescription
+Return to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group15_Step19_VisitArea03_StepDescription
+Go to The Lion King Realm.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group16_StepDescription
+Catch Fireflies in The Lion King Realm.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group17_Step21_ReadyDescription
+Bring the Fireflies to Moana.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group17_Step21_StepDescription
+Make sure you have all the Fireflies.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group17_StoryDescription
+Timon wants you to catch some Fireflies. Maybe seeing these "stars" will inspire Moana?
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group18_Step22_TalkToCharacter05_StepDescription
+Return to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group19_Step23_TalkToCharacter06_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group19_StepDescription
+It's time for an Uncle vs. Nephew contest!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group19_StoryDescription
+Timon heard that Scrooge McDuck and Donald got into an argument. This is a great opportunity to help someone "defeat an uncle" and become a true leader!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group20_Step24_ConsumeItem01_StepDescription
+Examine the Treasure Map in your Inventory.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group20_StoryDescription
+It's a treasure hunt! Donald is trying to find some secret treasure before Uncle Scrooge gets to it. It's now up to you to help him win!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group21_Step25_StepDescription
+(Look at the Treasure Map in the Memories section of your Collection menu for help.)
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group21_StepDescription
+Help Donald find the treasure before Scrooge McDuck.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group22_Step26_TalkToCharacter07_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group22_StepDescription
+You found all of the treasure!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group23_Step27_TalkToCharacter08_StepDescription
+Talk to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_Step28_TalkToCharacter09_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_Step28_TalkToCharacter10_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_StepDescription
+Talk to Timon's best friends:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_StoryDescription
+Timon might not understand what actually makes a great leader. You'll need to talk to his best friends to help him.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

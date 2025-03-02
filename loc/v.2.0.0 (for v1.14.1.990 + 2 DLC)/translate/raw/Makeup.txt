@@ -1,0 +1,189 @@
+TAG: Birthmark_var01_DisplayName
+Вариант 1
+
+TAG: Birthmark_var02_DisplayName
+Вариант 2
+
+TAG: Birthmark_var03_DisplayName
+Вариант 3
+
+TAG: Blush_var01_DisplayName
+Вариант &lt; &lt; покраснеть &gt; &gt; 1
+
+TAG: Blush_var02_DisplayName
+Вариант &lt; &lt; покраснеть &gt; &gt; 2
+
+TAG: Blush_var03_DisplayName
+Вариант 3 &lt; &lt; покраснеть &gt; &gt;
+
+TAG: Blush_Var05_DisplayName
+Вариант 4 "Солнечные сердца"
+
+TAG: Eyebrows_var01_DisplayName
+Вариант 1 "Бровь"
+
+TAG: Eyebrows_var02_DisplayName
+Вариант 2 "Бровь"
+
+TAG: Eyebrows_var03_DisplayName
+Вариант 3 "Бровь"
+
+TAG: Eyebrows_var04_DisplayName
+Вариант 4 "Бровь"
+
+TAG: Eyebrows_var05_DisplayName
+Вариант 5 "Бровь"
+
+TAG: Eyebrows_var06_DisplayName
+Вариант 6
+
+TAG: Eyebrows_var07_DisplayName
+Вариант 7
+
+TAG: Eyebrows_var08_DisplayName
+Вариант 8
+
+TAG: Eyebrows_var09_DisplayName
+Просмотры09
+
+TAG: Eyebrows_var10_DisplayName
+Брови 10
+
+TAG: Eyebrows_var11_DisplayName
+Брови 11
+
+TAG: Eyebrows_var12_DisplayName
+Брови 12
+
+TAG: Eyebrows_var13_DisplayName
+Бровь 13
+
+TAG: Eyebrows_var14_DisplayName
+Бровь 14
+
+TAG: Eyeshadow_1920inspired_DisplayName
+Глазная тень 20-х годов
+
+TAG: Eyeshadow_fire_DisplayName
+Горящие глаза
+
+TAG: Eyeshadow_var01_DisplayName
+Теневой вариант 1
+
+TAG: Eyeshadow_var02_DisplayName
+Тени глаза, вариант 2
+
+TAG: Eyeshadow_var03_DisplayName
+Тени глаза, вариант 3
+
+TAG: Freckles_var01_DisplayName
+Вариант 1
+
+TAG: Freckles_var02_DisplayName
+Вариант 2
+
+TAG: Freckles_var03_DisplayName
+Вариант 3
+
+TAG: Lipstick_var01_DisplayName
+Вариант 1
+
+TAG: Lipstick_var01_gloss_DisplayName
+Вариант 1 &lt; &lt; Липфальт &gt; &gt; ( &lt; &lt; Глосс &gt; &gt; )
+
+TAG: Lipstick_var02_DisplayName
+Вариант 2
+
+TAG: Lipstick_var02_gloss_DisplayName
+Вариант 2 "Жирная палочка" ("Глосс")
+
+TAG: Lipstick_var03_DisplayName
+Вариант 3
+
+TAG: Lipstick_var03_gloss_DisplayName
+Вариант 3 &lt; &lt; Липфальт &gt; &gt; ( &lt; &lt; Глосс &gt; &gt; )
+
+TAG: Lipstick_var04_DisplayName
+Вариант 4
+
+TAG: Lipstick_var04_gloss_DisplayName
+Вариант 4 &lt; &lt; Липфальт &gt; &gt; ( &lt; &lt; Глосс &gt; &gt; )
+
+TAG: Lipstick_var05_DisplayName
+Вариант 5 &lt; &lt; Жирная палочка &gt; &gt;
+
+TAG: Lipstick_var05_gloss_DisplayName
+Вариант 5 &lt; &lt; Липфальт &gt; &gt; ( &lt; &lt; Глосс &gt; &gt; )
+
+TAG: Sticker_AsianMakeup01_DisplayName
+Грибный макияж
+
+TAG: Sticker_BugsFace_DisplayName
+Жуткие косметики
+
+TAG: Sticker_CandyCane_DisplayName
+Кэнди-каповый макияж
+
+TAG: Sticker_CatWhisker_DisplayName
+Кэт Вискер
+
+TAG: Sticker_ClownFace_DisplayName
+Цветной макияж джестеров
+
+TAG: Sticker_Facemask01_DisplayName
+Маска с кожей
+
+TAG: Sticker_Faun_DisplayName
+Фоновый макияж
+
+TAG: Sticker_Forgotten_DisplayName
+Забытый макияж
+
+TAG: Sticker_IceMask_DisplayName
+Ледяная маска
+
+TAG: Sticker_MermaidScales_DisplayName
+Расширенный макияж
+
+TAG: Sticker_MickeyBalloons_DisplayName
+Микки Маус Грибная гримировка
+
+TAG: Sticker_MickeyFreckles_DisplayName
+Микки Маус Фреклз макияж
+
+TAG: Sticker_MickeyGloves_DisplayName
+Любимый макияж рук
+
+TAG: Sticker_MickeyMinnie_DisplayName
+Микки Маус & Минни Маус макияж
+
+TAG: Sticker_MickeyNeon_DisplayName
+Неон Микки Маус макияж
+
+TAG: Sticker_MonsterEyes_DisplayName
+Глаза монстров
+
+TAG: Sticker_Pumpkin_DisplayName
+Тыковка
+
+TAG: Sticker_Reindeer_DisplayName
+Олень
+
+TAG: Sticker_Snowflakes_DisplayName
+Снежинки
+
+TAG: Sticker_var01_DisplayName
+Бинди
+
+TAG: Sticker_var02_DisplayName
+Микки Маус Наклейка
+
+TAG: Stubble_var01_DisplayName
+Вариант 1
+
+TAG: Stubble_var02_DisplayName
+Вариант 2
+
+TAG: Stubble_var03_DisplayName
+Вариант 3
+

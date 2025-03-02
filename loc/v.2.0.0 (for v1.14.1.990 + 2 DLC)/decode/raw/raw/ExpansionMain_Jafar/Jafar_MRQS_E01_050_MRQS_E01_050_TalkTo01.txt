@@ -1,0 +1,189 @@
+TAG: Jafar_023_f
+Ah-ha! It worked! At last! It worked.
+
+TAG: Jafar_025_f
+After *bzzzt* ... an eternity!
+
+TAG: Jafar_019_f
+*bzzzt* {PlayerName}? *bzzzt* ...do you... hear me?
+
+TAG: Player_001_choice_001_f
+How do you know my name?
+
+TAG: Player_001_choice_002_f
+You're sounding a little fuzzy...
+
+TAG: Jafar_022_f
+Well, you may not remember me... but I most assuredly remember you.
+
+TAG: Jafar_024_f
+These crude devices allow me to speak with you, but I'm afraid they are not without their... malfunctions.
+
+TAG: Jafar_038_f
+Ah, at last! Our connection seems to be stable!
+
+TAG: Jafar_026_f
+Greetings. I am Jafar... Royal Vizier of Dreamlight Valley.
+
+TAG: Jafar_027_f
+Before the Forgetting, I was your closest, most trusted advisor.
+
+TAG: Player_000_choice_000_f
+Sooo... we're gonna be, like, best friends?
+
+TAG: Player_000_choice_001_f
+I'm listening... What's going on?
+
+TAG: Player_000_choice_002_f
+I don't trust you one bit.
+
+TAG: Jafar_005_f
+... Friends? Perhaps.
+
+TAG: Jafar_006_f
+But I will aid you however I can. And trust me... you will need my aid, direly.
+
+TAG: Jafar_029_f
+I reach out to you now with a grave warning... <Lore>All of time and space is in peril</Lore>.
+
+TAG: Player_003_choice_000_f
+Well, that sounds bad.
+
+TAG: Player_003_choice_001_f
+Er... could you elaborate?
+
+TAG: Player_003_choice_002_f
+Okay. How do I fix it?
+
+TAG: Jafar_036_f
+Listen closely to my tale, and then I will tell you how to set the world right...
+
+TAG: Jafar_039_f
+But now, at last, I've found a way to communicate with you.
+
+TAG: Jafar_040_f
+If we have any hope of saving Dreamlight Valley... you must <Lore>venture to Eternity Isle and free me</Lore>.
+
+TAG: Player_002_choice_000_f
+How did you discover Eternity Isle?
+
+TAG: Player_002_choice_001_f
+These ancient relics that control time... tell me more.
+
+TAG: Player_002_choice_002_f
+I'm ready. How do I get to Eternity Isle?
+
+TAG: Jafar_044_f
+It was fate... or perhaps a fortuitous accident.
+
+TAG: Jafar_042_f
+During the Forgetting, I began to assume my most-deserved role as sultan of Dreamlight Valley.
+
+TAG: Jafar_043_f
+All I wanted was to restore order, of course.
+
+TAG: Player_005_choice_001_f
+I somehow doubt that.
+
+TAG: Player_005_choice_002_f
+Somebody needed to take charge around here.
+
+TAG: Jafar_046_f
+Ugh. You sound just like that street rat Aladdin and incompetent Genie.
+
+TAG: Jafar_045_f
+They refused to trust me, even though I was clearly the rightful ruler. They cast me out. Exiled me!
+
+TAG: Jafar_048_f
+But as luck would have it... I found myself cast away on Eternity Isle. An island full of ancient treasures and powerful relics.
+
+TAG: Jafar_047_f
+Precisely. If only Aladdin and Genie had seen it that way.
+
+TAG: Jafar_051_f
+It seems Eternity Isle was once home to an ancient civilization.
+
+TAG: Jafar_052_f
+They studied the secrets of time and space... and filled the Island with treasures and wonders.
+
+TAG: Jafar_053_f
+You will no doubt find some of them on your journeys across the Isle.
+
+TAG: Player_006_f
+Being able to control time and space...
+
+TAG: Player_006_choice_000_f
+Sounds like a big responsibility.
+
+TAG: Player_006_choice_001_f
+Imagine, being able to fix your past mistakes?
+
+TAG: Player_006_choice_002_f
+I would be unstoppable!
+
+TAG: Jafar_054_f
+Yes, only someone possessing infinite wisdom could handle it.
+
+TAG: Jafar_055_f
+Someone like... oh... a Royal Vizier, perhaps.
+
+TAG: Jafar_056_f
+There is certainly one mistake I would like to fix.
+
+TAG: Jafar_057_f
+That wretched Aladdin.
+
+TAG: Jafar_058_f
+Ah, I knew you were not some fool who would waste a genie's wish on something frivolous. Good!
+
+TAG: Jafar_059_f
+Only absolute power will do.
+
+TAG: Jafar_000_f
+I will send a means of transportation to you...
+
+TAG: Jafar_001_f
+It shall be waiting at the <Lore>Stardust Port</Lore>.
+
+TAG: Jafar_061_f
+Take the <ActivityItem>Ancient Vessel</ActivityItem> and <Lore>travel to Eternity Isle</Lore>.
+
+TAG: Jafar_017_f
+Once you reach the Island, look for another <Lore>Mysterious Device just like this one</Lore>. They will allow us to communicate.
+
+TAG: Jafar_002_f
+Where will I find this "means of transportation"?
+
+TAG: Jafar_008_f
+There is a port of many worlds hidden here. There, you will find the <ActivityItem>Ancient Vessel</ActivityItem>.
+
+TAG: Jafar_060_f
+Visit the wizard, Merlin. He must remember by now. The old fool always was sharper than he seemed.
+
+TAG: Jafar_009_f
+Oh, but you really have no choice. The stakes are far too high.
+
+TAG: Jafar_028_f
+Before the Forgetting, I was the Old Ruler's most trusted advisor.
+
+TAG: Jafar_041_f
+It seems you rule the Valley now. I hope I may provide you with the same wise counsel.
+
+TAG: Jafar_004_f
+You may not know me... but I most assuredly know you. I have eyes everywhere.
+
+TAG: Jafar_031_f
+During the Forgetting, I set out on a journey and <Lore>discovered a land beyond the waters of Dreamlight Valley</Lore>.
+
+TAG: Jafar_033_f
+But then everything went wrong.
+
+TAG: Jafar_034_f
+A land called... <Lore>Eternity Isle</Lore>.
+
+TAG: Jafar_037_f
+Eternity Isle became lost in time... and I became trapped there.
+
+TAG: Jafar_032_f
+{Placeholder} Text of cutscene: A place filled with ancient relics that empower their wielder to control timeâ¦
+

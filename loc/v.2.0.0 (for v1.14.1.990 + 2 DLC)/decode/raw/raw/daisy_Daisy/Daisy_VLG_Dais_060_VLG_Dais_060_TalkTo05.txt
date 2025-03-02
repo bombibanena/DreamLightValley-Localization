@@ -1,0 +1,96 @@
+TAG: Daisy_000_f
+{PlayerName}, what did you find out from our party-guests-turned-suspects?
+
+TAG: Player_001_choice_000_f
+About Vanellope...
+
+TAG: Player_001_choice_001_f
+About Kristoff...
+
+TAG: Player_001_choice_002_f
+What did YOU find out?
+
+TAG: Daisy_001_f
+Vanellope was VERY bored for the whole party... And she tried to pin the glitter bomb on literally everyone else.
+
+TAG: Player_002_choice_000_f
+VERY suspicious.
+
+TAG: Player_002_choice_001_f
+Glitter isn't her thing.
+
+TAG: Daisy_016_f
+Hmm... Vanellope COULD be our troublemaker, but I don't want to assume anything just yet.
+
+TAG: Daisy_015_f
+You're right. And I don't want to assume anything just yet.
+
+TAG: Daisy_012_f
+Kristoff just said a bunch of nice stuff about me?
+
+TAG: Player_003_choice_000_f
+He's not the culprit.
+
+TAG: Player_003_choice_001_f
+Too MANY nice things... SUSPICIOUS.
+
+TAG: Daisy_014_f
+I agree. This isn't his style.
+
+TAG: Daisy_017_f
+I don't know about that, {PlayerName}. Kristoff isn't the glitter bomb type.
+
+TAG: Daisy_018_f
+Well, I know it wasn't Donald. He really wanted the party to go well for me.
+
+TAG: Daisy_013_f
+But as I was talking to Minnie, I had a thought. What if the guilty party was someone who DIDN'T attend the party?
+
+TAG: Daisy_003_f
+Like who?
+
+TAG: Daisy_021_f
+My first thought was Mother Gothel â because of her "Ask Daisy" letter. But the evidence points elsewhere...
+
+TAG: Daisy_005_f
+Scrooge McDuck.
+
+TAG: Player_004_choice_000_f
+What's your evidence?
+
+TAG: Player_004_choice_001_f
+Seems kinda random.
+
+TAG: Player_004_choice_002_f
+Sabotaging another entrepreneur? The gall!
+
+TAG: Daisy_007_f
+The glitter bomb was in a box among the furniture I rented from him for the gala!
+
+TAG: Daisy_022_f
+He probably thought it would be a funny prank. Or, knowing him, he might've thought it would be an impressive addition to the party.
+
+TAG: Player_000_f
+Let me talk to him...
+
+TAG: Player_000_choice_000_f
+I'll make him confess.
+
+TAG: Player_000_choice_001_f
+I'll determine if he's innocent or not.
+
+TAG: Player_000_choice_002_f
+I still think Vanellope was more suspicious.
+
+TAG: Daisy_008_f
+Good luck, {PlayerName}.
+
+TAG: Daisy_009_f
+Oh, it's him, {PlayerName}. You'll see.
+
+TAG: Daisy_010_f
+We don't have ANY physical proof Vanellope was involved. We need to follow this Uncle Scrooge lead.
+
+TAG: Daisy_020_f
+My thoughts exactly!
+

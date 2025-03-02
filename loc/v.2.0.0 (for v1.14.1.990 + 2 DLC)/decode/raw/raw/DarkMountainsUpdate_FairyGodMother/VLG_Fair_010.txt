@@ -1,0 +1,87 @@
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_AvailableDescription
+The Fairy Godmother loves to live in the Forgotten Lands, but the other Villagers don't seem to share her enthusiasm. She has a theory that all the fire is to blame and enlists you to help her. She thinks Merlin could be of some help too.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_DisplayName
+Fire Alarm
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group01_Step01_Listen01_StepDescription
+Listen to the Fairy Godmother and Merlin.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess05_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_StepDescription
+Gather materials for the <ActivityItem>Icy Enchantment</ActivityItem>:
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_StoryDescription
+The Fairy Godmother and Merlin realize only you can extinguish the fires in the Forgotten Lands. She helps you devise a recipe for enchanting your Watering Can.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group04_Step04_CraftItem01_StepDescription
+Craft the {itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group05_Step05_ConsumeItem01_StepDescription
+Use the {itemName} in your Inventory.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group06_Step06_RemoveBlocker01_StepDescription
+Use your Watering Can to remove the <ActivityItem>Green Fires</ActivityItem> in the Forgotten Lands.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group06_StoryDescription
+Now that your Watering Can is enchanted, there's only one thing left to do. Test it on some fires in the Forgotten Lands.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group07_Step07_TalkToCharacter02_StepDescription
+Report back to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_Decorate01_StepDescription
+<ActivityItem>Seating</ActivityItem>.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_Decorate02_StepDescription
+<ActivityItem>Outdoor Lighting</ActivityItem>.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_Decorate03_StepDescription
+<ActivityItem>Paths</ActivityItem>.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_StepDescription
+Decorate the Forgotten Lands to make them more appealing by adding:
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group08_StoryDescription
+With the fire gone, the Fairy Godmother thinks the time has come to add some lights, paths and seating to the Forgotten Lands.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group09_Step09_TalkToCharacter03_StepDescription
+Talk to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group10_Step10_FollowCharacter01_StepDescription
+Follow the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group10_Step10_FollowCharacter01_TalkToDescription
+Talk to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group10_StoryDescription
+Now the Fairy Godmother is sure the Villagers will be able to enjoy the place but there's one last thing she wants to show you and asks you to follow her.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need again?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

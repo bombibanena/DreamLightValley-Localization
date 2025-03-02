@@ -1,0 +1,51 @@
+TAG: Mickey_000_f
+Say {PlayerName}, do you have any friends who have a short temper?
+
+TAG: Player_000_choice_000_f
+A few.
+
+TAG: Player_000_choice_001_f
+No... All my friends are very calm.
+
+TAG: Player_000_choice_002_f
+There is Donald Duck.
+
+TAG: Mickey_001_f
+Gosh, I think everybody knows somebody with a short fuse. Like my friend Donald Duck.
+
+TAG: Mickey_005_f
+When he thinks something's not fair or somebody's being treated badly, he can get real mad real fast.
+
+TAG: Mickey_007_f
+What do you do when that happens?
+
+TAG: Player_000_choice_003_f
+Empathize with them.
+
+TAG: Player_000_choice_004_f
+Give them space.
+
+TAG: Player_000_choice_005_f
+I'm not sure.
+
+TAG: Mickey_008_f
+You mean you let your friend know you understand why they're angry?
+
+TAG: Mickey_004_f
+Wow, that's real nice. I bet they appreciate that.
+
+TAG: Mickey_009_f
+That's probably smart. I know Donald never stays mad for long.
+
+TAG: Mickey_006_f
+You sure are a great friend, {PlayerName}.
+
+TAG: Mickey_010_f
+Yeah, sometimes it's hard to know. With Donald, I've found that the best thing to do is just give him some space. Of course, if I can fix whatever he's mad about, that helps, too.
+
+TAG: Mickey_002_f
+Then I guess you haven't met Donald Duck yet! Ha-ha! But don't worry. He's a great guy. I couldn't ask for a better friend.
+
+TAG: Mickey_003_f
+That's just who I was thinking about.
+

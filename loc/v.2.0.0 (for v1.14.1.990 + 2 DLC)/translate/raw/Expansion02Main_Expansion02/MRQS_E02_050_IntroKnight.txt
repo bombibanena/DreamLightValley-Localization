@@ -1,0 +1,78 @@
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_AvailableDescription
+{PlayerName} вскоре наткнулся на еще одно грандиозное место в "Everweorth": огромное пристанище с разрушенным старым замком на дальней стороне. Это место казалось приглашением к приключениям.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_DisplayName
+Падающая крепость
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group01_Step01_VisitArea01_StepDescription
+Изучите район вокруг <ActivityItem>Fallen Fortress</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group02_Step02_Interaction01_StepDescription
+Поищите путь к <ActivityItem>lower в замке.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group02_Step02_StepDescription
+Похоже, есть что-то важное на другой стороне этих рухнувших стен замка...
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group03_Step03_Conditional01_StepDescription
+Исследуйте Дикий Вудс, чтобы найти деревенщину, которая могла бы помочь вам.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group03_Step03_StepDescription
+Вам может понадобиться помощь...
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group04_Step04_StepDescription
+Вам может понадобиться помощь...
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group04_Step04_TalkToCharacter01_StepDescription
+Поговори с Флин о таинственной крепости и ее мостике.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group05_Step05_ConsumeItem01_StepDescription
+Исследуйте {ItemName} в вашем списке.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess01_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess02_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess03_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_Possess04_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group06_Step06_StepDescription
+Соберите материалы, необходимые для изготовления " <ActivityItem>Fairy Tale Armor</ActivityItem> " :
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group07_Step07_CraftItem01_StepDescription
+Подготовьте {ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group08_Step08_TalkToCharacter02_StepDescription
+Возвращайтесь на {TargetNPC}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step09_Conditional06_StepDescription
+(Вариант) Найдите любой <ActivityItem>Baby Dragon</ActivityItem> в EverWerth.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step10_DressUp01_StepDescription
+Надень {ItemName}.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step11_Conditional03_StepDescription
+Потусоваться со своим сквайром (Флин!).
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_Step11_Conditional06_StepDescription
+(Вариант) Найдите любой </ActivityItem>Baby Dragon</ActivityItem> в EverWerth.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group10_StepDescription
+Вы делаете хорошие успехи на пути к тому, чтобы стать рыцарем!
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group11_Step13_StepDescription
+Введите территорию крепости и активируйте процесс <ActivityItem>Fairy Tale</ActivityItem> с вашей Royal Net.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group11_StepDescription
+Дроссбридж опущен!
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group12_Step14_Conditional05_StepDescription
+Опустите мостик к падшей крепости.
+
+TAG: Story!Expansion02!MRQS_E02_050_IntroKnight_Group12_StepDescription
+Поздравляю, {PlayerName} храбрость.
+

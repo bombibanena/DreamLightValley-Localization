@@ -1,0 +1,48 @@
+TAG: label_progress
+Progress
+
+TAG: btn_claim
+Claim
+
+TAG: btn_exchange_shop
+Exchange Shop
+
+TAG: btn_home
+Event
+
+TAG: btn_leaderboard
+Leaderboard
+
+TAG: btn_shop
+Shop
+
+TAG: chapter_locked_label
+Locked
+
+TAG: chapter_welcome_label
+Welcome
+
+TAG: chapter_welcomed_label
+Welcomed!
+
+TAG: leaderboard_player_label
+Player
+
+TAG: leaderboard_rank_label
+Rank
+
+TAG: leaderboard_rewards_label
+Rewards
+
+TAG: leaderboard_score_label
+Score
+
+TAG: time_collect_rewards
+Collect rewards in
+
+TAG: time_end_in
+Ends in
+
+TAG: time_start_in
+Starts in
+

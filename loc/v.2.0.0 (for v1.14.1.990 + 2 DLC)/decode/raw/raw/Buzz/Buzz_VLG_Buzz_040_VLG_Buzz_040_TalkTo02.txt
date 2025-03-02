@@ -1,0 +1,33 @@
+TAG: Buzz_000_f
+Are our recruits ready to join the ranks of Star Command?
+
+TAG: Player_000_choice_000_f
+Ready and impatient!
+
+TAG: Player_000_choice_001_f
+I recruited each of them personally.
+
+TAG: Player_000_choice_002_f
+Scar was a little reluctant...
+
+TAG: Buzz_003_f
+Great news, cadet!
+
+TAG: Buzz_007_f
+There are only a few things left to do. Let's make sure our headquarters appears inviting and that our uniforms are in top-notch shape.
+
+TAG: Buzz_008_f
+I suggest a proper landing pad for our <ActivityItem>Ship</ActivityItem>. <ActivityItem>Asphalt</ActivityItem> should work. And a <ActivityItem>Blue Balloon Arch</ActivityItem> for the ceremony... I'll leave that to you.
+
+TAG: Buzz_009_f
+Once the items are complete, let's put them around the RV... I uh, I mean, Star Command... so it's ready for the welcoming ceremony.
+
+TAG: Buzz_004_f
+Good job, cadet. There's a special role for each of them with Star Command, and I'm sure you let them know just what it would be.
+
+TAG: Buzz_005_f
+But I'm sure he came around thanks to you.
+
+TAG: Buzz_006_f
+Diplomacy is an important skill, cadet. And you seem to have mastered it early.
+

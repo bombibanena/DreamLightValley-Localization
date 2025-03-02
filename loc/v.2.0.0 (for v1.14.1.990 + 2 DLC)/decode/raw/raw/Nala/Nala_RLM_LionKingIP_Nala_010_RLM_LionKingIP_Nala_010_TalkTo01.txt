@@ -1,0 +1,150 @@
+TAG: Nala_000_f
+Grrr...
+
+TAG: Nala_001_f
+Hi! I'm {PlayerName}. And you must be...
+
+TAG: Nala_002_f
+*ROAR!*
+
+TAG: Player_000_choice_000_f
+ACK! Please don't eat me!
+
+TAG: Player_000_choice_001_f
+Uh... nice kitty! Stay back!
+
+TAG: Player_000_choice_002_f
+Grr! Roar!
+
+TAG: Nala_003_f
+Trust me. I probably wouldn't taste very good!
+
+TAG: Nala_044_f
+They've been tracking me ever since my mate Simba and I set out from the Pride Lands.
+
+TAG: Nala_019_f
+Hmm. Maybe I could help you get rid of them.
+
+TAG: Nala_020_f
+Well, you can either do that or keep out of my way. It's up to you.
+
+TAG: Nala_021_f
+My name's Nala, by the way.
+
+TAG: Player_001_choice_000_f
+What are you doing out here?
+
+TAG: Player_001_choice_001_f
+Tell me more about the hyenas.
+
+TAG: Player_001_choice_002_f
+What can I do to help?
+
+TAG: Nala_015_f
+Grrr... You don't seem threatening...
+
+TAG: Nala_011_f
+You can talk!
+
+TAG: Nala_013_f
+Of course.
+
+TAG: Nala_014_f
+And you can understand me!
+
+TAG: Nala_012_f
+Heh. I guess that means you're really not going to eat me?
+
+TAG: Nala_007_f
+I was just trying to scare you off. I thought you were another hyena.
+
+TAG: Nala_017_f
+There are hyenas around here?
+
+TAG: Nala_018_f
+You see those eyes glowing in the darkness all around us? There's a whole pack of them.
+
+TAG: Nala_025_f
+Trying to get a little rest. Simba's king of the Pride Lands, and we needed a bit of a break from all the royal... stuff.
+
+TAG: Nala_024_f
+He wanted to show me more of the jungle where he grew up with his friends, Timon and Pumbaa.
+
+TAG: Nala_026_f
+We got separated not long ago, and I'm supposed to meet him in this jungle.
+
+TAG: Nala_027_f
+But I don't want to lead a pack of angry hyenas right to him.
+
+TAG: Nala_028_f
+The hyenas have been mad at us ever since we forced them away from Pride Rock.
+
+TAG: Nala_029_f
+Their numbers are dwindling. There aren't as many as there were back when their leader Scar was here.
+
+TAG: Nala_030_f
+But there are still enough of them to cause a lot of trouble.
+
+TAG: Nala_023_f
+We need to throw them off our trail.
+
+TAG: Nala_032_f
+I can hold the hyenas off for a bit. But there are a lot of them.
+
+TAG: Nala_043_f
+I don't know what that is, but you can explain it later.
+
+TAG: Nala_040_f
+I'll hold off the hyenas as long as I can. I just hope you know what you're doing.
+
+TAG: Nala_033_f
+If there were some way to block the path so they can't follow us, that would help.
+
+TAG: Nala_034_f
+There are a lot of thorn bushes around here. I'll bet the hyenas wouldn't want to get tangled in those.
+
+TAG: Nala_035_f
+They wouldn't. But how would we get them to the middle of the path?
+
+TAG: Nala_036_f
+Aha. I bet my trusty Watering Can might be able to help us.
+
+TAG: Nala_038_f
+You sure that's going to work?
+
+TAG: Nala_039_f
+You're just going to have to trust me on this one.
+
+TAG: Nala_037_f
+If you can hold off those hyenas, I'll <Lore>plant some seeds for the thorns and water them until they grow.</Lore>
+
+TAG: Nala_041_f
+Don't worry. It shouldn't take long. It's magic.
+
+TAG: Nala_031_f
+Before we go any farther, we need to throw those hyenas off our trail.
+
+TAG: Nala_022_f
+I'm supposed to meet Simba somewhere in that jungle. But I can't lead the hyenas right to him.
+
+TAG: Nala_004_f
+I promise I'll find you some very large catnip and a scratching post if you just keep your distance!
+
+TAG: Nala_016_f
+What are you talking about...? Never mind. I'll keep my distance if you keep yours.
+
+TAG: Nala_005_f
+You think you're the only one who can roar around here?
+
+TAG: Nala_006_f
+Grrr! Roar! Be afraid! Be very afraid!
+
+TAG: Nala_008_f
+Was that supposed to scare me?
+
+TAG: Nala_009_f
+You sound like Simba when he was a cub.
+
+TAG: Nala_010_f
+Hey! I thought I sounded prettyâ
+

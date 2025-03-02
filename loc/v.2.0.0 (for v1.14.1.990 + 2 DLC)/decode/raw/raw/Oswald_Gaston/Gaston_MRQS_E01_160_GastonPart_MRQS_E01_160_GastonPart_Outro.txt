@@ -1,0 +1,48 @@
+TAG: Gaston_000_f
+Good work, {PlayerName}.
+
+TAG: Gaston_001_f
+This LeFou's so shiny that I can see myself reflected a hundred times over in the gemstones!
+
+TAG: Player_000_choice_000_f
+A hundred Gastons... a terrifying concept...
+
+TAG: Player_000_choice_001_f
+Now will you help me?
+
+TAG: Gaston_003_f
+You'd need six thousand eggs a day to feed them all...
+
+TAG: Gaston_004_f
+Ugh, don't bother me with MATH, {PlayerName}.
+
+TAG: Gaston_005_f
+It's time for action!
+
+TAG: Gaston_007_f
+Okay, go wait for me in the Ancient Ruins.
+
+TAG: Gaston_008_f
+Looks like everyone is ready to go deeper into the Ruins.
+
+TAG: Gaston_009_f
+I'll meet you down there, okay?
+
+TAG: Gaston_010_f
+Of course, {PlayerName}. I'll be practicing my most heroic poses.
+
+TAG: Gaston_014_f
+Grr!!! Agghhh!!!
+
+TAG: Gaston_011_f
+I just need to finish helping Rapunzel.
+
+TAG: Gaston_012_f
+I just need to finish helping EVE.
+
+TAG: Gaston_013_f
+I just need to finish helping EVE and Rapunzel.
+
+TAG: Gaston_006_f
+Of course! Just tell me where heroing is needed, and I'll do it!
+

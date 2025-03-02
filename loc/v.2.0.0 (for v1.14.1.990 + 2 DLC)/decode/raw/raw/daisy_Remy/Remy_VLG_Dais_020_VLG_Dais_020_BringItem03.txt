@@ -1,0 +1,45 @@
+TAG: Remy_010_f
+Wow, {PlayerName}, is that a new outfit?
+
+TAG: Remy_000_f
+It's from Minnie and Daisy's clothing line, Dots & Daisies. They're launching in the Valley really soon!
+
+TAG: Remy_011_f
+That's great! Do you want me to cook something for the launch? I'm already thinking choux pastryâlike gougÃ¨res or Ã©clairs...
+
+TAG: Remy_012_f
+Slow down, Remy! We just wanted to make you aware of it.
+
+TAG: Remy_013_f
+Oh. They realize that I'm a rat, right? We don't wear clothes. Except when I put on my chef's hat, of course.
+
+TAG: Remy_014_f
+And just because I'm French doesn't mean I know the first thing about fashion.
+
+TAG: Player_001_choice_000_f
+Small businesses support each other!
+
+TAG: Player_001_choice_001_f
+Maybe they could make you a custom chef's coat?
+
+TAG: Player_001_choice_002_f
+I knew you'd think it was weird.
+
+TAG: Remy_015_f
+Sorry, I guess I got a little carried away. And you're right.
+
+TAG: Remy_002_f
+I'll be sure to spread the word to all my customers! Thanks for the card, {PlayerName}.
+
+TAG: Remy_016_f
+Actually... That's a great idea! It could be very handy for formal events.
+
+TAG: Remy_017_f
+A little. But hey, I know all about hustling to make your business work.
+
+TAG: Remy_018_f
+"Dots & Daisies," huh? Sounds like a new business is opening in the Valley... Is it a homemade pasta shop?
+
+TAG: Remy_001_f
+It's Minnie and Daisy's new fashion line!
+

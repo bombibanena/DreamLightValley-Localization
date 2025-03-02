@@ -1,0 +1,84 @@
+TAG: Hades_000_f
+Hades, you came close to burning down Remy's restaurant!
+
+TAG: Hades_001_f
+Too bad I didn't. It would've been a just end for that rathole!
+
+TAG: Player_000_choice_000_f
+I think you're overreacting.
+
+TAG: Player_000_choice_001_f
+Come on; it's not that bad.
+
+TAG: Player_000_choice_002_f
+Wow, Vanellope really got under your skin, didn't she?
+
+TAG: Hades_002_f
+Me? Overreact? Never. I'm cool as the cucumber in frozen tzatziki.
+
+TAG: Player_001_choice_000_f
+You've got this!
+
+TAG: Player_001_choice_001_f
+Ursula can be tricky â be careful.
+
+TAG: Player_001_choice_002_f
+Hope you're slick enough for her.
+
+TAG: Hades_005_f
+It's... it's this job! It's beneath me! You can't be BETTER than everyone else when you're catering to others.
+
+TAG: Hades_006_f
+Leave it to a rodent to be happy taking orders from everyone.
+
+TAG: Hades_007_f
+I refuse to put myself in a position where anyone can tell me what to do.
+
+TAG: Hades_008_f
+I got enough of that from Zeus!
+
+TAG: Hades_009_f
+Fair enough. So you're definitely a quick talker... What if you try a job that leverages that? Like a salesman of some kind?
+
+TAG: Hades_010_f
+Hmm... Yeah. And then I just talk people into buying things?
+
+TAG: Hades_011_f
+Exactly! Capitalize on your charm and persuasion!
+
+TAG: Hades_012_f
+I like it! I'll go talk to Ursula â she said she had some potions to sell. My first challenge â talk her into hiring me!
+
+TAG: Hades_013_f
+Whoa! Cool it with the cheerleader impression, would ya?
+
+TAG: Hades_014_f
+I want admirers, not groupies. There's a difference.
+
+TAG: Hades_017_f
+Now before I start, as my head minion, hence assistant, you need to look the part.
+
+TAG: Hades_018_f
+You gotta know by now that my colors are <Lore>black and blue</Lore>. And try to scrounge up something <Lore>formal</Lore> too. We're not going to a kid's birthday party here.
+
+TAG: Hades_022_f
+Now before I start, as my intermediate minion, hence assistant, you need to look the part.
+
+TAG: Hades_020_f
+Now before I start, as my associate minion, hence assistant, you need to look the part.
+
+TAG: Hades_021_f
+Now before I start, as my junior minion, hence assistant, you need to look the part.
+
+TAG: Hades_015_f
+True. I've heard she's more slippery than Poseidon, and he's never found a deal he couldn't slither out of.
+
+TAG: Hades_016_f
+Watch and learn, {PlayerName}.
+
+TAG: Hades_003_f
+Says the mortal who's never been to Bacchus's 10-star joint.
+
+TAG: Hades_004_f
+The kid? Get to ME? Not likely.
+

@@ -1,0 +1,36 @@
+TAG: Rapunzel_000_f
+Oh, {PlayerName}! Pumbaa was just telling me you're helping him put on a pottery class?
+
+TAG: Rapunzel_001_f
+That's so exciting!
+
+TAG: Rapunzel_002_f
+Yeah! I was hoping you could tell me what we might need to get started...
+
+TAG: Player_000_choice_000_f
+I've never hosted a pottery class before!
+
+TAG: Player_000_choice_001_f
+I don't know what supplies we need.
+
+TAG: Player_000_choice_002_f
+You're VERY artsy. HELP ME!
+
+TAG: Rapunzel_004_f
+Neither have I... unless you count when I tried to teach Pascal to make itty-bitty teacups. But I have an idea...
+
+TAG: Rapunzel_006_f
+You'll definitely need some <ActivityItem>Pottery Wheels</ActivityItem>, clay, and some flowers to make beautiful glazes.
+
+TAG: Rapunzel_007_f
+Sounds simple enough! I'll <Lore>craft some Pottery Wheels</Lore> and <Lore>collect the supplies we need</Lore>!
+
+TAG: Rapunzel_008_f
+And I'll go find Pumbaa. We can talk about throwing on the wheel versus handbuilding.
+
+TAG: Rapunzel_003_f
+Oh, I can help with that!
+
+TAG: Rapunzel_005_f
+I'm sure you're artistic too, {PlayerName}, in your way. Everyone is. But don't worry; I know exactly what you'll need.
+

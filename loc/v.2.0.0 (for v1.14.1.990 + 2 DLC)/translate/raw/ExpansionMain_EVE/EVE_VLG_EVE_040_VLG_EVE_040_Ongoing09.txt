@@ -1,0 +1,6 @@
+TAG: EVE_000_f
+Э-э...
+
+TAG: EVE_001_f
+Мне все еще нужно добавить несколько <ActivityItem>Rugs</ActivityItem>, <ActivityItem> Председателя</ActivityItem>, и <ActivityItem>Decorations</ActivityItem>.
+

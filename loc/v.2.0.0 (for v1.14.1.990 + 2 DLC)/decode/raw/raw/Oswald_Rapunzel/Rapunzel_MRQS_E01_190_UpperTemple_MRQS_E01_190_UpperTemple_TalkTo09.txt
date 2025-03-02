@@ -1,0 +1,39 @@
+TAG: Rapunzel_000_f
+I think I figured out part of this puzzle, {PlayerName}.
+
+TAG: Rapunzel_001_f
+It's a duet. Once you get all the musical notes in order, I'll have to stand in that circle and sing them.
+
+TAG: Rapunzel_003_f
+You can change the notes by <Lore>pressing the buttons</Lore> over there.
+
+TAG: Rapunzel_002_f
+But we still need to figure out the right melody. There <Lore>must be a clue here somewhere</Lore>...
+
+TAG: Player_000_choice_000_f
+I'll search for a clue.
+
+TAG: Player_000_choice_001_f
+I'll just start pulling levers and hope for the best.
+
+TAG: Player_000_choice_002_f
+I'll listen closely for whichever melody sounds best.
+
+TAG: Rapunzel_004_f
+That's probably best. There are so many combinations of notes you could put together to make it different.
+
+TAG: Rapunzel_005_f
+I love that about music, but I DON'T love that for us trying to figure out this puzzle!
+
+TAG: Rapunzel_006_f
+Are you sure you should do that?
+
+TAG: Rapunzel_007_f
+There are so many possible combinations!
+
+TAG: Rapunzel_008_f
+Maybe you could <Lore>look around here for a clue</Lore> to the right melody.
+
+TAG: Rapunzel_009_f
+But that's the thing that's so amazing about music. There are so many ways you can place the notes and have it make a melody.
+

@@ -1,0 +1,36 @@
+TAG: Description
+{Placeholder}Generic Buff Описание
+
+TAG: Description_000
+Раскройте все сокровища в каждой скале с каждым качелем своего Пикокса.
+
+TAG: Description_001
+Урожаи быстро вырастут, когда их будут поливать.
+
+TAG: Description_002
+Найдите редкую рыбу в каждом рулете воды.
+
+TAG: Description_003
+Найдите больше сокровищ в каждой лопате грязи.
+
+TAG: Description_004
+Создаёт дополнительную еду при приготовлении пищи.
+
+TAG: DisplayName
+{Placeholder}Generic Buff
+
+TAG: DisplayName_000
+Чудо Пикоксе польское
+
+TAG: DisplayName_001
+Чудесный рост эликсир
+
+TAG: DisplayName_002
+Чудовищный лов рыбы
+
+TAG: DisplayName_003
+Чудо, сокрушительное лака
+
+TAG: DisplayName_004
+Пиксельное пламя для приготовления пищи
+

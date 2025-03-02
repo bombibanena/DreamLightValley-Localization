@@ -1,0 +1,24 @@
+TAG: Goofy_001_f
+Gawrsh! It looks great! Thanks, {PlayerName}!
+
+TAG: Player_000_choice_000_f
+I'm glad I can help!
+
+TAG: Player_000_choice_001_f
+Now I can buy all the seeds for my new garden.
+
+TAG: Player_000_choice_002_f
+Once again doing all the work.
+
+TAG: Goofy_002_f
+Say, while you were lookin' for the materials to rebuild the Stall, I gathered some seeds and crops to sell. I think you should have some of 'em.
+
+TAG: Goofy_005_f
+Here ya go!
+
+TAG: Goofy_003_f
+You betcha! And I gathered some already. Which is why I wanted to give these to ya. As a thank-you.
+
+TAG: Goofy_004_f
+You sure do a lot for everybody, {PlayerName}. Which is why I wanted to give these to ya. As a thank-you.
+

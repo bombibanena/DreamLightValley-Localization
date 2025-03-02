@@ -1,0 +1,90 @@
+TAG: WallE_000_f
+WALLÂ·E!
+
+TAG: Player_001_choice_000_f
+I don't know what you're saying!
+
+TAG: Player_001_choice_001_f
+I'm gonna guess what you're saying!
+
+TAG: Player_001_choice_002_f
+I understand completely.
+
+TAG: WallE_001_f
+WALLÂ·E! WALLÂ·E! WALLÂ·E!
+
+TAG: Player_002_choice_000_f
+What other words do you know?
+
+TAG: Player_002_choice_001_f
+What means "yes"?
+
+TAG: Player_002_choice_002_f
+How do you say "no"?
+
+TAG: WallE_004_f
+Uhh...
+
+TAG: WallE_005_f
+EVE-ah!
+
+TAG: WallE_006_f
+Directive!
+
+TAG: Player_006_f
+We'll continue this another time...
+
+TAG: Player_006_choice_000_f
+But it's a start.
+
+TAG: Player_006_choice_001_f
+I'll never understand you.
+
+TAG: WallE_012_f
+Whoopee!
+
+TAG: WallE_013_f
+Aww...
+
+TAG: WallE_007_f
+*whistles*
+
+TAG: WallE_008_f
+No.
+
+TAG: WallE_002_f
+*whistles*
+
+TAG: Player_003_choice_000_f
+You want to be best friends!
+
+TAG: Player_003_choice_001_f
+You want to go swimming!
+
+TAG: Player_003_choice_002_f
+It was Belle in the library with a candlestick!
+
+TAG: WallE_009_f
+Whoopee!
+
+TAG: Player_005_choice_000_f
+I got it!
+
+TAG: Player_005_choice_001_f
+This could use more work at another time.
+
+TAG: WallE_010_f
+...
+
+TAG: WallE_011_f
+Huh?!
+
+TAG: WallE_003_f
+Whoa!
+
+TAG: Player_004_choice_000_f
+I agree!
+
+TAG: Player_004_choice_001_f
+Sorry, but you're wrong.
+

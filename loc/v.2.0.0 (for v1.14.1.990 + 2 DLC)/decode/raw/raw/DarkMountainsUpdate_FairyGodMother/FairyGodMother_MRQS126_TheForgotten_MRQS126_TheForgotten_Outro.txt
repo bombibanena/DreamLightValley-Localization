@@ -1,0 +1,54 @@
+TAG: FairyGodMother_001_f
+Well, {PlayerName}? What did you discover in the final Memory?
+
+TAG: FairyGodMother_002_f
+Scar tricked the Forgotten into helping the Night Thorns spread. And then Merlin showed up...
+
+TAG: Player_000_f
+Merlin warned the Forgotten not to lose faith in love, friendship, and the power of small acts of care...
+
+TAG: Player_000_choice_000_f
+But it was too late.
+
+TAG: Player_000_choice_001_f
+I think he almost got through to the Forgotten...
+
+TAG: Player_000_choice_002_f
+The Forgotten was tired of being lectured to.
+
+TAG: FairyGodMother_003_f
+The Forgotten was too far gone.
+
+TAG: FairyGodMother_005_f
+We mustn't give up. Merlin may have planted a seed in the Forgotten's mind. Perhaps it just needs a little watering...
+
+TAG: FairyGodMother_009_f
+In the final Memory... it looked like the Forgotten ran away to a castle. I've seen that castle before.
+
+TAG: FairyGodMother_010_f
+There's another side of Dreamlight Valley. A shadowy side. You can get there through portals...
+
+TAG: FairyGodMother_011_f
+Of course! If you're ever to save the Forgotten, you must venture to the Forgotten's home and face them there.
+
+TAG: FairyGodMother_012_f
+But how to get there? Perhaps it's time I consult with Merlin.
+
+TAG: FairyGodMother_013_f
+Oh! Before I depart... now that the Forgotten's Memories are recovered, the Orb of Remembrance is repaired!
+
+TAG: FairyGodMother_014_f
+Be a dear and <Lore>return it to the Pillar in the Forgotten Lands</Lore> while I seek out Merlin. Goodbye for now. I will see you soon!
+
+TAG: FairyGodMother_004_f
+Merlin planted a seed in the Forgotten's mind. If we could just water it... give it a little sunlight...
+
+TAG: FairyGodMother_006_f
+I agree. The Forgotten is not lost to us for good. Not yet.
+
+TAG: FairyGodMother_007_f
+The Forgotten needed someone to understand. Not someone to give advice.
+
+TAG: FairyGodMother_008_f
+And no one could ever understand the Forgotten better than you, child.
+

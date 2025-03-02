@@ -1,0 +1,18 @@
+TAG: WallE_000_f
+WALLÂ·E, may I ask you something? Have you been trying to get Scar and Mother Gothel to become friends?
+
+TAG: WallE_001_f
+*whistle*
+
+TAG: WallE_002_f
+Well... how should I say this...? I'm not sure that's a very good idea.
+
+TAG: WallE_003_f
+I think you'd better talk to {PlayerName} first.
+
+TAG: WallE_004_f
+Oh? Uh-oh...
+
+TAG: WallE_005_f
+If Scar and Mother Gothel started working together... I'd worry about the Valley!
+

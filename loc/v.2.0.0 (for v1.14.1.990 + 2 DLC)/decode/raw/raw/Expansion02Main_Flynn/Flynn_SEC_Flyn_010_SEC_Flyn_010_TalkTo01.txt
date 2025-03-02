@@ -1,0 +1,75 @@
+TAG: Flynn_000_f
+Hey, Flynn! I gave your book to Rapunzel and she was SO happy!
+
+TAG: Flynn_001_f
+She was?! That's great! And... a little nerve-wracking. Of all the opinions on the book, hers is the most important to me.
+
+TAG: Player_000_choice_000_f
+Of course it is!
+
+TAG: Player_000_choice_001_f
+Everyone loves your book.
+
+TAG: Player_000_choice_002_f
+Not as important as MINE though, right?
+
+TAG: Flynn_003_f
+I just really want her to be proud of me.
+
+TAG: Flynn_009_f
+She IS proud of you!
+
+TAG: Flynn_010_f
+Also I had an idea. What if I <Lore>cook some romantic meals</Lore> so you two can spend some time together?
+
+TAG: Flynn_011_f
+Something REALLY special and meaningful for you!
+
+TAG: Flynn_012_f
+That would be fantastic! What'd we do to deserve you?
+
+TAG: Player_001_choice_000_f
+I love to play matchmaker!
+
+TAG: Player_001_choice_001_f
+Anything for my favorite couple in the Valley!
+
+TAG: Player_001_choice_002_f
+Someone has to help you two.
+
+TAG: Flynn_014_f
+This will be fun!
+
+TAG: Flynn_019_f
+I'll get started and <Lore>cook some meals</Lore> for your date right now.
+
+TAG: Flynn_020_f
+Thanks, {PlayerName}! I'll start getting ready. I need to look my very best for this reunion!
+
+TAG: Flynn_015_f
+Aw shucks, you're too sweet!
+
+TAG: Flynn_017_f
+You two are way too adorable to be kept apart.
+
+TAG: Flynn_016_f
+You're both so nervous; you'll dance around each other for ages without my help!
+
+TAG: Flynn_018_f
+That's probably true...
+
+TAG: Flynn_004_f
+But I'm not worried about "everyone," {PlayerName}.
+
+TAG: Flynn_007_f
+I want Rapunzel to be proud of me.
+
+TAG: Flynn_005_f
+Hey, don't get me wrong â I appreciate you, {PlayerName}, but Rapunzel is... well, she's RAPUNZEL.
+
+TAG: Flynn_006_f
+I was just joking. Of course her opinion means the most to you!
+
+TAG: Flynn_008_f
+Right. Got it. Sorry. Guess I'm too distracted to pick up on jokes right now.
+

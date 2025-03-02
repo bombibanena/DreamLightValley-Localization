@@ -1,0 +1,171 @@
+TAG: Village!Oswald!VLG_Oswa_040_AvailableDescription
+Word has traveled around Eternity Isle â Oswald is up to something big!
+
+TAG: Village!Oswald!VLG_Oswa_040_CompletedStoryDescription
+Success! After cooking up and consuming a plan, you were able to make a landing strip complete with flares to guide the poor lost trolley back to the ground and safety.
+
+TAG: Village!Oswald!VLG_Oswa_040_DisplayName
+Erratic Transportation
+
+TAG: Village!Oswald!VLG_Oswa_040_Group01_Step01_Possess01_StepDescription
+Using the Royal Hourglass, find the <ActivityItem>Vintage Trolley Conductor Hat</ActivityItem> around Ancient's Landing.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group02_Step02_BringItem01_StepDescription
+Make sure you have the <ActivityItem>Vintage Trolley Conductor Hat</ActivityItem> in your Inventory.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group02_Step02_ReadyDescription
+Show the <ActivityItem>Vintage Trolley Conductor Hat</ActivityItem> to Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group03_Step03_DressUp01_StepDescription
+Wear the <ActivityItem>Vintage Trolley Conductor Hat</ActivityItem>.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group04_Step04_Possess02_StepDescription
+Ancient Belts.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group04_Step04_Possess03_StepDescription
+Plastic Scrap.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group04_Step04_Possess04_StepDescription
+Bones.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group04_Step04_Possess05_StepDescription
+Zinc.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group04_Step04_Possess06_StepDescription
+Copper.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group04_Step04_Possess07_StepDescription
+Tropical Wood.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group04_StepDescription
+Gather the following resources:
+
+TAG: Village!Oswald!VLG_Oswa_040_Group05_Step05_CraftItem01_StepDescription
+Trolley Tracks.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group05_Step05_CraftItem02_StepDescription
+Trolley.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group05_Step05_StepDescription
+Craft:
+
+TAG: Village!Oswald!VLG_Oswa_040_Group05_StoryDescription
+Oswald wants to bring a trolley onto Eternity Isle, and now that you have the correct apparel and resources, it's time to craft it!
+
+TAG: Village!Oswald!VLG_Oswa_040_Group06_Step06_Decorate01_StepDescription
+Decorate the Valley with Trolley Tracks.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group07_Step07_BringItem02_StepDescription
+Make sure the <ActivityItem>Newborn Trolley</ActivityItem> is nestled in your Inventory.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group07_Step07_ReadyDescription
+Bring the <ActivityItem>Newborn Trolley</ActivityItem> to Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group08_Step08_Decorate02_StepDescription
+Place <ActivityItem>Oswald's Trolley</ActivityItem> where it can be welcomed by everyone.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group09_StepDescription
+Celebrate the grand opening of the trolley.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group10_Step10_TalkToCharacter01_StepDescription
+Check in with Oswald about the trolley.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group11_Step11_TalkToCharacter02_StepDescription
+Get blank "Missing" posters from Rapunzel.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group11_Step12_Possess08_StepDescription
+Octopus.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group11_Step12_Possess09_StepDescription
+Tropical Wood.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group11_Step12_StepDescription
+Gather the following resources:
+
+TAG: Village!Oswald!VLG_Oswa_040_Group11_StoryDescription
+Disaster has struck â after the trolley inauguration gathering, the trolley escaped to the skies! Hopefully some artfully constructed "Missing" posters will help you and Oswald track it down.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group12_Step13_BringItem03_StepDescription
+Octopus.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group12_Step13_BringItem04_StepDescription
+Tropical Wood.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group12_Step13_BringItem05_StepDescription
+Blank Posters.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group12_Step13_ReadyDescription
+Bring the "Missing" poster components to Oswald.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group12_Step13_StepDescription
+Make sure the "Missing" poster components are in your Inventory.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group13_Step14_Decorate03_StepDescription
+Near EVE's House.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group13_Step14_Decorate04_StepDescription
+Near Scrooge McDuck's Store on Eternity Isle.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group13_Step14_Decorate05_StepDescription
+Near Gaston's House.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group13_Step14_Decorate06_StepDescription
+Near Rapunzel's House.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group13_Step14_Decorate07_StepDescription
+Next to the Cave of Wonders.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group13_Step14_StepDescription
+Decorate around Villager's Houses with the <ActivityItem>"Missing Trolley" Posters</ActivityItem>.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group14_Step15_TalkToCharacter03_StepDescription
+Check back in with Oswald about the missing trolley.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group15_Step16_TakePicture01_StepDescription
+Take a picture of the trolley flying majestically over the waters near Ancient's Landing.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group16_Step17_TalkToCharacter04_StepDescription
+Strategize with Oswald to figure out how to lure the trolley back to the ground.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group17_Step18_Possess10_StepDescription
+Date.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group17_Step18_Possess11_StepDescription
+Nestling Pear.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group17_StepDescription
+Gather the remaining Ingredients for the plan.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group18_Step19_CookMeal01_StepDescription
+Cook up a plan to save the trolley.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group19_Step20_EatMeal01_StepDescription
+Devour the plan to come up with a strategy.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group20_Step21_TalkToCharacter05_StepDescription
+Eureka! Talk to EVE to get her help with the plan.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group21_Step22_Possess12_StepDescription
+Bones.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group21_Step22_Possess13_StepDescription
+Electric Power.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group21_Step22_Possess14_StepDescription
+Brass Ingots.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group21_Step22_StepDescription
+Gather the following resources:
+
+TAG: Village!Oswald!VLG_Oswa_040_Group22_Step23_CraftItem03_StepDescription
+Craft the <ActivityItem>Landing Strip</ActivityItem>.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group23_Step24_Decorate08_StepDescription
+Place the <ActivityItem>Landing Strip</ActivityItem> in <Lore>Ancient's Landing</Lore> near the Docks.
+
+TAG: Village!Oswald!VLG_Oswa_040_Group24_Step25_TalkToCharacter06_StepDescription
+Check back with Oswald while you wait for the trolley's return.
+
+TAG: Village!Oswald!VLG_Oswa_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

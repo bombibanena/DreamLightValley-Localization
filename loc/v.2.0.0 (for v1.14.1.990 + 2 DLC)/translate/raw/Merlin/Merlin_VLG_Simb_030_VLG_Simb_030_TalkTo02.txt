@@ -1,0 +1,57 @@
+TAG: Merlin_001_f
+Ах, {PlayerName}, вы выглядите так, будто ищете знания.
+
+TAG: Merlin_003_f
+Я нашла эту комнату под плато Санлит с семенами в нем и...
+
+TAG: Merlin_004_f
+"Гербалистская комната", какие чудесные новости! "Почему, я забыла об этом?"
+
+TAG: Player_003_f
+Я хочу получить что-то под названием "Семя Деревья Мечты" для Симба... но оно застряло в машине внутри той комнаты.
+
+TAG: Player_003_choice_000_f
+Мне нужна твоя помощь, пожалуйста.
+
+TAG: Player_003_choice_001_f
+Что все это значит?
+
+TAG: Player_003_choice_002_f
+Ты действительно хорошо понимаешь эту чушь...
+
+TAG: Merlin_008_f
+Не волнуйся, {PlayerName}.
+
+TAG: Merlin_015_f
+Вам понадобятся <ActivityItem> Blueberica</ActivityItem> и <ActivityItem>Dream Shards</ActivityItem> для <ActivityItem>Potion of Frowth</ActivityItem>. <ActivityItem>Orange Marsh Milkweed</ActivityItem> и <ActivityItem>Night Shards</ActivityItem> для </ActivityItem>0Potion Dust</ActivityItem>1 и </ActivityItem>2Empty Vial</ActivityItem>3 для каждого зелья.
+
+TAG: Merlin_016_f
+Как только ты их подготовишь, просто положи их в нужное место в Хербалистской комнате, и машина сделает остальное для тебя.
+
+TAG: Merlin_009_f
+Комната, в которой вы наткнулись, это удивительная часть нашей истории.
+
+TAG: Merlin_007_f
+Вы спрятали комнату, чтобы сохранить эксперименты от любопытных глаз тех, кто может хотеть использовать их в злобных целях.
+
+TAG: Merlin_000_f
+Вы хотели создать прибежище для тварей, и выбрали Симба, чтобы присматривать за ним.
+
+TAG: Merlin_002_f
+Используя рубку дерева над колодцем в Плазе, и после многих проб и ошибок, вы смогли создать новое растение под названием <ActivityItem>Dreamlight Tree</ActivityItem>.
+
+TAG: Merlin_005_f
+Это все хорошо и хорошо, но как это поможет нам справиться с нашей проблемой прямо сейчас?
+
+TAG: Merlin_006_f
+Нетерпение молодости, я как раз собирался объяснить эту часть...
+
+TAG: Merlin_013_f
+Прямо сейчас, <ActivityItem>Dreamlight Tree Seed</ActivityItem> это..."Спящий."Вам нужно разбудить его, чтобы его можно было посадить заново.
+
+TAG: Merlin_014_f
+Насколько я помню, вы впервые дали ему жизнь с двумя зельями: <ActivityItem>Potion of Evelopment</ActivityItem> и <ActivityItem>Potion of Dust</ActivityItem>.
+
+TAG: Merlin_010_f
+Ну, если это чушь, то это твоя чушь!
+

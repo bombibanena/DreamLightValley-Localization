@@ -1,0 +1,15 @@
+TAG: Remy_001_f
+Вы уже смогли помочь Дональд Дак?
+
+TAG: Remy_002_f
+Он ищет <ActivityItem>5-Star Feals</ActivityItem>.
+
+TAG: Remy_003_f
+Похоже, ты их уже приготовил, а теперь просто приведи их к нему.
+
+TAG: Remy_004_f
+Он ищет <ActivityItem>Desserts</ActivityItem>.
+
+TAG: Remy_005_f
+Он ищет <ActivityItem> Seafood Feals</ActivityItem>.
+

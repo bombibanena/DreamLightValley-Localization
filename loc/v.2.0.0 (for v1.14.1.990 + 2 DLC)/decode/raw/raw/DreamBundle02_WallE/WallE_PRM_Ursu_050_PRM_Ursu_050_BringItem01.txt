@@ -1,0 +1,33 @@
+TAG: WallE_001_f
+Directive?
+
+TAG: Player_000_f
+WALLÂ·E, would you crush these <ActivityItem>Coconuts</ActivityItem>...?
+
+TAG: Player_000_choice_000_f
+If you don't mind.
+
+TAG: Player_000_choice_001_f
+Think you're up to it?
+
+TAG: Player_000_choice_002_f
+Or Moana will end up in Ursula's garden...
+
+TAG: WallE_003_f
+Uh. Ah. Okay.
+
+TAG: WallE_006_f
+...
+
+TAG: WallE_007_f
+Ta-da!
+
+TAG: WallE_000_f
+Thanks, WALLÂ·E!
+
+TAG: WallE_004_f
+Directive!
+
+TAG: WallE_005_f
+Ahh!
+

@@ -1,0 +1,63 @@
+TAG: Goofy_000_f
+Howdy, {PlayerName}! What brings you by?
+
+TAG: Goofy_005_f
+I have this list of <ActivityItem>Books</ActivityItem> Villagers forgot to return to the Dreamlight Library and your name is on it...
+
+TAG: Goofy_006_f
+Gawrsh, I knew something slipped my mind!
+
+TAG: Goofy_007_f
+Look, I got the book right here.
+
+TAG: Goofy_008_f
+Please tell Merlin I'm real sorry.
+
+TAG: Player_001_f
+Hmm... the book is called <ActivityItem>"Bear in Mind"</ActivityItem>...
+
+TAG: Player_001_choice_000_f
+Was it helpful?
+
+TAG: Player_001_choice_001_f
+What kind of <ActivityItem>Book</ActivityItem> is this?
+
+TAG: Player_001_choice_002_f
+Having a bear in your mind... sounds like it would cause a headache.
+
+TAG: Goofy_009_f
+I thought so... but now I'm not so sure.
+
+TAG: Goofy_010_f
+It's all about helpin' ya not forget anything.
+
+TAG: Goofy_012_f
+And I was rememberin' lots of stuff, so I thought it worked...
+
+TAG: Goofy_013_f
+But then I forgot to return the book, so I guess it didn't!
+
+TAG: Player_003_choice_000_f
+Aw, don't worry about it. Keep up the good non-remembering work, Goofy.
+
+TAG: Player_003_choice_001_f
+Well, I'm sure you learned some very helpful things.
+
+TAG: Player_003_choice_002_f
+Sounds like your memory's more like a goldfish than a bear.
+
+TAG: Goofy_016_f
+Thanks, {PlayerName}! And thanks for helpin' Merlin care for the Dreamlight Library.
+
+TAG: Goofy_017_f
+Gawrsh, I think so. Just hope I remember 'em.
+
+TAG: Goofy_018_f
+You're right! A-hyuck! Say, maybe that's why I like fishin' so much. I got the same kinda memory as a fish.
+
+TAG: Goofy_011_f
+A-hyuck! I guess it would!
+
+TAG: Goofy_001_f
+Seriously though. What's the book really about?
+

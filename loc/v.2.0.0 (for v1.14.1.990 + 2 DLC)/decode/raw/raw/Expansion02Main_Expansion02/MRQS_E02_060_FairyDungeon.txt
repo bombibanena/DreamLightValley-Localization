@@ -1,0 +1,72 @@
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Any_CompletedRequestDescription
+Talk to Maleficent.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_AvailableDescription
+At last, after trying so long to reach Maleficent's castle, {PlayerName} cleared away the last of the ink.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_CompletedStoryDescription
+Though Maleficent doubted that {PlayerName} could capture her "pet," {PlayerName} proved her wrong. Now, all that remained was convincing Maleficent to settle her feud with Hades.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_DisplayName
+The Mistress of All Evil
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_DisplayName_000
+Mystery
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group01_Step01_VisitArea01_StepDescription
+Explore the Beanstalk Marshes around Maleficent's castle.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_Conditional01_StepDescription
+The Wolf of the Wilds.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_Conditional02_StepDescription
+Teapot Falls.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_Conditional03_StepDescription
+Knights of the Round Table.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group02_Step02_StepDescription
+Explore Everafter and complete the three Fairy Tale Trials to reach Maleficent's castle.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group03_Step03_VisitArea02_StepDescription
+Enter Maleficent's castle.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group04_Step04_TalkToCharacter01_StepDescription
+Talk to Maleficent inside her castle.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group05_Step05_FillKeyhole01_StepDescription
+Find Maleficent's missing <ActivityItem>Spinning Wheel</ActivityItem> and <ActivityItem>Throne</ActivityItem> in her castle, then place them back in the main room.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group05_StoryDescription
+Inside the castle, {PlayerName} came face to face with the Mistress of All Evil herself. Maleficent asked {PlayerName} for a little favor: Set the castle right and capture her escaped "pet."
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle01_StepDescription
+Maleficent's Throne.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle02_StepDescription
+Maleficent's Candelabra.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle03_StepDescription
+Maleficent's Fire.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_SceneryPuzzle04_StepDescription
+Maleficent's Spinning Wheel.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_StepDescription
+(Press {input_inventory}, then navigate to the Furniture section to pick up and move the furniture to the correct place.)
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_Step06_StepDescriptionMobile
+(Open your Inventory, then navigate to the Furniture section to pick up and move the furniture to the correct place.)
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group06_StepDescription
+Place all of Maleficent's furniture back where it belongs.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group07_Step07_VisitArea03_StepDescription
+Pass through the portal to Maleficent's throne room.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group08_StepDescription
+Catch <ActivityItem>Maleficent's Pets</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_060_FairyDungeon_Group09_StepDescription
+Catch <ActivityItem>Maleficent's Pets</ActivityItem>.
+

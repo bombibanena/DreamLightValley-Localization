@@ -1,0 +1,45 @@
+TAG: EVE_001_f
+EVE?
+
+TAG: Player_000_f
+Here's your new <ActivityItem>Scanner Accessory</ActivityItem>...
+
+TAG: Player_000_choice_000_f
+I'm sure it will work.
+
+TAG: Player_000_choice_001_f
+I'm cautiously optimistic about it.
+
+TAG: Player_000_choice_002_f
+Really not sure it will work.
+
+TAG: EVE_002_f
+Whoo-hoo.
+
+TAG: EVE_009_f
+Directive.
+
+TAG: EVE_010_f
+Okay, let me take a closer look at it... just to make sure what we're dealing with.
+
+TAG: EVE_000_f
+Time to test your new <ActivityItem>Scanner Accessory</ActivityItem> on this plant.
+
+TAG: EVE_006_f
+...
+
+TAG: EVE_007_f
+It says it's a <ActivityItem>Dreamlight Cobra Lily</ActivityItem>...
+
+TAG: EVE_003_f
+Plant!
+
+TAG: EVE_008_f
+You really sound like you want to help this plant...
+
+TAG: EVE_004_f
+Whoo!
+
+TAG: EVE_005_f
+Oh...
+

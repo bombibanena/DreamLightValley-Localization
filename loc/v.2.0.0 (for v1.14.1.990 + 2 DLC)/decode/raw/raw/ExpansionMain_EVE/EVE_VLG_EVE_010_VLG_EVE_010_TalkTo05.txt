@@ -1,0 +1,27 @@
+TAG: EVE_000_f
+*frantic digital beeps*
+
+TAG: EVE_005_f
+Whoa!
+
+TAG: EVE_001_f
+Yes, this is the Overlook! There used to be a weird Time Rift here... but I removed it so we can keep exploring.
+
+TAG: EVE_002_f
+WALLÂ·E!
+
+TAG: EVE_008_f
+I guess we're going this way, then!
+
+TAG: EVE_003_f
+Directive!
+
+TAG: EVE_004_f
+Hm, there's a Time Rift blocking our way. You want to see something on the other side of it?
+
+TAG: EVE_006_f
+WALLÂ·E.
+
+TAG: EVE_007_f
+You can count on me. I'll need to gather enough <ActivityItem>Mist</ActivityItem> so we can keep exploring.
+

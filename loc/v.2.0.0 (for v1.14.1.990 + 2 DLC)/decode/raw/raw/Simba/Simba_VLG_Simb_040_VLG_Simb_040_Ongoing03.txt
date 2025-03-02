@@ -1,0 +1,6 @@
+TAG: Simba_000_f
+Mother Gothel said you need to gather the Ingredients for <ActivityItem>Dreamlight Tree Fertilizer</ActivityItem>...
+
+TAG: Simba_001_f
+I remember it was some sort of <ActivityItem>Empty Vial</ActivityItem>, plus <ActivityItem>Vitalys Crystals</ActivityItem>, <ActivityItem>Purified Night Shards</ActivityItem>, and <ActivityItem>Sunlit Plateau Water</ActivityItem>.
+

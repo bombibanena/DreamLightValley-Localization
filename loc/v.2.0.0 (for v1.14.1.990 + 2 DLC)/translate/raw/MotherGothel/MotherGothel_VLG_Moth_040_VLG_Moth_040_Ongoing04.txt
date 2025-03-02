@@ -1,0 +1,3 @@
+TAG: MotherGothel_000_f
+Соедините как <ActivityItem>Fragments</ActivityItem>, так и <ActivityItem>Sun Meteorites</ActivityItem> на одной из ваших станций крафтинга.
+

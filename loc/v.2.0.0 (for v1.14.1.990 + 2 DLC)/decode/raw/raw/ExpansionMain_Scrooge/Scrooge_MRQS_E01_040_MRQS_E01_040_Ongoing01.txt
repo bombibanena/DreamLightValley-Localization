@@ -1,0 +1,6 @@
+TAG: Scrooge_000_f
+What can I do for you, {PlayerName}?
+
+TAG: Scrooge_001_f
+I have this <ActivityItem>Condemned Building Sign</ActivityItem> to give you.
+

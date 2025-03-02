@@ -1,0 +1,33 @@
+TAG: Maui_000_f
+You found the other half! Nice job, kid!
+
+TAG: Maui_001_f
+Of course the <ActivityItem>Heart of Dreamlight Valley</ActivityItem> is still broken. Got any ideas?
+
+TAG: Player_000_f
+We should...
+
+TAG: Player_000_choice_000_f
+Ask Merlin.
+
+TAG: Player_000_choice_001_f
+Repair it.
+
+TAG: Player_000_choice_002_f
+Put the pieces back on the statue.
+
+TAG: Maui_002_f
+That works. You should definitely do that.
+
+TAG: Maui_005_f
+I'm an awesome demigod... true. But I think this is a Merlin thing.
+
+TAG: Maui_004_f
+Yeah, simple repairs won't work on the <ActivityItem>Heart of Dreamlight Valley</ActivityItem>.
+
+TAG: Maui_006_f
+I'm an awesome demigod... true. But I think this is a Merlin thing.
+
+TAG: Maui_003_f
+Sorry, the Heart of Dreamlight Valley's still broken. Which means it's basically useless.
+

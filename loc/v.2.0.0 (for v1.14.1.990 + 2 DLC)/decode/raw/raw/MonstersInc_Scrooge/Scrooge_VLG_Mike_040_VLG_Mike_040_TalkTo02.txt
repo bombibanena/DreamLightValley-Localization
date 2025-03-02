@@ -1,0 +1,57 @@
+TAG: Scrooge_000_f
+So... I hear that you're Vanellope's manager now?
+
+TAG: Scrooge_003_f
+Aye. The lass needed representation, and who am I to turn down a nice percentage?
+
+TAG: Scrooge_005_f
+Is this the same kind of percentage that Gaston is giving you?
+
+TAG: Scrooge_007_f
+I... er... certainly hope not!
+
+TAG: Scrooge_009_f
+Now, acting as Vanellope's manager, I must inform you that the star has a contract rider that must be followed.
+
+TAG: Scrooge_001_f
+Should her required items not be provided, she'll not perform.
+
+TAG: Scrooge_011_f
+How demanding!
+
+TAG: Scrooge_012_f
+Between you and me, {PlayerName}, I quite agree.
+
+TAG: Scrooge_013_f
+But the talent makes the rules!
+
+TAG: Player_001_f
+So what does she want?
+
+TAG: Player_001_choice_000_f
+A scale model of Dreamlight Valley in candy?
+
+TAG: Player_001_choice_001_f
+An arcade machine with every game in existence?
+
+TAG: Player_001_choice_002_f
+For everyone in the Valley to dress like Ralph?
+
+TAG: Scrooge_016_f
+Och, no. Nothin' too extravagant.
+
+TAG: Scrooge_017_f
+She's grown rather fond of <ActivityItem>Cheesecake</ActivityItem>. So, be sure she has some on hand.
+
+TAG: Scrooge_018_f
+Okay, I guess I can swing that.
+
+TAG: Scrooge_019_f
+Talk to you later!
+
+TAG: Scrooge_006_f
+Well, hope you make your money's worth.
+
+TAG: Scrooge_008_f
+As do I!
+

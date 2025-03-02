@@ -1,0 +1,60 @@
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Any_CompletedRequestDescription
+Мауи в деревне, посмотрим, что он думает о долине Мечты.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_AvailableDescription
+Мауи кажется расстроенным Моана оставил его. Вы решили поговорить с ним.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_CompletedStoryDescription
+Убедившись, что жилые помещения Мауи идеальны, пришло время поприветствовать его.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_DisplayName
+Праздник, достойный полубога
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_Step01_ReadyDescription
+Принеси Мауи всю еду.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_Step01_StepDescription
+Приготовьте Мауи еды с рейтингом по крайней мере 3 звезды.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_StoryDescription
+Всегда готов бросить кому-то вызов, Мауи просит тебя доказать, что еда из деревни так же хороша, как ты говоришь.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group02_Step02_StepDescription
+Положите мирный Гротто в воду.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Ваш дом почти готов.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_Step03_Unlock01_StepDescription
+Используйте знак Скрудж Макдак, чтобы оплатить строительство Мирного Гротто, в котором будет жить Мауи.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_StepDescription
+Убедись, что у Мауи есть все, что ему нужно.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_StoryDescription
+Чтобы построить место для жизни, пригодное для демона, вам придется заплатить МакДак Констракшн.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Ready посетить Долину?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group04_Step04_UnlockCharacter01_StepDescription
+Всё готово для Мауи, добро пожаловать в Виллидж.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group05_StepDescription
+Разблокируйте Beach Beach Biome в деревне.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group05_StoryDescription
+Попробовав еду, Мауи согласился помочь вам, но если вы хотите, чтобы он приехал в долину Мечты, ему нужно будет где-то остановиться, пока он там.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group06_Step06_TalkToCharacter01_StepDescription
+Поговори с Мауи.
+

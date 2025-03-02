@@ -1,0 +1,27 @@
+TAG: WallE_000_f
+Ох!
+
+TAG: WallE_001_f
+...
+
+TAG: WallE_002_f
+Та-да!
+
+TAG: Player_000_f
+Компас как новый...
+
+TAG: Player_000_choice_000_f
+Большое спасибо, ВАЛЛ·И!
+
+TAG: Player_000_choice_001_f
+Принц Эрик скоро вернется в море!
+
+TAG: Player_000_choice_002_f
+Надеюсь, это конец всему этому.
+
+TAG: WallE_003_f
+*Свистки*
+
+TAG: WallE_005_f
+*Свистки*
+

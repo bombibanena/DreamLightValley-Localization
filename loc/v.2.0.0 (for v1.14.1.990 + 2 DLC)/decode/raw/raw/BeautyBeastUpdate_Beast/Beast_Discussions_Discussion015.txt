@@ -1,0 +1,60 @@
+TAG: Beast_000_f
+I... Well, I don't have much to do. It can be... tiresome.
+
+TAG: Beast_001_f
+I mustn't take up all of Belle's time, so without Lumiere and Cogsworth...
+
+TAG: Beast_002_f
+I just... wander.
+
+TAG: Player_000_choice_000_f
+Have you tried gardening?
+
+TAG: Player_000_choice_001_f
+Meet some people!
+
+TAG: Player_000_choice_002_f
+You could always brood dramatically.
+
+TAG: Beast_003_f
+No. But I do enjoy spending time in the greenhouse at home. What could I grow?
+
+TAG: Player_001_choice_001_f
+Tasty vegetables!
+
+TAG: Player_001_choice_002_f
+Whatever inspires you!
+
+TAG: Beast_005_f
+No pressure â I want you to enjoy the Village at your own pace.
+
+TAG: Beast_006_f
+Thank you, {PlayerName}. I appreciate your consideration.
+
+TAG: Beast_007_f
+That would be nice.
+
+TAG: Beast_008_f
+That isn't easy for me. But I suppose I could try.
+
+TAG: Beast_009_f
+You're so good at it!
+
+TAG: Beast_010_f
+I... I suppose I deserve that.
+
+TAG: Player_002_choice_000_f
+But, hey, it's all right. I get moody too.
+
+TAG: Player_002_choice_001_f
+Yeah, you've gotta turn that frown upside down.
+
+TAG: Player_002_choice_002_f
+Well, everybody has bad days. Even yours truly.
+
+TAG: Beast_011_f
+You do? It's kind of you to share that with me.
+
+TAG: Beast_012_f
+That sounds like something Mrs. Potts would say. She has a... sunny personality.
+

@@ -1,0 +1,33 @@
+TAG: Merida_000_f
+If we get rid of the ink here, we can reach <Lore>the Fiery Plains</Lore>!
+
+TAG: Merida_001_f
+I can't even imagine what incredible sights we'll see beyond the barrier!
+
+TAG: Player_000_choice_000_f
+Let's explore the Fiery Plains. (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
+
+TAG: Player_000_choice_001_f
+I'll deal with this later.
+
+TAG: Merida_002_f
+Dee-dee-dee! The ink is melting away! We can go explore the Fiery Plains now.
+
+TAG: Merida_003_f
+Oh, I guess you need more <Lore>Story Magic</Lore> to get rid of this ink.
+
+TAG: Merida_004_f
+You know you're the only one who can take down these ink barriers.
+
+TAG: Merida_005_f
+So, let's come back here as soon as we can, all right?
+
+TAG: Merida_006_f
+Oh. I see.
+
+TAG: Merida_007_f
+Oh, but before we do, we really should <Lore>clean up the Bind</Lore>.
+
+TAG: Merida_008_f
+I'm not sure we're ready to take on Hades just yet.
+

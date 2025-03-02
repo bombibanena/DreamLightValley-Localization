@@ -1,0 +1,57 @@
+TAG: Jafar_001_f
+{PlayerName}, I am unsure of how to respond to all this pageantry.
+
+TAG: Jafar_002_f
+You don't have to respond any particular way at all!
+
+TAG: Jafar_003_f
+We recognized that you were making an effort to be nice to the other Villagers, so we wanted to give something to you too.
+
+TAG: Jafar_004_f
+You're a citizen like everyone else now. You can just be yourself and relax!
+
+TAG: Jafar_005_f
+I am... unused to such treatment. Had the Sultan recognized me like this, perhaps I would have reconsidered my actions.
+
+TAG: Jafar_006_f
+Well, this is the vibe I'm trying to cultivate here. And I have to admit...
+
+TAG: Jafar_008_f
+...I wanted to think the best of you, and you proved me right.
+
+TAG: Jafar_017_f
+Hmm, yeah, well if they do...
+
+TAG: Jafar_018_f
+...I'll still be here, ready to stop your plots before they even get going.
+
+TAG: Jafar_019_f
+I would not expect anything less of you, {PlayerName}.
+
+TAG: Jafar_009_f
+I'm glad that we were able to get you to make amends with everyone and settle in properly.
+
+TAG: Jafar_011_f
+Well, when the choice was between biting my tongue for a time or going back into the lamp...
+
+TAG: Jafar_012_f
+...the choice was clear.
+
+TAG: Jafar_013_f
+"Biting your tongue"? Jafar, are you saying that you still have plots brewing?
+
+TAG: Jafar_014_f
+I said nothing of the sort.
+
+TAG: Jafar_015_f
+Well, I guess that's as good as I can get with you, isn't it?
+
+TAG: Jafar_020_f
+{PlayerName}, you truly are my most competent adversary, and for that, you have my respect.
+
+TAG: Jafar_016_f
+I cannot be but myself. One can only hope that does not put us at odds again.
+
+TAG: Jafar_010_f
+...I thought you were up to something, but I've never been happier to be proven wrong.
+

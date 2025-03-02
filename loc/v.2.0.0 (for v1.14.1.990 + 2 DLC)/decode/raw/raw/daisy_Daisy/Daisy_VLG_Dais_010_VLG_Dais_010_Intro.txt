@@ -1,0 +1,45 @@
+TAG: Daisy_004_f
+{PlayerName}, could I get your help with something? It's for Donald.
+
+TAG: Player_000_choice_001_f
+Sure! I bet he's happy you're back.
+
+TAG: Player_000_choice_002_f
+I'm busy â let's talk later.
+
+TAG: Daisy_000_f
+He sure is. And he's being such a doll. He even offered to help me get my House back in order.
+
+TAG: Daisy_023_f
+I want everything to be perfect for our housewarming date. I've got his favorite snacks, our favorite music...
+
+TAG: Daisy_001_f
+I even ordered some <ActivityItem>Mochas</ActivityItem> from Chez Remy, but Donald's coming over NOW, and I still need to freshen up.
+
+TAG: Daisy_002_f
+I hate to ask, but could you <Lore>pick up the Mochas</Lore> and bring them to my House?
+
+TAG: Player_001_choice_000_f
+Sure! That's what friends are for!
+
+TAG: Player_001_choice_001_f
+Okay, but... you already look amazing.
+
+TAG: Player_001_choice_002_f
+Will you tip me for delivery?
+
+TAG: Daisy_005_f
+Thanks, {PlayerName}! You're the best!
+
+TAG: Daisy_024_f
+Once you get the Mochas, please just <Lore>bring them to my House</Lore>.
+
+TAG: Daisy_008_f
+Oh, you're too sweet!
+
+TAG: Daisy_006_f
+Hmm... I can give you a tip now... Drink a big glass of water right when you get up, and your day will be off to a fabulous start! Now...
+
+TAG: Daisy_007_f
+Oh, of course! We'll talk soon.
+

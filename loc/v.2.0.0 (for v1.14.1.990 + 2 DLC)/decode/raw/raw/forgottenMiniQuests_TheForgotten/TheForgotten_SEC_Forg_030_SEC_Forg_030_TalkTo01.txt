@@ -1,0 +1,147 @@
+TAG: TheForgotten_000_f
+Moon... June... pontoon...
+
+TAG: TheForgotten_001_f
+UGH. These rhymes are terrible. What's the use?
+
+TAG: Player_000_choice_000_f
+Everything okay?
+
+TAG: Player_000_choice_001_f
+Need some help?
+
+TAG: Player_000_choice_002_f
+Don't let me interrupt your creative process.
+
+TAG: TheForgotten_002_f
+Oh! {PlayerName}! Actually... I could use your help!
+
+TAG: TheForgotten_005_f
+You see, I've been trying to find some healthier ways to express my emotions. So I've been writing a lot of poetry.
+
+TAG: TheForgotten_006_f
+But I'm really stuck on this one poem... about what happened to me. About the Forgetting.
+
+TAG: TheForgotten_007_f
+Are you good at this sort of thing? You know, poems and expressing your feelings through words and all that junk.
+
+TAG: Player_001_choice_000_f
+I'm pretty good at it.
+
+TAG: Player_001_choice_001_f
+I'm trying to get better.
+
+TAG: Player_001_choice_002_f
+I don't write poems. I commit rhyme crimes.
+
+TAG: TheForgotten_008_f
+Perfect!!! I knew you would be.
+
+TAG: TheForgotten_011_f
+There are three verses I don't know how to finish...
+
+TAG: TheForgotten_018_f
+There's one about <Lore>being jealous and wishing I were still ruler</Lore>, one about <Lore>being afraid to get older</Lore>, and one about <Lore>being unfairly exiled</Lore>.
+
+TAG: Player_002_choice_000_f
+Read me the one about the jealous ruler.
+
+TAG: Player_002_choice_001_f
+Read me the one about the jealous ruler again.
+
+TAG: Player_002_choice_002_f
+Read me the one about being afraid of getting older.
+
+TAG: Player_002_choice_003_f
+Read me the one about being afraid of getting older again.
+
+TAG: Player_002_choice_004_f
+Read me the one about being unfairly exiled.
+
+TAG: Player_002_choice_005_f
+Read me the one about being unfairly exiled again.
+
+TAG: Player_002_choice_006_f
+Maybe we could ask for help from the other Villagers?
+
+TAG: TheForgotten_012_f
+<Lore>I once was the ruler of all I surveyed...</Lore>
+
+TAG: TheForgotten_013_f
+<Lore>But now I'm cast out and I feel so afraid.</Lore>
+
+TAG: TheForgotten_015_f
+<Lore>Nothing I do seems to make the world right...</Lore>
+
+TAG: TheForgotten_016_f
+Something something... that rhymes with "right."
+
+TAG: TheForgotten_017_f
+Hm. That's a tough one.
+
+TAG: TheForgotten_019_f
+<Lore>As I watch the clock tick and the sun rise and set...</Lore>
+
+TAG: TheForgotten_020_f
+<Lore>I fear what I love, I am doomed to forget.</Lore>
+
+TAG: TheForgotten_021_f
+<Lore>But I've never been one to do what I'm told...</Lore>
+
+TAG: TheForgotten_022_f
+Then I need a line that rhymes with "told."
+
+TAG: TheForgotten_023_f
+So many things rhyme with "told"... "fold," "bold," "cold"...
+
+TAG: TheForgotten_024_f
+<Lore>It seems there's no place I will ever belong...</Lore>
+
+TAG: TheForgotten_025_f
+<Lore>And all of my words seem to come out all wrong.</Lore>
+
+TAG: TheForgotten_026_f
+<Lore>But I'll wait for an answer, I'll wait for a sign...</Lore>
+
+TAG: TheForgotten_027_f
+Yada, yada, yada... something that rhymes with "sign."
+
+TAG: TheForgotten_028_f
+Let me think about that one...
+
+TAG: TheForgotten_029_f
+You... want to ask the other Villagers? But... would any of them really get how I feel?
+
+TAG: TheForgotten_030_f
+We've got a lot of Villagers here! I just know some of them will understand exactly how you feel.
+
+TAG: TheForgotten_031_f
+And... you don't think they'll laugh at my poetry?
+
+TAG: Player_003_choice_000_f
+Of course not! Everyone will love it.
+
+TAG: Player_003_choice_002_f
+You can't let those fears stop you from sharing your creativity.
+
+TAG: TheForgotten_032_f
+You know what? You're right! I'm just a little nervous about talking to them myself...
+
+TAG: TheForgotten_033_f
+But here, I'll give you my scrap of paper with what I've written so far.
+
+TAG: TheForgotten_034_f
+I guess now I'll just need to find a <Lore>jealous wannabe ruler, someone afraid of getting older, and somebody who was unfairly exiled</Lore>...
+
+TAG: TheForgotten_009_f
+Great! Maybe we can get better together?
+
+TAG: TheForgotten_010_f
+Ha! Me too. But maybe if we work together, we can come up with something.
+
+TAG: TheForgotten_003_f
+Oh! {PlayerName}! Actually... yes! I could use your help.
+
+TAG: TheForgotten_004_f
+Oh! {PlayerName}! No! Please! Interrupt away! I'm stuck and I could use some help.
+

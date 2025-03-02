@@ -1,0 +1,42 @@
+TAG: Kristoff_000_f
+Hey, {PlayerName}. You know Goofy, right?
+
+TAG: Player_000_choice_000_f
+Yeah! We're friends.
+
+TAG: Player_000_choice_001_f
+I know him.
+
+TAG: Player_000_choice_002_f
+Who?
+
+TAG: Kristoff_001_f
+He seems like a nice guy. I'd like to get to know him better. It'd be great to make some more friends around the Village.
+
+TAG: Kristoff_003_f
+Does he have any hobbies I could talk to him about?
+
+TAG: Player_001_f
+Hmmm. Goofy likes...
+
+TAG: Player_001_choice_000_f
+...fishing.
+
+TAG: Player_001_choice_001_f
+...talking to people.
+
+TAG: Kristoff_005_f
+Fishing, huh? I can work with that.
+
+TAG: Kristoff_007_f
+Thanks, {PlayerName}.
+
+TAG: Kristoff_006_f
+Oh... I'm not generally a big talker, but I am a good listener. Maybe that'll work.
+
+TAG: Kristoff_002_f
+You know, Goofy. He runs the market Stall in the Meadow?
+
+TAG: Kristoff_004_f
+Of course I know Goofy. I'm just joking around. Why do you ask?
+

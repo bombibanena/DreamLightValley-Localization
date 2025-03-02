@@ -1,0 +1,63 @@
+TAG: Goofy_000_f
+It's real inspiring to run a Stall in the same town as Donald's Uncle Scrooge. He's a savvy customer, and an even savvier businessman!
+
+TAG: Player_000_choice_003_f
+Yeah, he's awesome!
+
+TAG: Player_000_choice_004_f
+I don't like how miserly he is.
+
+TAG: Player_000_choice_005_f
+I don't know him very well.
+
+TAG: Goofy_001_f
+Yep, I hope someday I'm as good at business as he is. He's taught me a lot about how to run a Stall.
+
+TAG: Goofy_004_f
+He's even got a motto. Let me see if I can remember it. He says you gotta be smarter than the...
+
+TAG: Player_000_choice_006_f
+...dummies.
+
+TAG: Player_000_choice_007_f
+...smarties.
+
+TAG: Player_000_choice_008_f
+...robots.
+
+TAG: Goofy_005_f
+Nah. I don't think that's it.
+
+TAG: Goofy_006_f
+And you gotta be tougher than the...
+
+TAG: Player_000_choice_009_f
+...toughies.
+
+TAG: Player_000_choice_010_f
+...hedgehogs.
+
+TAG: Player_000_choice_011_f
+...softies.
+
+TAG: Goofy_007_f
+And you gotta make your money...
+
+TAG: Player_000_choice_012_f
+...triangle.
+
+TAG: Player_000_choice_013_f
+...circular.
+
+TAG: Player_000_choice_014_f
+...square.
+
+TAG: Goofy_008_f
+That's it! That's what Uncle Scrooge always says. Nice remembering, pal!
+
+TAG: Goofy_002_f
+Gawrsh, I think he's just real proud of all the hard work he's done. And he's taught me a lot about how to run a Stall.
+
+TAG: Goofy_003_f
+Then you can take my word for it! Scrooge has taught me a lot about how to run a Stall.
+

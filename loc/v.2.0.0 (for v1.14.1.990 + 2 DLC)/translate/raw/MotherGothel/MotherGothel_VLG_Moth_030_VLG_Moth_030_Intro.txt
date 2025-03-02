@@ -1,0 +1,66 @@
+TAG: MotherGothel_014_f
+Ты как раз вовремя, чтобы услышать мои новости о <ActivityItem>Sunstone</ActivityItem>, которым ты был."помощь"Я ненадолго слежу за тобой.
+
+TAG: Player_000_choice_002_f
+Скажи мне ЕВАRYING!
+
+TAG: Player_000_choice_004_f
+Я не хочу разбираться с этим сейчас.
+
+TAG: MotherGothel_002_f
+После некоторых блестящих вычетов с моей стороны, эта фотография, которую вы мне вернули из мистической пещеры, показала мне, что случилось с <ActivityItem>Sunstone</ActivityItem>.
+
+TAG: MotherGothel_001_f
+Проще говоря, она сломалась. Мне нужно, чтобы вы нашли <ActivityItem>Fragments</ActivityItem> и привели их ко мне.
+
+TAG: MotherGothel_000_f
+Только кто-то с магией Мечты на кончиках пальцев может собрать кусочки <ActivityItem>Sunstone</ActivityItem>.
+
+TAG: MotherGothel_003_f
+И ты так хорош в том, чтобы приносить вещи, это твой единственный талант, знаешь ли.
+
+TAG: MotherGothel_004_f
+О, я просто дразню!
+
+TAG: Player_000_choice_008_f
+Мне нравятся твои шутки!
+
+TAG: Player_000_choice_009_f
+Почему ты такой злой?
+
+TAG: Player_000_choice_010_f
+Как насчет извинений или я ничего не делаю...?
+
+TAG: MotherGothel_005_f
+Наконец-то, кто-то, кто ценит меня, моя дочь может быть такой неблагодарной.
+
+TAG: MotherGothel_011_f
+Теперь о <ActivityItem>Fragments</ActivityItem>...
+
+TAG: MotherGothel_012_f
+Каждый из них появится в определенное время и место <ActivityItem>Dawn Fragment</ActivityItem> утром на плато Санлит...
+
+TAG: MotherGothel_013_f
+... <ActivityItem>Noon Fragment</ActivityItem> в полдень в Глейде, и <ActivityItem>Dusk Fragment</ActivityItem> ночью в лесу.
+
+TAG: MotherGothel_015_f
+Они будут светиться, как миниатюрные солнца на земле, так что вы должны легко их найти.
+
+TAG: MotherGothel_006_f
+Не будь таким ребенком, {PlayerName}, я просто хочу убедиться, что ты не воспринимаешь себя слишком серьезно.
+
+TAG: MotherGothel_009_f
+В конце концов, твое лицо достаточно простое, так как оно...
+
+TAG: MotherGothel_007_f
+Боже, кто-то сегодня ведёт себя непристойно.
+
+TAG: MotherGothel_010_f
+Тогда ладно, прости...
+
+TAG: MotherGothel_016_f
+И поверь мне, твоё лицо достаточно ясное, как оно есть...
+
+TAG: MotherGothel_008_f
+{PlayerName}... ненавижу, когда ты бормочешь, приходи ко мне как можно скорее.
+

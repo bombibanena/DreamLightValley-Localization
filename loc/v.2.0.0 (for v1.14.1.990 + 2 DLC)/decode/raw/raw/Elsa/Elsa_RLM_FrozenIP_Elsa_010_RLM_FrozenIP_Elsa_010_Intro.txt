@@ -1,0 +1,54 @@
+TAG: Elsa_009_f
+Hello, {PlayerName}. My sister tells me you helped her get through the forest safely and calm the other Spirits of Nature.
+
+TAG: Player_004_choice_000_f
+Don't mention it. Helping people's what I do!
+
+TAG: Player_004_choice_001_f
+Don't thank me yet. This isn't over.
+
+TAG: Elsa_020_f
+That's very kind of you. Do you think you could help me with one last thing?
+
+TAG: Elsa_002_f
+I've been trying to calm Gale, the Wind Spirit.
+
+TAG: Elsa_011_f
+It's usually very playful, but when the Water Spirit got upset, Gale was scared. I know Gale trusts me, but it's so agitated I'm not sure it can hear me clearly.
+
+TAG: Player_003_f
+I have an idea. We should put Wind Chimes in the trees, so this Spirit of Nature can...
+
+TAG: Player_003_choice_000_f
+...create music.
+
+TAG: Player_003_choice_001_f
+...have fun.
+
+TAG: Player_003_choice_002_f
+...experiment with the sounds.
+
+TAG: Elsa_013_f
+I don't know if Gale understands what music is, but it's definitely worth a try.
+
+TAG: Elsa_010_f
+I'll keep trying to calm Gale while you make the chimes.
+
+TAG: Elsa_017_f
+I'll need <ActivityItem>Softwood</ActivityItem> for the structure and tubes, some <ActivityItem>Iron Ingots</ActivityItem> for the striker, and I'll need something to hold it together...
+
+TAG: Elsa_022_f
+Here. Take this <ActivityItem>Twine</ActivityItem> I found. Gale was tossing it around earlier. Maybe you can use that to assemble everything.
+
+TAG: Elsa_023_f
+Thanks. I'll be back with the <ActivityItem>Wind Chimes</ActivityItem> soon!
+
+TAG: Elsa_014_f
+Gale loves having fun. And playing pranks. You know, Wind Chimes just might do the trick.
+
+TAG: Elsa_015_f
+Gale does love new things. It came to see Olaf almost as soon as he entered the Enchanted Forest.
+
+TAG: Elsa_021_f
+You're right.
+

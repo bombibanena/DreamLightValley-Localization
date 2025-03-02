@@ -1,0 +1,45 @@
+TAG: Story!Expansion01!MRQS_E01_140_Ending_AvailableDescription
+Jafar has tasked you with finding the two Jewels of Time that are still missing from the Hourglass. You won't be able to reach the palace until you do. He suggests you start by exploring the Glittering Dunes and the Wild Tangle. Perhaps you'll find some new Villagers who can help you...
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_DisplayName
+Your Eternal Reward
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group01_Step01_Conditional01_StepDescription
+The Wild Tangle.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group01_Step01_Conditional02_StepDescription
+The Glittering Dunes.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group01_StepDescription
+Find the remaining two <ActivityItem>Jewels of Time</ActivityItem> by investigating:
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group02_StepDescription
+Talk to Jafar at a Hologram Station.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group02_StoryDescription
+With some help from Rapunzel and barely any help at all from Gaston, you managed to find both Jewels of Time. Your Hourglass is now closer than ever to its full power. It's time to return to Jafar...
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group03_Step03_StepDescription
+(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group03_StepDescription
+Unlock the <Lore>Borderlands</Lore> in the Glittering Dunes to reach the palace.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group04_Step07_Interaction01_StepDescription
+Interact with the <ActivityItem>Time Anomaly</ActivityItem> in front of the door to Jafar's Palace.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group05_Step05_TalkToCharacter02_StepDescription
+Talk to Jafar.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group05_StoryDescription
+You resolved the dangerous Time Anomaly around Jafar's Palace. Eternity Isle is safe... for now.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group06_Step06_TalkToCharacter03_StepDescription
+Talk to Merlin.
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group06_StepDescription
+Jafar has vanished. But you get the feeling he'll be back...
+
+TAG: Story!Expansion01!MRQS_E01_140_Ending_Group06_StoryDescription
+But when you confronted Jafar, you learned his true motivations. Jafar is after an ancient treasure known as the Spark of Imagination. With that, he would have the power to bend all of space and time to his whim. For now, Jafar has vanished... but when he returns, you'll have to be ready to stop his schemes.
+

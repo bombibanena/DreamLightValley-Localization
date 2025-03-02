@@ -1,0 +1,75 @@
+TAG: Vanellope_000_f
+Finally! Somebody's here!
+
+TAG: Vanellope_001_f
+Wait! Wait! I've been rehearsing for this moment...
+
+TAG: Vanellope_002_f
+Greetings! I am Vanellope von Schweetz, princess and president of Sugar Rush, and Slaughter Race driver extraordinaire!
+
+TAG: Vanellope_003_f
+Soooo... Who're you? And what's this freakishly sparkling place?
+
+TAG: Vanellope_004_f
+I'm {PlayerName}, and this is Dreamlight Valley.
+
+TAG: Player_000_choice_000_f
+How come you're here?
+
+TAG: Player_000_choice_001_f
+Are you okay?
+
+TAG: Player_000_choice_002_f
+So you're NOT a ghost?
+
+TAG: Vanellope_005_f
+Technically, I'm not here. I don't think I'm ANYWHERE, actually. Or I'm everywhere... That's the thing â I don't know!
+
+TAG: Vanellope_006_f
+Normally I have complete control over my glitch. But one day, POW! I glitched onto this freaky network I've never seen before.
+
+TAG: Vanellope_007_f
+Now I'm stuck. I have no control, and I don't know why!
+
+TAG: Player_001_choice_000_f
+Magic and technology don't always mix.
+
+TAG: Player_001_choice_001_f
+That sounds kind of scary...
+
+TAG: Vanellope_008_f
+Maybe the Dreamlight Magic here is messing with your glitch?
+
+TAG: Vanellope_009_f
+Ugh. Why am I not surprised that a place called "Dreamlight Alley" is lousy with magic?!
+
+TAG: Vanellope_010_f
+There's got to be some way I can help you...
+
+TAG: Vanellope_011_f
+Well, do you have one of those doohickeys where you talk into it and it takes pictures? 'Cause I have an idea.
+
+TAG: Vanellope_012_f
+Do you mean a phone...?
+
+TAG: Vanellope_013_f
+Yeah, that's it! I'm seeing a lot of photos being shared on the network I'm stuck in...
+
+TAG: Vanellope_014_f
+If you <Lore>try taking a picture and sharing it on the network,</Lore> maybe we can see what it's all about.
+
+TAG: Vanellope_015_f
+But hey, leave the Castle and take a picture of something awesome, will ya? Show me what I'm missing!
+
+TAG: Vanellope_016_f
+C'mon! You can't say no to this face. Look how adorable I am!
+
+TAG: Vanellope_017_f
+Aw, I'm not scared, I'm just... really frustrated! I like to have both hands on the wheel!
+
+TAG: Vanellope_018_f
+Do I look okay to you? I'm glitching all over the place!
+
+TAG: Vanellope_019_f
+Not unless I died of boredom from glitching everywhere.
+

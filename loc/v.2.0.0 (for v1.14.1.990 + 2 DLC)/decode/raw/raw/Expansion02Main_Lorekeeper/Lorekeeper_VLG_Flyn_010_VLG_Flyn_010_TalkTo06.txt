@@ -1,0 +1,42 @@
+TAG: Lorekeeper_000_f
+Hello {PlayerName}. What brings you here?
+
+TAG: Lorekeeper_001_f
+I'm actually trying to help Flynn out right now.
+
+TAG: Player_000_choice_000_f
+He's howling mad at his situation.
+
+TAG: Player_000_choice_001_f
+He needs the support of his pack right now.
+
+TAG: Player_000_choice_002_f
+He's fur-getting himself.
+
+TAG: Lorekeeper_002_f
+... It's a wolf pun.
+
+TAG: Lorekeeper_005_f
+I know.
+
+TAG: Lorekeeper_006_f
+So, is it the case that Flynn still thinks he's the Wolf of the Wilds?
+
+TAG: Lorekeeper_007_f
+Not exactly. He says he can't resist his urge to chase things, and the Frog Snippets have been particularly bothersome.
+
+TAG: Lorekeeper_008_f
+If Snippets are the problem, thankfully there is a simple solution.
+
+TAG: Lorekeeper_009_f
+The Snippets can be kept at bay by disrupting the Story Magic.
+
+TAG: Lorekeeper_010_f
+Great! What do I need to do?
+
+TAG: Lorekeeper_011_f
+A <ActivityItem>Basic Faerie Snippet Repellent</ActivityItem> will do the trick. Here is the recipe for it.
+
+TAG: Lorekeeper_012_f
+That sounds perfect! Thank you!
+

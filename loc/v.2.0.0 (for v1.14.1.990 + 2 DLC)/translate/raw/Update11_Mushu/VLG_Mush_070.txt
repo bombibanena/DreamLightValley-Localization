@@ -1,0 +1,24 @@
+TAG: Village!Mulan!Mushu!VLG_Mush_070_AvailableDescription
+Мушу хочет, чтобы ты взмахнул на праздник!
+
+TAG: Village!Mulan!Mushu!VLG_Mush_070_CompletedStoryDescription
+С разбитой пиатой и собранными конфетами, вечеринка продолжается.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_070_DisplayName
+Мушу Пьеата Экстраваганза
+
+TAG: Village!Mulan!Mushu!VLG_Mush_070_Group01_Step01_RemoveBlocker01_StepDescription
+Найдите и разоблачите Мушу piètas в шахтах Виталий с вашим пикаксом.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_070_Group01_Step04_PickUp01_StepDescription
+Собери конфеты у пирата!
+
+TAG: Village!Mulan!Mushu!VLG_Mush_070_Group01_StoryDescription
+Направляясь в шахты, вы видите серию пият... пришло время напасть на них.
+
+TAG: Village!Mulan!Mushu!VLG_Mush_070_Group02_Step02_Possess01_StepDescription
+Собери конфеты у пирата!
+
+TAG: Village!Mulan!Mushu!VLG_Mush_070_Group02_Step03_EatMeal01_StepDescription
+(Вариант) Съешь немного конфет из пирата.
+

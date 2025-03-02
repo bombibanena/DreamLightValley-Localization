@@ -1,0 +1,63 @@
+TAG: Nala_003_f
+This looks great.
+
+TAG: Nala_004_f
+But I think anything would look good to me right now. I'm so hungry I could eat a whole water buffalo.
+
+TAG: Nala_005_f
+May I?
+
+TAG: Player_000_choice_000_f
+Enjoy.
+
+TAG: Player_000_choice_001_f
+Bon appetit.
+
+TAG: Player_000_choice_002_f
+Sorry, it's not as big as a water buffalo.
+
+TAG: Nala_006_f
+Here goes...
+
+TAG: Nala_008_f
+Well, one thing's for sure.
+
+TAG: Nala_009_f
+That was much better than grubs.
+
+TAG: Nala_011_f
+Now that you've helped me with the hunting grounds, I'll do what I can to keep finding food and watch out for danger.
+
+TAG: Nala_012_f
+Thanks, {PlayerName}. You're a really good friend.
+
+TAG: Player_001_choice_000_f
+Aw, thanks. So are you.
+
+TAG: Player_001_choice_001_f
+I just do my best and hope it works out.
+
+TAG: Player_001_choice_002_f
+I know. I'd make a great lion. Roar!
+
+TAG: Nala_014_f
+That means a lot.
+
+TAG: Nala_017_f
+With both of us looking out for this Valley, I think everything's going to be just fine.
+
+TAG: Nala_015_f
+I do the same. And I don't always know what I'm doing either.
+
+TAG: Nala_018_f
+But I think as long as we work together, everything will be just fine.
+
+TAG: Nala_013_f
+Hm. Maybe. But you'll have to work on that roar.
+
+TAG: Nala_016_f
+And maybe grow out your whiskers.
+
+TAG: Nala_007_f
+That's all right. I'm sure it'll be delicious.
+

@@ -1,0 +1,42 @@
+TAG: Pumbaa_000_f
+Oh boy, {PlayerName}! First that great mud bath and now these things? I'm gonna have the FRESHEST breath in the Valley! I feel like a new warthog!
+
+TAG: Player_000_choice_000_f
+Remember: Twice a day at least!
+
+TAG: Player_000_choice_001_f
+I'm happy for you, pal!
+
+TAG: Player_000_choice_002_f
+... How are you gonna brush?
+
+TAG: Pumbaa_005_f
+I'll remember!
+
+TAG: Pumbaa_010_f
+OH! I almost forgot. I gotta go meet Timon at Chez Remy.
+
+TAG: Pumbaa_011_f
+I... I'm a little nervous to go in there alone, on account of what happened last time.
+
+TAG: Pumbaa_012_f
+Will you walk in with me?
+
+TAG: Pumbaa_001_f
+Of course, Pumbaa.
+
+TAG: Pumbaa_003_f
+I'm happy for me too. Thanks for the help, {PlayerName}!
+
+TAG: Pumbaa_008_f
+And it's just in time for me to meet Timon at Chez Remy.
+
+TAG: Pumbaa_006_f
+Timon will help me!
+
+TAG: Pumbaa_007_f
+You two are close, huh?
+
+TAG: Pumbaa_009_f
+The closest! ... Actually, I need to go meet him at Chez Remy now.
+

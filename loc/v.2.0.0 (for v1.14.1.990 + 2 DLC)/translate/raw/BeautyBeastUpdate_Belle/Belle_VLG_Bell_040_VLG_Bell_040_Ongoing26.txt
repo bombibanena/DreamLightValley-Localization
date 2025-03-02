@@ -1,0 +1,3 @@
+TAG: Belle_001_f
+Посмотрите на <ActivityItem>Chest</ActivityItem>.. Это <ActivityItem>Scroll</ActivityItem>. Я думаю, вы должны сначала посмотреть на него.
+

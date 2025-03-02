@@ -1,0 +1,42 @@
+TAG: Buzz_000_f
+Space Ranger, we've got another situation on our hands. This one's a Code L-5X.
+
+TAG: Player_000_choice_000_f
+Plastic figurine in the garbage disposal?
+
+TAG: Player_000_choice_001_f
+Child administered haircut to doll?
+
+TAG: Player_000_choice_002_f
+Pointy toy left on floor in hallway?
+
+TAG: Player_000_choice_003_f
+Wandering Extraterrestrial?
+
+TAG: Buzz_001_f
+Someone needs to review their handbook again. That's a Code I-5X. And I hope for all our sakes that never happens here.
+
+TAG: Buzz_005_f
+Code L-5X means we have toys where they shouldn't be. Some of the <ActivityItem>Aliens</ActivityItem> are <Lore>hiding in the Villagers' houses</Lore>.
+
+TAG: Buzz_006_f
+Uh-oh. I guess I'll need to check for them...
+
+TAG: Buzz_007_f
+Precisely. The last thing we need is a Villager stepping on one of them in the middle of the night.
+
+TAG: Buzz_008_f
+There's no telling which houses they might be hiding in today. So, I recommend you keep an eye out while you do your regular rounds of the Village.
+
+TAG: Buzz_009_f
+I'll be on alert as well. I'll let you know if I see any.
+
+TAG: Buzz_002_f
+A definite emergency... but I'm afraid that's a Code L-6X. Better review your handbook.
+
+TAG: Buzz_003_f
+That would pose quite a danger to any parents or siblings walking around in bare feet, but that code is L-5Y. Better review your handbook.
+
+TAG: Buzz_004_f
+Precisely! You've got that handbook practically memorized, haven't you?
+

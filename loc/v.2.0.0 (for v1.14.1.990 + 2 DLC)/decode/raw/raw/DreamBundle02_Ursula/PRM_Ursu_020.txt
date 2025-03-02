@@ -1,0 +1,108 @@
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Any_CompletedRequestDescription
+Return to Ursula.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_AvailableDescription
+Ursula wants to bring a taste of her underwater shows to the surface, and she enlists you as her assistant. You manage to convince her to invite other Villagers to participate. You'll have to hold some auditions...
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_CompletedStoryDescription
+Ursula used you and the Enchanted Microphone to steal the other Villagers' voices. You're going to need to talk to her to fix this.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_DisplayName
+A Show Like No Other
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group01_Step01_DressUp01_StepDescription
+The <ActivityItem>Crown of the Sea Witch</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group01_Step01_DressUp02_StepDescription
+The <ActivityItem>Stonefish Costume</ActivityItem> or the <ActivityItem>Squid Showman's Gown</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group01_StepDescription
+Put on:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group02_Step02_StepDescription
+Hold auditions for Ursula's backup singers:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group02_Step02_TalkToCharacter01_StepDescription
+Mirabel.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group02_Step02_TalkToCharacter02_StepDescription
+Kristoff.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group02_Step02_TalkToCharacter03_StepDescription
+Mother Gothel.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group03_Step03_TalkToCharacter04_StepDescription
+Return to Ursula.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group04_Step04_Possess01_StepDescription
+<ActivityItem>Mirabel's Pinwheel</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group04_Step04_Possess02_StepDescription
+<ActivityItem>Kristoff's Pickaxe</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group04_Step04_Possess03_StepDescription
+<ActivityItem>Mother Gothel's Potion Bottle</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group04_Step04_StepDescription
+Grab the following objects from the respective Villagers' Houses.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group04_StoryDescription
+After auditioning your candidates for Ursula's backup singers, the Sea Witch explains that she needs some items for an enchantment. She tasks you with gathering them.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group05_Step05_BringItem01_StepDescription
+<ActivityItem>Mirabel's Pinwheel</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group05_Step05_BringItem02_StepDescription
+<ActivityItem>Kristoff's Pickaxe</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group05_Step05_BringItem03_StepDescription
+<ActivityItem>Mother Gothel's Potion Bottle</ActivityItem>.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group05_Step05_ReadyDescription
+Bring the items to Ursula.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group05_Step05_StepDescription
+Make sure you have the following items in your Inventory:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group06_Step06_Conditional01_StepDescription
+Wait 15 minutes for Ursula to finish her preparations.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group07_Step07_TalkToCharacter05_StepDescription
+Talk to Ursula.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group08_Step08_Decorate01_StepDescription
+Place the <ActivityItem>Enchanted Microphone</ActivityItem> in the Glade of Trust.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group09_Step09_TalkToCharacter06_StepDescription
+Mirabel.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group09_Step09_TalkToCharacter07_StepDescription
+Kristoff.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group09_Step09_TalkToCharacter08_StepDescription
+Mother Gothel.
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group09_StepDescription
+Uh-oh! What just happened?! Talk to these Villagers:
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group10_Step10_Conditional02_StepDescription
+Make sure you have the "Vanessa" Ursula Dream Style equipped!
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we waiting for?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What is happening?
+
+TAG: Premium!LilMermaid!Ursula!PRM_Ursu_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

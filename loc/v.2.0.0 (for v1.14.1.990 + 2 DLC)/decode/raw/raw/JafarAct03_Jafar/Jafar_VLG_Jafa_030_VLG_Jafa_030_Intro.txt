@@ -1,0 +1,96 @@
+TAG: Jafar_001_f
+{PlayerName}. Do you have a moment to assist me?
+
+TAG: Player_000_choice_000_f
+Sure!
+
+TAG: Player_000_choice_001_f
+Not now, I'm afraid.
+
+TAG: Jafar_002_f
+Excellent! I have made a marvelous new discovery.
+
+TAG: Player_001_choice_000_f
+Great! What did you discover?
+
+TAG: Player_001_choice_001_f
+Should I be worried?
+
+TAG: Player_001_choice_002_f
+Is... is it contagious?
+
+TAG: Jafar_003_f
+Further secrets of alchemy.
+
+TAG: Jafar_015_f
+Oh, that's actually kinda nice of you. How can I help?
+
+TAG: Jafar_018_f
+I have crafted four <ActivityItem>Imagination Generators</ActivityItem>, but I require assistance setting them up around <Lore>Eternity Isle</Lore>.
+
+TAG: Jafar_020_f
+Cool, where do you need 'em?
+
+TAG: Jafar_021_f
+Place them in <Lore>the Lagoon</Lore>, <Lore>the Borderlands</Lore>, <Lore>the Docks</Lore>, and one <Lore>in front of Oswald's House</Lore>.
+
+TAG: Player_002_choice_002_f
+Oswald's House?
+
+TAG: Player_002_choice_003_f
+Cool, on it.
+
+TAG: Jafar_009_f
+Oh cool! What in particular?
+
+TAG: Jafar_010_f
+I have uncovered a way to share the secret of imagination with everyone on Eternity Isle!
+
+TAG: Jafar_012_f
+But the Spark of Imagination is already there for everyone to access...
+
+TAG: Jafar_027_f
+Well yes, if one wants to exert onerous energies reaching it.
+
+TAG: Jafar_028_f
+The genius of my machines will allow everyone to access it with ease. Ideas and innovations will spring forth easily.
+
+TAG: Jafar_029_f
+Wow, you're pretty sure of yourself here, aren't you?
+
+TAG: Jafar_008_f
+I find false humility rather nauseating, {PlayerName}.
+
+TAG: Jafar_014_f
+I know that I am still not trusted, but hopefully this endeavor will influence some minds in my favor.
+
+TAG: Jafar_019_f
+Indeed. The poor fellow seemed rather upset that his experimentation impaired the geometry of the Island.
+
+TAG: Jafar_022_f
+Hopefully, this will raise his spirits.
+
+TAG: Jafar_024_f
+Great, I'll get on that now.
+
+TAG: Jafar_030_f
+Excellent. Thank you, {PlayerName}.
+
+TAG: Jafar_000_f
+The poor fellow seemed rather upset that his experimentation impaired the geometry of the Island.
+
+TAG: Jafar_005_f
+Now, now, {PlayerName}. Since my release, have I given you cause to doubt me?
+
+TAG: Jafar_016_f
+No, I guess not... recently.
+
+TAG: Jafar_007_f
+So what did you discover?
+
+TAG: Jafar_004_f
+It can be, if others are intellectually primed to share in the discovery.
+
+TAG: Jafar_006_f
+However, I am not convinced that is possible here.
+

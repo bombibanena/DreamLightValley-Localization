@@ -1,0 +1,84 @@
+TAG: Story!MRQS070_BeachStory_Any_CompletedRequestDescription
+Let Merlin know that Ursula is free.
+
+TAG: Story!MRQS070_BeachStory_AvailableDescription
+Merlin needs to tell you about something important.
+
+TAG: Story!MRQS070_BeachStory_CompletedStoryDescription
+After overcoming the tests and restoring the <ActivityItem>Orb of Power</ActivityItem>, you have no choice but to tell Merlin about Ursula being free.
+
+TAG: Story!MRQS070_BeachStory_DisplayName
+With Great Power...
+
+TAG: Story!MRQS070_BeachStory_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do now?
+
+TAG: Story!MRQS070_BeachStory_Group01_Step01_FillKeyhole01_StepDescription
+Place Ursula's <ActivityItem>Crystal Key</ActivityItem> in a device near the locked entrance to a cave on Dazzle Beach.
+
+TAG: Story!MRQS070_BeachStory_Group01_StoryDescription
+You promise to free Ursula from her cave in exchange for information. If you want to stop what's happening, you need to find the <ActivityItem>Orb of Power</ActivityItem> in a secret cavern locked by a key she gives you.
+
+TAG: Story!MRQS070_BeachStory_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What can I do for you?
+
+TAG: Story!MRQS070_BeachStory_Group02_StepDescription
+Explore the cursed cave.
+
+TAG: Story!MRQS070_BeachStory_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do now?
+
+TAG: Story!MRQS070_BeachStory_Group03_Step12_Possess01_StepDescription
+Fish the <ActivityItem>Orb of Power</ActivityItem> out of the water in the Mystical Cave.
+
+TAG: Story!MRQS070_BeachStory_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I clear the Second Test?
+
+TAG: Story!MRQS070_BeachStory_Group04_Step04_StepDescription
+Find a way to remove the second Magic Gate in the Mystical Cave.
+
+TAG: Story!MRQS070_BeachStory_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I clear the First Test?
+
+TAG: Story!MRQS070_BeachStory_Group05_Step05_StepDescription
+Find a way to remove the first Magic Gate in the Mystical Cave.
+
+TAG: Story!MRQS070_BeachStory_Group05_StoryDescription
+Finding out how to open the cave was the easy part. Inside, you discover a series of vexing riddles.
+
+TAG: Story!MRQS070_BeachStory_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I clear the Third Test?
+
+TAG: Story!MRQS070_BeachStory_Group06_Step06_StepDescription
+Find a way to remove the third Magic Gate in the Mystical Cave.
+
+TAG: Story!MRQS070_BeachStory_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do now?
+
+TAG: Story!MRQS070_BeachStory_Group07_Step07_FillKeyhole05_StepDescription
+Place the <ActivityItem>Orb of Power</ActivityItem> in the Pillar near the Mystical Cave.
+
+TAG: Story!MRQS070_BeachStory_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do now?
+
+TAG: Story!MRQS070_BeachStory_Group08_Step08_TalkToCharacter02_StepDescription
+Return to Ursula in the cursed cave near Dazzle Beach.
+
+TAG: Story!MRQS070_BeachStory_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Merlin, how can I help?
+
+TAG: Story!MRQS070_BeachStory_Group09_Step09_TalkToCharacter03_StepDescription
+Talk to Merlin.
+
+TAG: Story!MRQS070_BeachStory_Group09_Step10_TalkToCharacter04_StepDescription
+Explore the cursed cave on Dazzle Beach.
+
+TAG: Story!MRQS070_BeachStory_Group09_StoryDescription
+Merlin and some other Villagers fear the Forgetting is happening again. Dreamlight Valley's fate lies in the Sea Witch's hands.
+
+TAG: Story!MRQS070_BeachStory_Group10_Step11_TalkToCharacter05_StepDescription
+Talk to Merlin.
+
+TAG: Story!MRQS070_BeachStory_Group11_Step03_VisitArea01_StepDescription
+Explore the Mystical Cave.
+

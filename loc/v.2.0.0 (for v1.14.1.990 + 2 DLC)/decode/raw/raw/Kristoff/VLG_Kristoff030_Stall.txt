@@ -1,0 +1,21 @@
+TAG: Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Any_CompletedRequestDescription
+Talk to Kristoff.
+
+TAG: Village!Frozen!Kristoff!VLG_Kristoff030_Stall_AvailableDescription
+Kristoff is looking for you. What could he possibly want?
+
+TAG: Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do we need?
+
+TAG: Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What now?
+
+TAG: Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group06_Step06_CraftItem01_StepDescription
+Craft <ActivityItem>Kristoff's Stall</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where do you want the Stall?
+
+TAG: Village!Frozen!Kristoff!VLG_Kristoff030_Stall_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

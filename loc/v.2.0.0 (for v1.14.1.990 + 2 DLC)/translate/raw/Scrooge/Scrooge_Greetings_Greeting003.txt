@@ -1,0 +1,6 @@
+TAG: Scrooge_000_f
+Добрый день, {PlayerName}!
+
+TAG: Player_000_exit_000_f
+Я не могу сейчас с тобой говорить.
+

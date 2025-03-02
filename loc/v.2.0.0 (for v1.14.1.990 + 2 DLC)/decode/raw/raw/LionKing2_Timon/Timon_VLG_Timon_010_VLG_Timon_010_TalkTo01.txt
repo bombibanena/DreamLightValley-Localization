@@ -1,0 +1,102 @@
+TAG: Timon_002_f
+Everything is set up around Pride Rock. It's a proper jungle now!
+
+TAG: Timon_000_f
+That's great, {PlayerName}. Thanks.
+
+TAG: Player_000_choice_000_f
+Are you okay?
+
+TAG: Player_000_choice_001_f
+You don't sound very grateful...
+
+TAG: Player_000_choice_002_f
+Seriously. It's amazing. I did a GREAT job!
+
+TAG: Timon_004_f
+Huh? Yeah, I'm fine. It's all good. Everything's great!
+
+TAG: Player_001_choice_000_f
+Ah, so you're afraid.
+
+TAG: Player_001_choice_001_f
+Did someone actually say that?
+
+TAG: Player_001_choice_002_f
+You're right; this place IS scary.
+
+TAG: Timon_007_f
+Something tells me you're not doing so well, Timon.
+
+TAG: Timon_008_f
+Come on; you can talk to me.
+
+TAG: Timon_014_f
+All right, all right... maybe â and I mean a BIG maybe â I'm feeling a tiny bit stressed.
+
+TAG: Timon_015_f
+Is it Pride Rock? Are you not happy with it?
+
+TAG: Timon_016_f
+What? No no no, Pride Rock looks great. Love what you've done with the place. Very jungle chic!
+
+TAG: Timon_017_f
+Do you like living here in the Valley?
+
+TAG: Timon_018_f
+Absolutely! The landscapes are aesthetically pleasing; I get tons of fresh air... Oh, and I LOVE the predators here...
+
+TAG: Timon_001_f
+They just roam around freely with their sharp teeth and glowering faces that scream "I can't wait to eat that meerkat and warthog." It's great.
+
+TAG: Timon_020_f
+Of course I'm AFRAID!
+
+TAG: Timon_021_f
+There are humongous, carnivorous bad guys prancing around this place like innocent little butterflies!
+
+TAG: Timon_026_f
+The Valley is a safe place to be. No one is going to hurt you here; I promise!
+
+TAG: Timon_027_f
+I wanna believe you, {PlayerName}, but some of these Villagers are bad news. Like Scar! Mostly Scar, actually...
+
+TAG: Timon_003_f
+Why don't you take some time to get settled? Once you've been here a bit, you'll see there's nothing to worry about.
+
+TAG: Timon_028_f
+Hakuna Matata and all that, right?
+
+TAG: Timon_022_f
+They don't have to.
+
+TAG: Timon_024_f
+I can see it in their hungry, carnivorous eyes.
+
+TAG: Timon_023_f
+I KNEW IT! Those carnivores DO wanna eat me!
+
+TAG: Timon_025_f
+Timon, I was kidding.
+
+TAG: Timon_005_f
+Oh, sorry. You're right.
+
+TAG: Timon_009_f
+*AHEM*
+
+TAG: Timon_010_f
+Thanks for your help, {PlayerName}! Everything's perfect!
+
+TAG: Timon_011_f
+If something else is going on, you can always talk to me, Timon.
+
+TAG: Timon_006_f
+You sure did. The place is perfect.
+
+TAG: Timon_012_f
+So then what's up? Why do you seem so sad?
+
+TAG: Timon_013_f
+You know you can talk to me.
+

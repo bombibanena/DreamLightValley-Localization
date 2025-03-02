@@ -1,0 +1,51 @@
+TAG: Goofy_005_f
+Hey there, {PlayerName}! How you doin' today?
+
+TAG: Player_001_choice_000_f
+I'm great!
+
+TAG: Player_001_choice_001_f
+I'm feeling kind of down.
+
+TAG: Player_001_choice_002_f
+I'm a little angry.
+
+TAG: Goofy_007_f
+That's fantastic!
+
+TAG: Goofy_008_f
+Say, I was just gonna do some cooking. Wanna join me?
+
+TAG: Player_000_choice_000_f
+Sure, I'll help with cooking!
+
+TAG: Player_000_choice_001_f
+I've never cooked anything before.
+
+TAG: Player_000_choice_002_f
+Can't right now. I've got to run!
+
+TAG: Goofy_002_f
+Okey dokey. First, we gotta gather the Ingredients. We need fresh <ActivityItem>Basil</ActivityItem> and <ActivityItem>Oregano</ActivityItem>.
+
+TAG: Goofy_006_f
+They grow all over the Plaza and the Meadow. If you'll get some, I'll get the pots and pans together.
+
+TAG: Goofy_003_f
+Gawrsh, then I guess you'll get to learn something!
+
+TAG: Goofy_004_f
+Okay! Catch ya next time!
+
+TAG: Goofy_001_f
+Awww. I'm sorry, {PlayerName}. It's no fun havin' the blues.
+
+TAG: Goofy_009_f
+Say, maybe bein' busy will cheer you up. I'm gonna do some cooking. Wanna join me?
+
+TAG: Goofy_010_f
+Awww. I'm sorry, {PlayerName}. Say, maybe doin' something fun will take your mind off whatever's makin' you angry.
+
+TAG: Goofy_000_f
+I'm gonna do some cooking. Wanna join me?
+

@@ -1,0 +1,27 @@
+TAG: MotherGothel_002_f
+Ah, there you are... and you have everything I asked for.
+
+TAG: MotherGothel_001_f
+Even the pair of <ActivityItem>Citrines</ActivityItem>. Those are for my jewelry box. You're a gem, {PlayerName}.
+
+TAG: MotherGothel_003_f
+Wait, you didn't need the gems? They're just for your jewelry box?
+
+TAG: Player_000_choice_003_f
+You tricked me!
+
+TAG: Player_000_choice_004_f
+You could have just asked.
+
+TAG: Player_000_choice_005_f
+Oh well. Hope you like them.
+
+TAG: MotherGothel_011_f
+Consider it payment for my services.
+
+TAG: MotherGothel_012_f
+And let that be a lesson to you, {PlayerName}. Nothing is free.
+
+TAG: MotherGothel_004_f
+Now here's your coat, as promised. Best of luck with that insufferable animal.
+

@@ -1,0 +1,63 @@
+TAG: Moana_000_f
+Do you ever think about coconuts? I mean, REALLY think about them?
+
+TAG: Player_000_choice_000_f
+Yes.
+
+TAG: Player_000_choice_001_f
+No.
+
+TAG: Player_000_choice_002_f
+I'm allergic.
+
+TAG: Moana_001_f
+You do?! Oh... Well, what do you think of coconuts?
+
+TAG: Player_001_choice_000_f
+They're useful.
+
+TAG: Player_001_choice_001_f
+They're kind of boring.
+
+TAG: Moana_002_f
+Sure. They're definitely useful. We use the fibers and leaves. We drink the water and eat the meat.
+
+TAG: Moana_003_f
+But there's more to life than coconuts, right?
+
+TAG: Player_002_choice_000_f
+Right.
+
+TAG: Player_002_choice_002_f
+No, only coconuts.
+
+TAG: Moana_009_f
+Thank you! Don't get me wrong; I'm grateful for coconuts. But a person can't live on coconuts alone.
+
+TAG: Moana_010_f
+A person needs to explore, and find out who she is! ... Wait, you know I was just using coconuts as a metaphor, right?
+
+TAG: Moana_011_f
+Okaaaay... You'd really like my dad.
+
+TAG: Moana_005_f
+That's what I think! Don't get me wrong; I'm grateful for coconuts. But a person can't live on only coconuts.
+
+TAG: Moana_006_f
+A person needs to explore, and find out who she is! ... Wait, you know I was just using coconuts as a metaphor, right?
+
+TAG: Moana_004_f
+Well, my dad does. A LOT.
+
+TAG: Moana_007_f
+And coconuts are definitely useful! We use the fibers and leaves. We drink the water and eat the meat.
+
+TAG: Moana_008_f
+But there's more to life than coconuts, right?
+
+TAG: Moana_012_f
+You're allergic to coconuts? Wow, that must be really hard. On Motunui, almost everything is made from coconuts!
+
+TAG: Moana_013_f
+I guess you can eat fish, though? I hope you like fish.
+

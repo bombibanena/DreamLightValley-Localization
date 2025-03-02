@@ -1,0 +1,81 @@
+TAG: Olaf_000_f
+Oh, {PlayerName}! I'm SO glad to see you.
+
+TAG: Olaf_001_f
+I know you can help me with my problem.
+
+TAG: Olaf_002_f
+Ursula gave me an adorable <ActivityItem>Stuffed Animal</ActivityItem>. Ooo, it's so cute!
+
+TAG: Olaf_003_f
+What did she ask for in exchange?
+
+TAG: Olaf_004_f
+Exchange? Nothing. She just gave it to me! It was very nice of her.
+
+TAG: Olaf_005_f
+But it looked a little dirty. So I gave it a bath.
+
+TAG: Olaf_006_f
+Ever since then, it's been spewing strange black smoke. {PlayerName}, I think I broke it!
+
+TAG: Player_000_f
+I'm sorry to have to break it to you. But I think Ursula tried to use her magic on you for some nefarious purpose...
+
+TAG: Player_000_choice_000_f
+Please don't be sad.
+
+TAG: Player_000_choice_001_f
+You're sure you didn't make a deal with her and forget?
+
+TAG: Player_000_choice_002_f
+Let's plot your revenge.
+
+TAG: Olaf_007_f
+Oh... I think I am a little sad. But mostly for Ursula.
+
+TAG: Olaf_008_f
+She doesn't have to try to trick everyone. Maybe she doesn't know how to make friends.
+
+TAG: Olaf_009_f
+*gasp* I know! We can bring her a friend! Let's give her the <ActivityItem>Stuffed Animal</ActivityItem> back! After we fix it, of course.
+
+TAG: Olaf_010_f
+Hmm... I also want her to know that I'm not mad and that I'll be her friend, too.
+
+TAG: Olaf_011_f
+And nothing says that like a <ActivityItem>Bouquet of Flowers</ActivityItem>!
+
+TAG: Olaf_012_f
+Could you help me do that, {PlayerName}? Could you?
+
+TAG: Player_001_f
+Sure, I'll help you.
+
+TAG: Player_001_choice_000_f
+Let's show Ursula what it means to be nice.
+
+TAG: Player_001_choice_001_f
+Because you're my friend.
+
+TAG: Player_001_choice_002_f
+You're too nice. You sure you don't want to get revenge?
+
+TAG: Olaf_013_f
+Oh, thank you, {PlayerName}! I knew you'd understand.
+
+TAG: Olaf_014_f
+Always and forever.
+
+TAG: Olaf_015_f
+Positive. And is there really such a thing as "too nice"? I may not be very old, but I have yet to meet anyone with too much niceness.
+
+TAG: Olaf_016_f
+No. I would definitely remember something as fun as a "deal."
+
+TAG: Olaf_017_f
+Hey... do you think that making deals and playing tricks is Ursula's way of making friends?
+
+TAG: Olaf_018_f
+Oh, I don't want to do anything like that. We should show her that she doesn't have to trick everyone to make friends.
+

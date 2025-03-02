@@ -1,0 +1,60 @@
+TAG: Timon_000_f
+If you ask me, there's an art to doing absolutely nothing all day.
+
+TAG: Player_000_choice_000_f
+I like keeping busy.
+
+TAG: Player_000_choice_001_f
+I agree!
+
+TAG: Player_000_choice_002_f
+Yeah, Hakuna Matata.
+
+TAG: Timon_001_f
+Well, admitting you need help is the first step! Lucky for you, I'm an expert on the subject.
+
+TAG: Timon_002_f
+Stick with me, kid. I'll show you the ropes.
+
+TAG: Timon_003_f
+Excellent! Now tell me: How do you relax?
+
+TAG: Player_001_f
+With...
+
+TAG: Player_001_choice_000_f
+...a good book.
+
+TAG: Player_001_choice_001_f
+...friends.
+
+TAG: Player_001_choice_002_f
+...my own thoughts.
+
+TAG: Timon_004_f
+Those things Merlin's always lookin' at? That's doing way too much somethin' on my day of nothin'!
+
+TAG: Timon_005_f
+I think you and I are gonna get along better than warthogs and mud.
+
+TAG: Timon_006_f
+Whoa. Talk about Hakuna Matata!
+
+TAG: Timon_007_f
+I knew I liked you, kid.
+
+TAG: Timon_008_f
+That's right! Glad you're payin' attention.
+
+TAG: Player_002_choice_000_f
+You talk about it ALL the time.
+
+TAG: Player_002_choice_001_f
+It's a great motto!
+
+TAG: Timon_009_f
+Well, teaching everyone about Hakuna Matata's hard work! ... Huh. Note to self, "make teaching the motto easier."
+
+TAG: Timon_010_f
+That's a "motto" of opinion. Ha! I crack myself up.
+

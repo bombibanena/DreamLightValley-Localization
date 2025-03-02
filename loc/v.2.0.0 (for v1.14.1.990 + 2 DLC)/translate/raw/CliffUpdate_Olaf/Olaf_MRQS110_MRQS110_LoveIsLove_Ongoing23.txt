@@ -1,0 +1,6 @@
+TAG: Olaf_000_f
+Ну, мы должны починить <ActivityItem>Dreamlight Primst</ActivityItem>, верно? Напомните мне: что нам нужно было собрать?
+
+TAG: Olaf_001_f
+Мне нужно забрать кусочки с пола, а затем найти несколько <ActivityItem>Glass</ActivityItem> для ремонта и несколько <ActivityItem>Purificed Night Shards</ActivityItem>, чтобы запечатать магию.
+

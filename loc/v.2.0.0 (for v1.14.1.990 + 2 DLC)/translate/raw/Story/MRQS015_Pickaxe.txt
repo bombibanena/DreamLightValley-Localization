@@ -1,0 +1,51 @@
+TAG: Story!MRQS015_Pickaxe_Any_CompletedRequestDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS015_Pickaxe_AvailableDescription
+Мерлин просит вас вернуть потерянный <ActivityItem>Royal Tools</ActivityItem> в Виллидже. Он упоминает, что Pickaxe застрял в Камне в Плазе.
+
+TAG: Story!MRQS015_Pickaxe_CompletedStoryDescription
+Вытаскивание Пикэкса из камня заканчивается тьмой, которая висела над деревней. После приобретения оставшегося <ActivityItem>Royal Tools</ActivityItem>, вы теперь готовы внести изменения в Долину.
+
+TAG: Story!MRQS015_Pickaxe_DisplayName
+Королевские инструменты
+
+TAG: Story!MRQS015_Pickaxe_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Story!MRQS015_Pickaxe_Group01_Step01_StepDescription
+Приобретите <ActivityItem>Royal Tools</ActivityItem> в деревне.
+
+TAG: Story!MRQS015_Pickaxe_Group01_Step01_Unlock01_StepDescription
+Найдите королевский пикакс в Плазе и вытащите его из камня.
+
+TAG: Story!MRQS015_Pickaxe_Group01_Step01_Unlock02_StepDescription
+Найди Шовель в Плазе.
+
+TAG: Story!MRQS015_Pickaxe_Group01_Step01_Unlock03_StepDescription
+Найдите Водяной канистры в Плазе.
+
+TAG: Story!MRQS015_Pickaxe_Group01_Step01_Unlock04_StepDescription
+Найди рыболовецкого Рода в Меду.
+
+TAG: Story!MRQS015_Pickaxe_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Story!MRQS015_Pickaxe_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS015_Pickaxe_Group02_Step03_Unlock05_StepDescription
+Найди Шовель в Плазе.
+
+TAG: Story!MRQS015_Pickaxe_Group02_Step03_Unlock06_StepDescription
+Найдите Водяной канистры в Плазе.
+
+TAG: Story!MRQS015_Pickaxe_Group02_Step03_Unlock07_StepDescription
+Найди рыболовецкого Рода в Меду.
+
+TAG: Story!MRQS015_Pickaxe_Group02_StepDescription
+Приобретите <ActivityItem>Royal Tools</ActivityItem> в деревне.
+
+TAG: Story!MRQS015_Pickaxe_Group02_StoryDescription
+Вы находите меткую породу с пикаксом, застрявшим в его центре, вытаскивая ее и чувствуя, как она жужжит от волшебной энергии.
+

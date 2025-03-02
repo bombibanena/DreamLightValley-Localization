@@ -1,0 +1,72 @@
+TAG: Gaston_000_f
+Hey, Gaston â did you do your rugged contemplation of nature? How do you feel?
+
+TAG: Gaston_023_f
+I don't blame her â I'll head to see her next, then.
+
+TAG: Gaston_029_f
+I'll come with you! You'll need someone charming like me to deal with people for you.
+
+TAG: Gaston_004_f
+Oh, uhhh, not sure if that's such a great idea...
+
+TAG: Gaston_005_f
+What? Why not?
+
+TAG: Gaston_035_f
+Actually, I have something else only you can do.
+
+TAG: Gaston_036_f
+I bet I'll find the other Scarab piece soon, and then we'll be off to the vault!
+
+TAG: Player_005_choice_000_f
+We'll need some adventuring supplies.
+
+TAG: Player_005_choice_001_f
+Can you pack some food and drink for us?
+
+TAG: Player_005_choice_002_f
+I need you to talk to Jafar and get a hint of what awaits us in the Cave.
+
+TAG: Gaston_002_f
+{PlayerName}, I make it a habit of ignoring all talk of feelings.
+
+TAG: Gaston_016_f
+Did you find the next piece of the Scarab?
+
+TAG: Gaston_020_f
+Not yet. Any chance you've got leads on the next half of the Scarab Key? Jafar said it might be in the Wild Tangle.
+
+TAG: Gaston_021_f
+The Mirage Wizard may be right. I've been over every inch of the Dunes, and I haven't found the other half.
+
+TAG: Gaston_003_f
+{PlayerName}, I've a thought! I once spotted a blonde girl dashing around the Wild Tangle.
+
+TAG: Gaston_022_f
+Maybe the jungle girl can help.
+
+TAG: Gaston_006_f
+Oh, you mean Rapunzel?
+
+TAG: Gaston_007_f
+Is that her name? The one time I saw her, she took one look at Coconut LeFou and dashed off.
+
+TAG: Gaston_037_f
+You're right. I am an expert on adventuring! I'll get the ol' explorer's pack going.
+
+TAG: Gaston_038_f
+Awesome, that's what I like to hear, Gaston.
+
+TAG: Gaston_039_f
+No one prepares for adventure like Gaston!
+
+TAG: Gaston_040_f
+Great, I'll check back <Lore>after I talk with Rapunzel in the Wild Tangle</Lore>.
+
+TAG: Gaston_041_f
+Of course I can! I know the desert plants like the back of my incredibly muscled hand.
+
+TAG: Gaston_042_f
+The Mirage Wizard will crumble at my intense questioning!
+

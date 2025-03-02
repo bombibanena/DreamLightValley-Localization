@@ -1,0 +1,54 @@
+TAG: Beast_000_f
+I'm sure Belle will like this, {PlayerName}. Thank you... But, I've been thinking... A gift isn't an apology.
+
+TAG: Beast_003_f
+During our disagreement, I yelled and... broke things. How could she ever forgive such a monster?
+
+TAG: Player_000_choice_000_f
+You're not a monster!
+
+TAG: Player_000_choice_001_f
+Let's show her your best side.
+
+TAG: Player_000_choice_002_f
+Time for a self-esteem-boosting makeover!
+
+TAG: Beast_006_f
+Did you ever consider that having all these big feelings â sadness, care, and even guilt â is REALLY compassionate?
+
+TAG: Beast_008_f
+... No.
+
+TAG: Beast_009_f
+Well, it is. And Belle sees that in you â I'm sure of it.
+
+TAG: Beast_010_f
+Let's get you cleaned up for your apology. It will help! Where's your grooming stuff?
+
+TAG: Beast_001_f
+I... I don't know. I haven't cared about that in so long.
+
+TAG: Beast_002_f
+Don't worry; I'll look around and <Lore>find your grooming items in no time</Lore>!
+
+TAG: Beast_014_f
+I just need to find <ActivityItem>Princely Shampoo</ActivityItem>, <ActivityItem>Princely Cologne</ActivityItem>, and a <ActivityItem>Brush</ActivityItem>.
+
+TAG: Beast_005_f
+How?
+
+TAG: Beast_007_f
+When we take care of ourselves, we feel better about ourselves. We can feel we deserve forgiveness!
+
+TAG: Beast_004_f
+And THAT will make your apology better.
+
+TAG: Beast_011_f
+I don't understand how any of that could matter. I'm... well, look at me!
+
+TAG: Beast_012_f
+Trust me â we've come this far haven't we?
+
+TAG: Beast_013_f
+Hm...
+

@@ -1,0 +1,39 @@
+TAG: WallE_000_f
+*beep*
+
+TAG: Player_000_choice_000_f
+Good?
+
+TAG: Player_000_choice_001_f
+Bad?
+
+TAG: Player_000_choice_002_f
+You want me to eat it?
+
+TAG: WallE_001_f
+Whoopee!
+
+TAG: WallE_002_f
+Glad to hear it!
+
+TAG: WallE_003_f
+WALLÂ·E!
+
+TAG: WallE_004_f
+Oh...
+
+TAG: WallE_005_f
+Just kidding, WALLÂ·E!
+
+TAG: WallE_006_f
+I'm sure it's doing well.
+
+TAG: WallE_007_f
+AHHH!
+
+TAG: WallE_008_f
+Directive! Directive!
+
+TAG: WallE_009_f
+I'm just kidding; don't worry!
+

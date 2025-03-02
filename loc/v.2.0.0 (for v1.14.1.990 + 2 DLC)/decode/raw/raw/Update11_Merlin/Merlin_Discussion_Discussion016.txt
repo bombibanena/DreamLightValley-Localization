@@ -1,0 +1,21 @@
+TAG: Merlin_004_f
+Tell me, {PlayerName}, what magic have you seen today?
+
+TAG: Player_001_choice_000_f
+I saw the sunrise.
+
+TAG: Player_001_choice_001_f
+I saw you cast a spell.
+
+TAG: Player_001_choice_002_f
+I don't think I've seen any.
+
+TAG: Merlin_005_f
+Ah, that is magic indeed.
+
+TAG: Merlin_006_f
+You... I thought I saw you hanging about.
+
+TAG: Merlin_007_f
+Then you must pay more attention, {PlayerName}. The natural world is filled with magic.
+

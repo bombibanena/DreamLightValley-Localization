@@ -1,0 +1,72 @@
+TAG: Remy_000_f
+What's this? <ActivityItem>A plate of BuÃ±uelos</ActivityItem>?
+
+TAG: Remy_001_f
+Thanks, {PlayerName}! These look incredible. Did you make them?
+
+TAG: Remy_002_f
+Nope. Mirabel gave them to me.
+
+TAG: Remy_003_f
+Mirabel's back?! That's fantastic!
+
+TAG: Remy_004_f
+She really understands the power of a good meal to bring people together.
+
+TAG: Remy_005_f
+Though, it took me a while to get that when she said her mom's cooking could heal people... she meant ACTUALLY heal people.
+
+TAG: Remy_006_f
+Mirabel used to help me throw these amazing parties. She always had gifts crafted for all the guests. I hope we can do that again.
+
+TAG: Remy_007_f
+That's the thing. The Forgetting took Mirabel's memory of the <ActivityItem>BuÃ±uelos</ActivityItem> recipe.
+
+TAG: Player_000_f
+We need you to taste one and see if you can figure out the ingredients...
+
+TAG: Player_000_choice_000_f
+We're really counting on you.
+
+TAG: Player_000_choice_001_f
+I think it's standard procedure for a chef.
+
+TAG: Player_000_choice_002_f
+Think you're up for the challenge?
+
+TAG: Remy_008_f
+Don't worry. Anything to help Mirabel!
+
+TAG: Remy_016_f
+And it's closely related to another basic ingredient in the recipe. I'm sure you can find it on the shelves of my restaurant.
+
+TAG: Remy_017_f
+So, I need <ActivityItem>Wheat</ActivityItem>, <ActivityItem>Milk</ActivityItem>, <ActivityItem>Eggs</ActivityItem> and a mystery fourth Ingredient...
+
+TAG: Remy_009_f
+Okay, let me taste 'em.
+
+TAG: Remy_010_f
+Hmmm, a little stale but still good. As for the Ingredients, fritters almost always use the same base.
+
+TAG: Remy_011_f
+<ActivityItem>Wheat</ActivityItem> for the flour, <ActivityItem>Milk</ActivityItem> and <ActivityItem>Eggs.</ActivityItem>
+
+TAG: Remy_012_f
+Anything else?
+
+TAG: Remy_013_f
+Oh, there's definitely a fourth Ingredient. But I'm gonna challenge you to find it.
+
+TAG: Remy_014_f
+You're a gifted sous-chef, but you've gotta train your palate to stay sharp. I'll give you a clue...
+
+TAG: Remy_015_f
+It's something salty. But it's not meat or fish or a vegetable.
+
+TAG: Remy_018_f
+A taste test? Sure. I can do that.
+
+TAG: Remy_019_f
+A culinary challenge? Of course!
+

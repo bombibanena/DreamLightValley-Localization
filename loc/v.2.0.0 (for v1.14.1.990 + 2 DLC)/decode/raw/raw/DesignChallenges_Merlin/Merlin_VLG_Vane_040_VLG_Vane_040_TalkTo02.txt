@@ -1,0 +1,36 @@
+TAG: Merlin_000_f
+Hey, Merlin!
+
+TAG: Player_000_choice_000_f
+You're the Wizard, right?
+
+TAG: Player_000_choice_001_f
+How do I stop the Mastermind?
+
+TAG: Merlin_001_f
+Yes, yes... of course. You know I'm a wizard. Why are you asking?
+
+TAG: Player_001_choice_000_f
+Vanellope sent me here on an adventure...
+
+TAG: Player_001_choice_001_f
+Vanellope didn't tell you about the game?
+
+TAG: Merlin_002_f
+Vanellope, you say? Oh no, I'm afraid I don't have time for her sugary shenanigans. I'm far too busy.
+
+TAG: Merlin_003_f
+Might I point you in the direction of Anna? She's been following me around for days now.
+
+TAG: Merlin_004_f
+Trying to copy my voice, asking about my childhood, and all that...
+
+TAG: Merlin_005_f
+A game, you say? She most certainly did not!
+
+TAG: Merlin_006_f
+Oh dear. Who... or what is the Mastermind? ... Some nefarious force poised to sweep the Valley with Dark Magic?
+
+TAG: Merlin_007_f
+Um... no.
+

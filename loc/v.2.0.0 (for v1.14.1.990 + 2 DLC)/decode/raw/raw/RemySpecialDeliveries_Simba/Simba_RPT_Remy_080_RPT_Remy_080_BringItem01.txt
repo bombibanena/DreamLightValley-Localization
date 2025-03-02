@@ -1,0 +1,45 @@
+TAG: Simba_000_f
+Huh? What's all this?
+
+TAG: Player_000_f
+Remy wanted you to try some fine dining.
+
+TAG: Player_000_choice_000_f
+It's gotta beat grubs, right?
+
+TAG: Player_000_choice_001_f
+I'm not sure you'll like it better than an antelope.
+
+TAG: Player_000_choice_002_f
+I prefer fast food myself.
+
+TAG: Simba_001_f
+I don't know. I learned to like grubs a lot when I was living with Timon and Pumbaa.
+
+TAG: Simba_006_f
+Well, I'll try anything once. Here goes!
+
+TAG: Simba_007_f
+Huh... that tasted...
+
+TAG: Simba_008_f
+Interesting... But hey, I didn't love grubs the first time I ate those either.
+
+TAG: Simba_009_f
+I'll need to try some more. And I'll bring some to Nala and see what she thinks too.
+
+TAG: Simba_010_f
+Thanks, {PlayerName}!
+
+TAG: Simba_002_f
+Me neither. But I've been surprised by trying new things in the past.
+
+TAG: Simba_004_f
+I never would've thought I'd like grubs until Timon and Pumbaa got me into them.
+
+TAG: Simba_003_f
+Fast food? You mean like zebras? They're pretty fast.
+
+TAG: Simba_005_f
+I meant more like some fries and a large soda... you know what, forget about it.
+

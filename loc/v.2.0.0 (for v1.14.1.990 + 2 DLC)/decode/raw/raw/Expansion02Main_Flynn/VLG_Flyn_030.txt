@@ -1,0 +1,111 @@
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Any_CompletedRequestDescription
+Talk to Flynn about what you've found.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_AvailableDescription
+With muddled memories and a broken heart, Flynn Rider hatched a crafty plan to begin setting things right. {PlayerName} knew they should see what he was up to, lest he get himself into trouble...
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_DisplayName
+An Old-Fashioned Heist
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group01_Step01_VisitArea01_StepDescription
+Go with Flynn to the Fallen Fortress.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group02_Step02_FollowCharacter01_StepDescription
+Follow Flynn to the entry to the vault.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group02_Step02_FollowCharacter01_TalkToDescription
+Talk to Flynn.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group02_StoryDescription
+Though reluctant, {PlayerName} agreed to help Flynn get inside the evil queen's secret vault.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_StepDescription
+Gather the following materials:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group04_Step04_CraftItem01_StepDescription
+Craft the {itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group05_Step05_ConsumeItem01_StepDescription
+Consume the {itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group06_Step06_VisitArea02_StepDescription
+Return to the entry to Maleficent's vault.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group07_Step07_RemoveBlocker01_StepDescription
+Use your Watering Can to clear the way to Maleficent's vault.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group08_Step08_FollowCharacter02_StepDescription
+Go with Flynn to Maleficent's vault.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group08_Step08_FollowCharacter02_TalkToDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group09_Step09_StepDescription
+Inspect the three corridors.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group09_StoryDescription
+Brave as ever, {PlayerName} ventured forth to inspect the corridors, wary of potential traps laid out by Maleficent.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group10_Step10_TalkToCharacter01_StepDescription
+Talk to Flynn.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_Step11_StepDescription
+Can withstand thick smoke.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_Step12_StepDescription
+Can create fire.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_Step13_StepDescription
+Is an expert archer.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_StepDescription
+Recruit someone who:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_StoryDescription
+With the corridors inspected, the quick-thinking rogue had another of his clever ideas: Form a group of intrepid adventurers to take down the traps!
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group12_Step14_VisitArea03_StepDescription
+Return to Maleficent's vault.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group13_Step15_TalkToCharacter10_StepDescription
+Talk to Flynn.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_Conditional01_StepDescription
+Wall Lever.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_Conditional02_StepDescription
+Target Lever.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_Conditional03_StepDescription
+Gas Lever.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_StepDescription
+Talk with the crew to clear the way, and activate the levers.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group15_Step18_VisitArea04_StepDescription
+Enter Maleficent's vault.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group16_Step19_StepDescription
+Look around Maleficent's vault for something valuable.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group16_StoryDescription
+{PlayerName} crept through the creaking vault door, knowing all too well the possible tricks and traps of an evil queen. They looked around the room, seeking anything that may lead to answers about Flynn's past.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group17_Step20_VisitArea05_StepDescription
+{Placeholder}Return inside of fairy trial fallen fortress.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

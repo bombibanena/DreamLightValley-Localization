@@ -1,0 +1,84 @@
+TAG: MotherGothel_001_f
+Матушка Готель Матушка Готель?
+
+TAG: MotherGothel_002_f
+Ну, я надеялся, что у меня будет тихий момент.
+
+TAG: MotherGothel_003_f
+Но очевидно, что у тебя другие планы.
+
+TAG: MotherGothel_004_f
+Я не это имел в виду...
+
+TAG: MotherGothel_005_f
+Почему Маленький Луи в клетке в твоем доме?
+
+TAG: MotherGothel_006_f
+Маленький Луис, ты имеешь в виду рептилийскую насекомую?
+
+TAG: Player_000_choice_000_f
+Есть!
+
+TAG: Player_000_choice_001_f
+Он не вредитель.
+
+TAG: Player_000_choice_002_f
+Это низко, даже для тебя.
+
+TAG: MotherGothel_016_f
+Всё очень просто, {PlayerName}."Маленький Луи"разрушал мой сад.
+
+TAG: MotherGothel_007_f
+Я просто сделал то, что сделал с вредителями.
+
+TAG: MotherGothel_008_f
+Что если мы с Тиана сделаем тебе новый сад?
+
+TAG: MotherGothel_009_f
+А потом я выпущу вредителя и он снова разрушит мой сад?
+
+TAG: Player_001_choice_000_f
+Знаешь, жить на дереве, естественно, разоблачает животных...
+
+TAG: Player_001_choice_001_f
+Это слишком бурная реакция для животного, заходящего в ваш сад.
+
+TAG: Player_001_choice_002_f
+Похоже, ты решил винить меня во всем, что я говорю...
+
+TAG: MotherGothel_019_f
+И очевидно, что я важнее животных!
+
+TAG: MotherGothel_010_f
+Ладно, что если мы поставим заборы, чтобы защитить сад?
+
+TAG: MotherGothel_011_f
+Это может быть... приемлемо.
+
+TAG: MotherGothel_012_f
+Что у тебя было в саду раньше?
+
+TAG: MotherGothel_013_f
+Это была смесь растительных участков <ActivityItem>Okra</ActivityItem>, <ActivityItem>Rice</ActivityItem>, и <ActivityItem>Spinach</ActivityItem>.
+
+TAG: MotherGothel_014_f
+Что касается фехтования, то я хочу <ActivityItem> White Picket Fences</ActivityItem>.
+
+TAG: MotherGothel_022_f
+Если мне придется дождаться, когда ты соберёшь всё сам, я буду ждать много лет!
+
+TAG: MotherGothel_015_f
+Ладно, мы займемся этим прямо сейчас.
+
+TAG: MotherGothel_020_f
+Я заботился об этих овощах, питался и выращивал их сам!
+
+TAG: MotherGothel_021_f
+Дорогая, ты пробовала говорить менее глупые вещи?
+
+TAG: MotherGothel_017_f
+У меня есть доказательства обратного.
+
+TAG: MotherGothel_018_f
+Я просто защищал то, что принадлежит мне.
+

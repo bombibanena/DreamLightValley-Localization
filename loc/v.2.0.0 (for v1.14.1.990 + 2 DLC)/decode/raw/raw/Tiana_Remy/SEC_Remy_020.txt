@@ -1,0 +1,93 @@
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_AvailableDescription
+You found a strange cookbook â to whom could it belong?
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_CompletedStoryDescription
+Tiana is back and ready to cook up a storm! Though she's still recovering from having been trapped in a cookbook, she's ready to make up for lost time with some exciting Cajun food.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_DisplayName
+A Taste for Literature
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group01_Step01_VisitArea01_StepDescription
+Head over to Chez Remy to consult about the mysterious cookbook.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group02_Step02_TalkToCharacter01_StepDescription
+Consult with {TargetNPC} about the mysterious cookbook.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group03_StepDescription
+A Memory appeared in the restaurant! What could it depict?
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group04_StepDescription
+Talk to {TargetNPC} about what you saw in the Memory.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group04_StoryDescription
+You uncovered a Memory of a number of Villagers sharing a meal... but what meal and made by whom?!
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group05_Step05_StepDescription
+(Press {input_mainmenu} to access the Collection menu to look at the Memory.)
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group05_Step05_StepDescriptionMobile
+(Open the Main Menu to access the Collection menu to look at the Memory.)
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group05_StepDescription
+Talk to the Villagers from the Memory.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess01_StepDescription
+{itemName}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess02_StepDescription
+{itemName}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess03_StepDescription
+{itemName}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess04_StepDescription
+{itemName}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group06_StepDescription
+Gather the rest of the Ingredients for the Cajun recipe.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group07_Step07_CookMeal01_StepDescription
+Cook the mysterious Cajun recipe.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter06_StepDescription
+{TargetNPC}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter07_StepDescription
+{TargetNPC}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter08_StepDescription
+{TargetNPC}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter09_StepDescription
+{TargetNPC}.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group08_StepDescription
+Share the <ActivityItem>Enchanted Shrimp ÃtouffÃ©e</ActivityItem> with the Villagers.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group08_StoryDescription
+The meal was Enchanted Shrimp ÃtouffÃ©e! Maybe sharing the meal with everyone in the Memory will help uncover the mysterious chef.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group09_Step09_UnlockCharacter01_StepDescription
+Unlock Tiana.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group10_Step10_ReadyDescription
+Bring some of the {itemName} to {TargetNPC} for a taste.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group10_Step10_StepDescription
+Make sure you have some {itemName} left to share with Tiana.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group11_Step11_PlaceBuilding01_StepDescription
+Place Tiana's House in the Valley.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group11_StoryDescription
+You rescued Tiana from the enchanted cookbook! Now she just needs help getting her House set up again.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group12_Step12_Unlock01_StepDescription
+Interact with the Scrooge McDuck Sign to Rebuild Tiana's House.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group13_Step13_ReadyDescription
+Bring the {itemName} to {TargetNPC} for safekeeping.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_020_Group13_Step13_StepDescription
+Make sure you have the {itemName} in your Inventory.
+

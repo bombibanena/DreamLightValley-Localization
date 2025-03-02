@@ -1,0 +1,36 @@
+TAG: Ariel_000_f
+{PlayerName}, does anyone ever drink from the Wishing Wells in the Valley?
+
+TAG: Player_000_choice_000_f
+Yes, I imagine some Villagers do.
+
+TAG: Player_000_choice_001_f
+I don't know. Why?
+
+TAG: Player_000_choice_002_f
+I hope not. They're MAGIC Wells.
+
+TAG: Ariel_001_f
+Huh... I've never seen anyone do it.
+
+TAG: Ariel_004_f
+But I'll try not to swim in the water that runs under them, just in case. I wouldn't want to startle anyone.
+
+TAG: Ariel_002_f
+Well, I always try to avoid them when surfacing in the Village, so I don't startle anyone.
+
+TAG: Ariel_005_f
+I'll keep avoiding them... just in case.
+
+TAG: Ariel_003_f
+It'd be very dangerous.
+
+TAG: Ariel_006_f
+And kind of weird. I use them to travel.
+
+TAG: Ariel_007_f
+Oh, then it might be dangerous to swim in them too.
+
+TAG: Ariel_008_f
+I'll keep on avoiding them then. Thank you, {PlayerName}.
+

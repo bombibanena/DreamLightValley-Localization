@@ -1,0 +1,45 @@
+TAG: Remy_000_f
+The food critic gave 5 Stars to the <ActivityItem>Ratatouille</ActivityItem>!
+
+TAG: Remy_009_f
+What a relief! Thank you, thank you, thank you!
+
+TAG: Remy_001_f
+You know, {PlayerName}, you are a VERY talented chef. Any chance you want to come work for me?
+
+TAG: Player_000_f
+Actually, I have a restaurant for YOU in my Village!
+
+TAG: Player_000_choice_000_f
+It would be a great new challenge!
+
+TAG: Player_000_choice_001_f
+We could cook together again!
+
+TAG: Player_000_choice_002_f
+You'll have new customers!
+
+TAG: Remy_002_f
+Huh... I do love a cooking challenge. And this might be a good time to do some research.
+
+TAG: Remy_003_f
+You know what, I'll do it. I'll go to your Village and help you with your restaurant!
+
+TAG: Remy_007_f
+Wait, does this job offer come with housing?
+
+TAG: Remy_008_f
+I can't sleep in the kitchen. Wouldn't be hygienic.
+
+TAG: Remy_010_f
+I'll definitely need a House before I can go.
+
+TAG: Remy_004_f
+I'd like that! We make a good team.
+
+TAG: Remy_005_f
+Colette and Linguini can manage without me for a while...
+
+TAG: Remy_006_f
+I do like feeding new people and learning their favorite dishes.
+

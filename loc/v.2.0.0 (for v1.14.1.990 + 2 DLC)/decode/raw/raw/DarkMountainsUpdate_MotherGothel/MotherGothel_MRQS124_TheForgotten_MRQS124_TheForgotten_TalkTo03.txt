@@ -1,0 +1,39 @@
+TAG: MotherGothel_001_f
+My mirror! You found it!
+
+TAG: MotherGothel_002_f
+And so quickly. I knew I could count on you.
+
+TAG: Player_000_choice_000_f
+This mirror is a piece of junk.
+
+TAG: Player_000_choice_001_f
+What's your scheme, Gothel?
+
+TAG: Player_000_choice_002_f
+What's the big idea?
+
+TAG: MotherGothel_003_f
+Of course it is, darling. Did you really think I would ever drop something of value?
+
+TAG: MotherGothel_009_f
+Oh, don't look so UPSET. You must stop taking everything so seriously. Now, shall I tell you my plan?
+
+TAG: MotherGothel_006_f
+You see, {PlayerName}, I've always wondered if that Dreamlight Magic of yours might work like Rapunzel's magical hair...
+
+TAG: MotherGothel_004_f
+So I "borrowed" a little book from Merlin... Traded for a few potions and ingredients from Ursula...
+
+TAG: MotherGothel_005_f
+And now that the magic of the Orb is gone, there's nothing to stop me from throwing it all together to keep you safe in the Giant Willow forever!
+
+TAG: MotherGothel_010_f
+It's for your own good, dear. The world outside is far too dangerous. Trust me. It's better this way. You'll see, in time, that I can be a very loving mother.
+
+TAG: MotherGothel_007_f
+My scheme? That makes it sound so... common.
+
+TAG: MotherGothel_008_f
+The big idea? No, dear. It's a brilliant idea!
+

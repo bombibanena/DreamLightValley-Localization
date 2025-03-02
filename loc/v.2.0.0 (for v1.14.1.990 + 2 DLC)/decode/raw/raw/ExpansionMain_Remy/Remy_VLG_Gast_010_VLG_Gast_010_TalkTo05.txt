@@ -1,0 +1,36 @@
+TAG: Remy_002_f
+How's my favorite chef doing?
+
+TAG: Remy_003_f
+Just fine. But, uh... that Gaston is pretty big and a little... intimidating, huh?
+
+TAG: Player_000_choice_000_f
+Personality or physicality?
+
+TAG: Player_000_choice_001_f
+Yeah, the man is still ridiculously built after surviving on a diet of only coconuts for years.
+
+TAG: Remy_005_f
+Both! But it's fine. I'm sure he's totally harmless.
+
+TAG: Remy_004_f
+But hey, we've got to talk about that new meat freezer!
+
+TAG: Remy_006_f
+I'd go to a party with a dozen Gastons to get my paws on some new ingredients!
+
+TAG: Remy_007_f
+Any new recipes in mind?
+
+TAG: Remy_008_f
+Oh, so many! Pulled pork... shish taouk... maybe even some turnip tartiflette!
+
+TAG: Remy_009_f
+Well, don't let me get in the way of your inspiration!
+
+TAG: Remy_010_f
+Thanks, {PlayerName}!
+
+TAG: Remy_011_f
+I'm gonna go mingle until Gaston unlocks the freezer for me, and then I'm off to test some recipes!
+

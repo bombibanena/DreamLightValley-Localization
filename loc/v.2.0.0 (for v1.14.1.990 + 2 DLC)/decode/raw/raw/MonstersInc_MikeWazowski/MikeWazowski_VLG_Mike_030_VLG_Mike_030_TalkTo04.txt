@@ -1,0 +1,72 @@
+TAG: MikeWazowski_000_f
+So? How does Vanellope like the props?
+
+TAG: MikeWazowski_009_f
+This kid thinks she's got what it takes? Well, I say bring it on!
+
+TAG: Player_000_choice_000_f
+I like where this is going.
+
+TAG: Player_000_choice_001_f
+Let's not get too aggressive here.
+
+TAG: MikeWazowski_001_f
+She loves them!
+
+TAG: MikeWazowski_002_f
+Great!
+
+TAG: MikeWazowski_003_f
+In fact, she loves them so much, she's excited about being a better comic than you.
+
+TAG: MikeWazowski_004_f
+... And not so great.
+
+TAG: MikeWazowski_005_f
+Can't take a little challenge?
+
+TAG: MikeWazowski_006_f
+Can't take... {PlayerName}, do you know who you're talking to?
+
+TAG: MikeWazowski_007_f
+I set the all-time laugh record.
+
+TAG: MikeWazowski_008_f
+I am THE top-performing Jokester in all Monstropolis!
+
+TAG: MikeWazowski_010_f
+Oh yeah, there's no comedy like comedy performed under pressure.
+
+TAG: MikeWazowski_020_f
+<ActivityItem>Comedic Meet and Greet Decor</ActivityItem>! It'll set the perfect atmosphere for folks to schmooze and trade jokes.
+
+TAG: MikeWazowski_021_f
+Great, I'll get started!
+
+TAG: MikeWazowski_012_f
+Okay, I need time to work on my set.
+
+TAG: MikeWazowski_013_f
+{PlayerName}, can you get things kicked off for the comedy night?
+
+TAG: MikeWazowski_014_f
+We need a gathering to let everyone get introduced to each other, schmooze for a while, size each other up.
+
+TAG: MikeWazowski_015_f
+And give the audience a taste of the comedy they'll enjoy in the full show!
+
+TAG: MikeWazowski_016_f
+Sure, what will I need?
+
+TAG: MikeWazowski_017_f
+Well, luckily, you already have those <ActivityItem>Laugh Canisters</ActivityItem>.
+
+TAG: MikeWazowski_018_f
+If you can find some <ActivityItem>Bricks</ActivityItem>, <ActivityItem>Fabric</ActivityItem>, and <ActivityItem>Iron Ingots</ActivityItem>, that should do the trick.
+
+TAG: MikeWazowski_019_f
+What am I making?
+
+TAG: MikeWazowski_011_f
+Right, right... I gotta be funny, not aggressive!
+

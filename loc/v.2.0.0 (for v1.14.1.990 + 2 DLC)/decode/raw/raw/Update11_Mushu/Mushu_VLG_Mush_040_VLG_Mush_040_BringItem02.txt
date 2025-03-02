@@ -1,0 +1,9 @@
+TAG: Mushu_000_f
+All right, {PlayerName}, we have the <ActivityItem>Hand Fan</ActivityItem>. We have the location...
+
+TAG: Mushu_001_f
+Now, you <Lore>get Scar and tell him we wanna talk to him</Lore>.
+
+TAG: Mushu_002_f
+While you do that, I'm gonna set everything up!
+

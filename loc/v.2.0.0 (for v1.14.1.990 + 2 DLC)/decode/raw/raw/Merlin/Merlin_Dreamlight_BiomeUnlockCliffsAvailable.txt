@@ -1,0 +1,18 @@
+TAG: Merlin_000_f
+{PlayerName}, I don't believe you've visited the Frosted Heights yet. It's a Biome in the Valley that's unfortunately blocked by Night Thorns. But once you've cleared those away, be sure to visit.
+
+TAG: Player_000_choice_000_f
+Let's go to the Frosted Heights. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Merlin_001_f
+Oh, that's good news indeed! You may now visit the Frosted Heights!
+
+TAG: Merlin_004_f
+It seems your magic isn't quite strong enough to reach the Frosted Heights. You'll have to gather more Dreamlight.
+
+TAG: Merlin_002_f
+All right. But remember: Only YOU have the power to open the blocked Biomes of the Village.
+

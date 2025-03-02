@@ -1,0 +1,24 @@
+TAG: Ariel_004_f
+Oh, I'm so happy to be back! I can't wait to see Eric. Where is he?
+
+TAG: Player_000_choice_000_f
+I have no idea.
+
+TAG: Player_000_choice_001_f
+You don't remember?
+
+TAG: Player_000_choice_002_f
+Eric who?
+
+TAG: Ariel_000_f
+You haven't seen him? Oh no. That can't be good.
+
+TAG: Ariel_009_f
+I've gotta ask everyone if they know where he went! Thanks for your help, {PlayerName}!
+
+TAG: Ariel_001_f
+Well, he was here with me before I got stranded on the island. But that was so long ago.
+
+TAG: Ariel_002_f
+Eric! He's a prince. Oh! And a human. And the most wonderful person you could ever meet.
+

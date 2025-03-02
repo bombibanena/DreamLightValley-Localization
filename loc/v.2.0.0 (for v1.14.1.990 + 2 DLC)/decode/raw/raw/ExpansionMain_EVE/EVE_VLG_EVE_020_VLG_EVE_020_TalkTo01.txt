@@ -1,0 +1,45 @@
+TAG: EVE_001_f
+Plants!
+
+TAG: EVE_002_f
+How did this happen? Did you use your laser cannon on the plants?
+
+TAG: EVE_003_f
+*frantic digital beeps*
+
+TAG: EVE_004_f
+Why?!
+
+TAG: EVE_005_f
+Directive. Plants.
+
+TAG: Player_000_f
+That's not how...
+
+TAG: Player_000_choice_000_f
+...you give plants some sunlight.
+
+TAG: Player_000_choice_001_f
+...you warm plants up.
+
+TAG: Player_000_choice_002_f
+...you get rid of the weeds.
+
+TAG: EVE_006_f
+*sigh*
+
+TAG: EVE_007_f
+I'm sure we can fix that.
+
+TAG: EVE_008_f
+Phew.
+
+TAG: EVE_009_f
+I think we can make the place even nicer.
+
+TAG: EVE_010_f
+Ooooh?
+
+TAG: EVE_011_f
+And I know who to ask for help. You go fetch some new plants, and I'll go see Mirabel.
+

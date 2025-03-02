@@ -1,0 +1,39 @@
+TAG: Remy_000_f
+Hey, {PlayerName}. I've been thinking...
+
+TAG: Player_000_choice_000_f
+What about?
+
+TAG: Player_000_choice_001_f
+A dangerous pastime.
+
+TAG: Remy_001_f
+About cooking. Of course, I'm always doing that...
+
+TAG: Remy_003_f
+But this time I was thinking about the Night Thorns and how we need to get rid of them.
+
+TAG: Remy_004_f
+So... what if I found a way to cook them?
+
+TAG: Player_000_choice_003_f
+I think they're poisonous.
+
+TAG: Player_000_choice_004_f
+I think they're mystically dangerous.
+
+TAG: Player_000_choice_005_f
+I think they'd taste bad.
+
+TAG: Remy_005_f
+You can cook some poisonous things in a way that makes them safe to eat. But I guess that would be too dangerous to try. I better give it some more thought.
+
+TAG: Remy_006_f
+Mystical, huh? That sounds a little beyond me. Guess I better not mess with the Night Thorns.
+
+TAG: Remy_007_f
+You'd be surprised at how bad some raw ingredients can taste. But sautÃ© them, add a little garlic, and they can totally transform.
+
+TAG: Remy_002_f
+Yeah. That's what my brother always says.
+

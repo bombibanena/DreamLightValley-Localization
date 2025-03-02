@@ -1,0 +1,15 @@
+TAG: Goofy_000_f
+Thanks, {PlayerName}! It sure was fun fishing and cooking with you.
+
+TAG: Goofy_002_f
+Oh boy, Mickey's gonna love this <ActivityItem>Bouillabaisse</ActivityItem>!
+
+TAG: Goofy_001_f
+I'll tell you a secret about cooking and why I wanted to make <ActivityItem>Bouillabaisse</ActivityItem>.
+
+TAG: Goofy_003_f
+The more fun a dish is to say, the more fun it is to cook!
+
+TAG: Goofy_004_f
+<ActivityItem>Bouillabaisse</ActivityItem>! A-hyuck!
+

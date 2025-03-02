@@ -1,0 +1,51 @@
+TAG: Remy_001_f
+Hey, {PlayerName}! I could use your help with a delivery, and it's kind of urgent.
+
+TAG: Remy_002_f
+Scar sent me a message that he "requires" food. And you know how he gets when he's hungry.
+
+TAG: Remy_003_f
+I think our best bet is to make some really filling dishes for Scar.
+
+TAG: Remy_004_f
+Maybe a variety of <ActivityItem>Seafood Meals</ActivityItem>?
+
+TAG: Remy_017_f
+Can you help? Let's just say I'm pretty motivated to keep Scar happy so I don't end up next on the menu.
+
+TAG: Player_000_choice_000_f
+Let's do it!
+
+TAG: Player_000_choice_001_f
+Maybe some other time.
+
+TAG: Remy_005_f
+Great! Good luck, {PlayerName}. I know you've got this.
+
+TAG: Remy_006_f
+And remember to come visit me once you're done delivering your order. I'll have some <ActivityItem>Wrought Iron</ActivityItem> waiting for you.
+
+TAG: Remy_007_f
+Hey, no worries. Let me know if you change your mind and decide you want a new culinary challenge.
+
+TAG: Remy_008_f
+Remember: The more daily deliveries you do, the more <ActivityItem>Wrought Iron</ActivityItem> I can order so you can build more great things for the Village.
+
+TAG: Remy_009_f
+I was thinking something upscale. You know how much Scar likes to feel like a king.
+
+TAG: Remy_010_f
+Maybe some <ActivityItem>Sushi</ActivityItem>? Specifically, <ActivityItem>Tekka Maki</ActivityItem> and <ActivityItem>Maguro Sushi</ActivityItem>.
+
+TAG: Remy_012_f
+And it was a bit odd... This time, Scar asked for desserts. A LOT of desserts.
+
+TAG: Remy_013_f
+Maybe he's suddenly gotten a sweet tooth? Still... I can't help feeling that he's up to something.
+
+TAG: Remy_015_f
+{PlayerName}! We got another special delivery order. And this one is high-stakes.
+
+TAG: Remy_016_f
+{PlayerName}! Chez Remy Mobile just got a new order. And this one's a bit daunting.
+

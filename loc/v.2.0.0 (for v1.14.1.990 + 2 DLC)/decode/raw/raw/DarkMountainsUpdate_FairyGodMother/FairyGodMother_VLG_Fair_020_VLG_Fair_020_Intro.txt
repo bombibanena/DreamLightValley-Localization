@@ -1,0 +1,75 @@
+TAG: FairyGodMother_000_f
+Now, what in the world did I do with that... It's not in my pockets... Not in either of my sleeves...
+
+TAG: FairyGodMother_001_f
+Where could it possibly...
+
+TAG: FairyGodMother_002_f
+Ah! {PlayerName}! Just who I hoped to see. Would you be a dear and help me grant a few wishes?
+
+TAG: Player_000_choice_000_f
+Yes, of course.
+
+TAG: Player_000_choice_001_f
+I'm sorry, I can't right now.
+
+TAG: FairyGodMother_003_f
+Marvelous! I'm sorry to ask, but I simply cannot find a <ActivityItem>Book</ActivityItem> that Merlin lent me.
+
+TAG: FairyGodMother_004_f
+You see, he's asked after it, but it seems to have sprouted legs and run off! ... Oh! Not that I mean actual legs, dear... though I suppose a book of Merlin's might do that...
+
+TAG: FairyGodMother_005_f
+Where was I... Oh yes! Other Villagers are waiting for my help...
+
+TAG: FairyGodMother_006_f
+Could you aid them in my stead while I look for <ActivityItem>Merlin's Book</ActivityItem>?
+
+TAG: Player_001_choice_000_f
+Just point me in the right direction!
+
+TAG: Player_001_choice_001_f
+How many wishes are we talking about?
+
+TAG: Player_001_choice_002_f
+You haven't forgotten who needs your help, have you?
+
+TAG: FairyGodMother_007_f
+Oh, thank you! Now, it's nothing too complicated. You shouldn't have any trouble making these wishes come true.
+
+TAG: FairyGodMother_008_f
+First, our dear friend Anna feels a bit under the weather. Some <ActivityItem>Pumpkin Soup</ActivityItem> should make it all better.
+
+TAG: FairyGodMother_009_f
+Here, take this <ActivityItem>Recipe</ActivityItem> in case you need it.
+
+TAG: FairyGodMother_010_f
+Now who else... Oh! Ursula was in need of <ActivityItem>Amethysts</ActivityItem> and that delightful Olaf fellow would like a pile of <ActivityItem>Sticks</ActivityItem>.
+
+TAG: Player_002_choice_000_f
+Okay, got it.
+
+TAG: Player_002_choice_001_f
+Why sticks?
+
+TAG: FairyGodMother_011_f
+Thank you, dear. Now, I'll go look for that <ActivityItem>Book</ActivityItem>...
+
+TAG: FairyGodMother_012_f
+You know, I haven't the faintest idea.
+
+TAG: FairyGodMother_013_f
+He did say something about a project of some sort. And he seemed quite amused by it all. I'm sure you'll find out.
+
+TAG: FairyGodMother_014_f
+Well, good luck, {PlayerName}! I'm off to look for that <ActivityItem>Book</ActivityItem>!
+
+TAG: FairyGodMother_015_f
+Oh, no more than two or three. You shouldn't have any problem fulfilling these wishes.
+
+TAG: FairyGodMother_016_f
+Goodness no! I could never forget a thing like that. And you shouldn't have any problem granting these wishes.
+
+TAG: FairyGodMother_017_f
+I understand. You've much to do already. Just let me know if you find the time.
+

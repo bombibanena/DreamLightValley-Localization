@@ -1,0 +1,6 @@
+TAG: Mulan_000_f
+Ты сказал Матушка Готель Матушка Готель что ты в моей команде?
+
+TAG: Mulan_001_f
+Да, она попросила меня сделать <ActivityItem>Mini Flags</ActivityItem>. Мне нужно собрать для них несколько <ActivityItem> Blue Star Lilies</ActivityItem>, <ActivityItem>Red Bromeliads</ActivityItem>, <ActivityItem>Fabric</ActivityItem>, и <ActivityItem>Dry Wood</ActivityItem>.
+

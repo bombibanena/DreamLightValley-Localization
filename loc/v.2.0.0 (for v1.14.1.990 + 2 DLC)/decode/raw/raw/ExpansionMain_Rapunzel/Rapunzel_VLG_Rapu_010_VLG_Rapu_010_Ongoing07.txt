@@ -1,0 +1,9 @@
+TAG: Rapunzel_000_f
+Please help me with the home for our capybara friends. Could you collect <ActivityItem>Bamboo</ActivityItem>, <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem>Green Glass-Like Flowers</ActivityItem>, and <ActivityItem>Spinel?</ActivityItem>
+
+TAG: Rapunzel_001_f
+Then make the house at a Crafting Station and <Lore>place it in the jungle</Lore>.
+
+TAG: Rapunzel_002_f
+They're going to love it!
+

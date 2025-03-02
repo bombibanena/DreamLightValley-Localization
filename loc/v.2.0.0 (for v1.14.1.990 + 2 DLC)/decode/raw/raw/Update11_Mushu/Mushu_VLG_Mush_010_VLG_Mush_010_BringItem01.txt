@@ -1,0 +1,39 @@
+TAG: Mushu_001_f
+Hey now, these are some of the luckiest bugs I've ever seen!
+
+TAG: Mushu_002_f
+I'll take good care of 'em while we build the statue, and let 'em go once we're finished.
+
+TAG: Player_000_choice_000_f
+What's next, Mushu?
+
+TAG: Player_000_choice_001_f
+I'm feeling luckier already!
+
+TAG: Player_000_choice_002_f
+Aw, like they're little pets!
+
+TAG: Mushu_004_f
+We gotta <Lore>scout the Valley for the PERFECT place to put our statue.</Lore>
+
+TAG: Mushu_011_f
+Let's both go look. And while you're at it, take this <ActivityItem>Incense Lantern</ActivityItem>. Carry it with you to spread good vibes and help you focus on finding the perfect spot.
+
+TAG: Mushu_000_f
+It'll also make the Valley smell extra good!
+
+TAG: Mushu_012_f
+Oh, but I'd <Lore>avoid doing that magic, sparkly gliding thing you do</Lore>. The breeze blows out the lantern, so you gotta do this one on foot.
+
+TAG: Mushu_003_f
+Me too, and we're gonna need it because now the real work begins.
+
+TAG: Mushu_005_f
+Yeah, maybe I'll even name 'em... Crawly, Skittery and...
+
+TAG: Mushu_006_f
+...Flutter! Aw, they're so cute. Hey, you all! ... What's that...? They say they can't wait to start.
+
+TAG: Mushu_007_f
+Listen to the bugs, {PlayerName}! Let's get our plan for the statue going!
+

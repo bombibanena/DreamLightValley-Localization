@@ -1,0 +1,36 @@
+TAG: Goofy_001_f
+{PlayerName}, you sure took some great photos! Our scrapbook looks real professional!
+
+TAG: Goofy_007_f
+But I just realized it's missing an important part! Can you help me?
+
+TAG: Player_000_choice_000_f
+Sounds fun!
+
+TAG: Player_000_choice_001_f
+Sure, but aren't scrapbooks a little out of fashion?
+
+TAG: Player_000_choice_002_f
+Can't right now. I've got to run!
+
+TAG: Goofy_003_f
+Okay, here's what I'm thinkin'... We got pictures of plants, and critters, and landmarks, and even a picture of us.
+
+TAG: Goofy_002_f
+But we're missing pictures of other folks!
+
+TAG: Goofy_006_f
+I wanna add photos of my best pals, Donald and Mickey.
+
+TAG: Goofy_008_f
+And you should add pictures of the folks you love!
+
+TAG: Goofy_004_f
+Gawrsh, {PlayerName}, is making memories ever really out of fashion?
+
+TAG: Goofy_000_f
+And that's what a scrapbook is. Memories.
+
+TAG: Goofy_005_f
+Aw, I understand. You're busy. Come by when you've got the time!
+

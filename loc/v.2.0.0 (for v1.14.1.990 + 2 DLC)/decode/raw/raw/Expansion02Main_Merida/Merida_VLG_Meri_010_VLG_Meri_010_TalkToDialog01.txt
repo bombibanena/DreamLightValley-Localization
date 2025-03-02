@@ -1,0 +1,27 @@
+TAG: Merida_002_f
+You see these <Lore>Mossy Logs</Lore>? They're all over the place.
+
+TAG: Merida_003_f
+Lucky for us, you've got that <Lore>Royal Shovel</Lore>...
+
+TAG: Merida_004_f
+...and I've got another potion from the Library of Lore!
+
+TAG: Player_000_choice_000_f
+I'll shine up my Shovel!
+
+TAG: Player_000_choice_002_f
+How many potions did you find in there?!
+
+TAG: Merida_007_f
+That'd be grand!
+
+TAG: Merida_006_f
+When you're done <Lore>getting rid of those Mossy Logs</Lore>, I can tell you more of what I learned from my dad about tracking.
+
+TAG: Merida_005_f
+Now, I've just got to go have a wee chat with the Lorekeeper. Come find me when you're through!
+
+TAG: Merida_008_f
+This is the last one. There were a few other bottles lying about, but they were shattered. Wonder who made them all...? Anyway...
+

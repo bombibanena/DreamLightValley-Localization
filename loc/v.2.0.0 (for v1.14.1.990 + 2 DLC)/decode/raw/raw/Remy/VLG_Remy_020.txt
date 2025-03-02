@@ -1,0 +1,72 @@
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Any_CompletedRequestDescription
+Talk to Remy.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_AvailableDescription
+Remy seems upset. You should find out why.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_CompletedStoryDescription
+It's time to find out if Remy likes your creation.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_DisplayName
+Remy's Recipe Book
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group01_Step01_TalkToCharacter01_StepDescription
+Ask Mickey about Remy's <ActivityItem>Recipe Books</ActivityItem>.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group01_StoryDescription
+He remembers that he used to have more recipe books when he lived in Dreamlight Valley, and you have to break the news to him that he left them with Mickey. He asks you to go see him.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group03_Step03_Unlock01_StepDescription
+Examine the list Mickey gave you.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group03_StoryDescription
+Mickey hid the recipe books all over the Valley but kept a list to remind him where. He gives you this list to help you.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_Step04_BringItem02_StepDescription
+Go to the Ratatouille Realm to find what's missing.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_Step04_ReadyDescription
+Bring Remy the <ActivityItem>Bag of Peanuts</ActivityItem>.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_StoryDescription
+After looking around for books, you find some and bring them back to their rightful owner. Remy then asks you to get some <ActivityItem>Peanuts</ActivityItem> from his Realm.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_Step05_CookMeal02_StepDescription
+Cook meals that contain <ActivityItem>Peanuts</ActivityItem>.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_StepDescription
+(Go to your Inventory and use the recipes that Remy gave you to make the meals!)
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_StoryDescription
+Since you brought <ActivityItem>Peanuts</ActivityItem> to the Valley, Remy challenges you to use them in a recipe.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_BringItem03_StepDescription
+First Book's location.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_BringItem04_StepDescription
+Second Book's location.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_BringItem05_StepDescription
+Third Book's location.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_ReadyDescription
+Bring all the Books to Remy.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_StepDescription
+Use <ActivityItem>Mickey's Memory</ActivityItem> to find the hidden Books:
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

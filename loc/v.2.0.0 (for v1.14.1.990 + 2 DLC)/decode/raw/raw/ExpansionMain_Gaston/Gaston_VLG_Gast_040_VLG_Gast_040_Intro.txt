@@ -1,0 +1,102 @@
+TAG: Gaston_003_f
+Hey Gaston, what's new?
+
+TAG: Gaston_004_f
+{PlayerName}, I've had an amazing idea.
+
+TAG: Player_000_choice_000_f
+Great, let's hear it!
+
+TAG: Player_000_choice_001_f
+Aaaand that's my cue to leave.
+
+TAG: Gaston_005_f
+I've accepted that you're not an... ideal lackey.
+
+TAG: Gaston_006_f
+But that doesn't change the fact that I am in need of one.
+
+TAG: Player_001_choice_000_f
+Finally, you're going to stop trying to order me around!
+
+TAG: Player_001_choice_001_f
+Sidekick, Gaston; not lackey.
+
+TAG: Gaston_007_f
+What? I never said that!
+
+TAG: Gaston_010_f
+Regardless... I'm going to recruit one of the Villagers to be my sidekick!
+
+TAG: Gaston_011_f
+As long as "sidekick" is just your way of saying "friend"... I guess that's... relatively harmless.
+
+TAG: Gaston_012_f
+And you're going to help me!
+
+TAG: Player_002_choice_000_f
+Of course you want my help with this.
+
+TAG: Player_002_choice_001_f
+Sure, why not?!
+
+TAG: Gaston_013_f
+Any ideas who you want as your new sidekick?
+
+TAG: Gaston_014_f
+No. I need to see if they're worthy first.
+
+TAG: Gaston_015_f
+I've made a list of potential Villagers, and I need you to talk to each of them.
+
+TAG: Gaston_016_f
+Interrogate them for me, and let me know if they have the qualities I require in a sidekick.
+
+TAG: Player_003_choice_000_f
+Don't judge a book by its cover, Gaston!
+
+TAG: Player_003_choice_001_f
+All right, if it gets you out of my hair.
+
+TAG: Player_003_choice_002_f
+Happy to help!
+
+TAG: Gaston_017_f
+Of course not. Unless it has pictures.
+
+TAG: Gaston_018_f
+Now, I think the following Villagers could be good candidates...
+
+TAG: Gaston_019_f
+<ActivityItem>Donald</ActivityItem>, <ActivityItem>Vanellope</ActivityItem>, <ActivityItem>Stitch</ActivityItem>, <ActivityItem>Minnie</ActivityItem>, and <ActivityItem>Olaf</ActivityItem>.
+
+TAG: Gaston_020_f
+Big list! And a bit random...
+
+TAG: Gaston_021_f
+Well, I may need backups.
+
+TAG: Gaston_022_f
+Okay, I'll talk to them, but don't get upset if they don't want to, okay?
+
+TAG: Gaston_023_f
+{PlayerName}, when have I ever gotten upset?
+
+TAG: Gaston_024_f
+You know what? I'm going to leave instead of answering that.
+
+TAG: Gaston_025_f
+Ha-ha! If I didn't know better, I'd say you don't enjoy my company.
+
+TAG: Gaston_026_f
+Excellent!
+
+TAG: Gaston_008_f
+There's a difference?
+
+TAG: Gaston_009_f
+Yes. Heroes have sidekicks. Lackeys are more like servants. And NO â I'm not going to be your servant.
+
+TAG: Gaston_002_f
+Well, my idea will be even more amazing the next time you come by!
+

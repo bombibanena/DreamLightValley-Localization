@@ -1,0 +1,42 @@
+TAG: Digger_Description
+Твой спутник может найти больше вещей при раскопках.
+
+TAG: Digger_DisplayName
+Обыскание
+
+TAG: Farmer_Description
+Твой товарищ может найти больше посевов при сборе урожая.
+
+TAG: Farmer_DisplayName
+Огородное хозяйство
+
+TAG: Fisher_Description
+Твой товарищ может найти больше рыбы во время рыбалки.
+
+TAG: Fisher_DisplayName
+Рыбный промысел
+
+TAG: Forager_Description
+Ваш товарищ может найти больше вещей при сборе диких посевов и фруктов.
+
+TAG: Forager_DisplayName
+Высадка
+
+TAG: Miner_Description
+Твой спутник может найти больше минералов при добыче.
+
+TAG: Miner_DisplayName
+Добыча полезных ископаемых
+
+TAG: SnippetCatcher_Description
+Твой товарищ может найти больше Сниппетсов.
+
+TAG: SnippetCatcher_DisplayName
+Захват снайперов
+
+TAG: TimeBender_Description
+Ваш товарищ может найти больше сокровищ, когда время наступает.
+
+TAG: TimeBender_DisplayName
+Время
+

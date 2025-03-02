@@ -1,0 +1,57 @@
+TAG: PrinceEric_000_f
+Is it true? Am I really human again...?
+
+TAG: PrinceEric_007_f
+I am! And it's all thanks to you! I don't know how I'll ever repay you.
+
+TAG: PrinceEric_001_f
+Oh, and... heh-heh, just so you know, I was conscious the whole time, bumping around inside your pack. You should really clean that thing out.
+
+TAG: Player_000_choice_003_f
+Yeah, I know.
+
+TAG: Player_000_choice_004_f
+Maybe later.
+
+TAG: Player_000_choice_005_f
+But I never know what I'll need!
+
+TAG: PrinceEric_008_f
+Wait a second... where's Ariel?! Is she okay? What did Ursula do to her?
+
+TAG: PrinceEric_006_f
+Ursula sent her to a deserted island. But she's safe now. She helped me rescue you!
+
+TAG: Player_000_choice_000_f
+She'll be happy to see you.
+
+TAG: Player_000_choice_001_f
+But let's hear more about your story.
+
+TAG: Player_000_choice_002_f
+She's pretty mad at Ursula...
+
+TAG: PrinceEric_002_f
+I've got to see her right away. Whoa...
+
+TAG: PrinceEric_009_f
+Wow... I'm so famished I can barely walk. I can't face her like this... not after everything... I have to get my strength back first.
+
+TAG: PrinceEric_010_f
+No problem. I'll whip up a dish for you that's fit for a prince. How does <ActivityItem>Gazpacho</ActivityItem>, <ActivityItem>Vegetable Stew</ActivityItem>, and a fresh <ActivityItem>Berry Salad</ActivityItem> sound?
+
+TAG: PrinceEric_011_f
+That sounds incredible!
+
+TAG: PrinceEric_012_f
+Thanks, {PlayerName}.
+
+TAG: PrinceEric_003_f
+I'll tell you everything. But not right now. I need to see Ariel... Whoa...
+
+TAG: PrinceEric_004_f
+So am I.
+
+TAG: PrinceEric_005_f
+I have to go see Ariel right away... Whoa...
+

@@ -1,0 +1,42 @@
+TAG: Belle_001_f
+<ActivityItem>The Chronicles of the Ancients</ActivityItem>! It's working!
+
+TAG: Belle_002_f
+So, it wasn't broken beyond repair?
+
+TAG: Belle_006_f
+No, just sort of asleep.
+
+TAG: Belle_003_f
+Thank you, {PlayerName}! I can't wait to see what's inside.
+
+TAG: Belle_004_f
+But while you were gone, I had a thought...
+
+TAG: Belle_005_f
+As an honorary librarian of the Dreamlight Library, I would never want to keep this treasure to myself.
+
+TAG: Belle_007_f
+It belongs in the Library!
+
+TAG: Player_000_choice_000_f
+That's incredibly generous of you.
+
+TAG: Player_000_choice_001_f
+You've really taken your role to heart.
+
+TAG: Player_000_choice_002_f
+You sure you don't want to keep it, just for you...?
+
+TAG: Belle_008_f
+That's kind of you to say, but this never belonged to me. It belongs to everyone in the Village.
+
+TAG: Belle_011_f
+Please, <Lore>place this next to the Dreamlight Library alongside the piles of books</Lore> so everyone can enjoy it.
+
+TAG: Belle_009_f
+I guess I have.
+
+TAG: Belle_010_f
+Oh, no, {PlayerName}, I couldn't.
+

@@ -1,0 +1,96 @@
+TAG: Remy_000_f
+Yes! My <ActivityItem>Bag of Ingredients</ActivityItem>! I thought I'd never get this back.
+
+TAG: Remy_001_f
+I had a little... misunderstanding... with one of the raccoons in the Forest of Valor.
+
+TAG: Remy_002_f
+He grabbed the bag and ran off. I thought I'd never get to finish my errands.
+
+TAG: Player_000_choice_000_f
+Can I help you with your errands?
+
+TAG: Player_000_choice_001_f
+You're lucky the raccoon didn't eat it all.
+
+TAG: Player_000_choice_002_f
+Note to self: Don't mess with raccoons.
+
+TAG: Remy_003_f
+Actually, now that you mention it...
+
+TAG: Remy_004_f
+...I could really use your help.
+
+TAG: Remy_005_f
+What do you need?
+
+TAG: Remy_006_f
+Well, these were Ingredients for some special deliveries.
+
+TAG: Remy_007_f
+I wanted to make meals to thank everyone who stayed behind to take care of the Valley during the Forgetting.
+
+TAG: Player_001_choice_000_f
+That's thoughtful!
+
+TAG: Player_001_choice_001_f
+I'd love to help however I can.
+
+TAG: Player_001_choice_002_f
+Hope you've got a thank-you dessert planned for me...
+
+TAG: Remy_008_f
+Aw, thanks. I figured it was the least I could do after Mickey took care of my recipes. There's only one problem...
+
+TAG: Remy_009_f
+I've been pretty busy with the restaurant. So I haven't had time to cook all the meals I had planned.
+
+TAG: Remy_010_f
+If I gave you these Ingredients... do you think you could finish <Lore>making some meals for Merlin, Mickey, Mr. McDuck, and Goofy</Lore>?
+
+TAG: Remy_011_f
+You've been a pretty great sous chef in the past.
+
+TAG: Player_002_choice_000_f
+Of course! I'd be honored to help.
+
+TAG: Player_002_choice_001_f
+I'm sure I could whip something up for them.
+
+TAG: Player_002_choice_002_f
+I'll put it on the bottom of my increasingly long to-do list...
+
+TAG: Remy_012_f
+Thanks, {PlayerName}. I really appreciate it.
+
+TAG: Remy_013_f
+Here, take the Ingredients. Just make sure to <Lore>cook them fresh</Lore>. And they've definitely got to be <Lore>5 Stars</Lore>!
+
+TAG: Remy_014_f
+Come talk to me if you need any help thinking of meals.
+
+TAG: Remy_015_f
+I know you can. You're a great cook.
+
+TAG: Remy_016_f
+I get it. There's no rush, but I'm sure they'll appreciate the gesture.
+
+TAG: Remy_017_f
+I really appreciate it. My little "thank you" isn't going so well.
+
+TAG: Remy_018_f
+Don't worry, {PlayerName}. I've definitely got something in mind for you. Just haven't gotten around to making it yet.
+
+TAG: Remy_019_f
+I'll say. It would've been a huge waste if Ingredients like these were eaten before they could be transformed into spectacular dishes.
+
+TAG: Remy_020_f
+Oh, hey, and speaking of cooking all this...
+
+TAG: Remy_021_f
+Ha! No kidding. I, for one, have learned my lesson.
+
+TAG: Remy_022_f
+But say, now that you're here...
+

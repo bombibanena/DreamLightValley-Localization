@@ -1,0 +1,21 @@
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_030_AvailableDescription
+Мулан инструктировал вас завершить тренировочные упражнения, чтобы лучше себя вести. Одна из них довольно проста. Вам нужно немного порыбачить, чтобы проявить терпение и точность.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_030_DisplayName
+Рыболовство на предмет точности
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_030_Group01_Step01_CatchFish01_StepDescription
+Поймать {TargetAmount} <ActivityItem>Salmon</ActivityItem> в королевстве Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_030_Group02_Step02_TalkToCharacter01_StepDescription
+Возвращайтесь на Мулан.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_030_Group03_Step03_FillKeyhole01_StepDescription
+Положите <ActivityItem>Fish</ActivityItem> в котлоагрегат.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_030_Group03_StoryDescription
+Мулан поздравляет вас с достижением и просит добавить один из ваших уловов в котлоагрегат.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_030_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+

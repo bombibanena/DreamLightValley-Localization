@@ -1,0 +1,6369 @@
+TAG: AuroraBookshelf
+You recognize Aurora's handwriting from her journals: "Aunt Flora tells me that to get rid of those giant, shattered teacups littering the Teapot Falls, I'll have to make a potion using..."
+
+TAG: Boutique_Cancel_Challenge_Text
+Cancel the current challenge.
+
+TAG: Boutique_Check_Challenge_Text
+Did I complete the challenge?
+
+TAG: boutique_compatibility_warning_message
+One of the items you wish to see was made on another body type or shape that's different from your current form.<lw><lw>If you save it, it may be in a Touch of Magic inventory linked to the design's original type. Wearing it may cause the design to appear slightly different from the original. Continue?
+
+TAG: boutique_compatibility_warning_title
+Warning!
+
+TAG: boutique_not_available_error
+This Boutique is currently unavailable.
+
+TAG: Boutique_Panel_Cant_Interact_Text
+You can't check your panel in multiplayer mode!
+
+TAG: Boutique_Panel_Empty_List_Text
+You have no visitors in your profile!
+
+TAG: Boutique_Panel_FTUE_Body
+Use this to access the Boutiques of visitors you've connected with during Valley Visits without visiting them.<lw><lw>(Make sure to use Valley Visits to populate this panel!)
+
+TAG: Boutique_Panel_FTUE_Title
+Visitor Boutiques
+
+TAG: Boutique_Panel_Local_Text
+Return to your Boutique
+
+TAG: Boutique_Panel_User_Generated_Restriction
+Boutique unavailable because user content sharing is disabled.
+
+TAG: Boutique_Save_Design
+Design Saved Successfully!
+
+TAG: Boutique_Shop_Text
+Can I see your shop?
+
+TAG: Boutique_Start_Challenge_Text
+What's the challenge today?
+
+TAG: catalog_reset_room_desc
+Are you sure you want to reset the room?
+
+TAG: Challenge_BoardGame
+Do you want to play Scramblecoin?
+
+TAG: character_skin_change
+You can not update this Villager's look right now.<lw>Completing their active Quests may resolve this.
+
+TAG: character_skin_change_title
+Style Change Blocked
+
+TAG: choose_role
+Choose {characterName}'s Hangout Bonus:
+
+TAG: ColossusBridgeControls
+The gears grind, but the bridge doesn't budge. It seems something is missing or broken.
+
+TAG: confirmDataCollection
+Disney Dreamlight Valley includes online features and events. To access these features, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to online features. You may update this permission at any time from the Settings menu.
+
+TAG: confirmDataCollectionSettings
+Disney Dreamlight Valley includes online features and events. To access these features, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to online features.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: confirmDataCollectionSettingsDisable
+To provide you access to Disney Dreamlight Valley online features and events, we collect and process device and/or user identifiers and gameplay history.<lw><lw>Revoking your permission will disable the processing of this information and disable your access to online features. You will still be able to play the game offline and to update your preferences at any time from the Settings menu.<lw><lw>Do you want to revoke your permission and play offline?
+
+TAG: confirmExtraLimit
+Be careful! This option will increase the limit of objects you can add to your Village. If you play on other platforms, this may cause issues such as crashes and instability.
+
+TAG: confirmExtraLimitTitle
+Activate Extra Limit
+
+TAG: crossplay_body
+Completing this action disables cross-play with other platforms. You will not be able to play with players or friends from different platforms.<lw><lw>Please note that some features will become unavailable. To reactivate them, enable cross-play again.
+
+TAG: DataCollectionAgeDesc
+Please note that children are restricted from accessing Disney Dreamlight Valley's online features and events. You may continue playing the game offline.
+
+TAG: DataCollectionAgeTitle
+Age Restriction
+
+TAG: DataCollectionWarningText
+To use this feature, you need to send your gameplay information to our servers. If you tap Not Now, you won't be able to use all online features, but you can still play the game offline.<lw><lw>You can change this at any time in the Settings menu.
+
+TAG: DataCollectionWarningText_Boutique
+To grant you access to the Disney Dreamlight Valley Boutique, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the Boutique.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_claim_Mailbox
+To grant you access to the Disney Dreamlight Valley online mail claiming feature, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the online mail claiming feature.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_DeleteData
+To grant you access to the Disney Dreamlight Valley Delete All Collected Data feature, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the Delete All Collected Data feature.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_DreamSnaps
+To grant you access to Disney Dreamlight Valley DreamSnaps, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to DreamSnaps.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_EventMenu
+To grant you access to the Disney Dreamlight Valley event menu, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the event menu.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_fetch_Mailbox
+To grant you access to the Disney Dreamlight Valley online mail retrieval feature, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the online mail retrieval feature.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_Multiplayer
+To grant you access to the Disney Dreamlight Valley multiplayer feature, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the multiplayer feature.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_Photo_Save_And_Share
+To grant you access to the Disney Dreamlight Valley Save and Share feature, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the Save and Share feature.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_Showid
+To grant you access to show your User ID, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to the Save and Share feature.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningText_ShowUserID
+To grant you access to show your User ID, we must collect and process device and/or user identifiers and gameplay history.<lw><lw>You may grant your permission for these operations by selecting "Agree." If you select "Disagree," you will still be able to play the game offline, but you will not have access to your User ID.<lw><lw>You may update this permission at any time from the Settings menu.
+
+TAG: DataCollectionWarningTitle
+Online Features Access â Data Collection Permission
+
+TAG: Delivery_Dialogue_Text
+I'd like to order some items.
+
+TAG: dream_styles
+Dream Styles
+
+TAG: duty_tab_button_1540000000
+Dreamlight Duties
+
+TAG: duty_tab_button_1540000101
+Mist Duties
+
+TAG: duty_tab_button_1540000119
+Storybook Duties
+
+TAG: exp02_VLG_flyn_notefire
+A wall of stone holding fast,<br>Shall only break with a fiery blast.
+
+TAG: exp02_VLG_flyn_notegas
+A sickness that shall never mend,<br>This thick dark smoke will be your end.
+
+TAG: exp02_VLG_flyn_notetarget
+A door that simply can't be breached,<br>Needs the target out of reach.
+
+TAG: FishingSwitchHint
+Something lies beneath this swirling vortex...<br><br>If only someone could <Lore>fish</Lore> it up...
+
+TAG: force_cloud_offline
+You can't use the cloud saving feature due to age requirements
+
+TAG: force_offline_alert
+You are playing in offline mode due to age requirements
+
+TAG: forYourInformation
+For your information
+
+TAG: ftue_bellebook_001
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br><Lore>"The Woman and the Man of Stone."</Lore><br><br>"Once upon a time, a young woman was walking in the woods. She heard a voice singing so sadly that it pierced her heart. She left the path to follow it..."
+
+TAG: ftue_bellebook_002
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>"The voice led the young woman to a man of stone, imprisoned in vines and thorns. He boomed at her as she approached: 'Go away!'<nbsp>"
+
+TAG: ftue_bellebook_003
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>" 'You can speak?' the young woman asked, drawing closer to the man of stone, hesitating as she reached out her hand. 'Can you move?' "
+
+TAG: ftue_bellebook_004
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>" 'I can speak,' the man of stone said, 'and I would be able to move if not for these cursed thorns!' "
+
+TAG: ftue_bellebook_005
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>"The young woman tried in vain to free the man of stone. But she wounded herself on the thorns and vowed to return with help."
+
+TAG: ftue_bellebook_006
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>"In the young woman's village, no one believed the story about the man of stone. Even when she showed her thorn wounds, they scoffed."
+
+TAG: ftue_bellebook_007
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>"The exhausted young woman fell asleep in her home, with the thorn wounds burning. When she awoke she was transformed..."
+
+TAG: ftue_bellebook_008
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>"The young woman had become a magnificent beast with massive claws! She raced to the woods."
+
+TAG: ftue_bellebook_009
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>"When the man of stone saw the beastly young woman, he wept. He had tried to warn her about the thorns. But she howled with delight, slashing the thorns until he was free."
+
+TAG: ftue_bellebook_010
+[A page with neat cursive writing. It looks like someone is writing a story.]<br><br>"The man of stone and the young woman headed deeper into the woods. They were truly free, and chased adventure together ever after."<br><br><Lore>"The End."</Lore>
+
+TAG: ftue_birdmessage_010
+Blast this bird! I wanted to train a replacement for Iago, but instead I'm stuck with this annoying nuisance.<br><br>He refuses to help with my experiments. Why, he has even begun stealing my implements and artifacts, refusing to give them back unless I feed him. And his tastes are peculiar...<br><br>He only wants dishes made with <Lore>fresh vegetables and rotten seafood</Lore>.<br><br>Ugh. The stench is foul...
+
+TAG: ftue_secretroom_aquamarine
+Upon this pedestal sits a single tarnished <Lore>blue</Lore> gem â an <ActivityItem>Aquamarine</ActivityItem>.
+
+TAG: ftue_secretroom_garnet
+Upon this pedestal sits a single tarnished <Lore>red</Lore> gem â a <ActivityItem>Garnet</ActivityItem>.
+
+TAG: ftue_secretroom_topaz
+Upon this pedestal sits a single tarnished <Lore>yellow</Lore> gem â a <ActivityItem>Topaz</ActivityItem>.
+
+TAG: gender
+Gender
+
+TAG: get_your_avatar_code_title
+Get your code!
+
+TAG: Give_Dialogue_Text
+I have something to give you!
+
+TAG: Give_Restaurant_Order
+I have your order!
+
+TAG: granted_from_other_dlc
+Access Granted
+
+TAG: hint_capture
+Capture
+
+TAG: hint_changeCameraMode
+Change Camera mode
+
+TAG: hint_hideDC
+Hide DreamSnaps
+
+TAG: hint_hideTOM
+Hide Touch of Magic objects
+
+TAG: hint_hideUI
+Hide UI
+
+TAG: hint_imageformat
+Change image format
+
+TAG: hint_saveOnly
+Save only
+
+TAG: hint_share
+Save and share (QR code)
+
+TAG: hint_shareOnly
+Share (QR code)
+
+TAG: hint_showDC
+Show DreamSnaps
+
+TAG: hint_showTOM
+Show Touch of Magic objects
+
+TAG: hint_showUI
+Show UI
+
+TAG: hint_standCrouch
+Stand/Crouch
+
+TAG: hud_btn_discord
+Discord
+
+TAG: hud_btn_exit
+Exit
+
+TAG: inbox_category_all
+All
+
+TAG: interactpreview_approach
+Approach
+
+TAG: interactpreview_browse
+Browse
+
+TAG: interactpreview_change
+Change
+
+TAG: interactpreview_check
+Check
+
+TAG: interactpreview_eat
+Eat
+
+TAG: interactpreview_embark
+Embark
+
+TAG: interactpreview_enter
+Enter
+
+TAG: interactpreview_exit
+Exit
+
+TAG: interactpreview_expandhouse
+Expand House
+
+TAG: interactpreview_harvest
+Harvest
+
+TAG: interactpreview_harvest_hold
+(HOLD) Harvest multiple
+
+TAG: interactpreview_interact
+Interact
+
+TAG: interactpreview_interact_get_on
+Use the Camera to get on
+
+TAG: interactpreview_interact_party_gather
+Use the Camera to gather Villagers
+
+TAG: interactpreview_interactvoid
+Focus magic
+
+TAG: interactpreview_investigate
+Investigate
+
+TAG: interactpreview_lounge
+Lounge
+
+TAG: interactpreview_open
+Open
+
+TAG: interactpreview_opengamercard
+Open Gamercard
+
+TAG: interactpreview_openstorage
+Open Storage
+
+TAG: interactpreview_pet
+Pet
+
+TAG: interactpreview_pickup
+Pick Up
+
+TAG: interactpreview_pickup_hold
+(HOLD) Pick up multiple
+
+TAG: interactpreview_plant_seed
+Plant Seed
+
+TAG: interactpreview_plant_seed_hold
+(HOLD) Plant multiple
+
+TAG: interactpreview_read
+Read
+
+TAG: interactpreview_remove
+Remove
+
+TAG: interactpreview_secret
+???
+
+TAG: interactpreview_sit
+Sit
+
+TAG: interactpreview_talk
+Talk
+
+TAG: interactpreview_unlock
+Unlock
+
+TAG: interactpreview_upgrade
+Upgrade
+
+TAG: interactpreview_use
+Use
+
+TAG: interactpreview_useelevator
+Use Elevator
+
+TAG: inventory_smart_transfer
+Smart Transfer
+
+TAG: invite
+Invite
+
+TAG: item_amount
+{input_amount} {input_itemName}
+
+TAG: KnightDrawbridge
+There's something inscribed on the drawbridge: "None shall pass until they have proven themselves to be a knight."
+
+TAG: Locked_Hangout_Text
+Reach Friendship Level 2.
+
+TAG: Locked_IncorrectScene
+Unavailable in this location
+
+TAG: Locked_IncorrectScene_Inv
+Unavailable in this location
+
+TAG: Locked_IncorrectVillage
+{mission_text}<br>(Available in {scene_name})
+
+TAG: Locked_KeepPlaying_Text
+Keep playing to unlock more missions.
+
+TAG: mark_item
+Mark Item
+
+TAG: mark_item_hold
+(HOLD) Mark Item
+
+TAG: MRQS_E02_031_CookingNote
+Notes to self on making the perfect wolf-ish musk:<br><br>- I only need ONE thing directly from a wolf.<br><lwr>- I definitely need some oil in there.<br>- Four ingredients is definitely too many. It turned into a mess... Keep it simpler...<br><lwr>- Note to self: Oil doesn't mix with water... or with drool...<br><lwr>- It should smell like a forest... not a flower...
+
+TAG: MRQS_E02_031_DecorateNote
+The hidden entrance will only trigger when the right building material is <Lore>used to decorate in the right spot</Lore>.<br><br>In the first construction zone, <Lore>place something that's easiest to blow away by huffing and puffing</Lore>.<br><br>In the second, <Lore>place something just a little bit sturdier</Lore>.<br><br>In the third, place something that no big bad wolf could ever blow down.
+
+TAG: MRQS_E02_031_ShovelNote
+Note to self: To open this doorway, try <Lore>digging</Lore> up the right things...
+
+TAG: MRQS_E02_031_WardrobeNote
+I keep forgetting the combination to this wardrobe where I keep my slippers!!!<br><br>I <Lore>left myself some clues around the room</Lore> so I can always get it open again.
+
+TAG: MRQS_E02_041_TeaNote01
+We're already late! Oh dear, oh dear.<br><br>To get us started, <Lore>first someone must set the chairs in the right places at the table</Lore>.<br><br>The <Lore>Ornate Pink Chair</Lore>... why that must go in a place of honor, of course!<br><br>The <Lore>Elegant Blue Chair</Lore>, why that belongs closest to the guest of honor!<br><br>The <Lore>Sturdy Wooden Chair</Lore>, that ought to go farthest away, for someone shy.
+
+TAG: MRQS_E02_041_TeaNote02
+Once the chairs are set, you <Lore>must place the tea set on the trolley at the end of the table</Lore>, ready to serve.<br><br>Oh where oh where did I leave that tea set... It must be around here somewhere...
+
+TAG: MRQS_E02_041_TeaNote03
+Gah! That clock on the far wall hasn't been working at all.<br><br>Once you've done all the rest, you'll have to set the hands for tea time manually. Hmm... <Lore>8 o'clock would be too early, and 10 o'clock would be too late, but in between would be just right</Lore>!
+
+TAG: MRQS_E02_051_HelmetNote
+Harrumph! Someone's gone and lost the bucket for fetching water again. I suppose one of these <Lore>helmets</Lore> ought to do! I must be careful not to drop it in the water like the bucket...
+
+TAG: MRQS_E02_051_KnightNote
+Each valiant knight dealt with a different mythic beast.<br><br>The red knight fought a <Lore>vicious lion</Lore>.<br><br>The blue knight tamed a <Lore>tempestuous unicorn</Lore>.<br><br>The green knight faced down a <Lore>terrifying dragon</Lore>.
+
+TAG: MRQS_E02_060_DecorateNote
+How curious. It seems some of my furniture has gone missing... but their shadows haven't.<br><br>My <Lore>throne, spinning wheel, and candelabra</Lore> must be around here somewhere, just waiting to be put back in their proper place.
+
+TAG: Reorder_Stories
+I want to reorder stories!
+
+TAG: rlm_monstersinc_brokendoor01
+[A notice from MIFT.]<br><br>Door Out of Order!
+
+TAG: rlm_monstersinc_brokendoor02
+[A second MIFT sticky note below the first.]<br><br>Door STILL Out of Order! Tools are missing. Maybe they're in the Laugh Floor tool chest?
+
+TAG: rlm_monstersinc_IngredientStall
+Out of Stock.
+
+TAG: rlm_monstersinc_KidRoomNote
+"This room is a mess! There's enough clothes on the floor here for a bulldozer or a shovel! Clean it up, please."<lwr><lwr>"Mom xoxo"
+
+TAG: rlm_monstersinc_mike_010_drawing01
+A child's drawing of a ringmaster's hat and a wand.
+
+TAG: rlm_monstersinc_mike_010_drawing02
+A child's drawing of a circus elephant.
+
+TAG: rlm_monstersinc_mike_010_drawing03
+A child's drawing of a circus clown.
+
+TAG: rlm_monstersinc_stickynotes_010
+Wazowski. Paperwork. I'm not asking again. â R<br><br>(1/10)
+
+TAG: rlm_monstersinc_stickynotes_020
+Talk to Sulley. Paperwork is a CEO problem. â MW<br><br>(2/10)
+
+TAG: rlm_monstersinc_stickynotes_030
+You still need to turn in your OLD, OVERDUE paperwork, Wazowski. â R<br><br>(3/10)
+
+TAG: rlm_monstersinc_stickynotes_040
+What if all that paperwork accidentally fell through a door shredder? â MW<br><br>(4/10)
+
+TAG: rlm_monstersinc_stickynotes_050
+Hope you like puzzles. â R<br><br>(5/10)
+
+TAG: rlm_monstersinc_stickynotes_060
+Sulley, can we throw my old paperwork through the door to the Himalayas? â MW<br><br>(6/10)
+
+TAG: rlm_monstersinc_stickynotes_070
+Found your last note on the Laugh Floor. The Himalayas won't save you, Wazowski. â R<br><br>(7/10)
+
+TAG: rlm_monstersinc_stickynotes_080
+It's rude to read other monsters' sticky notes, Roze! â MW<br><br>(8/10)
+
+TAG: rlm_monstersinc_stickynotes_090
+You do know in the time you wrote all these you could've FILED your PAPERWORK? â R<br><br>(9/10)
+
+TAG: rlm_monstersinc_stickynotes_100
+NEVER!!!!!!!! I'm a Jokester now and I'm NEVER GOING BACK! â MW<br><br>(10/10)
+
+TAG: rlm_monstersinc_stickynotes_110
+... I'll TRY and have it by tomorrow. â MW<br><br>(11/10)
+
+TAG: rlm_monstersinc_sull_010_coffeeorders
+Coffee Orders<br><br><lwr>Celia â Coffee x 1, Sugar x 2, Non-dairy Screamer x 2<lwr>George â Ooze-long Tea<lwr>Mike â Coffee x 1, Sugar x 3, Non-dairy Screamer x 1<lwr>Randall â Coffee x 5<lwr>Roz â Coffee x 2, Sugar x 2<lwr>Sulley â Coffee x 5
+
+TAG: rlm_monstersinc_sull_010_laughfloordoor
+[You are scanned. A red light flashes.]<br><br>Access Denied.<br><br>Monster not identified. Employees only beyond this point.
+
+TAG: settings_accessibility
+Accessibility
+
+TAG: settings_controls_extraobjectlimit
+Extra object limit
+
+TAG: settings_controls_extraobjectlimit_disable
+Remove some objects to disable the extra limit.
+
+TAG: settings_controls_extraobjectlimit_over
+You are over the normal object limit ({icon_amount_multiple} 600, {icon_amount} 3,000).
+
+TAG: settings_mp_friend_list_title
+Friend List
+
+TAG: shortcut_common_default_track_story
+Track Story
+
+TAG: shortcut_common_default_untrack_story
+Untrack Story
+
+TAG: splash_all_rights_reserved
+All Rights Reserved. Gameloft and the Gameloft logo are trademarks of Gameloft.
+
+TAG: Start_Hangout_Text
+Let's hang out!
+
+TAG: Stop_Hangout_Text
+Bye! Let's hang out later.
+
+TAG: storefront_huge_moonstone_pack
+Huge Moonstone Pack
+
+TAG: subtitle_touch_of_magic3_3
+Change camera angles quickly
+
+TAG: subtitle_touch_of_magic4_furniture_2
+...the design will be deleted, but the blank furniture will remain placed. The base will be returned to your Inventory only if the blank furniture is removed.
+
+TAG: TurningFloorControl
+Some sort of control panel is visible beneath this petrified wood. If only your Pickaxe were strong enough to remove it...
+
+TAG: Visit_Aquatic_Text
+Let's go see your House!
+
+TAG: warmingExtraLimitActivated
+Your current platform is not compatible with the Extra Limit option, which was activated on another platform. Please note that some instability may be encountered on the current platform.
+
+TAG: warning_potential_time_travel
+We have detected that your clock is ahead of the real time. This can cause issues. Are you sure you want to continue?
+
+TAG: WateringCanSwitchHint
+<Lore>Water</Lore> gives life. A sprinkle of it might get this machinery working again.
+
+TAG: currency_abbr_billion
+B
+
+TAG: currency_abbr_million
+M
+
+TAG: currency_abbr_thousand
+K
+
+TAG: day_abbr_friday
+Fri
+
+TAG: day_abbr_monday
+Mon
+
+TAG: day_abbr_saturday
+Sat
+
+TAG: day_abbr_sunday
+Sun
+
+TAG: day_abbr_thursday
+Thu
+
+TAG: day_abbr_tuesday
+Tue
+
+TAG: day_abbr_wednesday
+Wed
+
+TAG: level_abbr_lvl
+LVL
+
+TAG: achievement_completed
+Completed
+
+TAG: ancient_machine_auto_cooker_name
+Auto-Cooker
+
+TAG: ancient_machine_cancel_all
+Cancel all
+
+TAG: ancient_machine_gardener_dig
+Dig
+
+TAG: ancient_machine_gardener_name
+Gardener
+
+TAG: ancient_machine_gardener_spots_available
+Gardening spots
+
+TAG: ancient_machine_menu_add
+Add
+
+TAG: ancient_machine_menu_capacity
+Max
+
+TAG: ancient_machine_menu_claim
+Claim
+
+TAG: ancient_machine_menu_collect
+Collect
+
+TAG: ancient_machine_menu_cook
+Cook...
+
+TAG: ancient_machine_menu_harvest
+Harvest
+
+TAG: ancient_machine_menu_how_many
+How many?
+
+TAG: ancient_machine_menu_level
+Level
+
+TAG: ancient_machine_menu_plant_seed
+Plant Seed
+
+TAG: ancient_machine_menu_select_all
+Select All
+
+TAG: ancient_machine_menu_select_ingredients
+Select Ingredients
+
+TAG: ancient_machine_menu_select_seed
+Select Seed
+
+TAG: ancient_machine_vacuum_name
+Vacuum
+
+TAG: ancient_machine_message_full
+Output is full
+
+TAG: ancient_machine_message_invalid_ingredients
+Invalid Ingredients
+
+TAG: ancient_machine_message_inventory_full
+Your Inventory is full
+
+TAG: ancient_machine_message_not_active
+Ancient Machine is not active
+
+TAG: ancient_machine_message_not_enough_combustible
+Not enough Coal
+
+TAG: ancient_machine_message_not_enough_ingredients
+Not enough Ingredients
+
+TAG: ancient_machine_message_not_enough_mist
+Not enough Mist
+
+TAG: ancient_machine_message_not_enough_seeds
+Not enough seeds
+
+TAG: ancient_machine_message_not_ready
+Not ready
+
+TAG: ancient_machine_message_nothing_claimed
+Nothing claimed. Your Backpack is full.
+
+TAG: ancient_machine_message_nothing_to_claim
+Nothing to claim
+
+TAG: ancient_machine_message_nothing_to_do_gardener
+No holes near this Machine to plant in
+
+TAG: ancient_machine_message_over_max_capacity
+Over max capacity
+
+TAG: avatar_category_body_type
+Body
+
+TAG: avatar_category_ears
+Ears
+
+TAG: avatar_category_eyes
+Eyes
+
+TAG: avatar_category_facialhair
+Facial Hair
+
+TAG: avatar_category_hairstyle
+Hairstyle
+
+TAG: avatar_category_jaw
+Jaw
+
+TAG: avatar_category_makeup
+Makeup
+
+TAG: avatar_category_mouth
+Mouth
+
+TAG: avatar_category_nose
+Nose
+
+TAG: avatar_category_skin_color
+Skin Tone
+
+TAG: avatar_category_wholeface
+Face
+
+TAG: avatar_no_item_category
+There are no items in this category.
+
+TAG: avatar_presets
+Body Shape
+
+TAG: avatar_skin_category_default
+Normal
+
+TAG: avatar_skin_category_monstrous
+Monstrous
+
+TAG: avatar_import_error_invalid_code
+Invalid Avatar Code.<br>Verify your code and try again.
+
+TAG: avatar_import_error_invalid_data
+The Avatar data for this code is not valid.
+
+TAG: avatar_import_no_internet
+You have to be online to import your Avatar. Please make sure that you are connected to the Internet!
+
+TAG: avatar_import_success
+Avatar successfully imported
+
+TAG: button_avatar_import
+Import Avatar
+
+TAG: button_goto_designs
+Go to Designs
+
+TAG: import_avatar_already_imported
+You already imported an Avatar
+
+TAG: import_avatar_desc
+Enter the Avatar Code generated by the Avatar Designer Tool to import your Avatar.<br><br>You can import an Avatar only once.
+
+TAG: import_avatar_error_desc
+The Avatar cannot be imported because there is no room left to save a Touch of Magic Design. Delete some Designs and try again.
+
+TAG: import_avatar_error_title
+Import Avatar Error
+
+TAG: import_avatar_input_placeholder
+Avatar Code
+
+TAG: import_avatar_title
+Enter Avatar Code
+
+TAG: board_game_anywhere
+Anywhere
+
+TAG: board_game_borders
+Borders
+
+TAG: board_game_charge_description
+<b>Charge</b> <Ability>(Movement continues until an obstacle or the side of the board is hit)</Ability>
+
+TAG: board_game_check_board
+Check Board
+
+TAG: board_game_check_figurine
+Check Figurine
+
+TAG: board_game_choose_figurines
+Choose your figurines
+
+TAG: board_game_conditions_title
+Playing conditions:
+
+TAG: board_game_corners
+Corners
+
+TAG: board_game_end_draw
+The game is over. It's a draw!
+
+TAG: board_game_end_loss
+The game is over. You lost!
+
+TAG: board_game_end_win
+The game is over. You won!
+
+TAG: board_game_entry_point_title
+Entry point:
+
+TAG: board_game_ethereal_description
+<b>Ethereal</b> <Ability>(Can pass through obstacles and figurines during movement but must end on a free tile)</Ability>
+
+TAG: board_game_hint_figurine_choice
+Choose your figurines
+
+TAG: board_game_hint_figurine_movement
+Move each figurine in play
+
+TAG: board_game_hint_figurine_placement
+Place figurine
+
+TAG: board_game_hint_opponent_turn
+Opponent's turn
+
+TAG: board_game_jump_description
+<b>Jump</b> <Ability>(Move directly to the target tile, ignoring anything in between)</Ability>
+
+TAG: board_game_mobile_figurine_movement_selection
+Play
+
+TAG: board_game_mobile_figurine_placement_selection
+Select
+
+TAG: board_game_movement_title
+Movement:
+
+TAG: board_game_moves_per_turn_description
+The moves improve every turn spent on the board.
+
+TAG: board_game_none
+None
+
+TAG: board_game_selector_title
+Choose 5 figurines to play with
+
+TAG: board_game_skip
+Skip
+
+TAG: board_game_turn
+Turn
+
+TAG: boardgame_already_played
+You already played with this Villager today.<br>Play with other Villagers to earn more ranking points.
+
+TAG: boardgame_leave
+Leave
+
+TAG: boardgame_maximum_rank
+Maximum ranking points
+
+TAG: boardgame_quit_popup_message
+Are you sure you want to quit?
+
+TAG: boardgame_quit_popup_message_forfeit
+Are you sure you want to forfeit this match?\nYou will not receive ranking points.
+
+TAG: boardgame_ranking_points
+Ranking points
+
+TAG: boardgame_rematch
+Rematch
+
+TAG: boat_fish_caught_title
+Congratulations! You caught:
+
+TAG: boat_fish_title
+Fishing Boat
+
+TAG: building_burning_state_duration_label
+Burning duration
+
+TAG: building_energy_cost_reduction_label
+Energy cost reduction
+
+TAG: building_fish_cap_label
+Fish cap
+
+TAG: building_fish_per_hour_label
+Fish per hour
+
+TAG: building_number_of_slots_label
+Number of slots
+
+TAG: building_rare_ripple_unlock
+{Placeholder} Rare ripple unlock
+
+TAG: building_refresh_cost_label
+Refresh<br>cost
+
+TAG: building_required_player_level
+Required Player Level
+
+TAG: cannot_add_floor_need_upgrade
+You need to upgrade your House to add more floors.
+
+TAG: cannot_add_room_need_upgrade
+You need to upgrade your House to add more rooms.
+
+TAG: stall_convert
+CONVERT
+
+TAG: stall_dispenser_free
+Free
+
+TAG: stall_error_cannot_interact
+Oops! Something is blocking the way.
+
+TAG: stall_hire
+HIRE
+
+TAG: stall_my_inventory
+MY INVENTORY
+
+TAG: stall_refresh_stocks
+REFRESH<br>STOCK
+
+TAG: stall_sell
+Sell
+
+TAG: stall_sell_daily_cap
+Daily Cap<br>{current,D}/{cap,D}
+
+TAG: stall_upgrade
+Upgrade to level {lvl}!
+
+TAG: stall_upgrade_maxed
+Maxed out!
+
+TAG: stall_upgrade_unlock_lvl
+Unlock LVL {lvl}
+
+TAG: bundle_belle_desc
+Helps befriend
+
+TAG: bundle_belle_sub_title
+Includes...
+
+TAG: bundle_belle_title
+"Tale As Old As Time" Bundle
+
+TAG: bundle_belle_value
+50% better value!
+
+TAG: bundleitemtype_characterdreamstyle
+Character Dream Style
+
+TAG: bundleitemtype_clothing
+Clothing
+
+TAG: bundleitemtype_companion
+Companion
+
+TAG: bundleitemtype_facepaint
+Face Paint
+
+TAG: bundleitemtype_furniture
+Furniture
+
+TAG: bundleitemtype_houseskin
+House Style
+
+TAG: bundleitemtype_ride
+Attraction
+
+TAG: bundleitemtype_stallskin_goofy
+Goofy's Stall Skin
+
+TAG: bundleitemtype_toolset
+Tool Set
+
+TAG: button_common_move_cursor
+Move Cursor
+
+TAG: button_common_remove_all
+Remove All
+
+TAG: button_common_reset_cursor
+Reset Cursor
+
+TAG: button_exit
+EXIT
+
+TAG: button_save_exit
+SAVE + EXIT
+
+TAG: catalog_character_house
+{characterName}'s House
+
+TAG: catalog_close_panel
+Close Panel
+
+TAG: catalog_draw_line
+Draw Line
+
+TAG: catalog_exit_title
+EXIT CATALOG
+
+TAG: catalog_filters
+Active filters:
+
+TAG: catalog_house_placed_lock
+Placed in this Village
+
+TAG: catalog_indoor_item_lock
+Indoor only
+
+TAG: catalog_move_house_to_village_desc
+Do you want to place {HouseItemName} in {CurrentVillageName}? <lw><lw>This will remove it from {HouseOriginVillage} when you confirm your changes.
+
+TAG: catalog_move_house_to_village_title
+Move this House to {CurrentVillageName}
+
+TAG: catalog_no_items
+No items match this filter. Visit Scrooge's Store. He may have just what you need.
+
+TAG: catalog_not_available_item_lock
+Not available
+
+TAG: catalog_not_placeable_item_lock
+Can't place here!
+
+TAG: catalog_outdoor_item_lock
+Outdoor only
+
+TAG: catalog_outdoor_item_lock_base
+Outdoor only (Dreamlight Valley)
+
+TAG: catalog_outdoor_item_lock_exp1
+Outdoor only (Eternity Isle)
+
+TAG: catalog_place_fence
+Place Fence
+
+TAG: catalog_place_house
+Place House
+
+TAG: catalog_place_path
+Place Path
+
+TAG: catalog_rotate_camera
+Rotate Camera
+
+TAG: catalog_rotate_item
+Rotate Item
+
+TAG: catalog_trait_calm
+Calm
+
+TAG: catalog_trait_delicate
+Delicate
+
+TAG: catalog_trait_familiar
+Familiar
+
+TAG: catalog_trait_lavish
+Lavish
+
+TAG: catalog_trait_playful
+Playful
+
+TAG: catalog_trait_simple
+Simple
+
+TAG: catalog_trait_strong
+Strong
+
+TAG: catalog_trait_wondrous
+Wondrous
+
+TAG: catalog_zoom_in_out
+Zoom In/Out
+
+TAG: duplicate_item
+Duplicate
+
+TAG: editmode_limit_mannequin_total_reach
+Maximum number of mannequins reached for this room. <br>Remove any mannequin to place more.
+
+TAG: editmode_limit_reach
+Maximum number of different items reached.<br>Remove all copies of an item to place more.
+
+TAG: editmode_limit_total_reach
+Maximum number of items reached. <br>Remove any item to place more.
+
+TAG: reset_room
+Reset Room
+
+TAG: save_and_exit
+Save & Exit
+
+TAG: similar_items
+Similar Items
+
+TAG: village_object_limit_reached
+You have reached the Village object limit.
+
+TAG: catalog_buildings_house
+Villagers' Houses
+
+TAG: catalog_buildings_other
+Other Buildings
+
+TAG: catalog_buildings_playerhouse
+Player's Houses
+
+TAG: catalog_buildings_stall
+Stall
+
+TAG: catalog_category_appliance
+Appliances
+
+TAG: catalog_category_art
+Art
+
+TAG: catalog_category_bed
+Beds
+
+TAG: catalog_category_decor
+Decor
+
+TAG: catalog_category_door
+Doors
+
+TAG: catalog_category_electronic
+Electronics
+
+TAG: catalog_category_essential
+Essentials
+
+TAG: catalog_category_floor
+Floors
+
+TAG: catalog_category_foliage
+Foliage
+
+TAG: catalog_category_house
+House
+
+TAG: catalog_category_lighting
+Lighting
+
+TAG: catalog_category_misc
+Misc.
+
+TAG: catalog_category_rug
+Rugs
+
+TAG: catalog_category_seating
+Seating
+
+TAG: catalog_category_storage
+Storage
+
+TAG: catalog_category_table
+Tables
+
+TAG: catalog_category_trimming
+Trimmings
+
+TAG: catalog_category_utility
+Utilities
+
+TAG: catalog_category_wallpaper
+Wallpaper
+
+TAG: catalog_category_window
+Windows
+
+TAG: catalog_furniture_zones
+Furniture Zones
+
+TAG: furniture_item_unlock_title
+New Furniture Unlocked
+
+TAG: characters_favorties
+FAVORITES:
+
+TAG: characters_final_reward_at
+Unlock at Friendship lv.
+
+TAG: characters_follow_up_story
+Realm
+
+TAG: characters_friendship_level
+Friendship Level
+
+TAG: characters_full_collection_reward
+Full Collection Rewards
+
+TAG: characters_locked
+Locked
+
+TAG: characters_max_friendship_reward
+Max Friendship Level Reward
+
+TAG: characters_next_unlock
+Next Unlock
+
+TAG: characters_schedule_type_sleep
+Sleeping
+
+TAG: characters_unlock_condition_Purchase
+Invite this new friend to your Village!
+
+TAG: characters_unlock_condition_Secret
+Find them in the Village to unlock them!
+
+TAG: characters_unlock_condition_StoryReward
+Befriend this Character to unlock them!
+
+TAG: characters_welcome
+Welcome<br>{characterName}!
+
+TAG: collection_befriend
+Befriend This Character to Unlock
+
+TAG: collection_condition_event
+Participate in the Special Event to Unlock
+
+TAG: collection_condition_story
+Progress in the Story to Unlock
+
+TAG: label_village_area_1540000089
+Vitalys Mines
+
+TAG: less_details
+Fewer details
+
+TAG: more_details
+More details
+
+TAG: allController_disconnected
+The controller is disconnected. Please reconnect the controller.
+
+TAG: button_common_accept
+Accept
+
+TAG: button_common_agree
+Agree
+
+TAG: button_common_back
+Back
+
+TAG: button_common_buy
+Buy
+
+TAG: button_common_buy_more
+Buy More
+
+TAG: button_common_cancel
+Cancel
+
+TAG: button_common_cart
+Cart
+
+TAG: button_common_close
+Close
+
+TAG: button_common_collect
+Collect
+
+TAG: button_common_confirm
+Confirm
+
+TAG: button_common_confirm_hold
+Confirm (Hold)
+
+TAG: button_common_confirm_hold_done
+Confirmed
+
+TAG: button_common_connect
+Connect
+
+TAG: button_common_copy
+Copy
+
+TAG: button_common_create
+Create
+
+TAG: button_common_default_settings
+Default Settings
+
+TAG: button_common_disagree
+Disagree
+
+TAG: button_common_edit
+Edit
+
+TAG: button_common_for
+Price
+
+TAG: button_common_infos
+Info
+
+TAG: button_common_move_camera
+Move Camera
+
+TAG: button_common_next
+Next
+
+TAG: button_common_no
+No
+
+TAG: button_common_not_now
+Not Now
+
+TAG: button_common_okay
+OK
+
+TAG: button_common_opt_in
+Opt In
+
+TAG: button_common_previous
+Previous
+
+TAG: button_common_purchase
+Purchase
+
+TAG: button_common_remove
+Remove
+
+TAG: button_common_replace
+Replace
+
+TAG: button_common_replay
+Replay
+
+TAG: button_common_reset
+Reset
+
+TAG: button_common_rotate
+Rotate
+
+TAG: button_common_sell
+Sell
+
+TAG: button_common_share_information
+Share Information
+
+TAG: button_common_turn_around
+Turn around
+
+TAG: button_common_undo
+Undo
+
+TAG: button_common_undo_all
+Undo All
+
+TAG: button_common_validate
+Validate
+
+TAG: button_common_yes
+Yes
+
+TAG: button_common_zoom
+Zoom
+
+TAG: button_common_zoom_in_out
+Zoom +/-
+
+TAG: button_common_zoom_in_out_text
+Zoom Out/In
+
+TAG: common_add
+Add
+
+TAG: common_all
+All
+
+TAG: common_bonus
+Bonus
+
+TAG: common_button_equip
+Equip
+
+TAG: common_button_equipped
+Equipped
+
+TAG: common_button_select
+Select
+
+TAG: common_button_spend
+Spend
+
+TAG: common_claimed
+Claimed
+
+TAG: common_come_back_soon
+{Placeholder}Come back later to discover a new and improved version of Dreamlight Valley!
+
+TAG: common_coming_soon
+Coming Soon
+
+TAG: common_complete
+Complete
+
+TAG: common_confirmation
+Confirmation
+
+TAG: common_costs
+Costs
+
+TAG: common_decal_name
+Motif
+
+TAG: common_directions_beach
+Dazzle Beach in this direction!
+
+TAG: common_directions_darkMountains
+Forgotten Lands in this direction!
+
+TAG: common_directions_forest
+Forest of Valor in this direction!
+
+TAG: common_directions_meadow
+Peaceful Meadow in this direction!
+
+TAG: common_directions_savannah
+Sunlit Plateau in this direction!
+
+TAG: common_directions_tundra
+Frosted Heights in this direction!
+
+TAG: common_directions_urban
+Plaza in this direction!
+
+TAG: common_directions_wetland
+Glade of Trust in this direction!
+
+TAG: common_earn
+Earn
+
+TAG: common_empty
+Empty
+
+TAG: common_favorites
+Favorites
+
+TAG: common_game_maintenance_action
+Try again
+
+TAG: common_game_maintenance_desc
+Merlin is working a maintenance spell on our servers. Please try again later.
+
+TAG: common_game_maintenance_title
+Maintenance Spell Break!
+
+TAG: common_game_mandatory_update_desc
+Update to the latest version to discover a new version of Dreamlight Valley!
+
+TAG: common_game_mandatory_update_title
+New Update
+
+TAG: common_game_optional_update__title
+Update Available
+
+TAG: common_game_optional_update_desc
+It is recommended that you update to the latest version.
+
+TAG: common_game_unavailable_desc
+This version is no longer available.
+
+TAG: common_game_unavailable_title
+Unavailable
+
+TAG: common_game_update_later
+Later
+
+TAG: common_game_update_now
+Time to Update
+
+TAG: common_give
+Give
+
+TAG: common_hidden
+Hidden
+
+TAG: common_hold
+Hold!
+
+TAG: common_level
+Level
+
+TAG: common_level_title
+LEVEL
+
+TAG: common_mark_favorite
+Mark as Favorite
+
+TAG: common_mark_hidden
+Hide
+
+TAG: common_moonstone_name_plurial
+Moonstones
+
+TAG: common_new
+New
+
+TAG: common_old
+Old
+
+TAG: common_or
+Or
+
+TAG: common_play_video
+Play Video
+
+TAG: common_played
+Played
+
+TAG: common_price_free
+Free
+
+TAG: common_ready
+Ready
+
+TAG: common_ready_unlock
+Ready to be unlocked
+
+TAG: common_refresh
+Refresh
+
+TAG: common_search
+Search
+
+TAG: common_time_am
+{time} AM
+
+TAG: common_time_days
+{0} Days
+
+TAG: common_time_label_day
+day
+
+TAG: common_time_label_day_abbr
+d
+
+TAG: common_time_label_finished
+Finished
+
+TAG: common_time_label_hour
+hour
+
+TAG: common_time_label_hour_abbr
+h
+
+TAG: common_time_label_minute
+minute
+
+TAG: common_time_label_minute_abbr
+min
+
+TAG: common_time_label_second
+second
+
+TAG: common_time_label_second_abbr
+s
+
+TAG: common_time_label_week
+week
+
+TAG: common_time_pm
+{time} PM
+
+TAG: common_timer_ends_in
+Ends in:
+
+TAG: common_timer_refreshes_in
+Refreshes in:
+
+TAG: common_timer_starts_in
+Starts in:
+
+TAG: common_unavailable
+Unavailable
+
+TAG: common_unlock
+Unlock
+
+TAG: common_unmark_favorite
+Unmark as Favorite
+
+TAG: common_unmark_hidden
+Un-hide
+
+TAG: common_upgrade
+Upgrade
+
+TAG: content_offline
+You must be online to view this content.
+
+TAG: controller_disconnected
+The controller is disconnected.
+
+TAG: controller_disconnected_playstation
+The wireless controller is disconnected.
+
+TAG: controller_disconnected_title_tvos
+Your controller has either stopped working or has been disconnected.<lw><lw>Please keep in mind that the game does not support the Siri Remote and that you must connect your controller to continue playing.
+
+TAG: controller_disconnected_tvos
+No Controller Detected
+
+TAG: inspect
+Inspect
+
+TAG: insufficient_space
+To properly run this game, {RequiredSpace} MB of free space is required on your disk drive, "{Drive}."
+
+TAG: insufficient_space_arcade
+You don't have enough free space. Free up some space and try again.
+
+TAG: insufficient_space_title
+Insufficient Space
+
+TAG: label_a_to_b
+{a} to {b}
+
+TAG: label_building
+Building
+
+TAG: label_claim
+COLLECT
+
+TAG: label_cooking
+Cooking
+
+TAG: label_create_account
+Create Account
+
+TAG: label_dessert
+Dessert
+
+TAG: label_dinner
+Dinner
+
+TAG: label_edited_by
+Edited By
+
+TAG: label_email
+Email
+
+TAG: label_energy
+Energy
+
+TAG: label_favorite_things
+FAVORITES
+
+TAG: label_fish
+Fish
+
+TAG: label_fishing
+Fishing
+
+TAG: label_flower
+Flower
+
+TAG: label_foraging
+Foraging
+
+TAG: label_friendship
+Friendship
+
+TAG: label_fruit
+Fruit
+
+TAG: label_gardening
+Gardening
+
+TAG: label_grain
+Grain
+
+TAG: label_hangout_bonus
+HANGOUT BONUS
+
+TAG: label_ingredient
+Ingredient
+
+TAG: label_login
+Log in
+
+TAG: label_mineral
+Mineral
+
+TAG: label_mining
+Mining
+
+TAG: label_new_quest
+New Quest!
+
+TAG: label_not_available
+Not Available
+
+TAG: label_original_creator
+Original Creator
+
+TAG: label_password
+Password
+
+TAG: label_quest_progress
+Quest Progress
+
+TAG: label_recipe
+Recipe
+
+TAG: label_selling_for
+Sells for
+
+TAG: label_send
+Send
+
+TAG: label_spice
+Spice
+
+TAG: label_treasure
+Treasure
+
+TAG: label_vegetable
+Vegetable
+
+TAG: label_verification_code
+Verification Code
+
+TAG: label_village
+Village
+
+TAG: label_village_1540000000
+Dreamlight Valley
+
+TAG: label_village_1540000101
+Eternity Isle
+
+TAG: label_village_1540000119
+Storybook Vale
+
+TAG: label_village_area_atlanteanoutpost01
+The Docks
+
+TAG: label_village_area_atlanteanoutpost02
+The Courtyard
+
+TAG: label_village_area_atlanteanoutpost03
+The Overlook
+
+TAG: label_village_area_atlanteanoutpost04
+The Ruins
+
+TAG: label_village_area_beach
+Dazzle Beach
+
+TAG: label_village_area_cliff
+Frosted Heights
+
+TAG: label_village_area_darkmountains
+Forgotten Lands
+
+TAG: label_village_area_desert01
+The Plains
+
+TAG: label_village_area_desert02
+The Wastes
+
+TAG: label_village_area_desert03
+The Oasis
+
+TAG: label_village_area_desert04
+The Borderlands
+
+TAG: label_village_area_everywhere
+Everywhere
+
+TAG: label_village_area_fairytales01
+The Wild Woods
+
+TAG: label_village_area_fairytales02
+Teapot Falls
+
+TAG: label_village_area_fairytales03
+The Fallen Fortress
+
+TAG: label_village_area_fairytales04
+The Beanstalk Marshes
+
+TAG: label_village_area_forest
+Forest of Valor
+
+TAG: label_village_area_jungle01
+The Grasslands
+
+TAG: label_village_area_jungle02
+The Promenade
+
+TAG: label_village_area_jungle03
+The Grove
+
+TAG: label_village_area_jungle04
+The Lagoon
+
+TAG: label_village_area_library01
+The Library of Lore
+
+TAG: label_village_area_library02
+The Bind
+
+TAG: label_village_area_meadow
+Peaceful Meadow
+
+TAG: label_village_area_mythology01
+The Elysian Fields
+
+TAG: label_village_area_mythology02
+The Fiery Plains
+
+TAG: label_village_area_mythology03
+The Statue's Shadow
+
+TAG: label_village_area_mythology04
+Mount Olympus
+
+TAG: label_village_area_savannah
+Sunlit Plateau
+
+TAG: label_village_area_urban
+Plaza
+
+TAG: label_village_area_wetland
+Glade of Trust
+
+TAG: scroogesignpopup
+Scrooge's Store
+
+TAG: cooking_autofill
+Autofill
+
+TAG: cooking_back_remove_ingredients
+Close / Remove Ingredients
+
+TAG: cooking_history
+History
+
+TAG: cooking_ingredient_missing
+(Missing Ingredients)
+
+TAG: cooking_result_cookbook
+Cookbook
+
+TAG: cooking_result_used
+Used
+
+TAG: cooking_select_recipe
+(Select a recipe)
+
+TAG: cooking_skip_results
+Skip Result Screen
+
+TAG: new_recipe_unlocked
+New Recipe Unlocked:<br>{recipe}
+
+TAG: crafting_joker_info
+Use {icon_joker} {joker_amount} to replace missing materials
+
+TAG: crafting_make_button
+Make
+
+TAG: crafting_quests_filter
+Quests
+
+TAG: crafting_recipes_title
+Crafting Recipes
+
+TAG: crafting_recipes_unlock_title
+New Crafting Recipe Unlocked
+
+TAG: mobile_hint_default_track_recipe
+(HOLD) Track Recipe
+
+TAG: mobile_hint_default_untrack_recipe
+(HOLD) Untrack Recipe
+
+TAG: shortcut_common_default_track_recipe
+Track Recipe
+
+TAG: shortcut_common_default_untrack_recipe
+Untrack Recipe
+
+TAG: premiumshop_bonus_currency
++{bonus_amount} Bonus
+
+TAG: premiumshop_bundle_includes
+Bundle includes:
+
+TAG: premiumshop_buy_currency
+Buy {formatted_price}
+
+TAG: premiumshop_currency_moonstones
+Moonstones
+
+TAG: target_current
+Current target
+
+TAG: target_enter
+Enter
+
+TAG: target_fish_ripple
+Fishing spot
+
+TAG: target_leave
+Leave
+
+TAG: cutscene_Exp2Pres1
+But when the Forgetting started, Maleficent and Hades stole the Vale away.
+
+TAG: cutscene_Exp2Pres2
+They agreed to rule over it together, splitting it right down the middle.
+
+TAG: cutscene_Exp2Pres3
+But soon... Maleficent and Hades began to argue.
+
+TAG: cutscene_Exp2Pres4
+Their feud tore the Vale asunder... and the Neverafter began.
+
+TAG: cutscene_ExpPres1
+During the Forgetting, I set out on a journey and discovered a land beyond the waters of Dreamlight Valley.
+
+TAG: cutscene_ExpPres2
+A land called... Eternity Isle.
+
+TAG: cutscene_ExpPres3
+A place filled with ancient relics that empower their wielder to control time...
+
+TAG: cutscene_introbackstory_01
+Dreamlight Valley used to be a cheerful place full of happy Villagers.
+
+TAG: cutscene_introbackstory_02
+Life was flourishing, thanks to our Ruler's magic.
+
+TAG: cutscene_introbackstory_03
+Until our Ruler vanished... and the Forgetting began.
+
+TAG: cutscene_introbackstory_04
+Our memories faded. The Valley became a shadow of itself...
+
+TAG: cutscene_introbackstory_05
+We tried to save our memories of the life that had been.
+
+TAG: cutscene_introvideo_01
+Our story begins with an ending, as you decide it's time to leave the city behind.
+
+TAG: cutscene_introvideo_02
+Yearning for a pause from life's responsibilities, you arrive at a familiar place.
+
+TAG: cutscene_introvideo_03
+A quick stroll along a nearby path leads you to a spot where, as a child, you found that life was simpler...
+
+TAG: cutscene_introvideo_04
+And with a touch of imagination, all your dreams would come true!
+
+TAG: cutscene_introvideo_05
+Finding the perfect place for a rest, you begin remembering these long-lost dreams...
+
+TAG: cutscene_introvideo_06
+And drift off to sleep.
+
+TAG: cutscene_net_tool_unlocked
+Royal Net unlocked
+
+TAG: cutscene_tool_unlocked
+{tool} unlocked
+
+TAG: hold_to_skip
+Hold to skip
+
+TAG: cutscene_tobecontinued
+To be continued...
+
+TAG: decal_base_not_obtained
+Base Not Obtained
+
+TAG: decal_camera_view
+Camera View
+
+TAG: decal_color_picker
+Open Color Picker
+
+TAG: decal_delete_design_confirmation_desc
+Are you sure you want to permanently delete your design?
+
+TAG: decal_delete_design_confirmation_title
+Delete Custom Design
+
+TAG: decal_disclaimer_body
+Touch of Magic is a tool meant to express your creativity.<lw><lw>Be mindful to create content suited for all audiences and avoid creating anything inappropriate or harmful in any way.<lw><lw>Thank you for building a safe community for everyone.
+
+TAG: decal_disclaimer_title
+Touch of Magic â Disclaimer
+
+TAG: decal_glossiness
+Glossiness
+
+TAG: decal_inventory_full_body
+You have filled the maximum number of Design slots available.<lw><lw>Delete an older Design to create a new one.
+
+TAG: decal_inventory_full_title
+Design Inventory Full
+
+TAG: decal_layer_counter
+Layers<br>{current}/{max}
+
+TAG: decal_material
+Material
+
+TAG: decal_metal
+Metal
+
+TAG: decal_modes_panel
+Open Modes Panel
+
+TAG: decal_move_motif
+Move Motif
+
+TAG: decal_no_delete
+No, Keep Design
+
+TAG: decal_orbit_camera
+Rotate Camera
+
+TAG: decal_patterns
+Patterns
+
+TAG: decal_rotate_motif
+Rotate Motif
+
+TAG: decal_save_and_quit
+Save & Quit
+
+TAG: decal_scale_motif
+Scale Motif
+
+TAG: decal_texture
+Textures
+
+TAG: decal_texture_selection
+Texture Selection
+
+TAG: decal_yes_delete
+Delete
+
+TAG: dreamscape_disclaimer_body
+The Forgotten Memories Quests deal with some difficult emotions and themes, such as sadness, loneliness, and anger.<lw><lw>If you're not in the right space to deal with these themes, consider returning to your Village until you feel prepared to face them.
+
+TAG: dreamscape_disclaimer_title
+Take Care!
+
+TAG: motif_add_new
+Add new
+
+TAG: motif_category
+Motif Categories
+
+TAG: motif_colorizable
+Colorable Motifs
+
+TAG: motif_customize
+Customize
+
+TAG: motif_decals
+Motifs
+
+TAG: motif_non_colorizable
+Non-colorable Motifs
+
+TAG: purchase_base_cloth_desc
+You need to purchase this item to continue.
+
+TAG: button_more_details
+More Details
+
+TAG: button_report
+Report
+
+TAG: button_submit
+Submit
+
+TAG: button_vote
+Vote!
+
+TAG: challenge_state_completed
+Completed
+
+TAG: challenge_state_no_submission
+No submission
+
+TAG: challenge_state_processing
+Processing
+
+TAG: challenge_state_rewarded
+Rewarded
+
+TAG: challenge_state_to_be_completed
+To be completed
+
+TAG: check_submission
+Check Submission
+
+TAG: confirm_report_picture
+Are you sure you want to report this picture?
+
+TAG: confirm_submit_picture
+Are you sure you want to submit this picture?
+
+TAG: design_challenge_current
+Current Challenge
+
+TAG: design_challenge_reward
+Reward
+
+TAG: design_challenge_rewarding
+Rewarding
+
+TAG: design_challenge_submission_subtitle
+Your Design Challenge Submission
+
+TAG: design_challenge_submit_error_ended
+The picture submission failed because the event has ended.
+
+TAG: design_challenge_submit_error_not_found
+The picture submission failed because the event could not be found.
+
+TAG: design_challenge_submit_error_not_started
+The picture submission failed because the event has not started yet.
+
+TAG: design_challenge_submit_error_title
+DreamSnaps Submission Error
+
+TAG: design_challenge_submit_error_unknown
+The picture submission failed due to an unknown error.
+
+TAG: design_challenge_submit_error_unsupported_platform
+The picture submission failed because the event is not supported on this platform.
+
+TAG: design_challenge_title
+DreamSnaps
+
+TAG: design_challenge_vote_claimed_label
+Claimed
+
+TAG: design_challenge_vote_error_challenge_not_found
+DreamSnaps could not be found online.
+
+TAG: design_challenge_vote_error_description
+Some of the votes could not be registered due to errors while processing pictures.
+
+TAG: design_challenge_vote_error_inactive
+DreamSnaps has either not started or expired.
+
+TAG: design_challenge_vote_error_title
+DreamSnaps Voting Error
+
+TAG: design_challenge_vote_error_unknown
+Could not retrieve DreamSnaps pictures due to an unknown error.
+
+TAG: design_challenge_vote_no_more
+There's nothing to vote on right now. Please come back later.
+
+TAG: design_challenge_vote_subtitle
+Vote for your favorite picture below
+
+TAG: design_challenge_voting
+Voting
+
+TAG: design_challenges_disclaimer_body
+Congratulations on completing the DreamSnaps tutorial! The images you submit can now be shared with other players via an online in-game voting feature. You'll get to see what other users have submitted and vote for the most exciting creations!<lw><lw>Join in the fun with the community as you earn clothing, furniture, and Moonstones that you can use in the Premium Shop or Star Path.<lw><lw>Want to opt out of online DreamSnaps challenges? You can always opt in later if you change your mind!
+
+TAG: design_challenges_disclaimer_body_applearcade
+Congratulations on completing the DreamSnaps tutorial! The images you submit can now be shared with other players via an online in-game voting feature. You'll get to see what other users have submitted and vote for the most exciting creations!<lw><lw>Join in the fun with the community as you earn clothing, furniture and Star Coins<lw><lw>Want to opt out of online DreamSnaps challenges? You can always opt in later if you change your mind!
+
+TAG: design_challenges_disclaimer_title
+DreamSnaps â Disclaimer
+
+TAG: design_challenges_intro_body
+Some optional Quest content can only be accessed by using our DreamSnaps feature.<lw><lw>DreamSnaps is a fun new game mode that lets you express your creativity and earn exclusive prizes.<lw><lw>Decorate, take a photo with your phone, and submit! It's a snap!
+
+TAG: design_challenges_intro_title
+DreamSnaps
+
+TAG: label_bonuses
+Bonuses
+
+TAG: label_both
+Both
+
+TAG: label_fullscreen
+Show fullscreen
+
+TAG: label_matching_tags
+Matching Tags
+
+TAG: label_requirements
+Requirements
+
+TAG: mandatory_tags_title
+Mandatory
+
+TAG: offline_picture_correctly_submitted
+Your picture was correctly submitted and you received {nbPixelDust} Pixel Dust. For future challenges, we will send rewards to your mailbox.
+
+TAG: picture_contains_tom_items_error
+Your picture cannot be submitted because it contains Touch of Magic items.
+
+TAG: picture_correctly_submitted
+Your picture was correctly submitted.
+
+TAG: picture_report_failed_unknown_error
+The picture couldn't be reported due to an unknown error.
+
+TAG: picture_report_successful
+The picture was successfully reported.
+
+TAG: rewarding_processing_disclaimer
+This challenge is currently being processed. You can expect your rewards sometime during the review period. Check the current state of your submission below.
+
+TAG: submission_current_timer
+Submission closes and votes start in {delay}.
+
+TAG: submission_rewarding_timer
+Reward period ends in {delay}.
+
+TAG: submission_vote_timer
+Votes close in {delay}.
+
+TAG: submit_picture_to_design_challenge
+Do you want to submit to DreamSnaps?
+
+TAG: suggested_tags_title
+Bonus
+
+TAG: vote_and_win_moonstones
+Vote for your favorite picture and win Moonstones!
+
+TAG: vote_and_win_starcoins
+Vote for your favorite picture and win Star Coins!
+
+TAG: vote_now
+Vote Now
+
+TAG: dialog_goodbye
+Sorry, I can't talk now.
+
+TAG: dialog_locked_friendship_level
+Requires Friendship Level {level}
+
+TAG: dialog_request
+Let's garden together!
+
+TAG: dialog_talking
+Hello there!
+
+TAG: dialog_wait
+[...]
+
+TAG: mobile_hint_default_untrack_duty
+(HOLD) Untrack Duty
+
+TAG: shortcut_common_default_untrack_duty
+Untrack Duty
+
+TAG: event_hub_event
+Event
+
+TAG: event_hub_event_ended
+Ended
+
+TAG: event_hub_go_to_event
+Go to Event
+
+TAG: event_hub_news
+News
+
+TAG: dreamsnap_unavailable_body
+DreamSnaps challenges are unavailable because cross-play is currently disabled. Please enable cross-play from the Settings Menu to participate in DreamSnaps.
+
+TAG: dreamsnap_unavailable_title
+DreamSnaps Unavailable
+
+TAG: mobile_hint_default_track_duty
+(HOLD) Track Duty
+
+TAG: track_duty_shortcut
+Track Duty
+
+TAG: untrack_duty_shortcut
+Untrack Duty
+
+TAG: expand_label
+Expand
+
+TAG: house_expansion_add_floor
+Add a Floor
+
+TAG: house_expansion_add_room
+Add a Room
+
+TAG: house_expansion_enter_name
+Enter a name for the room
+
+TAG: house_expansion_expand_confirm
+Are you sure you want to expand the main room?
+
+TAG: house_expansion_floor_confirm
+Are you sure you want to add a new floor?
+
+TAG: house_expansion_floor_label
+{floor}F
+
+TAG: house_expansion_floors
+Floors
+
+TAG: house_expansion_label
+House expansion
+
+TAG: house_expansion_reduction_confirm
+Changing the size of this room will remove all furniture. Furniture will be placed in your Inventory. Do you want to continue?
+
+TAG: house_expansion_title
+House floors
+
+TAG: filter_buttton_add
+Add Filter
+
+TAG: filter_filters
+Filters
+
+TAG: filter_need_to_clear
+Entering this category will reset the filters
+
+TAG: filter_search_and_filters
+Search & Filters
+
+TAG: filter_search_placeholder
+E.g. short OR "gold solid"
+
+TAG: fishing_boat_next_fish_in
+Next fish in:
+
+TAG: fishing_btn_keep
+KEEP
+
+TAG: fishing_btn_release
+RELEASE
+
+TAG: fishing_building_locked
+Unlock {characterName}'s House to unlock Fishing!
+
+TAG: fishing_desc
+You just caught:
+
+TAG: fishing_error_no_fish_constrain
+{Placeholder}There are no fish of the type you are looking for at the moment, please try again when it's {constraint}.
+
+TAG: fishing_error_no_fish_try_later
+There are no fish of the type you are looking for at the moment. Please try again later.
+
+TAG: fishing_hold
+Hold!
+
+TAG: fishing_new_record
+NEW RECORD
+
+TAG: fishing_release
+Release!
+
+TAG: fishing_wait
+Wait!
+
+TAG: fishing_weight_kilograms
+{weight} kg
+
+TAG: fishing_weight_pounds
+{weight} lb
+
+TAG: moana_boat_fish_cap
+Fish cap: {current}/{cap}
+
+TAG: flower_stall_cap
+Flower cap: {current}/{cap}
+
+TAG: flower_stall_caught_title
+Congratulations! You got:
+
+TAG: flower_stall_next_in
+Next flower in:
+
+TAG: flower_stall_title
+Flower Stall
+
+TAG: friendship_rewards_label
+Rewards:
+
+TAG: friendship_level_up
+Level Up!
+
+TAG: ftue_ancient_machines_auto_cooker_claim
+Let it cook for a while, then come back and collect your meals.
+
+TAG: ftue_ancient_machines_auto_cooker_ingredients
+Choose the Ingredients and quantities you'd like to cook. (Costs Mist.)
+
+TAG: ftue_ancient_machines_auto_cooker_title
+Ancient Cooker
+
+TAG: ftue_ancient_machines_gardener_claim
+Plant seeds or harvest crops with a single action! (Costs Mist.)
+
+TAG: ftue_ancient_machines_gardener_prepare
+For the Gardener to work, it needs to be set up on land where crops can grow.
+
+TAG: ftue_ancient_machines_gardener_title
+Ancient Gardener
+
+TAG: ftue_ancient_machines_general_text
+Ancient Machines can be placed in your Village to assist with various tasks.<lw><lw>They use Mist {icon_mist} to function.<lw><lw>Upgrade your Hourglass to craft more efficient Machines.
+
+TAG: ftue_ancient_machines_general_title
+Ancient Machines
+
+TAG: ftue_ancient_machines_vacuum_claim
+Select the desired items and collect them from a single location! (Costs Mist.)
+
+TAG: ftue_ancient_machines_vacuum_select
+The Ancient Vacuum scans an area in a Biome for Night Thorns and Splinters of Fate.<lw><lw>Upgrade it to detect even more item types!
+
+TAG: ftue_ancient_machines_vacuum_title
+Ancient Vacuum
+
+TAG: ftue_be_active
+Be active in the Valley.
+
+TAG: ftue_beachcavetablet_01
+Provide the <Lore>gem that matches best</Lore> to continue on your hero's quest.
+
+TAG: ftue_beachcavetablet_02
+Discover the <Lore>right crops to grow</Lore> to continue on below. One is <Lore>underground</Lore>, the other <Lore>gold and brown</Lore>. What remains is <Lore>red and round</Lore>.
+
+TAG: ftue_beachcavetablet_03
+The final riddle, let it be known: to <Lore>cook and eat</Lore> what you have grown.
+
+TAG: ftue_beachcavetablet_04
+One last thing and you can go. <Lore>Catch the Orb that lies below</Lore>.
+
+TAG: ftue_become_powerful
+Gain experience and level up!
+
+TAG: ftue_build_friendship
+SO MANY FRIENDS!
+
+TAG: ftue_camera_desc
+Take the prettiest pictures and save them on your device.
+
+TAG: ftue_camera_desc_mobile
+Use the Camera to take pictures.
+
+TAG: ftue_camera_title
+CAPTURE THE MOMENT: THE CAMERA
+
+TAG: ftue_camera_title_mobile
+New Tool: Camera
+
+TAG: ftue_complete_task
+Be active in the Valley!
+
+TAG: ftue_cooking_title
+THE FINE ART OF COOKING
+
+TAG: ftue_crops_grow_faster
+Crops grow faster in the Biome they're from!
+
+TAG: ftue_design_challenges_how_it_works_1_points
+Using items that meet the Challenge requirements earns you more points.
+
+TAG: ftue_design_challenges_how_it_works_2_win_votes
+You can also get more points by winning votes from the community.
+
+TAG: ftue_design_challenges_how_it_works_3_results
+When the Challenge is finished, results are calculated and you'll get rewards based on your ranking.
+
+TAG: ftue_design_challenges_how_it_works_title
+DREAMSNAPS: HOW IT WORKS
+
+TAG: ftue_design_challenges_requirements_1_details
+Challenge requirements can be found in the DreamSnaps section of the Events menu.
+
+TAG: ftue_design_challenges_requirements_2_photo_mode
+You can also check Challenge requirements in Photo Mode with {input_designchallengesrequirements} OR in your Wardrobe or Furniture menus when DreamSnaps mode is activated.
+
+TAG: ftue_design_challenges_requirements_2_photo_mode_mobile
+You can also check Challenge requirements in Photo mode OR in your Wardrobe or Furniture menus when DreamSnaps mode is activated.
+
+TAG: ftue_design_challenges_requirements_title
+DREAMSNAPS: REQUIREMENTS
+
+TAG: ftue_design_challenges_submit_1_requirements
+Place or wear items that meet the Challenge requirements before snapping a picture.
+
+TAG: ftue_design_challenges_submit_2_photo_mode
+Check out the Challenge tab in Photo Mode to see if you meet all requirements.
+
+TAG: ftue_design_challenges_submit_3_submit
+If you're happy with your snapshot, use {input_designchallengessubmit} to submit.
+
+TAG: ftue_design_challenges_submit_3_submit_mobile
+If you're happy with your snapshot, submit your photo!
+
+TAG: ftue_design_challenges_submit_title
+DREAMSNAPS: HOW TO SUBMIT
+
+TAG: ftue_design_challenges_voting_1_menu
+You can access the Voting feature in the DreamSnaps section of the Events menu.
+
+TAG: ftue_design_challenges_voting_2_moonstones
+Casting votes will get you some Moonstones, up to a cap per challenge.
+
+TAG: ftue_design_challenges_voting_2_starcoins
+Casting votes will get you some Star Coins, up to a cap per challenge.
+
+TAG: ftue_design_challenges_voting_title
+DREAMSNAPS: VOTING
+
+TAG: ftue_discover_recipes
+Combine different Ingredients to discover new Recipes.
+
+TAG: ftue_dreamlight_get
+Earn Dreamlight from the Dreamlight menu!
+
+TAG: ftue_dreamlight_title
+USE DREAMLIGHT TO RESTORE THE VALLEY!
+
+TAG: ftue_easy_track
+You'll be able to track your goal as you go! Once completed, your most recent Quest will be tracked.
+
+TAG: ftue_energy_title
+EXPAND YOUR ENERGY RESERVE
+
+TAG: ftue_energyOut_info1
+Without Energy, say goodbye to many Activities.
+
+TAG: ftue_energyOut_info2
+Eating or staying inside your House will refill Energy.
+
+TAG: ftue_energyOut_info3
+A healthy cooked meal is the best way to recuperate.
+
+TAG: ftue_energyOut_title
+HOW TO DEAL WITH EXHAUSTION
+
+TAG: ftue_energyReward_title
+MORE ENERGY, MORE REWARDS
+
+TAG: ftue_energyRewards_info1
+Eat cooked meals to fill the bar with yellow Energy
+
+TAG: ftue_energyRewards_info2
+Find more rare resources with your full yellow Energy bar
+
+TAG: ftue_equip_camera
+Open the Tool wheel with {input_toolswheel} and select the Camera.
+
+TAG: ftue_equip_camera_mobile
+Open the Tool wheel and select the Camera.
+
+TAG: ftue_equip_fishingrod
+Open the Tool wheel with {input_toolswheel} and select the Fishing Rod.
+
+TAG: ftue_equip_fishingrod_mobile
+Open the Tool wheel and select the Fishing Rod.
+
+TAG: ftue_equip_pickaxe
+Open the Tool wheel with {input_toolswheel} and select the Pickaxe.
+
+TAG: ftue_equip_pickaxe_mobile
+Open the Tool wheel and select the Pickaxe.
+
+TAG: ftue_equip_shovel
+Open the Tool wheel with {input_toolswheel} and select the Shovel.
+
+TAG: ftue_equip_shovel_mobile
+Open the Tool wheel and select the Shovel.
+
+TAG: ftue_equip_wateringcan
+Open the Tool wheel with {input_toolswheel} and select the Watering Can.
+
+TAG: ftue_equip_wateringcan_mobile
+Open the Tool wheel and select the Watering Can.
+
+TAG: ftue_expansion02_aurora_note
+The good fairies told me that the secret to making water flow in the Bind again lies in this room... hidden behind a bookshelf... but that I'll need the Royal Net to fix it...
+
+TAG: ftue_fish_anywhere
+Hold {input_usetool} to cast your line.
+
+TAG: ftue_fish_anywhere_mobile
+Hold shortcut to cast your line.
+
+TAG: ftue_fishing_title
+FISHING AROUND THE VALLEY
+
+TAG: ftue_fishing_title_mobile
+You can fish in the Valley
+
+TAG: ftue_fishingrod_desc
+Hold {input_usetool} to cast your line.
+
+TAG: ftue_fishingrod_desc_mobile
+Hold the Fishing button to cast your line.
+
+TAG: ftue_fishingrod_title
+AIM FOR THE RIPPLES: THE FISHING ROD
+
+TAG: ftue_fishingrod_title_mobile
+New Tool: Fishing Rod
+
+TAG: ftue_gain_resources
+Gather resources.
+
+TAG: ftue_gain_star_coin
+Receive Star Coins in exchange.
+
+TAG: ftue_garden_title
+GARDENING IN THE VALLEY!
+
+TAG: ftue_gather_minerals
+Mine rocks with {input_usetool} to gather minerals.
+
+TAG: ftue_gather_minerals_mobile
+Use it on rocks to gather minerals!
+
+TAG: ftue_get_friendship
+Strengthen your Friendships!
+
+TAG: ftue_get_friendship_rewards
+Go on new adventures together! Unlock new storylines and exclusive Rewards.
+
+TAG: ftue_gift_eat_sell
+Eat, sell, or give your meals to friends around the Valley!
+
+TAG: ftue_go_see_goofy
+Sell what you don't need to Goofy's Stall!
+
+TAG: ftue_hangout_ask_help
+Hang out with Villagers, and they'll help with your duties.
+
+TAG: ftue_hangout_friend_bonus
+Level up your Friendships and assign the same roles to more Villagers to get bigger Hangout Bonuses!
+
+TAG: ftue_hangout_get_resources
+Choose roles for your friends in the Village to get more resources.
+
+TAG: ftue_hangout_title
+Let's hang out with friends!
+
+TAG: ftue_hold_and_release
+Aim at the ripples to make sure you catch something.
+
+TAG: ftue_hold_and_release_mobile
+Try to aim at ripples for a chance at a more valuable catch.
+
+TAG: ftue_house_customize_expand
+Expand and customize your House.
+
+TAG: ftue_house_title
+HOME SWEET HOME!
+
+TAG: ftue_how_to_interact_mobile
+And interact with the environment with the Interaction button.
+
+TAG: ftue_how_to_interact_pc
+Left-Click or use {input_interact} to interact with your surroundings.
+
+TAG: ftue_how_to_interact_ps4
+Use {input_interact} to interact with your surroundings.
+
+TAG: ftue_how_to_interact_xbox
+Use {input_interact} to interact with your surroundings.
+
+TAG: ftue_how_to_move_mobile
+Use the D-Pad to move your Character. Slide the right part of the screen to move the camera around!
+
+TAG: ftue_how_to_move_pc
+Move your Character using the W, A, S, D or arrow keys. Look around using your mouse!
+
+TAG: ftue_how_to_move_playstation
+Move your Character using the Left Stick. Look around using the Right Stick!
+
+TAG: ftue_how_to_move_switch
+Move your Character using the Left Stick. Look around using the Right Stick!
+
+TAG: ftue_how_to_move_title
+MOVING AND INTERACTING
+
+TAG: ftue_how_to_move_xbox
+Move your Character using the Left Stick. Look around using the Right Stick!
+
+TAG: ftue_increase_energy
+Your Max Energy has increased!
+
+TAG: ftue_interact_with_oven
+Interact with any stove using {input_interact} to start cooking.
+
+TAG: ftue_interact_with_oven_mobile
+Interact with any stove to start cooking.
+
+TAG: ftue_item_storage
+Use your House's storage as a second Inventory.
+
+TAG: ftue_keep_track_of_more
+Keep Track of More Than Quests!
+
+TAG: ftue_mining_desc_mobile
+Equip your Pickaxe!
+
+TAG: ftue_mining_title
+YOU CAN MINE IN THE VALLEY
+
+TAG: ftue_mining_title_mobile
+You can mine in the Valley
+
+TAG: ftue_moving_house_another_village
+Houses can be placed in only one Village at a time. Houses placed in another Village can be moved to the current Village at no cost.
+
+TAG: ftue_moving_house_another_village_title
+Moving a House to another Village
+
+TAG: ftue_multiple_track
+Track Duties or crafting materials by selecting the option in the Duties or Crafting menus.
+
+TAG: ftue_need_coal
+You'll need Coal to power it up!
+
+TAG: ftue_new_level
+NEW LEVEL!
+
+TAG: ftue_not_enough_coins
+THE ART OF EARNING STAR COINS
+
+TAG: ftue_or
+or
+
+TAG: ftue_pickaxe_desc
+Mine and remove obstacles with {input_usetool}.
+
+TAG: ftue_pickaxe_desc_mobile
+Hold the Pickaxe button to mine and remove obstacles.
+
+TAG: ftue_pickaxe_title
+ROCK AND MINERALS: THE PICKAXE
+
+TAG: ftue_pickaxe_title_mobile
+New Tool: Pickaxe
+
+TAG: ftue_pillar_note
+- IF THE WATER IS BLOCKED â <Lore>PLEASE READ!!!</Lore> -<br><br>These Night Thorns are getting worse and worse. But don't worry. I know how to stop them!<br><br>I spilled some of my <Lore>root beer</Lore> on them and they shriveled up a little.<br><br>If we could make a whole lot more root beer... and use some of those <Lore>candies to get it all fizzy...</Lore><br><br>...why, I bet we could get rid of all these Night Thorn roots!<br><br> I left all the <Lore>ingredients in the chest at camp.</Lore><br><br>I just hope I can <Lore>put it all together in this barrel</Lore> before the Forgetting gets to me too...<br>
+
+TAG: ftue_plant_seeds
+Get seeds by foraging or by trading at Goofy's Stall.
+
+TAG: ftue_player_boutique_challenges_1
+Talk to Daisy inside your Boutique for challenge requirements.
+
+TAG: ftue_player_boutique_challenges_2
+Complete your design in the Challenge Space with furniture and clothing featuring the required tags.
+
+TAG: ftue_player_boutique_challenges_3
+Win Daisy Coins and talk to Daisy in the Boutique to spend them!
+
+TAG: ftue_player_boutique_challenges_title
+Boutique Challenges: How to Participate
+
+TAG: ftue_player_boutique_displays_1
+Interact with a Boutique display to place clothing or furniture on it.
+
+TAG: ftue_player_boutique_displays_2
+Select the item(s) you want to use. You need to choose Touch of Magic designs.
+
+TAG: ftue_player_boutique_displays_3
+Invite visitors to your Valley to borrow items from your Boutique displays!
+
+TAG: ftue_player_boutique_displays_title
+Boutique Displays: Setting Up Shop
+
+TAG: ftue_realtime_synch_char_schedule
+Characters will follow their own schedule, so look out for that!
+
+TAG: ftue_realtime_synch_daily
+Make sure to come back daily to discover new stuff!
+
+TAG: ftue_realtime_synch_timesynch
+The game is now synced to your time! The time will change from day to night as time passes.
+
+TAG: ftue_realtime_synch_title
+Now synced to real time!
+
+TAG: ftue_remove_night_thorns
+Remove Night Thorns from the Castle's entrance and other parts of the Valley.
+
+TAG: ftue_remove_obstacles
+CLEAR THE WAY
+
+TAG: ftue_remove_obstacles_desc
+And to get rid of what's blocking you!
+
+TAG: ftue_remove_obstacles_desc_m02
+Use a Tool (Pickaxe, Shovel, Watering Can, etc.)
+
+TAG: ftue_remove_obstacles_desc_m03
+Remove Obstacles
+
+TAG: ftue_remove_obstacles_desc_mobile
+Use your minerals however you like
+
+TAG: ftue_remove_obstacles_mobile
+Remove Obstacles
+
+TAG: ftue_rest_at_house
+Restore your Energy by spending time in your House!
+
+TAG: ftue_ripples_chances_for_rare
+Press {input_FishingAction} quickly every time the circle turns green.
+
+TAG: ftue_ripples_chances_for_rare_hold
+Hold {input_FishingAction} while you're fishing until the fish is caught.
+
+TAG: ftue_ripples_chances_for_rare_hold_mobile
+Hold the button while you're fishing until the fish is caught.
+
+TAG: ftue_ripples_chances_for_rare_hold_pc
+Hold the Left Mouse Button while you're fishing until the fish is caught.
+
+TAG: ftue_ripples_chances_for_rare_mobile
+Tap the button when the circle is in the right spot!
+
+TAG: ftue_royalduties_more_options
+Once completed, you'll earn Dreamlight from the Dreamlight Menu. Open it with {input_mainmenudreamlight}.
+
+TAG: ftue_royalduties_more_options_mobile
+Once completed, you'll earn Dreamlight from the Dreamlight Menu.
+
+TAG: ftue_royalduties_tasks
+Dreamlight Duties are short tasks in the Valley.
+
+TAG: ftue_royalduties_title
+DON'T FORGET YOUR DREAMLIGHT DUTIES!
+
+TAG: ftue_royalduties_unlock_areas
+Access new Biomes and restore the Valley!
+
+TAG: ftue_shortcut_camera
+The Camera can also be accessed using {input_shortcutcamera}.
+
+TAG: ftue_shortcut_fishingrod
+The Fishing Rod can also be accessed using {input_shortcutfishingpole}.
+
+TAG: ftue_shortcut_pickaxe
+The Pickaxe can also be accessed using {input_shortcutpickaxe}.
+
+TAG: ftue_shortcut_shovel
+The Shovel can also be accessed using {input_shortcutshovel}.
+
+TAG: ftue_shortcut_wateringcan
+The Watering Can can also be accessed using {input_shortcutwateringcan}.
+
+TAG: ftue_shovel_desc
+Dig holes in the ground and remove obstacles using {input_usetool}.
+
+TAG: ftue_shovel_desc_mobile
+Use the Shovel to dig and remove obstacles.
+
+TAG: ftue_shovel_title
+DIG A LITTLE DEEPER: THE SHOVEL
+
+TAG: ftue_shovel_title_mobile
+New Tool: Shovel
+
+TAG: ftue_spending_time_with_friends
+Build Friendship:<lw>- Hang out together<lw>- Exchange Gifts<lw>- Discuss daily
+
+TAG: ftue_sprint_info
+Yellow Energy lets you glide around your Valley with {input_sprint}
+
+TAG: ftue_sprint_title
+HOW TO GLIDE
+
+TAG: ftue_starpath_duties
+Complete duties to earn tokens
+
+TAG: ftue_starpath_duty_desc
+Discuss 10 times with them
+
+TAG: ftue_starpath_duty_title
+Meet the Villagers
+
+TAG: ftue_starpath_rewards
+Spend tokens for exclusive rewards before the event is over
+
+TAG: ftue_starpath_timer
+Ends in: 02:32:45
+
+TAG: ftue_starpath_title
+Star Path
+
+TAG: ftue_starpath_unlock_premium
+Unlock the Premium Star Path to progress faster and get more rewards
+
+TAG: ftue_strengthen_friends
+Watch your Friendships grow.
+
+TAG: ftue_time_bending_hidden_treasure_1
+Sense for hidden treasures with {input_hourglass} and follow the sand.
+
+TAG: ftue_time_bending_hidden_treasure_1_mobile
+Use the Hourglass to sense for hidden treasures, then follow the sand.
+
+TAG: ftue_time_bending_hidden_treasure_2
+Once found, press {input_hourglass} repeatedly to pull the treasure out of the flow of time.
+
+TAG: ftue_time_bending_hidden_treasure_2_hold
+Once found, hold {input_hourglass} to pull it out of the flow of time.
+
+TAG: ftue_time_bending_hidden_treasure_2_hold_mobile
+Once found, hold the Hourglass button to pull the treasure out of the flow of time.
+
+TAG: ftue_time_bending_hidden_treasure_2_mobile
+Once found, press the Hourglass button repeatedly to pull the treasure out of the flow of time.
+
+TAG: ftue_time_bending_hidden_treasure_3
+Find unique treasures lost in time that can be combined at the Timebending Table!
+
+TAG: ftue_time_bending_hidden_treasure_title
+Hidden Treasure: How To Find Them
+
+TAG: ftue_time_bending_hourglass_1
+Use {input_toolswheel} to open the Tool wheel and choose the Hourglass!
+
+TAG: ftue_time_bending_hourglass_1_mobile
+Open the Tool wheel and select the Hourglass.
+
+TAG: ftue_time_bending_hourglass_2
+You can also use the 7 shortcut to quickly grab the Hourglass.
+
+TAG: ftue_time_bending_hourglass_3
+Use the Hourglass to find artifacts lost to time!
+
+TAG: ftue_time_bending_hourglass_title
+Timebending: The Hourglass
+
+TAG: ftue_time_bending_station_1
+Interact with this table to use your Timebending resources.
+
+TAG: ftue_time_bending_station_2
+Combine your resources to create exclusive items.
+
+TAG: ftue_time_bending_station_3
+Upgrade your Hourglass to find even more types of resources.
+
+TAG: ftue_time_bending_station_title
+Timebending Table: How To Use
+
+TAG: ftue_time_bending_time_rifts_1
+You can open Time Rifts with the Hourglass by using {input_usetool}.
+
+TAG: ftue_time_bending_time_rifts_1_mobile
+You can open Time Rifts with the Hourglass button.
+
+TAG: ftue_time_bending_time_rifts_2
+In Time Rifts, treasures appear continuously.
+
+TAG: ftue_time_bending_time_rifts_3
+A Time Rift lasts for a limited time only, so be quick to find as much treasure as you can.
+
+TAG: ftue_time_bending_time_rifts_title
+Time Rifts: How To Use
+
+TAG: ftue_tool_list
+Select the proper Tool for the proper task...
+
+TAG: ftue_use_minerals
+Minerals can be used in many different ways.
+
+TAG: ftue_use_shovel
+Dig a gardening spot with your Shovel using {input_usetool}.
+
+TAG: ftue_valleyverse_invite
+You can invite up to 3 friends to your Valley. Use a Valley Visit Station to generate Visit Codes.
+
+TAG: ftue_valleyverse_join
+Join a friend's Valley by entering the code in the Multiplayer section of the Main Menu.
+
+TAG: ftue_valleyverse_title
+Valley Visits: Multiplayer Guide
+
+TAG: ftue_valleyverse_what_to_do
+Visiting lets you collect Pixel Shards to craft special items, drop items to trade, and shop at Scrooge's Store.
+
+TAG: ftue_water_seed
+Plant a seed, water it and wait for your crop to grow!
+
+TAG: ftue_wateringcan_desc
+Water crops and flowers with {input_usetool}.
+
+TAG: ftue_wateringcan_desc_mobile
+Use the Watering Can to water crops and flowers.
+
+TAG: ftue_wateringcan_title
+ALL IS GREEN: THE WATERING CAN
+
+TAG: ftue_wateringcan_title_mobile
+New Tool: Watering Can
+
+TAG: menu_collection
+Collection
+
+TAG: PalaceDoorInteract
+The door to the palace is barred from the other side. It seems Jafar has retreated inside...
+
+TAG: press_left_click
+Left-Click Mouse Button
+
+TAG: tuto_popup_collection
+THE COLLECTION MENU: A COMPENDIUM
+
+TAG: tuto_popup_collection_box_1
+Access the Collection Menu from the Main Menu.
+
+TAG: tuto_popup_collection_box_1_PC
+Access the Collection Menu with {input_mainmenucollection} or from the Main Menu.
+
+TAG: tuto_popup_collection_box_2
+Select an item to discover more info about it.
+
+TAG: tuto_popup_collection_item_label
+WHERE TO FIND IT
+
+TAG: tuto_popup_crafting_station
+DIY: THE CRAFTING STATION
+
+TAG: tuto_popup_crafting_station_box_1
+Interact with any Crafting Station to start.
+
+TAG: tuto_popup_crafting_station_box_2
+Select a Recipe to make sure you have the required materials and, if so, craft the desired item.
+
+TAG: tuto_popup_crafting_station_box_3
+Each Biome holds specific materials. Forage, experiment and discover new Crafting Recipes.
+
+TAG: tuto_popup_customization_clothing
+DRESS YOUR BEST: CLOTHING
+
+TAG: tuto_popup_customization_clothing_box_1
+Access the Clothing menu from the Inventory.
+
+TAG: tuto_popup_customization_clothing_box_1_PC
+Access the Clothing menu from the Inventory or by using {input_wardrobe}.
+
+TAG: tuto_popup_customization_clothing_box_2
+Select Clothes to customize the look of your Avatar.
+
+TAG: tuto_popup_customization_clothing_box_3
+Increase your Friendship Levels with your neighbors and visit Scrooge's Store daily to unlock new items.
+
+TAG: tuto_popup_customization_furniture
+DESIGNING YOUR UNIVERSE: FURNITURE
+
+TAG: tuto_popup_customization_furniture_box_1
+Access the Furniture menu from the Inventory.
+
+TAG: tuto_popup_customization_furniture_box_1_PC
+Access the Furniture menu from the Inventory or by using {input_catalog}.
+
+TAG: tuto_popup_customization_furniture_box_2
+Select Furniture to customize your Village.
+
+TAG: tuto_popup_customization_furniture_box_3
+Visit Scrooge's Store daily and increase Friendship Levels with him to unlock more Furniture.
+
+TAG: tuto_popup_map
+A SENSE OF DIRECTION
+
+TAG: tuto_popup_map_box_1
+Access the Map from the Main Menu.
+
+TAG: tuto_popup_map_box_1_PC
+Access the Map by pressing {input_mainmenumap} or from the Main Menu.
+
+TAG: tuto_popup_map_box_2
+The Map shows you the position of Characters, Crops, Buildings, and more!
+
+TAG: tuto_popup_map_box_3
+Select the Castle or use the shortcut {input_fastTravel} to Fast Travel to available locations.
+
+TAG: tuto_popup_map_box_3_mobile
+Select the Castle to Fast Travel to available locations.
+
+TAG: tuto_popup_map_fast_travel
+TRAVEL AT THE SPEED OF DREAMLIGHT
+
+TAG: tuto_popup_map_fast_travel_box_1
+Access the Map from the Main Menu.
+
+TAG: tuto_popup_map_fast_travel_box_1_PC
+Access the Map by pressing {input_mainmenumap} or from the Main Menu.
+
+TAG: tuto_popup_map_fast_travel_box_2
+Press on a Well icon or open the Fast Travel menu to quickly teleport to a location in the Village.
+
+TAG: tuto_popup_map_fast_travel_box_3
+Unlock more Realms or Wishing Wells by exploring the Village.
+
+TAG: tuto_popup_moana_fishing_boat
+MOANA'S FISHING BOAT
+
+TAG: tuto_popup_moana_fishing_boat_box_1
+Moana will periodically go out to sea and catch fish for you.
+
+TAG: tuto_popup_moana_fishing_boat_box_2
+Make sure to visit the Fishing Boat often to claim what's been caught!
+
+TAG: tuto_popup_moana_fishing_boat_box_3
+Upgrade the boat to increase its efficiency.
+
+TAG: tuto_popup_npcschedule_desc1
+In the Map Menu, open the Characters tab with {input_npcschedule} to decide which Villagers are present in the current Village.
+
+TAG: tuto_popup_npcschedule_desc2
+Enable or disable Characters.<lw><lw>Villagers will still show up if you need them for a specific action or Quest.
+
+TAG: tuto_popup_npcschedule_title
+Managing Your Villagers
+
+TAG: tuto_popup_place_house
+MOVING IN: PLACING A HOUSE
+
+TAG: tuto_popup_place_house_box_1
+You can find it in the Furniture menu. Open the Inventory.
+
+TAG: tuto_popup_place_house_box_1_PC
+You can find it in the Furniture section. Open the Inventory or press {input_catalog} to access it.
+
+TAG: tuto_popup_place_house_box_2
+Enter the House menu and choose the one you want to place!
+
+TAG: tuto_popup_place_house_box_3
+Place it anywhere in the Valley! You'll need to ask for Scrooge's help to upgrade it!
+
+TAG: tuto_popup_quest
+THE QUEST LOG
+
+TAG: tuto_popup_quest_box_1
+Access the Quests menu from the Main Menu.
+
+TAG: tuto_popup_quest_box_1_PC
+Access the Quests menu by pressing {input_mainmenuquestlog} or from the Main Menu.
+
+TAG: tuto_popup_quest_box_2
+You can also track a Quest by using {input_trackquest}.
+
+TAG: tuto_popup_quest_box_2_mobile
+You can also track a Quest by pressing the Track button.
+
+TAG: tuto_popup_quest_box_2_PC
+You can also track a Quest by using {input_trackquest}.
+
+TAG: tuto_popup_quest_tracking
+KEEP TRACK OF YOUR STORY
+
+TAG: tuto_popup_quest_tracking_box_1
+Quickly track new Quests with {input_fasttrackquest}!
+
+TAG: tuto_popup_quest_tracking_box_1_mobile
+Quickly track new Quests.
+
+TAG: tuto_popup_quest_tracking_box_2
+Missed it? Track a Quest by using the Track icon or {input_trackquest} while in the Quest menu.
+
+TAG: tuto_popup_quest_tracking_box_2_mobile
+Missed it? Track a Quest by using the Track button while in the Quest menu.
+
+TAG: tuto_popup_restaurant_orders
+Restaurant Orders
+
+TAG: tuto_popup_restaurant_orders_box_1
+Villagers will sometimes have specific Meal requests while eating at Chez Remy.
+
+TAG: tuto_popup_restaurant_orders_box_2
+Fulfill their order to gain Rewards and Friendship.
+
+TAG: tuto_popup_walle_garden
+DIRECTIVE: PLANT
+
+TAG: tuto_popup_walle_garden_box_1
+WALLÂ·E will now tend to his own Garden.
+
+TAG: tuto_popup_walle_garden_box_2
+Make sure to visit the Garden regularly to harvest its crops.
+
+TAG: tuto_popup_walle_garden_box_3
+Upgrade the Garden to increase its capacity and efficiency.
+
+TAG: game_guide_title_ancient_machines
+Ancient Machines
+
+TAG: game_guide_title_boardgame
+Board Game
+
+TAG: game_guide_title_camera
+Camera
+
+TAG: game_guide_title_collection
+Collection
+
+TAG: game_guide_title_cooking
+Cooking
+
+TAG: game_guide_title_crafting
+Crafting
+
+TAG: game_guide_title_customization
+Customization
+
+TAG: game_guide_title_decoration_puzzles
+Decoration Puzzles
+
+TAG: game_guide_title_design_challenges
+DreamSnaps
+
+TAG: game_guide_title_dreamlight
+Dreamlight
+
+TAG: game_guide_title_energy
+Energy
+
+TAG: game_guide_title_fishing
+Fishing
+
+TAG: game_guide_title_friendship
+Friendship
+
+TAG: game_guide_title_gameplay
+Gameplay
+
+TAG: game_guide_title_gardening
+Gardening
+
+TAG: game_guide_title_house
+House
+
+TAG: game_guide_title_map
+Map
+
+TAG: game_guide_title_mining
+Mining
+
+TAG: game_guide_title_page_reordering
+Reorder Stories
+
+TAG: game_guide_title_player_boutique
+Your Boutique
+
+TAG: game_guide_title_quest
+Quests
+
+TAG: game_guide_title_selling
+Selling
+
+TAG: game_guide_title_time_bending
+Timebending
+
+TAG: game_guide_title_tools
+Tools
+
+TAG: game_guide_title_touchOfMagic
+Touch of Magic
+
+TAG: game_guide_title_valleyverse
+Valley Visits
+
+TAG: gardening_grown_in
+Grown in
+
+TAG: gardening_no_more_seeds
+No more seeds
+
+TAG: gardening_not_enough_currency
+Not enough currency
+
+TAG: gift_confirm_body
+Do you want to give these items?
+
+TAG: gift_extra
++ EXTRA
+
+TAG: gift_favorites_label
+FAVORITE THINGS OF THE DAY
+
+TAG: gift_limit_reached
+Can't gift more items.
+
+TAG: health_notice
+Play healthy! It is recommended that you take breaks from time to time during a long play session.
+
+TAG: hourglass_materialization_qte
+Quickly
+
+TAG: hourglass_no_treasure
+There is no more treasure in this area. Look elsewhere.
+
+TAG: crafting_tracker_desc
+Gather Materials
+
+TAG: hud_stop_sprint_shortcut
+Stop Sprinting
+
+TAG: level_max
+Max level reached!
+
+TAG: action_break_rock
+Break rocks
+
+TAG: action_catch
+Catch
+
+TAG: action_dig
+Dig
+
+TAG: action_fish
+Fish
+
+TAG: action_photo
+Photo
+
+TAG: action_photo_party
+Gather Villagers
+
+TAG: action_photo_ride
+Get on Attraction
+
+TAG: action_water
+Water
+
+TAG: avatar_code
+Avatar Code
+
+TAG: avatar_code_desc
+This is the code for transfering your avatar customization Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Cillum dolore eu fugiat nulla pariatur.
+
+TAG: avatar_code_expire
+Expired in 2 days
+
+TAG: avatar_designer_demo
+AVATAR DESIGNER TOOL
+
+TAG: backpack_amount_title
+Inventory: {amount,D}/{total,D}
+
+TAG: backpack_empty
+Your Inventory is empty!
+
+TAG: backpack_title
+Inventory
+
+TAG: btn_go
+GO
+
+TAG: btn_restore_purchase
+Restore Purchase
+
+TAG: btn_track
+SELECT
+
+TAG: button_change_avatar_name
+Change Avatar Name
+
+TAG: catalog_choose_item_title
+Choose an item
+
+TAG: catalog_desc
+Village & House items
+
+TAG: catalog_replace_locked_house
+Requires House Upgrade
+
+TAG: catalog_replace_minimum_amount_Fence
+Fence tiles to replace: {amount}
+
+TAG: catalog_replace_minimum_amount_GroundAlteration
+Path tiles to replace: {amount}
+
+TAG: catalog_replace_title
+Choose a replacement
+
+TAG: catalog_title
+FURNITURE CATALOG
+
+TAG: change_avatar_name_desc
+It should be longer than 2 letters.
+
+TAG: change_avatar_name_input_placeholder
+Avatar Name
+
+TAG: change_avatar_name_title
+What's Your Name?
+
+TAG: coming_soon
+Coming Soon
+
+TAG: companion_playground_no_companion
+No companions available. Interact with critters around the Valley to befriend them!
+
+TAG: companion_playground_title
+Select up to {MaxPets} companions
+
+TAG: conflict_profile_local_description
+Local Save
+
+TAG: conflict_profile_message
+{PlayerName}<lw><lw>Time Spent: {SpentTime}<lw>Level {PlayerLevel}<lw>XP: {XP}<lw>Star Coins: {StarCoins}<lw>Moonstones: {Moonstones}
+
+TAG: conflict_profile_message_arcade
+{PlayerName}<lw><lw>Time Spent: {SpentTime}<lw>Level {PlayerLevel}<lw>XP: {XP}<lw>Star Coins: {StarCoins}<lw>Save Time: {SaveTime}
+
+TAG: conflict_profile_message_spent_time
+{Days} d {Hours} h {Minutes} min
+
+TAG: conflict_profile_message_unnamed
+(unnamed)
+
+TAG: conflict_profile_server_description
+Cloud Save
+
+TAG: emotes_title
+EMOTES
+
+TAG: equip_accessory
+Equip Accessory
+
+TAG: fishing_pull
+Pull
+
+TAG: hide_avatar_code_button
+Hide Avatar Code
+
+TAG: hud_btn_achievements
+Achievements
+
+TAG: hud_btn_blocked_visitors
+Blocked Visitors
+
+TAG: hud_btn_catalog
+Furniture
+
+TAG: hud_btn_characters
+Characters
+
+TAG: hud_btn_collection
+Collection
+
+TAG: hud_btn_collection_reminder
+Collection
+
+TAG: hud_btn_continue_game
+Continue
+
+TAG: hud_btn_credits
+Credits
+
+TAG: hud_btn_customer_care
+Contact Customer Care
+
+TAG: hud_btn_downloadable_content
+Downloadable Content
+
+TAG: hud_btn_duty
+Dreamlight Duties
+
+TAG: hud_btn_eternity_isle
+Eternity Isle
+
+TAG: hud_btn_expansions
+Expansions
+
+TAG: hud_btn_hide_user_id
+Hide User ID
+
+TAG: hud_btn_inventory
+Inventory
+
+TAG: hud_btn_link_account
+Cloud Save
+
+TAG: hud_btn_map
+Map
+
+TAG: hud_btn_menus
+Menus
+
+TAG: hud_btn_multiplayer
+Multiplayer
+
+TAG: hud_btn_new_game
+New Game
+
+TAG: hud_btn_phone
+Phone
+
+TAG: hud_btn_photo
+Photo
+
+TAG: hud_btn_quest_log
+Quests
+
+TAG: hud_btn_reset_profile
+Reset Profile
+
+TAG: hud_btn_roadmap
+Roadmap
+
+TAG: hud_btn_save_to_cloud
+Save to cloud
+
+TAG: hud_btn_settings
+Settings
+
+TAG: hud_btn_shop
+Shop
+
+TAG: hud_btn_show_user_id
+Show User ID
+
+TAG: hud_btn_storybook_vale
+Storybook Vale
+
+TAG: hud_btn_user_id
+Show User ID
+
+TAG: hud_btn_wardrobe
+Wardrobe
+
+TAG: hud_collection_reminder_goofy_spices
+Looking for spices? Use the Collection menu for more info!
+
+TAG: hud_collection_reminder_mickey_apples
+Looking for apples? Use the Collection menu for more info!
+
+TAG: hud_collection_reminder_moana_wood
+Looking for wood? Use the Collection menu for more info!
+
+TAG: hud_collection_reminder_remy_ingredients
+Looking for Ingredients? Use the Collection menu for more info!
+
+TAG: hud_collection_reminder_scrooge_wood
+Looking for wood? Use the Collection menu for more info!
+
+TAG: hud_hold_action
+(Hold)
+
+TAG: hud_language_code_de
+Deutsch
+
+TAG: hud_language_code_en-US
+English
+
+TAG: hud_language_code_es
+EspaÃ±ol
+
+TAG: hud_language_code_fr
+FranÃ§ais
+
+TAG: hud_language_code_it
+Italiano
+
+TAG: hud_language_code_ja
+æ¥æ¬èª
+
+TAG: hud_language_code_zh-CN
+ç®ä½ä¸­æ
+
+TAG: hud_lbl_master_volume
+Master Volume
+
+TAG: hud_lbl_music_volume
+Music Volume
+
+TAG: hud_lbl_qrcode_description
+Scan the QR code or enter the link in your browser.
+
+TAG: hud_lbl_qrcode_title_cookie
+Cookies Policy
+
+TAG: hud_lbl_qrcode_title_customer
+Contact Customer Care
+
+TAG: hud_lbl_qrcode_title_discord
+Discord
+
+TAG: hud_lbl_qrcode_title_eula
+End-User License Agreement
+
+TAG: hud_lbl_qrcode_title_privacy
+Gameloft Privacy Policy
+
+TAG: hud_lbl_qrcode_title_term_use
+Terms of Use
+
+TAG: hud_lbl_report
+Report
+
+TAG: hud_lbl_sfx_volume
+SFX Volume
+
+TAG: hud_lbl_streaming_music
+Streaming-Friendly Mode
+
+TAG: hud_lbl_streaming_music_note
+Replaces copyrighted music from the game
+
+TAG: hud_lbl_voice_volume
+Voice Volume
+
+TAG: hud_report_selector_title
+Select a player
+
+TAG: hud_sprint_shortcut
+Sprint
+
+TAG: hud_status_save_to_cloud_desync_days
+Out of sync by {days} day(s), {hours} hour(s).
+
+TAG: hud_status_save_to_cloud_desync_hours
+Out of sync by {hours} hour(s), {minutes} minute(s), {seconds} second(s).
+
+TAG: hud_status_save_to_cloud_desync_minutes
+Out of sync by {minutes} minute(s), {seconds} second(s).
+
+TAG: hud_status_save_to_cloud_multiplayer_client
+Not available while visiting.
+
+TAG: hud_status_save_to_cloud_multiplayer_host
+Not available while hosting.
+
+TAG: hud_status_save_to_cloud_never_uploaded
+Never uploaded.
+
+TAG: hud_status_save_to_cloud_sync
+Fully synced!
+
+TAG: not_enough_mana
+You're exhausted!
+
+TAG: not_enough_mana_refill_explanation
+Eat some food or go back to your House to refill your Energy.
+
+TAG: notification_item_try
+Try it
+
+TAG: patterns_title
+PATTERNS
+
+TAG: pets_title
+COMPANIONS
+
+TAG: player_not_reported_message
+An error occurred. Player "{playername}" and content could not be reported. Please try again.
+
+TAG: player_not_reported_message_connection_error
+Reporting player "{playername}" timed out due to network connectivity; please check your connection and try again.
+
+TAG: player_not_reported_message_online_unknown_error
+Reporting player "{playername}" failed to complete due to an unknown online services error. Please try again.
+
+TAG: player_not_reported_title
+Report Failed
+
+TAG: player_reported_message
+Player "{playername}" and content were successfully reported.
+
+TAG: player_reported_title
+Report Successful
+
+TAG: quest_tracker_new
+Request accepted
+
+TAG: quest_tracker_progress
+Progress
+
+TAG: report_confirmation_message
+Do you want to report {playername} and the content on your screen?
+
+TAG: report_confirmation_message_boutique
+Do you want to report the Boutique content from {playername} on your screen?
+
+TAG: report_content_title
+Report Content
+
+TAG: requires_mana
+You don't have enough Energy...
+
+TAG: settings_controls
+Controls
+
+TAG: settings_game_guide
+Game Guide
+
+TAG: settings_gameplay
+Gameplay
+
+TAG: settings_general
+General
+
+TAG: settings_graphics
+Graphics
+
+TAG: settings_help
+Help
+
+TAG: settings_sounds
+Sounds
+
+TAG: show_avatar_code_button
+Show Avatar Code
+
+TAG: unequip_accessory
+Unequip Accessory
+
+TAG: wardrobe_desc
+Outfits & Character customization
+
+TAG: wardrobe_title
+WARDROBE
+
+TAG: inbox_category_activations
+Activations
+
+TAG: inbox_category_events
+Events
+
+TAG: inbox_category_message_from_villagers
+Villagers
+
+TAG: inbox_category_other
+Other
+
+TAG: inbox_category_rewards_and_offers
+Rewards & Offers
+
+TAG: inbox_category_unread
+Unread
+
+TAG: inbox_empty_diff_grid_message
+Uh-oh, seems like you might have lost these during your adventures. Luckily for you, Dreamlight Magic always finds a way to bring back everything you might have forgotten.
+
+TAG: inbox_empty_diff_grid_title
+Lost and found!
+
+TAG: inbox_generic_message
+You've just received a new message!
+
+TAG: inbox_generic_subtitle
+New Message
+
+TAG: inbox_generic_title
+New Message
+
+TAG: inbox_items_sent_generic
+Items have been sent to your mailbox!
+
+TAG: inbox_items_sent_inventory_full
+Your Inventory is full. You can collect items from your mailbox.
+
+TAG: moonstones_off
+Moonstones Off
+
+TAG: old_price
+Old Price:
+
+TAG: price_for_all_items
+Price for all items*
+
+TAG: shop_best_value
+Best Value
+
+TAG: shop_bundle
+Special Offers
+
+TAG: shop_bundle_discount
+{discount}% OFF
+
+TAG: shop_buy_token
+Get {amount} {token} for
+
+TAG: shop_confirmation_description
+You are about to spend {price} for: {item}
+
+TAG: shop_confirmation_title
+Confirmation
+
+TAG: shop_daily
+Daily
+
+TAG: shop_discount
+Discount
+
+TAG: shop_discover_starpath
+Discover the Star Path
+
+TAG: shop_dream_bundle
+Dream Bundle
+
+TAG: shop_exclude_moonstones
+*Moonstones not included
+
+TAG: shop_featured
+Featured
+
+TAG: shop_furniture_outdoor_description
+Decorate your Valley with this outdoor furniture!
+
+TAG: shop_game_upgrades
+Game Upgrades
+
+TAG: shop_house_skin
+Give your House a whole new look once it's fully upgraded!
+
+TAG: shop_house_skin_warning
+Warning
+
+TAG: shop_item_shop
+Item Shop
+
+TAG: shop_native_confirmation_description
+Continue to the {storename} {item} for {price}
+
+TAG: shop_native_confirmation_title
+Redirect to {storename} â Confirmation
+
+TAG: shop_native_limit_reached
+Purchase cannot be completed because this pack was already purchased.
+
+TAG: shop_native_open_disabled_default
+Store cannot be opened because it's currently disabled.
+
+TAG: shop_native_open_disabled_steam
+Purchase cannot be completed because the Steam Overlay is currently disabled.<lw><lw>Please make sure you have the "Enable the Steam Overlay while in-game" option enabled, which can be found in Settings / In Game, then you have to restart the game.
+
+TAG: shop_native_storename_generic
+store
+
+TAG: shop_native_storename_nintendo_switch
+Nintendo eShop
+
+TAG: shop_native_tax_disclaimer
+Moonstones can only be used on the same platform where they were purchased. Costs real money.<lw>{tax_disclaimer}
+
+TAG: shop_owned_item_from_starpath
+Item already obtained during previous Star Path
+
+TAG: shop_price_non_owned
+*Price for all unowned items
+
+TAG: shop_purchase_error_already_purchased
+Cannot purchase because you already own all items contained in this bundle.
+
+TAG: shop_purchase_error_bundle_expired
+The bundle has expired.
+
+TAG: shop_purchase_error_bundle_not_found
+The bundle could not be found.
+
+TAG: shop_purchase_error_content_not_found
+The content of the bundle could not be found.
+
+TAG: shop_purchase_error_not_enough_currency
+Not enough currency to purchase this bundle.
+
+TAG: shop_purchase_error_not_found
+The current store was not found online.
+
+TAG: shop_purchase_error_price_mismatch
+The items below from this bundle are in your local save file but not in your online save file, meaning they weren't obtained through official channels (Star Path or Premium Shop). Would you like to complete the purchase and add them to your online save? <lw><lw>{items}
+
+TAG: shop_purchase_error_sale_invalid
+The current sale on this item is invalid.
+
+TAG: shop_purchase_error_store_expired
+The current offer has expired.
+
+TAG: shop_purchase_error_title
+Purchase Error
+
+TAG: shop_purchase_error_transaction_failed
+The purchase transaction failed due to an unexpected result with Online Services.
+
+TAG: shop_purchase_error_unknown
+The purchase transaction failed due to an unknown error.
+
+TAG: shop_purchase_error_version_mismatch
+The local version of the store does not match the server version.
+
+TAG: shop_purchase_failed
+Transaction Failed
+
+TAG: shop_sale
+Sale
+
+TAG: shop_something_wrong_desc
+The store is currently unavailable. Please come back later.
+
+TAG: shop_something_wrong_title
+Something went wrong...
+
+TAG: shop_starpath_activated
+Activated
+
+TAG: shop_starpath_bundle_purchased
+Purchased
+
+TAG: shop_time_limited
+Limited Time
+
+TAG: shop_upgrade_deluxe
+Customization Pack â Deluxe Edition
+
+TAG: shop_upgrade_ultimate
+Customization Pack â Ultimate Edition
+
+TAG: shop_weekly
+Weekly
+
+TAG: inventory_categories
+Categories
+
+TAG: inventory_drag
+Drag
+
+TAG: inventory_dreamsnaps
+DreamSnaps
+
+TAG: inventory_item_lock_message
+This item is not available yet.
+
+TAG: inventory_requests
+Requests
+
+TAG: inventory_required_for
+Required for:
+
+TAG: inventory_sort
+Sort
+
+TAG: inventory_sort_by_name
+Name
+
+TAG: inventory_sort_by_type
+Type
+
+TAG: container_WallERealm_Refrigerator
+The refrigerator is missing its door handle. It must be around here somewhere...
+
+TAG: inventory_action_drop
+Drop
+
+TAG: inventory_action_eat
+Eat
+
+TAG: inventory_action_open
+Open
+
+TAG: inventory_action_open_not_allowed
+Not Allowed
+
+TAG: inventory_action_split
+Split
+
+TAG: inventory_action_transfer
+Transfer
+
+TAG: inventory_action_use
+Use
+
+TAG: inventory_category_owned
+Owned
+
+TAG: inventory_category_store
+Store
+
+TAG: inventory_category_suggested
+Suggested
+
+TAG: inventory_expand_btn
+Expand
+
+TAG: inventory_expand_home_storage
+Upgrade House to increase storage
+
+TAG: inventory_full_choose_item_to_drop
+Inventory is full. Choose an item to drop.
+
+TAG: inventory_item_info_eat
+Eat:
+
+TAG: inventory_item_info_gift
+Gift:
+
+TAG: inventory_item_info_sell
+Sell:
+
+TAG: inventory_lock_item_missing
+You need the {itemName} to access this storage.
+
+TAG: inventory_no_room_to_drop
+You can't drop any items here.
+
+TAG: inventory_no_room_to_drop_more
+You can't drop items here anymore.
+
+TAG: levelup_max_energy_increased
+Max Energy increased
+
+TAG: levelup_new_level
+NEW LEVEL!
+
+TAG: levelup_press_any_button
+Press Any Button to Continue
+
+TAG: levelup_press_any_key
+Press Any Key to Continue
+
+TAG: levelup_rewards
+Rewards:
+
+TAG: levelup_tap_screen_mobile
+Tap Screen to Continue
+
+TAG: levelup_unlocked_new_roles
+UNLOCKED NEW ROLES!
+
+TAG: role_changed
+ROLE CHANGED
+
+TAG: select_role_below
+Select one of the roles below
+
+TAG: cloud_save_access_main_menu
+You'll need to reset the game to access the option from the Main Menu
+
+TAG: cloud_save_benefit
+Your Cloud Save will:<lw> - Protect your in-game progress.<lw> - Allow you to play your saved game on other platforms.<lw> - Make sure your reward items are saved to your account.
+
+TAG: cloud_save_benefit_confirmation
+{packName} rewards can only be claimed on one account. We suggest that you create or connect to a Cloud Save to avoid any possible loss of rewards and/or progress in the future.
+
+TAG: cloud_save_claim
+Claim Anyway
+
+TAG: cloud_save_confirmation
+Are you sure you want to continue without connecting to the cloud?
+
+TAG: cloud_save_do_not_claim
+Don't Claim Now
+
+TAG: cloud_save_redirect
+Connect (from Main Menu)
+
+TAG: cloud_save_suggest
+Before claiming your reward items, would you like to sync your account to the cloud?
+
+TAG: cloud_save_title
+Cloud Save
+
+TAG: cloud_save_warning_title
+Warning!
+
+TAG: common_claim
+Claim
+
+TAG: mailbox_claim_error_title
+Mailbox Error
+
+TAG: mailbox_empty
+Your mailbox is empty!
+
+TAG: mailbox_expired
+Expired
+
+TAG: mailbox_expires_in_days
+Expires in {days} days
+
+TAG: mailbox_expires_in_hours
+Expires in {hours} hours
+
+TAG: mailbox_offline
+You are offline. New online messages cannot be retrieved.
+
+TAG: mailbox_offline_internet
+No Internet. New online messages cannot be retrieved.
+
+TAG: mailbox_offline_nativeprofile
+Online services unavailable. New online message cannot be retrieved.
+
+TAG: mailbox_offline_playfab
+Online services unavailable. New online message cannot be retrieved.
+
+TAG: mailbox_offline_portal
+Game portal is unavailable. New online messages cannot be retrieved.
+
+TAG: mailbox_offline_unknown
+You are offline. New online messages cannot be retrieved.
+
+TAG: mailbox_reward
+Rewards
+
+TAG: EyeShadowColor
+Eye shadow color
+
+TAG: EyeShadowOpacity
+Eye shadow opacity
+
+TAG: BeardsCategoryDisplayName
+Beards
+
+TAG: BirthMarksCategoryDisplayName
+Birth Marks
+
+TAG: BlushCategoryDisplayName
+Blush
+
+TAG: BrowsCategoryDisplayName
+Brows
+
+TAG: ContourCategoryDisplayName
+Contour
+
+TAG: EyeballCategoryDisplayName
+Pupil
+
+TAG: EyeLineCategoryDisplayName
+Eyeliner
+
+TAG: EyeShadowCategoryDisplayName
+Eye Shadow
+
+TAG: FaceLinesCategoryDisplayName
+Facial Lines
+
+TAG: FacePaintCategoryDisplayName
+Face Paint
+
+TAG: FrecklesCategoryDisplayName
+Freckles
+
+TAG: LipstickCategoryDisplayName
+Lipstick
+
+TAG: MustachesCategoryDisplayName
+Mustaches
+
+TAG: PupilsCategoryDisplayName
+Pupils
+
+TAG: ScarsCategoryDisplayName
+Scars
+
+TAG: StubbleCategoryDisplayName
+Stubble
+
+TAG: mannequin_options_edit
+Edit
+
+TAG: mannequin_options_wear
+Wear
+
+TAG: map_AreaName_beach
+Dazzle<br>Beach
+
+TAG: map_AreaName_cliff
+Frosted<br>Heights
+
+TAG: map_AreaName_darkMountains
+Forgotten<br>Lands
+
+TAG: map_AreaName_forest
+Forest of<br>Valor
+
+TAG: map_AreaName_meadow
+Peaceful<br>Meadow
+
+TAG: map_AreaName_savannah
+Sunlit<br>Plateau
+
+TAG: map_AreaName_urban
+Plaza
+
+TAG: map_AreaName_wetlands
+Glade of<br>Trust
+
+TAG: map_biomes_desert
+Glittering<br>Dunes
+
+TAG: map_biomes_fairytale
+Everafter
+
+TAG: map_biomes_jungle
+Wild<br>Tangle
+
+TAG: map_biomes_library
+The Bind
+
+TAG: map_biomes_mythology
+Mythopia
+
+TAG: map_biomes_outpost
+Ancient's<br>Landing
+
+TAG: map_btn_beach
+DAZZLE BEACH
+
+TAG: map_btn_dark_mountain
+FORGOTTEN LANDS
+
+TAG: map_btn_forest
+FOREST OF VALOR
+
+TAG: map_btn_gates
+Gates
+
+TAG: map_btn_meadow
+PEACEFUL MEADOW
+
+TAG: map_btn_plants
+Plants
+
+TAG: map_btn_plaza
+PLAZA
+
+TAG: map_btn_realms
+REALMS
+
+TAG: map_btn_savanna
+SUNLIT PLATEAU
+
+TAG: map_btn_snow
+FROSTED HEIGHTS
+
+TAG: map_btn_wetlands
+GLADE OF TRUST
+
+TAG: map_fast_travel
+Fast Travel
+
+TAG: map_fast_travel_Realms
+Realms
+
+TAG: map_fast_travel_village_1540000000
+Valley
+
+TAG: map_fast_travel_village_1540000101
+Eternity Isle
+
+TAG: map_fast_travel_village_1540000119
+Storybook Vale
+
+TAG: map_fast_travel_villages
+Village
+
+TAG: map_filters
+Filters
+
+TAG: map_npcschedule_title
+Villagers in {CurrentVillageName}
+
+TAG: map_toggle_filters
+Toggle filters
+
+TAG: menu_nav_dreamlight
+Dreamlight
+
+TAG: energycoil1
+0% Charged
+
+TAG: energycoil2
+25% Charged
+
+TAG: energycoil3
+50% Charged
+
+TAG: energycoil4
+75% Charged
+
+TAG: notifications_dreamsnap_event_started_message
+Get dressed for a new DreamSnaps event.<lw>Participate and win rewards!
+
+TAG: notifications_dreamsnap_event_started_title
+A new DreamSnaps event has begun!
+
+TAG: notifications_dreamsnap_submit_reminder_message
+Strike your best pose and submit your best photo for the DreamSnaps event!
+
+TAG: notifications_dreamsnap_submit_reminder_title
+The best photo has yet to be selected!
+
+TAG: notifications_inactive_player_message
+Go back and clear the Dream Castle from the insidious grip of the Forgetting
+
+TAG: notifications_inactive_player_title
+Dreamlight Valley needs you!
+
+TAG: complete_to_unveil
+Complete to unveil
+
+TAG: page_reordering_assembled
+Tale Assembled!
+
+TAG: page_reordering_difficulty
+Difficulty
+
+TAG: page_reordering_reorder
+Reorder Tale
+
+TAG: page_reordering_replay
+Reorder Tale Replay
+
+TAG: page_reordering_reward
+New reward unlocked!
+
+TAG: page_reordering_snippets
+Snippets
+
+TAG: page_reordering_title
+Tales to Reorder
+
+TAG: unlock_story
+Do you want to unlock the Tale?
+
+TAG: phone_feed_timer
+{time} ago
+
+TAG: save_picture_premission_denied
+You do not have permission to save files on this device!
+
+TAG: save_picture_premission_granted
+Your picture was saved on this device!
+
+TAG: save_picture_subtitle
+Would you like to save this picture on your device?
+
+TAG: save_picture_title
+Save Picture?
+
+TAG: share_event_picture_subtitle
+Would you like to share your picture on the social network and participate in the event that's currently running?
+
+TAG: share_event_picture_title
+Participate in Event?
+
+TAG: share_picture_event_expired
+Failed to participate in the event because the event just ended!
+
+TAG: share_picture_event_limitation
+You've reached the maximum number of times you can apply for the event!
+
+TAG: share_picture_failed
+Failed to share picture.
+
+TAG: share_picture_limitation
+Failed to share the picture because the maximum number of times you can share a picture has been reached!
+
+TAG: share_picture_subtitle
+Would you like to share your picture on the social network?
+
+TAG: share_picture_title
+Share Picture?
+
+TAG: boutique_visitors_popup_title
+Visitors
+
+TAG: moderationPolicy_multiplayer_Content
+Hello! We at Gameloft want everyone to enjoy the content players create. So, we've come up with some rules to keep our community friendly and fun.<lw>Please read our moderation policy here:<lw>{moderationWebLink}<lw>Once you start multiplayer, we'll assume you are OK with these rules.
+
+TAG: moderationPolicy_multiplayer_Title
+Multiplayer â Moderation Policy
+
+TAG: moderationPolicyContent
+Hello! We at Gameloft want everyone to enjoy the content players create. So, we've come up with some rules to keep our community friendly and fun.<lw>Please read our moderation policy here:<lw>{moderationWebLink}<lw>Once you submit your photo, we'll assume you are OK with these rules.
+
+TAG: moderationPolicyTitle
+DreamSnaps Moderation Policy
+
+TAG: message_warning_store_unavailable
+The store is currently unavailable. To access it, please verify if the latest version is available and update it.
+
+TAG: price_bundle_all_included_items
+Price for all included items
+
+TAG: price_bundle_all_items_non_owned
+Price for all unowned items
+
+TAG: price_for_seasonal_offer
+Seasonal offer featuring exclusive items. Valid solely for the duration of the update.
+
+TAG: shortcut_buy_bundle
+Buy bundle
+
+TAG: shortcut_toggle_day_night
+Toggle Day/Night
+
+TAG: apple_login_not_authorized_message
+Your account has not been authorized to log in. If this issue keeps occurring, please try to log in again or re-install the application.<lw>Do you want to try to log in again?
+
+TAG: apple_login_not_authorized_title
+Login Failed
+
+TAG: Boutique_Empty_TOM_Text
+No available Touch of Magic items to display here!
+
+TAG: btn_continue
+Continue
+
+TAG: btn_go_phone
+Go to Phone
+
+TAG: btn_validate
+Validate
+
+TAG: bundle_exclusive_perk
+Exclusive Perk
+
+TAG: catalog_exit_desc
+Are you sure you want to exit without saving?
+
+TAG: catalog_undo_all_desc
+Are you sure you want to undo all without saving?
+
+TAG: character_sleeping_message
+{characterName} is sleeping. Come back later!
+
+TAG: character_sleeping_title
+Do Not Disturb!
+
+TAG: characters_sleeping_message
+These Villagers are sleeping: {characterNames}. Come back later!
+
+TAG: confirm_cancel_request_message
+Are you sure?
+
+TAG: confirm_cancel_request_title
+Abandon your Quest.
+
+TAG: confirm_complete_quest
+Do you want to immediately complete that Request?
+
+TAG: confirm_eat_meal_message
+{Placeholder} Do you want to eat {mealName}? {buff}
+
+TAG: confirm_grid_object_clearing_message
+Watch out! Some objects will be destroyed if you place this here. Do you still want to place it?
+
+TAG: confirm_new_game_message
+Are you sure?
+
+TAG: confirm_new_game_title
+New Game
+
+TAG: confirm_purchase_message
+Are you sure you want to buy the {itemName}?
+
+TAG: confirm_refresh_request_slot_message
+Are you sure?
+
+TAG: confirm_refresh_request_slot_title
+Refresh Request slot
+
+TAG: confirm_skip_request_step_message
+Are you sure?
+
+TAG: confirm_skip_request_step_title
+Skip Request step
+
+TAG: continue_button
+Continue
+
+TAG: cross_network_play_disabled_message
+Crossplay is currently disabled. To access the crossplay multiplayer functionality, you need to enable it in your settings.
+
+TAG: cross_network_play_disabled_message_console
+Crossplay is currently disabled. To access the crossplay multiplayer functionality, you need to enable it in your console settings.
+
+TAG: cross_network_play_disabled_title
+Crossplay is disabled!
+
+TAG: cross_network_play_message
+By choosing CONFIRM below, you are acknowledging that you will now be able to play Disney Dreamlight Valley with players on other platforms. Your Valley will remain accessible by invitation only.
+
+TAG: cross_network_play_title
+Crossplay is enabled!
+
+TAG: delete_account
+Account Deletion
+
+TAG: delete_iCloud
+Delete iCloud
+
+TAG: delete_thirdparty_data
+Delete All Collected Data
+
+TAG: delete_thirdparty_data_body
+This will delete all your gameplay data stored on our servers. Your progress and save data will not be affected.
+
+TAG: disclaimer_age
+Age
+
+TAG: disclaimer_age_incorrect
+Please enter a valid age!
+
+TAG: disclaimer_age_text
+Before we begin, please tell us your age:
+
+TAG: disclaimer_contact
+Contact:
+
+TAG: disclaimer_cookies
+Cookies Policy
+
+TAG: disclaimer_eula
+End-User License Agreement
+
+TAG: disclaimer_parental_info
+Parental Info
+
+TAG: disclaimer_privacy
+Gameloft Privacy Policy
+
+TAG: disclaimer_privacy_macos
+DISNEY DREAMLIGHT VALLEY â macOS â PRIVACY POLICY
+
+TAG: disclaimer_ps_siea
+Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
+
+TAG: disclaimer_ps_siee
+Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited ("SIENE") and be subject to PlayStationâ¢Network Terms of Service and User Agreement which is available on the PlayStationâ¢Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+
+TAG: disclaimer_terms_of_use
+Terms of Use
+
+TAG: disclaimer_text
+Some game items may be purchased with real money. You can restrict in-app purchases in the settings menu of your account. To play this game, you or your parent or guardian must read and accept the following:
+
+TAG: disclaimer_text_applearcade
+To play this game, you or your parent or guardian must read and accept the following:
+
+TAG: disclaimer_text_ps4
+Some game items may be purchased with real money. You can restrict in-app purchases in the settings menu of your PlayStationÂ®4 system. To play this game, you or your parent or guardian must read and accept the following:
+
+TAG: disclaimer_text_ps5
+Some game items may be purchased with real money. You can restrict in-app purchases in the settings menu of your PlayStationÂ®5 console. To play this game, you or your parent or guardian must read and accept the following:
+
+TAG: disclaimer_text_switch
+Some game items may be purchased with real money. You can restrict in-app purchases in the settings menu of your Nintendo Switchâ¢ system. To play this game, you or your parent or guardian must read and accept the following:
+
+TAG: disclaimer_title
+Welcome to Disney Dreamlight Valley
+
+TAG: donate
+Donate
+
+TAG: donate_buy_all
+Buy all
+
+TAG: donate_required_furniture
+Required Furniture
+
+TAG: error_backpack_full_message
+Your Inventory is full!<lw>Store, drop on the ground, or sell some items at Goofy's Stall.
+
+TAG: error_buff_maximum_message
+Buff usage has already reached its limit. (Maximum buff: {maximumBuff})
+
+TAG: error_crafting_recipe_already_known
+You already know this crafting recipe.
+
+TAG: error_critical_message
+If the problem persists, contact Customer Care.
+
+TAG: error_critical_subtitle
+Something went wrong and the application needs to be restarted.
+
+TAG: error_critical_title
+Critical Error
+
+TAG: error_edit_mode_invalid_floor_type
+You can't place this object in this environment.
+
+TAG: error_insane_profile_message
+Please wait while we recover your profile.
+
+TAG: error_insane_profile_subtitle
+Something went wrong and you may have lost some progress.
+
+TAG: error_insane_profile_title
+Profile Error
+
+TAG: error_login_message
+Check your Internet connection and try again, or continue playing offline.
+
+TAG: error_login_subtitle
+Could not log into your player account.
+
+TAG: error_max_item_owned_reached
+You cannot own more of this item.
+
+TAG: error_memory_shard_already_collected
+You already have this Memory Piece.
+
+TAG: error_not_enough_cooking_combustible
+You don't have enough {cookingCombustible}!
+
+TAG: error_not_enough_currency_dreamdust_message
+You don't have enough Dreamlight for this purchase.
+
+TAG: error_not_enough_currency_dreamdust_title
+Dreamlight Missing
+
+TAG: error_not_enough_currency_heart_message
+You do not have enough Hearts for this purchase. Complete a Design Challenge to earn more!
+
+TAG: error_not_enough_currency_heart_title
+Missing Hearts
+
+TAG: error_not_enough_currency_starcoin_noshop_message
+You do not have enough Star Coins for this purchase.
+
+TAG: error_not_enough_currency_starcoin_title
+Star Coins Missing
+
+TAG: error_not_enough_currency_title
+You are missing multiple currencies needed for this purchase.
+
+TAG: error_not_enough_mana
+Not enough Energy.
+
+TAG: error_online_connection_lost_message
+Internet connection lost. Now playing in offline mode.
+
+TAG: error_profile_recovery_message
+Check your Internet connection and try again. If the problem persists, contact Customer Care.
+
+TAG: error_profile_recovery_subtitle
+We were unable to recover your profile.
+
+TAG: error_profile_recovery_title
+Profile Recovery Error
+
+TAG: error_purchase_item_price_invalid
+Purchase failed because of an item pricing error.
+
+TAG: error_purchase_item_state_invalid
+Purchase failed because of an item availability error.
+
+TAG: error_purchase_item_store_invalid
+Purchase failed because of a store error.
+
+TAG: error_purchase_item_store_locked
+Purchase failed because the store is currently locked.
+
+TAG: error_purchase_item_unavailable
+Purchase failed because the item is not currently available.
+
+TAG: error_purchase_item_unknown
+Purchase failed due to an unknown reason. Please try again later.
+
+TAG: error_remote_cannot_update_extra_limit
+Cannot update the extra object limit; please try again later.
+
+TAG: error_remote_transaction_message
+Check your Internet connection and try again.
+
+TAG: error_remote_transaction_subtitle
+The requested transaction could not be completed.
+
+TAG: error_remote_transaction_title
+Transaction Error
+
+TAG: error_server_connection_message
+Check your Internet connection and try again, or switch to offline mode.
+
+TAG: error_server_connection_subtitle
+The server could not be reached.
+
+TAG: error_server_connection_title
+Connection Error
+
+TAG: error_server_unexpected_message
+Retry or switch to offline mode. If the problem persists, contact Customer Care.
+
+TAG: error_server_unexpected_subtitle
+Something went wrong, but it still might be OK.
+
+TAG: error_server_unexpected_title
+Unexpected Error
+
+TAG: error_social_request_message
+Check your Internet connection and try again.
+
+TAG: error_social_request_subtitle
+Ralph could not complete your request.
+
+TAG: error_social_request_title
+Ralphtagram Error
+
+TAG: error_storage_full_message
+This Storage is full! Try trading some items at Goofy's Stall.
+
+TAG: error_version_mismatched_message
+Your profile was updated to a version higher than this game can support. Please update the game and try again.
+
+TAG: error_version_mismatched_title
+Invalid profile version
+
+TAG: go_offline_button
+Continue Offline
+
+TAG: input_your_name
+Type your name here.
+
+TAG: logout_save_to_cloud_error_desc
+Your linked progression couldn't be uploaded to the cloud. Are you sure you want to log out?
+
+TAG: logout_save_to_cloud_error_title
+Error Saving to Cloud
+
+TAG: logout_without_save_button
+Log Out Anyway
+
+TAG: mission_subtype_cooking
+Cooking
+
+TAG: mission_subtype_designchallenge
+Design Challenge
+
+TAG: mission_subtype_fishing
+Fishing
+
+TAG: mission_subtype_gardening
+Gardening
+
+TAG: no_item_available_message
+No items available
+
+TAG: player_name_error_length
+It should be longer than 2 letters.
+
+TAG: player_name_error_length_mac
+It should be longer than 2 letters, and for your privacy, it's best to avoid using real names.
+
+TAG: player_name_question
+What's Your Name?
+
+TAG: playstation_age_gating_description
+User age restriction applied; online features disabled.
+
+TAG: playstation_age_gating_title
+Warning
+
+TAG: playstation_patch_required
+An application update is available. Online features disabled.
+
+TAG: profile_desync_detected
+Game initialization error
+
+TAG: profile_desync_option_contact
+Customer Care
+
+TAG: profile_desync_option_quit
+Quit
+
+TAG: profile_recovery_success
+Your profile has been recovered. The application needs to be restarted.
+
+TAG: profile_user_credentials_init_failed
+Failed to retrieve User ID with current platform services. Please try again.
+
+TAG: profile_user_credentials_init_failed_epic
+Unable to connect to your Epic Games account. Please try again. This may require you to restart your game.
+
+TAG: profile_user_credentials_init_failed_microsoft
+Sorry! To play the game, you must be connected to your Microsoft account. Please try logging in again.
+
+TAG: profile_user_credentials_init_failed_osx
+Unable to connect to your Apple account. Please try again. If you choose to play offline, you will lose your data after logging in.
+
+TAG: profile_user_credentials_init_failed_steam
+Failed to retrieve your Steam account. Please check your network connection and be sure to launch the game from Steam.
+
+TAG: profile_user_credentials_init_failed_windows
+Sorry! You must launch the game from Steam or Epic Games. Please try again. This may happen when some game files have been deleted.
+
+TAG: profile_user_credentials_init_title
+Get User ID
+
+TAG: purchase_all_button
+Purchase All
+
+TAG: purchase_popup_message
+Do you want to purchase items for...
+
+TAG: quit_button
+Quit
+
+TAG: quit_game_no_save_desc
+Are you sure you want to quit?
+
+TAG: quit_game_save_desc
+Are you sure you want to quit? Game progress will be saved.
+
+TAG: quit_game_title
+Quit
+
+TAG: quit_save_to_cloud_error_desc
+Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?
+
+TAG: quit_save_to_cloud_error_title
+Error Saving to Cloud
+
+TAG: quit_save_to_cloud_generic_error
+Your game progress has been saved locally, but it couldn't be uploaded to the cloud.
+
+TAG: quit_save_to_cloud_offline_error
+You are playing offline. Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?
+
+TAG: quit_save_to_cloud_offline_internet_error
+No Internet. Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?
+
+TAG: quit_save_to_cloud_offline_nativeprofile_error
+Online services are unavailable. Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?
+
+TAG: quit_save_to_cloud_offline_playfab_error
+Online services are unavailable. Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?
+
+TAG: quit_save_to_cloud_offline_portal_error
+Game portal is unavailable. Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?
+
+TAG: quit_save_to_cloud_offline_unknown_error
+Your game progress has been saved locally, but it couldn't be uploaded to the cloud. Are you sure you want to quit?
+
+TAG: quit_without_save_button
+Quit Anyway
+
+TAG: retry_button
+Retry
+
+TAG: return_to_main_menu_desc
+Are you sure you want to return to the title screen? Game progress will be saved.
+
+TAG: return_to_main_menu_desc_avatar
+Are you sure you want to return to the title screen? You will need to customize your Avatar again.
+
+TAG: return_to_main_menu_title
+Return to Title Screen
+
+TAG: share_message_no_internet
+Please make sure you have Internet access.
+
+TAG: share_qr_body
+Please scan this QR Code to open the link
+
+TAG: share_subtitle
+Scan the QR code to share the photo with your friends
+
+TAG: share_title_photo_mode
+Share with your friends!
+
+TAG: signin_button
+Sign In
+
+TAG: title_error_code
+Error Code
+
+TAG: unlock_activity_title
+Unlock Activity
+
+TAG: unlock_building_character_requirement
+{characterName} must be in your Village to unlock: {buildingName}!
+
+TAG: unlock_building_character_requirement_activity
+{characterName} must be in your Village to unlock the {buildingName} Building and {activityName} Activity!
+
+TAG: unlock_building_level_requirement
+Reach level {level} to unlock: {buildingName}.
+
+TAG: unlock_building_message
+Do you want to renovate: {buildingName}?
+
+TAG: unlock_building_message_activity
+Unlock the {buildingName} Building to start the {activityName} Activity in your Village?
+
+TAG: unlock_building_title
+Unlock Building
+
+TAG: unlock_character_not_enough_space
+There is not enough space in your Village. Remove some rocks and Thorns and try again.
+
+TAG: unlock_character_title
+Welcome, {characterName}
+
+TAG: wish_select_adventure
+Adventure
+
+TAG: wish_select_desc
+This Wish will help create your Village!
+
+TAG: wish_select_friendship
+Friendship
+
+TAG: wish_select_magic
+Magic
+
+TAG: xbox_request_user_signin_description
+Continuing without a user will disable save game and achievement functionalities.
+
+TAG: xbox_request_user_signin_title
+Warning
+
+TAG: xbox_user_signed_restart_description
+User already signed in. Game will restart to load the profile.
+
+TAG: character_skin_required
+Villager Dream Style
+
+TAG: character_skin_required_unlock
+Unlock {skin} Dream Style
+
+TAG: character_skin_required_wear
+Equip {skin} Dream Style
+
+TAG: character_unlock
+Unlock Characters
+
+TAG: hidden_condition
+???
+
+TAG: hidden_criteria
+Hidden Requirement
+
+TAG: levelup_friendships
+Level Up Friendships
+
+TAG: new_mission_available
+New Quest Available
+
+TAG: next_mission_available_desc_female
+{character} has a new Quest available. Go talk to her.
+
+TAG: next_mission_available_desc_male
+{character} has a new Quest available. Go talk to him.
+
+TAG: next_mission_available_desc_neutral
+{character} has a new quest available. Go talk to them.
+
+TAG: next_mission_not_available
+Next Quest Is Locked
+
+TAG: next_mission_not_available_desc
+To unlock {character}'s next Friendship Quest, complete the following.
+
+TAG: next_mission_not_available_desc_override
+To unlock this Friendship Quest, complete the following.
+
+TAG: progress_further
+Progress Further with
+
+TAG: quest_started
+Quest Started
+
+TAG: required_village
+Location
+
+TAG: unlock_village_area
+Unlock Biomes
+
+TAG: quest_track
+Track
+
+TAG: quest_track_shortcut
+Track Quest
+
+TAG: quest_untrack
+Untrack
+
+TAG: character_friendship_condition
+{character} Level {level}
+
+TAG: player_level_condition
+Reach Level {level}
+
+TAG: questlog_cannot_progress_multiplayer
+Can't progress while hosting/visiting.
+
+TAG: questlog_daily_quests
+Daily Quests
+
+TAG: questlog_dreambundles_quests
+Dream Bundle Quests
+
+TAG: questlog_event_quests
+Event Quests
+
+TAG: questlog_friendship_quests
+Friendship Quests
+
+TAG: questlog_no_quests_available
+No Quests available
+
+TAG: questlog_realm_quests
+Realm Quests
+
+TAG: questlog_rewards
+Rewards:
+
+TAG: questlog_show_completed_requests
+Show completed Requests
+
+TAG: questlog_story_quests
+Story Quests
+
+TAG: questlog_weekly_quests
+Weekly Quests
+
+TAG: common_button_deselect
+Deselect
+
+TAG: sec_goldenp_purplebook01
+Experiment No. 146.<br>No one would suspect something as mundane as a <Lore>potato</Lore> could hold the key. I daresay it's genius.
+
+TAG: sec_goldenp_purplebook02
+Experiment No. 243.<br>The Forgotten is getting to me. I can't rely on my own memory. I must write everything down in a <Lore>book</Lore> lest I forget...
+
+TAG: sec_goldenp_purplebook03
+Experiment No. 569.<br>I must rely on the logic of <Lore>dreams</Lore> to protect it. Only a dreamer can hope to restore the...
+
+TAG: sec_goldenp_purplebook04
+Experiment No. 892.<br>A simple declaration of <Lore>Higitus Figitus</Lore> should be enough to...
+
+TAG: sec_goldenp_purplebook05
+Experiment No. 977.<br>Attempted to unlock the magical power of <Lore>fugu</Lore>... Alas, results proved disastrous...
+
+TAG: sec_goldenp_purplebook06
+Experiment No. 1,232.<br>Growing tired. The <Lore>crystal</Lore> ought to allow me to channel the transfiguration energies...
+
+TAG: sec_goldenp_purplebook07
+Experiment No. 3,598.<br>Spent today <Lore>foraging</Lore> for all I need to make the Transfiguration Stones...
+
+TAG: sec_goldenp_purplebook08
+Experiment No. 3,599.<br>Must be more diligent with my notes. <Lore>The Forgetting</Lore> nearly made me forget what I meant to do with all these ingredients...
+
+TAG: sec_goldenp_purplebook09
+Experiment No. 4,232.<br>Found a rather tasty <Lore>raspberry</Lore> today. Perhaps the Night Thorns haven't strangled all the life in the Valley just yet.
+
+TAG: sec_goldenp_purplebook10
+Experiment No. 5,232.<br>Only one way to seal the <Lore>magic</Lore>. I'll hide a code in these books. Something no one will ever think of...
+
+TAG: ftue_fairy_letter
+{Placeholder}Fairy Godmother's letter asks for the reader to join her in the Dreamscape. She hid the entrance to look like a simple rock mound. The reader should hurry.
+
+TAG: ftue_melt_ice
+Doorine is a picky eater! <br><br><lw>She likes it simple. Only a few ingredients necessary.<br><br>She hates having bad breath. <br><br>She likes something with extra crunch.<br><br>She likes things well-seasoned. <br><br>She refuses to eat anything not grown right here in the Castle.
+
+TAG: ftue_take_picture
+Note to self: To see the door, try changing your perspective. Only with the blink of a <Lore>mechanical eye</Lore> can you unlock the way forward.
+
+TAG: request_unlock_slot_at_level
+Unlock at level {level}
+
+TAG: vlg_belle_040_interrocks
+Heavy rocks are piled upon a glowing Chest.<br>It's going to take a tremendous amount of strength to remove the stones.
+
+TAG: vlg_eve_030_plant
+The slumbering, dried plant seems to regain some energy at your approach and tries to bite off your finger...
+
+TAG: vlg_mick_050_secretbook1
+Fairy Tale Book<br>A classic fairy tale book about a <Lore>prince in distress and a damsel to the rescue</Lore>.
+
+TAG: vlg_mick_050_secretbook2
+Worn-Out Book<br>Looks like this book has been read a lot. Someone drew a tower on the first page.
+
+TAG: vlg_mick_050_secretbook3
+Minnie's Polka Dot Compendium<br>Who could have thought there would be so many possible variations?
+
+TAG: vlg_mick_050_secretbook4
+Scrooge's Accounting Records<br>This book contains Scrooge's accounting records from before the Forgetting. Looks like he was selling a lot for a major profit.
+
+TAG: vlg_mike_010_goofyhouse
+Fishing behind the bed, you find something that may have been fishing bait... years ago.
+
+TAG: vlg_mike_010_merlinhouse
+Riffling through Merlin's papers, you find crumbs so stale that they must have been hiding in Merlin's beard through the entire Renaissance.
+
+TAG: vlg_mike_010_mickeyhouse
+You scrape some black gunk from the crack between the sink and the wall.
+
+TAG: vlgrequest_Simba030_alchemistdrawing
+It looks like a notice of some sort.<br>Maybe someone can help you make sense of it all.
+
+TAG: vlgrequest_Simba030_alchemisttable
+A complicated tangle of tubes and beakers takes up most of the table.<br>You notice there is still some room in two places to add something else. <br>You're not sure what.
+
+TAG: vlgrequest_Simba030_bookoncrate
+The pages are covered by lines and lines of an almost illegible scrawl...<br>From the drawings, you get the book is about plants.
+
+TAG: searching_error_no_activity_item_try_later
+There are no items of the type you are looking for at the moment. Please try again later.
+
+TAG: scrooge_store_dummybook
+<i>Ergonomic Benefits of L Couches & Their Decorative Value Part I</i>
+
+TAG: settings_data_collection_sublabel
+Turn ON to enable online features
+
+TAG: button_crossplay_yes
+Disable Cross-play
+
+TAG: crossplay_title
+Cross-play Disabled
+
+TAG: setting_customer_care_applearcade_label
+Apple Arcade:
+
+TAG: setting_customer_care_applearcade_link
+https://support.apple.com
+
+TAG: setting_customer_care_label
+Contact Customer Care:
+
+TAG: setting_customer_care_link
+https://gameloft.helpshift.com/hc/en/66-disney-dreamlight-valley/?han=1&hbhf=1
+
+TAG: setting_customer_care_link_applearcade
+http://ddv-help.gameloft.com/
+
+TAG: setting_customer_care_link_applearcade_delete_info
+Please contact Customer Care to proceed with the deletion of all collected data.
+
+TAG: setting_disable_pn_message
+We provide notifications for Disney Dreamlight Valley to keep you up to date.<br>You will not receive any notifications from outside the game if you disable the Push Notifications setting. This can be changed at any time in the Settings menu.<br>Do you want to disable push notifications?
+
+TAG: setting_disable_pn_title
+Disable Push Notifications
+
+TAG: setting_discord_label
+Discord:
+
+TAG: setting_discord_link
+https://discord.gg/disneydreamlightvalley
+
+TAG: setting_enable_pn_cancel
+Not Now
+
+TAG: setting_enable_pn_confirm
+Notify Me
+
+TAG: setting_enable_pn_message
+Want to stay up to date on Disney Dreamlight Valley and its events?<br>You'll receive notifications about DreamSnaps-related events and updates.<br>Your information will be associated with a random identifier that is not linked to you. You can change this anytime in the Settings menu.
+
+TAG: setting_enable_pn_title
+Enable Push Notifications
+
+TAG: setting_expansion_restore_purchase_desc_success_first
+You have already purchased some of the content. Restored Content:
+
+TAG: setting_ios_pn_permission_message
+To adjust your push notification preferences for Disney Dreamlight Valley, please go to your device settings. Allowing notifications lets you stay up to date on the game's events.<lw>Your information will be associated with a random identifier that is not linked to you.
+
+TAG: setting_ios_pn_permission_title
+Push Notification Permission
+
+TAG: setting_restore_purchase_desc_error_already_restored
+You have already restored your purchases.
+
+TAG: setting_restore_purchase_desc_error_no_purchase
+You don't have any purchases to restore.
+
+TAG: setting_restore_purchase_desc_error_restart
+Failed to restore purchase. If the issue still persists, please try to restart the game.
+
+TAG: setting_restore_purchase_desc_error_server
+Failed to restore purchase due to an unknown online error.
+
+TAG: setting_restore_purchase_desc_success
+Purchases have been successfully restored and were sent to your Mailbox!
+
+TAG: setting_restore_purchase_desc_success_first
+Purchases have been successfully restored. Restored Content:
+
+TAG: setting_restore_purchase_desc_success_second
+<br>Please go to your mailbox to re-claim your purchase(s).
+
+TAG: setting_restore_purchase_title
+Restore Purchase
+
+TAG: settings_about
+About
+
+TAG: settings_contact_info
+Email: http://support.gameloft.com/<lw>Gameloft, 14 rue Auber, 75009 Paris, France.
+
+TAG: settings_controls_click_to_move
+Click to Move
+
+TAG: settings_controls_controller_sensitivity
+Camera Sensitivity for Controller
+
+TAG: settings_controls_crossplay
+Multiplayer: Cross-play Enabled
+
+TAG: settings_controls_editmode_controls
+Edit Mode Controls
+
+TAG: settings_controls_invert_camera
+Invert Camera - Y axis
+
+TAG: settings_controls_invert_camera_x_axis
+Invert Camera - X axis
+
+TAG: settings_controls_keyboard_layout
+Layout
+
+TAG: settings_controls_keyboard_layout_default
+QWERTY
+
+TAG: settings_controls_keyboard_layout_keyboard_azerty
+AZERTY
+
+TAG: settings_controls_keyboard_layout_keyboard_qwerty
+QWERTY
+
+TAG: settings_controls_mobile_vibration
+Vibration
+
+TAG: settings_controls_mouse_sensitivity
+Camera Sensitivity for Mouse
+
+TAG: settings_controls_touch_sensitivity
+Camera Sensitivity for Touch Screen
+
+TAG: settings_data_collection_label
+Data Collection
+
+TAG: settings_delete_icloud_body
+Are you sure you want to delete your iCloud account progress?
+
+TAG: settings_delete_icloud_fail_body
+Unable to delete iCloud data. Please try again.
+
+TAG: settings_delete_icloud_fail_label
+Failed to Delete iCloud Data
+
+TAG: settings_delete_icloud_label
+Delete iCloud Progress?
+
+TAG: settings_delete_icloud_nodata_body
+Unable to delete iCloud data because there's no save data.
+
+TAG: settings_delete_icloud_success_body
+Your iCloud data has been deleted.
+
+TAG: settings_delete_icloud_success_label
+Successfully Deleted iCloud Data
+
+TAG: settings_gameplay_text_scaling
+Text Scaling
+
+TAG: settings_gameplay_time_of_day_offset
+Offset Time of Day
+
+TAG: settings_gameplay_time_of_day_offset_note
+Affects visuals only.<lw>Gameplay will remain synced with your local time.
+
+TAG: settings_gameplay_time_of_day_offset_value
+({value}h)
+
+TAG: settings_general_about
+About
+
+TAG: settings_general_language
+Language
+
+TAG: settings_general_language_restart
+You need to restart the game to change languages
+
+TAG: settings_general_legal
+Legal
+
+TAG: settings_general_legal_macos
+Legal and Privacy
+
+TAG: settings_general_local_notification
+Local Notifications
+
+TAG: settings_general_push_notification
+Push Notifications
+
+TAG: settings_general_service_status
+Service Status
+
+TAG: settings_general_service_status_last_incident_report
+Last Error Reported
+
+TAG: settings_general_service_status_last_updated
+Last Updated
+
+TAG: settings_general_service_status_playfab
+PlayFab
+
+TAG: settings_graphics_disable_camera_shakes
+Disable Camera Shakes
+
+TAG: settings_graphics_disable_flashes
+Disable Flickering
+
+TAG: settings_graphics_display
+Display
+
+TAG: settings_graphics_display_mode
+Display Mode
+
+TAG: settings_graphics_display_mode_fullscreen
+Full Screen
+
+TAG: settings_graphics_display_mode_fullscreen_no_borders
+Full Screen (No borders)
+
+TAG: settings_graphics_display_mode_windowed
+Windowed
+
+TAG: settings_graphics_display_number
+Display {num,D}
+
+TAG: settings_graphics_distance_quality
+Distance Quality
+
+TAG: settings_graphics_graphics_preset
+Graphics Preset
+
+TAG: settings_graphics_quality_android_high
+Android High
+
+TAG: settings_graphics_quality_android_low
+Android Low
+
+TAG: settings_graphics_quality_android_medium
+Android Medium
+
+TAG: settings_graphics_quality_default
+Default
+
+TAG: settings_graphics_quality_ios_high
+iOS High
+
+TAG: settings_graphics_quality_ios_low
+iOS Low
+
+TAG: settings_graphics_quality_ios_medium
+iOS Medium
+
+TAG: settings_graphics_quality_mac_high
+High
+
+TAG: settings_graphics_quality_mac_low
+Low
+
+TAG: settings_graphics_quality_mac_medium
+Medium
+
+TAG: settings_graphics_quality_mac_ultra
+Ultra
+
+TAG: settings_graphics_quality_mac_ultra_high
+Ultra High
+
+TAG: settings_graphics_quality_mac_ultra_low
+Ultra Low
+
+TAG: settings_graphics_quality_mac_very_high
+Very High
+
+TAG: settings_graphics_quality_mac_very_low
+Very Low
+
+TAG: settings_graphics_quality_pc_high
+PC High
+
+TAG: settings_graphics_quality_pc_low
+PC Low
+
+TAG: settings_graphics_quality_pc_medium
+PC Medium
+
+TAG: settings_graphics_quality_pc_ultra
+PC Ultra
+
+TAG: settings_graphics_quality_pc_ultra_high
+PC Ultra High
+
+TAG: settings_graphics_quality_pc_ultra_low
+PC Ultra Low
+
+TAG: settings_graphics_quality_pc_very_high
+PC Very High
+
+TAG: settings_graphics_quality_pc_very_low
+PC Very Low
+
+TAG: settings_graphics_quality_ps4
+PS4
+
+TAG: settings_graphics_quality_ps4_pro
+PS4 Pro
+
+TAG: settings_graphics_quality_ps5
+PS5
+
+TAG: settings_graphics_quality_switch
+Nintendo Switch
+
+TAG: settings_graphics_quality_switchdocked
+Nintendo Switch TV Mode
+
+TAG: settings_graphics_quality_unknown
+Unknown
+
+TAG: settings_graphics_quality_xboxone
+Xbox One
+
+TAG: settings_graphics_quality_xboxones
+Xbox One S
+
+TAG: settings_graphics_quality_xboxonex
+Xbox One X
+
+TAG: settings_graphics_quality_xboxseriess
+Xbox Series S
+
+TAG: settings_graphics_quality_xboxseriesx
+Xbox Series X
+
+TAG: settings_graphics_refresh_rate
+Refresh Rate
+
+TAG: settings_graphics_refresh_rate_default
+Default
+
+TAG: settings_graphics_resolution
+Resolution
+
+TAG: settings_graphics_resolution_scale
+Resolution Scale
+
+TAG: settings_graphics_shadow_resolution
+Shadow Resolution
+
+TAG: settings_graphics_texture_quality
+Texture Quality
+
+TAG: settings_graphics_texture_quality_default
+Default
+
+TAG: settings_graphics_texture_quality_low
+Low
+
+TAG: settings_graphics_texture_quality_very_low
+Very Low
+
+TAG: settings_graphics_vsync
+VSync
+
+TAG: settings_hide_items_red_dots
+Hide Red Dots in the Furniture and Wardrobe Menus
+
+TAG: settings_hold_to_complete_fishing
+Hold to Complete Fishing
+
+TAG: settings_hold_to_complete_timebending
+Hold to Complete Timebending
+
+TAG: settings_mp_blocked_visitors_title
+Blocked Visitors
+
+TAG: settings_mp_do_you_want_to_unblock_message
+Do you really want to unblock {playername}?
+
+TAG: settings_mp_no_blocked_visitor_message
+There are no blocked visitors.
+
+TAG: settings_mp_no_blocked_visitor_title
+No blocked visitors
+
+TAG: settings_mp_unblock_visitor_title
+Unblock visitor
+
+TAG: settings_mp_visitor_couldnt_be_unblocked_message
+Visitor {playername} couldn't be unblocked.
+
+TAG: settings_mp_visitor_unblocked_message
+Visitor {playername} was successfully unblocked.
+
+TAG: settings_need_restart
+Please restart the game to apply these changes
+
+TAG: settings_parental_info_epic
+Dear parents, thanks for your attention!<lw><lw>DISNEY DREAMLIGHT VALLEY allows you to play using virtual currency (called "Moonstones"), which can be acquired by playing the game or paying with real money. Purchases of Moonstones using real money are performed using a credit card or other form of payment associated with your account.<lw><lw>Once the credit card number is added, you will not be asked to re-enter your credit card number or PIN. Once logged in to the Epic Games Store, your account will be authorized to perform in-app purchases and no password will be required. If you want to limit purchases, you can go to Account > Parental Controls, and then set a PIN.<lw><lw>Please make sure your kids obtain your permission before making in-app purchases.<lw><lw>If you would like to request a refund, please contact Epic Games Store support directly.<lw><lw>This application has been developed by Gameloft S.E., with the registered office at 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_parental_info_mac
+Dear parents, thanks for your attention!<lw><lw>Please be informed that DISNEY DREAMLIGHT VALLEY allows you to play using virtual currency (called "Moonstones"), which can be acquired by playing the game or paying with real money.<lw><lw>Purchases of Moonstones using real money are performed using a credit card, or other form of payment associated with your account, when you input your Apple account password.<lw><lw>You will not be asked to re-enter your credit card number or PIN. Once your Apple password is entered, it won't be requested again for in-app purchases for 15 minutes. Therefore, we strongly suggest that you do not share your Apple password with your children.<lw><lw>If you would like to request a refund, please contact the App Store directly. <lw><lw>To shorten the period during which in-app purchases can be made, please change your device settings: App Store >> Preferences >> Purchases and In-App Purchases (enter your Apple credentials).<lw> <lw>The application has been developed by Gameloft S.E., with the registered office at 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_parental_info_playstation
+Dear parents, thanks for your attention!<lw><lw>DISNEY DREAMLIGHT VALLEY allows you to play using virtual currency (called "Moonstones"), which can be acquired by playing the game or paying with real money. Purchases of Moonstones using real money are performed using a credit card, or other form of payment associated with your account, when you input your account for PlayStationâ¢Network. You will not be asked to re-enter your credit card number or PIN. By default, in-app purchases require your account for PlayStationâ¢Network, so you can rest assured that purchases cannot be made if you don't share your password with your kids. If you would like to request a refund, please contact customer support on PlayStationÂ®.<lw><lw>If you want the app to ask for the password each time you make an in-app purchase, please change the following settings: <lw><lw>PS5â¢ console: Go to "Settings" >> "Users and Accounts" >> Select "Account" >> "Payment and Subscriptions" >> "Purchase Settings" >> "Require Password at Checkout"<lw><lw>PS4â¢: Go to "Settings" >> "Account Management" >> "Account Information" >> "Wallet" >> "Purchase Settings," and enter your sign-in information >> Select "Require Password at Checkout?" >> Select "Yes" and then "Confirm."<lw><lw>Kids, please ask a parent before making in-app purchases.<lw><lw>This application has been developed by Gameloft S.E., with the registered office at 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_parental_info_steam
+Dear parents, thanks for your attention!<lw><lw>Please be informed that DISNEY DREAMLIGHT VALLEY allows you to play using virtual currency (called "Moonstones"), which can be acquired by playing the game or paying with real money.<lw><lw>Purchases of Moonstones using real money are performed using your Steam Wallet, a credit card, or other form of payment associated with your account, when you log in with your Steam account.<lw><lw>You will not be asked to re-enter your credit card number or PIN.<lw><lw>Once logged in to Steam, your account will be authorized to perform in-app purchases and your password will not be required.<lw><lw>Please make sure your kids obtain your permission before making in-app purchases.<lw><lw>If you would like to request a refund, please contact Steam support directly.<lw><lw>The application has been developed by Gameloft S.E., with the registered office at 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_parental_info_switch
+Dear parents, thanks for your attention!<lw><lw>DISNEY DREAMLIGHT VALLEY allows you to play using virtual currency (called "Moonstones"), which can be acquired by playing the game or paying with real money. Purchases of Moonstones using real money are performed using a credit card, or other form of payment. You will not be asked to re-enter your credit card number or PIN. By default, in-app purchases require your password, so you can rest assured that purchases cannot be made if you don't share your password with your kids. If you would like to request a refund, please contact NintendoÂ® directly.<lw><lw>If you want to set up in-app purchase restrictions, please change your Nintendo eShop settings.<lw><lw>Kids, please ask a parent before making in-app purchases.<lw><lw>This application has been developed by Gameloft S.E., with the registered office at 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_parental_info_windows
+Dear parents, thanks for your attention!<lw><lw>DISNEY DREAMLIGHT VALLEY allows you to play using virtual currency (called "Moonstones"), which can be acquired by playing the game or paying with real money. Purchases of Moonstones using real money are performed using a credit card, or other form of payment associated with your account, when you input your Windows account password. You will not be asked to re-enter your credit card number or PIN. By default, in-app purchases require your Windows account password, so you can rest assured that purchases cannot be made if you don't share your password with your kids.<lw><lw>If you would like to request a refund, please contact the Windows Store directly.<lw><lw>Kids, please ask a parent before making in-app purchases.<lw><lw>The application has been developed by Gameloft S.E., with the registered office at 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_parental_info_xbox
+Dear parents, thanks for your attention!<lw><lw>DISNEY DREAMLIGHT VALLEY allows you to play using virtual currency (called "Moonstones"), which can be acquired by playing the game or paying with real money. Purchases of Moonstones using real money are performed using a credit card, or other form of payment associated with your account, when you input your Microsoft account password or passkey. You will not be asked to re-enter your credit card number or PIN. By default, in-app purchases require your Microsoft account password or passkey, so you can rest assured that purchases cannot be made if you don't share your password or passkey with your kids. If you would like to request a refund, please contact the Microsoft Store on Xbox directly.<lw><lw>If you want the app to ask for the password or passkey each time you make an in-app purchase, please change your Microsoft Store on Xbox settings: Press the Xbox button >> Select "Profile & system" >> "Settings" >> Under "Account," select "Sign-in, security & PIN" >> Select "Change my sign-in and security preferences" >> Scroll right and select "Customized" >> Choose "Ask for my PIN to make purchases."<lw><lw>Kids, please ask a parent before making in-app purchases.<lw><lw>This application has been developed by Gameloft S.E., with the registered office at 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_promo_code_label
+Redemption code
+
+TAG: settings_quit_game
+Quit Game
+
+TAG: settings_reset_game
+Reset Game
+
+TAG: settings_restart_game
+Return to Title Screen
+
+TAG: settings_save_game
+Save Game
+
+TAG: settings_save_game_last_saved_at
+Last save: {minutes} m {seconds} s ago
+
+TAG: settings_save_game_last_saved_now
+Last save: Now
+
+TAG: settings_save_icloud
+Save to iCloud
+
+TAG: settings_save_playfab
+Save to PlayFab
+
+TAG: settings_show_boardgame_eager
+Enable Scramblecoin Requests
+
+TAG: settings_sprint_uses_old_button
+Use Alternative Sprint Button
+
+TAG: settings_tap_to_sprint
+Tap to Sprint
+
+TAG: settings_toggle_item_off
+OFF
+
+TAG: settings_toggle_item_on
+ON
+
+TAG: shop_starpath_confirmation_description
+You are about to spend {0} for: Premium Star Path
+
+TAG: shop_starpath_plus_confirmation_description
+You are about to spend {0} for: Premium Star Path and 100 tokens
+
+TAG: shortcut_common_default_track_duty
+Track Duty
+
+TAG: snippet_catch_activity
+Snippet catching
+
+TAG: snippet_trap_chiller_category_plural
+Slow Traps
+
+TAG: snippet_trap_chiller_category_singular
+Slow Trap
+
+TAG: snippet_trap_chiller_description
+Slows Snippets in the area by {percentage}
+
+TAG: snippet_trap_chiller_upgrade_description
+Slows Snippets in the area by <TrapUpgrade>{percentage}</TrapUpgrade>
+
+TAG: snippet_trap_multiple_info
+Multiple {traptypeplural} are in the "{areaname}" area. When multiple {traptypeplural} are placed in the same area, only the strongest {traptypesingular} is active.
+
+TAG: snippet_trap_next_level
+Next Level
+
+TAG: snippet_trap_repellant_category_plural
+Snippet Repellents
+
+TAG: snippet_trap_repellant_category_singular
+Snippet Repellent
+
+TAG: snippet_trap_repellant_description
+Reduce Snippet spawn rate by {percentage}
+
+TAG: snippet_trap_repellant_upgrade_description
+Reduce Snippet spawn rate by <TrapUpgrade>{percentage}</TrapUpgrade>
+
+TAG: snippet_trap_sticky_category_plural
+Lure Traps
+
+TAG: snippet_trap_sticky_category_singular
+Lure Trap
+
+TAG: snippet_trap_sticky_description
+Regularly generates Snippets. Max capacity: {capacity}
+
+TAG: snippet_trap_sticky_upgrade_description
+Max capacity: <TrapUpgrade>{capacity}</TrapUpgrade>
+
+TAG: phone_liked_by
+Liked by {number} player(s)
+
+TAG: phoneprompt_show_your_mood_desc
+Show your mood in a picture!
+
+TAG: social_character_label
+Invite {character} to the Valley
+
+TAG: social_event_generic_name
+Social Event
+
+TAG: social_profile_info_posts
+Posts: {posts}
+
+TAG: sort_items
+Sort Items
+
+TAG: sort_items_by_alphabetical
+Name A-Z
+
+TAG: sort_items_by_newest_to_oldest
+Newest
+
+TAG: sort_items_by_oldest_to_newest
+Oldest
+
+TAG: sort_items_by_reverse_alphabetical
+Name Z-A
+
+TAG: sort_items_by_type
+Type
+
+TAG: splash_autosave
+This game supports autosaving. An icon will be displayed in the bottom-right of the screen while data is being saved. Do not exit the game or turn off the power while the icon is displayed.
+
+TAG: splash_developed_by
+Developed by Gameloft
+
+TAG: splash_seizure_warning
+WARNING<br>A very small percentage of people may experience a seizure when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people who have no history of seizures or epilepsy may have an undiagnosed condition that can cause these photosensitive epileptic seizures while playing video games. Immediately stop playing and consult a doctor if you experience any symptoms.
+
+TAG: buy_moonstone
+Buy Moonstones
+
+TAG: buy_moonstone_switch
+You can get more Moonstones on Nintendo eShop!
+
+TAG: purchase_moonstone_desc
+Got some extra tokens?<lw>Change them into Moonstones before the Star Path is over.
+
+TAG: starpass_title
+Star Path
+
+TAG: starpath_activate
+Activate Star Path
+
+TAG: starpath_ad_desc
+Complete various tasks to earn exclusive furniture, clothes and more!
+
+TAG: starpath_ad_title
+The Star Path Is Now Available
+
+TAG: starpath_bonus_rewards
+Bonus Rewards
+
+TAG: starpath_bundle_offer
+Get a discount on your first purchase of {0} {1}
+
+TAG: starpath_buy_moonstone_desc
+Insufficient Moonstone balance. Would you like to buy more Moonstones?
+
+TAG: starpath_buy_moonstone_title
+Moonstone Top-Up
+
+TAG: starpath_collect_duty_error_duty_not_found
+The selected duty was not found online.
+
+TAG: starpath_collect_duty_error_invalid_config
+The current Star Path configuration is invalid.
+
+TAG: starpath_collect_sync_title
+Collect Sync
+
+TAG: starpath_collected
+Collected
+
+TAG: starpath_companion_name
+{petName} Companion
+
+TAG: starpath_confirm_unlock
+Activate Premium Star Path
+
+TAG: starpath_confirm_unlock_plus
+Activate and get {0} {1} for
+
+TAG: starpath_description
+Description
+
+TAG: starpath_duties
+Duties
+
+TAG: starpath_duties_completed
+Congratulations, {PlayerName}.<lw>You have completed all event duties.
+
+TAG: starpath_empty_event
+No event currently available. Come back soon!
+
+TAG: starpath_event_ended_desc
+You have {0} to use your {1} to claim rewards.
+
+TAG: starpath_event_ended_label
+Finished
+
+TAG: starpath_event_ended_title
+{0} is finished
+
+TAG: starpath_friendship_progression
+Friendship progress
+
+TAG: starpath_generic_error_already_collected
+The reward was already collected.
+
+TAG: starpath_generic_error_collect_title
+Collect Error
+
+TAG: starpath_generic_error_config_not_found
+The current Star Path was not found online.
+
+TAG: starpath_generic_error_event_ended
+The current Star Path has ended.
+
+TAG: starpath_generic_error_event_finished
+The current Star Path has finished.
+
+TAG: starpath_generic_error_transaction_failed
+The "collect reward" transaction failed due to an unexpected result with Online Services.
+
+TAG: starpath_generic_error_unknown
+Could not collect the reward due to an unknown error.
+
+TAG: starpath_get_tokens
+More Tokens
+
+TAG: starpath_go_to
+Go to Star Path
+
+TAG: starpath_goofy_bonus
+Goofy's Stall<br>bonus
+
+TAG: starpath_locked_label
+Unlock premium rewards
+
+TAG: starpath_more_moonstone
+More Moonstones
+
+TAG: starpath_multiplayer_desc
+End the visit to see this content!
+
+TAG: starpath_multiplayer_title_client
+You're visiting
+
+TAG: starpath_multiplayer_title_host
+You're hosting
+
+TAG: starpath_offline_desc
+Would you like to connect to see this content?
+
+TAG: starpath_offline_internet_title
+No Internet
+
+TAG: starpath_offline_nativeprofile_title
+Online Services Unavailable
+
+TAG: starpath_offline_playfab_title
+Online Services Unavailable
+
+TAG: starpath_offline_portal_title
+Game Portal Unavailable
+
+TAG: starpath_offline_title
+You're Offline
+
+TAG: starpath_offline_unknown_title
+You're Offline
+
+TAG: starpath_page
+Page
+
+TAG: starpath_premium
+Premium
+
+TAG: starpath_premium_locked
+Activate the Premium Star Path to complete more duties at once
+
+TAG: starpath_premium_popup_desc
+Activate the Premium Star Path to collect tokens faster and unlock seasonal rewards. You will earn even more iconic new looks and special furniture to decorate your Village so you can shine like a star.
+
+TAG: starpath_premium_popup_title
+Premium Star Path
+
+TAG: starpath_purchase_reward_already_purchased_recovery
+Reward was already purchased; synchronizing data with server.
+
+TAG: starpath_purchase_reward_error_page_locked
+The current page is locked due to unlock requirements not being fully met.
+
+TAG: starpath_purchase_reward_error_reward_not_found
+The selected reward was not found online.
+
+TAG: starpath_purchase_reward_not_enough_currency_recovery
+Not enough currency to claim this reward; synchronizing data with server.
+
+TAG: starpath_purchase_reward_premium_pass_inactive_recovery
+The Premium Pass must be unlocked to make this reward claimable; synchronizing data with server.
+
+TAG: starpath_reward_locked
+Obtain at least {0} of the {1} rewards from page {2} to unlock this section.
+
+TAG: starpath_reward_locked_until
+Collect {0} more reward(s) to unlock {1}
+
+TAG: starpath_rewards
+Rewards
+
+TAG: starpath_shortcut_claim_duty
+Claim Duty
+
+TAG: starpath_shortcut_collect_reward
+Collect Reward
+
+TAG: starpath_task_available_in
+Available in: <lw>
+
+TAG: starpath_unlock_now
+Unlock now!
+
+TAG: starpath_unlock_premium
+Unlock Premium
+
+TAG: starpath_unlocked_label
+Premium rewards unlocked
+
+TAG: button_common_deny
+Deny
+
+TAG: data_share_checkbox_text
+I allow Gameloft to collect and share my data with Select Partners (https://www.gameloft.com/en/privacy-notice/contact-form/#selected-partners) for the purpose of displaying personalized advertising on external sites and reaching potential users that look like Gameloft's current users.
+
+TAG: desc_you_must_login
+To save and continue your progress on various platforms, you must create an account and confirm you are 16 years old or older. If you are under this age, your parent or guardian must provide their email address.
+
+TAG: desc_you_must_login_ps
+To save and continue your progress, you must create an account and confirm you are 16 years old or older. If you are under this age, your parent or guardian must provide their email address.
+
+TAG: dont_ask_me_again
+Don't ask me again
+
+TAG: email_update_checkbox_text
+I accept to receive by email updates, news and promotional offers related to Gameloft games, knowing that I can unsubscribe at any time through a link included in the emails.
+
+TAG: label_reset_password
+Reset Password
+
+TAG: label_roadmap_title
+Development Plan
+
+TAG: marketing_options_account_creation
+You're about to create an account. Do you want to also subscribe to our Newsletter and Partner Data Sharing?
+
+TAG: marketing_options_logged_in
+You're already logged in to our Cloud Save function. Do you want to also subscribe to our Newsletter and Partner Data Sharing?
+
+TAG: label_press_any_button
+Press Any Button to Start
+
+TAG: label_press_any_key
+Press Any Key to Start
+
+TAG: label_tap_screen_mobile
+Tap Screen to Start
+
+TAG: startftue_avatar_preset
+AVATAR PRESET
+
+TAG: startftue_you_can_edit
+You can edit this Avatar in the next step.
+
+TAG: set_name_abusive_language
+This name contains offensive language.
+
+TAG: set_name_invalid_profile
+Your profile is corrupted, and the game cannot be launched properly.
+
+TAG: set_name_on_cooldown
+There is an active cooldown on display name change.
+
+TAG: set_name_online_error
+The name failed to be saved online.
+
+TAG: set_name_something_happened
+Something unexpected happened. Try again later.
+
+TAG: expansion_real_money_disclaimer
+Costs real money
+
+TAG: scrooge_store_buyable
+Buyable
+
+TAG: scrooge_store_cant_order_desc
+You are trying to order too many clothes.
+
+TAG: scrooge_store_cant_order_title
+Can't Order
+
+TAG: scrooge_store_limit_reached_desc
+You can't order any more items today. Come back tomorrow!
+
+TAG: scrooge_store_limit_reached_title
+Daily Order Limit Reached
+
+TAG: scrooge_store_order
+Order
+
+TAG: scrooge_store_order_with_amount
+Order x{amount}
+
+TAG: scrooge_store_owned
+Owned
+
+TAG: scrooge_store_quest
+Quest Items
+
+TAG: store_clothing
+Clothing
+
+TAG: store_expansion_desc
+Expand your journey to Eternity Isle, where more adventures await! Disney Dreamlight Valley: A Rift in Time, the new Expansion Pass, offers new story arcs, Characters, Biomes, and a whole wealth of surprises.
+
+TAG: store_filters
+Filters
+
+TAG: store_furniture
+Furniture
+
+TAG: store_purchase
+Purchase
+
+TAG: store_purchase_confirm
+Purchase Confirmation
+
+TAG: storefront_big_moonstone_pack
+Big Moonstone Pack
+
+TAG: storefront_enormous_moonstone_pack
+Enormous Moonstone Pack
+
+TAG: storefront_moonstones_usage_desc
+Use the magic of the Moonstones to activate the Star Path and get stylish clothes, unique furniture and much more.
+
+TAG: storefront_regular_moonstone_pack
+Regular Moonstone Pack
+
+TAG: storefront_small_moonstone_pack
+Small Moonstone Pack
+
+TAG: storefront_tiny_moonstone_pack
+Tiny Moonstone Pack
+
+TAG: visit_aquatic_text
+Let's go see your House!
+
+TAG: timebendingstation_transmute_title
+Timebending Upcycle
+
+TAG: menu.timebendingstation_combine_receipes
+Combine Recipes
+
+TAG: timebendingstation_allowstofind
+Allows you to find
+
+TAG: timebendingstation_combine_receipes
+Combine Recipes
+
+TAG: timebendingstation_crafting_title
+Combine Recipe
+
+TAG: timebendingstation_dismute
+Dismantle
+
+TAG: timebendingstation_dismute_label
+Select item to Dismantle
+
+TAG: timebendingstation_hourglass
+Hourglass
+
+TAG: timebendingstation_hourglass_level
+LEVEL {Binding HourglassLevel}
+
+TAG: timebendingstation_hourglass_maxlevel
+MAXIMUM LEVEL
+
+TAG: timebendingstation_newtreasures
+New treasures to be found!
+
+TAG: timebendingstation_nextlevel
+NEXT LEVEL
+
+TAG: timebendingstation_title
+Timebending Table
+
+TAG: timebendingstation_transmute
+Upcycle
+
+TAG: timebendingstation_transmute_label
+Select item to Upcycle
+
+TAG: timebendingstation_transmute_unlock
+Timebending Table â Upcycle
+
+TAG: timebendingstation_upgrade
+Upgrade
+
+TAG: timebendingstation_upgrade_hourglass
+Upgrade Hourglass
+
+TAG: timebendingstation_upgrades_title
+Hourglass Upgrades
+
+TAG: select_tool
+Select Tool
+
+TAG: subtitle_touch_of_magic1_1
+Choose <Add new> to create a new custom design.
+
+TAG: subtitle_touch_of_magic1_2
+You can modify or remove your design later.
+
+TAG: subtitle_touch_of_magic2_1
+Change the color of your selected item at any time.
+
+TAG: subtitle_touch_of_magic2_2
+Add up to 50 motifs to an item. Modify the layer order by dragging the motif.
+
+TAG: subtitle_touch_of_magic2_furniture_1
+Change the material of your selected item at any time.
+
+TAG: subtitle_touch_of_magic2_furniture_2
+Add up to 50 motifs to an item. Modify the layer order by dragging the motif.
+
+TAG: subtitle_touch_of_magic3_1
+Move, rotate and resize the Motif on your item.
+
+TAG: subtitle_touch_of_magic3_2
+Modify the motif with a layer effect in the top bar.
+
+TAG: subtitle_touch_of_magic4_furniture_1
+If there are items on a piece of Touch of Magic furniture when trying to delete that design...
+
+TAG: title_touch_of_magic1
+Touch of Magic â Design Inventory
+
+TAG: title_touch_of_magic2
+Touch of Magic â Decorating
+
+TAG: title_touch_of_magic3
+Touch of Magic â Motif Placement
+
+TAG: title_touch_of_magic4_furniture
+Touch of Magic â Delete a Design
+
+TAG: tutorial_button_lets_go
+LET'S GO!
+
+TAG: tutorial_enterrestaurant_desc_step1
+Select Ingredients
+
+TAG: tutorial_enterrestaurant_desc_step2
+Start cooking!
+
+TAG: tutorial_enterrestaurant_desc_step3
+Add your Recipe to the Cookbook and try something else.
+
+TAG: tutorial_gardeningtutorial_desc_step1
+Plant Seed
+
+TAG: tutorial_gardeningtutorial_desc_step2
+Water it or it will wither!
+
+TAG: tutorial_gardeningtutorial_desc_step3
+Wait until it is ripe to collect it.
+
+TAG: character_detail_unlock_profession
+Reach level 2 to unlock the Hangout Bonus.
+
+TAG: locked_realm_character_unlock
+Unlock Realm: {name}
+
+TAG: locked_region_character_counter
+Characters<br>{current} / {needed}
+
+TAG: locked_region_character_desc
+Unlock<br>{character} Character(s)
+
+TAG: locked_region_character_unlock
+Unlock {name}
+
+TAG: locked_region_current_level
+You are<br>Level {level}
+
+TAG: locked_region_level_desc
+Reach<br>Level {level}
+
+TAG: locked_region_title
+Locked Biome
+
+TAG: not_enough_space_around_well
+There is not enough space around this Wishing Well.
+
+TAG: realm_ask_unlock
+Do you want to enter this Realm?
+
+TAG: realm_locked_message_default
+New Realm available soon!
+
+TAG: realm_locked_title
+Locked Realm
+
+TAG: village_area_ask_unlock
+Do you want to open this Biome?
+
+TAG: village_area_character_count_condition
+Have at least {unlockCharacterCount} Villagers to explore this Biome.
+
+TAG: village_area_player_level_condition
+Reach Level {unlockPlayerLevel} to open this Biome.
+
+TAG: change_sprint_body
+The back accessory chosen will override any back accessory that was previously equipped
+
+TAG: critter_item_unlock_title
+New Critter Unlocked
+
+TAG: missing_tool_msg
+Hello, Valley Villager!<br>You're getting this message because you previously bought a Premium Royal Tool Set and our very first expansion, A Rift in Time.<br>We are happy to complete your purchased set with a skin for your Royal Hourglass! We can't wait for you to use it in all your adventures on Eternity Isle and beyond!<br>Thank you for your patience and your support â it truly means the world to us.<br>See you in the Valley!<br>â The DDV Team
+
+TAG: missing_tool_title
+Your Royal Tool Set gets a new look!
+
+TAG: new_item
+New Items
+
+TAG: Opacity
+Opacity
+
+TAG: rarity_filter_display_name
+{stars} Star(s)
+
+TAG: wardrobe.tool_needs_expansion01
+Tool unlocked through expansion
+
+TAG: wardrobe.tool_needs_expansion02
+Tool unlocked through expansion
+
+TAG: wardrobe.tool_not_unlocked
+Tool not unlocked
+
+TAG: wardrobe_appearance
+Customize
+
+TAG: wardrobe_category_accessories
+Accessories
+
+TAG: wardrobe_category_arms
+Arms
+
+TAG: wardrobe_category_back
+Back
+
+TAG: wardrobe_category_bracelet
+Bracelets
+
+TAG: wardrobe_category_coat
+Coats
+
+TAG: wardrobe_category_costume
+Full Body
+
+TAG: wardrobe_category_dress
+Dresses
+
+TAG: wardrobe_category_earrings
+Earrings
+
+TAG: wardrobe_category_full_body
+Full Body
+
+TAG: wardrobe_category_glasses
+Glasses
+
+TAG: wardrobe_category_gloves
+Gloves
+
+TAG: wardrobe_category_hat
+Hats
+
+TAG: wardrobe_category_head
+Head
+
+TAG: wardrobe_category_hose_socks
+Socks
+
+TAG: wardrobe_category_legs
+Legs
+
+TAG: wardrobe_category_mask
+Masks
+
+TAG: wardrobe_category_neck_wear
+Neckwear
+
+TAG: wardrobe_category_pants
+Pants
+
+TAG: wardrobe_category_shoes
+Shoes
+
+TAG: wardrobe_category_shorts
+Shorts
+
+TAG: wardrobe_category_skirt
+Skirts
+
+TAG: wardrobe_category_sprints
+Gliders
+
+TAG: wardrobe_category_tools
+Tools
+
+TAG: wardrobe_category_top
+Tops
+
+TAG: wardrobe_category_torso
+Torso
+
+TAG: wardrobe_category_wig
+Wigs
+
+TAG: wardrobe_dye
+Dyes
+
+TAG: wardrobe_exit_title
+EXIT WARDROBE
+
+TAG: wardrobe_filter_apply
+Apply Filters
+
+TAG: wardrobe_filter_dominantcolor
+Color
+
+TAG: wardrobe_filter_rarity
+Rarity
+
+TAG: wardrobe_filter_reset
+Reset Filters
+
+TAG: wardrobe_filter_style
+Style
+
+TAG: wardrobe_filter_trait
+Trait
+
+TAG: wardrobe_filter_universe
+Universe
+
+TAG: wardrobe_filter_zone
+Room
+
+TAG: wardrobe_gender
+Body Type
+
+TAG: wardrobe_item_unlock_title
+New Clothing Unlocked
+
+TAG: wardrobe_outfit_preset
+Preset {number}
+
+TAG: wardrobe_outfit_preset_empty
+Empty Preset {number}
+
+TAG: wardrobe_outfit_preset_option_delete
+Delete Preset
+
+TAG: wardrobe_outfit_preset_option_equip
+Equip Outfit
+
+TAG: wardrobe_outfit_preset_option_overwrite
+Overwrite Preset
+
+TAG: wardrobe_outfit_preset_option_rename
+Rename Preset
+
+TAG: wardrobe_outfit_preset_option_save
+Save Preset
+
+TAG: wardrobe_outfit_preset_options
+Preset Options
+
+TAG: wardrobe_outfit_presets
+Outfit Presets
+
+TAG: wardrobe_outfit_presets_name_new
+Name the new Outfit Preset
+
+TAG: wardrobe_outfit_presets_rename_input_placeholder
+Preset Name
+
+TAG: wardrobe_outfit_presets_rename_title
+Rename Outfit Preset {number}
+
+TAG: wardrobe_pet_assign
+Assign
+
+TAG: wardrobe_pets
+Companions
+
+TAG: wardrobe_tool_catchingnet
+Royal Net
+
+TAG: wardrobe_tool_fishing
+Fishing Rod
+
+TAG: wardrobe_tool_gardening
+Shovel
+
+TAG: wardrobe_tool_mining
+Pickaxe
+
+TAG: wardrobe_tool_misc
+Phone
+
+TAG: wardrobe_tool_timebending
+Hourglass
+
+TAG: wardrobe_tool_watering
+Watering Can
+

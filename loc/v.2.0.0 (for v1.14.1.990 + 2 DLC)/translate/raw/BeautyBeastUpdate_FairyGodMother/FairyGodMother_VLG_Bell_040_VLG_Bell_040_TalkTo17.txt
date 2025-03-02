@@ -1,0 +1,63 @@
+TAG: FairyGodMother_001_f
+Здравствуй, дорогая, если у тебя что-то на уме, я всегда рад тебя выслушать.
+
+TAG: FairyGodMother_002_f
+Ну, Белль искал этот объект, он называется <ActivityItem> The Preference of the D древние</ActivityItem> и...
+
+TAG: FairyGodMother_003_f
+О, да, я много слышал об этом чудесном сокровище.
+
+TAG: FairyGodMother_004_f
+Ну, мы нашли его в "А"
+
+TAG: FairyGodMother_005_f
+Белль должно быть так счастлива.
+
+TAG: Player_000_f
+Дело в том, что... он сломан.
+
+TAG: Player_000_choice_000_f
+Она опустошена.
+
+TAG: Player_000_choice_001_f
+Как бы вы себя чувствовали на ее месте?
+
+TAG: Player_000_choice_002_f
+Вот почему я ни о чем не волнуюсь.
+
+TAG: FairyGodMother_006_f
+О, боже мой.
+
+TAG: FairyGodMother_010_f
+Ну, возможно, если бы я мог взглянуть на это минутку...
+
+TAG: FairyGodMother_017_f
+Это то, что я тебе только что дал.
+
+TAG: FairyGodMother_018_f
+Ах, да, конечно, да, я поняла, куда я его положила.
+
+TAG: FairyGodMother_012_f
+Хм...
+
+TAG: FairyGodMother_013_f
+Ну, это довольно любопытно. Это выглядит почти как зеркало. Я не имею ни малейшего представления о том, как оно работает, но я подозреваю, что в этом что-то не так, так это то, что оно разбито...
+
+TAG: FairyGodMother_014_f
+...и я уверен, что с несколькими вещами я смогу это исправить.
+
+TAG: FairyGodMother_016_f
+Посмотрим... мне понадобится <ActivityItem>Gold Ingots</ActivityItem>, <ActivityItem>Vitalis Crystals</ActivityItem>, <ActivityItem>Dream Shards</ActivityItem>, и <ActivityItem>Sapphire</ActivityItem> для очарования.
+
+TAG: FairyGodMother_015_f
+О, это отличные новости, я пойду принесу их.
+
+TAG: FairyGodMother_007_f
+Я был бы очень разочарован.
+
+TAG: FairyGodMother_008_f
+Дорогая, ты не должна так думать.
+
+TAG: FairyGodMother_009_f
+Но я понимаю, что Белль определенно разочарован.
+

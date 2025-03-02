@@ -1,0 +1,42 @@
+TAG: Secret!ToyStory!SEC_Buzz_040_Any_CompletedRequestDescription
+Сообщите Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_AvailableDescription
+У Базз Лайтер есть награда за тебя... и последняя просьба.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_CompletedStoryDescription
+Пора вернуться на Базз Лайтер и посмотреть, что он думает.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_DisplayName
+Мы всегда благодарны!
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group01_Step01_TalkToCharacter01_StepDescription
+Сообщите Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group01_StepDescription
+Вызываю всех Космических Рейнджеров!
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate01_StepDescription
+Место <ActivityItem>Playful Meeture</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate02_StepDescription
+Поместите Мебель <ActivityItem>Red</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate03_StepDescription
+Место <ActivityItem>Purple metre</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate04_StepDescription
+Место <ActivityItem>Alien Toys</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_StepDescription
+Создать совершенство"Инопланетная среда обитания"в деревне:
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_StoryDescription
+Базз Лайтер просит вас создать специальное место для игрушек-иностранцев в долине Мечты, чтобы они чувствовали себя как дома.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group03_Step03_TakePicture01_StepDescription
+Сфотографируй свой "Иностранный Хабитат".
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group03_StoryDescription
+Вы создали внеземную среду обитания для всех форм внеземной жизни, а остаётся только сфотографировать, чтобы показать Базз Лайтер.
+

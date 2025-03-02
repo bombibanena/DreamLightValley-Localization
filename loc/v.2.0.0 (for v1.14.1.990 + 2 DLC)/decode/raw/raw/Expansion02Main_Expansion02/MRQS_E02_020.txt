@@ -1,0 +1,129 @@
+TAG: Story!Expansion02!MRQS_E02_020_Any_CompletedRequestDescription
+Talk to Merida.
+
+TAG: Story!Expansion02!MRQS_E02_020_AvailableDescription
+{PlayerName} had learned much about this strange new world, but to reach Maleficent and Hades and set things right, there would be a lot more work to do. Perhaps Merida could help with the next step in the journey.
+
+TAG: Story!Expansion02!MRQS_E02_020_CompletedStoryDescription
+But {PlayerName}'s journey was only just beginning. Soon they would need to decide which way to go next: towards a land of fairy tales and fables or a land of myths and legend.
+
+TAG: Story!Expansion02!MRQS_E02_020_DisplayName
+A New Chapter
+
+TAG: Story!Expansion02!MRQS_E02_020_Group01_Step01_FollowCharacter01_StepDescription
+Meet {TargetNPC} near the Well outside the Library of Lore.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group01_Step01_FollowCharacter01_TalkToDescription
+Talk to {TargetNPC}.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group02_Step02_Conditional01_StepDescription
+(<ActivityItem>Story Magic</ActivityItem> can be gathered by completing Duties and Achievements. Access the menu by pressing {input_mainmenu}.)
+
+TAG: Story!Expansion02!MRQS_E02_020_Group02_Step02_StepDescription
+Unlock access to the<Lore> Bind</Lore> by removing the <ActivityItem>Wall of Ink</ActivityItem> blocking the way.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group03_Step03_FollowCharacter02_StepDescription
+Explore the Bind with {TargetNPC}.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group03_Step03_FollowCharacter02_TalkToDescription
+Talk to Merida.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group03_StoryDescription
+With just a bit of Story Magic, the wall of ink blocking passage to the Bind melted away. It was time to explore.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group04_Step04_StepDescription
+The Bind is looking better already!
+
+TAG: Story!Expansion02!MRQS_E02_020_Group04_Step04_TalkToCharacter01_StepDescription
+Find {TargetNPC} and tell her about your progress.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group05_Step06_StepDescription
+It seems the news of your journey reached Dreamlight Valley and attracted some Villagers:
+
+TAG: Story!Expansion02!MRQS_E02_020_Group05_Step06_TalkToCharacter02_StepDescription
+Check in on {TargetNPC}.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group05_Step06_TalkToCharacter04_StepDescription
+Speak to {TargetNPC} about his store in the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group06_Step07_StepDescription
+Catch <ActivityItem>Fish</ActivityItem> and <ActivityItem>Seafood</ActivityItem> around the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group06_Step08_StepDescription
+Mine gems and minerals from the Bind's <Lore>mining rocks</Lore>.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group06_StepDescription
+Goofy and Scrooge McDuck need your help getting to know the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group07_Step09_TalkToCharacter05_StepDescription
+Return to {TargetNPC} to check in on her progress with the fountains.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group08_Step10_Conditional04_StepDescription
+Open the mysterious door beneath the bridge in the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group09_Step16_StepDescription
+You uncovered a secret room beneath the bridge in the Bind!
+
+TAG: Story!Expansion02!MRQS_E02_020_Group09_Step16_Unlock01_StepDescription
+Search for clues in the secret room.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group10_Step17_StepDescription
+Find a way to access what is behind the wall in Aurora's room.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group11_Step05_CatchSnippet01_StepDescription
+Catch <ActivityItem>Snippets</ActivityItem> in the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group11_Step11_PickUp01_StepDescription
+Remove <ActivityItem>Inkies</ActivityItem> from the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group11_StepDescription
+The Bind needs some love and care. Restore it to its former glory:
+
+TAG: Story!Expansion02!MRQS_E02_020_Group12_Step18_Conditional02_StepDescription
+Use your Royal Net on the wheel inside the secret room.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group13_Step13_TalkToCharacter03_StepDescription
+Check back with Merida.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group13_StepDescription
+The fountain sprang to life!
+
+TAG: Story!Expansion02!MRQS_E02_020_Group13_StoryDescription
+With a little more love and care, {PlayerName} and Merida restored the Bind to its former glory.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group14_Step14_PlaceBuilding01_StepDescription
+Place the foundations for <ActivityItem>Merida's House</ActivityItem> in the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group15_Step15_UnlockCharacter01_StepDescription
+Welcome {TargetNPC} to your Village.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group16_Step19_FollowCharacter03_StepDescription
+Follow {TargetNPC}.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group16_Step19_FollowCharacter03_TalkToDescription
+Talk to Merida.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group17_Step12_TalkToCharacter07_StepDescription
+Goofy.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group17_Step12_TalkToCharacter08_StepDescription
+Scrooge McDuck.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group17_StepDescription
+The Bind has plenty to offer! Tell the good news to:
+
+TAG: Story!Expansion02!MRQS_E02_020_Group18_Step21_TalkToCharacter06_StepDescription
+Talk to {TargetNPC} about your discovery.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group19_Step20_StepDescription
+Goofy and Scrooge McDuck are almost open for business! Interact with the Scrooge McDuck Sign beside the following to unlock:
+
+TAG: Story!Expansion02!MRQS_E02_020_Group19_Step20_Unlock02_StepDescription
+Goofy's Stall in the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group19_Step20_Unlock03_StepDescription
+Scrooge McDuck's General Store in the Bind.
+
+TAG: Story!Expansion02!MRQS_E02_020_Group20_Step22_Unlock04_StepDescription
+Unlock <ActivityItem>Merida's House</ActivityItem> by interacting with the Scrooge McDuck Sign beside it.
+

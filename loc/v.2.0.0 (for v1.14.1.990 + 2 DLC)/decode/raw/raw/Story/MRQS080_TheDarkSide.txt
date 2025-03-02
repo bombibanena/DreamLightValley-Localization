@@ -1,0 +1,87 @@
+TAG: Story!MRQS080_TheDarkSide_AvailableDescription
+A mysterious sound is coming from the Forest. What can it possibly be?
+
+TAG: Story!MRQS080_TheDarkSide_CompletedStoryDescription
+Now that the <ActivityItem>Orb of Courage</ActivityItem> has been restored, maybe Donald can tell you the whole story.
+
+TAG: Story!MRQS080_TheDarkSide_DisplayName
+Lost in the Dark Grove
+
+TAG: Story!MRQS080_TheDarkSide_Group01_Step01_TalkToCharacter01_StepDescription
+It's Kristoff! Talk to him.
+
+TAG: Story!MRQS080_TheDarkSide_Group02_Step02_VisitArea01_StepDescription
+Go through the Dark Portal.
+
+TAG: Story!MRQS080_TheDarkSide_Group02_StoryDescription
+You find Kristoff lost in the woods near a strange portal Donald disappeared through. He asks you to find his friend.
+
+TAG: Story!MRQS080_TheDarkSide_Group03_Step03_StepDescription
+Follow the <ActivityItem>Enchanted Feather</ActivityItem> through the Dark Grove.
+
+TAG: Story!MRQS080_TheDarkSide_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help you?
+
+TAG: Story!MRQS080_TheDarkSide_Group04_Step04_TalkToCharacter02_StepDescription
+Show Kristoff what you found.
+
+TAG: Story!MRQS080_TheDarkSide_Group04_StoryDescription
+As you explore the Dark Grove on the other side of the Portal, you find one of Donald's feathers.
+
+TAG: Story!MRQS080_TheDarkSide_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I do now?
+
+TAG: Story!MRQS080_TheDarkSide_Group05_Step05_TalkToCharacter03_StepDescription
+Ask Merlin for help to track down Donald Duck.
+
+TAG: Story!MRQS080_TheDarkSide_Group05_StoryDescription
+Kristoff suggests you ask Merlin for his help with a tracking spell.
+
+TAG: Story!MRQS080_TheDarkSide_Group06_Step06_FillKeyhole01_StepDescription
+Place the <ActivityItem>Orb of Courage</ActivityItem> in the Forest Pillar.
+
+TAG: Story!MRQS080_TheDarkSide_Group06_StoryDescription
+When you find Donald Duck, he explains he was pursuing a Dark Entity that was stealing <ActivityItem>Orbs</ActivityItem>, before asking you to get him out of there and restore the <ActivityItem>Orb</ActivityItem>.
+
+TAG: Story!MRQS080_TheDarkSide_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Story!MRQS080_TheDarkSide_Group07_Step07_VisitArea02_StepDescription
+Return to the Dark Grove with the <ActivityItem>Enchanted Feather</ActivityItem>.
+
+TAG: Story!MRQS080_TheDarkSide_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What can I do?
+
+TAG: Story!MRQS080_TheDarkSide_Group08_Step08_TalkToCharacter04_StepDescription
+Talk to Donald Duck.
+
+TAG: Story!MRQS080_TheDarkSide_Group09_Step10_VisitArea03_StepDescription
+There's a strange sound coming from the Forest of Valor. Go see what it's all about.
+
+TAG: Story!MRQS080_TheDarkSide_Group10_Step11_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS080_TheDarkSide_Group10_Step11_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS080_TheDarkSide_Group10_Step11_BringItem03_StepDescription
+Plant from the Dark Grove.
+
+TAG: Story!MRQS080_TheDarkSide_Group10_Step11_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS080_TheDarkSide_Group10_Step11_ReadyDescription
+Bring the Ingredients for the tracking spell to Merlin.
+
+TAG: Story!MRQS080_TheDarkSide_Group10_Step11_StepDescription
+Gather the Ingredients for the tracking spell:
+
+TAG: Story!MRQS080_TheDarkSide_Group11_Step09_Possess01_StepDescription
+Investigate the Dark Grove for clues about Donald Duck's whereabouts.
+
+TAG: Story!MRQS080_TheDarkSide_Group12_Step12_TalkToCharacter05_StepDescription
+Talk to Donald Duck.
+
+TAG: Story!MRQS080_TheDarkSide_Group13_Step13_UnlockCharacter01_StepDescription
+Unlock Donald Duck.
+

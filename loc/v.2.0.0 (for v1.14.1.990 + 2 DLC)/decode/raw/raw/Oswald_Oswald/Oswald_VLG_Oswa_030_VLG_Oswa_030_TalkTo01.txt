@@ -1,0 +1,66 @@
+TAG: Oswald_000_f
+Thanks for nothin', luck!
+
+TAG: Player_000_choice_000_f
+That's what happens when you challenge someone like me.
+
+TAG: Player_000_choice_001_f
+Sorry, Oswald; that's how things shook out.
+
+TAG: Player_000_choice_002_f
+Have you considered actually taking the challenges seriously?
+
+TAG: Oswald_003_f
+Ooo, look who's feisty.
+
+TAG: Oswald_001_f
+I just don't get it. Usually when I take on a challenge, I get a lucky break that gets me out on top.
+
+TAG: Oswald_002_f
+Do you need to take a break and re-vulcanize your luck?
+
+TAG: Oswald_007_f
+No way, bub! I'm not giving up!
+
+TAG: Oswald_008_f
+Oh yeah? Shall we find someone else to judge another challenge?
+
+TAG: Oswald_009_f
+Nah. I got a better idea â a foot race!
+
+TAG: Player_001_choice_000_f
+Let's go!
+
+TAG: Player_001_choice_001_f
+You sure? With my Dreamlight Magic, I can zoom around pretty fast.
+
+TAG: Oswald_010_f
+This is the one for me. C'mon, luck!
+
+TAG: Oswald_012_f
+We'll start at <Lore>Ancient's Landing</Lore>, head to a checkpoint in <Lore>the Wild Tangle</Lore>, then to <Lore>the Glittering Dunes</Lore> and wind it up in the <Lore>Cave of Wonders</Lore>.
+
+TAG: Oswald_019_f
+I already put up some balloon arches to mark each checkpoint.
+
+TAG: Oswald_013_f
+Hmm, are you sure you can even get into the Cave?
+
+TAG: Oswald_014_f
+You need to be a Diamond in the Rough to get in.
+
+TAG: Oswald_015_f
+Oh, I'll get in, {PlayerName}. You just worry about your own self.
+
+TAG: Oswald_016_f
+C'mon; let's head over to <Lore>Ancient's Landing</ActivityItem> so we can start the race!
+
+TAG: Oswald_011_f
+Oh, I'm real speedy â you'll see.
+
+TAG: Oswald_004_f
+Ah, no hard feelings. You won fair and square.
+
+TAG: Oswald_005_f
+Ya mean do the expected? The usual? The run-o-the-mill? Where's the fun in that?
+

@@ -1,0 +1,12 @@
+TAG: Pumbaa_000_f
+{Placeholder}Пумба и Тимон празднуют.
+
+TAG: Pumbaa_002_f
+Мы сделали это!
+
+TAG: Pumbaa_001_f
+{Placeholder} Мы сделали это, приятель!
+
+TAG: Pumbaa_003_f
+Когда приедет Симба?
+

@@ -1,0 +1,33 @@
+TAG: Beast_000_f
+Hey, Beast! Mushu says we're ready for phase two of his program.
+
+TAG: Beast_001_f
+What is it?
+
+TAG: Player_000_choice_000_f
+Something to help you celebrate your strength.
+
+TAG: Player_000_choice_001_f
+It's a surprise... A good one.
+
+TAG: Player_000_choice_002_f
+We're gonna wreck stuff!
+
+TAG: Beast_003_f
+Celebrate my...? But how can that...? ... *sigh* I suppose I did give Mushu my word...
+
+TAG: Beast_006_f
+All right. Lead the way.
+
+TAG: Beast_002_f
+I don't like surprises but... I trust you, {PlayerName}.
+
+TAG: Beast_004_f
+Wreck things? On purpose?
+
+TAG: Beast_005_f
+Exactly. And it's going to be FUN!
+
+TAG: Beast_007_f
+Fun...? *sigh*
+

@@ -1,0 +1,45 @@
+TAG: Ursula_001_f
+Look at you, angelfish. All done.
+
+TAG: Ursula_002_f
+And I'm sure you have your rhymes for each Villager.
+
+TAG: Ursula_003_f
+Yep. They go like this...
+
+TAG: Ursula_004_f
+"I'm Mirabel and I love to sing. Helping people is sort of my thing!"
+
+TAG: Ursula_008_f
+"I'm Kristoff, raised by trolls and best friend to a reindeer. I'm the coolest guy in the hemisphere."
+
+TAG: Ursula_011_f
+"Mother Gothel, a vision of beauty and grace. Be careful or she'll put you in your place."
+
+TAG: Ursula_014_f
+Well... that won't be winning any song of the year awards, but it'll do the trick.
+
+TAG: Ursula_016_f
+Now while I finish the potion, you'll have to craft a stage. The enchantment requires one.
+
+TAG: Ursula_017_f
+And be sure it's something that fits... me! You'll need <ActivityItem>Clams</ActivityItem>, <ActivityItem>Scallops</ActivityItem>, <ActivityItem>Clay</ActivityItem>, and <ActivityItem>Hardwood</ActivityItem>.
+
+TAG: Ursula_012_f
+"Mother Gothel, a vision of beauty and grace. Watch out or she'll beat you in a race!"
+
+TAG: Ursula_013_f
+"Mother Gothel, a vision of beauty and grace. And she has a few wrinkles on her face..."
+
+TAG: Ursula_009_f
+"I'm Kristoff, raised by trolls and best friend to a reindeer. I'm the ice harvester of the year!"
+
+TAG: Ursula_010_f
+"I'm Kristoff, raised by trolls and best friend to a reindeer. I'm the guy that Anna holds dear!"
+
+TAG: Ursula_005_f
+"I'm Mirabel and I love to sing. You should hear my voice ring!"
+
+TAG: Ursula_006_f
+"I'm Mirabel and I love to sing. And I'm even better at sew-ing!"
+

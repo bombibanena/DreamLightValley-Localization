@@ -1,0 +1,30 @@
+TAG: Mirabel_000_f
+Oh! Thank you, {PlayerName}. These meals look incredible!
+
+TAG: Mirabel_001_f
+I wish I could eat them myself, but... if I'm gonna make friends with all those birds in the Forgotten Lands, I'd better save it all for them.
+
+TAG: Player_000_choice_000_f
+Why are you trying to befriend the birds?
+
+TAG: Player_000_choice_001_f
+Those birds sure are picky.
+
+TAG: Player_000_choice_002_f
+Hey, as long as somebody eats them, it's all good.
+
+TAG: Mirabel_002_f
+My cousin Antonio wants to hear about ALL the animals in the Valley.
+
+TAG: Mirabel_003_f
+So, he asked me to make friends with them. But those birds are tough.
+
+TAG: Mirabel_006_f
+Thanks again for your help, {PlayerName}. And please, take this for your trouble.
+
+TAG: Mirabel_004_f
+You're telling me. Before now, I thought only my cousin Antonio could make friends with them. But thanks to these meals, I think I've got a pretty good shot.
+
+TAG: Mirabel_005_f
+Don't worry. Those birds are gonna love them. And I'll finally be able to tell Antonio that I made friends with every animal in the Valley.
+

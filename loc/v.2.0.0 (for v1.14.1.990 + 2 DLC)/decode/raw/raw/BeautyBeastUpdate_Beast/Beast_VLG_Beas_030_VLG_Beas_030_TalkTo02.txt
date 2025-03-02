@@ -1,0 +1,78 @@
+TAG: Beast_000_f
+Can we talk?
+
+TAG: Beast_001_f
+Are you still ignoring the slight against Belle?
+
+TAG: Beast_002_f
+Nah, we're past that â we need to do something.
+
+TAG: Beast_003_f
+Good. You've come to your senses.
+
+TAG: Beast_004_f
+Yeah, I spoke with Mother Gothel... and it's bad.
+
+TAG: Beast_005_f
+THAT'S WHAT I TOLD YOU! ... *sigh* I'm sorry. I... I've just been so angry.
+
+TAG: Beast_006_f
+I may have damaged some of the furnishings in my castle.
+
+TAG: Beast_007_f
+Sometimes I forget my strength when I lose my temper.
+
+TAG: Player_000_choice_000_f
+That's clear.
+
+TAG: Player_000_choice_001_f
+Remind me not to make you angry at me.
+
+TAG: Player_000_choice_002_f
+It'll be OK!
+
+TAG: Beast_008_f
+I must try harder to... What did Belle say? ... Oh, "work through my anger more constructively."
+
+TAG: Beast_009_f
+I can help you get things fixed up.
+
+TAG: Beast_010_f
+Would you? I would be in your debt once more, {PlayerName}.
+
+TAG: Beast_011_f
+I don't want Belle to return and see her home in such a state.
+
+TAG: Beast_012_f
+It is quite the mess in here...
+
+TAG: Beast_013_f
+Yes. And... it shows how badly I lost my temper.
+
+TAG: Beast_014_f
+Don't worry; I've got your back. I can help you pick up the pieces before we repair everything.
+
+TAG: Beast_015_f
+I'll gather some <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Dry Wood</ActivityItem>, and <ActivityItem>Fabric</ActivityItem>. That should be enough to fix everything up!
+
+TAG: Beast_016_f
+Thank you, {PlayerName}. I will speak with Belle and try to assure her that Mother Gothel was very wrong.
+
+TAG: Beast_017_f
+Once we take care of this, we can talk about Mother Gothel...
+
+TAG: Beast_018_f
+I bet it's quite the mess...
+
+TAG: Beast_019_f
+I would never harm you, nor anyone else! Please, you must believe that.
+
+TAG: Beast_020_f
+Don't worry. I believe you.
+
+TAG: Beast_021_f
+Will it?
+
+TAG: Beast_022_f
+Sure!
+

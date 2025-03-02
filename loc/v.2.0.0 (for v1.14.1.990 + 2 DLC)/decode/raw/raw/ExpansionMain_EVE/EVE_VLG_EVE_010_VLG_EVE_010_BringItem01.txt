@@ -1,0 +1,42 @@
+TAG: EVE_001_f
+Whoo-hoo!
+
+TAG: Player_000_choice_000_f
+I'm glad you like them!
+
+TAG: Player_000_choice_001_f
+Do you think you need anything else?
+
+TAG: Player_000_choice_002_f
+Let's fix up the secret garden. It's a real eyesore.
+
+TAG: EVE_002_f
+EVE
+
+TAG: EVE_000_f
+Do you need my help to put everything in the secret garden?
+
+TAG: EVE_009_f
+No.
+
+TAG: EVE_010_f
+Oh, you want to do it by yourself.
+
+TAG: EVE_005_f
+Directive.
+
+TAG: EVE_006_f
+Are you ready to go and see WALLÂ·E now?
+
+TAG: EVE_007_f
+WALLÂ·E!
+
+TAG: EVE_008_f
+Lead the way!
+
+TAG: EVE_003_f
+Hmm... No.
+
+TAG: EVE_004_f
+Directive.
+

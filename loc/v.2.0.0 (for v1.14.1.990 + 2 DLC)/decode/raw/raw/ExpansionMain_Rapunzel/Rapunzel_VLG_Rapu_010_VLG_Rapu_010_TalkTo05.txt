@@ -1,0 +1,12 @@
+TAG: Rapunzel_000_f
+My treasures! You found them!
+
+TAG: Rapunzel_001_f
+Could you <ActivityItem>return them to where they go inside the tower</ActivityItem>?
+
+TAG: Rapunzel_002_f
+It's time for me to go feed the capybaras. And I don't want to be late.
+
+TAG: Rapunzel_003_f
+Here's a painting I did of the tower. It'll show you where everything goes.
+

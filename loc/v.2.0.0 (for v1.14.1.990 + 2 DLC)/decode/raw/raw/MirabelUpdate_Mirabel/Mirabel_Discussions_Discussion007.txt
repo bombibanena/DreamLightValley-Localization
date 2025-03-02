@@ -1,0 +1,39 @@
+TAG: Mirabel_000_f
+I've gotta know something, because when I tell Antonio about you, he's gonna ask.
+
+TAG: Mirabel_001_f
+What's your favorite animal?
+
+TAG: Player_000_choice_000_f
+ChigÃ¼iro.
+
+TAG: Player_000_choice_001_f
+Jaguar.
+
+TAG: Player_000_choice_002_f
+Butterfly.
+
+TAG: Player_000_choice_003_f
+It's too hard to choose!
+
+TAG: Mirabel_002_f
+Antonio would love that. He's had a lot of chigÃ¼iro friends visiting lately.
+
+TAG: Mirabel_003_f
+They really like Casita.
+
+TAG: Mirabel_004_f
+Oh, good choice. Big cats are so majestic.
+
+TAG: Mirabel_005_f
+Antonio has a jaguar friend who gives him rides on its back.
+
+TAG: Mirabel_006_f
+Maybe don't try that with Scar, though.
+
+TAG: Mirabel_007_f
+Aww. I like those too.
+
+TAG: Mirabel_008_f
+I understand that. Antonio can never pick a favorite either. He says they're all his friends.
+

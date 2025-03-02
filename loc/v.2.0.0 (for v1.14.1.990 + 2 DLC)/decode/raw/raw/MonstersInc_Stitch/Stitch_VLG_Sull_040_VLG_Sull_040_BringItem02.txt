@@ -1,0 +1,36 @@
+TAG: Stitch_001_f
+{PlayerName} back!
+
+TAG: Player_000_choice_000_f
+I could never abandon you.
+
+TAG: Player_000_choice_001_f
+I always honor my promises.
+
+TAG: Player_000_choice_002_f
+Can't say I wasn't tempted to leave you here.
+
+TAG: Stitch_003_f
+Takka! You and Stitch friends.
+
+TAG: Stitch_007_f
+Tell me clue!
+
+TAG: Stitch_002_f
+Okay, this clue is kind of a fill-in-the-blank.
+
+TAG: Stitch_010_f
+"Hope your veggies aren't stemmy when you visit Chez..." That's it. You need to fill in the blank.
+
+TAG: Stitch_009_f
+Okitaka! Stitch knows where this is. Takka, {PlayerName}.
+
+TAG: Stitch_004_f
+Doogaba. {PlayerName}'s goodness level very high.
+
+TAG: Stitch_005_f
+Naga-takabah! {PlayerName}'s badness level very high.
+
+TAG: Stitch_006_f
+But {PlayerName} come back anyway.
+

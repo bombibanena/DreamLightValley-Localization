@@ -1,0 +1,57 @@
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_AvailableDescription
+You'll need to help Villagers use their imaginations to close the rifts around Eternity Isle. You'll have to start by following Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_DisplayName
+Use Your Imagination: Gaston
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group01_Step01_FollowCharacter01_StepDescription
+Follow Gaston to the Time Rift in his camp.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group01_Step01_FollowCharacter01_TalkToDescription
+Talk to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Oswald.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group02_StoryDescription
+Gaston needs a little advice on using his imagination. You seek out Oswald.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group03_Step03_TalkToCharacter02_StepDescription
+Return to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group03_StoryDescription
+After a disturbing revelation about Gaston's attempts to make Oswald into a stew, you return to Gaston with some advice: Use Gaston's ego against him.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group04_Step04_FollowCharacter02_StepDescription
+Follow Gaston to the place where he first got shipwrecked on Eternity Isle.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group04_Step04_FollowCharacter02_TalkToDescription
+Talk to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group05_Step05_FollowCharacter03_StepDescription
+Follow Gaston to higher ground.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group05_Step05_FollowCharacter03_TalkToDescription
+Talk to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_BringItem01_StepDescription
+Softwood.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_BringItem02_StepDescription
+Glass.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_ReadyDescription
+Bring the materials for the <ActivityItem>Ship in a Bottle</ActivityItem> to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_StepDescription
+Gather the following materials for Gaston:
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group07_Step07_FollowCharacter04_StepDescription
+Follow Gaston to the rift in his camp.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group07_Step07_FollowCharacter04_TalkToDescription
+Talk to Gaston.
+
+TAG: Story!Expansion01!MRQS_E01_236_RiftGaston_Group07_StoryDescription
+Together, you and Gaston craft a ship in a bottle to toss in the rift. It is... not the most aesthetically pleasing.
+

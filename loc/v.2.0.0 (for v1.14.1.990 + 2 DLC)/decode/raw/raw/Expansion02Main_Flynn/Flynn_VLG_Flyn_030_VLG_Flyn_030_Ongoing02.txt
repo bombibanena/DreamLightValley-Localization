@@ -1,0 +1,6 @@
+TAG: Flynn_000_f
+Can you <Lore>find the Ingredients</Lore> from the recipe I gave you?
+
+TAG: Flynn_001_f
+Then you can <Lore>make the flower extract</Lore> we need to get to Maleficent's vault!
+

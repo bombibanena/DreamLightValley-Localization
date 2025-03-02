@@ -1,0 +1,90 @@
+TAG: Rapunzel_000_f
+{PlayerName}, I'm so glad you're here! I want to do something fun for the Village, and I really think you're gonna like it!
+
+TAG: Player_000_choice_000_f
+I like fun!
+
+TAG: Player_000_choice_001_f
+Hold on to that idea â we'll talk soon!
+
+TAG: Rapunzel_002_f
+Yay! Okay, here goes...
+
+TAG: Rapunzel_003_f
+I want to host a painting class in the tower!
+
+TAG: Player_001_choice_000_f
+That's the best idea I've ever heard!
+
+TAG: Player_001_choice_001_f
+Have you ever had tower guests before?
+
+TAG: Player_001_choice_002_f
+I'm not very artistic...
+
+TAG: Rapunzel_005_f
+You're an amazing artist, Rapunzel. You'll definitely teach the Villagers a lot!
+
+TAG: Rapunzel_007_f
+Do you need help? I plan lots of parties around here. I could hand out invitations or decorate.
+
+TAG: Rapunzel_008_f
+Actually, instead of invitations, I want to put up this special banner. That way, everyone feels welcome!
+
+TAG: Rapunzel_009_f
+Could you <Lore>put the banner up somewhere in the Village where everyone can see it</Lore>?
+
+TAG: Rapunzel_010_f
+It's as good as done. What else?
+
+TAG: Rapunzel_011_f
+Well, I think I need to tidy up a bit, find more easels, plus make all the paints... And oh, of course, collect materials for the paints first...
+
+TAG: Player_002_choice_000_f
+Are you taking on too much?
+
+TAG: Player_002_choice_001_f
+I can help with that!
+
+TAG: Player_002_choice_002_f
+Why not buy paint?
+
+TAG: Rapunzel_013_f
+No. No? I don't think so?
+
+TAG: Rapunzel_018_f
+I mean, I am excited...
+
+TAG: Rapunzel_017_f
+Let me grab the paint supplies... What do you need?
+
+TAG: Rapunzel_019_f
+I've made a list. Some flowers, some rocks, some fruit... If you could get them and bring them to me, I'll get started on the paints.
+
+TAG: Rapunzel_021_f
+Okay! So I'll <Lore>put up the invitation banner in the Village</Lore> and <Lore>collect all your paint materials</Lore>.
+
+TAG: Rapunzel_022_f
+Thank you, {PlayerName}! This is going to be the best! Class! Ever!
+
+TAG: Rapunzel_012_f
+Would you? That would be amazing!
+
+TAG: Rapunzel_014_f
+You can BUY paint?!
+
+TAG: Rapunzel_015_f
+Sure, different kinds of paint... Different colors...
+
+TAG: Rapunzel_016_f
+That's amazing! But... since this is my first class, I'd really be more comfortable making them myself, like I always have.
+
+TAG: Rapunzel_004_f
+Besides Eugene, no, but I can't wait to! I've always dreamt of painting with company.
+
+TAG: Rapunzel_006_f
+Don't worry! Painting's a skill you just have to practice. I'll teach you.
+
+TAG: Rapunzel_001_f
+Okay, I'll see you later!
+

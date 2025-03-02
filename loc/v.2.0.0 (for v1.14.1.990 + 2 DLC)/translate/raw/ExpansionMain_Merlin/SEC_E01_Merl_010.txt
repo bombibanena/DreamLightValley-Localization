@@ -1,0 +1,27 @@
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Any_CompletedRequestDescription
+Возвращайтесь на Мерлин.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_CompletedStoryDescription
+Вы воссоздали что-то из прошлого, используя Tablebing Table. Пора вернуться к Мерлин и поделиться плодами вашего эксперимента.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_DisplayName
+Проект &lt; &lt; Деревня: безвременные сокровища &gt; &gt;
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group01_Step01_Decorate01_StepDescription
+Поместите таблицу <ActivityItem>Timebriding</ActivityItem> Мерлин где угодно на острове Вечность.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_Step02_StepDescription
+( Воспользуйся своим часовым стеклом, чтобы найти нужные части!)
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_StepDescription
+Используйте таблицу времени для изготовления любого <ActivityItem>Furniture</ActivityItem>.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group02_StoryDescription
+Мерлин дает вам "Стол времени" и просит вас провести исследование, подготовив что-нибудь с ним.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group03_Step03_TalkToCharacter01_StepDescription
+Поговори с Мерлин.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_010_Group03_StepDescription
+Мерлин должен знать больше о волшебстве этого часа...
+

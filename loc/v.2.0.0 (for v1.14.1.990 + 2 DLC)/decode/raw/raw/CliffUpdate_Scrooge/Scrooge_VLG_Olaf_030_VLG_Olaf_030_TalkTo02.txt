@@ -1,0 +1,51 @@
+TAG: Scrooge_000_f
+Ya want me to audition for a play?
+
+TAG: Scrooge_001_f
+Hmm... And what'll the salary be?
+
+TAG: Player_000_choice_000_f
+... Zero Star Coins.
+
+TAG: Player_000_choice_001_f
+The love of an adoring crowd.
+
+TAG: Player_000_choice_002_f
+The satisfaction of a job well done.
+
+TAG: Scrooge_002_f
+Och! Doesn't sound like there's much profit in acting here, is there?
+
+TAG: Scrooge_003_f
+Well, how much of my time will I be needin' to invest?
+
+TAG: Player_001_f
+Well, you'll need to learn all the lines, attend rehearsals, do the performances...
+
+TAG: Player_001_choice_000_f
+It'll be a lot of work.
+
+TAG: Player_001_choice_001_f
+You can probably just wing it, though?
+
+TAG: Scrooge_004_f
+Curse me kilts! Sounds like ya want me to invest hours of my very valuable time for no return.
+
+TAG: Scrooge_005_f
+I'll have to think on it... What's the part?
+
+TAG: Player_002_choice_000_f
+Donald Duck.
+
+TAG: Player_002_choice_001_f
+Uh... a certain nephew of yours.
+
+TAG: Scrooge_006_f
+Ya want me to play my nephew Donald?
+
+TAG: Scrooge_007_f
+No deal! Even if the returns were worth my time, I cannae begin to fathom the workings of that lad's mind.
+
+TAG: Scrooge_008_f
+Best of luck finding someone who can!
+

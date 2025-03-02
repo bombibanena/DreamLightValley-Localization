@@ -1,0 +1,30 @@
+TAG: Vanellope_000_f
+You found me! Nice work, my friend. Bet ya picked up on all that candy I spilled, huh?
+
+TAG: Player_000_choice_000_f
+You picked a great hiding spot!
+
+TAG: Player_000_choice_001_f
+Got any other fun ideas?
+
+TAG: Player_000_choice_002_f
+Your hiding spot was SO obvious.
+
+TAG: Vanellope_001_f
+I know, right?! This place is SO cool! It's inspired me to go back to my roots.
+
+TAG: Vanellope_002_f
+My racing roots!
+
+TAG: Vanellope_003_f
+Let's <Lore>race to the outside entrance of the Mines!</Lore> I bet I can beat you, even on foot!
+
+TAG: Vanellope_004_f
+On your mark... get set... race!
+
+TAG: Vanellope_005_f
+So glad you asked, oh magical mud pie brain!
+
+TAG: Vanellope_006_f
+Oh yeah? Sounds like you're ready for another mini-game!
+

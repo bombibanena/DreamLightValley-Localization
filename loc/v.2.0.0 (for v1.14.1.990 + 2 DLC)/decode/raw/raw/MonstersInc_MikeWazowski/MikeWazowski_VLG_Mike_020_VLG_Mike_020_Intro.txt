@@ -1,0 +1,126 @@
+TAG: MikeWazowski_000_f
+{PlayerName}, just who I wanted to see! We need to talk about the Valley.
+
+TAG: Player_000_choice_000_f
+Sure, what's up?
+
+TAG: Player_000_choice_001_f
+Sorry, I'll have to get back to you about this.
+
+TAG: MikeWazowski_001_f
+How do I put this politely...
+
+TAG: MikeWazowski_002_f
+...your Valley's too nice.
+
+TAG: Player_001_choice_000_f
+That's a problem for you?
+
+TAG: Player_001_choice_001_f
+... Thanks?
+
+TAG: Player_001_choice_002_f
+Oh no, whatever will I do?!
+
+TAG: MikeWazowski_003_f
+There's no edge to it. No culture. No... no grit. You get it, right?
+
+TAG: MikeWazowski_004_f
+Uhh, not really.
+
+TAG: MikeWazowski_005_f
+Okay, let me explain... I went by both Remy's restaurant and Mr. McDuck's store and, well...
+
+TAG: Player_003_choice_002_f
+What happened at Mr. McDuck's?
+
+TAG: Player_003_choice_003_f
+What happened at Chez Remy?
+
+TAG: Player_003_choice_004_f
+I take it you have some ideas?
+
+TAG: MikeWazowski_008_f
+Nothing, except... He desperately needs some lessons in what's fashionable!
+
+TAG: Player_002_choice_000_f
+Hey, he does his best.
+
+TAG: Player_002_choice_001_f
+I like what he stocks!
+
+TAG: Player_002_choice_002_f
+He could have some more variety.
+
+TAG: MikeWazowski_006_f
+Well, I heard he had an amazing dish, but it was all about FRESH fruit! Something about a "Celebration of Raspberries"!
+
+TAG: MikeWazowski_007_f
+I thought Remy was supposed to be a good chef!
+
+TAG: MikeWazowski_011_f
+Yes!
+
+TAG: MikeWazowski_018_f
+What?! No, no, no! We're goin' with the classiest of Ingredients.
+
+TAG: MikeWazowski_019_f
+Rotting fish.
+
+TAG: Player_004_choice_000_f
+Excuse me?
+
+TAG: Player_004_choice_001_f
+This is a joke, right?
+
+TAG: Player_004_choice_002_f
+Sure!
+
+TAG: MikeWazowski_020_f
+So what's the plan?
+
+TAG: MikeWazowski_010_f
+Well, this place needs a little style. A little pizzazz.
+
+TAG: MikeWazowski_012_f
+A little "je ne sais quoi" that apparently only I can provide.
+
+TAG: MikeWazowski_013_f
+All right, what do you want to bring into the Valley?
+
+TAG: MikeWazowski_014_f
+Cologne.
+
+TAG: MikeWazowski_015_f
+It's so... nature-y here. I wanna smell like I'm about to spend a month's salary at Harryhausen's.
+
+TAG: MikeWazowski_016_f
+Not like I just stepped off the farm.
+
+TAG: MikeWazowski_017_f
+Sure, what kind of cologne do you want to make? I can get some spices like vanilla, maybe some musk...
+
+TAG: MikeWazowski_022_f
+Look, if you talk to Sulley, he'll say Eau de Rotting Fish is old-fashioned. But to me, it just says... classic sophistication.
+
+TAG: MikeWazowski_025_f
+This shouldn't be too hard to make.
+
+TAG: MikeWazowski_026_f
+First step: <Lore>Get a good old fish from Remy</Lore>.
+
+TAG: MikeWazowski_027_f
+Then <Lore>bury it and let the scent mature</Lore>.
+
+TAG: MikeWazowski_029_f
+Despite my better judgment... I'm on it.
+
+TAG: MikeWazowski_030_f
+Great!
+
+TAG: MikeWazowski_023_f
+... I see I have a lot to do if I wanna bring a touch of sophistication to this place.
+
+TAG: MikeWazowski_024_f
+Finally, someone around here with taste!
+

@@ -1,0 +1,66 @@
+TAG: Kristoff_016_f
+Эй, {PlayerName}, у тебя есть минутка?
+
+TAG: Player_000_choice_000_f
+Да, конечно.
+
+TAG: Player_000_choice_001_f
+Не сейчас.
+
+TAG: Kristoff_000_f
+Спасибо, мне нужен совет, я поехал на высадку, и у меня есть все эти дополнительные материалы... некоторые <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Sand</ActivityItem>, и хорошая вырезка <ActivityItem>Stone</ActivityItem>.
+
+TAG: Kristoff_008_f
+Вы можете почти начать <ActivityItem>Stall</ActivityItem> со всем этим...
+
+TAG: Player_000_choice_011_f
+Подожди, ты должен начать <ActivityItem>Stall</ActivityItem>!
+
+TAG: Player_000_choice_012_f
+Тебе бы это было интересно?
+
+TAG: Player_000_choice_003_f
+Но только если вы назовёте его Кристор.
+
+TAG: Kristoff_001_f
+Наверное, у меня есть опыт продажи вещей.
+
+TAG: Kristoff_004_f
+Но сбор и продажа льда, кажется, сильно отличаются от ухода за <ActivityItem>Stall</ActivityItem>. Мне нужно какое-то руководство.
+
+TAG: Kristoff_011_f
+Я могу попросить Гуфи дать совет, как построить свой собственный <ActivityItem>Stall</ActivityItem>...
+
+TAG: Player_001_choice_000_f
+Он всегда рад помочь.
+
+TAG: Player_001_choice_001_f
+Ты можешь пойти со мной.
+
+TAG: Player_001_choice_002_f
+Оставайся здесь, я спрошу его.
+
+TAG: Kristoff_006_f
+Забавно, что вы упомянули Гуфи.
+
+TAG: Kristoff_009_f
+Следующее, что я знаю, он чихает, удаётся ударить меня по голове своей удочкой и толкает меня в пруд.
+
+TAG: Kristoff_010_f
+Определенно не тот, к кому я бы пошел за советами по рыбалке, но у него очень хорошая работа.
+
+TAG: Kristoff_005_f
+Я с радостью попрошу его о тебе... чтобы избежать возможных новых травм головы.
+
+TAG: Kristoff_007_f
+Спасибо.
+
+TAG: Kristoff_002_f
+Я мог бы...
+
+TAG: Kristoff_003_f
+Да, этого не случится, но...
+
+TAG: Kristoff_017_f
+Ладно, тогда в другой раз.
+

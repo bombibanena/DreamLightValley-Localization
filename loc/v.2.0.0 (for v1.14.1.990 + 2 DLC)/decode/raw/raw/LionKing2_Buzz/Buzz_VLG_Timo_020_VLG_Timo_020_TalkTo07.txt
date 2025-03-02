@@ -1,0 +1,48 @@
+TAG: Buzz_000_f
+Greetings, {PlayerName}. How can I help?
+
+TAG: Buzz_006_f
+Hi, Buzz. Do you know Timon?
+
+TAG: Buzz_002_f
+Affirmative. I've seen him scurrying around the Valley.
+
+TAG: Buzz_005_f
+He seems... skittish.
+
+TAG: Player_001_choice_000_f
+He's just adjusting to Dreamlight Valley.
+
+TAG: Player_001_choice_001_f
+I think he's funny!
+
+TAG: Player_001_choice_002_f
+Skittish is a bit of an understatement.
+
+TAG: Buzz_007_f
+That's understandable.
+
+TAG: Buzz_010_f
+This place can be a bit daunting when you first arrive.
+
+TAG: Buzz_011_f
+Anyway, he's currently making a slideshow presentation and we need a recording device for his narration. Do you have anything we can use?
+
+TAG: Buzz_012_f
+Unfortunately, no.
+
+TAG: Buzz_014_f
+I did lose some <ActivityItem>Batteries</ActivityItem> in the river in the Forest of Valor recently. You might try fishing them out of there. That way, when you find your device, you can power it up.
+
+TAG: Buzz_015_f
+I also saw some <ActivityItem>Electronic Components</ActivityItem> floating there, too.
+
+TAG: Buzz_016_f
+Great! I'll go <Lore>fish in the Forest of Valor</Lore>! Thanks, Buzz.
+
+TAG: Buzz_008_f
+Yes, he is. Quite amusing.
+
+TAG: Buzz_009_f
+I can't disagree. He almost reminds me of my good friend Rex.
+

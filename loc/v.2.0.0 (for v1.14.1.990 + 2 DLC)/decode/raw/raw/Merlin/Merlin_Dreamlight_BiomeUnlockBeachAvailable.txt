@@ -1,0 +1,33 @@
+TAG: Merlin_000_f
+There's a whole Biome in the Valley you haven't seen, you know. It's called Dazzle Beach. To get there, I'm afraid you'll have to remove these Night Thorns and clear a path.
+
+TAG: Player_000_choice_000_f
+Let's go to Dazzle Beach. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Merlin_006_f
+Congratulations, {PlayerName}. You can now visit the Beach!
+
+TAG: Merlin_004_f
+It seems your magic isn't quite strong enough to reach Dazzle Beach. You'll have to gather more Dreamlight.
+
+TAG: Merlin_002_f
+All right. But remember: Only YOU have the power to open the blocked Biomes of the Village.
+
+TAG: Merlin_007_f
+Oh dear. There's Dark Magic emanating from Dazzle Beach.
+
+TAG: Merlin_003_f
+We must fix the Pillar of Friendship in the Meadow. That should allow us access to new Biomes in the Village.
+
+TAG: Merlin_005_f
+We've got to investigate the curse in the Meadow. So let's be sure to talk about it soon.
+
+TAG: Merlin_008_f
+Oh dear. There's Dark Magic emanating from Dazzle Beach.
+
+TAG: Merlin_001_f
+But we should gain access to the Dream Castle before we explore farther.
+

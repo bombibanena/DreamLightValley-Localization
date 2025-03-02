@@ -1,0 +1,12 @@
+TAG: Rapunzel_000_f
+This is so beautiful! And look down there! Doesn't that look like a clock to you?
+
+TAG: Rapunzel_003_f
+Hmm, or a really big <Lore>sundial</Lore>...
+
+TAG: Rapunzel_020_f
+Right, yes! A sundial! Oh, but what's that on the ground next to it? It looks like another <ActivityItem>Sun Core</ActivityItem>.
+
+TAG: Rapunzel_021_f
+I'm not sure what this place is, but I can feel some powerful magic close by... Let's <Lore>have a look at that Sun Core</Lore>.
+

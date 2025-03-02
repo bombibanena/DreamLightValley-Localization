@@ -1,0 +1,69 @@
+TAG: Tiana_003_f
+Oh, Tiana! It's really you!
+
+TAG: Tiana_004_f
+Sure is. But um... how did I get here?
+
+TAG: Tiana_005_f
+Well, that might be a little complicated. What's the last thing you remember?
+
+TAG: Tiana_006_f
+Well... Merlin had lent me a magical cookbook, and I was trying out some new dishes. He warned me not to change the recipes because some magical books have tempers.
+
+TAG: Tiana_001_f
+But I just couldn't imagine making jambalaya without at least a dash of hot sauce!
+
+TAG: Tiana_007_f
+Then, after I finished the jambalaya, I took the book to Remy to show him the new recipes... and the book started shaking in my hands! I dropped it, then its pages started turning real fast! Next thing I knew, I was off the ground and then... nothing?
+
+TAG: Player_000_choice_000_f
+It seems like you were trapped in the cookbook!
+
+TAG: Player_000_choice_001_f
+Oh wow, that's kinda scary!
+
+TAG: Player_000_choice_002_f
+Well, I'm glad you're okay now.
+
+TAG: Tiana_009_f
+Trapped?! Oh my... How did I get out?
+
+TAG: Tiana_010_f
+Well, in one sense, I brought you back...
+
+TAG: Tiana_011_f
+...but in another, YOU did! I managed to figure out this recipe and shared it with some of the Villagers you shared it with before.
+
+TAG: Tiana_012_f
+You did? That's wonderful! My daddy always said sharing food with friends is its own type of magic!
+
+TAG: Tiana_013_f
+So, now that you're back in the Valley, any plans? I have a feeling things have changed a lot since you went into the book.
+
+TAG: Tiana_014_f
+Well, I want to visit with my friends, of course. And I do have some new recipe ideas to test and share.
+
+TAG: Player_001_choice_000_f
+I want to try some shrimp dishes that you made!
+
+TAG: Player_001_choice_001_f
+I'm sure everyone will be beating down your door to try them.
+
+TAG: Player_001_choice_002_f
+You and Remy will have so much fun!
+
+TAG: Tiana_015_f
+But before I can do anything, I'll need somewhere to stay. Think you could <Lore>help me get my House set up</Lore>?
+
+TAG: Tiana_016_f
+Absolutely!
+
+TAG: Tiana_017_f
+Thank you kindly, {PlayerName}.
+
+TAG: Tiana_000_f
+It was! But... how did I get back here?
+
+TAG: Tiana_002_f
+Me too but... How did I get back here?
+

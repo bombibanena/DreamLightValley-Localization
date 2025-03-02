@@ -1,0 +1,33 @@
+TAG: Maui_001_f
+Oh hey, {PlayerName}! Wait â am I getting a meal delivered? What's the occasion?
+
+TAG: Player_000_choice_000_f
+Moana wanted you to have it.
+
+TAG: Player_000_choice_001_f
+An exceptional meal for an exceptional demigod.
+
+TAG: Player_000_choice_002_f
+It's a <ActivityItem>Seafood Salad</ActivityItem> with a "Forgiving Moana" theme.
+
+TAG: Maui_002_f
+Moana wanted me to have this? Oh, this is her way of apologizing, right?
+
+TAG: Maui_005_f
+She thinks this makes up for ABANDONING me on that island?
+
+TAG: Maui_000_f
+Well, you can tell her...
+
+TAG: Maui_007_f
+...it's a start.
+
+TAG: Maui_003_f
+Okay, I love presents AND food, but this feels like a bribe.
+
+TAG: Maui_008_f
+Did Moana put you up to this?
+
+TAG: Maui_004_f
+Hah! That's quite a name!
+

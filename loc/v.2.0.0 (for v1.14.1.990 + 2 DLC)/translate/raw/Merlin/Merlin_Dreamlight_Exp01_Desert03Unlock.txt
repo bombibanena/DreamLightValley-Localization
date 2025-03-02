@@ -1,0 +1,30 @@
+TAG: Merlin_000_f
+{PlayerName}, я вижу, вы нашли ещё один <Lore>mysterious Time Rift</Lore>. Это тоже связано с магией вашего часового стекла.
+
+TAG: Merlin_001_f
+Передайте волшебный <ActivityItem>Mist</ActivityItem> внутри, чтобы исправить эту рану во времени и пространстве...
+
+TAG: Merlin_002_f
+Когда вы это сделаете, вы сможете исследовать другую область бледных Дюнов... <Lore>Oasis</Lore>!
+
+TAG: Player_000_choice_000_f
+Я отправлю магию часового стекла... (Используйте {UpgradePrice} <sprite="iconCurrencyMist" index=0>)
+
+TAG: Player_000_choice_001_f
+Я еще не совсем готов...
+
+TAG: Merlin_003_f
+Поздравляю, {PlayerName}! Наконец-то вы сможете посетить Оазис, роскошный приют, окруженный блестящими песками.
+
+TAG: Merlin_004_f
+О, боже, дорогой, дорогой... боюсь, у тебя не хватит <ActivityItem>Mist</ActivityItem> для исправления этого Тайм Рифта.
+
+TAG: Merlin_005_f
+Помните... <ActivityItem>Mist</ActivityItem> <Lore> подключен к магии вашего часа и к самому острову Eternity</Lore>.
+
+TAG: Merlin_006_f
+Вы должны продолжать открывать чудеса своими часами и продолжать делать остров Вечность домом. Вы получите требуемый <ActivityItem>Mist</ActivityItem>!
+
+TAG: Merlin_007_f
+Не задерживайся, {PlayerName}.
+

@@ -1,0 +1,60 @@
+TAG: Merida_005_f
+Did you see that?
+
+TAG: Merida_006_f
+That numpty couldn't even go two minutes without telling me what to do.
+
+TAG: Player_000_choice_000_f
+There has to be some way for you two to get along.
+
+TAG: Player_000_choice_002_f
+You two are hopeless!
+
+TAG: Merida_007_f
+If there was only a way you both could get out all this aggression towards one another.
+
+TAG: Merida_008_f
+Flynn's not going to learn his lesson unless I PROVE to him that I don't need his help.
+
+TAG: Merida_009_f
+Say... now there's an idea. When the clans REALLY can't resolve things, they have a sporting competition.
+
+TAG: Merida_010_f
+I was planning to hold a friendly archery contest to show some Villagers how to shoot.
+
+TAG: Merida_011_f
+But maybe you could convince Flynn to join, and we can make it not so friendly.
+
+TAG: Player_001_f
+An archery competition between you and Flynn?
+
+TAG: Player_001_choice_000_f
+That's a great idea.
+
+TAG: Player_001_choice_001_f
+I don't know about this.
+
+TAG: Player_001_choice_002_f
+This sounds EXTREMELY dangerous.
+
+TAG: Merida_012_f
+Flynn will finally see who's the best archer here.
+
+TAG: Merida_015_f
+I already made some signs to post for the event. Think you could <Lore>put them up around the Vale for me</Lore>?
+
+TAG: Merida_016_f
+That braggart Flynn won't be able to resist a chance to show off.
+
+TAG: Merida_000_f
+I'll get on that. I guess you <Lore>could probably use some archery targets</Lore> too.
+
+TAG: Merida_001_f
+That'd be grand. If you need me, I'll be practicing for the competition.
+
+TAG: Merida_013_f
+What's the problem? I'll easily defeat Flynn, and he'll think twice before trying to "help" me again.
+
+TAG: Merida_014_f
+I promise. I'LL only be aiming for the targets.
+

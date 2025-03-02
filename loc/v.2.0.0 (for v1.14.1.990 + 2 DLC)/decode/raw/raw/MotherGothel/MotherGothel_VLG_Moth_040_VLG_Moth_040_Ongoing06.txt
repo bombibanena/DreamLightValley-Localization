@@ -1,0 +1,6 @@
+TAG: MotherGothel_000_f
+To restore the <ActivityItem>Dawn Fragment</ActivityItem>, it must be cleansed using Ingredients as fresh as the morning.
+
+TAG: MotherGothel_001_f
+Gather <ActivityItem>Lemon</ActivityItem>, <ActivityItem>Oregano</ActivityItem>, <ActivityItem>Mint</ActivityItem>, and <ActivityItem>Ocean Water</ActivityItem>.
+

@@ -1,0 +1,33 @@
+TAG: Elsa_015_f
+Things have been calm here for a while, {PlayerName}.
+
+TAG: Elsa_024_f
+And since you showed me the picture of that strange icy cave... I haven't been able to get it out of my head.
+
+TAG: Elsa_025_f
+I know I've been there before.
+
+TAG: Player_005_f
+You should come visit...
+
+TAG: Player_005_choice_000_f
+...to see your sister.
+
+TAG: Player_005_choice_001_f
+...to solve this mystery.
+
+TAG: Player_005_choice_002_f
+...because we could sure use you.
+
+TAG: Elsa_027_f
+That would be wonderful. It sounds like Anna loves your Village, so I know I will too.
+
+TAG: Elsa_009_f
+Lead the way, {PlayerName}. Let's go see your Valley!
+
+TAG: Elsa_028_f
+I do want to figure out why this Ice Cavern seems so familiar.
+
+TAG: Elsa_029_f
+Well, after all the help you've given us, I'd be happy to do anything I can.
+

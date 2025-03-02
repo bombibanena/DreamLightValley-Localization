@@ -1,0 +1,111 @@
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Any_CompletedRequestDescription
+Report back to Mike.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_AvailableDescription
+It's finally time to bust out the jokes! Talk to Mike to see what planning is left.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_CompletedStoryDescription
+Though it had a rocky start, the comedy show went well, resulting in a new bond between Mike and Vanellope. After all, comics need to stick together when the audience can begin to heckle at any moment...
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_DisplayName
+Have Your People Talk to My People
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Vanellope.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group02_Step02_TalkToCharacter02_StepDescription
+Talk to Scrooge McDuck.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group03_Step03_ReadyDescription
+Give Vanellope some <ActivityItem>Cheesecake</ActivityItem>, so she'll agree to perform.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group03_Step03_StepDescription
+Make sure you have a delicious <ActivityItem>Cheesecake</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group03_StoryDescription
+It seems that Vanellope's upcoming performance has gone to her head, and she's both acquired a manager and started demanding gifts before performing.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group04_Step04_TalkToCharacter03_StepDescription
+Return to Mike to break the bad news.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group05_Step05_DressUp01_StepDescription
+Wear something Professional, Elegant, or Modern.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group05_StepDescription
+Dress up like a cutthroat agent for the meeting between Mike's people and Vanellope's people.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group06_Step06_TalkToCharacter04_StepDescription
+Talk with Mike.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group07_Step07_Listen01_StepDescription
+Listen to Sulley and Scrooge's managerial conversation.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group08_Step08_TalkToCharacter05_StepDescription
+Check in with Mike about the brewing comic feud.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction01_StepDescription
+The Plaza.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction02_StepDescription
+Peaceful Meadow.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction03_StepDescription
+Dazzle Beach.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction04_StepDescription
+Forest of Valor.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_StepDescription
+Paste Mike's face on each of Vanellope's promotional posters in the following locations.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_StoryDescription
+After the meeting of managers, Mike is furious at Vanellope and begins a prank war. First up â paste Mike's face on all of Vanellope's promotional posters.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group10_Step10_VisitArea01_StepDescription
+Meet Mike in his House to discuss the comedic feud.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group11_Step11_TalkToCharacter06_StepDescription
+Talk with Mike.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group12_Step12_Interaction05_StepDescription
+Clean up the ridiculous number of <ActivityItem>Rubber Chickens</ActivityItem> in Mike's House.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group12_StoryDescription
+Vanellope has retaliated by filling Mike's House with a legion of rubber chickens! Hopefully, clearing them out will let Mike clear his own head in time for the performance.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group13_Step13_TalkToCharacter07_StepDescription
+Check back to see if Mike can work in these conditions again.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group14_Step14_TalkToCharacter08_StepDescription
+Get the <ActivityItem>Video Camera</ActivityItem> from Sulley.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group15_Step15_ReadyDescription
+Give Mike the <ActivityItem>Video Camera</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group15_Step15_StepDescription
+Sulley gave you the <ActivityItem>Video Camera</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group16_Step16_VisitArea02_StepDescription
+Enter Mike's House when you're ready for some comedy.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group17_StepDescription
+Watch the comedy show... or is it a duel now?
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group18_Step18_StepDescription
+Pick a good moment to capture with the camera when you're ready to finish listening to the set.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group18_Step22_Listen03_StepDescription
+(Optional) Listen to the rest of the comedy show.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group19_Step19_Possess01_StepDescription
+Pick up the bag in Mike's House that contains the movie still.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group20_StepDescription
+Open the bag to get the movie still.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group21_Step21_Decorate01_StepDescription
+Place the billboard near Mike's House so he can experience fame.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

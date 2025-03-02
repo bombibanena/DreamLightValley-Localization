@@ -1,0 +1,39 @@
+TAG: Rapunzel_000_f
+I love it! Every time I turn, I see something new.
+
+TAG: Rapunzel_001_f
+I've learned so much since I started exploring here.
+
+TAG: Rapunzel_002_f
+Do you like exploring, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+I love adventure!
+
+TAG: Player_000_choice_001_f
+Only with my friends.
+
+TAG: Player_000_choice_002_f
+I'd rather stay at home.
+
+TAG: Rapunzel_003_f
+Me too! I used to dream about adventure, but I was also kind of scared of it at the same time.
+
+TAG: Rapunzel_004_f
+Now I'm excited to find new adventures every day!
+
+TAG: Rapunzel_005_f
+Huh. I guess now that I think about it, there is a difference. The first time I went exploring was with Eugene, and I was really glad he was there.
+
+TAG: Rapunzel_006_f
+Now, I'm more comfortable having adventures on my own. But I don't always want to be alone. That's why I'm so happy you found me!
+
+TAG: Rapunzel_007_f
+I understand. Sometimes the world seems pretty big and a little overwhelming, huh?
+
+TAG: Rapunzel_008_f
+I'm glad you have a place where you can feel safe and rest.
+
+TAG: Rapunzel_009_f
+But I want you to know, if you ever want an adventure buddy, I'd love to join you.
+

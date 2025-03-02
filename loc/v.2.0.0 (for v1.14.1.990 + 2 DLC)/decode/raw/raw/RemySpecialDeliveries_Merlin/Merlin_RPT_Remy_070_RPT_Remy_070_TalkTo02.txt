@@ -1,0 +1,39 @@
+TAG: Merlin_000_f
+{PlayerName}... I need to speak to you about a... a SCOURGE that's facing this Village!
+
+TAG: Merlin_001_f
+Why it's nearly gotten as bad as the Forgetting.
+
+TAG: Merlin_002_f
+I'm talking about bad manners! Vanellope was quite rude to me earlier.
+
+TAG: Player_000_choice_000_f
+Vanellope is just trying to express herself.
+
+TAG: Player_000_choice_001_f
+Come on. I thought it was pretty funny.
+
+TAG: Player_000_choice_002_f
+*sigh* I'll make sure she leaves you alone.
+
+TAG: Merlin_003_f
+Express herself? Express herself?!
+
+TAG: Merlin_004_f
+Kindly tell her that next time she would like to "express herself" in such a manner...
+
+TAG: Merlin_005_f
+...she ought to do it in a direction that is not towards my face!
+
+TAG: Merlin_006_f
+Ugh, this is hopeless. I fear the entire Valley will soon lapse into utter rudeness.
+
+TAG: Merlin_007_f
+It almost makes one miss the Forgetting. At least that gave me some peace and quiet to read my books, even if I couldn't remember what I read.
+
+TAG: Merlin_008_f
+Thank you, {PlayerName}.
+
+TAG: Merlin_009_f
+You're the one thing standing between this Valley and a complete lapse into incivility!
+

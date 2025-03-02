@@ -1,0 +1,45 @@
+TAG: Mickey_000_f
+Do you believe in magic, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+Yes.
+
+TAG: Player_000_choice_001_f
+No.
+
+TAG: Player_000_choice_002_f
+I literally know a wizard, Mickey.
+
+TAG: Mickey_001_f
+Me too! I've seen all sorts of magical things around here.
+
+TAG: Mickey_009_f
+You should see Merlin when he's packing for a trip. He can fit his whole house into just one suitcase!
+
+TAG: Mickey_002_f
+Gosh, I didn't expect you to say that.
+
+TAG: Mickey_004_f
+Well, if that's the case, what do you think it is that Merlin does?
+
+TAG: Player_000_choice_003_f
+Elaborate lighting tricks.
+
+TAG: Player_000_choice_004_f
+Swamp gas.
+
+TAG: Player_000_choice_005_f
+I'm kidding... I do believe in magic.
+
+TAG: Mickey_006_f
+If that's true, those are some really impressive light tricks!
+
+TAG: Mickey_007_f
+Huh? I didn't know swamp gas could do all that.
+
+TAG: Mickey_003_f
+Heh. Guess that was sort of a silly question.
+
+TAG: Mickey_005_f
+I love watchin' him do magic.
+

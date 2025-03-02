@@ -1,0 +1,33 @@
+TAG: Woody_000_f
+{PlayerName}, I just want you to know...
+
+TAG: Woody_001_f
+...you're doin' a great job leading the folks of this Valley.
+
+TAG: Woody_002_f
+We can tell you care. It really shows.
+
+TAG: Player_000_choice_000_f
+Thanks, Woody!
+
+TAG: Player_000_choice_001_f
+I wish I could do more...
+
+TAG: Player_000_choice_002_f
+Aww. I'm just doing my job.
+
+TAG: Woody_003_f
+I'm just sayin' what everyone's thinkin', partner.
+
+TAG: Woody_004_f
+Hey now, you're already doin' a lot.
+
+TAG: Woody_005_f
+Take it from somebody who's had to coordinate a whole room of toys for Moving Day.
+
+TAG: Woody_006_f
+You gotta make sure to look after yourself, too.
+
+TAG: Woody_007_f
+And you're modest, too! You're the real deal, partner.
+

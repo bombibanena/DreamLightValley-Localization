@@ -1,0 +1,72 @@
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Any_CompletedRequestDescription
+Поговори с Реми.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_AvailableDescription
+Реми кажется расстроенным.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_CompletedStoryDescription
+Пора выяснить, нравится ли Реми твое создание.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_DisplayName
+Книга реципиентов Реми
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group01_Step01_TalkToCharacter01_StepDescription
+Спросите Микки Маус о Реми <ActivityItem>Recipe Books</ActivityItem>.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group01_StoryDescription
+Он помнит, что раньше у него было больше книг рецептов, когда он жил в долине Мечты, и вы должны сообщить ему, что он оставил их с Микки Маус.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group03_Step03_Unlock01_StepDescription
+Изучите список Микки Маус, который вам дал.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group03_StoryDescription
+Микки Маус спрятал книги рецептов по всей долине, но хранил список, чтобы напомнить ему где.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_Step04_BringItem02_StepDescription
+Идите в королевство Рататуйя, чтобы найти то, что пропало.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_Step04_ReadyDescription
+Принесите Реми <ActivityItem>Bag Peanuts</ActivityItem>.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group04_StoryDescription
+После поиска книг вы найдёте их и привезете их к их законному владельцу. Реми затем просит вас получить немного <ActivityItem>Peanuts</ActivityItem> из его Королевства.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_Step05_CookMeal02_StepDescription
+Приготовить еду, содержащую <ActivityItem>Panuts</ActivityItem>.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_StepDescription
+(Сходи в свой список и используй рецепты, которые Реми дал тебе, чтобы приготовить еду!)
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group05_StoryDescription
+Так как вы принесли <ActivityItem>Peanuts</ActivityItem> в Долину, Реми требует, чтобы вы использовали их в рецепте.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_BringItem03_StepDescription
+Местоположение Первой Книги.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_BringItem04_StepDescription
+Местоположение Второго Книги.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_BringItem05_StepDescription
+Местоположение Третьей Книги.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_ReadyDescription
+Принесите все Книги Реми.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_Group09_Step09_StepDescription
+Использовать <ActivityItem>Микки Маус памяти</ActivityItem> для поиска скрытых книг:
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

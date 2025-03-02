@@ -1,0 +1,57 @@
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_AvailableDescription
+{PlayerName} cleared away the ink blocking the path into Mythopia. There, our hero found some golden fields, and yet more ink spilling from the ground. What mysteries could this place hold?
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_DisplayName
+A Land of Myths and Legends
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group01_Step01_VisitArea01_StepDescription
+Explore <ActivityItem>the Elysian Fields</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group01_StepDescription
+You've cleared away the ink! The first part of Mythopia is yours to discover.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_Step02_TalkToCharacter01_StepDescription
+Ask the Lorekeeper about it.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_StepDescription
+You've found a mysterious gateway, swirling with magical ink, deep in the Elysian Fields.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_StoryDescription
+{PlayerName} soon found a mysterious gateway, swirling with magical ink, near some enormous statues of Pegasus in Mythopia. Only one person â or, more accurately, book â could explain this: the Lorekeeper.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group03_Step03_StepDescription
+You should not venture into the Mythic Trial alone.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group03_Step03_TalkToCharacter02_StepDescription
+Talk to Merida.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group04_Step04_FollowCharacter01_StepDescription
+Follow Merida to the <ActivityItem>Mythic Trial</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group04_Step04_FollowCharacter01_TalkToDescription
+Talk to Merida.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group05_Step05_Conditional03_StepDescription
+Use your Royal Net on the wheel to open the <ActivityItem>Mythic Trial</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group06_Step06_StepDescription
+(Remember: The magic of the Royal Net only works on Snippets! Catch these with your hands!)
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group06_StepDescription
+Catch the... <ActivityItem>Will-o'-the-Wisps</ActivityItem>? ...racing around the Elysian Fields.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group07_Step08_FollowCharacter02_StepDescription
+Meet Merida near the entrance to the Trial in the Elysian Fields.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group07_Step08_FollowCharacter02_TalkToDescription
+Talk to Merida.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_Step09_Conditional02_StepDescription
+Find a way to power it up. Maybe something to do with the torches...?
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_Step09_StepDescription
+This wheel won't budge no matter how hard you swing your Royal Net.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_StoryDescription
+{PlayerName} and Merida stumbled upon some mysterious blue flame. Merida was certain that these were Will-o'-the-Wisps, spirits intent on leading people to their fates. When you arrived at the Mythic Trial, though, the blue flame fizzled out. Perhaps they weren't Will-o'-the-Wisps at all.
+

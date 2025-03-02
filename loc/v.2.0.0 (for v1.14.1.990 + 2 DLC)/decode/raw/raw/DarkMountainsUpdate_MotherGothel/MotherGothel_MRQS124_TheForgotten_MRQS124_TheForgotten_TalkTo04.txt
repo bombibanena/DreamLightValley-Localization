@@ -1,0 +1,51 @@
+TAG: MotherGothel_000_f
+Here we are. Now, pay attention, dear... These Pillars have been here for as long as anyone in the Village can remember.
+
+TAG: MotherGothel_001_f
+If you asked Merlin, he'd tell you they symbolize the virtues that hold this Village together and protect it blah, blah, blah, blah, blah, blah, blah.
+
+TAG: MotherGothel_002_f
+Oh, how that man loves to hear himself talk!
+
+TAG: Player_000_choice_000_f
+Don't insult Merlin.
+
+TAG: Player_000_choice_002_f
+I guess he can be a bit long-winded sometimes...
+
+TAG: MotherGothel_003_f
+What a pity... You still insist on defending Merlin even though he's done nothing but lie to you.
+
+TAG: MotherGothel_005_f
+Huh? What do you mean?
+
+TAG: MotherGothel_006_f
+Merlin told you that these Pillars protect the Village. But they don't.
+
+TAG: MotherGothel_007_f
+They only prevent brilliant people like us from reaching our full potential.
+
+TAG: MotherGothel_008_f
+Everything he's told you about light and Dark Magic... friendship, trust, and so on... nothing more than lies to keep you under his control.
+
+TAG: Player_001_choice_000_f
+I don't believe you.
+
+TAG: Player_001_choice_001_f
+I... I know that you must be right...
+
+TAG: Player_001_choice_002_f
+What should I do now...?
+
+TAG: MotherGothel_009_f
+Well, there's one way to find out for sure.
+
+TAG: MotherGothel_011_f
+<Lore>Rip the Orb out of the Pillar</Lore>. Then you'll see that what I'm saying is true.
+
+TAG: MotherGothel_010_f
+It's time to find out what you're truly capable of.
+
+TAG: MotherGothel_004_f
+Worse than that. Merlin is a liar.
+

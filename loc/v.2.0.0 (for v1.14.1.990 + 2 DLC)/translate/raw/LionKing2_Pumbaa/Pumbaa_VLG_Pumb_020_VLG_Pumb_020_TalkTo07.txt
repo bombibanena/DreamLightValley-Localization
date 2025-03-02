@@ -1,0 +1,15 @@
+TAG: Pumbaa_000_f
+Эй, Пумба! У меня есть <ActivityItem>Display Polts</ActivityItem> для художественного шоу!
+
+TAG: Pumbaa_001_f
+Спасибо, и все только что засушилось.
+
+TAG: Pumbaa_002_f
+Мог бы ты <Lore> поместить керамику на столбы</Lore>, {PlayerName}?
+
+TAG: Pumbaa_003_f
+Ничего страшного, Пумба, я справлюсь.
+
+TAG: Pumbaa_004_f
+Мой первый художественный сериал!
+

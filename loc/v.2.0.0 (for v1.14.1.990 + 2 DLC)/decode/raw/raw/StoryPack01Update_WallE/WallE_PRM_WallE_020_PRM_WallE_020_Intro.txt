@@ -1,0 +1,111 @@
+TAG: WallE_000_f
+You're looking dapper as ever, WALLÂ·E!
+
+TAG: WallE_001_f
+*beep*
+
+TAG: WallE_002_f
+Aww...
+
+TAG: Player_003_choice_000_f
+What's new?
+
+TAG: Player_003_choice_001_f
+Can we talk later? I'm a little busy.
+
+TAG: WallE_003_f
+You look like you're straight out of an old-fashioned musical!
+
+TAG: WallE_004_f
+*gasp*
+
+TAG: WallE_005_f
+Directive!
+
+TAG: Player_000_choice_000_f
+You seem to like that idea...
+
+TAG: Player_000_choice_001_f
+You want to find more clothes?
+
+TAG: WallE_006_f
+Whoa! *whistle*
+
+TAG: WallE_009_f
+Do you want to pretend we're in a musical?
+
+TAG: WallE_010_f
+Maybe re-enact some of what they do?
+
+TAG: WallE_011_f
+Eee! Oh. Oh. Oh! *whistle*
+
+TAG: WallE_012_f
+Well, that sounds like a "yes" to me!
+
+TAG: Player_001_choice_000_f
+Is it musical time right now?
+
+TAG: Player_001_choice_001_f
+Should we dance around town?
+
+TAG: Player_001_choice_002_f
+Why don't we create some magic moments for Villagers?
+
+TAG: WallE_013_f
+Hmm...
+
+TAG: WallE_014_f
+No.
+
+TAG: WallE_015_f
+All right, let's see...
+
+TAG: WallE_016_f
+Uh...
+
+TAG: WallE_017_f
+No.
+
+TAG: WallE_018_f
+No problem! What about...
+
+TAG: WallE_019_f
+We could find some Villagers and make magic for them. Those old movies are always full of matchmaking and romance.
+
+TAG: WallE_020_f
+Directive!
+
+TAG: WallE_024_f
+Oh, wow! You're interested in romance? But why?
+
+TAG: WallE_025_f
+*sigh* EVE-ah...
+
+TAG: WallE_029_f
+You want to learn more about romance for EVE? Aww, that's adorable! We can totally do that!
+
+TAG: WallE_022_f
+Whoo! *whistle*
+
+TAG: WallE_023_f
+Let's check out a few different places in the Valley â you can judge the romantic vibes for yourself!
+
+TAG: WallE_028_f
+Lead the way, WALLÂ·E!
+
+TAG: WallE_026_f
+You want to learn more about romance for EVE? Aww, WALLÂ·E. Don't worry. I know she must be somewhere. We'll find her eventually.
+
+TAG: WallE_027_f
+EVE-ah! EVE-ah!
+
+TAG: WallE_021_f
+But until then... we'll create some magic moments for Villagers so you can keep learning about romance.
+
+TAG: WallE_007_f
+No.
+
+TAG: WallE_008_f
+OK, OK, something else, I guess!
+

@@ -1,0 +1,30 @@
+TAG: Merida_000_f
+If you get rid of this ink barrier, we can visit <Lore>Teapot Falls</Lore>.
+
+TAG: Merida_001_f
+It's a rather odd place actually, but it has its own charms and wonders.
+
+TAG: Player_000_choice_000_f
+Let's clear the way to Teapot Falls! (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
+
+TAG: Player_000_choice_001_f
+Maybe later...
+
+TAG: Merida_002_f
+Woo-hoo! I can't wait to see the Falls!
+
+TAG: Merida_003_f
+Hmm... I guess you don't have enough <Lore>Story Magic</Lore> to reach the Falls yet. Better go get some more.
+
+TAG: Merida_004_f
+You're the only one who can open up Everafter. So promise me we'll come back soon.
+
+TAG: Merida_005_f
+Seriously?
+
+TAG: Merida_006_f
+But we ought to <Lore>clean up the Bind</Lore> and learn as much as we can before we go.
+
+TAG: Merida_007_f
+Everafter's Maleficent's territory. It's no place to adventure to before we're ready.
+

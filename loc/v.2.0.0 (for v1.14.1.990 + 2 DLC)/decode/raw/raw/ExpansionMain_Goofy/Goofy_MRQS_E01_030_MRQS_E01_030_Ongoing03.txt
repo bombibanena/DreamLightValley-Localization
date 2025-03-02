@@ -1,0 +1,12 @@
+TAG: Goofy_000_f
+Just some <ActivityItem>Copper</ActivityItem> and <ActivityItem>Plastic Scrap</ActivityItem> to fix the Stall.
+
+TAG: Goofy_001_f
+I'll get them for you.
+
+TAG: Goofy_002_f
+I think I saw some <ActivityItem>Plastic Scrap</ActivityItem> floating in the water outside of the ripples!
+
+TAG: Goofy_003_f
+And I'll bet the <Lore>Mining Rocks</Lore> around here have plenty of <ActivityItem>Copper</ActivityItem> in them!
+

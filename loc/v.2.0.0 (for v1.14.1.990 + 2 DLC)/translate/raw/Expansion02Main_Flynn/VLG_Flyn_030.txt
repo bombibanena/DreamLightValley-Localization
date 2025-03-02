@@ -1,0 +1,111 @@
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Any_CompletedRequestDescription
+Поговори с Флин о том, что ты нашел.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_AvailableDescription
+С запутанными воспоминаниями и разбитым сердцем Флин Райдер придумал хитроумный план, чтобы начать делать все правильно {PlayerName} знал, что они должны увидеть, что он задумал, чтобы не попасть в неприятности...
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_DisplayName
+Старомодное ограбление
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group01_Step01_VisitArea01_StepDescription
+Идите с Флин в крепость Падшего.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group02_Step02_FollowCharacter01_StepDescription
+Следуйте за Флин к входу в хранилище.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group02_Step02_FollowCharacter01_TalkToDescription
+Поговори с Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group02_StoryDescription
+Несмотря на нежелание, {PlayerName} согласился помочь Флин проникнуть в секретное хранилище Злой Королевы.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group03_Step03_StepDescription
+Соберите следующие материалы:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group04_Step04_CraftItem01_StepDescription
+Подготовьте {itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group05_Step05_ConsumeItem01_StepDescription
+Соберите {itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group06_Step06_VisitArea02_StepDescription
+Возвращайтесь в хранилище Малефисента.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group07_Step07_RemoveBlocker01_StepDescription
+Пользуйся ванной, чтобы расчистить путь к хранилищу Малефисента.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group08_Step08_FollowCharacter02_StepDescription
+Идите с Флин в хранилище Малефисента.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group08_Step08_FollowCharacter02_TalkToDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group09_Step09_StepDescription
+Проверьте три коридора.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group09_StoryDescription
+Как никогда храбрый, {PlayerName} рискнул инспектировать коридоры, боясь потенциальных ловушек, установленных Малефисента.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group10_Step10_TalkToCharacter01_StepDescription
+Поговори с Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_Step11_StepDescription
+Может выдержать толстый дым.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_Step12_StepDescription
+Может вызвать огонь.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_Step13_StepDescription
+Экспертный лучник.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_StepDescription
+Нанять кого-то, кто:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group11_StoryDescription
+С инспектируемыми коридорами у быстроумного жулика появилась еще одна из его умных идей: сформировать группу бесстрашных авантюристов, чтобы уничтожить ловушки!
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group12_Step14_VisitArea03_StepDescription
+Возвращайся в хранилище Малефисента.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group13_Step15_TalkToCharacter10_StepDescription
+Поговори с Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_Conditional01_StepDescription
+Уолл Ливер.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_Conditional02_StepDescription
+Целься в Левер.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_Conditional03_StepDescription
+Газовая печь.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group14_Step16_StepDescription
+Поговорите с командой, чтобы расчистить дорогу и активировать рычаги.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group15_Step18_VisitArea04_StepDescription
+Введите хранилище Малефисента.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group16_Step19_StepDescription
+Посмотри вокруг хранилища Малефисента на что-нибудь ценное.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group16_StoryDescription
+{PlayerName} прокрались через скрипящий хранилище, слишком хорошо зная возможные трюки и ловушки злой королевы. Они посмотрели вокруг комнаты, искали все, что может привести к ответам о прошлом Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_Group17_Step20_VisitArea05_StepDescription
+{Placeholder} Возвращение внутри суда над феями пало крепостью.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

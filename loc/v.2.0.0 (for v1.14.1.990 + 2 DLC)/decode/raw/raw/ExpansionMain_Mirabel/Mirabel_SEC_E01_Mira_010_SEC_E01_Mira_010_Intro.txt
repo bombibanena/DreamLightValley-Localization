@@ -1,0 +1,84 @@
+TAG: Mirabel_000_f
+Hola, {PlayerName}! I've been wanting to do something special for my cousin Antonio. Could you help me out?
+
+TAG: Mirabel_001_f
+Ooh! "Talks to animals" Antonio?! How can I help?
+
+TAG: Mirabel_009_f
+Well, I've been missing him a ton lately.
+
+TAG: Mirabel_012_f
+So, I was thinking that maybe I'd write to him and tell him all about the cool animals on Eternity Isle.
+
+TAG: Mirabel_013_f
+But it'd be even cooler if I could show him photographs of the animals... with me alongside them!
+
+TAG: Player_001_choice_003_f
+Nature photography doesn't usually include people.
+
+TAG: Player_001_choice_004_f
+What kinds of animals does Antonio like?
+
+TAG: Player_001_choice_005_f
+Say no more â sounds like a job for my Camera!
+
+TAG: Mirabel_014_f
+Okay... But I want to show Antonio that I REALLY saw all of them!
+
+TAG: Mirabel_015_f
+Some of the animals are so incredible, he might think the photos are drawings if I don't give him proof.
+
+TAG: Player_002_choice_002_f
+Got it â we need incontrovertible photographic evidence!!
+
+TAG: Player_002_choice_003_f
+I can see all of the animals myself, and I STILL barely believe it.
+
+TAG: Mirabel_016_f
+Exactly!
+
+TAG: Mirabel_017_f
+Well, after living with my family in Casita, I'm used to surprises. But this place has them around every corner!
+
+TAG: Mirabel_018_f
+Oh, he likes ALL animals. Birds, jaguars, donkeys, butterflies, ratsâ
+
+TAG: Player_003_choice_002_f
+Lions and tigers!
+
+TAG: Player_003_choice_003_f
+Penguins and polar bears!
+
+TAG: Mirabel_019_f
+He'd love those!
+
+TAG: Mirabel_020_f
+But there's one I definitely want to be sure and include. And the Wild Tangle has a lot of them.
+
+TAG: Mirabel_021_f
+He'd love those! But I don't think there are any around here.
+
+TAG: Mirabel_022_f
+There is one animal I definitely want to be sure and include. And there are a lot in the Wild Tangle.
+
+TAG: Mirabel_023_f
+Great! So I noticed there are <Lore>five different types of chigÃ¼iros</Lore> on Eternity Isle.
+
+TAG: Mirabel_024_f
+ChigÃ¼iros...? Oh, that must be the Spanish name for <ActivityItem>Capybaras</ActivityItem>! They're all over the place.
+
+TAG: Mirabel_025_f
+Well, Antonio really loves chigÃ¼iros, especially his friend Chispi. If you could <Lore>get a photo of me with each of the ones here</Lore>, I know Antonio would think that was amazing!
+
+TAG: Mirabel_027_f
+Since we're already hanging out together, how 'bout we do it now?
+
+TAG: Mirabel_028_f
+<Lore>Five pictures of Mirabel with Capybaras</Lore> for Antonio? It'll be a snap!
+
+TAG: Mirabel_029_f
+Get it? Like, because the Camera... Aw, forget it; let's do this.
+
+TAG: Mirabel_026_f
+Sure, let's hang out!
+

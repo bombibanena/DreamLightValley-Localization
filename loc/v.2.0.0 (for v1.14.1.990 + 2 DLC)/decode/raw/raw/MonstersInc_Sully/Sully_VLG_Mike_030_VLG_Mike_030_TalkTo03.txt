@@ -1,0 +1,87 @@
+TAG: Sully_000_f
+Hey, {PlayerName}! What brings you by?
+
+TAG: Sully_001_f
+Well, not that I wouldn't just want to chat...
+
+TAG: Sully_002_f
+...but I'm here about Vanellope.
+
+TAG: Sully_003_f
+Uh-oh, what did she do now?
+
+TAG: Player_000_choice_000_f
+She's in big trouble!
+
+TAG: Player_000_choice_001_f
+Actually, it's a good thing.
+
+TAG: Sully_004_f
+*sigh* ... I probably should've seen this coming.
+
+TAG: Sully_017_f
+Isn't it?
+
+TAG: Sully_018_f
+Oh! What about some comedy props?
+
+TAG: Sully_019_f
+There's a ton back at the office just sitting around now that Mike's taking a break from teaching his comedy classes.
+
+TAG: Sully_020_f
+Great! What kind of props?
+
+TAG: Sully_021_f
+Let's see... there's definitely a <ActivityItem>Rubber Chicken</ActivityItem> and a <ActivityItem>Whoopee Cushion</ActivityItem> that you could grab.
+
+TAG: Sully_022_f
+And if I were you, I'd try to grab a <ActivityItem>Laugh Canister</ActivityItem> while you're there.
+
+TAG: Sully_023_f
+Oh? Why?
+
+TAG: Sully_024_f
+Well, if I know Mike, he's got some other plans up his sleeve.
+
+TAG: Sully_025_f
+But he doesn't always communicate them at the right time, which is one of the reasons why I'm the CEO.
+
+TAG: Sully_026_f
+Ha, got it!
+
+TAG: Sully_005_f
+Let me grab my checkbook. What did she break this time?
+
+TAG: Sully_006_f
+Nothing! Unless you count the jokes she's always cracking.
+
+TAG: Sully_011_f
+Phew! That's a relief.
+
+TAG: Sully_012_f
+Mike and I want to get her something to welcome her to the world of comedy.
+
+TAG: Sully_013_f
+Any ideas of something that would be up her alley?
+
+TAG: Sully_014_f
+Hmm... good question.
+
+TAG: Sully_015_f
+Off the bat, I'm thinkin' something from back home. I've been telling Vanellope stories about the other monsters, and she just LOVES 'em.
+
+TAG: Sully_016_f
+That's pretty cute.
+
+TAG: Sully_007_f
+Well, that's a relief!
+
+TAG: Sully_008_f
+Vanellope's a supersweet kid, but she's definitely got a troublemaker streak in her.
+
+TAG: Sully_009_f
+Well, this is kinda related, I guess.
+
+TAG: Sully_010_f
+But you'll be pleased to hear that she's channeling her mischievous intentions into comedy.
+

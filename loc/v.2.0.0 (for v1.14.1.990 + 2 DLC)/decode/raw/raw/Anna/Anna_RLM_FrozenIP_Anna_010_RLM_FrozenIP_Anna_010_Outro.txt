@@ -1,0 +1,39 @@
+TAG: Anna_005_f
+My <ActivityItem>Engagement Ring</ActivityItem>? What's it doing here?!
+
+TAG: Anna_011_f
+Oh, I must have dropped it in the pond while I was looking for Elsa earlier.
+
+TAG: Anna_012_f
+My ring doesn't belong in these waters. The metal and the stone aren't native to the Enchanted Forest.
+
+TAG: Anna_002_f
+I'll bet this is why the Water Spirit was upset.
+
+TAG: Anna_013_f
+And look! Now that we removed my ring, the waters are calm.
+
+TAG: Anna_001_f
+The winds are still pretty wild though...
+
+TAG: Anna_014_f
+But now that we've found my sister, we can try to calm the Wind Spirit together.
+
+TAG: Player_001_choice_000_f
+I can't wait to meet Elsa.
+
+TAG: Player_001_choice_001_f
+I'm nervous. Elsa seems... intimidating.
+
+TAG: Anna_015_f
+After everything you've done to help me, I know she'll want to meet you, too.
+
+TAG: Anna_018_f
+Let's go talk to her.
+
+TAG: Anna_016_f
+Well... it can take Elsa a little while to warm up to new people.
+
+TAG: Anna_017_f
+But after everything you've done to help me, I know she'll be really happy to see you!
+

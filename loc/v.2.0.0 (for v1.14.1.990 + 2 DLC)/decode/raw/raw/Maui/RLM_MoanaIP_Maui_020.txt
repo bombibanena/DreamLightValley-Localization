@@ -1,0 +1,60 @@
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Any_CompletedRequestDescription
+Maui is in the Village. See what he thinks of Dreamlight Valley.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_AvailableDescription
+Maui seems upset Moana left him. You decide to talk to him.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_CompletedStoryDescription
+After making sure Maui's living accommodations are perfect, it's time to welcome him.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_DisplayName
+A Feast Worthy of a Demigod
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_Step01_ReadyDescription
+Bring Maui all the meals.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_Step01_StepDescription
+Prepare Maui meals with at least a 3-star rating.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_StoryDescription
+Always ready to challenge someone, Maui asks you to prove the food from the Village is really as good as you say it is.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you want?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group02_Step02_StepDescription
+Place the Peaceful Grotto in water.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Your House is almost ready.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_Step03_Unlock01_StepDescription
+Use the Scrooge McDuck Sign to pay for the construction of the Peaceful Grotto for Maui to live in.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_StepDescription
+Make sure Maui has everything he needs.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group03_StoryDescription
+To build a place to live that's fit for a demigod, you'll need to pay McDuck Construction.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Ready to visit the Valley?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group04_Step04_UnlockCharacter01_StepDescription
+Everything is ready for Maui. Welcome him to the Village.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group05_StepDescription
+Unlock the Dazzle Beach Biome in the Village.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group05_StoryDescription
+After tasting the food, Maui agrees to help you. But if you want him to come to Dreamlight Valley, he's going to need a place to stay while he's there.
+
+TAG: Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group06_Step06_TalkToCharacter01_StepDescription
+Talk to Maui.
+

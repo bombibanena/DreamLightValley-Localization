@@ -1,0 +1,33 @@
+TAG: Daisy_000_f
+This looks delicious. Chef Remy does it again!
+
+TAG: Daisy_003_f
+And thanks to you, {PlayerName}, I was able to put the finishing touches on the setup for the gala.
+
+TAG: Player_000_choice_000_f
+Always happy to help.
+
+TAG: Player_000_choice_001_f
+Do you need anything else?
+
+TAG: Player_000_choice_002_f
+Am I even invited?
+
+TAG: Daisy_004_f
+You always are! Now it's time to get ready for the event itself.
+
+TAG: Daisy_007_f
+Why don't you put on something fabulous that makes you feel your best? Don't be afraid to wear something bold â I always do.
+
+TAG: Daisy_008_f
+The only guideline for a gala outfit is: Think <ActivityItem>Elegant</ActivityItem>.
+
+TAG: Daisy_009_f
+You could start with that Dots & Daisies piece we gave you. After that, accessorize away!
+
+TAG: Daisy_005_f
+There's one last thing...
+
+TAG: Daisy_006_f
+Don't be silly! You're the guest of honor!
+

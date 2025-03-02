@@ -1,0 +1,36 @@
+TAG: Merida_000_f
+{PlayerName}, эта чернила блокирует путь к <Lore>the Wild Wood</Lore>.
+
+TAG: Merida_001_f
+Это странное место, полное волшебства и тени...
+
+TAG: Merida_002_f
+Ты собираешься открыть его своим <Lore>Story Magic</Lore>?
+
+TAG: Player_000_choice_000_f
+Да, давайте посетим Дикий Вудс. (Используйте {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
+
+TAG: Player_000_choice_001_f
+Нет, не сейчас.
+
+TAG: Merida_003_f
+Не могу дождаться, чтобы там исследовать!
+
+TAG: Merida_004_f
+Полагаю, вам нужен <Lore>more Story Magic</Lore>.
+
+TAG: Merida_005_f
+Ты единственный, кто может добраться до этих недоступных мест.
+
+TAG: Merida_006_f
+Так что, пожалуйста, возвращайся, как только сможешь!
+
+TAG: Merida_007_f
+Правда?
+
+TAG: Merida_008_f
+Но мы действительно должны <Lore> очистить Bind</Lore>, прежде чем мы запутаемся с Малефисента и Everwerth.
+
+TAG: Merida_009_f
+Поверь мне.
+

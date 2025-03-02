@@ -1,0 +1,24 @@
+TAG: Goofy_000_f
+Gawrsh, the fish from the Bind sure look funny.
+
+TAG: Player_000_choice_000_f
+Hey! I think they're cute!
+
+TAG: Player_000_choice_001_f
+Everything here seems like it's out of a book.
+
+TAG: Player_000_choice_002_f
+Maybe the fish think WE look funny. Ever think of that?
+
+TAG: Goofy_002_f
+Aw, I didn't mean nothin' by it. They look funny AND cute.
+
+TAG: Goofy_001_f
+Well, thanks for your help, {PlayerName}. Now I know just what to sell in my Stall!
+
+TAG: Goofy_003_f
+Yeah, or a whole buncha books all mixed together. Funny ones AND scary ones.
+
+TAG: Goofy_004_f
+You know, you're right. I guess I MUST look pretty funny to a fish, since I'm a whole lot bigger and they've got such little eyes.
+

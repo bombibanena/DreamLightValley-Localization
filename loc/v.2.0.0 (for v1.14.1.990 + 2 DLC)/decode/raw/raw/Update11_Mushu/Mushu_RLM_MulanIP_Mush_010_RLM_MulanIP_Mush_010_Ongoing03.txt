@@ -1,0 +1,6 @@
+TAG: Mushu_000_f
+You gotta find the pieces of your uniform and bring 'em to me. They're scattered all over camp and outside, too.
+
+TAG: Mushu_001_f
+Remember, find <ActivityItem>Shoes</ActivityItem>, <ActivityItem>Socks</ActivityItem>, a pair of <ActivityItem>Pants</ActivityItem>, and a <ActivityItem>Top</ActivityItem>.
+

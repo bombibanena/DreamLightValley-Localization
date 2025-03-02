@@ -1,0 +1,84 @@
+TAG: Story!MRQS070_BeachStory_Any_CompletedRequestDescription
+Сообщите Мерлин, что Урсула бесплатный.
+
+TAG: Story!MRQS070_BeachStory_AvailableDescription
+Мерлин должен рассказать тебе о чем-то важном.
+
+TAG: Story!MRQS070_BeachStory_CompletedStoryDescription
+После завершения тестов и восстановления <ActivityItem>Orb Power</ActivityItem> у вас нет другого выбора, кроме как рассказать Мерлин о свободе Урсула.
+
+TAG: Story!MRQS070_BeachStory_DisplayName
+С великой силой...
+
+TAG: Story!MRQS070_BeachStory_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Story!MRQS070_BeachStory_Group01_Step01_FillKeyhole01_StepDescription
+Поместите Урсула <ActivityItem>Crystal Key</ActivityItem> в устройство рядом с запертым входом в пещеру на пляже Даззл.
+
+TAG: Story!MRQS070_BeachStory_Group01_StoryDescription
+Вы обещаете освободить Урсула из ее пещеры в обмен на информацию. Если вы хотите остановить происходящее, вам нужно найти <ActivityItem>Orb of Power</ActivityItem> в секретной пещере, закрытой ключом, который она вам дает.
+
+TAG: Story!MRQS070_BeachStory_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Story!MRQS070_BeachStory_Group02_StepDescription
+Исследуйте проклятую пещеру.
+
+TAG: Story!MRQS070_BeachStory_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Story!MRQS070_BeachStory_Group03_Step12_Possess01_StepDescription
+Выловить <ActivityItem>Orb Power</ActivityItem> из воды в мистической пещере.
+
+TAG: Story!MRQS070_BeachStory_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Как я могу очистить второе испытание?
+
+TAG: Story!MRQS070_BeachStory_Group04_Step04_StepDescription
+Найди способ удалить второй волшебный врата в мистической пещере.
+
+TAG: Story!MRQS070_BeachStory_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Как я могу очистить первое испытание?
+
+TAG: Story!MRQS070_BeachStory_Group05_Step05_StepDescription
+Найди способ удалить первые волшебные ворота в мистической пещере.
+
+TAG: Story!MRQS070_BeachStory_Group05_StoryDescription
+Обнаружить, как открыть пещеру, было легко.
+
+TAG: Story!MRQS070_BeachStory_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Как я могу очистить третье испытание?
+
+TAG: Story!MRQS070_BeachStory_Group06_Step06_StepDescription
+Найди способ удалить третий волшебный врата в мистической пещере.
+
+TAG: Story!MRQS070_BeachStory_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Story!MRQS070_BeachStory_Group07_Step07_FillKeyhole05_StepDescription
+Поместите <ActivityItem>Orb Power</ActivityItem> в столб возле мистической пещеры.
+
+TAG: Story!MRQS070_BeachStory_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Story!MRQS070_BeachStory_Group08_Step08_TalkToCharacter02_StepDescription
+Возвращайтесь в Урсула в проклятой пещере возле пляжа Даззл.
+
+TAG: Story!MRQS070_BeachStory_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Мерлин, чем я могу помочь?
+
+TAG: Story!MRQS070_BeachStory_Group09_Step09_TalkToCharacter03_StepDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS070_BeachStory_Group09_Step10_TalkToCharacter04_StepDescription
+Исследуйте проклятую пещеру на пляже Даззл.
+
+TAG: Story!MRQS070_BeachStory_Group09_StoryDescription
+Мерлин и некоторые другие жители деревни боятся, что забвение снова произойдет, судьба долины Мечты находится в руках морской ведьмы.
+
+TAG: Story!MRQS070_BeachStory_Group10_Step11_TalkToCharacter05_StepDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS070_BeachStory_Group11_Step03_VisitArea01_StepDescription
+Исследуйте мистическую пещеру.
+

@@ -1,0 +1,114 @@
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Any_CompletedRequestDescription
+Возвращайтесь в Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_AvailableDescription
+Снова что-то случилось с Зверь... что происходит?
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_CompletedStoryDescription
+К твоему удивлению и удовольствию Зверь, Кристофф кажется идеальным другом Зверь'.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_DisplayName
+Будь нашим другом
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group01_Step01_ReadyDescription
+Принесите книги Белль от имени Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group01_Step01_StepDescription
+Соберите книги для Белль из библиотеки Мерлин.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group01_StoryDescription
+Зверь хочет чувствовать себя полезным, поэтому он заставил вас приобрести несколько книг для передачи Белль.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group02_Step02_TalkToCharacter01_StepDescription
+{TargetNPC}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group02_Step02_TalkToCharacter02_StepDescription
+{TargetNPC}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group02_StepDescription
+Спросите этих деревенских жителей о встрече с Зверь:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group02_StoryDescription
+Белль также беспокоится о Зверь, так что вы двое приготовили план 'Поощряйте Зверь к развитию дружбы с деревенским!
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group03_Step03_TalkToCharacter03_StepDescription
+Возвращайтесь в Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group03_StoryDescription
+Как Мирабель, так и ВАЛЛ·И, кажется, открыты для знакомства с Зверь, так что пришло время представить ему некоторые возможные варианты дружбы.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group04_Step04_Conditional01_StepDescription
+Встретимся с Зверь, чтобы убедиться, что катастрофа не развивается.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group05_Step05_GardeningPlant01_StepDescription
+Как посадить урожай.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group05_Step06_GardeningHarvest01_StepDescription
+Как собирать урожай.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group05_StepDescription
+Научить Зверь секретам садоводства:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group06_Step07_CraftItem01_StepDescription
+Ремень {ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group06_Step07_CraftItem02_StepDescription
+Ремень {ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group06_StepDescription
+Показать Зверь, как создать то, что Мирабель понадобится:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group07_Step08_TalkToCharacter04_StepDescription
+Поговори с Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group07_StoryDescription
+Зверь внимательно следит за тем, как вы показали ему хобби его потенциального друга.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group08_StepDescription
+Возьми Зверь, чтобы встретиться с ВАЛЛ·И.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group09_Step10_StepDescription
+Возьми Зверь, чтобы встретиться с Мирабель.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group10_Step11_TalkToCharacter05_StepDescription
+Проверь Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group11_Step12_TalkToCharacter06_StepDescription
+Спроси Кристофф о его конкурсе на рыбалку.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group11_StoryDescription
+Ваши первые попытки найти Зверь друг не очень хорошо прошёл, но, возможно, ему нужен такой стоичный и молчаливый человек, как он, чтобы завести друзей.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group12_Step13_TalkToCharacter07_StepDescription
+Поговори с Зверь.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group12_StoryDescription
+Кристофф проводит рыболовецкий турнир... который может быть идеальным видом деятельности, чтобы вдохновить дружба между ним и Зверь!
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group13_StepDescription
+Перестань тусоваться с Зверь, чтобы он сам смог порыбачить.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish01_StepDescription
+Соленая рыба из долины Мечты.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish02_StepDescription
+Пресноводные рыбы из долины Мечты.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish03_StepDescription
+Рыба в 3 фунта или больше.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish04_StepDescription
+А {ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish05_StepDescription
+А {ItemName}.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_StepDescription
+Участвовать в конкурсе, поймав по крайней мере:
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_Group15_Step16_Listen03_StepDescription
+Встретимся с Зверь и Кристофф снова.
+
+TAG: Village!BeautyBeast!Beast!VLG_Beas_020_StartRequestButton
+Запускать QUEST
+

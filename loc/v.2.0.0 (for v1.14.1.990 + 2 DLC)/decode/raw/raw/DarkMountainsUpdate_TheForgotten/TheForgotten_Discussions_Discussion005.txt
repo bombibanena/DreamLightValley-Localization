@@ -1,0 +1,45 @@
+TAG: TheForgotten_011_f
+I'm feeling pretty good today.
+
+TAG: TheForgotten_012_f
+It's... weird.
+
+TAG: Player_002_choice_000_f
+Embrace happiness whenever you find it.
+
+TAG: Player_002_choice_001_f
+Happiness is just as real as sadness.
+
+TAG: Player_002_choice_002_f
+What sparked this feeling?
+
+TAG: TheForgotten_013_f
+I guess that's true. I shouldn't waste this feeling.
+
+TAG: TheForgotten_014_f
+Maybe I'll write some happy poems today.
+
+TAG: Player_003_exit_000_f
+Gotta go!
+
+TAG: TheForgotten_015_f
+Huh. That's true. I guess.
+
+TAG: TheForgotten_016_f
+I'll try to look at it like that more often. Thanks!
+
+TAG: TheForgotten_017_f
+I guess I was thinking about all the people here in the Valley who I think of as... friends.
+
+TAG: TheForgotten_018_f
+Friends are important. Especially as you get older.
+
+TAG: TheForgotten_019_f
+You've got to hold on to the ones you've got, because it gets harder and harder to make new ones!
+
+TAG: TheForgotten_020_f
+You're right. I guess I should tell my friends that I'm happy they're around... even if it feels a little cheesy.
+
+TAG: TheForgotten_021_f
+Thanks for being my friend, {PlayerName}.
+

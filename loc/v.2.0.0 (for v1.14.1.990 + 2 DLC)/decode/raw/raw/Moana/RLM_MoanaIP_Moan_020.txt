@@ -1,0 +1,96 @@
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Any_CompletedRequestDescription
+Talk to Moana.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_AvailableDescription
+Now that Moana is free to sail again, it's time to get back on the waves.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_CompletedStoryDescription
+After building Moana a comfortable place to live, you welcome her to the Village.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_DisplayName
+How Far You'll Go
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_OngoingRequestButton
+What should we do?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_Step01_CatchFish01_StepDescription
+Something is moving in the water. Try to catch it.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_StepDescription
+We crossed the mist!
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_StoryDescription
+While exploring the seas, you discover a new area where something mysterious is moving in the water.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_OngoingRequestButton
+Will you come to Dreamlight Valley?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_Step02_StepDescription
+Make sure Moana is comfortable in the Village by placing Moana's Fale.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_StepDescription
+(Press {input_catalog} to access Furniture to place in the House.)
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_StoryDescription
+You catch a very special fish with Moana's help. Now that she's found a rich fishing spot for her people, she can come visit Dreamlight Valley. But first, she needs a place to live.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group03_OngoingRequestButton
+Ready to come see Dreamlight Valley yet?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group03_StepDescription
+Use the Scrooge McDuck Sign to pay for the construction of Moana's Fale.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group03_StoryDescription
+To build a place that's got everything Moana needs, you'll need to pay McDuck Construction.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group04_OngoingRequestButton
+I made a special place for you in the Village.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group04_Step04_UnlockCharacter01_StepDescription
+Everything is ready for Moana. Welcome her to the Village.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What can I do for you?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group05_StepDescription
+Show Moana your catch.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group06_StepDescription
+Moana wants to talk to you about something she found.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group07_OngoingRequestButton
+I'm ready to sail!
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group07_StepDescription
+Search the different areas in the sea to find something to light the way across the mist.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group08_OngoingRequestButton
+What should I do?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group08_StepDescription
+Examine the strange map Moana just gave you.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group09_StepDescription
+Talk to Moana about what the <ActivityItem>Memory</ActivityItem> was hiding.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group09_StoryDescription
+Moana found a strange map while fixing the boat. Unable to read it, she gives it to you so you can examine it. It turns into a <ActivityItem>Memory</ActivityItem>, and you can now use it to navigate.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group10_Step10_ReadyDescription
+Bring the <ActivityItem>Torch</ActivityItem> to Moana.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group10_StepDescription
+You found a <ActivityItem>Torch</ActivityItem> to light the way.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group11_OngoingRequestButton
+Let's sail across the mist!
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group11_StepDescription
+Navigate across the mist with Moana's help.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

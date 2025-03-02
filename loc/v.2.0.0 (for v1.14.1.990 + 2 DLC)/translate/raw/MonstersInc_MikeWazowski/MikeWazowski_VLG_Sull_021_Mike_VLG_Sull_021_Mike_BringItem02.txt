@@ -1,0 +1,9 @@
+TAG: MikeWazowski_000_f
+Спасибо, {PlayerName}! Пахнет вкусно, как дома.
+
+TAG: MikeWazowski_002_f
+Мне просто нужно отнести это Салли и напомнить ему, кто настоящий MVP в деревне!
+
+TAG: MikeWazowski_003_f
+Спасибо за миллион, {PlayerName}!
+

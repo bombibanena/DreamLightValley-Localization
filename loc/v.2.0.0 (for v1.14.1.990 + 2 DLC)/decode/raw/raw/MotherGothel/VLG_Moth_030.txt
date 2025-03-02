@@ -1,0 +1,24 @@
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_AvailableDescription
+Mother Gothel knows what happened to the <ActivityItem>Sunstone</ActivityItem>. It was broken into three <ActivityItem>Fragments</ActivityItem>. Each will appear in the Village at a specific time and place. It's up to you to find them and bring them back to her.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_DisplayName
+The Sunstone Fragments
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Can you tell me about the fragments again?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem01_StepDescription
+Find the Sunlit Plateau's <ActivityItem>Fragment</ActivityItem> by searching in the morning.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem02_StepDescription
+Find the Forest of Valor's <ActivityItem>Fragment</ActivityItem> by searching at night.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem03_StepDescription
+Find the Glade of Trust's <ActivityItem>Fragment</ActivityItem> by searching at midday.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_ReadyDescription
+Bring the <ActivityItem>Sunstone Fragments</ActivityItem> to Mother Gothel.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Did you figure out what was in that picture?
+

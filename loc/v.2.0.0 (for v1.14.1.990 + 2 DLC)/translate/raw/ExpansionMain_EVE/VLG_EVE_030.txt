@@ -1,0 +1,102 @@
+TAG: Village!WallE!EVE!VLG_EVE_030_Any_CompletedRequestDescription
+Поговори с ЕВА.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_AvailableDescription
+ЕВА хочет показать тебе кое-что в её доме.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_CompletedStoryDescription
+Теперь, когда вы дали еду ЕВА, Кобра-Кобра должна вернуться к жизни, и маленький робот должен быть счастлив.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_DisplayName
+Директива: завод
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group01_Step01_VisitArea01_StepDescription
+Идите в дом ЕВА.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с ЕВА.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group03_Step03_Possess01_StepDescription
+<ActivityItem>Ancient Gears</ActivityItem> с часовым стеклом.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group03_Step03_Possess02_StepDescription
+<ActivityItem> Mechanical Parties</ActivityItem> усовершенствованы на станции крафтинга.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group03_Step03_Possess03_StepDescription
+<ActivityItem>Copper</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group03_Step03_StepDescription
+Соберите материалы:
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group03_StoryDescription
+Вы обнаруживаете загадочное растение, которое выглядит сухим и почти мёртвым и что ЕВА не может сканировать. Пора обновить её сканирование и вы решили помочь ей сделать это, проектировав аксессуары для сканера, вдохновленного Гаванью Древних, используя местные материалы.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group04_Step04_CraftItem01_StepDescription
+Подготовить акселератор <ActivityItem>Scanner</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group05_Step05_BringItem01_StepDescription
+Убедитесь, что <ActivityItem>Scanner Accessory</ActivityItem> в вашем списке.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group05_Step05_ReadyDescription
+Передайте <ActivityItem>Scanner Accessory</ActivityItem> ЕВА.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group06_OngoingRequestButton
+{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group06_Step06_Interaction01_StepDescription
+Проверьте <ActivityItem>Dreamlight Cobra Lily</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group06_StoryDescription
+Вы обнаруживаете, что загадочное растение на самом деле "Кобра-Кобра" и ЕВА действительно хотят его сохранить. Вам нужно взглянуть поближе, чтобы определить, что с этим делать.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group07_Step07_TalkToCharacter02_StepDescription
+Возвращайтесь на ЕВА.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group08_Step08_Possess04_StepDescription
+<ActivityItem> Sea Slail</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group08_Step08_Possess05_StepDescription
+<ActivityItem>Sand Worm</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group08_Step08_Possess06_StepDescription
+<ActivityItem>Scorpion</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group08_Step08_StepDescription
+Найти Ингредиенты:
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group08_StoryDescription
+Так как растение плотоядное, вы решили собрать тарелку Gourmet Grubs.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group09_Step09_CookMeal01_StepDescription
+Приготовить тарелку <ActivityItem>Gourmet Grubs</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group10_Step10_BringItem02_StepDescription
+Убедитесь, что <ActivityItem>Gourmet Grubs</ActivityItem> в вашем списке.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group10_Step10_ReadyDescription
+Передайте ЕВА <ActivityItem>Gourmet Grubs</ActivityItem>.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group11_Step11_VisitArea02_StepDescription
+Идите в дом ЕВА.
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!WallE!EVE!VLG_EVE_030_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!WallE!EVE!VLG_EVE_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

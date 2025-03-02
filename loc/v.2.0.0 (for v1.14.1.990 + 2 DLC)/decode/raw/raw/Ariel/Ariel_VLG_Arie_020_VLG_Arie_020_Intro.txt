@@ -1,0 +1,51 @@
+TAG: Ariel_020_f
+I've looked everywhere, but I can't find Eric. I really need your help.
+
+TAG: Player_001_choice_009_f
+What do you need?
+
+TAG: Player_001_choice_010_f
+I'll help you later.
+
+TAG: Ariel_000_f
+I've been asking everyone about Eric...
+
+TAG: Ariel_001_f
+...but no one seems to remember him but me.
+
+TAG: Ariel_002_f
+Nobody remembers Prince Eric?
+
+TAG: Player_001_choice_003_f
+*gasp!* How could anybody forget a prince?
+
+TAG: Player_001_choice_012_f
+I guess once you've seen one charming prince, you've seen them all.
+
+TAG: Ariel_014_f
+I don't know. Not even magic could make me forget Eric.
+
+TAG: Ariel_017_f
+Before I disappeared, he was trying so hard to protect us from the Forgetting. He told me he needed to go see someone.
+
+TAG: Ariel_004_f
+I wonder who he was talking about?
+
+TAG: Ariel_015_f
+Well, Merlin knows a lot about magic. Could you ask him?
+
+TAG: Ariel_005_f
+Oh, and Kristoff used to help Eric sometimes.
+
+TAG: Ariel_006_f
+And Maui's always on the Beach. Maybe he saw Eric?
+
+TAG: Ariel_016_f
+One of them has to know something.
+
+TAG: Ariel_003_f
+Well, there might be other princes, but no one is as kind as Eric.
+
+TAG: Ariel_019_f
+Please come back as soon as you can.
+

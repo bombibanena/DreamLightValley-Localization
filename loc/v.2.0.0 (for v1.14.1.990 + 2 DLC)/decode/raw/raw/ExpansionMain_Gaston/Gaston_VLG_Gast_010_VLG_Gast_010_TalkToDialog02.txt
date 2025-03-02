@@ -1,0 +1,75 @@
+TAG: Gaston_001_f
+Look at this place!
+
+TAG: Player_000_choice_000_f
+Yeah, it's pretty rough.
+
+TAG: Player_000_choice_001_f
+Bit of a fixer-upper, but not that bad.
+
+TAG: Player_000_choice_002_f
+Gaston, it looks terrible.
+
+TAG: Gaston_005_f
+Hey! Only I'm allowed to say that. But you're right...
+
+TAG: Gaston_016_f
+Well, first we need to clear out all this sand and do something about that portrait of mine.
+
+TAG: Gaston_002_f
+It's insulting for it to be in such a state!
+
+TAG: Gaston_017_f
+Try using your fancy Hourglass on it, and let me know when you're done.
+
+TAG: Player_001_choice_000_f
+You're not helping?
+
+TAG: Player_001_choice_001_f
+... Okay, I guess.
+
+TAG: Player_001_choice_002_f
+Sure!
+
+TAG: Gaston_008_f
+This will take a bit of work.
+
+TAG: Gaston_009_f
+Normally, I'd just tell LeFou to handle things...
+
+TAG: Gaston_010_f
+But?
+
+TAG: Gaston_011_f
+...
+
+TAG: Gaston_012_f
+Gaston? Hello?
+
+TAG: Gaston_013_f
+Oh, uh, what was I saying?
+
+TAG: Gaston_014_f
+Renovations.
+
+TAG: Gaston_015_f
+Right!
+
+TAG: Gaston_018_f
+I'm overseeing the work â that's helping!
+
+TAG: Gaston_021_f
+All right, time to get to work!
+
+TAG: Gaston_019_f
+A poor attitude doesn't make the work easier, {PlayerName}!
+
+TAG: Gaston_020_f
+Excellent, LeFâ err, I mean {PlayerName}.
+
+TAG: Gaston_006_f
+Just what I was thinking!
+
+TAG: Gaston_007_f
+... I don't often say that other people are right. But...
+

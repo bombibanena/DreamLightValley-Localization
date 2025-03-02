@@ -1,0 +1,564 @@
+TAG: CharacterMail!BeautyBeast!Beast_Mail001_Message
+{PlayerName}, I was walking through the Valley with Belle when she commented on how nice it would be to have a vegetable patch with a trellis or two. I found you the supplies to make such a thing if you wish. Of course, do with them what you will.
+
+TAG: CharacterMail!BeautyBeast!Beast_Mail001_MessageTitle
+For you.
+
+TAG: CharacterMail!BeautyBeast!Belle_Mail001_Message
+Oh {PlayerName}! I wanted to share a special recipe with you â the Gray Stuff. It was one of the kitchen's specialties at the Beast's Castle, and I just know you'll find it as delicious and enchanting as I do. I gathered all the Ingredients so you could make it on your own â of course, you can use them for whatever you like. I know you have a wonderful imagination!
+
+TAG: CharacterMail!BeautyBeast!Belle_Mail001_MessageTitle
+Something delicious.
+
+TAG: CharacterMail!BeautyBeast!Gaston_Mail001_Message
+{PlayerName}, I am riting you to send you some materials. I need you to make a crate I can climb on to adresse my admirers... Plasse it near Ainshents Landing. Or don't, I don't care. People love lissteningue to me anyway.
+
+TAG: CharacterMail!BeautyBeast!Gaston_Mail001_MessageTitle
+To my sidekik.
+
+TAG: CharacterMail!Brave!Merida!VLG010Mail_Message
+{PlayerName},<br><br>The Bind looks so much better, and there are a lot fewer Snippets bothering me too. I really appreciate it.<br><br>Oh, I forgot one last bit of advice from my dad... A day out tracking is always better when you've got someone grand to share it with.<br><br>Your friend,<br>Merida
+
+TAG: CharacterMail!Brave!Merida!VLG010Mail_MessageTitle
+Thanks for catching the Snippets!
+
+TAG: CharacterMail!Brave!Merida!VLG020_Message
+{PlayerName},<br><br>Flynn and I are already talking about our NEXT competition. We're going to see which of us can climb to the top of that statue of Hades in Mythopia and etch our names into it.<br><br>Flynn says he's a lot better at climbing things than he is at shooting arrows. For his sake, I hope that's true.<br><br>I'm looking forward to beating him at something else now.<br><br>Yours truly,<br>Merida
+
+TAG: CharacterMail!Brave!Merida!VLG020_MessageTitle
+Friendly competition...
+
+TAG: CharacterMail!Brave!Merida!VLG030Mail_Message
+{PlayerName},<br><br>This'll sound strange, but I'm almost glad that Hades stole my clan's treasure now. If he hadn't, I'd have never remembered my friendship with Mulan! She's been teaching me new maneuvers with a bo staff, and I've been giving her archery pointers. She's already very good, but I know a few tricks she doesn't.<br><br>Thank you again,<br>Merida
+
+TAG: CharacterMail!Brave!Merida!VLG030Mail_MessageTitle
+Connecting with old friends.
+
+TAG: CharacterMail!Brave!Merida!VLG040Mail_Message
+{PlayerName},<br><br>I can't stop thinking about all you've done for the Vale. When you showed up, it was so dark here, and there was ink everywhere. Now, the place feels like home. That festival made me so happy, and it made Mr. McDuck very happy too.<br><br>Signed,<br>Merida, proud daughter of Clan DunBroch
+
+TAG: CharacterMail!Brave!Merida!VLG040Mail_MessageTitle
+The festival was amazing!
+
+TAG: CharacterMail!Cinderella!FairyGodMother_Mail001_Message
+My dear, enclosed is a little token of my appreciation, to thank you for all of your hard work. This will allow you to make a beautiful basket of marigolds to add to the Village if you wish, or to keep for yourself. Whatever you think is best, child.
+
+TAG: CharacterMail!Cinderella!FairyGodMother_Mail001_MessageTitle
+An offer of flowers.
+
+TAG: CharacterMail!DreamlightValley!Forgotten_Mail001_Message
+Hey, {PlayerName}. I was wandering around the Valley looking for the best place to write poetry when I almost tripped on a tree root and fell on my face. After I wrote a haiku about falling, I found some stuff for you to make a road. Just an idea, or whatever...
+
+TAG: CharacterMail!DreamlightValley!Forgotten_Mail001_MessageTitle
+... Whatever.
+
+TAG: CharacterMail!DreamlightValley!Forgotten_SkullRock_Message
+Dear {PlayerName}, I've been trying to figure out what the deal is with Skull Rock on Dazzle Beach. It's taking me a little longer than I expected... I'm really sorry. I'm starting to remember some things, though. I think that we used to play inside of there with somebody. I just... I wish I could remember who! Whoever it was... do you think they might still be stuck inside?! I HAVE to figure this out. I'll let you know as soon as I find out more! Yours, the Forgotten
+
+TAG: CharacterMail!DreamlightValley!Forgotten_SkullRock_MessageTitle
+An Apology
+
+TAG: CharacterMail!Encanto!Mirabel_Mail001_Message
+Hola, {PlayerName}! I have a super fun project idea for you â something I think my cousin Antonio would approve of. Why not add some bird feeders around the Village to feed our feathered friends? I included some supplies in case you think this is a good idea. I'm sure whatever you use them for will be great!
+
+TAG: CharacterMail!Encanto!Mirabel_Mail001_MessageTitle
+Our feathery neighbors.
+
+TAG: CharacterMail!Encanto!Mirabel_Mail002_Message
+Hola {PlayerName}! I have great news! The Mystery Giver struck again. I found a beautiful bunch of flowers at my door! They're as pretty as the ones my sister Isabela grows. Anyway, I thought maybe you could take these and make some flower boxes for the Valley? Hasta luego, Mirabel
+
+TAG: CharacterMail!Encanto!Mirabel_Mail002_MessageTitle
+Mystery Giver news!
+
+TAG: CharacterMail!Expansion02!Mission!MRQS_E02_010_MeridaInvite_Message
+{PlayerName},<br><br>The Storybook Vale is in dire need of your aid. The Neverafter is upon us. The old magic is coming apart at the seams, and the Vale is bleeding ink. Worst of all, the great tales have become scattered! You, and only you, can clean up the mess that Maleficent and Hades have made.<br><br>I have sent a magical contraption to pick you up. It awaits you in the Stardust Port. If you're not sure where to find the Stardust Port, perhaps my old friend Merlin can assist you.<br><br>Simply take my invitation with you when you're ready for your adventure in the Storybook Vale to begin.<br><br>Yours, ever effervescently,<br>- The Keeper of the Lore
+
+TAG: CharacterMail!Expansion02!Mission!MRQS_E02_010_MeridaInvite_MessageTitle
+The Storybook Vale awaits...
+
+TAG: CharacterMail!Expansion02!Mission!VLG_Meri_040_TianaRecipe_Message
+Hey {PlayerName},<br><br>I found the recipe Merida was looking for. I left a few notes for some spices you can throw in for a little extra flavor. I couldn't resist! I hope Merida likes it.<br><br>And I sure am looking forward to the festival.<lw>See you soon,<br>Tiana
+
+TAG: CharacterMail!Expansion02!Mission!VLG_Meri_040_TianaRecipe_MessageTitle
+Merida's Recipe
+
+TAG: CharacterMail!Frozen!Anna_Mail001_Message
+Hey, {PlayerName}! I just found something kind of cool hidden in a stump in the Forest of Valor. It looks like somebody stashed a whole bunch of iron and brick there. I was thinking maybe you could use them to make a fence for your Plaza â or anywhere you need to protect your territories from the Weaseltons of the world. Or just use it for whatever! You're so creative. I'm sure you'll think of something.
+
+TAG: CharacterMail!Frozen!Anna_Mail001_MessageTitle
+Found something neat...
+
+TAG: CharacterMail!Frozen!Anna_Mail002_Message
+Dear {PlayerName}, do you have any idea who this Mystery Giver is? Everyone in the Village seems to be talking about it â except Mr. McDuck. Maybe he thinks they're silly for giving things away? I'll have to think about that. Anyway, the Mystery Giver left me Ingredients to make Hot Cocoa! It's the perfect drink to have before bed, after an exciting family game night or for breakfast... Actually, there's no BAD time for chocolate, right? Please enjoy! I have plenty. Sincerely, Anna
+
+TAG: CharacterMail!Frozen!Anna_Mail002_MessageTitle
+A mystery better than charades!
+
+TAG: CharacterMail!Frozen!Elsa_Mail001_Message
+{PlayerName}, I was practicing with my power in the Frosted Heights, and thought I could give you what I made as building material. With some stones, it might help you make a road up there to ease travel. That's only a suggestion â please do with it whatever you like. I love to see your creativity shine.
+
+TAG: CharacterMail!Frozen!Elsa_Mail001_MessageTitle
+Just an idea.
+
+TAG: CharacterMail!Frozen!Kristoff_Mail001_Message
+Hey {PlayerName}, I was wondering if it could be possible to add a tool rack to the Village in case anybody needs it? I gathered the materials in case you liked the idea. But it's up to you really...
+
+TAG: CharacterMail!Frozen!Kristoff_Mail001_MessageTitle
+Something useful.
+
+TAG: CharacterMail!Frozen!Kristoff_Mail002_Message
+Hey {PlayerName}, guess what? I got a gift from the Mystery Giver! Seems to be everything it takes to make a campfire. I've already got all the supplies I need, so I thought I'd share this with you. Stay warm, Kristoff
+
+TAG: CharacterMail!Frozen!Kristoff_Mail002_MessageTitle
+Gotta keep warm...
+
+TAG: CharacterMail!Frozen!Olaf_Mail001_Message
+{PlayerName}, as a being made of enchanted snow, there is nothing I love more than a day on the beach. I was sun bathing but I got bored SO I gathered up some things so you could make this special parasol and towel! Once you make them, you can decorate them however you like? Isn't that NEAT?
+
+TAG: CharacterMail!Frozen!Olaf_Mail001_MessageTitle
+Beach Day? Yay!
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail001_Message
+{PlayerName}, I found these while diving off the shore of Dazzle Beach. I already have some in my collection... Maybe you could use these to add a beautiful festive pennant to the Beach? Or whatever you like!
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail001_MessageTitle
+An interesting discovery!
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail002_Message
+Hi {PlayerName}! I can't believe how lucky I am! The Mystery Giver left me some softwood and stone. These are just what we need to make a small chest to hold a collection. Whoever it is, they're putting so much thought into these gifts: They must know how much I love collecting things â and sharing too! Please take some of what they gave me, so you can make a chest or anything else you'd like. See you soon, Ariel
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail002_MessageTitle
+A collector's dream come true!
+
+TAG: CharacterMail!LilMermaid!Eric_Mail001_Message
+{PlayerName}, I feel you and I are alike. We both appreciate storage â something you need plenty of on a ship when out at sea for months. With that in mind, I thought I'd send you some items I found while tidying up my ship â I think you could put them towards building a chest. Of course, I know you'll make good use of these supplies whatever you do.
+
+TAG: CharacterMail!LilMermaid!Eric_Mail001_MessageTitle
+A possible project?
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail001_Message
+Angelfish, don't be so surprised. I've got these little tokens for you. Use them as you will but if you listen to your poor dear Ursula, make a bookshelf for your lair... or keep it for something else. But remember that it was me who sent these materials to you out of the goodness of my heart.
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail001_MessageTitle
+A little gift, no strings attached.
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail002_Message
+{PlayerName}, you're the Mystery Giver, aren't you? This sort of over-the-top generosity seems right up your stream. If I'm right, you can take back your gifts and make yourself a nice Nautical Couch instead. I know better than to accept gifts out of the blue. You never get something for nothing, you know. Yours, Ursula
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail002_MessageTitle
+I'm onto you, angelfish.
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail001_Message
+Did you know coffee and chocolate are good? Stitch send you coffee & milk â add cocoa. So good!
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail001_MessageTitle
+COFFEE!!!!!!!!!!
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail002_Message
+{PlayerName}, Stitch share gift with you!!! Takka, Mystery Giver! You make COCONUT CAKE, yeah? Good. Bye, Stitch
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail002_MessageTitle
+Coconuts for Stitch!
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG010_Mail_Message
+{PlayerName}, thanks again for the Gingerbread Cookies, Toothbrush, and Toothpaste. Thanks to you, I can eat in Chez Remy whenever I want, and nobody leaves! I feel like my best bestest self thanks to you!<br><br>Your pal, Pumbaa.<br><br>(A small addendum from Merlin: I volunteered myself to take down dictation from Pumbaa and send some missives on his behalf. He was quite intrigued by the concept of "mail" and I was all too happy to lend him some assistance, as he has neither the capacity to write with his hooves, nor the knowledge of how to spell.)
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG010_Mail_MessageTitle
+Better Than Ever
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG020_Mail_Message
+{PlayerName}, I still can't believe you set up a real art show of all our pottery creations. The whole Village got to see my creative side. That's more than a jungle warthog could ever dream of!<br><br>Your pal, Pumbaa.<br><br>(Addendum from Merlin: Why, Pumbaa's pottery creations are quite impressive! I suppose you can teach an old warthog new tricks. Perhaps I ought to commission one for the Library...)
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG020_Mail_MessageTitle
+The Art Show
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG030_Mail_Message
+{PlayerName}, ever since we had fun chasing down our meteorite, I've had trouble sleeping. All I want to do is watch the skies as soon as the sun goes down. We live in a pretty beautiful place, don't we?<br><br>Your pal, Pumbaa.<br><br>(Addendum from Merlin: Our dear Pumbaa has the heart of a poet, doesn't he? I couldn't agree more. I myself have some trouble sleeping after the thrill of a new discovery!)
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG030_Mail_MessageTitle
+Meteors!!!
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG040_Mail_Message
+{PlayerName}, just wanted you to know that Simba, Timon, and me ate ALL the Night Mites at the banquet. Every last one. Thanks to your great skills, the Valley is safe and we had a big feast. If you ever feel like bug hunting again, can I come along?<br><br>Your pal, Pumbaa.<br><br>(Addendum from Merlin: Who could have predicted that Timon and Pumbaa would save the Valley with their voracious appetites? Of course, they were lucky to have a bit of help from the Ruler of Dreamlight Valley, weren't they?)
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG040_Mail_MessageTitle
+Night Mites
+
+TAG: CharacterMail!LionKing!Timon!Timo_RLM_010_WelcomeMail_Message
+{PlayerName},<br><br>We just wanted to say "congrats" to you again for completing your hakuna matata lessons. We ALSO wanted to thank you for freeing Pumbaa from the log, bringing us to this amazing Village, and reuniting us with our pals Simba and Nala. (Seriously, we're impressed.)<br><br>Your buddies, <br><br>Timon & Pumbaa
+
+TAG: CharacterMail!LionKing!Timon!Timo_RLM_010_WelcomeMail_MessageTitle
+You're the Best!
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG010_Mail_Message
+Hey, {PlayerName}!<br><br>Thanks again for helping me feel more at home. I still don't LOVE that Scar's roaming around, but I suppose I'll get used to it. And I think I'm developing a taste for ice cream! Your totally chill pal, Timon<br><br>(A small addendum from Merlin: As written language is not something Timon is familiar with, I have volunteered my services to transcribe this missive for him. Oh, and I too am quite fond of ice cream.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG010_Mail_MessageTitle
+Feeling Relaxed Already...
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG020_Mail_Message
+Dear {PlayerName},<br><br>That's how Merlin says you should start one of these things. Anyway, thanks again for helping make my slideshow such a success. Catching proof of Scar's sensitive side was the perfect twist in the end!<br><br>Your buddy,<br><br>Timon<br><br>(Addendum from Merlin: Perhaps I should lend the poetry club some examples from my library. They could, ahem... learn by example.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG020_Mail_MessageTitle
+Slideshow Success!
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG030_Mail_Message
+Hey, {PlayerName}!<br><br>As I predicted, my Timon Talks led to success! Sure, I may need to make some adjustments, but thanks to you, I now know what a true leader needs: a good friend.<br><br>Your pal,<br><br>Timon<br><br>(Addendum from Merlin: Timon is right. The value of friendship can never be underestimated.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG030_Mail_MessageTitle
+Feeling Like a Leader...
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG040_Mail_Message
+Hey {PlayerName},<br><br>I forgot to thank you for your help with those Night Mites! So, thanks! You really helped save the Valley there, pal. Of course, I did most of the leg work. But hey, we had a great feast to celebrate, and those Night Mites were delicious!<br><br>Your bug-hunting buddy,<br><br>Timon<br><br>(Addendum from Merlin: Though I can't attest to the deliciousness of the Night Mites, I can wholeheartedly second the gratitude for your valiant endeavors.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG040_Mail_MessageTitle
+Night Mite Nightmare!
+
+TAG: CharacterMail!Mickey!Daisy_Mail001_Message
+{PlayerName}, you and I think VERY much alike. Which is why I'm sure you agree that the Valley would look GREAT with the addition of a gazebo! Oh, I know it's ambitious, but I've gathered up some supplies to get you on your way! Of course, I know you'll find something wonderful to do with them no matter what. xoxo
+
+TAG: CharacterMail!Mickey!Daisy_Mail001_MessageTitle
+Feeling ambitious?
+
+TAG: CharacterMail!Mickey!Daisy_Mail002_Message
+Dear {PlayerName}, I've been investigating, and I've gathered the following clues about the Mystery Giver... They left a feather with Mickey, so they have to have oodles of money, and they must've been in the Valley a long time to know so many Villagers so well. Based on the things they left me, they clearly know what great taste I have in dÃ©cor! Maybe you can use this to make a gorgeous balloon arrangement for the Valley? I'll write if I learn more. xoxo, Daisy
+
+TAG: CharacterMail!Mickey!Daisy_Mail002_MessageTitle
+We've almost solved it...
+
+TAG: CharacterMail!Mickey!Donald_Mail001_Message
+Hey, {PlayerName}! I was fishin' last night on Dazzle Beach. It was real dark and I thought, "HEY! Wouldn't this look real pretty all lit up?" I even found some supplies to make a couple of torches â maybe that's silly or maybe you like it? Anyway, do whatever you want; you've got great ideas!
+
+TAG: CharacterMail!Mickey!Donald_Mail001_MessageTitle
+Whaddaya think?
+
+TAG: CharacterMail!Mickey!Goofy_Mail001_Message
+Say, {PlayerName}, I was just thinkin' about trellis arches. There's nothin' in the world like a well-built trellis arch, ya know? I think one in the middle of the Meadow would be just perfect â maybe close to a garden or pond. I gathered up some stuff if ya wanna make one! Or make whatever ya like.
+
+TAG: CharacterMail!Mickey!Goofy_Mail001_MessageTitle
+New project for ya!
+
+TAG: CharacterMail!Mickey!Goofy_Mail002_Message
+Howdy {PlayerName}, the Valley Mystery Giver surprised me with some tasty seafood and veggies that are perfect for a Bouillabaisse! I already caught plenty of fish today and don't want it to go bad, so I'm giving the gift to you. Whoever it is sure has some fancy taste, huh? Bye for now, Goofy
+
+TAG: CharacterMail!Mickey!Goofy_Mail002_MessageTitle
+Gawrsh, what a gift!
+
+TAG: CharacterMail!Mickey!Mickey_Mail001_Message
+Hey, {PlayerName}! I love giving treats to my pals, and you are ONE great pal! I know you're a real hands-on kinda person, so I thought I'd send you some Ingredients for fresh-baked Chocolate Chip Cookies â just don't forget to get some Wheat to round out the recipe. They're a hit at every picnic I bring 'em to! Let me know whatcha think!
+
+TAG: CharacterMail!Mickey!Mickey_Mail001_MessageTitle
+Thought you might enjoy!
+
+TAG: CharacterMail!Mickey!Mickey_Mail002_Message
+Hiya pal! I got a present from the Mystery Giver! They left a basket of raspberries and a white feather right on my doorstep. Think this could be a clue? Anyway, I just went raspberry picking, so now I've got too many! Maybe you can take these and make a pie with them. Or anything else you'd like. See ya real soon, Mickey
+
+TAG: CharacterMail!Mickey!Mickey_Mail002_MessageTitle
+A Mystery Giver clue!
+
+TAG: CharacterMail!Mickey!Minnie_Mail001_Message
+{PlayerName}, I've seen you running around the Valley lately and you must be getting awfully hungry. I decided to make you a pie! But then I couldn't figure out what kind of pie to make you... so I thought I'd just give you all the Ingredients you need and let YOU decide! Never forget: You're special to all of us.
+
+TAG: CharacterMail!Mickey!Minnie_Mail001_MessageTitle
+A special treat just for you!
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_Mail002_Message
+Dear {PlayerName}, I'm sure you've figured it out already, but aye, I'm the Mystery Giver. I think some of the Villagers are onto me by now. I'll just say that sometimes I want to share my wealth without taking credit. And here's a little something for you for keeping my secret and for being the most giving person in the Valley by a mile! Sincerely, Scrooge McDuck
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_Mail002_MessageTitle
+Aye, it's me!
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_Message
+Dear {PlayerName}, as of late I've had balloon arches on the brain. Not only do they draw customers in, they also look great at any celebration. I thought I'd send along some supplies if you were getting ready for anything special soon â you've done so much for the Valley; it's the least I could do. I've sent along something to get you started on a balloon arch of your own! I trust you'll make good use of them however you can.
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_MessageTitle
+Feel like celebrating?
+
+TAG: CharacterMail!Moana!Maui_Mail001_Message
+{PlayerName}, I woke up this morning thinking about all the hard work you do for the Village. You remind me of me â seriously! I thought some special fishing bait might make it a little easier to get your catch of the day. I've gathered up stuff to get you started â but had a hard time tracking down the Dreamlight. Of course, you could use these supplies for OTHER elixirs or whatever you want. It's your day â go seize it!
+
+TAG: CharacterMail!Moana!Maui_Mail001_MessageTitle
+For a legend!
+
+TAG: CharacterMail!Moana!Moana_Mail001_Message
+{PlayerName}, I thought it could be nice to have a fire bowl made of granite on the Beach. A little easier to keep going than a campfire, and a place the Villagers could gather to sing songs and tell stories! I gathered some supplies to get you started. What do you think?
+
+TAG: CharacterMail!Moana!Moana_Mail001_MessageTitle
+For the Beach.
+
+TAG: CharacterMail!MonstersInc!MikeWazowski_Message
+Because it was licked! HAHA! Just a nice little joke for you. Also, happened to notice you might need a little more storage around here, so Sulley and I scrounged up the stuff to build a brand-new chest. Well... Mostly. You still gotta add the Dreamlight. We weren't sure where to find that stuff! Anyway â enjoy!
+
+TAG: CharacterMail!MonstersInc!MikeWazowski_MessageTitle
+Why did the envelope lose its fight?
+
+TAG: CharacterMail!MonstersInc!Sulley_Mail001_Message
+Hey {PlayerName}, yesterday evening I was gathering some Ingredients for a sushi party when I asked myself, "You know who would probably like some sushi? My old friend {PlayerName}." So here are some extra Ingredients I got for you. Enjoy.
+
+TAG: CharacterMail!MonstersInc!Sulley_Mail001_MessageTitle
+Something fishy.
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail001_Message
+{PlayerName}, I've come upon an amazing opportunity to add a little bit of the Halloween spirit to the Village all year round. I already took the liberty of gathering the materials. You might use them to make a monstrous decoration and add it anywhere you want in the Valley for a scary surprise. How fun!
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail001_MessageTitle
+An eerie suggestion!
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail002_Message
+Dear {PlayerName}, a mysterious someone is leaving gifts for everyone in the Valley! Just like my old friend Sandy Claws! I feel newly inspired to share in the giving spirit thanks to this benevolent benefactor. They gifted me these marvelous snowballs. And I want YOU to take them along with this carrot, fabric, and some pebbles to make a snowman! How fun! Your friend, Jack Skellington
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail002_MessageTitle
+What's this?
+
+TAG: CharacterMail!Oswald!Oswald_Mail001_Message
+Ho there, {PlayerName}! I was thinkin' about how we could get the Valley into shape â or should I say SHAPES? Why not shake things up with some geometric garden beds with black and white flowers? I think that'd be swell. I even gathered up all the stuff so you can get right to business. Of course, you can use them for whatever you like. It's your Valley, after all.
+
+TAG: CharacterMail!Oswald!Oswald_Mail001_MessageTitle
+Getting this place in shape...
+
+TAG: CharacterMail!Oswald!Oswald_MailClockCritter_Message
+{PlayerName}, how do, chum?! I know ya said to cool it with winding up the clock tots, but ol' Charleston couldn't keep his toes from tappin', so I let him loose! He's a swell chap and real keen to cut a rug with you on your capers. Take good care of him! Your friend, Oswald
+
+TAG: CharacterMail!Oswald!Oswald_MailClockCritter_MessageTitle
+It's About Time!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG010Mail_Message
+I've been thinking about my daddy and how he taught me that the most important thing you can do with food is share it with your community. You helped me with that, and now I feel closer to both his memory and the folks in the Valley.
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG010Mail_MessageTitle
+It's so good to be back.
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG020Mail_Message
+Little Louis is so happy in his new home. And I think he's finally learned to stay clear of Mother Gothel. Thank you again for helping me save him!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG020Mail_MessageTitle
+Little Louis says thank you!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_KristoffWin_Message
+Maybe it's because Cajun food is so new to him, but he has some really out-of-the-box ideas. I sure hope he keeps trying new ideas in the kitchen!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_KristoffWin_MessageTitle
+Kristoff is surprisingly creative!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_Message
+I've never seen anyone so excited to learn a new cuisine! She's already made shrimp po'boys, and she's on her way to perfecting the muffuletta. If I was looking for someone to be excited about cooking, Anna was definitely the right pick for the contest!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_MessageTitle
+Anna is so happy!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_MikeWon_Message
+I still don't know how he got those vegetables to ferment for the seafood boil. And I can't put my finger on the special ingredients he added to his okra soup. Think I'll check with Remy to see if he has any ideas.
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_MikeWon_MessageTitle
+Mike's approach was so unusual!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG040Mail_Message
+I'm so happy I got to share one of my New Orleans traditions with everyone here. I know Naveen'll be sorry he missed it. He'd have brought his ukulele and spent the whole time playing jazz with Stitch!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG040Mail_MessageTitle
+The parade was peachy keen!
+
+TAG: CharacterMail!Ralph!Vanellope_Mail001_Message
+{PlayerName}, have you had Jam Waffles before? JAM. WAFFLES. They're SO delicious! I've included all the Ingredients you need â just add ANY fruit, cook, and DEVOUR. (Or do whatever you want with them; I'm not your boss.)
+
+TAG: CharacterMail!Ralph!Vanellope_Mail001_MessageTitle
+This is my JAM!
+
+TAG: CharacterMail!Ralph!Vanellope_Mail002_Message
+Hey {PlayerName}! So this Mystery Giver left me some cool gemstones! But I already got a pretty big collection of gems and shiny junk from spelunking in the Valley. So, I wanted to share 'em with you. The Mystery Giver must be some kinda rich to be handing out gems huh? Catch ya later, Vanellope
+
+TAG: CharacterMail!Ralph!Vanellope_Mail002_MessageTitle
+Check out this treasure!
+
+TAG: CharacterMail!Ratatouille!Remy!SEC020Mail_Message
+I just spotted what looks like a cookbook in the Glade of Trust! It was a little big for me to pick up and move around, but if you grab it, I bet we can find some interesting recipes in it!
+
+TAG: CharacterMail!Ratatouille!Remy!SEC020Mail_MessageTitle
+A culinary development!
+
+TAG: CharacterMail!Ratatouille!Remy_Mail001_Message
+{PlayerName}, fishing this morning, Donald brought me this beautiful Walleye. I think it would cook into a fantastic Walleye en Papillote. Give it a try â don't forget the fresh Oregano and a vegetable too! Bon appÃ©tit!
+
+TAG: CharacterMail!Ratatouille!Remy_Mail001_MessageTitle
+Catch of the Day!
+
+TAG: CharacterMail!Ratatouille!Remy_Mail002_Message
+Hey {PlayerName}, someone left me an unexpected gift at the restaurant, and I have no idea who it came from! Have you heard anything about this? While I appreciate the gift, I've got more soya and wheat than I need now. Maybe you could make some vegetarian dumplings? Just remember to add the vegetables! Bon appÃ©tit! Remy
+
+TAG: CharacterMail!Ratatouille!Remy_Mail002_MessageTitle
+The Mystery Giver struck again!
+
+TAG: CharacterMail!Ratatouille!RemySpecialDeliveries_Compensation_Message
+{PlayerName}, I just managed to get a big discount on Wrought Iron! I'll be able to give you a lot more of it for each daily delivery from now on. It'll be a little easier to make tables and chairs now too, since this stuff is higher quality. And hey, I also threw in some Star Coins for you for your troubles! Can't wait to see what you make.
+
+TAG: CharacterMail!Ratatouille!RemySpecialDeliveries_Compensation_MessageTitle
+More Wrought Iron for You!
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail001_Message
+{PlayerName}, I've noticed that the grounds around the Dreamlight Library could perhaps look a tad more inviting. Decorating is not my forte... but I've assembled some materials that you ought to be able to make something out of. Might I suggest making some colorful lampposts for placement near the Library? It's up to you, of course.
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail001_MessageTitle
+A small request.
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail002_Message
+Dear {PlayerName}, I have been visited by a mysterious benefactor! Someone left a small package of precious gems for me in my Library. Little did they know, they gave me something much more valuable: a mystery! Please take these gems for your purposes, as I've no immediate use for them. Who could this Mystery Giver be? Most sincerely, Merlin
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail002_MessageTitle
+A mystery to solve...
+
+TAG: CharacterMail!Tangled!Flynn!Flyn_SEC_Message
+{PlayerName},<br><br><lw>Thank you for helping Rapunzel and me find our way back to each other. As soon as I saw her face, everything was just... better. It's so nice to have things finally back to normal.<br><br><lw>Forever grateful, Eugene
+
+TAG: CharacterMail!Tangled!Flynn!Flyn_SEC_MessageTitle
+Grateful for our reunion.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn010_mail_Message
+{PlayerName},<br><br><lw>Thanks again for taking care of that Frog Snippet problem! At least that's ONE thing I don't have to worry about anymore.<br><br><lw>Your friend, Flynn Rider
+
+TAG: CharacterMail!Tangled!Flynn!Flyn010_mail_MessageTitle
+Finally, a break from the Frog Snippets!
+
+TAG: CharacterMail!Tangled!Flynn!Flyn020_mail_Message
+{PlayerName},<br><br>I'm still coming to terms with those memories we recovered, but I am grateful to have them back. Thanks for helping me find them.<br><br><lw>See you around, Flynn
+
+TAG: CharacterMail!Tangled!Flynn!Flyn020_mail_MessageTitle
+Happy to remember again.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn030_mail_Message
+{PlayerName},<br><br><lw>Finally! I feel like I'm my old dashing self again! This heist really got my adrenaline going, you know? And on top of that, my name is finally cleared. Thank you so much for your help with all of it! Couldn't have done it without you!<br><br><lw>Your friend, Flynn
+
+TAG: CharacterMail!Tangled!Flynn!Flyn030_mail_MessageTitle
+What a heist!
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_Message
+{PlayerName}!<br><br><lw>The book launch was a total success. So many Villagers have already told me they love the stories! I can definitely get used to this!<br><br><lw>- Flynn â now also known as "Eugene"
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_MessageTitle
+Book launch SUCCESS.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_rapunzel_Message
+{PlayerName},<br><br><lw>My book launch was a success! I've gotten so many compliments on my heroic adventures and Belle's incredible writing. I'm hoping Rapunzel might be interested in reading my book. Do you think you could bring her a copy?<br><br><lw>Thanks my friend,<lw>Eugene
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_rapunzel_MessageTitle
+I need to tell someone special about my book.
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail001_Message
+{PlayerName}, are you feeling run down? I couldn't help but notice the Village was looking a little tired, dear. I'm concerned! I thought perhaps you could liven things up with some flower beds to improve the look of the village. Of course you'll have to pick the blooms, but I can't do everything around here, can I?
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail001_MessageTitle
+I have thoughts.
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail002_Message
+Dear {PlayerName}, when I heard there was a mysterious gift giver in the Valley, I knew it was only a matter of time before I'd find a package on my doorstep. It wouldn't be my first secret admirer, unlike you. Oh, I'm just teasing! Well, I was given these materials and have no idea what to do with all this coal. But I do know you like to cook. I'm sure my admirer will soon remember that FLOWERS are far more appropriate. Your acquaintance, Mother Gothel
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail002_MessageTitle
+I have a secret admirer!
+
+TAG: CharacterMail!Tangled!Rapunzel_Mail001_Message
+Hi {PlayerName}! I was just thinking about how great it would be for you to have a nice big table to work on. It would be good for art, or cooking or... well, ANYTHING! That's why I found you a bunch of materials to make a beautiful new table. Use it for whatever you like, but I just know it would look great in your home!
+
+TAG: CharacterMail!Tangled!Rapunzel_Mail001_MessageTitle
+For your art?
+
+TAG: CharacterMail!ToyStory!Buzz_Mail001_Message
+Hey, Space Ranger! Have you considered adding more Crafting Stations around the Valley for easier access to your tools? I think it would be a game changer for your various projects. I scraped together a few supplies for another Crafting Station in case you agree and want to get started. Do whatever you want with them â just a suggestion of course!
+
+TAG: CharacterMail!ToyStory!Buzz_Mail001_MessageTitle
+Your next mission.
+
+TAG: CharacterMail!ToyStory!Woody_Mail001_Message
+Howdy, partner! I've been exploring Dreamlight Valley and gathered up some special materials for ya! They'll help you to craft a nifty ball you can place anywhere in the Valley, and help bring a little more fun to the place. Or keep 'em â every cowboy surviving in the wild learns when to use resources and when to keep 'em in their satchel...
+
+TAG: CharacterMail!ToyStory!Woody_Mail001_MessageTitle
+For my favorite deputy.
+
+TAG: CharacterMail!ToyStory!Woody_Mail002_Message
+Howdy {PlayerName}! By now you must've heard about this Mystery Giver sending gifts to everyone. Turns out today's my lucky day! Someone left a whole lot of wood at my place. Gotta hand it to 'em, that's pretty clever, considering my name's Woody. Anyway, I thought about using it to make ANOTHER toy box, but I figured you could build some new furniture instead. Hope it comes in handy. Your pal, Woody
+
+TAG: CharacterMail!ToyStory!Woody_Mail002_MessageTitle
+Who could it be?
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail001_Message
+{PlayerName},<br><br>Should you require additional information, I shall continue my research within my Palace Laboratory. Though I have a dearth of scientific instruments, limitations will hopefully inspire creativity.<br><br>Most humbly,<br><br>Jafar
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail001_MessageTitle
+Research Ongoing
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail002_Message
+{PlayerName},<br><br>I am most pleased with how you aided my experiment! I am now satisfied that with an assistant such as yourself, we will discover much that is currently hidden about Eternity Isle.<br><br>Yours in discovery,<br><br>Jafar
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail002_MessageTitle
+A Bright Future for All!
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail003_Message
+{PlayerName},<br><br>Much may be learned from failure, and if we gain vital knowledge, did we even really fail? I have something interesting to pursue and must thank you for your assistance.<br><br>Yours gratefully,<br><br>Jafar
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail003_MessageTitle
+Lessons in Unexpected Places
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail004_Message
+{PlayerName},<br><br>You have destroyed my laboratory and thwarted my plans. You may think me powerless now and forced to rely on your goodwill. If that were the case, it would indeed be humiliating. But I assure you, it is not.<br><br>Till we meet again,<br><br> Jafar
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail004_MessageTitle
+Surely We Can Come to an Agreement?
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail005_Message
+{PlayerName},<br><br>Though I objected to much of the court proceedings, I must admit that you were impartial enough to consider possibly exonerating evidence. For that (and nothing else), you have my thanks.<br><br>Sincerely,<br><br> Jafar
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail005_MessageTitle
+I Must Admit Your Impartiality
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail006_Message
+{PlayerName},<br><br>It takes great strength to forgive one's adversaries. Considering your recent actions, I intend to delay certain plans... for now.<br><br>Sincerely,<br><br>Jafar
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail006_MessageTitle
+Ongoing Village Relations
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG010Mail_Message
+Listen, normally I wouldn't reward a minion when they give me something that blows up in my face, but maybe let's try to start things on the proper foot. Take this reward; don't spend it all in one place!
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG010Mail_MessageTitle
+For a good mortal.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG020Mail_Message
+Another day, another drachma! Maybe I let my temper get the better of me, but I can appreciate when a worshipper does me a solid and stops a fire from getting out of hand. Here â from me to you.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG020Mail_MessageTitle
+From manager to minion.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG030Mail_Message
+Why didn't you warn me that being a celebrity is hard work?! Still, it was nice to have people surrounding me without clamoring about what they want from me. So, here, a little reward for you.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG030Mail_MessageTitle
+Your fav celebrity checking in!
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG040Mail_Message
+I suppose I should be angry at you for not warning me that I was inviting ingrates to my party, but in the end it did remind me that I'm the Lord of the Underworld and I should be proud of that! In return, have this token of my divine favor.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG040Mail_MessageTitle
+Going back to my roots!
+
+TAG: Request!Secret!Flynn!SEC_Flyn_010_FlynnBook_Message
+{PlayerName},<br><br>My book launch was a success! I've gotten so many compliments on my heroic adventures and Belle's incredible writing. I'm hoping Rapunzel might be interested in reading my book. Do you think you could bring her a copy?<br><br><lw>Thanks my friend,<br><br><lw>Eugene
+
+TAG: Request!Secret!Flynn!SEC_Flyn_010_FlynnBook_MessageTitle
+I need to tell someone special about my book.
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_GoofyBusinessCard_Message
+Hiya pal! I heard Flynn Rider was looking for someone to publish his book! I think I could do an awful good job at that. Here's my business card if you're interested. Your buddy, Goofy.
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_GoofyBusinessCard_MessageTitle
+I'd love to publish Flynn's book!
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_ScroogeBusinessCard_Message
+Hello there, {PlayerName}! I'd like to propose a deal. Choose me to publish Mr. Rider's book and I'll guarantee great sales! Take this business card of mine while you consider. Signed, Scrooge McDuck.
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_ScroogeBusinessCard_MessageTitle
+Let's work together to publish Flynn's book.
+
+TAG: Request!Village!Hades!VLG_Hade_030_Mail_Message
+No time to rest, {PlayerName}! As an excellent manager, I've arranged an endorsement deal for Hades with Goofy. I'll be in touch with more details later, but for now I need you to craft a Hades Kiosk so he has somewhere to address the public â I've attached a list of the resources you'll need to gather.
+
+TAG: Request!Village!Hades!VLG_Hade_030_Mail_MessageTitle
+TASK FOR YOU
+

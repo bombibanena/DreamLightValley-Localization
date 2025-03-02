@@ -1,0 +1,81 @@
+TAG: Sully_000_f
+Hey, {PlayerName}! I've been thinkin' about a pretty fun project. It would be great if you could be involved.
+
+TAG: Player_000_choice_000_f
+I can't wait to hear about your new project!
+
+TAG: Player_000_choice_002_f
+I can't, sorry.
+
+TAG: Sully_002_f
+What class are you teaching this time?
+
+TAG: Sully_004_f
+Nope. Not a class... It's a scavenger hunt! And I could really use your help organizing it.
+
+TAG: Player_001_choice_000_f
+It would be my pleasure!
+
+TAG: Player_001_choice_001_f
+Does every Villager participate?
+
+TAG: Player_001_choice_002_f
+But I wanted to participate!
+
+TAG: Sully_005_f
+Thanks, {PlayerName}! And thanks for the enthusiasm!
+
+TAG: Sully_009_f
+I thought of a few Villagers who seem like they might be... well, young at heart.
+
+TAG: Sully_010_f
+Could ya ask 'em for me while I hide the rest of the clues?
+
+TAG: Sully_011_f
+Sure! Who did you have in mind?
+
+TAG: Sully_012_f
+Stitch, Vanellope, Olaf, and Donald.
+
+TAG: Player_002_f
+Donald seems like an outlier but...
+
+TAG: Player_002_choice_000_f
+We're all children at heart.
+
+TAG: Player_002_choice_001_f
+He will be our control group.
+
+TAG: Player_002_choice_002_f
+He can throw tantrums like a kid.
+
+TAG: Sully_013_f
+Yeah, that's what I thought, too.
+
+TAG: Sully_014_f
+Someone in the hunt with a short fuse could be a good thing. We'll know right away if it's too frustrating.
+
+TAG: Sully_016_f
+You can invite Donald if you like, or not. I trust your judgment.
+
+TAG: Sully_017_f
+All right, I'll go recruit our scavengers!
+
+TAG: Sully_018_f
+Thanks, {PlayerName}!
+
+TAG: Sully_015_f
+Well, he does really want things to be fair. Anyway...
+
+TAG: Sully_006_f
+Maybe someday. But I think we gotta start small. For the first time, let's have just a few participants.
+
+TAG: Sully_007_f
+And you totally can!
+
+TAG: Sully_008_f
+The help I'm hoping for is gonna put you right in the center of the action.
+
+TAG: Sully_003_f
+No worries. Hope you'll come back when ya can.
+

@@ -1,0 +1,36 @@
+TAG: Minnie_000_f
+Yoo-hoo, {PlayerName}! I've been thinking about all the wonderful work you do.
+
+TAG: Minnie_007_f
+It's so kind of you, but I think you could use some help.
+
+TAG: Minnie_008_f
+So, I think it's time we put the Cheerful Chums Club back together!
+
+TAG: Player_000_choice_000_f
+What's the Cheerful Chums Club?
+
+TAG: Player_000_choice_002_f
+I'll be back! I'm busy!
+
+TAG: Minnie_009_f
+Oh, I thought I'd mentioned it to you. The club was a group of Villagers.
+
+TAG: Minnie_002_f
+We made sure everyone in the Village had what they needed.
+
+TAG: Minnie_003_f
+It was a lot like what you do.
+
+TAG: Minnie_004_f
+Before the Forgetting, we used to hold secret meetings in the swamp.
+
+TAG: Minnie_001_f
+(We usually held those secret meetings to plan surprise parties! *giggle*)
+
+TAG: Minnie_005_f
+We even had our own banner! Hmm... I wonder if there's anything left of it...
+
+TAG: Minnie_006_f
+Busy being helpful, if I were to guess. {PlayerName}, make sure to rest sometimes!
+

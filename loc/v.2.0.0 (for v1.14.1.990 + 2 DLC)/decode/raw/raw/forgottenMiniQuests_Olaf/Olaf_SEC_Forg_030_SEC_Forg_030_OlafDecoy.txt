@@ -1,0 +1,66 @@
+TAG: Olaf_000_f
+Hey, Olaf... you're nervous about getting older, right?
+
+TAG: Olaf_001_f
+Nervous? No! I can't wait to be older!
+
+TAG: Olaf_002_f
+When you're ancient, so much more makes sense.
+
+TAG: Olaf_003_f
+I'm hoping that someday everyone will think of me as... (ahem)... Olaf the Wise!
+
+TAG: Olaf_004_f
+Well, I'm trying to find someone nervous about growing older who can help the Forgotten with a poem.
+
+TAG: Player_000_choice_000_f
+Did you want to try to help anyway?
+
+TAG: Player_000_choice_001_f
+Sounds like you're not the Villager I need. See you around!
+
+TAG: Olaf_005_f
+Sure! Tell me the poem! I'd love to help.
+
+TAG: Olaf_006_f
+<Lore>As I watch the clock tick and the sun rise and set...</Lore>
+
+TAG: Olaf_007_f
+<Lore>I fear what I love, I am doomed to forget.</Lore>
+
+TAG: Olaf_008_f
+<Lore>But I've never been one to do what I'm told...</Lore>
+
+TAG: Olaf_009_f
+<Lore>...a warm hug can melt a heart that's gone cold!</Lore>
+
+TAG: Olaf_010_f
+What do you think?
+
+TAG: Player_001_choice_000_f
+Brilliant!
+
+TAG: Player_001_choice_001_f
+Aw, Olaf!
+
+TAG: Player_001_choice_002_f
+Bit cheesy, isn't it?
+
+TAG: Olaf_011_f
+I'm glad you like it.
+
+TAG: Olaf_012_f
+You warmed my heart, but... it's not really the Forgotten's style.
+
+TAG: Olaf_013_f
+I guess I'll just have to keep looking for <Lore>someone worried about growing older</Lore>...
+
+TAG: Olaf_014_f
+I prefer to think of it as sincere!
+
+TAG: Olaf_015_f
+It definitely is... coming from you. But it's just not really the Forgotten's style.
+
+TAG: Olaf_016_f
+Bye, {PlayerName}! If the Forgotten needs any help with fun facts... I could definitely help with that!
+

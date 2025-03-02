@@ -1,0 +1,54 @@
+TAG: Mirabel_000_f
+That's it! The tablecloth... for the <ActivityItem>Madrigal Table</ActivityItem>. I remember now!
+
+TAG: Mirabel_001_f
+Moana, Anna, Elsa and I... We were such good friends. We spent so much time together. It was amazing!
+
+TAG: Mirabel_002_f
+Moana reminded me of my sister Luisa. She's always so strong and protective.
+
+TAG: Mirabel_003_f
+What about Anna and Elsa?
+
+TAG: Mirabel_004_f
+Well, I have a lot in common with Anna. We both have sisters who have magical gifts, and we don't. Plus, we both like making sure everyone is happy.
+
+TAG: Mirabel_005_f
+And Elsa... At first I thought she was a bit of a seÃ±orita perfecta like Isabela used to be. But she's so nice once you get to know her.
+
+TAG: Mirabel_006_f
+We would gather around my <ActivityItem>Madrigal Table</ActivityItem> for parties or go on adventures. We had such a good time.
+
+TAG: Mirabel_007_f
+I wish it were still like that. The Forgetting... it took away so much.
+
+TAG: Player_000_f
+Let's start by recreating the moment in the Memory...
+
+TAG: Player_000_choice_000_f
+It'd be so cute.
+
+TAG: Player_000_choice_001_f
+Where do you propose we start?
+
+TAG: Player_000_choice_002_f
+I'll bet there's some spark left of all that friendship.
+
+TAG: Mirabel_008_f
+Oh, I'd love that!
+
+TAG: Mirabel_009_f
+But we'd need the <ActivityItem>Madrigal Table</ActivityItem> to do that... And I haven't seen it anywhere since I got back to the Village.
+
+TAG: Mirabel_010_f
+The Memory took place on the Beach. Maybe I could find some clue about what happened there.
+
+TAG: Mirabel_011_f
+Well, I suppose we could start by searching for the <ActivityItem>Madrigal Table</ActivityItem>... But I haven't seen it anywhere since I got back.
+
+TAG: Mirabel_012_f
+Oh, I'm sure there is!
+
+TAG: Mirabel_013_f
+Hmm... But how would we recreate the Memory...
+

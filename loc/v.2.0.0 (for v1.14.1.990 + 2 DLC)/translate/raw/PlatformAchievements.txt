@@ -1,0 +1,96 @@
+TAG: AnglerDesc
+Истребуйте вознаграждение за"Вылов 1 800 рыб"задача
+
+TAG: AnglerName
+Англер
+
+TAG: BankerDesc
+Истребуйте вознаграждение за"Сбор 1 800 000 звёздных монет"задача
+
+TAG: BankerName
+Банкир
+
+TAG: BestestFriendDesc
+Истребуйте вознаграждение за"Иметь 15 лучших друзей"задача
+
+TAG: BestestFriendName
+Лучший друг
+
+TAG: ChefCookDesc
+Истребуйте вознаграждение за"Приготовить 900 еды"задача
+
+TAG: ChefCookName
+Оу, шеф!
+
+TAG: ChitChatterDesc
+Истребуйте вознаграждение за"Начать 1000 ежедневных дискуссий"задача
+
+TAG: ChitChatterName
+Шит-болтовня
+
+TAG: ConstructorDesc
+Истребуйте вознаграждение за"Полностью усовершенствовать дом игрока"задача
+
+TAG: ConstructorName
+Строитель
+
+TAG: DreamlightMasterDesc
+Истребуйте вознаграждение за"Завершить все трофеи"задача
+
+TAG: DreamlightMasterName
+Мастер мечты
+
+TAG: DutyBoundDesc
+Истребуйте вознаграждение за"Выполнение 1 100 обязанностей, связанных с светом мечты"задача
+
+TAG: DutyBoundName
+Обязанность
+
+TAG: GardenerDesc
+Истребуйте вознаграждение за"Заготовка 4500 овощей"задача
+
+TAG: GardenerName
+Садовник
+
+TAG: GenerousDesc
+Истребуйте вознаграждение за"Отдай 540 подарков"задача
+
+TAG: GenerousName
+Щедрость
+
+TAG: GoofyInvestorDesc
+Истребуйте вознаграждение за"Откройте все Гуфи Stalls"задача
+
+TAG: GoofyInvestorName
+Гуфи Инвестор
+
+TAG: MinerDesc
+Истребуйте вознаграждение за"Мины 1800 раз"задача
+
+TAG: MinerName
+Минер
+
+TAG: PhotographerDesc
+Истребуйте вознаграждение за"Сфотографируй 50 раз."задача
+
+TAG: PhotographerName
+Фотограф
+
+TAG: RenovatorDesc
+Истребуйте вознаграждение за"Построить 30 домов для друзей"задача
+
+TAG: RenovatorName
+Реконструктор
+
+TAG: ThornCleanerDesc
+Истребуйте вознаграждение за"Удалить 3 000 ночных торнов"задача
+
+TAG: ThornCleanerName
+Очиститель торна
+
+TAG: ValleyHelperDesc
+Истребуйте вознаграждение за"Отключить все биомы"задача
+
+TAG: ValleyHelperName
+Помощник Вэлли
+

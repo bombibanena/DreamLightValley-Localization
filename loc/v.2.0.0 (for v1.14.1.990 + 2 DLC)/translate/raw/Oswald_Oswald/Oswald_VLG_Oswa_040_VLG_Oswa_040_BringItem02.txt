@@ -1,0 +1,48 @@
+TAG: Oswald_002_f
+Эй Освальд, я нашла эту шляпу.
+
+TAG: Oswald_003_f
+Ох, это, конечно, вернёт меня...
+
+TAG: Oswald_004_f
+Вот, надень, ты выглядишь очень остроумно.
+
+TAG: Oswald_005_f
+Ладно, теперь мы можем перейти к важной части: построить тележку и дом!
+
+TAG: Player_000_choice_000_f
+Звучит здорово!
+
+TAG: Player_000_choice_001_f
+Это... дом?
+
+TAG: Oswald_006_f
+Сначала нам понадобится <ActivityItem>Trolley Tracks</ActivityItem>.
+
+TAG: Oswald_009_f
+Вы можете сделать их с <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem>Plastic Scraps</ActivityItem>, и <ActivityItem>Copper</ActivityItem>.
+
+TAG: Oswald_010_f
+Для самой тележки вы должны иметь <ActivityItem>Ancient Belts</ActivityItem>, <ActivityItem>Plastic Scraps</ActivityItem>, <ActivityItem>Zinc</ActivityItem>, и <ActivityItem>Bones</ActivityItem>.
+
+TAG: Oswald_011_f
+И ты выберешь хорошее место для дома тележки и украсишь его <ActivityItem>Trolley Tracks</ActivityItem>.
+
+TAG: Oswald_012_f
+Когда это будет сделано, найди меня, потому что мы будем почти готовы приветствовать тележку на острове Вечность!
+
+TAG: Player_001_choice_000_f
+Звучит как план!
+
+TAG: Player_001_choice_001_f
+Я чувствую себя как комбинация городского планировщика и безумного учёного...
+
+TAG: Oswald_013_f
+Скоро увидимся!
+
+TAG: Oswald_007_f
+Да, тележка должна жить где-то!
+
+TAG: Oswald_008_f
+Конечно, глупая я!
+

@@ -1,0 +1,60 @@
+TAG: Mickey_000_f
+Mickey, I was wondering if you could help me and the Beast out with something.
+
+TAG: Mickey_001_f
+Sure, {PlayerName}, I'd be happy to!
+
+TAG: Mickey_002_f
+What's on your mind?
+
+TAG: Mickey_003_f
+Well, the Beast is trying to work on his relationship with Belle. We wanted some tips on how you and Minnie keep your relationship so strong...
+
+TAG: Mickey_004_f
+...while also giving each other the space to do your own thing!
+
+TAG: Mickey_005_f
+Wow, that's a great question. Hmm...
+
+TAG: Mickey_006_f
+Well, one thing we do a lot is go on special date nights so we can be together, just the two of us.
+
+TAG: Player_000_choice_000_f
+Oh, the classic date night!
+
+TAG: Player_000_choice_001_f
+That's so simple â why didn't I think of that?!
+
+TAG: Mickey_007_f
+Yep!
+
+TAG: Mickey_008_f
+Sometimes if we have a week where we haven't done much together...
+
+TAG: Mickey_009_f
+We make sure to get together and share what we've been up to.
+
+TAG: Mickey_010_f
+We've been sweethearts for a long time, but we always wanna keep learning new things about each other!
+
+TAG: Mickey_011_f
+Thanks, Mickey!
+
+TAG: Mickey_012_f
+That's some great advice for the Beast!
+
+TAG: Mickey_013_f
+Anytime, {PlayerName}!
+
+TAG: Mickey_014_f
+Aw, that's okay. It took Minnie and me a while to come up with the idea, too.
+
+TAG: Mickey_015_f
+Well, she might not be in the Valley with us now...
+
+TAG: Mickey_016_f
+...but I can tell you what our routine used to be.
+
+TAG: Mickey_017_f
+We love having special date nights so we can be together, just the two of us.
+

@@ -1,0 +1,72 @@
+TAG: Olaf_000_f
+Oh, hello, {PlayerName}!
+
+TAG: Olaf_005_f
+Do you remember when you and the Fairy Godmother helped me find <Lore>100 sticks</Lore>?
+
+TAG: Player_001_choice_000_f
+Yes! What was that about?
+
+TAG: Player_001_choice_002_f
+I've been trying to forget...
+
+TAG: Olaf_006_f
+Well, you're about to find out!
+
+TAG: Olaf_009_f
+I needed them for an extremely top-secret project that no one knows about.
+
+TAG: Olaf_001_f
+Wait... Do you know about my extremely top-secret project that no one knows about?
+
+TAG: Player_000_choice_000_f
+Does it involve a lot of sticks...?
+
+TAG: Player_000_choice_001_f
+No, but I'm very scared to find out!
+
+TAG: Player_000_choice_002_f
+If it's so secret, why would I know about it?
+
+TAG: Olaf_002_f
+As a matter of fact... yes!
+
+TAG: Olaf_010_f
+I can finally reveal that I spent the last week turning those <Lore>100 sticks</Lore>...
+
+TAG: Olaf_011_f
+...
+
+TAG: Olaf_012_f
+...into...
+
+TAG: Olaf_013_f
+...ten <ActivityItem>Sturdy Chairs</ActivityItem>!
+
+TAG: Player_002_choice_000_f
+Oh, nice! Those will be useful!
+
+TAG: Player_002_choice_002_f
+... What? That's it? Chairs?
+
+TAG: Olaf_014_f
+I think so too. Chairs can be used for so many things!
+
+TAG: Olaf_016_f
+You can sit on them, stand on them to reach high shelves, use them to make a blanket fort, attach them to a reindeer as a makeshift sleigh...
+
+TAG: Olaf_017_f
+So many possibilities! Actually, I find it a bit overwhelming. Here. Why don't you decide what to do with them?
+
+TAG: Olaf_015_f
+{PlayerName}, never underestimate the value of a sturdy chair.
+
+TAG: Olaf_003_f
+Oh, {PlayerName}, the only thing to be afraid of is the ever-increasing uncertainty of life and the universe. But never mind that.
+
+TAG: Olaf_004_f
+Just making sure it was as top secret as I planned. Well...
+
+TAG: Olaf_008_f
+Oh, don't do that! You're about to find out why.
+

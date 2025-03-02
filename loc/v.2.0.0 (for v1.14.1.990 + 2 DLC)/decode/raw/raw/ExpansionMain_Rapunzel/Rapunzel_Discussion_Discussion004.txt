@@ -1,0 +1,99 @@
+TAG: Rapunzel_000_f
+Of course! I love being outside in the Village! I really like doing things outdoors.
+
+TAG: Rapunzel_001_f
+Tell me, what's your favorite thing to do outside?
+
+TAG: Player_000_choice_000_f
+Reading under a tree.
+
+TAG: Player_000_choice_001_f
+Go for a walk with my critter.
+
+TAG: Player_000_choice_002_f
+Take a nap on the beach.
+
+TAG: Rapunzel_002_f
+Oh, I love to read! What sort of books are your favorites?
+
+TAG: Player_001_choice_000_f
+Fantasy.
+
+TAG: Player_001_choice_001_f
+Fairy tales.
+
+TAG: Player_001_choice_002_f
+Science fiction.
+
+TAG: Rapunzel_003_f
+That sounds like a great way to visit imaginative and magical places...
+
+TAG: Rapunzel_004_f
+I'll have to find some fantasy books in Merlin's library!
+
+TAG: Rapunzel_005_f
+Hmm... Are there any fairy tales about charming thieves who TRY to do the right thing?
+
+TAG: Rapunzel_006_f
+And have a happily-ever-after at the end?
+
+TAG: Rapunzel_007_f
+I'm not sure what that is but, if you like it, I'm sure it's wonderful!
+
+TAG: Rapunzel_008_f
+How fun! Do you think you'd like to go for a walk with a chameleon?
+
+TAG: Player_002_choice_000_f
+I'd love to!
+
+TAG: Player_002_choice_001_f
+We'd need a very tiny leash.
+
+TAG: Player_002_choice_002_f
+He might get lost.
+
+TAG: Rapunzel_009_f
+Great! I know just the chameleon.
+
+TAG: Rapunzel_010_f
+When we find him, you, me, and Pascal can all explore together!
+
+TAG: Rapunzel_011_f
+Well, the chameleon I'm thinking about wouldn't need a leash. Pascal is VERY well behaved... unless you beat him at chess.
+
+TAG: Rapunzel_012_f
+Well, the chameleon I'm thinking about never gets lost. He even stayed with me when we had to escape from an underwater cave.
+
+TAG: Rapunzel_013_f
+Oh, I don't know if I could rest at the beach. There's so much to do!
+
+TAG: Player_003_choice_000_f
+Like swimming?
+
+TAG: Player_003_choice_001_f
+Like collecting shells?
+
+TAG: Player_003_choice_002_f
+Like painting the ocean?
+
+TAG: Rapunzel_014_f
+I... don't know how to swim.
+
+TAG: Rapunzel_015_f
+But I'm excited to learn!
+
+TAG: Rapunzel_016_f
+Yes! Think of all the things you can make with those shells!
+
+TAG: Rapunzel_017_f
+Necklaces, treasure boxes, new paints...
+
+TAG: Rapunzel_018_f
+Paint... the ocean? How wouldâ
+
+TAG: Rapunzel_019_f
+Oh! You mean make paintings OF the ocean!
+
+TAG: Rapunzel_020_f
+Guess I'm so used to painting on walls, I forget that you can take canvas and paints wherever you go.
+

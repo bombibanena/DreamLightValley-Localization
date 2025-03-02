@@ -1,0 +1,72 @@
+TAG: FairyGodMother_000_f
+{PlayerName}! Something's happened, hasn't it?
+
+TAG: FairyGodMother_001_f
+The sky above the Valley seems to be... opening.
+
+TAG: FairyGodMother_003_f
+Wait a moment... What's happened to the <ActivityItem>Orb of Remembrance</ActivityItem>?
+
+TAG: FairyGodMother_002_f
+The Forgotten showed up and stole it from me.
+
+TAG: FairyGodMother_004_f
+The Forgotten?! Oh dear.
+
+TAG: Player_000_f
+That's not all. The Forgotten is planning some sort of spell to tear down the wall between Dreamlight Valley and the dark side.
+
+TAG: Player_000_choice_002_f
+None of it made any sense.
+
+TAG: Player_000_choice_003_f
+A spell so "no one will ever be lonely again."
+
+TAG: FairyGodMother_005_f
+Goodness. They want to rend the fabric of reality? Tear down the wall between one world and the next?
+
+TAG: FairyGodMother_006_f
+That's a very dangerous sort of magic!
+
+TAG: FairyGodMother_007_f
+With just the slightest slip, the Forgotten could destroy... everything!
+
+TAG: FairyGodMother_008_f
+You mean... all of Dreamlight Valley?
+
+TAG: FairyGodMother_009_f
+No. I mean EVERYTHING.
+
+TAG: FairyGodMother_010_f
+Dreamlight Valley. The dark side. The Here and There. The Realms...
+
+TAG: FairyGodMother_011_f
+Perhaps even the waking world.
+
+TAG: Player_002_choice_000_f
+I'll make sure that doesn't happen.
+
+TAG: Player_002_choice_001_f
+I didn't sign up for this!!!
+
+TAG: Player_002_choice_002_f
+I am FREAKING OUT.
+
+TAG: FairyGodMother_012_f
+No lost inner child of mine is going to destroy the universe. I know I can stop this.
+
+TAG: FairyGodMother_014_f
+It's difficult magic, dear. For now, Dreamlight Valley is safe and stable. But we must do what we can while we're able!
+
+TAG: FairyGodMother_015_f
+Soon, you'll have no choice but to cross to the dark side of Dreamlight Valley and confront the Forgotten.
+
+TAG: FairyGodMother_016_f
+I'll consult with Merlin on how we might do that. In the meantime, you should do what you've always done.
+
+TAG: FairyGodMother_017_f
+Keep taking care of Dreamlight Valley.
+
+TAG: FairyGodMother_013_f
+I'm just having a bit of trouble processing the fact that my lost inner child is about to ACCIDENTALLY DESTROY THE UNIVERSE.
+

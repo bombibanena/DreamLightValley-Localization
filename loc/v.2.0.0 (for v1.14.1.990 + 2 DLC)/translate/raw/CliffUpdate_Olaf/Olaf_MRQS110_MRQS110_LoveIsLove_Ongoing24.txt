@@ -1,0 +1,6 @@
+TAG: Olaf_000_f
+*дыхание*{PlayerName}! У вас есть все, что нужно для <ActivityItem>Dreamlight Primst</ActivityItem>!
+
+TAG: Olaf_001_f
+Теперь ты просто должен собрать все вместе!
+

@@ -1,0 +1,36 @@
+TAG: Secret!Mickey!Donald!SEC_Dona_020_AvailableDescription
+Вы нашли еще один таинственный носок, лежащий на земле.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_CompletedStoryDescription
+Странное устройство реагирует на мех, который вы нашли в Гуфи House.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_DisplayName
+Инопланетяне снова бьют в кражу!
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group01_Step01_BringItem01_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Cheed-Up Sock</ActivityItem>.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group01_Step01_ReadyDescription
+Найдите деревенщину, которая владеет <ActivityItem>Cheed-Up Sock</ActivityItem>.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group01_StepDescription
+Ты нашёл еще один носок!"G"Сделай это.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я опять делал?
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group02_Step02_VisitArea01_StepDescription
+Поиск Гуфи House для подсказки.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group03_Step03_PickUp01_StepDescription
+Ищите подсказку, удалив мусор в Гуфи House.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group04_Step04_Possess01_StepDescription
+Вы нашли подсказку в Гуфи House!
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group05_StepDescription
+Возьмите <ActivityItem> Blue Fur</ActivityItem> на Дональд Дак.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_020_Group05_StoryDescription
+Внутри дома Гуфи вы находите таинственный участок синего меха, который может быть от космического инопланетянина, но он также может быть от какого-то тваря в Долине. Вы не можете точно сказать.
+

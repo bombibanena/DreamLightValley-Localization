@@ -1,0 +1,36 @@
+TAG: Beast_000_f
+{PlayerName}. I... made a mistake.
+
+TAG: Beast_001_f
+I was walking and tripped over the small... box... the WALLÂ·E?
+
+TAG: Beast_002_f
+Before I saw it was him, I growled. I think I scared him.
+
+TAG: Player_000_choice_000_f
+You should apologize!
+
+TAG: Player_000_choice_001_f
+Get him something! He likes gifts.
+
+TAG: Player_000_choice_002_f
+WALLÂ·E will be fine â he's tough!
+
+TAG: Beast_003_f
+I want to, but I don't want to frighten him again...
+
+TAG: Beast_004_f
+If... if you think I should, I'll try.
+
+TAG: Beast_005_f
+He does? Hmm... I have many things that would be small enough for him to use. I will find something suitable.
+
+TAG: Beast_006_f
+I suppose. He is made of metal.
+
+TAG: Beast_007_f
+Still, he made a tiny, squeaking noise. Like an upset kettle.
+
+TAG: Beast_008_f
+Perhaps I will leave him a plant for his garden.
+

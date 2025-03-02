@@ -1,0 +1,6 @@
+TAG: Buzz_000_f
+Нам нужны <ActivityItem>Fabric</ActivityItem> и <ActivityItem>Iron Ingots</ActivityItem> для базы.
+
+TAG: Buzz_001_f
+Кроме того, <ActivityItem>Empty Vial</ActivityItem>, несколько <ActivityItem> Blueberica</ActivityItem> и <ActivityItem> Blue Hydrangas</ActivityItem> для краски <ActivityItem>Badges</ActivityItem>.
+

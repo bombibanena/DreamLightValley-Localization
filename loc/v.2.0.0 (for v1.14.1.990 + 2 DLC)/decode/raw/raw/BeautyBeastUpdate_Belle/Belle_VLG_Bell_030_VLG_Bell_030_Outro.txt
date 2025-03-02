@@ -1,0 +1,36 @@
+TAG: Belle_003_f
+{PlayerName}, thank you for all your help.
+
+TAG: Belle_013_f
+I remember everything now!
+
+TAG: Belle_014_f
+Being the Mystery Solver with you before the Forgetting...
+
+TAG: Belle_015_f
+And I remember writing this <ActivityItem>Journal</ActivityItem> with you.
+
+TAG: Belle_016_f
+We used a secret language so no one could read it except us. That was your idea, wasn't it?
+
+TAG: Player_000_choice_000_f
+I remember now!
+
+TAG: Player_000_choice_001_f
+It sounds familiar.
+
+TAG: Player_000_choice_002_f
+I have no memory of this.
+
+TAG: Belle_006_f
+That's wonderful!
+
+TAG: Belle_009_f
+Thank you again, {PlayerName}. Now I'm going to take some time to reacquaint myself with all of this. I'll tell you if I find anything interesting.
+
+TAG: Belle_007_f
+Your memories will surely come back soon like mine did.
+
+TAG: Belle_008_f
+Oh. Perhaps your memories will come back one day. In the meantime, I'll be there to tell you about it.
+

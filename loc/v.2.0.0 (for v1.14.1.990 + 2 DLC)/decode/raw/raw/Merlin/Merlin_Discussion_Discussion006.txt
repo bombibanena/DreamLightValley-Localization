@@ -1,0 +1,18 @@
+TAG: Merlin_000_f
+I have traveled extensively through time, {PlayerName}. I've visited the past, and I remember a great deal of the future.
+
+TAG: Player_000_choice_000_f
+That sounds confusing.
+
+TAG: Player_000_choice_001_f
+That sounds useful.
+
+TAG: Player_000_choice_002_f
+Can I learn to time travel?
+
+TAG: Merlin_001_f
+Well, it gives me a unique perspective. And makes me an extremely valuable advisor.
+
+TAG: Merlin_002_f
+{PlayerName}, I do not believe in impossibility. So I will say merely that it is improbable.
+

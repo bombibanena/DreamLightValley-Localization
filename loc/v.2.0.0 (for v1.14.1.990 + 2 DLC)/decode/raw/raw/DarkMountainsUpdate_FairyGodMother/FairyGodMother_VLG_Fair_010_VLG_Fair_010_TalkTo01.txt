@@ -1,0 +1,51 @@
+TAG: FairyGodMother_000_f
+{PlayerName}, I have good news and bad news.
+
+TAG: FairyGodMother_001_f
+To the fiery pollution, we've found a solution...
+
+TAG: FairyGodMother_002_f
+But fighting such a flame is no mere game...
+
+TAG: FairyGodMother_003_f
+You must rely on your Dreamlight Magic.
+
+TAG: Player_000_f
+Enchanting my Royal Watering Can should do the trick...
+
+TAG: Player_000_choice_000_f
+Let's figure it out together!
+
+TAG: Player_000_choice_001_f
+Can you think of any Ingredients to use?
+
+TAG: Player_000_choice_002_f
+Magic water beats magic fire... I guess.
+
+TAG: FairyGodMother_004_f
+Oh-ho-ho, yes! That's splendid, dear. Splendid!
+
+TAG: FairyGodMother_005_f
+Now... Hmm... Let's see...
+
+TAG: FairyGodMother_006_f
+Perhaps we could use some <ActivityItem>Tourmaline</ActivityItem> against the fire's green color, some <ActivityItem>Snowballs</ActivityItem> to make everything cooler...
+
+TAG: FairyGodMother_007_f
+<ActivityItem>Dream Shards</ActivityItem> to seal the spell... and <ActivityItem>Purple Impatiens</ActivityItem> so all will be well...
+
+TAG: FairyGodMother_008_f
+I'll gather everything. You can count on me. And then, what's the next step?
+
+TAG: FairyGodMother_009_f
+Put everything in an <ActivityItem>Empty Vial</ActivityItem> to create an <ActivityItem>Icy Enchantment</ActivityItem> and apply it to your Watering Can.
+
+TAG: FairyGodMother_010_f
+Oh yes, of course, child.
+
+TAG: FairyGodMother_011_f
+Well, that's certainly quite possible, {PlayerName}... I wonder...
+
+TAG: FairyGodMother_012_f
+... Why, yes, I think it just might work!
+

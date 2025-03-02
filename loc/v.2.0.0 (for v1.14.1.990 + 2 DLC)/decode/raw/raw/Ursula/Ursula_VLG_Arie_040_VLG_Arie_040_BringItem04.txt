@@ -1,0 +1,36 @@
+TAG: Ursula_012_f
+Wait... Why do I get the feeling you just tricked me?
+
+TAG: Player_002_choice_000_f
+Because I did. Bye!
+
+TAG: Player_002_choice_001_f
+No idea what you mean. Gotta go!
+
+TAG: Ursula_000_f
+Ah, {PlayerName}. What brings you by, angelfish?
+
+TAG: Ursula_002_f
+I need your help with an enchantment.
+
+TAG: Ursula_006_f
+Intriguing... Of course you know you can't get something for nothing. You'll have to offer something in return.
+
+TAG: Ursula_007_f
+It's not a big deal. Ariel and I, we just needâ
+
+TAG: Ursula_008_f
+BAH! Don't speak the name of that simpering little ninny in my presence!
+
+TAG: Ursula_009_f
+I'm tired of seeing her mop of red hair and hearing that bleating siren of a singing voice around the Village!
+
+TAG: Ursula_010_f
+The <ActivityItem>Stone Slab</ActivityItem>... the runes are glowing! You filled it with <Lore>Seething Anger</Lore>!
+
+TAG: Ursula_011_f
+Angry?! Me?! Don't be ridiculous.
+
+TAG: Ursula_013_f
+Oh, you'll regret this, {PlayerName}! I promise you!
+

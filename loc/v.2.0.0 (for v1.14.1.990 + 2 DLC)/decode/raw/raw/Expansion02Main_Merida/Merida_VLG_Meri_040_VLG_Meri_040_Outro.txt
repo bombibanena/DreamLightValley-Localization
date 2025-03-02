@@ -1,0 +1,33 @@
+TAG: Merida_000_f
+That was grand, {PlayerName}.
+
+TAG: Merida_001_f
+Not just the festival, but trapping Snippets with you, fixing things with Flynn, finding my family artifact...
+
+TAG: Merida_002_f
+You're really special. I'm very glad to call you a friend.
+
+TAG: Player_000_choice_000_f
+I'm glad we're friends too.
+
+TAG: Player_000_choice_001_f
+The Neverafter doesn't stand a chance against us.
+
+TAG: Player_000_choice_002_f
+I try my best.
+
+TAG: Merida_004_f
+I'd say we're a one-of-a-kind pair.
+
+TAG: Merida_006_f
+Now, I'm going to go find Mulan and share some of my Sea Wolf with her. But before I do... I want you to have this.
+
+TAG: Merida_007_f
+It's a symbol of our legendary friendship!
+
+TAG: Merida_003_f
+That's right! I think together, we can do just about anything we set our minds to.
+
+TAG: Merida_005_f
+Well, your best is just right.
+

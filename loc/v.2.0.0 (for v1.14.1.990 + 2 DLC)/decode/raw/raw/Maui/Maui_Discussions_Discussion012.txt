@@ -1,0 +1,33 @@
+TAG: Maui_000_f
+Hey, {PlayerName}. Anything I can help with around here?
+
+TAG: Player_000_f
+Hmmm... let me think... what do I need help with...
+
+TAG: Player_000_choice_000_f
+You could harvest some crops.
+
+TAG: Player_000_choice_001_f
+You could mine some gems.
+
+TAG: Player_000_choice_002_f
+You could catch some fish.
+
+TAG: Maui_001_f
+... Like pull some vegetables outta the ground?
+
+TAG: Maui_002_f
+Easy! Consider it done.
+
+TAG: Maui_003_f
+... Like break some rocks and see if anything shiny pops out?
+
+TAG: Maui_004_f
+Fish, huh? Sure. I could team up with Moana and bring you back a lot of fish.
+
+TAG: Maui_005_f
+Like more fish than you've ever seen before!
+
+TAG: Maui_006_f
+And that's a Maui promise.
+

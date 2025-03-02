@@ -1,0 +1,48 @@
+TAG: Olaf_001_f
+Olaf!
+
+TAG: Olaf_002_f
+{PlayerName}! How is my very good friend?
+
+TAG: Olaf_003_f
+Not too bad; running an errand for Gaston. He's looking for a new sidekick!
+
+TAG: Olaf_004_f
+How exciting! Did you know that sidekicks have been an essential part of stories for thousands of years?
+
+TAG: Player_000_choice_000_f
+I do now!
+
+TAG: Player_000_choice_001_f
+Great fact!
+
+TAG: Player_000_choice_002_f
+Everyone knows that.
+
+TAG: Olaf_005_f
+Gaston is holding sidekick tryouts. Are you interested?
+
+TAG: Olaf_008_f
+A chance to make a new friend? Of course!
+
+TAG: Olaf_009_f
+Well, I'm not sure Gaston sees it that way, butâ
+
+TAG: Olaf_010_f
+Ooh, maybe I should bring him a friendship gift?!
+
+TAG: Olaf_011_f
+Again, not sure ifâ
+
+TAG: Olaf_012_f
+What am I saying? Of course I'll bring a friendship gift. It would be rude NOT to!
+
+TAG: Olaf_013_f
+All right... lemme tell Gaston that you're a candidate, and you can deal with the friendship gift on your own.
+
+TAG: Olaf_006_f
+Thanks! Now, what were you saying about Gaston?
+
+TAG: Olaf_007_f
+I don't think they do. Now, what were you saying about Gaston?
+

@@ -1,0 +1,54 @@
+TAG: Beast_000_f
+{PlayerName}. I've been trying to find a new book to give to Belle.
+
+TAG: Player_000_choice_000_f
+Merlin has a lot of books.
+
+TAG: Player_000_choice_001_f
+Didn't you give her a library?
+
+TAG: Player_000_choice_002_f
+You could write one!
+
+TAG: Beast_001_f
+Merlin? He's... an enchanter, isn't he?
+
+TAG: Beast_002_f
+Well, I can't say he's never turned anyone into an animal...
+
+TAG: Beast_003_f
+Grrr...
+
+TAG: Beast_004_f
+But it's for educational purposes, and he turns people back after!
+
+TAG: Beast_005_f
+Hmph... I will have to think about this.
+
+TAG: Beast_006_f
+Yes. But she's been reading her favorite sorts of books so quickly.
+
+TAG: Beast_007_f
+You don't suppose that Belle's been enchanted, do you?
+
+TAG: Beast_008_f
+How can anyone read so fast?
+
+TAG: Player_001_choice_000_f
+I guess it's possible...
+
+TAG: Player_001_choice_001_f
+Uhhh, I think she's just a book person...
+
+TAG: Beast_009_f
+Hmm... she does seem happy when she's reading. Perhaps it's all right.
+
+TAG: Beast_010_f
+I suppose you're right. Perhaps I can ask Merlin for a book...
+
+TAG: Beast_011_f
+I... I wouldn't be good at that.
+
+TAG: Beast_012_f
+But it's kind of you to think that I would.
+

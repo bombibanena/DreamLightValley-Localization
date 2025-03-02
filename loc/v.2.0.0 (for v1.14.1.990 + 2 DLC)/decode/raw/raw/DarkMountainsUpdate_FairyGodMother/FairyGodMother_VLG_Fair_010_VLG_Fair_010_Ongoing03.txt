@@ -1,0 +1,9 @@
+TAG: FairyGodMother_000_f
+You must gather the materials for the <ActivityItem>Icy Enchantment</ActivityItem>. Some <ActivityItem>Tourmaline</ActivityItem>, a few <ActivityItem>Snowballs</ActivityItem>...
+
+TAG: FairyGodMother_001_f
+<ActivityItem>Dream Shards</ActivityItem> and <ActivityItem>Purple Impatiens</ActivityItem> should do the trick.
+
+TAG: FairyGodMother_002_f
+And an <ActivityItem>Empty Vial</ActivityItem> to hold it all, of course.
+

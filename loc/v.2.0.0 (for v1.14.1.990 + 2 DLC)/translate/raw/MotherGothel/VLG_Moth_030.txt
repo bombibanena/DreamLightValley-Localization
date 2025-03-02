@@ -1,0 +1,24 @@
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_AvailableDescription
+Матушка Готель знает, что случилось с <ActivityItem>Sunstone</ActivityItem>. Он был разбит на три <ActivityItem>Fragments</ActivityItem>. Каждый появится в деревне в определенное время и место. Вам решать найти их и вернуть к ней.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_DisplayName
+Осколки Солнечного камня
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Can вы снова расскажите мне о фрагментах?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem01_StepDescription
+Найдите солнечный плато <ActivityItem>Fragment</ActivityItem> утром.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem02_StepDescription
+Найдите лес Вэлора <ActivityItem>Fragment</ActivityItem> по ночам.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem03_StepDescription
+Найдите Glade of Trust's <ActivityItem>Fragment</ActivityItem> с помощью поиска в полдень.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_ReadyDescription
+Принесите осколки <ActivityItem>Sunstone</ActivityItem> на Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>D Вы выяснили, что было на этой фотографии?
+

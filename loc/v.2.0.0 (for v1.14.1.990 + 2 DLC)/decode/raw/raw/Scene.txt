@@ -1,0 +1,15 @@
+TAG: House!Oswald!Oswald_DisplayName
+{Placeholder}Oswald's House Scene
+
+TAG: House!PrincessFrog!Tiana_DisplayName
+{Placeholder}Tiana's House Scene
+
+TAG: Village!Expansion01_DisplayName
+Eternity Isle
+
+TAG: Village!Expansion02_DisplayName
+The Storybook Vale
+
+TAG: Village!Village04_DisplayName
+Dreamlight Valley
+

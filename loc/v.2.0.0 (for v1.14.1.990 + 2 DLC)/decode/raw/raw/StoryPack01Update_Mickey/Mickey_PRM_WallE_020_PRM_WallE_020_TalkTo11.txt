@@ -1,0 +1,72 @@
+TAG: Mickey_000_f
+Hi, Mickey. I was wondering... How are things going with Minnie?
+
+TAG: Mickey_001_f
+Gosh, {PlayerName}, things have been great since you brought her back to the Village.
+
+TAG: Player_000_choice_000_f
+I'll bet!
+
+TAG: Player_000_choice_001_f
+That Dreamlight Magnifier really came in handy!
+
+TAG: Player_000_choice_002_f
+You sound like there's still something wrong...
+
+TAG: Mickey_002_f
+Havin' Minnie here... I can't tell ya how much it means to me.
+
+TAG: Mickey_003_f
+There, uh... there's just one thing...
+
+TAG: Mickey_004_f
+Sometimes she still has trouble with her memories.
+
+TAG: Mickey_005_f
+Most of 'em are back, but every once in a while, somethin' seems to be missing.
+
+TAG: Player_001_choice_000_f
+I'm sorry to hear it.
+
+TAG: Player_001_choice_001_f
+It's a common problem here.
+
+TAG: Player_001_choice_002_f
+I've got a few ideas for how to help...
+
+TAG: Mickey_006_f
+I just wish there was some way to remind her.
+
+TAG: Mickey_007_f
+Remy was just telling me that food and memory are tightly linked.
+
+TAG: Mickey_008_f
+What if WALLÂ·E and I fix up some food for you and set up a nice romantic spot for your date night?
+
+TAG: Mickey_009_f
+Wow! That's a great idea, {PlayerName}!
+
+TAG: Mickey_010_f
+You let Minnie know that we're planning something.
+
+TAG: Mickey_011_f
+And we'll take care of the rest: starting with ensuring that you have a romantic atmosphere with some <ActivityItem>High Beach Torches</ActivityItem>!
+
+TAG: Mickey_012_f
+Hot dog! This'll be awesome!
+
+TAG: Mickey_013_f
+I guess you're right. Lucky for us, you're always around to help remind us.
+
+TAG: Mickey_014_f
+Gosh, I'd love to hear 'em.
+
+TAG: Mickey_015_f
+Oh boy, did it ever!
+
+TAG: Mickey_016_f
+Really? How'd you know?
+
+TAG: Mickey_017_f
+It's all WALLÂ·E â he's boosting my matchmaking instincts with his cute outfit.
+

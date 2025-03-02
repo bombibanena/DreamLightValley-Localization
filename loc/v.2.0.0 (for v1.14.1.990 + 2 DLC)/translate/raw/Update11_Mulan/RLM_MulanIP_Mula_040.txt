@@ -1,0 +1,9 @@
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_040_AvailableDescription
+Чтобы защитить себя от любой угрозы, защитник должен быть сильным. По этой причине Мулан организовал кирпичную подготовку, чтобы вы могли упражняться в этих мышцах.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_040_DisplayName
+Сверкает кирпич
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_040_Group01_Step01_RemoveBlocker01_StepDescription
+Разбивка {TargetAmount} <ActivityItem> Тренинг Брикс</ActivityItem>.
+

@@ -1,0 +1,48 @@
+TAG: WallE_000_f
+Инструкция?
+
+TAG: WallE_001_f
+Привет, ВАЛЛ·И! Мне нужен <ActivityItem>Lens</ActivityItem> для моей камеры.
+
+TAG: WallE_002_f
+Ууууууууу...
+
+TAG: WallE_003_f
+Ох, ох!
+
+TAG: Player_000_f
+Нет, это <ActivityItem>Fire Extinguisher</ActivityItem>...
+
+TAG: Player_000_choice_000_f
+Но хорошая попытка...
+
+TAG: Player_000_choice_001_f
+Разве это не тот, который я тебе дал?
+
+TAG: Player_000_choice_002_f
+Если тебе удастся это сфотографировать, я буду впечатлена.
+
+TAG: WallE_004_f
+Э-э...
+
+TAG: WallE_005_f
+Мне нужен <ActivityItem>Lens</ActivityItem>. Вот, возьми это.
+
+TAG: WallE_006_f
+Хм...
+
+TAG: WallE_007_f
+Ого!
+
+TAG: WallE_008_f
+Да, вот так, спасибо!
+
+TAG: WallE_009_f
+Та-да!
+
+TAG: WallE_010_f
+Иии...
+
+TAG: WallE_011_f
+Что?
+

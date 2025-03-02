@@ -1,0 +1,51 @@
+TAG: Ursula_000_f
+Ursula, we need your help. We've got these <ActivityItem>Enchanted Hearts</ActivityItem>, but we don't know what we need to do next...
+
+TAG: Ursula_015_f
+Well, it's about time you came to see me, dearie.
+
+TAG: Ursula_006_f
+I've had about enough of these pesky fish and all this mystical nonsense clogging up the Village waterways.
+
+TAG: Ursula_007_f
+But luckily for you... I've figured out exactly how to set things right.
+
+TAG: Player_001_choice_000_f
+Really? How?
+
+TAG: Player_001_choice_001_f
+Oh, thank you, Ursula!
+
+TAG: Player_001_choice_002_f
+Then stop complaining and tell me.
+
+TAG: Ursula_008_f
+It's simple enough.
+
+TAG: Ursula_010_f
+Now, listen closely, {PlayerName}. I don't want to have to repeat myself.
+
+TAG: Ursula_012_f
+To make new <ActivityItem>Lioness Statues</ActivityItem>, you'll need to find <ActivityItem>Clay</ActivityItem> and <ActivityItem>Sand</ActivityItem>...
+
+TAG: Ursula_013_f
+Then to focus the magic, each statue will need a gemstone embedded in its forehead. A gemstone from the place where each rift opened.
+
+TAG: Ursula_004_f
+The rifts opened on Dazzle Beach, in the Glade of Trust, and in the Frosted Heights...
+
+TAG: Ursula_005_f
+An <ActivityItem>Aquamarine</ActivityItem>, an <ActivityItem>Amethyst</ActivityItem> and a <ActivityItem>Citrine</ActivityItem> ought to do, then.
+
+TAG: Ursula_014_f
+Finally, you'll need to <ActivityItem>craft the Lioness Statues</ActivityItem> and place them near each rift to ensure it closes.
+
+TAG: Ursula_016_f
+Best of luck, angelfish. I hope it's not too much for you.
+
+TAG: Ursula_009_f
+Finally! Some appreciation for all I do around here.
+
+TAG: Ursula_011_f
+Complaining?! Hardly. If I told you all of my complaints about this place, we'd be here all month.
+

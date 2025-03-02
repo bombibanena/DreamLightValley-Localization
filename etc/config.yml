@@ -1,0 +1,16 @@
+translator:
+  translation:
+    text_size: 2000
+    batch_size: 2000
+    parts: 10
+    separator: (S_0)
+    exceptions_path: etc/exceptions_ru.json
+  current: llm
+  clients:
+    deeplx_api:
+      api:
+        url: http://localhost:1188/translate
+        token: helloxxx
+    llm:
+      grpc:
+        target: 127.0.0.1:50051

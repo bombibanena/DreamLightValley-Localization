@@ -1,0 +1,39 @@
+TAG: Tiana_000_f
+Thank you for all your help, {PlayerName}!
+
+TAG: Tiana_001_f
+No problem! The happiness of the critters here is just as important to me as the Villagers.
+
+TAG: Tiana_002_f
+That little creature just made me think so much of my dear friend Louis back home.
+
+TAG: Tiana_003_f
+He's so friendly and clever but doesn't quite fit in with the other reptiles.
+
+TAG: Tiana_004_f
+I couldn't just leave Little Louis without a friend.
+
+TAG: Player_000_choice_000_f
+I'm sure you'll be great friends for a long time!
+
+TAG: Player_000_choice_001_f
+Well, that's just another reason why you fit in well here.
+
+TAG: Player_000_choice_002_f
+Give it time; I'm sure you'll have animal friends in each Biome!
+
+TAG: Tiana_006_f
+Any ideas for your future in the Valley?
+
+TAG: Tiana_007_f
+Oh, I'm working on some new ideas.
+
+TAG: Tiana_008_f
+I want to find more ways to share the joy of food with others.
+
+TAG: Tiana_009_f
+Well, I'll let you focus on that then.
+
+TAG: Tiana_010_f
+Talk to you later, Tiana!
+

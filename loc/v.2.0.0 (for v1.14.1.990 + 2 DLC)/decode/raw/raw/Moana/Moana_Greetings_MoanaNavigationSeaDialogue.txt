@@ -1,0 +1,45 @@
+TAG: Moana_014_f
+I'm ready to start sailing.
+
+TAG: Player_003_exit_011_f
+I have some questions...
+
+TAG: Player_003_exit_012_f
+Can we go back to the island?
+
+TAG: Player_003_exit_013_f
+I changed my mind. Let's stay here.
+
+TAG: Moana_003_f
+Was there something you wanted to ask me?
+
+TAG: Player_000_choice_000_f
+Remind me what we're doing?
+
+TAG: Player_000_choice_001_f
+I don't know how to sail!
+
+TAG: Player_000_choice_002_f
+Never mind...
+
+TAG: Moana_006_f
+We're searching for good fishing spots in the ocean.
+
+TAG: Moana_007_f
+My people are voyagers, so we need to find food while we're traveling.
+
+TAG: Moana_005_f
+Do you have any other questions, {PlayerName}?
+
+TAG: Moana_004_f
+Don't worry. I'll handle the wayfinding; you just have to tell me where you want to sail to.
+
+TAG: Moana_001_f
+I'll guide us back to shore.
+
+TAG: Moana_000_f
+Just tell me when you're ready to sail again.
+
+TAG: Moana_015_f
+Don't be afraid; the ocean's a friend of mine.
+

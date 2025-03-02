@@ -1,0 +1,84 @@
+TAG: Village!Moana!Maui!VLG_Maui_020_Any_CompletedRequestDescription
+Возвращайся и поговори с Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_AvailableDescription
+Мауи ищет тебя.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_CompletedStoryDescription
+Мауи будет так гордиться вашей работой.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_DisplayName
+Сказка о каменном и огне
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group01_Step02_CookMeal01_StepDescription
+Приготовить новую пятизвездочную еду для Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group01_StoryDescription
+Всё, что предстоит сделать, делает Мауи очень голодным.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group02_Step01_ReadyDescription
+Принесите еду, которую вы приготовили на Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group02_Step01_StepDescription
+Убедись, что у тебя есть пятизвездочная еда в списке.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно найти?
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group03_Step04_ReadyDescription
+Принесите Мауи вещи, которые вы собрали.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group03_Step04_StepDescription
+Соберите вещи, необходимые для Мауи из его корзины в Моана сольм.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group03_StoryDescription
+Мауи предполагает, что он может улучшить ваш пикакс, чтобы вы могли освободить объект, застрявший в морском мусоре, но чтобы сделать это, вам придется вернуться в поле Моана.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group04_Step05_StepDescription
+Поместите <ActivityItem>granite Fire Bowl</ActivityItem> в деревню.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group06_Step06_ReadyDescription
+Покажите Мауи, что вы нашли.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group06_Step06_StepDescription
+Разбейте морские обломки и соберите то, что нашли внутри.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group07_Step08_FollowCharacter01_StepDescription
+Следуйте за Мауи до Dazzle Beach.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group07_StoryDescription
+Он хочет показать вам что-то застрявшее в каком-то мусоре на пляже.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group08_Step09_TalkToCharacter02_StepDescription
+Поговори с Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group09_Step03_FollowCharacter02_StepDescription
+Следуйте за Мауи обратно к морскому мусору.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group09_StoryDescription
+Ваш Пикокс уже готов, вы сможете найти этот загадочный объект на пляже.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group10_StepDescription
+Соберите следующие предметы для изготовления <ActivityItem>granite Fire Bowl</ActivityItem>:
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group10_StoryDescription
+<ActivityItem>Limestone</ActivityItem>, что вы нашли в морском мусоре, дает Мауи идею создать <ActivityItem>Granite Fire Bowl</ActivityItem> для украшения деревни.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_Group11_Step11_CraftItem01_StepDescription
+Пожарная коробка <ActivityItem>Granite</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

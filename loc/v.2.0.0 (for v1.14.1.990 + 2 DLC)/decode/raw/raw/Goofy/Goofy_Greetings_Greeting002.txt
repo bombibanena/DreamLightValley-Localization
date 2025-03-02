@@ -1,0 +1,6 @@
+TAG: Goofy_003_f
+Hey there, {PlayerName}!
+
+TAG: Player_001_exit_000_f
+Sorry, I can't talk now.
+

@@ -1,0 +1,87 @@
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_AvailableDescription
+Матушка Готель Матушка Готель хочет свиток <ActivityItem>Sun</ActivityItem>, который у Скрудж Макдак в его распоряжении.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_DisplayName
+Мое Царство для свитка
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем я должна была поговорить?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Гуфи.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group01_StoryDescription
+Теперь, когда <ActivityItem>Micberry Tree</ActivityItem>, вам нужно заставить Гуфи нажать Скрудж Макдак, чтобы узнать, где он спрятал свиток <ActivityItem>Sun</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group02_Step15_BringItem01_StepDescription
+Найдите {ItemName}, погруженный в Глейд.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group02_Step15_BringItem02_StepDescription
+Найдите {ItemName}, похороненного на пляже.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group02_Step15_ReadyDescription
+Принесите грудную клетку и ключ к Матушка Готель Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group02_StoryDescription
+После того, как вы нашли оба предмета, вы возвращаете их на Матушка Готель Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group03_Step03_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group03_Step03_Possess03_StepDescription
+{ItemName} из дома ВАЛЛ·И.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group03_Step03_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group03_Step03_StepDescription
+Соберите следующие предметы для изготовления <ActivityItem>Micberry Tree</ActivityItem>:
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group03_StoryDescription
+Это единственный способ получить свои руки на свитке <ActivityItem>Sun</ActivityItem>, который нужна ведьме.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group04_Step04_CraftItem01_StepDescription
+Подготовить "Дерево" <ActivityItem>Micberry</ActivityItem>.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Can вы снова проходите через следующий шаг?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group05_Step05_Decorate01_StepDescription
+Поместите <ActivityItem>Micberry Dree</ActivityItem> рядом с магазином Скрудж Макдак.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Remind меня, что я ищу?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group08_Step08_Possess01_StepDescription
+Найдите <ActivityItem>Скрудж Макдак ключ</ActivityItem> в Глейде.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group08_Step08_Possess05_StepDescription
+Найдите <ActivityItem>Скрудж Макдак Запертую грудную клетку</ActivityItem> на пляже.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group08_StoryDescription
+Вы узнаете, что Скрудж Макдак похоронил свиток <ActivityItem>Sun</ActivityItem> в запертом ящике возле мистической пещеры, и он погрузил <ActivityItem> ключ, чтобы открыть грудную клетку</ActivityItem> рядом с каскадом в Глейде доверия.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group10_Step10_TalkToCharacter03_StepDescription
+Поговори с Скрудж Макдак МакДаком.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group10_StoryDescription
+Вместо того, чтобы обмануть Скрудж Макдак, чтобы раскрыть, где он спрятал свиток, вы решили спросить Скрудж Макдак McDuck напрямую.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group14_Step14_TalkToCharacter04_StepDescription
+Поговорите с Матушка Готель Матушка Готель.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group15_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_Group15_Step06_TalkToCharacter02_StepDescription
+Возвращайтесь на Скрудж Макдак.
+
+TAG: Village!Tangled!MotherGothel!VLG_Moth_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br> Что случилось?
+

@@ -1,0 +1,36 @@
+TAG: Mickey_002_f
+Hey Mickey! I figured out the dish â it's <ActivityItem>Enchanted Shrimp ÃtouffÃ©e</ActivityItem>! Want a taste?
+
+TAG: Mickey_003_f
+You betcha!
+
+TAG: Mickey_004_f
+Oh boy! {PlayerName}, this is even better than I remember!
+
+TAG: Player_000_choice_000_f
+It's great, isn't it?
+
+TAG: Player_000_choice_001_f
+What other amazing meals could this chef make?!
+
+TAG: Player_000_choice_002_f
+We're getting closer!
+
+TAG: Mickey_006_f
+I was wondering, though: Any chance that you remember anything about who made the dish?
+
+TAG: Mickey_007_f
+I feel like the Valley is just waiting for this person to return.
+
+TAG: Mickey_008_f
+Gosh, let me think...
+
+TAG: Mickey_009_f
+Hmm... I remember she was real savvy at business... Oh! And she was a great singer, too!
+
+TAG: Mickey_011_f
+Wait â {PlayerName} â what's that?
+
+TAG: Mickey_012_f
+Great; thanks, Mickey! I'll keep doing the rounds with the dish. Hopefully others will have their own memories to share.
+

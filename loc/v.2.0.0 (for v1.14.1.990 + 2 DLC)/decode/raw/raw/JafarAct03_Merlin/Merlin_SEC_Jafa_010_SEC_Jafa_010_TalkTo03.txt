@@ -1,0 +1,57 @@
+TAG: Merlin_001_f
+Hey Merlin, can we talk about the Jafar situation?
+
+TAG: Merlin_002_f
+Why of course, {PlayerName}! How did his community service progress?
+
+TAG: Merlin_003_f
+Uhh, ups and downs, I suppose.
+
+TAG: Merlin_004_f
+I feel like it inspired memories of his ambition and greed just as much as it inspired positive emotions.
+
+TAG: Merlin_005_f
+Oh, that is a quandary indeed.
+
+TAG: Merlin_006_f
+But on the other hand, I spoke with some of the other Villagers, and it seems that Jafar has actually been really nice to them.
+
+TAG: Merlin_007_f
+Not only is he giving gifts, but he's giving gifts that seem to suggest that he's trying to make a connection with the Villagers.
+
+TAG: Merlin_018_f
+How marvelous! Still... I worry that it may be a ruse to ensure his freedom to continue to plot.
+
+TAG: Player_000_choice_000_f
+I agree.
+
+TAG: Player_000_choice_001_f
+I hope not...
+
+TAG: Merlin_000_f
+But we can't assume anything for now. We need to go by his actions, not our suspicions.
+
+TAG: Merlin_027_f
+Perfect! Thanks, Merlin.
+
+TAG: Merlin_019_f
+So, I was thinking â we should show him that we appreciate the effort he's making.
+
+TAG: Merlin_020_f
+I quite agree, {PlayerName}. You don't lead someone to goodness through constant reprimand.
+
+TAG: Merlin_021_f
+Yeah! I'm going to decorate around the palace with Jafar's favorite aesthetics, but I think we need something else with a little wow factor.
+
+TAG: Merlin_022_f
+Ah... I think I know just the thing!
+
+TAG: Merlin_026_f
+There you are, {PlayerName} â that Iago-inspired centerpiece should remind Jafar of his previous companion.
+
+TAG: Merlin_024_f
+Wow, great idea! Jafar plays his cards close to his chest, but I think that he kinda misses Iago.
+
+TAG: Merlin_008_f
+Well, I hope a memory of a good friend will continue to inspire him toward goodness.
+

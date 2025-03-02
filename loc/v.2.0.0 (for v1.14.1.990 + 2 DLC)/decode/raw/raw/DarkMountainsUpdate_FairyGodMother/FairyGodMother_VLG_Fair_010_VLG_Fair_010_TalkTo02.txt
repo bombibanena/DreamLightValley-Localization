@@ -1,0 +1,30 @@
+TAG: FairyGodMother_000_f
+Congratulations, child! It worked!
+
+TAG: FairyGodMother_001_f
+Perhaps now, no one will find the land quite so eerie, though it certainly is dark and dreary...
+
+TAG: Player_000_choice_000_f
+Yep. Walking there is a hazard now.
+
+TAG: Player_000_choice_001_f
+What do you suggest?
+
+TAG: Player_000_choice_002_f
+Dark and dreary. Just how I roll.
+
+TAG: FairyGodMother_002_f
+Goodness, you're right! We wouldn't want someone to trip and fall while walking through the Forgotten Lands. But that's easy enough to fix, my dear.
+
+TAG: FairyGodMother_003_f
+With some <ActivityItem>Lights</ActivityItem>, <ActivityItem>Paths</ActivityItem> and <ActivityItem>Seating</ActivityItem>, you'll see; soon it'll be cozy as can be.
+
+TAG: FairyGodMother_004_f
+Now, I'll just leave that to you. After all, you've done a marvelous job getting the rest of the Village looking tip-top!
+
+TAG: FairyGodMother_005_f
+Goodbye, dear! I'm off. Merlin and I have years of missed tea-time chats to catch up on!
+
+TAG: FairyGodMother_006_f
+Well, roll you most certainly will if you trip on a tree root and fall, {PlayerName}...
+

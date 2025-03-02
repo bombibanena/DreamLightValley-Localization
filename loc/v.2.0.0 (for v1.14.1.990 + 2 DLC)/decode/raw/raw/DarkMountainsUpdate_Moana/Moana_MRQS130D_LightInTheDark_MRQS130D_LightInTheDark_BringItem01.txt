@@ -1,0 +1,99 @@
+TAG: Moana_001_f
+Hey, Moana. I've got something I need you to look at.
+
+TAG: Moana_000_f
+Sure, {PlayerName}! ... Oh, what are these...? Toys? Are you sure you want to play in the sand? Shouldn't you be saving the Valley?
+
+TAG: Player_000_choice_000_f
+Why not both?
+
+TAG: Player_000_choice_001_f
+I hope I never stop wanting to play. Even if things are bad.
+
+TAG: Player_000_choice_002_f
+These toys ARE the key to saving the Valley.
+
+TAG: Moana_002_f
+Okay...
+
+TAG: Moana_005_f
+Really though... I'm here to ask you about these. I think they used to belong to the Forgotten...
+
+TAG: Moana_007_f
+I was hoping you might remember them.
+
+TAG: Moana_008_f
+They do look familiar...
+
+TAG: Moana_009_f
+But it's like the fog's rolled in over my memories of them...
+
+TAG: Player_001_choice_000_f
+Focus on your memories of me.
+
+TAG: Player_001_choice_001_f
+Pretend you're in a canoe, sailing through the fog...
+
+TAG: Player_001_choice_002_f
+Don't worry. The memories will come back.
+
+TAG: Moana_011_f
+Just think of all the memories we've made together since you've come back to the Village.
+
+TAG: Moana_023_f
+Well, you were an amazing kid. If that's the part of you that became the Forgotten... I hope there's still some way to save them.
+
+TAG: Moana_015_f
+Whoa... That is so strange! The moment you said that, it's like the fog lifted.
+
+TAG: Moana_016_f
+I do remember these! You and I used to play with them when you were just a little kid.
+
+TAG: Moana_017_f
+It reminded me of when I was small and played in the sand with my Gramma Tala.
+
+TAG: Moana_018_f
+How did they wind up in that cave?
+
+TAG: Moana_019_f
+Well... one day, I asked you if you wanted to play, and it was like you couldn't hear me. As if you were really far away.
+
+TAG: Moana_020_f
+... That wasn't you anymore, was it? It was the Forgotten...
+
+TAG: Moana_021_f
+They threw these toys away in the cave and ran off. I was... confused, and pretty sad. It wasn't like you to do something like that.
+
+TAG: Moana_022_f
+Maybe not. But the Forgotten is a part of me. That kid who played on the Beach with you... that part of me is in there somewhere.
+
+TAG: Moana_012_f
+Imagine you're wayfinding through that fog... and there's a light on the other side.
+
+TAG: Moana_013_f
+It's your memory of all the adventures we've gone on since you've been back in the Village.
+
+TAG: Moana_014_f
+Just think about everything we've gone through together and all the memories you've recovered so far.
+
+TAG: Moana_024_f
+There has to be something in there...
+
+TAG: Moana_025_f
+Just spending time with you, {PlayerName}... I can feel the fog starting to lift.
+
+TAG: Moana_026_f
+Maybe if we spend some more time together... if we bring back some of your memories of the past... and make some NEW memories...
+
+TAG: Moana_027_f
+...that could work. I'm sure I still have the memory somehow.
+
+TAG: Moana_003_f
+You're right. I never want you to lose your joy for adventure.
+
+TAG: Moana_004_f
+What do you mean?
+
+TAG: Moana_006_f
+I think these toys used to belong to the Forgotten.
+

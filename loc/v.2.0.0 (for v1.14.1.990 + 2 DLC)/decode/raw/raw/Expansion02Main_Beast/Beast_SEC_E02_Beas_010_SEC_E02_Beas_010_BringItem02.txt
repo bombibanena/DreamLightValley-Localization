@@ -1,0 +1,66 @@
+TAG: Beast_000_f
+You found the other pages of Belle's book! Thank you, {PlayerName}.
+
+TAG: Beast_001_f
+She'll be so happy she can finally finish the story.
+
+TAG: Beast_002_f
+But I can't give it to her in pieces.
+
+TAG: Player_000_choice_000_f
+Might be fun to read one chapter at a time!
+
+TAG: Player_000_choice_001_f
+It'll be pretty confusing if she reads it in the wrong order.
+
+TAG: Player_000_choice_002_f
+I guess we could put it back together for her.
+
+TAG: Beast_003_f
+No, no. She's waited long enough to read the end.
+
+TAG: Beast_004_f
+I'll find a way to bind this back together for Belle.
+
+TAG: Beast_005_f
+It might take me some time to get the order just right...
+
+TAG: Beast_006_f
+Did you think about what else Belle would need for her perfect day?
+
+TAG: Beast_007_f
+I did. I would like the Bind to look bright and inviting for her... Maybe <Lore>paths</Lore>, <Lore>lights</Lore>, and something for us to gather around.
+
+TAG: Beast_008_f
+I don't suppose you could see to that while I work on the book? I'm not much of a decorator...
+
+TAG: Player_001_f
+Don't worry, Beast. I'll make the Bind...
+
+TAG: Player_001_choice_000_f
+...cozy and inviting!
+
+TAG: Player_001_choice_001_f
+...enchanting and magical!
+
+TAG: Player_001_choice_002_f
+...perfectly adequate. I'm not much of a decorator either...
+
+TAG: Beast_009_f
+I know Belle will like that. You're very good at making things... welcoming.
+
+TAG: Beast_010_f
+I'll go start rearranging these pages and binding the book back together.
+
+TAG: Beast_011_f
+Hmm... which of these would go first...? Well, surely "THE END" goes at the back... *sigh*
+
+TAG: Beast_012_f
+That's not true. You're very good at this sort of thing. Belle will like whatever you do.
+
+TAG: Beast_013_f
+Yes, I'd rather not have the beginnings and endings mixed up.
+
+TAG: Beast_014_f
+You've done so much by finding the pages.
+

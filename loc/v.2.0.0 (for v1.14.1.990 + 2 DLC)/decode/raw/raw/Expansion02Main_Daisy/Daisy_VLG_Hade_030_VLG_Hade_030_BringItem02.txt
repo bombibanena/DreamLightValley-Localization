@@ -1,0 +1,45 @@
+TAG: Daisy_000_f
+Hey Daisy, how's the manager life treating you?
+
+TAG: Daisy_001_f
+Ooo, that Hades! He's so... so...
+
+TAG: Player_000_choice_000_f
+Rude?
+
+TAG: Player_000_choice_001_f
+Self-centered?
+
+TAG: Player_000_choice_002_f
+Clever?
+
+TAG: Daisy_002_f
+Exactly!
+
+TAG: Daisy_011_f
+On it!
+
+TAG: Daisy_004_f
+He's completely ignoring my advice! And he only seems to care about being famous, NOT about using his power to make actual change!
+
+TAG: Daisy_005_f
+I wrote a whole script for him so he could talk about using sustainably sourced dishes, and organic ingredients, and he absolutely refused to even listen!
+
+TAG: Daisy_006_f
+First the merchandise and now this? Why does he even want a manager if he's not going to listen to my ideas?
+
+TAG: Daisy_007_f
+Well, hang in there, Daisy. If you can manage Hades, you can manage anybody!
+
+TAG: Daisy_008_f
+True!
+
+TAG: Daisy_009_f
+I suppose we'll just have to make the best of things. I brought a <ActivityItem>Cooking Station</ActivityItem> to use for the talk.
+
+TAG: Daisy_010_f
+If you <Lore>put it next to the Hades Kiosk</Lore>, we should have the perfect setup for Hades to demonstrate his meals.
+
+TAG: Daisy_003_f
+I suppose he must be when it comes to the Underworld, but...
+

@@ -1,0 +1,51 @@
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_AvailableDescription
+Some objects around Eternity Isle seem to be missing a dimension...
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_DisplayName
+The Lesser Evil
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Oswald about the strange two-dimensional phenomenon you discovered.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem01_StepDescription
+2D Object from the Plains.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem02_StepDescription
+2D Object from the Grasslands.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem03_StepDescription
+2D Object from the Docks.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_ReadyDescription
+Bring the strange 2D objects to Merlin for inspection.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_StepDescription
+Find all the strange 2D objects in Eternity Isle:
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group03_Step03_ReadyDescription
+Bring Jafar's research notes to Merlin.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group03_Step03_StepDescription
+Find Jafar's research notes in the Palace Laboratory.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group04_Step04_Possess01_StepDescription
+Make sure you have the Lamp in your Inventory.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group04_StoryDescription
+Oswald's experimentation has led to dimensional anomalies appearing in Eternity Isle and Jafar might be the only one who can help fix them.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group05_Step05_FillKeyhole01_StepDescription
+Place the Lamp in the Statue of Time's arms in the Cave of Wonders.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group05_StepDescription
+Prepare to break Jafar free from the Lamp:
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group06_Step06_RemoveBlocker01_StepDescription
+Use your Hourglass to break the Lamp in the Cave of Wonders.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group06_StepDescription
+Prepare to break Jafar free from the Lamp:
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group07_Step07_TalkToCharacter02_StepDescription
+Talk to Jafar.
+

@@ -1,0 +1,36 @@
+TAG: Kristoff_000_f
+Hey, Kristoff. Ursula's looking for backup singers for a big performance, and I thought you'd be great! Would you want to help out?
+
+TAG: Player_000_choice_000_f
+Your voice is dreamy!
+
+TAG: Player_000_choice_001_f
+Your voice is like a warm hug!
+
+TAG: Kristoff_001_f
+Maybe you could play your lute too!
+
+TAG: Kristoff_002_f
+Wow. Of all the things I thought you might ask... that definitely wasn't one of them.
+
+TAG: Kristoff_003_f
+It's okay if you're not feeling up to it.
+
+TAG: Kristoff_004_f
+No, if you'd like me to, I'm happy to help.
+
+TAG: Kristoff_005_f
+Ursula wanted me to have you audition...
+
+TAG: Kristoff_006_f
+Oh. Well, I guess I can just play a song for you.
+
+TAG: Kristoff_007_f
+There. Was that okay?
+
+TAG: Kristoff_008_f
+Aw, thanks!
+
+TAG: Kristoff_009_f
+Congratulations! Can't wait to see you perform!
+

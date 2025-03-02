@@ -1,0 +1,9 @@
+TAG: Mulan_000_f
+Whoa, that's a lot of fish. Congratulations, {PlayerName}!
+
+TAG: Mulan_001_f
+Thanks to you, nobody will go hungry for awhile.
+
+TAG: Mulan_002_f
+Actually, could you <Lore>add the fish to the camp's soup pot?</Lore> It'll be a great addition to the broth.
+

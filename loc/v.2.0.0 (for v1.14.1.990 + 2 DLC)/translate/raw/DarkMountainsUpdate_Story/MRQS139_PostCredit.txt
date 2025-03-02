@@ -1,0 +1,18 @@
+TAG: Story!MRQS139_PostCredit_Any_CompletedRequestDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS139_PostCredit_AvailableDescription
+Вы остановили "Забытую" от случайного разрушения вселенной, теперь вам нужно увидеть, как они справляются со всем этим.
+
+TAG: Story!MRQS139_PostCredit_CompletedStoryDescription
+Стержень памяти восстановлен, и вы напомнили забытым о вещах, которые нужно всегда помнить. Вам нужно поговорить с Мерлин, чтобы увидеть, что будет дальше, но вы чувствуете, что это не конец, а начало.
+
+TAG: Story!MRQS139_PostCredit_DisplayName
+Загадки и конец...
+
+TAG: Story!MRQS139_PostCredit_Group01_Step01_TalkToCharacter01_StepDescription
+Проверь, как себя чувствует Забытый.
+
+TAG: Story!MRQS139_PostCredit_Group02_Step02_FillKeyhole01_StepDescription
+Возвращайте <ActivityItem>Orb памяти</ActivityItem> на столп в забытых землях.
+

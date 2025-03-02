@@ -1,0 +1,75 @@
+TAG: MikeWazowski_000_f
+Mike! How are you settling into the Valley?
+
+TAG: MikeWazowski_001_f
+Oh boy, where do I start?
+
+TAG: Player_000_choice_000_f
+At the beginning?
+
+TAG: Player_000_choice_001_f
+Think it over â I'll be back later.
+
+TAG: MikeWazowski_004_f
+Okay. Wait... AAA-CHOOO! Sheesh! This place is nuts! *sniff* Is it actually safe? If I leave my House, is the air gonna poison me?
+
+TAG: Player_001_choice_000_f
+What? No!
+
+TAG: Player_001_choice_001_f
+Is whimsy and joy toxic to you?
+
+TAG: MikeWazowski_005_f
+You'll be fine, Mike. No poisonous air here. Just relax and come have fun.
+
+TAG: MikeWazowski_007_f
+Relax?! How am I supposed to relax here?
+
+TAG: MikeWazowski_008_f
+No Harryhausen's! No cars! And all this nature! ACHOO! Grr... It's like a different planet!
+
+TAG: MikeWazowski_009_f
+Is it really that bad?
+
+TAG: MikeWazowski_010_f
+I'm sure you can survive without Harryhausen's for a while. We've got Chez Remy's, after all!
+
+TAG: MikeWazowski_018_f
+I get it; you want fashion goggles. Go for it, pal!
+
+TAG: MikeWazowski_019_f
+Just make sure they're industrial strength!
+
+TAG: MikeWazowski_011_f
+Survive? {PlayerName}, I'm talking about living, here!
+
+TAG: MikeWazowski_012_f
+Think of this as an extended glamping trip.
+
+TAG: MikeWazowski_013_f
+Glamping?! I do not "glamp."
+
+TAG: MikeWazowski_014_f
+And even if the air here is fine, YOU are constantly hopping around worlds, right? What if you picked up some sort of interdimensional parasite?!
+
+TAG: MikeWazowski_003_f
+Can't you put on something that'll keep me safe from whatever strange magical germs you might be carrying?
+
+TAG: MikeWazowski_015_f
+If it will get you to calm down and stop being so dramatic, sure!
+
+TAG: MikeWazowski_016_f
+Great! I'm thinking <ActivityItem>Safety Goggles</ActivityItem>. I'm VERY vulnerable to optical parasites.
+
+TAG: MikeWazowski_017_f
+I can <Lore>talk to Scrooge McDuck and see if he can order something</Lore>.
+
+TAG: MikeWazowski_020_f
+I'm sure you can survive without Harryhausen's for a while. We've got plenty of food!
+
+TAG: MikeWazowski_006_f
+Oh, funny. I guess my health is a big joke to you.
+
+TAG: MikeWazowski_002_f
+Okay. Wait... AAA-CHOOO! Sheesh! This place is nuts! *sniff* Is it actually safe? If I stay outside, is the air gonna poison me?
+

@@ -1,0 +1,33 @@
+TAG: Sully_001_f
+You don't need to say a word, {PlayerName}. Mike's up on all the Village gossip. He tells me you're looking for something to help Pumbaa clean his teeth.
+
+TAG: Sully_002_f
+Yeah... I was hoping you might have some spare toothpaste?
+
+TAG: Sully_003_f
+Sure do!
+
+TAG: Sully_004_f
+Gotta warn you though... Monster toothpaste is a little different. This one is "Praying Mint-is" flavor. Sort of a bug-spearmint combo.
+
+TAG: Player_000_choice_000_f
+Like "Praying Mantis" but with mint!
+
+TAG: Player_000_choice_001_f
+It's a bug-flavored toothpaste?!
+
+TAG: Player_000_choice_002_f
+... Ew.
+
+TAG: Sully_006_f
+Ha, you got it! Hope that's not a problem.
+
+TAG: Sully_005_f
+That's actually perfect for Pumbaa.
+
+TAG: Sully_008_f
+You can <Lore>check around my House for the toothpaste</Lore>. It's in there somewhere!
+
+TAG: Sully_007_f
+Hey, I heard you humans have some pretty interesting flavors too. Like bubblegum? Cinnamon? Ugh. Just the thought makes my fur stand on end.
+

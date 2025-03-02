@@ -1,0 +1,63 @@
+TAG: Default_DisplayName
+Dreamlight Glitter
+
+TAG: Eyeball_01_DisplayName
+{Placeholder}Full pupil
+
+TAG: Eyeball_02_DisplayName
+{Placeholder}3 quarters pupil
+
+TAG: EyeBall_03_DisplayName
+{Placeholder}Half pupil
+
+TAG: EyeBall_04_DisplayName
+{Placeholder}Quarter pupil
+
+TAG: EyeBall_05_DisplayName
+{Placeholder}Monstruous A
+
+TAG: EyeBall_06_DisplayName
+{Placeholder}Monstruous B
+
+TAG: EyeBall_07_DisplayName
+{Placeholder}Monstruous C
+
+TAG: EyeBall_08_DisplayName
+{Placeholder}Monstruous D
+
+TAG: EyeBall_09_DisplayName
+{Placeholder}Spirals
+
+TAG: EyeBall_10_DisplayName
+{Placeholder}Foggy
+
+TAG: EyeBall_11_DisplayName
+{Placeholder}Hearts
+
+TAG: EyeBall_12_DisplayName
+{Placeholder}Mickey
+
+TAG: Surfboard01_DisplayName
+Striped Surf Glider
+
+TAG: Surfboard02_DisplayName
+White Surf Glider
+
+TAG: Surfboard03_DisplayName
+Island Surf Glider
+
+TAG: Surfboard04_DisplayName
+Blue Striped Surf Glider
+
+TAG: Surfboard05_DisplayName
+Beachy Surf Glider
+
+TAG: Surfboard06_DisplayName
+Pink Striped Surf Glider
+
+TAG: Update12!FrozoneGlider01_DisplayName
+Frozone Glider
+
+TAG: Update14!BookGlider01_DisplayName
+Book Glider
+

@@ -1,0 +1,12 @@
+TAG: Description
+{Placeholder}Garden 20 предметов на каждый участок.
+
+TAG: Description_000
+{Placeholder} Пункт, исходящий из определённой области.
+
+TAG: Name
+{Placeholder}Garding мини-событие
+
+TAG: Name_000
+{Placeholder}Garden 20 Семя из Медоу
+

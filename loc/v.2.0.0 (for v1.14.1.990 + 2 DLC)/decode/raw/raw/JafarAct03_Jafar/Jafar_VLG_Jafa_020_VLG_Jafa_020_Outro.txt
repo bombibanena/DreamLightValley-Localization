@@ -1,0 +1,90 @@
+TAG: Jafar_003_f
+Okay Jafar, we've got the <ActivityItem>Stone of Creativity</ActivityItem>, and we've got the additional essences. Are you satisfied with your alchemical experiment now?
+
+TAG: Jafar_004_f
+Just a moment, {PlayerName}. Allow me to combine them all...
+
+TAG: Jafar_006_f
+This... this is not the stone I wanted!
+
+TAG: Jafar_007_f
+What? You didn't get the Gilded Stone? What did that do?
+
+TAG: Jafar_008_f
+It... This is most disagreeable.
+
+TAG: Jafar_009_f
+The stone is clearly activated. I feel it summoning... emotions within me.
+
+TAG: Player_000_choice_000_f
+The horror!
+
+TAG: Player_000_choice_001_f
+Which emotions?
+
+TAG: Jafar_010_f
+I see â your response to having been taught a Secret Science is to engage in mockery.
+
+TAG: Jafar_000_f
+Hmm, now that I consider the matter more fully...
+
+TAG: Jafar_020_f
+I have learned much from this failure. And there is much that I may now attempt in the future.
+
+TAG: Jafar_001_f
+Yes, I believe I may find a use for this stone after all!
+
+TAG: Jafar_021_f
+Well, that's good to hear! What kind of stuff?
+
+TAG: Jafar_022_f
+Oh, I will be sure to contact you anew should I require more assistance. But rest assured, it will be for the good of the Valley...
+
+TAG: Player_001_choice_000_f
+Good to hear!
+
+TAG: Player_001_choice_001_f
+Okay...
+
+TAG: Jafar_011_f
+I'm sorry, Jafar; I guess I don't feel like emotions are particularly horrible.
+
+TAG: Jafar_012_f
+I feel... joy. Joy and compassion.
+
+TAG: Jafar_013_f
+Oh, that's not too bad then!
+
+TAG: Jafar_014_f
+These are entirely inappropriate emotions for my current state of mind.
+
+TAG: Jafar_015_f
+Compassion is a distraction. And joy... About what do I have to feel joyful?
+
+TAG: Jafar_016_f
+No, I can feel the stone working its way into my mind like a parasite.
+
+TAG: Jafar_017_f
+Perhaps you would be more suited to such an artifact, {PlayerName}.
+
+TAG: Jafar_019_f
+I don't know â maybe it would be good for you to keep this on you!
+
+TAG: Jafar_023_f
+Until next time, {PlayerName}.
+
+TAG: Jafar_024_f
+That's somewhat ominous.
+
+TAG: Jafar_025_f
+My apologies, {PlayerName}; I may have grown unused to speaking with others during my imprisonment. Rest assured: I have everyone's best interests at heart.
+
+TAG: Jafar_002_f
+In truth, I find failure helpful as then I must reflect on what is necessary to achieve greatness.
+
+TAG: Jafar_005_f
+I shall keep the stone as a reminder that science is often a process of learning from one's mistakes.
+
+TAG: Jafar_026_f
+If you say so...
+

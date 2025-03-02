@@ -1,0 +1,36 @@
+TAG: Pumbaa_000_f
+Oh boy! These smell delicious!
+
+TAG: Pumbaa_008_f
+Thanks, Pumbaa! I even put them in a nifty glass container for you.
+
+TAG: Pumbaa_001_f
+*munch munch munch*
+
+TAG: Pumbaa_002_f
+Gee, those were the tastiest fireflies I ever ate. I can't wait for Timon to try 'em too!
+
+TAG: Pumbaa_003_f
+You did real good today, {PlayerName}!
+
+TAG: Player_000_choice_000_f
+I learned a lot!
+
+TAG: Player_000_choice_001_f
+I never knew relaxing was so much work!
+
+TAG: Player_000_choice_002_f
+Thanks for not making me eat bugs.
+
+TAG: Pumbaa_004_f
+That's great! I sure had a swell time teachin' ya.
+
+TAG: Pumbaa_007_f
+*yawn* I'm kinda sleepy. How 'bout we settle in for the night?
+
+TAG: Pumbaa_005_f
+Yep, it takes lots of concentration and practice.
+
+TAG: Pumbaa_006_f
+You bet! Besides, that means there's more for me and Timon.
+

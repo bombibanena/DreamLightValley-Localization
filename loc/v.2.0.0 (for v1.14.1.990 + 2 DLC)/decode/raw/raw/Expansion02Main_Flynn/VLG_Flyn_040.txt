@@ -1,0 +1,96 @@
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Any_CompletedRequestDescription
+Check in on Flynn to see how he's doing.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_AvailableDescription
+As his adventure came to an end, Flynn realized he needed to do something to share all he had been through. Excited to help, {PlayerName} paid him a visit.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_DisplayName
+The Adventures of Flynn Rider
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group01_Step01_Listen01_StepDescription
+Listen to Flynn and Belle.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group01_StoryDescription
+With {PlayerName}'s encouragement, Flynn decided to write a book of his adventures. However, though handsome in face and clever in mind, he lacked a way with the written word. {PlayerName} went off to ask the bibliophile Belle for help.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Flynn.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_StepDescription
+Take pictures of Flynn:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_TakePicture01_StepDescription
+At Mount Olympus.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_TakePicture02_StepDescription
+In the Wild Woods.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_TakePicture03_StepDescription
+At the fountain in the Bind, behind the Lorekeeper.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to Flynn.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group05_Step05_StepDescription
+Check your mailbox for <ActivityItem>Business Cards</ActivityItem> from potential publishers.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_ReadyDescription
+Bring the <ActivityItem>Business Cards</ActivityItem> to Flynn.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_StepDescription
+Make sure you have the following in your Inventory:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group07_Step07_TalkToCharacter03_StepDescription
+Talk to Scrooge McDuck.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group07_StoryDescription
+As time went on, Flynn's book began taking shape. {PlayerName} suggested a special book signing event, an opportunity for Flynn to share his stories with others in person.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group08_Step09_PurchaseItem01_StepDescription
+Order the Ink and Quill from Scrooge.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group08_StepDescription
+Gather the following material:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group09_Step10_CraftItem01_StepDescription
+Craft the {itemName}.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group10_Step11_Decorate01_StepDescription
+Place the {itemName} anywhere in the Valley.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group11_Step12_Party01_StepDescription
+Attend the Book Signing.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group12_Step13_TalkToCharacter04_StepDescription
+Talk to Flynn.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group13_Step14_Listen02_StepDescription
+Listen to Flynn and the Lorekeeper.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group13_StoryDescription
+The Adventures of Flynn Rider was a huge success! Flynn felt like a true hero, surrounded by adoring fans! However, he had one more thing he had to do...
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_Group14_Step15_VisitArea01_StepDescription
+{Placeholder}Go inside Scrooge's Store.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

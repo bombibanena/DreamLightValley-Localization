@@ -1,0 +1,42 @@
+TAG: Tiana_000_f
+I'd have to say how it brings folks together.
+
+TAG: Tiana_001_f
+Do you have a favorite food, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+Anything sweet!
+
+TAG: Player_000_choice_001_f
+I love a warm, hearty meal!
+
+TAG: Player_000_choice_002_f
+I'm not too sure.
+
+TAG: Tiana_002_f
+Oh, I do love a good dessert!
+
+TAG: Tiana_003_f
+And beignets are my specialty. Have you ever had one?
+
+TAG: Tiana_007_f
+The sugar sprinkled on top gives them just the right amount of sweetness!
+
+TAG: Tiana_005_f
+I couldn't agree more.
+
+TAG: Tiana_008_f
+I've been making gumbo since I was a child.
+
+TAG: Tiana_009_f
+To this day, a spoonful makes me feel like I'm back home in Mama and Daddy's kitchen.
+
+TAG: Tiana_006_f
+Well, we're going to have to fix that!
+
+TAG: Tiana_010_f
+Maybe I can help you explore some different foods.
+
+TAG: Tiana_011_f
+I bet you'll find a flavor that really speaks to you.
+

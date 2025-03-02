@@ -1,0 +1,90 @@
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Any_CompletedRequestDescription
+Поговори с Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_AvailableDescription
+Теперь, когда вы построили сцену, Олаф искали историю, чтобы рассказать.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_CompletedStoryDescription
+Ты помогаешь Олаф, получая для него справочные изображения, а теперь он готов написать пьесу.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_DisplayName
+История, которую нужно рассказать
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Реми.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group02_Step02_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group02_Step02_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group02_Step02_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group02_Step09_TalkToCharacter03_StepDescription
+Поговорите с Эльза, чтобы получить <ActivityItem>Pure Ice</ActivityItem>.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group02_StepDescription
+Соберите следующие Ингредиенты, чтобы приготовить закуску для Олаф:
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group04_Step04_CookMeal01_StepDescription
+Приготовить Олаф закуски с использованием <ActivityItem>Corn</ActivityItem> (x2), <ActivityItem>Butter</ActivityItem>, <ActivityItem>Sugarcane</ActivityItem> и <ActivityItem>Pure Ice</ActivityItem>.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group06_Step06_BringItem01_StepDescription
+Убедитесь, что {ItemName} в вашем списке.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group06_Step06_ReadyDescription
+Возьмите {itemName} на Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group07_Step07_StepDescription
+Поговорить с:
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group07_Step07_TalkToCharacter02_StepDescription
+Кристофф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group07_Step07_TalkToCharacter04_StepDescription
+Дональд Дак.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group07_StoryDescription
+Вы делаете сладкий попкорн для Олаф и рассказываете ему историю своих приключений, но на самом деле его интересует история Дональд Дак и Кристофф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_StepDescription
+Сфотографируйте следующие места:
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_TakePicture01_StepDescription
+Стержень смелости из леса Валора.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_TakePicture02_StepDescription
+На кладбище слонов на плато Санлит.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_TakePicture03_StepDescription
+Руины в забытых землях.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group08_StoryDescription
+Олаф решает, что версия сюжета Дональд Дак гораздо более захватывающая. Теперь ему просто понадобится несколько справочных изображений, чтобы написать пьесу.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group11_Step11_TalkToCharacter05_StepDescription
+Возвращайтесь на Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group11_StoryDescription
+Дональд Дак и Кристофф дают вам две совершенно разные истории о том, что произошло в их поисках борьбы с Забвением.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мы делали снова?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что теперь?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что теперь?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делал?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Mission.
+

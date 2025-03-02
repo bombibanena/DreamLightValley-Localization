@@ -1,0 +1,99 @@
+TAG: JackSkellington_002_f
+What do you think of this place?
+
+TAG: JackSkellington_003_f
+It's...
+
+TAG: Player_000_choice_000_f
+Too gloomy?
+
+TAG: Player_000_choice_001_f
+Too isolated?
+
+TAG: Player_000_choice_002_f
+Not frightening enough?
+
+TAG: JackSkellington_004_f
+No... it's perfect!
+
+TAG: JackSkellington_005_f
+I can already envision all the research I'll do here.
+
+TAG: JackSkellington_006_f
+My Christmas experiments will seem frivolous in comparison!
+
+TAG: Player_001_choice_000_f
+That's great!
+
+TAG: Player_001_choice_001_f
+That's... concerning.
+
+TAG: JackSkellington_007_f
+I have so many ideas, and I want to get to all of them quickly!
+
+TAG: JackSkellington_011_f
+So what's next?
+
+TAG: JackSkellington_012_f
+Well... I'll need scientific instruments.
+
+TAG: JackSkellington_013_f
+Normally I'd borrow tools from Dr. Finkelstein, but that's not possible now.
+
+TAG: JackSkellington_000_f
+What about the stuff here? You've got flasks, a mortar and pestle, potions...
+
+TAG: JackSkellington_001_f
+Oh, I'll most certainly make good use of the equipment here!
+
+TAG: JackSkellington_009_f
+But for the experiments I'm planning, I'll need equipment made to certain physical tolerances.
+
+TAG: JackSkellington_019_f
+I wouldn't want anything exploding on me because I used the wrong type of glass container!
+
+TAG: Player_003_choice_000_f
+Coooooool.
+
+TAG: Player_003_choice_001_f
+I'm starting to regret agreeing to this.
+
+TAG: Player_003_choice_002_f
+Well, I'm thankful this place is isolated.
+
+TAG: JackSkellington_020_f
+Isn't it?
+
+TAG: JackSkellington_014_f
+Well, good thing I'm a crafting genius! What do you need?
+
+TAG: JackSkellington_015_f
+Nothing particularly fancy â a standard array of flasks, burners, crucibles...
+
+TAG: JackSkellington_016_f
+Someone of your skill should be able to craft a <ActivityItem>Scientific Kit</ActivityItem> by using <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Coal</ActivityItem>, <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, and <ActivityItem>Empty Vials</ActivityItem>.
+
+TAG: JackSkellington_017_f
+Sure! Talk to you later.
+
+TAG: JackSkellington_018_f
+Brilliant! I'm off to see Merlin now â I hear he has a mind for magic, and I could use an expert's introduction to the arcane forces at work here.
+
+TAG: JackSkellington_021_f
+Nonsense! I picked this spot for a reason!
+
+TAG: JackSkellington_022_f
+Exactly why it appealed to me!
+
+TAG: JackSkellington_008_f
+Oh no, there's no need to worry. This location is perfectly isolated. There's only a small chance of things escaping.
+
+TAG: Player_002_choice_000_f
+Great, let's try to lower that chance even more.
+
+TAG: Player_002_choice_001_f
+Oh I'm worrying.
+
+TAG: JackSkellington_010_f
+But let's try to be positive for now...
+

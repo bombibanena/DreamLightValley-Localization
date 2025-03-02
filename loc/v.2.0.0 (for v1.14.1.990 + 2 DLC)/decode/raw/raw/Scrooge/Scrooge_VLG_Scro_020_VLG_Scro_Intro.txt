@@ -1,0 +1,42 @@
+TAG: Scrooge_000_f
+Curse me kilts... Hard as I try, I can't unlock my blasted safe!
+
+TAG: Scrooge_001_f
+Ever since we all lost our memories, I can't recall the combination.
+
+TAG: Scrooge_002_f
+I left myself this note under the register with instructions on how to find it again, but I don't remember the answers to the clues. Will you help me jog the ol' memory?
+
+TAG: Player_000_choice_000_f
+I'd love to!
+
+TAG: Player_000_choice_001_f
+Sure why not...
+
+TAG: Player_000_choice_002_f
+Sorry, Mr. McDuck. Not this time.
+
+TAG: Scrooge_003_f
+Thank you! And, might I say, you've a splendid attitude.
+
+TAG: Scrooge_006_f
+Now, everything you need to know to find my six-digit safe combination is on that note.
+
+TAG: Scrooge_004_f
+You could work on your attitude, you know. Muster up at least a wee bit of enthusiasm.
+
+TAG: Scrooge_005_f
+Ah, well. I'm sure I'll solve it myself... eventually.
+
+TAG: Scrooge_032_f
+If you don't find something he'd want in my shop, come and talk to me.
+
+TAG: Scrooge_033_f
+I've just installed an on-demand delivery system so you can order anything in my catalog.
+
+TAG: Scrooge_031_f
+Does such a thing exist? I think I'd have heard about one of those if we had 'em here in the Valley.
+
+TAG: Scrooge_030_f
+Aye, that would make sense. But the answer is "blue."
+

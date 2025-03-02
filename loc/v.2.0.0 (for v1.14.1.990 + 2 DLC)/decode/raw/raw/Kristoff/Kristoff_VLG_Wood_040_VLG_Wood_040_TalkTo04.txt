@@ -1,0 +1,36 @@
+TAG: Kristoff_002_f
+Hey, how's it going with the Carousel? I saw you made some repairs to it.
+
+TAG: Kristoff_000_f
+It's only missing one thing. There's an enchantment we need to do to turn on the lights.
+
+TAG: Player_000_f
+Is there a childhood souvenir you have strong feelings about that you could share with Woody? I'm looking for...
+
+TAG: Player_000_choice_000_f
+...something magical.
+
+TAG: Player_000_choice_001_f
+...something iconic.
+
+TAG: Player_000_choice_002_f
+...something with reindeer, maybe?
+
+TAG: Kristoff_004_f
+I have something. It's not magical, exactly, but it's close enough.
+
+TAG: Kristoff_007_f
+Maybe you don't know this, but I was kinda raised by trolls...
+
+TAG: Kristoff_003_f
+They were great. A little pushy, but really nice. They made me feel like I was a part of their family.
+
+TAG: Kristoff_008_f
+So, I've got this little troll statue that I whittled to remember them by. I'm happy to let you borrow it to help Woody. Here you go.
+
+TAG: Kristoff_005_f
+I don't know if it's iconic, but I may have something.
+
+TAG: Kristoff_006_f
+Actually, I've got an idea. And this may surprise you, but it's got nothing to do with reindeer.
+

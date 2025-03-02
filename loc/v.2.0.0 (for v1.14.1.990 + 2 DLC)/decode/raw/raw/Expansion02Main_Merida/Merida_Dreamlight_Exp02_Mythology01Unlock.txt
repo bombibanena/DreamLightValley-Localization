@@ -1,0 +1,33 @@
+TAG: Merida_000_f
+If we unblock this, we can visit <Lore>the Elysian Fields</Lore>!
+
+TAG: Merida_001_f
+It's a space wide open to the bonny skies of Mythopia. I imagine there's all sorts of magic there.
+
+TAG: Player_000_choice_000_f
+Let's explore the Elysian Fields. (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
+
+TAG: Player_000_choice_001_f
+I'll deal with this later.
+
+TAG: Merida_002_f
+Look â the ink's melting away! C'mon, the Elysian Fields await!
+
+TAG: Merida_003_f
+Oh no... Nothing happened? I suppose you need <Lore>more Story Magic</Lore>.
+
+TAG: Merida_004_f
+You're the only one who can reach these unreachable places, you know.
+
+TAG: Merida_005_f
+So please come back as soon as you can!
+
+TAG: Merida_006_f
+Well, all right.
+
+TAG: Merida_007_f
+But we'd better <Lore>clean up the Bind</Lore> before we try to venture in there.
+
+TAG: Merida_008_f
+It's part of <Lore>Hades' territory</Lore>, and I'm not sure we're ready for that.
+
