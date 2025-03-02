@@ -6,10 +6,6 @@ import (
 	"ddv_loc/pkg/cmd"
 )
 
-const (
-	version = "2.0.0" // Version
-)
-
 func main() {
 	app.Config = config.New()
 

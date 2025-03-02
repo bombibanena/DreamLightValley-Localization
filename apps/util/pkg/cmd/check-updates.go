@@ -2,18 +2,21 @@ package cmd
 
 import (
 	"fmt"
+	"log"
 	"os"
 
 	"github.com/spf13/cobra"
+	"github.com/spf13/cobra/doc"
 
 	"ddv_loc/pkg/types"
 	"ddv_loc/pkg/updater"
 )
 
 var checkUpdatesOpts struct {
-	input  string
-	output string
-	format types.FormatEnum
+	inputOld string
+	inputNew string
+	report   string
+	format   types.FormatEnum
 }
 
 var checkUpdatesCmd = &cobra.Command{
@@ -21,14 +24,14 @@ var checkUpdatesCmd = &cobra.Command{
 	Use:     "check-updates",
 	Short:   "Проверка файла/файлов на наличие обновлений",
 	Run: func(cmd *cobra.Command, args []string) {
-		res, err := updater.CheckUpdates(checkUpdatesOpts.format.String(), checkUpdatesOpts.input, checkUpdatesOpts.output)
+		res, err := updater.CheckUpdates(checkUpdatesOpts.format.String(), checkUpdatesOpts.inputOld, checkUpdatesOpts.inputNew, checkUpdatesOpts.report)
 		if err != nil {
 			fmt.Printf("Ошибка при проверке обновлений: %v\n", err)
 			os.Exit(1)
 		}
 
 		if res {
-			fmt.Printf("Обновления найдены и помещены в %s\n", checkUpdatesOpts.output)
+			fmt.Printf("Обновления найдены и помещены в %s\n", checkUpdatesOpts.report)
 			os.Exit(0)
 		}
 
@@ -40,10 +43,19 @@ var checkUpdatesCmd = &cobra.Command{
 func init() {
 	rootCmd.AddCommand(checkUpdatesCmd)
 
-	checkUpdatesCmd.Flags().StringVarP(&checkUpdatesOpts.input, "input", "i", "", "Путь до папки с расшифрованным файлом/файлами (required)")
-	checkUpdatesCmd.Flags().StringVarP(&checkUpdatesOpts.output, "output", "o", "", "Путь к папке, в которую будет сохранен отчёт (required)")
+	checkUpdatesCmd.Flags().StringVarP(&checkUpdatesOpts.inputOld, "input-old", "o", "", "Путь до папки с расшифрованным файлом/файлами (СТАРЫЙ) (required)")
+	checkUpdatesCmd.Flags().StringVarP(&checkUpdatesOpts.inputNew, "input-new", "n", "", "Путь до папки с расшифрованным файлом/файлами (НОВЫЙ) (required)")
+	checkUpdatesCmd.Flags().StringVarP(&checkUpdatesOpts.report, "report", "r", "", "Путь к папке, в которую будет сохранен отчёт (required)")
 	checkUpdatesCmd.Flags().VarP(&checkUpdatesOpts.format, "format", "f", "Формат (required)")
-	checkUpdatesCmd.MarkFlagRequired("input")
-	checkUpdatesCmd.MarkFlagRequired("output")
+	checkUpdatesCmd.MarkFlagRequired("input-old")
+	checkUpdatesCmd.MarkFlagRequired("input-new")
+	checkUpdatesCmd.MarkFlagRequired("report")
 	checkUpdatesCmd.MarkFlagRequired("format")
+}
+
+func main() {
+	err := doc.GenMarkdownTree(checkUpdatesCmd, "../docs")
+	if err != nil {
+		log.Fatal(err)
+	}
 }
