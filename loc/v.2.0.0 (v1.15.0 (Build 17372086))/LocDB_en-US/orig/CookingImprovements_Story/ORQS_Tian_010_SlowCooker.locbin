@@ -1,27 +1,0 @@
-
-‘
->Story!ORQS_Tian_010_SlowCooker_Any_CompletedRequestDescriptionOTalk to <Lore>Tiana</Lore> about your <ActivityItem>Slow Cooker</ActivityItem>.
-b
-3Story!ORQS_Tian_010_SlowCooker_AvailableDescription+Seems like Tiana's got something cooking...
-=
-*Story!ORQS_Tian_010_SlowCooker_DisplayNameSlow and Steady
-g
-OStory!ORQS_Tian_010_SlowCooker_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess01_StepDescription{ItemName}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess02_StepDescription{ItemName}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess03_StepDescription{ItemName}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess04_StepDescription{ItemName}.
-‘
-=Story!ORQS_Tian_010_SlowCooker_Group02_Step02_StepDescriptionPGather the materials needed to craft a <ActivityItem>Slow Cooker</ActivityItem>.
-`
-IStory!ORQS_Tian_010_SlowCooker_Group03_Step03_CraftItem01_StepDescriptionCraft a {ItemName}.
-p
-HStory!ORQS_Tian_010_SlowCooker_Group04_Step04_Decorate01_StepDescription$Place your {ItemName} in the Valley.
-ƒ
-WStory!ORQS_Tian_010_SlowCooker_Group05_Step05_AncientMachineOperation01_StepDescription(Cook {ItemName} with your {MachineName}.
-Â
-WStory!ORQS_Tian_010_SlowCooker_Group06_Step06_AncientMachineOperation02_StepDescriptiongCollect your meals from the {MachineName}.<br>(It will take some time for the {MachineName} to finish!)

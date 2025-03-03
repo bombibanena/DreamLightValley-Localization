@@ -1,25 +1,0 @@
-
-,
-Pumbaa_000_fHey Pumbaa! Buddy? You okay?
-J
-Pumbaa_001_f:Oh, {PlayerName}! I just knew you'd come back and help me!
-k
-Pumbaa_002_f[Timon said maybe you'd forget. But I said, nope! {PlayerName} would never do that to a pal!
-1
-Player_001_choice_000_fI'd never abandon you!
-K
-Player_001_choice_001_f0Sorry if it took a little longer than planned...
-W
-Player_001_choice_002_f<I'm going to help, but I have to say, you look pretty funny.
-0
-Pumbaa_004_f I knew it! You're a real friend.
-6
-Pumbaa_006_f&So, uh... how are ya gonna get me out?
-d
-Pumbaa_007_fTI've got a special plunger. I'm gonna use it to get enough leverage to pull you out!
-F
-Pumbaa_008_f6Between this and that oil? It's gonna be fine. I hope.
-O
-Pumbaa_003_f?That's okay! I started makin' up a song about the moss in here.
->
-Pumbaa_005_f.Yeah, I bet this looks silly from the outside.

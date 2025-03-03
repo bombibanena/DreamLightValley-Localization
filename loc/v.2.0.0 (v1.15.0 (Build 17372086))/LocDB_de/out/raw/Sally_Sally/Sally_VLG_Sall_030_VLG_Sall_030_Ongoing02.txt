@@ -1,9 +1,0 @@
-TAG: Sally_000_f
-I can't tell you exactly what's happening yet, but I'm gathering supplies for something with Minnie and Daisy AND YOU.
-
-TAG: Sally_001_f
-How intriguing.
-
-TAG: Sally_002_f
-I just need to <Lore>collect the materials</Lore> we need to get started. <ActivityItem>Gold Ingots</ActivityItem>, <ActivityItem>Purple Impatiens</ActivityItem>, <ActivityItem>Red Bell Flowers</ActivityItem>, and <ActivityItem>Fabric</ActivityItem>!
-

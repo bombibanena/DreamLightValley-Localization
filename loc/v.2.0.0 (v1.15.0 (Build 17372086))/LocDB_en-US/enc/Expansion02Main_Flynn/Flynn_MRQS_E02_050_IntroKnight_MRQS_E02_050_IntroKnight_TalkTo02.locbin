@@ -1,61 +1,0 @@
-
-b
-Flynn_001_fSYou're wearing the knight armor! Nicely done. And may I say, it fits you perfectly.
-‰
-Flynn_002_fzBut... the drawbridge still isn't lowering. That means there are more things you need to do before you're really a knight.
-;
-Flynn_003_f,I'm thinking you need a <Lore>squire</Lore>.
-+
-Player_000_choice_000_fWhat's a squire?
-6
-Player_000_choice_001_fWhy don't you be my squire?
-i
-Flynn_004_fZIt's like a knight in training. A knight's apprentice. A junior assistant to the knight...
-'
-Flynn_005_fLook, you get it, right?
--
-Flynn_007_fSo why don't you be my squire?
-x
-Flynn_006_fiWhoaaa! No, no, no. The squire is always an annoying little sidekick who can't stop getting into trouble.
-D
-Player_001_choice_000_f)C'mon, Flynn. It's just to get us inside.
-1
-Player_001_choice_001_fYou owe me one, Flynn!
->
-Player_001_choice_002_f#Soooo, the role fits you perfectly?
-"
-Flynn_008_f*sigh* All right...
-)
-Flynn_012_fFine! I'll be your squire.
-E
-Flynn_013_f6Your dashing, debonair, devastatingly charming squire.
-f
-Flynn_014_fWNow, the next thing you need to be a knight is to <Lore>defeat a mythical beast</Lore>.
-<
-Player_002_f,Hmmm. Defeat a mythical beast. What about...
-N
-Player_002_choice_000_f3...Maleficent? She can change into a dragon, right?
-N
-Player_002_choice_001_f3...you? I defeated the Wolf of the Wilds, didn't I?
-P
-Player_002_choice_002_f5...one of those cute little dragons around Everafter?
-V
-Flynn_015_fGUh, for your first mythical beast, I suggest starting a little smaller.
-X
-Flynn_016_fISome kind of starter mythical beast. You know, just to get your feet wet.
-T
-Flynn_019_fEHow about those <Lore>funny little dragons</Lore> all over Everafter?
-h
-Flynn_021_fYTry <Lore>taming one of the small dragons</Lore>. That just might make you a real knight!
-e
-Flynn_017_fVHuh. I actually appreciate you calling me a mythical beast, but I don't think I count.
-i
-Flynn_020_fZI think your best bet would be those <Lore>funny little dragons</Lore> all over Everafter.
-J
-Flynn_018_f;Hmm. They are cute, aren't they? But I'm sure they'd count.
-7
-Flynn_009_f(I guess you did save me from that curse.
-
-Flynn_010_fHey!
-E
-Flynn_011_f6*sigh* Though I guess you did save me from that curse.

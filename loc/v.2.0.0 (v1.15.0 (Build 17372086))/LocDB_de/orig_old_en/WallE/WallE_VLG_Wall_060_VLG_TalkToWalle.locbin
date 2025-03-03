@@ -1,53 +1,0 @@
-
-
-WallE_000_fpAriel is looking for a <ActivityItem>Bowling Pin</ActivityItem>, a <ActivityItem>Toy Train</ActivityItem> and...
-O
-WallE_001_f@... I think she meant a <ActivityItem>Light Bulb</ActivityItem>.
-(
-WallE_002_fDo you have any of those?
-
-WallE_003_fHmm...
-5
-Player_000_f%Where do you think we could find a...
-D
-Player_000_choice_000_f)<ActivityItem>Bowling Pin</ActivityItem>?
-B
-Player_000_choice_001_f'<ActivityItem>Toy Train</ActivityItem>?
-C
-Player_000_choice_002_f(<ActivityItem>Light Bulb</ActivityItem>?
-
-WallE_004_f	Ooh! Ooh!
-¤
-WallE_014_f”You're using your hands to make a... long nose... and... a pointy hat? Oh! Do you think Goofy or Merlin would have one? Okay! I can check with them.
-
-Player_001_fAnd...
-Q
-Player_001_choice_000_f6What about a <ActivityItem>Bowling Pin</ActivityItem>?
-N
-Player_001_choice_001_f3How about a <ActivityItem>Toy Train</ActivityItem>?
-E
-Player_001_choice_002_f*A <ActivityItem>Light Bulb</ActivityItem>?
-2
-Player_001_choice_003_fLet's go look for them!
-
-WallE_007_f	Ooh! Ooh!
-¤
-WallE_011_f”You're using your hands to make a... long nose... and... a pointy hat? Oh! Do you think Goofy or Merlin would have one? Okay! I can check with them.
-
-WallE_008_fUh...
-L
-WallE_012_f=I'm not sure either... Maybe Scrooge or Mickey will have one.
-
-WallE_009_fWALLÂ·E!
-L
-WallE_013_f=You think you have that in your own collection? That's great!
-
-WallE_010_fWhoopee!
-
-WallE_005_fUh...
-L
-WallE_015_f=I'm not sure either... Maybe Scrooge or Mickey will have one.
-
-WallE_006_fWALLÂ·E!
-L
-WallE_016_f=You think you have that in your own collection? That's great!

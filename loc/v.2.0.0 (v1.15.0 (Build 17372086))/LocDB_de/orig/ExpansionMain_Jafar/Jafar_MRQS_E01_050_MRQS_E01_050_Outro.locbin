@@ -1,57 +1,0 @@
-
-,
-Jafar_002_fDo you see now, {PlayerName}?
-G
-Jafar_007_f8What lies before you was once nothing but barren desert.
-‡
-Jafar_011_fxBut with the magic artifacts of Eternity Isle, <Lore>half of it was transformed into a lush jungle</Lore> at my command!
-o
-Jafar_016_f`However, now it is split down the middle by a rift in time that threatens to destroy everything!
-3
-Player_000_choice_000_fI won't let that happen.
->
-Player_000_choice_001_f#I can't wait to explore this place.
-F
-Player_000_choice_002_f+So... you're saying this is all your fault?
-m
-Jafar_017_f^That note of determination in your voice... I chose well when I sought your aid, {PlayerName}.
-V
-Jafar_021_fGYou will need determination if you are to have any hope of reaching me.
-l
-Jafar_023_f]The Time Rift in the middle of the Island has left me trapped in the palace at the other end.
-e
-Jafar_024_fVHow am I supposed to get to you with this <Lore>broken bridge</Lore> blocking the way?
-Z
-Jafar_025_fKYou must obtain an ancient Relic known as <Lore>the Royal Hourglass</Lore>!
-}
-Jafar_010_fnIt is under the protection of that <Lore>flying metal nuisance</Lore>. You must find a way to get it from her.
-&
-Player_001_fThis metal nuisance...
-0
-Player_001_choice_000_fWhere can I find her?
-&
-Player_001_choice_001_fWho is she?
-/
-Player_001_choice_002_fIs she dangerous...?
-Y
-Jafar_026_fJShe is here, somewhere, in Ancient's Landing. <Lore>Search for her</Lore>.
-M
-Jafar_013_f>Perhaps she will trust you and simply hand the Hourglass over.
-Š
-Jafar_006_f{You may <Lore>have to use your Pickaxe</Lore> to clear away the <ActivityItem>Copper Rocks</ActivityItem> blocking the way.
-E
-Jafar_004_f6Oh, and {PlayerName}? When you find that metal pest...
-S
-Jafar_005_fD...do take care. She has a nasty habit of blasting things to shreds.
-x
-Jafar_014_fiI have no idea what she calls herself. Only that she has been a thorn in my side since the day I arrived.
-_
-Jafar_027_fPShe almost reminds me of a certain street rat... never knowing her proper place.
-b
-Jafar_015_fSDangerous? Most certainly. She has been a thorn in my side since the day I arrived.
-L
-Jafar_018_f=Yes, there is much to explore. But also dangers to encounter.
-y
-Jafar_020_fjTake it from me; the magic of Eternity Isle is like a tiger that turns to bite you when you grab its tail.
-‚
-Jafar_019_fsMY fault? Hardly. This island, and the relics scattered about it... why, they practically have a mind of their own!

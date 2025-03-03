@@ -1,6 +1,0 @@
-TAG: Aladdin_000_f
-These stalls won't fix themselves! We'll need <ActivityItem>Fine Rope</ActivityItem>, <ActivityItem>Timber Stacks</ActivityItem>, and <ActivityItem>Bolts of Silk</ActivityItem>.
-
-TAG: Aladdin_001_f
-That's right! I was working on those <ActivityItem>Stall Repair Kits</ActivityItem> for us.
-

@@ -1,111 +1,0 @@
-
-j
-@Village!Mulan!Mulan!VLG_Mula_010_Any_CompletedRequestDescription&Talk to Mulan about the afternoon tea.
- 
-5Village!Mulan!Mulan!VLG_Mula_010_AvailableDescriptiongMulan is looking to find her footing in Dreamlight Valley. You should go see if you can help with that.
-ž
-:Village!Mulan!Mulan!VLG_Mula_010_CompletedStoryDescription`The tasting went fine but there's only one way to know if Mulan enjoyed the experience. Ask her!
->
-,Village!Mulan!Mulan!VLG_Mula_010_DisplayNameA Daily Regime
-X
-IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess01_StepDescription{itemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess02_StepDescription{itemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess03_StepDescription{itemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess07_StepDescription{itemName}.
-d
-?Village!Mulan!Mulan!VLG_Mula_010_Group01_Step01_StepDescription!Gather the following Ingredients:
-÷
-9Village!Mulan!Mulan!VLG_Mula_010_Group01_StoryDescription¹The young woman thinks that having a solid routine would help her to establish a sense of normalcy. You decide to help her and she wants to start by a good meal to give her some energy.
-X
-?Village!Mulan!Mulan!VLG_Mula_010_Group02_Step02_StepDescriptionCook some {itemName}.
-b
-@Village!Mulan!Mulan!VLG_Mula_010_Group03_Step03_ReadyDescriptionBring the {ItemName} to Mulan.
-w
-?Village!Mulan!Mulan!VLG_Mula_010_Group03_Step03_StepDescription4Make sure you have the {ItemName} in your Inventory.
-\
-MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral01_StepDescription{itemName}.
-\
-MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral02_StepDescription{itemName}.
-\
-MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral03_StepDescription{itemName}.
-\
-MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral04_StepDescription{itemName}.
-o
-8Village!Mulan!Mulan!VLG_Mula_010_Group04_StepDescription3Follow Mulan's training routine by mining minerals:
-i
-QVillage!Mulan!Mulan!VLG_Mula_010_Group05_Step05_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
-
-KVillage!Mulan!Mulan!VLG_Mula_010_Group06_Step06_VisitArea01_StepDescription2Enter the Mulan Realm to search for crates of tea.
-í
-9Village!Mulan!Mulan!VLG_Mula_010_Group06_StoryDescription¯With breakfast and training complete, Mulan wants to finish her morning routine with a cup of tea. You head back to her Realm to search for crates to bring back to the Valley.
-X
-IVillage!Mulan!Mulan!VLG_Mula_010_Group07_Step07_Possess04_StepDescription{ItemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_010_Group07_Step07_Possess05_StepDescription{ItemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_010_Group07_Step07_Possess06_StepDescription{ItemName}.
-q
-?Village!Mulan!Mulan!VLG_Mula_010_Group07_Step07_StepDescription.In the Mulan Realm, find the following crates:
-Z
-KVillage!Mulan!Mulan!VLG_Mula_010_Group08_Step08_BringItem02_StepDescription{ItemName}.
-Z
-KVillage!Mulan!Mulan!VLG_Mula_010_Group08_Step08_BringItem03_StepDescription{ItemName}.
-Z
-KVillage!Mulan!Mulan!VLG_Mula_010_Group08_Step08_BringItem04_StepDescription{ItemName}.
-b
-@Village!Mulan!Mulan!VLG_Mula_010_Group08_Step08_ReadyDescriptionBring the tea crates to Mulan.
-
-?Village!Mulan!Mulan!VLG_Mula_010_Group08_Step08_StepDescription>Make sure you have the following tea crates in your Inventory:
-i
-?Village!Mulan!Mulan!VLG_Mula_010_Group09_Step09_StepDescription&Place Mulan's Tea Stall in the Valley.
-s
-HVillage!Mulan!Mulan!VLG_Mula_010_Group10_Step10_Unlock01_StepDescription'Unlock Mulan's Tea Stall in the Valley.
-c
-QVillage!Mulan!Mulan!VLG_Mula_010_Group11_Step11_TalkToCharacter02_StepDescriptionTalk to Mulan.
-Z
-KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem05_StepDescription{ItemName}.
-Z
-KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem06_StepDescription{ItemName}.
-Z
-KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem07_StepDescription{ItemName}.
-Z
-KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem08_StepDescription{ItemName}.
-e
-@Village!Mulan!Mulan!VLG_Mula_010_Group12_Step12_ReadyDescription!Bring the finished teas to Mulan.
-_
-?Village!Mulan!Mulan!VLG_Mula_010_Group12_Step12_StepDescriptionPrepare the following meals:
-~
-9Village!Mulan!Mulan!VLG_Mula_010_Group12_StoryDescriptionAYou and Mulan set up a Tea Stall to share with the entire Valley.
-a
-QVillage!Mulan!Mulan!VLG_Mula_010_Group13_Step13_TalkToCharacter03_StepDescription{TargetNPC}.
-a
-QVillage!Mulan!Mulan!VLG_Mula_010_Group13_Step13_TalkToCharacter04_StepDescription{TargetNPC}.
-a
-QVillage!Mulan!Mulan!VLG_Mula_010_Group13_Step13_TalkToCharacter05_StepDescription{TargetNPC}.
-`
-8Village!Mulan!Mulan!VLG_Mula_010_Group13_StepDescription$Invite Villagers to Mulan's for tea:
-ð
-9Village!Mulan!Mulan!VLG_Mula_010_Group13_StoryDescription²The smell of the fragrant teas brings back a pre-Forgetting memory for Mulan. She asks you to invite Scrooge McDuck, Mirabel, and Merlin for tea at her home, just like old times.
-v
-KVillage!Mulan!Mulan!VLG_Mula_010_Group14_Step14_VisitArea02_StepDescription'Go to the tea tasting in Mulan's House.
-v
-QVillage!Mulan!Mulan!VLG_Mula_010_Group15_Step15_TalkToCharacter06_StepDescription!Talk to {TargetNPC} in her House.
-}
-9Village!Mulan!Mulan!VLG_Mula_010_Group15_StoryDescription@You head to Mulan's home to have tea with your fellow Villagers.
-d
-QVillage!Mulan!Mulan!VLG_Mula_010_Group16_Step16_TalkToCharacter07_StepDescriptionScrooge McDuck.
-\
-QVillage!Mulan!Mulan!VLG_Mula_010_Group16_Step16_TalkToCharacter08_StepDescriptionMerlin.
-]
-QVillage!Mulan!Mulan!VLG_Mula_010_Group16_Step16_TalkToCharacter09_StepDescriptionMirabel.
-i
-8Village!Mulan!Mulan!VLG_Mula_010_Group16_StepDescription-Share tea with the Villagers in Mulan's home:
-o
-=Village!Mulan!Mulan!VLG_Mula_010_Group02_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-t
-=Village!Mulan!Mulan!VLG_Mula_010_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
-d
-3Village!Mulan!Mulan!VLG_Mula_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,6 +1,0 @@
-TAG: Ariel_000_f
-Привет, {PlayerName}!
-
-TAG: Player_000_exit_000_f
-Простите, я не могу сейчас.
-

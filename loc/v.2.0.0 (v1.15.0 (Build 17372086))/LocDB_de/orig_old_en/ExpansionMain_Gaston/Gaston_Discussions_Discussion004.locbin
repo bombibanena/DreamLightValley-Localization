@@ -1,21 +1,0 @@
-
-I
-Gaston_000_f9{PlayerName}, I assume you'd heard of me before we met...
-F
-Player_000_choice_000_f+Yes. From Belle. Pretty interesting things.
->
-Player_000_choice_001_f#Yes. From Belle. Mostly bad things.
- 
-Player_000_choice_002_fNope.
-[
-Gaston_001_fKAh, I'm sure she told you that everyone in our village thinks I'm the best.
--
-Gaston_002_fIt's my most admired quality.
-)
-Gaston_003_fWhat?! That's impossible.
-*
-Gaston_004_fYou must have heard wrong!
-:
-Gaston_005_f*What? You haven't heard of me? How absurd.
-p
-Gaston_006_f`I'm going to have to find someone to sing my praises until everyone here knows how amazing I am!

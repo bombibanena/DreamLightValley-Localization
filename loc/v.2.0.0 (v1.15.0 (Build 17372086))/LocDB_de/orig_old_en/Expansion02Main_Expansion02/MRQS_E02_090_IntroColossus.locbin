@@ -1,45 +1,0 @@
-
-´
-AStory!Expansion02!MRQS_E02_090_IntroColossus_AvailableDescriptionî{PlayerName} cleared away yet more ink, and uncovered a land that stood in the shadow of a great marble statue... that looked exactly like Hades. Drawing closer to the colossus was surely the best way to uncover more about the Neverafter.
-O
-8Story!Expansion02!MRQS_E02_090_IntroColossus_DisplayNameThe Marble Colossus
-”
-WStory!Expansion02!MRQS_E02_090_IntroColossus_Group01_Step01_VisitArea01_StepDescription9Explore <ActivityItem>the Statue's Shadow</ActivityItem>.
-Š
-DStory!Expansion02!MRQS_E02_090_IntroColossus_Group01_StepDescriptionBYou've cleared away the ink and discovered a new part of Mythopia.
-¡
-KStory!Expansion02!MRQS_E02_090_IntroColossus_Group02_Step02_StepDescriptionRTry to extend the bridge to reach the statue by interacting with the panel nearby.
-œ
-YStory!Expansion02!MRQS_E02_090_IntroColossus_Group03_Step03_Conditional01_StepDescription?Explore the Elysian Fields to find a Villager who can help you.
-d
-KStory!Expansion02!MRQS_E02_090_IntroColossus_Group03_Step03_StepDescriptionThe bridge is broken!
-d
-KStory!Expansion02!MRQS_E02_090_IntroColossus_Group04_Step04_StepDescriptionThe bridge is broken!
-o
-]Story!Expansion02!MRQS_E02_090_IntroColossus_Group04_Step04_TalkToCharacter01_StepDescriptionTalk to Hades.
-d
-UStory!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_Possess01_StepDescription{ItemName}.
-d
-UStory!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_Possess02_StepDescription{ItemName}.
-d
-UStory!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_Possess03_StepDescription{ItemName}.
-
-KStory!Expansion02!MRQS_E02_090_IntroColossus_Group05_Step05_StepDescription>Gather the materials necessary to rebuild the missing pillars:
-›
-EStory!Expansion02!MRQS_E02_090_IntroColossus_Group05_StoryDescriptionÑThe bridge to the colossal statue was blocked. It seemed a pair of minions once held it up. To cross to the statue, {PlayerName} would need to craft vases featuring Pain and Panic and put them back into place.
-p
-WStory!Expansion02!MRQS_E02_090_IntroColossus_Group06_Step06_CraftItem01_StepDescriptionCraft the {ItemName}.
-š
-YStory!Expansion02!MRQS_E02_090_IntroColossus_Group07_Step07_FillKeyhole01_StepDescription=Place the <ActivityItem>Pain Vase</ActivityItem> on the left.
-œ
-YStory!Expansion02!MRQS_E02_090_IntroColossus_Group07_Step07_FillKeyhole02_StepDescription?Place the <ActivityItem>Panic Vase</ActivityItem> on the right.
-„
-KStory!Expansion02!MRQS_E02_090_IntroColossus_Group07_Step07_StepDescription5You can now repair the bridge to the statue of Hades!
-“
-YStory!Expansion02!MRQS_E02_090_IntroColossus_Group08_Step08_Conditional03_StepDescription6Try to lower the bridge by interacting with the panel.
-l
-KStory!Expansion02!MRQS_E02_090_IntroColossus_Group08_Step08_StepDescriptionThe bridge should work now...
-š
-YStory!Expansion02!MRQS_E02_090_IntroColossus_Group09_Step09_Conditional02_StepDescription=Activate the gateway to the Mythic Trial with your Royal Net.
-t
-KStory!Expansion02!MRQS_E02_090_IntroColossus_Group09_Step09_StepDescription%The bridge to the statue is repaired!

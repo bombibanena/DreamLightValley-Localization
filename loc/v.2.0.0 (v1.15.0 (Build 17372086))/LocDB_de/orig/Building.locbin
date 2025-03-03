@@ -1,445 +1,0 @@
-
-0
-Aladdin_Stall_DisplayNameAladdin's Gem Stall
-E
-AladdinObeliskScene_DisplayName"{Placeholder}Aladdin Obelisk Scene
-(
-AlToyBarn01_DisplayNameAl's Toy Barn
-B
-*AnimalKingdomLodgeHotelHouse01_DisplayNameAnimal Kingdom Lodge
-9
-ApartmentHouse_DisplayNameMike and Sulley's Apartment
-.
-Ariel_Castle_DisplayNameAriel's Sea Castle
-'
-ArielBeach_DisplayNameAriel's Beach
--
-Arrendele_Castle_DisplayNameAnna's Castle
-)
-Bakery_DisplayNameFrench Bakery House
-%
-BeachHouse_DisplayNameBeach House
-)
-Beast_House_DisplayNameBeast's Castle
-0
-BeehiveHouse_DisplayNameGolden Beehive House
-+
-BelleCottage_DisplayNameBelle's Cottage
-9
-BelleLibraryHouse_DisplayNameProvincial Library House
-+
-BindHouse01_DisplayNameThe Bind Cottage
-+
-BoatHouse_DisplayNamePrince Eric's Ship
-$
-Boutique_DisplayNameThe Boutique
-'
-CactusHouse_DisplayNameCactus House
-+
-CampingHouse01_DisplayNameCamping House
-%
-CandyHouse_DisplayNameSweet House
-%
-CarlHouse_DisplayNameCarl's House
-
-Castle_DisplayNameCastle
-2
-CastleDock_DisplayName{Placeholder}Castle Dock
-4
-CastleSecretRoom_DisplayNameCastle's Secret Room
-1
-CharlotteCastle01_DisplayNameLa Bouff Mansion
-.
-CloudCottageHouse_DisplayNameCloud Cottage
-)
-CoronaCastle_DisplayNameCorona Castle
-.
-CottageCore_DisplayNameLeafy Cottage House
-9
-#CottageCoreGreenHouse01_DisplayNameGreenhouse Cottage
-6
-CottageCoreHouse_DisplayNameFlowery Summer Cottage
-*
-CottageHouse_DisplayNamePurple Cottage
-8
-'CottageHouseInspiredBayou01_DisplayNameBayou Cottage
-'
-DaisyHouse_DisplayNameDaisy's House
-2
-DarkCastle_DisplayName{Placeholder}Dark Castle
-/
-DarkCastleHouse_DisplayNameNightmare Castle
-$
-DarkForest_DisplayName
-Dark Grove
-(
-DarkSavannah_DisplayNameDark Plateau
-$
-DarkUrban_DisplayNameDark Meadow
-5
-Default_color02_DisplayNameGreen Gablefront House
-5
-Default_color03_DisplayNameWhite Gablefront House
-4
-Default_color04_DisplayNameBlue Gablefront House
-6
-Default_color05_DisplayNamePurple Gablefront House
-6
-Default_color06_DisplayNameOrange Gablefront House
-.
-Default_DisplayNameYellow Gablefront House
-)
-DesertPalace_DisplayNameDesert Palace
-"
-DisneyCastle_DisplayNamePalace
--
-DonaldDuck_House_DisplayNameDonald's Boat
-E
-%DreamlightFruitTreeGarden_DisplayNameDreamlight Fruit Tree Garden
-1
-Dreamscape_DisplayName{Placeholder}Dreamscape
->
-DreamscapeMeadow_DisplayName{Placeholder}Dreamscape Meadow
-B
-DreamscapeSavannah_DisplayName {Placeholder}Dreamscape Savannah
-@
-DreamscapeWetland_DisplayName{Placeholder}Dreamscape Wetland
-%
-ElsaIceCavern_DisplayNameIce Cave
-1
-Eric_Stall_DisplayName{Placeholder}Eric Stall
-7
-&EricVillageInspiredHouse01_DisplayNameSeaside Villa
-#
-Eve_House_DisplayName
-EVE's Ship
-V
-)Expansion01!AncientRuinsLower_DisplayName){Placeholder}Lower Ancient Ruins Building
-V
-)Expansion01!AncientRuinsUpper_DisplayName){Placeholder}Upper Ancient Ruins Building
-B
-#Expansion01!JafarPalace_DisplayName{Placeholder}Jafar's Palace
-b
-1Expansion01!JafarPalaceSecretEntrance_DisplayName-{Placeholder}Jafar's Palace - Secret Entrance
-/
-"Expansion01!Restaurant_DisplayName	Chez Remy
-F
-$Expansion01!ScroogeStore_DisplayNameScrooge McDuck's General Store
-=
-!Expansion01!ToonWorld_DisplayName{Placeholder} Toon World
-A
-$Expansion02!FairyDungeon_DisplayName{Placeholder}FairyDungeon
-A
-$Expansion02!FairyTrial01_DisplayName{Placeholder}FairyTrial01
-A
-$Expansion02!FairyTrial02_DisplayName{Placeholder}FairyTrial02
-A
-$Expansion02!FairyTrial03_DisplayName{Placeholder}FairyTrial03
-?
-#Expansion02!MythDungeon_DisplayName{Placeholder}MythDungeon
-?
-#Expansion02!MythTrial01_DisplayName{Placeholder}MythTrial01
-?
-#Expansion02!MythTrial02_DisplayName{Placeholder}MythTrial02
-?
-#Expansion02!MythTrial03_DisplayName{Placeholder}MythTrial03
-/
-"Expansion02!Restaurant_DisplayName	Chez Remy
-F
-$Expansion02!ScroogeStore_DisplayNameScrooge McDuck's General Store
-0
-FairyFlowerDen_DisplayNameFairy's Bloss-home
-;
- FairyGodmother_House_DisplayNameFairy Godmother's House
-8
-"FastTravelWell!01Urban_DisplayNamePlaza Wishing Well
-C
-#FastTravelWell!02Meadow_DisplayNamePeaceful Meadow Wishing Well
-?
-"FastTravelWell!03Beach_DisplayNameDazzle Beach Wishing Well
-C
-#FastTravelWell!04Forest_DisplayNameForest of Valor Wishing Well
-D
-%FastTravelWell!05Wetlands_DisplayNameGlade of Trust Wishing Well
-B
-#FastTravelWell!06Savana_DisplayNameSunlit Plateau Wishing Well
-C
-#FastTravelWell!07Cliffs_DisplayNameFrosted Heights Wishing Well
-J
-*FastTravelWell!08DarkMountains_DisplayNameForgotten Lands Wishing Well
-V
-4FastTravelWell!Expansion01!00WishingWell_DisplayNameAncient's Landing Wishing Well
-R
-0FastTravelWell!Expansion01!01Outpost_DisplayNameAncient's Landing Wishing Well
-S
-2FastTravelWell!Expansion01!02Desert_02_DisplayNameGlittering Dunes Wishing Well
-P
-/FastTravelWell!Expansion01!02Desert_DisplayNameGlittering Dunes Wishing Well
-N
-2FastTravelWell!Expansion01!03Jungle_02_DisplayNameWild Tangle Wishing Well
-K
-/FastTravelWell!Expansion01!03Jungle_DisplayNameWild Tangle Wishing Well
-U
-4FastTravelWell!Expansion02!00WishingWell_DisplayName{Placeholder}Expansion02 Well
-S
-3FastTravelWell!Expansion02!01Library_02_DisplayName{Placeholder}Library Well 02
-W
-5FastTravelWell!Expansion02!02Mythology_02_DisplayName{Placeholder}Mythology Well 02
-W
-5FastTravelWell!Expansion02!02Mythology_03_DisplayName{Placeholder}Mythology Well 03
-W
-5FastTravelWell!Expansion02!02Mythology_04_DisplayName{Placeholder}Mythology Well 04
-T
-2FastTravelWell!Expansion02!02Mythology_DisplayName{Placeholder}Mythology Well 01
-Y
-6FastTravelWell!Expansion02!03FairyTales_02_DisplayName{Placeholder}FairyTales Well 02
-Y
-6FastTravelWell!Expansion02!03FairyTales_03_DisplayName{Placeholder}FairyTales Well 03
-Y
-6FastTravelWell!Expansion02!03FairyTales_04_DisplayName{Placeholder}FairyTales Well 04
-V
-3FastTravelWell!Expansion02!03FairyTales_DisplayName{Placeholder}FairyTales Well 01
-_
-:FastTravelWell!FloatingIsland!01FloatingIsland_DisplayName!{Placeholder}01FloatingIslandWell
-1
-Fishing_Stall_DisplayNameMoana's Fishing Boat
-2
-Flower_Stall_DisplayNameThe Beast's Greenhouse
-0
-FlowerShop01_DisplayNameBlooming Flower Shop
-.
-Flynn_House_DisplayNameFlynn Rider's House
-)
-FruitTreeGarden_DisplayName
-Fruit Tree
-G
-'FruitTreeGarden_NoStructure_DisplayNameFruit Tree with No Structure
-3
-"Gardening_Stall1_Urban_DisplayNameGoofy's Stall
-5
-$Gardening_Stall10_Jungle_DisplayNameGoofy's Stall
-5
-$Gardening_Stall11_Desert_DisplayNameGoofy's Stall
-6
-%Gardening_Stall12_Library_DisplayNameGoofy's Stall
-8
-'Gardening_Stall13_Mythology_DisplayNameGoofy's Stall
-9
-(Gardening_Stall14_FairyTales_DisplayNameGoofy's Stall
-4
-#Gardening_Stall2_Meadow_DisplayNameGoofy's Stall
-3
-"Gardening_Stall3_Beach_DisplayNameGoofy's Stall
-4
-#Gardening_Stall4_Forest_DisplayNameGoofy's Stall
-6
-%Gardening_Stall5_Wetlands_DisplayNameGoofy's Stall
-6
-%Gardening_Stall6_Savannah_DisplayNameGoofy's Stall
-3
-"Gardening_Stall7_Cliff_DisplayNameGoofy's Stall
-:
-)Gardening_Stall8_DarkMountain_DisplayNameGoofy's Stall
-5
-$Gardening_Stall9_Outpost_DisplayNameGoofy's Stall
-+
-GardeningTile_DisplayNameGardening Tile
-*
-Gaston_House_DisplayNameGaston's House
-*
-Gaston_Stall_DisplayNameGaston's Stall
-0
-GiantWillowTree_DisplayNameGiant Willow Tree
-(
-Goofy_House_DisplayNameGoofy's House
-&
-Hades_House_DisplayNameHades' Lair
-<
-"HalloweenCozyCottage01_DisplayNameCozy Halloween Cottage
--
-HauntedMansion_DisplayNameHaunted Mansion
-D
-HauntedMansion_NBC_DisplayName"Haunted "Before Christmas" Mansion
--
-HawaiStyleHome01_DisplayNameHawaiian Home
-(
-IceCastle_DisplayNameFrosty Fortress
-4
-Internet_Station_DisplayNameValley Visit Station
-=
-!JackSkellington_House_DisplayNameJack Skellington's House
-8
-Jasmine_House_DisplayNameAladdin and Jasmine's House
-.
-JumbeauxCafe01_DisplayNameJumbeaux's Café
-,
-JungleBiomeHouse_DisplayNameJungle House
-.
-Kristoff_Stall_DisplayNameKristoff's Stall
-'
-LadyHouse01_DisplayNameLady's House
-<
-LadyTremainsHouse_DisplayNameLady Tremaine's Manor House
-@
-#MainStreetConfectionery_DisplayNameMain Street Confectionery
-K
-Maleficent_House_DisplayName+{Placeholder}Maleficent's House Placeholder
-*
-Maui_Island_DisplayNamePeaceful Grotto
-*
-Merida_House_DisplayNameMerida's House
-.
-Merlin_House_DisplayNameDreamlight Library
-*
-Mickey_House_DisplayNameMickey's House
-=
-MikeWazowski_House_DisplayNameMike and Sulley's Apartment
-*
-Minnie_House_DisplayNameMinnie's House
-(
-Mirabel_House_DisplayNameMini-Casita
-'
-Moana_House_DisplayNameMoana's Fale
-.
-MonsterIncHouse_DisplayNameMonstrous House
-Q
- MonstersIncKidRoom01_DisplayName-{Placeholder}MonstersIncKidRoom01_DisplayName
-Q
- MonstersIncKidRoom02_DisplayName-{Placeholder}MonstersIncKidRoom02_DisplayName
-Q
- MonstersIncKidRoom03_DisplayName-{Placeholder}MonstersIncKidRoom03_DisplayName
-G
-*MRQS_E01_230_PalaceStallFuture_DisplayName{Placeholder}Future Stall
-I
-+MRQS_E01_230_PalaceStallPresent_DisplayName{Placeholder}Stall Present
-<
-MRQS_E02_031_Stall_DisplayName{Placeholder}Perfume Stall
->
- MRQS_E02_031_Stall02_DisplayName{Placeholder}Perfume stall
-C
- MRQS110_IceSculpture_DisplayName{Placeholder}IceSculptureGarden
-U
-+MRQS126_DreamscapeSavannahStall_DisplayName&{Placeholder}Dreamscape Savannah Stall
-E
-#MRQS133_DarkCastleStall_DisplayName{Placeholder}Dark castle stall
-D
- MRQS133_PlantingHole_DisplayName {Placeholder}Thorn planting hole
-(
-Mulan_House_DisplayNameMulan's House
-,
-Mulan_Stall_DisplayNameMulan's Tea Stall
--
-MushroomCottage_DisplayNameMushroom Manor
-8
- NBCInspiredByHouse01_DisplayNameHalloween Town House
-*
-Oswald_House_DisplayNameOswald's House
-*
-PinkCastleHouse_DisplayNamePink Castle
-4
-PlateauMine_DisplayName{Placeholder}Plateau Mine
-+
-PowerBeachCave_DisplayNameMystical Cave
-#
-PrideRock_DisplayName
-Pride Rock
-4
-PrinceEric_House_DisplayNamePrince Eric's Castle
-.
-Rapunzel_House_DisplayNameRapunzel's Tower
-@
-RatatouilleDishes_DisplayName{Placeholder}Ratatouille Dishes
-4
-ReflectionOfChina_DisplayNameReflection of China
-&
-Remy_House_DisplayNameRemy's House
-*
-Remy_Kitchen_DisplayNameRemy's Kitchen
-B
-Remy_RealmStall01_DisplayName!{Placeholder} Remy Realm Stall 01
-B
-Remy_RealmStall02_DisplayName!{Placeholder} Remy Realm Stall 02
-B
-Remy_RealmStall03_DisplayName!{Placeholder} Remy Realm Stall 03
-#
-Restaurant_DisplayName	Chez Remy
-J
-.RLM_LionKingIP_Nala_010_ThornsTile_DisplayName{Placeholder}Thorns tile
-P
-8RLM_MonsterIncIP_Sull_010_CoffeeMachineStall_DisplayNameMonsters, Inc. Stall
-G
-%RLM_Mula_020_PlantingTile_DisplayName{Placeholder}Mulan Garden TEst
-A
-$RLM_Mush_010_CongeeStall_DisplayName{Placeholder}Congee Stall
-2
-SandCavern_DisplayName{Placeholder}Sand Cavern
-%
-Scar_House_DisplayNameScar's Cave
-:
-ScroogeStore_DisplayNameScrooge McDuck's General Store
-A
-ScroogeStoreHeist_DisplayName {Placeholder}Scrooge Store Heist
-7
-SecretChamber_DisplayName{Placeholder}SecretChamber
-G
-&SnugglyDucklingTavernHouse_DisplayNameSnuggly Duckling Tavern House
-*
-Stitch_House_DisplayNameStitch's House
-9
-Template_House_DisplayName{Placeholder}Template House
-A
-Template_House_L_DisplayName!{Placeholder}Template House Large
-(
-Tiana_House_DisplayNameTiana's House
--
-Tiana_Stall_DisplayNameTiana's Meal Stall
--
-TianaRestaurant_DisplayNameTiana's Palace
-2
-TinkerBellHouse_DisplayNameTinker Bell's House
-#
-ToyStoryRV_DisplayName	Buzz's RV
-A
-ToyStoryTrack01_DisplayName"{Placeholder}ToyStoryGardeningTile
-A
-ToyStoryTrack03_DisplayName"{Placeholder}ToyStoryGardeningTile
-A
-ToyStoryTrack04_DisplayName"{Placeholder}ToyStoryGardeningTile
-2
-TurningRedTemple_DisplayNameTurning Red Temple
-)
-Ursula_House_DisplayNameUrsula's Lair
-2
-UrsulaBeachCave_DisplayNameUrsula's Beach Cave
-(
-V8CafeHouse_DisplayNameV8 Cafe House
-2
-Vanellope_House_DisplayNameVanellope's Hideout
--
-VictorianHouse_DisplayNameVictorian Manor
-S
-'VLG_Jafa_020_AlchemyStall01_DisplayName({Placeholder}VLG_Jafa_020_AlchemyStall01
-!
-VoidRoom_DisplayName	Void Room
-,
-WallE_Garden_DisplayNameWALL·E's Garden
-*
-WallE_House_DisplayNameWALL·E's Truck
--
-WanderingMoon01_DisplayNameWandering Moon
-.
-WildCropGarden_DisplayNameWild Crop Garden
-8
-WiltedFlowerHouse01_DisplayNameWilted Flower Cottage
-5
-WinterCottage_DisplayNameEnchanted Winter Cottage
-/
-WinterDisneyCastle_DisplayNameWinter Palace
-<
-$WinterIlluminatedHouse01_DisplayNameFestive Lights House
-2
- WitchHouseInspired01_DisplayNameWitchy Cottage
-<
-WoodAndWickerHouse_DisplayNameCozy Wood and Wicker House
-+
-Woody_House_DisplayNameWoody's Carousel

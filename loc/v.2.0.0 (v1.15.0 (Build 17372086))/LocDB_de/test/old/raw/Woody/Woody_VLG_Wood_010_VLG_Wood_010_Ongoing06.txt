@@ -1,3 +1,0 @@
-TAG: Woody_000_f
-Ну, Гуфи понадобится <ActivityItem>Cod</ActivityItem> и <ActivityItem>Wheat</ActivityItem>, или он не сможет приготовить ужин.
-

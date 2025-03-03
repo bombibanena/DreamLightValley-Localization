@@ -1,9 +1,0 @@
-TAG: Sully_000_f
-Не могли бы вы убедиться, что Ваниллопа, Олаф и Стич имеют все, что нужно для их художественного и ремесленного проекта?
-
-TAG: Sully_001_f
-Ну, не испортив ничего, я могу сказать вам, что мне нужно принести <ActivityItem>Purple Flowers</ActivityItem>, <ActivityItem> Blueberica</ActivityItem>, и <ActivityItem>Boyed Iggs</ActivityItem> в Стич.
-
-TAG: Sully_002_f
-Интересно, что они с этим сделают... по крайней мере, это не звучит как взрывчатка.
-

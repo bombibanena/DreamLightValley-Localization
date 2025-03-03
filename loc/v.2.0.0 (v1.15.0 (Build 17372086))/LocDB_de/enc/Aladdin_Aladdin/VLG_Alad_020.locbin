@@ -1,83 +1,0 @@
-
-h
-DVillage!Aladdin!Aladdin!VLG_Alad_020_Any_CompletedRequestDescription Поговори с {targetNPC}.
-|
-9Village!Aladdin!Aladdin!VLG_Alad_020_AvailableDescription?У Аладдин есть новая идея для тебя.
-�
->Village!Aladdin!Aladdin!VLG_Alad_020_CompletedStoryDescription�Аладдин организовал для вас экскурсию по ковру по всей долине, чтобы попробовать новый ковёр. После того, как вы пойдёте на курс, вы снова встретитесь с ним, чтобы отпраздновать.
-m
-0Village!Aladdin!Aladdin!VLG_Alad_020_DisplayName9Принеси свой собственный ковёр
-h
-CVillage!Aladdin!Aladdin!VLG_Alad_020_Group01_Step01_StepDescription!Поговори с Мерлин.
-�
-=Village!Aladdin!Aladdin!VLG_Alad_020_Group01_StoryDescription�Аладдин говорит, что он заметил, что ты объезжаешь долину и спрашиваешь, хочешь ли ты сделать волшебный коврик Мечты, чтобы помочь тебе.
-o
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group02_Step02_BringItem01_StepDescriptionКоврики плетут.
-{
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group02_Step02_BringItem02_StepDescription(Фальшивое очарование.
-o
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group02_Step02_BringItem03_StepDescriptionТехника полёта.
-s
-DVillage!Aladdin!Aladdin!VLG_Alad_020_Group02_Step02_ReadyDescription+Принесите все на {TargetNPC}.
-�
-CVillage!Aladdin!Aladdin!VLG_Alad_020_Group02_Step02_StepDescriptionfНайдите в библиотеке DreamLight книги по следующим вопросам:
-�
-UVillage!Aladdin!Aladdin!VLG_Alad_020_Group03_Step03_TalkToCharacter02_StepDescription(Поговори с Минни Маус.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_020_Group04_Step04_Possess01_StepDescription{itemName}.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_020_Group04_Step04_Possess02_StepDescription{itemName}.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_020_Group04_Step04_Possess03_StepDescription{itemName}.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_020_Group04_Step04_Possess04_StepDescription{itemName}.
-~
-CVillage!Aladdin!Aladdin!VLG_Alad_020_Group04_Step04_StepDescription7Соберите следующие материалы:
-�
-=Village!Aladdin!Aladdin!VLG_Alad_020_Group04_StoryDescription�Вы собираете справочники по тканию, волшебству и полетам, чтобы помочь вам. Минни Маус дает вам список материалов, чтобы начать делать ковёр.
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group05_Step05_VisitArea01_StepDescription{Возвращайтесь в дом Аладдин и Жасмин с ковровыми принадлежностями.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group06_Step06_BringItem04_StepDescription{itemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group06_Step06_BringItem05_StepDescription{itemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group06_Step06_BringItem06_StepDescription{itemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group06_Step06_BringItem07_StepDescription{itemName}.
-�
-DVillage!Aladdin!Aladdin!VLG_Alad_020_Group06_Step06_ReadyDescriptionEПередайте собранные материалы {TargetNPC}.
-�
-CVillage!Aladdin!Aladdin!VLG_Alad_020_Group06_Step06_StepDescriptiontУбедитесь в том, что у вас в списке имеются следующие материалы:
-�
-QVillage!Aladdin!Aladdin!VLG_Alad_020_Group07_Step07_FillKeyhole01_StepDescription�Установка <ActivityItem>Dreamlight Magic Carpet</ActivityItem> с использованием <ActivityItem>Magic Sclart</ActivityItem>.
-y
-UVillage!Aladdin!Aladdin!VLG_Alad_020_Group08_Step08_TalkToCharacter03_StepDescription Поговори с {TargetNPC}.
-�
-UVillage!Aladdin!Aladdin!VLG_Alad_020_Group09_Step09_FollowCharacter01_StepDescription2Следуйте за {targetNPC} в Долине.
-{
-WVillage!Aladdin!Aladdin!VLG_Alad_020_Group09_Step09_FollowCharacter01_TalkToDescription Поговори с {targetNPC}.
-�
-=Village!Aladdin!Aladdin!VLG_Alad_020_Group09_StoryDescription�Вы очаровали ковер, и Аладдин с радостью передали его вам, а потом он сказал вам, что сделал вам сюрприз...
-�
-MVillage!Aladdin!Aladdin!VLG_Alad_020_Group10_Step10_DressUp01_StepDescriptionFОчистить <ActivityItem>Dreamlight Magic Carpet</ActivityItem>.
-�
-CVillage!Aladdin!Aladdin!VLG_Alad_020_Group11_Step11_StepDescriptiontПройдите через долину в вашем туре "Мечта о волшебных ковриках"!
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group11_Step11_VisitArea02_StepDescription�Под знаменем на главной площади Плазы, затем повернитесь налево к лесу Вэлора.<br><br> (Убедитесь, что остановитесь и съедите перекус, если у вас кончится энергия!)
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group12_Step12_VisitArea03_StepDescriptionRСклонись к месту, где Плаза ведет в лес Вэлор.
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group13_Step13_VisitArea04_StepDescription_Склонись к месту, где Лес Вэлора ведет к пляжу Даззл.
-u
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group14_Step14_VisitArea05_StepDescription"Клей на пляж Даззл.
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group15_Step15_VisitArea06_StepDescriptionaСклонись к месту, где Даззл-Бич ведет к Мирному Мидоу.
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group16_Step16_VisitArea07_StepDescriptionqСклонитесь к лестнице, ведущей от Мирного луга до пляжа Даззл.
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group17_Step17_VisitArea08_StepDescription>Склонитесь к мосту на пляже Даззл.
-�
-OVillage!Aladdin!Aladdin!VLG_Alad_020_Group18_Step18_VisitArea09_StepDescriptionHКласться в деревянный док возле Черепа.
-h
-7Village!Aladdin!Aladdin!VLG_Alad_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

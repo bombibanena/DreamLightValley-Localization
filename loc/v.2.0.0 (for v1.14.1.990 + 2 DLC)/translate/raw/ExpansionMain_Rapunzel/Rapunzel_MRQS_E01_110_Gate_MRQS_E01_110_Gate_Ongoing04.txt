@@ -1,6 +1,0 @@
-TAG: Rapunzel_000_f
-Нам нужно больше <ActivityItem>teps из Sun Core</ActivityItem> для открытия <Lore>Ancient Door</Lore>.
-
-TAG: Rapunzel_001_f
-Я видел несколько <Lore>Gray Playing Rocks</Lore> на <Lore>the Plains</Lore> и <Lore>the Docks</Lore>.
-

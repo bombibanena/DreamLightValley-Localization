@@ -1,27 +1,0 @@
-
-2
-Merlin_002_f"Hey, Merlin, I was wondering ifâ€”
-<
-Merlin_000_f,If I want to join Stitch's musical ensemble?
-H
-Merlin_001_f8Remember, {PlayerName}: I've already been to the future.
-[
-Merlin_003_fKAnd Stitch's band is something the blasted Forgetting didn't let me forget.
-M
-Merlin_004_f=Yeah, you got it. Stitch wants to play music for the Village.
-*
-Player_000_choice_000_fYou could sing?
-8
-Player_000_choice_001_fYou could shake a tambourine?
-K
-Player_000_choice_002_f0You could do an enchantment to keep him in tune?
-Š
-Merlin_005_fzWell, I have been known to warble a tune or two, but I'm not sure I'd be right for the kind of music Stitch wants to make.
-ˆ
-Merlin_008_fxDo let me know when the first performance will be, though, won't you? I'm quite intrigued by this "rock and roll music."
-S
-Merlin_009_fCWhy, it seems almost as ingenious an innovation as indoor plumbing.
-e
-Merlin_006_fUThat hardly sounds like the best use of my time with all that's going on around here.
-z
-Merlin_007_fjI'm not sure that's the wisest use of magic. And besides, if I did, Stitch would never improve his skills.

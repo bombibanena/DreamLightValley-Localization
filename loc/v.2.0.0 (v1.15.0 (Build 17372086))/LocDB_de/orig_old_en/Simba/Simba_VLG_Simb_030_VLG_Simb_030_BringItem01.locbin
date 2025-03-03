@@ -1,19 +1,0 @@
-
-/
-Simba_002_f Whoa, {PlayerName}! What's this?
-Ð
-Player_000_f¿The <ActivityItem>Dreamlight Tree Seed</ActivityItem>. It's going to help us grow a <ActivityItem>Dreamlight Tree</ActivityItem>. That was your role, Simba. You watched over it in the past...
-0
-Player_000_choice_000_fWe can bring it back.
->
-Player_000_choice_001_f#Do you think you're up to the task?
-K
-Player_000_choice_002_f0Now we can fix whatever's wrong with the Valley.
-A
-Simba_001_f2Really?! That's great! Thanks for figuring it out.
-g
-Simba_007_fXAnd I know the perfect spot to plant it, near the pond on the Sunlit Plateau. Follow me!
-
-Simba_008_fYou bet!
-M
-Simba_009_f>The Dreamlight Tree... I remember! Thanks for figuring it out.

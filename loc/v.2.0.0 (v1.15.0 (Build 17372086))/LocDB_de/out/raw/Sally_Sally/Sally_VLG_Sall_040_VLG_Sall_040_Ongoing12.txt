@@ -1,9 +1,0 @@
-TAG: Sally_000_f
-You did it, Sally! Your potion worked! The cauldron looks neutralized...
-
-TAG: Sally_001_f
-WE did it, {PlayerName} â together!
-
-TAG: Sally_002_f
-But are Mickey and Mr. McDuck all right? We have to check on them.
-

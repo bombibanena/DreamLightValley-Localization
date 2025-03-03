@@ -1,54 +1,0 @@
-
-(
-Flynn_000_fCan I talk to you, Flynn?
-&
-Flynn_001_fSure. What do you need?
-%
-Flynn_002_fI spoke to Kristoff...
-F
-Flynn_025_f7Sounds to me like I was right. You're missing Rapunzel.
-;
-Flynn_008_f,... Okay. Fine. I admit it. I MISS Rapunzel.
-?
-Flynn_027_f0Why don't I set you two up for a little reunion?
-]
-Flynn_009_fNThanks, {PlayerName}. But honestly? Right now, I'm not ready to see her again.
-R
-Flynn_010_fCI've got unfinished business with Maleficent to take care of first.
-$
-Flynn_011_fDoes that make sense?
-#
-Player_001_choice_000_fTotally!
-B
-Player_001_choice_001_f'I think I see where you're coming from.
-%
-Player_001_choice_002_f
-Not to me.
-]
-Flynn_012_fNEven though the Wolf wasn't really you, there's still some cleanup to be done.
-
-Flynn_015_fExactly!
-K
-Flynn_018_f<Once I've dealt with Maleficent... well, then I'll be ready.
-
-Flynn_024_fI understand.
-O
-Flynn_019_f@I guess handsome rogues like me DO have feelings after all, huh?
-/
-Player_000_choice_000_fProud of you, Flynn.
-3
-Player_000_choice_001_fYou're going to be okay.
-/
-Player_000_choice_002_fI knew it all along!
-G
-Flynn_029_f8I'll be around if ever you need help with anything else.
-‰
-Flynn_030_fzThanks, {PlayerName}. You're a true friend. When I figure out more about what happened with Maleficent, I'll let you know.
-h
-Flynn_014_fYNothing that happened under Maleficent's curse was your fault. Everyone understands that.
-K
-Flynn_017_f<It might not have been my fault. But I still need to fix it.
-G
-Flynn_026_f8Sounds to me like I was right. You're hung up on a girl.
-Q
-Flynn_028_fB... Okay. Fine. I admit it. I am missing a certain someone. But...

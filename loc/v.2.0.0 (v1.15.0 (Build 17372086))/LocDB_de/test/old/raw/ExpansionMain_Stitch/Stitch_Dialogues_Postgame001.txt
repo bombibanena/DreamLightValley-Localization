@@ -1,9 +1,0 @@
-TAG: Stitch_000_f
-Аааа!
-
-TAG: Stitch_001_f
-{PlayerName} хорошо Стич выиграл в следующий раз!
-
-TAG: Stitch_002_f
-Победил Стич! AH-HA-HA-HA!
-

@@ -1,6 +1,0 @@
-TAG: Merlin_000_f
-Only you can remove Night Thorns from the Valley, so only you can free the <ActivityItem>Orb of Friendship</ActivityItem> from the tangled barbs.
-
-TAG: Merlin_001_f
-Go ahead; focus and try to get the <ActivityItem>Orb</ActivityItem> back.
-

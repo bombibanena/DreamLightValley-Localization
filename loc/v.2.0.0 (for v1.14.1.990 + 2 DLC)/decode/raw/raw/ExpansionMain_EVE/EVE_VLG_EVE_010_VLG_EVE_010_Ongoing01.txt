@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Directive?
-
-TAG: EVE_001_f
-Let's feed some <ActivityItem>Monkeys</ActivityItem>! I want to make them a <ActivityItem>3-Star Meal</ActivityItem>.
-

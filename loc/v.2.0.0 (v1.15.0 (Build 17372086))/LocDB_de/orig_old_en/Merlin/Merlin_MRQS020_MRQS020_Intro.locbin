@@ -1,45 +1,0 @@
-
-†
-Merlin_003_fv{PlayerName}! THIS is the <Lore>Dream Castle</Lore>! It holds many secrets... er... answers... er... Oh, blast it all!
-7
-Merlin_004_f'I can't seem to remember what's inside.
-;
-Player_000_f+I bet that inside the Castle, we'll find...
-;
-Player_000_choice_000_f ...the key to saving the Valley!
-4
-Player_000_choice_001_f...riches beyond measure!
-2
-Player_000_choice_002_f...even more mysteries.
-K
-Merlin_000_f;Precisely! The Castle is filled with mysteries and wonders.
-d
-Merlin_006_fTIf we're going to restore Dreamlight Valley to its former glory, we must get inside.
-.
-Player_001_choice_000_fSo let's go inside!
-2
-Player_001_choice_001_fRemember anything else?
-7
-Player_001_choice_002_fThose Night Thorns are huge!
-4
-Merlin_020_f$Easier said than done, {PlayerName}.
-g
-Merlin_015_fWThe Night Thorns that encase the Dream Castle aren't like any you've dealt with before.
-L
-Merlin_019_f<They're stronger and will take more of your magic to defeat.
-:
-Merlin_022_f*Follow me; there's still much to show you.
-_
-Merlin_021_fOYes. The Dream Castle was the home of our Ruler until the day they disappeared.
-A
-Merlin_001_f1Ha-ha! You rather sound like a Mr. McDuck I know.
-E
-Merlin_002_f5Well, I've no doubt the Castle contains many wonders.
-f
-Merlin_005_fVLet's hope they include the secret to restoring Dreamlight Valley to its former glory.
-V
-Merlin_007_fFThere's no doubt the Castle will have its share of mysteries to solve.
-D
-Merlin_008_f4But I'm hopeful it also holds the answers we seek...
-Y
-Merlin_009_fI...such as the secret to restoring Dreamlight Valley to its former glory.

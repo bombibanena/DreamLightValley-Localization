@@ -1,30 +1,0 @@
-
-�
-Ursula_000_fTell me, angelfish... I've heard a rumor about humans who'll give anything for the chance to turn into merfolk... Is that true?
-*
-Player_000_choice_000_fYes, it's true.
-3
-Player_000_choice_001_fWhy do you want to know?
-/
-Player_000_choice_002_fSomeone lied to you.
-
-Ursula_001_f
-Marvelous.
-,
-Ursula_002_fAnd what about you, my dear?
-+
-Player_001_choice_000_fMe? I'd love to.
-E
-Player_001_choice_001_f*I guess it'd be an interesting experience.
-1
-Player_001_choice_002_fNah... I'd rather fly.
-6
-Ursula_003_f&Fascinating... I'll keep that in mind.
-[
-Ursula_004_fKBecause I'm always looking for ways to help poor unfortunate souls in need.
-+
-Ursula_005_fIt's what I've always done.
-%
-Ursula_006_fWhy, the littleâ
-m
-Ursula_007_f]Ah, never mind. I'm glad I learned the truth before wasting my precious time on a new potion.

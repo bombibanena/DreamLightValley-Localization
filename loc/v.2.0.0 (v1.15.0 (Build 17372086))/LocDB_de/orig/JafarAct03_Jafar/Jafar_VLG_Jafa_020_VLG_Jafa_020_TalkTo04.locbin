@@ -1,33 +1,0 @@
-
-C
-Jafar_001_f4Take a look, Jafar. I think we're getting somewhere!
-#
-Jafar_002_fYes! Excellent work.
-:
-Jafar_003_f+The Gilded Stone is nearly within my grasp!
-.
-Player_000_choice_000_f"Our" grasp, Jafar.
-7
-Player_000_choice_001_fThis alchemy is kinda fun...
-9
-Player_000_choice_002_fWhat are you planning with it?
-E
-Jafar_004_f6Yes, yes, I could not do it without you, and all that.
--
-Jafar_007_fThat didn't seem very sincere.
-z
-Jafar_008_fkPlease do not take it personally, {PlayerName}. I am merely consumed with the spirit of alchemical inquiry.
-C
-Jafar_010_f4Let us not waste any more time. The Stone awaits us!
-$
-Jafar_012_fAll right, here goes!
-“
-Jafar_005_fƒ"Fun"? {PlayerName}, we are uncovering the secrets of the universe. Our work is far more profound than the simple pursuit of "fun."
-%
-Jafar_009_fOkay, okay, calm down.
-<
-Jafar_006_f-Better to ask what I am NOT planning with it!
-:
-Jafar_000_f+Excuse me?! I don't like the sound of that.
-«
-Jafar_011_f›Pardon me, {PlayerName}. I merely meant to express how the possibilities are endless when you have as much gold as the Gilded Stone is capable of creating.

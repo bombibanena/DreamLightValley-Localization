@@ -1,49 +1,0 @@
-
-5
-Mulan_000_f&Oh! You mean my friends from the army?
-H
-Mulan_001_f9Who would you like to hear about? Yao, Chien-Po, or Ling?
--
-Player_000_choice_000_fTell me about Yao.
-/
-Player_000_choice_001_fWhat about Chien-Po?
-+
-Player_000_choice_002_fLet's talk Ling.
-6
-Player_000_choice_003_fIs someone SPECIAL missing?
-N
-Mulan_002_f?Well, Yao has a pretty short temper, and he's incredibly tough.
-A
-Mulan_003_f2But I know under all of that he's got a big heart.
-=
-Mulan_004_f.Chien-Po is the gentlest person I've ever met.
-i
-Mulan_005_fZI was worried about him going into battle, but his strength helps him look after everyone.
-^
-Mulan_006_fOWhat can I say about Ling? He's funny, and sometimes he likes to cause trouble.
-x
-Mulan_007_fiLing's always willing to put his ego aside for the bigger picture. Selfless... but kind of loud about it.
-9
-Mulan_008_f*That sounds like you have someone in mind.
-$
-Player_001_choice_000_f	Li Shang!
-,
-Player_001_choice_001_fAre you blushing?
-!
-Player_001_choice_002_fMushu!
-
-Mulan_009_fShang?
-'
-Mulan_010_f*Captain* Shang... is...
-U
-Mulan_011_fFUm... Well, he's certainly my friend. Let's talk about something else!
-
-Mulan_012_fNo...
-5
-Mulan_013_f&Maybe... There is someone else, but...
- 
-Mulan_014_fIt's complicated.
-=
-Mulan_015_f.Oh, you don't need me to tell you about Mushu.
-E
-Mulan_016_f6Just ask him. He'll tell you EVERYTHING about himself.

@@ -1,20 +1,0 @@
-
-=
-Scrooge_003_f,{PlayerName}! Are you here to buy something?
-
-Player_000_f
-Tell me...
-2
-Player_000_choice_000_fDo you remember Minnie?
-B
-Player_000_choice_001_f'What is your favorite memory of Minnie?
-b
-Scrooge_002_fQMinnie? Ah, she's a fine lass. Always been a grand customer with top-notch taste.
-_
-Scrooge_000_fNWhy, she admired my tartan plaid armchair, once. Warmed me ol' Scottish heart!
-a
-Scrooge_001_fPNow, I've some important business to attend to... but do tell me if ye find her.
-$
-Scrooge_005_fWill do! Thank you!
-g
-Scrooge_004_fVMy favorite memory, eh? Well, she's always been a grand customer with top-notch taste.

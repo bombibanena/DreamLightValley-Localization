@@ -1,54 +1,0 @@
-
-H
-Jasmine_000_f7Hello, {PlayerName}. Did you see Maui? What did he say?
-§
-Jasmine_002_f•He has the Special Starfish! But... he wants to have a competition to see if we can win it from him. We can choose the kind of competition ourselves.
-H
-Jasmine_003_f7Oh, I'm sure we can handle that. Do you have any ideas?
-4
-Player_000_choice_000_fMaybe something creative?
-6
-Player_000_choice_001_fI'm thinking something fun!
-C
-Player_000_choice_002_f(Not sure I can beat a demigod at much...
-,
-Jasmine_004_fOh, that's a fabulous idea!
--
-Jasmine_008_fAnd I know just the thing...
-`
-Jasmine_007_fOIn Agrabah, children love building sandcastles and other buildings out of sand.
-
-Jasmine_010_fSandcastles?
-’
-Jasmine_001_f€Yes! My father even made sure I had a place in the palace garden to practice my sandcastle skills, just like the other children.
-M
-Player_001_choice_000_f2We can challenge Maui to a sandcastle competition!
-A
-Player_001_choice_001_f&So you're good at sandcastle building?
-C
-Player_001_choice_002_f(I haven't built a sandcastle in years...
-
-Jasmine_011_f
-Precisely!
-Œ
-Jasmine_017_f{I had a lot of time to practice when I was younger, since there weren't a lot of other children to play with at the palace.
-
-Jasmine_018_fOh...
-—
-Jasmine_015_f…I promise I had a very fortunate childhood. And now, I'll get to build a sandcastle next to a real ocean. That'll be a new adventure!
-K
-Jasmine_019_f:All right, so a <Lore>sandcastle competition</Lore> it is!
-i
-Jasmine_020_fXLet's go <Lore>talk to Maui</Lore> and let him know our idea. This is going to be great!
-Œ
-Jasmine_012_f{I had a lot of time to practice when I was younger, since there weren't a lot of other children to play with at the palace.
-'
-Jasmine_014_fThat's a little sad...
-š
-Jasmine_013_fˆMe neither, but I did have a lot of practice when I was younger, since there weren't a lot of other children to play with at the palace.
-.
-Jasmine_016_fThat must have been lonely...
-D
-Jasmine_005_f3Yes! We can definitely have a little fun with this.
-J
-Jasmine_006_f9Between you and me, I'm sure we can figure something out.

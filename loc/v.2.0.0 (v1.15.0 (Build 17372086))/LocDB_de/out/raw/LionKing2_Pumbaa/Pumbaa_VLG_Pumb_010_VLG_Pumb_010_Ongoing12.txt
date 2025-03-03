@@ -1,6 +1,0 @@
-TAG: Pumbaa_000_f
-I'm going to talk to a couple Villagers about some dental hygiene supplies for you.
-
-TAG: Pumbaa_001_f
-Thanks, {PlayerName}! I'll be in my mud bath!
-

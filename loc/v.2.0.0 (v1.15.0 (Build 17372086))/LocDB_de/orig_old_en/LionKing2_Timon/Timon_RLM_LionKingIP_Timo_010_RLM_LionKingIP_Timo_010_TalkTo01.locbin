@@ -1,39 +1,0 @@
-
-3
-Timon_000_f${PlayerName}! Have you seen Pumbaa?!
-!
-Player_000_fPumbaa's missing?
-/
-Player_000_choice_000_fWe have to find him!
-B
-Player_000_choice_001_f'He's probably looking for grubs to eat.
-5
-Player_000_choice_002_fWhen did you last see him?
-A
-Timon_002_f2Of course we have to find him! This is a disaster!
-
-Timon_004_fWhat do we do?!
-.
-Player_001_choice_000_fTake a deep breath.
-@
-Player_001_choice_001_f%Timon, I've never seen you like this.
-A
-Player_001_choice_002_f&Where's your "hakuna matata" attitude?
-H
-Timon_006_f9*inhale* *exhale* *inhale* *exhale* Okay... You're right.
-S
-Timon_005_fDIt's just, I've never lost Pumbaa before! I looked all over for him.
-O
-Timon_008_f@Maybe you missed something? I'll <Lore>search for Pumbaa</Lore>.
-O
-Timon_007_f@There are times for hakuna matata, and there are times to panic.
-(
-Timon_003_fGuess which time this is?
-
-Timon_009_fTime to panic?
-8
-Timon_010_f)YES! What if he got eaten by a predator?!
-#
-Timon_011_fTry to relax, Timon.
-N
-Timon_001_f?Well, he LEFT to look for grubs, but that was way TOO LONG ago!

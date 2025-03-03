@@ -1,19 +1,0 @@
-
-M
-Goofy_004_f>Hey, {PlayerName}! Remember the scrapbook you helped me start?
-p
-Goofy_000_faWell, I thought we should add some more stuff to it since you discovered new parts of the Valley.
-Q
-Goofy_001_fBIt'll be fun, and it'll help us if the Forgetting ever comes back.
--
-Player_002_choice_000_fSure, let's do it!
-<
-Player_002_choice_002_f!Can't now. I've got to get going!
-H
-Goofy_002_f9Great! I figure we should start with important landmarks.
-[
-Goofy_003_fLThere's a whole lot of 'em! The Giant Willow Tree, the Elephant Graveyard...
-^
-Goofy_006_fOUncle Scrooge's Store, Remy's Restaurant, and we can't forget the Dream Castle!
-Q
-Goofy_005_fBOkay, {PlayerName}. You take care! Come back when ya got the time.

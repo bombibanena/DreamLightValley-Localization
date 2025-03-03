@@ -1,31 +1,0 @@
-
-&
-Mulan_003_fOh, this is a surprise.
-6
-Mulan_000_f'I didn't expect anyone else to be here.
-u
-Mulan_001_ffBut Mushu assures me you're a late recruit and not a spy. Which I'm sure is a conclusion he jumped to.
-6
-Mulan_004_f'Anyway... welcome to our Training Camp!
-@
-Mulan_005_f1And thanks for the breakfast. It looks delicious.
-M
-Mulan_006_f>Now, we've got a lot of work ahead of us. I hope you're ready.
-&
-Player_000_choice_000_fBorn ready!
-&
-Player_000_choice_001_fI might be?
-:
-Player_000_choice_002_fAnd I feel overwhelmed already.
-3
-Mulan_008_f$Great! Enthusiasm is always welcome.
-x
-Mulan_011_fiWe have two main things to accomplish: Training you, and making sure our defenses are ready for anything.
-]
-Mulan_012_fNMushu's in charge of bolstering our defenses. And I'll be your training guide.
-z
-Mulan_014_fkYou can <Lore>start by helping Mushu</Lore> while I eat my breakfast. I'll be ready to start in just a bit.
-<
-Mulan_009_f-You're cautious. That's good. It'll help you.
->
-Mulan_010_f/Don't worry. I'll make sure you don't get lost.

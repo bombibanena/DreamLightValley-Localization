@@ -1,29 +1,0 @@
-
-a
-Daisy_013_fRWhat happened?! I heard a loud bang and the next thing √¢¬Ä¬î glitter! EVERYWHERE!
-N
-Daisy_000_f?From the look of it, I'd say your gala has been glitter bombed.
-:
-Daisy_003_f+Who would do such a thing? Who would dare?!
-t
-Daisy_004_fe{PlayerName}, we have to launch an investigation immediately and find whoever's responsible for this.
-"
-Player_000_fLet me help you...
-@
-Player_000_choice_000_f%I've always wanted to be a detective!
-@
-Player_000_choice_001_f%You need someone who can keep calm...
-2
-Player_000_choice_002_fI love a good whodunit.
-3
-Daisy_006_f$Well, consider yourself on the case!
-ú
-Daisy_011_fåLet's start by talking with our guests. I'll talk to Minnie and Donald. You go see Kristoff and Vanellope √¢¬Ä¬î then we'll share our intel.
-t
-Daisy_012_feI'll go do just that. And while I'm at it, I'll try and <Lore>wash away the glitter</Lore> somehow...
-G
-Daisy_007_f8You're right, {PlayerName}. And you're just that person!
-≠
-Daisy_008_fùWell, I'm glad YOU can see a silver lining to this disaster. There's glitter in all the food, on the decorations, everywhere... It'll be impossible to clean!
-D
-Daisy_009_f5We'll find the prankster responsible for this, Daisy.

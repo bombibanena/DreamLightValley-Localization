@@ -1,33 +1,0 @@
-
-œ
-Woody_006_fŒHey, {PlayerName}, I figured out what happened to the other <ActivityItem>Alien Toys</ActivityItem>. Do you have some time to talk about it?
-.
-Player_000_choice_000_fTell me everything.
-+
-Player_000_choice_001_fI'm busy, sorry.
-S
-Woody_001_fDWell, I tried to track 'em down... but then, I remembered something.
-¨
-Woody_011_f˜Those little guys have always lived inside that Claw Machine because they could never learn to stop acting like toys around you and the other Villagers.
-d
-Woody_012_fUBut now, the Claw Machine's broken, and it's my fault they don't have a home anymore.
->
-Player_001_choice_000_f#Don't feel bad. It was an accident.
-?
-Player_001_choice_001_f$I understand. What should we do now?
-=
-Player_001_choice_002_f"They were squatting in your place.
-@
-Woody_013_f1I know. I know. But we still gotta make it right.
-t
-Woody_014_feWe'll have to craft a new <ActivityItem>Claw Machine</ActivityItem>, so they'll have a place to live.
-`
-Woody_002_fQHere, take the <ActivityItem>Claw Machine Pieces</ActivityItem> you found before.
-d
-Woody_003_fUOh, and the <ActivityItem>Claw</ActivityItem>. Turns out that thing's indestructible.
-â
-Woody_000_fÒAnd we'll need a few other things too. I talked to Kristoff, and he said it'd take some <ActivityItem>Hardwood</ActivityItem>, an <ActivityItem>Iron Ingot</ActivityItem>, and <ActivityItem>Glass</ActivityItem>.
-Q
-Woody_015_fBNo, no, no. They were more like roommates. Very squeaky roommates.
-A
-Woody_008_f2Okay. I'll be around whenever you've got a minute.

@@ -1,6 +1,0 @@
-TAG: Mushu_000_f
-Ты должен найти кусочки своей формы и принести их мне, они разбросаны по всему лагерю и снаружи.
-
-TAG: Mushu_001_f
-Помните, найдите <ActivityItem>Shoes</ActivityItem>, <ActivityItem>Socks</ActivityItem>, пару <ActivityItem>Pants</ActivityItem>, и <ActivityItem>Top</ActivityItem>.
-

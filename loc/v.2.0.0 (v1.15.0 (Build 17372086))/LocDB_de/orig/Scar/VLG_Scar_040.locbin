@@ -1,73 +1,0 @@
-
-≤
-7Village!LionKing!Scar!VLG_Scar_040_AvailableDescriptionwScar wants to invite you as a thank-you for helping him. Of course, you'll have to handle the small matter of the food.
-I
-.Village!LionKing!Scar!VLG_Scar_040_DisplayNameThe Making of a Monarch
-f
-SVillage!LionKing!Scar!VLG_Scar_040_Group01_Step01_TalkToCharacter01_StepDescriptionReturn to Scar.
-t
-?Village!LionKing!Scar!VLG_Scar_040_Group03_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-\
-MVillage!LionKing!Scar!VLG_Scar_040_Group03_Step03_BringItem01_StepDescription{ItemName}.
-\
-MVillage!LionKing!Scar!VLG_Scar_040_Group03_Step03_BringItem03_StepDescription{ItemName}.
-]
-BVillage!LionKing!Scar!VLG_Scar_040_Group03_Step03_ReadyDescriptionGive the meals to Scar.
-é
-AVillage!LionKing!Scar!VLG_Scar_040_Group03_Step03_StepDescriptionIMake sure you have the meals for your dinner with Scar in your Inventory:
-z
-?Village!LionKing!Scar!VLG_Scar_040_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
-f
-SVillage!LionKing!Scar!VLG_Scar_040_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to Merlin.
-q
-?Village!LionKing!Scar!VLG_Scar_040_Group06_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-Z
-KVillage!LionKing!Scar!VLG_Scar_040_Group06_Step06_Possess01_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Scar!VLG_Scar_040_Group06_Step06_Possess04_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Scar!VLG_Scar_040_Group06_Step06_Possess05_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Scar!VLG_Scar_040_Group06_Step06_Possess06_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Scar!VLG_Scar_040_Group06_Step06_Possess07_StepDescription{ItemName}.
-è
-AVillage!LionKing!Scar!VLG_Scar_040_Group06_Step06_StepDescriptionJGather the materials for the <ActivityItem>Sunbird Feeders</ActivityItem>:
-ü
-;Village!LionKing!Scar!VLG_Scar_040_Group06_StoryDescriptionﬂAfter learning that, as the Old Ruler, you hid something the lion cared about, you go see Merlin. The old wizard puts you on the path of making Scar realize that being a ruler means taking care of even his weakest subjects.
-à
-MVillage!LionKing!Scar!VLG_Scar_040_Group07_Step07_CraftItem01_StepDescription7Craft the <ActivityItem>Sunbird Feeders</ActivityItem>.
-w
-?Village!LionKing!Scar!VLG_Scar_040_Group08_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>What are we doing?
-´
-LVillage!LionKing!Scar!VLG_Scar_040_Group08_Step08_Decorate01_StepDescription[Place the <ActivityItem>Sunbird Feeders</ActivityItem> near the pond on the Sunlit Plateau.
-q
-?Village!LionKing!Scar!VLG_Scar_040_Group09_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-ú
-OVillage!LionKing!Scar!VLG_Scar_040_Group09_Step09_FeedCritter01_StepDescriptionIFeed <ActivityItem>Flowers</ActivityItem> to the Sunbirds on the Plateau.
-g
-MVillage!LionKing!Scar!VLG_Scar_040_Group11_Step11_VisitArea01_StepDescriptionReturn to Scar's Cave.
-d
-SVillage!LionKing!Scar!VLG_Scar_040_Group12_Step12_TalkToCharacter05_StepDescriptionTalk to Scar.
-t
-?Village!LionKing!Scar!VLG_Scar_040_Group13_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-¥
-MVillage!LionKing!Scar!VLG_Scar_040_Group13_Step13_BringItem02_StepDescriptioncPick up the <ActivityItem>Mysterious Mirror Shard</ActivityItem> that just appeared in Scar's Cave.
-á
-BVillage!LionKing!Scar!VLG_Scar_040_Group13_Step13_ReadyDescriptionAGive the <ActivityItem>Magic Mirror Shard</ActivityItem> to Scar.
-Î
-;Village!LionKing!Scar!VLG_Scar_040_Group13_StoryDescription´In the end, it's only when Scar admits to himself that you're his friend that the curse is finally broken. It's time for him to be reunited with his beloved lost treasure.
-Z
-KVillage!LionKing!Scar!VLG_Scar_040_Group14_Step14_Possess02_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Scar!VLG_Scar_040_Group14_Step14_Possess03_StepDescription{ItemName}.
-o
-AVillage!LionKing!Scar!VLG_Scar_040_Group14_Step14_StepDescription*Gather the meal for your dinner at Scar's.
-q
-?Village!LionKing!Scar!VLG_Scar_040_Group15_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-g
-MVillage!LionKing!Scar!VLG_Scar_040_Group15_Step15_VisitArea02_StepDescriptionMeet Scar at his Cave.
-f
-SVillage!LionKing!Scar!VLG_Scar_040_Group16_Step16_TalkToCharacter06_StepDescriptionReturn to Scar.
-f
-5Village!LionKing!Scar!VLG_Scar_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

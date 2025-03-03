@@ -1,69 +1,0 @@
-
-7
-Goofy_000_f(Howdy, {PlayerName}! How ya doing today?
-!
-Player_000_choice_000_fGreat!
-.
-Player_000_choice_001_fI need your help...
-P
-Player_000_choice_002_f5Trying to help WALLÂ·E, but it's not going great...
-,
-Goofy_001_fYou're great? Gawrsh, me too!
-2
-Goofy_010_f#In the Meadow? How'd it get there?!
-3
-Goofy_011_f$No idea. It's a real head-scratcher.
-^
-Goofy_012_fOI picked up a piece on the Beach and was trying to bring it to Uncle Scrooge...
-E
-Goofy_013_f6But I put it down for just a second to rest my arms...
-B
-Goofy_014_f3And then I musta slipped on some mud and fell over!
-?
-Goofy_015_f0Next thing I knew, the big metal chunk was gone!
-S
-Player_001_choice_000_f8... You pushed it into the pond by accident, didn't you?
-B
-Player_001_choice_001_f'Could be someone played a prank on you!
-3
-Player_001_choice_002_fI honestly have no idea.
-N
-Goofy_002_f?Bet you had pancakes and pickles for breakfast like I did, huh?
-*
-Goofy_003_fUmm... something like that.
-I
-Goofy_004_f:Actually, I was hoping you could help me with something...
-*
-Goofy_005_fYou betcha, pal! What's up?
-�
-Goofy_006_f�Well, WALLÂ·E really wants to find a trash can lid. I don't know exactly why, but he really wants it! I haven't seen any in the Valley, though.
-o
-Goofy_007_f`Hmm... I haven't seen any trash can lids around here. But maybe you could make one from scratch.
-Q
-Goofy_008_fBLast time I was in the Meadow fishin', my line kept getting stuck.
-o
-Goofy_009_f`I betcha it's a buncha that <ActivityItem>Scrap Metal</ActivityItem> I keep findin' around here.
-B
-Goofy_016_f3I hadn't thought of that, but you're prob'ly right!
-�
-Goofy_017_f�All right Goofy, I should be able to handle this â the Royal Fishing Rod will have a better chance of pulling the metal out than yours.
-u
-Goofy_018_ffThat's true. And I hope you can find the other pieces out there too â I saw a bunch on the Beach!
-f
-Goofy_019_fWSome were just layin' around, some were buried in the sand, and some were in the water.
-V
-Goofy_020_fGPerfect â we'll look into those! Were those the only ones you saw?
-r
-Goofy_021_fcNope. I saw Ursula grab some. I offered to recycle 'em for her, but she said she had plans for 'em.
-B
-Goofy_022_f3And then she did one of those scary villain laughs.
-C
-Goofy_023_f4Oof, okay, I'll look into that â thanks, Goofy!
-X
-Goofy_024_fINot sure what kind of prank that'd be... but I suppose it could be funny.
-G
-Goofy_025_f8Wow, if YOU can't figure it out, it really is a mystery!
-&
-Goofy_026_fUh-oh! Hope I can help!
-(
-Goofy_027_fUh-oh! What's wrong, pal?

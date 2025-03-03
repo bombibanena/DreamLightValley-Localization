@@ -1,69 +1,0 @@
-
-E
-Flynn_001_f6Well, the Snippet problem should be taken care of now.
-o
-Flynn_002_f`I placed some repellent near your House. Those Frog Snippets shouldn't be bothering you anymore.
-1
-Flynn_000_f"You are a LIFESAVER, {PlayerName}!
-*
-Player_000_choice_000_fIt was nothing!
-C
-Player_000_choice_001_f(I had a little help from the Lorekeeper.
-9
-Player_000_choice_002_fI am pretty amazing, aren't I?
-(
-Flynn_003_fTo you, maybe. But to me?
-O
-Flynn_006_f@Anything that makes me feel a little more like myself is just...
-n
-Flynn_009_f_...indescribable. I can't tell you how creepy it is not to recognize who you see in the mirror.
-@
-Flynn_010_f1I'm so glad I could help. Anything else you need?
-l
-Flynn_011_f]Well, since you're here... while I was at my peak wolfishness, I developed another bad habit.
-
-Flynn_012_fMeaning...?
-K
-Flynn_013_f<Apparently, I started burying things. Other people's things.
-5
-Player_001_choice_000_fThat actually makes sense.
-1
-Player_001_choice_001_fOof, that's not great.
->
-Player_001_choice_002_f#You didn't bury MY things, did you?
-T
-Flynn_014_fEYou thought you were a wolf; burying things is almost to be expected.
-2
-Flynn_017_f#That's really understanding of you.
-<
-Flynn_018_f-You couldn't control yourself; remember that.
-*
-Flynn_025_fTrue. But that's no excuse.
-®
-Flynn_027_fžAnyway... I'm pretty sure I buried some of the things outside my House. Think you could find <Lore>those for me and help figure out who they belong to</Lore>?
-’
-Flynn_028_f‚I can handle that. You should stay here in case anyone comes around looking for their stuff. You can reassure them that I'm on it!
-H
-Flynn_015_f9You basically stole from people and then hid their stuff.
-/
-Flynn_019_f I know, I know! I feel terrible.
-Y
-Flynn_020_fJAll we have to do is find and return everything, and no one will be upset.
-5
-Flynn_021_f&You weren't yourself under that curse.
-4
-Flynn_016_f%No, I didn't touch any of your stuff.
-
-Flynn_022_fWhew!
-V
-Flynn_023_fGBut I took things from other friends. GOOD folks who didn't deserve it.
-:
-Flynn_024_f+You didn't know what you were doing, Flynn.
-;
-Flynn_004_f,That's great, but don't sell yourself short.
-R
-Flynn_007_fCThanks to you, I feel a little more like myself, and that's just...
-2
-Flynn_005_f#You are! You really saved me today.
-L
-Flynn_008_f=And now I'm starting to feel more like ME, and that's just...

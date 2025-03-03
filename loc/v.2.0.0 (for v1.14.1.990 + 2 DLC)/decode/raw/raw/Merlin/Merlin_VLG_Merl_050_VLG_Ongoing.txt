@@ -1,6 +1,0 @@
-TAG: Merlin_001_f
-Well, I have a new way of enchanting your Watering Can.
-
-TAG: Merlin_000_f
-But I'll need you to gather these Ingredients: <ActivityItem>Mushrooms</ActivityItem>, <ActivityItem>Emeralds</ActivityItem>, and <ActivityItem>Purified Night Shards</ActivityItem>.
-

@@ -1,29 +1,0 @@
-
-=
-Merlin_000_f-How curious... Do you see this, {PlayerName}?
-H
-Merlin_001_f8I believe that's... well, it's <Lore>a trap door</Lore>!
-K
-Player_001_choice_000_f0It wouldn't be an adventure without a trap door.
-D
-Player_001_choice_001_f)There must be something cool under there.
-?
-Player_001_choice_002_f$Guess I should avoid stepping there?
-5
-Merlin_002_f%Heh-heh... Yes, it's quite a classic.
->
-Merlin_005_f.I'm certain that what we seek lies beneath us.
-²
-Merlin_006_f¡So, we must find some way to open this door. I'll keep examining it for clues. Perhaps you could try <Lore>investigating the other chambers</Lore> on this level.
-h
-Merlin_008_fXI noticed some sort of <Lore>ancient technological device</Lore> in the North Chamber...
-I
-Merlin_009_f9...a <Lore>strange pedestal</Lore> in the West Chamber...
-Q
-Merlin_010_fA...and a <Lore>display of music notes</Lore> in the East Chamber.
-U
-Merlin_007_fEYou got it. I'll <Lore>bring you a picture</Lore> of anything I find.
--
-Merlin_003_fAh, it's not merely "cool"...
-#
-Merlin_004_fQuite the contrary!

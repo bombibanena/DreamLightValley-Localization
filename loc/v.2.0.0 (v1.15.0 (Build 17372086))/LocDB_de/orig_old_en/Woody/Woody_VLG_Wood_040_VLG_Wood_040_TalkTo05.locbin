@@ -1,23 +1,0 @@
-
-=
-Woody_000_f.Hey-howdy-hey! That was a lot of fun, partner.
-+
-Woody_004_fI'm glad Buzz could join us.
-‰
-Woody_001_fzOh, and I borrowed a book from Merlin on the enchantment. It says we're only missing one thing. A magic phrase to seal it.
-%
-Woody_002_fWhy don't you pick it?
-8
-Player_000_choice_000_f"There's a snake in my boot!"
-4
-Player_000_choice_001_f"To infinity and beyond!"
-0
-Player_000_choice_002_fTo quote Rex: "Rawr!"
--
-Woody_003_fHeh-heh. Nice choice, partner.
-+
-Woody_007_fWow, would you look at that!
-%
-Woody_005_fBuzz would be honored.
-P
-Woody_006_fAScaring the Carousel into obedience. Good thinking, {PlayerName}.

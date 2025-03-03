@@ -1,17 +1,0 @@
-
-Š
-2Story!MRQS130C_LightInTheDark_AvailableDescriptionTYou've found a funny drawing in Scar's Cave. Perhaps Scar knows the story behind it.
-®
-7Story!MRQS130C_LightInTheDark_CompletedStoryDescriptionsScar tells you the truth about when you drew the drawing for him. You're one step closer to stopping the Forgotten.
-J
-)Story!MRQS130C_LightInTheDark_DisplayNameForgotten Relics: The Drawing
-{
-5Story!MRQS130C_LightInTheDark_Group01_StepDescriptionBAsk Scar about the <ActivityItem>Forgotten Drawing</ActivityItem>.
-ƒ
-JStory!MRQS130C_LightInTheDark_Group02_Step02_Conditional01_StepDescription5Complete more Quests with Scar to make him trust you.
-e
-5Story!MRQS130C_LightInTheDark_Group02_StepDescription,Scar claims he doesn't remember the drawing.
-¤
-HStory!MRQS130C_LightInTheDark_Group03_Step03_BringItem02_StepDescriptionXMake sure you have the <ActivityItem>Forgotten Drawing</ActivityItem> in your Inventory.
-ƒ
-=Story!MRQS130C_LightInTheDark_Group03_Step03_ReadyDescriptionBAsk Scar about the <ActivityItem>Forgotten Drawing</ActivityItem>.

@@ -1,49 +1,0 @@
-
-Œ
-Sally_000_f}Hello, {PlayerName}. I'm hoping you can help me... I've been searching for a new sewing project. Do you have any suggestions?
-B
-Player_000_choice_000_f'Let's come up with some ideas together!
-6
-Player_000_choice_001_fI'm busy; let's talk later.
-.
-Sally_002_fWhat do you like to sew, Sally?
-"
-Sally_003_fOh, lots of things.
-|
-Sally_004_fmCostumes for Jack, decorative bunting... and of course, I have to sew myself back together from time to time.
-4
-Player_001_choice_000_fYou're so multi-talented!
-(
-Player_001_choice_001_fDoes it hurt?
-3
-Player_001_choice_002_fThat's a little uncanny.
-)
-Sally_006_fThat's kind of you to say.
-B
-Sally_008_f3Do you have any ideas for a project I should start?
-=
-Player_002_f-I think we should talk to Minnie and Daisy...
-<
-Player_002_choice_000_f!They have their own fashion line.
-A
-Player_002_choice_001_f&They design lots of their own clothes!
-;
-Player_002_choice_002_f They're ALWAYS sewing something!
-
-Sally_010_fThey do?
-Q
-Sally_014_fBYeah, I bet they'd have lots of thoughts on a new project for you.
-N
-Sally_012_f?I'll go <Lore>ask them if they have any ideas</Lore> right now!
-A
-Sally_013_f2Thank you, {PlayerName}! I'll fetch my sewing kit.
-W
-Sally_009_fHReally? I didn't know we had that in common. You see, I made this dress.
-F
-Sally_011_f7Oh, then I'm sure they'll have some suggestions for me.
-G
-Sally_005_f8Oh, no. But it can get tricky when my arms are involved.
-J
-Sally_007_f;Do you think so? I've never thought of it like that. Hmm...
-1
-Sally_001_f"Of course. I hope to see you soon.

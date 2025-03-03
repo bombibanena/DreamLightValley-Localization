@@ -1,6 +1,0 @@
-TAG: Merlin_001_f
-Что ж, у меня есть новый способ очаровать твою Водохранилище.
-
-TAG: Merlin_000_f
-Но мне нужно, чтобы вы собрали эти Ингредиенты: <ActivityItem>Mushrooms</ActivityItem>, <ActivityItem>Emeralds</ActivityItem>, и <ActivityItem>Purificed Night Shards</ActivityItem>.
-

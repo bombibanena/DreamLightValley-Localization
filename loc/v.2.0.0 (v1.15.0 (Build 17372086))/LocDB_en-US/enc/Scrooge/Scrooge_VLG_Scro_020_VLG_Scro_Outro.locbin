@@ -1,53 +1,0 @@
-
-t
-Scrooge_000_fcKnock me over with a feather! You found the numbers! Hurry, let's piece together the combination...
-P
-Scrooge_002_f?The first clue was to ask Goofy about his favorite day. Did ya?
-,
-Player_000_fI did, and the answer was...
-v
-Scrooge_016_feAnd you're keeping the economy going, too! Come back to my shop anytime. I'll have new stock in soon.
-%
-Player_000_choice_000_f
-April 1st.
-$
-Player_000_choice_001_f	May 25th.
-(
-Player_000_choice_002_fOctober 31st.
-t
-Scrooge_003_fcOh, April Fools' on me, I suppose. Take this seriously, {PlayerName}! What is Goofy's favorite day?
-¦
-Scrooge_004_f”Sparklin' spats, that's it! And in Scotland that would be 25-05. Now for the next clue... Take a bit o' fresh air in the Meadow and count the ponds.
-?
-Scrooge_006_f.So how many ponds did you count in the Meadow?
-
-Player_001_choice_000_f3.
-
-Player_001_choice_001_f4.
-<
-Player_001_choice_002_f!There are no ponds in the Meadow.
-•
-Scrooge_007_fƒThat's right, 3! I hope the fresh air did ya some good... And finally, how many telescopes does one wizard need to study the stars?
-%
-Player_002_choice_000_f
-About 225.
-$
-Player_002_choice_001_f	Around 7.
-,
-Player_002_choice_002_fJust 1 is enough.
-G
-Scrooge_011_f6OCH?! Even Merlin doesn't have THAT many! Guess again!
-s
-Scrooge_010_fbOne for every day of the week? You've a sense of humor, {PlayerName}, I give ya that. Guess again.
-i
-Scrooge_012_fXEureka! 25-05-3-1... That's my combination! So genius, NOBODY could guess it... even me!
-V
-Scrooge_001_fENow, forget those numbers straightaway! I've got property to protect!
-d
-Scrooge_013_fSBut I do want to thank ya. Now that I have access to my fortune, here's a wee gift.
-L
-Scrooge_008_f;The Well doesn't count, {PlayerName}. How many is it, then?
-J
-Scrooge_009_f9Well, ya obviously didn't go there! Take your best guess.
-Q
-Scrooge_005_f@Nay... That's not it. Though the lad does frighten me sometimes.

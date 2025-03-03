@@ -1,55 +1,0 @@
-
-
-Beast_000_fHere you go!
-/
-Beast_008_f What do you think, {PlayerName}?
-2
-Beast_009_f#Should I just put this in the past?
-Y
-Beast_010_fJOr should I demonstrate to Mother Gothel how much of a mistake she's made?
-^
-Beast_011_fOHmm, that's an important decision. Are you sure you want me to make it for you?
-/
-Beast_012_f Yes. I respect your perspective.
-U
-Player_000_fELet's see. To resolve the situation with Mother Gothel, you should...
-G
-Player_000_choice_000_f,...embrace the Beast and teach her a lesson!
-C
-Player_000_choice_001_f(...be a prince of a guy and be merciful!
-F
-Beast_001_f7All fixed up! Your place is looking good now, isn't it!
-8
-Beast_002_f)Yes, it... looks even better than before!
-/
-Beast_003_f How did your talk with Belle go?
-]
-Beast_004_fNIt went well. She understands that the things Mother Gothel said are not true.
-i
-Beast_005_fZAnd I think we both know now that we shouldn't ever take what Mother Gothel says to heart.
-)
-Beast_006_fThat's very mature of you!
-U
-Beast_007_fFPerhaps. But I'm not convinced that something shouldn't still be done.
-Q
-Beast_013_fBVery well. But I will need your help. How should we go about this?
-n
-Beast_014_f_Well, we definitely need to teach Mother Gothel a lesson. But the Valley is a no-violence zone.
-=
-Beast_015_f.I understand. I would not want to harm anyone.
-V
-Beast_016_fGWhat we need to do is make Mother Gothel understand how she hurt Belle.
-&
-Beast_017_fI should go see Merlin!
-P
-Beast_018_fAVery well — speak with the enchanter. Then we will make a plan.
-B
-Beast_019_f3Yes. I suppose you're right. I must move past this.
-7
-Beast_020_f(I shouldn't worry so much over a slight.
-
-Beast_021_fThere you go!
-7
-Beast_022_f(But... I fear I will need help to do so.
-%
-Beast_023_fHmm... I have an idea.

@@ -1,75 +1,0 @@
-
-i
-DVillage!LionKing!Pumbaa!VLG_Pumb_010_Any_CompletedRequestDescription!Свяжитесь с Пумба.
-l
-9Village!LionKing!Pumbaa!VLG_Pumb_010_AvailableDescription/Пумба кажется проблемным.
-�
->Village!LionKing!Pumbaa!VLG_Pumb_010_CompletedStoryDescription�Пумба сделал свое триумфальное возвращение в Chez Реми! Он и Тимон даже решили не бросать чизкейк, решая съесть его только снаружи. Пумба — счастливый и благодарный вартог.
-L
-0Village!LionKing!Pumbaa!VLG_Pumb_010_DisplayNameЧто-то не так.
-�
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group01_Step01_StepDescription�Спроси следующих деревенских жителей, почему они покинули Чез Реми, когда Пумба вошел:
-e
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group01_Step01_TalkToCharacter01_StepDescription{TargetNPC}.
-e
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group01_Step01_TalkToCharacter02_StepDescription{TargetNPC}.
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group01_StoryDescription�Пумба доверяет тому, что он убрал Чеза Реми, просто зайдя внутрь. Это напоминает ему о его юных днях в дыре для воды, и он беспокоится о том, что история повторяется. Он смущает вас, просит посмотреть, что случилось с ним.
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group02_Step02_TalkToCharacter03_StepDescriptionLСпроси {TargetNPC} о заказах в ресторане Пумба.
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group02_StoryDescription�Дейзи и Эльза показывают, что у Пумба плохие манеры на столе и плохое дыхание, и что его сигнатурный запах вернулся. Вы отражаете, что Пумба не пахнет во время вашего пребывания с ним в джунглях и идете поговорить с Реми, чтобы увидеть, что могло измениться.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_BringItem01_StepDescription{itemName}.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_BringItem02_StepDescription{itemName}.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_BringItem03_StepDescription{itemName}.
-�
-DVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_ReadyDescription<Принесите тестовую еду на {TargetNPC}.
-�
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_StepDescriptionGПриготовить следующие обеды для Пумба:
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess01_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess02_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess03_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess04_StepDescription{itemName}.
-�
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_StepDescriptionTСобирайте материалы для Пумба грязевой ванны:
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group04_StoryDescription�Вы и Реми определяете, что Пумба едят много того, к чему он никогда не имел доступа: сыр. Вы готовите немного "Lon Puffs", чтобы проверить эту теорию, и некоторые другие продукты без сыра для Пумба. После этого вы хотите, чтобы он чувствовал себя достаточно хорошо, чтобы снова зайти в ресторан, начиная с грязевой ванны.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group05_Step05_CraftItem01_StepDescription{itemName}.
-�
-NVillage!LionKing!Pumbaa!VLG_Pumb_010_Group06_Step06_Decorate01_StepDescriptionbМесто Пумба <ActivityItem>Mud Bath</ActivityItem> в любой точке долины.
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group07_Step07_TalkToCharacter04_StepDescriptionCСкажи {TargetNPC}, что время ванны в грязи.
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group08_Step08_TalkToCharacter05_StepDescription;Попроси {TargetNPC} освежить дыхание.
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group08_Step08_TalkToCharacter06_StepDescription8Спросите у {TargetNPC} зубную щетку.
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group08_Step08_TalkToCharacter07_StepDescription8Спросите у {TargetNPC} зубную пасту.
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group08_StoryDescription�В то время как Пумба наслаждается его грязевой ванной, вы говорите с Минни Маус, Салли и Зверь в поисках гигиенического оборудования.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_BringItem04_StepDescription{itemName}.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_BringItem05_StepDescription{itemName}.
-�
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_BringItem06_StepDescriptionDСобери немного {itemName} в Фростед Хайтс.
-s
-DVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_ReadyDescription+Принесите все на {TargetNPC}.
-
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_StepDescription8Обыщите дома Зверь и Салли для:
-�
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group10_Step10_VisitArea01_StepDescriptionDПознакомьтесь с Пумба внутри Chez Реми.
-z
-LVillage!LionKing!Pumbaa!VLG_Pumb_010_Group11_Step11_Listen01_StepDescription*Слушайте Пумба и Тимон.
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group11_StoryDescription�Свежие ванны с чистыми зубами, Пумба готовы отправиться в Чез Реми, чтобы встретиться с Тимон. Он немного нервничает, чтобы пойти один и попросить тебя пойти с ним.
-h
-7Village!LionKing!Pumbaa!VLG_Pumb_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

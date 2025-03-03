@@ -1,43 +1,0 @@
-
->
-MotherGothel_000_f(Ah, {PlayerName}, what can I do for you?
-O
-Player_000_f?I've joined Mulan's team for your capture the flag competition.
-*
-Player_000_choice_000_fTeamwork rules!
-7
-Player_000_choice_001_fWe're all going to have fun!
-7
-Player_000_choice_002_fBut I'll be rooting for you.
-.
-MotherGothel_002_fOh, aren't you adorable?
-ƒ
-MotherGothel_005_fmBut Mulan is a capable strategist, I'll give her that. Recruiting YOU, my only REAL competition here... Well.
-/
-MotherGothel_006_fI didn't see that coming.
-a
-MotherGothel_007_fKNo matter... I'll defeat her all the same. Other people only slow you down.
-1
-Player_001_choice_000_fMay the best team win.
-+
-Player_001_choice_001_fThat's not true.
-4
-Player_001_choice_002_fWhat made you so cynical?
-!
-MotherGothel_012_fOh, I will.
-l
-MotherGothel_009_fVNow then, I know that fool, the Fairy Godmother, is acting as arbiter for the contest.
-é
-MotherGothel_010_fÒShe's waiting for me to bring her <ActivityItem>Mini Flags</ActivityItem> for the competition. Since you're the last-minute entry, don't you think you ought to <Lore>make the flags and bring them to her</Lore>?
->
-MotherGothel_013_f(Should be simple enough. Even for you...
-0
-MotherGothel_014_fJust kidding, dear. Ta-ta!
-*
-MotherGothel_015_fWe'll see, won't we?
-b
-MotherGothel_016_fLYou say "cynical," I say "realistic." What matters is, I will be victorious.
-b
-MotherGothel_003_fLFun... As if I was a child needing to be entertained... No, I intend to win.
-_
-MotherGothel_004_fIOf course you will, dear. You know who's the most talented in the Valley.

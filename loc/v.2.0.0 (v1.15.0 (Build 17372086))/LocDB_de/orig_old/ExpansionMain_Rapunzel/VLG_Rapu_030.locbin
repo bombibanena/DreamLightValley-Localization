@@ -1,65 +1,0 @@
-
-�
-:Village!Tangled!Rapunzel!VLG_Rapu_030_AvailableDescriptionDРапунцель хочет поговорить о чем-то...
-C
-1Village!Tangled!Rapunzel!VLG_Rapu_030_DisplayNameПонижаю
-z
-VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group01_Step01_TalkToCharacter01_StepDescription Поговори с {TargetNPC}.
-�
-RVillage!Tangled!Rapunzel!VLG_Rapu_030_Group02_Step02_ConsumeItem01_StepDescription[Расследуйте карту Старого острова в вашем списке.
-�
->Village!Tangled!Rapunzel!VLG_Rapu_030_Group02_StoryDescription�Матушка Готель Матушка Готель дает вам карту поиска Sundrop Petals, которые держат ключ от Рапунцель.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group03_Step03_Possess01_StepDescription{itemName}.
-�
-DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group03_Step03_StepDescription�Используя карту, обыщите остров Вечность, чтобы найти Сундроп Петали с помощью своего часового стекла.
-z
-DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group04_Step04_StepDescription2Попроси волшебную помощь у:
-f
-VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group04_Step04_TalkToCharacter02_StepDescription{TargetNPC}.
-f
-VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group04_Step04_TalkToCharacter03_StepDescription{TargetNPC}.
-�
-=Village!Tangled!Rapunzel!VLG_Rapu_030_Group04_StepDescriptionYПринеси лепестки тому, кто умеет волшебствовать.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_Possess02_StepDescription{itemName}.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_Possess03_StepDescription{itemName}.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_Possess04_StepDescription{itemName}.
-s
-DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_StepDescription+Соберите эти материалы:
-�
->Village!Tangled!Rapunzel!VLG_Rapu_030_Group05_StoryDescription�Отказавшись заплатить Урсула секретом Рапунцель, вы сами решили сфабриковать "Вечный сундроп".
-v
-PVillage!Tangled!Rapunzel!VLG_Rapu_030_Group06_Step06_CraftItem01_StepDescription"Приготовить {itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_030_Group07_Step07_BringItem01_StepDescription{itemName}.
-v
-EVillage!Tangled!Rapunzel!VLG_Rapu_030_Group07_Step07_ReadyDescription-Возьмите {itemName} на {TargetNPC}.
-�
-DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group07_Step07_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
-�
-MVillage!Tangled!Rapunzel!VLG_Rapu_030_Group08_Step08_Listen01_StepDescriptionkСвидетель Рапунцель против Матушка Готель Матушка Готель.
-z
-VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group09_Step09_TalkToCharacter04_StepDescription Поговори с {TargetNPC}.
-k
-OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate01_StepDescriptionУютный огонь.
-w
-OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate02_StepDescription$Фиолетовое сиденье.
-
-OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate03_StepDescription,Декоративное освещение.
-u
-OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate04_StepDescription"Русские украшения.
-�
-DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_StepDescription9Украсить лагерь в Диком Тэнгле.
-z
-VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group11_Step11_TalkToCharacter05_StepDescription Поговори с {TargetNPC}.
-�
-VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group12_Step12_FollowCharacter01_StepDescriptionLИдите в лагерь, где вы украшены Рапунцель.
-|
-XVillage!Tangled!Rapunzel!VLG_Rapu_030_Group12_Step12_FollowCharacter01_TalkToDescription Поговори с {TargetNPC}.
-�
->Village!Tangled!Rapunzel!VLG_Rapu_030_Group12_StoryDescription�После того, как он помог Рапунцель доставить обаяние и установил границы с Матушка Готель Матушка Готель, Рапунцель поет вам песню, которую вы вдохновили ее на писать.
-i
-8Village!Tangled!Rapunzel!VLG_Rapu_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

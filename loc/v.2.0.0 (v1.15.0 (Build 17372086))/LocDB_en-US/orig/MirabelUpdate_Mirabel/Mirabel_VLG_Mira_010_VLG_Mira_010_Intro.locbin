@@ -1,25 +1,0 @@
-
-X
-Mirabel_000_fGHey, {PlayerName}... Do you have some time to help me with Mini-Casita?
-6
-Player_000_choice_000_fWhat seems to be the issue?
-'
-Player_000_choice_001_fMaybe later.
-{
-Mirabel_001_fjNothing major, but there's some damage from the time we spent... wherever it was it took me to protect me.
-4
-Player_001_choice_000_fOf course, I'll help you.
-?
-Player_001_choice_001_f$Is it safe for you to live in there?
-N
-Player_001_choice_002_f3Shouldn't a magical house be able to repair itself?
-M
-Mirabel_002_f<Great! Let's go to Mini-Casita. It'll be easier to show you.
-‰
-Mirabel_003_fxOh, it's totally safe. Don't worry. You'll see what I'm talking about when we get there. C'mon; let's go to Mini-Casita.
-W
-Mirabel_004_fFWell... sometimes, magic needs a little love and elbow grease to work.
-Q
-Mirabel_005_f@Let's go to Mini-Casita, and I'll show you what has to be fixed.
-=
-Mirabel_006_f,No problem! I'll be around whenever you can.

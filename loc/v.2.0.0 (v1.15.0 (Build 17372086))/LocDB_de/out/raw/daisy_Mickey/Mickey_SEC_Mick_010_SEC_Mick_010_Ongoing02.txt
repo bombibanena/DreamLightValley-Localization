@@ -1,6 +1,0 @@
-TAG: Mickey_001_f
-Daisy's coming back to the Valley!
-
-TAG: Mickey_002_f
-Could ya make sure her <ActivityItem>House</ActivityItem> is ready for her, {PlayerName}?
-

@@ -1,45 +1,0 @@
-
-*
-Sally_002_fHey Sally, what's going on?
-e
-Sally_003_fV{PlayerName}, I was wondering... would you consider yourself an experimental gardener?
-&
-Player_000_choice_000_fAbsolutely!
-H
-Player_000_choice_001_f-Uhh, lemme go think about that for a while...
-P
-Sally_004_fAWhat kind of experimental gardening have you been thinking about?
-X
-Sally_005_fIWell, I've seen the lovely gardening projects the other Villagers have...
-b
-Sally_006_fS...and I thought it would be nice to cultivate some more herbs from Halloween Town.
-4
-Player_001_choice_000_fCool, what kind of herbs?
-?
-Player_001_choice_001_f$The deadly nightshade wasn't enough?
-4
-Player_001_choice_002_fDo they grow here easily?
-K
-Sally_008_f<Oh, maybe some henbane, witch hazel, a little worm's wort...
-½
-Sally_019_f­Once it's ready, please meet me in the <Lore>Vitalys Mines</Lore>. The darkness and humidity levels there should be very good for a <ActivityItem>Compost Bin</ActivityItem>.
-r
-Sally_011_fcI tried growing the herbs myself, but they don't seem to want to grow the way they would back home.
-S
-Sally_012_fDOh no! Do they need some kind of special treatment to grow properly?
-l
-Sally_013_f]Perhaps. I do know that the soil in Halloween Town is naturally more rich than the soil here.
-»
-Sally_014_f«After all, there are always dried leaves and things rotting in it. So, I thought maybe we could make our own <ActivityItem>Compost Bin</ActivityItem> to try to mimic that.
-4
-Sally_015_f%That sounds like a great idea, Sally!
-C
-Sally_016_f4Let's see, we'll need to <Lore>craft a bin</Lore>...
-\
-Sally_017_fMAnd maybe <Lore>Remy could give us some trimmings</Lore> from his restaurant.
-?
-Sally_018_f0I'll start gathering materials and talk to Remy!
-á
-Sally_009_fÑWell, it's nice to have other flavors for balance and some herbs have other uses. Also, deadly nightshade isn't good for everyone. Besides, a few more herbs would bring more of a Halloween touch to the Valley.
-#
-Sally_010_fUnfortunately, no...

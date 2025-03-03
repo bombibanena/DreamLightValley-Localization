@@ -1,27 +1,0 @@
-
-`
-Merlin_000_fP{PlayerName}! Oh dear, you look worried. Is there something I can help you with?
-2
-Player_000_choice_000_fI just need some paper.
-V
-Player_000_choice_001_f;Ursula wants me to sneak into people's houses to get paper.
-K
-Player_000_choice_002_f0Does helping Ursula get paper make me a villain?
-P
-Merlin_001_f@Oh, well that doesn't seem like anything to get worked up about.
-v
-Merlin_002_ffMany of our Villagers have paper in their homes. I'm sure they'd be more than happy to share with you.
-;
-Merlin_003_f+I'll just let them know you'll be visiting.
-D
-Merlin_004_f4Sneak?! How dare she?! ... Of course, she IS Ursula.
-€
-Merlin_005_fpWell, not to worry. We'll get this sorted. I'll simply let our fellow Villagers know you're looking for paper...
-L
-Merlin_006_f<That way you don't have to sneak into their homes to get it.
-}
-Merlin_007_fmWell, that's a conundrum indeed! On one hand you are HELPING someone, while on the other hand... it's Ursula.
-L
-Merlin_008_f<Of course, it WOULD be wise for you to keep an eye on her...
-
-Merlin_009_foYes! Do what she's asked. But I'll let the other Villagers know what you'll be up to. Be careful, {PlayerName}.

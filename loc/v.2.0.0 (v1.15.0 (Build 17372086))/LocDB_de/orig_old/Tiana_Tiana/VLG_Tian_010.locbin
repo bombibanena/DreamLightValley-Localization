@@ -1,93 +1,0 @@
-
-�
-GVillage!PrincessFrog!Tiana!VLG_Tian_010_Any_CompletedRequestDescriptionSПоговори с Тиана о её торжественном открытии.
-�
-<Village!PrincessFrog!Tiana!VLG_Tian_010_AvailableDescriptionAТиана, кажется, имеет большие планы.
-�
-AVillage!PrincessFrog!Tiana!VLG_Tian_010_CompletedStoryDescription�У Тиана Feal Stall было торжественное открытие, и все жители деревни теперь могут навещать вкусные обеды! Надеюсь Тиана наслаждались этим мероприятием так же, как и все остальные...
-U
-3Village!PrincessFrog!Tiana!VLG_Tian_010_DisplayNameВернулся из Байю
-�
-VVillage!PrincessFrog!Tiana!VLG_Tian_010_Group01_Step01_PlaceBuilding01_StepDescription3Место Тиана дворец в Долине.
-�
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group02_Step02_VisitArea01_StepDescriptionNПознакомьтесь с Тиана внутри Тиана Дворца.
-�
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group03_Step03_TalkToCharacter01_StepDescriptionhПоговори с Тиана о том, что она вернулась в свой ресторан.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess01_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess02_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess03_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess04_StepDescription{itemName}.
-�
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group04_StepDescriptionCСобирайте материалы для Тиана Feal Stall:
-n
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group05_Step05_CraftItem01_StepDescriptionРемень {itemName}.
-�
-VVillage!PrincessFrog!Tiana!VLG_Tian_010_Group06_Step06_PlaceBuilding02_StepDescriptionNМесто Тиана Feal Stall в долине возле ее дворца.
-�
-UVillage!PrincessFrog!Tiana!VLG_Tian_010_Group07_Step07_PurchaseItem01_StepDescription<Закупка первой еды у Тиана Feal Stall.
-�
-@Village!PrincessFrog!Tiana!VLG_Tian_010_Group07_StoryDescription�Ты помог Тиана устроить ей Сталл и подготовиться к выходу, но Grand Openship все еще в работе, и Тиана нуждается в людях, чтобы присутствовать!
-�
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group08_Step08_TalkToCharacter02_StepDescription1Проверь с {TargetNPC} о ее Стале.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group09_Step09_TalkToCharacter03_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group09_Step09_TalkToCharacter04_StepDescription{TargetNPC}.
-�
-OVillage!PrincessFrog!Tiana!VLG_Tian_010_Group09_Step10_Listen01_StepDescriptionmПослушайте Тиана и Реми и обсудите их соответствующие меню.
-�
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group09_StepDescription�Приглашённые деревенские приглашённые на торжественное открытие Тиана Feal Stall.
-�
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group10_Step11_VisitArea02_StepDescriptionqВозвращайтесь в дворец Тиана, чтобы проверить прогресс Тиана.
-|
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group11_Step12_TalkToCharacter05_StepDescription Поговори с {TargetNPC}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess05_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess06_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess07_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess08_StepDescription{itemName}.
-�
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group12_StepDescriptionnСоберите материалы для изготовления бистро-столов и стулов:
-�
-@Village!PrincessFrog!Tiana!VLG_Tian_010_Group12_StoryDescription�Когда лавина грязной посуды угрожала открытию Столла, Тиана проткнул Мерлин для помощи, но внешнему дюкору Сталла все еще нужно немного поработать!
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group13_Step14_CraftItem02_StepDescription{itemName}.
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group13_Step14_CraftItem03_StepDescription{itemName}.
-
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group13_StepDescription<Приготовить швартовку для Тиана.
-`
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_Decorate01_StepDescription{itemName}.
-`
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_Decorate02_StepDescription{itemName}.
-}
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_Decorate03_StepDescription(Элегантные украшения.
-�
-FVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_StepDescriptionYДекорат Тиана"Терраса"За пределами ее ресторана.
-�
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group15_Step16_VisitArea03_StepDescription4Возвращайся во дворец Тиана.
-|
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group16_Step17_TalkToCharacter06_StepDescription Поговори с {TargetNPC}.
-�
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group17_Step18_Decorate04_StepDescription�Поместите <ActivityItem>Inaboration Ribbon</ActivityItem> рядом с Тиана Feal Stall, чтобы начать Grand Open.
-�
-@Village!PrincessFrog!Tiana!VLG_Tian_010_Group17_StoryDescription�Еда сделана, а терраса украшена, все, что осталось, это наслаждаться Большим открытием и посмотреть, как деревенские жители наслаждаются новыми принадлежностями к Долине.
-�
-NVillage!PrincessFrog!Tiana!VLG_Tian_010_Group18_Step19_Party01_StepDescriptionrСоберись и поблагодари за торжественное открытие Тиана Feal Stall.
-�
-FVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_StepDescriptionnСвяжитесь со всеми, чтобы узнать, нравится ли им Тиана Feal Stall.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_TalkToCharacter07_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_TalkToCharacter08_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_TalkToCharacter09_StepDescription{TargetNPC}.
-k
-:Village!PrincessFrog!Tiana!VLG_Tian_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

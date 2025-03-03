@@ -1,13 +1,0 @@
-
-4
-Scrooge_000_f#Tear me tartan! What just happened?
-;
-Scrooge_001_f*What did you do to my coin, {PlayerName}?!
-L
-Scrooge_002_f;The coin turned into a <ActivityItem>Memory</ActivityItem>.
-Q
-Scrooge_004_f@Och, if they all turn into this, I'll lose money on the venture!
-ƒ
-Scrooge_003_frBut never mind that for now. If it's a <ActivityItem>Memory</ActivityItem>, then you have to follow what it shows!
-O
-Scrooge_005_f>Find where it's pointing you to, and you'll find the treasure!

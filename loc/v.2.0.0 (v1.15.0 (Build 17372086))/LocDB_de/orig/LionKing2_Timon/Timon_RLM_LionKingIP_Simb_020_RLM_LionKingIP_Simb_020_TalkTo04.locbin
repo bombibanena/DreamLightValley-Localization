@@ -1,17 +1,0 @@
-
-q
-Timon_000_fbNice, {PlayerName}! You broke the crown! Which means, you left your past behind ya. How's it feel?
-5
-Player_000_choice_000_fI feel great! What's next?
-&
-Player_000_choice_001_fOddly calm.
-5
-Player_000_choice_002_fI wish I hadn't broken it!
-'
-Timon_001_fThought you'd never ask.
-d
-Timon_002_fU<Lore>Follow me</Lore>! We're gonna put that container thing you gave me to good use.
-4
-Timon_003_f%See, it's working! Now, for step two.
-}
-Timon_004_fnI get it. Sometimes, leaving your past behind can be tough. Trust me; you'll feel better after this next step.

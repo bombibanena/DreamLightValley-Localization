@@ -1,9 +1,0 @@
-TAG: Rapunzel_000_f
-How's the challenge going , {PlayerName}?
-
-TAG: Rapunzel_001_f
-Well, I'm still trying to figure out which <Lore>3 colorful meals</Lore> to make...
-
-TAG: Rapunzel_002_f
-If you need some advice, you could always try <Lore>talking to Remy</Lore>.
-

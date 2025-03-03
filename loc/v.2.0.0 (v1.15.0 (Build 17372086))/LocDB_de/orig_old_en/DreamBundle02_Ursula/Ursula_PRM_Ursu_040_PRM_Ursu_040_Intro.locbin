@@ -1,33 +1,0 @@
-
-8
-Ursula_002_f(Angelfish, just who I was hoping to see!
-R
-Ursula_003_fBTell me, would you have time to help me with some deals I've made?
-%
-Player_000_choice_000_f
-Of course.
-)
-Player_000_choice_001_fNot right now.
-
-Ursula_004_f
-Marvelous!
-ç
-Ursula_006_f}I've finally gotten some folks to sign contracts despite the slanderous rumors that old windbag of a wizard spreads about me.
-|
-Ursula_007_flBut some of the Villagers are rather late in making payments, and I'd hate to have to add them to my garden.
-A
-Player_001_f1I'm going to help you get what you're promised...
-?
-Player_001_choice_000_f$...so nobody ends up in your garden.
-G
-Player_001_choice_001_f,...because I'd love to become just like you.
-F
-Ursula_008_f6That's exactly what I expected from you, {PlayerName}.
-m
-Ursula_010_f]Let's start with something simple... Goofy owes me a large amount of seaweed and red algae...
-Ä
-Ursula_011_fpAnd he hasn't delivered. I'm practically wasting away from lack of nourishment! Be a dear and get him to pay up.
-@
-Ursula_009_f0Well then, consider this a learning opportunity.
-U
-Ursula_005_fEDon't wait too long, or I'll have to add some Villagers to my garden.

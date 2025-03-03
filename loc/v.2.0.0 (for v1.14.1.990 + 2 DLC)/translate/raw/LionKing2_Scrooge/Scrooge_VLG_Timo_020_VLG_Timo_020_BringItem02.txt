@@ -1,9 +1,0 @@
-TAG: Scrooge_001_f
-Мистер МакДак, нам нужен проектор <ActivityItem>Giant Screen</ActivityItem> для показа природного слайд-шоу Тимон.
-
-TAG: Scrooge_000_f
-Да, у меня есть одна штука, всего 1 000 звёзд, что действительно выгодно.
-
-TAG: Scrooge_002_f
-Один <ActivityItem>Giant Projector Screen</ActivityItem>. Вот так!
-

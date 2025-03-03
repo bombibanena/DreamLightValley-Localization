@@ -1,19 +1,0 @@
-
-L
-Merlin_006_f<Oh well, {PlayerName}; many words can have a magical effect.
-4
-Merlin_007_f$But they are not all equal in power.
-E
-Merlin_008_f5Do you know the most powerful magic word of them all?
-/
-Player_001_choice_000_fBibbidi-Bobbidi-Boo.
-$
-Player_001_choice_001_f	Alakazam.
-"
-Player_001_choice_002_fPlease?
-[
-Merlin_009_fKThat is three words, but very potent ones when said by the Fairy Godmother.
-+
-Merlin_010_fA reasonable guess. But no.
-)
-Merlin_011_fQuite correct. Well done!

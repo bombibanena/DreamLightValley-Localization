@@ -1,6 +1,0 @@
-TAG: Merlin_000_f
-Splendid! Splendid, {PlayerName}. You've performed the enchantment with great success.
-
-TAG: Merlin_001_f
-Well, don't wait here! Go try it on some of those pungent Mushrooms!
-

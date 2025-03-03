@@ -1,13 +1,0 @@
-
-z
-Merida_000_fjTiana, I need the recipe for a very specific Scottish dish: Salt-Baked Sea Wolf. Any chance you've got it?
-M
-Merida_001_f=No. I've never heard of it, but I do love a culinary mystery!
-Q
-Merida_002_fAGive me a little time, and I'm sure I can find it in the Library.
->
-Merida_003_f.Could you send it to {PlayerName} when you do?
-=
-Merida_004_f-Of course! ... It's not actually wolf, is it?
-5
-Merida_005_f%No! No. Just a fish with an odd name.

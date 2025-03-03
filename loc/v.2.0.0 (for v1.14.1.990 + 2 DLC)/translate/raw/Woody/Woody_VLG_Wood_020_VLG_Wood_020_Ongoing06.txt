@@ -1,3 +1,0 @@
-TAG: Woody_000_f
-Теперь, когда у нас есть все, мы должны создать коробку <ActivityItem>Fuse</ActivityItem>.
-

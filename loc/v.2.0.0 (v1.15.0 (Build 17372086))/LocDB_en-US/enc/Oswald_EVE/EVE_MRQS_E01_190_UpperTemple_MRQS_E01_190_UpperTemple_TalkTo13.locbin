@@ -1,14 +1,0 @@
-
-H
-	EVE_000_f;Okay, EVE, the Ancient Console is all powered up and ready!
-
-	EVE_001_f*digital beeps*
-Q
-	EVE_002_fDThink you can try communicating with it now to unlock the trap door?
-
-	EVE_003_f
-Directive!
-X
-	EVE_004_fKIt looks like that worked, EVE! The pathway to the trap door is all lit up!
-
-	EVE_005_fWOOOOOO!

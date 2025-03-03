@@ -1,38 +1,0 @@
-
-7
-Jafar_000_f({PlayerName}, what do you know of magic?
-7
-Player_000_choice_000_fMostly what Merlin tells me.
-=
-Player_000_choice_001_f"I've worked a lot with Dreamlight.
-M
-Player_000_choice_002_f2I know there's Light Magic and there's Dark Magic.
-1
-Jafar_001_f"Then you have a limited education.
-c
-Jafar_002_fTMerlin's moralizing keeps him from exploring the most interesting branches of magic.
-E
-Jafar_003_f6Magic is a tool. No more moral than a sword or hammer.
-#
-Player_001_choice_000_fI agree!
-8
-Player_001_choice_001_fI'm not so sure about that...
-!
-Jafar_004_fYou do? Marvelous.
-e
-Jafar_005_fVIt just means that the magic user needs to be sure of the goodness in their own heart!
-%
-Jafar_006_fOh. How disappointing.
-I
-Jafar_007_f:I've seen magic here that only brings light and happiness.
-@
-Jafar_008_f1So I have seen. That is a potent form of sorcery.
-s
-Jafar_009_fdWhile I have no magic myself, I have worked with a number of magical ephemera — not just the lamp.
-@
-Jafar_010_f1I remember something about a Mystic Blue Diamond?
-
-Jafar_011_f
-Precisely!
-6
-Jafar_012_f'Light? Dark? Such useless distinctions.

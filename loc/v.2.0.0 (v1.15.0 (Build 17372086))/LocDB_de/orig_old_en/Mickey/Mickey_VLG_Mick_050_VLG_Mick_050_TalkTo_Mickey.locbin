@@ -1,17 +1,0 @@
-
-U
-Mickey_000_fE{PlayerName}! When you opened that chest, I remembered something new!
-L
-Mickey_001_f<I remembered a door... But I can't figure out where it is...
->
-Mickey_002_f.And I remembered... part of a riddle? It goes:
-\
-Mickey_003_fL"Turrets and towers you will behold. Within: a door for things new and old."
-Z
-Mickey_005_fJIt sounds like there's a secret door somewhere! Could you help me find it?
-)
-Player_000_choice_000_fYes! Let's go!
-<
-Player_000_choice_001_f!Can you repeat that riddle again?
-3
-Mickey_006_f#Hot dog! Secret door, here we come!

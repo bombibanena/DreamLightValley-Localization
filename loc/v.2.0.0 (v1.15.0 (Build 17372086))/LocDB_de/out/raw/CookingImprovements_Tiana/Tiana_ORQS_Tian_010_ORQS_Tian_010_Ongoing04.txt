@@ -1,6 +1,0 @@
-TAG: Tiana_000_f
-The <ActivityItem>Slow Cooker</ActivityItem> is complete!
-
-TAG: Tiana_001_f
-Well, that's certainly exciting! You should <Lore>place it somewhere quick and start cooking</Lore>!
-

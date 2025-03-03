@@ -1,51 +1,0 @@
-
-A
-Merlin_011_f1{PlayerName}, some Villagers are getting worried.
-i
-Merlin_002_fYYou see, our memories are getting clouded. We fear the Forgetting may be happening again.
-8
-Merlin_015_f(Oh, what a big magical mess this all is!
-A
-Player_000_f1It's the doing of some sort of Dark Entity. It...
-,
-Player_000_choice_000_f...cursed a cave.
-8
-Player_000_choice_004_f...vanished through a portal.
-:
-Player_000_choice_005_f...imprisoned Ursula in a cave.
-L
-Merlin_018_f<Ah, so it's a Dark Entity that's causing all these curses...
-
-Merlin_000_f}If we're to stop the Forgetting from happening again, we must fully understand the situation! The what, the who, and the how!
-,
-Player_002_choice_000_fWhere do I start?
-/
-Player_002_choice_001_fI can't do it alone.
-:
-Player_002_choice_002_fI'll NEVER let it happen again!
-V
-Merlin_006_fFThere are a few caves tucked away on the Beach. You must explore them.
-”
-Merlin_013_fƒThe cave Ursula mentioned is enshrined in legend. It's called the <Lore>Mystical Cave</Lore>. Once, it was a source of great power.
-p
-Merlin_017_f`Find the cave, and help the Sea Witch. She always has secrets she's willing to trade for a deal.
-Y
-Merlin_004_fIWhen the Valley fell into chaos, the Sea Witch fled to a cave by the sea.
-N
-Merlin_001_f>She must be in the one you saw on the north side of the Beach.
-¦
-Merlin_010_f•Investigate that cave and find her. If there's one thing I know about Ursula, it's that she always has secrets she's willing to trade to make a deal.
-v
-Merlin_014_ffAnd you won't! The whole Village is with you, but there's one person in particular that you must find.
-E
-Merlin_019_f5Someone who understands power and magic quite well...
-&
-Merlin_021_fUrsula, the Sea Witch.
-S
-Merlin_020_fCI know you won't! And it's exactly that kind of conviction we need.
-E
-Merlin_016_f5Because sometimes you must trust the untrustworthy...
-}
-Merlin_022_fmOh, blast it all! A Dark Entity moving through portals. That must be why the curses appear in so many places.
-O
-Merlin_023_f?This Dark Entity must be quite powerful to manage such a thing.

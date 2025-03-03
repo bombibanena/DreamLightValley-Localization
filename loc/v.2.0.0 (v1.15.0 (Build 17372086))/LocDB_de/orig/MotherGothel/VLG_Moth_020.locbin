@@ -1,45 +1,0 @@
-
-e
-IVillage!Tangled!MotherGothel!VLG_Moth_020_Any_CompletedRequestDescriptionReturn to Mother Gothel.
-ä
->Village!Tangled!MotherGothel!VLG_Moth_020_AvailableDescription«Mother Gothel is done studying the <ActivityItem>Sun's Scroll</ActivityItem>. She wants you to craft magical items called <ActivityItem>Sunlight Torches</ActivityItem> and instructs you how to do it.
-Ü
-CVillage!Tangled!MotherGothel!VLG_Moth_020_CompletedStoryDescription?The only thing left to do is show the picture to Mother Gothel.
-F
-5Village!Tangled!MotherGothel!VLG_Moth_020_DisplayNameShine a Light
-Å
-FVillage!Tangled!MotherGothel!VLG_Moth_020_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
-è
-HVillage!Tangled!MotherGothel!VLG_Moth_020_Group01_Step01_StepDescriptionCCraft {TargetAmount} <ActivityItem>Sunlight Torches</ActivityItem>.
-Å
-FVillage!Tangled!MotherGothel!VLG_Moth_020_Group02_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
-ß
-HVillage!Tangled!MotherGothel!VLG_Moth_020_Group02_Step02_StepDescription[Place the <ActivityItem>Sunlight Torches</ActivityItem> at the bottom of the Mystical Cave.
-Œ
-BVillage!Tangled!MotherGothel!VLG_Moth_020_Group02_StoryDescriptionáShe tells you about a riddle in the <ActivityItem>Sun's Scroll</ActivityItem> that guides you to the bottom of the Mystical Cave, where you'll need to find something called the Pedestal of the Sun and place the <ActivityItem>Sunlight Torches</ActivityItem> on it.
-Å
-FVillage!Tangled!MotherGothel!VLG_Moth_020_Group03_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
-Ä
-VVillage!Tangled!MotherGothel!VLG_Moth_020_Group03_Step03_TakePicture01_StepDescription&Take a picture of the strange symbols.
-ë
-BVillage!Tangled!MotherGothel!VLG_Moth_020_Group03_StoryDescriptionKMysterious symbols appear in the cave. Mother Gothel will want to see them.
-t
-ZVillage!Tangled!MotherGothel!VLG_Moth_020_Group05_Step05_TalkToCharacter01_StepDescriptionTalk to Mother Gothel.
-ß
-BVillage!Tangled!MotherGothel!VLG_Moth_020_Group05_StoryDescriptionaAs soon as the <ActivityItem>Sunlight Torches</ActivityItem> are crafted, you go back to see her.
-Å
-FVillage!Tangled!MotherGothel!VLG_Moth_020_Group06_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
-a
-RVillage!Tangled!MotherGothel!VLG_Moth_020_Group06_Step06_Possess01_StepDescription{itemName}.
-a
-RVillage!Tangled!MotherGothel!VLG_Moth_020_Group06_Step06_Possess02_StepDescription{itemName}.
-a
-RVillage!Tangled!MotherGothel!VLG_Moth_020_Group06_Step06_Possess07_StepDescription{itemName}.
-a
-RVillage!Tangled!MotherGothel!VLG_Moth_020_Group06_Step06_Possess08_StepDescription{itemName}.
-a
-RVillage!Tangled!MotherGothel!VLG_Moth_020_Group06_Step06_Possess09_StepDescription{itemName}.
-ú
-HVillage!Tangled!MotherGothel!VLG_Moth_020_Group06_Step06_StepDescriptionPGather the materials to craft the <ActivityItem>Sunlight Torches</ActivityItem>:
-Ñ
-<Village!Tangled!MotherGothel!VLG_Moth_020_StartRequestButtonD<smallcaps>{title}</smallcaps><br>Are you done studying that scroll?

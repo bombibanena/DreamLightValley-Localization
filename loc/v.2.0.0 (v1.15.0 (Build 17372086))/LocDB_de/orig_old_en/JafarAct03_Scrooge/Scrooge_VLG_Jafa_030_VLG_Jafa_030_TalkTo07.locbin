@@ -1,48 +1,0 @@
-
-;
-Scrooge_001_f*Hey Mr. McDuck, how are you feeling today?
-7
-Scrooge_002_f&Oswald is sick and Rapunzel is... off.
-J
-Scrooge_012_f9<i>Is it so strange for my accent to have diminished?</i>
-A
-Player_000_choice_000_f&When you put it that way, I guess not.
-6
-Player_000_choice_001_fBut all at once? Overnight?
-6
-Scrooge_004_f%<i>Good day to you, {PlayerName}!</i>
-(
-Scrooge_005_f<i>I am quite well.</i>
->
-Scrooge_006_f-Umm, there's something different about you...
-R
-Scrooge_007_fA<i>A new twinkle in my eye, perhaps? A new spring in my step?</i>
-%
-Scrooge_008_fNo... it's not that.
-.
-Scrooge_009_fWhat happened to your accent?
-V
-Scrooge_010_fE<i>Is it not natural for one's mode of speech to gradually shift?</i>
-É
-Scrooge_011_fr<i>I have been in Dreamlight Valley for quite some time now, and it has been ages since I visited my homeland.</i>
--
-Scrooge_014_f<i>You see? All is well!</i>
-/
-Scrooge_016_fHmm, not so sure about that...
-F
-Scrooge_013_f5<i>Why, you are as paranoid as that EVE creature!</i>
-:
-Scrooge_017_f)EVE? What about her? Why is she paranoid?
-Å
-Scrooge_018_fp<i>She has been highly disagreeable today. I would suggest avoiding her. She clearly wants to be left alone.</i>
-
-Scrooge_020_f
-... Weird.
-C
-Scrooge_021_f2All right, thanks Mr. McDuck. I'll see you around.
- 
-Scrooge_022_f<i>Goodbye!</i>
-X
-Scrooge_015_fG<i>Did it change overnight? Or did you simply not notice the shift?</i>
-D
-Scrooge_003_f3Oswald is sick and Gaston is... surprisingly wordy.

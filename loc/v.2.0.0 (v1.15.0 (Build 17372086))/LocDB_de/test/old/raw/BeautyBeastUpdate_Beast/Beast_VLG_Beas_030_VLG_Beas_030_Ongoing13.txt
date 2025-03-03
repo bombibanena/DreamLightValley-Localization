@@ -1,6 +1,0 @@
-TAG: Beast_000_f
-Ты создал зеркало, {PlayerName}?
-
-TAG: Beast_001_f
-Сейчас положу.
-

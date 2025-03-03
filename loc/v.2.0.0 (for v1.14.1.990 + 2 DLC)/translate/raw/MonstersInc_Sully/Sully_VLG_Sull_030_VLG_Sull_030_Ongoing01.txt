@@ -1,6 +1,0 @@
-TAG: Sully_000_f
-Не могли бы вы сделать <ActivityItem>Lemon Clock</ActivityItem>?
-
-TAG: Sully_001_f
-<ActivityItem>Lemons</ActivityItem> и <ActivityItem>Iron Ingots</ActivityItem>.
-

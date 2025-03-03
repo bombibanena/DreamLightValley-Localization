@@ -1,25 +1,0 @@
-
-0
-Donald_000_f Oh boy! We've got all the tools!
-:
-Donald_001_f*Now we just need somebody to fix the boat.
-4
-Player_000_choice_000_fCan't you do it yourself?
--
-Player_000_choice_001_fWhat should we do?
-x
-Donald_003_fhNo way! I'm great at most things, but every time I pick up a hammer, I hit my thumb more than the nails.
-Z
-Donald_002_fJIf we go to the sign outside my House, maybe my Uncle Scrooge will fix it.
-=
-Player_001_f-You want to ask your uncle for another favor?
-I
-Player_001_choice_002_f.Great idea! McDuck Construction to the rescue!
-A
-Player_001_choice_003_f&Yeesh. Mr. McDuck was right about you.
-"
-Donald_006_fSounds good to me!
-=
-Donald_004_f-C'mon, let's go to the sign outside my House.
-@
-Donald_005_f0Hey! I leave fixing houses to the professionals.

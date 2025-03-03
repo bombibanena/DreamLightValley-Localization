@@ -1,29 +1,0 @@
-
-|
-Mushu_001_fmThis is ridiculous! I'm a Guardian! I never run outta fire. How come this crazy theater lamp won't stay lit?!
-?
-Mushu_002_f0Oh! Heh-heh. {PlayerName}, didn't see you there.
-4
-Player_000_choice_000_f... You all right, Mushu?
-8
-Player_000_choice_001_fWhat seems to be the problem?
-C
-Player_000_choice_002_f(You can't light one tiny little lantern?
->
-Mushu_004_f/I'm fine. It's the lantern that's got problems!
-(
-Mushu_000_fIt goes out WAY too fast.
-<
-Mushu_010_f-So it might go out in the middle of the show?
-0
-Mushu_011_f!Yeah. And that would NOT be good.
-‡
-Mushu_012_fxOf course, this isn't the first shadow play we've put on in the Valley. We used to do lots of 'em before the Forgetting.
-‹
-Mushu_013_f|And back then, our lantern had a special light source that never went out... Some sorta magic I'm not exactly familiar with.
-?
-Mushu_014_f0Magical oddity, huh? Time to go speak to Merlin.
-C
-Mushu_006_f4Well, I can light the lantern for the shadow play...
-1
-Mushu_007_f"The problem is: It won't stay lit!

@@ -1,9 +1,0 @@
-TAG: EVE_000_f
-Что?
-
-TAG: EVE_001_f
-Мне нужно использовать мое часовое стекло, чтобы найти <ActivityItem>Ancient Gemstones</ActivityItem>.
-
-TAG: EVE_002_f
-Они должны быть где-то в Гавани Древних.
-

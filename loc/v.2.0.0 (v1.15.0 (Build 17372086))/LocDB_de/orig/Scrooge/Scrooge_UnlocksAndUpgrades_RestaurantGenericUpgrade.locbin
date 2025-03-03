@@ -1,13 +1,0 @@
-
-„
-Scrooge_000_fsIf you add some improvements to Chez Remy, our wee chef can handle more orders, and that'll mean happier customers!
-y
-Player_000_choice_000_f^Let's improve Chez Remy. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
-3
-Player_000_choice_001_fPerhaps some other time.
-o
-Scrooge_002_f^Ah, isn't that a sight! What a fine establishment. You're sure to see me back here right soon.
-}
-Scrooge_005_flOch! You don't have enough Star Coins to improve Chez Remy! Come back when you have the funds, {PlayerName}.
-s
-Scrooge_003_fbCurse me kilts! Stop wasting my time and find me when you're serious about investing in Chez Remy.

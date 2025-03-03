@@ -1,31 +1,0 @@
-
-,
-Gaston_000_fHey, Gaston; how's it going?
-:
-Gaston_001_f*I've just finished my hourly calisthenics.
-B
-Gaston_002_f2Have you come to learn how I maintain my physique?
-.
-Player_000_choice_000_fAmong other things!
-:
-Player_000_choice_001_fUhh, let's move past that idea.
-a
-Gaston_003_fQOswald and I were wondering — how would you feel about judging our competition?
-p
-Gaston_013_f`That's the competitive spirit! You get started on the task, and I'll tell the rabbit what to do.
-_
-Gaston_004_fO{PlayerName}, you've sought out the right man! I'm excellent at judging others.
-�
-Gaston_005_frFor example, I judge that neither of you could lift a single barrel of nails, while I can lift two. With each arm.
-]
-Gaston_006_fMUhh, thanks but I need you to set us a task and then judge who did it better.
-H
-Gaston_007_f8I see. Well then, let's make this a contest of strength!
-i
-Gaston_008_fYThere are some obstacles that have been annoying me in the <Lore>Glittering Dunes</Lore>.
-{
-Gaston_009_fkClear out <ActivityItem>3 Copper Rocks</ActivityItem> and <ActivityItem>3 Glass Stalagmites</ActivityItem>.
-O
-Gaston_010_f?I'll keep an eye on the two of you and see how things progress.
--
-Gaston_011_fSure — Oswald's going down!

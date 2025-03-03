@@ -1,43 +1,0 @@
-
-{
-Flynn_002_flThat last Fairy Tale Trial... It was kind of incredible to live out one of those adventures I read as a kid.
-R
-Player_000_choice_000_f7You're a cooler hero than any hero from a story, Flynn.
-E
-Player_000_choice_001_f*Nobody's as cool as the heroes in stories.
-E
-Player_000_choice_002_f*I'm way cooler than the hero in any story.
-'
-Flynn_004_fReally...? You think so?
-,
-Flynn_018_fUh... I mean, of course I am!
-(
-Flynn_019_f... Thanks, {PlayerName}.
-}
-Flynn_006_fnIn any case, I did some scouting, and it looks like that beanstalk to Maleficent's castle just grew some more!
-p
-Flynn_007_faWhich means it's long enough now for us to <Lore>climb it</Lore> to get into Maleficent's castle.
-@
-Flynn_008_f1You already cleared all the ink blocking the way.
-j
-Flynn_009_f[Guess all that's left to do is head inside and... well... <Lore>confront Maleficent</Lore>.
->
-Flynn_010_f/Whatever happens... I'm with you, {PlayerName}.
-M
-Flynn_011_f>But first, you'll have to clear all that ink blocking the way.
-o
-Flynn_012_f`Once you do that, there won't be anything stopping you from <Lore>confronting Maleficent</Lore>.
-}
-Flynn_013_fnIt looks like we still have to <Lore>find one more Fairy Tale Trial</Lore> before we can climb all the way up.
-R
-Flynn_014_fCMaybe we could <Lore>look into the Teapot Falls</Lore> to the east?
-a
-Flynn_015_fRYou'll have to <Lore>clear away all the ink</Lore> around the place first, though.
-ˆ
-Flynn_016_fyYou already cleared away the ink blocking <Lore>Teapot Falls</Lore>. Let's go look around there for the Fairy Tale Trial.
-J
-Flynn_017_f;I don't know, {PlayerName}. The two of us are pretty close.
-[
-Flynn_020_fLYou know, after seeing you in action, I've gotta admit... You're not so bad.
-–
-Flynn_021_f†Maybe someday kids in an orphanage will gather around and read "The Tales of {PlayerName}." You can inspire some kid to become a hero.

@@ -1,36 +1,0 @@
-
-l
-Scrooge_000_f[Ah, {PlayerName}, I'm feelin' a bit of wanderlust today. Perhaps I need a little adventure.
-=
-Scrooge_001_f,Have you ever been on a grand treasure hunt?
-*
-Player_000_choice_000_fYes, of course!
-%
-Player_000_choice_001_f
-Not yet...
-|
-Scrooge_002_fkAn expert! Well, I'm glad I'm not the only one. Tell me then, where's your favorite place to find treasure?
-)
-Player_001_choice_000_fUnder the sea.
-)
-Player_001_choice_001_fAncient ruins.
-<
-Player_001_choice_002_f!I just want to explore, like you!
-%
-Scrooge_005_fAn excellent choice!
-}
-Scrooge_007_flI've heard tales of Ariel's collection of rare artifacts. Though, I haven't had the chance to see it myself.
-U
-Scrooge_008_fDI'll start making plans to visit. Just as a spectator, I assure you.
-H
-Scrooge_004_f7Oh aye, plenty of curiosities can be found in our past.
-A
-Scrooge_009_f0One day, we'll discover more ancient ruins here.
-M
-Scrooge_010_f<I just KNOW this Valley hasn't given up all its secrets yet!
-2
-Scrooge_006_f!An adventurer after me own heart!
-z
-Scrooge_011_fiWhen we're done exploring the Valley together, perhaps we'll find even more spots that aren't on any map.
-M
-Scrooge_003_f<Ah, then we must go! Tell me, where would you like to visit?

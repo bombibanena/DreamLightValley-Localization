@@ -1,3 +1,0 @@
-TAG: Daisy_001_f
-Просьба добавить несколько <ActivityItem>Outdor sesiding</ActivityItem>, <ActivityItem>Outdor Table</ActivityItem> и некоторые <ActivityItem>Decor</ActivityItem> в Glade of Trust.
-

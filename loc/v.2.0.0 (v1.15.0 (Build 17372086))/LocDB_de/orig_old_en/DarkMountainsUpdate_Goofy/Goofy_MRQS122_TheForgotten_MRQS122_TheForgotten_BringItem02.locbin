@@ -1,39 +1,0 @@
-
-:
-Goofy_001_f+Gawrsh, you cooked the whole meal yourself?
-V
-Goofy_002_fGWell, thanks, {PlayerName}. But I was hoping we could cook it together.
- 
-Player_000_choice_000_fOh...
-"
-Player_000_choice_001_fWell...
-#
-Player_000_choice_002_fSorry...
-
-Goofy_003_fAw, that's okay.
-8
-Goofy_004_f)At least we can share it together, right?
-*
-Player_001_choice_000_fI'm not hungry.
-*
-Player_001_choice_001_fI'm not hungry.
-*
-Player_001_choice_002_fI'm not hungry.
-
-Goofy_005_fYou okay, pal?
-p
-Goofy_006_fa<Forgotten>(Ugh. Like anybody would understand even if I COULD explain it to them...)</Forgotten>
-
-Goofy_007_f	I'm fine.
-N
-Goofy_008_f?Oh, uh... all right. But ya know I'm always here if ya need me.
-Y
-Goofy_009_fJNow I'm gonna dig into this meal ya cooked for me! I can't wait to try it!
-
-Goofy_010_f...
-.
-Goofy_011_fIt smells kinda... interesting.
-…
-Goofy_012_fvMaybe I'll just... uh... save it for later. Must be one of those dishes that gets even better after it sits for a bit.
-j
-Goofy_013_f[Say, I think Minnie was lookin' for you. Ya might wanna <Lore>go see what she wants</Lore>.

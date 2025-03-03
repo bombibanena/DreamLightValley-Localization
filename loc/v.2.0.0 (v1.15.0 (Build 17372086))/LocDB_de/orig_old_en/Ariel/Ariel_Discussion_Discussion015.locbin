@@ -1,25 +1,0 @@
-
-Y
-Ariel_000_fJ{PlayerName}, does anyone ever drink from the Wishing Wells in the Valley?
-<
-Player_000_choice_000_f!Yes, I imagine some Villagers do.
--
-Player_000_choice_001_fI don't know. Why?
-;
-Player_000_choice_002_f I hope not. They're MAGIC Wells.
-3
-Ariel_001_f$Huh... I've never seen anyone do it.
-{
-Ariel_004_flBut I'll try not to swim in the water that runs under them, just in case. I wouldn't want to startle anyone.
-i
-Ariel_002_fZWell, I always try to avoid them when surfacing in the Village, so I don't startle anyone.
-7
-Ariel_005_f(I'll keep avoiding them... just in case.
-&
-Ariel_003_fIt'd be very dangerous.
-7
-Ariel_006_f(And kind of weird. I use them to travel.
-B
-Ariel_007_f3Oh, then it might be dangerous to swim in them too.
-H
-Ariel_008_f9I'll keep on avoiding them then. Thank you, {PlayerName}.

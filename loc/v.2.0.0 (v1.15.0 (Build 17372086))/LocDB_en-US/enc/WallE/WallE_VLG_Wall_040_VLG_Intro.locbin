@@ -1,46 +1,0 @@
-
-
-WallE_000_f
-WALLÂ·E?
-7
-Player_001_f'I found a Memory and I saw you in it...
-?
-Player_001_choice_000_f$We need to figure out what it means.
-+
-Player_001_choice_001_fCan you help me?
-"
-WallE_001_fHmmmm... WALLÂ·E?
-X
-WallE_006_fII know the Memory's kind of warped. But do you know what that machine is?
-
-WallE_011_fOh! Oh!
-K
-WallE_014_f<It sounds like you recognize it! Can you tell me what it is?
-
-WallE_015_fUh...
-Y
-WallE_016_fJSorry, I forgot who I was talking to. I'll try to guess. Is the machine...
--
-Player_002_choice_000_fA trash collector?
-2
-Player_002_choice_001_fA communication device?
-/
-Player_002_choice_002_fPart of a spaceship?
-L
-Player_002_choice_003_f1I don't think I'm going to be able to guess this.
-
-WallE_007_fNo.
-0
-WallE_004_f!Not that? Well, is the machine...
-
-WallE_003_fNo.
-
-WallE_005_fNo.
-
-WallE_008_f
-Hmm... Oh!
-=
-WallE_009_f.You want me to follow you? Okay. Lead the way.
-
-WallE_002_f
-WALLÂ·E!

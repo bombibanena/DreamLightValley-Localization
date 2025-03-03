@@ -1,79 +1,0 @@
-
-Z
-GRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Any_CompletedRequestDescriptionReturn to Anna.
-¡
-<Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_AvailableDescriptionÄYou meet Anna in the Enchanted Forest. Something has unsettled the Spirits of Nature and Anna needs your help to calm them down.
-o
-ARealm!Frozen!Anna!RLM_FrozenIP_Anna_010_CompletedStoryDescription*Anna is overjoyed to see her sister again.
-L
-3Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_DisplayNameThe Spirits of Nature
-u
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group01_Step01_TalkToCharacter01_StepDescriptionExplore the Frozen Realm.
-w
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group02_OngoingRequestButton/<smallcaps>{title}</smallcaps><br>Where to now?
-ç
-RRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group02_Step02_VisitArea01_StepDescription7Use your Watering Can to clear a path through the fire.
-ò
-PRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group02_Step03_DressUp01_StepDescriptionD(Optional) Put on the <ActivityItem>Fireproof Gloves</ActivityItem>.
-å
-?Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group02_StepDescriptionISearch the woods for the <ActivityItem>Fire Spirit, Bruni</ActivityItem>.
-y
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group03_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-^
-NRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group03_Step04_Chase01_StepDescriptionCatch Bruni.
-g
-?Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group03_StepDescription$You've found the Fire Spirit, Bruni!
-ã
-RRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group04_Step05_VisitArea02_StepDescription5Return to Anna near the entrance to the Frozen Realm.
-v
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group05_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-a
-?Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group05_StepDescriptionBring the Fire Spirit to Anna.
-s
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group06_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
-h
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group06_Step07_FollowCharacter01_StepDescriptionFollow Anna.
-i
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group07_Step08_TalkToCharacter02_StepDescriptionTalk to Anna.
-y
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group08_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-î
-PRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group08_Step09_Possess01_StepDescription@Search the ground for <ActivityItem>Craggy Rocks</ActivityItem>.
-w
-PRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group08_Step09_Possess02_StepDescription#<ActivityItem>Basil</ActivityItem>.
-y
-PRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group08_Step09_Possess03_StepDescription%<ActivityItem>Oregano</ActivityItem>.
-ñ
-FRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group08_Step09_StepDescriptionLGather the Ingredients to prepare a <ActivityItem>Stone Soup</ActivityItem>:
-û
-@Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group08_StoryDescriptionŸYou helped Anna calm Bruni, the Fire Spirit. The next challenge is to wake the Earth Giant blocking the path through the Enchanted Forest. Anna suggests the smell of <ActivityItem>Stone Soup</ActivityItem> might help.
-Ë
-QRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group09_Step10_CookMeal01_StepDescriptioníCook {ItemName} using the <ActivityItem>Craggy Rocks</ActivityItem>, <ActivityItem>Basil</ActivityItem>, and <ActivityItem>Oregano</ActivityItem>.
-v
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group10_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-ª
-TRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group10_Step11_FillKeyhole01_StepDescriptioncPlace the <ActivityItem>Stone Soup</ActivityItem> on the pile of rocks near the Earth Giant's foot.
-i
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group11_Step12_TalkToCharacter03_StepDescriptionTalk to Anna.
-v
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group12_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-Ñ
-RRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group12_Step13_VisitArea03_StepDescription.Use your Shovel and Pickaxe to clear the path.
-x
-?Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group12_StepDescription5Explore deeper in the Enchanted Forest and find Elsa.
-i
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group13_Step14_TalkToCharacter04_StepDescriptionTalk to Anna.
-`
-?Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group13_StepDescriptionOh no! The bridge is flooded!
-s
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group14_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
-y
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group14_Step15_FollowCharacter02_StepDescriptionFollow Anna to the calm pond.
-i
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group15_Step16_TalkToCharacter05_StepDescriptionTalk to Anna.
-{
-RRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group16_Step17_BringItem02_StepDescription%Fish in the pond in the Frozen Realm.
-ä
-GRealm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group16_Step17_ReadyDescription?Bring the <ActivityItem>Engagement Ring</ActivityItem> to Anna.
-£
-@Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group16_StoryDescriptionﬁAfter dealing with the Earth Giant, you explore the Enchanted Forest and find Elsa. But the way to her is blocked by a raging river. Hoping the solution lies at the bottom of the pond nearby, you try to fish something out.

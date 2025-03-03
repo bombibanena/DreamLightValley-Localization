@@ -1,65 +1,0 @@
-
-W
-CVillage!LionKing!Timon!VLG_Timo_040_Any_CompletedRequestDescriptionReturn to Timon.
-j
-8Village!LionKing!Timon!VLG_Timo_040_AvailableDescription.Talk to Timon to discuss catching Night Mites.
-æ
-=Village!LionKing!Timon!VLG_Timo_040_CompletedStoryDescription¤You successfully remove the first Night Mite Nest â€” and the counter-infestation has begun! Timon says you both should go find Pumbaa and see what he's been up to.
-I
-/Village!LionKing!Timon!VLG_Timo_040_DisplayNameThe Infestation Part 1
-r
-TVillage!LionKing!Timon!VLG_Timo_040_Group01_Step01_FollowCharacter01_StepDescriptionFollow Timon in the Plaza.
-h
-VVillage!LionKing!Timon!VLG_Timo_040_Group01_Step01_FollowCharacter01_TalkToDescriptionTalk to Timon.
-m
-BVillage!LionKing!Timon!VLG_Timo_040_Group02_Step02_StepDescription'Catch the Night Mites around the Plaza.
-Š
-PVillage!LionKing!Timon!VLG_Timo_040_Group02_Step03_Conditional01_StepDescription6Search and investigate a Night Mite Nest in the Plaza.
-ø
-<Village!LionKing!Timon!VLG_Timo_040_Group02_StoryDescription·While Merlin works on a solution to neutralize the Night Mites, and Pumbaa hunts for more nests, you and Timon start to capture the first Night Mites you can find in search of a nest.
-‰
-TVillage!LionKing!Timon!VLG_Timo_040_Group03_Step04_TalkToCharacter01_StepDescription1The Night Mite Nest won't budge. Return to Timon.
-‘
-TVillage!LionKing!Timon!VLG_Timo_040_Group04_Step05_TalkToCharacter02_StepDescription9Talk to the Forgotten about clearing the Night Mite Nest.
-ò
-<Village!LionKing!Timon!VLG_Timo_040_Group04_StoryDescription±When the Night Mite Nest you find seems invulnerable to Dreamlight Magic, you consult with Timon who suggests talking to the Forgotten â€” they're up on all kinds of dark stuff.
-
-LVillage!LionKing!Timon!VLG_Timo_040_Group05_Step06_Possess01_StepDescription1{itemName} from the Frosted Heights' secret room.
-[
-LVillage!LionKing!Timon!VLG_Timo_040_Group05_Step06_Possess02_StepDescription{itemName}.
-[
-LVillage!LionKing!Timon!VLG_Timo_040_Group05_Step06_Possess03_StepDescription{itemName}.
-x
-BVillage!LionKing!Timon!VLG_Timo_040_Group05_Step06_StepDescription2Gather Ingredients for the Dreamlight Boost Tonic:
-[
-LVillage!LionKing!Timon!VLG_Timo_040_Group05_Step07_Possess04_StepDescription{itemName}.
-[
-LVillage!LionKing!Timon!VLG_Timo_040_Group05_Step07_Possess05_StepDescription{itemName}.
-[
-LVillage!LionKing!Timon!VLG_Timo_040_Group05_Step07_Possess06_StepDescription{itemName}.
-p
-BVillage!LionKing!Timon!VLG_Timo_040_Group05_Step07_StepDescription*Gather materials for the Night Mite Wings:
-x
-MVillage!LionKing!Timon!VLG_Timo_040_Group06_Step08_CookMeal01_StepDescription'Brew a {itemName} at a Cooking Station.
-e
-LVillage!LionKing!Timon!VLG_Timo_040_Group06_Step09_EatMeal01_StepDescriptionDrink the {itemName}.
-[
-;Village!LionKing!Timon!VLG_Timo_040_Group06_StepDescriptionMake and drink a {itemName}.
-g
-NVillage!LionKing!Timon!VLG_Timo_040_Group07_Step10_CraftItem01_StepDescriptionCraft the {itemName}.
-W
-CVillage!LionKing!Timon!VLG_Timo_040_Group08_Step11_ReadyDescriptionReturn to Timon.
-z
-BVillage!LionKing!Timon!VLG_Timo_040_Group08_Step11_StepDescription4Make sure you have the {itemName} in your Inventory.
-[
-LVillage!LionKing!Timon!VLG_Timo_040_Group09_Step12_DressUp01_StepDescription{itemName}.
-f
-LVillage!LionKing!Timon!VLG_Timo_040_Group09_Step12_DressUp02_StepDescriptionSome {Color} clothing.
-f
-LVillage!LionKing!Timon!VLG_Timo_040_Group09_Step12_DressUp03_StepDescriptionSome {Color} clothing.
-M
-;Village!LionKing!Timon!VLG_Timo_040_Group09_StepDescriptionDress up with:
-y
-KVillage!LionKing!Timon!VLG_Timo_040_Group10_Step14_PickUp01_StepDescription*Remove the Night Mite Nest from the Plaza.
- 
-<Village!LionKing!Timon!VLG_Timo_040_Group10_StoryDescriptionßThe Forgotten suggests you need a tonic to amplify Dreamlight Magic and supplies you with a tonic recipe of their own invention. They also add that the Mites may have seen you coming, and say you may want to dress in purple with bug wings to throw them off. Following this advice, you regroup with Timon to see if you can take on the Night Mite Nests.

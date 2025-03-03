@@ -1,9 +1,0 @@
-TAG: MikeWazowski_000_f
-Что сказал Салли?
-
-TAG: MikeWazowski_001_f
-Он предложил мне вернуться в королевство Монстров и взять <ActivityItem>wopee Cushion</ActivityItem>, a <ActivityItem>Rubber Chicken</ActivityItem> и 10 <ActivityItem>Laugh Canisters</ActivityItem>.
-
-TAG: MikeWazowski_002_f
-Я знал, что Салли может помочь.
-

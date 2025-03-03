@@ -1,6 +1,0 @@
-TAG: Jafar_000_f
-Пожалуйста, сообщите о вашем прогрессе, {PlayerName}.
-
-TAG: Jafar_001_f
-Он все еще пытается зафиксировать эти <ActivityItem>Emotiive Essences</ActivityItem>.
-

@@ -1,6 +1,0 @@
-TAG: Merlin_001_f
-The Forgotten дал вам <ActivityItem>Orb памяти</ActivityItem>?
-
-TAG: Merlin_002_f
-Вы должны поместить его в Столп в забытых землях.
-

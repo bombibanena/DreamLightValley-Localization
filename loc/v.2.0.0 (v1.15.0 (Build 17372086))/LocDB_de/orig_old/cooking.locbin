@@ -1,87 +1,0 @@
-
-
-button_mealsПитание
-8
-button_sub_products!{Placeholder}Sub Продукты
-S
-cookbook_buff_cooking_timer4{percent,P0} Быстрее ({hours,%h} час)[с])
-`
-cookbook_buff_fishing_reelBРыбалка {percent,P0} быстрее ({hours,%h} часов)
-O
-cookbook_buff_friendship3Дружба +{percent,P0} ({hours,%h} час)[с])
-d
-cookbook_buff_growth_timerFВырастить {percent,P0} быстрее ({hours,%h} часов)
-�
-&cooking_ingredient_number_exeeded_desclБудь осторожен, здесь максимум 5 ингредиентов на реципиент.
-X
-'cooking_ingredient_number_exeeded_title-Неблагоприятные вопросы
-L
-cooking_missing_ingredient.Недостающие ингредиенты:
-!
-cooking_ready_inГотовы:
-0
-cooking_refresh_inОбновляется в:
-J
-cooking_remaining_tries/Оставшиеся попытки: {number,D}
-�
-(cooking_remi_not_enough_ingredients_descxУ тебя не хватит "Ингредиентов", чтобы приготовить этот реципиент.
-f
-cooking_remi_start_descKТы готов к тому, что Реми начнет готовить?
-Q
-cooking_start_desc;Ты готов попробовать этот Рецип?
-!
-cooking_start_remiПошли!
-O
-cooking_wrong_recipe_desc2Попробуй что-нибудь другое.
-1
-new_recipe_labelНовый реципиент
-A
-pantry_add_ingredients'Добавить ингредиенты
--
-pantry_cookbook_titleРеципиенты
--
-pantry_cooking_stationРеми Кухня
-t
-pantry_emptydУпс, у тебя нет никаких "Ингредиентов" в этой категории.
-%
-pantry_fridge_titleПанцирь
-'
-pantry_shopРеми Магазин.
-5
-pantry_start_cookingНачать готовить
-#
-pantry_transferПередача
-0
-pantry_transfer_allПеренести все
-Z
-pantry_transfer_descBХочешь перевезти эти вещи в Пантрию?
-2
-select_recipe!Выбрать реципиент
-
-history_titleИстория
-
-ingredient_fishРыба
- 
-ingredient_fruitФрукты
-
-ingredient_grain
-Зерно
-S
- ingredient_legend_bad_ingredient/Ненужная неблагоприятная
-'
-ingredient_legend_emptyПустой
-P
-!ingredient_legend_good_ingredient+Обязательный ингредент
-J
-ingredient_legend_good_type+Ветровая ингредиентная
- 
-ingredient_otherПрочее
-6
-ingredient_sea_foodМорские продукты
-
-ingredient_spice
-Спайс
-<
-ingredient_sub_product"{Placeholder} Подпродукт
-&
-ingredient_vegetableОвощное

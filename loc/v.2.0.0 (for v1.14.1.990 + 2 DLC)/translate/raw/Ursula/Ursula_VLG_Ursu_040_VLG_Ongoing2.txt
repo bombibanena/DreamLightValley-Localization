@@ -1,6 +1,0 @@
-TAG: Ursula_000_f
-Она попросила <ActivityItem>Sushi</ActivityItem> и <ActivityItem>Lobster Rolls</ActivityItem>?
-
-TAG: Ursula_001_f
-Что касается <ActivityItem>Lobster Rolls</ActivityItem>, то вам понадобится <ActivityItem>Lobster</ActivityItem>, <ActivityItem>Wheat</ActivityItem>, <ActivityItem>Lemon</ActivityItem>, <ActivityItem>Butter</ActivityItem> и </ActivityItem>0Garlic</ActivityItem>1.
-

@@ -1,9 +1,0 @@
-TAG: Scrooge_000_f
-Bless me bagpipes! The whole Village is comin' out for this concert, {PlayerName}! Like I always say, there's big money in entertainment.
-
-TAG: Scrooge_001_f
-Now, I dug the <ActivityItem>Sound Equipment</ActivityItem> outta storage for ya. I hope those lads are ready to put on a show.
-
-TAG: Scrooge_002_f
-And if you want my advice on where to do it? Dazzle Beach would make a fine venue.
-

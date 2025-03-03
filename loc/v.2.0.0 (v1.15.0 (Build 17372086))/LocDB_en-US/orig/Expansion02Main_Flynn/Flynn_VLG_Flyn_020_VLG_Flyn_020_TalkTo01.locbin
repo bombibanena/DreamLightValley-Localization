@@ -1,57 +1,0 @@
-
-#
-Flynn_000_fFlynn? Are you okay?
-:
-Flynn_001_f+It's starting to come back... I remember...
-3
-Flynn_004_f$Me... kneeling at Maleficent's feet?
->
-Flynn_003_f/No way. This can't be real. I'd never help her.
-*
-Player_000_choice_000_fHow can I help?
-8
-Player_000_choice_001_fMaybe it's not what it seems.
-/
-Player_000_choice_002_fYou're overreacting.
-`
-Flynn_005_fQIf you can think of a way to prove these memories are false, that would be great.
-P
-Flynn_008_fAListen, I have an idea. It might sound a little out there, but...
-(
-Flynn_009_fWhat if I talk to Ursula?
-~
-Flynn_010_foUrsula?! It's bad enough that I'm tangled up with Maleficent. You want to make a deal with the Sea Witch, too?!
-A
-Player_001_choice_000_f&She might have a potion that can help.
-C
-Player_001_choice_001_f(Maybe she has villainous intel to share.
-C
-Player_001_choice_002_f(She could help us think outside the box.
-4
-Flynn_011_f%Potions are her specialty, after all.
-X
-Flynn_014_fIFunny, I would have said her specialties are "lying" and "dirty dealing."
-h
-Flynn_015_fYDirty dealing maybe, but despite her, ah, flaws... Ursula isn't usually an outright liar.
-C
-Flynn_020_f4She might be able to help you recover your memories.
-
-Flynn_021_fWell...
-d
-Flynn_022_fUAll right. Let's <Lore>talk to Ursula</Lore>... If you really think it's a good idea.
-W
-Flynn_012_fHIf she's heard anything, she might be willing to share that information.
-I
-Flynn_016_f:With Ursula, that sort of thing always comes with a price.
-,
-Flynn_017_fIt might be worth it, though.
-A
-Flynn_013_f2Seeing things from another perspective might help.
-+
-Flynn_018_fSure, but I mean... Ursula?!
-X
-Flynn_019_fIWith her knowledge of villainy, she could lead us in the right direction.
-=
-Flynn_006_f.Maybe... or maybe it is. UGH! I'm so confused!
->
-Flynn_007_f/Am I? Because I think you may be underreacting.

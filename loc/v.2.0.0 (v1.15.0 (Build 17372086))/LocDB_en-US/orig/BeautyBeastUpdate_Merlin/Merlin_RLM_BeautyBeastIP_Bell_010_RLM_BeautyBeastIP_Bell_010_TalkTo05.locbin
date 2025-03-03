@@ -1,61 +1,0 @@
-
-[
-Merlin_000_fKMerlin, I visited Belle and the Beast in their Realm, and I need some help.
-a
-Merlin_002_fQIt's a long story but... Do you know of any enchantments that can make paintings?
-F
-Player_000_choice_000_f+There's a conflict that only art can solve.
-A
-Player_000_choice_001_f&I want to use the magic of creativity!
-K
-Player_000_choice_002_f0They're in a rough patch, and I'm in the middle!
-C
-Merlin_010_f3A creative quandary? That certainly is fascinating.
-ª
-Merlin_003_f™There are tools and charms that just might suit this purpose. They'll allow you to create an <ActivityItem>Enchanted Canvas</ActivityItem> ‚Äî one that will paint itself!
-4
-Player_001_choice_000_fHave you used this spell?
-?
-Player_001_choice_001_f$Why would a wizard enchant a canvas?
-:
-Player_001_choice_002_fSelf-painting? Sounds... funny.
-
-Merlin_012_fWhy, certainly!
-Ç
-Merlin_015_frOn occasion, I feel the need to rearrange and redecorate my study to reinvigorate my imagination with new stimuli.
-u
-Merlin_016_feSo, I have used such canvases to preserve treasured moments and, as you might say, "shake things up"!
-í
-Merlin_017_fÅNow let's see... If I recall correctly, you'll need <ActivityItem>Softwood</ActivityItem> and <ActivityItem>Fiber</ActivityItem>.
-ß
-Merlin_005_fñThen, you must gather <ActivityItem>White Daisies</ActivityItem>, <ActivityItem>Garnets</ActivityItem>, and <ActivityItem>Dream Shards</ActivityItem>.
-j
-Merlin_018_fZOh, and there is one more vital ingredient... one you won't be able to find in the Valley.
-.
-Player_003_choice_000_fMagic paintbrushes?
-A
-Player_003_choice_001_f&This is starting to sound difficult...
-,
-Player_003_choice_002_fIs this a riddle?
-*
-Merlin_019_fNo, no, nothing like that!
-å
-Merlin_006_f|As you well know, {PlayerName}, the very best art comes from the heart ‚Äî this is where our final spell component comes in.
-¢
-Merlin_001_fëYou must have Belle tell the canvas a story. Ask her to <Lore>share a happy memory of a time she had with the Beast</Lore> to activate the magic.
-Y
-Merlin_022_fIWhen she does, you'll see a new masterpiece bloom right before your eyes!
-W
-Merlin_021_fGNo need to worry. The last ingredient is not as elusive as it sounds...
-i
-Merlin_020_fYNo, though I should think of one next time someone asks... Now, where were we? Oh, yes...
-r
-Merlin_008_fbWe all need a creative outlet, my friend! Magic is an art, you know... and art is a kind of magic!
-N
-Merlin_014_f>Hmph. Not all magic has to rattle the cosmos, you know! Now...
-@
-Merlin_013_f0Belle and I are making a painting for the Beast.
-ô
-Merlin_009_fàI see... Well, I have long believed that one of our greatest powers is the power of imagination! Of course, if you need a little help...
-Ñ
-Merlin_011_ftI must say I'm a bit perplexed as to how artwork might resolve the situation, but you seem certain of your strategy.

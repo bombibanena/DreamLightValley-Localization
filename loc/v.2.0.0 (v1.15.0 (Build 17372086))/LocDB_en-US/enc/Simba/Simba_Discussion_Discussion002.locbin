@@ -1,33 +1,0 @@
-
-m
-Simba_000_f^My buddy Timon's still a little nervous around Nala. Before they met, she tried to eat Pumbaa.
-B
-Simba_010_f3I'd like them to be better friends. Got any advice?
-(
-Player_000_choice_000_fDinner party.
-,
-Player_000_choice_001_fHunting together.
-$
-Player_000_choice_002_f	Hang out.
-<
-Simba_001_f-Have a party about dinner? What would we eat?
- 
-Player_001_choice_000_fBugs.
-$
-Player_001_choice_001_f	Antelope.
-,
-Player_001_choice_002_fA chocolate cake?
-[
-Simba_002_fLTimon and Pumbaa would love that. And Nala's starting to come around on 'em.
-@
-Simba_011_f1She's learning they can be slimy, yet satisfying.
-:
-Simba_003_f+Uhh... Timon and Pumbaa don't eat antelope.
-Z
-Simba_012_fKAnd I think seeing Nala eat an antelope would just make Timon more nervous.
-U
-Simba_004_fFI don't know what that is... but I bet Timon and Pumbaa would like it.
-u
-Simba_005_ffI think going hunting with Nala would just make Timon more nervous. He's naturally wary of carnivores.
-h
-Simba_006_fYYou mean spend some time relaxing together? That might help... if Timon can relax at all.

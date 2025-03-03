@@ -1,23 +1,0 @@
-
-k
-Daisy_001_f\Would you look at that? It's spotless! Thank you so much for helping clean up, {PlayerName}.
-;
-Daisy_002_f,Now I just need to fix things with Donald...
-=
-Daisy_005_f.I don't suppose you could check on him for me?
-'
-Player_000_fSure, I'll talk to him.
-;
-Player_000_choice_000_f I'll be as delicate as possible.
-(
-Player_000_choice_001_fAny pointers?
-8
-Player_000_choice_002_fI'll tell him to get over it.
-c
-Daisy_000_fTThat would be perfect. He can be very sensitive. It's part of what I love about him.
-L
-Daisy_006_f=Thank you for everything, {PlayerName}. You really are a gem.
-C
-Daisy_003_f4Try and be gentle. Donald can be so hard on himself.
-ƒ
-Daisy_004_ftI think you'll have to be gentler than that. Deep down, Donald's just a softie â€” and he can be so hard on himself.

@@ -1,37 +1,0 @@
-
-y
-Merlin_000_fiAh, ah, don't say anything, {PlayerName}. I'm a soothsayer after all. I know what you're here to tell me!
-
-Merlin_011_f...
-X
-Merlin_012_fHBah! My memories of the future are cloudy today! You'll have to tell me.
-:
-Player_000_choice_000_fI found Kristoff in the Forest!
-E
-Player_000_choice_001_f*Donald Duck stepped through a Dark Portal.
-7
-Player_000_choice_002_fI need a way to find Donald.
-g
-Merlin_007_fWKristoff...? Yes, yes! Isn't he the lad who plays the flute? Or is it the glockenspiel?
-$
-Player_002_choice_000_f	The lute!
-(
-Player_002_choice_001_fI don't know.
-
-Merlin_008_fYes! The lute!
-x
-Merlin_009_fhI thought he left the Village after the Forgetting like everyone else. He must have stayed for a reason.
-k
-Merlin_006_f[Oh my! Donald found himself a portal, you say... Hmm, perhaps a gateway to another world...
-4
-Merlin_004_f$And this Dark Grove is full of mist?
-Y
-Merlin_010_fICould that portal lead to the same place as the one you saw on the Beach?
-p
-Merlin_005_f`So many questions... But let's make haste! Donald could be in danger. We need a way to find him.
-ç
-Merlin_001_f}Well, there's only one way to find him. We'll need to create a <Lore>tracking spell</Lore> that will work in that Dark Grove.
-”
-Merlin_002_f¬You'll need a few <ActivityItem>Emeralds</ActivityItem>, a plant from the Dark Grove and a few <ActivityItem>Dream Shards</ActivityItem>... I'm sure you'll figure out a way to gather everything.
-4
-Merlin_003_f$When you're ready, bring them to me.

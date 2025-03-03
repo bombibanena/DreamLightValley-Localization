@@ -1,6 +1,0 @@
-TAG: Merlin_000_f
-Только вы можете убрать Ночные Торны из долины, так что только вы можете освободить <ActivityItem>Orb дружбы</ActivityItem> из запутанных баров.
-
-TAG: Merlin_001_f
-Давай, сосредоточься и попытайся вернуть <ActivityItem>Orb</ActivityItem>.
-

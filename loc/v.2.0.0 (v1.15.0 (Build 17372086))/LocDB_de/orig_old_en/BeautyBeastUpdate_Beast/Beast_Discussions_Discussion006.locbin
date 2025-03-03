@@ -1,31 +1,0 @@
-
-L
-Beast_000_f={PlayerName}. Your Dreamlight is some sort of powerful magic.
-:
-Beast_001_f+Do you think it could lift the spell on me?
-T
-Player_000_choice_000_f9Your enchantment is pretty specific about what breaks it.
-P
-Player_000_choice_001_f5You could ask Merlin, but I wouldn't get my hopes up.
-\
-Player_000_choice_002_fAWhy do you want to break the spell? You're so adorable and fuzzy!
-P
-Beast_002_fAYou're right. I suppose it's foolish to try and find another way.
-S
-Beast_003_fDI understand. After all this time, I have learned not to be hopeful.
-8
-Beast_004_f)I... what? That's impossible. Look at me!
-*
-Beast_005_f... You think I'm adorable?
- 
-Player_001_choice_000_fI do.
-&
-Player_001_choice_001_fAbsolutely.
-4
-Player_001_choice_002_fAnd I bet Belle does too.
-
-Beast_006_fOh. How... odd.
-7
-Beast_007_f(That's... odd. But thank you, I suppose.
-D
-Beast_008_f5You really think so? I... I need to think about this.

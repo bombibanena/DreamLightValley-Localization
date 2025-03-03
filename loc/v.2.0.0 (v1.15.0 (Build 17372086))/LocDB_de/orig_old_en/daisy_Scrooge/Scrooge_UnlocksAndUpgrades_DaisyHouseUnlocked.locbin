@@ -1,13 +1,0 @@
-
-z
-Scrooge_000_fiLooky here... A house as stylish as its owner... It'll be a grand addition to the Valley once it's built.
-|
-Player_000_choice_000_faLet's finish Daisy's House. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
-3
-Player_000_choice_001_fPerhaps some other time.
-<
-Scrooge_001_f+It's perfect! Daisy'll be pleased as punch.
-{
-Scrooge_002_fjOch! You dinnae have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.
-{
-Scrooge_003_fjBut {PlayerName}, this is a sound investment! *sigh* Well, come back here when you've come to your senses.

@@ -1,81 +1,0 @@
-
-u
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Any_CompletedRequestDescriptionПоговори с Зверь.
-�
-GRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_AvailableDescription�Вы решили проблему между Белль и Зверь, но, похоже, все еще есть незавершенные дела.
-�
-LRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_CompletedStoryDescription<Белль и Зверь вернулись в Долину!
-f
->Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_DisplayName$Князь в заблуждении
-�
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group01_Step01_TalkToCharacter01_StepDescription Поговори с {TargetNPC}.
-�
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_BringItem01_StepDescription.Прячется в горячем месте.
-�
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_BringItem02_StepDescription9Скрыт в месте, где рычит тишина.
-�
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_BringItem03_StepDescription0Спрятался в колючем месте.
-�
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_ReadyDescriptionJВозьмите <ActivityItem>Key Pieces</ActivityItem> на {TargetNPC}.
-�
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_StepDescriptiontСледуйте подсказкам Люмьера, чтобы найти <ActivityItem>Key Pieces</ActivityItem>:
-�
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_StoryDescriptionaЗверь хочет извиниться перед Белль и дать ей подарок.
-�
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group03_Step03_ReadyDescriptionXВозьмите <ActivityItem> Enchaned Зеркало</ActivityItem> на {TargetNPC}.
-�
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group03_Step03_StepDescriptionnОткрой грудную клетку и собери <ActivityItem>Enchaned Зеркало</ActivityItem>.
-�
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group04_Step04_TalkToCharacter02_StepDescriptionSПоговори с Зверь о том, что ты видел в зеркале.
-j
-[Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step06_Possess01_StepDescription{ItemName}.
-j
-[Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step06_Possess02_StepDescription{ItemName}.
-j
-[Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step06_Possess03_StepDescription{ItemName}.
-�
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step07_StepDescriptionMСпросите деревенщину <ActivityItem>Feather</ActivityItem>.
-�
-JRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_StepDescription7Соберите следующие материалы:
-�
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_StoryDescription�С зеркалом вы и Зверь обнаруживаете, что Белль пишет ее собственные истории. Вы решили сделать ей книжный набор в качестве подарка.
-l
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group06_Step08_CraftItem02_StepDescription{ItemName}.
-�
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group07_Step09_ReadyDescription-Возьмите {itemName} на {TargetNPC}.
-�
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group07_Step09_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
-l
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_BringItem06_StepDescription{itemName}.
-l
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_BringItem07_StepDescription{itemName}.
-l
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_BringItem08_StepDescription{itemName}.
-�
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_ReadyDescriptionEПринесите то, что вы собрали на {TargetNPC}.
-�
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_StepDescriptionRОбыщите комнату Зверь по следующим позициям:
-�
-ZRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group09_Step11_Listen01_StepDescriptionFПослушай извинения Зверь Белль в саду.
-�
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group09_StoryDescription�С полным подарком вы решаете, что Зверь нуждается в небольшой самооценке и репетиции, чтобы сделать его извинения Белль идеальными. Когда придет время извиниться, он просит вас сопровождать его за моральную поддержку.
-�
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group10_Step12_TalkToCharacter05_StepDescriptionПоговори с Белль.
-�
-JRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group11_StepDescriptionDПоместите замок Зверь в долину Мечты.
-�
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group11_StoryDescriptionmБелль и Зверь решат, что хотят вместе посетить долину Мечты.
-�
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group12_Step15_StepDescription�Используйте знак Скрудж Макдак, чтобы оплатить строительство замка Зверь.
-
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group13_Step16_UnlockCharacter01_StepDescriptionОткрой Белль.
-�
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group14_Step17_TalkToCharacter06_StepDescription Поговори с {TargetNPC}.
-�
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group15_Step18_ReadyDescription,Принесите {itemName} в Зверь.
-�
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group15_Step18_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
-�
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group16_Step19_UnlockCharacter02_StepDescriptionОткройте Зверь.
-�
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group16_StoryDescription�Белль дает вам записку для Зверь, в которой говорится, что Долина Мечты в безопасности, и она ждет его.

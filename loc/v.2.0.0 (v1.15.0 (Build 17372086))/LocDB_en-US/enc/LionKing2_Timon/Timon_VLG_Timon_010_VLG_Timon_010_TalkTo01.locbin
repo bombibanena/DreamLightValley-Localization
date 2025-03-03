@@ -1,69 +1,0 @@
-
-P
-Timon_002_fAEverything is set up around Pride Rock. It's a proper jungle now!
-2
-Timon_000_f#That's great, {PlayerName}. Thanks.
-(
-Player_000_choice_000_fAre you okay?
-;
-Player_000_choice_001_f You don't sound very grateful...
-F
-Player_000_choice_002_f+Seriously. It's amazing. I did a GREAT job!
-F
-Timon_004_f7Huh? Yeah, I'm fine. It's all good. Everything's great!
-0
-Player_001_choice_000_fAh, so you're afraid.
-9
-Player_001_choice_001_fDid someone actually say that?
-=
-Player_001_choice_002_f"You're right; this place IS scary.
-B
-Timon_007_f3Something tells me you're not doing so well, Timon.
-+
-Timon_008_fCome on; you can talk to me.
-r
-Timon_014_fcAll right, all right... maybe Ã¢Â€Â” and I mean a BIG maybe Ã¢Â€Â” I'm feeling a tiny bit stressed.
-;
-Timon_015_f,Is it Pride Rock? Are you not happy with it?
-n
-Timon_016_f_What? No no no, Pride Rock looks great. Love what you've done with the place. Very jungle chic!
-5
-Timon_017_f&Do you like living here in the Valley?
-…
-Timon_018_fvAbsolutely! The landscapes are aesthetically pleasing; I get tons of fresh air... Oh, and I LOVE the predators here...
-Ÿ
-Timon_001_fThey just roam around freely with their sharp teeth and glowering faces that scream "I can't wait to eat that meerkat and warthog." It's great.
-$
-Timon_020_fOf course I'm AFRAID!
-u
-Timon_021_ffThere are humongous, carnivorous bad guys prancing around this place like innocent little butterflies!
-]
-Timon_026_fNThe Valley is a safe place to be. No one is going to hurt you here; I promise!
-
-Timon_027_fpI wanna believe you, {PlayerName}, but some of these Villagers are bad news. Like Scar! Mostly Scar, actually...
-ƒ
-Timon_003_ftWhy don't you take some time to get settled? Once you've been here a bit, you'll see there's nothing to worry about.
-1
-Timon_028_f"Hakuna Matata and all that, right?
-"
-Timon_022_fThey don't have to.
->
-Timon_024_f/I can see it in their hungry, carnivorous eyes.
-;
-Timon_023_f,I KNEW IT! Those carnivores DO wanna eat me!
-$
-Timon_025_fTimon, I was kidding.
-'
-Timon_005_fOh, sorry. You're right.
-
-Timon_009_f*AHEM*
-H
-Timon_010_f9Thanks for your help, {PlayerName}! Everything's perfect!
-O
-Timon_011_f@If something else is going on, you can always talk to me, Timon.
-2
-Timon_006_f#You sure did. The place is perfect.
-9
-Timon_012_f*So then what's up? Why do you seem so sad?
-+
-Timon_013_fYou know you can talk to me.

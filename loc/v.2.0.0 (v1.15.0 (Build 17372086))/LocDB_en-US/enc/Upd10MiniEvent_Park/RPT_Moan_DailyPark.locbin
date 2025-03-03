@@ -1,15 +1,0 @@
-
-\
-HRepeatable!Event!Park!RPT_Moan_DailyPark_Any_CompletedRequestDescriptionReturn to Moana.
-O
-=Repeatable!Event!Park!RPT_Moan_DailyPark_AvailableDescriptionTalk to Moana.
-T
-4Repeatable!Event!Park!RPT_Moan_DailyPark_DisplayNameDreamlight Parks Fest: Moana
-y
-RRepeatable!Event!Park!RPT_Moan_DailyPark_Group01_Step01_CookMeal01_StepDescription#Cook some Princess Aurora Cupcakes.
-œ
-GRepeatable!Event!Park!RPT_Moan_DailyPark_Group02_Step02_StepDescriptionQ(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)
-y
-@Repeatable!Event!Park!RPT_Moan_DailyPark_Group02_StepDescription5Deliver the Princess Aurora Cupcakes among Villagers.
-l
-;Repeatable!Event!Park!RPT_Moan_DailyPark_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

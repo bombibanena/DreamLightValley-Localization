@@ -1,6 +1,0 @@
-TAG: Scar_000_f
-{PlayerName}. Charmed.
-
-TAG: Player_000_exit_000_f
-Gotta go.
-

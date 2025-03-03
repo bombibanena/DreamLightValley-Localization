@@ -1,39 +1,0 @@
-
-q
-JSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Any_CompletedRequestDescription#Tell Goofy about the meal you made.
-â
-?Secret!Expansion01!Goofy!SEC_E01_Goofy_010_AvailableDescriptionFYou wonder what Goofy thinks of all the new fish around Eternity Isle.
-è
-DSecret!Expansion01!Goofy!SEC_E01_Goofy_010_CompletedStoryDescriptionGYour recipe experimentations are a success! You wonder how Goofy did...
-P
-6Secret!Expansion01!Goofy!SEC_E01_Goofy_010_DisplayNameThe Ones That Got Away
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish01_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish02_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish03_StepDescription{ItemName}.
-y
-BSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_StepDescription3Catch some of the strange new fish around the Isle:
-Â
-CSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_StoryDescriptionùGoofy is fascinated by all the strange fish around the Island, but he's having trouble catching any of them himself! He wonders if you could give him a hand.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem01_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem03_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem04_StepDescription{ItemName}.
-s
-JSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_ReadyDescription%Bring everything you caught to Goofy.
-ç
-ISecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_StepDescription@Gather some of the strange new fish around the Island for Goofy:
-á
-BSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group03_StepDescriptionACook any meal using the Dunebopper, Robot Fish, or Prisma Shrimp.
-õ
-CSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group03_StoryDescription”Goofy is thrilled that you showed him how to catch fish around Eternity Isle. He decides it's time for a little cooking experiment. He'll take half the fish and try to see what he can make while you do the same.
-m
-[Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to Goofy.
-ê
-BSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group04_StepDescriptionJGoofy must be fascinated by all the strange new fish around Eternity Isle!
-Ä
-GSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_OngoingRequestButton5<smallcaps>{title}</smallcaps><br>What were we doing?

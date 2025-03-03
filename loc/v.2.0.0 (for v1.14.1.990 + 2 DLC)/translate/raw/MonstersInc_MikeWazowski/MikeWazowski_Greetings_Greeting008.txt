@@ -1,6 +1,0 @@
-TAG: MikeWazowski_000_f
-Эй, если это не мой хороший приятель, {PlayerName}!
-
-TAG: Player_000_exit_000_f
-Простите, я не могу сейчас.
-

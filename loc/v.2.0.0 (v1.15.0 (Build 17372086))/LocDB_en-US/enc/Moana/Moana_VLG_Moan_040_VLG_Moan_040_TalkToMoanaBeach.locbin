@@ -1,25 +1,0 @@
-
-b
-Moana_000_fSPua barely touched this food! My friend must have run off right before we got here.
-M
-Player_001_f=There is only one place where Pua could have gone and it's...
-&
-Player_001_choice_000_fThe Castle!
-&
-Player_001_choice_001_fThe Forest!
-&
-Player_001_choice_002_fThe Meadow!
-"
-Moana_001_fI don't think so...
->
-Moana_004_f/The bridge is pretty high. Pua would be scared.
-)
-Moana_002_fThat makes the most sense.
-k
-Moana_006_f\If Pua got frightened by something, the long grass and shade from the trees would feel safe.
-
-Moana_007_fLet's go see!
-O
-Moana_003_f@We just came from there... We would've seen Pua on our way here.
-+
-Moana_005_fIt must be somewhere else...

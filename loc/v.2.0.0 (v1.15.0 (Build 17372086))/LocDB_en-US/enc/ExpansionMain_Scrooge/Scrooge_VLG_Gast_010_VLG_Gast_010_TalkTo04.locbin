@@ -1,40 +1,0 @@
-
--
-Scrooge_003_fHey, Mr. McDuck! Having fun?
--
-Scrooge_004_fAye, it's a grand gatherin'!
-b
-Scrooge_005_fQBut I'm here on business too! Got to check up on how my investment's progressing.
-g
-Scrooge_006_fVThe furnishings cost me a pretty penny, and I want to know when I can recoup my costs!
-C
-Scrooge_007_f2When do you think I'll start receiving my 50% cut?
-#
-Scrooge_008_fUhh, about that...
-
-Scrooge_009_fnGaston doesn't actually have an income stream. He just wanted this place so people could pay attention to him.
-
-Scrooge_010_fWhat?!
-J
-Player_000_choice_000_f/Sorry, I only realized after I got back to him.
-O
-Player_000_choice_001_f4Guess you should have asked for a business plan, eh?
-E
-Player_000_choice_002_f*Did you just get outsmarted... by Gaston?!
-B
-Scrooge_011_f1Och, {PlayerName}, that is no way to do business!
-L
-Scrooge_017_f;No income stream... *sigh* Well, at least the food is good!
-?
-Scrooge_012_f.Well, pluck me feathers and call me a cushion.
-/
-Scrooge_014_fNever thought I'd see the day!
-2
-Scrooge_013_f!Nay, dinnae say it, {PlayerName}.
-C
-Scrooge_015_f2I hope we can keep this little misstep between us?
-
-Scrooge_016_f
-Of course!
-C
-Scrooge_018_f2When do you think I'll start receiving my 25% cut?

@@ -1,35 +1,0 @@
-
-j
-Goofy_010_f[Say, {PlayerName}, have you ever gone camping before? It's one of my favorite things to do.
-6
-Player_000_choice_000_fAbsolutely. I love camping!
-,
-Player_000_choice_001_fNever. Is it fun?
->
-Player_000_choice_002_f#Camping? Like sleeping outside? Ew.
-U
-Goofy_001_fFGawrsh, that's great! What do you like doin' best when you're camping?
-.
-Player_001_choice_000_fFishing, of course.
-*
-Player_001_choice_001_fGoing swimming!
-/
-Player_001_choice_002_fCooking by the fire.
-8
-Goofy_015_f)Well, whaddaya know, I love fishing, too!
-X
-Goofy_016_fIYeah, swimming's usually the first thing I do once I get to the campsite.
-[
-Goofy_017_fLMmm-mmm! Nothin' beats a good cookout. Especially the marshmallows. A-hyuck!
-A
-Goofy_014_f2Gawrsh, it's just about the most fun you can have!
-5
-Player_002_choice_000_fWell, I hope you have fun!
-9
-Player_002_choice_001_fI don't think I'd like that...
-N
-Goofy_018_f?Thanks! If ya ever want to try it, I'd love for you to join me.
-N
-Goofy_019_f?Well, you're always welcome to join me if you change your mind!
-]
-Goofy_013_fNWell, if you ever change your mind, come find me. See ya around, {PlayerName}!

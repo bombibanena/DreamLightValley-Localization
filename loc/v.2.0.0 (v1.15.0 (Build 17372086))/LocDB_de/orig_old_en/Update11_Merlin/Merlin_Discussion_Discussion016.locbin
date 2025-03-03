@@ -1,15 +1,0 @@
-
-F
-Merlin_004_f6Tell me, {PlayerName}, what magic have you seen today?
--
-Player_001_choice_000_fI saw the sunrise.
-2
-Player_001_choice_001_fI saw you cast a spell.
-7
-Player_001_choice_002_fI don't think I've seen any.
-)
-Merlin_005_fAh, that is magic indeed.
-9
-Merlin_006_f)You... I thought I saw you hanging about.
-g
-Merlin_007_fWThen you must pay more attention, {PlayerName}. The natural world is filled with magic.

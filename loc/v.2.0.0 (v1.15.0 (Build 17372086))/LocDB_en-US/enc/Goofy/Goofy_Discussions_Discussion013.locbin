@@ -1,29 +1,0 @@
-
-x
-Goofy_000_fiHowdy, {PlayerName}. I'm doin' a customer satisfaction survey, and you're one of my most loyal customers.
-E
-Goofy_001_f6Is there anything you'd like to change about my Stall?
-(
-Player_000_choice_000_fLower prices.
-8
-Player_000_choice_001_fA more diversified inventory.
-=
-Player_000_choice_002_f"No complaints. You're doing great!
-L
-Goofy_002_f=Gawrsh, Uncle Scrooge told me my prices were too low already.
-j
-Goofy_003_f[Then he said something about "profit margins," and "surplus value." I didn't really follow.
-q
-Goofy_004_fbBut I could have some sales. Everybody loves buyin' somethin' and gettin' somethin' else for free.
-G
-Goofy_005_f8Thanks, {PlayerName}. I sure do appreciate the feedback.
-F
-Goofy_006_f7Gawrsh, I try to change up my stock as much as I can...
-L
-Goofy_007_f=...but don't worry. I'll keep looking for more stuff to sell!
-
-Goofy_008_fReally? Wow!
-W
-Goofy_009_fHUncle Scrooge is always tellin' me I gotta be more savvy about business.
-R
-Goofy_010_fCBut I guess all that really matters is making your customers happy.

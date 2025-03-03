@@ -1,6 +1,0 @@
-TAG: Sally_000_f
-Do you remember where to find the <ActivityItem>Arcane Sprout</ActivityItem> I need for Ursula's potion?
-
-TAG: Sally_001_f
-Yes! It should be <Lore>somewhere in the Forgotten Lands</Lore>.
-

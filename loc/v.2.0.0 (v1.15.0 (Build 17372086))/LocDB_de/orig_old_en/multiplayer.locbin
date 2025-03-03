@@ -1,222 +1,0 @@
-
-i
-confirm_enter_environmentLYou have visitors! Do you want to bring everyone into the building with you?
-7
-confirm_enter_environment_titleEntering a building?
-^
-confirm_exit_environmentBYou have visitors! Do you want to bring everyone outside with you?
-5
-confirm_exit_environment_titleExiting a building?
-†
-disconnect_blockedpYou were blocked from this game. Your game progress will be saved, and you will be returned to the title screen.
-Œ
-disconnect_genericvYou were disconnected from the server. Your game progress will be saved, and you will be returned to the title screen.
-¤
-disconnect_host_stays_in_worldYou were disconnected from the server. You are now playing in single-player mode. You can reconnect via the Valley Visit Station.
-€
-disconnect_kickedkYou were removed from this game. Your progress will be saved, and you will be returned to the title screen.
-{
-disconnect_nativeSignOut_You were disconnected from this game because you have been signed out of your platform network.
-–
-$disconnect_nativeSignOut_playstationnYou were disconnected from this multiplayer session because you have been signed out of PlayStationâ„¢Network.
-}
-disconnect_new_connection`New connection detected. You were kicked out because you joined that game from another location.
-,
-disconnect_player_disc_titleDisconnected
-^
-&generic_character_busy_with_player_msg4{characterName} is currently busy with {playerName}.
->
-(generic_character_busy_with_player_titleCharacter is busy.
-o
-%multiplayer_deeplink_invitation_appleFVisit my Village in Disney Dreamlight Valley! Select the link to play.
-7
-(multiplayer_invitation_gamecenter_buttonGame Center
-W
-(multiplayer_invitation_popup_description+Choose how you would like to invite friends
-9
-"multiplayer_invitation_popup_titleInvite Your Friends
-5
-'multiplayer_invitation_sharelink_button
-Share Link
-
-region_asiaAsia
-
-region_chinaChina
-
-region_europeEurope
-
-region_japanJapan
-3
-region_north_america_eastNorth America â€” East
-3
-region_north_america_westNorth America â€” West
-%
-region_south_americaSouth America
-!
-region_south_koreaSouth Korea
-
-region_hong_kong	Hong Kong
-3
-region_united_arab_emiratesUnited Arab Emirates
-™
-start_game_error_disapprovedyCannot start a multiplayer game because at least one player who is already connected is in your list of blocked visitors.
-p
-start_game_join_confirmationPYou are about to enter {hostName}'s Valley in the {regionName} region. Continue?
-‚
-$start_game_join_confirmation_no_nameZYou are about to enter a Valley in the {regionName} region linked to {hostName}. Continue?
-
-player_joinedhas joined!
-+
-player_joiningis joining your Valley...
-
-player_leave	has left.
-9
-crossplay_enabled_xboxCross-platform play is enabled.
-Q
-feature_status_host_only5This feature is only available to the hosting player.
-S
-feature_status_not_available3This feature is not available in multiplayer games.
-f
-+feature_status_not_available_player_joining7This feature is not available when a player is joining.
-*
-feature_status_prompt_titleMultiplayer
-"
-friends_invite_sendSend Invite
-
-generic_host_nameHost
--
-generic_player_namePlayer #{playerNumber}
--
-invites_not_sentCould not send invite(s).
-
-invites_sentInvite(s) sent.
-]
-no_friends_to_invite_ms_live=You have no friends to invite. Please add some and try again.
-Õ
-&requires_online_membership_applearcadeªYour device is currently restricted from using any multiplayer features, including user-generated content. To change this, contact the person who set up the restrictions.
-^
-"requires_online_membership_generic8Online multiplayer requires a valid platform membership.
-t
-*requires_online_membership_nintendo_switchFOnline multiplayer requires a valid Nintendo Switch Online membership.
-X
-&requires_online_membership_playstation.Online multiplayer requires PlayStationÂ®Plus.
-r
-requires_online_membership_xboxOMultiplayer mode cannot be activated due to your current Xbox account settings.
-l
-start_game_connectivity_unknownICannot start a multiplayer game because of an unknown connectivity error.
-o
-*start_game_metaclient_internet_test_failedAYou must be connected to the Internet to play online multiplayer.
-‚
-/start_game_metaclient_internet_test_not_allowedOYou must have permission to use the network feature to play online multiplayer.
-q
- start_game_metaclient_no_playfabMYou must be connected to the online game services to play online multiplayer.
-g
-start_game_metaclient_no_portalDYou must be connected to the game portal to play online multiplayer.
-q
-%start_game_metaclient_not_full_onlineHYou must be connected to all online services to play online multiplayer.
-|
-/start_game_warning_host_with_extra_object_limitIThe host has activated the extra object limit. Do you still want to join?
-
-connect_btnConnect
-¼
-connect_desc«If you want to connect with a friend, your friend needs to first generate a code and then give it to you. Then you can come here and enter it to connect and play together!
-$
-connect_error_titleJoining Error
-ƒ
- connect_multiplayer_not_unlocked_You need to progress through the game and find the Valley Visit Station to unlock this feature.
-7
-connect_offline$You must be online to join a friend.
- 
-connect_visit_code
-Visit Code
-¥
-game_invite_received_desc‡You are about to join multiplayer game {roomId}. You will be redirected to the main menu to start the visit.
-Would you like to connect?
-*
-game_invite_received_titleValley Visit
-!
-host_error_titleHosting Error
-q
- start_game_error_already_in_gameMYou are already in this game. Please leave on the other device and try again.
-X
-start_game_error_banned=Cannot start a multiplayer game because you have been banned.
-Z
-start_game_error_blocked>Cannot start a multiplayer game because you have been blocked.
-Z
-start_game_error_blocked_host9You have blocked this player. You cannot join their game.
-G
-#start_game_error_crossplay_disabled Crossplay privilege is required.
-i
-(start_game_error_crossplay_disabled_host=You cannot join this room. The host has disallowed crossplay.
-e
-start_game_error_empty_roomFCannot start a multiplayer game because the Visit Code field is empty.
-I
-start_game_error_generic-Cannot start a multiplayer game at this time.
-M
-start_game_error_underage0Sorry, this device is inaccessible at this time.
-F
- start_game_error_generic_blocked"Cannot join this multiplayer game.
-i
-#start_game_error_invalid_game_stateBCannot start a multiplayer game because the game state is invalid.
-c
-start_game_error_invalid_roomBCannot start a multiplayer game because the Visit Code is invalid.
-w
-(start_game_error_network_already_runningKCannot start another multiplayer game because there is one already running.
-†
-,start_game_error_network_auth_ticket_expiredVCannot start a multiplayer game because the network authentication ticket has expired.
-z
-&start_game_error_network_cloud_timeoutPCannot start a multiplayer game because the connection with the cloud timed out.
-…
-+start_game_error_network_connection_refusedVCannot start a multiplayer game because a connection with a remote server was refused.
-ƒ
-+start_game_error_network_connection_timeoutTCannot start a multiplayer game because a connection with a remote server timed out.
-}
-+start_game_error_network_custom_auth_failedNCannot start a multiplayer game because the network authentication has failed.
-—
-4start_game_error_network_customauth_token_gen_failed_Cannot start a multiplayer game because the network authentication token generation has failed.
-„
-,start_game_error_network_game_already_existsTCannot start a multiplayer game because a session with the same name already exists.
-e
-$start_game_error_network_game_closed=Cannot start a multiplayer game because the Valley is closed.
-a
-"start_game_error_network_game_full;Cannot start a multiplayer game because the Valley is full.
-m
-'start_game_error_network_game_not_foundBCannot start a multiplayer game because the Valley does not exist.
-ƒ
-'start_game_error_network_host_migrationXCannot start a multiplayer game because there is a host migration currently in progress.
-~
-,start_game_error_network_incompatible_configNCannot start a multiplayer game because the Visit Code has a mismatching type.
-j
-!start_game_error_network_internalECannot start a multiplayer game because of an internal network error.
-m
-*start_game_error_network_invalid_arguments?Cannot start a multiplayer game because of an invalid argument.
-w
-%start_game_error_network_invalid_authNCannot start a multiplayer game because the network authentication is invalid.
-…
-'start_game_error_network_invalid_regionZCannot start a multiplayer game because the region either doesn't exist or is unavailable.
-Ž
-(start_game_error_network_max_ccu_reachedbCannot start a multiplayer game because the maximum number of concurrent players has been reached.
-‡
-0start_game_error_network_nativeauth_token_failedSCannot start a multiplayer game because the native token authentication has failed.
-h
-,start_game_error_network_plugin_disconnected8Cannot start a multiplayer game because of a disconnect.
-„
-+start_game_error_network_room_already_takenUCannot start a multiplayer game because a Valley with this Visit Code already exists.
-v
-)start_game_error_network_shutdown_requestICannot start a multiplayer game because a network shutdown was requested.
-h
- start_game_error_network_unknownDCannot start a multiplayer game because of an unknown network error.
-S
-start_game_error_room_not_found0Cannot find a game for the specified Visit Code.
-k
-start_game_error_temp_blockedJCannot start a multiplayer game because you have been temporarily blocked.
-•
-start_game_error_timeoutyCannot start a multiplayer game because no Valley was found for the given code or the connection couldn't be established.
-X
-start_game_error_unknown<Cannot start a multiplayer game because of an unknown error.
-J
-#start_game_error_validation_expired#You took too long to join the game.
-u
-!start_game_warning_blocked_playerPOne of your blocked players is currently in the game. Do you still want to join?
-!
-already_in_useAlready in use!

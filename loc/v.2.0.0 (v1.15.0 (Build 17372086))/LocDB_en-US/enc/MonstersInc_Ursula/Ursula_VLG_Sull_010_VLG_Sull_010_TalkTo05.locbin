@@ -1,49 +1,0 @@
-
-;
-Ursula_000_f+Ah, angelfish, what can I do for you today?
-H
-Ursula_006_f8You don't have a <ActivityItem>Videotape</ActivityItem>?
-i
-Ursula_007_fYOh, I do. But it's not anything that hirsute do-gooder and his one-eyed friend will want.
-/
-Player_000_fSeems like a sensitive topic...
-3
-Player_000_choice_000_fSo, I'll leave it alone.
-3
-Player_000_choice_001_fBut how can you be sure?
-9
-Player_000_choice_002_fNow I need to know everything.
-H
-Ursula_002_f8Sulley is trying to revive Monster Movie Night and√¢¬Ä¬î
-Ñ
-Ursula_003_ftStop right there! If he wants to make a deal for me to create something for the event, he'll have to ask me himself.
-Z
-Ursula_001_fJNo he√¢¬Ä¬î you know what, Ursula? I'm surprised you even know what it is.
-†
-Ursula_017_fèOh, I learned all about this "movie" nonsense during my previous time here in the Valley. Some Villagers are very fond of such a silly pastime.
-ì
-Ursula_018_fÇI didn't think much of it until I realized it could provide marvelous insights into the desires and needs of you surface dwellers.
-`
-Ursula_019_fPSo I bargained with Scrooge for the proper equipment and studied his videotapes.
-‹
-Ursula_004_fÀMaybe you can help. We're looking for a <ActivityItem>Videotape</ActivityItem> of a movie that would be perfect for the relaunch. Scrooge thinks you might have it. "20,000 Giant Arachnids Under the Bed"?
-@
-Ursula_005_f0Sorry, but I don't have what you're looking for.
-™
-Ursula_008_fôSmart thinking, dearie. However, since you're respecting my privacy, I'll tell you what this movie's about. Because I know you'd NEVER tell another soul.
-à
-Ursula_013_fxIt's... Well, it's a love story between two humans. No monsters in it. It's called "The Prince's Secret Pirate Romance."
-.
-Ursula_014_fYou like... watching rom-coms?
-]
-Ursula_015_fMBite your tongue! I don't LIKE them. I STUDY them to know what humans want...
-k
-Ursula_016_f[All right... I don't think you have what I'm looking for. I'll leave you to your "studies."
-Ç
-Ursula_009_frBecause it's a love story between two humans. No monsters in it. It's called "The Prince's Secret Pirate Romance."
-C
-Ursula_010_f3Beware, {PlayerName}. Curiosity killed the catfish.
-
-Ursula_011_fOh, come on!
-Ç
-Ursula_012_frFine! It's a love story between two humans. No monsters in it... It's called "The Prince's Secret Pirate Romance."

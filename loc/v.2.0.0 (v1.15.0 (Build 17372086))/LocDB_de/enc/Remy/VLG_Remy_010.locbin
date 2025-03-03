@@ -1,57 +1,0 @@
-
-f
-EVillage!Ratatouille!Remy!VLG_Remy_010_Any_CompletedRequestDescriptionПоговори с Реми.
-�
-:Village!Ratatouille!Remy!VLG_Remy_010_AvailableDescription`Реми готов начать работать над его новым рестораном.
-�
-?Village!Ratatouille!Remy!VLG_Remy_010_CompletedStoryDescription�Великое открытие - это радостный случай, но также и источник стресса. Возможно, вам стоит узнать, как Реми относится ко всему этому.
-X
-1Village!Ratatouille!Remy!VLG_Remy_010_DisplayName#Ресторанный макияж
-}
-BVillage!Ratatouille!Remy!VLG_Remy_010_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
-�
-VVillage!Ratatouille!Remy!VLG_Remy_010_Group01_Step01_FollowCharacter01_StepDescription3Следуйте за Реми в ресторан.
-�
->Village!Ratatouille!Remy!VLG_Remy_010_Group01_StoryDescription�С учетом некоторых основных потребностей Реми готов открыть ресторан и накормить жителей деревни.
-�
-BVillage!Ratatouille!Remy!VLG_Remy_010_Group02_OngoingRequestButton?<smallcaps>{title}</smallcaps><br>Shoud ли нам войти?
-�
-PVillage!Ratatouille!Remy!VLG_Remy_010_Group02_Step02_VisitArea01_StepDescriptionPВойдите в ресторан и посмотрите, что внутри.
-�
->Village!Ratatouille!Remy!VLG_Remy_010_Group02_StoryDescription�Вместо того, чтобы начать с нуля, он хочет его отремонтировать, но сначала он должен оценить, сколько работы впереди, и завербовать вас, чтобы помочь ему.
-�
-VVillage!Ratatouille!Remy!VLG_Remy_010_Group03_Step03_TalkToCharacter01_StepDescription3Поговори с Реми о ресторане.
-�
-BVillage!Ratatouille!Remy!VLG_Remy_010_Group04_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
-_
-PVillage!Ratatouille!Remy!VLG_Remy_010_Group04_Step04_BringItem03_StepDescription{ItemName}.
-_
-PVillage!Ratatouille!Remy!VLG_Remy_010_Group04_Step04_BringItem04_StepDescription{ItemName}.
-_
-PVillage!Ratatouille!Remy!VLG_Remy_010_Group04_Step04_BringItem06_StepDescription{ItemName}.
-_
-PVillage!Ratatouille!Remy!VLG_Remy_010_Group04_Step04_BringItem07_StepDescription{ItemName}.
-�
-EVillage!Ratatouille!Remy!VLG_Remy_010_Group04_Step04_ReadyDescriptionUПринесите Реми ингредиенты, которые ему нужны.
-
-DVillage!Ratatouille!Remy!VLG_Remy_010_Group04_Step04_StepDescription7Найти ингредиенты для Chez Реми:
-�
->Village!Ratatouille!Remy!VLG_Remy_010_Group04_StoryDescriptionUТеперь тебе нужно пополнить запасы в кладовой.
-�
-BVillage!Ratatouille!Remy!VLG_Remy_010_Group05_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
-h
-=Village!Ratatouille!Remy!VLG_Remy_010_Group05_StepDescription'Принесите Реми {ItemName}.
-�
-VVillage!Ratatouille!Remy!VLG_Remy_010_Group06_Step06_FollowCharacter02_StepDescription9Встретимся на Реми в ресторане.
-y
-XVillage!Ratatouille!Remy!VLG_Remy_010_Group06_Step06_FollowCharacter02_TalkToDescriptionПоговори с Реми.
-w
-VVillage!Ratatouille!Remy!VLG_Remy_010_Group07_Step07_TalkToCharacter02_StepDescriptionПоговори с Реми.
-�
-PVillage!Ratatouille!Remy!VLG_Remy_010_Group08_Step08_VisitArea02_StepDescriptionCВойдите в недавно открытый ресторан!
-�
-BVillage!Ratatouille!Remy!VLG_Remy_010_Group09_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
-�
-DVillage!Ratatouille!Remy!VLG_Remy_010_Group09_Step09_StepDescription`Купите набор для ресторанной мебели у Скрудж Макдак.
-�
->Village!Ratatouille!Remy!VLG_Remy_010_Group09_StoryDescriptionOРесторану не хватает всего, включая основы.

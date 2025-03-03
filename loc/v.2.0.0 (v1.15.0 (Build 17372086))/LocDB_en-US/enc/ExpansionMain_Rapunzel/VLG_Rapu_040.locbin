@@ -1,53 +1,0 @@
-
-]
-EVillage!Tangled!Rapunzel!VLG_Rapu_040_Any_CompletedRequestDescriptionTalk to {TargetNPC}.
-j
-:Village!Tangled!Rapunzel!VLG_Rapu_040_AvailableDescription,Rapunzel has a new idea and needs your help.
-Ì
-?Village!Tangled!Rapunzel!VLG_Rapu_040_CompletedStoryDescriptionˆRapunzel thanks you Ã¢Â€Â” not just for helping her with her painting class but for making her a part of something bigger in the Valley.
-M
-1Village!Tangled!Rapunzel!VLG_Rapu_040_DisplayNameHome Is Where the Art Is
-š
-OVillage!Tangled!Rapunzel!VLG_Rapu_040_Group01_Step01_Decorate01_StepDescriptionGPlace Rapunzel's banner somewhere on Eternity Isle for everyone to see.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem01_StepDescription{itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem02_StepDescription{itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem03_StepDescription{itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem04_StepDescription{itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem05_StepDescription{itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_BringItem06_StepDescription{itemName}.
-l
-EVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_ReadyDescription#Bring the materials to {TargetNPC}.
-l
-DVillage!Tangled!Rapunzel!VLG_Rapu_040_Group02_Step02_StepDescription$Gather paint materials for Rapunzel:
-‚
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group03_Step03_VisitArea01_StepDescription.Go to Rapunzel's Tower to start the art class.
-«
->Village!Tangled!Rapunzel!VLG_Rapu_040_Group03_StoryDescriptioniYou set up Rapunzel's banner and collect materials for her homemade paints. It's time for class to begin!
-n
-VVillage!Tangled!Rapunzel!VLG_Rapu_040_Group04_Step04_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
-‘
-DVillage!Tangled!Rapunzel!VLG_Rapu_040_Group05_Step05_StepDescriptionITalk to each Villager about their art. Except EVE... she needs more time.
-f
-VVillage!Tangled!Rapunzel!VLG_Rapu_040_Group05_Step05_TalkToCharacter02_StepDescription{TargetNPC}.
-f
-VVillage!Tangled!Rapunzel!VLG_Rapu_040_Group05_Step05_TalkToCharacter03_StepDescription{TargetNPC}.
-t
-VVillage!Tangled!Rapunzel!VLG_Rapu_040_Group06_Step06_TalkToCharacter04_StepDescriptionCheck in with {TargetNPC}.
-n
-VVillage!Tangled!Rapunzel!VLG_Rapu_040_Group07_Step07_TalkToCharacter05_StepDescriptionTalk to {TargetNPC}.
-p
-PVillage!Tangled!Rapunzel!VLG_Rapu_040_Group08_Step08_VisitArea02_StepDescriptionMeet Rapunzel at your House.
-·
->Village!Tangled!Rapunzel!VLG_Rapu_040_Group08_StoryDescriptionuAfter a successful painting class, Rapunzel gives you a few gifts to inspire your creativity and decorate your House.
-À
-OVillage!Tangled!Rapunzel!VLG_Rapu_040_Group09_Step09_Decorate02_StepDescriptionm(Be sure to decorate it with the <ActivityItem>Touch of Magic</ActivityItem> tool and your new motifs first!)
-d
-=Village!Tangled!Rapunzel!VLG_Rapu_040_Group09_StepDescription#Hang up your new art in your House.
-i
-8Village!Tangled!Rapunzel!VLG_Rapu_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

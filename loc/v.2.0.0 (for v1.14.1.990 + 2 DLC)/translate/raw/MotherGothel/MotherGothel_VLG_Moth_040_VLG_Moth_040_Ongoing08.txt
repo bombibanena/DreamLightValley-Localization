@@ -1,6 +1,0 @@
-TAG: MotherGothel_000_f
-Для восстановления <ActivityItem>Dusk Fragment</ActivityItem> обращаться с ним как с <ActivityItem>Crop</ActivityItem>.
-
-TAG: MotherGothel_001_f
-Похоронить его и полить столько, сколько потребуется, и поглотить энергию с земли займет целый день.
-

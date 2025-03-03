@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Ааа!
-
-TAG: EVE_001_f
-Давайте уничтожим эти <ActivityItem>Fires</ActivityItem>.
-

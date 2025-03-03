@@ -1,21 +1,0 @@
-
-T
-Merlin_000_fD{Placeholder}Hi, не хотите открыть этот биом?
-T
-Player_000_choice_000_f9{Placeholder} Да, давайте сделаем это.
-J
-Player_000_choice_001_f/{Placeholder} Не сейчас, я боюсь.
-7
-Player_000_choice_002_f{Placeholder} Что это?
-A
-Merlin_001_f1{Placeholder} Вот так: новый биом.
-{
-Merlin_002_fk{Placeholder} Всё в порядке, там могут быть новые зла и опасности.
-8
-Merlin_003_f({Placeholder} Откройте биом.
-�
-Merlin_016_f�{Placeholder} Вы не можете открыть этот Biome. Вам нужен {UpgradePrice} DreamLight, и {CharactersUnlocked} символы открыты.
-\
-Player_001_choice_000_fA{Placeholder}Oky, я получу то, что мне нужно.
-D
-Merlin_017_f4{Placeholder}Good, идиот мой ребёнок.

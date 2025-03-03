@@ -1,29 +1,0 @@
-
-;
-Kristoff_000_f)Hey, {PlayerName}. You know Goofy, right?
-/
-Player_000_choice_000_fYeah! We're friends.
-&
-Player_000_choice_001_fI know him.
-
-Player_000_choice_002_fWho?
-‹
-Kristoff_001_fyHe seems like a nice guy. I'd like to get to know him better. It'd be great to make some more friends around the Village.
-E
-Kristoff_003_f3Does he have any hobbies I could talk to him about?
-$
-Player_001_fHmmm. Goofy likes...
-&
-Player_001_choice_000_f...fishing.
-0
-Player_001_choice_001_f...talking to people.
-5
-Kristoff_005_f#Fishing, huh? I can work with that.
-'
-Kristoff_007_fThanks, {PlayerName}.
-e
-Kristoff_006_fSOh... I'm not generally a big talker, but I am a good listener. Maybe that'll work.
-J
-Kristoff_002_f8You know, Goofy. He runs the market Stall in the Meadow?
-Q
-Kristoff_004_f?Of course I know Goofy. I'm just joking around. Why do you ask?

@@ -1,35 +1,0 @@
-
-[
-Timon_000_fLI found a Night Mite Nest but my Dreamlight Magic doesn't seem to affect it.
-.
-Player_000_choice_000_fWhat do we do now?!
-1
-Player_000_choice_001_fAre we totally doomed?
-:
-Player_000_choice_002_fLet's make a Night Mite Circus!
-:
-Timon_002_f+Yikes, this is more serious than I thought.
-O
-Timon_004_f@We gotta talk to someone who knows about dark stuff like this...
-3
-Player_001_choice_000_fHow about the Forgotten?
-5
-Player_001_choice_001_fMaybe one of the Villains?
-4
-Player_001_choice_002_fLike Donald on a bad day?
-
-Timon_006_fI've got it!
-+
-Timon_008_fLet's talk to the Forgotten!
-s
-Timon_010_fdFrom the conversations we've had, I'm guessing they have experience with dark, creepy-crawly things.
-U
-Timon_005_fFNah. They don't know anything about bugs... Just about buggin' others.
-J
-Timon_009_f;I was thinkin' we could <Lore>talk to the Forgotten</Lore>?
-n
-Timon_007_f_HA! That guy! He kills me! Those tantrums of his are a riot! But that's more of a short temper.
-E
-Timon_001_f6No, no, no. We're not giving up so easy, {PlayerName}!
-ë
-Timon_003_fÅWhat?! Those delectable-looking menaces are agents of the Forgotten! We can't just let 'em run free... or become trapeze artists!

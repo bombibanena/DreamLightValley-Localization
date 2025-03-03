@@ -1,107 +1,0 @@
-
-x
-GVillage!BeautyBeast!Gaston!VLG_Gast_030_Any_CompletedRequestDescription-Возвращайтесь на Гастон.
-�
-<Village!BeautyBeast!Gaston!VLG_Gast_030_AvailableDescription�Гастон решил, что ваше плохое выступление в качестве сообщника объясняется тем, что вы не понимаете Гастонian менталитет в Гастон цветах и готовы к приключению в стиле Гастон!
-�
-AVillage!BeautyBeast!Gaston!VLG_Gast_030_CompletedStoryDescription�Вы показали результаты тренировок с Гастон, но жители деревни... менее чем впечатлены.
-f
-3Village!BeautyBeast!Gaston!VLG_Gast_030_DisplayName/Никто не герой, как Гастон
-c
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group01_Step01_DressUp01_StepDescription{Color} Топ.
-c
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group01_Step01_DressUp02_StepDescription{Color} {Type}.
-c
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group01_Step01_DressUp03_StepDescription{Color} {Type}.
-f
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group01_Step01_DressUp04_StepDescriptionЛюбой {Type}.
-�
-FVillage!BeautyBeast!Gaston!VLG_Gast_030_Group01_Step01_StepDescriptionEСтиль Mimic Гастон со следующей одеждой:
-�
-FVillage!BeautyBeast!Gaston!VLG_Gast_030_Group01_Step03_StepDescription�(Вариант) Закажи рубашку <ActivityItem>Red Polo, чёрные штаны</ActivityItem> и <ActivityItem>Brown Lace-Up Boots</ActivityItem> из Скрудж Макдак.
-�
-XVillage!BeautyBeast!Gaston!VLG_Gast_030_Group02_Step04_TalkToCharacter01_StepDescription-Возвращайтесь на Гастон.
-�
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group03_Step05_Possess01_StepDescription>Пирожные яиц Кобры из Бледных Дюн.
-_
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group03_Step05_Possess02_StepDescription{ItemName}.
-�
-?Village!BeautyBeast!Gaston!VLG_Gast_030_Group03_StepDescription?Собери опасный завтрак для Гастон:
-�
-@Village!BeautyBeast!Gaston!VLG_Gast_030_Group03_StoryDescription�Следующий - есть как Гастон, что означает огромное количество яиц и самой опасной рыбы вокруг.
-�
-?Village!BeautyBeast!Gaston!VLG_Gast_030_Group04_StepDescription@Возьми себе тренировочного Шейкса.
-a
-RVillage!BeautyBeast!Gaston!VLG_Gast_030_Group05_Step07_BringItem01_StepDescription{ItemName}.
-a
-RVillage!BeautyBeast!Gaston!VLG_Gast_030_Group05_Step07_BringItem02_StepDescription{ItemName}.
-�
-GVillage!BeautyBeast!Gaston!VLG_Gast_030_Group05_Step07_ReadyDescription:Принеси опасный завтрак Гастон.
-�
-FVillage!BeautyBeast!Gaston!VLG_Gast_030_Group05_Step07_StepDescriptionNУбедись, что ты собрал то, что хотел Гастон:
-�
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group06_Step08_EatMeal01_StepDescription9Как можно больше коробок {ItemName}.
-e
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group06_Step08_EatMeal02_StepDescriptionA Raw {ItemName}.
-�
-FVillage!BeautyBeast!Gaston!VLG_Gast_030_Group06_Step08_StepDescriptionEЕшь Гастон особенный опасный завтрак:
-�
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group07_Step09_EatMeal03_StepDescription<Собери свой тренировочный Шейкс.
-�
-XVillage!BeautyBeast!Gaston!VLG_Gast_030_Group08_Step10_TalkToCharacter02_StepDescription-Возвращайтесь на Гастон.
-_
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group09_Step11_Possess04_StepDescription{ItemName}.
-_
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group09_Step11_Possess05_StepDescription{ItemName}.
-_
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group09_Step11_Possess06_StepDescription{ItemName}.
-_
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group09_Step11_Possess07_StepDescription{ItemName}.
-_
-PVillage!BeautyBeast!Gaston!VLG_Gast_030_Group09_Step11_Possess08_StepDescription{ItemName}.
-�
-?Village!BeautyBeast!Gaston!VLG_Gast_030_Group09_StepDescription\Собирайте материалы для тренажерного зала Гастон:
-�
-@Village!BeautyBeast!Gaston!VLG_Gast_030_Group09_StoryDescription�Починив завтрак Гастонian, пришло время собрать материалы для спортзала, чтобы вы могли присоединиться к Гастон для сеанса откачивания кокосов?
-n
-RVillage!BeautyBeast!Gaston!VLG_Gast_030_Group10_Step12_CraftItem01_StepDescriptionРемень {ItemName}.
-�
-UVillage!BeautyBeast!Gaston!VLG_Gast_030_Group10_Step13_PurchaseItem04_StepDescription7Закажи {ItemName} от Скрудж Макдак.
-q
-?Village!BeautyBeast!Gaston!VLG_Gast_030_Group10_StepDescription.Собери все для спортзала.
-`
-QVillage!BeautyBeast!Gaston!VLG_Gast_030_Group11_Step14_Decorate01_StepDescription{ItemName}.
-`
-QVillage!BeautyBeast!Gaston!VLG_Gast_030_Group11_Step14_Decorate02_StepDescription{ItemName}.
-�
-?Village!BeautyBeast!Gaston!VLG_Gast_030_Group11_StepDescriptionVРасположиться возле причалов в Гавани Древних.
-�
-XVillage!BeautyBeast!Gaston!VLG_Gast_030_Group12_Step15_TalkToCharacter03_StepDescriptionSПригласи Мауи тренироваться с тобой и Гастон.
-�
-@Village!BeautyBeast!Gaston!VLG_Gast_030_Group12_StoryDescription�Теперь, когда тренажерный зал работает, пришло время попробовать привести в сцену одного из других деревенских, привязанных к мускулистым мускулам Мауи!
-�
-OVillage!BeautyBeast!Gaston!VLG_Gast_030_Group13_Step16_Listen01_StepDescriptionMПознакомьтесь с Мауи и Гастон в спортзале.
-�
-XVillage!BeautyBeast!Gaston!VLG_Gast_030_Group14_Step17_FollowCharacter01_StepDescriptioniЭмоциональный разбитый Гастон ждет тебя возле спортзала.
-
-ZVillage!BeautyBeast!Gaston!VLG_Gast_030_Group14_Step17_FollowCharacter01_TalkToDescription!Поговори с Гастон.
-�
-@Village!BeautyBeast!Gaston!VLG_Gast_030_Group14_StoryDescription�Мауи может быть не особо заинтересован в спортзале, но это не помешает вам и Гастон закончить тренировку!
-�
-TVillage!BeautyBeast!Gaston!VLG_Gast_030_Group15_Step18_TakePicture01_StepDescription(Сфотографируй Гастон.
-�
-@Village!BeautyBeast!Gaston!VLG_Gast_030_Group15_StoryDescription�Гастон познакомил тебя с его личным режимом тренировок, и теперь твоя шея выглядит впечатляюще толстое время, чтобы показать свои достижения.
-�
-XVillage!BeautyBeast!Gaston!VLG_Gast_030_Group16_Step19_TalkToCharacter04_StepDescription3Покажите фотографии Гастон.
-V
-FVillage!BeautyBeast!Gaston!VLG_Gast_030_Group17_Step20_StepDescription{TargetNPC}.
-V
-FVillage!BeautyBeast!Gaston!VLG_Gast_030_Group17_Step21_StepDescription{TargetNPC}.
-V
-FVillage!BeautyBeast!Gaston!VLG_Gast_030_Group17_Step22_StepDescription{TargetNPC}.
-�
-?Village!BeautyBeast!Gaston!VLG_Gast_030_Group17_StepDescriptionHПринесите фото подходящего Гастон и вы:
-�
-@Village!BeautyBeast!Gaston!VLG_Gast_030_Group17_StoryDescriptionnЧто может быть лучше Гастонian, чем поработать над твоей шеей?
-k
-:Village!BeautyBeast!Gaston!VLG_Gast_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

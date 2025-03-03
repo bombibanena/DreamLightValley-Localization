@@ -1,43 +1,0 @@
-
-
-Daisy_001_fHey, Daisy!
-@
-Player_000_choice_000_f%Do you have any sewing project ideas?
-0
-Player_000_choice_001_fNeed any sewing help?
-:
-Player_000_choice_002_fHow's your fashion line coming?
-˜
-Daisy_005_fˆWhy, of course. I have dozens! A purple and pink tartan skirt with a back bow, an entire athleisure set with lace trim... I could go on.
-
-Daisy_006_fWhy do you ask?
-p
-Daisy_007_faSally's looking for a new sewing project. I thought you and Minnie might have some ideas for her.
-w
-Daisy_016_fhActually, I have an even BETTER thought! Why don't you and Sally join Minnie and me on our next project?
-d
-Daisy_009_fUWe're thinking: home decor. You know Ã¢Â€Â” throw pillows, curtains, the whole works.
-`
-Daisy_010_fQI'm sure Minnie will agree that you and Sally would be the perfect collaborators!
-:
-Player_001_choice_000_fWhat do we need to get started?
-2
-Player_001_choice_001_fSally will be so happy!
-?
-Player_001_choice_002_f$Do you actually THROW throw pillows?
-d
-Daisy_012_fUI'll give you a list of supplies. Would you mind <Lore>collecting them for us</Lore>?
-r
-Daisy_015_fcIn the meantime, I need to grab my design sketches. Then we'll <Lore>meet at Minnie's place</Lore>!
-w
-Daisy_011_fhWell, I'm thrilled! Sally has such fantastic style. I'm sure we'll come up with something unforgettable.
-L
-Daisy_013_f=Sometimes. If Donald's being especially frustrating. *giggle*
-/
-Daisy_014_f Now, there's lots of work to do!
-ž
-Daisy_002_fŽAs a matter of fact, I do! Minnie and I are planning a new project for "Dots & Daisies," but it's a little ambitious for just the two of us...
-e
-Daisy_004_fVOh, "Dots & Daisies" is doing fabulously! We're just about to start a big new project!
-I
-Daisy_008_f:But enough about me; what was it you wanted to talk about?

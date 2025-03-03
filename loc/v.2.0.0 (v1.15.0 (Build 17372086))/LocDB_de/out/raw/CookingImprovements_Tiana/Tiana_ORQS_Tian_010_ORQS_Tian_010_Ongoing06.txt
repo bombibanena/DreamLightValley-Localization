@@ -1,6 +1,0 @@
-TAG: Tiana_000_f
-Tiana, my <ActivityItem>Slow Cooker</ActivityItem> is all done!
-
-TAG: Tiana_001_f
-I thought something smelled delicious! Well, what are you waiting for? Go <Lore>collect your meals</Lore>, so you can see how they turned out.
-

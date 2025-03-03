@@ -1,77 +1,0 @@
-
-S
-Beast_000_fDBeast! The time is right! Are you ready for your evening with Belle?
-9
-Beast_001_f*... I'm not sure about this, {PlayerName}.
-I
-Player_000_choice_000_f.Oh no, have you been worrying this whole time?
--
-Player_000_choice_001_fWhat do you mean?!
-B
-Player_000_choice_002_f'No way, you're not backing out of this!
-
-Beast_002_f*sigh* Yes.
-
-Beast_003_fYou can do this!
-$
-Beast_004_fYou don't understand.
-C
-Beast_005_f4You're at ease with everyone in the Valley! But I...
-:
-Player_001_choice_000_fI've been in your shoes before.
-6
-Player_001_choice_001_fI've had a lot of practice!
-9
-Player_001_choice_002_fI know, I make it look easy...
-
-Beast_006_f...
-i
-Beast_015_fZYou go ask Belle. I'll do some final decorations to get everything looking EXTRA romantic.
-v
-Beast_016_fgYou should probably pass me back the table so I can set everything up. Thanks for keeping an eye on it!
-8
-Beast_017_f)Of course — here you are, {PlayerName}.
-M
-Beast_018_f>And... thank you. I am aware that I can be difficult at times.
-,
-Beast_019_fI appreciate your assistance.
-)
-Beast_007_fErr, sorry, not literally.
-H
-Beast_008_f9Look, I know you're worried... but try focusing on Belle.
-s
-Beast_009_fdThink about when you saved Belle from that pack of wolves — were you thinking about yourself then?
-#
-Beast_010_fNo... I suppose not.
-n
-Beast_011_f_I was thinking of Belle, of how ensuring her safety is the most important thing there is to me.
-2
-Beast_012_f#There you go! Try and channel that!
-
-Beast_013_fI... will try.
-$
-Beast_014_fThat's all we can do!
-3
-Player_002_choice_000_fJust being a good ruler!
-R
-Player_002_choice_001_f7I must defend all the sweethearts of Dreamlight Valley!
-L
-Player_002_choice_002_f1I try to treat others how I'd want to be treated.
-9
-Beast_020_f*The Village is fortunate to have you here.
-9
-Player_003_choice_000_fJust looking out for everyone!
-R
-Player_003_choice_001_f7I must defend all the sweethearts of Dreamlight Valley!
-L
-Player_003_choice_002_f1I try to treat others how I'd want to be treated.
-
-Beast_021_fI see...
-
-Beast_022_f...
-H
-Beast_023_f9But you probably don't want to hear about that right now!
-7
-Beast_024_f(I'll make a mistake. A million mistakes.
->
-Beast_025_f/DON'T tell me what to do! ... *sigh* I'm sorry.

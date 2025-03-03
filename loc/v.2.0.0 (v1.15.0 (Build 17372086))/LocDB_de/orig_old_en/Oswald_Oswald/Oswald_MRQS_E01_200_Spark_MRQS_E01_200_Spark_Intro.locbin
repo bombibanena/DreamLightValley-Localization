@@ -1,51 +1,0 @@
-
- 
-Oswald_001_fOh... oh, hello.
-*
-Oswald_002_fHow did you get down here?
-]
-Oswald_003_fMThe peculiar rabbit stares at you, without moving a muscle or making a sound.
-
-Oswald_004_fUh... okay.
-*
-Player_001_choice_000_fThat was weird.
-.
-Player_001_choice_001_fDo you have a name?
-(
-Player_001_choice_002_fCan you talk?
-A
-Oswald_005_f1The charming bystander breaks out in a wide grin.
-4
-Oswald_006_f$"Name's Oswald! Pleased to meet ya!"
-<
-Oswald_000_f,The bunny-eared fella doffs his ears to you.
-&
-Player_002_choice_000_fUh... okay.
-;
-Player_002_choice_001_f You're a little odd, aren't you?
--
-Player_002_choice_002_fI love your style!
-9
-Oswald_007_f)The rabbit does a little jitterbug dance.
-S
-Oswald_015_fCI'll have to look for some way to <Lore>repair that lever</Lore>...
-7
-Oswald_010_f'You've been down here a long time, huh?
-!
-Oswald_016_fThe bunny laughs.
-x
-Oswald_018_fh"You betcha I have! I took one wrong turn tunnelin' for gold, and I've been stuck down here ever since!"
-z
-Oswald_011_fjDo you know what this place is? Or how I can get across these platforms to reach the Spark of Imagination?
-Z
-Oswald_012_fJOswald gestures emphatically towards the stone bridge and a missing lever.
-0
-Oswald_013_f "This whole place needs fixin'!"
->
-Oswald_014_f.Guess that's all I'm gonna get outta you, huh?
-D
-Oswald_008_f4With his hands on his hips, the annoyed rabbit asks:
-,
-Oswald_017_f"Hey, who you callin' odd?!"
-2
-Oswald_009_f"The rabbit smiles and takes a bow.

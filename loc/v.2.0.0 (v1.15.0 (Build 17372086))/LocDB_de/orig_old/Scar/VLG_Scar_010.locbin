@@ -1,63 +1,0 @@
-
-c
-BVillage!LionKing!Scar!VLG_Scar_010_Any_CompletedRequestDescriptionПоговори с Шрам.
-�
-7Village!LionKing!Scar!VLG_Scar_010_AvailableDescription�Шрам кажется беспокойным, но он не говорит тебе почему, потому что ты не выглядишь настолько угрюмым, чтобы он мог пообщаться.
-�
-<Village!LionKing!Scar!VLG_Scar_010_CompletedStoryDescription�Шрам был накормлен, его нужно успокоить, но есть только один способ знать наверняка.
-T
-.Village!LionKing!Scar!VLG_Scar_010_DisplayName"Друзья - это не еда.
-�
-?Village!LionKing!Scar!VLG_Scar_010_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
-t
-SVillage!LionKing!Scar!VLG_Scar_010_Group01_Step01_TalkToCharacter01_StepDescriptionПоговори с Реми.
-�
-;Village!LionKing!Scar!VLG_Scar_010_Group01_StoryDescription�Пальто - это рычащий успех. Шрам говорит вам, что он сварливый, потому что он проголодался. Вы решили обратиться к Реми за помощью, пока льв не начал есть других деревенских жителей.
-�
-?Village!LionKing!Scar!VLG_Scar_010_Group04_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
-�
-SVillage!LionKing!Scar!VLG_Scar_010_Group04_Step04_TalkToCharacter03_StepDescriptionPПоговорите с Матушка Готель Матушка Готель.
-z
-?Village!LionKing!Scar!VLG_Scar_010_Group05_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
-\
-MVillage!LionKing!Scar!VLG_Scar_010_Group05_Step05_BringItem01_StepDescription{ItemName}.
-\
-MVillage!LionKing!Scar!VLG_Scar_010_Group05_Step05_BringItem02_StepDescription{ItemName}.
-j
-BVillage!LionKing!Scar!VLG_Scar_010_Group05_Step05_ReadyDescription$Принеси суши в Реми.
-�
-AVillage!LionKing!Scar!VLG_Scar_010_Group05_Step05_StepDescriptionxУбедитесь, что у вас есть все, чтобы покормить Шрам в вашем списке:
-�
-?Village!LionKing!Scar!VLG_Scar_010_Group06_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
-[
-LVillage!LionKing!Scar!VLG_Scar_010_Group06_Step06_CookMeal01_StepDescription{ItemName}.
-[
-LVillage!LionKing!Scar!VLG_Scar_010_Group06_Step06_CookMeal02_StepDescription{ItemName}.
-n
-AVillage!LionKing!Scar!VLG_Scar_010_Group06_Step06_StepDescription)Приготовить ужин Шрам:
-\
-MVillage!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem03_StepDescription{ItemName}.
-\
-MVillage!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem04_StepDescription{ItemName}.
-\
-MVillage!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem05_StepDescription{ItemName}.
-\
-MVillage!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem06_StepDescription{ItemName}.
-�
-BVillage!LionKing!Scar!VLG_Scar_010_Group07_Step07_ReadyDescription^Принесите материалы Матушка Готель Матушка Готель.
-�
-AVillage!LionKing!Scar!VLG_Scar_010_Group07_Step07_StepDescriptionPСоберите материалы, необходимые для пальто:
-�
-;Village!LionKing!Scar!VLG_Scar_010_Group07_StoryDescription�Матушка Готель Матушка Готель соглашается помочь вам и просит вас принести ей некоторые материалы.
-�
-JVillage!LionKing!Scar!VLG_Scar_010_Group08_Step08_Listen01_StepDescriptionRСледуйте за Реми, когда он дает Шрам свою еду.
-�
-;Village!LionKing!Scar!VLG_Scar_010_Group08_StoryDescription�Маленький шеф-повар хочет подарить еду Шрам самому, чтобы обеспечить идеальную презентацию.
-z
-?Village!LionKing!Scar!VLG_Scar_010_Group09_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
-g
-KVillage!LionKing!Scar!VLG_Scar_010_Group09_Step09_DressUp01_StepDescriptionНадень {ItemName}.
-�
-SVillage!LionKing!Scar!VLG_Scar_010_Group10_Step10_TalkToCharacter02_StepDescription)Возвращайтесь на Шрам.
-f
-5Village!LionKing!Scar!VLG_Scar_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,6 +1,0 @@
-TAG: FairyGodMother_000_f
-Мерлин хотел добавить к вечеринке что-то особенное. Я готовлю для вас <ActivityItem>Fairytale Gazebo</ActivityItem>!
-
-TAG: FairyGodMother_001_f
-Мне просто нужно найти несколько <ActivityItem>Dry Wood</ActivityItem>, <ActivityItem>Glass</ActivityItem>, <ActivityItem>Fabric</ActivityItem> и <ActivityItem>Yellow Daisies</ActivityItem>.
-

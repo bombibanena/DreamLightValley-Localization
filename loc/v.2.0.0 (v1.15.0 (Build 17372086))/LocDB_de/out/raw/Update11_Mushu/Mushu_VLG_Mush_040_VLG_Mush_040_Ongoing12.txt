@@ -1,3 +1,0 @@
-TAG: Mushu_000_f
-<Lore>Go back to the Training Camp where we met</Lore> and find a <ActivityItem>Hand Fan</ActivityItem>.
-

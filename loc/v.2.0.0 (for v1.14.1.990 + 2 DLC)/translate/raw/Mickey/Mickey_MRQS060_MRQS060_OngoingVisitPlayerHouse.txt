@@ -1,6 +1,0 @@
-TAG: Mickey_000_f
-Ну, нам понадобятся несколько <ActivityItem>Apples</ActivityItem> и <ActivityItem>Wheat</ActivityItem>, чтобы сделать <ActivityItem>Fruit Salad</ActivityItem> и несколько <ActivityItem>Crackers</ActivityItem>.
-
-TAG: Mickey_001_f
-Мы можем сделать это в вашем доме, когда вы будете готовы!
-

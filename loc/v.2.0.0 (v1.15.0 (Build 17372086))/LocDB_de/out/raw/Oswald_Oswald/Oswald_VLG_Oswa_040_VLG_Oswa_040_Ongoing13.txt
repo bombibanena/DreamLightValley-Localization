@@ -1,9 +1,0 @@
-TAG: Oswald_000_f
-Uhh, what am I supposed to be doing again, Oswald?
-
-TAG: Oswald_001_f
-Why, cook up the plan o' course!
-
-TAG: Oswald_002_f
-<ActivityItem>Paper</ActivityItem>, <ActivityItem>Dates</ActivityItem>, and a <ActivityItem>Nestling Pear</ActivityItem> are just what we need.
-

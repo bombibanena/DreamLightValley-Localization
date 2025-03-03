@@ -1,25 +1,0 @@
-
-k
-Minnie_000_f[Why hello, {PlayerName}! It's so nice to see you today. Is there something I can help with?
-{
-Minnie_001_fkDo you have any <ActivityItem>Curtains</ActivityItem> you can spare? It's for Olaf. We're building a stage!
-*
-Minnie_002_fA stage? Oh, how exciting!
-*
-Player_000_fI know. I can't wait to...
-1
-Player_000_choice_000_f...watch Olaf's plays!
-5
-Player_000_choice_001_f...help with Olaf's plays!
-a
-Player_000_choice_002_fF...star in Olaf's plays and dazzle everyone with my incredible acting!
-^
-Minnie_003_fNOh, Mickey and I used to love watching Olaf's plays while we sipped hot cocoa.
-­
-Minnie_004_fœAnd you know what? It's your lucky day. I just picked up some new <ActivityItem>Curtains</ActivityItem> from Uncle Scrooge and I have a little extra Fabric.
-
-Minnie_005_fThanks, Minnie!
-k
-Minnie_006_f[Oh, you'll have a wonderful time. It's so much fun to help out with the sets and wardrobes!
--
-Minnie_007_fOh, I can't wait to see that!

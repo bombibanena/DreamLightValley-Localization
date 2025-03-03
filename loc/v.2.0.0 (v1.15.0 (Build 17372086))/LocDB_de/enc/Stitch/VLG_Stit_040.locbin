@@ -1,63 +1,0 @@
-
-g
-FVillage!LiloStitch!Stitch!VLG_Stit_040_Any_CompletedRequestDescriptionПоговори с Стич.
-�
-;Village!LiloStitch!Stitch!VLG_Stit_040_AvailableDescription�Стич хочет изучать музыку как его хобби, но не так легко начать музыкальную карьеру. Вам нужно помочь ему собрать группу.
-�
-@Village!LiloStitch!Stitch!VLG_Stit_040_CompletedStoryDescriptionIСтич и его группа устроили отличное шоу!
-B
-2Village!LiloStitch!Stitch!VLG_Stit_040_DisplayNameМузыка
-�
->Village!LiloStitch!Stitch!VLG_Stit_040_Group01_StepDescription�Найдите деревенщину, которая играет идеальный инструмент, чтобы сопровождать Стич.
-�
->Village!LiloStitch!Stitch!VLG_Stit_040_Group02_StepDescription�Найдите деревенских людей, которые играют идеальные инструменты, чтобы сопровождать Стич.
-�
-WVillage!LiloStitch!Stitch!VLG_Stit_040_Group03_Step05_TalkToCharacter10_StepDescriptionjПопроси Скрудж Макдак немного музыкального оборудования.
-�
-?Village!LiloStitch!Stitch!VLG_Stit_040_Group03_StoryDescriptionDВы собрали идеальную группу для Стич.
-^
-OVillage!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess01_StepDescription{ItemName}.
-^
-OVillage!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess02_StepDescription{ItemName}.
-^
-OVillage!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess03_StepDescription{ItemName}.
-^
-OVillage!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_Possess04_StepDescription{ItemName}.
-�
-EVillage!LiloStitch!Stitch!VLG_Stit_040_Group04_Step06_StepDescriptionWСоберите материалы для <ActivityItem>Photo Backdrop</ActivityItem>:
-�
-?Village!LiloStitch!Stitch!VLG_Stit_040_Group04_StoryDescription�Скрудж Макдак дает вам совет по управлению группой. Вам нужно настроить фон для фотосессии.
-�
-QVillage!LiloStitch!Stitch!VLG_Stit_040_Group05_Step07_CraftItem01_StepDescriptionCПодготовить <ActivityItem>Photo Backdrop</ActivityItem>.
-�
-QVillage!LiloStitch!Stitch!VLG_Stit_040_Group06_Step08_BringItem01_StepDescriptionjУбедитесь, что у вас в списке есть <ActivityItem>Photo Backdrop</ActivityItem>.
-�
-FVillage!LiloStitch!Stitch!VLG_Stit_040_Group06_Step08_ReadyDescription\Возьмите <ActivityItem>Photo Backdrop</ActivityItem> на Скрудж Макдак.
-x
-WVillage!LiloStitch!Stitch!VLG_Stit_040_Group07_Step09_TalkToCharacter11_StepDescriptionПоговори с Стич.
-�
-QVillage!LiloStitch!Stitch!VLG_Stit_040_Group08_Step10_VisitArea01_StepDescription5Приведите Стич в замок Мечты.
-�
-QVillage!LiloStitch!Stitch!VLG_Stit_040_Group09_Step11_VisitArea02_StepDescription{Идите на третий этаж замка, где Скрудж Макдак установил фотографию.
-�
-SVillage!LiloStitch!Stitch!VLG_Stit_040_Group10_Step12_TakePicture01_StepDescriptionbСделайте 3 снимка Стич против <ActivityItem>Photo Backdrop</ActivityItem>.
-�
-EVillage!LiloStitch!Stitch!VLG_Stit_040_Group11_Step13_StepDescriptionFВаши фотографии выглядят великолепно!
-�
-WVillage!LiloStitch!Stitch!VLG_Stit_040_Group11_Step13_TalkToCharacter12_StepDescription.Поговори с Скрудж Макдак.
-�
-?Village!LiloStitch!Stitch!VLG_Stit_040_Group11_StoryDescriptionmСтич служит некоторым взглядом на фотосессию в замке Мечты.
-�
-SVillage!LiloStitch!Stitch!VLG_Stit_040_Group12_Step14_Conditional01_StepDescriptionRПодождите до завтра, чтобы поговорить с Стич.
-x
-WVillage!LiloStitch!Stitch!VLG_Stit_040_Group13_Step15_TalkToCharacter13_StepDescriptionПоговори с Стич.
-�
-WVillage!LiloStitch!Stitch!VLG_Stit_040_Group14_Step16_TalkToCharacter14_StepDescription.Поговори с Скрудж Макдак.
-�
-PVillage!LiloStitch!Stitch!VLG_Stit_040_Group15_Step17_Decorate01_StepDescriptionRПоместите <ActivityItem>Sound Equipment</ActivityItem> на Dazzle Beach.
-�
-?Village!LiloStitch!Stitch!VLG_Stit_040_Group15_StoryDescription�Скрудж Макдак дает вам сценическое оборудование, чтобы помочь поставить шоу.
-�
-MVillage!LiloStitch!Stitch!VLG_Stit_040_Group16_Step18_Party01_StepDescriptioncПрисутствуйте на вечеринке с <ActivityItem>Sound Equipment</ActivityItem>.
-j
-9Village!LiloStitch!Stitch!VLG_Stit_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

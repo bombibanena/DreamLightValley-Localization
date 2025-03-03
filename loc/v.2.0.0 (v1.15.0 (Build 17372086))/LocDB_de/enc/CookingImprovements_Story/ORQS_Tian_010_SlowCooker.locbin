@@ -1,27 +1,0 @@
-
-�
->Story!ORQS_Tian_010_SlowCooker_Any_CompletedRequestDescriptiongПоговорите с <Lore>Тиана</Lore> о вашем <ActivityItem>Slow Cooker</ActivityItem>.
-m
-3Story!ORQS_Tian_010_SlowCooker_AvailableDescription6Похоже, Тиана что-то готовит...
-T
-*Story!ORQS_Tian_010_SlowCooker_DisplayName&Медленно и устойчиво
-s
-OStory!ORQS_Tian_010_SlowCooker_Group01_Step01_TalkToCharacter01_StepDescription Поговори с {TargetNPC}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess01_StepDescription{ItemName}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess02_StepDescription{ItemName}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess03_StepDescription{ItemName}.
-V
-GStory!ORQS_Tian_010_SlowCooker_Group02_Step02_Possess04_StepDescription{ItemName}.
-�
-=Story!ORQS_Tian_010_SlowCooker_Group02_Step02_StepDescription�Соберите материалы, необходимые для изготовления <ActivityItem>Slow Cooker</ActivityItem>.
-X
-IStory!ORQS_Tian_010_SlowCooker_Group03_Step03_CraftItem01_StepDescription{ItemName}.
-}
-HStory!ORQS_Tian_010_SlowCooker_Group04_Step04_Decorate01_StepDescription1Положи свой {ItemName} в Долину.
-�
-WStory!ORQS_Tian_010_SlowCooker_Group05_Step05_AncientMachineOperation01_StepDescription@Приготовить {ItemName} со своим {MachineName}.
-�
-WStory!ORQS_Tian_010_SlowCooker_Group06_Step06_AncientMachineOperation02_StepDescription�Соберите еду с {MachineName}.<br> (Потребуется некоторое время, чтобы {MachineName} закончить!)

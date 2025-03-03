@@ -1,25 +1,0 @@
-
-'
-Ariel_000_fWas Merlin able to help?
-[
-Ariel_009_fLHe told me that this is some sort of key we can use to open the door, but...
-·
-Ariel_004_f§...first we need to enchant it with emotions. <Lore>Fiery Passion</Lore>, <Lore>Seething Anger</Lore>, <Lore>Perfect Joy</Lore>, and <Lore>Exuberant Excitement</Lore>.
-B
-Ariel_005_f3<Lore>Perfect Joy</Lore>? Oh, I can help with that.
-‰
-Ariel_007_fzYou are such a wonderful friend. After all, you saved me from a desert island. Whenever I think of you, I always feel joy.
-1
-Player_002_f!Wait, I feel the magic working...
--
-Player_002_choice_000_fYou did it, Ariel!
-d
-Player_002_choice_001_fII guess people just need to feel the emotion for the enchantment to work!
-Y
-Player_002_choice_002_f>I need to go right now. I have three other emotions to gather.
-2
-Ariel_008_f#Then we just have three more to go!
-}
-Ariel_002_fnI know just who to talk to about <Lore>Fiery Passion</Lore>. Remy! No one's as passionate about food as he is!
-
-Ariel_010_fRight.

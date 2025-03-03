@@ -1,77 +1,0 @@
-
-“
-Flynn_000_fƒ{PlayerName}, I'm glad you're here! I could use your help with a very legitimate, yet excitingly furtive mission that I'm planning.
-C
-Player_000_choice_001_f(You have my attention... How can I help?
-5
-Player_000_choice_002_fI think I'll pass for now.
-n
-Flynn_001_f_I've been thinking of ways to fix whatever I did and find out what happened to Princess Aurora.
-!
-Flynn_003_fSounds good to me.
-F
-Flynn_004_f7And I came up with a plan that's a Flynn Rider classic.
-
-Flynn_005_fOh boy.
-&
-Flynn_006_fIt involves Maleficent.
-<
-Player_001_choice_000_f!Do you want to team up with her?!
-F
-Player_001_choice_001_f+I hope it involves avoiding her completely.
-/
-Player_001_choice_002_fI'm afraid to ask...
-:
-Flynn_007_f+Of course not! Quite the opposite, in fact.
-(
-Player_002_choice_000_fOkay, I'm in.
-*
-Player_002_choice_001_fI don't know...
-.
-Player_002_choice_002_fThis is a BAD idea.
-'
-Flynn_010_fAnd what does that mean?
-j
-Flynn_015_f[Remember how I told you that Maleficent cursed me because she wanted me to guard something?
-3
-Flynn_017_f$Right! Did you remember what it was?
-U
-Flynn_018_fFYes! It was a vault, where she kept things that were important to her.
-æ
-Flynn_019_fÖI say we get into that vault. There's bound to be some clue about Aurora in there. And if we happen to find some treasures along the way... well, they probably didn't belong to Maleficent in the first place, right?
-H
-Flynn_021_f9What do you think? You in for a daring and dashing heist?
-7
-Flynn_022_f(And you really think this will help you?
-#
-Flynn_023_fI really, really do.
-"
-Flynn_025_fYES! That is great!
-+
-Flynn_024_fWhat do we need to do first?
-Š
-Flynn_026_f{So the vault is blocked and unreachable right now. We need to clear the path so we can get in. Come with me; I'll show you!
-"
-Flynn_020_fSeems pretty risky.
-l
-Flynn_029_f]Please, {PlayerName}. Don't make me break out the puppy eyes; they're worse than the smolder.
-@
-Flynn_030_f1Okay, if it means THAT much to you... I'll do it.
-=
-Flynn_027_f.Sometimes the best things come from bad ideas!
-+
-Flynn_028_fI don't think that's true...
-F
-Flynn_008_f7Mmm, not quite avoiding. More like... actively robbing.
-"
-Flynn_011_fThat sounds... bad.
--
-Flynn_012_fTrust me; it's gonna be great.
-9
-Flynn_009_f*Don't be! I have everything under control.
-*
-Flynn_013_fSomehow, I'm not convinced.
-2
-Flynn_014_f#Have a little faith in me, will ya?
-;
-Flynn_002_f,Suit yourself. I'll fill you in on it later.

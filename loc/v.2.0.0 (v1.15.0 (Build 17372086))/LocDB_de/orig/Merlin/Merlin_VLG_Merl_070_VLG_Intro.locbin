@@ -1,31 +1,0 @@
-
-p
-Merlin_001_f`{PlayerName}! Just who I wanted to see. I've devised a way to further enchant your Watering Can.
-V
-Merlin_002_fFYou should be able to remove the large inconvenient Mushrooms with it.
-A
-Merlin_003_f1It will require some work, though. Are you ready?
-C
-Player_000_choice_000_f(Absolutely! I'm sick of those Mushrooms.
-)
-Player_000_choice_002_fNot right now.
-w
-Merlin_004_fgThat's the spirit! The first thing we need is <ActivityItem>Purified Night Shard Powder</ActivityItem>.
-K
-Merlin_007_f;Now the Shards are very hard, but we'll need to crush them.
-;
-Merlin_000_f+Do you know anyone good at crushing things?
-D
-Player_000_choice_003_f)I know a little robot who crushes things.
-G
-Player_000_choice_005_f,Maybe Ursula could crush them with a potion.
-A
-Merlin_005_f1You mean WALLÂ·E! Yes, he should be able to help.
-;
-Merlin_008_f+Speak to him about this as soon as you can.
-•
-Merlin_011_f„Goodness, no! We mustn't allow the Sea Witch anywhere near this sort of power. Besides, this really isn't the kind of work she does.
-F
-Merlin_009_f6I know a little robot who crushes things for a living.
-F
-Merlin_006_f6Well, I suppose the Mushrooms aren't going anywhere...

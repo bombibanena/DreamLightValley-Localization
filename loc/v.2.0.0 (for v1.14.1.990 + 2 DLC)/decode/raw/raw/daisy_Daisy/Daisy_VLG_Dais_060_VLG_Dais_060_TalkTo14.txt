@@ -1,9 +1,0 @@
-TAG: Daisy_000_f
-So did Stitch agree to meet you in the Cursed Cave with Vanellope?
-
-TAG: Daisy_001_f
-Yes, he did.
-
-TAG: Daisy_002_f
-Then it's time to spring the trap! C'mon; let's go to the Cursed Cave together, {PlayerName}.
-

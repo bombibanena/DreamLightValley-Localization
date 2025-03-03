@@ -1,57 +1,0 @@
-
-Z
-?Village!Moana!Maui!VLG_Maui_020_Any_CompletedRequestDescriptionReturn to talk to Maui.
-P
-4Village!Moana!Maui!VLG_Maui_020_AvailableDescriptionMaui is looking for you.
-`
-9Village!Moana!Maui!VLG_Maui_020_CompletedStoryDescription#Maui will be so proud of your work.
-G
-+Village!Moana!Maui!VLG_Maui_020_DisplayNameA Tale of Stone and Fire
-o
-IVillage!Moana!Maui!VLG_Maui_020_Group01_Step02_CookMeal01_StepDescription"Cook a fresh 5-star meal for Maui.
-ä
-8Village!Moana!Maui!VLG_Maui_020_Group01_StoryDescriptionNAll of the hard work ahead makes Maui very hungry. It's up to you to feed him.
-e
-?Village!Moana!Maui!VLG_Maui_020_Group02_Step01_ReadyDescription"Bring the meal you cooked to Maui.
-u
->Village!Moana!Maui!VLG_Maui_020_Group02_Step01_StepDescription3Make sure you have a 5-star meal in your Inventory.
-y
-<Village!Moana!Maui!VLG_Maui_020_Group03_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What do I need to find?
-e
-?Village!Moana!Maui!VLG_Maui_020_Group03_Step04_ReadyDescription"Bring Maui the items you gathered.
-Ü
->Village!Moana!Maui!VLG_Maui_020_Group03_Step04_StepDescriptionDGather the items needed for Maui from his basket in the Moana Realm.
-◊
-8Village!Moana!Maui!VLG_Maui_020_Group03_StoryDescriptionöMaui suggests that he can improve your Pickaxe so you can free the object stuck in the sea debris, but to do so you'll have to go back to the Moana Realm.
-ä
->Village!Moana!Maui!VLG_Maui_020_Group04_Step05_StepDescriptionHPlace the <ActivityItem>Granite Fire Bowl</ActivityItem> in the Village.
-\
-?Village!Moana!Maui!VLG_Maui_020_Group06_Step06_ReadyDescriptionShow Maui what you found.
-x
->Village!Moana!Maui!VLG_Maui_020_Group06_Step06_StepDescription6Break the sea debris and collect what you find inside.
-p
-PVillage!Moana!Maui!VLG_Maui_020_Group07_Step08_FollowCharacter01_StepDescriptionFollow Maui to Dazzle Beach.
-à
-8Village!Moana!Maui!VLG_Maui_020_Group07_StoryDescriptionLHe wants to show you something stuck in some of the sea debris on the Beach.
-a
-PVillage!Moana!Maui!VLG_Maui_020_Group08_Step09_TalkToCharacter02_StepDescriptionTalk to Maui.
-w
-PVillage!Moana!Maui!VLG_Maui_020_Group09_Step03_FollowCharacter02_StepDescription#Follow Maui back to the sea debris.
-ñ
-8Village!Moana!Maui!VLG_Maui_020_Group09_StoryDescriptionZYour Pickaxe is ready now. You'll be able to retrieve this mysterious object on the Beach.
-W
-HVillage!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess02_StepDescription{ItemName}.
-W
-HVillage!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess03_StepDescription{ItemName}.
-W
-HVillage!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess04_StepDescription{ItemName}.
-W
-HVillage!Moana!Maui!VLG_Maui_020_Group10_Step10_Possess05_StepDescription{ItemName}.
-ê
-7Village!Moana!Maui!VLG_Maui_020_Group10_StepDescriptionUGather the following items to craft a <ActivityItem>Granite Fire Bowl</ActivityItem>:
-Í
-8Village!Moana!Maui!VLG_Maui_020_Group10_StoryDescription≠The <ActivityItem>Limestone</ActivityItem> you found in the sea debris gives Maui the idea to craft a <ActivityItem>Granite Fire Bowl</ActivityItem> to decorate the Village.
-Ö
-JVillage!Moana!Maui!VLG_Maui_020_Group11_Step11_CraftItem01_StepDescription7Craft a <ActivityItem>Granite Fire Bowl</ActivityItem>.
-c
-2Village!Moana!Maui!VLG_Maui_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

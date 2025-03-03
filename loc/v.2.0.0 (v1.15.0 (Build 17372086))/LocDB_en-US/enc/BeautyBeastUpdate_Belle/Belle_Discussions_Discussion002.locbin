@@ -1,41 +1,0 @@
-
-q
-Belle_000_fb{PlayerName}, would you tell me about where you come from? I love learning about different places.
-8
-Player_000_choice_000_fI come from a faraway land...
-7
-Player_000_choice_001_fIt's ordinary. Just like me.
-S
-Belle_001_fDThat's amazing! Knowing you, I imagine it must be filled with magic.
-B
-Player_001_choice_000_f'No, it's kind of boring, unfortunately.
-A
-Player_001_choice_001_f&Yes! The magic of friendship and love!
-:
-Player_001_choice_002_fMore like wonderful inventions!
-N
-Belle_002_f?Oh, I'm sorry. I feel that way about my village sometimes, too.
-I
-Belle_003_f:That really is the most important kind of magic, isn't it?
-9
-Belle_004_f*Really? Oh, I wish my father could see it.
-Z
-Belle_005_fK{PlayerName}, you certainly are not ordinary. In fact, you're VERY special.
-?
-Player_002_choice_000_f$Sometimes I don't feel very special.
-3
-Player_002_choice_001_fYou're just saying that.
-(
-Player_002_choice_002_fI AM special!
-K
-Belle_006_f<Oh, I understand. We all have days like that now and then...
-d
-Belle_007_fUBut look at where you are right now... and look at all that you've accomplished here!
-V
-Belle_008_fGYou've done so much for the Villagers. It's important to remember that.
-
-Belle_009_fNo. It's true.
-q
-Belle_010_fbI wouldn't tell you something just to be polite. You're very special, {PlayerName}. We all see it.
-S
-Belle_011_fDAnd if you ever need reminding, just look around at all you've done.

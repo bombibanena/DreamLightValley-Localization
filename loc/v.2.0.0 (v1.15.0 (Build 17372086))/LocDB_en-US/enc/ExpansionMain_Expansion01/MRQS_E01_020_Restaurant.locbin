@@ -1,39 +1,0 @@
-
-Z
-IStory!Expansion01!MRQS_E01_020_Restaurant_Any_CompletedRequestDescriptionTalk to Remy.
-À
->Story!Expansion01!MRQS_E01_020_Restaurant_AvailableDescriptionàAs you were exploring Ancient's Landing, you came across a menu for Chez Remy. A certain little chef might be pretty interested in it...
-Ø
-CStory!Expansion01!MRQS_E01_020_Restaurant_CompletedStoryDescriptionhWith Chez Remy on Eternity Isle now open, Remy should have plenty of new culinary challenges to take on.
-V
-5Story!Expansion01!MRQS_E01_020_Restaurant_DisplayNameAncient's Landing Fine Dining
-£
-TStory!Expansion01!MRQS_E01_020_Restaurant_Group01_Step01_BringItem01_StepDescriptionKMake sure you have the <ActivityItem>Menu</ActivityItem> in your Inventory.
-Ä
-IStory!Expansion01!MRQS_E01_020_Restaurant_Group01_Step01_ReadyDescription3Give the <ActivityItem>Menu</ActivityItem> to Remy.
-ç
-ZStory!Expansion01!MRQS_E01_020_Restaurant_Group02_Step02_FollowCharacter01_StepDescription/Follow Remy to the restaurant on Eternity Isle.
-m
-\Story!Expansion01!MRQS_E01_020_Restaurant_Group02_Step02_FollowCharacter01_TalkToDescriptionTalk to Remy.
-ù
-BStory!Expansion01!MRQS_E01_020_Restaurant_Group02_StoryDescriptionWRemy is overjoyed to discover the menu and wants to take a closer look at the building.
-ï
-TStory!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_BringItem02_StepDescription=Any <ActivityItem>Fish</ActivityItem> from Ancient's Landing:
-{
-TStory!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_BringItem03_StepDescription#<ActivityItem>Cumin</ActivityItem>.
-Ç
-TStory!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_BringItem04_StepDescription*<ActivityItem>Strawberries</ActivityItem>.
-k
-IStory!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_ReadyDescriptionBring the Ingredients to Remy.
-Å
-HStory!Expansion01!MRQS_E01_020_Restaurant_Group03_Step03_StepDescription5Gather some fresh Eternity Isle Ingredients for Remy:
-Ø
-BStory!Expansion01!MRQS_E01_020_Restaurant_Group03_StoryDescriptioniHe decides to clean the place and make some inventory while you go and gather Ingredients for the pantry.
-≠
-QStory!Expansion01!MRQS_E01_020_Restaurant_Group04_Step04_Unlock01_StepDescriptionXUnlock Chez Remy on Eternity Isle by interacting with the Scrooge McDuck Sign beside it.
-â
-BStory!Expansion01!MRQS_E01_020_Restaurant_Group04_StoryDescriptionCGrateful for your help, he charges you with opening the restaurant.
-}
-FStory!Expansion01!MRQS_E01_020_Restaurant_Group01_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
-}
-FStory!Expansion01!MRQS_E01_020_Restaurant_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?

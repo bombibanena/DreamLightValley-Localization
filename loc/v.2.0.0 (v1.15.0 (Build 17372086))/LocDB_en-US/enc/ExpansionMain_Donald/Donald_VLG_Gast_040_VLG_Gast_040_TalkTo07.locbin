@@ -1,37 +1,0 @@
-
-5
-Donald_001_f%Donald, I have a proposition for you.
-*
-Donald_003_f*grumble, mutter, grumble*
-#
-Donald_002_fWhoa, what's wrong?
-]
-Donald_004_fMIt's Uncle Scrooge! He's got a fancy crystal vase I want to buy for a gift...
-/
-Donald_005_fBut he won't let me look at it!
-4
-Donald_006_f$Did you try to look with your hands?
-
-Donald_007_fMaybe.
--
-Player_000_choice_000_fI don't blame him.
-F
-Player_000_choice_001_f+Maybe try looking with your eyes next time?
-#
-Player_000_choice_002_fSo mean!
-6
-Donald_012_f&Don't be ridiculous. I'm very careful!
-K
-Donald_008_f;I've got something that might take your mind off of things.
-O
-Donald_009_f?Gaston is holding sidekick auditions â are you interested?
-�
-Donald_000_f�If you can show your uncle that you're responsible enough to be a sidekick, maybe he'll be more inclined to let you check out his stock!
-6
-Donald_010_f&That's a great idea â I'll do it!
-(
-Donald_011_fGreat! I'll tell Gaston!
-/
-Donald_013_fThat's what Uncle Scrooge said!
--
-Donald_014_fFinally, someone understands!

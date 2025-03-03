@@ -1,6 +1,0 @@
-TAG: Merlin_000_f
-Мы должны сравнить этот странный, большой <ActivityItem>Night Shard</ActivityItem> с обычным <ActivityItem>Shards</ActivityItem>.
-
-TAG: Merlin_001_f
-Ты найдёшь кое-что закопанное о деревне.
-

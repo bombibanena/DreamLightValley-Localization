@@ -1,9 +1,0 @@
-TAG: Vanellope_000_f
-Hey, {PlayerName}, I heard you were helping Daisy with a question for "Ask Daisy"?
-
-TAG: Vanellope_001_f
-Yep! I need to bring a few things to Minnie. Some <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Gold Ingots</ActivityItem>, and <ActivityItem>Red Bromeliads</ActivityItem>.
-
-TAG: Vanellope_002_f
-For... reasons...
-

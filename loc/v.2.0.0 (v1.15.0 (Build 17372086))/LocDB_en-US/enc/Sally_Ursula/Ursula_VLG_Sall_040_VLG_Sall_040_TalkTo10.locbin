@@ -1,71 +1,0 @@
-
-6
-Ursula_000_f&Hey Ursula, can we have a little chat?
-N
-Player_000_choice_000_f3It's so nice that you're making friends with Sally!
-D
-Player_000_choice_001_f)What are you going to use the potion for?
-F
-Player_000_choice_002_f+You better not be plotting anything here...
-d
-Ursula_001_fTWhy, angelfish, of course! And what would you like to discuss? Oh hello, Sally dear!
-
-Ursula_020_fHello, Ursula!
-r
-Ursula_002_fbI'm trying to help Sally out with gathering the Ingredients for the potion you two are working on.
-:
-Ursula_003_f*Well, aren't you the helpful little guppy?
-û
-Ursula_004_fçI was having a hard time finding more of that <ActivityItem>Arcane Sprout</ActivityItem> you need. Do you know in which Biome we can find it?
-Z
-Ursula_005_fJCertainly! That one's typically found in <Lore>the Forgotten Lands</Lore>.
-M
-Ursula_006_f=Now if that's all, I have some important work to attend√¢¬Ä¬î
-F
-Ursula_007_f6Actually, there is one more thing I wanted to discuss.
-3
-Ursula_008_f#Oh, I adore her. She's such a doll!
-0
-Ursula_009_f I mean... yeah √¢¬Ä¬î literally.
-+
-Ursula_010_fSo kind, sweet, gullible...
-
-Ursula_011_f... Gullible?
-í
-Ursula_012_fÅWhat? No. Did I say that? I meant flexible! She can change potion strategies in the blink of an eye! She's really quite talented.
-j
-Ursula_018_fZThat's nice of you to say, Ursula. I think we'll get back to hunting for those plants now.
-¢
-Ursula_023_fë{PlayerName}, if you find the sprout before me, could you <Lore>bring it to my House</Lore>? I need to use Jack's cauldron for some preparations.
-
-Ursula_024_fSure!
-(
-Ursula_019_fTa-ta, my two angelfish!
-I
-Ursula_013_f9Oh, nothing much, I assure you. It's for... a hair tonic.
-=
-Player_001_choice_000_f"Okay, that doesn't sound too wild.
-9
-Player_001_choice_001_fWell, you do both have hair...
-=
-Player_001_choice_002_f"I don't believe that for a second!
-7
-Ursula_014_f'How are you finding working with Sally?
-\
-Ursula_025_fLIndeed! And mine's in salt water most of the time. It needs some extra care.
-E
-Ursula_026_f5Please, {PlayerName}, it's all right. I trust Ursula.
-)
-Ursula_027_fHmm, one last question...
-:
-Ursula_028_f*Ursula, what's it like working with Sally?
-#
-Ursula_021_fOh, {PlayerName}...
-=
-Ursula_015_f-Me? Plotting something with Sally? I'd never!
-`
-Ursula_016_fPI was more concerned about you plotting something involving Sally, to be honest.
-4
-Ursula_017_f$But I simply adore working with her!
-)
-Ursula_022_fYou see? She's my friend!

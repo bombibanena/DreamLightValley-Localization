@@ -1,31 +1,0 @@
-
-<
-Minnie_000_f,The Valley looks so beautiful, {PlayerName}!
-J
-Minnie_001_f:I can't decide between all the fun things there are to do.
-n
-Minnie_002_f^What's your favorite thing to do in the Village? Maybe hearing about that will help me decide.
-2
-Player_000_choice_000_fI like interior design.
-=
-Player_000_choice_001_f"I like experimenting with fashion.
-2
-Player_000_choice_002_fI like going for walks.
-I
-Player_000_choice_003_f.I like unraveling the mysteries of the Valley.
-
-Minnie_003_fOh, me too!
-f
-Minnie_004_fVMaybe I'll go browse through Uncle Scrooge's Store. He always has wonderful furniture.
-
-Minnie_005_fSo do I!
-o
-Minnie_006_f_Maybe I'll go browse through Uncle Scrooge's Store. He always has the most interesting clothes.
-(
-Minnie_009_fOh, walks are wonderful!
-I
-Minnie_010_f9I just love all the fresh air. And the beautiful flowers!
-J
-Minnie_007_f:Well, there certainly are plenty of mysteries around here.
-?
-Minnie_008_f/Maybe I'll poke around to see if I uncover any.

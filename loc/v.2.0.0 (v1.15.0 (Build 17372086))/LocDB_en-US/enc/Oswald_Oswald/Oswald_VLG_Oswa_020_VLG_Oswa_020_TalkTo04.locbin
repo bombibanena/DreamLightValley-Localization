@@ -1,49 +1,0 @@
-
-.
-Oswald_001_fWell, that was... interesting.
->
-Oswald_002_f.Did you know that was going to happen, Oswald?
-6
-Oswald_003_f&You betcha I did! And wasn't it swell?
--
-Oswald_004_fThey all got the gift of gab!
-9
-Oswald_005_f)And learned to chin with the best of 'em!
-6
-Player_000_choice_000_fPlease don't do that again.
-3
-Player_000_choice_001_fOK, it was pretty funny.
-6
-Oswald_006_f&Okey-dokey, chum. I promise... to try.
-J
-Oswald_016_f:Can ya make them decorations <Lore>Black and White</Lore>?
--
-Player_001_choice_000_fIf you want, sure!
-M
-Player_001_choice_001_f2Oswald, with you I wouldn't pick any other colors.
-:
-Oswald_008_f*But say, now that the caper's concluded...
-H
-Oswald_009_f8How's about you help me set things straight with Stitch?
-T
-Oswald_010_fDOh yeah, that's right. You two are getting along nicely, aren't you?
-=
-Oswald_011_f-I tell ya, that little blue guy's real swell.
-M
-Oswald_012_f=But I gotta do something to make up for missin' our brunches!
--
-Oswald_013_fOK, what about a nice picnic?
-3
-Oswald_014_f#Gee whillikers, that'd be poi-fect!
-†
-Oswald_015_fèI can set up a nice <ActivityItem>Rug</ActivityItem>, some <ActivityItem>Chairs</ActivityItem>, and <ActivityItem>Decorations</ActivityItem>...
-&
-Oswald_017_fBut while I do that...
-T
-Oswald_018_fDWhy don't you think of something special to add to the picnic setup?
-d
-Oswald_019_fTYou got it, chum! I'll put the ol' conker to work and come up with somethin' snazzy!
-M
-Oswald_020_f=Thanks for your help, {PlayerName}. You're the cat's pajamas!
-1
-Oswald_007_f!Oh-hoo-hoo! I knew you'd like it!

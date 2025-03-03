@@ -1,26 +1,0 @@
-
-a
-Simba_000_fRHey, {PlayerName}. I'm heading out for a trip around the Sunlit Plateau with Nala.
-T
-Simba_001_fEWe're gonna visit all our old haunts. The water hole. The bendy tree.
-*
-Player_000_choice_000_fIs this a date?
-+
-Player_000_choice_001_fSounds like fun.
-=
-Player_000_choice_002_f"What about the Elephant Graveyard?
-
-Simba_002_f
-A date...?
-m
-Simba_003_f^You know. Doing something with someone you love. Usually you give them flowers and chocolates.
-Y
-Simba_004_fJSo... I should get some flowers for Nala? I don't know if she'd like that.
-D
-Simba_005_f5Ah, forget it. I guess it's just a silly human thing.
-L
-Simba_006_f=It'll be nice to have some time together, just the two of us.
-7
-Simba_007_f(I think we'll steer clear of that place.
-%
-Simba_008_fToo many bad memories.

@@ -1,6 +1,0 @@
-TAG: Mushu_001_f
-You gotta clean up what's left of the great training Battle of the Rice Cauldron. Break the <ActivityItem>Rocks</ActivityItem> and dig out the <ActivityItem>Rice Spills</ActivityItem>.
-
-TAG: Mushu_002_f
-Oh, and don't forget to <Lore>flip over the Cauldron</Lore>.
-

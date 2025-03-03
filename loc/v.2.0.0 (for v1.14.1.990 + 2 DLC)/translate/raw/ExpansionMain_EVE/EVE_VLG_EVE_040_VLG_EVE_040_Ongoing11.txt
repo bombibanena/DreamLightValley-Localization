@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Хм?
-
-TAG: EVE_001_f
-Мне просто нужно поместить ракету-носитель <ActivityItem>Firework</ActivityItem> сейчас.
-

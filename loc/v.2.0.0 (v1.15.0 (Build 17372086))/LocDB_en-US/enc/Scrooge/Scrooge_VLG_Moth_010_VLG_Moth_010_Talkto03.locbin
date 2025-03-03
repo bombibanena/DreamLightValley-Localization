@@ -1,50 +1,0 @@
-
-\
-Scrooge_000_fKGreetings, {PlayerName}! Goodness, you look like you want to talk business.
-z
-Scrooge_019_fiI know you have a strange item called the <ActivityItem>Sun's Scroll</ActivityItem> in your possession...
-1
-Player_000_choice_000_fCan I buy it from you?
-B
-Player_000_choice_001_f'Would you spare it to help the Village?
-N
-Player_000_choice_002_f3Mother Gothel wants it, and I'm getting it for her.
-m
-Scrooge_010_f\Och, no need to pay, {PlayerName}. I'd consider parting with it in exchange for a wee favor.
-
-Scrooge_001_fnYou might have noticed some unsavory characters lurking about the Village. I suspect they have sticky fingers.
-}
-Scrooge_004_flI must protect my shop from thieves. So I want to install something that records all the comings and goings.
-¢
-Scrooge_006_fêAnd I already have a design in mind. It looks like a plant with some very special fruit. I call it a <ActivityItem>Micberry Tree</ActivityItem>.
-%
-Player_001_choice_000_f
-I love it!
-K
-Player_001_choice_001_f0You don't seem like somebody who'd be into puns.
-#
-Player_001_choice_002_fBoooooo!
-E
-Scrooge_002_f4Aye, you're a visionary, just like me, {PlayerName}.
-e
-Scrooge_009_fTNow, if you want the <ActivityItem>Sun's Scroll</ActivityItem>, you know what to do.
-∫
-Scrooge_015_f®The <ActivityItem>Micberry Tree</ActivityItem> should look like a potted plant. You'll need <ActivityItem>Softwood</ActivityItem> and <ActivityItem>Soil</ActivityItem>.
-à
-Scrooge_016_fwAlso some <ActivityItem>Electronic Components</ActivityItem>. I'm sure you can find a box of them in WALL√Ç¬∑E's House.
-1
-Scrooge_017_f Resourceful wee fella, that one.
-k
-Scrooge_018_fZOnce it's made, place it in front of my shop. Then I'll give you the information you need.
-v
-Scrooge_007_feDon't let my talents for business fool ya, {PlayerName}. I've a pheasant sense of humor. Hee-hee-hee!
-4
-Scrooge_008_f#Aye, you've no taste, {PlayerName}!
-C
-Scrooge_011_f2Aye, but first you'll have to start by helping me.
-Q
-Scrooge_013_f@Helping villains now, are we? Well, {PlayerName}, it'll cost ya.
-+
-Scrooge_014_fNo coins, but a wee favor.
-Ç
-Scrooge_005_fqBecause of you, there are some unsavory characters lurking about the Village. I suspect they have sticky fingers.

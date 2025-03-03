@@ -1,25 +1,0 @@
-
-8
-Merida_000_f(Ugh! Would you look at this gloopy mess!
-m
-Merida_001_f]The Lorekeeper once told me that the Vale is held together with something called Story Magic.
-p
-Merida_002_f`It's the warm fuzzy feeling we get when we share a story we love and pass it on to someone else.
-£
-Merida_003_f’I've a feeling you've already got some Story Magic in you, {PlayerName}. But I think you'll need a whole lot of it to get rid of this wall of ink.
-z
-Merida_004_fjFrom what I've seen, you get more Story Magic by <Lore>fixing and repairing things</Lore> around the Vale.
-Y
-Merida_005_fIJust like when you fix up an old book you love or share a favorite story.
-x
-Player_000_choice_000_f]Let's remove this wall of ink. (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
-?
-Player_000_choice_001_f$I'll come back later when I'm ready.
-]
-Merida_006_fMYou already had enough Story Magic just from cleaning up the Library of Lore!
-G
-Merida_008_f7You haven't got enough Story Magic yet, {PlayerName}...
-[
-Merida_009_fKWhy don't you try removing some of the <Lore>Inkies</Lore> scattered about?
-V
-Merida_010_fFI bet if you do that, you can collect some of the magic that pops out!

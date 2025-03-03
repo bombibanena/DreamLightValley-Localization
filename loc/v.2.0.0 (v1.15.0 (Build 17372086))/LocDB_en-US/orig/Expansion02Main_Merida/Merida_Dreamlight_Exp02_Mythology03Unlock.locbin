@@ -1,21 +1,0 @@
-
-S
-Merida_000_fCJust beyond this wall of ink lies <Lore>the Statue's Shadow</Lore>.
-z
-Merida_001_fjImagine standing in the shadow of THAT colossus. A bit intimidating, eh? But we'll never let that stop us!
-|
-Player_000_choice_000_faLet's explore the Statue's Shadow. (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
-5
-Player_000_choice_001_fI'll deal with this later.
-P
-Merida_002_f@HA! Goodbye, ink wall! We're off to explore the Statue's Shadow!
-F
-Merida_003_f6You're the only one who can take down these ink walls.
-=
-Merida_004_f-So we'd best get back here as soon as we can!
-E
-Merida_005_f5Really? After my big inspiring speech? *sigh* Well...
-R
-Merida_006_fBBut we'd better <Lore>clean up the Bind</Lore> before we go there.
-S
-Merida_007_fCWe'd best be WELL prepared before having anything to do with Hades.

@@ -1,35 +1,0 @@
-
-w
-Beast_000_fh{PlayerName}, I want to spend more time with Belle. I would like your suggestions for what we should do.
- 
-Player_000_fHow about you...
-/
-Player_000_choice_000_fEat with your hands!
-'
-Player_000_choice_001_fGo barefoot!
-/
-Player_000_choice_002_fGet cute hairstyles!
-N
-Beast_001_f?I HAVE to do that. Silverware is just too small for me to hold.
-:
-Beast_002_f+What if we make you some oversized cutlery?
-%
-Beast_003_fThat would be helpful.
-e
-Beast_004_fVBut that isn't an activity we can do together. I... I suppose I'll think of something.
-3
-Beast_005_f$You mean ask Belle to walk barefoot?
-(
-Beast_006_fExactly! It would be fun!
-“
-Beast_007_fƒWell, it does feel nice to feel the soft grass under my feet. Maybe Belle would like that. But everything would have to be perfect!
-k
-Beast_008_f\We have to manicure the grass. Remove all the twigs and stones. You will help me, won't you?
-"
-Beast_009_fI don't understand.
-.
-Beast_010_fWhy would I want to be... cute?
-Y
-Beast_011_fJOkay, no problem; I can tell Belle that you don't want to be cute for her.
-F
-Beast_012_f7Wait, Belle said that? Perhaps I should rethink this...

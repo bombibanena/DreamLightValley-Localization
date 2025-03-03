@@ -1,23 +1,0 @@
-
-T
-Merlin_000_fDOh dear! The Night Thorns have made their way inside the House, too.
-R
-Merlin_002_fBThat's strange... suddenly I can't remember why we came in here...
-(
-Player_000_choice_000_fAre you okay?
-4
-Player_000_choice_001_fMust be the Night Thorns!
-@
-Player_000_choice_002_f%This House must be important somehow.
-_
-Merlin_004_fOIt's the Night Thorns! Being near so many of them <Lore>clouds the mind</Lore>.
-G
-Merlin_032_f7You must remove them before they consume more memories!
-:
-Merlin_001_f*Focus your magic once again, {PlayerName}.
-S
-Merlin_005_fCPrecisely! Being near so many of them <Lore>clouds the mind</Lore>.
-?
-Merlin_006_f/I sense it too. If only I could remember why...
-p
-Merlin_007_f`Ahh! It's those pesky Night Thorns! Being near so many of them is <Lore>clouding my mind</Lore>.

@@ -1,39 +1,0 @@
-
-(
-Daisy_001_fIs Donald feeling better?
-&
-Player_001_choice_000_fWay better!
-A
-Player_001_choice_001_f&I think he's even happier than before.
-?
-Player_001_choice_002_f$He's decided to make it up to you...
-2
-Daisy_002_f#He's going to finish your wardrobe.
-ú
-Daisy_003_fåHe is?! You know, he really is a marvelous boyfriend. Now I just have to figure out this gardening thing so I can do something nice for HIM!
-
-Daisy_004_fGardening...?
-H
-Daisy_005_f9I wanted to make him a special carrot cake as an apology.
-Å
-Daisy_006_frI bought some eggs from Chez Remy, but I need the freshest Ingredients to make this the greatest carrot cake ever!
-4
-Player_000_f$Let me grow the Ingredients for you.
-8
-Player_000_choice_000_fGardening is great... -ening!
-5
-Player_000_choice_001_fI have a very green thumb.
-?
-Player_000_choice_002_f$It might be more efficient that way.
-K
-Daisy_007_f<I couldn't agree more. And I'll take all the help I can get!
-ö
-Daisy_010_fäThe recipe calls for <ActivityItem>Wheat</ActivityItem>, <ActivityItem>Sugarcane</ActivityItem>, and <ActivityItem>Carrots</ActivityItem>.
-d
-Daisy_011_fUI'll <Lore>plant and harvest</Lore> what you need so the Ingredients are extra fresh.
-A
-Daisy_012_f2That's so thoughtful of you. Thanks, {PlayerName}!
-J
-Daisy_008_f;Oh, then you're just like Minnie. She's an expert gardener.
-q
-Daisy_009_fbI'm sure I'll get the hang of it eventually. But you're right; it'll be much quicker if you do it.

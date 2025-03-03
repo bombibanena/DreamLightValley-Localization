@@ -1,23 +1,0 @@
-
-Y
-Scrooge_000_fHAh, good day to ya, {PlayerName}. What's that twinkle in your eye I see?
->
-Player_000_f.I'm here to invite you to tea at Mulan's home.
-5
-Player_000_choice_000_fIt will be like old times!
-<
-Player_000_choice_001_f!You work too hard; time to relax.
-4
-Player_000_choice_002_fNo business talk allowed.
-#
-Scrooge_004_fWhat a bonny idea!
-k
-Scrooge_007_fZBefore the Forgetting, I'd go for tea at Mulan's almost every week. I'll be there happily!
-`
-Scrooge_005_fOI'll have you know I work as much as I like. But there's always time for a tea!
-
-Scrooge_006_fI'll be there.
-o
-Scrooge_002_f^Och. You misjudge me, {PlayerName}. There's more to Scrooge McDuck than balances and earnings.
-7
-Scrooge_003_f&I'll be comin' to tea, and you'll see.

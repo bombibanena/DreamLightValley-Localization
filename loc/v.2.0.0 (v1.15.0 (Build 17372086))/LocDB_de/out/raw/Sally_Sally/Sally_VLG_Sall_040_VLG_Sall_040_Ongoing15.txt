@@ -1,9 +1,0 @@
-TAG: Sally_000_f
-How do you feel, Sally? You saved the day!
-
-TAG: Sally_001_f
-We did it together, {PlayerName}.
-
-TAG: Sally_002_f
-Should we <Lore>go to Mickey's House</Lore>? I wonder what he's planning...
-

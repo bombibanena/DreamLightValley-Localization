@@ -1,65 +1,0 @@
-
-U
-DVillage!LilMermaid!Eric!VLG_Eric_010_Any_CompletedRequestDescriptionTalk to Eric.
-ü
-9Village!LilMermaid!Eric!VLG_Eric_010_AvailableDescriptionbYou managed to get Eric back... but not in the way you hoped. You need to break the news to Ariel.
-®
->Village!LilMermaid!Eric!VLG_Eric_010_CompletedStoryDescriptionÂAfter cooking Eric some meals to return his strength, he shares an emotional reunion with Ariel. Eric tells you that Ursula taunted him with an intriguing secret while she held him captive... but that's a mystery for another day.
-K
-0Village!LilMermaid!Eric!VLG_Eric_010_DisplayNamePoor Unfortunate Prince
-v
-AVillage!LilMermaid!Eric!VLG_Eric_010_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-d
-OVillage!LilMermaid!Eric!VLG_Eric_010_Group01_Step01_BringItem01_StepDescriptionFind Prince Eric.
-ä
-DVillage!LilMermaid!Eric!VLG_Eric_010_Group01_Step01_ReadyDescriptionBBring <ActivityItem>Poor Unfortunate Eric</ActivityItem> to Ariel.
-v
-AVillage!LilMermaid!Eric!VLG_Eric_010_Group02_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-p
-UVillage!LilMermaid!Eric!VLG_Eric_010_Group02_Step02_TalkToCharacter01_StepDescriptionGo ask Merlin for help.
-£
-=Village!LilMermaid!Eric!VLG_Eric_010_Group02_StoryDescriptionbAfter talking with Ariel, you decide to ask Merlin for some magical help to turn Eric human again.
-z
-SVillage!LilMermaid!Eric!VLG_Eric_010_Group03_Step03_PlaceBuilding01_StepDescription#Place Eric's Castle in the Village.
-•
-=Village!LilMermaid!Eric!VLG_Eric_010_Group03_StoryDescription„Merlin gave you a spell for restoring a handsome prince. You'll need to build him a house in the Village, find an object that's dear to his heart, and have Ariel call out his name before sealing the spell with true love's kiss.
-x
-AVillage!LilMermaid!Eric!VLG_Eric_010_Group04_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do I do now?
-à
-<Village!LilMermaid!Eric!VLG_Eric_010_Group04_StepDescriptionHUse the Scrooge sign to pay for the construction of Prince Eric's House.
-x
-AVillage!LilMermaid!Eric!VLG_Eric_010_Group06_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do I do now?
-è
-OVillage!LilMermaid!Eric!VLG_Eric_010_Group06_Step06_BringItem02_StepDescription<Search Eric's Castle for an object that's dear to his heart.
-b
-DVillage!LilMermaid!Eric!VLG_Eric_010_Group06_Step06_ReadyDescriptionBring {ItemName} to Ariel.
-{
-UVillage!LilMermaid!Eric!VLG_Eric_010_Group07_Step07_UnlockCharacter01_StepDescription"Welcome Eric to Dreamlight Valley.
-s
-LVillage!LilMermaid!Eric!VLG_Eric_010_Group10_Step10_Listen01_StepDescription#Witness Ariel's and Eric's reunion.
-f
-UVillage!LilMermaid!Eric!VLG_Eric_010_Group11_Step11_TalkToCharacter03_StepDescriptionTalk to Eric.
-`
-=Village!LilMermaid!Eric!VLG_Eric_010_Group11_StoryDescriptionIt worked! Eric is human again.
-x
-AVillage!LilMermaid!Eric!VLG_Eric_010_Group12_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
-]
-NVillage!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal01_StepDescription{ItemName}.
-]
-NVillage!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal02_StepDescription{ItemName}.
-]
-NVillage!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal03_StepDescription{ItemName}.
-f
-CVillage!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_StepDescriptionCook Eric some meals. He wants:
-}
-AVillage!LilMermaid!Eric!VLG_Eric_010_Group13_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What can I do for you?
-^
-OVillage!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem03_StepDescription{ItemName}.
-^
-OVillage!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem04_StepDescription{ItemName}.
-^
-OVillage!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem05_StepDescription{ItemName}.
-`
-DVillage!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_ReadyDescriptionBring the meals to Eric.
-x
-CVillage!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_StepDescription1Make sure you have these meals in your Inventory:

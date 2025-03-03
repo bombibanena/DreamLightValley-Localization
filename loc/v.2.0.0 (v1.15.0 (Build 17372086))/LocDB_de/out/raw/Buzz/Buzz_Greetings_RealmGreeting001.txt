@@ -1,9 +1,0 @@
-TAG: Buzz_000_f
-Hello!
-
-TAG: Player_000_exit_000_f
-Sorry, I can't talk now.
-
-TAG: Player_001_exit_000_f
-Sorry, I can't talk now.
-

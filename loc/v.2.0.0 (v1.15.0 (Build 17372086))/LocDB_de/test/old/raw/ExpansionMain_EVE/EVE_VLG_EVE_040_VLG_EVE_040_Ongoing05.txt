@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Инструктирование!
-
-TAG: EVE_001_f
-Не волнуйся, я позабочусь о <ActivityItem>Fires</ActivityItem>.
-

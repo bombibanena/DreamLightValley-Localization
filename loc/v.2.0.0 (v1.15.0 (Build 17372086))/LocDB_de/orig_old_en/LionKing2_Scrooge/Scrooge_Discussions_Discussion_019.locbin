@@ -1,23 +1,0 @@
-
-›
-Scrooge_000_f‰And good day to you, {PlayerName}! The Village is looking grand. You know, you remind me of a young me building me fortune in Duckburg...
-
-Player_000_fThanks!
-?
-Player_000_choice_000_f$I hope to be as rich as you someday!
-5
-Player_000_choice_001_fI just want to feel comfy.
-?
-Player_000_choice_002_f$I'm making it welcoming for friends.
-L
-Scrooge_003_f;That's quite a goal. You'll have to add up a lot of zeroes.
-+
-Scrooge_005_fBut it's good to aim high!
-N
-Scrooge_002_f=Then you should drop by my shop. I've got just what you need.
-V
-Scrooge_006_fEI can help you prop up every foot and put a pillow behind every back!
-@
-Scrooge_004_f/Do you need welcome mats? I can help with that.
-`
-Scrooge_007_fOI'll make sure no one ever wipes off their shoes without thinking of you again!

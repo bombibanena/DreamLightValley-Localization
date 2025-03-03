@@ -1,33 +1,0 @@
-
-'
-Woody_000_fHowdy yourself, partner!
-(
-Woody_001_fWhat are you up to today?
-)
-Player_000_choice_000_fIt's a secret!
-G
-Player_000_choice_001_f,I'm helping WALL·E break in his new outfit!
-9
-Player_000_choice_002_fThe same thing I do every day!
-0
-Woody_002_f!A secret. Heh. Sounds mysterious.
-:
-Woody_003_f+Say, if you need any help, I'm always here.
-<
-Player_001_choice_000_f!I think I'm good for now, thanks.
-2
-Player_001_choice_001_fI'll keep that in mind!
-B
-Player_001_choice_002_f'That's all right; no missing cows here!
-<
-Woody_004_f-Then I guess I'll be off. Take care, partner!
-#
-Woody_005_fDon't be a stranger!
-I
-Woody_006_f:Ha! I get it. 'Cause I'm a cowboy! Good one, {PlayerName}!
-;
-Woody_007_f,Well, that sure is nice of ya, {PlayerName}.
-0
-Woody_008_f!I bet you're his favorite deputy!
-1
-Woody_009_f"And you're doin' a great job, too!

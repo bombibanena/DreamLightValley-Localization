@@ -1,46 +1,0 @@
-
-B
-Ursula_000_f2I have news. I've decided to turn over a new leaf.
-
-Ursula_001_f
-Oh really?
->
-Ursula_002_f.Yes! I only want to do good deeds from now on!
-,
-Player_000_choice_000_fThat's wonderful!
-/
-Player_000_choice_001_fI don't believe you.
-K
-Player_000_choice_002_f0I'm glad I'm having a positive influence on you!
-
-Ursula_003_fI AM wonderful!
-A
-Ursula_008_f1Now tell me, what do I do if I want to be "good"?
-F
-Player_001_choice_000_f+Do good deeds and expect nothing in return.
-,
-Player_001_choice_001_fBe a good friend.
-:
-Player_001_choice_002_fStart by... not stealing souls?
-
-Ursula_009_fHah! Hilarious!
-3
-Ursula_012_f#Wait... you're serious, aren't you?
-P
-Ursula_015_f@Being a good person isn't hard, you just need a little practice.
-S
-Ursula_016_fCMaybe I was a little hasty in my decision to change myself so much.
-4
-Ursula_017_f$If it isn't broke, don't fit it! HA!
-2
-Ursula_010_f"Oh, but I'm already a good friend!
-W
-Ursula_013_fGI'm always around to help out... I just ask a little payment in return.
-2
-Ursula_011_f"Excuse me! I never STEAL anything!
-,
-Ursula_014_fMy dealings are always fair.
-2
-Ursula_004_f"Well, that isn't very nice, is it?
-%
-Ursula_005_fI suppose you have...

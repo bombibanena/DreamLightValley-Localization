@@ -1,6 +1,0 @@
-TAG: Simba_000_f
-Hello!
-
-TAG: Player_000_exit_000_f
-See you later.
-

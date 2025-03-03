@@ -1,6 +1,0 @@
-TAG: Sully_000_f
-Could ya make a <ActivityItem>Lemon Clock</ActivityItem>? You'll need some materials for it...
-
-TAG: Sully_001_f
-<ActivityItem>Lemons</ActivityItem> and <ActivityItem>Iron Ingots</ActivityItem>.
-

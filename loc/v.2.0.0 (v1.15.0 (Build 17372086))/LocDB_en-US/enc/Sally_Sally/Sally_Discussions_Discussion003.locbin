@@ -1,23 +1,0 @@
-
-M
-Sally_000_f>Am I? Oh, one of my arm threads must have caught on something.
-/
-Sally_001_f It's not that bad. I can fix it.
-(
-Player_000_choice_000_fAre you okay?
-(
-Player_000_choice_001_fDoes it hurt?
-3
-Player_000_choice_002_fThat seems inconvenient.
-O
-Sally_002_f@I'll be fine. But thank you for asking. And for pointing it out.
-Y
-Sally_005_fJIf you hadn't said anything, my arm might have come completely unstitched.
-<
-Sally_003_f-No. Not at all. It just feels a little loose.
-E
-Sally_006_f6And I can fix it in a moment with a needle and thread.
-T
-Sally_004_fEIt's not that bad. Everyone has little things they have to deal with.
-;
-Sally_007_f,Luckily, I'm handy with a needle and thread.

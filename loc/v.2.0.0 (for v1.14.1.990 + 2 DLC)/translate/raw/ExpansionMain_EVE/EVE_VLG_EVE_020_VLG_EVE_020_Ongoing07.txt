@@ -1,9 +1,0 @@
-TAG: EVE_000_f
-Директива.
-
-TAG: EVE_001_f
-Я выложу <ActivityItem>Fires</ActivityItem> и уберу <ActivityItem>Craters</ActivityItem>, чтобы убедиться, что это место безопасно для всех.
-
-TAG: EVE_002_f
-И я соберу <ActivityItem>Melded Gemstones</ActivityItem>.
-

@@ -1,6 +1,0 @@
-TAG: Jafar_000_f
-To make that meal, you will need the services of a local merchant.
-
-TAG: Jafar_001_f
-Perhaps you could find a way to open that <ActivityItem>Stall</ActivityItem> in Ancient's Landing?
-

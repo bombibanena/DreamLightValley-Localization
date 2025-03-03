@@ -1,53 +1,0 @@
-
-^
-Ursula_001_fN{PlayerName}? What brings you here? Beyond my sparkling conversation, that is.
-*
-Ursula_003_fI have a surprise for you!
-j
-Ursula_021_fZCan you meet me in the <ActivityItem>Cursed Cave</ActivityItem>? I still need to fetch it.
-v
-Ursula_022_ffHa! You don't fool me, angelfish. Do you really think I'm going back in there to be locked away again?
-=
-Player_002_choice_000_f"It's nothing nefarious, I promise!
-[
-Player_002_choice_001_f@It's symbolic â€” I want to make that a place of happy memories.
-3
-Player_002_choice_002_fOh... this is awkward...
-8
-Ursula_024_f(Really? Would you promise... your voice?
-
-Ursula_025_fAbsolutely!
-h
-Ursula_034_fXKeep talking. An offer like this doesn't happen every day. Naturally, I'm... suspicious.
-5
-Player_000_choice_000_fAnd I feel bad about that.
-:
-Player_000_choice_001_fWell, it's time to change that!
-B
-Player_000_choice_002_f'We want to turn over a new... tentacle.
-$
-Ursula_007_fHmph. As you should!
-Q
-Ursula_018_fAYou've been a... nearly model citizen, and we want to reward you.
-C
-Ursula_019_f3I have, haven't I? And I agree, I deserve a reward.
-5
-Ursula_020_f%What's this gift you want to give me?
-²
-Ursula_032_f¡It's a brand-new <ActivityItem>Potion Set</ActivityItem>! Lovingly handcrafted from <ActivityItem>Glass</ActivityItem> and <ActivityItem>Softwood</ActivityItem>.
-U
-Ursula_031_fEI do need one of those. All right, I'll meet you. See you soon, dear.
-
-Ursula_008_fGo on.
- 
-Ursula_009_fIt's about time!
- 
-Ursula_010_fRight... Okay...
-M
-Ursula_026_f=Hmm, then you wouldn't mind if I take certain... precautions?
-
-Ursula_027_fNot at all!
-2
-Ursula_028_f"I didn't mean it like that at all!
-M
-Ursula_029_f=Please, Ursula, I just want to make things better between us.

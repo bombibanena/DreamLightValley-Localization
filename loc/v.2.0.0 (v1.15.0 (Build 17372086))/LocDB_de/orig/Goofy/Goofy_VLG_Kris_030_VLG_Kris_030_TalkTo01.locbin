@@ -1,27 +1,0 @@
-
-N
-Goofy_006_f?Howdy, {PlayerName}! I sure am happy to see ya. How can I help?
-N
-Player_000_f>Kristoff wants to open a <ActivityItem>Stall</ActivityItem>...
-9
-Player_000_choice_000_fI'm sure you have some advice!
--
-Player_000_choice_001_fWhat does it take?
-8
-Player_000_choice_002_fIt can't be that complicated.
-k
-Goofy_000_f\Gawrsh, Kristoff's gonna have his own <ActivityItem>Stall</ActivityItem>, huh? That's great!
-u
-Goofy_003_ffBetween you and me, he's a real clumsy fisherman, so I'm glad he doesn't wanna do that professionally.
-B
-Goofy_001_f3Hmm... I'm pretty sure I've got just what he needs.
-n
-Goofy_002_f_These are parts from my first <ActivityItem>Stall</ActivityItem>, but you'll have to repair it.
-a
-Goofy_005_fRYou'll need rock solid <ActivityItem>Stone</ActivityItem> for a good foundation...
-r
-Goofy_007_fcSome <ActivityItem>Softwood</ActivityItem> and <ActivityItem>Hardwood</ActivityItem> for the frame.
-h
-Goofy_008_fYAnd <ActivityItem>Iron Ingots</ActivityItem> so everything can be held together by nails.
--
-Goofy_004_fGood luck putting it together!

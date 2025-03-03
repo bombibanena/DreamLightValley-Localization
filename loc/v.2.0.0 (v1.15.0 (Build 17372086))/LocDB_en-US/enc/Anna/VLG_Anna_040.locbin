@@ -1,66 +1,0 @@
-
-Q
-@Village!Frozen!Anna!VLG_Anna_040_Any_CompletedRequestDescriptionTalk to Anna.
-[
-5Village!Frozen!Anna!VLG_Anna_040_AvailableDescription"Anna wants to cheer up her sister.
-á
-:Village!Frozen!Anna!VLG_Anna_040_CompletedStoryDescription¢By building a <ActivityItem>Snow Family</ActivityItem>, you helped bring back memories of Anna's and Elsa's childhood... and made some new memories with them too!
-M
-,Village!Frozen!Anna!VLG_Anna_040_DisplayNameDo You Wanna Build a Snowman?
-Y
-=Village!Frozen!Anna!VLG_Anna_040_Group01_OngoingRequestButtonWhat are we looking for?
-i
-KVillage!Frozen!Anna!VLG_Anna_040_Group01_Step01_BringItem01_StepDescriptionSearch for the {ItemName}.
-`
-@Village!Frozen!Anna!VLG_Anna_040_Group01_Step01_ReadyDescriptionShow Anna what you've found.
-y
-9Village!Frozen!Anna!VLG_Anna_040_Group01_StoryDescription<You'll need to find something to remind Elsa of happy times.
-R
-=Village!Frozen!Anna!VLG_Anna_040_Group02_OngoingRequestButtonWhat should I do?
-Z
-KVillage!Frozen!Anna!VLG_Anna_040_Group02_Step02_BringItem02_StepDescription{ItemName}.
-Z
-KVillage!Frozen!Anna!VLG_Anna_040_Group02_Step02_BringItem03_StepDescription{ItemName}.
-´
-@Village!Frozen!Anna!VLG_Anna_040_Group02_Step02_ReadyDescriptionpBring the <ActivityItem>Birthday Cake</ActivityItem> and <ActivityItem>Book of Portraits</ActivityItem> to Elsa.
-\
-?Village!Frozen!Anna!VLG_Anna_040_Group02_Step02_StepDescriptionGet these items for Elsa:
-K
-=Village!Frozen!Anna!VLG_Anna_040_Group03_OngoingRequestButton
-What next?
-b
-QVillage!Frozen!Anna!VLG_Anna_040_Group03_Step03_TalkToCharacter01_StepDescriptionTalk to Anna.
-R
-=Village!Frozen!Anna!VLG_Anna_040_Group04_OngoingRequestButtonWhat should I do?
-X
-IVillage!Frozen!Anna!VLG_Anna_040_Group04_Step04_Possess01_StepDescription{itemName}.
-X
-IVillage!Frozen!Anna!VLG_Anna_040_Group04_Step04_Possess02_StepDescription{itemName}.
-X
-IVillage!Frozen!Anna!VLG_Anna_040_Group04_Step04_Possess03_StepDescription{itemName}.
-X
-IVillage!Frozen!Anna!VLG_Anna_040_Group04_Step04_Possess04_StepDescription{itemName}.
-X
-IVillage!Frozen!Anna!VLG_Anna_040_Group04_Step04_Possess05_StepDescription{itemName}.
-Œ
-?Village!Frozen!Anna!VLG_Anna_040_Group04_Step04_StepDescriptionIGather the materials to craft a <ActivityItem>Snow Family</ActivityItem>:
-µ
-9Village!Frozen!Anna!VLG_Anna_040_Group04_StoryDescriptionxAnna wants to do something with you that she loved doing with Elsa when they were kids. It's time to build some snowmen!
-P
-=Village!Frozen!Anna!VLG_Anna_040_Group05_OngoingRequestButtonHow can I help?
-b
-QVillage!Frozen!Anna!VLG_Anna_040_Group05_Step05_TalkToCharacter02_StepDescriptionTalk to Anna.
-R
-=Village!Frozen!Anna!VLG_Anna_040_Group06_OngoingRequestButtonWhat should I do?
-d
-KVillage!Frozen!Anna!VLG_Anna_040_Group06_Step06_CraftItem01_StepDescriptionCraft the {itemName}.
-R
-=Village!Frozen!Anna!VLG_Anna_040_Group07_OngoingRequestButtonWhat should I do?
-z
-JVillage!Frozen!Anna!VLG_Anna_040_Group07_Step07_Decorate01_StepDescription,Place the {ItemName} in the Forest of Valor.
-J
-=Village!Frozen!Anna!VLG_Anna_040_Group08_OngoingRequestButton	What now?
-Ž
-GVillage!Frozen!Anna!VLG_Anna_040_Group08_Step08_Party01_StepDescriptionCAttend the party with the <ActivityItem>Snow Family</ActivityItem>.
-Z
-3Village!Frozen!Anna!VLG_Anna_040_StartRequestButton#Is there anything I can do for you?

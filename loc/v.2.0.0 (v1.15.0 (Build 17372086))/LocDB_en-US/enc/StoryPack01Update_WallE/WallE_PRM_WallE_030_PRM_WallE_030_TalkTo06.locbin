@@ -1,49 +1,0 @@
-
-/
-WallE_000_f OK, I think we're finally ready!
-
-WallE_001_f
-Directive?
-I
-WallE_002_f:The part of the Village we decorated is looking wonderful.
-5
-WallE_003_f&And I'm looking good in this outfit...
-
-WallE_011_f*hums a melody*
-T
-WallE_012_fEI guess while I was inviting everyone, you were out looking for this.
-
-WallE_013_f
-WALLÂ·E!
-%
-Player_000_choice_000_f
-I love it!
-)
-Player_000_choice_001_fSo old-school!
-
-WallE_004_fWow!
->
-WallE_005_f/I think we should be just about ready to start!
-
-WallE_006_fNo.
-1
-WallE_007_f"Oh? We still have something to do?
-
-WallE_008_fTa-da!
-Y
-WallE_009_fJOooh, good call WALLÂ·E. A phonograph is the perfect cherry on top here.
-6
-WallE_010_f'Gotta have some good tunes for a party.
-
-WallE_014_fWhoopee!
--
-WallE_016_fOK, I'll place the phonograph.
-+
-WallE_017_fAnd then it's time to dance!
-
-WallE_018_fWow!
-
-WallE_015_f
-WALLÂ·E.
-.
-WallE_022_fI'm feeling ready to cut a rug!

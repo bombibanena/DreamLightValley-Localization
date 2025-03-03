@@ -1,42 +1,0 @@
-
-x
-Jafar_004_fiAh, {PlayerName}, I see that my plan progresses nicely. You have obtained the second piece of the Scarab.
--
-Player_000_choice_000_fIsn't it OUR plan?
-2
-Player_000_choice_001_fYeah, full steam ahead!
-,
-Player_000_choice_002_fNo thanks to you.
-9
-Jafar_005_f*Ha-ha-ha! What a quaint misinterpretation.
-!
-Jafar_019_fHmm, worth a shot.
-?
-Jafar_002_f0Here, take these schematics and put them to use.
-
-Jafar_003_fGreat!
-,
-Jafar_020_fI await word of your success.
-
-Jafar_006_f
-Wow, rude.
-0
-Jafar_010_f!Anyway, we've run into a problem.
-g
-Jafar_011_fXThis piece of the Scarab looks super beat up. The Tangle has really done a number on it.
-L
-Jafar_012_f=I don't think it can fit together with the other piece as is.
-4
-Jafar_013_f%Yes... that does pose difficulties...
-=
-Jafar_016_f.Perhaps some temporal magic will put it right.
-…
-Jafar_017_fvAre you able to access a <Lore>Timebending Table</Lore>, <Lore>Dream Shards</Lore>, and a source of <Lore>Mist</Lore>?
-“
-Jafar_018_fƒI imagine that by using the impressive powers you have cultivated, you can <Lore>return the Scarab piece to its prior state</Lore>.
-
-Jafar_007_fIndeed.
-‡
-Jafar_008_fx{PlayerName}... were I capable of searching for the Scarab pieces myself, do you not think I would have done so already?
-*
-Jafar_009_fI guess that makes sense...

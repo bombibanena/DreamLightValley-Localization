@@ -1,27 +1,0 @@
-
-5
-Sully_000_f&So, I hear you've got a camera for me?
-%
-Sully_001_fYou bet, {PlayerName}!
-L
-Sully_002_f=Do me a favor â€” get some good scenes with Vanellope for me.
-Ä
-Sully_003_f´I'll try to be there, but I might have a conflict. Before the show came up, I promised Remy I'd help him out. He wants to test how my taste buds interpret something called "umami"?
->
-Player_000_choice_000_f#I got you â€” don't worry about it.
-M
-Player_000_choice_001_f2I'll be sure to get great shots of both comedians!
-K
-Player_000_choice_002_f0You want pictures of Vanellope? That's adorable.
-
-Sully_004_fThanks!
-+
-Sully_008_fTell Mikey to "break a leg"!
-
-Sully_009_fSure, will do!
-G
-Sully_005_f8Is it? I just wanna support the kid in her new interest.
-b
-Sully_006_fSThat's exactly what's so adorable, Sulley â€” you just slipped right into dad mode!
-(
-Sully_007_fHa! Fair enough, I guess.

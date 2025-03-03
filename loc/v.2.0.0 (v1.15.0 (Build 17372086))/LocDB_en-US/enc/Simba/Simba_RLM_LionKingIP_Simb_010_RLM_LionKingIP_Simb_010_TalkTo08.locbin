@@ -1,42 +1,0 @@
-
-,
-Simba_000_fWow! It looks better already.
-]
-Simba_001_fNAnd this is just the start. Once the animals come back, it'll look even nicer.
-;
-Player_000_choice_000_f This will help the whole jungle.
-3
-Player_000_choice_001_fYour dad would be proud.
-N
-Player_000_choice_002_f3Let's get out of here before a rhinoceros shows up.
-n
-Simba_002_f_Yeah. I guess that's what my father meant about leaving the kingdom better than when I started.
-
-Simba_004_fpThanks, {PlayerName}. I feel like my father's looking down on us right now. Maybe I can be a king worthy of him.
-b
-Simba_006_fSI didn't know him, but I bet you're right... Hey, since we've helped the kingdom...
-r
-Simba_007_fc...why don't you come with me to meet Nala? She's waiting for you in MY kingdom, Dreamlight Valley.
-T
-Player_001_choice_000_f9I could use someone there to teach me to be a good ruler.
->
-Player_001_choice_001_f#We need your "roaring" personality.
-G
-Player_001_choice_002_f,It's a great place for <i>hakuna matata</i>.
-P
-Simba_008_fATeach YOU to be a good ruler? I'm still figuring that out myself.
-;
-Simba_009_f,But I guess we could figure it out together.
-[
-Simba_012_fLWe've already got a place for you in the Village. Nala is waiting there now.
-,
-Simba_013_fI'd love to go. Lead the way!
-H
-Simba_010_f9Well, I don't know about that, but I do want to see Nala.
-w
-Simba_011_fhReally? 'Cause after fighting off hyenas and fixing the oasis, I could use a little <i>hakuna matata<i>.
-
-Simba_003_f
-I hope so.
-m
-Simba_005_f^Ha-ha! Don't worry. I'd let you know if I heard a rhino approaching. They make a lot of noise.

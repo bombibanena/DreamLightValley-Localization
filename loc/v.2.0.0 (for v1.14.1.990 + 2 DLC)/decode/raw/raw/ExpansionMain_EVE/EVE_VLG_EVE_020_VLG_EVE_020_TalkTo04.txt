@@ -1,9 +1,0 @@
-TAG: EVE_000_f
-Directive?
-
-TAG: EVE_001_f
-Now it's time to craft the <ActivityItem>Stone Canvas</ActivityItem>.
-
-TAG: EVE_002_f
-Whoo!
-

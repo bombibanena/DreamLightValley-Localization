@@ -1,29 +1,0 @@
-
-$
-Sally_003_fHey Sally, what's up?
-[
-Sally_004_fLWell, I was hoping... now that I'm back... that I could reconnect with Jack.
-b
-Sally_002_fSBut it's been so long... Do you think you could help me plan a special date for us?
-0
-Player_000_choice_000_fI would be delighted!
-P
-Player_000_choice_001_f5In the middle of something, but I'll come back later!
-\
-Sally_006_fMTry to avoid touching them with your bare hands. It can be poisonous to some.
-!
-Sally_005_fSo how can I help?
-C
-Sally_007_f4It's been AGES since Jack and I had a proper date...
-ã
-Sally_008_f|And I missed him terribly. But... I'm a little hesitant. I spent so much time alone that I feel awkward around others again.
-C
-Sally_009_f4Ahhh, no problem; let's get your gothic groove back!
-P
-Sally_010_fAIs there something that made you feel more confident in the past?
-≠
-Sally_000_fùWell, I do always feel better when I wear deadly nightshade perfume. But I've had trouble growing deadly nightshade here. There's something about the soil...
-/
-Sally_001_f I can give you a hand with that!
-ä
-Sally_013_f{Oh, thank you, {PlayerName}! Once planted, the deadly nightshade seedlings should take about 15 minutes to properly sprout.

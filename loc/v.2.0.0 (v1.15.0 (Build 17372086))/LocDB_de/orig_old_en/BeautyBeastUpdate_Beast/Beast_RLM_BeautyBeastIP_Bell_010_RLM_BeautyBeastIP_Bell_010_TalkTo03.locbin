@@ -1,142 +1,0 @@
-
-
-Beast_000_fWho's there?
-5
-Beast_001_f&Who are you?! Why have you come here?!
-
-Beast_057_fWait — wait!
-�
-Beast_029_fI'm a friend of Belle's. She asked me to check on you, but... it seems like you're a little busy fixating on that old portrait.
-@
-Beast_030_f1Belle is sorry, and she's very worried about you.
-/
-Beast_031_f She is? She said that? ... Hmph.
-6
-Beast_032_f'Okay, I'm guessing that "hmph" means...
-9
-Player_006_choice_000_f"I feel bad for overreacting."
--
-Player_006_choice_001_f"I'm still upset."
-E
-Player_006_choice_002_f*"I'm jealous of your candlestick costume."
-
-Beast_034_fHmm...
--
-Player_007_choice_000_fDo you want a hug?
-6
-Player_007_choice_001_fThis is a misunderstanding.
--
-Player_007_choice_002_fGet over yourself.
-E
-Beast_036_f6And that "hmm" means I'm right. Are you feeling shame?
--
-Beast_037_fWhat would YOU know about it?!
-U
-Beast_038_fFI know that sharing what we're ashamed of can make it feel less scary.
-(
-Beast_043_fSHE JUST— *deep inhale*
-X
-Beast_044_fIShe came here after I asked her not to and... She was just staring at it!
- 
-Beast_045_fThe old portrait?
-@
-Beast_046_f1YES. She was looking at that face with so much—
->
-Beast_047_f/... ARGH! How could I ever compete with MYSELF?
-
-Beast_049_fNo! Leave me.
-
-Beast_052_fGET OUT!
-
-Beast_048_fJust... go.
-(
-Beast_050_fHow dare you?! Leave now!
-
-Beast_033_fOf course I am!
--
-Beast_039_fWhat happened was... horrible!
-.
-Beast_040_fShe snuck into the West Wing...
-
-Beast_035_fWhat?!
-D
-Beast_041_f5That has nothing to do with it! It's about HER and—
-6
-Player_000_choice_000_fJust one of the staff, sir.
-2
-Player_000_choice_001_fYou don't recognize me?
-.
-Player_000_choice_002_fIt is moi, Lumiere!
-5
-Beast_004_f&Then follow my orders. Leave me alone.
-*
-Beast_007_fI'm here to check on you...
-)
-Player_002_choice_000_fYour Highness.
-+
-Player_002_choice_001_fYour fluffiness.
-]
-Beast_008_fNI'm fine. I told you all to leave me be! And I— ...Wait... I don't know you!
-5
-Beast_014_f&Who are you? How did you get in here?!
-"
-Beast_016_fWell I— ... Uh...
-
-Beast_018_f
-ANSWER ME!
-7
-Beast_017_f(Why are you dressed like a candlestick?!
-=
-Player_005_choice_000_f"Guess it's not a great disguise...
-4
-Player_005_choice_001_fI was hoping you'd laugh.
-.
-Player_005_choice_002_fI AM a candlestick!
-#
-Beast_019_fYou look ridiculous.
-
-Beast_025_fNow, leave!
-?
-Beast_028_f0I should throw you in the tower for trespassing!
-<
-Beast_020_f-Does what's happening in my castle amuse you?
-'
-Beast_027_fNo, no... It's not that!
-(
-Beast_021_fDo you think I'm a FOOL?!
-1
-Beast_022_f"Do you... think I'm a candlestick?
-
-Beast_023_fNo!
-<
-Beast_009_f-What did you call me? My staff would never—
-0
-Beast_002_f!I'm sorry. It's too dark in here.
-9
-Player_003_choice_000_fI'm here to lighten things up!
-9
-Player_003_choice_001_fVery broody — just like you!
-2
-Beast_010_f#Mostly the mood! How are you doing?
-\
-Beast_015_fMHmph. As a member of my staff, you should know I do NOT want to be disturbed!
-(
-Beast_006_fWait... I don't know you!
-<
-Beast_011_f-What did you call me? My staff would never—
-0
-Beast_003_f!Lumiere? ... You sound different.
-E
-Beast_005_f6It's so dark here... Give me some light to see you by.
-)
-Player_004_choice_000_fI'm too tired!
-@
-Player_004_choice_001_f%It would ruin your gloomy atmosphere.
-!
-Beast_012_fThat is no excuse!
-0
-Beast_013_f!I told you to light your candles!
-?
-Beast_055_f0But uh... your Highness... I'm at my wick's end!
-H
-Beast_056_f9I told you never to— Wait... You... You're not Lumiere!

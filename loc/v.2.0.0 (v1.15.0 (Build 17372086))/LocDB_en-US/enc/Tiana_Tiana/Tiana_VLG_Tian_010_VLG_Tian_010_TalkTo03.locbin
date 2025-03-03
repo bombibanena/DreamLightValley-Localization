@@ -1,53 +1,0 @@
-
-H
-Tiana_002_f9Okay, we've got some folks invited for the grand opening!
-D
-Tiana_003_f5But, umm... things are looking a little intense here.
-J
-Tiana_004_f;I guess I got a little carried away with my recipe testing.
-ª
-Tiana_005_fšI still have some recipes to finish, but I'm starting to run out of clean dishes. And with everything that's cooking, I haven't had time to clean as I go.
-;
-Player_000_choice_000_f Time to craft more dishes, stat!
->
-Player_000_choice_001_f#Any chef snacks you can pass along?
-9
-Player_000_choice_002_fDo you need that many recipes?
-_
-Tiana_000_fPOh, thank you, but I think if I get any more I'll end up buried in dirty dishes.
-
-Tiana_006_fpBack in New Orleans, I had a full restaurant staff to help out, but now I don't even have a dishwashing counter.
-€
-Tiana_009_fqWhat if you go talk to Merlin? He has a history of using magic to help with chores. I bet he could help out here.
-3
-Tiana_008_f$Oh, {PlayerName}, what a great idea!
-3
-Player_001_choice_000_fDo you need a sword too?
-I
-Player_001_choice_001_f.Maybe Merlin has more magical ingredients too!
-E
-Player_001_choice_002_f*Would a walking sugar bowl be of any help?
-M
-Tiana_019_f>*laugh* Not today. I think I'm just fine with my chef's knife.
-F
-Tiana_011_f7Oh, actually I do need to start on the outdoor seating.
-I
-Tiana_012_f:Think you could <Lore>make some furnishings for me</Lore>?
-&
-Tiana_013_fSure! What do you need?
-^
-Tiana_014_fOTo start, I'll need some <ActivityItem>Bistro Tables and Chairs</ActivityItem>.
-Z
-Tiana_015_fKOnce you have them ready, could you <Lore>place them near the Stall</Lore>?
-O
-Tiana_016_f@Sure! How about I aim for <Lore>fun</Lore> with the decorations?
-G
-Tiana_017_f8That would be perfect! You're a lifesaver, {PlayerName}.
-D
-Tiana_020_f5Now that's a thought. I'll keep it in mind for later.
-Q
-Tiana_021_fBUnless the bowl has thumbs, it might make things more difficult...
-;
-Tiana_001_f,I wish I did, but nothing's quite ready yet.
-b
-Tiana_018_fSWell, I want to be sure I have a variety of dishes for folks with different tastes.

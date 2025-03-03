@@ -1,36 +1,0 @@
-
-N
-Belle_001_f?{PlayerName}, you're back! Did you find anything on the island?
-n
-Belle_002_f_Yes, there's a <ActivityItem>Chest</ActivityItem> stuck under some rocks. I couldn't get to it.
-v
-Belle_003_fgThat must be what we're looking for! We just need to figure out how to get it out from under the rocks.
->
-Player_000_f.Maybe the two of us will be enough to lift it.
-/
-Player_000_choice_000_fNothing can stop us.
-?
-Player_000_choice_001_f$We just need to get some leverage...
-8
-Player_000_choice_002_fOr we'll both end up crushed.
-,
-Belle_004_fI completely agree. Though...
-8
-Belle_007_f)I think we should ask the Beast for help.
-r
-Belle_010_fcIt would be good for him to join us on an adventure. And he is very strong... in case we need that.
-o
-Belle_011_f`I'll go ask him. And I'll bring him some materials. He might want to make some tools to help us.
-p
-Belle_000_faThat's a marvelous idea! Then we can all go to the island together. You, the Beast, Ariel and me.
-‰
-Belle_012_fzOh, and {PlayerName}, perhaps you should wear something you won't mind getting dirty. It could be your adventuring outfit!
-2
-Belle_005_f#You sound just like Papa. Though...
-<
-Belle_006_f-Well, we certainly don't want that to happen.
-4
-Belle_008_f%I think I know who to ask for help...
-
-Belle_009_f
-The Beast.

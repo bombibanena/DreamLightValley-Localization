@@ -1,24 +1,0 @@
-
-
-	EVE_000_f
-Directive.
-p
-	EVE_001_fcWhenever you're ready, EVE, you can test the <ActivityItem>Experimental Fireworks</ActivityItem>...
-
-	EVE_002_f*digital beeps*
-
-	EVE_003_fOhh...
->
-Player_000_f.<ActivityItem>Fires</ActivityItem>... again...
-3
-Player_000_choice_000_fHope it's the last time.
->
-Player_000_choice_001_f#This is starting to become a theme.
-E
-Player_000_choice_002_f*I love setting things on fire for science!
-
-	EVE_005_f*sigh*
-
-	EVE_006_f*sigh*
-
-	EVE_007_fHmmm...

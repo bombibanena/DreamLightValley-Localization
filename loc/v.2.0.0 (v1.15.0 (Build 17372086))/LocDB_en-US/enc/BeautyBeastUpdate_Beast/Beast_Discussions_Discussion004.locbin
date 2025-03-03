@@ -1,33 +1,0 @@
-
-£
-Beast_000_f“{PlayerName}. I... I have been trying to be better at controlling my temper. If that was something you had trouble with, what... what would you do?
-
-Player_000_fLet me think...
--
-Player_000_choice_000_fPractice relaxing.
-0
-Player_000_choice_001_fWait before reacting.
-#
-Player_000_choice_002_fTherapy.
-Z
-Beast_001_fKWhen you get upset, you can breathe deeply, which will calm your body down.
-1
-Beast_002_f"It will? All right. I'll try that.
-5
-Beast_003_f&That's it, in and out... in and out...
-2
-Beast_004_f#That does feel relaxing. Thank you.
-[
-Beast_005_fLWhen something makes you angry, count to ten before doing anything about it.
-4
-Beast_006_f%That... sounds like very good advice.
-b
-Beast_007_fSI'm glad you listened! But please come to me for advice before you shout at anyone!
-)
-Beast_008_fGrr... 1... 2... 3... 4...
-)
-Beast_009_fI don't know what that is.
-q
-Beast_010_fbYou talk about your feelings, and it helps you transform the negative feelings into positive ones!
-z
-Beast_011_fkThat sounds... difficult. I... I don't think I can talk about my feelings. I'll have to try something else.

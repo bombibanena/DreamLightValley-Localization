@@ -1,39 +1,0 @@
-
-;
-PrinceEric_000_f'Is it true? Am I really human again...?
-[
-PrinceEric_007_fGI am! And it's all thanks to you! I don't know how I'll ever repay you.
-£
-PrinceEric_001_fŽOh, and... heh-heh, just so you know, I was conscious the whole time, bumping around inside your pack. You should really clean that thing out.
-(
-Player_000_choice_003_fYeah, I know.
-'
-Player_000_choice_004_fMaybe later.
-;
-Player_000_choice_005_f But I never know what I'll need!
-\
-PrinceEric_008_fHWait a second... where's Ariel?! Is she okay? What did Ursula do to her?
-g
-PrinceEric_006_fSUrsula sent her to a deserted island. But she's safe now. She helped me rescue you!
-6
-Player_000_choice_000_fShe'll be happy to see you.
-@
-Player_000_choice_001_f%But let's hear more about your story.
-8
-Player_000_choice_002_fShe's pretty mad at Ursula...
-;
-PrinceEric_002_f'I've got to see her right away. Whoa...
-š
-PrinceEric_009_f…Wow... I'm so famished I can barely walk. I can't face her like this... not after everything... I have to get my strength back first.
-î
-PrinceEric_010_fÙNo problem. I'll whip up a dish for you that's fit for a prince. How does <ActivityItem>Gazpacho</ActivityItem>, <ActivityItem>Vegetable Stew</ActivityItem>, and a fresh <ActivityItem>Berry Salad</ActivityItem> sound?
-+
-PrinceEric_011_fThat sounds incredible!
-)
-PrinceEric_012_fThanks, {PlayerName}.
-_
-PrinceEric_003_fKI'll tell you everything. But not right now. I need to see Ariel... Whoa...
-
-PrinceEric_004_fSo am I.
-@
-PrinceEric_005_f,I have to go see Ariel right away... Whoa...

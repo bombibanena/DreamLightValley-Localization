@@ -1,39 +1,0 @@
-
-�
-<Village!LionKing!Nala!VLG_Nala_040_CompletedStoryDescription�Вы устраиваете особый праздник, чтобы почтить Нала. Теперь пришло время принести его ей и поблагодарить ее за все, что она сделала, чтобы помочь Виллидж.
-]
-.Village!LionKing!Nala!VLG_Nala_040_DisplayName+Здесь, там и назад снова
-Z
-KVillage!LionKing!Nala!VLG_Nala_040_Group01_Step01_Possess02_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Nala!VLG_Nala_040_Group01_Step01_Possess03_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Nala!VLG_Nala_040_Group01_Step01_Possess04_StepDescription{ItemName}.
-Z
-KVillage!LionKing!Nala!VLG_Nala_040_Group01_Step01_Possess05_StepDescription{ItemName}.
-�
-AVillage!LionKing!Nala!VLG_Nala_040_Group01_Step01_StepDescription{Соберите следующие материалы для фиксации <ActivityItem>Lioness Status</ActivityItem>:
-\
-MVillage!LionKing!Nala!VLG_Nala_040_Group02_Step02_CraftItem02_StepDescription{ItemName}.
-\
-MVillage!LionKing!Nala!VLG_Nala_040_Group02_Step02_CraftItem03_StepDescription{ItemName}.
-\
-AVillage!LionKing!Nala!VLG_Nala_040_Group02_Step02_StepDescriptionПриготовить:
-j
-LVillage!LionKing!Nala!VLG_Nala_040_Group03_Step03_Decorate02_StepDescriptionГлэйд доверия.
-x
-LVillage!LionKing!Nala!VLG_Nala_040_Group03_Step03_Decorate03_StepDescription(Размораженные высоты.
-�
-AVillage!LionKing!Nala!VLG_Nala_040_Group03_Step03_StepDescription�Украсить, поместив <ActivityItem>Lioness Statues</ActivityItem> с правильными драгоценными камнями рядом с рифами в:
-�
-;Village!LionKing!Nala!VLG_Nala_040_Group04_StoryDescription�Вы поместите статуи Лионессы рядом с разломами в надежде, что магия запечатает их навсегда.
-�
-;Village!LionKing!Nala!VLG_Nala_040_Group05_StoryDescription�После всего, что вы сделали, рифты наконец-то закрыты, раз и навсегда. Деревня в безопасности, благодаря вам и Нала. Но те странные рыбки, которые ушли в долину, все еще поблизости. Нала удивляется, съедобны ли они.
-�
-AVillage!LionKing!Nala!VLG_Nala_040_Group06_Step06_StepDescriptiontПоймать {ItemName} рыбалкой в любом месте деревни утром или вечером.
-�
-;Village!LionKing!Nala!VLG_Nala_040_Group06_StoryDescription�Реми дает рыбе тест на вкус и любит его. Он предлагает рецепт, чтобы вы могли устроить пир для празднования Нала.
-�
-AVillage!LionKing!Nala!VLG_Nala_040_Group08_Step08_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
-x
-SVillage!LionKing!Nala!VLG_Nala_040_Group08_Step08_TalkToCharacter02_StepDescription!Поговори с Урсула.

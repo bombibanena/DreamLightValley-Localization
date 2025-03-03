@@ -1,31 +1,0 @@
-
-X
-Flynn_000_fIHello {PlayerName}, and welcome to our target! Maleficent's secret vault!
-#
-Flynn_001_fHow are you feeling?
-=
-Player_000_choice_000_f"I'm ready to be a little reckless!
-4
-Player_000_choice_001_fI'm completely terrified.
-6
-Player_000_choice_002_fIf you're happy, I'm happy.
-5
-Flynn_003_f&All right! That's what I like to hear!
-%
-Flynn_002_fSo what do we do next?
-‚
-Flynn_007_fsWell, I've surveyed the area, and it looks like there are three wheels that need to be activated to open the vault.
-"
-Flynn_008_fSounds easy enough.
-Z
-Flynn_009_fKNot so fast. These wheels are through corridors that are currently blocked.
-[
-Flynn_010_fLAnd even if we get to them, who knows what sorts of traps Maleficent set up?
-H
-Flynn_011_f9Okay, I'll check out the situation and see what I can do.
-&
-Flynn_004_fNot totally unexpected.
-c
-Flynn_006_fTPlanning a heist is something you learn with practice, and it takes nerves of steel.
-N
-Flynn_005_f?Not the level of enthusiasm I was hoping for, but I'll take it.

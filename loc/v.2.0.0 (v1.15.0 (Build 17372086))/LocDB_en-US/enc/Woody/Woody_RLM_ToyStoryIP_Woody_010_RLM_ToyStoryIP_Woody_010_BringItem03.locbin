@@ -1,29 +1,0 @@
-
-J
-Woody_000_f;Nicely done, {PlayerName}! I'll put these on Bonnie's farm.
-t
-Woody_001_feHey-howdy-hey! The farm looks even better than it did when Bonnie left. She's gonna be one happy kid.
-m
-Woody_002_f^Say, I can't thank you enough for this, partner. You really know what being a toy's all about.
-Q
-Woody_003_fBWoody, you spend so much time trying to make other people happy...
-‚
-Woody_004_fs...why don't you take a little vacation for yourself and come to my Village? Buzz is already waiting for you there.
-*
-Woody_005_fYour Village? Where's that?
-?
-Player_000_f/It's a place called Dreamlight Valley, where...
-9
-Player_000_choice_000_f...nobody ever has to grow up.
-2
-Player_000_choice_001_f...toys never get lost.
-I
-Player_000_choice_002_f....there's always a touch of magic in the air.
-4
-Woody_006_f%Wow... that sounds pretty incredible.
-Q
-Woody_008_fBAnd since Bonnie and her family aren't back from their trip yet...
-c
-Woody_009_fT...I suppose I could go visit. Not much for me to do around here till they get back.
-R
-Woody_010_fCGreat! I'll <Lore>get a place set up for you in the Village</Lore>.

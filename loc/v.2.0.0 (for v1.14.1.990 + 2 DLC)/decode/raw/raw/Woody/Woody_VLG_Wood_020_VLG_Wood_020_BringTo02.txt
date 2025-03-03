@@ -1,9 +1,0 @@
-TAG: Woody_000_f
-Hey-howdy-hey, {PlayerName}! You whipped up this <ActivityItem>Fuse Box</ActivityItem> pretty fast.
-
-TAG: Woody_003_f
-I can't wait to see the lights back on the Carousel.
-
-TAG: Woody_004_f
-Come on. Let's go make some light!
-

@@ -1,65 +1,0 @@
-
-_
-Woody_000_fPHey, {PlayerName}, I was thinkin' maybe you and I are overdue for some playtime.
-l
-Woody_001_f]What do ya say? I'll be the sheriff and you be the bank robber hidin' out at the old stables.
-,
-Player_000_choice_000_fSure. Let's play.
-1
-Player_000_choice_001_fMaybe some other time.
-.
-Woody_002_fOh, oh, this is gonna be great!
-t
-Woody_004_feAhem... <Lore>"This town ain't big enough for the two of us, partner! It's time to surrender."</Lore>
-a
-Player_001_choice_000_fF"I ain't gonna turn myself over to some lily-livered coward like you!"
-O
-Player_001_choice_001_f4"You got the wrong person! I'm innocent, I tell ya!"
-[
-Woody_006_fL<Lore>"Looks like what we got here is a good old-fashioned standoff."</Lore>
-J
-Woody_009_f;Psst. {PlayerName}. We need a big stunt. You got any ideas?
-*
-Player_003_choice_000_fA daring chase!
-3
-Player_003_choice_001_fA jump from the hayloft!
->
-Player_003_choice_002_f#I get in my spaceship and fly away.
-^
-Woody_017_fO<Lore>"Where you goin'?! Get back here, you low-down, thievin' varmint!"</Lore>
-C
-Woody_015_f4Great stuff, {PlayerName}. That was really dramatic.
-+
-Woody_019_fWe gotta do this again soon.
-q
-Woody_018_fb<Lore>"Whoa! You landed right on the back of a horse! Get back here, you thievin' varmint!"</Lore>
--
-Woody_010_f<Lore>"Gah! Ya got me!"</Lore>
-E
-Woody_007_f6<Lore>"Innocent? Aw, that's what they all say."</Lore>
-B
-Player_002_choice_000_f'"You got me. But I'll never surrender!"
-M
-Player_002_choice_001_f2"No really! I've been framed! I swear it! Honest!"
-R
-Woody_008_fC<Lore>"Well, if ya say you're honest, I reckon you must be."</Lore>
-L
-Player_004_choice_000_f1"Ha! I tricked you into letting your guard down!"
-U
-Player_004_choice_001_f:"Make me your deputy, and I'll help you solve this crime."
-*
-Woody_011_fNo, no, no, no... Time out!
-7
-Woody_012_f(Now we've got two heroes and no villain.
-]
-Woody_013_fNI think we'll have to postpone till we find somebody else to play the villain.
-.
-Woody_014_fMerlin or Goofy could be fun...
-9
-Woody_003_f*Sure, {PlayerName}. We'll just reschedule.
-.
-Woody_020_fWait, wait, wait... Time out...
-6
-Woody_021_f'Spaceships are really Buzz's territory.
-Y
-Woody_005_fJMaybe we should reschedule and invite him if we wanna include space stuff.

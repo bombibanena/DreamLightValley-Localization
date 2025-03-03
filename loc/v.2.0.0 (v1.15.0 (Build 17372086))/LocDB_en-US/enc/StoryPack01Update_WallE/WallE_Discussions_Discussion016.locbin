@@ -1,27 +1,0 @@
-
-
-WallE_000_f*sigh*
-G
-Player_000_choice_000_f,Did you see them having a nice conversation?
-E
-Player_000_choice_001_f*They seemed a bit annoyed with each other.
-V
-Player_000_choice_002_f;Yeah. I don't think they'll be holding hands any time soon.
-
-WallE_001_fUh...
-L
-WallE_002_f=Hey, you never know. A real friendship could blossom someday.
-$
-WallE_003_fYou planted the seed!
-
-WallE_004_f
-Directive!
-
-WallE_005_f
-Oh. Uh-oh!
-!
-WallE_006_fBut don't worry...
-:
-WallE_007_f+They've both just got strong personalities.
-
-WallE_008_fAww...

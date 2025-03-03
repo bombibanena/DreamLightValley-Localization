@@ -1,52 +1,0 @@
-
-
-	EVE_001_fOoh...
-2
-	EVE_002_f%What... is this place? It's in ruins.
-
-	EVE_003_fOh...
-
-	EVE_004_fEVE. WALLÂ·E...
-
-	EVE_005_fPlants.
-X
-	EVE_006_fKWait, was it like a secret spot you shared with WALLÂ·E? A secret garden?
-
-	EVE_007_f*digital beeps*
-
-Player_000_f
-I think...
-/
-Player_000_choice_000_f...it's pretty cute!
-1
-Player_000_choice_001_f...it needs some work.
-D
-Player_000_choice_002_f)...I've seen junkyards in a better state.
-
-	EVE_008_fHmm...
-�
-	EVE_017_f�With all those time anomalies, maybe they're still around Ancient's Landing, hidden in the <ActivityItem>Swirling Sands</ActivityItem>. I'll go look for them.
-�
-	EVE_000_f~And I'll even add some <ActivityItem>Flowers</ActivityItem> and maybe some <ActivityItem>Jade</ActivityItem> for decoration...
-
-	EVE_018_fWhooo-hooo!
-'
-	EVE_011_fLet's make it good as new.
-
-	EVE_012_fWhoo!
-{
-	EVE_013_fnI can see what's left of the imprint of something round like a <ActivityItem>Trashcan</ActivityItem>... Weird.
-
-	EVE_014_fPlants! WALLÂ·E!
-j
-	EVE_015_f]Oh that's right. WALLÂ·E sometimes uses <ActivityItem>Trashcans</ActivityItem> as planters.
-
-	EVE_019_fWALLÂ·E...
-h
-	EVE_020_f[And there seems to have been a <ActivityItem>Blanket</ActivityItem> here at some point too.
-
-	EVE_016_f*sigh*
-
-	EVE_009_fUh...
-
-	EVE_010_fOh.

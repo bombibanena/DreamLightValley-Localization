@@ -1,44 +1,0 @@
-
-J
-Tiana_000_f;Today's the day, {PlayerName}! And I have everything ready!
-7
-Player_000_choice_000_fOoo, what do you have ready?
-@
-Player_000_choice_001_f%Definitely got to come see you later!
-H
-Tiana_002_f9Just a little something I've been working on for a while.
-
-Tiana_003_fAre you ready?
-
-Player_001_choice_000_fYes!
-2
-Player_001_choice_001_fNo, but tell me anyway!
-d
-Tiana_004_fUI'm going to bring something new to the Valley ‚Äî a long-held New Orleans tradition.
-A
-Tiana_005_f2We're going to have ourselves a Mardi Gras parade!
-"
-Player_002_choice_000_fA what?
-$
-Player_002_choice_001_f	So. COOL.
-p
-Tiana_006_faA Mardi Gras parade! In New Orleans, we celebrate a special holiday called Mardi Gras every year.
-
-Tiana_014_f
-On my way!
-ç
-Tiana_007_f~And one of the best parts of Mardi Gras is dressing up in special costumes and watching a parade or, better yet, being in one.
-°
-Tiana_008_fëSo I want to do the Dreamlight Valley version. That way I can share some of my hometown traditions and let folks bring their own spark to it too.
-"
-Tiana_009_fThat sounds so fun!
-_
-Tiana_010_fPNow usually, a parade has lots of floats, but I'm not sure that would work here.
-©
-Tiana_011_fôSo instead... I thought Daisy could help us by making a fancy <ActivityItem>Parade Float Mask</ActivityItem> for you to wear. Since you'll be the leader.
-B
-Tiana_012_f3Great idea! ... I'll do my best as a parade leader.
-ú
-Tiana_013_fåI know you will! Why don't you <Lore>go see Daisy and talk fashion</Lore>? I'm sure she'll have some swell ideas for what else you can wear.
-W
-Tiana_001_fHWhile you do that, I have some secret items of my own to get together...

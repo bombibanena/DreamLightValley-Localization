@@ -1,6 +1,0 @@
-TAG: Elsa_001_f
-To craft the <ActivityItem>Wind Chimes</ActivityItem>, you said you'll need...
-
-TAG: Elsa_000_f
-<ActivityItem>Softwood</ActivityItem> for the structure and tubes, some <ActivityItem>Iron Ingots</ActivityItem> for the striker, and <ActivityItem>Twine</ActivityItem> to assemble everything.
-

@@ -1,33 +1,0 @@
-
-€
-Mirabel_000_fo{PlayerName}, I found something kind of strange in my House, and I could use your help. Can you spare a minute?
-:
-Player_000_choice_000_fAnother mystery to solve? Sure!
-,
-Player_000_choice_001_fI can't just yet.
-Â
-Mirabel_001_f°Okay, so this <ActivityItem>Torn Cloth</ActivityItem> just flew out from under a counter! The lights started flickering, the wood planks of the floor brought it closer to me...
-=
-Mirabel_002_f,Mini-Casita wanted to be SURE that I saw it.
-m
-Mirabel_003_f\It looks familiar, but I can't place it. I KNOW it's gotta be important. Think you can help?
-,
-Player_001_choice_000_fI'm here for you.
-,
-Player_001_choice_001_fWhat do you need?
-6
-Player_001_choice_002_fMy help? With a torn cloth?
-8
-Mirabel_004_f'Thanks, {PlayerName}! That means a lot.
-V
-Mirabel_005_fECould you take a look at the <ActivityItem>Torn Cloth</ActivityItem>?
-_
-Mirabel_006_fNSee if you notice anything strange about it. And by anything, I mean ANYTHING.
-6
-Mirabel_007_f%Okay, give it to me; I'll examine it.
-
-Mirabel_008_fHere you go.
-b
-Mirabel_009_fQYeah, I know it probably sounds a little... weird. But can you take a look at it?
-E
-Mirabel_010_f4I understand. Whenever you have time would be great.

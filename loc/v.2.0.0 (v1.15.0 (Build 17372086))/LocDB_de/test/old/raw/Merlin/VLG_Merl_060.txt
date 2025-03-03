@@ -1,9 +1,0 @@
-TAG: Village!SwordInStone!Merlin!VLG_Merl_060_AvailableDescription
-Мерлин, кажется, расстроен.
-
-TAG: Village!SwordInStone!Merlin!VLG_Merl_060_Group01_OngoingRequestButton
-<smallcaps>{title}</smallcaps><br> Что мне делать?
-
-TAG: Village!SwordInStone!Merlin!VLG_Merl_060_StartRequestButton
-<smallcaps>{title}</smallcaps><br>Start Quest
-

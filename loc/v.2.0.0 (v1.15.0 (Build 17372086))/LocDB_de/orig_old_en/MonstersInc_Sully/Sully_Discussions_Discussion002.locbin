@@ -1,29 +1,0 @@
-
-O
-Sully_000_f@Uff! I don't smell at all right now. You got any odorant on you?
-*
-Player_000_choice_000_fWhat's odorant?
--
-Player_000_choice_001_fYou want to smell?
-*
-Player_000_choice_002_fYou smell fine.
-^
-Sully_001_fOYa know, spray-on smells. My favorite is old dumpster, but I also like wet dog.
-*
-Sully_002_fWhat's your favorite smell?
-$
-Player_001_choice_000_f	Lavender.
-'
-Player_001_choice_001_fFresh bread.
-/
-Player_001_choice_002_fWet dog sounds good.
-L
-Sully_003_f=Huh. A little flowery for me. But I guess it's a human thing.
-0
-Sully_004_f!Now you're just making me hungry.
-G
-Sully_005_f8The best! I'll let you borrow my odorant when I find it.
-X
-Sully_006_fISure! The stronger and smellier the better. Monsters like to stink it up.
-0
-Sully_007_f!Thanks. But I could smell BETTER.

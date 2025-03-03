@@ -1,9 +1,0 @@
-TAG: MotherGothel_002_f
-Если Скрудж Макдак хочет этого"<ActivityItem>Micberry Tree</ActivityItem>,"Тогда сделай это.
-
-TAG: MotherGothel_001_f
-Это была твоя идея спросить его, {PlayerName}.
-
-TAG: MotherGothel_000_f
-Не спрашивай меня, дорогая."<ActivityItem>Micberry Tree</ActivityItem>,"Разве нет?
-

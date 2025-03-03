@@ -1,33 +1,0 @@
-
-q
-Scrooge_000_f`Ah, {PlayerName}, I heard there was some sort of kerfuffle up at the Castle. How can I help you?
-R
-Player_000_fBDaisy thinks you tried to sabotage her gala with a glitter bomb...
-D
-Player_000_choice_000_f)The glitter was in a box from YOUR store.
-?
-Player_000_choice_001_f$I'm just trying to find the culprit.
-E
-Player_000_choice_002_f*I don't think it's you, but I have to ask.
-¤
-Scrooge_007_f’Sparkle me spats! If I sent a box of glitter with the rest of what Daisy rented, she would've opened it while she was getting ready for her party.
-`
-Scrooge_003_fOThat so-called glitter bomb would've gone off WELL before the end of the event.
-G
-Player_001_choice_000_f,The culprit hid the glitter in an empty box!
-/
-Player_001_choice_001_fYou're being framed!
-`
-Scrooge_010_fOPrecisely, detective. Someone's covering their tracks Ã¢Â€Â” but not very well.
-¨
-Scrooge_001_f–Here's a REAL lead for you. If you want to find out who used glitter to ruin Daisy's gala, you should <Lore>follow the glitter on Dazzle Beach.</Lore>
-®
-Scrooge_004_fœI was taking my daily perambulation there, and someone's dropped an entire shipment of glitter! It's blended with the sand, but it forms a very clear trail.
-o
-Scrooge_005_f^I'll bet my last Star Coin that if you follow it, you'll find the hideout of the real culprit.
-[
-Scrooge_006_fJI need to see that for myself. I'll <Lore>investigate Dazzle Beach</Lore>.
-\
-Scrooge_002_fKAs though I'd waste my valuable time with such a childish prank. Glitter...
-v
-Scrooge_009_feI appreciate your confidence in me, {PlayerName}. I promise I hadnae any involvement in the mischief!

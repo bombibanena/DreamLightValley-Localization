@@ -1,45 +1,0 @@
-
-í
-Merlin_000_fÅ{PlayerName}, I see you've found another <Lore>mysterious Time Rift</Lore>. This too is connected to the magic of your Hourglass.
-w
-Merlin_007_fgChannel the magical <ActivityItem>Mist</ActivityItem> within it to mend this wound in time and space...
-l
-Merlin_008_f\When you do, you can explore another area of Ancient's Landing... the <Lore>Overlook</Lore>!
-~
-Player_000_choice_000_fcI'll channel the magic of the Hourglass... (Use {UpgradePrice} <sprite="iconCurrencyMist" index=0>)
-5
-Player_000_choice_001_fI'm not quite ready yet...
-{
-Merlin_001_fkMarvelous! Soon, you'll be exploring the Overlook! I suspect there are ancient mysteries to be found there.
-x
-Merlin_011_fhGoodness, I'm afraid you don't have enough <ActivityItem>Mist</ActivityItem> to mend this Time Rift yet.
-ò
-Merlin_002_fáRemember... the <ActivityItem>Mist</ActivityItem> is <Lore>connected to the magic of your Hourglass and to Eternity Isle itself</Lore>.
-∑
-Merlin_012_f¶You must keep uncovering wonders with your Hourglass and continue to make Eternity Isle a home. As you do, you'll gain the <ActivityItem>Mist</ActivityItem> required!
-O
-Merlin_009_f?Yes, yes... But don't take too long. There is much to discover!
-@
-Merlin_003_f0These <Lore>Time Rifts</Lore> are quite curious.
-Y
-Merlin_004_fIWhy, they, er... they seem to be places where time and space have broken.
-Ñ
-Merlin_006_ftIt's some kind of tear in the fabric of space and time, and it's preventing us from exploring more of Eternity Isle.
-,
-Player_001_choice_000_fHow do we fix it?
-I
-Player_001_choice_001_f.So you're telling me I SHOULDN'T jump into it?
-m
-Merlin_005_f]Perhaps there's some way to fix this. But I'm afraid, for now, this requires more research...
-c
-Merlin_010_fSWell, that depends. Are you eager to be completely rearranged at a molecular level?
-$
-Player_002_choice_000_f	Er... no.
-4
-Player_002_choice_001_fIt does sound intriguing.
-$
-Merlin_013_fHmm... are you sure?
-k
-Merlin_015_f[It could be a marvelous learning opportunity. Though I suppose the risks are significant...
-
-Merlin_014_fDoesn't it?!

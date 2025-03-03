@@ -1,51 +1,0 @@
-
-J
-Mickey_001_f:Oh, hiya, {PlayerName}! You're just who I was lookin' for!
-7
-Mickey_002_f'You were looking for me...? But... why?
-1
-Mickey_000_f!Who cares about boring old me...?
-Ž
-Mickey_005_f~Gosh, I care about you a ton! And uh... well, you haven't seemed like yourself lately. Is there anything you wanna talk about?
-3
-Player_000_choice_000_f(Everything is awful!!!)
-5
-Player_000_choice_001_f(Nobody understands me!!!)
-6
-Player_000_choice_002_f(I'm angry all the time!!!)
-
-Mickey_006_fI... I just...
-9
-Mickey_007_f)No. Nothing is wrong. Everything is fine.
-P
-Mickey_008_f@<Forgotten>(Why can't I ever say how I feel? UGH...)</Forgotten>
-4
-Mickey_009_f$... You sure everything's okay, pal?
-(
-Player_001_choice_000_fEVERYTHING...
- 
-Player_001_choice_001_fIS...
-!
-Player_001_choice_002_fBAD!!!
-
-Mickey_014_f...
-7
-Mickey_016_f'Sure. Fine. I'll pick you some flowers.
-N
-Mickey_015_f><Forgotten>(I'll probably screw that up too. UGH.)</Forgotten>
-P
-Mickey_018_f@Thanks, pal. And hey, just remember â€” I'm always here to talk.
-<
-Mickey_010_f,It's fine. I'm okay. I'm great. I'm amazing.
-X
-Mickey_011_fH<Forgotten>(What's the point? Nobody would get it anyway...)</Forgotten>
-Y
-Mickey_012_fIWelp, all right. But ya know if you ever need to talk, I'm always around.
-=
-Mickey_013_f-What did you want to talk to me about anyway?
-s
-Mickey_004_fcOh, right! I almost forgot. I noticed there are all sorts of new flowers growin' around the Valley.
-b
-Mickey_019_fRAnd I wanted to make a big bouquet for Minnie to show her just how special she is.
-~
-Mickey_003_fnI thought maybe you could help because, welp, you're the best in the whole Valley at pickin' out nice flowers.

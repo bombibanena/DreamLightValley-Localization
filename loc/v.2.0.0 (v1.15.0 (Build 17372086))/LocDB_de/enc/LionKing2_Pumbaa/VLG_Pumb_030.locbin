@@ -1,89 +1,0 @@
-
-�
-DVillage!LionKing!Pumbaa!VLG_Pumb_030_Any_CompletedRequestDescriptionDПоговори с Пумба о метеоритном дожде.
-�
-9Village!LionKing!Pumbaa!VLG_Pumb_030_AvailableDescription�Пумба выглядит взволнованным, поговорите с ним и посмотрите, что происходит.
-�
->Village!LionKing!Pumbaa!VLG_Pumb_030_CompletedStoryDescription�Хотя Тимон не убежден в том, что на самом деле у вас есть метеорит, Пумба очень взволнован всем, что он узнал о небе.
-L
-0Village!LionKing!Pumbaa!VLG_Pumb_030_DisplayNameВниз на Землю
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_Possess01_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_Possess02_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_Possess03_StepDescription{itemName}.
-�
-CVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_StepDescriptionaСобирайте материалы для <ActivityItem>Meteor Thower Pamphets</ActivityItem>:
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_030_Group01_StoryDescription�Пумба говорит вам, что он и Тимон видели синюю звезду, что предсказывает появление редкого метеоритного дождя. Он просит вас помочь подготовить и доставить брошюры другим членам Астрономического клуба, чтобы они не пропустили это событие.
-u
-OVillage!LionKing!Pumbaa!VLG_Pumb_030_Group02_Step02_CraftItem01_StepDescription"Подготовьте {itemName}.
-T
-DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step03_ReadyDescription{TargetNPC}.
-T
-DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step04_ReadyDescription{TargetNPC}.
-T
-DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step05_ReadyDescription{TargetNPC}.
-T
-DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step06_ReadyDescription{TargetNPC}.
-�
-<Village!LionKing!Pumbaa!VLG_Pumb_030_Group03_StepDescriptioncПередайте <ActivityItem>Meteor Hower Pamphlets</ActivityItem> членам Astronomy Club:
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_030_Group04_Step07_TalkToCharacter01_StepDescriptionWПерегруппируйтесь с {TargetNPC} о метеоритном дожде.
-�
-NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group06_Step09_Decorate01_StepDescriptionBПоместите {itemName} где угодно в долину.
-�
-QVillage!LionKing!Pumbaa!VLG_Pumb_030_Group06_Step24_Conditional02_StepDescription�(Вариант) Подождите до наступления ночи (в 18:00-6:00) прежде чем установить телескоп.
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_030_Group06_StoryDescription�После приглашения всех членов Астрономического клуба, вы одолжите телескоп Мерлин и дождетесь наступления ночи в Долине.
-�
-QVillage!LionKing!Pumbaa!VLG_Pumb_030_Group07_Step10_Interaction01_StepDescription=Вступайте в контакт с телескопом.
-p
-LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group08_Step11_Unlock01_StepDescription Появилась Память!
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_030_Group09_Step12_TalkToCharacter02_StepDescription0Поговори с {TargetNPC} о памяти.
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_030_Group09_StoryDescriptioneКогда начинается метеоритный дождь, появляется Память.
-�
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group10_Step13_Possess04_StepDescriptionqПерейти к месту с Память и поискать <ActivityItem>Meteorite Fragment</ActivityItem>.
-�
-LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group11_Step14_Unlock02_StepDescription0Появилась еще одна Память!
-�
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group12_Step15_Possess05_StepDescription{Перейти к месту с Памяти и найти ещё один <ActivityItem>Meteorite Fragment</ActivityItem>.
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_030_Group12_StoryDescription�Ты веришь, что воспоминания, которые ты находишь, указывают тебе на расположение метеоритных осколков.
-p
-LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group13_Step16_Unlock03_StepDescription Появилась Память!
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_030_Group13_StoryDescription�В лесу Валора вы найдете еще один фрагмент метеорита. Остается вопрос: где последний кусочек? Вы и Пумба отследите его.
-�
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group14_Step17_Possess06_StepDescription~Перейти к месту с Память и найти последний <ActivityItem>Meteorite Fragment</ActivityItem>.
-�
-UVillage!LionKing!Pumbaa!VLG_Pumb_030_Group15_Step18_TalkToCharacter03_StepDescription8Поговори с {TargetNPC} о метеоритах.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_Possess07_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_Possess08_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_Possess09_StepDescription{itemName}.
-�
-CVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_StepDescriptionbСоберите следующие материалы для фиксации метеорита:
-�
-=Village!LionKing!Pumbaa!VLG_Pumb_030_Group16_StoryDescription�Вы добровольно почините метеорит и поместите его в специальный ящик для всех членов Астрономического клуба.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_030_Group17_Step20_CraftItem02_StepDescription{itemName}.
-]
-NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_Decorate02_StepDescription{itemName}.
-Y
-NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_Decorate03_StepDescriptionРуг.
-_
-NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_Decorate04_StepDescriptionСадись.
-�
-CVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_StepDescription9Украсить метеоритную выставку:
-�
-KVillage!LionKing!Pumbaa!VLG_Pumb_030_Group19_Step22_Party01_StepDescriptionYОтпразднуйте метеорит с Астрономическим клубом.
-�
-LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group20_Step23_Listen01_StepDescriptionTПослушайте Пумба и Тимон обсуждайте метеорит.
-h
-7Village!LionKing!Pumbaa!VLG_Pumb_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,41 +1,0 @@
-
-a
-Timon_000_fRBad news, Timon. Anna and Elsa didn't really feel like the meals helped them much.
-
-Timon_002_fWhat?!
-/
-Player_000_choice_000_fUnbelievable, right?
-9
-Player_000_choice_001_fMaybe they were just confused.
->
-Player_000_choice_002_f#That advice didn't make much sense.
-I
-Timon_005_f:Are you sure you heard right? That doesn't make any sense!
-`
-Timon_009_fQMaybe Anna and Elsa don't need our help. We should focus our attention elsewhere.
-ˆ
-Timon_010_fyOkay. Fine. We can forget the food. Because I know for a fact the sparkly sky dots were crucial to Simba and his journey.
-7
-Timon_011_f(We need to bring some of those to Moana!
-4
-Player_001_choice_000_fWhat do you mean by that?
-/
-Player_001_choice_001_fThat's a GREAT idea!
-@
-Player_001_choice_002_f%I don't think that's going to work...
-2
-Timon_012_f#Sheesh! Must I explain everything?!
-w
-Timon_015_fhAll you gotta do is <Lore>go to where we met and catch some Fireflies</Lore> that we can bring to Moana.
-{
-Timon_016_flOkay, I'll do that if you go check on Anna and Elsa... just to make sure those dishes didn't make them sick.
-^
-Timon_013_fOMost of my ideas are great ideas, {PlayerName}. It's why I started Timon Talks!
-)
-Timon_014_fTrust me, it's guaranteed!
-c
-Timon_006_fTWhat's confusing? Simba ate the new food, Simba became a king. It's a straight line!
- 
-Timon_007_fWhat do you mean?
-T
-Timon_008_fESimba ate some new food, Simba became a king. It makes perfect sense!

@@ -1,6 +1,0 @@
-TAG: Timon_000_f
-Здравствуйте, {PlayerName}, вы уже нашли Пумба?
-
-TAG: Timon_001_f
-Я приду к тебе после <Lore>spic на Пумба</Lore>!
-

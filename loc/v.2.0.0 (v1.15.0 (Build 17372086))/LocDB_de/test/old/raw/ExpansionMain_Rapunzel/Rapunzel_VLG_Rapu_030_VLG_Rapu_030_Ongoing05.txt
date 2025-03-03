@@ -1,9 +1,0 @@
-TAG: Rapunzel_000_f
-Я поговорил с Урсула, мне нужно собрать "Ингредиентов" и сфабриковать "Вечный сундроп".
-
-TAG: Rapunzel_001_f
-Что тебе нужно?
-
-TAG: Rapunzel_002_f
-Просто <ActivityItem>Dream Shards</ActivityItem>, <ActivityItem>Evergems</ActivityItem>, и <ActivityItem>Skeleton Fish</ActivityItem>.
-

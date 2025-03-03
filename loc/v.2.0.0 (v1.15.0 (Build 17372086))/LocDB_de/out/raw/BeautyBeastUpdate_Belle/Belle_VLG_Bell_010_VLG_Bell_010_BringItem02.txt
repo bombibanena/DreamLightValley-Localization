@@ -1,9 +1,0 @@
-TAG: Belle_000_f
-Oh, thank you, {PlayerName}. You've found all the missing books!
-
-TAG: Belle_001_f
-Now we can return them to Merlin.
-
-TAG: Belle_002_f
-Please come with me. I'm sure he'll want to thank you.
-

@@ -1,125 +1,0 @@
-
-~
-GVillage!PrincessFrog!Tiana!VLG_Tian_030_Any_CompletedRequestDescription3Поговори с Тиана о конкурсе.
-�
-<Village!PrincessFrog!Tiana!VLG_Tian_030_AvailableDescription�Тиана, кажется, имеет некоторые планы, которые она хочет начать. Что она готовит?
-�
-AVillage!PrincessFrog!Tiana!VLG_Tian_030_CompletedStoryDescription�Последний победитель был выбран! Теперь, когда у Тиана есть запасной шеф-повар, который должен заполучить его на сайте Тиана's Feal Stall, надеюсь Тиана может занять некоторое время для себя.
-T
-3Village!PrincessFrog!Tiana!VLG_Tian_030_DisplayNameГастрономия сна
-�
-FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_StepDescription�Попробуйте нанять деревенских жителей для участия в кулинарном конкурсе Тиана.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter01_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter02_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter03_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter04_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter05_StepDescription{TargetNPC}.
-z
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group02_Step02_VisitArea01_StepDescription$Заходите в дом Реми.
-|
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group03_Step03_TalkToCharacter06_StepDescription Поговори с {TargetNPC}.
-�
-VVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step04_RemoveBlocker01_StepDescription,Собери картошку и Корну.
-z
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step05_Possess01_StepDescription&Вымой и собери травы.
-_
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_CatchFish01_StepDescription	Краб.
-g
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_CatchFish02_StepDescriptionКреветка.
-e
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_CatchFish03_StepDescriptionЛобстер.
-�
-FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_StepDescription@Хватай морепродукты для кишечника.
-�
-?Village!PrincessFrog!Tiana!VLG_Tian_030_Group04_StepDescription�Используйте свои Королевские Ингредиенты, чтобы подготовить различные Ингредиенты в доме Реми.
-�
-@Village!PrincessFrog!Tiana!VLG_Tian_030_Group04_StoryDescription�Тиана нуждается в некоторой помощи для её Сталла и начал соревнование по кулинарной обработке. Помоги ей, продемонстрировав основные кулинарные методы для участников.
-�
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group05_Step07_VisitArea02_StepDescription*Возвращайся в дом Реми.
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem01_StepDescription{itemName}.
-n
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem02_StepDescriptionЧистый {itemName}.
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem03_StepDescription{itemName}.
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem04_StepDescription{itemName}.
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem05_StepDescription{itemName}.
-�
-GVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_ReadyDescriptionHДоставьте кишечник Seafood Ingredients на Тиана.
-�
-FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_StepDescriptioncУбедитесь, что в вашем списке есть Тиана Seafood Coil Ingredients.
-�
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group07_Step09_EatMeal01_StepDescriptionKСоберите котлоагрегаты из своего списка.
-|
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group08_Step10_TalkToCharacter07_StepDescription Поговори с {TargetNPC}.
-�
-@Village!PrincessFrog!Tiana!VLG_Tian_030_Group08_StoryDescription�Анна, Кристофф и Майк Вазовски объединили свои таланты, чтобы приготовить котлоагрегат Seafood.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess02_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess03_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess04_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess05_StepDescription{itemName}.
-�
-?Village!PrincessFrog!Tiana!VLG_Tian_030_Group09_StepDescriptionaСобирайте материалы, чтобы создать панель сэндвичей.
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group10_Step12_CraftItem01_StepDescription{itemName}.
-�
-RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group11_Step13_VisitArea03_StepDescription*Возвращайся в дом Реми.
-x
-GVillage!PrincessFrog!Tiana!VLG_Tian_030_Group12_Step14_ReadyDescription-Возьмите {itemName} на {TargetNPC}.
-�
-FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group12_Step14_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
-�
-TVillage!PrincessFrog!Tiana!VLG_Tian_030_Group13_Step15_TakePicture01_StepDescription0Сфотографируй всех с едой.
-y
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_EatMeal02_StepDescription%Майк Вазовски Суп Okra
-~
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_EatMeal03_StepDescription*Анна Рыбный креольский
-s
-PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_EatMeal04_StepDescriptionБуйенты Кристофф
-�
-FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_StepDescriptionAЗабери еду со стола и попробуй всех.
-�
-OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step18_Listen01_StepDescription\Послушайте Реми и Тиана реакции на еду участников.
-�
-@Village!PrincessFrog!Tiana!VLG_Tian_030_Group15_StoryDescription�Настало время для финала! Майк Вазовски Okra Soup против Анна Fish Creal and Кристофф's Biginets ~ Которое блюдо выиграет?
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group16_Step19_TalkToCharacter09_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group16_Step19_TalkToCharacter10_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group16_Step19_TalkToCharacter11_StepDescription{TargetNPC}.
-�
-?Village!PrincessFrog!Tiana!VLG_Tian_030_Group16_StepDescription�Поговорите с каждым участником, чтобы дать им отзывы об их кулинарном эксперименте.
-�
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group17_Step20_TalkToCharacter12_StepDescription?Поговори с {TargetNPC} о еде участников.
-�
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group18_Step21_TalkToCharacter13_StepDescription`Поговори с {TargetNPC} о том, что она выиграла "Фиш Креоль".
-�
-QVillage!PrincessFrog!Tiana!VLG_Tian_030_Group19_Step22_Decorate01_StepDescriptionAПоместите {itemName} возле дворца Тиана.
-�
-OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group20_Step23_Listen02_StepDescriptionxВозвращайся к дворцу Тиана, чтобы выслушать ее поздравления Анна.
-�
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group21_Step24_TalkToCharacter14_StepDescriptionMПоговори с {TargetNPC} о его выигрышном супе Okra.
-�
-QVillage!PrincessFrog!Tiana!VLG_Tian_030_Group22_Step25_Decorate02_StepDescriptionAПоместите {itemName} возле дворца Тиана.
-�
-OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group23_Step26_Listen03_StepDescription�Возвращайся к дворцу Тиана, чтобы выслушать ее поздравления Майк Вазовски.
-�
-XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group24_Step27_TalkToCharacter15_StepDescriptionCПоговори с {TargetNPC} о его победе в Biginets.
-�
-QVillage!PrincessFrog!Tiana!VLG_Tian_030_Group25_Step28_Decorate03_StepDescription>Место {itemName} рядом с дворцом Тиана.
-�
-OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group26_Step29_Listen04_StepDescription|Подъезжаю к дворцу Тиана, чтобы послушать ее поздравления Кристофф.
-k
-:Village!PrincessFrog!Tiana!VLG_Tian_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

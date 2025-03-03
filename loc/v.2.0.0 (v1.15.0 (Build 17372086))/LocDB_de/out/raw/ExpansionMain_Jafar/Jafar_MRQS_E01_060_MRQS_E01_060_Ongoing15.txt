@@ -1,9 +1,0 @@
-TAG: Jafar_001_f
-Hmm... Never underestimate the power of a good disguise, {PlayerName}.
-
-TAG: Jafar_002_f
-You must find that costume.
-
-TAG: Jafar_003_f
-<Lore>Locate the place you saw in the Memory</Lore>.
-

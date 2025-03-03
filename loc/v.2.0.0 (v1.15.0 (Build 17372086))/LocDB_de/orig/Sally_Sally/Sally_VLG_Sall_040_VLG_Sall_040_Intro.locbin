@@ -1,49 +1,0 @@
-
-,
-Sally_002_fHey Sally, how are you doing?
-<
-Sally_003_f-Quite well, actually. I've made a new friend!
-f
-Sally_004_fWI'm trying to do something nice for her. Do you think you could help me with an errand?
-C
-Player_000_choice_000_f(Sure! Always happy to help a friendship!
-G
-Player_000_choice_001_f,Ahh, I'll try to come back when I have time.
-%
-Sally_005_fWho's your new friend?
-o
-Sally_006_f`Ursula. We started talking about plants and potions and discovered that we have a lot in common.
-$
-Player_001_choice_000_f	How nice!
-?
-Player_001_choice_001_f$You should be careful around Ursula.
-8
-Player_001_choice_002_fYou sure she's not using you?
-D
-Sally_007_f5She was so complimentary about the herbs I grow here.
-$
-Sally_020_fSure, I'll tag along!
-Q
-Sally_021_fBMight also be good to make sure she's dealing with you honestly...
-@
-Sally_013_f1HA. Yeah, I guess you two have similar interests!
-;
-Sally_014_f,So what are you trying to help her out with?
-,
-Sally_015_fWe're doing a potion project!
-|
-Sally_016_fmI said I would help gather some Ingredients while she worked on the more finicky parts of the potion-brewing.
-ˆ
-Sally_017_fyBut there's one plant that I'm having trouble finding more than one of â€” an <ActivityItem>Arcane Sprout</ActivityItem>.
-t
-Sally_018_feI was about to go see Ursula to ask for more information on where to find it. Would you like to come?
-
-Sally_008_fCareful? Why?
-C
-Sally_010_f4Well, Ursula has done some shady things in the past.
-\
-Sally_011_fMNot saying she's up to something now, just... maybe be on your toes a little.
-Q
-Sally_012_fBWell, thank you for the warning, but I don't think it's necessary.
-+
-Sally_009_fUsing me? No, we're friends!

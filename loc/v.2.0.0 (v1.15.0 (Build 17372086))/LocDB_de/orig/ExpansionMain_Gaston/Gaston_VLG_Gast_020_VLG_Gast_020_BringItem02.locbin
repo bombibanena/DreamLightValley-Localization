@@ -1,58 +1,0 @@
-
-/
-Gaston_005_fWhat? These aren't treasures...
-%
-Gaston_006_fThey're just... junk!
-W
-Gaston_023_fGStill, I did work hard to find them. That's got to count for something.
-:
-Player_000_choice_000_fGaston, we talked about this...
-9
-Player_000_choice_001_f"We," Gaston. "We" found them.
-)
-Player_000_choice_002_fHey, I helped!
-I
-Gaston_007_f9Don't you know by now that I'm a man of action, not talk?
-B
-Gaston_002_f2At least now we can track down who they belong to!
-
-Gaston_011_fMe?
-I
-Gaston_012_f9No! Remember what I told you about appearing like a hero?
-=
-Gaston_013_f-Oh, right. I suppose we can return them then.
-¹
-Player_001_f¨We've got a <ActivityItem>Brush</ActivityItem>, a <ActivityItem>Light Bulb</ActivityItem>, and a <ActivityItem>Climbing Pick</ActivityItem>... Let's take a closer look.
-'
-Player_001_choice_000_fThe brush...
-,
-Player_001_choice_001_fThe light bulb...
-/
-Player_001_choice_002_fThe climbing pick...
-7
-Gaston_014_f'There are some very long hairs in here!
-‚
-Gaston_015_frBut they're all bleached after being in the desert so long â€” no way to tell who they belonged to from the color.
-f
-Gaston_021_fVLet's go talk to different Villagers and see if we can figure out the rightful owners!
-N
-Gaston_003_f>I made notes in case your memory isn't as razor-sharp as mine.
-
-Gaston_004_fUgh... fine.
-x
-Gaston_022_fhOnwards! I'll keep the items with me for now so I can return them myself and receive my rightful praise.
-4
-Gaston_016_f$I've never seen such an item before.
-Œ
-Gaston_017_f|They make light! They can be used for all sorts of things like bright decorations, grow lights for plants, and so much more.
-G
-Gaston_018_f7Hmm... sounds like something Belle's father would make.
-B
-Gaston_019_f2Someone with a taste for adventure owned that one!
-
-Gaston_020_fDefinitely!
-B
-Gaston_008_f2Really? I could have sworn I did it all by myself.
-
-Gaston_009_f
-I suppose.

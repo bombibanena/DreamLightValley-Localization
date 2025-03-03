@@ -1,9 +1,0 @@
-TAG: Mushu_000_f
-Хорошо, {PlayerName}, у нас есть <ActivityItem>Hand Fan</ActivityItem>.
-
-TAG: Mushu_001_f
-Теперь ты <Lore>get Шрам и скажи ему, что мы хотим поговорить с ним</Lore>.
-
-TAG: Mushu_002_f
-Пока ты это делаешь, я все устрою!
-

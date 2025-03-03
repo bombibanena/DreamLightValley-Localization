@@ -1,3 +1,0 @@
-TAG: Anna_001_f
-The book said some <ActivityItem>Iron Ingots</ActivityItem>,<ActivityItem>Sand</ActivityItem>, <ActivityItem>Tinkering Parts</ActivityItem>, and <ActivityItem>Fiber</ActivityItem>.
-

@@ -1,3 +1,0 @@
-TAG: Woody_000_f
-Давайте уберем Карусель. Мы можем начать с очистки всего этого <ActivityItem>Junk</ActivityItem>.
-

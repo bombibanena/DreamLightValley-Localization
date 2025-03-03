@@ -1,9 +1,0 @@
-TAG: Merlin_000_f
-Oh! That smells wonderful! It seems I am actually quite hungry.
-
-TAG: Merlin_001_f
-I was so wrapped up in my studies, I must have forgotten to eat.
-
-TAG: Merlin_002_f
-No wonder I became so frustrated. Thank you, {PlayerName}.
-

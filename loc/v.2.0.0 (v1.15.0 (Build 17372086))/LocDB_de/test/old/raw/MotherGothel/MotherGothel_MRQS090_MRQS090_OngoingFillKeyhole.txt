@@ -1,3 +1,0 @@
-TAG: MotherGothel_000_f
-Верните <ActivityItem>Orb</ActivityItem> обратно в столб. Я думал, это очевидно.
-

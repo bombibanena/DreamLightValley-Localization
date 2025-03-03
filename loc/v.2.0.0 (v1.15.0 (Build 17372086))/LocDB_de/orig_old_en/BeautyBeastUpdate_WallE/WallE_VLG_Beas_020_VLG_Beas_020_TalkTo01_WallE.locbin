@@ -1,45 +1,0 @@
-
-'
-WallE_000_fWALL·E! How's it going?
-
-WallE_001_f*beep beep*
-)
-WallE_002_fHow's the gardening going?
-!
-WallE_003_fOh, uh... Whoopee!
-%
-Player_000_choice_000_f
-That good?
-$
-Player_000_choice_001_f	That bad?
-
-WallE_004_fWALL·E!
-
-WallE_013_fOh... oh! Whew!
-/
-WallE_014_f So you're good to meet with him?
-
-WallE_015_f	*whistle*
-`
-WallE_016_fQPerfect! I'll go talk to the Beast — if he's interested, I'll come by with him.
-M
-WallE_005_f>I was wondering if you wanted to maybe make a gardening buddy.
-
-WallE_006_f	*whistle*
-p
-WallE_007_faGreat! It's the Beast — have you met him? I'm trying to introduce him to more of the Villagers.
-,
-WallE_008_fUh... Oh. Oh. Oh. Oh. Oh. Oh.
-6
-WallE_009_f'WALL·E... are you scared of the Beast?
-
-WallE_010_f
-*shudders*
-i
-WallE_011_fZAww, don't be! I know he's big and maybe a little scary-looking if you're not used to him.
-P
-WallE_012_fABut he's got a big heart, and he just wants to make some friends.
-
-WallE_017_fHuh?
-)
-WallE_018_fI'm just kidding, WALL·E!

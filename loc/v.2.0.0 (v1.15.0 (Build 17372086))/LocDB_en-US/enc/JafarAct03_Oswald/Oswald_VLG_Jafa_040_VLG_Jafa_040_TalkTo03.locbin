@@ -1,37 +1,0 @@
-
-<
-Oswald_000_f,Hey Oswald, got any judge candidates for me?
-
-Oswald_001_fYou bet I do!
-g
-Oswald_002_fWI've been chin waggin' all over Eternity Isle, but nobody thought they were a bullseye.
-c
-Oswald_003_fSOh no! Will we need to postpone the trial? We can't really do this without a judge.
-H
-Oswald_004_f8Hold your horses! Everybody did agree on one thingÃ¢Â€Â”
-(
-Oswald_005_fYOU oughta be the judge!
-)
-Player_000_choice_000_fMe? The judge?
-3
-Player_000_choice_001_fNo way; I can't do that!
-7
-Player_000_choice_002_fHmm, that does make sense...
-$
-Oswald_006_fYeah! You'd be tops!
-€
-Oswald_009_fpThink about it: You're the one that dynamited Jafar's plans, but you still wanna make sure he gets a fair trial.
-
-Oswald_010_fTrue...
-n
-Oswald_011_f^And we all trust that you can put your gripes aside and do right by both Jafar and the Valley.
-B
-Oswald_012_f2Well, when you put it like that, I guess I should.
-"
-Oswald_013_fThat's the ticket!
-†
-Oswald_014_fvNow, if you really wanna look the part, get ahold of a <ActivityItem>Powdered Wig</ActivityItem> and some spiffy duds.
-V
-Oswald_007_fFSure ya can! Look at all you've done here when ya put your mind to it.
-'
-Oswald_008_fI knew you'd see sense!

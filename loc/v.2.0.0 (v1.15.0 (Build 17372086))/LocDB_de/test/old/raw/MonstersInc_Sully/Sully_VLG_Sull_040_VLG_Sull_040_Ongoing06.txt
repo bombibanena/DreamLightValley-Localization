@@ -1,9 +1,0 @@
-TAG: Sully_000_f
-Вы нашли <ActivityItem> Third Clue</ActivityItem>?
-
-TAG: Sully_001_f
-Хорошо...
-
-TAG: Sully_002_f
-Может, вы могли бы принести его на Олаф.
-

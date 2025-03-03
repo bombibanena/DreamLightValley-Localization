@@ -1,6 +1,0 @@
-TAG: Jafar_000_f
-Поиск приземления Древних для частей <ActivityItem>Ancient Sphere</ActivityItem>.
-
-TAG: Jafar_001_f
-Как только вы их найдете, вы должны починить Сферу на станции <ActivityItem>Crafting</ActivityItem>.
-

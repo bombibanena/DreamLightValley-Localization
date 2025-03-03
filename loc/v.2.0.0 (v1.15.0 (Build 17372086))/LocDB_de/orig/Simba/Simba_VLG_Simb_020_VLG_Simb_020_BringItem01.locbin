@@ -1,27 +1,0 @@
-
-O
-Simba_001_f@This food looks amazing, {PlayerName}. I can't wait to taste it.
-¤
-Simba_003_f”But I guess we still need to figure out who to invite to our gathering. What if we start with three that others look up to and would want to follow?
-$
-Player_000_fWe need to invite...
-*
-Player_000_choice_000_f...someone fun.
-O
-Player_000_choice_001_f4...a Villager so nice they'll put everybody at ease.
-?
-Player_000_choice_002_f$...a hero with many stories to tell.
-\
-Simba_004_fMYou mean like Goofy? Something funny always seems to happen when he's around.
-0
-Simba_000_f!He reminds me a little of Pumbaa.
-;
-Simba_005_f,Wow, I think we have the perfect guest list.
-x
-Simba_007_fiI'll invite them on your behalf. You try to think of where we can have the gathering. I'll be right back.
-"
-Simba_006_fOkay, now who else?
-M
-Simba_008_f>Well, that has to be Minnie. She's always so kind to everyone.
-e
-Simba_009_fVMaybe Maui? He's even wearing some of his stories on his skin. It's pretty impressive.

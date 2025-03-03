@@ -1,1281 +1,0 @@
-
-J
-CatchFish_Beach_Description+Catch {TargetAmount} Fish from Dazzle Beach
-S
-CatchFishes_Cliff_Description2Catch {TargetAmount} Fish from the Frosted Heights
-R
-CatchFishes_Dark_Description2Catch {TargetAmount} Fish from the Forgotten Lands
-4
-CatchFishes_DescriptionCatch {TargetAmount} Fish
-S
-CatchFishes_Desert_Description1Catch {TargetAmount} Fish in the Glittering Dunes
-T
-CatchFishes_Forest_Description2Catch {TargetAmount} Fish from the Forest of Valor
-N
-CatchFishes_Jungle_Description,Catch {TargetAmount} Fish in the Wild Tangle
-T
-CatchFishes_Meadow_Description2Catch {TargetAmount} Fish from the Peaceful Meadow
-Q
-CatchFishes_Outpost_Description.Catch {TargetAmount} Fish in Ancient's Landing
-U
- CatchFishes_Savannah_Description1Catch {TargetAmount} Fish from the Sunlit Plateau
-U
- CatchFishes_Wetlands_Description1Catch {TargetAmount} Fish from the Glade of Trust
-8
-CatchSeafood_DescriptionCatch {TargetAmount} Seafood
-S
-%CatchSeafood_EternityIsle_Description*Catch {TargetAmount} Eternity Isle Seafood
-@
-CatchSpecificFish_DescriptionCatch {TargetAmount} {ItemName}
-P
--CatchSpecificFishFromEternityIsle_DescriptionCatch {TargetAmount} {ItemName}
-b
-CatchXBeachFishes_DescriptionAUse your Fishing Rod in the waters of Dazzle Beach to catch fish!
-7
-CatchXBeachFishes_TitleCatch Fish from Dazzle Beach
-q
-%CatchXDarkMountainsFishes_DescriptionHUse your Fishing Rod in the waters of the Forgotten Lands to catch fish!
-F
-CatchXDarkMountainsFishes_Title#Catch Fish from the Forgotten Lands
-`
-CatchXDesertFishes_Description>Use your Fishing Rod in the waters of the Dunes to catch fish!
-@
-CatchXDesertFishes_Title$Catch Fish from the Glittering Dunes
-Q
-CatchXFishes_Description5Use your Fishing Rod and fish anywhere in the Valley!
- 
-CatchXFishes_Title
-Catch Fish
-S
-$CatchXFishWithoutFailing_Description+Can you keep a winning streak when fishing?
-7
-CatchXFishWithoutFailing_TitleCatch Without Failing
-j
-CatchXForestFishes_DescriptionHUse your Fishing Rod in the waters of the Forest of Valor to catch fish!
-?
-CatchXForestFishes_Title#Catch Fish from the Forest of Valor
-a
-CatchXJungleFishes_Description?Use your Fishing Rod in the waters of the Tangle to catch fish!
-;
-CatchXJungleFishes_TitleCatch Fish from the Wild Tangle
-j
-CatchXMeadowFishes_DescriptionHUse your Fishing Rod in the waters of the Peaceful Meadow to catch fish!
-?
-CatchXMeadowFishes_Title#Catch Fish from the Peaceful Meadow
-i
-CatchXOutpostFishes_DescriptionFUse your Fishing Rod in the waters of Ancient's Landing to catch fish!
->
-CatchXOutpostFishes_Title!Catch Fish from Ancient's Landing
-k
- CatchXSavannahFishes_DescriptionGUse your Fishing Rod in the waters of the Sunlit Plateau to catch fish!
-@
-CatchXSavannahFishes_Title"Catch Fish from the Sunlit Plateau
-a
-CatchXSeafood_DescriptionDUse your Fishing Rod to catch seafood anywhere in Dreamlight Valley!
-$
-CatchXSeafood_TitleCatch Seafood
-n
-"CatchXSnowCliffsFishes_DescriptionHUse your Fishing Rod in the waters of the Frosted Heights to catch fish!
-C
-CatchXSnowCliffsFishes_Title#Catch Fish from the Frosted Heights
-h
-CatchXSwampFishes_DescriptionGUse your Fishing Rod in the waters of the Glade of Trust to catch fish!
-=
-CatchXSwampFishes_Title"Catch Fish from the Glade of Trust
-X
-CatchXTypesOfFishes_Description5Catch different types of Fish anywhere in the Valley!
-:
-CatchXTypesOfFishes_TitleCatch Different Types of Fish
-)
-ChangeOutfit_DescriptionChange Outfit
-K
-!Christmas_FestiveFish_Description&{Placeholder}Decorate using a snowman.
-5
-Christmas_FestiveFish_TitleEven Fish Are Festive!
-K
-Christmas_OhOhOh_Description+{Placeholder}Distribute Gifts to Villagers!
-%
-Christmas_OhOhOh_TitleHo! Ho! Ho!
-j
-&Christmas_ReadyForHolidays_Description@{Placeholder}Decorate with any 5 holiday furniture in your home.
-;
- Christmas_ReadyForHolidays_TitleA Home for the Holidays
-H
-Christmas_SantaMeal_Description%{Placeholder}Eat 3 Different Cookies.
-.
-Christmas_SantaMeal_TitleCookie Taste Test
-G
-Christmas_Snowman_Description&{Placeholder}Decorate using a snowman.
-8
-Christmas_Snowman_TitleDo You Wanna Craft a Snowman?
-H
- CompleteXRoyalDuties_Description$Complete multiple Dreamlight Duties!
-8
-CompleteXRoyalDuties_TitleComplete Dreamlight Duties
-<
-Cook1StarMeal_DescriptionPrepare a 1-Star Meal or Better
-<
-Cook2StarMeal_DescriptionPrepare a 2-Star Meal or Better
-<
-Cook3StarMeal_DescriptionPrepare a 3-Star Meal or Better
-<
-Cook4StarMeal_DescriptionPrepare a 4-Star Meal or Better
-2
-Cook5StarMeal_DescriptionPrepare a 5-Star Meal
-8
-CookAMealXStar_DescriptionPrepare a Meal: {ItemName}
-5
-CookMeals_DescriptionPrepare {TargetAmount} Meals
-1
-CookSeafoodMeals_DescriptionCook with Seafood
-6
-CookXFishMeals_DescriptionCook fish-based recipes!
--
-CookXFishMeals_TitleCook Fish-Based Meals
-8
-CookXFruitMeals_DescriptionCook fruit-based recipes!
-/
-CookXFruitMeals_TitleCook Fruit-Based Meals
-8
-CookXGrainMeals_DescriptionCook grain-based recipes!
-/
-CookXGrainMeals_TitleCook Grain-Based Meals
-I
-CookXMeals_Description/Cook Meals in the kitchen of Remy's Restaurant!
-
-CookXMeals_Title
-Cook Meals
-J
-CookXMeals1Star_Description+Cook 1-star Meals or better in the kitchen!
-4
-CookXMeals1Star_TitleCook 1-Star Meals or Better
-J
-CookXMeals2Star_Description+Cook 2-star Meals or better in the kitchen!
-4
-CookXMeals2Star_TitleCook 2-Star Meals or Better
-J
-CookXMeals3Star_Description+Cook 3-star Meals or better in the kitchen!
-4
-CookXMeals3Star_TitleCook 3-Star Meals or Better
-J
-CookXMeals4Star_Description+Cook 4-star Meals or better in the kitchen!
-4
-CookXMeals4Star_TitleCook 4-Star Meals or Better
-@
-CookXMeals5Star_Description!Cook 5-star Meals in the kitchen!
-*
-CookXMeals5Star_TitleCook 5-Star Meals
-<
-CookXSeafoodMeals_DescriptionCook seafood-based recipes!
-3
-CookXSeafoodMeals_TitleCook Seafood-Based Meals
-9
-CookXSpiceMeals_DescriptionCook Recipes using spices!
-)
-CookXSpiceMeals_TitleCook with Spices
-@
-CookXVegetableMeals_DescriptionCook vegetable-based recipes!
-7
-CookXVegetableMeals_TitleCook Vegetable-Based Meals
-K
-DecorateBeach_Description.Add {targetamount} Decorations to Dazzle Beach
-R
-DecorateCliff_Description5Add {targetamount} Decorations to the Frosted Heights
-Z
-!DecorateDarkMountains_Description5Add {targetamount} Decorations to the Forgotten Lands
-S
-DecorateForest_Description5Add {targetamount} Decorations to the Forest of Valor
-S
-DecorateMeadow_Description5Add {targetamount} Decorations to the Peaceful Meadow
-H
-DecoratePlaza_Description+Add {targetamount} Decorations to the Plaza
-T
-DecorateSavannah_Description4Add {targetamount} Decorations to the Sunlit Plateau
-T
-DecorateWetlands_Description4Add {targetamount} Decorations to the Glade of Trust
-3
-Event!HarvestEggs_DescriptionHarvest {ItemName}
-/
-Event!PickupEggs_DescriptionPick {ItemName}
->
-ExpandHouseXTimes_DescriptionAdd more rooms to your House!
-2
-ExpandHouseXTimes_TitleAdd Rooms to Your House
-?
-)Expansion01!CookASpecificMeal_DescriptionPrepare {ItemName}
-\
-2Expansion01!CookXEternityIsleFishMeals_Description&Cook Eternity Isle fish-based recipes!
-U
-,Expansion01!CookXEternityIsleFishMeals_Title%Cook with Unique Eternity Isle Fishes
-^
-3Expansion01!CookXEternityIsleFruitMeals_Description'Cook Eternity Isle fruit-based recipes!
-O
--Expansion01!CookXEternityIsleFruitMeals_TitleCook with Eternity Isle Fruits
-b
-5Expansion01!CookXEternityIsleSeafoodMeals_Description)Cook Eternity Isle seafood-based recipes!
-R
-/Expansion01!CookXEternityIsleSeafoodMeals_TitleCook with Eternity Isle Seafood
-Q
-3Expansion01!CookXEternityIsleSpiceMeals_DescriptionCook recipes using spices!
-O
--Expansion01!CookXEternityIsleSpiceMeals_TitleCook with Eternity Isle Spices
-f
-7Expansion01!CookXEternityIsleVegetableMeals_Description+Cook Eternity Isle vegetable-based recipes!
-W
-1Expansion01!CookXEternityIsleVegetableMeals_Title"Cook with Eternity Isle Vegetables
-f
--Expansion01!CraftAutoCookerXTimes_Description5Combine your Timebending resources into Auto-Cookers.
-N
-'Expansion01!CraftAutoCookerXTimes_Title#Combine Resources into Auto-Cookers
-a
-+Expansion01!CraftGardenerXTimes_Description2Combine your Timebending resources into Gardeners.
-I
-%Expansion01!CraftGardenerXTimes_Title Combine Resources into Gardeners
-]
-)Expansion01!CraftVacuumXTimes_Description0Combine your Timebending resources into Vacuums.
-E
-#Expansion01!CraftVacuumXTimes_TitleCombine Resources into Vacuums
-`
-&Expansion01!DecorateDesert_Description6Add {targetamount} Decorations to the Glittering Dunes
-[
-&Expansion01!DecorateJungle_Description1Add {targetamount} Decorations to the Wild Tangle
-^
-'Expansion01!DecorateOutpost_Description3Add {targetamount} Decorations to Ancient's Landing
-J
-!Expansion01!FindCores_Description%Find {TargetAmount} Timebending Cores
-J
-!Expansion01!FindGifts_Description%Find {TargetAmount} Timebending Gifts
-B
-#Expansion01!FindGlimmer_DescriptionFind {TargetAmount} Glimmer
-J
-!Expansion01!FindParts_Description%Find {TargetAmount} Timebending Parts
-F
-!Expansion01!FindXCore_Description!Use your Hourglass to find Cores.
-=
-Expansion01!FindXCore_TitleFind Cores with Your Hourglass
-G
-"Expansion01!FindXGifts_Description!Use your Hourglass to find Gifts.
->
-Expansion01!FindXGifts_TitleFind Gifts with Your Hourglass
-K
-$Expansion01!FindXGlimmer_Description#Use your Hourglass to find Glimmer.
-B
-Expansion01!FindXGlimmer_Title Find Glimmer with Your Hourglass
-G
-"Expansion01!FindXParts_Description!Use your Hourglass to find Parts.
->
-Expansion01!FindXParts_TitleFind Parts with Your Hourglass
-T
-*Expansion01!HangoutForXMinutes_Description&Hang out with {itemname} for 5 minutes
-t
-9Expansion01!HangoutWithEternityIsleCharacters_Description7Spend time with the friends you found on Eternity Isle.
-_
-3Expansion01!HangoutWithEternityIsleCharacters_Title(Hang Out with Friends from Eternity Isle
-Y
-+Expansion01!PlayBoardGameXTimes_Description*Play Scramblecoin against other Villagers.
-:
-%Expansion01!PlayBoardGameXTimes_TitlePlay Scramblecoin
-\
-)Expansion01!PossessXFigurines_Description/Complete your Scramblecoin figurine collection.
-5
-#Expansion01!PossessXFigurines_TitleFind Figurines
-Y
-.Expansion01!RemoveDreamlightCracks_Description'Remove {TargetAmount} Splinters of Fate
-Z
-/Expansion01!RemoveXDreamlightCracks_Description'Remove Splinters of Fate from the Isle!
-E
-)Expansion01!RemoveXDreamlightCracks_TitleRemove Splinters of Fate
->
-"Expansion01!SellFishes_DescriptionSell {TargetAmount} Fish
-@
-"Expansion01!SellFruits_DescriptionSell {TargetAmount} Fruits
->
-!Expansion01!SellMeals_DescriptionSell {TargetAmount} Meals
-C
-#Expansion01!SellMineral_DescriptionSell {TargetAmount} Minerals
-H
-&Expansion01!SellVegetables_DescriptionSell {TargetAmount} Vegetables
-I
-.Expansion01!UpgradeHourglassXTimes_DescriptionUpgrade your Hourglass.
-=
-(Expansion01!UpgradeHourglassXTimes_TitleUpgrade Hourglass
-Z
-0Expansion01!WinBoardGameAgainstXOnce_Description&Win at Scramblecoin against {itemname}
-U
-)Expansion01!WinBoardGameXTime_Description(Win at Scramblecoin {TargetAmount} times
-Z
-*Expansion01!WinBoardGameXTimes_Description,Win against other Villagers at Scramblecoin.
-;
-$Expansion01!WinBoardGameXTimes_TitleWin at Scramblecoin
-Q
-(Expansion02!CatchAnySnippets_Description%Use your Royal Net to catch Snippets!
-4
-"Expansion02!CatchAnySnippets_TitleCatch Snippets
-X
-.Expansion02!CatchFishes_FairyTales_Description&Catch {TargetAmount} Fish in Everafter
-T
-+Expansion02!CatchFishes_Library_Description%Catch {TargetAmount} Fish in the Bind
-V
--Expansion02!CatchFishes_Mythology_Description%Catch {TargetAmount} Fish in Mythopia
-?
-)Expansion02!CatchSnippets_Any_DescriptionCatch any Snippets
-A
-*Expansion02!CatchSnippets_Bird_DescriptionCatch Bird Snippets
-C
-+Expansion02!CatchSnippets_Demon_DescriptionCatch Demon Snippets
-A
-*Expansion02!CatchSnippets_Frog_DescriptionCatch Frog Snippets
-V
-3Expansion02!CatchSpecificFairyTalesFish_DescriptionCatch {TargetAmount} {ItemName}
-S
-0Expansion02!CatchSpecificLibraryFish_DescriptionCatch {TargetAmount} {ItemName}
-U
-2Expansion02!CatchSpecificMythologyFish_DescriptionCatch {TargetAmount} {ItemName}
-p
-.Expansion02!CatchXFairyTalesFishes_Description>Use your Fishing Rod in the waters of Everafter to catch Fish!
-E
-(Expansion02!CatchXFairyTalesFishes_TitleCatch Fish from Everafter
-l
-+Expansion02!CatchXLibraryFishes_Description=Use your Fishing Rod in the waters of the Bind to catch Fish!
-A
-%Expansion02!CatchXLibraryFishes_TitleCatch Fish from the Bind
-n
--Expansion02!CatchXMythologyFishes_Description=Use your Fishing Rod in the waters of Mythopia to catch Fish!
-C
-'Expansion02!CatchXMythologyFishes_TitleCatch Fish from Mythopia
-X
-*Expansion02!CatchXSnippetBirds_Description*Use your Royal Net to catch Bird Snippets!
-;
-$Expansion02!CatchXSnippetBirds_TitleCatch Bird Snippets
-Z
-+Expansion02!CatchXSnippetDemons_Description+Use your Royal Net to catch Demon Snippets!
-=
-%Expansion02!CatchXSnippetDemons_TitleCatch Demon Snippets
-X
-*Expansion02!CatchXSnippetFrogs_Description*Use your Royal Net to catch Frog Snippets!
-;
-$Expansion02!CatchXSnippetFrogs_TitleCatch Frog Snippets
-8
-%Expansion02!CompleteStory_DescriptionReorder a Story
-?
-)Expansion02!CookASpecificMeal_DescriptionPrepare {ItemName}
-l
-3Expansion02!CookXStorybookValeFishMeals_Description5Cook fish-based recipes with the Storybook Vale Fish.
-R
--Expansion02!CookXStorybookValeFishMeals_Title!Cook with the Storybook Vale Fish
-d
-4Expansion02!CookXStorybookValeFruitMeals_Description,Cook the Storybook Vale fruit-based recipes!
-T
-.Expansion02!CookXStorybookValeFruitMeals_Title"Cook with the Storybook Vale Fruit
-b
-6Expansion02!CookXStorybookValeSeafoodMeals_Description(Cook the Storybook Vale Seafood recipes!
-X
-0Expansion02!CookXStorybookValeSeafoodMeals_Title$Cook with the Storybook Vale Seafood
-e
-4Expansion02!CookXStorybookValeSpiceMeals_Description-Cook recipes using the Storybook Vale spices!
-U
-.Expansion02!CookXStorybookValeSpiceMeals_Title#Cook with the Storybook Vale Spices
-l
-8Expansion02!CookXStorybookValeVegetableMeals_Description0Cook the Storybook Vale vegetable-based recipes!
-]
-2Expansion02!CookXStorybookValeVegetableMeals_Title'Cook with the Storybook Vale Vegetables
-Y
-)Expansion02!CraftChillerTraps_Description,Craft Slow Traps to help you catch Snippets.
-7
-#Expansion02!CraftChillerTraps_TitleCraft Slow Traps
-\
-*Expansion02!CraftSnippetsBirds_Description.Craft Snippet Repellant to keep away Snippets.
-?
-$Expansion02!CraftSnippetsBirds_TitleCraft Snippet Repellent
-T
-(Expansion02!CraftStickyTraps_Description(Craft Lure Traps to help catch Snippets.
-6
-"Expansion02!CraftStickyTraps_TitleCraft Lure Traps
-Y
-*Expansion02!DecorateFairyTales_Description+Add {targetamount} Decorations to Everafter
-U
-'Expansion02!DecorateLibrary_Description*Add {targetamount} Decorations to the Bind
-W
-)Expansion02!DecorateMythology_Description*Add {targetamount} Decorations to Mythopia
-<
-%Expansion02!FeedCritter_1_DescriptionFeed a Baby Pegasus
-D
-.Expansion02!FeedCritter_FairyTales_DescriptionFeed a Baby Dragon
-:
-+Expansion02!FeedCritter_Library_DescriptionFeed an Owl
-R
--Expansion02!FeedFairyTalesCritter_Description!Feed the critters from Everafter!
-@
-'Expansion02!FeedFairyTalesCritter_TitleFeed the Baby Dragons
-r
-9Expansion02!FeedFavoriteFoodFairyTalesCritter_Description5Feed the critters from Everafter their favorite food!
-`
-3Expansion02!FeedFavoriteFoodFairyTalesCritter_Title)Feed the Baby Dragons Their Favorite Food
-n
-6Expansion02!FeedFavoriteFoodLibraryCritter_Description4Feed the critters from the Bind their favorite food!
-U
-0Expansion02!FeedFavoriteFoodLibraryCritter_Title!Feed the Owls Their Favorite Food
-p
-8Expansion02!FeedFavoriteFoodMythologyCritter_Description4Feed the critters from Mythopia their favorite food!
-_
-2Expansion02!FeedFavoriteFoodMythologyCritter_Title)Feed the Baby Pegasus Their Favorite Food
-N
-*Expansion02!FeedLibraryCritter_Description Feed the critters from the Bind!
-5
-$Expansion02!FeedLibraryCritter_TitleFeed the Owls
-P
-,Expansion02!FeedMythologyCritter_Description Feed the critters from Mythopia.
-?
-&Expansion02!FeedMythologyCritter_TitleFeed the Baby Pegasus
-j
-2Expansion02!GatherSpices_StorybookVale_Description4Harvest {TargetAmount} wild Storybook Vale resources
-e
-/Expansion02!GatherXCapeGooseberries_Description2Harvest Cape Gooseberries from the Storybook Vale.
-F
-)Expansion02!GatherXCapeGooseberries_TitleHarvest Cape Gooseberries
-]
-)Expansion02!GatherXLightnings_Description0Harvest Lightning Spice from the Storybook Vale.
->
-#Expansion02!GatherXLightnings_TitleHarvest Lightning Spice
-R
-&Expansion02!GatherXPorcini_Description(Harvest Porcini from the Storybook Vale.
-3
- Expansion02!GatherXPorcini_TitleHarvest Porcini
-_
-,Expansion02!GatherXTrumpedSnails_Description/Harvest Trumpet Snails from the Storybook Vale.
-@
-&Expansion02!GatherXTrumpedSnails_TitleHarvest Trumpet Snails
-R
-&Expansion02!GatherXVanilla_Description(Harvest Vanilla from the Storybook Vale.
-3
- Expansion02!GatherXVanilla_TitleHarvest Vanilla
-T
-*Expansion02!HangoutForXMinutes_Description&Hang out with {itemname} for 5 minutes
-z
-:Expansion02!HangoutWithStorybookValeCharacters_Description<Spend time with the friends you found in the Storybook Vale.
-e
-4Expansion02!HangoutWithStorybookValeCharacters_Title-Hang out with friends from the Storybook Vale
-N
-'Expansion02!HarvestFruits_1_Description#Harvest {TargetAmount} Sour Berries
-O
-*Expansion02!HarvestFruits_Kaki_Description!Harvest {TargetAmount} Persimmons
-L
-+Expansion02!HarvestFruits_Olive_DescriptionHarvest {TargetAmount} Olives
-d
-6Expansion02!HarvestFruits_SpiralStrawberry_Description*Harvest {TargetAmount} Spiral Strawberries
-S
-,Expansion02!HarvestSpices_Nutmeg_Description#Harvest Nutmeg {TargetAmount} times
-o
-2Expansion02!HarvestVegetables_BookVale_Description9Harvest {TargetAmount} Vegetables from the Storybook Vale
-b
-7Expansion02!HarvestVegetables_BrusselSprout_Description'Harvest {TargetAmount} Brussels Sprouts
-w
-9Expansion02!HarvestXVegetablesInStorybookVale_Description:Harvest Vegetables in your garden from the Storybook Vale.
-a
-3Expansion02!HarvestXVegetablesInStorybookVale_Title*Harvest Vegetables from the Storybook Vale
-_
-0Expansion02!MineRockSpots_FairyTales_Description+Mine {TargetAmount} Rock Spots in Everafter
-[
--Expansion02!MineRockSpots_Library_Description*Mine {TargetAmount} Rock Spots in the Bind
-]
-/Expansion02!MineRockSpots_Mythology_Description*Mine {TargetAmount} Rock Spots in Mythopia
-T
-2Expansion02!MineSpecificGem_FairyTales_DescriptionMine {TargetAmount} {ItemName}
-Q
-/Expansion02!MineSpecificGem_Library_DescriptionMine {TargetAmount} {ItemName}
-S
-1Expansion02!MineSpecificGem_Mythology_DescriptionMine {TargetAmount} {ItemName}
-K
-"Expansion02!MineXMagma_Description%Mine for Magma in the Storybook Vale!
-*
-Expansion02!MineXMagma_Title
-Mine Magma
-M
-#Expansion02!MineXMarble_Description&Mine for Marble in the Storybook Vale!
-,
-Expansion02!MineXMarble_TitleMine Marble
-J
-!Expansion02!MineXOpal_Description%Mine for Opals in the Storybook Vale!
-(
-Expansion02!MineXOpal_Title	Mine Opal
-\
-*Expansion02!MineXPetrifiedWood_Description.Mine for Petrified Wood in the Storybook Vale!
-;
-$Expansion02!MineXPetrifiedWood_TitleMine Petrified Wood
-L
-$Expansion02!MineXPureIce_Description$Mine Pure Ice in the Storybook Vale!
-/
-Expansion02!MineXPureIce_TitleMine Pure Ice
-[
-)Expansion02!MineXStarSapphire_Description.Mine for Star Sapphires in the Storybook Vale!
-9
-#Expansion02!MineXStarSapphire_TitleMine Star Sapphire
-Y
-!Expansion02!Persimmon_Description4Harvest Persimmons from trees in the Storybook Vale!
-1
-Expansion02!Persimmon_TitleHarvest Persimmons
-h
-*Expansion02!PickBrusselSprouts_Description:Harvest Brussels Sprouts from trees in the Storybook Vale.
-@
-$Expansion02!PickBrusselSprouts_TitleHarvest Brussels Sprouts
-W
-#Expansion02!PickNutmegs_Description0Harvest Nutmeg from trees in the Storybook Vale!
-/
-Expansion02!PickNutmegs_TitleHarvest Nutmeg
-V
-"Expansion02!PickOlives_Description0Harvest Olives from trees in the Storybook Vale!
-.
-Expansion02!PickOlives_TitleHarvest Olives
-a
-'Expansion02!PickSourberries_Description6Harvest Sour Berries from trees in the Storybook Vale!
-9
-!Expansion02!PickSourberries_TitleHarvest Sour Berries
-o
-.Expansion02!PickSpiralStrawberries_Description=Harvest Spiral Strawberries from trees in the Storybook Vale!
-G
-(Expansion02!PickSpiralStrawberries_TitleHarvest Spiral Strawberries
-i
-0Expansion02!PlantVegetables_BookVale_Description5Plant {TargetAmount} Vegetables in the Storybook Vale
-a
-7Expansion02!PlantXVegetablesInStorybookVale_Description&Plant a lot of Vegetables in the Vale!
-[
-1Expansion02!PlantXVegetablesInStorybookVale_Title&Plant Vegetables in the Storybook Vale
-b
-0Expansion02!PurchaseXFairyTalesSeeds_Description.Visit Goofy's Stall in Everafter to buy seeds!
-D
-*Expansion02!PurchaseXFairyTalesSeeds_TitleBuy Seeds in Everafter
-^
--Expansion02!PurchaseXLibrarySeeds_Description-Visit Goofy's Stall in the Bind to buy seeds!
-@
-'Expansion02!PurchaseXLibrarySeeds_TitleBuy Seeds in the Bind
-`
-/Expansion02!PurchaseXMythologySeeds_Description-Visit Goofy's Stall in Mythopia to buy seeds!
-B
-)Expansion02!PurchaseXMythologySeeds_TitleBuy Seeds in Mythopia
-D
-$Expansion02!RemoveInkies_DescriptionRemove {TargetAmount} Inkies
-O
-%Expansion02!RemoveXInkies_Description&Remove Inkies from the Storybook Vale!
-0
-Expansion02!RemoveXInkies_TitleRemove Inkies
-T
-'Expansion02!ReorderXStories_Description)Visit the Lorekeeper and reorder stories.
-4
-!Expansion02!ReorderXStories_TitleReorder Stories
->
-"Expansion02!SellFishes_DescriptionSell {TargetAmount} Fish
-@
-"Expansion02!SellFruits_DescriptionSell {TargetAmount} Fruits
->
-!Expansion02!SellMeals_DescriptionSell {TargetAmount} Meals
-C
-#Expansion02!SellMineral_DescriptionSell {TargetAmount} Minerals
-H
-&Expansion02!SellVegetables_DescriptionSell {TargetAmount} Vegetables
-b
-2Expansion02!SellXFishFromStorybookVale_Description,Sell the Fish you caught to make Star Coins!
-Q
-,Expansion02!SellXFishFromStorybookVale_Title!Sell Fish from the Storybook Vale
-h
-4Expansion02!SellXFruitsFromStorybookVale_Description0Sell the fruit you harvested to make Star Coins!
-T
-.Expansion02!SellXFruitsFromStorybookVale_Title"Sell Fruit from the Storybook Vale
-`
-6Expansion02!SellXMiineralFromStorybookVale_Description&Sell Gems to Goofy to earn Star Coins.
-U
-0Expansion02!SellXMiineralFromStorybookVale_Title!Sell Gems from the Storybook Vale
-d
-8Expansion02!SellXVegetablesFromStorybookVale_Description(Sell your Vegetables to make Star Coins!
-]
-2Expansion02!SellXVegetablesFromStorybookVale_Title'Sell Vegetables from the Storybook Vale
-D
-FeedBeachCritter_Description$Feed the critters from Dazzle Beach!
-.
-FeedBeachCritter_TitleFeed the Sea Turtles
-L
-FeedCliffsCritter_Description+Feed the critters from the Frosted Heights!
-)
-FeedCliffsCritter_TitleFeed the Foxes
-2
-FeedCritter_Beach_DescriptionFeed a Sea Turtle
-+
-FeedCritter_Cliff_Description
-Feed a Fox
-,
-FeedCritter_Dark_DescriptionFeed a Raven
-)
-FeedCritter_DescriptionFeed a Critter
-.
-FeedCritter_Desert_DescriptionFeed a Cobra
-0
-FeedCritter_Forest_DescriptionFeed a Raccoon
-1
-FeedCritter_Jungle_DescriptionFeed a Capybara
-/
-FeedCritter_Meadow_DescriptionFeed a Rabbit
-0
-FeedCritter_Outpost_DescriptionFeed a Monkey
-0
-FeedCritter_Plaza_DescriptionFeed a Squirrel
-2
- FeedCritter_Savannah_DescriptionFeed a Sunbird
-4
- FeedCritter_Wetlands_DescriptionFeed a Crocodile
-S
-$FeedDarkMountainsCritter_Description+Feed the critters from the Forgotten Lands!
-1
-FeedDarkMountainsCritter_TitleFeed the Ravens
-B
-FeedDesertCritter_Description!Feed the critters from the Dunes!
-*
-FeedDesertCritter_TitleFeed the Cobras
-d
-(FeedFavoriteFoodBeachCritter_Description8Feed the critters from Dazzle Beach their favorite food!
-N
-"FeedFavoriteFoodBeachCritter_Title(Feed the Sea Turtles Their Favorite Food
-l
-)FeedFavoriteFoodCliffsCritter_Description?Feed the critters from the Frosted Heights their favorite food!
-I
-#FeedFavoriteFoodCliffsCritter_Title"Feed the Foxes Their Favorite Food
-s
-0FeedFavoriteFoodDarkMountainsCritter_Description?Feed the critters from the Forgotten Lands their favorite food!
-Q
-*FeedFavoriteFoodDarkMountainsCritter_Title#Feed the Ravens Their Favorite Food
-b
-)FeedFavoriteFoodDesertCritter_Description5Feed the critters from the Dunes their favorite food!
-J
-#FeedFavoriteFoodDesertCritter_Title#Feed the Cobras Their Favorite Food
-i
-)FeedFavoriteFoodForestCritter_Description<Feed the critters from the Forest Biome their favorite food!
-L
-#FeedFavoriteFoodForestCritter_Title%Feed the Raccoons Their Favorite Food
-c
-)FeedFavoriteFoodJungleCritter_Description6Feed the critters from the Tangle their favorite food!
-M
-#FeedFavoriteFoodJungleCritter_Title&Feed the Capybaras Their Favorite Food
-l
-)FeedFavoriteFoodMeadowCritter_Description?Feed the critters from the Peaceful Meadow their favorite food!
-K
-#FeedFavoriteFoodMeadowCritter_Title$Feed the Rabbits Their Favorite Food
-k
-*FeedFavoriteFoodOutpostCritter_Description=Feed the critters from Ancient's Landing their favorite food!
-L
-$FeedFavoriteFoodOutpostCritter_Title$Feed the Monkeys Their Favorite Food
-m
-+FeedFavoriteFoodSavannahCritter_Description>Feed the critters from the Sunlit Plateau their favorite food!
-N
-%FeedFavoriteFoodSavannahCritter_Title%Feed the Sunbirds Their Favorite Food
-j
-(FeedFavoriteFoodSwampCritter_Description>Feed the critters from the Glade of Trust their favorite food!
-M
-"FeedFavoriteFoodSwampCritter_Title'Feed the Crocodiles Their Favorite Food
-a
-(FeedFavoriteFoodUrbanCritter_Description5Feed the critters from the Plaza their favorite food!
-L
-"FeedFavoriteFoodUrbanCritter_Title&Feed the Squirrels Their Favorite Food
-L
-FeedForestCritter_Description+Feed the critters from the Forest of Valor!
-,
-FeedForestCritter_TitleFeed the Raccoons
-C
-FeedJungleCritter_Description"Feed the critters from the Tangle!
--
-FeedJungleCritter_TitleFeed the Capybaras
-L
-FeedMeadowCritter_Description+Feed the critters from the Peaceful Meadow!
-+
-FeedMeadowCritter_TitleFeed the Rabbits
-K
-FeedOutpostCritter_Description)Feed the critters from Ancient's Landing.
-,
-FeedOutpostCritter_TitleFeed the Monkeys
-M
-FeedSavannahCritter_Description*Feed the critters from the Sunlit Plateau!
-.
-FeedSavannahCritter_TitleFeed the Sunbirds
-J
-FeedSwampCritter_Description*Feed the critters from the Glade of Trust!
--
-FeedSwampCritter_TitleFeed the Crocodiles
-A
-FeedUrbanCritter_Description!Feed the critters from the Plaza!
-,
-FeedUrbanCritter_TitleFeed the Squirrels
-;
-GainStarCoins_DescriptionGain {TargetAmount} Star Coins
-T
-"GainXAmountOfStarCoins_Description.Gain Star Coins by being active in the Valley!
-/
-GainXAmountOfStarCoins_TitleGain Star Coins
-9
-GatherSpices_DescriptionHarvest {TargetAmount} Spices
-T
-%GatherSpices_EternityIsle_Description+Harvest {TargetAmount} Eternity Isle Spices
-8
-GatherXAgave_DescriptionHarvest Agave from the Isle!
-#
-GatherXAgave_TitleHarvest Agave
-8
-GatherXBasil_DescriptionHarvest Basil in the Valley!
-#
-GatherXBasil_TitleHarvest Basil
-8
-GatherXCumin_DescriptionHarvest Cumin from the Isle!
-#
-GatherXCumin_TitleHarvest Cumin
-:
-GatherXGarlic_DescriptionHarvest Garlic in the Valley!
-%
-GatherXGarlic_TitleHarvest Garlic
-:
-GatherXGinger_DescriptionHarvest Ginger in the Valley!
-%
-GatherXGinger_TitleHarvest Ginger
->
-GatherXMajestea_DescriptionHarvest Majestea from the Isle!
-)
-GatherXMajestea_TitleHarvest Majestea
-6
-GatherXMint_DescriptionHarvest Mint in the Valley!
-!
-GatherXMint_TitleHarvest Mint
-<
-GatherXOregano_DescriptionHarvest Oregano in the Valley!
-'
-GatherXOregano_TitleHarvest Oregano
-<
-GatherXPaprika_DescriptionHarvest Paprika from the Isle!
-'
-GatherXPaprika_TitleHarvest Paprika
-<
-GatherXVanilla_DescriptionHarvest Vanilla in the Valley!
-'
-GatherXVanilla_TitleHarvest Vanilla
-B
-GiveFavoriteGift_Description"Bring a Friend their favorite Gift
-3
-GiveGifts_DescriptionBring {TargetAmount} Gifts
-J
-GiveXFavoriteGifts_Description(Bring your Friends their favorite Gifts!
->
-GiveXFavoriteGifts_Title"Bring Friends Their Favorite Gifts
-6
-GiveXGifts_DescriptionBring Gifts to your friends!
- 
-GiveXGifts_TitleBring Gifts!
-N
-)GiveXGiftsDifferentCharacters_Description!Bring Gifts to different friends!
-=
-#GiveXGiftsDifferentCharacters_TitleBring Gifts to Friends
-d
-*Halloween_Halloween3CourseMeal_Description6{Placeholder}Sample All 3 Halloween Exclusive Candies.
-B
-$Halloween_Halloween3CourseMeal_TitleA 3-Course Halloween Meal!
-D
-'Halloween_ReadyForHalloween_Description{Placeholder}Wear a mask.
->
-!Halloween_ReadyForHalloween_TitleVillainy Wears Many Masks
-M
-'Halloween_StockpilePumpkins_Description"{Placeholder}Harvest 100 Pumpkins.
-9
-!Halloween_StockpilePumpkins_TitleStockpiling Pumpkins
-E
-Halloween_SugarRush_Description"{Placeholder}Eat a lot of Candies!
-'
-Halloween_SugarRush_Title
-Sugar Rush
-S
-"Halloween_TrickOrTreat_Description-{Placeholder}Distribute Candies to Villagers!
-.
-Halloween_TrickOrTreat_TitleTrick or Treat
-B
- HarvestFruits_Almond_DescriptionHarvest {TargetAmount} Almonds
-B
- HarvestFruits_Banana_DescriptionHarvest {TargetAmount} Bananas
-E
-HarvestFruits_Beach_Description"Harvest {TargetAmount} Blueberries
-K
-$HarvestFruits_Cactoberry_Description#Harvest {TargetAmount} Cactoberries
-F
-HarvestFruits_Cliff_Description#Harvest {TargetAmount} Gooseberries
-D
-!HarvestFruits_Coconut_DescriptionHarvest {TargetAmount} Coconuts
-G
- HarvestFruits_Coffee_Description#Harvest {TargetAmount} Coffee Beans
->
-HarvestFruits_Date_DescriptionHarvest {TargetAmount} Dates
-9
-HarvestFruits_DescriptionHarvest {TargetAmount} Fruit
-I
-#HarvestFruits_Dreamango_Description"Harvest {TargetAmount} Dreamangoes
-A
- HarvestFruits_Forest_DescriptionHarvest {TargetAmount} Lemons
-P
-'HarvestFruits_NestlingBerry_Description%Harvest {TargetAmount} Nestling Pears
-F
-%HarvestFruits_PlazaMeadow_DescriptionHarvest {TargetAmount} Apples
-I
-#HarvestFruits_Raspberry_Description"Harvest {TargetAmount} Raspberries
-G
-"HarvestFruits_Savannah_Description!Harvest {TargetAmount} {ItemName}
-K
-$HarvestFruits_Strawberry_Description#Harvest {TargetAmount} Strawberries
-H
-"HarvestFruits_Wetlands_Description"Harvest {TargetAmount} Cocoa Beans
-B
-HarvestVegetables_Description!Harvest {TargetAmount} Vegetables
-b
-*HarvestVegetables_EternityIsle_Description4Harvest {TargetAmount} Vegetables from Eternity Isle
-X
-%HarvestXTypesOfVegetables_Description/Harvest a variety of Vegetables in your garden!
-?
-HarvestXTypesOfVegetables_TitleHarvest Different Vegetables
-J
-HarvestXVegetables_Description(Grow a lot of Vegetables in your garden!
-.
-HarvestXVegetables_TitleHarvest Vegetables
-X
-,HarvestXVegetablesInEternityIsle_Description(Grow a lot of Vegetables in your garden!
-O
-&HarvestXVegetablesInEternityIsle_Title%Harvest Vegetables from Eternity Isle
-_
-&HarvestXVegetablesInMeadow_Description5Harvest multiple Vegetables from the Peaceful Meadow!
-O
- HarvestXVegetablesInMeadow_Title+Harvest Vegetables from the Peaceful Meadow
-V
-!Have10FriendsAtLevelX_Description1Get 10 Villagers to Friendship Level {milestone}!
-P
-Have10FriendsAtLevelX_Title1Have 10 Villagers at Friendship Level {milestone}
-R
-Have1FriendAtLevelX_Description/Get 1 Villager to Friendship Level {milestone}!
-L
-Have1FriendAtLevelX_Title/Have 1 Villager at Friendship Level {milestone}
-V
-!Have20FriendsAtLevelX_Description1Get 20 Villagers to Friendship Level {milestone}!
-P
-Have20FriendsAtLevelX_Title1Have 20 Villagers at Friendship Level {milestone}
-T
- Have5FriendsAtLevelX_Description0Get 5 Villagers to Friendship Level {milestone}!
-N
-Have5FriendsAtLevelX_Title0Have 5 Villagers at Friendship Level {milestone}
-F
-$InsideOuit_FeelingJoyful_DescriptionComplete the Pink Core Memory.
-0
-InsideOuit_FeelingJoyful_TitleFeeling Joyful
-H
-)InsideOut_FeelingAccomplished_DescriptionComplete all Core Memories.
-;
-#InsideOut_FeelingAccomplished_TitleFeeling Accomplished
-J
-&InsideOut_FeelingExpansive_Description Complete the Yellow Core Memory.
-5
- InsideOut_FeelingExpansive_TitleFeeling Expansive
-H
-&InsideOut_FeelingNostalgic_DescriptionComplete the Blue Core Memory.
-5
- InsideOut_FeelingNostalgic_TitleFeeling Nostalgic
-?
-!InsideOut_Memorabilia_DescriptionCollect any Memory Pieces.
-*
-InsideOut_Memorabilia_TitleMemorabilia
-I
-MakeXBestFriends_Description)Have multiple Best Friends in the Valley!
-+
-MakeXBestFriends_TitleMake Best Friends
-@
-MakeXFriends_Description$Have multiple Friends in the Valley!
-"
-MakeXFriends_TitleMake Friends
-7
-MineMineral_DescriptionMine {TargetAmount} Minerals
-:
-MineRockSpot_DescriptionMine {TargetAmount} Rock Spots
-Q
-MineRockSpots_Beach_Description.Mine {TargetAmount} Rock Spots on Dazzle Beach
-X
-MineRockSpots_Cliff_Description5Mine {TargetAmount} Rock Spots in the Frosted Heights
-W
-MineRockSpots_Dark_Description5Mine {TargetAmount} Rock Spots in the Forgotten Lands
-Z
- MineRockSpots_Desert_Description6Mine {TargetAmount} Rock Spots in the Glittering Dunes
-Y
- MineRockSpots_Forest_Description5Mine {TargetAmount} Rock Spots in the Forest of Valor
-U
- MineRockSpots_Jungle_Description1Mine {TargetAmount} Rock Spots in the Wild Tangle
-Y
- MineRockSpots_Meadow_Description5Mine {TargetAmount} Rock Spots in the Peaceful Meadow
-X
-!MineRockSpots_Outpost_Description3Mine {TargetAmount} Rock Spots in Ancient's Landing
-\
-%MineRockSpots_PlateauMine_Description3Mine {TargetAmount} Rock Spots in the Vitalys Mines
-N
-MineRockSpots_Plaza_Description+Mine {TargetAmount} Rock Spots in the Plaza
-Z
-"MineRockSpots_Savannah_Description4Mine {TargetAmount} Rock Spots on the Sunlit Plateau
-Z
-"MineRockSpots_Wetlands_Description4Mine {TargetAmount} Rock Spots in the Glade of Trust
-T
-MineXAlexandrite_Description4Mine for multiple pieces of Alexandrite on the Isle!
-*
-MineXAlexandrite_TitleMine Alexandrite
-P
-MineXAmethyst_Description3Mine for multiple pieces of Amethyst in the Valley!
-%
-MineXAmethyst_TitleMine Amethysts
-T
-MineXAquamarine_Description5Mine for multiple pieces of Aquamarine in the Valley!
-(
-MineXAquamarine_TitleMine Aquamarine
-S
-MineXBlueZircon_Description4Mine for multiple pieces of Blue Zircon on the Isle!
-)
-MineXBlueZircon_TitleMine Blue Zircon
-T
-MineXBumblestone_Description4Mine for multiple pieces of Bumblestone on the Isle!
-*
-MineXBumblestone_TitleMine Bumblestone
-N
-MineXCitrine_Description2Mine for multiple pieces of Citrine in the Valley!
-"
-MineXCitrine_TitleMine Citrine
-N
-MineXDiamond_Description2Mine for multiple pieces of Diamond in the Valley!
-#
-MineXDiamond_TitleMine Diamonds
-E
-MineXEmerald_Description)Mine for multiple Emeralds in the Valley!
-#
-MineXEmerald_TitleMine Emeralds
-N
-MineXEvergems_Description1Mine for multiple pieces of Evergems on the Isle!
-$
-MineXEvergems_TitleMine Evergems
-L
-MineXGarnet_Description1Mine for multiple pieces of Garnet in the Valley!
-!
-MineXGarnet_TitleMine Garnets
-F
-MineXJade_Description-Mine for multiple pieces of Jade on the Isle!
-
-MineXJade_Title	Mine Jade
-J
-MineXMineral_Description.Mine for multiple pieces of Ore in the Valley!
-#
-MineXMineral_TitleMine Minerals
-H
-MineXOnyx_Description/Mine for multiple pieces of Onyx in the Valley!
-
-MineXOnyx_Title	Mine Onyx
-N
-MineXPeridot_Description2Mine for multiple pieces of Peridot in the Valley!
-"
-MineXPeridot_TitleMine Peridot
-H
-MineXRuby_Description/Mine for multiple pieces of Ruby in the Valley!
-
-MineXRuby_TitleMine Rubies
-P
-MineXSapphire_Description3Mine for multiple pieces of Sapphire in the Valley!
-%
-MineXSapphire_TitleMine Sapphires
-J
-MineXSpinel_Description/Mine for multiple pieces of Spinel on the Isle!
- 
-MineXSpinel_TitleMine Spinel
-J
-MineXTopaz_Description0Mine for multiple pieces of Topaz in the Valley!
- 
-MineXTopaz_TitleMine Topazes
-T
-MineXTourmaline_Description5Mine for multiple pieces of Tourmaline in the Valley!
-(
-MineXTourmaline_TitleMine Tourmaline
-^
-MineXVitalysCrystal_Description;Mine for multiple pieces of Vitalys Crystals in the Valley!
-2
-MineXVitalysCrystal_TitleMine Vitalys Crystals
->
-"Park_CraftPurpleButton_DescriptionCraft 50 Purple Buttons.
-,
-Park_CraftPurpleButton_TitleButton-Maker
-N
- Park_FestivalPalooza_Description*Decorate your Valley with Popcorn Buckets.
-0
-Park_FestivalPalooza_TitlePopcorn Enthusiast
-[
-&Park_SweetestNeighboorEver_Description1Give Villagers 50 Dreamlight Parks Fest Cupcakes.
-3
- Park_SweetestNeighboorEver_TitleSweet Samaritan
-:
-PickMushrooms_DescriptionPick {TargetAmount} Mushrooms
-D
-PickupXMushroom_Description%Harvest some Mushrooms in the Valley!
-*
-PickupXMushroom_TitleHarvest Mushrooms
-C
-PickXAlmonds_Description'Harvest Almonds from trees on the Isle!
-%
-PickXAlmonds_TitleHarvest Almonds
-C
-PickXApples_Description(Harvest Apples from trees in the Valley!
-#
-PickXApples_TitleHarvest Apples
-D
-PickXBanana_Description)Harvest Bananas from trees in the Valley!
-$
-PickXBanana_TitleHarvest Bananas
-N
-PickXBlueberries_Description.Harvest Blueberries from bushes in the Valley!
--
-PickXBlueberries_TitleHarvest Blueberries
-M
-PickXCactoberries_Description,Harvest Cactoberries from trees on the Isle!
-/
-PickXCactoberries_TitleHarvest Cactoberries
-G
-PickXCherries_Description*Harvest Cherries from trees in the Valley!
-'
-PickXCherries_TitleHarvest Cherries
-A
-PickXCocoa_Description'Harvest Cocoa from trees in the Valley!
-!
-PickXCocoa_TitleHarvest Cocoa
-F
-PickXCoconut_Description*Harvest Coconuts from trees in the Valley!
-&
-PickXCoconut_TitleHarvest Coconuts
-J
-PickXCoffee_Description/Harvest Coffee Beans from bushes in the Valley!
-)
-PickXCoffee_TitleHarvest Coffee Beans
->
-PickXDate_Description%Harvest Dates from trees on the Isle!
- 
-PickXDate_TitleHarvest Dates
-L
-PickXDreamangoes_Description,Harvest Dreamangoes from bushes on the Isle!
--
-PickXDreamangoes_TitleHarvest Dreamangoes
-X
-!PickXDreamlightFruits_Description3Harvest Dreamlight Fruits from trees in the Valley!
-8
-PickXDreamlightFruits_TitleHarvest Dreamlight Fruits
-P
-PickXGooseberries_Description/Harvest Gooseberries from bushes in the Valley!
-/
-PickXGooseberries_TitleHarvest Gooseberries
-C
-PickXLemons_Description(Harvest Lemons from trees in the Valley!
-#
-PickXLemons_TitleHarvest Lemons
-A
-PickXLimes_Description'Harvest Limes from trees in the Valley!
-!
-PickXLimes_TitleHarvest Limes
-P
-PickXNestlingPears_Description.Harvest Nestling Pears from trees on the Isle!
-2
-PickXNestlingPears_TitleHarvest Nestling Pears
-N
-PickXRaspberries_Description.Harvest Raspberries from bushes in the Valley!
--
-PickXRaspberries_TitleHarvest Raspberries
-N
-PickXStrawberries_Description-Harvest Strawberries from bushes on the Isle!
-/
-PickXStrawberries_TitleHarvest Strawberries
-L
-PickXTypesOfFruits_Description*Harvest a variety of fruits in the Valley!
-4
-PickXTypesOfFruits_TitleHarvest Different Fruits
-A
-PlantSpecificCrops_DescriptionPlant {TargetAmount} {ItemName}
->
-PlantVegetables_DescriptionPlant {TargetAmount} Vegetables
-\
-(PlantVegetables_EternityIsle_Description0Plant {TargetAmount} Vegetables on Eternity Isle
-H
-PlantXVegetables_Description(Plant a lot of Vegetables in the Valley!
-*
-PlantXVegetables_TitlePlant Vegetables
-T
-*PlantXVegetablesInEternityIsle_Description&Plant a lot of Vegetables on the Isle!
-I
-$PlantXVegetablesInEternityIsle_Title!Plant Vegetables on Eternity Isle
-R
-PurchaseXBeachSeeds_Description/Use Goofy's Stall on Dazzle Beach to buy seeds!
-8
-PurchaseXBeachSeeds_TitleBuy Seeds from Dazzle Beach
-a
-'PurchaseXDarkMountainsSeeds_Description6Use Goofy's Stall in the Forgotten Lands to buy seeds!
-G
-!PurchaseXDarkMountainsSeeds_Title"Buy Seeds from the Forgotten Lands
-P
- PurchaseXDesertSeeds_Description,Use Goofy's Stall in the Dunes to buy seeds!
-?
-PurchaseXDesertSeeds_Title!Buy Seeds in the Glittering Dunes
-Z
- PurchaseXForestSeeds_Description6Use Goofy's Stall in the Forest of Valor to buy seeds!
-@
-PurchaseXForestSeeds_Title"Buy Seeds from the Forest of Valor
-Q
- PurchaseXJungleSeeds_Description-Use Goofy's Stall in the Tangle to buy seeds!
-:
-PurchaseXJungleSeeds_TitleBuy Seeds in the Wild Tangle
-Z
- PurchaseXMeadowSeeds_Description6Use Goofy's Stall in the Peaceful Meadow to buy seeds!
-@
-PurchaseXMeadowSeeds_Title"Buy Seeds from the Peaceful Meadow
-Y
-!PurchaseXOutpostSeeds_Description4Use Goofy's Stall in Ancient's Landing to buy seeds!
-=
-PurchaseXOutpostSeeds_TitleBuy Seeds in Ancient's Landing
-[
-"PurchaseXSavannahSeeds_Description5Use Goofy's Stall on the Sunlit Plateau to buy seeds!
-A
-PurchaseXSavannahSeeds_Title!Buy Seeds from the Sunlit Plateau
-^
-$PurchaseXSnowCliffsSeeds_Description6Use Goofy's Stall in the Frosted Heights to buy seeds!
-D
-PurchaseXSnowCliffsSeeds_Title"Buy Seeds from the Frosted Heights
-X
-PurchaseXSwampSeeds_Description5Use Goofy's Stall in the Glade of Trust to buy seeds!
->
-PurchaseXSwampSeeds_Title!Buy Seeds from the Glade of Trust
-C
-RemoveNightThorns_Description"Remove {TargetAmount} Night Thorns
-F
-RemoveXNightThorns_Description$Remove Night Thorns from the Valley!
-5
-RemoveXNightThorns_TitleRemove Small Night Thorns
-h
-&RepairXHouseForYourFriends_Description>Repair multiple houses to invite your friends into the Valley!
-1
- RepairXHouseForYourFriends_TitleRepair Houses
-2
-SellFishes_DescriptionSell {TargetAmount} Fish
-4
-SellFruits_DescriptionSell {TargetAmount} Fruits
-4
-SellGems_DescriptionSell {TargetAmount} Minerals
-2
-SellMeals_DescriptionSell {TargetAmount} Meals
-<
-SellVegetables_DescriptionSell {TargetAmount} Vegetables
-E
-SellXFish_Description,Sell the Fish you caught to make Star Coins!
-
-SellXFish_Title	Sell Fish
-U
-%SellXFishFromEternityIsle_Description,Sell the Fish you caught to make Star Coins!
-?
-SellXFishFromEternityIsle_TitleSell Fish from Eternity Isle
-K
-SellXFruits_Description0Sell the fruit you harvested to make Star Coins!
-
-SellXFruits_Title
-Sell Fruit
-[
-'SellXFruitsFromEternityIsle_Description0Sell the fruit you harvested to make Star Coins!
-B
-!SellXFruitsFromEternityIsle_TitleSell Fruit from Eternity Isle
-=
-SellXMeals_Description#Sell your Meals to make Star Coins!
-
-SellXMeals_Title
-Sell Meals
-7
-SellXMineral_DescriptionSell a lot of Ore to Goofy!
-
-SellXMineral_Title	Sell Gems
-G
-(SellXMineralFromEternityIsle_DescriptionSell a lot of Ore to Goofy!
-B
-"SellXMineralFromEternityIsle_TitleSell Gems from Eternity Isle
-G
-SellXVegetables_Description(Sell your Vegetables to make Star Coins!
-(
-SellXVegetables_TitleSell Vegetables
-W
-+SellXVegetablesFromEternityIsle_Description(Sell your Vegetables to make Star Coins!
-K
-%SellXVegetablesFromEternityIsle_Title"Sell Vegetables from Eternity Isle
-G
-%ServeCustomerInRestaurant_DescriptionServe a Meal in the Restaurant
-O
-Spring_DecorateEggs_Description,Decorate with any 4 pieces of Egg furniture.
-6
-Spring_DecorateEggs_TitleEggs-ceptional Decorating
-7
-Spring_EggCatcher_DescriptionHarvest V-EGG-etables.
-;
-Spring_EggCatcher_Title That's Not Where Eggs Come From!
-F
-Spring_EggEater_Description'Eat 3 different Spring Egg-based meals.
-*
-Spring_EggEater_TitleSpring Taste Test
-S
-!Spring_FlowerDelivery_Description.Pick flowers while hanging out with WALLÂ·E.
-6
-Spring_FlowerDelivery_TitleWALLÂ·E Loves Flowers
-7
-StartDiscussions_DescriptionHave a daily discussion
-K
-StartXDiscussions_Description*Start discussions daily with your Friends!
-2
-StartXDiscussions_TitleHave Daily Discussions!
-]
-0StartXDiscussionsDifferentCharacters_Description)Start discussions with different Friends!
-V
-*StartXDiscussionsDifferentCharacters_Title(Have Discussions with Different Friends!
-C
-#StPatricks_CloverPickup_DescriptionPossess 7 Four-Leaf Clovers.
-+
-StPatricks_CloverPickup_Title
-Lucky You!
-,
-Summer_EatSmores_DescriptionEat S'mores.
-.
-Summer_EatSmores_TitleSavor Some Sweetness
-N
-"Summer_GiveMarshmallow_Description(Give Roasted Marshmallows to a Villager.
-4
-Summer_GiveMarshmallow_TitleShare Some Sweetness
-*
-TakePictures_DescriptionTake a picture
-9
-TakeXPictures_DescriptionTake pictures in the Valley!
-$
-TakeXPictures_TitleTake Pictures
-O
-UnlockAreas_Description4Remove the Giant Night Thorns and unlock new Biomes!
-:
-UnlockAreas_Title%Remove Giant Night Thorns from Biomes
-T
-UnlockStalls_Description8Repair multiple stalls to let Goofy sell you more stuff!
-#
-UnlockStalls_TitleRepair Stalls
-S
-UpgradeGarden_Description6Get help from Scrooge and Goofy to upgrade the garden!
-1
-UpgradeGarden_TitleUpgrade WALLÂ·E's Garden
-`
-UpgradeGeneralStore_Description=Get help from Scrooge and Goofy to upgrade the general store!
-4
-UpgradeGeneralStore_TitleUpgrade Scrooge's Store
-X
-UpgradeMoanaBoat_Description8Get help from Scrooge and Goofy to upgrade Moana's Boat!
-.
-UpgradeMoanaBoat_TitleUpgrade Moana's Boat
-X
-UpgradePlayerHouse_Description6Get help from Scrooge and Goofy to upgrade your House!
-.
-UpgradePlayerHouse_TitleUpgrade Your House
-[
-UpgradeRestaurant_Description:Get help from Scrooge and Goofy to upgrade the restaurant!
-4
-UpgradeRestaurant_TitleUpgrade Remy's Restaurant
-]
-WaterXVegetables_Description=Use the Watering Can to water dried vegetables in the Valley!
-0
-WaterXVegetables_TitleWater Dried Vegetables

@@ -1,117 +1,0 @@
-
-b
-Merlin_000_fRHey Merlin? I found a strange object in the Valley and it made things go... wrong.
-?
-Merlin_005_f/I used to play with it outside with my friends.
-<
-Player_004_f,When I picked it up, it felt exactly like...
-B
-Player_004_choice_001_f'...the last time I ever played outside.
-S
-Player_004_choice_002_f8...playing the make-believe games I never wanted to end.
-I
-Player_004_choice_003_f....drifting apart from childhood best friends.
-z
-Merlin_001_fjIt's a diary Jasmine and I found. I wrote it when I was younger but... I don't remember doing that at all.
--
-Player_000_fWhen I held it in my hands...
-G
-Player_000_choice_001_f,...I just wanted to be FREE to live my life!
-M
-Player_000_choice_002_f2...I remembered feeling like no one understood me.
-<
-Player_000_choice_003_f!...I felt like a lonely teenager.
-[
-Merlin_009_fKI see... What a peculiar response... And you have NO memory of this object?
-J
-Player_005_choice_000_f/No, but the feelings it brought up were STRONG.
-.
-Player_005_choice_001_fI don't think so...
-8
-Player_005_choice_002_fIs this a bad practical joke?
-L
-Merlin_011_f<Strong and perhaps a little turbulent by the sounds of it...
-N
-Merlin_013_f>I believe what you've found is a magical <Lore>Memento</Lore>.
-≤
-Merlin_014_f°They're created when someone takes an experience √¢¬Ä¬î perhaps a complicated or even unpleasant one √¢¬Ä¬î and seals it away, where it can no longer reach them.
-F
-Merlin_015_f6And I believe, in this instance, that someone was YOU.
-,
-Player_008_fI made this "Memento" thing?
-/
-Player_008_choice_000_fWhat does that mean?
-;
-Player_008_choice_001_f Why don't I remember doing this?
-@
-Player_008_choice_002_f%How dare it make me feel my FEELINGS!
-k
-Merlin_016_f[It means that before the Forgetting, you used your magic to get rid of an emotional memory.
-è
-Merlin_019_fThe experience contained within the Memento is starting to push back and escape the object. Hence the, uh... odd magical chaos.
-Ω
-Merlin_024_f¨Feelings, after all, do not like to be denied or pushed away. They always return, often stronger, until they are dealt with. These feelings must be embraced and understood.
--
-Player_009_choice_000_fOK... What's next?
-<
-Player_009_choice_001_f!I don't like the sound of this...
-4
-Player_009_choice_002_fBut it's over now, right?
-Å
-Merlin_022_fqWell, I would imagine the object you mentioned is <Lore>not the only one of its kind hidden in the Valley</Lore>.
-â
-Merlin_027_fyWe should keep our eyes and ears open for <Lore>more Mementos</Lore> and for the problems they will most certainly cause.
-d
-Merlin_004_fT<Lore>Only you can face the feeling stored inside</Lore> and set things right again.
-M
-Player_003_f=Face emotions that pre-Forgetting me magically sealed away...
-?
-Player_003_choice_000_f$Just another day in the Valley, huh?
-7
-Player_003_choice_001_fThis sounds pretty daunting.
-E
-Player_003_choice_002_f*I'm going to craft a box of tissues, ASAP.
-õ
-Merlin_008_fäYes, I suppose you're right. But don't forget: You've become quite capable of pushing back mayhem with your Dreamlight Magic. And, well...
-ï
-Merlin_025_fÑI believe I can speak for the entire Village when I say we are here to help you weather these storms... whatever form they may take.
-Ÿ
-Merlin_028_f»Now then, be sure to <Lore>store the Mementos you find somewhere safe</Lore>. I'm certain they will lead back to something... or someone... who was quite important to you at the time you created them.
-\
-Merlin_021_fLTake heart, {PlayerName}. Whatever is ahead, know that you are dearly loved.
-
-Merlin_006_fAh...
-7
-Merlin_026_f'I handled the problem... so we're good?
-
-Merlin_023_fAh...
-X
-Merlin_017_fHWe can assume that you did it before the Forgetting, and thus, long ago.
-n
-Merlin_020_f^You used your magic to rid yourself of something difficult. Something you wanted to push away.
-k
-Merlin_018_f[A beautiful, though occasionally challenging, necessity of the human condition, I'm afraid.
-#
-Merlin_010_fHmm... How curious.
--
-Merlin_012_fI'm afraid not, {PlayerName}.
-l
-Merlin_002_f\It's some sort of magical kaleidoscope... And it's started to warp everything in the Valley.
-3
-Player_001_f#When I picked it up it felt like...
-;
-Player_001_choice_000_f ...I was being told I was weird.
-?
-Player_001_choice_001_f$...I'd never find a place to fit in.
-?
-Player_001_choice_002_f$...Someone was laughing at my ideas.
-P
-Merlin_003_f@It's something that was important to me when I was really young.
-R
-Player_002_fBWhen I picked it up, I remembered I gave it up too soon because...
-P
-Player_002_choice_000_f5...I was embarrassed that no one else needed comfort.
-C
-Player_002_choice_001_f(...I wanted to prove how grown-up I was.
-C
-Player_002_choice_002_f(...Someone made fun of me for liking it.

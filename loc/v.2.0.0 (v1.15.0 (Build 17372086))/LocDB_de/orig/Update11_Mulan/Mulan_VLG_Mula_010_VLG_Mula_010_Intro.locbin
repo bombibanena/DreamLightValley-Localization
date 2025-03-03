@@ -1,39 +1,0 @@
-
-‹
-Mulan_004_f|Hey, {PlayerName}. I'm really enjoying myself here, but I could use a little help finding my bearings. Do you have a moment?
-7
-Player_000_choice_000_fOf course. What do you need?
-0
-Player_000_choice_002_fSorry, not right now.
-p
-Mulan_005_faWell, one of the most valuable things I learned during my training was the importance of balance.
-v
-Mulan_007_fgYou have to use the same discipline when caring for yourself as you do when facing physical challenges.
-8
-Mulan_008_f)If you don't, you won't achieve anything.
-¬
-Mulan_009_fœLike when we were back in camp â€” you put the same dedication into your uniform and the camp as you did in the exercises. And all of that helped you excel.
-i
-Mulan_010_fZI'd like to create a similar daily regime for myself here. And I was hoping you'd join me.
-/
-Player_001_choice_000_fThat's a great idea.
-B
-Player_001_choice_001_f'I guess a little order couldn't hurt...
-A
-Player_001_choice_002_f&Routine isn't my thing, but I'll help.
-S
-Mulan_011_fDOh, I'm so glad to have you by my side! We can even start right now.
-?
-Mulan_012_f0I was thinking we should begin with a good meal.
-‰
-Mulan_000_fzSpecifically, I'm craving this new food Mickey introduced me to recently... <ActivityItem>Vegetarian Pizza</ActivityItem>?
-y
-Mulan_014_fjPizza? Well, that's unexpected... but I can make it happen. I'll make sure the Ingredients are fresh, too.
-l
-Mulan_003_f]Great! While you do that, I'm gonna make a new training plan. I know this will help me a lot!
-K
-Mulan_013_f<I bet you'll find it will actually HELP once we get started.
-;
-Mulan_015_f,Thank you. I appreciate you giving it a try.
-<
-Mulan_006_f-That's okay. Whenever you can would be great.

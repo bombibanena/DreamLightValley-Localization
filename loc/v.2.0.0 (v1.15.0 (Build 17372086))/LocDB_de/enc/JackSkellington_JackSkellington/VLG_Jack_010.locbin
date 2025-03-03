@@ -1,65 +1,0 @@
-
-�
-NVillage!Nightmare!JackSkellington!VLG_Jack_010_Any_CompletedRequestDescriptionNПокажите картинку Джек Скеллингтон Skellington.
-�
-CVillage!Nightmare!JackSkellington!VLG_Jack_010_AvailableDescriptionQДжек Скеллингтон все еще новенькая в Долине.
-�
-HVillage!Nightmare!JackSkellington!VLG_Jack_010_CompletedStoryDescription�Сделав фотографию, Джек Скеллингтон Skellington наконец-то почувствовал себя желанным в Долине, теперь он может начать изучать таинственную связь между Dreamlight и праздничными магиями...
-v
-:Village!Nightmare!JackSkellington!VLG_Jack_010_DisplayName8Тыквенный король возвращается
-n
-MVillage!Nightmare!JackSkellington!VLG_Jack_010_Group01_Step01_StepDescriptionПоговори с Олаф.
-�
-XVillage!Nightmare!JackSkellington!VLG_Jack_010_Group02_Step02_CookMeal01_StepDescription?Приготовить свежий {ItemName} для Олаф.
-�
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group02_StoryDescription�Олаф - первая остановка в списке, но он очень расстроен после того, как Джек Скеллингтон Skellington ворвался и испортил своё мороженое.
-�
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group03_Step03_BringItem01_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
-|
-NVillage!Nightmare!JackSkellington!VLG_Jack_010_Group03_Step03_ReadyDescription*Возьмите {itemName} на Олаф.
-�
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group04_Step04_TalkToCharacter02_StepDescription@Поговори с Джек Скеллингтон Skellington.
-�
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group04_StoryDescription�Мороженое Олаф было заменено, но похоже, что Урсула является следующей жертвой любопытства Джек Скеллингтон Skellington?
-�
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group05_Step05_TalkToCharacter03_StepDescriptionПознакомьтесь с Урсула, чтобы представить её Джек Скеллингтон Skellington.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem02_StepDescription{itemName}.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem03_StepDescription{itemName}.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem04_StepDescription{itemName}.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem05_StepDescription{itemName}.
-�
-NVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_ReadyDescriptionEПринесите то, что вы собрали на {TargetNPC}.
-�
-MVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_StepDescription;Соберите следующие ингредиенты:
-�
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_StoryDescription�Похоже, что Урсула также имел предыдущую стычку с Джек Скеллингтон Skellington, где он оставил ее коллекцию зелья в беспорядке.
-�
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group07_Step07_TalkToCharacter04_StepDescription@Поговори с Джек Скеллингтон Skellington.
-�
-VVillage!Nightmare!JackSkellington!VLG_Jack_010_Group08_Step08_Listen01_StepDescription�Следуйте за Джек Скеллингтон Скелингтоном и послушайте, что он скажет.
-�
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group09_Step09_TalkToCharacter05_StepDescription@Поговори с Джек Скеллингтон Skellington.
-�
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group09_StoryDescription�Джек Скеллингтон разговаривал с Крёстной Феей, но к вашему удивлению, вместо того, чтобы шутить, вы нашли их в приятном разговоре о тыкве.
-f
-WVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_Step10_Possess01_StepDescription{itemName}.
-f
-WVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_Step10_Possess02_StepDescription{itemName}.
-�
-MVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_Step10_StepDescription7Соберите следующие материалы:
-�
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_StoryDescription�Джек Скеллингтон беспокоит, что деревенские жители не знают, что он король тыквы, и поэтому заручаются вашей помощью в строительстве трона для демонстрации в Долине.
-�
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group11_Step11_CraftItem01_StepDescriptionIПриготовить трон для Тыквенного Короля.
-�
-XVillage!Nightmare!JackSkellington!VLG_Jack_010_Group12_Step12_Decorate01_StepDescriptionbПоместите трон Тыквенного Короля где угодно в Долине.
-�
-[Village!Nightmare!JackSkellington!VLG_Jack_010_Group13_Step13_TakePicture01_StepDescriptionuСфотографируй Трон Тыквенного Короля с Джек Скеллингтон Skellington.
-�
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group13_StoryDescription�Трон сейчас в Долине и выглядит довольно по-хорошему! Фотография с Джек Скеллингтон Skellington должна быть хороша, чтобы отпраздновать это событие.
-r
-AVillage!Nightmare!JackSkellington!VLG_Jack_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

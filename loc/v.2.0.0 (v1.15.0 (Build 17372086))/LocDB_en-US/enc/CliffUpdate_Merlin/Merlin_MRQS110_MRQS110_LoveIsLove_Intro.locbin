@@ -1,61 +1,0 @@
-
-@
-Merlin_000_f0{PlayerName}! Precisely who I was hoping to see.
-Y
-Merlin_001_fII'm certain you've noticed the rather snowy problem we have on our hands.
-Ö
-Merlin_002_fuThere's a blizzard in the Frosted Heights. But it isn't a mere meteorological happenstance. There's Dark Magic afoot.
-=
-Merlin_003_f-Magical blizzard? Sounds like a job for Elsa.
-N
-Merlin_004_f>Well, ordinarily, I'd say yes. And I do mean to consult her...
-Å
-Merlin_005_fq...but there's something quite... unnatural about this storm. I fear even Elsa's magic won't be able to quell it.
-B
-Player_000_choice_000_f'What a magical mess. What should we do?
-K
-Player_000_choice_001_f0Let me guess. I'm the only one who can fix this?
-Z
-Player_000_choice_002_f?Thanks. I'll find some mittens and stay away from the blizzard.
-ú
-Merlin_006_fãTo set this right, we'll need to <Lore>restore the Pillar in the Frosted Heights</Lore>. That should keep all the vexing Dark Magic at bay.
-g
-Merlin_007_fWHow do I restore the Pillar? I suppose I'll need to find the Orb, like with the others?
-¢
-Merlin_008_fëPrecisely! But I'm afraid it's easier said than done. The Orb has been missing from the Frosted Heights since shortly after the Forgetting began.
-í
-Merlin_009_fÅAnd it√¢¬Ä¬î Oh dear, it's been missing so long that I can't remember which virtue powered its magic. What could it have been...?
-'
-Player_001_choice_000_fPunctuality?
-$
-Player_001_choice_001_f	Tidiness?
-<
-Player_001_choice_002_f!Not chewing with your mouth open?
-_
-Merlin_010_fOHmm. Arriving precisely when one is needed, if not earlier, is a virtue indeed.
-Q
-Merlin_011_fABut whatever powered this Pillar was something more... elemental.
-ò
-Merlin_012_fáWhatever it was, I'm afraid you'll have trouble finding the Orb. That blizzard means you won't be able to see an inch beyond your nose.
-ß
-Merlin_013_fñI suggest you start by investigating the center of the mystical activity. You must <Lore>search the blizzard for the source of the disturbance.</Lore>
-Ñ
-Merlin_014_ftAnd act quickly! The storm is growing larger. If we don't stop it soon, I fear it will swallow up the entire Valley.
-m
-Merlin_015_f]Oh, and {PlayerName}? I suggest you dress for the weather. It's going to be downright frigid!
-g
-Merlin_016_fWKnowing precisely where everything ought to be and putting it there is a virtue indeed.
-E
-Merlin_017_f5One in short supply around this Valley, I'm afraid...
-ë
-Merlin_018_fÄWhy, that's just basic manners and decency, {PlayerName}! Unless you're a dog, of course. Not exactly within their nature. Oh...
-U
-Merlin_019_fEWell, uh... heh-heh... Yes. That's precisely what I was about to say.
-X
-Merlin_020_fHPerhaps your magical skills extend to prognostication, after all. Now...
-É
-Merlin_021_fsOh no, no, no, that won't do at all! If we don't stop this soon, you won't be safe from it anywhere in the Village.
-}
-Merlin_022_fmThe situation is starting to, well, er... snowball. It won't be long before we're all under ten feet of snow.
-:
-Merlin_023_f*So... what am I supposed to do to stop it?

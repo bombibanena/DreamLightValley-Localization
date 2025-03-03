@@ -1,82 +1,0 @@
-
-)
-Hades_000_f{PlayerName}! What's this?
-<
-Hades_001_f-An apology from Maleficent? Yeah, not likely.
-4
-Hades_002_f%Wait a second. Is this an invitation?
-X
-Player_000_choice_000_f=Oh humble Lord of the Underworld, we request your presence...
-F
-Player_000_choice_001_f+Do you like the little blue flame we added?
->
-Hades_003_f/Heyyyy, now that's the kinda respect I deserve.
-J
-Hades_004_f;Not like what I get from any of the gods at Zeus's parties.
-Y
-Hades_007_fJBut hold on now â€” what are you inviting me to? Merlin's retirement bash?
-k
-Hades_008_f\It's a very important meeting with the Lorekeeper. We need YOUR help to stop the Neverafter.
-{
-Hades_013_flLet me see here... "We invite you to the first meeting of the <Lore>Grand Council of the Neverafter</Lore>"?
-6
-Player_001_choice_000_fWe can't do it without you.
-7
-Player_001_choice_001_fYou'd be the guest of honor.
-7
-Player_001_choice_002_fLook, are you coming or not?
-r
-Hades_009_fcYa know, I would like to deal with all of the ink around here. It's really messing up the ambiance.
-H
-Hades_010_f9But before I RSVP to this thing, I've got one question...
-,
-Hades_011_fIs Maleficent gonna be there?
-:
-Player_002_choice_000_fShe's going to be there, Hades.
-%
-Player_002_choice_001_f
-Hopefully.
->
-Player_002_choice_002_f#Why don't you show up and find out?
-7
-Hades_012_f(Urrgghh, I knew there had to be a catch.
-G
-Player_003_choice_000_f,Ignore her. This gathering is ALL about you!
-^
-Player_003_choice_002_fCYou two NEED to put this silly feud aside for the good of the Vale.
-X
-Player_003_choice_003_f=Fine. Don't come. Enjoy ruling over a kingdom flooded in ink.
-N
-Hades_016_f?Yeah, right. Maleficent takes over every party she shows up at.
-;
-Hades_019_f,Ya know, she's the one who started all this.
-‡
-Hades_020_fxEverything was goin' great until she put some kinda whammy on me. Then all that ink started showing up on Mount Olympus.
-‚
-Hades_021_fsThat's weird. Maleficent told me that YOU started the feud, and that the ink started appearing in her castle first.
-g
-Hades_022_fXWhat? You don't actually believe that, do you? Honesty's not exactly one of her virtues.
-A
-Hades_028_f2Mine either, but that's not really the point here.
-›
-Hades_023_f‹Look, I'll show up at this little shindig to help fix the Neverafter. But once that's done? Maleficent had better stay OUT of my territory.
-=
-Hades_024_f.Maleficent cursed Mount Olympus? That's weird.
-%
-Hades_025_fI'll ask her about it.
-D
-Hades_026_f5Yeah, I'm sure she'll be real forthcoming about that.
-@
-Hades_017_f1Hey! It's Maleficent who needs to leave me alone!
-,
-Hades_018_fHey! That ink isn't my doing.
-J
-Hades_014_f;Don't get cute. That means she's DEFINITELY gonna be there.
-a
-Hades_015_fRLet me see here... "We invite you to join the <Lore>Guardians of the Vale</Lore>"?
-_
-Hades_027_fPLet me see here... "We invite you to join <Lore>the Lorekeeper's Legion</Lore>"?
-1
-Hades_005_f"I gotta admit, it's a great touch.
-8
-Hades_006_f)Zeus could never manage that kinda class.

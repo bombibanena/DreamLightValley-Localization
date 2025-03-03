@@ -1,29 +1,0 @@
-
-N
-Merlin_008_f>Well, a familiar is a creature companion who assists in magic.
-[
-Merlin_009_fKNow then, {PlayerName}, what sort of animal would you choose as a familiar?
-"
-Player_002_choice_000_fAn owl.
-$
-Player_002_choice_001_f	A rabbit.
-*
-Player_002_choice_002_fSomething else.
-F
-Merlin_010_f6Like my dear friend, Archimedes. I commend the choice.
-;
-Merlin_011_f+There are certainly plenty of those around.
-5
-Merlin_012_f%Have you a particular animal in mind?
-&
-Player_003_choice_000_fA squirrel.
-!
-Player_003_choice_001_fA cat.
-'
-Player_003_choice_002_fAn aardvark.
-;
-Merlin_013_f+There are certainly plenty of those around.
-3
-Merlin_014_f#Oh, they're popular. Quite popular.
-H
-Merlin_015_f8What a curious choice. Though alphabetically auspicious.

@@ -1,37 +1,0 @@
-
- 
-Tiana_002_fWhat's up, Tiana?
-W
-Tiana_003_fHHey there, {PlayerName}! I made a new bayou friend. Can I introduce you?
-(
-Player_000_fMeet your bayou friend?!
-&
-Player_000_choice_000_fDefinitely!
-'
-Player_000_choice_001_fMaybe later.
-4
-Tiana_006_f%Tell me more about this bayou friend!
-:
-Tiana_000_f+Well, I've been calling him Little Louis...
- 
-Player_001_choice_000_fCute!
-K
-Player_001_choice_001_f0Aww, does he remind you of Louis from back home?
-.
-Player_001_choice_002_fIs... is he a croc?
-A
-Tiana_007_f2He's just about the sweetest thing I've ever seen.
-W
-Tiana_010_fHI was surprised to find that you have crocodiles here, not alligators...
-b
-Tiana_011_fSBut after I introduced myself, and gave him a little snack, we got along just fine!
-%
-Tiana_012_fWell, that's too cute.
-0
-Tiana_013_f!I'd love to meet your new friend.
-H
-Tiana_014_f9Then let's go on over <Lore>to the Glade of Trust</Lore>!
-$
-Tiana_008_fYou could say that...
-
-Tiana_009_fThat's right!

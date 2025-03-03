@@ -1,6 +1,0 @@
-TAG: Pumbaa_001_f
-You're an expert bug catcher now, {PlayerName}.
-
-TAG: Pumbaa_002_f
-We gotta go <Lore>get rid of Prince Eric's Night Mite problem</Lore>!
-

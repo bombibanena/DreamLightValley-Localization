@@ -1,45 +1,0 @@
-
-L
-Mirabel_000_f;Mirabel, do you think you could help me out with something?
-8
-Mirabel_001_f'Of course, {PlayerName}! What can I do?
-M
-Mirabel_002_f<Have you met the Beast yet? He's a little new to the Valley.
-/
-Mirabel_003_fI have! We've spoken a little.
-6
-Mirabel_004_f%He's... not really a chatterbox, huh?
-.
-Player_000_choice_000_fYou could say that.
-7
-Player_000_choice_001_fThat's... an understatement.
-8
-Player_000_choice_002_fThat's what I need help with!
-5
-Mirabel_005_f$You could even go further than that!
-?
-Mirabel_006_f.Not everyone finds it easy to meet new people.
-”
-Mirabel_007_f‚When we finally talked my TÃ­o Bruno into moving out of the walls, he was still pretty shy in crowds. Lots of people are just shy.
-6
-Player_001_choice_000_fYou sure you're up to this?
-M
-Player_001_choice_001_f2I thought we weren't supposed to talk about him...
-
-Mirabel_008_fAbsolutely!
-@
-Mirabel_009_f/I'd be happy to spend some time with the Beast.
-$
-Mirabel_010_fSo what's the plan?
-h
-Mirabel_011_fWWhy don't you ask him to come see me later? I have a sewing project he could help with.
-X
-Mirabel_012_fGIf we do something together, that might help him feel more comfortable.
-[
-Mirabel_013_fJPerfect! I'll pass along your suggestion and see if the Beast is up to it.
-M
-Mirabel_014_f<Oh, did I tell you about that? Well, that's all in the past.
-
-Mirabel_015_fPhew!
-%
-Mirabel_016_fBut, hey, it's okay.

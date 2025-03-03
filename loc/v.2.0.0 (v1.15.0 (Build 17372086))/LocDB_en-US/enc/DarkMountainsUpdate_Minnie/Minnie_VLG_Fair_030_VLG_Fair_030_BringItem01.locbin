@@ -1,29 +1,0 @@
-
-g
-Minnie_000_fWA cup of <ActivityItem>Peppermint Tea</ActivityItem>? Oh {PlayerName}, that's so sweet!
-@
-Minnie_001_f0The Fairy Godmother asked me to bring it to you!
-[
-Minnie_002_fKOh, how kind... Um, could you ask her to come see me when she has a moment?
-µ
-Minnie_003_f§I don't want to ask more of her when she's constantly helping everyone, but... she enchanted something in my House and... Well, there seems to be a problem with it.
-/
-Player_000_choice_000_fSure, I'll tell her.
-,
-Player_000_choice_001_fWhat do you mean?
-2
-Player_000_choice_002_fOkay, now I'm scared...
->
-Minnie_004_f.Oh, thank you! It's actually quite peculiar...
-É
-Minnie_005_fsYou see, every night the <ActivityItem>Phonograph</ActivityItem> she enchanted for me changes to something strange.
-3
-Minnie_006_f#Could you please ask her to fix it?
-H
-Minnie_007_f8Sure. I'll even take a photo of the problem to show her.
-3
-Minnie_008_f#That's a wonderful idea! Thank you!
-Å
-Minnie_009_fqWell, every night, the <ActivityItem>Phonograph</ActivityItem> she enchanted for me changes to something strange.
-C
-Minnie_010_f3Oh, don't be. It's not scary. Just a little... odd.

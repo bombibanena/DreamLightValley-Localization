@@ -1,51 +1,0 @@
-
-r
-Goofy_000_fcSay, {PlayerName}, I've been tryin' to fish around Eternity Isle, but my luck's been all luck-less!
-&
-Goofy_018_fDon't worry! I'll help!
-0
-Goofy_001_f!Really?! Gawrsh, that'd be great!
-š
-Goofy_002_fŠHere, I'll tell ya what happened... First I saw this <Lore>funny fish that looked like a robot swimmin' around Ancient's Landing</Lore>...
-I
-Goofy_003_f:I hooked it, but it nearly pulled me right into the water!
-M
-Player_001_choice_000_f2Uh... why don't you leave catching that one to me.
-[
-Player_001_choice_001_f@Just find some water skis and we'll have a new Village activity!
-@
-Goofy_004_f1Sure thing! I'll watch you and see how it's done.
-Ž
-Goofy_007_fThen, next I tried fishing for one of them <ActivityItem>Duneboppers</ActivityItem> in the quicksand in the Glittering Dunes...
-_
-Goofy_008_fPBut I lost nine fishing rods. And I don't think I'll be gettin' those ones back.
-A
-Player_002_choice_000_f&No worries. I'll handle catching that.
-J
-Player_002_choice_001_f/We could build a quicksand-proof diving suit...
-N
-Player_002_choice_002_f3Wanna try one more time to make it a nice even ten?
-Z
-Goofy_009_fKAw, thanks! You're a real pal. I can't wait to see what the trick to it is.
-ƒ
-Goofy_014_ftNow, the last one's real special. I was walking around the Wild Tangle and I spotted somethin' glowin' in the water.
-f
-Goofy_015_fWIt was some kinda shrimp, but its shell was shinin' with all the colors of the rainbow!
-A
-Player_003_choice_000_f&Prisma Shrimp! I'll catch one for you.
-6
-Player_003_choice_001_fNow I've GOT to see this...
-(
-Goofy_016_fOh boy! Let's go fishin'!
-=
-Goofy_010_f.Quicksand snorkeling... now that could be fun!
-1
-Goofy_012_f"But it does sound kinda dangerous.
-o
-Goofy_013_f`Okay, fair enough. Maybe I'll just handle catching that <ActivityItem>Dunebopper</ActivityItem>.
-X
-Goofy_011_fIGawrsh, no. Half the profits from my Stall are goin' to new fishing rods!
-0
-Goofy_005_f!Say, do you think that'd work...?
-{
-Goofy_006_flMaybe... but I guess we should try catching one before we try to invent a new water sport. I'll handle that.

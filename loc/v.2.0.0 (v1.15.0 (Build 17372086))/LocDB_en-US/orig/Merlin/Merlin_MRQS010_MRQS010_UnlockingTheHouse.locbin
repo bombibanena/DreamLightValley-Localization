@@ -1,59 +1,0 @@
-
-Œ
-Merlin_044_f|I've consulted my notes and discovered that Night Thorns began infesting Dreamlight Valley soon after our Ruler disappeared.
-B
-Merlin_045_f2No one, not even I, can remove the blasted things.
-U
-Merlin_013_fEOnly someone who can harness the magic of Dreamlight will be able to.
-B
-Merlin_008_f2And I'm certain that someone is you, {PlayerName}.
-?
-Player_006_choice_000_f$Of course! Why else would I be here?
-4
-Player_006_choice_001_fBut I'm just... ordinary.
-0
-Player_006_choice_002_fHow do I remove them?
-8
-Merlin_011_f(Well then, don't let ME get in your way.
-?
-Merlin_031_f/Now, focus your thoughts on the Night Thorns...
-0
-Player_007_choice_000_fThat sounds too easy.
-.
-Player_007_choice_001_fYes! Let's do this!
-1
-Player_007_choice_002_fGross. It's all dirty.
-p
-Merlin_003_f`Perhaps it is... or perhaps it's the hardest thing you've ever done. Only one way to find out...
-G
-Merlin_002_f7Feel the magic within yourself, and say the magic word.
-)
-Player_000_choice_000_f"Abracadabra!"
--
-Player_000_choice_003_f"Higitus Figitus!"
-1
-Player_000_choice_004_f"Bibbidi-Bobbidi-Boo!"
-<
-Merlin_009_f,Straight to the point and quite a classic...
-4
-Merlin_001_f$Ah-ha! You've done it! Bravo! Bravo!
-X
-Merlin_051_fH{PlayerName}, this proves you CAN harness the power of Dreamlight Magic!
-h
-Merlin_029_fXWell then, there's no time to lose. Let's go inside and see what's become of this House.
-6
-Merlin_007_f&Ha-ha! I'll take that as a compliment.
-H
-Merlin_000_f8Ah! The Fairy Godmother's magical phrase. Wise choice...
-5
-Merlin_004_f%I sense the magic within you already!
-5
-Merlin_032_f%Focus on it, and say the magic words.
-]
-Merlin_010_fMYou'll have time to spruce it up later. But let's not get ahead of ourselves.
-d
-Merlin_023_fTThat may be, but I've seen seemingly ordinary people do extraordinary things before!
-;
-Merlin_026_f+Magic is different for all who practice it.
-T
-Merlin_025_fDBut all YOU need to do is focus your thoughts on the task at hand...

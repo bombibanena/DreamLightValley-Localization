@@ -1,45 +1,0 @@
-
-`
-Merlin_000_fPOh dear, {PlayerName}, you look worried. Is there something I can help you with?
-Z
-Player_000_fJYes. The Fairy Godmother is pretty tired. I think she could use some help.
-,
-Player_000_choice_000_fI'm very worried.
-<
-Player_000_choice_001_f!Do you have a potion to help her?
-T
-Player_000_choice_002_f9Should I expect some kind of hilarious magic catastrophe?
-W
-Merlin_001_fGYes well, I suppose I have noticed that she's been working rather hard.
-;
-Merlin_010_f+Ha-ha! You didn't think I noticed, did you?
-]
-Merlin_011_fMWell, the Fairy Godmother kept it for so long, it's practically hers already.
-½
-Merlin_012_f¬Great. I'm thinking we could add some <ActivityItem>Mint Chocolate</ActivityItem> and <ActivityItem>White Impatiens</ActivityItem> in a <ActivityItem>Basket</ActivityItem>.
-d
-Merlin_013_fTAnd I'll ask for some advice from someone who knows how to pamper herself: Ursula...
-y
-Merlin_002_fiAnd she does so much for the Village... You're quite right! It's only fair that we take care of her, too.
-O
-Merlin_003_f?Let's put together a <ActivityItem>Care Package</ActivityItem>!
-
-Merlin_004_fMarvelous idea!
-Œ
-Merlin_005_f|But we could go even further. Shall we organize something to make sure the Fairy Godmother knows how much she's appreciated?
-
-Merlin_006_fLike a party?
-L
-Merlin_007_f<Precisely! I'll organize a get-together to show her we care.
-…
-Merlin_008_fuYes, yes... I'll invite some Villagers, and you... you craft this <ActivityItem>Care Package</ActivityItem> of yours.
-~
-Merlin_009_fnAnd I know just what you can add to it. This <ActivityItem>Book</ActivityItem> you snuck back on my bookshelf.
-…
-Merlin_014_fuA potion? No, no, that will never do! In cases like this, the best way to take care of someone doesn't involve magic.
-6
-Merlin_015_f&No, we must think of something else...
-“
-Merlin_016_f‚You mustn't laugh about these things, {PlayerName}. Imagine if it was you who got turned into a pumpkin. Now, what should we do...
-*
-Merlin_017_fNow, what should we do...?

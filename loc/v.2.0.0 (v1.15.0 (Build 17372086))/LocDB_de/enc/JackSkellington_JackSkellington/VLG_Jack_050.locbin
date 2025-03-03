@@ -1,23 +1,0 @@
-
-�
-CVillage!Nightmare!JackSkellington!VLG_Jack_050_AvailableDescriptionnДжек Скеллингтон нужно немного кэнди черепа для Ваниллопа...
-b
-:Village!Nightmare!JackSkellington!VLG_Jack_050_DisplayName$Отдых для Ваниллопа
-f
-WVillage!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_Possess01_StepDescription{ItemName}.
-f
-WVillage!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_Possess02_StepDescription{ItemName}.
-f
-WVillage!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_Possess03_StepDescription{ItemName}.
-�
-MVillage!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step01_StepDescription;Соберите следующие ингредиенты:
-�
-_Village!Nightmare!JackSkellington!VLG_Jack_050_Group01_Step02_TalkToCharacter01_StepDescription*Попросите у Реми совет.
-�
-GVillage!Nightmare!JackSkellington!VLG_Jack_050_Group01_StoryDescription�Был составлен список подарков, и Ваниллопа нуждается в конфетных черепахах.
-z
-XVillage!Nightmare!JackSkellington!VLG_Jack_050_Group02_Step03_CookMeal01_StepDescriptionПодготовь {itemName}.
-�
-YVillage!Nightmare!JackSkellington!VLG_Jack_050_Group03_Step04_BringItem01_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
-�
-NVillage!Nightmare!JackSkellington!VLG_Jack_050_Group03_Step04_ReadyDescriptionOПринесите {itemName} на Джек Скеллингтон Skellington.

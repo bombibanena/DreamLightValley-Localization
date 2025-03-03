@@ -1,139 +1,0 @@
-
-{
-Belle_056_flThat's odd. As soon as I put the <ActivityItem>Book</ActivityItem> on the shelf, it flew back into my hands.
--
-Belle_057_fIt must belong somewhere else.
-ñ
-Belle_000_fÜ{PlayerName}, thank you so much for your help. The Dreamlight Library has reopened, and I'm really looking forward to helping with it.
-s
-Belle_004_fdI was able to find the correct spots for all but three of these books. I'm hoping you can assist me.
-z
-Belle_005_fkThe first one is the sewing book you got from Mirabel √¢¬Ä¬î <ActivityItem>Crafty Creatures</ActivityItem>.
-Ë
-Belle_006_fÿThere are only three classifications that I haven't tried... <ActivityItem>Owl Care</ActivityItem>, <ActivityItem>How to Train Your Sugar Pot</ActivityItem>, and <ActivityItem>Wandless Arts and Crafts</ActivityItem>.
-S
-Player_000_fCI think <ActivityItem>Crafty Creatures</ActivityItem> belongs in...
-$
-Player_000_choice_000_f	Owl Care.
-7
-Player_000_choice_001_fHow to Train Your Sugar Pot.
-4
-Player_000_choice_002_fWandless Arts and Crafts.
-b
-Belle_031_fSThat was the right shelf and on the first try. It seems we make a rather good team.
-Q
-Belle_032_fBOh, perhaps this book is about something different than I thought.
-*
-Belle_033_fLet me see if you're right.
-w
-Belle_034_fhIt happened again. The book flew off the shelf the moment I put it there. It must belong somewhere else.
-{
-Belle_035_flThat's odd. As soon as I put the <ActivityItem>Book</ActivityItem> on the shelf, it flew back into my hands.
--
-Belle_036_fIt must belong somewhere else.
-W
-Belle_037_fHReally? Well, I'm not a magic expert like you, so I'll follow your lead.
-0
-Belle_039_f!I'll just go put it on the shelf.
-b
-Belle_040_fSI'm afraid it refuses to stay on this shelf. We must have the wrong classification.
-g
-Belle_026_fXI put the <ActivityItem>Book</ActivityItem> back on the shelf, and nothing odd happened.
-S
-Belle_027_fDMerlin told us the Library would let us know if we made a mistake...
-<
-Belle_028_f-So, I think we got it right on the first try.
-S
-Belle_023_fDHmm... That doesn't feel quite right, but let me try to put it back.
-5
-Belle_012_f&It doesn't want to stay on that shelf.
-/
-Belle_022_f We must have the wrong category.
-{
-Belle_002_flThat's odd. As soon as I put the <ActivityItem>Book</ActivityItem> on the shelf, it flew back into my hands.
-=
-Belle_024_f.Well, I suppose it's worth a try. Let's see...
-C
-Belle_009_f4That was my first choice. I hope it's the right one.
-S
-Belle_025_fDOh, good. The <ActivityItem>Book</ActivityItem> stayed on the shelf!
-©
-Belle_010_fôNow the second <ActivityItem>Book</ActivityItem> we need to shelve is the one Mr. McDuck borrowed called <ActivityItem>Coin Pool Theory</ActivityItem>...
-„
-Belle_011_f”The classifications I haven't tried are <ActivityItem>Monetary Physics and Swim Strokes</ActivityItem>, <ActivityItem>Metamorphosis for Beginners</ActivityItem>, and <ActivityItem>Magic Duels 101</ActivityItem>.
-U
-Player_001_fEI think <ActivityItem>Coin Pool Theory</ActivityItem> should go in...
-=
-Player_001_choice_000_f"Monetary Physics and Swim Strokes.
-7
-Player_001_choice_001_fMetamorphosis for Beginners.
-+
-Player_001_choice_002_fMagic Duels 101.
-c
-Belle_008_fTGoodness, do you think the book is about swimming in actual coins? Is that possible?
-d
-Belle_013_fUI'll most certainly put it on my reading list. But for now, I'll put it on the shelf.
-E
-Belle_029_f6It worked! The book is back home on the correct shelf.
-ë
-Belle_001_fÅNow, the last book is one I got from Ursula √¢¬Ä¬î <ActivityItem>Cursed Negotiations: Making Better Devious Deals</ActivityItem>.
-.
-Belle_003_fShe said it was very inspiring.
-ﬁ
-Belle_007_fŒThe only shelves I haven't tried are <ActivityItem>Wizard Interior Design</ActivityItem>, <ActivityItem>Magical Contract Law</ActivityItem>, and <ActivityItem>Prophecies: What Could Go Wrong?</ActivityItem>
-u
-Player_003_fe<ActivityItem>Cursed Negotiations: Making Better Devious Deals</ActivityItem>. Hm. I'd put this in...
-2
-Player_003_choice_000_fWizard Interior Design.
-0
-Player_003_choice_001_fMagical Contract Law.
-;
-Player_003_choice_002_f Prophecies: What Could Go Wrong?
-M
-Belle_048_f>Well, I suppose they both do have a magical element to them...
-&
-Belle_050_fWe'll just have to see.
-[
-Belle_055_fLNo, it doesn't want to stay on that shelf either. It must be something else.
-{
-Belle_052_flThat's odd. As soon as I put the <ActivityItem>Book</ActivityItem> on the shelf, it flew back into my hands.
-3
-Belle_051_f$It must be one of the other options.
-[
-Belle_047_fLIt does sound like a book about magical law, doesn't it? I'll just go see...
-s
-Belle_058_fdThat was the right category! Which means all the <ActivityItem>Books</ActivityItem> are now shelved.
-J
-Belle_042_f;{PlayerName}, you've been such a wonderful help. Thank you!
-4
-Player_002_choice_000_fYou did most of the work.
-0
-Player_002_choice_001_fIt was a team effort.
-B
-Player_002_choice_002_f'Finally, someone who values my talents.
-6
-Belle_043_f'Well, I'm glad I got to do it with you.
-≠
-Belle_045_fùNow that we're finished, I had planned to start reading one of the books in the Dreamlight Library. I've made a list of the ones I'm most looking forward to.
-ç
-Belle_017_f~But while I was placing <ActivityItem>Cursed Negotiations: Making Better Devious Deals</ActivityItem> back where it belongs...
-Y
-Belle_041_fJI found something at the back of the shelf, hidden behind the other books.
-ã
-Belle_018_f|It's a rather <ActivityItem>Mysterious Book</ActivityItem> written in letters I've never seen before. I wonder what it says.
-?
-Belle_019_f0Could be the first chapter of a new adventure...
--
-Belle_020_fThat's what I was hoping, too!
-
-Belle_021_fpI'm going to try and decipher this <ActivityItem>Mysterious Book</ActivityItem>. I have to know what it's about!
-ã
-Belle_046_f|Thank you again, {PlayerName}, for helping me find the missing volumes so everyone can enjoy the Library. I'll see you soon!
-N
-Belle_044_f?Oh, I'm sure the other Villagers know how much you do for them.
-j
-Belle_059_f[That was the right shelf! I'd say we're quite the team. Everything worked on the first try.
-N
-Belle_049_f?Hmm... I'm not sure about this, but I suppose it's worth a try.
-o
-Belle_053_f`As soon as I put it on the shelf, the book came back to me. We'll have to choose something else.

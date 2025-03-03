@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Uh...
-
-TAG: EVE_001_f
-I still need to add some <ActivityItem>Rugs</ActivityItem>, <ActivityItem>Chairs</ActivityItem>, and <ActivityItem>Decorations</ActivityItem>.
-

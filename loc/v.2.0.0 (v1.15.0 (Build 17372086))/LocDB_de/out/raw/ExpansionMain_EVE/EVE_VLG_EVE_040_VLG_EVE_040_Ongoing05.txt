@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Directive!
-
-TAG: EVE_001_f
-Don't worry; I'll take care of the <ActivityItem>Fires</ActivityItem>.
-

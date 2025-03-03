@@ -1,47 +1,0 @@
-
-
-Belle_000_f	Hi Belle!
-E
-Belle_001_f6Are these books for me, {PlayerName}? How kind of you.
-L
-Belle_002_f=Oh, thank the Beast, not me — I'm just the delivery person.
-}
-Belle_003_fnWell, thank you for helping get them to me. I know he's not comfortable speaking with the other Villagers yet.
-6
-Player_000_choice_000_fYeah, what's up with that?!
-(
-Player_000_choice_001_fPoor Beast...
-A
-Player_000_choice_002_f&I don't know what to do with him next!
-G
-Belle_004_f8He's a bit shy. Though, I don't think he'd admit that...
-M
-Belle_013_f>That's a wonderful idea! WALL·E enjoys gardening, doesn't he?
-H
-Belle_014_f9Perhaps he and the Beast could work together with plants.
-�
-Belle_015_fyWALL·E it is then! And let's see... What about Mirabel? She's helped us out already; I bet she'd be happy to help again!
-w
-Belle_016_fhShe's used to managing the personalities of her whole family. The Beast's gruffness wouldn't bother her.
-K
-Belle_017_f<This is so kind of you to do, {PlayerName}. I wish you luck!
-*
-Belle_005_fWhat do you think he needs?
-M
-Belle_006_f>Well, he could use a friend. Someone with a quiet disposition.
-�
-Belle_007_frHe's spent so long in a castle with only his servants for company. I think he's forgotten how to make new friends.
-:
-Belle_008_f+Hmm... but who to try and introduce him to?
-B
-Belle_009_f3Well... it would have to be someone who's friendly.
-1
-Belle_010_f"And who would be patient with him.
-
-Belle_011_fLet me think...
-L
-Belle_012_f=What about WALL·E? He's the friendliest robot I've ever met!
-I
-Belle_018_f:He's just rather shy. That makes things difficult for him.
-X
-Belle_019_fII understand. When he gets uncomfortable, he can be difficult to talk to.

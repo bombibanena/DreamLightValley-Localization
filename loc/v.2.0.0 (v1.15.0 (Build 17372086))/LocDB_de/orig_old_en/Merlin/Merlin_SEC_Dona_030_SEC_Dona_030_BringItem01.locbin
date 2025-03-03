@@ -1,40 +1,0 @@
-
-?
-Merlin_000_f/Well now, what do you have there, {PlayerName}?
-R
-Merlin_001_fBGoodness gracious! My sock! I've been looking for this everywhere.
-c
-Merlin_012_fSThe Fairy Godmother conjured these for me long ago. They're my most cherished pair.
-ç
-Merlin_013_f}Even when the Forgetting made me forget her name, if I held these socks close, I could almost remember my dear friend's face.
-Z
-Merlin_003_fJWait a moment... it looks like this sock has been a bit... slobbered upon.
-,
-Player_000_choice_000_fSorry about that.
-%
-Player_000_choice_001_f
-Wasn't me.
-4
-Player_000_choice_002_fIt's space alien slobber.
-i
-Merlin_004_fYNo, no. There's no need to apologize... unless it's you who salivated on them, of course.
-í
-Merlin_006_fÅThere's someone going around stealing everybody's stuff and dropping it everywhere. You might have heard Donald talking about it.
-Y
-Merlin_007_fIHmm, yes, I have heard him going on about extraterrestrials of some sort.
-[
-Merlin_008_fKBut we have enough magical muddles around here without worrying about that.
-u
-Merlin_009_feSo do you think Donald's quacking up the wrong tree? Or have you noticed anything else going missing?
-Ç
-Merlin_010_frNow that you mention it... someone's been pilfering books and causing a great commotion in the Dreamlight Library.
-D
-Merlin_011_f4Hm. <Lore>Maybe I can find a clue in there...</Lore>
-Ä
-Merlin_005_fpI should hope not. I would be a bit concerned the Forgetting had gotten to you too if you were chewing on socks.
-,
-Merlin_015_fSpace aliens, you say? Hmph.
-]
-Merlin_002_fMA dear friend conjured these for me long ago. They're my most cherished pair.
-O
-Merlin_014_f?When I hold them close... well, I can almost remember her face.

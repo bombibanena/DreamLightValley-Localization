@@ -1,91 +1,0 @@
-
-N
-Gaston_003_f>All done, Gaston! I've got three potential candidates for you.
-6
-Gaston_011_f&Marvelous! Tell me about each of them.
-.
-Player_002_fOkay, let me tell you about...
-%
-Player_002_choice_000_f
-...Stitch.
-#
-Player_002_choice_001_f...Olaf.
-%
-Player_002_choice_002_f
-...Donald.
-n
-Gaston_013_f^He's a little furry blue alien. He's extremely strong, bulletproof, and can see in the dark...
-Z
-Gaston_014_fJBulletproof? Hmm, that has definite potential. What about his personality?
-F
-Gaston_015_f6Something of a trickster. Mischievous, but means well.
-
-Gaston_016_fAll right...
-8
-Gaston_027_f(I'll need to think carefully about this.
-6
-Player_003_choice_000_fThey're all pretty awesome.
-6
-Player_003_choice_001_fIt's an important decision!
-K
-Player_003_choice_002_f0Thinking isn't part of the Gastonian Experience!
-L
-Gaston_028_f<I don't want "pretty" anything, I want "incredibly" perfect.
-!
-Player_004_choice_000_fOn it!
-K
-Player_004_choice_001_f0This... might not turn out how you're expecting.
--
-Player_004_choice_002_fOkay, I'm off now.
-6
-Gaston_031_f&Thinking... thinking... Donald is out.
-\
-Gaston_032_fLI need a sidekick who doesn't lose his temper. Emotions are... inconvenient.
-
-Gaston_033_fFair enough.
-`
-Gaston_034_fPHmm... I want you to introduce some Gastonian tasks to the remaining candidates.
-<
-Gaston_035_f,And I'll watch to see how well they perform.
--
-Gaston_036_fAll right, what are we doing?
-V
-Gaston_037_fFStart with Stitch. Have him prepare a proper Gastonian breakfast dish.
-F
-Gaston_038_f6And Olaf... See if he can conquer the wilds of nature.
-
-Gaston_005_f
-Excellent!
-!
-Gaston_001_fI'll be watching!
-‚
-Gaston_002_frAnd {PlayerName}... I'll be eating the breakfast as part of the test. Here â€” make sure Stitch knows what I like.
-N
-Gaston_006_f>Well, if it goes badly, I'll know that you're partly to blame.
-
-Gaston_007_fHey, not fair!
-
-Gaston_029_f
-Very true.
-7
-Gaston_030_f'I know. But sometimes it's unavoidable.
-B
-Gaston_017_f2He's quite charismatic and likes to put on a show!
-1
-Gaston_018_f!That reminds me of LeFou already!
-B
-Gaston_004_f2LeFou is quite the performer for such a small man.
-\
-Gaston_019_fLWell, Olaf is just the sweetest, kindest Villager you'll find in the Valley.
-9
-Gaston_020_f)Also a great partner for trivia contests.
-#
-Gaston_021_fHmm, interesting...
-2
-Gaston_022_f"Donald is Scrooge McDuck's nephew.
->
-Gaston_023_f.I've seen him around... He always seems upset.
-R
-Gaston_024_fBThat's Donald for you. The smallest injustice really riles him up.
-(
-Gaston_025_fSomething to consider...

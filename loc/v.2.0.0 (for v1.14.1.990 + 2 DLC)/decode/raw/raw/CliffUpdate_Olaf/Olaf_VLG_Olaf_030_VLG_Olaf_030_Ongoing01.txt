@@ -1,9 +1,0 @@
-TAG: Olaf_000_f
-Well, we need paper and ink to write the scripts on.
-
-TAG: Olaf_001_f
-No problem. I'll get some <ActivityItem>Softwood</ActivityItem> so we can whip up some paper.
-
-TAG: Olaf_002_f
-And I'll find some <ActivityItem>Purple Marsh Milk Weed</ActivityItem> and an <ActivityItem>Empty Vial</ActivityItem> to put it all in.
-

@@ -1,17 +1,0 @@
-
-V
-BStory!ORQS_Scro_070_ForgottenLands_Any_CompletedRequestDescriptionTalk to Scrooge.
-π
-7Story!ORQS_Scro_070_ForgottenLands_AvailableDescription~It'll be a challenge, but Scrooge McDuck has entrusted you with making the Forgotten Lands a more inviting place for visitors.
-ê
-<Story!ORQS_Scro_070_ForgottenLands_CompletedStoryDescriptionPYou made the Forgotten Lands a little more inviting and a little less forgotten.
-U
-.Story!ORQS_Scro_070_ForgottenLands_DisplayName#Rebuild the Valley: Forgotten Lands
-t
-?Story!ORQS_Scro_070_ForgottenLands_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
-y
-LStory!ORQS_Scro_070_ForgottenLands_Group01_Step01_Decorate01_StepDescription)Place {TargetAmount} pieces of furniture.
-b
-AStory!ORQS_Scro_070_ForgottenLands_Group01_Step01_StepDescriptionDecorate the Forgotten Lands.
-f
-5Story!ORQS_Scro_070_ForgottenLands_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

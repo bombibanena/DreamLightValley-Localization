@@ -1,6 +1,0 @@
-TAG: Remy_000_f
-One {ItemName}.
-
-TAG: Remy_001_f
-You'll need <ActivityItem>Lettuce</ActivityItem> and two vegetables.
-

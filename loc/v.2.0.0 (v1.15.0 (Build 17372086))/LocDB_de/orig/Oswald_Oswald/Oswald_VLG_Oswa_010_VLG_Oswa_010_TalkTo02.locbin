@@ -1,45 +1,0 @@
-
-5
-Oswald_000_f%Did that work? Can you understand me?
-1
-Oswald_001_f!Zowie! Ain't that the cat's meow!
-,
-Oswald_002_fYou're the real McCoy, chum!
-'
-Player_000_choice_000_fUhh, thanks?
->
-Player_000_choice_001_f#My name is {PlayerName}, not McCoy!
-F
-Oswald_003_f6I knew puttin' on some spiffy duds would do the trick.
-N
-Oswald_004_f>That and my Pickaxe... What were you trying to tell me before?
-(
-Oswald_005_fIt's about my old joint.
-H
-Oswald_006_f8When I fancy a little kip, where am I gonna lay my conk?
-K
-Player_001_choice_000_f0Wait, I think the communication barrier is back.
-O
-Player_001_choice_001_f4OK, that wasn't too bad â€” I sorta understood that.
-=
-Oswald_007_f-What are ya talkin' about? Everything's jake!
-.
-Oswald_016_f... Sure, something like that!
-=
-Oswald_008_f-I need my old place â€” no dive for this guy.
-8
-Oswald_009_f(Lay your conk? Do you mean... your head?
-6
-Oswald_010_f&Oh! You want to get your House set up!
-0
-Oswald_011_f That's the ticket, {PlayerName}!
-(
-Oswald_012_fBut my House is special!
-J
-Oswald_013_f:It won't take your average construction permits, no siree!
-·
-Oswald_014_f¦It'll take <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem>Coal</ActivityItem>, and <ActivityItem>Amber</ActivityItem> to craft the pencil we're gonna need.
-S
-Oswald_015_fCOh, are we designing it from scratch, starting with the floor plan?
-+
-Oswald_017_fWhatever you say, friend-o.

@@ -1,23 +1,0 @@
-
-q
-Jasmine_001_f`Oh, {PlayerName}... I'm starting to remember all the marvelous times I had here with my friends!
-/
-Jasmine_002_fDo you think they remember me?
-&
-Player_000_choice_000_fDefinitely!
-7
-Player_000_choice_001_fMaybe the memories are hazy.
-?
-Player_000_choice_002_f$If they don't, I'll reintroduce you.
-l
-Jasmine_003_f[If they were affected by the Forgetting, that doesn't mean they can't regain lost memories!
-@
-Jasmine_006_f/Thank you, {PlayerName}... This is such a gift.
-;
-Jasmine_007_f*Having you and Aladdin back is a gift too!
-p
-Jasmine_008_f_Now you relax, make yourself at home, and I'll have <Lore>Aladdin here with you shortly</Lore>.
-F
-Jasmine_004_f5But we'll be there to help bring those memories back.
-{
-Jasmine_005_fjThat's the great thing about the Valley â we have all the time we need to make new memories together.

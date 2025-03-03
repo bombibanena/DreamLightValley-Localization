@@ -1,65 +1,0 @@
-
-T
-Hades_001_fEThere you go, Hades; one DJ table, fashioned in quality Greek marble!
-}
-Hades_002_fnI... Whoa, I haven't been this choked up since I got a hunk of moussakaâ€” Ya now what? Been there, done that.
--
-Player_000_choice_000_fHappy you like it!
-3
-Player_000_choice_001_fBetter start practicing!
-U
-Player_000_choice_002_f:I can send Vanellope over to give some advice if you want.
-X
-Hades_003_fIYep, that promotion is looking more and more likely, my competent minion.
-:
-Hades_014_f+Now... I think we need to talk invitations.
-I
-Hades_015_f:Sure! Have you thought about stationery? I can go craftâ€”
-V
-Hades_016_fG{PlayerName}, {PlayerName}, {PlayerName}, still thinking like a mortal.
-1
-Player_002_choice_000_fWell, I AM a mortal...
-+
-Player_002_choice_001_fPaper is mortal?
-H
-Player_002_choice_002_f-Hey, mortals have thought up some cool stuff!
-V
-Hades_020_fGHey, I try to be polite and not bring it up, but you keep ruining that.
-5
-Hades_024_f&But let's get back to the invitations.
-j
-Hades_017_f[I'm planning a party fit for the gods themselves! We need something better than just paper.
-°
-Hades_018_f No, you're gonna <Lore>catch some Bird Snippets for me</Lore>. I'll write the invitations on them so that when I release 'em, they fly straight to the invitees!
-L
-Hades_000_f=The <Lore>blue ones from the Bind</Lore> should do the trick.
-&
-Hades_019_fOkay, I'll get on that!
-x
-Hades_021_fiSheesh. You're givin' me a headache. One moment you've got great ideas, and the next, "is paper mortal?"!
-=
-Hades_022_f.Fair enough â€” you did bring me the DJ table.
-Y
-Hades_023_fJI revise my prior statement â€” mortals can be good at bringing you stuff.
-<
-Hades_006_f-Are you saying I'm gonna be terrible at this?
-4
-Player_001_choice_000_fI'm sure you'll be great!
-)
-Player_001_choice_001_fDJing is hard!
-X
-Player_001_choice_002_f=Well, if you don't practice, you definitely will be terrible.
-5
-Hades_007_f&Of course I'll be great â€” I'm Hades!
-5
-Hades_008_f&For you, maybe. But I'm kind of a god.
-N
-Hades_009_f?If I wanted to consult a philosopher, believe me, I know a few.
-b
-Hades_010_fS... {PlayerName}, we were getting along so well and then you had to go and ruin it.
-Ÿ
-Hades_011_fI'm just saying that Vanellope might have some good advice, being a digital person and all. There might have been a DJ game in her home arcade.
-
-Hades_012_f€I'm just gonna say this one more time... I DO NOT need mortals telling me what to do and that goes double for "digital persons"!
-%
-Hades_013_fFine! Suit yourself...

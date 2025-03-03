@@ -1,35 +1,0 @@
-
-a
-Aladdin_000_fPCarpet's great. I met him in the Cave of Wonders. He saved Abu and me, big time.
-5
-Aladdin_001_f$We have SO much fun flying together.
-+
-Aladdin_002_fHave you ever gone flying?
-"
-Player_000_choice_000_fI have!
-!
-Player_000_choice_001_fNever.
-5
-Player_000_choice_002_fI've flown in an airplane.
-S
-Aladdin_003_fBThen you understand. It makes the world feel completely different.
-L
-Aladdin_004_f;Like you're free. Like you can go anywhere â€” do anything!
->
-Aladdin_005_f-Oh, you gotta try it! It's like nothing else.
-_
-Aladdin_006_fNI could ask Carpet if he'll take you for a ride sometime. Would you like that?
-
-Player_001_choice_000_fYes!
--
-Player_001_choice_001_fDo I have to sing?
-3
-Player_001_choice_002_fI'm scared of heights...
-<
-Aladdin_007_f+Great! I'll ask Carpet next time I see him.
-*
-Aladdin_008_fWhat? No, definitely not.
-‡
-Aladdin_009_fvOh, well then, maybe not. Unless! You could ask Carpet to fly really low to the ground. It'll be like you're floating.
-Q
-Aladdin_010_f@I don't know what that is. But if it lets you fly, that's great!

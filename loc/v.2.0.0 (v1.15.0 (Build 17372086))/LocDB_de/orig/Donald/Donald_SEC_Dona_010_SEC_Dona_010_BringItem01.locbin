@@ -1,67 +1,0 @@
-
-u
-Donald_000_feHey, Donald. I found this sock just lying on the ground. It has your initials sewn into the lining...
-K
-Donald_002_f;Hey, that's mine! Give it to me! ... Thanks for finding it!
-2
-Donald_021_f"I didn't even know you wore socks.
-T
-Donald_022_fDI don't. I got these as a gift, and now I use 'em to wash my dishes.
-_
-Donald_020_fOOh... yuck! It's got bite marks and spit all over it! Somebody tried to eat it!
-#
-Donald_003_fWhere'd ya find it?
-0
-Player_000_f It was just lying on the ground.
-1
-Player_000_choice_000_fYou must have lost it.
-5
-Player_000_choice_001_fI wonder how it got there?
-F
-Player_000_choice_002_f+You should be more careful with your stuff.
-P
-Donald_004_f@Lost it? That's ridiculous. I don't just go around losing socks!
-D
-Donald_006_f4It must've been stolen! Stolen right outta my House!
-B
-Player_001_choice_000_f'So we have a sock thief on the loose...
-E
-Player_001_choice_001_f*Why would someone want to steal your sock?
-C
-Player_001_choice_002_f(I dunno, Donald. This seems... unlikely.
-J
-Donald_008_f:Yeah! I knew you'd believe me. And it's a good thing, too.
-p
-Donald_023_f`It's not just my sock that's gone missing. All sortsa stuff has been disappearing from my House.
-|
-Donald_011_flAnd I've been seein' a bunch of funny lights streaking across the sky over the Beach the last couple nights.
-+
-Donald_016_fFunny lights in the sky...?
-@
-Donald_017_f0That's right. It's some kinda sock-stealin' UFO!
-O
-Donald_013_f?But nobody else believes me. They think I'm tellin' tall tales.
-1
-Player_002_choice_000_fI believe you, Donald.
-G
-Player_002_choice_001_f,I'm going to need to see some more evidence.
-Q
-Player_002_choice_002_f6Come on. There's no such thing as a sock-stealing UFO.
-U
-Donald_014_fEAw, thanks, {PlayerName}. We have to get to the bottom of this, fast.
-f
-Donald_019_fVYou better <Lore>search around my House</Lore>. The space aliens made a gigantic mess.
-1
-Donald_018_f!There's gotta be a clue in there.
-K
-Donald_015_f;You want evidence? Let's go look at the scene of the crime.
-N
-Donald_012_f>I'll prove it to you. Let's go look at the scene of the crime.
-=
-Donald_009_f-'Cause it's a great sock! But that's not all.
-e
-Donald_010_fUI'm tellin' the truth, whether you or anybody else believes me. This is an emergency!
-0
-Donald_005_f I know exactly how it got there.
-Q
-Donald_007_fAI am careful! That sock was in my drawer right where it belonged.

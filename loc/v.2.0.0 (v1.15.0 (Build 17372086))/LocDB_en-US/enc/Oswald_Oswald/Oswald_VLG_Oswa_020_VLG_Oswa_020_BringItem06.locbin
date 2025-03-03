@@ -1,48 +1,0 @@
-
-N
-Scrooge_000_f=Hi, Mr. McDuck. Oswald and I have a little something for you.
-P
-Scrooge_001_f?Oswald wants to make amends for his alarm clocks waking you up.
-4
-Scrooge_002_f#Aye, they did ruin my beauty sleep!
-9
-Scrooge_003_f(So what are you and the rabbit offering?
-t
-Scrooge_004_fcSome coffee! Oswald has a special recipe for <ActivityItem>Black (and White) Coffee</ActivityItem>.
-a
-Scrooge_005_fPWe thought it might help with any tiredness you might be experiencing right now.
-p
-Scrooge_006_f_A word of warning, though â it's Oswald's recipe and it comes with some... unique effects.
-A
-Scrooge_007_f0Och, I'm sleepy enough to risk it, {PlayerName}.
-A
-Scrooge_008_f0All right, let me taste this coffee... *sip sip*
-S
-Scrooge_009_fB<i>Boy howdy! I haven't had a nibble like that in a dog's age!</i>
-0
-Scrooge_018_fThere we go; right on schedule.
-9
-Scrooge_016_f(Aye, well it seems to have worn off now.
-]
-Scrooge_017_fLBut thank you, {PlayerName}, and Oswald. That coffee certainly perked me up!
-
-Scrooge_020_f
-How odd...
-F
-Scrooge_010_f5<i>The coffee's going straight to the ol' conker!</i>
-"
-Scrooge_011_fWhat am I sayin'?
-A
-Scrooge_021_f0<i>Time to hit the dance hall and cut a rug!</i>
-$
-Scrooge_012_fMr. McDuck? You OK?
-@
-Scrooge_013_f/Well, pluck my tail feathers and call me baldy!
-M
-Scrooge_014_f<I haven't heard talk like that since the great crash of '29!
-F
-Scrooge_015_f5Yeah, Oswald's way of speaking is kinda infectious...
-G
-Scrooge_019_f6Oh no, Mr. McDuck; are you all right? What's going on?
-;
-Scrooge_022_f*Oswald's going to have a lot to answer to!

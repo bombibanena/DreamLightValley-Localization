@@ -1,67 +1,0 @@
-
-�
-BVillage!Tangled!Flynn!VLG_Flyn_010_Any_CompletedRequestDescriptionNСвяжись с Флин о том, как он себя чувствует.
-�
-7Village!Tangled!Flynn!VLG_Flyn_010_AvailableDescription�Когда-то был жулик по имени Флин Rider, который страдал от проклятия волчьей рыбки, хотя он и излечился от проклятия, он продолжал бороться однажды, добросердечный {PlayerName} подошел к Флин, надеясь помочь...
-O
-.Village!Tangled!Flynn!VLG_Flyn_010_DisplayNameКомпания "Волка"
-~
-PVillage!Tangled!Flynn!VLG_Flyn_010_Group01_Step01_CatchSnippet01_StepDescription*Поймайте лягушатников.
-�
-AVillage!Tangled!Flynn!VLG_Flyn_010_Group02_Step02_StepDescriptionПоговорите с {TargetNPC}, чтобы найти более постоянное решение для Frog Snippets.
-�
-;Village!Tangled!Flynn!VLG_Flyn_010_Group02_StoryDescription�Хотя и благодарен {PlayerName} за их помощь, Флин все еще нуждался в решении, чтобы лягушатники прыгали возле его дома.
-t
-KVillage!Tangled!Flynn!VLG_Flyn_010_Group03_Step03_Possess01_StepDescription%Мой Звездный Сапфир.
-g
-KVillage!Tangled!Flynn!VLG_Flyn_010_Group03_Step03_Possess02_StepDescriptionРыба лампрей.
-�
-KVillage!Tangled!Flynn!VLG_Flyn_010_Group03_Step03_Possess03_StepDescription5Фураж Петрифицированный лес.
-~
-KVillage!Tangled!Flynn!VLG_Flyn_010_Group03_Step03_Possess04_StepDescription/Диг Волканический Камень.
-Z
-KVillage!Tangled!Flynn!VLG_Flyn_010_Group03_Step03_Possess05_StepDescription{ItemName}.
-�
-AVillage!Tangled!Flynn!VLG_Flyn_010_Group03_Step03_StepDescriptionsСоберите следующие материалы для <ActivityItem> Faeri Snippet Repelent</ActivityItem>:
-�
-MVillage!Tangled!Flynn!VLG_Flyn_010_Group04_Step04_CraftItem01_StepDescriptionHРепеллент <ActivityItem> Material Faeri Snippet</ActivityItem>.
-�
-LVillage!Tangled!Flynn!VLG_Flyn_010_Group05_Step05_Decorate01_StepDescriptionpПоместите <ActivityItem> Material Faeri Snippet Repelent</ActivityItem> вокруг дома Флин.
-t
-SVillage!Tangled!Flynn!VLG_Flyn_010_Group06_Step06_TalkToCharacter02_StepDescriptionПоговори с Флин.
-�
-AVillage!Tangled!Flynn!VLG_Flyn_010_Group07_Step07_StepDescriptionUНайдите подальше от дома Флин закопанные вещи.
-�
-;Village!Tangled!Flynn!VLG_Flyn_010_Group07_StoryDescription�Во время проклятия Флин закопал личные сокровища своих соотечественников возле своего дома. {PlayerName} вышел, чтобы найти захороненные вещи и вернуть их в свои законные дома.
-�
-MVillage!Tangled!Flynn!VLG_Flyn_010_Group08_Step08_BringItem01_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
-Q
-BVillage!Tangled!Flynn!VLG_Flyn_010_Group08_Step08_ReadyDescription{ItemName}.
-�
-MVillage!Tangled!Flynn!VLG_Flyn_010_Group08_Step09_BringItem02_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
-Q
-BVillage!Tangled!Flynn!VLG_Flyn_010_Group08_Step09_ReadyDescription{ItemName}.
-�
-MVillage!Tangled!Flynn!VLG_Flyn_010_Group08_Step10_BringItem03_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
-Q
-BVillage!Tangled!Flynn!VLG_Flyn_010_Group08_Step10_ReadyDescription{ItemName}.
-�
-:Village!Tangled!Flynn!VLG_Flyn_010_Group08_StepDescriptionCВерните вещи их законному владельцу:
-o
-MVillage!Tangled!Flynn!VLG_Flyn_010_Group09_Step11_VisitArea01_StepDescriptionИдите в дом Флин.
-t
-SVillage!Tangled!Flynn!VLG_Flyn_010_Group10_Step12_TalkToCharacter03_StepDescriptionПоговори с Флин.
-|
-SVillage!Tangled!Flynn!VLG_Flyn_010_Group11_Step13_TalkToCharacter04_StepDescription%Поговори с Кристофф.
-�
-;Village!Tangled!Flynn!VLG_Flyn_010_Group11_StoryDescription�Несмотря на то, что он чувствует себя лучше, жулик Флин Всадник продолжал вести внутреннюю битву."Возможно, Кристофф поможет этому одинокому волку справиться с сердечной болью?"{PlayerName} задается вопросом.
-o
-MVillage!Tangled!Flynn!VLG_Flyn_010_Group12_Step14_VisitArea02_StepDescriptionИдите в дом Флин.
-|
-SVillage!Tangled!Flynn!VLG_Flyn_010_Group13_Step15_TalkToCharacter05_StepDescription%Поговори с Кристофф.
-}
-JVillage!Tangled!Flynn!VLG_Flyn_010_Group14_Step16_PickUp01_StepDescription/Подними мусор в доме Флин.
-|
-SVillage!Tangled!Flynn!VLG_Flyn_010_Group15_Step18_TalkToCharacter06_StepDescription%Поговори с Кристофф.
-f
-5Village!Tangled!Flynn!VLG_Flyn_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

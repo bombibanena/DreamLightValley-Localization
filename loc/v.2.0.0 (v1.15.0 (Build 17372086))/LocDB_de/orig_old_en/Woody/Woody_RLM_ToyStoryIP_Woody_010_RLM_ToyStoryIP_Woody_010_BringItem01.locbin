@@ -1,33 +1,0 @@
-
-?
-Woody_003_f0This looks great. Thanks for wrangling all that.
-X
-Woody_004_fIBut we're still gonna need a couple more things to rebuild Bonnie's farm.
-!
-Woody_005_fWhat will we need?
-h
-Woody_000_fYWell, Bonnie drew these giant <ActivityItem>Yellow Daisies</ActivityItem> above the farm.
-[
-Woody_002_fLJust leave those to me. I'll <Lore>find Yellow Daisies in my Village</Lore>.
-a
-Woody_001_fRSounds good, partner! Oh, but we'll also need something to hold it all together...
-'
-Player_000_choice_000_fChewing gum?
-"
-Player_000_choice_001_fString?
- 
-Player_000_choice_002_fGlue?
-V
-Woody_006_fGThat could work. But Bonnie doesn't chew gum, so I doubt we'd find any.
-H
-Woody_009_f9Hold on, didn't you say you sent Buzz on a recon mission?
-5
-Woody_010_f&Maybe he's found something we can use.
-J
-Woody_011_f;Good idea! I'll go <Lore>talk to Buzz in my Village</Lore>.
-Z
-Woody_012_fKOkay. Then bring everything back to me, and I'll start putting it together.
-o
-Woody_007_f`I'm afraid the only string around here is my pull string, and I'm kinda attached to it. Heh-heh.
-g
-Woody_008_fXI'm afraid the only glue around here is preschool safe. It's not gonna be strong enough.

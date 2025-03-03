@@ -1,52 +1,0 @@
-
-Z
-Timon_000_fKHey {PlayerName}, how 'bout some help with a little project I have in mind?
-5
-Player_000_choice_000_fOf course! How can I help?
->
-Player_000_choice_001_f#Sorry, I'm a little busy right now.
-a
-Timon_001_fRI've been checking out the animals in the Valley. Ya know, the squirrels and such.
-%
-Timon_018_fWe call them critters.
-Ç
-Timon_019_fs"Critters." I like that. Anyway, I wanna keep track of 'em somehow. It's always good to know your neighbors, right?
-$
-Timon_002_fDo ya have any ideas?
-ü
-Timon_005_fèWhat if you make sort of a documentary? You can take pictures, record yourself talking about them, and we can make a slideshow for the Village!
-F
-Timon_006_f7Uh-huh, uh-huh, that sounds good... only one problem...
-5
-Timon_007_f&I have NO idea what any of that means!
-5
-Player_001_choice_000_fOh, sorry! Let me explain!
-5
-Player_001_choice_001_fWhat don't you understand?
-:
-Player_001_choice_002_fIt's pretty self-explanatory...
-
-Timon_012_f
-Please do.
-û
-Timon_008_féA documentary is used to teach folks about... pretty much anything! Usually they are videos, but we can make a slideshow presentation instead.
-)
-Timon_003_fAnd you humans like these?
-G
-Timon_015_f8Yes! They're very interesting, and it's nice to teach‚Äî
-&
-Timon_016_fSo I'm gonna be FAMOUS!
-i
-Timon_017_fZAll right, let's do it! I can't wait for my adoring audience to praise my incredible work!
-`
-Timon_011_fQOkay! I bet someone around here would have a recording device that we can borrow.
-ê
-Timon_013_fÄBuzz might have something. He's always using his communicator. And Mr. McDuck may have also come across something in his shop...
-ë
-Timon_014_fÅWhile I go <Lore>talk to Buzz and Scrooge</Lore>, you should scope out the critters and decide which ones you'd want to document!
-5
-Timon_009_f&What's a documentary? Or a slideshow?!
-N
-Timon_010_f?CLEARLY it isn't, since I have no clue what your talking about!
-G
-Timon_004_f8That's fine. Come find me when you have some extra time!

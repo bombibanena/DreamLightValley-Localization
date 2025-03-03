@@ -1,71 +1,0 @@
-
-�
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Any_CompletedRequestDescription@Возвращайся в Реми за твои награды.
-�
-GRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_AvailableDescriptionMУ Реми есть специальный заказ на доставку!
-z
->Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_DisplayName8Приятного аппетита, Ваниллопа!
-�
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group01_Step01_CookMeal01_StepDescriptionmПриготовить Ваниллопа немного <ActivityItem>5-Star Vegetable Feals</ActivityItem>.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal02_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal03_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal04_StepDescription{ItemName}.
-l
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_StepDescriptionПовар Ваниллопа:
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal05_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal06_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal07_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal08_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal09_StepDescription{ItemName}.
-�
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_StepDescriptionDПриготовить для Ваниллопа следующее:
-�
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group04_Step04_ReadyDescription]Возьмите <ActivityItem>5-Star Vegetable Feals</ActivityItem> на Ваниллопа.
-�
-QRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group04_Step04_StepDescription_Возьмите <ActivityItem>5-Star Vegetable Feals</ActivityItem> для Ваниллопа.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem02_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem03_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem04_StepDescription{ItemName}.
-�
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_ReadyDescriptionBПринесите острое питание Ваниллопа.
-�
-QRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_StepDescription>Получите следующее для Ваниллопа:
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem05_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem06_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem07_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem08_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem09_StepDescription{ItemName}.
-�
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_ReadyDescriptionOВозьмите <ActivityItem>Boba Tea</ActivityItem> на Ваниллопа.
-�
-QRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_StepDescription>Получите следующее для Ваниллопа:
-�
-ZRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group07_Step07_Listen01_StepDescriptionJСледуйте за Ваниллопа, чтобы узнать, кто.
-�
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group07_StepDescriptionUПохоже, Ваниллопа пытается разозлить кого-то...
-�
-ZRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group08_Step08_Listen02_StepDescriptionfСледуйте за Ваниллопа, чтобы узнать, кто последний босс.
-�
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group08_StepDescription_Ваниллопа сказал что-то о принятии"финальный босс"...
-�
-cRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group09_Step09_TalkToCharacter01_StepDescription#Свяжитесь с Мерлин.
-�
-cRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group10_Step10_TalkToCharacter02_StepDescriptionPПоговори с Скрудж Макдак, чтобы всё уладить.
-v
-ERepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

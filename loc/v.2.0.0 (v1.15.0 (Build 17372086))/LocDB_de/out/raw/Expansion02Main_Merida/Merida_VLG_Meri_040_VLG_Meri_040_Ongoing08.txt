@@ -1,6 +1,0 @@
-TAG: Merida_000_f
-Hey Merida! I got all the Ingredients for the <ActivityItem>Salt-Baked Sea Wolf</ActivityItem>! Now I'm going to <Lore>cook some up</Lore>!
-
-TAG: Merida_001_f
-Thank you, {PlayerName}! I can't wait to try it.
-

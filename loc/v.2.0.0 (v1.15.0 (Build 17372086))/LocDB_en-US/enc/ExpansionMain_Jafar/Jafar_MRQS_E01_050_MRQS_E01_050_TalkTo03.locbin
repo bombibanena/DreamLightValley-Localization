@@ -1,43 +1,0 @@
-
-'
-Jafar_002_fAt last, you've arrived!
-7
-Jafar_013_f(Welcome, {PlayerName}, to Eternity Isle!
-²
-Jafar_003_f¢You find yourself at <Lore>Ancient's Landing</Lore>. Don't let the scenery fool you. There are countless treasures to be found here, but it is fraught with peril.
-+
-Player_000_choice_000_fIt's so amazing!
-1
-Player_000_choice_001_fWhat can I do to help?
-<
-Player_000_choice_002_f!A little danger doesn't scare me.
-Y
-Jafar_004_fJYes, it is a marvel, isn't it? However, at the moment, that is irrelevant.
-'
-Jafar_007_fWe have no time to lose.
-ž
-Jafar_000_fŽYour first task will be to find the <ActivityItem>Ancient Gate</ActivityItem> that leads deeper into the Island. It is up those nearby stairs.
-„
-Jafar_001_fuYou have no doubt noticed that the way is blocked by these <Lore>strange formations</Lore> jutting out of the ground?
--
-Player_001_choice_000_fThey're beautiful.
-/
-Player_001_choice_001_fThey're super weird.
-B
-Player_001_choice_002_f'They're both beautiful AND super weird.
-~
-Jafar_008_foI have named them <ActivityItem>Splinters of Fate</ActivityItem>. They are wounds in the very fabric of time...
-R
-Jafar_009_fCBut they should be no match for your <Lore>Dreamlight Magic</Lore>.
-G
-Jafar_010_f8Simply focus your attention on them, and they will mend.
-W
-Jafar_015_fHJust like how I remove Night Thorns back in Dreamlight Valley... Got it!
-e
-Jafar_012_fVIf you are ever unsure of what to do next, you may contact me at one of these devices.
-~
-Jafar_011_foThere is another one beside the <ActivityItem>Ancient Gate</ActivityItem>. Clear the way and speak to me there!
-[
-Jafar_005_fLOh, how I appreciate that you do not prattle on with frivolous pleasantries.
-M
-Jafar_006_f>Beware overconfidence, {PlayerName}. It could cost you dearly.

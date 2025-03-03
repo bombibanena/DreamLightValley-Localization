@@ -1,6 +1,0 @@
-TAG: Tiana_000_f
-The parade's done, and now it's time to eat!
-
-TAG: Tiana_001_f
-If you place the <ActivityItem>Banquet Table</ActivityItem>, we can get the meal going.
-

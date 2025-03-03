@@ -1,113 +1,0 @@
-
-è
-8Village!Hercules!Hades!VLG_Hade_030_AvailableDescription“Take care, for a new chapter in the Hadean tale begins! This one with ambition brewing in Hades' domain √¢¬Ä¬î will the wise (and surely exasperated) {PlayerName} be able to guide Hades safely to this new goal?
-Ñ
-=Village!Hercules!Hades!VLG_Hade_030_CompletedStoryDescription¬Now this tale draws to a close and Hades must confront the error of his ways √¢¬Ä¬î his desire for control and admiration only serving to lead him down a path more detestable than his isolation.
-J
-/Village!Hercules!Hades!VLG_Hade_030_DisplayNameYour Own Personal Hades
-á
-TVillage!Hercules!Hades!VLG_Hade_030_Group01_Step01_TalkToCharacter01_StepDescription/Talk to {TargetNPC} with Hades in Hades' House.
-c
-LVillage!Hercules!Hades!VLG_Hade_030_Group02_Step02_Possess01_StepDescriptionCommon Club Rushes.
-]
-LVillage!Hercules!Hades!VLG_Hade_030_Group02_Step02_Possess02_StepDescriptionBlue Flowers.
-V
-LVillage!Hercules!Hades!VLG_Hade_030_Group02_Step02_Possess03_StepDescriptionMagma.
-l
-BVillage!Hercules!Hades!VLG_Hade_030_Group02_Step02_StepDescription&Gather the materials for Hades' merch.
-e
-NVillage!Hercules!Hades!VLG_Hade_030_Group03_Step03_BringItem01_StepDescriptionCommon Club Rushes.
-_
-NVillage!Hercules!Hades!VLG_Hade_030_Group03_Step03_BringItem02_StepDescriptionBlue Flowers.
-X
-NVillage!Hercules!Hades!VLG_Hade_030_Group03_Step03_BringItem03_StepDescriptionMagma.
-{
-CVillage!Hercules!Hades!VLG_Hade_030_Group03_Step03_ReadyDescription4Bring the materials for Hades' merch to {TargetNPC}.
-™
-BVillage!Hercules!Hades!VLG_Hade_030_Group03_Step03_StepDescriptiondMake sure you have the materials for the <ActivityItem>Hades Merch</ActivityItem> in your Inventory.
-ã
-LVillage!Hercules!Hades!VLG_Hade_030_Group04_Step04_DressUp01_StepDescription;Dress up with the <ActivityItem>Hades Merch</ActivityItem>.
-µ
-<Village!Hercules!Hades!VLG_Hade_030_Group04_StoryDescriptionÙBlazing ahead like an arrogant bull, Hades now attempts to reach the heights of celebrity in Mythopia! Poor Daisy has been roped into his debacle, but perhaps {PlayerName} can temper his expectations and assist Daisy with her management duties.
-|
-TVillage!Hercules!Hades!VLG_Hade_030_Group05_Step05_TalkToCharacter02_StepDescription$See how {TargetNPC} likes his merch.
-£
-BVillage!Hercules!Hades!VLG_Hade_030_Group06_Step06_StepDescription]Hang out with Hades and take pictures of yourself and Hades in various locations of Mythopia.
-g
-PVillage!Hercules!Hades!VLG_Hade_030_Group06_Step06_TakePicture01_StepDescriptionThe Elysian Fields.
-e
-PVillage!Hercules!Hades!VLG_Hade_030_Group06_Step06_TakePicture02_StepDescriptionThe Fiery Plains.
-h
-PVillage!Hercules!Hades!VLG_Hade_030_Group06_Step06_TakePicture03_StepDescriptionThe Statues' Shadow.
-l
-LVillage!Hercules!Hades!VLG_Hade_030_Group07_Step07_Possess04_StepDescriptionRead your letter from Daisy.
-q
-BVillage!Hercules!Hades!VLG_Hade_030_Group07_Step07_StepDescription+Head back to your House to check your mail.
-[
-LVillage!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess05_StepDescription{ItemName}.
-[
-LVillage!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess06_StepDescription{ItemName}.
-[
-LVillage!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess07_StepDescription{ItemName}.
-[
-LVillage!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess08_StepDescription{ItemName}.
-[
-LVillage!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess09_StepDescription{ItemName}.
-ç
-BVillage!Hercules!Hades!VLG_Hade_030_Group08_Step08_StepDescriptionGGather materials to build the <ActivityItem>Hades Kiosk</ActivityItem>.
-Õ
-<Village!Hercules!Hades!VLG_Hade_030_Group08_StoryDescriptionåAs Hades' star rises, so too do the frustrations of his helpers, {PlayerName} and Daisy. Once {PlayerName} follows a trail of managerial orders to the construction of a Hades Kiosk, will the aspiring celebrity manage to rein in his ego to give a proper public address?
-Ö
-NVillage!Hercules!Hades!VLG_Hade_030_Group09_Step09_CraftItem01_StepDescription3Craft the <ActivityItem>Hades Kiosk</ActivityItem>.
-ö
-TVillage!Hercules!Hades!VLG_Hade_030_Group10_Step10_TalkToCharacter03_StepDescriptionBSee how {TargetNPC} is preparing for his endorsement presentation.
-V
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess10_StepDescriptionOnion.
-W
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess11_StepDescriptionOlives.
-]
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess12_StepDescriptionFlyleaf Feta.
-^
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess13_StepDescriptionElysian Grain.
-X
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess14_StepDescriptionSpinach.
-W
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess15_StepDescriptionGarlic.
-_
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess16_StepDescriptionHoneydew Melon.
-]
-LVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess18_StepDescriptionSalt Crystal.
-Ã
-BVillage!Hercules!Hades!VLG_Hade_030_Group11_Step11_StepDescriptionÖGather the Ingredients needed for Hades' <ActivityItem>Spanakopita</ActivityItem> and <ActivityItem>Olympian Tapenade</ActivityItem>.
-à
-CVillage!Hercules!Hades!VLG_Hade_030_Group12_Step12_ReadyDescriptionACheck in with {TargetNPC} the manager about the endorsement deal.
-ò
-BVillage!Hercules!Hades!VLG_Hade_030_Group12_Step12_StepDescriptionRMake sure you have the <ActivityItem>Hades Kiosk</ActivityItem> in your Inventory.
-r
-MVillage!Hercules!Hades!VLG_Hade_030_Group13_Step13_Decorate01_StepDescription!(Optional) Hades Cooking Station.
-]
-MVillage!Hercules!Hades!VLG_Hade_030_Group13_Step13_Decorate02_StepDescriptionHades Kiosk.
-ü
-BVillage!Hercules!Hades!VLG_Hade_030_Group13_Step13_StepDescriptionYPlace the objects needed for Hades' presentation near Scrooge McDuck's Store in the Vale.
-z
-JVillage!Hercules!Hades!VLG_Hade_030_Group14_Step14_Party01_StepDescription,Gather with the Villagers for Hades' speech.
-∂
-<Village!Hercules!Hades!VLG_Hade_030_Group14_StoryDescriptionıOne chance remains for poor Hades in his quest for celebrity! If he can convince the Villagers to shop at Goofy's Stall (while {PlayerName} cooks a tasty Greek meal) he may convince the un-convinced Villagers that he is indeed worthy of worship.
-à
-NVillage!Hercules!Hades!VLG_Hade_030_Group15_Step15_VisitArea01_StepDescription6Return to the speech area near Scrooge McDuck's Store.
-\
-MVillage!Hercules!Hades!VLG_Hade_030_Group16_Step16_CookMeal01_StepDescription{ItemName}.
-\
-MVillage!Hercules!Hades!VLG_Hade_030_Group16_Step16_CookMeal02_StepDescription{ItemName}.
-è
-BVillage!Hercules!Hades!VLG_Hade_030_Group16_Step16_StepDescriptionICook up some Greek meals for Hades while he gives his endorsement speech.
-s
-KVillage!Hercules!Hades!VLG_Hade_030_Group16_Step17_Listen01_StepDescription$Listen to Hades' endorsement speech.
-r
-BVillage!Hercules!Hades!VLG_Hade_030_Group17_Step18_StepDescription,See how Hades liked his time as a celebrity.
-h
-BVillage!Hercules!Hades!VLG_Hade_030_Group17_Step19_StepDescription"(Optional) Talk to Scrooge McDuck.
-w
-NVillage!Hercules!Hades!VLG_Hade_030_Group18_Step20_VisitArea02_StepDescription%Meet Daisy and Hades in Hades' House.
-g
-6Village!Hercules!Hades!VLG_Hade_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

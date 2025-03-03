@@ -1,36 +1,0 @@
-
-&
-Minnie_001_fYou want something...?
-
-Minnie_002_fOh, yes, I do!
-P
-Minnie_003_f@<Forgotten>(Ugh. What's it going to be this time...)</Forgotten>
-,
-Minnie_004_fI just wanted to tell you...
-%
-Minnie_005_f...that you're loved.
-&
-Player_000_choice_000_fWhat? I am?
-%
-Player_000_choice_001_f
-That's it?
-2
-Player_000_choice_002_fThat's pretty cheesy...
-A
-Minnie_006_f1Of course! Everyone here cares so much about you.
-|
-Minnie_009_flYou mustn't be afraid to let your friends know how you feel. Even if you might feel a little silly doing it.
-6
-Player_001_choice_000_f(I wish I could disappear.)
-@
-Player_001_choice_001_f%(I feel like I'm stuck in between...)
-2
-Player_001_choice_002_f(Something is wrong...)
- 
-Minnie_010_f...{PlayerName}?
-;
-Minnie_011_f+It's fine. I'm fine. Thanks for the talk...
-j
-Minnie_007_fZYes. I think that everyone needs to hear that they're cared about now and then, don't you?
-ç
-Minnie_008_f}Well... maybe it is. But it's true. And I think it's all right to be a little cheesy, especially when something is important!

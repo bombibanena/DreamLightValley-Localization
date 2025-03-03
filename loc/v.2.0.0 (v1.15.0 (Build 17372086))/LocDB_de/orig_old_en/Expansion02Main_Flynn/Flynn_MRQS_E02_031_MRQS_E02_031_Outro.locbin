@@ -1,67 +1,0 @@
-
-J
-Flynn_000_f;Wow, {PlayerName}. I saw that House you built for me and...
-[
-Flynn_001_fLWell... thanks. It's not often that I've had a place that nice to call home.
-Z
-Flynn_010_fKNot that I'm getting emotional, mind you. I've got a reputation to protect.
-3
-Player_001_choice_000_fWhat is that reputation?
-E
-Player_001_choice_001_f*You're welcome. It was no problem, really.
-<
-Player_001_choice_002_f!You're totally getting emotional.
-:
-Flynn_011_f+You know. Flynn Rider. Swashbuckling rogue!
-|
-Flynn_016_fmAnyway, now that I'm out of there... if there's anything you need to help fight the Neverafter? Just name it.
-e
-Flynn_024_fVI guess next I'll need to find <Lore>more Fairy Tale Trials</Lore> just like this one.
-Q
-Flynn_025_fBEach one I fix gets me <Lore>one step closer to Maleficent</Lore>.
-§
-Flynn_026_f—If you find more of them, let me know. I'm pretty great at exploring dungeons, plundering treasures, charming old widows into sharing their fortunes...
-3
-Flynn_027_f$You know. Charming adventurer stuff.
-Z
-Flynn_023_fKIn the meantime, though, I've got some unfinished business to take care of.
-N
-Flynn_002_f?I don't suppose you've seen a girl anywhere, about this tall...
--
-Flynn_003_fVery, VERY long blonde hair...
-.
-Flynn_004_fKiller swing with a frying pan?
-:
-Player_000_choice_000_fAre you talking about Rapunzel?
-6
-Player_000_choice_001_fDoesn't ring a bell, sorry.
-"
-Flynn_005_fYou know Rapunzel?!
-,
-Flynn_007_fI found her on Eternity Isle.
-D
-Flynn_008_f5Then that's where I'm going! We need to talk afterâ€”
-8
-Flynn_009_f)No, wait. I can't face Rapunzel. Not yet.
-G
-Flynn_022_f8When I see her again, I want to be the man she deserves.
-;
-Flynn_017_f,Maleficent's curse is still hanging over me.
-N
-Flynn_020_f?I'm feeling a sudden urge to form a pack and chase down an elk.
-€
-Flynn_021_fqI hope this goes away soon. But if not... well, I might need some more help. Check back with me later, would you?
-E
-Flynn_006_f6I've got to find her. She must be somewhere out there.
-’
-Flynn_018_f‚There's someone I need to find and catch up with. A certain blonde with very, VERY long hair and a killer swing with a frying pan.
-&
-Flynn_019_fBut before I do that...
-V
-Flynn_012_fGWell, hey, I appreciate it. I'm a pretty good friend to have, you know.
-
-Flynn_013_f	I am not!
-+
-Flynn_014_fOkay... maybe JUST a little.
-K
-Flynn_015_f<Don't tell anyone. Swashbuckling rogues don't get emotional.

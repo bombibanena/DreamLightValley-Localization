@@ -1,9 +1,0 @@
-TAG: Vanellope_000_f
-Эй, {PlayerName}, я слышал, ты помогаешь Дейзи с вопросом"Спросите Дейзи"?
-
-TAG: Vanellope_001_f
-Мне нужно принести несколько вещей на Минни Маус, некоторые <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Gold Ingots</ActivityItem>, и <ActivityItem>Red Bromeliads</ActivityItem>.
-
-TAG: Vanellope_002_f
-По... причинам...
-

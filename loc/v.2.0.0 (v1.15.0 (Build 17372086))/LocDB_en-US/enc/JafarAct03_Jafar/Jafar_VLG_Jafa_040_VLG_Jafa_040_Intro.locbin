@@ -1,47 +1,0 @@
-
-N
-Jafar_000_f?{PlayerName}... I wonder what you have heard around the Isle...
-1
-Player_000_choice_000_fYeah, we need to talk.
->
-Player_000_choice_001_f#I'll be back later to discuss this.
-
-Jafar_001_fHow ominous.
-i
-Jafar_002_fZThe other Villagers seem unhappy with you again. Want to tell me why before I go ask them?
-b
-Jafar_003_fSNo need; I will tell you everything myself. The question is... will you believe me?
-W
-Player_001_choice_000_f<You're the only person who has lied to me in this situation.
-C
-Player_001_choice_001_f(If it confirms what I already suspect...
-3
-Player_001_choice_002_fThat's to be determined.
-_
-Jafar_004_fPOh dear. Were my actions really so terrible? Is my social currency so deficient?
-p
-Jafar_012_faThis is serious. We trusted you to be better and from the sounds of it... you haven't even tried.
-{
-Jafar_014_flI will, of course, find you a defense attorney while I go around and get the truth from the other Villagers.
-^
-Jafar_015_fOReally? You think any of those simpletons could form a coherent legal argument?
-3
-Jafar_016_f$I will, of course, represent myself.
-ž
-Jafar_018_fŽFine, fine, I'll leave you to work on your case for now. I'll be in touch when we're ready to kick things off. Be careful, Jafar. I'm serious.
-Ò
-Jafar_005_fÂWell, you DID try to steal Oswald's abilities and hypnotized some of the other Villagers so, yes Ã¢Â€Â” I'm more inclined to believe them. But I still want to hear your version of recent events.
-}
-Jafar_006_fnWell, first there was Rapunzel. I was merely trying to offer helpful artistic advice. She so clearly needs it.
-
-Jafar_007_fJafar...
-L
-Jafar_008_f=And the capybaras should be glad that they're finally useful.
-ˆ
-Jafar_009_fyAs for Gaston, I am surprised he even has the capacity for speech. Obviously, you should disregard whatever he tells you.
-~
-Jafar_017_foFinally, Scrooge McDuck and EVE cannot be trusted to speak truthfully Ã¢Â€Â” they both have agendas against me.
-É
-Jafar_010_f¹Sounds like you've been up to SOMETHING... And I warned you about being on probation. I didn't want it to come to this, but... we're gonna need to enact the first-ever Dreamlight Court.
-(
-Jafar_011_fA trial? Surely you jest.

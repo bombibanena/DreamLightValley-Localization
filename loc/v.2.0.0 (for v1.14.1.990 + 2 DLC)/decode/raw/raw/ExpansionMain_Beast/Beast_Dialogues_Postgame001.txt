@@ -1,9 +1,0 @@
-TAG: Beast_000_f
-Hm...
-
-TAG: Beast_001_f
-I lost?! Wait... I have to remember what Belle told me: "It's just a game. And games are for fun"... Thank you, {PlayerName}.
-
-TAG: Beast_002_f
-I won...? Perhaps I CAN be a worthy challenger for Belle. Thank you, {PlayerName}.
-

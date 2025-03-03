@@ -1,57 +1,0 @@
-
-
-Simba_000_fGrr...
-
-Simba_007_f*ROAR!*
-]
-Player_000_fMUh-oh. I think I scared Simba. What did Nala tell me to say to calm him down?
-0
-Player_000_choice_000_f<i>Hakuna matata</i>!
-2
-Player_000_choice_001_fNo worries! No worries!
--
-Player_000_choice_002_fHere, kitty kitty!
-<
-Simba_002_f-Huh? Did you just say "<i>hakuna matata</i>"?
-4
-Simba_003_f%Are you a friend of Timon and Pumbaa?
-G
-Simba_004_f8Actually, I'm a friend of Nala! She sent me to find you.
-C
-Simba_011_f4Nala! I've been looking all over the jungle for her.
-<
-Simba_014_f-She's waiting on the other side of the river.
-R
-Simba_015_fCWow! Thanks for the help. Any friend of Nala's is a friend of mine.
-?
-Simba_012_f0Oh, and uh... sorry about roaring at you before.
-E
-Simba_013_f6With all these hyenas around, we can't be too careful.
-+
-Player_001_choice_000_fHey, no worries!
->
-Player_001_choice_001_f#It's always good to... be prepared.
-G
-Player_001_choice_002_f,Just don't roar at me like that again, okay?
-j
-Simba_016_f[You certainly know Timon and Pumbaa's motto. I think you'd get along pretty well with them.
-b
-Simba_019_fSWhy don't we <Lore>go see Nala</Lore>? She's right near the entrance to the jungle.
-
-Simba_020_fGreat! Let's go.
-V
-Simba_017_fG"Be prepared"? Hm. For some reason, hearing that is kind of unsettling.
-<
-Simba_001_f-Maybe it just reminds me of someone. Oh well.
-7
-Simba_018_f(Don't worry. I promise. No more roaring.
-2
-Simba_005_f#Do you mean "<i>hakuna matata</i>"?
-4
-Simba_006_f%Are you a friend of Timon and Pumbaa?
-4
-Simba_008_f%Kitty? Not exactly. Now, who are you?
-:
-Simba_009_f+Wait a second. I know what's going on here.
-]
-Simba_010_fNAre you a friend of Timon and Pumbaa? Did they send you to play a prank on me?

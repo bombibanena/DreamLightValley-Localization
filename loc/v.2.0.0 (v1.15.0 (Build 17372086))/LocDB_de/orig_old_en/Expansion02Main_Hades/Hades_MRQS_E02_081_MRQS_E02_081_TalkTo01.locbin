@@ -1,43 +1,0 @@
-
-e
-Hades_004_fVHades! Look â€” it's the same magical corruption we saw inside the first Mythic Trial!
-5
-Hades_005_f&Only one problem. How do we get to it?
-$
-Hades_006_fOh that? That's easy.
-B
-Hades_007_f3Do you know anything about a jerk named Prometheus?
->
-Player_000_choice_000_f#He stole fire from the gods, right?
-5
-Player_000_choice_001_fHe was a Titan, wasn't he?
-<
-Player_000_choice_002_f!No idea who you're talking about.
-H
-Hades_008_f9Bingo. And let's just say old Zeusy was none too pleased.
-€
-Hades_009_fqYou ever see Zeus when he's really angry? Trust me. You'll have a lot more appreciation for what a nice guy I am.
-F
-Hades_014_f7Anyway, you're gonna have to make like Prometheus here.
-K
-Hades_002_f<We've got some torches, we've got some places for torches...
-X
-Hades_003_fISo, you'll have to find all the torches and get 'em into the right spots.
-8
-Player_001_choice_000_fAre you going to help, or...?
-+
-Player_001_choice_001_fOkay. I'm on it.
-S
-Hades_015_fDI just told you exactly what to do. And that, my friend, is helping!
-K
-Hades_016_f<Look, how about I do the managing, and you do the minioning?
-=
-Hades_017_f.Now that is some good minioning, {PlayerName}.
-P
-Hades_018_fAKeep that up, and there just might be a promotion in your future.
-~
-Hades_010_foOh yeah. He's the one who stole fire from Mount Olympus, and let me tell you, old Zeusy was not happy about it.
-E
-Hades_012_f6Seriously? What are they teachin' you kids these days?
-„
-Hades_013_fuShort version: Prometheus was a Titan. Stole fire from Mount Olympus. Ringing any bells yet? Made Zeus extremely mad.

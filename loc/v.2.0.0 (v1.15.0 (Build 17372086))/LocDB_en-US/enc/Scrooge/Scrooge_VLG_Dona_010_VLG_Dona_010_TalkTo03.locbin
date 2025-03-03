@@ -1,33 +1,0 @@
-
-`
-Scrooge_000_fO{PlayerName}, you've got the look of someone who's about to ask me for a favor.
-R
-Scrooge_002_fAIt's not for me. It's for Donald. He needs help fixing his House.
-¤
-Scrooge_003_f’Oh, so it's my loafer of a nephew who's lookin' for help, eh? And if I know Donald, he wants it for free. Why should I lose money in this venture?
-/
-Player_000_choice_000_fBecause he's family!
-3
-Player_000_choice_001_fBecause he's really mad.
-K
-Player_000_choice_002_f0Because I won't stop bothering you until you do.
-V
-Scrooge_004_fEBah! He may be family, but he treats me like his personal piggy bank.
-€
-Scrooge_007_foOf course, he did do a fine thing to help the Valley... All right, I'll give ya something to help Donald. Here.
-
-Scrooge_008_fWhat's this?
-`
-Scrooge_009_fOThe blueprints for Donald's House. You'll need those if you're going to fix it.
-e
-Scrooge_001_fTAnd that's not all. You'll need a <ActivityItem>Boat Repair Kit</ActivityItem>, too.
-K
-Scrooge_011_f:How much are you going to make me pay for one of those...?
-Z
-Scrooge_012_fIOh, I don't keep that sort of thing lyin' around. Wouldn't be profitable.
-Ý
-Scrooge_013_fËYou can make one yourself if you gather some <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Rope</ActivityItem>, and <ActivityItem>Iron Ingots</ActivityItem>.
-W
-Scrooge_005_fFIf I gave Donald free goods every time he got angry, I'd be penniless!
-b
-Scrooge_006_fQHmm. Good point. Though you're a lot quieter about your botherin' than my nephew.

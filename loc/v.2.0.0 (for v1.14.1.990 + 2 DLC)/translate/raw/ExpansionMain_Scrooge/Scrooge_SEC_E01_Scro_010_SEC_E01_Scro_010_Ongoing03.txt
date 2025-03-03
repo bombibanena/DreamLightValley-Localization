@@ -1,6 +1,0 @@
-TAG: Scrooge_000_f
-Ты уже сделал этот <ActivityItem>Ancient Machine</ActivityItem>?
-
-TAG: Scrooge_001_f
-Не волнуйся, сначала нужно <Lore> сделать мое часовое стекло более мощным на Tablebriding Table</Lore>.
-

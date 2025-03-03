@@ -1,43 +1,0 @@
-
-—
-Simba_001_f‡Hey, {PlayerName}... I have an idea of what might be contributing to all the stuff going wrong in the Valley. Do you have time to talk?
-(
-Player_000_choice_000_fI'm all ears.
-)
-Player_000_choice_001_fNot right now.
-T
-Simba_008_fEOkay, I have this theory about the Forgetting and the Night Thorns...
-Š
-Simba_007_f{I've noticed how lots of folks come to you with all kinds of problems. Everyone around here seems to have a lot of worries.
-|
-Simba_013_fmMaybe if they could let go of some of those worries, it would help. Ya know, relax and get a new perspective?
-t
-Simba_000_feMy friends Timon and Pumbaa have a whole theory about not worrying too much â€” <i>hakuna matata</i>.
-I
-Player_002_choice_000_f.Yeah, worrying too much doesn't always help...
-?
-Player_002_choice_001_f$I only worry about important things.
-6
-Player_002_choice_002_fI worry about everything...
-"
-Simba_014_fI'm glad you agree!
-š
-Simba_017_fŠAnd you know what? I think we should start with you. I've noticed you seem to wear those coverings all the time, since you don't have fur.
-X
-Simba_002_fIBut they don't look very comfortable. Maybe you could find some that are.
-~
-Simba_019_foGood idea. I could put together the most relaxing and casual outfit of all time. That would be a fun challenge.
-?
-Simba_020_f0Well, I can't wait to see what you come up with!
-k
-Simba_015_f\Oh yeah, of course. You're the Ruler of these lands, and you have a lot of responsibilities.
-›
-Simba_003_f‹But it doesn't mean you shouldn't be able to relax too. Like, I've noticed you wear those coverings all the time, since you don't have fur.
-?
-Simba_016_f0That doesn't sound very healthy, {PlayerName}...
-b
-Simba_018_fSJust hear me out... I think we can do a few things to help everyone relax a little.
-‹
-Simba_004_f|And, hey, why don't we start with you? I've noticed you seem to wear those coverings all the time, since you don't have fur.
-4
-Simba_006_f%I understand. Well, whenever you can.

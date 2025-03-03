@@ -1,3 +1,0 @@
-TAG: Kristoff_001_f
-Гуфи сказал, что нам понадобится <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, <ActivityItem>Sand</ActivityItem>, и <ActivityItem>Stone<ActivityItem>0.
-

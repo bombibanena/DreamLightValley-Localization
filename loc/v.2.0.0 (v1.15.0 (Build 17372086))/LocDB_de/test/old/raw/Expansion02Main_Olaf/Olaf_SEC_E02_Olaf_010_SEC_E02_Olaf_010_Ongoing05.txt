@@ -1,6 +1,0 @@
-TAG: Olaf_000_f
-Я заметил, что вы исследуете Бинд, {PlayerName}.
-
-TAG: Olaf_001_f
-Не могу дождаться, чтобы узнать больше о двери <Lore> Secret под мостом</Lore>, <Lore>mysterious фонтаны</Lore> и <Lore>the sows</Lore>!
-

@@ -1,89 +1,0 @@
-
-2
-Ursula_003_f"My my, angelfish? What's all this?
-W
-Ursula_004_fGYou might have noticed some weird magical stuff going on around here...
-o
-Ursula_005_f_Nala and I found these mystical rifts that opened up in the water. And then that fish swam out.
-?
-Player_000_choice_000_f$Have you ever seen anything like it?
-J
-Player_000_choice_001_f/We figured you would be the best person to ask.
-H
-Player_000_choice_002_f-We thought it might be one of your relatives.
-p
-Ursula_006_f`It doesn't look like any fish I've ever seen, and I've seen them all. Let me take a closer look.
-@
-Ursula_011_f0Gah! The fish disappeared right out of my hands.
-M
-Ursula_012_f=But I got enough of a look at it to tell you where it's from.
-m
-Ursula_013_f]And since I'm so generous... perhaps I'll even tell you without asking for anything in trade.
-6
-Player_002_choice_000_fI'd trade you my gratitude.
-6
-Player_002_choice_001_fI'd really appreciate that.
-/
-Player_002_choice_002_fOut with it, Ursula.
-h
-Ursula_014_fXHardly as valuable as what I'm about to tell you. But that's fine. You'll be in my debt.
-E
-Ursula_019_f5This fish comes from <Lore>the Here and There</Lore>.
-o
-Ursula_021_f_I went to the Here and There to get the Orb of Trust back, but I didn't see any fish like this.
-
-Ursula_029_foPoor Nala. She was supposed to be the protector of this Valley, but now she might lead it to its destruction...
-=
-Ursula_000_f-... All because of one clumsy little mistake.
-1
-Player_004_choice_000_fIt's not Nala's fault.
->
-Player_004_choice_001_f#She shouldn't have meddled in this.
->
-Player_004_choice_002_f#Stop gloating and help us fix this.
-i
-Ursula_023_fYYou may have visited, but you merely went as deep as sea-foam skimming the ocean surface.
-\
-Ursula_024_fLThis fish came from somewhere much deeper in the Here and There than that...
-<
-Ursula_020_f,Like where Minnie went when she disappeared?
--
-Ursula_022_fAh-ha! Now you're getting it.
-~
-Ursula_025_fnIt seems you and Nala have done something to rip open the walls between... well... between the Here and There!
-[
-Ursula_026_fKWhat about those <ActivityItem>Lioness Statues</ActivityItem> I showed you?
-í
-Ursula_027_fÅIf I'm not mistaken, this has happened before. Long ago. Those statues must have been part of some enchantment to seal the rifts.
-P
-Ursula_028_f@But now that you've disturbed them... the enchantment is broken.
-[
-Ursula_030_fKNo, of course not. This magic isn't something a lion should be meddling in.
-B
-Ursula_032_f2At least you're wise enough to know to come to me.
-`
-Ursula_034_fPNow, if we don't fix this soon, who knows what else might leak into the Village?
-L
-Ursula_035_f<I'll need some time to figure out how to shut them for good.
-d
-Ursula_036_fTI'm afraid that in these matters, time is the one thing that can't be bargained for.
-I
-Ursula_031_f9Certainly not. Magic like this is no business for a lion.
-W
-Ursula_033_fGI'm not running a charity here, {PlayerName}. Let me have a little fun.
-<
-Ursula_015_f,Just remember: You're in my debt, angelfish.
-U
-Ursula_016_fEManners, angelfish. Or I'll keep this valuable information to myself.
-,
-Ursula_017_f*sigh* Fine. Please tell me.
-A
-Ursula_018_f1Much better. And remember: Now you're in my debt.
-w
-Ursula_007_fgYou thought right, dearie. With magic like this, you should always talk to me, not that windbag wizard.
-S
-Ursula_010_fCNow, let me take a closer look at this odd creature you've found...
-j
-Ursula_008_fZMy relatives?! How dare you?! I ought to turn you into a barnacle for an insult like that.
-V
-Ursula_009_fFYou're lucky I'm just as curious as you about what this fish might be.

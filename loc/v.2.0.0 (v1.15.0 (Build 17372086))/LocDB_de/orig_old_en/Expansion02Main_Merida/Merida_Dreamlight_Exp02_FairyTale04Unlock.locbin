@@ -1,23 +1,0 @@
-
-{
-Merida_000_fkThis is the way to <Lore>the Beanstalk Marshes</Lore>. The shadow of Maleficent's castle covers this place.
-{
-Merida_001_fkBut I know we're brave enough to step forth and explore! If you want to clear this ink in the way, that is.
-‡
-Player_000_choice_000_flLet's clear the way to the Beanstalk Marshes. (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
-,
-Player_000_choice_001_fNo, not just yet.
-š
-Merida_002_f‰Look! The ink is melting away! Now we can explore the Marshes. Though, we'd better keep our wits about us. Things in there can be tricky.
-[
-Merida_003_fKUgh! You need more <Lore>Story Magic</Lore> to tackle this cursed ink wall!
-K
-Merida_004_f;You're the only one who can reach these unreachable places.
-5
-Merida_005_f%Promise me we'll come back here soon.
-
-Merida_006_fAw, really?
-j
-Merida_007_fZWe'd better learn a little more about Everafter before we go near Maleficent's stronghold.
-s
-Merida_008_fcLet's head back towards the Bind and clear away the ink blocking the way from THAT direction first.

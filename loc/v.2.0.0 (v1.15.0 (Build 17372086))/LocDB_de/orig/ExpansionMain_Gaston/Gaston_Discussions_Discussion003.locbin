@@ -1,25 +1,0 @@
-
-Y
-Gaston_000_fI{PlayerName}, I'm concerned. A lot of folks in this Village seem to read.
-
-Player_000_choice_000_fSo?
-+
-Player_000_choice_001_fReading is good.
->
-Player_000_choice_002_f#I'll put a stop to that right away.
-O
-Gaston_001_f?It's not right! Soon they'll start getting ideas. And thinking!
-=
-Player_001_choice_000_f"You are completely un-enlightened.
-=
-Player_001_choice_001_f"Maybe YOU should try reading more.
-Y
-Gaston_002_fIWhy, thank you. But get on that reading thing. It could become a problem.
-5
-Gaston_003_f%Ugh... What a complete waste of time.
-H
-Gaston_004_f8But perhaps if you brought me something with pictures...
-U
-Gaston_005_fEHow can you say that? Soon they'll start getting ideas. And thinking!
-0
-Gaston_006_f Good! I'm glad we had this talk.

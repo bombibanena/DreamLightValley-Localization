@@ -1,35 +1,0 @@
-
-�
-=Village!LionKing!Simba!VLG_Simb_010_CompletedStoryDescription�С новым оазисом, который ты создал для Виллидж, Симба не должно беспокоиться, но есть только один способ узнать.
-J
-/Village!LionKing!Simba!VLG_Simb_010_DisplayName<i>Hakuna matatata</i>!
-�
-BVillage!LionKing!Simba!VLG_Simb_010_Group01_Step01_StepDescriptionBСоберите костюм <ActivityItem>Casual</ActivityItem>.
-^
-MVillage!LionKing!Simba!VLG_Simb_010_Group03_Step03_Decorate01_StepDescriptionСадись.
-y
-MVillage!LionKing!Simba!VLG_Simb_010_Group03_Step03_Decorate03_StepDescription(Ландшафтный ландшафт.
-�
-BVillage!LionKing!Simba!VLG_Simb_010_Group03_Step03_StepDescriptionaДобавить немного расслабляющей мебели в мирную лугу:
-�
-<Village!LionKing!Simba!VLG_Simb_010_Group03_StoryDescription�Далее Симба хочет, чтобы вы помогли Долине, создав преданную"<i>Hakuna Mata</i> Зона"где все могут расслабиться и перестать волноваться.
-�
-<Village!LionKing!Simba!VLG_Simb_010_Group05_StoryDescription�Единственное, чего не хватает от идеального оазиса, который ты создал... где-то, где можно отдыхать и плавать!
-]
-NVillage!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem02_StepDescription{ItemName}.
-]
-NVillage!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem03_StepDescription{ItemName}.
-]
-NVillage!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem04_StepDescription{ItemName}.
-]
-NVillage!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem05_StepDescription{ItemName}.
-�
-CVillage!LionKing!Simba!VLG_Simb_010_Group06_Step06_ReadyDescriptionoИли принести Скрудж Макдак драгоценности, которые он просил.
-�
-BVillage!LionKing!Simba!VLG_Simb_010_Group06_Step06_StepDescription>Или продать его, собрав следующее:
-�
-BVillage!LionKing!Simba!VLG_Simb_010_Group06_Step08_StepDescriptionaЗакажи бассейн из магазина Скрудж Макдак за 9000 Star Coins.
-�
-<Village!LionKing!Simba!VLG_Simb_010_Group06_StoryDescription�Скрудж Макдак предлагает вам неожиданную сделку. Вы можете либо купить бассейн, либо обменять на него драгоценные камни. Это зависит от вас!
-�
-@Village!LionKing!Simba!VLG_Simb_010_Group05_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?

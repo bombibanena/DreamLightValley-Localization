@@ -1,25 +1,0 @@
-
-4
-Description%{Placeholder}Generic Buff Description
-X
-Description_000EUncover more treasures in each rock with every swing of your Pickaxe.
-@
-Description_001-Crops will grow instantaneously when watered.
-<
-Description_002)Find rarer fish in every ripple of water.
-A
-Description_003.Find more treasures in each shovelful of dirt.
-;
-Description_004(Creates an additional meal when cooking.
-(
-DisplayName{Placeholder}Generic Buff
-)
-DisplayName_000Miracle Pickaxe Polish
-(
-DisplayName_001Miracle Growth Elixir
-'
-DisplayName_002Miracle Fishing Bait
-)
-DisplayName_003Miracle Shovel Varnish
-*
-DisplayName_004Pixelized Cooking Flame

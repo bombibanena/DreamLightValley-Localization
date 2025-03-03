@@ -1,57 +1,0 @@
-
-ù
-Pumbaa_000_fåI heard about what happened in Scar's Cave, {PlayerName}. Thanks for helpin' out. Timon's been real nervous ever since he saw Scar was here.
-F
-Pumbaa_001_f6It's no problem. I'm just glad he's starting to relax.
-I
-Pumbaa_003_f9Do ya think he is? He still seems a little worried to me.
-
-Pumbaa_002_fSort of.
-I
-Player_000_choice_000_f.I think his worries are starting to melt away.
-@
-Player_000_choice_001_f%He probably needs a little more time.
-C
-Player_000_choice_002_f(Maybe "relax" is a bit of a strong word.
-L
-Pumbaa_009_f<Well, Timon's my best buddy. I wanna help him any way I can.
-A
-Pumbaa_012_f1I was thinking we can plan something fun for him!
-7
-Pumbaa_004_f'Oooh, yeah! What are ya thinkin' about?
-U
-Pumbaa_005_fEI would like to help him learn about hakuna matata ‚Äî the human way!
-2
-Pumbaa_020_f"When I need to relax, I like to...
-D
-Player_001_choice_000_f)...chill out with something tasty to eat!
-L
-Player_001_choice_001_f1...distract myself with an activity to de-stress.
-7
-Player_001_choice_002_f...hang out with my friends.
-5
-Pumbaa_006_f%Sounds like my kind of hakuna matata!
-á
-Pumbaa_023_fwOh, I know what to do! I'll tell him what Merlin told me about the sun. Timon thinks it's the world's biggest glowworm.
-@
-Pumbaa_013_f0I can start by making some refreshing ice cream!
-n
-Pumbaa_014_f^Oh-oh! I was talkin' to Remy about "iced cream"! He gave me this recipe that sounds delicious!
-c
-Pumbaa_016_fSThat's perfect! And after the ice cream, we can get together and play a board game!
-=
-Pumbaa_017_f-Why would we play a game that makes us bored?
-y
-Pumbaa_019_fiA board game is a game that's played ON a board. Though I suppose you can play it WHEN you're bored, too.
-0
-Pumbaa_021_f Regardless, they're tons of fun!
-*
-Pumbaa_022_fWell, I can't wait to try!
-±
-Pumbaa_018_f†Perfect! I'll go <Lore>gather Ingredients for the ice cream</Lore> and <Lore>find materials to make a board game</Lore>. You keep Timon occupied while I'm gone!
-K
-Pumbaa_007_f;Oh, I think Timon definitely needs a distraction right now.
--
-Pumbaa_008_fMe too! Friends are the best!
-N
-Pumbaa_010_f>Well, Timon's my best buddy. I'm sure he'll like it here soon.

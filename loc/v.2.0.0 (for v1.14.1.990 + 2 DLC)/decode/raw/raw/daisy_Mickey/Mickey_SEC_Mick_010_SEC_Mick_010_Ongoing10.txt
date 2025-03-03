@@ -1,6 +1,0 @@
-TAG: Mickey_000_f
-What else do ya have to do, {PlayerName}?
-
-TAG: Mickey_001_f
-I need to water the <ActivityItem>Mini Boutique</ActivityItem> in Daisy's House.
-

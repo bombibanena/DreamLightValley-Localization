@@ -1,13 +1,0 @@
-
-Œ
-Scrooge_000_f{Seems Flynn's been through a lot since I laid eyes on him last. Let's help him out and set him up with a cozy, proper home.
-{
-Player_000_choice_000_f`Let's build Flynn's House! (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
-.
-Player_000_choice_001_fI'll do this later.
-E
-Scrooge_001_f4One House for the dashing Mr. Rider coming right up!
-p
-Scrooge_002_f_Seems you don't have the Star Coins for this particular build. Poor Flynn'll just have to wait.
-{
-Scrooge_003_fj*sigh* Fine. I'll be here when you're ready. Let's not keep the poor, formerly feral lad waiting too long.

@@ -1,9 +1,0 @@
-TAG: Pumbaa_000_f
-{PlayerName}! Timon and I were sniffing around and we found this big shiny barrel! It smells JUST like the rocks around the big Night Mite Nest up above.
-
-TAG: Pumbaa_001_f
-We think whatever's in there might help us get rid of those rocks!
-
-TAG: Pumbaa_002_f
-Could ya <Lore>open it up</Lore> and see what's inside?
-

@@ -1,27 +1,0 @@
-
-U
-Kristoff_000_fC{PlayerName}, let me guess: You need me for another musical number?
-s
-Kristoff_001_faAlmost. I need you to craft a line of song about yourself so you can get your singing voice back.
-6
-Kristoff_002_f$A line of a song? Would a melody do?
-k
-Kristoff_003_fYUnfortunately, we need words. The first line has to come from you and the second from me.
-0
-Kristoff_004_fOh, well... Here goes nothing.
-T
-Kristoff_005_fBI'm Kristoff, raised by trolls... and best friend to a reindeer...
-A
-Player_000_choice_000_f&I'm the coolest guy in the hemisphere?
-=
-Player_000_choice_001_f"I'm the ice harvester of the year?
-<
-Player_000_choice_002_f!I'm the guy that Anna holds dear?
-.
-Kristoff_006_fWow... thanks, {PlayerName}.
-)
-Kristoff_007_fI sure hope this works.
-[
-Kristoff_008_fIThanks, {PlayerName}, but I'm kind of the only ice harvester around here.
-1
-Kristoff_009_fAw, that's really nice. Thanks.

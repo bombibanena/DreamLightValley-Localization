@@ -1,6 +1,0 @@
-TAG: Mickey_001_f
-Well, now that we know WHAT we're looking for... we just have to figure out WHERE it is!
-
-TAG: Mickey_000_f
-The <ActivityItem>Memory</ActivityItem> should help us.
-

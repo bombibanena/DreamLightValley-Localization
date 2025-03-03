@@ -1,31 +1,0 @@
-
-T
-Scrooge_000_fCAh, {PlayerName}. Are you looking for a new investment opportunity?
-=
-Player_000_choice_000_f"You have a piece of Eric's Statue.
-8
-Player_000_choice_001_fWould you like to help Ariel?
-E
-Player_000_choice_002_f*Do you know you're my favorite shopkeeper?
-9
-Scrooge_001_f(Aye, I do. What interest is that to you?
-3
-Player_000_choice_003_fCould you give it to me?
-5
-Player_000_choice_004_fI want to buy it from you.
-E
-Player_000_choice_005_f*... What is it going to cost me this time?
-]
-Scrooge_004_fLGive it to you? For free? Now what kind of a businessman would that make me?
-s
-Scrooge_007_fbHow about a trade, {PlayerName}? I'll exchange it for a few <ActivityItem>Peridots</ActivityItem>.
-z
-Scrooge_005_fiA Villager after my own heart. Just bring me a few <ActivityItem>Peridots</ActivityItem>, and it's yours.
-Š
-Scrooge_006_fyYou sound as if I'm always over-charging ya, {PlayerName}, when I'm nothing but a savvy businessman. Here, I'll prove it.
-d
-Scrooge_010_fSBring me a few <ActivityItem>Peridots</ActivityItem> and the Statue Piece is yours.
-A
-Scrooge_002_f0Of course! This won't cost me too much, will it?
-\
-Scrooge_003_fKDo you know I don't like flatterers? Spit it out. What do you want from me?

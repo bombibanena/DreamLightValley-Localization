@@ -1,24 +1,0 @@
-
-&
-Merlin_011_fAh-ha! You've done it!
-l
-Merlin_012_f\You're constructing with your Hourglass and the Timebending Tables. Well done, {PlayerName}.
-q
-Merlin_013_faI'd say, it's almost as if you're rediscovering the past with each thing you build. Exciting, eh?
-A
-Player_003_choice_000_f&Like I'm doing archaeology with magic!
-l
-Player_003_choice_001_fQLike discovering potato chips under the couch cushions... but for lost treasures!
-
-Merlin_014_f
-Precisely!
-«
-Merlin_016_fšOh, and there's something else that I've uncovered... The Mist in your Hourglass isn't just useful for <Lore>fixing the Time Rifts</Lore> around the Isle.
-\
-Merlin_017_fLYou can <Lore>also use the Mist to make your Hourglass more powerful</Lore>!
-O
-Merlin_018_f?I'm sure if you do, you'll uncover additional things to create.
-{
-Merlin_019_fkBut to understand it all... well, more research is required. I'll let you know if I discover anything else.
-d
-Merlin_015_fTEr, that's not quite how I would have phrased it, but I suppose the metaphor is apt.

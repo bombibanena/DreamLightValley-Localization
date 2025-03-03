@@ -1,26 +1,0 @@
-
-2
-Mulan_001_f#{PlayerName}! We're ready to start!
-y
-Mulan_002_fjWe have to find four <ActivityItem>Mini Flags</ActivityItem> using clues the Fairy Godmother has given us.
-®
-Mulan_000_fžShe said to <Lore>use all the tools at our disposal to find the flags</Lore>. We should search everywhere, even in the <Lore>water or under the ground.</Lore>
-p
-Mulan_003_faSo, I've decided to apply a divide and conquer strategy. And you're my trusted second in command.
-o
-Mulan_006_f`Please help the rest of the team, <Lore>Nala, Maui, and Buzz Lightyear</Lore>, with their clues.
-Q
-Mulan_007_fBOnce you've got all three, come back to see me, and we'll regroup.
-+
-Player_000_choice_000_fLet's goooooooo!
-0
-Player_000_choice_001_fSounds simple enough.
-6
-Player_000_choice_002_fThe pressure... So intense.
-
-Mulan_008_f
-Good luck!
-s
-Mulan_009_fdYes. I think the hardest part will be figuring out the clues. But I trust our team. Ready? Let's go!
-P
-Mulan_010_fABreathe, {PlayerName}. I'm sure you'll do great. C'mon, let's go!

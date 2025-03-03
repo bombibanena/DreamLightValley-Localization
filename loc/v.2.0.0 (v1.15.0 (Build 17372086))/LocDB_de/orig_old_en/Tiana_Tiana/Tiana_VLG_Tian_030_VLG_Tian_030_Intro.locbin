@@ -1,37 +1,0 @@
-
-.
-Tiana_000_fHey, Tiana. What are you up to?
-b
-Tiana_001_fS{PlayerName}, I've just had the most wonderful idea! Could you help me out with it?
--
-Player_000_choice_000_fSure, let's do it!
-C
-Player_000_choice_001_f(It's gonna have to be later, I'm afraid.
- 
-Tiana_002_fWhat's your idea?
-‡
-Tiana_003_fxWell, I want to teach some of the Villagers here how to cook like I do at my restaurant, specifically the Cajun recipes.
-
-Tiana_004_fThat's cool!
-‰
-Tiana_005_fzI'm so glad you think so. Sharing cooking tips is always fun, and we can make it even more fun by having a little contest.
-¡
-Tiana_006_f‘Plus, if I'm ever not available to cook the meals for Tiana's Meal Stall, it'll be nice to know there are some folks here who can fill in for me.
-!
-Player_001_choice_000_fGreat!
-M
-Player_001_choice_001_f2You planning on getting stuck in a cookbook again?
-3
-Tiana_008_f$Do you have any contestants in mind?
-=
-Tiana_009_f.You might say I have a tentative menu already!
-‰
-Tiana_010_fzCould you talk to <Lore>Woody</Lore>, <Lore>Anna</Lore>, <Lore>Kristoff</Lore>, <Lore>Mike</Lore>, and <Lore>Mulan</Lore>?
-j
-Tiana_011_f[I'll work on sources for the Ingredients, decide on recipes and set up the contest kitchen.
-H
-Tiana_012_f9Sure, you do that and I'll find your contestants for you!
-–
-Tiana_013_f†Thank you! Once you're done, please <Lore>meet me back in Remy's House</Lore>. It's the perfect spot for an impromptu culinary school!
-K
-Tiana_007_f<Goodness, no! But I will want to take a day off on occasion.

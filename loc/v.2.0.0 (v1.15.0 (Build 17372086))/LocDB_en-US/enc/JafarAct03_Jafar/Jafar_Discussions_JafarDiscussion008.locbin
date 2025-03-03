@@ -1,21 +1,0 @@
-
-E
-Jafar_000_f6You have done a great deal of exploring, {PlayerName}.
-o
-Jafar_001_f`Have you encountered any interesting Ancient artifacts left behind by the Valley's predecessors?
-B
-Player_000_choice_000_f'There's a cave of statues on the beach.
-3
-Player_000_choice_001_fWhy do you want to know?
-6
-Player_000_choice_002_fNothing I'd tell YOU about.
-:
-Jafar_002_f+Is there? I will have to go and examine it.
-H
-Jafar_003_f9Mere curiosity. As you know, I have made a study of them.
-4
-Jafar_004_f%It is nothing sinister. I assure you.
-M
-Jafar_005_f>Such distrust. You wound me to the quick with your suspicions.
-:
-Jafar_006_f+The vizier doth protest too much, methinks.

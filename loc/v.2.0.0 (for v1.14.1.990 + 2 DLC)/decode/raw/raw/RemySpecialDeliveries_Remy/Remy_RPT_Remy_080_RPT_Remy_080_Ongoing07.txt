@@ -1,9 +1,0 @@
-TAG: Remy_000_f
-Woody and Buzz have an order for us.
-
-TAG: Remy_001_f
-They want <ActivityItem>Roasted Asparagus, Gingerbread Houses, and Ranch Salad</ActivityItem>.
-
-TAG: Remy_002_f
-It's kinda strange. And oddly specific. Especially since they're toys. Well, an order's an order! Delivery goes to Woody.
-

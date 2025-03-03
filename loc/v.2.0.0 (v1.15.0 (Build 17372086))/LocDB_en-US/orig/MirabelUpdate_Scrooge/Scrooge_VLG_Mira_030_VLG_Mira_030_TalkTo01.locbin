@@ -1,33 +1,0 @@
-
-c
-Scrooge_000_fR{PlayerName}, am I glad to see you! We've got to talk about Mirabel and my nephew.
-7
-Scrooge_001_f&I tell you, young people these days...
-,
-Scrooge_002_fJust tell me what happened.
-
-Scrooge_003_fGladly.
-ê
-Scrooge_004_fDonald and I were havin' a bit of an argument, as the lad was makin' a scene in my shop when customers were trying to browse...
-î
-Scrooge_005_fÇMirabel heard us and asked us to go with her on a stroll. I don't know what she was expecting, but I wager it wasn't what she got.
-X
-Scrooge_006_fGThe next thing I knew, my nephew knocked me over and fell in the river.
-b
-Scrooge_007_fQ... And a raccoon ran off with my <ActivityItem>Cash Register Key</ActivityItem>!
-.
-Player_000_choice_000_fOh dear. I'm sorry.
-6
-Player_000_choice_001_fIs there anything I can do?
->
-Player_000_choice_002_f#Mirabel had the best of intentions.
-h
-Scrooge_008_fWIt's not your fault, {PlayerName}. But someone has to set that nephew of mine straight.
-X
-Scrooge_009_fGAnd I need my <ActivityItem>Cash Register Key</ActivityItem> back, too!
-è
-Scrooge_010_f~Well, someone has to set that nephew of mine straight. And I need my <ActivityItem>Cash Register Key</ActivityItem> back, too!
-ä
-Scrooge_011_fyOch, I don't doubt it. But I did end up with mud on my clothes and a lost <ActivityItem>Cash Register Key</ActivityItem>.
-å
-Scrooge_012_f{Someone has to set that nephew of mine straight. And I cannae do without my <ActivityItem>Cash Register Key</ActivityItem>!

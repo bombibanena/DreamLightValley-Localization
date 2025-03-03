@@ -1,25 +1,0 @@
-
-G
-Mirabel_001_f6Any news about my missing singing voice, {PlayerName}?
-
-Mirabel_002_fnAs a matter of fact, I'm working on it right now. I need you to craft a line about yourself... like in a song.
-
-Mirabel_003_fA song?
-&
-Mirabel_004_fHmm... How's this...?
-5
-Mirabel_005_f$I'm Mirabel and... I love to sing...
->
-Player_000_choice_000_f#Helping people is sort of my thing?
-9
-Player_000_choice_001_fYou should hear my voice ring?
-:
-Player_000_choice_002_fAnd I'm even better at sew-ing?
-8
-Mirabel_006_f'Ooh, I like that! Thanks, {PlayerName}.
-L
-Mirabel_010_f;Now, hopefully Ursula never tries anything like this again.
-A
-Mirabel_007_f0Thanks, {PlayerName}. That's nice of you to say.
-O
-Mirabel_008_f>I see what you did with that meter. Nicely done, {PlayerName}.

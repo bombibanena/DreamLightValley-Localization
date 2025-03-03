@@ -1,39 +1,0 @@
-
-
-PrinceEric_000_fHmm...
-5
-Player_000_choice_000_fYou look thoughtful, Eric.
-.
-Player_000_choice_001_fIs everything okay?
-
-Player_000_choice_002_fHmm?
-p
-PrinceEric_001_f\Do I? Well, I've been thinking about something Olaf asked me, and it's a little complicated.
-N
-PrinceEric_004_f:If you have a ship for a long time, you need to repair it.
-V
-PrinceEric_005_fBIf you repair it so much that you've replaced every piece of it...
-1
-PrinceEric_006_f...is it still the same ship?
-9
-Player_001_choice_000_fYes â it's the same ship.
-;
-Player_001_choice_001_f No â it's a different ship.
-(
-Player_001_choice_002_fI don't know.
-P
-PrinceEric_007_f<I guess so. After all, it looks the same. It feels the same.
-:
-PrinceEric_010_f&Even though everything is different...
-0
-PrinceEric_011_fStrange to think about, huh?
-]
-PrinceEric_008_fII can see that. After all, it's all new parts. Different wood. New sails.
-5
-PrinceEric_012_f!But even so, it looks the same...
-D
-PrinceEric_009_f0Yeah. I don't either. It's funny to think about.
-]
-PrinceEric_002_fIOh, everything's fine. I was just thinking about something Olaf asked me.
-m
-PrinceEric_003_fYOh! Sorry, I was lost in thought. Olaf asked me a question that I can't quite figure out.

@@ -1,23 +1,0 @@
-
-l
-=Village!LionKing!VLG_Simb_020_Any_CompletedRequestDescription+Возвращайтесь на Симба.
-�
-2Village!LionKing!VLG_Simb_020_AvailableDescription�Симба хочет собраться, чтобы собрать всех в Долине. Вы решите начать с разговора с Реми о том, какую еду следует подавать.
-W
-HVillage!LionKing!VLG_Simb_020_Group02_Step02_BringItem01_StepDescription{itemName}.
-k
-=Village!LionKing!VLG_Simb_020_Group02_Step02_ReadyDescription*Принесите еду на Симба.
-[
-NVillage!LionKing!VLG_Simb_020_Group03_Step03_TalkToCharacter01_StepDescription	Гуфи.
-}
-NVillage!LionKing!VLG_Simb_020_Group04_Step04_TalkToCharacter02_StepDescription+Возвращайтесь на Симба.
-�
-EVillage!LionKing!VLG_Simb_020_Group05_Step05_Listen01_StepDescriptionBПослушай Симба, извинись перед Нала.
-q
-NVillage!LionKing!VLG_Simb_020_Group06_Step06_TalkToCharacter03_StepDescriptionПоговори с Симба.
-o
-NVillage!LionKing!VLG_Simb_020_Group08_Step08_TalkToCharacter04_StepDescriptionПоговори с Нала.
-�
-:Village!LionKing!VLG_Simb_020_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
-a
-0Village!LionKing!VLG_Simb_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

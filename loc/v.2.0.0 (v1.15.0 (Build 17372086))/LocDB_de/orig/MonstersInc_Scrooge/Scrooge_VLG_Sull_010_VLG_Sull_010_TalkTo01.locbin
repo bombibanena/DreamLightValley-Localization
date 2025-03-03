@@ -1,41 +1,0 @@
-
-9
-Scrooge_000_f(Ah, {PlayerName}, what can I do for you?
-T
-Scrooge_002_fCI'm helping Sulley bring back something called Monster Movie Night.
-D
-Scrooge_003_f3He was wondering where your rental videotapes went.
-F
-Scrooge_004_f5Hmm... I did see him lookin' around the shop earlier.
-F
-Player_000_choice_000_f+Well, now you know what he was looking for!
-6
-Player_000_choice_001_fWhy didn't you talk to him?
-N
-Player_000_choice_002_f3I'm surprised you didn't urge him to buy something.
-+
-Scrooge_005_fWhy didn't he just ask me?
-e
-Scrooge_016_fTI guess I'll have to ask each of them until I find who has it... Thanks, Mr. McDuck!
-2
-Scrooge_009_f!Sulley didn't want to bother you.
-X
-Scrooge_010_fGNonsense. I'm always here for my customers. Especially the paying ones!
-R
-Scrooge_011_fAAs for the tapes, I'm afraid I cannae offer that service anymore.
-
-Scrooge_012_f	How come?
-Å
-Scrooge_013_fpBecause I was always havin' to chase the Villagers down to get 'em back! Eventually, I decided to cut my losses.
-“
-Scrooge_014_f¿I suspect some Villagers still have tapes from before the Forgetting. And, if I remember correctly, one of 'em would be perfect for Monster Movie Night. "20,000 Giant Arachnids Under the Bed."
-_
-Scrooge_015_fNI don't remember exactly who has it, but it's either Ursula, Mickey, or Goofy.
-w
-Scrooge_001_ffHmm... Though I do recall that whoever rented it did it for a special occasion with a special someone.
-n
-Scrooge_006_f]Well, I had another customer, and some Villagers don't like to be pestered while they browse.
-ê
-Scrooge_007_fWell, I had another customer. And they were contemplatin' a rather LARGE purchase, so I had to give 'em my undivided attention.
-:
-Scrooge_008_f)Why didn't Sulley ask me about the tapes?

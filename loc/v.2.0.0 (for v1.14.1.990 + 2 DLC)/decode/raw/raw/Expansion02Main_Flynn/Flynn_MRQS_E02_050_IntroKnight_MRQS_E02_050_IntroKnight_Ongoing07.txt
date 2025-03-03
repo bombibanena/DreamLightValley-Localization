@@ -1,9 +1,0 @@
-TAG: Flynn_000_f
-Have you tamed a dragon yet?
-
-TAG: Flynn_001_f
-No? {PlayerName}, you keep this up, you'll be demoted to squire.
-
-TAG: Flynn_002_f
-Try feeding them something they like. If it were me, I'd want blueberry muffins, but dragons, I'm not so sure.
-

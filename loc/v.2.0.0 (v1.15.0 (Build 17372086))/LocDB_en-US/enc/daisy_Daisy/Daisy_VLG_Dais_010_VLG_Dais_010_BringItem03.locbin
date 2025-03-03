@@ -1,41 +1,0 @@
-
-f
-Daisy_000_fWOh! {PlayerName}, you brought the <ActivityItem>Mochas</ActivityItem>! You're so sweet.
-f
-Daisy_001_fWThank you for bringing them. But as you can see, our housewarming date has been ruined.
--
-Player_000_fI already talked to Donald...
-I
-Player_000_choice_001_f.Can you tell me, in your words, what happened?
-/
-Player_000_choice_002_fHe's really on edge.
-r
-Daisy_007_fcYou know, I'm not even sure what's going on. One second Donald was hammering two boards together...
-Y
-Daisy_008_fJ...the next he was flying across the room breaking everything in his path!
-j
-Daisy_009_f[I'm afraid I lost my temper before I even asked what happened. He must be pretty mad at me.
-u
-Daisy_011_ffI think he's embarrassed. He told me he hit his hand with a hammer, and that's when things went wrong.
-j
-Daisy_003_f[What really matters is what happens next Ã¢Â€Â” why don't we start by tidying up the House?
-a
-Daisy_012_fROh, that would be fantastic! Thank you for being such a good friend, {PlayerName}.
-I
-Daisy_010_f:He does his best, but somehow this always seems to happen.
-z
-Daisy_002_fkIt was going so well. We were reminiscing, laughing... And then we decided to build this wardrobe together.
-'
-Player_001_choice_000_fAnd then...?
-X
-Player_001_choice_002_f=Let me guess: Donald with a hammer is a whacking-ly bad idea?
-^
-Daisy_013_fOIt all happened so fast. One second Donald was hammering two boards together...
-Y
-Daisy_014_fJ...the next he was flying across the room breaking everything in his path!
-“
-Daisy_015_fƒI'm afraid I lost my temper before I even asked what happened. I just wanted our date to be perfect... He must be pretty mad at me.
-^
-Daisy_019_fOI have a feeling Donald's more upset with himself. Let me go talk to him, okay?
-H
-Daisy_016_f9*giggle* Oh {PlayerName}, don't joke at a time like this!

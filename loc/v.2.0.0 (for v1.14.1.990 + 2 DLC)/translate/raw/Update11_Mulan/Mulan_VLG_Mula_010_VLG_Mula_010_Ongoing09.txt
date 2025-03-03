@@ -1,3 +1,0 @@
-TAG: Mulan_000_f
-Посмотрите вокруг тренировочного лагеря на чайные ящики. Найдите ящики <ActivityItem>Oolong</ActivityItem>, <ActivityItem>Jasmin</ActivityItem> и <ActivityItem>Chrysanthemum Tea</ActivityItem>.
-

@@ -1,61 +1,0 @@
-
-P
-6Story!MRQS090_TheCurse_Any_CompletedRequestDescriptionTalk to Mother Gothel.
-P
-+Story!MRQS090_TheCurse_AvailableDescription!Merlin has something to tell you.
-ç
-0Story!MRQS090_TheCurse_CompletedStoryDescriptionYAfter restoring the Pillar and breaking the curse, it's time to go back to Mother Gothel.
-/
-"Story!MRQS090_TheCurse_DisplayName	The Curse
-o
-GStory!MRQS090_TheCurse_Group01_Step01_TalkToCharacter01_StepDescription$Introduce yourself to Mother Gothel.
-m
-AStory!MRQS090_TheCurse_Group02_Step02_VisitArea01_StepDescription(Explore the cabin inside the giant tree.
-j
-GStory!MRQS090_TheCurse_Group03_Step03_TalkToCharacter03_StepDescriptionTalk to Merlin about the curse.
-k
-GStory!MRQS090_TheCurse_Group03_Step03_TalkToCharacter04_StepDescription Find out if Ursula can help you.
-{
-/Story!MRQS090_TheCurse_Group03_StoryDescriptionHYou learn the Sea Witch is the only one who can cast the spell you need.
-N
-?Story!MRQS090_TheCurse_Group04_Step04_Possess02_StepDescription{ItemName}.
-N
-?Story!MRQS090_TheCurse_Group04_Step04_Possess03_StepDescription{ItemName}.
-x
-GStory!MRQS090_TheCurse_Group04_Step09_TalkToCharacter06_StepDescription-Convince Kristoff to help you with the spell.
-g
-.Story!MRQS090_TheCurse_Group04_StepDescription5Gather the following Ingredients for the enchantment:
-N
-.Story!MRQS090_TheCurse_Group05_StepDescriptionListen to Merlin and Ursula.
-Z
-GStory!MRQS090_TheCurse_Group06_Step06_TalkToCharacter05_StepDescriptionTalk to Merlin.
-©
-?Story!MRQS090_TheCurse_Group07_Step07_Possess01_StepDescriptionfRetrieve the <ActivityItem>Orb of Trust</ActivityItem> from the floating island in the Glade of Trust.
-§
-CStory!MRQS090_TheCurse_Group08_Step08_FillKeyhole01_StepDescription]Put the <ActivityItem>Orb of Trust</ActivityItem> back into the Pillar in the Glade of Trust.
-Q
-AStory!MRQS090_TheCurse_Group09_Step11_VisitArea02_StepDescriptionFind Merlin.
-¢
-/Story!MRQS090_TheCurse_Group09_StoryDescriptionoIt appears the <ActivityItem>Orb of Trust</ActivityItem> is stuck between two realities. You need magical help.
-m
-3Story!MRQS090_TheCurse_Group10_OngoingRequestButton6<smallcaps>{title}</smallcaps><br>Where were we going?
-c
-IStory!MRQS090_TheCurse_Group10_Step15_FollowCharacter01_TalkToDescriptionTalk to Mother Gothel.
-r
-5Story!MRQS090_TheCurse_Group10_Step15_StepDescription9Follow Mother Gothel to the Pillar of Trust in the Glade.
-ç
-/Story!MRQS090_TheCurse_Group10_StoryDescriptionŸYou discover a cabin in a tree. Inside, Mother Gothel, cursed by the Old Ruler, waits. Opening the door unleashes Mother Gothel's Dark Magic on the whole Village. To fix it, you'll have to restore the Pillar of Trust.
-P
-AStory!MRQS090_TheCurse_Group12_Step13_BringItem01_StepDescription{ItemName}.
-P
-AStory!MRQS090_TheCurse_Group12_Step13_BringItem02_StepDescription{ItemName}.
-Y
-6Story!MRQS090_TheCurse_Group12_Step13_ReadyDescriptionGive the Ingredients to Ursula.
-n
-5Story!MRQS090_TheCurse_Group12_Step13_StepDescription5Gather the following Ingredients for the enchantment:
-ï
-/Story!MRQS090_TheCurse_Group12_StoryDescriptionbKristoff must lose his memories of Anna for the magic to work. He does it to help save the Valley.
-w
-AStory!MRQS090_TheCurse_Group13_Step14_VisitArea04_StepDescription2Investigate the cursed tree in the Glade of Trust.
-q
-AStory!MRQS090_TheCurse_Group14_Step10_VisitArea03_StepDescription,Meet Ursula in the cave where you first met.

@@ -1,75 +1,0 @@
-
-9
-Scrooge_000_f(Ah, {PlayerName}! A minute of your time?
-+
-Player_001_choice_000_fOkay, what's up?
-8
-Player_001_choice_001_fSorry, I don't have time now.
-D
-Scrooge_025_f3{PlayerName}, I have another cupcake order for you!
-ä
-Scrooge_026_fyCould I trouble you for more <ActivityItem>Stitch Cupcakes</ActivityItem>? I want to share them with our grand community.
-o
-Scrooge_027_f^Please <ActivityItem>bake the cupcakes</ActivityItem> and distribute these out in the Village?
-3
-Scrooge_021_f"{PlayerName}, I've a favor to ask.
-p
-Scrooge_022_f_I'd like a few more orders of <ActivityItem>Stitch Cupcakes</ActivityItem>, if you've the time.
-D
-Scrooge_023_f3Would ya mind distributing these to some Villagers?
-R
-Scrooge_024_fAAnd dinnae dally! There's Dreamlight Parks Fest joy to be spread!
-\
-Scrooge_016_fKHave ya got time for some Dreamlight Parks Fest baking today, {PlayerName}?
-z
-Scrooge_017_fiI'd like some of those scrumptious <ActivityItem>Stitch Cupcakes</ActivityItem> you're so good at makin'.
-l
-Scrooge_018_f[After all, everyone deserves a sweet treat ‚Äî especially during the Dreamlight Parks Fest!
-|
-Scrooge_019_fkNot to mention it'll ruffle my nephew Donald somethin' fierce. That wee Stitch really gets to him! Hee-hee!
-B
-Scrooge_011_f1Do me a favor and hand 'em out to some Villagers.
-Å
-Scrooge_020_fpIt'll also ruffle my nephew Donald somethin' fierce. Back in the day, wee Stitch and Donald had a grand rivalry!
-<
-Scrooge_032_f+{PlayerName}, just who I was hoping to see!
-r
-Scrooge_013_faI'd like to put in a special order with ya for more <ActivityItem>Stitch Cupcakes</ActivityItem>.
-A
-Scrooge_014_f0It just isn't a proper festival day without 'em.
-K
-Scrooge_015_f:Bake 'em and bring 'em to some Villagers, quick as ya can.
-.
-Scrooge_003_fIt's about my nephew, Donald.
-d
-Scrooge_001_fSI've heard that he's been in a bit of a prank war with Stitch all over the Village.
-i
-Scrooge_030_fXWell, I'd like to do my part to make things right with the Villagers ‚Äî using cupcakes!
-?
-Player_000_choice_000_f$Great idea. Everyone loves cupcakes!
-6
-Player_000_choice_001_f... You've already lost me.
-1
-Scrooge_004_f Aye, and here's my grand idea...
-U
-Scrooge_006_fD... I'd like 'em to be <ActivityItem>Stitch Cupcakes</ActivityItem>!
-Ø
-Scrooge_007_fùI've told Donald I'd help him by handing out cupcakes as peace offerin's for the trouble the pranks have caused. To protect our family's reputation, and all.
-j
-Scrooge_008_fYBut when the Villagers see these, they'll think the cupcakes are from Stitch, NOT Donald!
-é
-Scrooge_033_f}Oh, he's gonna boil like a red-hot kettle! And it serves my nephew right for not considering the consequences of his actions.
-£
-Scrooge_009_fëCould ya bake up some of those <ActivityItem>Stitch Cupcakes</ActivityItem> and hand 'em out to some Villagers? Let's have a little fun. Heh-heh.
-a
-Scrooge_010_fPI told Donald I'd send out some treats for the festival on behalf of our family.
-®
-Scrooge_031_fñBut when he sees that they look like his old nemesis, he'll boil like a red-hot kettle! And it serves my nephew right for all the trouble he's caused.
-,
-Scrooge_005_fDinnae worry; I'll explain.
-t
-Scrooge_002_fcBack in the day, he used to get into some fine squabbles with a wee fluffy blue fella named Stitch.
-b
-Scrooge_029_fQI was hopin' that you could make some <Lore>cupcakes</Lore> that resemble Stitch.
--
-Scrooge_012_fWell, come back when you do!

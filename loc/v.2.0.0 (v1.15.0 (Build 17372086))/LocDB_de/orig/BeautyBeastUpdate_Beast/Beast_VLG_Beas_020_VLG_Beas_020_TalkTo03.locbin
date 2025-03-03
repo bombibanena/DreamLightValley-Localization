@@ -1,68 +1,0 @@
-
-
-Beast_000_f	I'm back!
-/
-Beast_001_f That's good. I... I was worried.
-#
-Beast_002_fIt took an eternity.
-C
-Player_000_choice_000_f(An eternity?! Aaaaaaand now I'm leaving!
-%
-Player_000_choice_001_f
-Wow, rude.
-S
-Player_000_choice_002_f8Come on; I'm trying to arrange a friend meet-up for you!
-5
-Beast_003_f&Wait! I'm... I'm sorry. Please, go on.
-c
-Beast_004_fTI spoke to a few of the Villagers and arranged for you to meet and get to know them.
-
-Beast_005_f	That's...
-#
-Player_001_choice_000_fAmazing?
-&
-Player_001_choice_001_fIntriguing?
-$
-Player_001_choice_002_f	Generous?
-
-Beast_006_fTerrifying.
-1
-Player_002_f!I think you'd have a good time...
-2
-Player_002_choice_000_fGardening with WALL·E!
-/
-Player_002_choice_001_fSewing with Mirabel!
-2
-Beast_007_f#You'll be fine, Beast. Don't worry!
-h
-Beast_008_fYWALL·E is the sweetest little robot around and would love to do some gardening with you.
-p
-Beast_009_faAnd Mirabel is just SO friendly and has an uncle who's also not always comfortable around people.
-[
-Beast_010_fLShe loves sewing and would be happy to sit down and make something with you.
-K
-Beast_011_f<That's very nice of them... Hmm... I want this to go well...
-S
-Beast_012_fDI don't know Mirabel or WALL·E. Could you choose who I should meet?
-R
-Beast_013_fCJust one, though. That's... that's all I'm prepared for in one day.
-
-Beast_014_fFair enough!
-h
-Beast_015_fYI'll show you the basics you'll need for gardening and then you can go hang out with him!
-&
-Beast_017_fAll right. Let's begin.
-%
-Beast_016_fDo I... come with you?
-C
-Player_003_choice_000_f(If you want to make a friend, then yeah!
-I
-Player_003_choice_001_f.No need for now if you want to hang out later.
-
-Beast_018_fUnderstood.
-h
-Beast_019_fYI'll show you the basics that you'll need for sewing, and then you can hang out with her!
-<
-Beast_020_f-... You're right. Please accept my apologies.
-
-Beast_021_f	Accepted!

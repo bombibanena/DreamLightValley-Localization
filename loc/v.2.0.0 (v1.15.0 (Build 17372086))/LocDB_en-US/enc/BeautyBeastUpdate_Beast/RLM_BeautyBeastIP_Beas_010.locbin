@@ -1,81 +1,0 @@
-
-h
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Any_CompletedRequestDescriptionTalk to the Beast.
-∆
-GRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_AvailableDescription{You sorted out a problem between Belle and the Beast, but there still seems to be some unfinished business to take care of.
-Ä
-LRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_CompletedStoryDescription0Belle and the Beast have returned to the Valley!
-V
->Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_DisplayNameA Prince in Disguise
-{
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
-w
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_BringItem01_StepDescriptionHidden in a hot place.
-á
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_BringItem02_StepDescription&Hidden in a place where silence roars.
-z
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_BringItem03_StepDescriptionHidden in a thorny place.
-ó
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_ReadyDescriptionABring the <ActivityItem>Key Pieces</ActivityItem> to {TargetNPC}.
-†
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_Step02_StepDescriptionKFollow Lumiere's clues to find the <ActivityItem>Key Pieces</ActivityItem>:
-ﬁ
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group02_StoryDescriptionéThe Beast wants to apologize to Belle and give her a gift. He asks you to help find the key pieces to a chest containing his Enchanted Mirror.
-ù
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group03_Step03_ReadyDescriptionGBring the <ActivityItem>Enchanted Mirror</ActivityItem> to {TargetNPC}.
-¢
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group03_Step03_StepDescriptionMOpen the chest and collect the <ActivityItem>Enchanted Mirror</ActivityItem>.
-ö
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group04_Step04_TalkToCharacter02_StepDescription3Talk to the Beast about what you saw in the mirror.
-j
-[Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step06_Possess01_StepDescription{ItemName}.
-j
-[Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step06_Possess02_StepDescription{ItemName}.
-j
-[Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step06_Possess03_StepDescription{ItemName}.
-è
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_Step07_StepDescription:Ask a Villager for a <ActivityItem>Feather</ActivityItem>.
-m
-JRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_StepDescriptionGather the following materials:
-…
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group05_StoryDescriptionzWith the mirror, you and the Beast discover Belle is writing her own stories. You decide to make her a Book Kit as a gift.
-t
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group06_Step08_CraftItem02_StepDescriptionCraft a {ItemName}.
-z
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group07_Step09_ReadyDescription$Bring the {itemName} to {TargetNPC}.
-â
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group07_Step09_StepDescription4Make sure you have the {itemName} in your Inventory.
-l
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_BringItem06_StepDescription{itemName}.
-l
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_BringItem07_StepDescription{itemName}.
-l
-]Realm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_BringItem08_StepDescription{itemName}.
-Ä
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_ReadyDescription*Bring what you've gathered to {TargetNPC}.
-Ö
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group08_Step10_StepDescription0Search the Beast's room for the following items:
-ì
-ZRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group09_Step11_Listen01_StepDescription5Listen to the Beast's apology to Belle in the garden.
-ò
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group09_StoryDescription»With the gift complete, you decide the Beast needs a little self-care and a rehearsal to make his apology to Belle perfect. When it's time to apologize, he asks you to accompany him for moral support.
-u
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group10_Step12_TalkToCharacter05_StepDescriptionTalk to Belle.
-|
-JRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group11_StepDescription.Place the Beast's Castle in Dreamlight Valley.
-≤
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group11_StoryDescriptioncBelle and the Beast decide they want to visit Dreamlight Valley together √¢¬Ä¬î apology successful!
-£
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group12_Step15_StepDescriptionNUse the Scrooge McDuck Sign to pay for the construction of the Beast's Castle.
-t
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group13_Step16_UnlockCharacter01_StepDescriptionUnlock Belle.
-{
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group14_Step17_TalkToCharacter06_StepDescriptionTalk to {TargetNPC}.
-t
-RRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group15_Step18_ReadyDescriptionBring {itemName} to the Beast.
-Ö
-QRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group15_Step18_StepDescription0Make sure you have {itemName} in your Inventory.
-x
-cRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group16_Step19_UnlockCharacter02_StepDescriptionUnlock the Beast.
-ª
-KRealm!BeautyBeast!Beast!RLM_BeautyBeastIP_Beas_010_Group16_StoryDescriptionlBelle gives you a note for the Beast, telling him that Dreamlight Valley is safe and she is waiting for him.

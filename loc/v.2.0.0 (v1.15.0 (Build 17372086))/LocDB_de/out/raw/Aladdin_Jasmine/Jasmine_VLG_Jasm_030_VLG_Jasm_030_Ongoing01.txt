@@ -1,6 +1,0 @@
-TAG: Jasmine_000_f
-Did you <Lore>talk to Elsa</Lore> about finding the second key to the Secret Journal yet?
-
-TAG: Jasmine_001_f
-Not yet! I'll get to that now!
-

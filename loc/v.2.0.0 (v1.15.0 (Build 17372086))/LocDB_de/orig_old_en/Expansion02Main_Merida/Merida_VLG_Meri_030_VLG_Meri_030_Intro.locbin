@@ -1,33 +1,0 @@
-
-†
-Merida_005_fvIt's good you're here, {PlayerName}! Hades is up to one of his schemes. I don't suppose you'd want to help me foil it?
-1
-Player_000_choice_000_fI'd love nothing more!
-C
-Player_000_choice_001_f(I'm not really in a scheme-foiling mood.
-M
-Merida_006_f=So, Hades came to me and asked me to help him find something.
-F
-Merida_007_f6Something I supposedly hid back before the Forgetting.
-p
-Merida_008_f`It's somewhere in the Vale, and it's an artifact that lets whoever holds it "change their fate."
-D
-Merida_009_f4He said it's an artifact connected to Clan DunBroch!
-G
-Player_001_choice_000_f,Why would someone want to change their fate?
-;
-Player_001_choice_001_f Ooh. I'd love to change my fate.
-=
-Player_001_choice_002_f"We've got to find it before Hades.
-N
-Merida_010_f>I don't know. Maybe because they don't like their fate so far.
-d
-Merida_013_fTBut since we're talking about Hades, it's probably just because he wants more power.
-°
-Merida_014_fŸI've got some old bags in my House from before the Neverafter that might have a clue to the artifact. Would ya help me <Lore>search my House for a clue</Lore>?
-G
-Merida_011_f7Aye, everyone ought to be in command of their own fate.
-@
-Merida_012_f0I agree. Changing your fate CAN be a noble goal.
-d
-Merida_015_fTAll right. I'll keep looking into it on my own. Let me know if you change your mind.

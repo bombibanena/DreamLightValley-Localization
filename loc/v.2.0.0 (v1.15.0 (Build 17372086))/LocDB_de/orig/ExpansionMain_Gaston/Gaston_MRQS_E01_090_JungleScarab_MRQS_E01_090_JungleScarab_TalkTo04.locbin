@@ -1,51 +1,0 @@
-
-&
-Gaston_003_fHow you doing, Gaston?
-@
-Gaston_004_f0Very well. I am returning to the Gastonian path!
-+
-Player_000_choice_000_fThat's... great?
-C
-Player_000_choice_001_f(I don't exactly get it, but yay for you.
- 
-Gaston_005_fIt is, isn't it?
-r
-Gaston_010_fbNow I just need you to find the Mirage Wizard's vault and get me that treasure. How goes the hunt?
-„
-Gaston_000_ftI'm working on it! I nearly have the <Lore>next piece of the Scarab Key</Lore>. Rapunzel has been a big help so far.
-?
-Gaston_013_f/Did you finish your part of our adventure prep?
- 
-Gaston_001_fOf course I did!
-s
-Gaston_002_fcBut I did it my way. I don't need adventuring supplies when I can scale a cliff with my bare hands.
--
-Gaston_012_fI prepared with 500 push-ups!
-G
-Gaston_019_f7So when you said you'd help, you just did the opposite?
-R
-Gaston_008_fBHardly. I did help! I stopped us from taking unnecessary supplies!
-w
-Gaston_022_fgUgh, I guess wait here and <Lore>I'll come grab you when I've got both pieces of the Scarab Key</Lore>.
-o
-Gaston_009_f_Hardly. I did help! As the incredibly strong one, I'm now fueled to use my impressive strength!
-I
-Gaston_011_f9No. Flexing is always helpful to me and all who watch me.
- 
-Gaston_024_fOf course I did!
-M
-Gaston_025_f=I tried to think of what sort of food and drink you'd want...
-&
-Gaston_026_fHow thoughtful of you!
-~
-Gaston_027_fnBut then I realized that you probably have terrible taste in food and drink, so I ate four dozen eggs instead.
-0
-Gaston_028_f Okay, scratch that last thought.
-
-Gaston_029_fActually...
-D
-Gaston_030_f4I thought instead of talking to the Mirage Wizard...
-T
-Gaston_031_fD...I would practice my flexing to let him know who's in charge here.
-
-Gaston_006_fIndeed!

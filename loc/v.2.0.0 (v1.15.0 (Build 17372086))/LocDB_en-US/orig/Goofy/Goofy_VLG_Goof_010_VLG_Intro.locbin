@@ -1,36 +1,0 @@
-
-<
-Goofy_005_f-Hey there, {PlayerName}! How you doin' today?
-%
-Player_001_choice_000_f
-I'm great!
-4
-Player_001_choice_001_fI'm feeling kind of down.
-.
-Player_001_choice_002_fI'm a little angry.
- 
-Goofy_007_fThat's fantastic!
-D
-Goofy_008_f5Say, I was just gonna do some cooking. Wanna join me?
-8
-Player_000_choice_000_fSure, I'll help with cooking!
-=
-Player_000_choice_001_f"I've never cooked anything before.
-<
-Player_000_choice_002_f!Can't right now. I've got to run!
-ž
-Goofy_002_fŽOkey dokey. First, we gotta gather the Ingredients. We need fresh <ActivityItem>Basil</ActivityItem> and <ActivityItem>Oregano</ActivityItem>.
-t
-Goofy_006_feThey grow all over the Plaza and the Meadow. If you'll get some, I'll get the pots and pans together.
-B
-Goofy_003_f3Gawrsh, then I guess you'll get to learn something!
-(
-Goofy_004_fOkay! Catch ya next time!
-K
-Goofy_001_f<Awww. I'm sorry, {PlayerName}. It's no fun havin' the blues.
-a
-Goofy_009_fRSay, maybe bein' busy will cheer you up. I'm gonna do some cooking. Wanna join me?
-
-Goofy_010_frAwww. I'm sorry, {PlayerName}. Say, maybe doin' something fun will take your mind off whatever's makin' you angry.
-8
-Goofy_000_f)I'm gonna do some cooking. Wanna join me?

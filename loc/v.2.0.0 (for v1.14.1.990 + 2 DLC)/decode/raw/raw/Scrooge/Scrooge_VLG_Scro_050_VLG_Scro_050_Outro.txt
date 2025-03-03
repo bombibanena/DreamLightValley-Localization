@@ -1,9 +1,0 @@
-TAG: Scrooge_001_f
-Great Scott! I could'nae done it without you!
-
-TAG: Scrooge_002_f
-Looks like the <ActivityItem>Memory</ActivityItem> wasn't pointing us to the treasure but to pieces of some kind of map...
-
-TAG: Scrooge_000_f
-I'm sure I can put 'em together. Let me work on it and I'll get back to ya.
-

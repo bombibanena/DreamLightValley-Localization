@@ -1,19 +1,0 @@
-
-�
-Scrooge_003_f�I see you've found WALL·E's Garden. If you repair it, WALL·E can help you grow crops. He's got a right green thumb, ya know. Even if it's metal.
-
-Player_000_choice_000_fdLet's repair WALL·E's Garden. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
-3
-Player_000_choice_001_fPerhaps some other time.
-7
-Scrooge_001_f&Bless me bagpipes! Isn't that a sight!
-4
-Scrooge_007_f#The wee robot will be mighty happy.
-�
-Scrooge_000_frOch! You don't have enough Star Coins to repair WALL·E's Garden! Come back when you have the funds, {PlayerName}.
-O
-Scrooge_004_f>I'm afraid you cannae repair WALL·E's Garden without WALL·E.
-x
-Scrooge_005_fgAnd I haven't seen the wee robot in quite some time. You'll need to find him before we can make a deal.
-I
-Scrooge_002_f8Fine, fine. I'll be ready when you've changed your mind.

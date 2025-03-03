@@ -1,140 +1,0 @@
-
-g
-Belle_000_fXLet's start the <ActivityItem>Translation Machine</ActivityItem> and see what happens...
-
-Belle_053_f...
-e
-Belle_002_fV{PlayerName}, this is amazing! I never thought Papa's invention could really be built!
-z
-Belle_003_fkThe <ActivityItem>Translation Machine</ActivityItem> â€” it's like it's talking to me. Asking me questions.
-&
-Belle_004_fWhat kind of questions?
-[
-Belle_005_fLWell, right now it's asking me, "the name of the bravest horse of them all."
-=
-Belle_012_f.Well, let's answer this and see where it goes.
-<
-Player_000_f,So, the bravest horse of them all must be...
-&
-Player_000_choice_000_f...Maximus.
-'
-Player_000_choice_001_f...Philippe.
-%
-Player_000_choice_002_f
-...Samson.
-j
-Belle_006_f[Maximus... That sounds like the name of a general. Let's see what the machine thinks of it.
-
-Belle_001_f...
-=
-Belle_038_f.The machine is just asking the question again.
-b
-Belle_013_fSIt's just asking the same question again. That must not have been the right answer.
-i
-Belle_007_fZYou mean MY horse? Well... he did come get me to help my father once. That was very brave.
-6
-Belle_056_f'That must be it. Let's see what's next.
-k
-Belle_017_f\Now it's asking about, "the perfect time to learn about someone's real identity in a story."
-R
-Player_001_fBThe right moment in a book to learn about someone's true identity?
-A
-Player_001_choice_000_f&Everybody knows it's during Chapter 3.
-:
-Player_001_choice_001_fAt the moment of tragic demise.
-,
-Player_001_choice_002_fRight at the end.
-4
-Belle_009_f%And then he showed me where Papa was.
-,
-Belle_010_fThat's how I met the Beast...
-5
-Belle_014_f&Let's see if that's the proper answer.
-
-Belle_045_f...
-C
-Belle_015_f4It worked! It translated a small part of a sentence.
-_
-Belle_016_fPThe <ActivityItem>Mysterious Book's</ActivityItem> first two words are "I am"...
-N
-Belle_054_f?{PlayerName}, that question was related to me. How can that be?
-p
-Belle_055_faI'm not sure. Maybe the magic here is affecting the machine. And since you're the one using it...
-`
-Belle_018_fQWell, that is where it happens in my favorite book. I hope it's the right answer.
-
-Belle_047_f...
-l
-Belle_023_f]It was right! It printed two more words. "Dreamlight Valley's." "I am Dreamlight Valley's"...
-.
-Belle_024_fI wonder what comes after that.
-*
-Belle_025_fIs there another question?!
-4
-Belle_026_f%Yes, and hopefully it's the last one.
-.
-Belle_027_fAll right, what's the question?
-p
-Belle_028_faIt wants to know "which object a majordomo would be turned into if under an Enchantress's spell."
-K
-Player_002_f;A majordomo under an Enchantress's spell would turn into...
-'
-Player_002_choice_000_f...a teapot!
-7
-Player_002_choice_001_f...a candelabra... for sure.
-1
-Player_002_choice_002_f...a clock, of course.
-$
-Belle_029_fNot in my experience.
-$
-Belle_033_fBut if you're sure...
-
-Belle_052_f...
-,
-Belle_032_fI'm afraid that wasn't right.
-z
-Belle_044_fkIt doesn't look like that's the answer the <ActivityItem>Translation Machine</ActivityItem> is looking for.
-G
-Belle_030_f8That wouldn't have been my answer, but you seem certain.
-
-Belle_051_f...
-l
-Belle_031_f]That's what I think, too. I hope the <ActivityItem>Translation Machine</ActivityItem> agrees.
-
-Belle_050_f...
-F
-Belle_034_f7That's it! We did it, {PlayerName}. It's translating...
-g
-Belle_035_fXI can read the entire first sentence â€” "I am Dreamlight Valley's best mystery solver."
-
-Belle_036_fpAnother mystery. I can't wait to read more. Let's let the <ActivityItem>Translation Machine</ActivityItem> work.
-—
-Belle_037_f‡Thank you for all your help, {PlayerName}. I'll tell you as soon as I've read this entire <ActivityItem>Mysterious Book</ActivityItem>.
-\
-Belle_019_fMThat would be very sad, {PlayerName}. But I suppose some books are like that.
-
-Belle_048_f...
-V
-Belle_022_fGIt keeps asking the same question. We must have the wrong answer again.
-d
-Belle_040_fUI'm actually a little relieved. It would be too sad if lots of stories were that way.
-R
-Belle_039_fCIt didn't translate anything new. I think we have the wrong answer.
-‹
-Belle_020_f|I'd be surprised if that was the answer. Usually authors want the characters to spend time together after such a revelation.
-l
-Belle_021_f]But let's check the <ActivityItem>Translation Machine</ActivityItem> and see if you're right.
-
-Belle_049_f...
-V
-Belle_041_fGIt keeps asking the same question. We must have the wrong answer again.
-(
-Belle_043_fLet's try something else.
-R
-Belle_042_fCIt didn't translate anything new. I think we have the wrong answer.
-3
-Belle_008_f$That does sound like a strong horse.
-%
-Belle_011_fLet's see if it works.
-
-Belle_046_f...

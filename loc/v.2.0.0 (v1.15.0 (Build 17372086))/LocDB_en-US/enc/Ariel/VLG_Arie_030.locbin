@@ -1,65 +1,0 @@
-
-Y
-EVillage!LilMermaid!Ariel!VLG_Arie_030_Any_CompletedRequestDescriptionReturn to Ariel.
-c
-:Village!LilMermaid!Ariel!VLG_Arie_030_AvailableDescription%Ariel wants your help with something.
-¤
-?Village!LilMermaid!Ariel!VLG_Arie_030_CompletedStoryDescriptionaYou helped Ariel start collecting again, and now she can even repair the broken things she finds.
-V
-1Village!LilMermaid!Ariel!VLG_Arie_030_DisplayName!Thingamabobs, Gadgets, and Gizmos
-l
-VVillage!LilMermaid!Ariel!VLG_Arie_030_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to WALLÃ‚Â·E.
-¸
->Village!LilMermaid!Ariel!VLG_Arie_030_Group01_StoryDescriptionvAriel wants to start her collection again, and you agreed to find some items. She suggests you go see WALLÃ‚Â·E first.
-y
-BVillage!LilMermaid!Ariel!VLG_Arie_030_Group02_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
-o
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group02_Step02_Possess01_StepDescription{ItemName} at Donald's House.
-o
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group02_Step02_Possess03_StepDescription{ItemName} at Minnie's House.
-m
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group02_Step02_Possess04_StepDescription{ItemName} at Remy's House.
-m
-DVillage!LilMermaid!Ariel!VLG_Arie_030_Group02_Step02_StepDescription%Find every item on Ariel's wish list:
-•
->Village!LilMermaid!Ariel!VLG_Arie_030_Group02_StoryDescriptionSWALLÃ‚Â·E gave you some hints about where to find the objects Ariel is looking for.
-q
-PVillage!LilMermaid!Ariel!VLG_Arie_030_Group03_Step03_BringItem01_StepDescription{ItemName} at Donald's House.
-q
-PVillage!LilMermaid!Ariel!VLG_Arie_030_Group03_Step03_BringItem03_StepDescription{ItemName} at Minnie's House.
-o
-PVillage!LilMermaid!Ariel!VLG_Arie_030_Group03_Step03_BringItem04_StepDescription{ItemName} at Remy's House.
-w
-PVillage!LilMermaid!Ariel!VLG_Arie_030_Group03_Step03_BringItem05_StepDescription#{ItemName} that WALLÃ‚Â·E gave you.
-q
-EVillage!LilMermaid!Ariel!VLG_Arie_030_Group03_Step03_ReadyDescription(Give Ariel the items for her collection.
-v
-DVillage!LilMermaid!Ariel!VLG_Arie_030_Group03_Step03_StepDescription.Make sure you have everything Ariel asked for.
-w
-BVillage!LilMermaid!Ariel!VLG_Arie_030_Group04_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-]
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group04_Step04_Possess02_StepDescription{ItemName}.
-]
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group04_Step04_Possess05_StepDescription{ItemName}.
-]
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group04_Step04_Possess06_StepDescription{ItemName}.
-]
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group04_Step04_Possess07_StepDescription{ItemName}.
-]
-NVillage!LilMermaid!Ariel!VLG_Arie_030_Group04_Step04_Possess08_StepDescription{ItemName}.
-|
-DVillage!LilMermaid!Ariel!VLG_Arie_030_Group04_Step04_StepDescription4Gather the Ingredients for Ariel's Crafting Station:
-Ý
->Village!LilMermaid!Ariel!VLG_Arie_030_Group04_StoryDescriptionšAriel is happy to receive the items but her enthusiasm is dimmed by the fact that one of them is broken. You decide to craft her her own Crafting Station.
-y
-BVillage!LilMermaid!Ariel!VLG_Arie_030_Group05_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
-s
-PVillage!LilMermaid!Ariel!VLG_Arie_030_Group05_Step05_CraftItem01_StepDescriptionCraft Ariel's Crafting Station.
-t
-BVillage!LilMermaid!Ariel!VLG_Arie_030_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-’
-PVillage!LilMermaid!Ariel!VLG_Arie_030_Group07_Step07_BringItem02_StepDescription>Make sure you have Ariel's Crafting Station in your Inventory.
-i
-EVillage!LilMermaid!Ariel!VLG_Arie_030_Group07_Step07_ReadyDescription Give Ariel her Crafting Station.
-i
-8Village!LilMermaid!Ariel!VLG_Arie_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

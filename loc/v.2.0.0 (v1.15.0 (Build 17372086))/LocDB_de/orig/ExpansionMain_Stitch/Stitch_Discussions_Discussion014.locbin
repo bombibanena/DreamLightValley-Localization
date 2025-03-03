@@ -1,71 +1,0 @@
-
-K
-Stitch_000_f;{Placeholder}Is being Gaston's sidekick an okay experience?
-$
-Stitch_001_f{Placeholder}Is fun!
-<
-Player_000_choice_000_f!{Placeholder}That's good to hear!
-3
-Player_000_choice_001_f{Placeholder}... Really?
-?
-Stitch_002_f/{Placeholder}I certainly wasn't expecting that.
-@
-Stitch_003_f0{Placeholder}Oh ya, Stitch understand something.
-?
-Stitch_004_f/{Placeholder}Sidekicks not for running errands.
-S
-Stitch_005_fC{Placeholder}Sidekicks for challenging heroes and make them better!
-E
-Player_001_choice_000_f*{Placeholder}That's one way to look at it!
-H
-Player_001_choice_001_f-{Placeholder}How does Gaston feel about that?
-.
-Stitch_006_f{Placeholder}Poodja cha-bagga!
-U
-Stitch_007_fE{Placeholder}Gaston not understand yet how sidekick supposed to work.
-A
-Stitch_008_f1{Placeholder}But I try to teach him; don't worry.
->
-Player_002_choice_000_f#{Placeholder}I bet he loves that...
-C
-Player_002_choice_001_f({Placeholder}How is he reacting to that?
-3
-Player_002_choice_002_f{Placeholder}Keep at it!
-O
-Stitch_009_f?{Placeholder}Stitch help with Gaston's badness levels; you see!
- 
-Stitch_010_f{Placeholder}Ha!
-;
-Stitch_011_f+{Placeholder}Are you okay with having lost?
- 
-Stitch_012_f{Placeholder}Ya.
-=
-Stitch_013_f-{Placeholder}Stitch go say "hello" sometimes.
-=
-Stitch_014_f-{Placeholder}And he lifting sticks with Olaf?
-E
-Player_003_choice_000_f*{Placeholder}They're working out together!
-<
-Player_003_choice_001_f!{Placeholder}Oh, not surprised...
-C
-Stitch_015_f3{Placeholder}Do you want to work out with them too?
-f
-Stitch_016_fV{Placeholder}I'm sure Gaston would be happy to have more people interested in joining!
-7
-Stitch_017_f'{Placeholder}Mmm nah, I already strong.
-K
-Stitch_018_f;{Placeholder}Gaston seem like he need a sidekick like Olaf?
-B
-Stitch_019_f2{Placeholder}Stitch no sidekick; Stitch important!
-:
-Player_004_choice_000_f{Placeholder}That's the spirit!
-Q
-Player_004_choice_001_f6{Placeholder}Yeah, Gaston wouldn't be happy with that.
-<
-Stitch_020_f,{Placeholder}Maybe better role is... friend?
-S
-Stitch_021_fC{Placeholder}Say "hello" and "noogy bay"; help with badness levels.
-:
-Stitch_022_f*{Placeholder}Then Stitch do his own thing.
-+
-Stitch_023_f{Placeholder}Very sensible!

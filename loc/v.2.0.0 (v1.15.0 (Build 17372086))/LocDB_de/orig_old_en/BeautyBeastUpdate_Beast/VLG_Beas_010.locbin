@@ -1,69 +1,0 @@
-
-l
-SVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_TakePicture02_StepDescriptionIn Remy's Restaurant.
-≈
-?Village!BeautyBeast!Beast!VLG_Beas_010_Group04_StoryDescriptionÅThe photos have helped the Beast's confidence, but he still feels shy. Maybe some of the other Villagers can provide some advice!
-^
-FVillage!BeautyBeast!Beast!VLG_Beas_010_Any_CompletedRequestDescriptionTalk to {TargetNPC}.
-p
-;Village!BeautyBeast!Beast!VLG_Beas_010_AvailableDescription1The Beast seems a little upset about something...
-Õ
-@Village!BeautyBeast!Beast!VLG_Beas_010_CompletedStoryDescriptionàThe dinner was a success! The Beast now feels more secure in his relationship with Belle and no longer worries about her outgrowing him.
-L
-2Village!BeautyBeast!Beast!VLG_Beas_010_DisplayNameThe Beast with No Bite
-°
-SVillage!BeautyBeast!Beast!VLG_Beas_010_Group01_Step01_Conditional01_StepDescriptionJHang out with the Beast to give him a tour and take some stylish pictures.
-´
-?Village!BeautyBeast!Beast!VLG_Beas_010_Group01_StoryDescriptionhThe Beast seems to be having confidence issues, so a photo shoot is in order to get him his groove back.
-x
-EVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_StepDescription/Take photos of the Beast in different settings:
-e
-SVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_TakePicture01_StepDescriptionIn the Castle.
-s
-SVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_TakePicture03_StepDescriptionAny exterior in the Village.
-Ö
-WVillage!BeautyBeast!Beast!VLG_Beas_010_Group03_Step03_TalkToCharacter01_StepDescription*Talk to the Beast about the photo session.
-k
-EVillage!BeautyBeast!Beast!VLG_Beas_010_Group04_Step04_StepDescription"Ask Villagers about relationships:
-g
-WVillage!BeautyBeast!Beast!VLG_Beas_010_Group04_Step04_TalkToCharacter02_StepDescription{TargetNPC}.
-g
-WVillage!BeautyBeast!Beast!VLG_Beas_010_Group04_Step04_TalkToCharacter03_StepDescription{TargetNPC}.
-á
-WVillage!BeautyBeast!Beast!VLG_Beas_010_Group05_Step05_TalkToCharacter04_StepDescription,Return to {TargetNPC} to discuss the advice.
-ä
-?Village!BeautyBeast!Beast!VLG_Beas_010_Group05_StoryDescription∆Mickey suggested a date night, while Mirabel explained her parents' connection through food. Time to combine those ideas for the perfect romantic evening to spark the Beast and Belle's relationship.
-
-TVillage!BeautyBeast!Beast!VLG_Beas_010_Group06_Step06_PurchaseItem01_StepDescription'Order a {ItemName} from Scrooge McDuck.
-|
-FVillage!BeautyBeast!Beast!VLG_Beas_010_Group07_Step07_ReadyDescription2Touch base with the Beast about the romantic date.
-©
-EVillage!BeautyBeast!Beast!VLG_Beas_010_Group07_Step07_StepDescription`Make sure you have the <ActivityItem>Date-Night Exterior Table</ActivityItem> in your Inventory.
-d
-PVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step08_CookMeal01_StepDescriptionCook {ItemName}.
-d
-PVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step08_CookMeal02_StepDescriptionCook {ItemName}.
-d
-PVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step08_CookMeal03_StepDescriptionCook {ItemName}.
-ó
-EVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step09_StepDescriptionNWait until <Lore>after sunset</Lore> on a night with <Lore>clear skies</Lore>.
-Ç
->Village!BeautyBeast!Beast!VLG_Beas_010_Group08_StepDescription@Create the perfect romantic dinner date for Belle and the Beast:
-`
-QVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_BringItem02_StepDescription{ItemName}.
-`
-QVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_BringItem03_StepDescription{ItemName}.
-`
-QVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_BringItem04_StepDescription{ItemName}.
-f
-FVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_ReadyDescriptionBring the food to the Beast.
-è
-EVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_StepDescriptionFMake sure you have the food for the romantic dinner in your Inventory.
-È
-?Village!BeautyBeast!Beast!VLG_Beas_010_Group09_StoryDescription•After ordering furnishings from Scrooge, cooking up a storm and waiting for the perfect moment, it looks like it's finally about time for the Beast and Belle's date.
-{
-PVillage!BeautyBeast!Beast!VLG_Beas_010_Group10_Step11_Decorate01_StepDescription'Set up the romantic table for the date.
-Å
-MVillage!BeautyBeast!Beast!VLG_Beas_010_Group11_Step12_Party01_StepDescription0Take a picture to commemorate the romantic date.
-J
-9Village!BeautyBeast!Beast!VLG_Beas_010_StartRequestButtonStart Request

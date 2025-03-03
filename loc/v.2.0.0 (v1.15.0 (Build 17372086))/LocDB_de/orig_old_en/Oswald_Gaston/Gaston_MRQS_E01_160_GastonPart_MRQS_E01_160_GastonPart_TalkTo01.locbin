@@ -1,59 +1,0 @@
-
-‰
-Gaston_000_fyAh, {PlayerName}. Has the heat of the Dunes overwhelmed you? Have you come to shelter in the shade of my enormous biceps?
-U
-Player_000_choice_000_f:Actually, I COULD use those biceps of yours for something!
-$
-Player_000_choice_002_f	Um... no.
-i
-Gaston_001_fYOh, do you need me to lift something? Or perhaps wrestle some sort of dangerous creature?
-'
-Gaston_003_fNot exactly, but close.
-h
-Gaston_005_fXI need you to pose on something and be as heavy as you possibly can to trip a trap door.
-{
-Gaston_004_fkHere. Check out this picture. You see, I'm trying to open this trap door in these Ancient Ruins so I canâ€”
-y
-Gaston_006_fiStop! No need for more. You require someone to pose heroically, and I'm a hero who's excellent at posing!
-`
-Gaston_007_fPThere's only one problem. Without a proper breakfast, I won't be at my burliest.
-F
-Player_001_choice_000_f+Got it. One hero-sized breakfast coming up!
-W
-Player_001_choice_001_f<*sigh* Is this your way of getting me to make you breakfast?
-H
-Gaston_009_f8Ah, a very LeFou-like response, {PlayerName}. I approve.
-k
-Gaston_012_f[Of course, for a thoroughly filling breakfast, you must do more than bake a few croissants.
-
-Gaston_013_f}I found an interesting recipe in the Dunes. It seems the ancient civilization that lived here had quite an impressive recipe.
-I
-Gaston_014_f9An <ActivityItem>omelet made of pure gold</ActivityItem>!
-,
-Player_002_choice_000_fSounds delicious.
-/
-Player_002_choice_001_fSounds hard to make.
-@
-Player_002_choice_002_f%Sounds like a recipe for indigestion.
-<
-Gaston_018_f,Yes, and I might even give you a small bite.
- 
-Gaston_021_fWow... thanks...
-„
-Gaston_016_ftThe recipe requires <ActivityItem>Golden Ingredients</ActivityItem>, but I haven't seen any of them around the Isle.
-q
-Gaston_024_faHmm... But since they WERE gold, perhaps the Mirage Wizard gathered them up in that vault of his?
-6
-Gaston_025_f&Right! I'll check the Cave of Wonders.
-N
-Gaston_019_f>Almost impossible! Lucky for me, you'll be handling that part.
-N
-Gaston_020_f>There's no gut like Gaston's. Mine will make quick work of it!
-
-Gaston_022_fEww.
-B
-Gaston_010_f2Well, you ARE asking me to help you, {PlayerName}.
-W
-Gaston_011_fGHeroism is hard work. You can't expect me to do it on an empty stomach.
-<
-Gaston_002_f,... Oh. Well, what DOES bring you to see me?

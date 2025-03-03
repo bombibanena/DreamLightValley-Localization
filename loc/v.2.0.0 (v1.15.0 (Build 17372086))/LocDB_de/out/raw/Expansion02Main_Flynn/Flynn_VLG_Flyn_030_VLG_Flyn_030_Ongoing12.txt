@@ -1,6 +1,0 @@
-TAG: Flynn_000_f
-Could you <Lore>talk to the crew</Lore> and get them to clear the way?
-
-TAG: Flynn_001_f
-Once the path is cleared, you're up. <Lore>Activate the wheels</Lore>.
-

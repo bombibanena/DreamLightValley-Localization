@@ -1,65 +1,0 @@
-
-Y
-Daisy_000_fJ{PlayerName}, what did you find out from our party-guests-turned-suspects?
--
-Player_001_choice_000_fAbout Vanellope...
-,
-Player_001_choice_001_fAbout Kristoff...
-1
-Player_001_choice_002_fWhat did YOU find out?
-Ä
-Daisy_001_fqVanellope was VERY bored for the whole party... And she tried to pin the glitter bomb on literally everyone else.
-+
-Player_002_choice_000_fVERY suspicious.
-3
-Player_002_choice_001_fGlitter isn't her thing.
-h
-Daisy_016_fYHmm... Vanellope COULD be our troublemaker, but I don't want to assume anything just yet.
-J
-Daisy_015_f;You're right. And I don't want to assume anything just yet.
-A
-Daisy_012_f2Kristoff just said a bunch of nice stuff about me?
-0
-Player_003_choice_000_fHe's not the culprit.
->
-Player_003_choice_001_f#Too MANY nice things... SUSPICIOUS.
--
-Daisy_014_fI agree. This isn't his style.
-[
-Daisy_017_fLI don't know about that, {PlayerName}. Kristoff isn't the glitter bomb type.
-[
-Daisy_018_fLWell, I know it wasn't Donald. He really wanted the party to go well for me.
-Å
-Daisy_013_frBut as I was talking to Minnie, I had a thought. What if the guilty party was someone who DIDN'T attend the party?
-
-Daisy_003_f	Like who?
-Ä
-Daisy_021_fqMy first thought was Mother Gothel √¢¬Ä¬î because of her "Ask Daisy" letter. But the evidence points elsewhere...
-
-Daisy_005_fScrooge McDuck.
-0
-Player_004_choice_000_fWhat's your evidence?
-.
-Player_004_choice_001_fSeems kinda random.
-E
-Player_004_choice_002_f*Sabotaging another entrepreneur? The gall!
-`
-Daisy_007_fQThe glitter bomb was in a box among the furniture I rented from him for the gala!
-î
-Daisy_022_fÑHe probably thought it would be a funny prank. Or, knowing him, he might've thought it would be an impressive addition to the party.
-%
-Player_000_fLet me talk to him...
-1
-Player_000_choice_000_fI'll make him confess.
-B
-Player_000_choice_001_f'I'll determine if he's innocent or not.
-G
-Player_000_choice_002_f,I still think Vanellope was more suspicious.
-'
-Daisy_008_fGood luck, {PlayerName}.
-6
-Daisy_009_f'Oh, it's him, {PlayerName}. You'll see.
-r
-Daisy_010_fcWe don't have ANY physical proof Vanellope was involved. We need to follow this Uncle Scrooge lead.
-#
-Daisy_020_fMy thoughts exactly!

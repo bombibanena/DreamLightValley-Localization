@@ -1,43 +1,0 @@
-
-*
-Oswald_000_fOswald! How are you doing?
-o
-Oswald_001_f_Oswald gives you a grin bigger than a brass band! He mimes two people walking about arm in arm.
-5
-Oswald_002_f%You want to spend some time together?
-(
-Player_000_choice_000_fSounds great!
-F
-Player_000_choice_001_f+Sorry, I'm busy now — I'll be back later.
-'
-Oswald_003_fWhat do you want to do?
-�
-Oswald_004_ftThe charming bunny examines you and regards his own stylish allure. He points to himself then tips an imaginary hat.
-g
-Oswald_005_fWHe points to you and brushes some miniscule specks of dirt off of his imaginary sleeve.
-5
-Oswald_006_f%You have some thoughts on my clothes?
-c
-Oswald_007_fSOswald nods furiously and does a few steps of a Charleston, pointing at his shorts.
--
-Player_001_choice_000_fYou want to dance?
-3
-Player_001_choice_001_fI should dress like you?
-Y
-Oswald_008_fIOswald shakes his head with the overblown sadness of a silent film actor.
-8
-Oswald_016_f(All right, I'm off — see you in a bit!
-7
-Oswald_009_f'Should I put on some different clothes?
-;
-Oswald_010_f+Oswald grins, jumps up, and spins his ears!
-9
-Oswald_011_f)OK, I can see what I have in my wardrobe.
-m
-Oswald_012_f]I feel like we should match — I'll find a <Lore>black shirt and light-colored pants</Lore>.
-|
-Oswald_017_flA <ActivityItem>Black and White Fedora</ActivityItem>? Oswald, this looks great! I'll totally wear this too.
-D
-Oswald_014_f4Oswald is so excited that he jumps out of his shoes!
-\
-Oswald_015_fLLuckily, they position themselves so that Oswald lands back in them cleanly.

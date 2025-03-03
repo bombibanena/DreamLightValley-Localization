@@ -1,39 +1,0 @@
-
-�
-JSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Any_CompletedRequestDescriptionNРасскажи Гуфи о еде, которую ты приготовил.
-�
-?Secret!Expansion01!Goofy!SEC_E01_Goofy_010_AvailableDescription�Интересно, что Гуфи думает обо всей новой рыбе вокруг острова Вечность.
-�
-DSecret!Expansion01!Goofy!SEC_E01_Goofy_010_CompletedStoryDescription�Ваши эксперименты с рецептами увенчались успехом! Вы удивляетесь, как Гуфи...
-Q
-6Secret!Expansion01!Goofy!SEC_E01_Goofy_010_DisplayNameТех, кто ушел
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish01_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish02_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_Step01_CatchFish03_StepDescription{ItemName}.
-�
-BSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_StepDescriptionaПоймайте немного странной новой рыбы вокруг острова:
-�
-CSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_StoryDescription�Гуфи очарован всей странной рыбой вокруг острова, но ему трудно поймать кого-либо из них!
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem01_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem03_StepDescription{ItemName}.
-d
-USecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_BringItem04_StepDescription{ItemName}.
-�
-JSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_ReadyDescription9Принеси все, что попало на Гуфи.
-�
-ISecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group02_Step02_StepDescriptiontСоберите немного странной новой рыбы по всему острову для Гуфи:
-�
-BSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group03_StepDescriptiongПриготовить любую еду с помощью Dunebopper, Robot Fish или Primda Shrimp.
-�
-CSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group03_StoryDescription�Гуфи в восторге от того, что вы показали ему, как ловить рыбу на острове Вечность. Он решает, что пришло время для небольшого кулинарного эксперимента. Он возьмет половину рыбы и попытается увидеть, что он может сделать, пока вы делаете то же самое.
-|
-[Secret!Expansion01!Goofy!SEC_E01_Goofy_010_Group04_Step04_TalkToCharacter02_StepDescriptionПоговори с Гуфи.
-�
-BSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group04_StepDescription�Гуфи должно быть очарована всей странной новой рыбой вокруг острова Вечность!
-�
-GSecret!Expansion01!Goofy!SEC_E01_Goofy_010_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что мы делали?

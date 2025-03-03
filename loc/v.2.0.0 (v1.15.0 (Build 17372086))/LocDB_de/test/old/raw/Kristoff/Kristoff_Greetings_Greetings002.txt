@@ -1,6 +1,0 @@
-TAG: Kristoff_000_f
-Чем могу помочь, {PlayerName}?
-
-TAG: Player_000_exit_000_f
-Поговорим позже.
-

@@ -1,147 +1,0 @@
-
-G
-BayouFishingRod_DisplayName(Рыболовецкий Род Байю
-B
-BayouHourglass_DisplayName$Часовое стекло Байо
-.
-BayouPhone_DisplayNameТелефон Bayou
-)
-BayouPickaxe_DisplayNameBayou Pickaxe
-0
-BayouShovel_DisplayNameБайю Шовель
-T
-BayouWateringCan_DisplayName4Байю Водопроводный канистры
-L
-$BubbleMachines01!color01_DisplayName$Машина для чародеев
-^
-$BubbleMachines01!color02_DisplayName6Машина для пузырей Микки Маус
-^
-$BubbleMachines01!color03_DisplayName6Минни Маус Машина для пузырей
-\
-CatchingNet_DisplayNameARoyal Net ( &lt; &lt; Королевская сеть &gt; &gt; )
-m
-&ElectricalParadeFishingRod_DisplayNameCРыболовство в электрических парадах
-s
-%ElectricalParadeHourglass_DisplayNameJЭлектрическое часовое стекло для парада
-]
-!ElectricalParadePhone_DisplayName8Телефон электрического парада
-N
-#ElectricalParadePickaxe_DisplayName'Электрический пикакс
-K
-"ElectricalParadeShovel_DisplayName%Электрический парад
-g
-'ElectricalParadeWateringCan_DisplayName<Электрический парадный батончик
-W
-"FancyGiftBag01!color01_DisplayName1Снежный мешок для подарков
-Z
-"FancyGiftBag01!color02_DisplayName4Сумка для подарков в Винтери
-^
-"FancyGiftBag01!color03_DisplayName8Сумка для подарков Зимняя Гала
-P
-$FishingPoleCaptainHook01_DisplayName(Крюк Рыболовецкий Род
-9
-FishingRod_DisplayNameРыболовецкий Род
-S
-HandFan01!color01_DisplayName2Орнатный ручной вентилятор
-4
-Hourglass_DisplayNameЧасовое стекло
-W
-!HourglassMaleficent01_DisplayName2Малефисента Часовое стекло
-^
--IncenceLantern01!IncenseLantern01_DisplayName-Фонарь &lt; &lt; Инсенс &gt; &gt;
-H
-MonsterFishingRod_DisplayName'Рыболовство монстров
-P
-MonsterHourglass_DisplayName0Монстрское часовое стекло
-9
-MonsterPhone_DisplayNameТелефон монстра
-9
-MonsterPickaxe_DisplayNameМонстр Пикракс
-6
-MonsterShovel_DisplayNameМонстр Шовель
-W
-MonsterWateringCan_DisplayName5Муравьиный канистры для воды
-@
-MulanFishingRod_DisplayName!Мулан Рыболовство
-D
-MulanHourglass_DisplayName&Мулан Часовое стекло
-3
-MulanPhone_DisplayNameМулан Телефон
-.
-MulanPickaxe_DisplayNameМулан Pickaxe
-2
-MulanShovel_DisplayNameМулан Шовель
-R
-MulanWateringcan_DisplayName2Мулан Упаковочный батончик
-E
-NBCFishingRod_DisplayName(Рыболовство в скелете
-J
-NBCHourglass_DisplayName.Скелетное часовое стекло
-$
-NBCPhone_DisplayNameСкелет
-9
-NBCPickaxe_DisplayNameСкелетный пикакс
-.
-NBCShovel_DisplayNameШвы скелета
-O
-NBCWateringCan_DisplayName1Скелетный водонагреватель
-G
-NefariousFishingRod_DisplayName$Жестокий рыбный сад
-J
-NefariousHourglass_DisplayName(Плохое часовое стекло
-9
-NefariousPhone_DisplayNameПлохой телефон
-;
-NefariousPickaxe_DisplayNameГрязный пикакс
->
-NefariousShovel_DisplayNameБеспощадный удар
-I
- NefariousWateringCan_DisplayName%Бесполезный водопой
-#
-Phone_DisplayNameТелефон
-;
-PhoneCaseCruella01_DisplayNameДеВил Телефон
-#
-Pickaxe_DisplayNameПикокс
-J
-PickaxeEvilQueen01_DisplayName(Злая Королева Пиккакс
-;
- RLM_Mula_050_Weights_DisplayNameВес обучения
-L
-RoyalFishingRod_DisplayName-Розы и золотые рыболовцы
-A
-RoyalHourglass_DisplayName#Розы и золотые часы
-E
-RoyalPhone_DisplayName+Розы и золотые телефоны
-I
-RoyalPickaxe_DisplayName-Розы и золотые пикаксисы
->
-RoyalShovel_DisplayName#Розы и золотые шовы
-K
-RoyalWateringCan_DisplayName+Розы и золотые канистры
-"
-Shovel_DisplayNameШовель
-B
-!ShovelQueenOfHearts01_DisplayNameКоролева сердец
-,
-Umbrella01_DisplayNamePolka Dot Umbrella
-9
-Umbrella02_DisplayNameНевероятная Змея
-1
-Umbrella03_DisplayNameКлубная Змея
-O
-Umbrella04_DisplayName5Розовая и пурпурная амбрелла
-?
-Umbrella05_DisplayName%Мечтательный Зонтик
-e
-UmbrellaTiana01_DisplayNameFЗеленая Зеленая Зеленая Зеленая Землю
-E
-&UmbrellaWitchesAccessory01_DisplayNameВедьма Парасол
-N
-&ValentinesBasket01!color01_DisplayName$Викер Милая корзина
-N
-(Village!Oswald!GiantPencil01_DisplayName"Освальдian карандаш
-F
-WateringCan_DisplayName+Водопроводный канистры
-`
-WateringCanUrsula01_DisplayName=Морская ведьма поливает канистру

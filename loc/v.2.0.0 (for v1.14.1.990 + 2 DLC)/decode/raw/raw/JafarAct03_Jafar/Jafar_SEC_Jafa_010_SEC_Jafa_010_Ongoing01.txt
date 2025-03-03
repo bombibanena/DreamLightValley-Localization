@@ -1,9 +1,0 @@
-TAG: Jafar_000_f
-What will my sentence be, {PlayerName}?
-
-TAG: Jafar_001_f
-You'll find out soon enough â for now, maybe just think about your actions.
-
-TAG: Jafar_002_f
-Regret has never been worth my valuable time.
-

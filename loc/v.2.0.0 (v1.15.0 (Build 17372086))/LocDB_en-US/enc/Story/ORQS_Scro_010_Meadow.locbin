@@ -1,17 +1,0 @@
-
-N
-:Story!ORQS_Scro_010_Meadow_Any_CompletedRequestDescriptionTalk to Scrooge.
-›
-/Story!ORQS_Scro_010_Meadow_AvailableDescriptionhNow that the Pillar in the Peaceful Meadow has been restored, it's time to spruce things up around here.
-l
-4Story!ORQS_Scro_010_Meadow_CompletedStoryDescription4You made the Peaceful Meadow a more beautiful place.
-M
-&Story!ORQS_Scro_010_Meadow_DisplayName#Rebuild the Valley: Peaceful Meadow
-l
-7Story!ORQS_Scro_010_Meadow_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
-q
-DStory!ORQS_Scro_010_Meadow_Group01_Step01_Decorate01_StepDescription)Place {TargetAmount} pieces of furniture.
-Z
-9Story!ORQS_Scro_010_Meadow_Group01_Step01_StepDescriptionDecorate the Peaceful Meadow.
-^
--Story!ORQS_Scro_010_Meadow_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,55 +1,0 @@
-
-i
-DVillage!Aladdin!Jasmine!VLG_Jasm_010_Any_CompletedRequestDescription!Поговори с Жасмин.
-s
-9Village!Aladdin!Jasmine!VLG_Jasm_010_AvailableDescription6Похоже, у Жасмин что-то на уме!
-�
->Village!Aladdin!Jasmine!VLG_Jasm_010_CompletedStoryDescription�Осторожно ухаживая за цветами, кажется, помогает выращивать Зачарованный Цветок!
-Y
-0Village!Aladdin!Jasmine!VLG_Jasm_010_DisplayName%Зачарованный цветок
-z
-UVillage!Aladdin!Jasmine!VLG_Jasm_010_Group01_Step01_TalkToCharacter01_StepDescription!Поговори с Мерлин.
-�
-=Village!Aladdin!Jasmine!VLG_Jasm_010_Group01_StoryDescription�Жасмин нашла странную записку в своем доме! но у подозреваемых Мерлин может быть больше информации...
-�
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group02_Step02_Possess01_StepDescriptioneОбыщите библиотеку Dreamlight для <ActivityItem>Envelope of Seeds</ActivityItem>.
-q
-OVillage!Aladdin!Jasmine!VLG_Jasm_010_Group03_Step03_BringItem01_StepDescriptionВещество Семени.
-�
-DVillage!Aladdin!Jasmine!VLG_Jasm_010_Group03_Step03_ReadyDescriptionVПеренести <ActivityItem>Envelope семян</ActivityItem> на Жасмин.
-�
-CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group03_Step03_StepDescriptionoУбедитесь, что у вас в списке есть <ActivityItem>Envelope семян</ActivityItem>.
-\
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess03_StepDescription{itemName}.
-\
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess04_StepDescription{itemName}.
-\
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess05_StepDescription{itemName}.
-\
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess06_StepDescription{itemName}.
-\
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess07_StepDescription{itemName}.
-\
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess08_StepDescription{itemName}.
-\
-MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess09_StepDescription{itemName}.
-�
-CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_StepDescriptiondСоберите материалы для очаровательных потов блюминга:
-�
-=Village!Aladdin!Jasmine!VLG_Jasm_010_Group04_StoryDescription�Жасмин собирается подготовить ее дом для роста всех цветов, но ей все еще нужна твоя помощь!
-�
-OVillage!Aladdin!Jasmine!VLG_Jasm_010_Group05_Step05_CraftItem01_StepDescriptionNПодготовьте <ActivityItem>Enchaned Pots of Blooming</ActivityItem>.
-�
-DVillage!Aladdin!Jasmine!VLG_Jasm_010_Group06_Step06_ReadyDescription[Возьмите <ActivityItem> Enchaned Pots of Blooming</ActivityItem> на Жасмин.
-�
-CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group06_Step06_StepDescriptionvУбедитесь, что в вашем списке есть <ActivityItem>Enchaned Pots of Blooming</ActivityItem>.
-�
-OVillage!Aladdin!Jasmine!VLG_Jasm_010_Group07_Step07_VisitArea01_StepDescription:Заходите в дом Жасмин и Аладдин.
-�
-UVillage!Aladdin!Jasmine!VLG_Jasm_010_Group08_Step08_TalkToCharacter02_StepDescription2Поговори с Жасмин в ее доме.
-�
-=Village!Aladdin!Jasmine!VLG_Jasm_010_Group08_StoryDescription�С очаровательными горшками Блуминга в руке, вы направляетесь в дом Жасмин и Аладдин, чтобы начать сажать цветы.
-�
-CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group09_Step09_StepDescriptionLПоложи цветы в нужные горшки в дом Жасмин.
-h
-7Village!Aladdin!Jasmine!VLG_Jasm_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

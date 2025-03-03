@@ -1,73 +1,0 @@
-
-7
-Jasmine_000_f&Jasmine! The Enchanted Flower bloomed!
-2
-Jasmine_009_f!It did! But... what's the secret?
-t
-Jasmine_019_fcI'm not sure... There's an old <ActivityItem>Secret Journal</ActivityItem> stuck within the petals.
-G
-Jasmine_010_f6Looking at it... it gives me a really strange feeling.
-G
-Jasmine_003_f6It reminds me of when I was younger. I feel sort of...
-%
-Player_001_choice_000_f
-...lonely.
-%
-Player_001_choice_001_f
-...scared.
-$
-Player_001_choice_002_f	...angry.
-)
-Jasmine_011_fYou used to feel lonely?
-p
-Jasmine_014_f_Yes, sometimes. Even when I was surrounded by people, I still felt like no one really heard me.
-~
-Jasmine_017_fmThis <ActivityItem>Secret Journal</ActivityItem> must have some kind of magic that's making me feel this way.
-A
-Jasmine_018_f0That must be it. I wonder what's written inside?
-|
-Jasmine_020_fkI'd suggest we check, but <Lore>it's locked tight, and it looks like we'll need two keys to open it</Lore>.
-M
-Player_002_choice_000_f2If we could open it, we'd know where it came from!
-<
-Player_002_choice_001_f!I'm nervous to see what's inside.
-3
-Player_002_choice_002_fThis is so... confusing.
-H
-Jasmine_021_f7It must have belonged to someone important once, right?
-4
-Jasmine_024_f#That's exactly what I was thinking.
-|
-Jasmine_026_fkHmm... There's a code on the cover that looks familiar. I'm sure I can decipher it if I have a little time.
-@
-Player_000_choice_000_f%And that might open one of the locks?
-9
-Player_000_choice_001_fIt seems pretty complicated...
-4
-Player_000_choice_002_fUgh, this is frustrating!
-R
-Jasmine_004_fAPossibly. I'll have to do some translations to find out for sure.
-£
-Jasmine_007_f‘Why don't I take a closer look at this, and then come find you once I know what it says. I have a feeling it'll be a clue to opening the journal.
-N
-Jasmine_008_f=All right. Thanks, Jasmine. Let me know when you work it out!
-W
-Jasmine_005_fFI've studied these sorts of codes before. I'm sure I'll figure it out.
-@
-Jasmine_006_f/I understand, but I'm sure we'll figure it out.
-M
-Jasmine_022_f<It must have been hidden away for a reason, don't you think?
-B
-Jasmine_025_f1Maybe. But I also think we found it for a reason.
-@
-Jasmine_023_f/Who owned this journal? Why was it hidden away?
-@
-Jasmine_027_f/I don't know, but I'm sure we'll figure it out.
-)
-Jasmine_012_fYou used to feel scared?
-u
-Jasmine_015_fdYes, sometimes. There were all these expectations of me. I was afraid I could never live up to them.
-(
-Jasmine_013_fYou used to feel angry?
-d
-Jasmine_016_fSYes, sometimes. I had so many responsibilities! But all I wanted to do was be FREE.

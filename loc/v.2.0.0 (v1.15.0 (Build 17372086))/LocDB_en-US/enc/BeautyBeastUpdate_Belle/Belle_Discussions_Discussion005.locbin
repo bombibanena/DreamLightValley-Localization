@@ -1,41 +1,0 @@
-
-[
-Belle_000_fLThis Village reminds me a little of the village where I live with my father.
--
-Player_000_choice_000_fWas there a baker?
->
-Player_000_choice_001_f#But I can make this Village bigger!
-*
-Player_000_choice_002_fDo you miss it?
-j
-Belle_001_f[Oh yes. He bakes the most wonderful bread every day. Do you also come from a rural village?
- 
-Player_001_choice_000_fI do!
-;
-Player_001_choice_001_f Actually... I'm from a big city.
-<
-Player_001_choice_002_f!I like to live far from people...
-�
-Belle_002_f�Then we have a lot in common. But I hope you felt like you belonged there. Sometimes I felt I was just too different from everyone else.
-i
-Belle_003_fZHow exciting! I've always dreamed of visiting a large city â maybe even living there!
-A
-Belle_004_f2Well, I'm glad you can come here and have company.
-d
-Belle_005_fUI'm sure you will. Why, with how things are growing, it may be more like a city soon.
-�
-Belle_006_fsOh, there are some things I miss very much. Especially my father. But... I never really felt that I belonged there.
-J
-Belle_007_f;Do you ever feel out of place? Like you don't quite belong?
-(
-Player_002_choice_000_fAll the time!
-A
-Player_002_choice_001_f&No way â I feel at home wherever!
-5
-Player_002_choice_002_fI'm strange and I love it!
-G
-Belle_008_f8Then you understand. It's nice to know someone who does.
-;
-Belle_009_f,That's wonderful. I think you're very lucky.
-;
-Belle_010_f,Well, then I suppose we can be odd together.

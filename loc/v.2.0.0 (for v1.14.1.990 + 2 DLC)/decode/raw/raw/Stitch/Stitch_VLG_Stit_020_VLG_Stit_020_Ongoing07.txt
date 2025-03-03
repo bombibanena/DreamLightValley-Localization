@@ -1,6 +1,0 @@
-TAG: Stitch_000_f
-Coffee! Can we pick beans now?
-
-TAG: Stitch_001_f
-Right! I'll go to the tree and <Lore>pick some Coffee Beans</Lore>.
-

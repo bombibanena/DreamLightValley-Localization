@@ -1,9 +1,0 @@
-TAG: Scrooge_000_f
-Stupendous work, {PlayerName}!
-
-TAG: Scrooge_001_f
-You've put a grand effort into decoratin' for the festival.
-
-TAG: Scrooge_002_f
-And it's my pleasure to reward ya in kind!
-

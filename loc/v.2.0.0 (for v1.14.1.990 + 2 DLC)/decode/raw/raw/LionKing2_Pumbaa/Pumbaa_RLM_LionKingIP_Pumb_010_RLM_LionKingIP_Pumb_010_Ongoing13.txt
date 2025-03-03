@@ -1,6 +1,0 @@
-TAG: Pumbaa_000_f
-You roasted the fireflies? Mmm... They smell delicious! Could ya bring 'em to me?
-
-TAG: Pumbaa_001_f
-<ActivityItem>Roasted Jungle Fireflies</ActivityItem>, what a treat!
-

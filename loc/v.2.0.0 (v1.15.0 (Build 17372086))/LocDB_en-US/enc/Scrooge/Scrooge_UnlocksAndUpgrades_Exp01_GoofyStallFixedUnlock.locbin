@@ -1,13 +1,0 @@
-
-¦
-Scrooge_000_f”If ya help set up the Stall in this part of the Isle, it'll save you the hassle of travelin' so far. And you can make more deals with more products!
-x
-Player_000_choice_000_f]Let's set up the Stall. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
-3
-Player_000_choice_001_fPerhaps some other time.
-K
-Scrooge_001_f:Knock me over with a feather! Look at all there is to buy!
-|
-Scrooge_002_fkOch! You don't have enough Star Coins to set up the Stall! Come back when you have the funds, {PlayerName}.
-g
-Scrooge_003_fVCurse me kilts! This is a sound investment! Come back when you've come to your senses.

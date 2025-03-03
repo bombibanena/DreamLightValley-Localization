@@ -1,9 +1,0 @@
-TAG: Elsa_001_f
-The next step for the <ActivityItem>Arendellian Fish Pie</ActivityItem> is to catch a <ActivityItem>Glittering Herring</ActivityItem>.
-
-TAG: Elsa_000_f
-That type of fish only appears in the Glade of Trust on rainy days.
-
-TAG: Elsa_002_f
-And we'll also need <ActivityItem>Wheat</ActivityItem> and <ActivityItem>Butter</ActivityItem>.
-

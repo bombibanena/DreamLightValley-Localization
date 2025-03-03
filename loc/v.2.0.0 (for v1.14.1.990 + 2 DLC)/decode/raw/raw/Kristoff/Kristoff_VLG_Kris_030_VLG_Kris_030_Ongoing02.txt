@@ -1,3 +1,0 @@
-TAG: Kristoff_001_f
-Goofy said we'll need <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, <ActivityItem>Sand</ActivityItem>, and <ActivityItem>Stone</ActivityItem>.
-

@@ -1,33 +1,0 @@
-
-p
-Ursula_000_f`Ah! Just the guinea pig I need. You'll help me with a little magical experimentation, won't you?
-L
-Ursula_001_f<Just a trifling thing, really. I doubt ANYONE will get hurt.
-f
-Ursula_002_fVIt's a little power-extraction spell, using that Flower you acquired. What do you say?
-@
-Player_000_choice_000_f%Wait. You DOUBT anyone will get hurt?
-=
-Player_000_choice_001_f"If you say it's safe, I trust you!
-3
-Player_000_choice_002_fA dangerous ritual? Fun!
-5
-Player_000_choice_003_fSorry, it'll have to wait!
-1
-Ursula_003_f!Oh, don't be so dramatic, dearie!
-R
-Ursula_004_fBWe'll set up for the spell, and I'll make SURE it's safe. Promise!
-‹
-Ursula_011_f{First we need a seashell. But not just ANY seashell... We need one from that girl who's always talking to the ocean, Moana.
-‚
-Ursula_010_frOnce you have that, find some <ActivityItem>Aquamarine</ActivityItem> and some <ActivityItem>Squid</ActivityItem>.
-e
-Ursula_006_fUThen combine all those things together into an enchantment Potion and bring it to me!
-9
-Ursula_005_f)Ooo, you're so sweet, I could eat you up!
-I
-Ursula_007_f9Careful, dear. The danger shouldn't be the exciting part.
-X
-Ursula_008_fHAll right, let's prepare for a spell... and don't forget who's the boss!
-U
-Ursula_009_fEDon't stay away too long. You don't want to get left out in the cold.

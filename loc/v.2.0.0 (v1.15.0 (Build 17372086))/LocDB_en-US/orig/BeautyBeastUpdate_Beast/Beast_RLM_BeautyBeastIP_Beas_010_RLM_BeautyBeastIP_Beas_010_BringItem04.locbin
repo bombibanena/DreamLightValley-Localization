@@ -1,68 +1,0 @@
-
-M
-Beast_000_f>Here you go! One polished and perfumed prince coming right up!
-6
-Beast_001_f'You look great, Beast! How do you feel?
-
-Beast_002_f	Better...
-V
-Beast_028_fGBut what if I say the wrong thing to her? Then all this is for nothing!
-G
-Beast_003_f8You won't! Because we're going to rehearse your apology.
-
-Beast_004_fHow?
-7
-Beast_005_f(Like this! I'll be Belle and you be you.
-0
-Player_000_choice_000_f"I'm upset with you."
-2
-Player_000_choice_001_f"You hurt my feelings."
-@
-Player_000_choice_002_f%"You look SO fuzzy and cuddly today!"
-3
-Beast_007_f$I, uh... I didn't mean to upset you.
-
-Beast_021_f
-I'm sorry.
-*
-Player_001_choice_000_fThat was great!
-/
-Player_001_choice_001_fI'm so proud of you!
-@
-Player_001_choice_002_f%A few tears and this will be PERFECT!
-'
-Beast_011_fBut you still did and—
-(
-Beast_012_fWell, YOU upset me FIRST!
-=
-Beast_015_f.Deep breath... Try not to get defensive, okay?
-0
-Beast_016_f!You're right. Can we start again?
-E
-Beast_017_f6Okay. It's me, Belle! What did you want to talk about?
-
-Beast_018_fBelle...
-^
-Beast_019_fOI was very angry when... I saw you staring at the painting but— *deep breath*
-D
-Beast_020_f5I shouldn't have frightened you or... lost my temper.
-@
-Beast_025_f1Really? ... You think she will accept my apology?
-1
-Beast_022_f"You're ready! Let's go find Belle.
-.
-Beast_024_fThank you for all of your help.
-G
-Beast_026_f8Tears, no. I was always told that crying shows weakness.
-�
-Beast_027_f�Okay, well that just seems a little unhealthy, and we should definitely talk about this later, because everyone cries, but otherwise...
-
-Beast_006_fBut... but...
-X
-Beast_014_fIYou were the one who broke the rules! You were looking at the painting—
-<
-Beast_008_f-Never mind. You're not taking this seriously.
-X
-Beast_009_fIYou DO! I'm just saying, Belle might notice that your fur is extra shiny!
-@
-Beast_013_f1I don't WANT— Let's just... Please begin again.

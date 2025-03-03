@@ -1,82 +1,0 @@
-
-T
-Jafar_002_fEI have endured this ridiculous trial long enough. Make your judgment.
-A
-Jafar_003_f2Hold up, Jafar; there have been some developments.
-7
-Jafar_004_f(I have new evidence to go over with you.
-0
-Jafar_005_f!I see. And what evidence is this?
-m
-Jafar_006_f^I found a number of Memories that shed some light on what you were like before the Forgetting.
-/
-Player_000_fLet's see; which to examine...?
-3
-Player_000_choice_000_fThe Memory about Stitch.
-3
-Player_000_choice_001_fThe Memory about Merlin.
-:
-Player_000_choice_002_fThe Memory with Scrooge McDuck.
-G
-Jafar_007_f8It seems like you're helping Stitch with something here?
-.
-Jafar_008_fAh yes, I had nearly forgotten.
-[
-Jafar_009_fLI was surprised to learn that the furry menace had an interest in astronomy.
-Z
-Jafar_010_fKOne of the lenses in his telescope had broken, so I made him a replacement.
-
-Jafar_011_fInteresting.
-1
-Jafar_023_f"Okay Jafar, I've made my decision.
-d
-Jafar_032_fUMaybe doing some good will remind you of how to be a proper member of this community.
-{
-Jafar_033_flYou can stay in the Palace for now, and I'll be in touch soon about what your community service will entail.
-v
-Jafar_034_fgI... This is quite surprising, {PlayerName}. I am not sure I would be so generous were I in your shoes.
-d
-Jafar_001_fUHere, please take this. Let it serve as a token of my desire to remain in the Valley.
-l
-Jafar_035_f]Yes, well... isn't that the point of doing good? Because it's good and not because it's easy?
-
-Jafar_036_fBe good, Jafar.
-
-Jafar_024_f
-Very well.
-f
-Jafar_025_fWYou are guilty of attempting to steal Oswald's powers Ã¢Â€Â” that wasn't ever in doubt.
-·
-Jafar_026_f§But... we've also confirmed through the Memories that you're at least capable of being a citizen here. However, you used your probation period to just keep being mean.
-,
-Jafar_027_fSo, I am sentencing you to...
-^
-Jafar_028_fODo not drag it out, {PlayerName}. Tell me: Are you sending me back to the lamp?
-
-Jafar_029_fNo.
-
-Jafar_030_fNo?!
-B
-Jafar_031_f3No, instead you'll be doing some community service.
-H
-Jafar_012_f9You and Merlin seem to be in deep discussion on this one.
-n
-Jafar_013_f_As infuriating as that righteous enchanter can be, we did find the occasional topic to discuss.
-[
-Jafar_014_fLIf I recall correctly, we were talking about our respective avian familiars.
-o
-Jafar_015_f`Owls have inferior cognition in comparison to parrots, but they are at least preferable to cats.
-
-Jafar_016_fHmm...
-?
-Jafar_017_f0What are you talking about with Mr. McDuck here?
-6
-Jafar_018_f'Hmm, allow me a moment of reflection...
-V
-Jafar_019_fGAh yes! We were discussing possible techniques for polishing gemstones.
-l
-Jafar_020_f]I had a theory of how to automate the refining of common gemstones into their shiny variants.
-,
-Jafar_021_fDid he hire you or something?
-H
-Jafar_022_f9No, I suppose I was motivated by pure scientific inquiry.

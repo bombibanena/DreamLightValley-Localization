@@ -1,3 +1,0 @@
-TAG: Woody_000_f
-Кристофф составил нам список. Похоже, нам понадобится <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, и <ActivityItem>Fabric</ActivityItem>.
-

@@ -1,41 +1,0 @@
-
-1
-Stitch_001_f!How can Stitch help {PlayerName}?
-X
-Stitch_002_fHI know about the glitter prank you and Vanellope pulled at Daisy's gala.
-
-Stitch_003_fOoga-tabah!
-2
-Player_000_f"No, don't worry! I just want in...
-/
-Player_000_choice_000_fSO funny. Nice work!
-8
-Player_000_choice_001_fThe next one could be BETTER!
-@
-Player_000_choice_002_f%I'll show you amateurs how it's done.
-
-Stitch_005_fOojooba!
-A
-Player_001_f1Can you and Vanellope meet me at the Cursed Cave?
-^
-Player_001_choice_000_fCBecause it makes absolute sense. Doesn't it? Say it does... Please.
-4
-Player_001_choice_001_fIt's the coolest hideout.
-=
-Player_001_choice_002_f"We'll plan the biggest prank ever.
-%
-Stitch_000_fIs {PlayerName} okay?
-
-Stitch_004_fYES!
-s
-Stitch_006_fcWhy wouldn't I be? It would be suspicious if I wasn't okay. And I'm not suspicious. ABSOLUTELY NOT.
-\
-Stitch_010_fL... Okitaka. Stitch and Vanellope will meet {PlayerName} in the Cursed Cave.
- 
-Stitch_011_fGreat... Phew...
-
-Stitch_009_fOkitaka!
-
-Stitch_008_fStitch excited!
-4
-Stitch_007_f${PlayerName} wants to prank with us?

@@ -1,9 +1,0 @@
-TAG: Sully_000_f
-Could ya make us a couple of coffees, {PlayerName}?
-
-TAG: Sully_001_f
-I like mine <Lore>extra strong</Lore>. It takes about <Lore>five times the amount of a regular coffee</Lore> to get it as bitter as I like it.
-
-TAG: Sully_002_f
-Mike takes his with <Lore>a little non-dairy screamer</Lore> and <Lore>as much sugar as you can add</Lore>.
-

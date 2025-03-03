@@ -1,23 +1,0 @@
-
-<
-Merida_000_f,This is the entrance to the Fallen Fortress!
-l
-Merida_001_f\It's always a wee bit creepy to me, but maybe you'll be the one to discover all its secrets!
-…
-Player_000_choice_000_fjLet's clear the way to the Fallen Fortress. (Use {UpgradePrice} <sprite="iconCurrencyStoryMagic" index=0>)
-4
-Player_000_choice_001_fI'll clean this up later.
-v
-Merida_002_ffYes! The ink barrier's falling. We'll have the secrets of the Fortress figured out before you know it!
-ˆ
-Merida_003_fxOch! You don't have enough <Lore>Story Magic</Lore> to unlock it. You better go <Lore>collect more</Lore>, {PlayerName}.
-W
-Merida_004_fGYou're the only one who can help us get access to the rest of the Vale.
-A
-Merida_005_f1So please, come back soon! There's so much to do!
-.
-Merida_006_fIf you say so. But remember...
-a
-Merida_007_fQBut we'd better focus on <Lore>cleaning up the Bind</Lore> before we visit there.
-†
-Merida_008_fvIt'd be foolish to step foot in any part of Maleficent's territory without both of us having a little more experience.

@@ -1,49 +1,0 @@
-
-=
-Merida_000_f-So, how's your adventure going, {PlayerName}?
-É
-Merida_001_fsLet me guess... You've already sat Maleficent and Hades down for tea and gotten them to hash out their wee quarrel?
-0
-Player_000_choice_000_fUh, yeah, definitely!
--
-Player_000_choice_001_fI'm getting there.
-,
-Player_000_choice_002_fNot even close...
-z
-Merida_002_fjHa-ha-ha! Och, I'm sorry, but that's too funny! You're brilliant, {PlayerName}, but no one's that skilled.
-=
-Merida_004_f-Now then, is there anything I can do to help?
-J
-Merida_005_f:Actually, you can. I stumbled upon something in Everafter.
-R
-Merida_006_fBIt was a gateway to another trial, just like the ones in Mythopia.
-\
-Merida_008_fLBut it seems that this one is caused by Maleficent's meddling... not Hades'.
-U
-Merida_009_fEOh! I found one of those before all that clarty ink flooded the land!
-J
-Merida_010_f:You mean the one deep in that dark, strange forest, right?
-f
-Merida_011_fVWell, you'd best be careful, {PlayerName}. There's something not right in those woods.
-Å
-Merida_012_fqI hear it howling sometimes. It's some sort of beast, like the wolves I used to see stalking the moors back home.
-7
-Player_001_choice_000_fI'm not afraid of some wolf.
-E
-Player_001_choice_001_f*We should stick together, just to be safe.
-9
-Player_001_choice_002_fMaybe it's a friendly wolf...?
-h
-Merida_013_fXThat's because YOU haven't heard its howls. This isn't a regular old wolf. It's a beast!
-`
-Merida_016_fPCome on. Let's go <Lore>take a look</Lore>. Together we'll have a better chance.
-w
-Merida_017_fgAnd I'll keep an arrow at the ready just in case you see something hairy with big teeth coming our way.
-
-Merida_015_fAye. I agree!
-a
-Merida_014_fQYou haven't heard it howling and snarling. It's a nasty, brutish beast. Trust me.
-w
-Merida_007_fgIt looked like a kind of gateway, filled with ink. The Lorekeeper told me that it's a Fairy Tale Trial.
-r
-Merida_003_fbOch, don't worry. If you'd already gotten that mess all sorted, I'd be more than a bit suspicious.

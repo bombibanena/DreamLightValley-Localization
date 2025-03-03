@@ -1,9 +1,0 @@
-TAG: Scrooge_001_f
-Mr. McDuck, we need a <ActivityItem>Giant Projector Screen</ActivityItem> to show Timon's nature slideshow.
-
-TAG: Scrooge_000_f
-Aye, I have just the thing. Only 1,000 Star Coins, which is a real bargain.
-
-TAG: Scrooge_002_f
-One <ActivityItem>Giant Projector Screen</ActivityItem>. There you go!
-

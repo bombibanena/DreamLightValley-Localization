@@ -1,37 +1,0 @@
-
-^
-Belle_000_fOI just met Kristoff, {PlayerName}. Did you know his best friend is a reindeer?!
-:
-Player_000_choice_000_fSven! I bet he's just adorable!
-6
-Player_000_choice_001_fThink he's a little smelly?
-8
-Player_000_choice_002_fHave you ever met a reindeer?
-Y
-Belle_001_fJI'd love to meet him. Papa and I have a horse named Philippe whom I adore.
-J
-Belle_002_f;I wonder if Philippe would get jealous if he ever met Sven.
-4
-Player_001_choice_000_fHas that happened before?
-;
-Player_001_choice_001_f I'm sure they'd get along great!
-1
-Player_001_choice_002_fDo horses get jealous?
-{
-Belle_003_flActually, yes. Papa and I took care of a pony for one of our neighbors last year and Philippe was not happy.
-f
-Belle_004_fWBut after some extra apples and spending lots of time with him, he always feels better.
-D
-Belle_005_f5I hope so. Philippe can be a bit persnickety, though.
-Å
-Belle_006_frYou'd be surprised. Papa and I took care of a pony for one of our neighbors last year, and Philippe was not happy.
-5
-Belle_007_f&I imagine so. Though that's all right.
-C
-Belle_008_f4Papa and I have a horse named Philippe whom I adore.
-9
-Belle_009_f*And he has his own special barnyard aroma.
-X
-Belle_010_fINo. I've read about them, but I don't think there are reindeer in France.
-F
-Belle_011_f7Papa and I do have a horse named Philippe whom I adore.

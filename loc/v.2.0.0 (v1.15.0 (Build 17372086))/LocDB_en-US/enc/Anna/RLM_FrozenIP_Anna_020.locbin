@@ -1,21 +1,0 @@
-
-X
-GRealm!Frozen!Anna!RLM_FrozenIP_Anna_020_Any_CompletedRequestDescriptionTalk to Anna.
-|
-<Realm!Frozen!Anna!RLM_FrozenIP_Anna_020_AvailableDescription<It's time to talk to Anna about moving to Dreamlight Valley.
-
-ARealm!Frozen!Anna!RLM_FrozenIP_Anna_020_CompletedStoryDescriptionXAnna has arrived in Dreamlight Valley. You should find out what she thinks of the place.
-E
-3Realm!Frozen!Anna!RLM_FrozenIP_Anna_020_DisplayNameWelcoming Anna
-¡
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_020_Group01_Step01_TalkToCharacter01_StepDescriptionETalk to Anna in the Frozen Realm and invite her to Dreamlight Valley.
-s
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_020_Group02_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
-r
-RRealm!Frozen!Anna!RLM_FrozenIP_Anna_020_Group02_Step02_VisitArea01_StepDescriptionReturn to Dreamlight Valley.
-v
-DRealm!Frozen!Anna!RLM_FrozenIP_Anna_020_Group03_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
-~
-XRealm!Frozen!Anna!RLM_FrozenIP_Anna_020_Group03_Step03_UnlockCharacter01_StepDescription"Welcome Anna in Dreamlight Valley.
-k
-:Realm!Frozen!Anna!RLM_FrozenIP_Anna_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

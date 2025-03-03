@@ -1,47 +1,0 @@
-
-*
-Tiana_003_fOh, Tiana! It's really you!
-5
-Tiana_004_f&Sure is. But um... how did I get here?
-\
-Tiana_005_fMWell, that might be a little complicated. What's the last thing you remember?
-´
-Tiana_006_f¤Well... Merlin had lent me a magical cookbook, and I was trying out some new dishes. He warned me not to change the recipes because some magical books have tempers.
-a
-Tiana_001_fRBut I just couldn't imagine making jambalaya without at least a dash of hot sauce!
-‹
-Tiana_007_fûThen, after I finished the jambalaya, I took the book to Remy to show him the new recipes... and the book started shaking in my hands! I dropped it, then its pages started turning real fast! Next thing I knew, I was off the ground and then... nothing?
-J
-Player_000_choice_000_f/It seems like you were trapped in the cookbook!
-6
-Player_000_choice_001_fOh wow, that's kinda scary!
-:
-Player_000_choice_002_fWell, I'm glad you're okay now.
-4
-Tiana_009_f%Trapped?! Oh my... How did I get out?
-8
-Tiana_010_f)Well, in one sense, I brought you back...
-“
-Tiana_011_fƒ...but in another, YOU did! I managed to figure out this recipe and shared it with some of the Villagers you shared it with before.
-r
-Tiana_012_fcYou did? That's wonderful! My daddy always said sharing food with friends is its own type of magic!
-Š
-Tiana_013_f{So, now that you're back in the Valley, any plans? I have a feeling things have changed a lot since you went into the book.
-w
-Tiana_014_fhWell, I want to visit with my friends, of course. And I do have some new recipe ideas to test and share.
-J
-Player_001_choice_000_f/I want to try some shrimp dishes that you made!
-X
-Player_001_choice_001_f=I'm sure everyone will be beating down your door to try them.
->
-Player_001_choice_002_f#You and Remy will have so much fun!
-ƒ
-Tiana_015_ftBut before I can do anything, I'll need somewhere to stay. Think you could <Lore>help me get my House set up</Lore>?
-
-Tiana_016_fAbsolutely!
-.
-Tiana_017_fThank you kindly, {PlayerName}.
-6
-Tiana_000_f'It was! But... how did I get back here?
-5
-Tiana_002_f&Me too but... How did I get back here?

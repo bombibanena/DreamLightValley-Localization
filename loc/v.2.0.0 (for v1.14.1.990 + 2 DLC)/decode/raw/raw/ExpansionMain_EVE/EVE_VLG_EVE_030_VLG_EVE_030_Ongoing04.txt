@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Directive: Plant!
-
-TAG: EVE_001_f
-Let me take a closer look at the <ActivityItem>Dreamlight Cobra Lily</ActivityItem> first.
-

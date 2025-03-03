@@ -1,6 +1,0 @@
-TAG: Anna_000_f
-Привет, {PlayerName}.
-
-TAG: Player_000_exit_000_f
-Увидимся позже.
-

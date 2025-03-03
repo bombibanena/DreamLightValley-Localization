@@ -1,6 +1,0 @@
-TAG: Remy_000_f
-Один {ItemName}.
-
-TAG: Remy_001_f
-Вам понадобятся <ActivityItem>lettuce</ActivityItem> и два овоща.
-

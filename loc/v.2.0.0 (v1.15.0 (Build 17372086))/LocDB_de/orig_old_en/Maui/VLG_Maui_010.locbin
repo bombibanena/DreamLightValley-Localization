@@ -1,45 +1,0 @@
-
-P
-?Village!Moana!Maui!VLG_Maui_010_Any_CompletedRequestDescriptionTalk to Maui.
-R
-4Village!Moana!Maui!VLG_Maui_010_AvailableDescriptionMaui wants to talk to you.
-ð
-9Village!Moana!Maui!VLG_Maui_010_CompletedStoryDescription²A <ActivityItem>Coconut Tree</ActivityItem> appeared on Dazzle Beach. Now that you've brought <ActivityItem>Coconuts</ActivityItem> to the Village, Maui should be happy about it.
->
-+Village!Moana!Maui!VLG_Maui_010_DisplayNameBurying the Eel
-b
-PVillage!Moana!Maui!VLG_Maui_010_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Goofy.
-¯
-8Village!Moana!Maui!VLG_Maui_010_Group01_StoryDescriptionòThe demigod thinks Dreamlight Valley is missing something. <ActivityItem>Coconuts</ActivityItem>. To solve the problem, he decides to bring them to the Village, but first he needs an <ActivityItem>Eel</ActivityItem>. He thinks Goofy can help.
-W
-HVillage!Moana!Maui!VLG_Maui_010_Group02_Step02_Possess01_StepDescription{ItemName}.
-W
-HVillage!Moana!Maui!VLG_Maui_010_Group02_Step02_Possess02_StepDescription{ItemName}.
-]
->Village!Moana!Maui!VLG_Maui_010_Group02_Step02_StepDescriptionGather the following items:
-¦
-8Village!Moana!Maui!VLG_Maui_010_Group02_StoryDescriptionjGoofy explains that in order to catch some <ActivityItem>Eels</ActivityItem>, you're going to need a trap.
-”
->Village!Moana!Maui!VLG_Maui_010_Group03_Step03_StepDescriptionRPlace the <ActivityItem>Fishing Trap</ActivityItem> near the dock on Dazzle Beach.
-¤
-8Village!Moana!Maui!VLG_Maui_010_Group03_StoryDescriptionhNow that you have a Fishing Trap, you just need to place it in the waters of Dazzle Beach near the dock.
-`
-?Village!Moana!Maui!VLG_Maui_010_Group04_Step05_ReadyDescriptionBring the {ItemName} to Maui.
-³
->Village!Moana!Maui!VLG_Maui_010_Group04_Step05_StepDescriptionqCatch an <ActivityItem>Eel</ActivityItem> attracted by the bait in the <ActivityItem>Fishing Trap</ActivityItem>.
-y
->Village!Moana!Maui!VLG_Maui_010_Group05_Step06_StepDescription7Bury the <ActivityItem>Eel</ActivityItem> at the Beach.
-Ç
-8Village!Moana!Maui!VLG_Maui_010_Group05_StoryDescriptionŠAs surprising as it sounds, you'll have to plant the <ActivityItem>Eel</ActivityItem> so <ActivityItem>Coconuts</ActivityItem> can grow...
-¶
-JVillage!Moana!Maui!VLG_Maui_010_Group06_Step08_BringItem02_StepDescriptionhHarvest the <ActivityItem>Coconut</ActivityItem> from the new <ActivityItem>Coconut Tree</ActivityItem>.
-z
-?Village!Moana!Maui!VLG_Maui_010_Group06_Step08_ReadyDescription7Bring the <ActivityItem>Coconut</ActivityItem> to Maui.
-t
->Village!Moana!Maui!VLG_Maui_010_Group07_Step10_StepDescription2Craft a <ActivityItem>Fishing Trap</ActivityItem>.
- 
-KVillage!Moana!Maui!VLG_Maui_010_Group08_Step07_MakeGarden01_StepDescriptionQTend to the crop until it grows into a <ActivityItem>Coconut Tree</ActivityItem>.
-a
-PVillage!Moana!Maui!VLG_Maui_010_Group09_Step04_TalkToCharacter02_StepDescriptionTalk to Maui.
-c
-2Village!Moana!Maui!VLG_Maui_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,27 +1,0 @@
-
-
-	EVE_000_fOh!
-6
-	EVE_001_f)EVE, I've got a funny question for you...
-.
-	EVE_002_f!What's your heart's deepest wish?
-4
-Player_000_choice_000_fI just KNOW you have one!
-8
-Player_000_choice_001_fCan a robot even make a wish?
-?
-Player_000_choice_002_f$Does it involve plants or WALLÂ·E?
-
-	EVE_003_f
-Hmm... Oh!
-%
-	EVE_004_fWALLÂ·E. Plant. Earth.
-C
-	EVE_005_f6Oh. Right. I guess sometimes it really is that simple.
-
-	EVE_006_f
-Directive!
-Z
-	EVE_007_fMI guess it's true. A wish is just a directive your heart gives you, isn't it?
-
-	EVE_008_fSo what's yours?

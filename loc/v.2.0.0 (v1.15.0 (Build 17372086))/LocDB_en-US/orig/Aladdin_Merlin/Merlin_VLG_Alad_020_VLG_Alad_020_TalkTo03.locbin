@@ -1,39 +1,0 @@
-
-
-Merlin_000_fMerlin!
-C
-Player_000_choice_000_f(Have you ever enchanted a carpet to fly?
-2
-Player_000_choice_001_fI need some magic help!
-(
-Player_000_choice_002_fAre you busy?
-≤
-Merlin_002_f°Have I? No, now that you mention it, I haven't. Though I have enchanted the odd broomstick. However, I tend not to use such things when I travel. Why do you ask?
-á
-Merlin_007_fwAladdin and I want to make a <ActivityItem>Dreamlight Magic Carpet</ActivityItem> for me to glide around the Valley on.
-P
-Merlin_010_f@What a delightful prospect, albeit one I know very little about.
-õ
-Merlin_012_fäThough I daresay the wizards of Agrabah have it all figured out; racing over dunes and through oases must be very comfortable on a carpet.
-7
-Player_001_choice_000_fSo you don't have any ideas?
-A
-Player_001_choice_002_f&I can't believe I finally stumped you.
-]
-Merlin_013_fMOh, I have 28 and a half ideas, but we can start with my favorite one: books.
-Ñ
-Merlin_015_ftI believe there are several books in the <Lore>Dreamlight Library</Lore> that you will find useful in this endeavor.
-ç
-Merlin_016_f}Specifically, I would search for books on <Lore>Fabric Enchantment, Carpet Weaving,</Lore> and <Lore>Flying Technique</Lore>.
-_
-Merlin_014_fOStumped! Ha-ha-ha, we are not stumped yet, {PlayerName}! We've only just begun!
-s
-Merlin_001_fcAs always, my friend, I am here to guide you to the best of my ability. What can I assist you with?
-
-Merlin_003_fAm I‚Äî
-
-Merlin_004_fAm I busy?!
-u
-Merlin_005_feMy friend, I am busy researching multiple subjects of the past, present, and the future at all times!
-S
-Merlin_006_fCHowever... I am NEVER too busy for you. What can I assist you with?

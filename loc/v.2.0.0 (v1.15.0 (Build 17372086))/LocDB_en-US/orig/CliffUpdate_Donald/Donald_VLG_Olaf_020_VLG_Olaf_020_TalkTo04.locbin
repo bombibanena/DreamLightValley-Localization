@@ -1,53 +1,0 @@
-
-k
-Donald_000_f[You want to know what happened when I was on my quest to stop the Forgetting with Kristoff?
-<
-Donald_001_f,You bet! I'll tell you all about my heroism!
-)
-Player_000_choice_000_fLet's hear it!
-$
-Player_000_choice_001_f	Oh boy...
-°
-Donald_002_fŸOne dark and stormy night, we were camping out on the Sunlit Plateau... Suddenly we saw a huge shadow on the wall of the cliff! It had wings as big as a house!
-F
-Donald_003_f6Right. Kristoff told me already. It was a hummingbird.
-N
-Donald_004_f>A hummingbird! Don't be ridiculous. That wasn't a hummingbird!
-L
-Donald_005_f<It was a two-headed, fifty-foot tall, fire-breathing dragon!
-/
-Player_001_choice_000_fWow! That's amazing.
-F
-Player_001_choice_001_f+We don't have those in Dreamlight Valley...
-V
-Donald_006_fFWhat's more amazing is how I fought it off with just my own two hands.
-T
-Donald_007_fDNext, we went to the Forgotten Lands, where things got even worse...
-S
-Donald_008_fCRight. Kristoff told me you fell in a puddle and a frog jumped out.
-4
-Donald_009_f$What?! No! That's not what happened.
-m
-Donald_010_f]A giant chasm opened up underneath me, then a sea monster grabbed me and tried to drag me in!
--
-Player_002_choice_000_fWow! That's scary!
-)
-Player_002_choice_001_fUhhh... huh...
-G
-Player_002_choice_002_f,Forgive me if I have trouble believing this.
-$
-Donald_011_fAw, I wasn't scared.
-E
-Donald_012_f5I fought that sea monster off and saved Kristoff too!
-q
-Donald_013_faAfter that, we went to the Forest of Valor and... a horrible, evilâ€” Oh wait. You know the rest.
-F
-Donald_014_f6None of that is even close to what Kristoff told me...
-_
-Donald_015_fOWell, then, his memory must still be messed up. That's exactly how it happened!
-[
-Donald_016_fKIf you don't believe me, then go ask Kristoff! He'll tell you all about it!
-%
-Donald_017_fWhat?! It's all true!
-\
-Donald_018_fLNot anymore we don't! Not after I fought that one off with my own two hands!

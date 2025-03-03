@@ -1,9 +1,0 @@
-TAG: Village!SwordInStone!Merlin!VLG_Merl_060_AvailableDescription
-Merlin seems to be frustrated. You should find out why.
-
-TAG: Village!SwordInStone!Merlin!VLG_Merl_060_Group01_OngoingRequestButton
-<smallcaps>{title}</smallcaps><br>What must I do?
-
-TAG: Village!SwordInStone!Merlin!VLG_Merl_060_StartRequestButton
-<smallcaps>{title}</smallcaps><br>Start Quest
-

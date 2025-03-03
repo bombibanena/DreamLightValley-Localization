@@ -1,66 +1,0 @@
-
-M
-Donald_003_f=WAK! That wasn't an offer! I'm in the middle of an emergency!
-:
-Donald_023_f*No time! I've got a fishing rod to rescue!
-8
-Donald_000_f(Donald, can I have one of your feathers?
-=
-Donald_001_f-What?! You want one of my personal feathers?!
-7
-Player_000_choice_000_fThat would be great, thanks!
-1
-Player_000_choice_001_fIt's for a good cause!
-.
-Player_000_choice_002_fIs this a bad time?
-L
-Donald_005_f<I was fishing with Goofy, and he got a big bite on his line.
-c
-Donald_006_fSI jumped up to help him bring it in and knocked my lucky fishing rod into the pond!
-H
-Player_001_choice_000_f-Use Goofy's rod to fish out your fishing rod!
-4
-Player_001_choice_001_fDid Goofy catch the fish?
-F
-Player_001_choice_002_f+Sounds like an unlucky fishing rod to me...
-*
-Donald_009_fHey, that just might work!
-2
-Donald_011_f"Great! So, I can get a feathâ
-_
-Donald_012_fOBye, {PlayerName}! I gotta go rescue my lucky fishing rod! Thanks for the idea!
-b
-Donald_014_fR*sigh* ... Guess I'll just <Lore>have to ask someone else for that feather</Lore>.
-q
-Donald_008_faNo! It wasn't even a fish, it was a huge blob of seaweed tangled up with an old mask and snorkel!
-_
-Donald_013_fO... Could you use the mask and snorkel to search the pond for your fishing rod?
-�
-Donald_010_f�Trust me, it's lucky! Before the Forgetting, Daisy gave it to me for my birthday, and I always get the catch of the day with it!
-3
-Player_002_choice_000_fYou could get a new one?
-:
-Player_002_choice_001_fMaybe you can find a new hobby?
-F
-Player_002_choice_002_f+Won't catch much at the bottom of the pond.
-
-Donald_017_f
-A new one?
-B
-Donald_019_f2That's the most preposterous idea I've ever heard.
-D
-Donald_021_f4I'm gonna get my lucky fishing rod back; you'll see!
-1
-Donald_022_f!What about a feather? I need one!
-
-Donald_016_fHa-ha-ha-ha-ha!
-O
-Donald_020_f?That's hilarious, {PlayerName}! I gotta tell Mickey about that.
-C
-Donald_018_f3Hey! It won't be at the bottom of the pond forever!
-1
-Donald_002_f!It's for a gift to help a friend.
-T
-Donald_007_fDDoesn't matter. I can't help right now â I've got big problems!
-%
-Donald_004_fIt's a terrible time!

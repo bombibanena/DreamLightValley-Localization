@@ -1,21 +1,0 @@
-
-J
-Mulan_002_f;Looks like we have a lot of work ahead of us, {PlayerName}.
-[
-Mulan_003_fLI didn't want to worry Mushu, but this landslide? It's worse than I thought.
-;
-Player_000_choice_000_f I'm here. We'll fix it together.
-:
-Player_000_choice_001_fLet's not get overwhelmed here.
-+
-Player_000_choice_002_fShould we panic?
-&
-Mulan_004_fRight, let's get to it.
-|
-Mulan_001_fmThe first order of business is to <Lore>clear the road and the river of the debris</Lore> from the landslide.
-
-Mulan_008_fpTime to put all that training to good use, {PlayerName}. I'm gonna go check our perimeter for damage. Good luck.
-=
-Mulan_005_f.True. You climb a mountain one step at a time.
-<
-Mulan_006_f-Not at all. We have time, and we have a plan.

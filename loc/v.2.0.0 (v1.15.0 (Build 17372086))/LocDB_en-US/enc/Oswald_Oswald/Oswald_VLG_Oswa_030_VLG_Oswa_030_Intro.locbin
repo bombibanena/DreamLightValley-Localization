@@ -1,49 +1,0 @@
-
-'
-Oswald_004_fHey Oswald, what's new?
-g
-Oswald_005_fWWhat's new? Gee, I guess ya could say, I'm feelin' my oats! Ready to take on the world!
-@
-Oswald_006_f0I need a challenge. Whaddaya say, wanna join me?
--
-Player_000_choice_000_fSure, let's do it!
-4
-Player_000_choice_001_fLet's discuss this later.
-)
-Player_001_choice_000_fOh, of course.
-&
-Player_001_choice_001_fRe-whatnow?
-)
-Oswald_007_fWhat do you have in mind?
-;
-Oswald_008_f+Well, first I gotta get into tip-top shape.
-%
-Oswald_009_fYou don't feel ready?
-%
-Oswald_010_fOh, I'm rarin' to go!
-@
-Oswald_011_f0But my arms and legs are feelin' a little loose.
-Y
-Oswald_012_fILike rubber hoses, I tell ya. And I need 'em to be mighty limbs of stone!
-N
-Oswald_013_f>Yeah, I guess you are pretty wiggly. How do we tighten you up?
-H
-Oswald_014_f8Simple Ã¢Â€Â” I gotta <Lore>revulcanize my limbs</Lore>.
-%
-Oswald_015_fSo how do we do that?
-T
-Oswald_018_fDI just happen to know a 100%-guaranteed method of strength building.
-6
-Oswald_019_f&But it's gonna take an extra hot heat.
-.
-Oswald_020_fHmm, so we should make a fire?
-2
-Oswald_021_f"Nah, I gotta have the heat INSIDE.
-‘
-Oswald_022_f€I'm thinkin' <ActivityItem>Tandoori Chicken</ActivityItem> and <ActivityItem>5 Chili Peppers</ActivityItem> should do the trick.
-
-Oswald_023_fOn it!
-l
-Oswald_016_f\Revulcanize! Ya know, like rubber. Aw, maybe that's too much of a sophisticated term for ya.
-(
-Oswald_017_fOh that's definitely it.

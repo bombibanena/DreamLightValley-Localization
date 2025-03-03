@@ -1,47 +1,0 @@
-
-�
-;Story!Expansion02!MRQS_E02_110_FeudEnd_AvailableDescription�{PlayerName} удалось сделать невозможное: достать Малефисента замок и восстановить Аид в его замке"законно"Но огненные соперники по-прежнему отказываются мирить. {PlayerName} решили найти мудрость Лорехейера, чтобы, наконец, положить конец этой ссоре раз и навсегда.
-j
-2Story!Expansion02!MRQS_E02_110_FeudEnd_DisplayName4Давно ожидаемое приглашение
-�
-WStory!Expansion02!MRQS_E02_110_FeudEnd_Group01_Step01_TalkToCharacter01_StepDescriptionAПоговорите с Лорестером за советом.
-�
->Story!Expansion02!MRQS_E02_110_FeudEnd_Group01_StepDescriptionKАид и Малефисента отказываются мириться.
-�
-SStory!Expansion02!MRQS_E02_110_FeudEnd_Group02_Step02_Conditional01_StepDescription�Перезаказ <ActivityItem>"Спарк разбрызгивания"</ActivityItem> на страницах Лорезера.
-{
-WStory!Expansion02!MRQS_E02_110_FeudEnd_Group03_Step03_TalkToCharacter02_StepDescription Поговори с {TargetNPC}.
-^
-OStory!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess01_StepDescription{ItemName}.
-^
-OStory!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess02_StepDescription{ItemName}.
-^
-OStory!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess03_StepDescription{ItemName}.
-^
-OStory!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess04_StepDescription{ItemName}.
-^
-OStory!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_Possess05_StepDescription{ItemName}.
-�
-EStory!Expansion02!MRQS_E02_110_FeudEnd_Group04_Step04_StepDescriptionBСоберите материалы для приглашений:
-�
-EStory!Expansion02!MRQS_E02_110_FeudEnd_Group05_Step05_StepDescriptioniПриготовить <ActivityItem>Never после приглашения Совета</ActivityItem>.
-�
-FStory!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step06_ReadyDescriptionWДоставьте приглашение в Малефисента в ее замке.
-�
-EStory!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step06_StepDescriptiondУбедитесь, что приглашение Малефисента в вашем списке.
-{
-FStory!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step07_ReadyDescription1Доставьте приглашение Аид.
-�
-EStory!Expansion02!MRQS_E02_110_FeudEnd_Group06_Step07_StepDescriptionTУбедитесь, что приглашение Аид в вашем списке.
-|
->Story!Expansion02!MRQS_E02_110_FeudEnd_Group06_StepDescription:Пригласите злодеев на собрание:
-�
-WStory!Expansion02!MRQS_E02_110_FeudEnd_Group07_Step08_TalkToCharacter03_StepDescriptioniПоговори с Лорестером, когда будешь готов начать встречу.
-�
-NStory!Expansion02!MRQS_E02_110_FeudEnd_Group08_Step09_Listen01_StepDescription�Смотри, как Госпожа Всемогущего и Владыка Подземного мира наконец-то встретится.
-�
-WStory!Expansion02!MRQS_E02_110_FeudEnd_Group09_Step10_TalkToCharacter04_StepDescription'Поговори с Лоревером.
-v
-WStory!Expansion02!MRQS_E02_110_FeudEnd_Group09_Step10_TalkToCharacter05_StepDescriptionПоговори с Аид.
-d
->Story!Expansion02!MRQS_E02_110_FeudEnd_Group09_StepDescription"Малефисента исчез!

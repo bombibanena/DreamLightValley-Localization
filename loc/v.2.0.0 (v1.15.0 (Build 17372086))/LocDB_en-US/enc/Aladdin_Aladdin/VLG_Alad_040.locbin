@@ -1,119 +1,0 @@
-
-X
-DVillage!Aladdin!Aladdin!VLG_Alad_040_Any_CompletedRequestDescriptionTalk to Aladdin.
-w
-9Village!Aladdin!Aladdin!VLG_Alad_040_AvailableDescription:Aladdin is gathering up some gemstones... What's he up to?
-ﬂ
->Village!Aladdin!Aladdin!VLG_Alad_040_CompletedStoryDescriptionúYou and Aladdin successfully launch the Gem Stall and the new marketplace! After the celebration, you regroup to recount your legendary friendship together.
-F
-0Village!Aladdin!Aladdin!VLG_Alad_040_DisplayNameAdvanced Marketing
-Y
-QVillage!Aladdin!Aladdin!VLG_Alad_040_Group01_Step01_MineMineral01_StepDescriptionRed.
-Z
-QVillage!Aladdin!Aladdin!VLG_Alad_040_Group01_Step01_MineMineral02_StepDescriptionBlue.
-[
-QVillage!Aladdin!Aladdin!VLG_Alad_040_Group01_Step01_MineMineral03_StepDescriptionGreen.
-i
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group01_Step01_StepDescription"Mine Gems in the following colors:
-Œ
-=Village!Aladdin!Aladdin!VLG_Alad_040_Group01_StoryDescriptionåAladdin has made friends with WALL√Ç¬∑E and wants to get him some shiny gems for his collection. He asks you to help him collect a few more.
-W
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group02_Step02_BringItem01_StepDescriptionRed.
-X
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group02_Step02_BringItem02_StepDescriptionBlue.
-Y
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group02_Step02_BringItem03_StepDescriptionGreen.
-f
-DVillage!Aladdin!Aladdin!VLG_Alad_040_Group02_Step02_ReadyDescriptionBring the Gems to {TargetNPC}.
-â
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group02_Step02_StepDescriptionBMake sure you have Gems of the following colors in your Inventory:
-}
-LVillage!Aladdin!Aladdin!VLG_Alad_040_Group03_Step03_Listen01_StepDescription-Listen to Aladdin give the gems to WALL√Ç¬∑E.
-m
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group04_Step04_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group05_Step05_BringItem04_StepDescription{itemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group05_Step05_BringItem05_StepDescription{itemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group05_Step05_BringItem06_StepDescription{itemName}.
-h
-DVillage!Aladdin!Aladdin!VLG_Alad_040_Group05_Step05_ReadyDescription Bring everything to {TargetNPC}.
-ê
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group05_Step05_StepDescriptionISearch the South Market in the Aladdin Realm for stall-building supplies.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_040_Group06_Step06_Possess01_StepDescription{itemName}.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_040_Group06_Step06_Possess02_StepDescription{itemName}.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_040_Group06_Step06_Possess03_StepDescription{itemName}.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_040_Group06_Step06_Possess04_StepDescription{itemName}.
-\
-MVillage!Aladdin!Aladdin!VLG_Alad_040_Group06_Step06_Possess05_StepDescription{itemName}.
-f
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group06_Step06_StepDescriptionGather the following materials:
-å
-=Village!Aladdin!Aladdin!VLG_Alad_040_Group06_StoryDescription Pleased with WALL√Ç¬∑E's reactions to the gems, you and Aladdin decide to build a Gem Stall to spread the joy to the entire Valley. You head to the Agrabah marketplace in the Aladdin Realm for supplies.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group07_Step07_CraftItem01_StepDescription{itemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group07_Step07_CraftItem02_StepDescription{itemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group07_Step07_CraftItem03_StepDescription{itemName}.
-e
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group07_Step07_StepDescriptionCraft the following furniture:
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group08_Step08_BringItem07_StepDescription{ItemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group08_Step08_BringItem08_StepDescription{ItemName}.
-^
-OVillage!Aladdin!Aladdin!VLG_Alad_040_Group08_Step08_BringItem09_StepDescription{ItemName}.
-h
-DVillage!Aladdin!Aladdin!VLG_Alad_040_Group08_Step08_ReadyDescription Bring everything to {TargetNPC}.
-Ñ
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group08_Step08_StepDescription=Make sure you have the following furniture in your Inventory:
-g
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group09_Step09_StepDescription Talk to the following Villagers:
-e
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group09_Step09_TalkToCharacter02_StepDescription{TargetNPC}.
-e
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group09_Step09_TalkToCharacter03_StepDescription{TargetNPC}.
-e
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group09_Step09_TalkToCharacter04_StepDescription{TargetNPC}.
-e
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group09_Step09_TalkToCharacter05_StepDescription{TargetNPC}.
-e
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group09_Step09_TalkToCharacter06_StepDescription{TargetNPC}.
-≠
-=Village!Aladdin!Aladdin!VLG_Alad_040_Group09_StoryDescriptionÎWhile Aladdin builds the stall and gets things set up, you head out to ask other stall owners in the Valley if they would be interested in being part of a Dreamlight marketplace. (You also ask them for advice on running a great stall!)
-m
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group10_Step10_TalkToCharacter07_StepDescriptionTalk to {TargetNPC}.
-y
-SVillage!Aladdin!Aladdin!VLG_Alad_040_Group11_Step11_PlaceBuilding01_StepDescription"Place the Gem Stall in the Valley.
-]
-NVillage!Aladdin!Aladdin!VLG_Alad_040_Group12_Step12_Decorate01_StepDescription{itemName}.
-]
-NVillage!Aladdin!Aladdin!VLG_Alad_040_Group12_Step12_Decorate02_StepDescription{itemName}.
-]
-NVillage!Aladdin!Aladdin!VLG_Alad_040_Group12_Step12_Decorate03_StepDescription{itemName}.
-Ç
-NVillage!Aladdin!Aladdin!VLG_Alad_040_Group12_Step12_Decorate04_StepDescription0<ActivityItem>Market Decorations</ActivityItem>.
-|
-CVillage!Aladdin!Aladdin!VLG_Alad_040_Group12_Step12_StepDescription5Make your own marketplace in Dreamlight Valley using:
-°
-NVillage!Aladdin!Aladdin!VLG_Alad_040_Group12_Step13_Decorate05_StepDescriptionO(Optional) Additional stalls from: Kristoff, Goofy, Mulan, Tiana and the Beast.
-n
-LVillage!Aladdin!Aladdin!VLG_Alad_040_Group13_Step14_Unlock01_StepDescription(Use the Scrooge McDuck Sign!)
-r
-<Village!Aladdin!Aladdin!VLG_Alad_040_Group13_StepDescription2Unlock the <ActivityItem>Gem Stall</ActivityItem>.
-|
-RVillage!Aladdin!Aladdin!VLG_Alad_040_Group14_Step15_PurchaseItem01_StepDescription&Purchase wares from the new Gem Stall.
-m
-UVillage!Aladdin!Aladdin!VLG_Alad_040_Group15_Step16_TalkToCharacter08_StepDescriptionTalk to {TargetNPC}.
-Ø
-NVillage!Aladdin!Aladdin!VLG_Alad_040_Group16_Step17_Decorate06_StepDescription]Place the {itemName} close to the Gem Stall and celebrate the opening of the new marketplace.
-|
-KVillage!Aladdin!Aladdin!VLG_Alad_040_Group17_Step18_Party01_StepDescription-Celebrate the opening of the new marketplace.
-h
-7Village!Aladdin!Aladdin!VLG_Alad_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

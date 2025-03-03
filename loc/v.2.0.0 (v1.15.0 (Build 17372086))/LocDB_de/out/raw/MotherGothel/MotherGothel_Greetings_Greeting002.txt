@@ -1,6 +1,0 @@
-TAG: MotherGothel_000_f
-{PlayerName}, what brings you to see Mother today?
-
-TAG: Player_000_exit_001_f
-Gotta go.
-

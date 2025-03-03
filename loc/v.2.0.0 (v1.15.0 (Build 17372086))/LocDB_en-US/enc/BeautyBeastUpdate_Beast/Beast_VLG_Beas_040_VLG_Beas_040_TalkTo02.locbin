@@ -1,27 +1,0 @@
-
-H
-Beast_000_f9Those three roses have been delivered â what's next?
-O
-Beast_001_f@I saved one especially beautiful rose for a very special person.
-O
-Player_000_choice_000_f4Aww, thanks Beast; how did you know I wanted a rose?
-;
-Player_000_choice_001_f Ahh, is this one going to Belle?
-O
-Beast_002_f@I... uh... Not that you don't deserve one, but it's for Belle...
-0
-Player_001_choice_000_fRelax; I was kidding!
-+
-Player_001_choice_001_fOh, fair enough!
-B
-Beast_003_f3I care for Belle. I want to make that clear to her.
-l
-Beast_004_f]Well, a rose is a perfect way to show it! I suppose you'll want some privacy for that moment?
-|
-Beast_005_fmActually... your presence would be reassuring. I am not used to being open in such a way, and I'm... nervous.
-?
-Beast_006_f0Aww! I'd be more than happy to be there for you.
-'
-Beast_007_fThank you, {PlayerName}.
-
-Beast_008_fYes, it is.

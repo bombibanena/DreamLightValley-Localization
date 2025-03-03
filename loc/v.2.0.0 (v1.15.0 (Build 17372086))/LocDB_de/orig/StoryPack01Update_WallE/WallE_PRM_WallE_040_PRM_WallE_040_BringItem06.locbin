@@ -1,89 +1,0 @@
-
-B
-WallE_000_f3OK! You've got your plant? You feeling comfortable?
-
-WallE_001_fAhh... *whistle*
-;
-WallE_002_f,Great! Let's keep going with the story then!
-8
-WallE_003_f)Last time, our hero had fallen in love...
-B
-WallE_040_f3But the vision of beauty was stolen away from them.
-
-WallE_004_fOh no!
-J
-WallE_005_f;Don't worry: Now you'll get to hear how they got out of it!
-^
-WallE_006_fO"Over a vast wasteland, the robot quested to break the spell on their beloved."
-
-WallE_007_fWhoa!
-
-WallE_008_fSo gallant!
-
-WallE_009_f"They met..."
-L
-WallE_010_f=Hmm, this part is illegible too! But it should probably be...
-"
-Player_000_choice_000_fRobots!
-!
-Player_000_choice_001_fElves!
-#
-Player_000_choice_002_fCowboys!
-
-WallE_011_fWhoa!
-
-WallE_012_fRobots like you!
-b
-WallE_013_fS"They met friendly robots and an ancient people changed by their strange new home."
-`
-WallE_014_fQ"With the help of their new friends, the heroic robot managed to lift the curse!"
-
-WallE_023_fWhaa?!
-Q
-WallE_024_fBWALLÂ·E... I must have written this for you before the Forgetting.
-
-WallE_025_fWhoa! *whistle*
-1
-WallE_026_f"The plant! It looks healthy again!
-
-WallE_027_fWhew!
-k
-WallE_028_f\I'll leave the story with you â€” now if the plant gets sick again, you can read to it also!
-
-WallE_029_fYoohoo!
-¦
-WallE_030_f–For me? Aww, WALLÂ·E, that's so nice of you! I guess you did have a lot of time to collect these things while I was searching for the Storybook Pages.
-
-WallE_015_fWhew!
-
-WallE_031_fWALLÂ·E!
-ƒ
-WallE_016_ft"They returned home with their beloved, eager to return the treasure to its rightful place where it could flourish."
-7
-WallE_017_f("And they all lived happily ever after!"
-
-WallE_018_fWhoa!
-S
-WallE_019_fDYeah, there's definitely something really familiar about this story!
-A
-WallE_020_f2Hmm, there's something written on the back here...
-
-WallE_021_fOh?
-2
-WallE_022_f#By... {PlayerName}... for WALLÂ·E?!
-a
-WallE_032_fR"With the help of their new friends, the heroic knight managed to lift the curse!"
-`
-WallE_033_fQ"With the help of their new friends, the heroic ruler managed to lift the curse!"
-
-WallE_034_fHuh?
-a
-WallE_035_fR"They met friendly elves and an ancient people changed by their strange new home."
-
-WallE_036_f	Oh! Whoa!
-c
-WallE_037_fT"They met friendly cowboys and an ancient people changed by their strange new home."
-_
-WallE_038_fP"Over a vast wasteland, the knight quested to break the spell on their beloved."
-^
-WallE_039_fO"Over a vast wasteland, the ruler quested to break the spell on their beloved."

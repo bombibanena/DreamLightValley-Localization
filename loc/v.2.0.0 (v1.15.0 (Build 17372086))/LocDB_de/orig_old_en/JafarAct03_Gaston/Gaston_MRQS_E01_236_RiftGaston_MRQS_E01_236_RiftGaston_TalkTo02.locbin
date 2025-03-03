@@ -1,25 +1,0 @@
-
-:
-Gaston_000_f*Well? What did that irritating rabbit say?
-J
-Player_000_choice_000_f/He said you threatened to turn him into a stew.
-C
-Player_000_choice_001_f(He said something about you hunting him?
-}
-Gaston_001_fmThreatened...? Ha! I was merely speculating on how easy he would be to hunt and whether it would be worth it.
-Y
-Gaston_002_fIIn the end, I decided he'd be much too stringy to make a satisfying stew.
-?
-Gaston_008_f/Let's just be clear. No hunting anyone. Got it?
-^
-Gaston_009_fN*sigh* Fine. But you won't stop me from target practice. I have to stay sharp!
-ç
-Gaston_007_f}Target practicing is okay, but forget about that for now. What's important is Oswald suggested we go on a little Island tour.
-
-Gaston_003_fAn Island tour?
-{
-Gaston_004_fkThat's right, Gaston! We need to stir up your emotions, get you thinking on some of your past heroic deeds!
-ã
-Gaston_005_f{Hmm... well, there is the place where I was first shipwrecked here on Eternity Isle. That was an exceedingly heroic moment.
-:
-Gaston_006_f*That's perfect! <Lore>Lead the way!</Lore>

@@ -1,9 +1,0 @@
-TAG: Timon_000_f
-It's Timon Talk time! How do you feel?
-
-TAG: Timon_001_f
-Great! I'm glad you're here, too, {PlayerName}. As the Ruler of this place, you'll probably learn a thing or two today.
-
-TAG: Timon_002_f
-Get ready to embrace your true potential!
-

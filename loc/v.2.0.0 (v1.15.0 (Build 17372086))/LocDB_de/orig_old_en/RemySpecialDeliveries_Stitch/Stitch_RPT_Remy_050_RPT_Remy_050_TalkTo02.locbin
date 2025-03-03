@@ -1,31 +1,0 @@
-
-,
-Stitch_000_f{PlayerName}! Stitch hungry!
-=
-Stitch_001_f-Let's have lots of food with lots of friends.
-K
-Player_000_f;Why not come by for a party at the Fairy Godmother's House?
-6
-Player_000_choice_000_fThere will be lots of food.
-9
-Player_000_choice_001_fThere will be lots of friends.
-B
-Player_000_choice_002_f'There will be lots of food AND friends.
-O
-Stitch_002_f?Okitaka! Stitch see you at nice fairy lady's big pumpkin House.
-7
-Stitch_003_f'Stitch try not to bite House this time.
-0
-Player_001_choice_000_fYou... bit her House?
-=
-Player_001_choice_001_f"Stitch! Watch your badness levels!
-,
-Player_001_choice_002_fHow did it taste?
-/
-Stitch_004_fYeah. BLECH! It not taste good.
-6
-Stitch_005_f&Don't worry. Stitch not do that again.
-,
-Stitch_006_fHer House taste icky. Blech!
-6
-Stitch_007_f&Icky! Stitch not do that again. Blech!

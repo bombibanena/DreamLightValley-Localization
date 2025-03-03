@@ -1,6 +1,0 @@
-TAG: Pumbaa_000_f
-Как мы найдем следующий <ActivityItem>Meteorite Fragment</ActivityItem>?
-
-TAG: Pumbaa_001_f
-Я еду в <Lore>try, чтобы найти место в последней памяти, которую я нашел</Lore>. Мы пойдем туда вместе!
-

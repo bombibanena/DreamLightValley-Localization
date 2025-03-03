@@ -1,23 +1,0 @@
-
-ƒ
-Woody_001_ftNice job, {PlayerName}. That looks great! Even better than the <ActivityItem>Claw Machine</ActivityItem> that broke.
-c
-Woody_002_fTNow, we just need to find the rest of the <ActivityItem>Alien Toys</ActivityItem>...
-/
-Woody_003_f Sure wish I knew where to start.
-!
-Player_000_fLet's ask Buzz...
-6
-Player_000_choice_000_fI'm sure he'd love to help.
-D
-Player_000_choice_001_f)There aren't many other toys around here.
-4
-Player_000_choice_002_fAliens are his territory.
-c
-Woody_004_fTYou're right! Since they're all space toys, they've always had a special connection.
- 
-Woody_007_fLet's go see him.
-u
-Woody_005_ffYou're right. If those <ActivityItem>Alien Toys</ActivityItem> have gone to anybody, it would be Buzz.
-W
-Woody_006_fHYou're right. Being space toys, they've always had a special connection.

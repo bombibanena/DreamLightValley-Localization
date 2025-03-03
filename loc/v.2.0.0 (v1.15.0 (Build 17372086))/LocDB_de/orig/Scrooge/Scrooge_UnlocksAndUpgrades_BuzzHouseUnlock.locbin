@@ -1,17 +1,0 @@
-
-=
-Scrooge_000_f,Ahh, {PlayerName}. How can I help you today?
-{
-Scrooge_004_fjBuzz Lightyear is coming to our Village on a top-secret mission. He needs a special mobile command center.
-ó
-Scrooge_005_fÖA mobile command center, eh? Well, I think I've got just the thing... if you're willing to pay me a reasonable price for it, that is.
-v
-Player_000_choice_000_f[Make me a command center for Buzz! (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
-3
-Player_000_choice_001_fLet me think about this.
-∂
-Scrooge_001_f§I must say, I'm lookin' forward to havin' the wee lad back in the Village. After all, beneath all that molded plastic beats the heart of an adventurer just like me.
-z
-Scrooge_002_fiOch! You don't have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.
-¢
-Scrooge_003_fêWhat's there to think about? You willnae find handiwork for this price anywhere but McDuck Construction. And I know, because I'm Scrooge McDuck!

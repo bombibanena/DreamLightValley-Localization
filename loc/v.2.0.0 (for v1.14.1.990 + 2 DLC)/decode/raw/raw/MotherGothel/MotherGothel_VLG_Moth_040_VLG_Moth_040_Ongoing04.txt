@@ -1,3 +1,0 @@
-TAG: MotherGothel_000_f
-Combine both the <ActivityItem>Fragments</ActivityItem> and the <ActivityItem>Sun Meteorites</ActivityItem> at one of your Crafting Stations.
-

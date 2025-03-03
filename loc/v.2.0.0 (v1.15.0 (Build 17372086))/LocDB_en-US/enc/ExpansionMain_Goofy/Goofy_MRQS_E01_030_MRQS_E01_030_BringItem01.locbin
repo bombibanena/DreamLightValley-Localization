@@ -1,27 +1,0 @@
-
-D
-Goofy_001_f5Gawrsh, {PlayerName}, where'd you find this old sign?
-A
-Player_000_f1I found it in Ancient's Landing on Eternity Isle.
-;
-Player_000_choice_000_f You must have had a Stall there.
-/
-Player_000_choice_001_fDoes it ring a bell?
-E
-Player_000_choice_002_f*You really do have Stalls EVERYWHERE, huh?
-&
-Goofy_003_fYa know, I think I did!
- 
-Goofy_006_fI remember now...
-m
-Goofy_000_f^I tried to bring my Stalls to Eternity Isle, but just as I was about to start sellin' stuff...
-b
-Goofy_002_fS...the Forgetting started, and I went back to Dreamlight Valley to help my friends.
-R
-Goofy_007_fCWell, maybe we could finish what you started back then and open it!
-q
-Goofy_008_fbGreat idea! Let's start with the one in Ancient's Landing. C'mon; let's go see what it looks like.
-:
-Goofy_004_f+Welp, now that ya mention it, it sure does!
-%
-Goofy_005_fA-hyuck! I guess I do.

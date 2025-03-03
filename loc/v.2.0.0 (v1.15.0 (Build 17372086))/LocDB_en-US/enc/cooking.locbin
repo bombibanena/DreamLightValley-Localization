@@ -1,86 +1,0 @@
-
-
-button_mealsMeals
-0
-button_sub_products{Placeholder}Sub Products
-G
-cookbook_buff_cooking_timer({percent,P0} faster ({hours,%h} hour[s])
-Q
-cookbook_buff_fishing_reel3Fishing reel {percent,P0} faster ({hours,%h} hours)
-I
-cookbook_buff_friendship-Friendship +{percent,P0} ({hours,%h} hour[s])
-I
-cookbook_buff_growth_timer+Grow {percent,P0} faster ({hours,%h} hours)
-`
-&cooking_ingredient_number_exeeded_desc6Be careful; there's a max of 5 Ingredients per Recipe.
-<
-'cooking_ingredient_number_exeeded_titleIngredient Issues
-2
-cooking_missing_ingredientMissing Ingredients:
-
-cooking_ready_in	Ready in:
-#
-cooking_refresh_inRefreshes in:
-6
-cooking_remaining_triesRemaining tries: {number,D}
-h
-(cooking_remi_not_enough_ingredients_desc<Oops! You don't have enough Ingredients to cook this Recipe.
-C
-cooking_remi_start_desc(Are you ready for Remy to start cooking?
-7
-cooking_start_desc!Are you ready to try this Recipe?
-
-cooking_start_remi	Let's go!
-[
-cooking_wrong_recipe_desc>Yuck! Those Ingredients don't go together! Try something else.
-
-new_recipe_label
-New Recipe
-)
-pantry_add_ingredientsAdd Ingredients
- 
-pantry_cookbook_titleRecipes
-(
-pantry_cooking_stationRemy's Kitchen
-K
-pantry_empty;Oops! You don't have any Ingredients left in this category.
-
-pantry_fridge_titlePantry
-
-pantry_shopRemy's Shop.
-%
-pantry_start_cookingStart Cooking
-
-pantry_transferTransfer
-#
-pantry_transfer_allTransfer all
-J
-pantry_transfer_desc2Do you want to transfer these items to the Pantry?
- 
-select_recipeSelect a Recipe
-
-history_titleHistory
-
-ingredient_fishFish
-
-ingredient_fruitFruit
-
-ingredient_grainGrain
-:
- ingredient_legend_bad_ingredientUnnecessary Ingredient
- 
-ingredient_legend_emptyEmpty
-9
-!ingredient_legend_good_ingredientMandatory Ingredient
-3
-ingredient_legend_good_typeVersatile Ingredient
-
-ingredient_otherOther
-
-ingredient_sea_foodSeafood
-
-ingredient_spiceSpice
-3
-ingredient_sub_product{Placeholder} Sub product
-!
-ingredient_vegetable	Vegetable

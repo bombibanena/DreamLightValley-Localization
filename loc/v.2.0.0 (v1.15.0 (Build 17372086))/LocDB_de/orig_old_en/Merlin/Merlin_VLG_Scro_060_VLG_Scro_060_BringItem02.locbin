@@ -1,33 +1,0 @@
-
-?
-Merlin_001_f/A magical map! Mm... yes, yes... let me see it.
-|
-Merlin_011_flIndeed! I've seen inscriptions of this sort before... The proper magic words should reveal what's written...
-/
-Merlin_009_fHIGITUS, FIGITUS, DIGITUS, ZOE!
-“
-Merlin_010_f‚Ah, you see, the inscription says, "Only the one who wields the Lenses of Shadows shall find what's hidden in the Here and There."
-Y
-Merlin_013_fI"Find the keys and make them whole for the treasure to be yours to hold."
-$
-Player_000_choice_000_f	The keys?
--
-Player_000_choice_001_fLenses of Shadows?
-,
-Player_000_choice_002_fAnother riddle...
-b
-Merlin_008_fRPrecisely! It seems you must find two parts of the same key and repair it somehow.
-
-Merlin_012_foOh yes. Scrooge kept something like that in safe keeping when the Forgetting happened. You should speak to him.
-Z
-Merlin_014_fJDon't fret, {PlayerName}. Magic is full of mysteries and riddles to solve!
-h
-Merlin_015_fXNow, take the map back, and focus your magic on it. It will reveal its true form to you.
-‚
-Merlin_000_frAs I mentioned, ask Scrooge about the <ActivityItem>Lenses of Shadows</ActivityItem>. He might remember something.
-3
-Merlin_003_f#And repair the key. You'll need it!
-V
-Merlin_006_fFLook for two pieces of the same key. You'll need to repair it somehow.
-¹
-Merlin_016_f¨The <ActivityItem>Lenses of Shadows</ActivityItem>... I remember Scrooge kept something like that in safe keeping when the Forgetting happened. You should speak to him.

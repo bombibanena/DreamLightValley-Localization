@@ -1,49 +1,0 @@
-
-`
-Gaston_000_fPHey, Gaston — did you do your rugged contemplation of nature? How do you feel?
-F
-Gaston_023_f6I don't blame her — I'll head to see her next, then.
-e
-Gaston_029_fUI'll come with you! You'll need someone charming like me to deal with people for you.
-A
-Gaston_004_f1Oh, uhhh, not sure if that's such a great idea...
-
-Gaston_005_fWhat? Why not?
-@
-Gaston_035_f0Actually, I have something else only you can do.
-`
-Gaston_036_fPI bet I'll find the other Scarab piece soon, and then we'll be off to the vault!
-@
-Player_005_choice_000_f%We'll need some adventuring supplies.
-C
-Player_005_choice_001_f(Can you pack some food and drink for us?
-d
-Player_005_choice_002_fII need you to talk to Jafar and get a hint of what awaits us in the Cave.
-Q
-Gaston_002_fA{PlayerName}, I make it a habit of ignoring all talk of feelings.
-:
-Gaston_016_f*Did you find the next piece of the Scarab?
-�
-Gaston_020_fsNot yet. Any chance you've got leads on the next half of the Scarab Key? Jafar said it might be in the Wild Tangle.
-{
-Gaston_021_fkThe Mirage Wizard may be right. I've been over every inch of the Dunes, and I haven't found the other half.
-j
-Gaston_003_fZ{PlayerName}, I've a thought! I once spotted a blonde girl dashing around the Wild Tangle.
-/
-Gaston_022_fMaybe the jungle girl can help.
-&
-Gaston_006_fOh, you mean Rapunzel?
-l
-Gaston_007_f\Is that her name? The one time I saw her, she took one look at Coconut LeFou and dashed off.
-d
-Gaston_037_fTYou're right. I am an expert on adventuring! I'll get the ol' explorer's pack going.
-<
-Gaston_038_f,Awesome, that's what I like to hear, Gaston.
-:
-Gaston_039_f*No one prepares for adventure like Gaston!
-b
-Gaston_040_fRGreat, I'll check back <Lore>after I talk with Rapunzel in the Wild Tangle</Lore>.
-f
-Gaston_041_fVOf course I can! I know the desert plants like the back of my incredibly muscled hand.
-I
-Gaston_042_f9The Mirage Wizard will crumble at my intense questioning!

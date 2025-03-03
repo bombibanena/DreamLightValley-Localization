@@ -1,6 +1,0 @@
-TAG: Olaf_000_f
-Well, we have to fix the <ActivityItem>Dreamlight Prism</ActivityItem>, right? Remind me: What did we need to gather?
-
-TAG: Olaf_001_f
-I need to pick the pieces up off the floor, then find some <ActivityItem>Glass</ActivityItem> to repair it and some <ActivityItem>Purified Night Shards</ActivityItem> to seal the magic.
-

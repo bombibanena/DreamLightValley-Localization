@@ -1,31 +1,0 @@
-
-l
-Scrooge_012_f[Well, what'll it be? Should I go to the trouble of hauling Woody's Carousel out of storage?
-Œ
-Player_000_choice_000_fqI'll pay the fee to get Woody's Carousel out of storage. (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
-/
-Player_000_choice_001_fI'm not paying that!
-…
-Scrooge_001_ftFine. But it's gonna need a lot of spit and polish. Dinnae worry, though. I promise you won't regret the investment.
-[
-Scrooge_010_fJOnce you've fixed it up, you'll see... there's something magical about it.
-‰
-Scrooge_002_fxOch! You don't have enough Star Coins for me to haul it out of storage! Come back when you have the funds, {PlayerName}.
-“
-Scrooge_003_fWell, come back here when you've come to your senses. A treasure like that's too valuable to leave sitting around gathering dust.
-Š
-Scrooge_000_fySo, you're lookin' to build a place in the Village for the wee sheriff with the pull string? Aye, I think I remember him.
-N
-Scrooge_004_f=And I've got just the thing in storage! It's an old carousel.
-g
-Scrooge_011_fVBefore the Forgetting, Merlin helped Woody by putting all sorts of enchantments on it.
-%
-Scrooge_008_fThat sounds perfect.
-h
-Scrooge_005_fWOch, but I'm afraid it's not a showstopper like it used to be. It's been badly damaged.
-{
-Scrooge_006_fjIt'll need some work to restore it. And with all the enchantments... well, I wouldn't know where to start.
-C
-Scrooge_007_f2Just take it out of storage, and I'll do the rest.
-O
-Scrooge_009_f>Certainly. There will, of course, be a wee administrative fee.

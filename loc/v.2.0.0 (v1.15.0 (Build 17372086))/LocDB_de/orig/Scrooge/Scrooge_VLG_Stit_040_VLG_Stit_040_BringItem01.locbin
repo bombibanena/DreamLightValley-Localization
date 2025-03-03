@@ -1,17 +1,0 @@
-
-;
-Scrooge_000_f*Aye, you've done a fine job, {PlayerName}.
-{
-Scrooge_001_fjI'll set these up in the Dream Castle. You just need to find Stitch and bring him there for a photo shoot.
-G
-Scrooge_003_f6Are you sure the wee lad has the moxie to lead a band?
-A
-Player_000_choice_000_f&Nobody's more charismatic than Stitch.
-4
-Player_000_choice_001_fIt'll take some practice.
-D
-Player_000_choice_002_f)As long as he doesn't eat the microphone.
-c
-Scrooge_004_fRWell, I'm investing a lot o' my time and resources in this. It best be profitable.
-5
-Scrooge_002_f$I'll go <Lore>talk to Stitch</Lore>.

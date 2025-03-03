@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Директива: ЕВА.
-
-TAG: EVE_001_f
-Ладно, для вашего аксессуаров-сканеров нам нужны несколько <ActivityItem>Copper</ActivityItem>, <ActivityItem>Mechanic Parts</ActivityItem>, и <ActivityItem>Ancient Gears</ActivityItem>...
-

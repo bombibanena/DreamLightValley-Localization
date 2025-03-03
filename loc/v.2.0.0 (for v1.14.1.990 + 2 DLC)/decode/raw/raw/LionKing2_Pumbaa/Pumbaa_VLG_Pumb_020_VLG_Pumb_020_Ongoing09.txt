@@ -1,6 +1,0 @@
-TAG: Pumbaa_000_f
-Hey, Pumbaa! I'm going to trade Mr. McDuck for some display pillars for our art show. I just need to <Lore>find some gemstones and flowers</Lore> to make the trade.
-
-TAG: Pumbaa_001_f
-Thanks, {PlayerName}! You're a great friend.
-

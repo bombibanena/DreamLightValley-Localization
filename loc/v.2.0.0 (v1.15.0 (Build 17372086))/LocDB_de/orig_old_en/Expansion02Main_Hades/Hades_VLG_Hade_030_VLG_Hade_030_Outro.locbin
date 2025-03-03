@@ -1,59 +1,0 @@
-
-G
-Hades_001_f8THAT'S IT! I can't take it, {PlayerName}! It's too much!
-%
-Hades_002_fWhoa, what's too much?
-5
-Hades_003_f&It's Daisy again â€” she won't let up!
-}
-Hades_004_fnHere I am, fresh off a tiring day of inspiring the masses with my... ME, and she comes over with a to-do list!
-m
-Hades_005_f^Telling me to prep for tomorrow, read this script, sign thatâ€” AHHH! I can't take it anymore!
-&
-Player_000_choice_000_fI feel you.
-7
-Player_000_choice_001_fDid you ask her for a break?
-Z
-Player_000_choice_002_f?That's the life of a celebrity for you â€” always on the grind.
-Y
-Hades_006_fJThis is supposed to be a place where we can all relax and enjoy ourselves!
-r
-Hades_007_fcExactly! People should come to ME to tell me how much they love me. I shouldn't have to go to THEM!
-8
-Hades_012_f)So is this the end of your celebrity era?
-l
-Hades_013_f]Yes, and good riddance! I just wanna lay back on my lounge chair and let the fans come to me.
-X
-Hades_014_fIAt least one good thing came out of all this â€” my merchandise sold out!
-l
-Hades_016_f]Which proves, one: I have fans; and two: Jerkules isn't the only one who can cash in on fame!
-/
-Player_001_choice_000_fOh, congratulations!
-D
-Player_001_choice_001_f)Afraid I have some bad news about that...
-X
-Hades_017_fIHmm... I can't tell if you mean that. Sheesh, I really do need some rest.
-7
-Hades_023_f(I... Fine, I'll leave you alone for now.
-:
-Hades_024_f+Good. Go. Scram! I need some time to think.
-V
-Hades_022_fGThere's gotta be an easier way for me to be thunderously appreciated...
-o
-Hades_018_f`Mr. McDuck bought up all the merchandise. He's gonna try to sell it for a higher price later on.
-
-Hades_019_fWHAT?!
-¥
-Hades_020_f•That... that... Hold on. That PROVES my star is rising! Scrooge is a savvy businessman. He wouldn't invest if he didn't think he could make a profit.
-4
-Hades_021_f%Okay, I gotta think about next steps.
-,
-Hades_015_fOh, that's awesome! Congrats!
-‡
-Hades_008_fxExcuse me, "ask"? I am not an employee or a child, {PlayerName}. I don't "ask" for anything. I'm a god. I demand things!
-7
-Hades_009_f(How'd that work out for you in the past?
-]
-Hades_010_fNI, well, uh... Look, I've got plans on plans. Everything's a work in progress.
-
-Hades_011_fIt's too much!

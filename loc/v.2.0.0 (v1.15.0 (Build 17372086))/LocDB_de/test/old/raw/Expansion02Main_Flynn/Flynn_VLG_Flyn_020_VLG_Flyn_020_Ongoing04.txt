@@ -1,6 +1,0 @@
-TAG: Flynn_000_f
-Урсула сказал собрать Ingredients для заклинания, верно? Мы можем найти <ActivityItem> Sea Monster Tooth</ActivityItem> и <ActivityItem>Salt Crystal</ActivityItem> в Everfuse.
-
-TAG: Flynn_001_f
-Мы также можем найти <ActivityItem>Lightning</ActivityItem> и <ActivityItem>Olives</ActivityItem> в Mythopia.
-

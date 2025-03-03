@@ -1,21 +1,0 @@
-
-{
-Woody_000_flSay, {PlayerName}, I'm tryin' to get some playtime goin'. I'm thinkin' a bank robbery in an old desert town.
-7
-Woody_006_f(What role do you think you'd be best at?
-)
-Player_000_choice_000_fHeroic ranger.
-.
-Player_000_choice_001_fDiabolical villain.
-"
-Player_000_choice_002_fCactus.
-d
-Woody_002_fUGood choice. And if you're lookin' for somebody to play the sheriff to your deputy...
-8
-Woody_005_f)...well, nobody's better at that than me.
-M
-Woody_003_f>So you like kidnapping folks and twirlin' your moustache, huh?
-G
-Woody_007_f8That's great. Playtime's nothing without a good villain.
-D
-Woody_004_f5Huh. Okay. Setting the scene. Well, that's important.

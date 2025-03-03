@@ -1,27 +1,0 @@
-
-^
-Sully_000_fOThe <ActivityItem>Emergency Manual</ActivityItem>! Excellent! Let's see here...
-a
-Sully_002_fRIt says that red lights mean a couple of fuses have blown and need to be replaced.
-l
-Sully_003_f]All we have to do is <Lore>replace the fuses</Lore> and <Lore>check the power lines</Lore>...
-0
-Player_000_choice_000_fWe'll save you, Mike!
-G
-Player_000_choice_001_f,... Most of those words made no sense to me.
-=
-Player_000_choice_002_f"But I'm an intern, not a mechanic!
-0
-Sully_005_f!That's right! Help is on the way!
-Ê
-Sully_007_fºI'll keep reading in case there's anything else we need to know. Could ya <Lore>search the Laugh Floor for some new fuses</Lore> and place 'em in the <Lore>Electrical Panel</Lore> there?
-t
-Sully_008_feWhen the power's on again, <Lore>check the power lines</Lore> to make sure it's all flowing properly.
-:
-Sully_009_f+That should fix the door and get Mike home.
-
-Sully_001_fpI'm really glad you're here, {PlayerName}. I definitely couldn't change these dainty parts with these huge paws.
-=
-Sully_004_f.I'm no technician, but I think we can do this.
-;
-Sully_006_f,Don't worry! This manual is REALLY detailed.

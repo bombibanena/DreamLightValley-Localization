@@ -1,61 +1,0 @@
-
-8
-Gaston_004_f({PlayerName}! You're back! I... I was...
-9
-Gaston_001_f)Err, never mind. I wasn't worried at all.
-3
-Player_000_choice_000_fAww, you were concerned?
-#
-Player_000_choice_001_f... Why?
-1
-Player_000_choice_002_fI'm fine; don't worry!
-#
-Gaston_005_fWhat? No, I wasn't!
-G
-Gaston_006_f7I never thought for a moment that you'd fail to return.
-@
-Gaston_002_f0Aww, Gaston, did my absence remind you of LeFou?
-
-Gaston_003_fNo!
-t
-Gaston_021_fdBut if it did, it's only because I'm an excellent leader to follow and not because I... miss anyone.
-3
-Player_001_choice_000_fGaston, you're adorable.
--
-Player_001_choice_001_fOkay, moving on...
-=
-Player_001_choice_002_f"It's okay; I'm not going anywhere!
-9
-Gaston_008_f)No, I'm not! I'm powerful and impressive!
-=
-Gaston_011_f-Now then, I see you got supplies from McDuck.
-N
-Gaston_012_f>Yup! He does want a cut of the profits from the lodge, though.
-
-Gaston_013_f... Profits?
-=
-Gaston_014_f-You know: the money left over after expenses?
-t
-Gaston_015_fd{PlayerName}, the lodge is a place for me to relax and for others to appreciate me, not spend money!
-]
-Gaston_016_fMWell... Scrooge won't be happy about that! He's expecting 50% of the profits.
-I
-Gaston_018_f9Hmm... I believe a share of zero is still zero, isn't it?
-f
-Gaston_019_fVYou know what? Fair enough. That's Scrooge's fault for not asking for a business plan.
-'
-Gaston_020_fLet's go fix things up!
-R
-Gaston_000_fBMarvelous! Start at the Scrooge McDuck Sign in front of the lodge.
-]
-Gaston_017_fMWell... Scrooge won't be happy about that! He's expecting 25% of the profits!
-J
-Gaston_022_f:He wanted 50%, but I managed to negotiate him down to 25%.
-(
-Gaston_023_fWell done, {PlayerName}!
-
-Gaston_009_fYes, good idea.
-*
-Gaston_010_fGood, you have work to do!
-%
-Gaston_007_fWorry? I don't worry!

@@ -1,6 +1,0 @@
-TAG: Mulan_001_f
-Thank you, {PlayerName}. These are perfect!
-
-TAG: Mulan_002_f
-<Lore>Come with me</Lore>, so we can put them in place.
-

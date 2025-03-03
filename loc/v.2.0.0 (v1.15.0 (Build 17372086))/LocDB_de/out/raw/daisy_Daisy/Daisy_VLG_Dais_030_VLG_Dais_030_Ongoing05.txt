@@ -1,6 +1,0 @@
-TAG: Daisy_000_f
-Ooh, tell me! How are you helping Minnie with her special report for the Dreamlight Gazette?
-
-TAG: Daisy_001_f
-I'm taking pictures of the <ActivityItem>Pillar of Friendship</ActivityItem>, any <ActivityItem>Statue</ActivityItem> in the <ActivityItem>Mystical Cave</ActivityItem>, and the <ActivityItem>Giant Willow Tree</ActivityItem> in the <ActivityItem>Glade of Trust</ActivityItem>.
-

@@ -1,47 +1,0 @@
-
-d
-Woody_000_fUAll right, {PlayerName}; if we're gonna rebuild Bonnie's farm just how she left it...
-V
-Woody_001_fG...we need to start by building a corral where all the cattle can live.
-M
-Woody_005_f>There's lots of supplies we can use scattered around the room.
-J
-Woody_025_f;But I don't think we're gonna find everything we need here.
-b
-Woody_002_fSDon't worry. I sent Buzz on a recon mission. He's going to help us find everything.
-C
-Woody_003_f4Smart thinking! You sure are making yourself useful.
-Y
-Woody_006_fJKeep this up and I bet you'll be one of Bonnie's favorite toys in no time.
-5
-Player_000_choice_000_fI'm not a toy. But thanks.
-L
-Player_000_choice_001_f1I mean, obviously she'd love me. I'm so lifelike.
-N
-Player_000_choice_002_f3But I don't have a cool pull string or voice box...
-N
-Woody_007_f?Oh no. Not another toy in denial. Okay, listen... You areÃ¢Â€Â”
-Q
-Woody_010_fBUh... forget it. Just tell me what I'll need to fix Bonnie's farm.
-µ
-Woody_014_f¥Well, you can start by gathering up some of the <ActivityItem>Pipe Cleaners</ActivityItem> and <ActivityItem>Ice Pop Sticks</ActivityItem> scattered around the room.
-+
-Woody_024_fGreat. I'll go gather those.
-t
-Woody_015_feOh, and watch out. They seem to be stuck to some candy. And there's a lot of paper on the floor, too.
-V
-Woody_016_fGDon't worry. My trusty Pickaxe and Shovel should take care of all that.
-£
-Woody_019_f“Great! Once you've got everything, <Lore>bring it back to me</Lore>. In the meantime, I'll start trying to figure out how to put it all together...
-]
-Woody_008_fNAnd you've got all those cool accessories. I bet they're sold separately, huh?
--
-Woody_004_fYep. Courtesy of Mr. McDuck...
-
-Woody_011_fMr. Mc-who?
-[
-Woody_009_fLHey, toys don't need a lot of snazzy features to make a kid happy. Trust me.
-L
-Woody_012_f=You just have to try to do what's best for 'em Ã¢Â€Â” always.
-J
-Woody_013_f;Speaking of which... What will I need to fix Bonnie's farm?

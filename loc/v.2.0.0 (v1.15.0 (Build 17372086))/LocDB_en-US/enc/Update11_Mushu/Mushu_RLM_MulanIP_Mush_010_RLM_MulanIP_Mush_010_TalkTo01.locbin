@@ -1,75 +1,0 @@
-
--
-Mushu_000_fWhoa! Whoa! Whoa! Who are you?
-6
-Mushu_001_f'Me? I'm {PlayerName}! Nice to meet you!
-t
-Mushu_002_feWell, {PlayerName}, how'd you find this training camp? It's supposed to be hidden. Secret. Incognito!
--
-Mushu_003_f*GASP* I get it! You're a spy!
-)
-Player_000_choice_000_fI'm not a spy!
-A
-Player_000_choice_001_f&Would a spy walk right into your camp?
-7
-Player_000_choice_002_fYou're so suspicious. Relax!
-3
-Mushu_007_f$That's exactly what a spy would say!
-#
-Mushu_008_fI promise I'm not...
-$
-Mushu_009_fAh-ah-ah! Quiet, spy!
-g
-Mushu_010_fXI know you're a spy because I have a list of the recruits we're supposed to train and...
-!
-Mushu_011_fWait. What's that?
-g
-Mushu_026_fXThere's a name at the bottom of the list. It's smudged, but it could be... {PlayerName}!
-=
-Mushu_027_f.Okay. Okay. You're not a spy. But you're late!
-<
-Mushu_006_f-Well... What do you have to say for yourself?
-4
-Player_002_choice_000_fYes, sir! I'm sorry, sir!
-G
-Player_002_choice_001_f,There seems to be a little misunderstanding.
-5
-Player_002_choice_002_fYou're not the boss of me.
-£
-Mushu_012_f“Whoa. Whoa. No need to be so formal. I'm just making sure we respect the decorum of the setting. I know you defender types just LOVE your protocol.
-%
-Mushu_015_fBy the way, I'm Mushu.
-.
-Mushu_017_fNice to meet you, {PlayerName}.
-_
-Mushu_018_fPNow I'll go back to calling you recruit Ã¢Â€Â” just play along. You'll be great.
-
-Mushu_019_fAhem...
-g
-Mushu_020_fXSo, recruit! You missed the Battle of the Rice Cauldron that marked the END of training.
-\
-Mushu_021_fMAnd since you're EXTREMELY late, you're gonna <Lore>clean up the camp</Lore>.
-<
-Player_003_choice_000_f!Message received, Sergeant Mushu.
-9
-Player_003_choice_001_fSure, I can clean up the camp.
-H
-Player_003_choice_002_f-I'll clean, but only because I've decided to.
-+
-Mushu_022_fSergeant Mushu. I like that!
-ˆ
-Mushu_025_fyNow start breaking up the <ActivityItem>Rocks</ActivityItem> and digging up the <ActivityItem>Rice Spills</ActivityItem>.
-K
-Mushu_030_f<Oh, and don't forget to <Lore>flip over the Cauldron</Lore>.
-/
-Mushu_023_f Good. Don't take too long, okay?
-L
-Mushu_024_f=Hey, as long as somebody does it, and that somebody ISN'T me!
-Œ
-Mushu_013_f}No, I understand completely. You were late! And in this camp, you're gonna learn the importance of being on time. You'll see.
-/
-Mushu_014_f Oh, I get it... Insubordination!
-8
-Mushu_028_f)Well, that's not gonna fly here, recruit!
-§
-Mushu_029_f—(Except it kinda will because this isn't the army. I just always wanted to be one of those tough drill sergeant types. You're fine. Love the attitude.)

@@ -1,27 +1,0 @@
-
-u
-Belle_000_ff{PlayerName}, I have an exciting story to tell you about a treasure hunt. Do you have time to hear it?
-6
-Player_000_choice_000_fA treasure hunt! Of course!
-+
-Player_000_choice_001_fSome other time.
-¡
-Belle_007_f‘Well, since you helped me get my memories back and set up my study again, I've continued reading through my <ActivityItem>Journal</ActivityItem>.
-P
-Belle_002_fAAnd I've discovered even more things about my past in the Valley.
-§
-Belle_010_f—It seems that right before the Forgetting began, I was on the trail of something called... <ActivityItem>The Chronicles of the Ancients</ActivityItem>.
-W
-Belle_011_fH<ActivityItem>The Chronicles of the Ancients</ActivityItem>? What is it?
-*
-Belle_012_fI think it might be a book.
-…
-Belle_013_fvBut something strange happened. There are parts of my <ActivityItem>Journal</ActivityItem> that I can't make sense of.
-c
-Belle_014_fTThe letters are shifting... shimmering. So I was wondering if you could take a look.
- 
-Belle_015_fIt's at my House.
-
-Belle_016_fI'll examine it.
-=
-Belle_003_f.I understand. Whenever you can spare a moment.

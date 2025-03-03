@@ -1,63 +1,0 @@
-
-�
-9Secret!Ratatouille!Remy!SEC_Remy_020_AvailableDescriptionvВы нашли странную кулинарную книгу, кому она может принадлежать?
-�
->Secret!Ratatouille!Remy!SEC_Remy_020_CompletedStoryDescription�Тиана вернулась и готова приготовить бурю, хотя она все еще восстанавливается после того, как оказалась запертой в кулинарной книге, она готова наверстать упущенное время захватывающей едой каджуна.
-Q
-0Secret!Ratatouille!Remy!SEC_Remy_020_DisplayNameВкус литературы
-�
-OSecret!Ratatouille!Remy!SEC_Remy_020_Group01_Step01_VisitArea01_StepDescription�Отправляйся в Чез Реми посоветоваться с загадочной кулинарной книгой.
-�
-USecret!Ratatouille!Remy!SEC_Remy_020_Group02_Step02_TalkToCharacter01_StepDescriptionlКонсультируйтесь с {TargetNPC} о таинственной кулинарной книге.
-v
-<Secret!Ratatouille!Remy!SEC_Remy_020_Group03_StepDescription6Память появилась в ресторане!
-�
-<Secret!Ratatouille!Remy!SEC_Remy_020_Group04_StepDescriptionRПоговори с {TargetNPC} о том, что ты видел в памяти.
-�
-=Secret!Ratatouille!Remy!SEC_Remy_020_Group04_StoryDescription�Вы раскрыли Память о нескольких деревенских блюдах... но какая еда и кто приготовил?!
-�
-CSecret!Ratatouille!Remy!SEC_Remy_020_Group05_Step05_StepDescription�(Привод {input_mainmenu} для доступа к меню Коллекции, чтобы посмотреть Память.)
-�
-ISecret!Ratatouille!Remy!SEC_Remy_020_Group05_Step05_StepDescriptionMobile�( Откройте главное меню для доступа к меню Коллекции, чтобы посмотреть на Память.)
-�
-<Secret!Ratatouille!Remy!SEC_Remy_020_Group05_StepDescriptionTПоговорите с деревенскими жителями из Памяти.
-\
-MSecret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess01_StepDescription{itemName}.
-\
-MSecret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess02_StepDescription{itemName}.
-\
-MSecret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess03_StepDescription{itemName}.
-\
-MSecret!Ratatouille!Remy!SEC_Remy_020_Group06_Step06_Possess04_StepDescription{itemName}.
-�
-<Secret!Ratatouille!Remy!SEC_Remy_020_Group06_StepDescriptionbСоберите остальных Ингредиентов для рецепта каджуна.
-�
-NSecret!Ratatouille!Remy!SEC_Remy_020_Group07_Step07_CookMeal01_StepDescriptionHПриготовить загадочный рецепт каджуна.
-e
-USecret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter06_StepDescription{TargetNPC}.
-e
-USecret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter07_StepDescription{TargetNPC}.
-e
-USecret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter08_StepDescription{TargetNPC}.
-e
-USecret!Ratatouille!Remy!SEC_Remy_020_Group08_Step08_TalkToCharacter09_StepDescription{TargetNPC}.
-�
-<Secret!Ratatouille!Remy!SEC_Remy_020_Group08_StepDescription|Поделитесь <ActivityItem> Enchaned Shrimp öttouffèe</ActivityItem> с деревенскими жителями.
-�
-=Secret!Ratatouille!Remy!SEC_Remy_020_Group08_StoryDescription�Может быть, совместное блюдо со всеми в Памятье поможет раскрыть загадочного шеф-повара.
-q
-USecret!Ratatouille!Remy!SEC_Remy_020_Group09_Step09_UnlockCharacter01_StepDescriptionОткрой Тиана.
-�
-DSecret!Ratatouille!Remy!SEC_Remy_020_Group10_Step10_ReadyDescriptionJПринеси немного {itemName} в {TargetNPC} для вкуса.
-�
-CSecret!Ratatouille!Remy!SEC_Remy_020_Group10_Step10_StepDescriptionpУбедитесь, что у вас осталось {itemName}, чтобы поделиться с Тиана.
-�
-SSecret!Ratatouille!Remy!SEC_Remy_020_Group11_Step11_PlaceBuilding01_StepDescription5Поместите дом Тиана в долину.
-�
-=Secret!Ratatouille!Remy!SEC_Remy_020_Group11_StoryDescription_Вы спасли Тиана из очаровательной кулинарной книги!
-�
-LSecret!Ratatouille!Remy!SEC_Remy_020_Group12_Step12_Unlock01_StepDescriptioniВступайте в контакт с Скрудж Макдак Sign to Restruction Тиана's House.
-�
-DSecret!Ratatouille!Remy!SEC_Remy_020_Group13_Step13_ReadyDescriptionEПринесите {itemName} в {TargetNPC} для хранения.
-�
-CSecret!Ratatouille!Remy!SEC_Remy_020_Group13_Step13_StepDescriptionAУбедитесь, что {itemName} в вашем списке.

@@ -1,17 +1,0 @@
-
-h
-Goofy_000_fY{PlayerName}, have I got somethin' to tell you! I caught a real funny fish the other day.
-P
-Goofy_004_fANever seen anything like it before. It was all big and puffed up.
-'
-Player_000_choice_000_fWhat was it?
-'
-Player_000_choice_001_fSounds cool!
-2
-Player_000_choice_002_fBit of a fishy story...
-m
-Goofy_002_f^Well, I showed it to Merlin, and he said it's called a <ActivityItem>Fugu</ActivityItem> fish.
-[
-Goofy_003_fLI guess it only swims up near the surface on Dazzle Beach when it's raining.
-[
-Goofy_005_fLI tossed it back, but maybe you could try fishing for it next time it rains.

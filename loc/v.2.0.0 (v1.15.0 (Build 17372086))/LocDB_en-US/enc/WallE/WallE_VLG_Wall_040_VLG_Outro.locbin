@@ -1,31 +1,0 @@
-
-$
-WallE_015_fThe machine is fixed!
-
-WallE_000_fWhoopee!
-L
-WallE_001_f=So we fixed the machine, but I still don't know what it does.
-$
-WallE_002_fWALLÂ·E! WALLÂ·E!
-X
-WallE_016_fIHa! You're raising your hand like we're in school. You know what it does?
-
-WallE_017_f	*whistle*
-?
-Player_003_choice_000_f$Is it a machine that makes Memories?
->
-Player_003_choice_001_f#Is it a machine that breaks things?
-@
-Player_003_choice_002_f%Is it a machine that finds Memories?!
-
-WallE_006_fNo.
- 
-WallE_004_fNot that? Well...
-
-WallE_003_f	*whistle*
-V
-WallE_005_fGI see! So this machine is probably the reason that the Memory appeared!
-H
-WallE_007_f9And the Memory was broken because the machine was broken.
-Q
-WallE_008_fBNow that we've repaired it, I wonder if more Memories will appear.

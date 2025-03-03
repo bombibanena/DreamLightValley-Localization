@@ -1,67 +1,0 @@
-
-D
-Moana_001_f5Hey, Moana. I've got something I need you to look at.
-“
-Moana_000_fƒSure, {PlayerName}! ... Oh, what are these...? Toys? Are you sure you want to play in the sand? Shouldn't you be saving the Valley?
-(
-Player_000_choice_000_fWhy not both?
-W
-Player_000_choice_001_f<I hope I never stop wanting to play. Even if things are bad.
-G
-Player_000_choice_002_f,These toys ARE the key to saving the Valley.
-
-Moana_002_fOkay...
-p
-Moana_005_faReally though... I'm here to ask you about these. I think they used to belong to the Forgotten...
-4
-Moana_007_f%I was hoping you might remember them.
-'
-Moana_008_fThey do look familiar...
-L
-Moana_009_f=But it's like the fog's rolled in over my memories of them...
-8
-Player_001_choice_000_fFocus on your memories of me.
-P
-Player_001_choice_001_f5Pretend you're in a canoe, sailing through the fog...
-D
-Player_001_choice_002_f)Don't worry. The memories will come back.
-h
-Moana_011_fYJust think of all the memories we've made together since you've come back to the Village.
-‘
-Moana_023_fWell, you were an amazing kid. If that's the part of you that became the Forgotten... I hope there's still some way to save them.
-^
-Moana_015_fOWhoa... That is so strange! The moment you said that, it's like the fog lifted.
-e
-Moana_016_fVI do remember these! You and I used to play with them when you were just a little kid.
-]
-Moana_017_fNIt reminded me of when I was small and played in the sand with my Gramma Tala.
-1
-Moana_018_f"How did they wind up in that cave?
-ˆ
-Moana_019_fyWell... one day, I asked you if you wanted to play, and it was like you couldn't hear me. As if you were really far away.
-K
-Moana_020_f<... That wasn't you anymore, was it? It was the Forgotten...
-”
-Moana_021_f„They threw these toys away in the cave and ran off. I was... confused, and pretty sad. It wasn't like you to do something like that.
-‘
-Moana_022_fMaybe not. But the Forgotten is a part of me. That kid who played on the Beach with you... that part of me is in there somewhere.
-c
-Moana_012_fTImagine you're wayfinding through that fog... and there's a light on the other side.
-j
-Moana_013_f[It's your memory of all the adventures we've gone on since you've been back in the Village.
-t
-Moana_014_feJust think about everything we've gone through together and all the memories you've recovered so far.
-4
-Moana_024_f%There has to be something in there...
-`
-Moana_025_fQJust spending time with you, {PlayerName}... I can feel the fog starting to lift.
-
-Moana_026_f€Maybe if we spend some more time together... if we bring back some of your memories of the past... and make some NEW memories...
-L
-Moana_027_f=...that could work. I'm sure I still have the memory somehow.
-M
-Moana_003_f>You're right. I never want you to lose your joy for adventure.
- 
-Moana_004_fWhat do you mean?
-B
-Moana_006_f3I think these toys used to belong to the Forgotten.

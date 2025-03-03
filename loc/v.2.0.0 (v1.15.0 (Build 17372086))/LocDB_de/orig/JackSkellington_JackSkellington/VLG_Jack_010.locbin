@@ -1,65 +1,0 @@
-
-w
-NVillage!Nightmare!JackSkellington!VLG_Jack_010_Any_CompletedRequestDescription%Show the picture to Jack Skellington.
-ê
-CVillage!Nightmare!JackSkellington!VLG_Jack_010_AvailableDescriptionIJack is still new to the Valley ‚Äî maybe it's time to check in with him.
-É
-HVillage!Nightmare!JackSkellington!VLG_Jack_010_CompletedStoryDescription∂With the photograph taken, Jack Skellington finally feels welcomed into the Valley. Now he can begin to investigate the mysterious connection between Dreamlight and holiday magics...
-V
-:Village!Nightmare!JackSkellington!VLG_Jack_010_DisplayNameThe Pumpkin King Returns
-^
-MVillage!Nightmare!JackSkellington!VLG_Jack_010_Group01_Step01_StepDescriptionTalk to Olaf.
-É
-XVillage!Nightmare!JackSkellington!VLG_Jack_010_Group02_Step02_CookMeal01_StepDescription'Prepare some fresh {ItemName} for Olaf.
-√
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group02_StoryDescriptionxOlaf is the first stop on the list, but he's quite upset after Jack Skellington barged in and messed with his ice cream.
-ë
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group03_Step03_BringItem01_StepDescription4Make sure you have the {itemName} in your Inventory.
-o
-NVillage!Nightmare!JackSkellington!VLG_Jack_010_Group03_Step03_ReadyDescriptionBring the {itemName} to Olaf.
-|
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to Jack Skellington.
-∂
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group04_StoryDescriptionkOlaf's ice cream has been replaced, but it seems Ursula is the next victim of Jack Skellington's curiosity?
-ñ
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group05_Step05_TalkToCharacter03_StepDescription3Go see Ursula to introduce her to Jack Skellington.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem02_StepDescription{itemName}.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem03_StepDescription{itemName}.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem04_StepDescription{itemName}.
-h
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_BringItem05_StepDescription{itemName}.
-|
-NVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_ReadyDescription*Bring what you've gathered to {TargetNPC}.
-r
-MVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_Step06_StepDescription!Gather the following Ingredients:
-‰
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group06_StoryDescriptionòUrsula also seems to have had a prior run-in with Jack Skellington, where he left her potion collection in shambles. Time to clean up after him again...
-|
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group07_Step07_TalkToCharacter04_StepDescriptionTalk to Jack Skellington.
-ì
-VVillage!Nightmare!JackSkellington!VLG_Jack_010_Group08_Step08_Listen01_StepDescription9Follow Jack Skellington and listen to what he has to say.
-|
-_Village!Nightmare!JackSkellington!VLG_Jack_010_Group09_Step09_TalkToCharacter05_StepDescriptionTalk to Jack Skellington.
-„
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group09_StoryDescriptionóJack spoke with the Fairy Godmother, but to your surprise, instead of messing around, you found them engaged in a pleasant conversation about pumpkins.
-f
-WVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_Step10_Possess01_StepDescription{itemName}.
-f
-WVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_Step10_Possess02_StepDescription{itemName}.
-p
-MVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_Step10_StepDescriptionGather the following materials:
-€
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group10_StoryDescriptionèJack worries that the Villagers aren't aware that he's the Pumpkin King and so enlists your help in building a throne to display in the Valley.
-Å
-YVillage!Nightmare!JackSkellington!VLG_Jack_010_Group11_Step11_CraftItem01_StepDescription$Craft a throne for the Pumpkin King.
-ì
-XVillage!Nightmare!JackSkellington!VLG_Jack_010_Group12_Step12_Decorate01_StepDescription7Place the Pumpkin King's Throne anywhere in the Valley.
-°
-[Village!Nightmare!JackSkellington!VLG_Jack_010_Group13_Step13_TakePicture01_StepDescriptionBTake a picture of the Pumpkin King's Throne with Jack Skellington.
-Œ
-GVillage!Nightmare!JackSkellington!VLG_Jack_010_Group13_StoryDescriptionÇThe throne is now in the Valley and looks quite regal! A picture with Jack Skellington should be good to commemorate the occasion.
-r
-AVillage!Nightmare!JackSkellington!VLG_Jack_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

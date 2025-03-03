@@ -1,33 +1,0 @@
-
-P
-Scrooge_001_f?Aye? What's this? Are ya bringin' me rubbish now, {PlayerName}?
-|
-Player_001_flYou're not gonna believe this. I found ANOTHER one of your shops on Eternity Isle. It had this sign on it...
-;
-Player_001_choice_000_f It could be a great opportunity.
-7
-Player_001_choice_001_fIt's in need of some repair.
-P
-Player_001_choice_002_f5But I'm not sure even you could save this business...
-w
-Scrooge_005_ffGlad to hear you're thinking in terms of new ventures, {PlayerName}. But this one isn't exactly new...
-^
-Scrooge_003_fMI'm afraid even the best-laid business plans aren't always a roaring success.
-6
-Scrooge_008_f%That shop was one of my few failures.
-
-Scrooge_009_fHow so?
-q
-Scrooge_010_f`Well, there's a lot to consider when opening a business. Timing bein' one of the most important!
-¥
-Scrooge_011_f“I decided to open this shop too early... AND too late. Not long after Eternity Isle was discovered, when Villagers first started to settle there...
-~
-Scrooge_012_fm...folks were more interested in gawking at the scenery than shopping. Then the Forgetting started to happen.
-A
-Scrooge_013_f0So, I decided to cut my losses. But now maybe...
-[
-Scrooge_014_fJOch! Let's go see the shop on Eternity Isle. I'll decide what to do there.
-1
-Scrooge_006_f Oh no! Not that money pit again!
-8
-Scrooge_007_f'Aye, I certainly couldn't do it then...

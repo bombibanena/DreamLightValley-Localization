@@ -1,53 +1,0 @@
-
-z
-Jafar_018_fkNow, {PlayerName}, let us not overreact to this situation. I am certain we can come to an... understanding.
-U
-Jafar_020_fFTell me what you want, and I will do all I can to help you acquire it.
-?
-Player_002_choice_000_f$No weaseling out of this one, Jafar.
-5
-Player_002_choice_001_fI want justice for Oswald.
-<
-Jafar_021_f-Are you saying we cannot discuss this matter?
-.
-Jafar_022_fThat's exactly what I'm saying.
-:
-Jafar_000_f+Well, go on then; what are you waiting for?
-z
-Jafar_001_fkThrow me back in a lamp. I shall continue to plan until another opportunity presents itself... and it will.
-A
-Jafar_002_f2Actually... I think I have something else in mind.
-
-Jafar_003_fButâ€”
-=
-Player_000_choice_000_f"Jafar, speechless? That's a first!
-(
-Player_000_choice_001_fYou heard me.
-‰
-Jafar_004_fzLook, I've realized something. When I let you out at first, that wasn't a real chance because I wanted something from you.
-
-Jafar_013_fGood.
-J
-Player_001_choice_000_f/I KNOW that there's a spark of goodness in you.
-X
-Player_001_choice_001_f=To be honest, I don't trust that you'll rise to the occasion.
-[
-Jafar_005_fLSo you get a REAL chance now. No stipulations, no requirements, no bargains.
-…
-Jafar_006_fvJust ONE more chance to show the care and compassion that every other member of this community lives on a daily basis.
-:
-Jafar_007_f+I... do not know what to say, {PlayerName}.
-6
-Jafar_008_f'Don't say anything now â€” just listen.
-x
-Jafar_009_fiYour lab has been dismantled, and we'll be keeping an eye on you. Consider yourself on probation for now.
-U
-Jafar_011_fFYou get one more shot, and please, please Jafar, don't waste this one.
-;
-Jafar_012_f,I... yes, I will take careful consideration.
-L
-Jafar_014_f=And I want it to have a fair shake at getting to the surface.
-:
-Jafar_016_f+So please, Jafar, for once, try to be good.
-w
-Jafar_015_fhBut part of being a good person is holding out a helping hand, even if you don't think it will be taken.

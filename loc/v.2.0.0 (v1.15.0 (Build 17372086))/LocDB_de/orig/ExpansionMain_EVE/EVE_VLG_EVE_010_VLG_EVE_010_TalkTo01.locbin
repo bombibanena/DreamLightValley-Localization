@@ -1,30 +1,0 @@
-
-"
-	EVE_001_fSo, did you have fun?
-
-	EVE_002_fWhooo!
-P
-	EVE_003_fCSee? Not everyone out there is an enemy. No need to be so stressed.
-
-	EVE_005_fWhat's next?
-
-	EVE_004_fWALL·E?
-(
-Player_000_fYou wanna see WALL·E...
--
-Player_000_choice_000_fWhat a great idea!
-4
-Player_000_choice_001_fAny reason in particular?
-A
-Player_000_choice_002_f&Shouldn't you focus on yourself first?
-
-	EVE_006_f	Whoo-hoo!
-
-	EVE_007_f
-Directive!
-5
-	EVE_010_f(Oh, you want me to follow you! Let's go!
-
-	EVE_008_fNo! WALL·E!
-Y
-	EVE_009_fLHmm... I guess you had more than enough time to do that while on your own...

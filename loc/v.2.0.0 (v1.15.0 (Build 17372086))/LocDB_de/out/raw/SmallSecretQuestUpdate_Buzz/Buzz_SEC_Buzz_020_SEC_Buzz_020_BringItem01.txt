@@ -1,9 +1,0 @@
-TAG: Buzz_000_f
-Well done, {PlayerName}! The Aliens who've wandered home have been located.
-
-TAG: Buzz_001_f
-I believe there are only a few missing <ActivityItem>Aliens</ActivityItem> left. But they're going to take all of our skills to find.
-
-TAG: Buzz_002_f
-I'll keep patrolling. In the meantime... I thought you might appreciate another Space Ranger Supply Kit.
-

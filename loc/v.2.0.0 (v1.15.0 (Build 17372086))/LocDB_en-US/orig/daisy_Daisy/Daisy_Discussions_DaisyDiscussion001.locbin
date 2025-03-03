@@ -1,31 +1,0 @@
-
-C
-Daisy_000_f4Oh, {PlayerName}, what am I going to do with Donald?
-o
-Daisy_001_f`Whenever he makes a mistake he gets SO mad at himself. I can't ever seem to talk sense into him.
-=
-Player_000_choice_000_f"He does get upset really easily...
-*
-Player_000_choice_001_fHelp him learn?
-7
-Player_000_choice_002_fHe needs positive self talk.
-:
-Daisy_002_f+And that's where the problem always starts.
-X
-Daisy_003_fISomething goes wrong. Then he loses his temper and EVERYTHING goes wrong.
-I
-Player_001_choice_000_f.At least he's a swell guy when he's not angry.
-6
-Player_001_choice_001_fDo you think he can change?
-£
-Daisy_004_f“He is. He's kind, charming, loving... He just needs to be those things to himself. You know what? I'm gonna go tell him that. Thanks, {PlayerName}!
-–
-Daisy_005_f†Oh, I don't want him to change. I just want him to calm down and be kinder to himself. Hmm... maybe we should try meditating together.
-C
-Daisy_006_f4I'm trying. And to give him credit, he's trying too.
-d
-Daisy_007_fUThat's what you do when you care about someone, right? You help them help themselves!
-
-Daisy_008_fYou're right!
-K
-Daisy_009_f<Maybe I should come up with some daily affirmations for him!

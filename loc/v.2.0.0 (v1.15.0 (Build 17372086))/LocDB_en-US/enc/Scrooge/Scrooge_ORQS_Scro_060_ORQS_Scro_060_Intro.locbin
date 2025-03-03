@@ -1,15 +1,0 @@
-
-Å
-Scrooge_000_fpOch, {PlayerName}, I'm afraid the Frosted Heights have never drawn many visitors. They're colder than the Yukon.
-m
-Scrooge_001_f\O'course, if you could make that forbidding, frosty place a little more warm and inviting...
-6
-Player_000_f&...I'll make it a perfect place for...
-1
-Player_000_choice_000_f...building a snowman.
-:
-Player_000_choice_001_f...enjoying a cup of hot cocoa.
-9
-Player_000_choice_002_f...going cross-country skiing.
-[
-Scrooge_002_fJAye, nobody can turn around a piece of real estate like you, {PlayerName}.

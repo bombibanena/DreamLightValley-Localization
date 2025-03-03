@@ -1,47 +1,0 @@
-
-e
-Daisy_002_fV{PlayerName}, what would you say to throwing a party to celebrate our amazing Village?
-+
-Player_000_choice_000_fLet's celebrate!
-'
-Player_000_choice_002_fMaybe later.
-6
-Daisy_003_f'Fantastic, I was hoping you'd say that!
-Q
-Daisy_005_fBThe way I see it, you can throw a party for just about any reason.
-N
-Daisy_006_f?Big events, little wins Ã¢Â€Â” everything should be celebrated!
-(
-Player_001_choice_000_fYes! Exactly!
-9
-Player_001_choice_001_fI mostly celebrate big events.
-P
-Player_001_choice_002_f5I'd love to celebrate, but parties feel overwhelming.
-I
-Daisy_007_f:Wow, we really are similar! I'm so glad we see eye to eye.
-¶
-Daisy_010_f¦Now, I've already done most of the planning, so there are just a few final details to take care of. I ordered the <ActivityItem>Gala Banquet</ActivityItem> from Remy.
-‚
-Daisy_011_fsWould you be a doll and get it for me? I have to put the finishing touches on the gala's secret, surprise location!
-&
-Player_002_choice_000_fI'll do it!
-6
-Player_002_choice_001_fYour excitement is amazing.
-9
-Player_002_choice_002_fAnother day, another errand...
-(
-Daisy_001_fYou're an absolute peach!
-C
-Daisy_015_f4Please <Lore>talk to Remy</Lore> as soon as you can.
-•
-Daisy_000_f…Well, I just LOVE throwing parties. I can't help it! And why would I? Oh, and about that <ActivityItem>Gala Banquet</ActivityItem>...
-”
-Daisy_014_f„Oh, {PlayerName}, I know how hard you work. I want this gala to celebrate all you've accomplished since you came to the Valley, too.
-O
-Daisy_016_f@It's just one itty-bitty favor before the event begins, promise!
-Û
-Daisy_008_fËI understand that. You want to make the big things count. So do I. But I also think the little things deserve celebrating too. Like how nice the Village looks, the fact that we're together... Everything!
-›
-Daisy_009_f‹Oh, don't worry. I'll make sure the music isn't too loud and that it's not too crowded. This will be a beautiful get-together with friends.
-?
-Daisy_004_f0Just don't wait too long. I have fabulous plans!

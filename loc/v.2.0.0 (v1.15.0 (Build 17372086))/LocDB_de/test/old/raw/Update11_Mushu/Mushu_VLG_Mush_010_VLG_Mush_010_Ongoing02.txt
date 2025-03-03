@@ -1,6 +1,0 @@
-TAG: Mushu_000_f
-Вы возвращаетесь в наш тренировочный лагерь <Lore></Lore>, чтобы поймать нам <ActivityItem>Lucky Bugs</ActivityItem>, верно?
-
-TAG: Mushu_001_f
-Значит, нам повезло построить статую <ActivityItem>the Great Stone Dragon</ActivityItem>?
-

@@ -1,45 +1,0 @@
-
-k
-Mulan_003_f\Hey, {PlayerName}! Would you like to join some other Villagers and me for a fun competition?
-'
-Player_000_choice_000_fI volunteer!
-'
-Player_000_choice_001_fMaybe later.
-i
-Mulan_004_fZGreat! I've been keeping up with my daily regime, and some other Villagers have joined in!
-Æ
-Mulan_006_fûWe've even started training together. This morning, we were discussing how teamwork is crucial to success. Mother Gothel overheard and started to laugh at us.
-]
-Mulan_007_fNShe said that the only person you can truly depend on for success is yourself.
-0
-Player_001_choice_000_fThat sounds like her.
-3
-Player_001_choice_001_fMother Gothel works out?
-+
-Player_001_choice_002_fShe has a point.
-t
-Mulan_008_feI challenged her to a contest. My team against her, alone, in a "capture the flag" style competition.
-/
-Mulan_011_f Would you like to be on my team?
-6
-Player_002_choice_000_fOf course, I love teamwork!
->
-Player_002_choice_001_f#Sure, but for fun. Not competition.
-D
-Player_002_choice_002_f)Yep. Mother Gothel needs a reality check.
-
-Mulan_015_fGreat!
-i
-Mulan_013_fZYou should probably tell Mother Gothel you've joined us. I don't want her to be surprised.
-L
-Mulan_014_f=I'm headed to my tactical table to make a plan. See you soon!
-D
-Mulan_000_f5That's totally fine. I'm glad to have you on my team.
-3
-Mulan_002_f$Maybe just a lesson in being humble?
-e
-Mulan_009_fVNot with us, but I guess she has some sort of routine. I know I see her walking a lot.
-ë
-Mulan_010_fÅI don't agree. There are some things a lone defender can do on their own, but I believe in the strength of many working together.
-/
-Mulan_005_f Okay. I hope you come back soon!

@@ -1,25 +1,0 @@
-
-=
-Mirabel_000_f,{PlayerName}, how are you? Just checking in.
-W
-Mirabel_001_fFYou do a lot around here, which kind of reminds me of my sister Luisa.
-W
-Mirabel_002_fFAnd people who take on a lot... well, sometimes they take on too much.
-4
-Player_000_choice_000_fI'm just getting started!
-:
-Player_000_choice_001_fMaybe I should relax some more.
-A
-Player_000_choice_002_f&I'm cracking under all the pressure!!!
-X
-Mirabel_003_fGReally? Okay. As long as you're feeling good about it, I say go for it!
-I
-Mirabel_004_f8And hey, you know I'm always here if you need some help.
-K
-Mirabel_005_f:Yes! Do that! Lay back. Find a hammock. Enjoy the weather.
-{
-Mirabel_006_fjThat's one thing my family's learned recently. It's important to notice when you're carrying way too much.
-`
-Mirabel_007_fO¡Ayyy! That's not good. And, in case you didn't know, your eyelid's twitching.
-Q
-Mirabel_008_f@If you're overdoing it, you need to take some time for yourself.

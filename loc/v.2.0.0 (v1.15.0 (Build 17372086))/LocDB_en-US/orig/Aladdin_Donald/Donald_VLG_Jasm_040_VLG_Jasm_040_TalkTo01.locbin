@@ -1,55 +1,0 @@
-
-P
-Donald_000_f@Hello, Donald! I heard you were having a problem with some fish?
-)
-Donald_001_fThat's one way to put it.
-7
-Donald_002_f'I'm being TORMENTED by old stinky fish!
-W
-Donald_003_fGFish, fish, fish! Everywhere fish! And not even nice fresh fish either!
-9
-Player_000_choice_000_fDid someone bring them to you?
-2
-Player_000_choice_001_fWhy not throw them out?
-:
-Player_000_choice_002_fSounds like you need less fish.
-6
-Donald_004_f&No! They just appeared out of nowhere!
-3
-Donald_007_f#It must be some sort of FISH MAGIC!
-1
-Donald_008_f!Wait... Fish magic or WISH magic?
-
-Donald_009_fHuh?
-A
-Player_001_choice_000_f&Did you wish for these fish to appear?
-0
-Player_001_choice_001_fYou know what I mean.
-E
-Player_001_choice_002_f*Never mind; it's probably just fish magic.
-l
-Donald_010_f\Um... Maybe. BUT IT'S NOT MY FAULT! I was just so frustrated by how few fish I was catching.
-*
-Donald_017_fAnd did you WISH for them?
-V
-Donald_018_fFWell sure, I guess I did, but what does that have to do with anything?
-e
-Donald_019_fUI think some sort of wish magic is loose in the Valley, but I can't be sure just yet.
-€
-Donald_022_fpLet me <Lore>clean up the stinky fish</Lore> for you, and then I'll figure out how to get to the bottom of this.
-
-Donald_011_fNo, I don't.
-R
-Donald_013_fBCome on; something tells me you wished for these fish, didn't you?
-H
-Donald_015_f8Maybe I WAS frustrated by how few fish I was catching...
-6
-Donald_012_f&Okay, but WHAT is fish magic, anyway?!
-J
-Donald_014_f:I have no idea. Has anything else unusual happened lately?
-T
-Donald_016_fDNo. But I HAVE been frustrated by how few fish I've been catching...
-X
-Donald_005_fHI tried that! But the more I pick up, the more appear all over my House!
-C
-Donald_006_f3I KNOW that! But they just appeared out of nowhere!

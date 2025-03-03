@@ -1,6 +1,0 @@
-TAG: Flynn_000_f
-Could you put the <ActivityItem>Book Signing Setup</ActivityItem> somewhere in the Valley?
-
-TAG: Flynn_001_f
-When that's done, we can <Lore>go to the book signing</Lore> and make all of my adoring fans happy!
-

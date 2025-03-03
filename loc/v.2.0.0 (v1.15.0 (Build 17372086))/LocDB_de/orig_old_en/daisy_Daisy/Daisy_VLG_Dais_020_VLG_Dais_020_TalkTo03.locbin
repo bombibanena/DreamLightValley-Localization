@@ -1,23 +1,0 @@
-
-=
-Daisy_000_f.Welcome to our last photo shoot, {PlayerName}!
-r
-Daisy_004_fcYour fantastic pictures showcased how relaxed you can look wearing our line for a day at the beach.
-W
-Daisy_001_fHBut now we want to show how to create a look for a more glamorous event.
->
-Player_001_choice_000_f#High fashion? In a castle? Love it!
-.
-Player_001_choice_001_fWhat kind of event?
-5
-Player_001_choice_002_fThis seems over the top...
-0
-Daisy_006_f!I just KNEW you'd see the vision!
-y
-Daisy_007_fjI'll trust you with the styling. Could you pick an outfit while I finish getting things ready with Minnie?
-ß
-Daisy_003_fÏI'm seeing something <ActivityItem>Purple</ActivityItem> and a pair of <ActivityItem>Elegant Shoes</ActivityItem>, along with that original <ActivityItem>Shirt by "Dots & Daisies","</ActivityItem> of course!
-z
-Daisy_002_fkOh, a gala, a ball, a fancy date... something that makes you want to elevate your fashion to another level.
-X
-Daisy_005_fIOver the top is my favorite place to go. We're going to have so much fun!

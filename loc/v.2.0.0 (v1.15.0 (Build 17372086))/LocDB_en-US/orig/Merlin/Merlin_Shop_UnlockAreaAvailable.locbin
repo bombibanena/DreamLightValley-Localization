@@ -1,21 +1,0 @@
-
-E
-Merlin_000_f5{Placeholder}Hi! Would you like to unlock this Biome?
-9
-Player_000_choice_000_f{Placeholder}Yes, let's do it.
-=
-Player_000_choice_001_f"{Placeholder}Not now. I am scared.
-5
-Player_000_choice_002_f{Placeholder}What is this?
-5
-Merlin_001_f%{Placeholder}Here we go: a new Biome.
-V
-Merlin_002_fF{Placeholder}It's okay. There could be new evils and dangers in there.
--
-Merlin_003_f{Placeholder}Open up a Biome.
-‘
-Merlin_016_f€{Placeholder}You cannot unlock this Biome. You need {UpgradePrice} Dreamlight and have {CharactersUnlocked} Characters unlocked.
-E
-Player_001_choice_000_f*{Placeholder}Okay, I will get what I need.
-4
-Merlin_017_f${Placeholder}Good, git gud my child.

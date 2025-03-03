@@ -1,81 +1,0 @@
-
-�
-NVillage!Cinderella!FairyGodMother!VLG_Fair_030_Any_CompletedRequestDescription2Возвращайся к Крепости Феи.
-�
-CVillage!Cinderella!FairyGodMother!VLG_Fair_030_AvailableDescription�Фея-крестная слишком много брала на плечи и снова просит вас помочь с ее заданиями, принеся немного Пепперминт Чая на Минни Маус.
-�
-HVillage!Cinderella!FairyGodMother!VLG_Fair_030_CompletedStoryDescription�Теперь, когда каждый объект вернулся к своей предполагаемой форме, пришло время вернуться к Крепости Феи.
-b
-:Village!Cinderella!FairyGodMother!VLG_Fair_030_DisplayName$Биббиди-Боббиди-Упс
-�
-NVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group01_Step01_ReadyDescriptionXПринесите <ActivityItem>Peppermint Tea</ActivityItem> на Минни Маус.
-�
-MVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group01_Step01_StepDescriptionjУбедитесь, что у вас в списке есть <ActivityItem>Peppermint Tea</ActivityItem>.
-�
-[Village!Cinderella!FairyGodMother!VLG_Fair_030_Group02_Step02_TakePicture01_StepDescription~Сфотографируй объект, который выглядит неуместным в доме Минни Маус.
-�
-GVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group02_StoryDescription�Получив чай, Минни Маус просит вас поговорить с Крёстной Феей о проблеме с зачарованным фонографом, который возвращается к своей предыдущей явке каждую ночь.
-�
-_Village!Cinderella!FairyGodMother!VLG_Fair_030_Group03_Step03_TalkToCharacter01_StepDescription2Возвращайся к Крепости Феи.
-f
-WVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess01_StepDescription{itemName}.
-f
-WVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess02_StepDescription{itemName}.
-f
-WVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess03_StepDescription{itemName}.
-f
-WVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess04_StepDescription{itemName}.
-�
-_Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step05_TalkToCharacter02_StepDescriptionGСпросите ВАЛЛ·И для <ActivityItem>Lens</ActivityItem>.
-n
-FVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group04_StepDescription$Соберите материалы:
-�
-GVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group04_StoryDescription�Фея-крестная придумал, как исправить ее заклинания, которые пошли не так, и чтобы сделать это, вам придется создать новый Lens для своей камеры.
-h
-YVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem02_StepDescription{itemName}.
-h
-YVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem03_StepDescription{itemName}.
-h
-YVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem04_StepDescription{itemName}.
-h
-YVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem05_StepDescription{itemName}.
-h
-YVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem06_StepDescription{itemName}.
-�
-NVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_ReadyDescription=Принеси материалы к Крепости Феи.
-�
-MVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_StepDescription]Убедитесь, что эти материалы включены в ваш список:
-�
-[Village!Cinderella!FairyGodMother!VLG_Fair_030_Group06_Step07_ConsumeItem01_StepDescription]Используйте <ActivityItem>Enchaned Lens</ActivityItem> в вашем списке.
-�
-[Village!Cinderella!FairyGodMother!VLG_Fair_030_Group07_Step08_TakePicture02_StepDescription�Сфотографируйте <ActivityItem>Broken Object</ActivityItem> в доме Минни Маус с 16:00 до полуночи.
-�
-GVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group07_StoryDescription�С твоей новой и улучшенной камерой, Крёстная Фея просит тебя исправить ее чары, которые пошли не так.
-�
-[Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture03_StepDescription4Новый желтый велосипед Гуфи.
-�
-[Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture04_StepDescription4Новая машина "Эспрессо" Реми.
-y
-[Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture05_StepDescriptionПарасоль Олаф.
-�
-[Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture06_StepDescription+Матушка Готель зеркало.
-�
-FVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group08_StepDescription�Сфотографируйте <ActivityItem> Transformed Объекты</ActivityItem> в деревне с 16:00 до полуночи.
-�
-KVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group09_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br> Что мне нужно сделать?
-�
-XVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group09_Step10_CookMeal01_StepDescriptionqПриготовить несколько <ActivityItem>Peppermint Tea</ActivityItem> для Минни Маус.
-�
-KVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group01_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
-�
-KVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
-�
-KVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group05_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
-�
-KVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group06_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
-�
-KVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group07_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
-�
-KVillage!Cinderella!FairyGodMother!VLG_Fair_030_Group08_OngoingRequestButton4<smallcaps>{title}</smallcaps><br> Что я ищу?
-r
-AVillage!Cinderella!FairyGodMother!VLG_Fair_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

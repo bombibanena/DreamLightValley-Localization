@@ -1,54 +1,0 @@
-
-+
-Jafar_002_fJafar? You wanted to see me?
-h
-Jafar_003_fYIndeed! An exciting development has occurred that I wish to share with you, {PlayerName}.
- 
-Player_000_choice_000_fSure!
-2
-Player_000_choice_001_fSorry, can't right now.
--
-Jafar_004_fAre you familiar with alchemy?
-+
-Player_001_choice_000_fUhh, not really.
-K
-Player_001_choice_001_f0A little! Haven't dabbled too much in it though.
-O
-Jafar_005_f@It is the art of transmutation, wherein a base metal is refined.
-k
-Jafar_007_f\I have been expanding my research, and I believe that I have uncovered an alchemical secret.
-(
-Jafar_008_fHow exciting! What is it?
-Q
-Jafar_009_fBIf I am correct... I will be able to craft the famed Gilded Stone!
-$
-Player_002_choice_000_f	The what?
-I
-Player_002_choice_001_f.Wow Jafar... that's actually quite impressive.
-e
-Jafar_010_fVThe Gilded Stone ‚Äî an alchemical tool that allows one to turn base metals into gold.
-@
-Jafar_017_f1Wow, that would save me a lot of pumpkin farming.
-=
-Jafar_018_f.Of course YOU would have such pedestrian aims.
-%
-Player_003_choice_000_f
-Wow, rude.
-3
-Player_003_choice_001_fSalt of the earth, I am.
-≤
-Jafar_015_f¢If you wish to aid me in this, we will require <ActivityItem>Iron Dust</ActivityItem>. Should we succeed, it will enrich not only yourself, but the entire Valley.
-ç
-Jafar_016_f˝The ore is easy enough to find, but I require greater tools to reduce it to the dust necessary for my first alchemical experiment ‚Äî transforming that dust into gold. Understanding the process will give us more information about how to craft the stone.
-.
-Jafar_013_fHmm, lemme touch base with EVE.
-Q
-Jafar_014_fBMaybe her laser could reduce the ore down to a dust like you need.
-F
-Jafar_012_f7The flying automaton has such abilities? Fascinating...
-d
-Jafar_019_fUAll right, I'll be back soon enough with some <ActivityItem>Iron Dust</ActivityItem>.
- 
-Jafar_011_fIt is, is it not?
-G
-Jafar_006_f8Good. Then I shall not need to educate you on the topic.

@@ -1,6 +1,0 @@
-TAG: Moana_007_f
-I have to make sure my canoe's ready for a long journey.
-
-TAG: Moana_000_f
-Right! I'll find some <ActivityItem>Wood</ActivityItem> and <ActivityItem>Silk</ActivityItem>!
-

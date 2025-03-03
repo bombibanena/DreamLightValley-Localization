@@ -1,9 +1,0 @@
-TAG: Buzz_000_f
-Нам нужно поместить все вокруг нашей базы для церемонии, то есть посадочную площадку для нашего <ActivityItem>Ship</ActivityItem>, используя <ActivityItem>Asphalt</ActivityItem>...
-
-TAG: Buzz_001_f
-...и <ActivityItem> Blue Balloon Arch</ActivityItem>. Все должно быть установлено рядом с RV...
-
-TAG: Buzz_002_f
-...в штабе Звездного Командования.
-

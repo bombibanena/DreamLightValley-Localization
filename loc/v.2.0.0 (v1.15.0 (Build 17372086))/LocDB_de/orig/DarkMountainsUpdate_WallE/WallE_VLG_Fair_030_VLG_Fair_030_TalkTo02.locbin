@@ -1,35 +1,0 @@
-
-
-WallE_000_f
-Directive?
-U
-WallE_001_fFHi, WALL·E! I need a <ActivityItem>Lens</ActivityItem> for my camera.
-
-WallE_002_f
-Ooooohh...
-
-WallE_003_fOh! Oh, oh!
-N
-Player_000_f>No, that's a <ActivityItem>Fire Extinguisher</ActivityItem>...
-*
-Player_000_choice_000_fBut nice try...
-7
-Player_000_choice_001_fIsn't it the one I gave you?
-X
-Player_000_choice_002_f=If you manage to take a picture with that, I'll be impressed.
-
-WallE_004_fUh... Ah...
-X
-WallE_005_fII need a <ActivityItem>Lens</ActivityItem>. Here, you can have this back.
-
-WallE_006_fHmm...
-
-WallE_007_fWhoa!
-)
-WallE_008_fYes, that's it! Thank you!
-
-WallE_009_fTa-da!
-
-WallE_010_fEeee...
-
-WallE_011_fHuh?

@@ -1,67 +1,0 @@
-
-=
-Hades_001_f.Okay Hades, your statues have all been set up.
-H
-Hades_002_f9Finally! I thought my flames were gonna start going gray!
-.
-Player_000_choice_000_fThat's... possible?
-7
-Player_000_choice_001_fI didn't know you could age.
-2
-Player_000_choice_002_fSorry, I got caught up!
-<
-Hades_003_f-Sheesh, comedy's not your strong suit, is it?
-I
-Hades_004_f:Go see an Aristophanes play and get back to me, all right?
-(
-Hades_005_fDo you like your statues?
-¢
-Hades_006_f’Ya know, I really do. You captured my stature, my commanding presence... I was worried I'd have to hire Phidias, yet â€” hey â€” you surprised me.
-
-Hades_007_fBut...
-A
-Player_001_choice_000_f&There's always a "but," isn't there...
-C
-Player_001_choice_001_f(But you need more help with something...
--
-Player_001_choice_002_fWait, lemme guess.
-…
-Hades_008_fvHey, leave the sarcasm to me, okay? It just doesn't have the right bite without a few millennia of cynicism behind it.
-Ž
-Hades_023_fOh, and take some initiative too, would ya? I'll be busy. It's the one day a month I have to listen to the dead's grievances...
-)
-Hades_010_fOkay, so what do you want?
-Ì
-Hades_011_f¼I don't know... respect. Adoration. Constant groveling. Basically, everything I'm due. But everyone here is so... nice. I can't trust 'em to be honest about the changes I made around here.
-R
-Hades_012_fCSo I need you to go incognito and listen in on what they're saying.
-F
-Hades_013_f7You sure you don't want me to just ask people directly?
-E
-Hades_014_f6NO! People lie. They butter you up for their own gain.
-±
-Hades_015_f¡No, you need to <Lore>disguise yourself and listen in</Lore> at some kind of agora space where everyone gathers, like the uh... the <Lore>Library of Lore</Lore>!
-q
-Hades_021_fbGet yourself some <Lore>Rustic Green and Brown</Lore> clothing â€” should help you blend right in.
-.
-Hades_022_fAll right, I'll give it a shot.
-?
-Hades_009_f0Do my eyes deceive me? A Fate... with two eyes?!
-8
-Player_002_choice_000_fYou want to get back at Zeus.
-9
-Player_002_choice_001_fYou need to contact the Fates.
-@
-Player_002_choice_002_f%You feel inadequate compared to Zeus.
-A
-Hades_017_f2Well, yes, eternally... but that's not THIS thing.
-
-Hades_018_fWRONG!
-A
-Hades_019_f2Wow, I ask for an assistant and I get a therapist.
-U
-Hades_020_fFTrust me, {PlayerName}; you're not ready for what's really in my head.
-R
-Hades_000_fCThat's fair â€” you don't want me in there, and I don't want to go.
-X
-Hades_016_fIWell, lucky for you I can let bygones be bygones... for those who grovel.

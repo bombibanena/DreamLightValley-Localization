@@ -1,21 +1,0 @@
-
-0
-Scrooge_000_fYou found it all, {PlayerName}!
-r
-Scrooge_001_faTruth be told, I wasn't positive the glasses would really work, but I thought it was worth a try.
-o
-Scrooge_002_f^Now, there's only one last thing to do... You need to repair the key so we can open the chest!
-T
-Scrooge_003_fCWith a little bit of gold, you should be able to weld 'em together.
-&
-Player_000_choice_000_fGold Coins.
-C
-Player_000_choice_001_f(<ActivityItem>Gold Ingot</ActivityItem>.
-c
-Scrooge_004_fRWhat are you sayin'? You want me to give you Gold Coins so you can repair the key?
-@
-Scrooge_005_f/Sorry, but my fortune's not to be trifled with.
-o
-Scrooge_006_f^Go out there and prospect some Gold for yourself. I'll talk to you again when the key's fixed.
-r
-Scrooge_007_faAye, I suppose you'll have to go prospect some Gold. I'll talk to you again when the key's fixed.

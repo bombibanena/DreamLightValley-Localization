@@ -1,37 +1,0 @@
-
-d
-Belle_000_fU{PlayerName}, were you able to make sense of my <ActivityItem>Journal</ActivityItem>?
-]
-Belle_001_fNThere was a page from the <ActivityItem>Ruler's Diary</ActivityItem> in there.
-“
-Belle_004_fƒIt mentioned something about <ActivityItem>The Chronicles of the Ancients</ActivityItem> being on an island away from the Valley...
--
-Belle_002_fIt's not in Dreamlight Valley?
-1
-Belle_003_f"Oh no, that means it's lost to us.
-¦
-Player_000_f•I found Ariel stuck on an island away from the Valley... And she found a lot of mysterious artifacts below the water there, so maybe she can help us.
-2
-Player_000_choice_000_fI'm sure we'll find it.
->
-Player_000_choice_001_f#Don't lose your sense of adventure.
-?
-Player_000_choice_002_f$She could have collected it already.
-#
-Belle_005_fI hope you're right.
-5
-Belle_011_f&I'd really like to solve this mystery!
-Œ
-Belle_012_f}I'll go ask Ariel if she ever found something like <ActivityItem>The Chronicles of the Ancients</ActivityItem> on her island.
-J
-Belle_009_f;You're right. There's always another way to look at things.
-+
-Belle_010_fOh, that would be wonderful!
-^
-Player_001_fNI found Ariel stuck on an island away from the Valley... Maybe she can help...
-2
-Player_001_choice_000_fI'm sure we'll find it.
->
-Player_001_choice_001_f#Don't lose your sense of adventure.
-?
-Player_001_choice_002_f$She could have collected it already.

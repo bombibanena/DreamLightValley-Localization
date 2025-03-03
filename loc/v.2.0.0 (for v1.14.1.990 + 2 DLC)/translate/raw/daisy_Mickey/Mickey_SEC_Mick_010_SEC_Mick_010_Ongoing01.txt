@@ -1,6 +1,0 @@
-TAG: Mickey_000_f
-Дейзи возвращается в Долину, но ее дом не подстроен!
-
-TAG: Mickey_001_f
-Не могли бы вы убедиться, что она <ActivityItem>House</ActivityItem> готова, {PlayerName}?
-

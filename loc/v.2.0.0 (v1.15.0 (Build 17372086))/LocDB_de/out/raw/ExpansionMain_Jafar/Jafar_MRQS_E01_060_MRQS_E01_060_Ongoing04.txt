@@ -1,9 +1,0 @@
-TAG: Jafar_000_f
-Did you go to the creature's House?
-
-TAG: Jafar_001_f
-Yes, it's full of <ActivityItem>piles of stuff EVE has collected</ActivityItem>.
-
-TAG: Jafar_002_f
-Then relocate the items and see if you can find something useful!
-

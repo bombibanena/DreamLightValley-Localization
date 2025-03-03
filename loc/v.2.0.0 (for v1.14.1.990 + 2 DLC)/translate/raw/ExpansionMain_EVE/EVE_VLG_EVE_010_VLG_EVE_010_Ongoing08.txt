@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Хм...
-
-TAG: EVE_001_f
-О, верно, я ищу <ActivityItem>BnL Picnic Blancet</ActivityItem> и <ActivityItem>BnL Trashcan Plannter</ActivityItem>.
-

@@ -1,15 +1,0 @@
-
-]
-HRepeatable!Event!Park!RPT_Mick_DailyPark_Any_CompletedRequestDescriptionReturn to Mickey.
-P
-=Repeatable!Event!Park!RPT_Mick_DailyPark_AvailableDescriptionTalk to Mickey.
-U
-4Repeatable!Event!Park!RPT_Mick_DailyPark_DisplayNameDreamlight Parks Fest: Mickey
-p
-RRepeatable!Event!Park!RPT_Mick_DailyPark_Group01_Step01_CookMeal01_StepDescriptionCook some Minnie Cupcakes.
-œ
-GRepeatable!Event!Park!RPT_Mick_DailyPark_Group02_Step02_StepDescriptionQ(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)
-q
-@Repeatable!Event!Park!RPT_Mick_DailyPark_Group02_StepDescription-Deliver the Minnie Cupcakes to any Villagers.
-l
-;Repeatable!Event!Park!RPT_Mick_DailyPark_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

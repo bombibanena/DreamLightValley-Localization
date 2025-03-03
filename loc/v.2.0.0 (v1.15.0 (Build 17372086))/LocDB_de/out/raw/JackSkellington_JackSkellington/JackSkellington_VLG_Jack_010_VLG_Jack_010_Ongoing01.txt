@@ -1,6 +1,0 @@
-TAG: JackSkellington_000_f
-Time to meet some Villagers! Are you as excited as I am, {PlayerName}?
-
-TAG: JackSkellington_001_f
-Yeah! Let's go talk to Olaf first.
-

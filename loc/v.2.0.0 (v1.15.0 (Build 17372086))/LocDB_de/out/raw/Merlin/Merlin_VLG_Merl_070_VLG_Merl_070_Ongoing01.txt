@@ -1,6 +1,0 @@
-TAG: Merlin_000_f
-You'll need <ActivityItem>Night Shards</ActivityItem> and <ActivityItem>Dream Shards</ActivityItem> to create <ActivityItem>Purified Night Shards</ActivityItem>.
-
-TAG: Merlin_001_f
-Speak to WALLÂ·E and see if he can crush them into powder.
-

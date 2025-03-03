@@ -1,9 +1,0 @@
-TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_060_AvailableDescription
-Вы нашли кое-какие странные вещи во время тренировки в Мулан Smalm.
-
-TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_060_DisplayName
-Обучение сокровищам
-
-TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_060_Group01_StepDescription
-Принесите то, что нашли на Мулан.
-

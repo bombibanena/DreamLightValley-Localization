@@ -1,13 +1,0 @@
-
-¢
-Scrooge_000_fêSeein' as how Chez Remy is the only restaurant in town, opening it back up would be a smart investment. Besides, I could really use a night out.
-v
-Player_000_choice_000_f[Let's open Chez Remy. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
-3
-Player_000_choice_001_fPerhaps some other time.
-Q
-Scrooge_001_f@Well done, {PlayerName}! Finally, we can have the Grand Opening!
-z
-Scrooge_004_fiOch! You don't have enough Star Coins to open Chez Remy! Come back when you have the funds, {PlayerName}.
-s
-Scrooge_002_fbCurse me kilts! Stop wasting my time and find me when you're serious about investing in Chez Remy.

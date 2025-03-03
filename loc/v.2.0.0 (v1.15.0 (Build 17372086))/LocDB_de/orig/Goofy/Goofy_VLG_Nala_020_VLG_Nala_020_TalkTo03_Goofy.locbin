@@ -1,41 +1,0 @@
-
-^
-Goofy_003_fOSay, {PlayerName}, I think there might be something fishy goin' on around here.
-5
-Player_000_choice_000_fWhat makes you think that?
-,
-Player_000_choice_001_fIs that a pun...?
-,
-Player_000_choice_002_fWhat else is new?
-b
-Goofy_005_fSSee, I was fishin' down near Dazzle Beach, and I saw this funny thing in the water.
-n
-Goofy_006_f_Right. There's some sort of mystical rift. Nala and I are trying to figure out what's going on.
-3
-Goofy_007_f$Yep, I saw that, but that's not all.
-j
-Goofy_008_f[I cast out my line near the rifty thing, and then I saw this funny fish swimmin' out of it!
-7
-Player_001_choice_000_fWhat did the fish look like?
-,
-Player_001_choice_001_fDid you catch it?
-(
-Player_001_choice_002_fFunny... how?
-_
-Goofy_010_fPYa know how lotsa fish are sleek and kinda pretty? This wasn't like that at all.
-t
-Goofy_011_feIt had big bulgin' eyes comin' outta the top of its head. And it was glowing real odd-like and shiny.
-F
-Goofy_009_f7One look at it, and I hightailed it back to the Meadow!
-i
-Goofy_013_fZI didn't wanna lose another fishin' rod tryin' to catch it. I'm on my fifth one this week.
-P
-Goofy_014_fAUncle Scrooge says he's gonna have to start ordering 'em in bulk!
-x
-Goofy_015_fiJust leave this whole fishy situation to me. I'll try <Lore>catching the weird fish near the rift.</Lore>
-.
-Goofy_012_fNuh-uh. It looked like trouble.
-X
-Goofy_000_fIWell, I didn't mean it to be, but now that you mention it, I guess it is!
-t
-Goofy_001_feHmm... I s'pose we do have a lot of fishy things going on in the Village. But this one's EXTRA fishy.

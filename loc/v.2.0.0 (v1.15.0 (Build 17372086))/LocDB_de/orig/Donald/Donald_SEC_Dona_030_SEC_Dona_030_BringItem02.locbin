@@ -1,33 +1,0 @@
-
-%
-Donald_000_fOh boy! Look at that!
-P
-Donald_008_f@<Lore>"PLEASE PLACE BEACON TO INITIATE LANDING PROTOCOL."</Lore>
->
-Donald_013_f.<Lore>"KEEP CLEAR FOR YOUR OWN SAFETY."</Lore>
-$
-Donald_009_fWhat does that mean?
-g
-Donald_010_fWI think it means this thing is some kind of <ActivityItem>Homing Beacon</ActivityItem>.
-[
-Donald_015_fKWe need to put this down somewhere, and then the alien spaceship will land.
-c
-Donald_011_fSAnd then we can catch the sock-stealing space aliens! Smart thinking, {PlayerName}.
-g
-Donald_012_fWNow no one will doubt me the next time I see something suspicious going on around here.
-_
-Donald_014_fOLet's <Lore>put it down on Skull Rock off Dazzle Beach</Lore>, just to be safe.
-P
-Donald_001_f@That's proof. That piece of claw had to come from a space alien.
-S
-Donald_002_fCDo you still have that <ActivityItem>Strange Device</ActivityItem>?
-0
-Donald_003_f You bet! And it's beeping a lot.
-J
-Donald_004_f:I'm gonna put the claw piece in it and see what happens...
-&
-Donald_005_fWAK! What's it doin'?!
-3
-Donald_006_f#It's all lit up. The screen says...
-F
-Donald_007_f6<Lore>"DNA MATCH. AUTHORIZATION 100% COMPLETE."</Lore>

@@ -1,57 +1,0 @@
-
-'
-Hades_001_fNice work, {PlayerName}.
-Q
-Hades_002_fBAnd just to show you I'm all about your development as a minion...
-b
-Hades_017_fSI'm promoting you again! You're going from associate minion to intermediate minion.
-E
-Player_001_choice_000_f*How about "director of minion operations"?
-K
-Player_001_choice_001_f0I deserve to at least be "senior minion" by now.
-C
-Player_001_choice_002_f(For the last time. I am NOT your minion.
-•
-Hades_020_f…Take my word for it, kid. You're a great contributor. Don't be too eager to get into management. You would not believe the headaches!
-L
-Hades_006_f=And since you already cleared all the ink blocking the way...
-}
-Hades_007_fnIt's time to head inside the palace on Mount Olympus. Which is great! Don't get me wrong. Except for the mess.
-P
-Hades_008_fAYou've got your work cut out for ya, {PlayerName}. So, get to it!
-S
-Hades_009_fDBut first, you're gonna have to clear all that ink blocking the way.
-m
-Hades_021_f^Ambition noted, but you gotta start small and work your way up. It's business; what can I say?
-k
-Hades_005_f\But hey, it looks like the rest of the torches around the gate to Mount Olympus have lit up!
-W
-Hades_022_fH*sigh* Look, fine. At your next annual review, we can talk title change.
-O
-Hades_023_f@Flunky, lackey, henchperson, whatever. We'll work something out.
-@
-Hades_019_f1Tell you what. I think it's time for a promotion.
-H
-Hades_003_f9I'm moving you up from junior minion to associate minion.
->
-Player_000_choice_000_f#Do I have any new responsibilities?
-8
-Player_000_choice_001_fWill there be a pay increase?
-6
-Player_000_choice_002_fI'm not your minion, Hades.
-O
-Hades_004_f@Obviously. I expect you to work at least twice as hard. Minimum.
-h
-Hades_010_fYOh, hey! Looks like another one of those torches around the gate to Mount Olympus lit up.
-\
-Hades_011_fMWhich means we need to find one more of these Mythic Trials to open the gate.
-M
-Hades_012_f>Try <Lore>investigating that flaming torch</Lore> to the east.
-g
-Hades_013_fXYou'll have to start by <Lore>clearing away all the ink</Lore> around the place, though.
-•
-Hades_014_f…You already cleared away the ink blocking <Lore>the huge torch</Lore> to the east. Try looking around for another Mythic Trial there.
-Z
-Hades_015_fKYeah, afraid not. But really, you're in this for the experience, aren't ya?
-9
-Hades_016_f*With that attitude, you won't be for long.

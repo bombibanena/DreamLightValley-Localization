@@ -1,29 +1,0 @@
-
-\
-Moana_000_fMHey, {PlayerName}! I was exploring some of the caves on Dazzle Beach earlier.
-{
-Moana_001_flIf you haven't visited them already, you definitely should. Some of the artifacts in there are so beautiful!
-'
-Moana_003_fI wonder who built them.
-"
-Player_000_choice_000_fMerlin?
-!
-Player_000_choice_001_fGoofy?
-2
-Player_000_choice_002_fSomebody we don't know.
-)
-Moana_002_fI asked Merlin about them.
-O
-Moana_004_f@He kept muttering "Curious, curious..." and went to his library.
-+
-Moana_005_fSo I don't think it was him.
-\
-Moana_006_fMHm, I don't think Goofy would build something like what I saw in those caves.
-;
-Moana_007_f,But I'll ask him. Maybe he knows about them.
-—
-Moana_008_f‡You're probably right. Whoever built the artifacts in those caves must've lived here a really long time ago, before any of us got here.
-&
-Moana_010_fI wonder who they were?
-q
-Moana_009_fbWe should be careful not to disturb anything down there... but it's amazing to see what they made.

@@ -1,29 +1,0 @@
-
-D
-Description5{Placeholder}Cook 5 meal for each type of ingredient.
-A
-Description_000.{Placeholder}Cook 5 meals that contain Fruits.
-E
-Description_0012{Placeholder}Cook 5 meals that contain Vegetables.
-A
-Description_002.{Placeholder}Cook 5 meals that contain Spices.
-B
-Description_003/{Placeholder}Cook 5 meals that contain SeaFood.
-?
-Description_004,{Placeholder}Cook 5 meals that contain Fish.
-@
-Description_005-{Placeholder}Cook 5 meals that contain Grain.
-'
-Name{Placeholder}Cooking Mini Event
-(
-Name_000{Placeholder}Fruits are Good
-/
-Name_001#{Placeholder}Vegetables are healthy
-)
-Name_002{Placeholder}Spices are spicy
-)
-Name_003{Placeholder}Seafood is fresh
-,
-Name_004 {Placeholder}Fishs are nutritive
--
-Name_005!{Placeholder}Grains are mandatory

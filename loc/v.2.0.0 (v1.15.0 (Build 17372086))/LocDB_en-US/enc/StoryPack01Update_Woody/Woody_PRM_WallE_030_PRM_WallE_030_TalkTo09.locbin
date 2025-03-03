@@ -1,27 +1,0 @@
-
-g
-Woody_000_fXThe mission has been accomplished, and the Forest cleared of nefarious villain activity.
-*
-Woody_001_fPhew! Thanks, {PlayerName}.
-/
-Woody_002_f Buzz will be happy to hear that.
-Q
-Woody_003_fBDoes this mean you're clear to come cut a rug with the rest of us?
-#
-Woody_004_fYou betcha, partner!
-6
-Woody_005_f'Just gotta go get my party boots ready!
--
-Player_000_choice_000_fPolishing them up?
->
-Player_000_choice_001_f#Making sure they contain no snakes?
-[
-Woody_006_fLYeah. Heh-heh. That's what I meant seein' as how I've only got the one pair.
-
-Woody_007_fUnderstood.
-?
-Woody_008_f0Well, I've got to go check in with the progress.
-'
-Woody_009_fSee you in a bit, Woody!
-V
-Woody_010_fGActually, mine don't come off, but if they did, I'd definitely do that.

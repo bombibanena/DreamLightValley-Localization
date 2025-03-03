@@ -1,81 +1,0 @@
-
-H
-Sully_000_f9Hey there! You must be the intern we've been waiting for!
-…
-Sully_015_fvYou picked a strange day to show up, though, because... uh Ã¢Â€Â” nobody else did. We have no idea where everybody is!
-p
-Sully_016_faAnd we're in a real tight jam. Monstropolis needs power, but this is not a two-monster operation.
-?
-Player_002_choice_000_f$How about a THREE-monster operation?
-@
-Player_002_choice_001_f%Seems like you need some extra hands.
-K
-Player_002_choice_002_f0So unprofessional. What kind of company is this?
-
-Sully_019_fpWell, usually it takes dozens of monsters to keep this place running... Did I mention that I'm glad you're here?
-s
-Sully_021_fdLook at it this way: You're gonna get some hands-on experience on a Laugh Floor your very first day.
-ƒ
-Sully_023_ftYa know... I don't mean to be rude but, uh, you're a little human-shaped. I've never seen a monster like you before.
-A
-Player_004_choice_000_f&I retracted my extra arms before work.
-E
-Player_004_choice_001_f*Human-shaped? Ha! I get that all the time!
-H
-Player_004_choice_002_f-Inappropriate! I'm calling Monster Resources!
-,
-Sully_025_fOh, okay. No need to explain.
-P
-Sully_028_fAIt's just that it's company policy. No humans on the Laugh Floor.
-c
-Sully_027_fTIf human adults knew about us, it'd be... Sheesh, I don't even wanna think about it.
-,
-Sully_007_fWell, welcome to the company!
-n
-Sully_001_f_I'm James P. Sullivan, CEO... But please, call me Sulley. And over there? That's Mike Wazowski.
-!
-Player_000_fI'm {PlayerName}!
-?
-Player_000_choice_000_f$I can't wait to start my internship!
-0
-Player_000_choice_001_fCan I call him Mikey?
-A
-Player_000_choice_002_f&I'm DEFINITELY a monster, not a human.
-2
-Sully_003_f#Gotta love that go-getter attitude!
-w
-Sully_005_fhWhy don't we get you started while Mike and I figure out how to run this place with just three monsters.
-n
-Sully_029_f_We had our Laugh Power launch party a couple days ago and this Laugh Floor needs a little work.
-È
-Sully_006_f¸We already swept up all the confetti and took down the decorations. Could you <Lore>clean up the rest of the party trash</Lore> and <Lore>rinse away the slug slime on the floor</Lore>?
-7
-Player_001_choice_000_fI'll get started right away!
-*
-Player_001_choice_001_f... Slug slime?
-8
-Player_001_choice_002_fYou want me to pick up trash?
-H
-Sully_009_f9Great! I appreciate that positive attitude, {PlayerName}.
-i
-Sully_011_fZI'm sure there's something around here that can help ya <Lore>rinse the slime away</Lore>.
-2
-Sully_014_f#Don't worry! I've got my own tools.
-E
-Sully_013_f6Nice! Well, come back and see me when you're finished.
-\
-Sully_008_fMYou bet. Those slugs know how to dance but... Phew, it really leaves a trail.
-`
-Sully_010_fQHey, everybody starts somewhere. Mike and I worked our way up from the mail room.
-˜
-Sully_002_fˆUh... If you want my advice, call him "Mr. Wazowski" until he tells you otherwise. Mike'll like it if you make him feel like a big deal.
-c
-Sully_004_fTRight! Okay. Great. Although it's kind of weird you felt the need to reiterate that.
-4
-Sully_024_f%Do you? That's uh... that's a relief.
-'
-Sully_026_fWait! No! I can explain.
-D
-Sully_018_f5No kidding. I was kinda hoping you'd have eight arms.
-U
-Sully_020_fFTrust me: This has never happened before. We are the best of the best.

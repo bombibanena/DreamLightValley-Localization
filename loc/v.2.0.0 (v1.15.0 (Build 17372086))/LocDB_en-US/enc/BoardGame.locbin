@@ -1,112 +1,0 @@
-
-"
-Aladdin!Jafar_DisplayNameJafar
-.
-!BeautyBeast!Cogsworth_DisplayName	Cogsworth
-(
-BeautyBeast!Gaston_DisplayNameGaston
-*
-BeautyBeast!Lumiere_DisplayNameLumiere
-_
-%Cinderella!Cinderella_Description_0006Removes herself from the board at the start of turn 5.
-/
-!Cinderella!Cinderella_DisplayName
-Cinderella
-t
-!Cinderella!FairyG_Description_000OGives a +1 Move buff to all adjacent ally figurines at the end of her movement.
-0
-Cinderella!FairyG_DisplayNameFairy Godmother
-
-Frozen!Anna_DisplayNameAnna
-¸
-Frozen!Elsa_Description_000˜Leaves ice patches on tiles she passes. Any figurine that crosses an ice patch will slide to the next tile (this does not affect Characters who "jump").
-
-Frozen!Elsa_DisplayNameElsa
-'
-Frozen!Kristoff_DisplayNameKristoff
-
-Frozen!Olaf_DisplayNameOlaf
-M
-!LiloStitch!Stitch_Description_000(Can pass through walls and destroy them.
-'
-LiloStitch!Stitch_DisplayNameStitch
-!
-LionKing!Nala_DisplayNameNala
-]
-LionKing!Pumbaa_Description_001:Destroys all surrounding walls at the end of his movement.
-%
-LionKing!Pumbaa_DisplayNamePumbaa
-i
-LionKing!Rafiki_Description_000FPushes away all nearby figurines by 1 tile at the end of his movement.
-%
-LionKing!Rafiki_DisplayNameRafiki
-ª
-LionKing!Scar_Description_000ˆCan finish his movement on the same tile as another figurine. The other figurine is removed from the board and returned to their player.
-!
-LionKing!Scar_DisplayNameScar
-#
-LionKing!Simba_DisplayNameSimba
-u
-Mermaid!Ursula_Description_000SGives a -1 Move buff to all adjacent opponent figurines at the end of her movement.
-$
-Mermaid!Ursula_DisplayNameUrsula
-á
-Mickey!Daisy_Description_000ÀCan finish her movement on the same tile as another figurine. The figurine on the occupied tile is sent to Daisy's original tile at the start of her turn. One coin is stolen from the opponent.
-!
-Mickey!Daisy_DisplayNameDaisy
-(
-Mickey!Donald_DisplayNameDonald Duck
-!
-Mickey!Goofy_DisplayNameGoofy
-)
-Mickey!Mickey_DisplayNameMickey Mouse
-)
-Mickey!Minnie_DisplayNameMinnie Mouse
-N
-Mickey!Scrooge_Description_000,Gets one extra coin at the end of each turn.
-,
-Mickey!Scrooge_DisplayNameScrooge McDuck
-S
-Moana!Moana_Description_0004Increases movement by 1 for every turn on the board.
- 
-Moana!Moana_DisplayNameMoana
-ã
-'MonsterInc!MikeWazowski_Description_000·At the end of his movement, gives a +1 Collect Coin buff to a random ally within a 1-tile range. Buffed figurines collect +2 coins instead of +1 coins OR +4 coins instead of +3 coins.
-4
-#MonsterInc!MikeWazowski_DisplayNameMike Wazowski
-Ð
-!MonsterInc!Sulley_Description_000ªPushes away nearby opposing figurines by 2 tiles at the end of his movement. If the opposing figurine is pushed onto a tile with a coin, the player collects the token(s).
-'
-MonsterInc!Sulley_DisplayNameSulley
-a
-Oswald!Oswald_Description_000@Movement that does not collect a coin ends this figurine's turn.
-#
-Oswald!Oswald_DisplayNameOswald
-]
-Ralph!Ralph_Description_000>Destroys all surrounding obstacles at the end of his movement.
- 
-Ralph!Ralph_DisplayNameRalph
-$
-Ratatouille!Remy_DisplayNameRemy
-{
-#SwordInStone!Merlin_Description_000TAt the start of his turn, changes one silver coin within his range to one gold coin.
-)
-SwordInStone!Merlin_DisplayNameMerlin
-f
-Tangled!Flynn_Description_001EPlaces a silver coin on his previous tile at the end of his movement.
-"
-Tangled!Flynn_DisplayNameFlynn
-j
- Tangled!Rapunzel_Description_000FCollects up to 3 coins from adjacent tiles at the end of her movement.
-(
-Tangled!Rapunzel_DisplayNameRapunzel
-y
-ToyStory!Forky_Description_001WAt the end of the turn, he removes himself from the board and cannot be played anymore.
-#
-ToyStory!Forky_DisplayNameForky
-
-Walle!EVE_DisplayNameEVE
-i
-Walle!WallE_Description_000JAt the end of his movement, he pushes all nearby figurines away by 1 tile.
-$
-Walle!WallE_DisplayName	WALLÃ‚Â·E

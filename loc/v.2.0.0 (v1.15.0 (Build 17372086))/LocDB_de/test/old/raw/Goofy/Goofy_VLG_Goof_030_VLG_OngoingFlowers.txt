@@ -1,9 +1,0 @@
-TAG: Goofy_000_f
-Продолжай фотографировать цветы!
-
-TAG: Goofy_001_f
-В Плазе есть <ActivityItem>Dandelions</ActivityItem> и <ActivityItem>Falling Penstemons</ActivityItem>.
-
-TAG: Goofy_002_f
-И <ActivityItem>Daisies</ActivityItem> и <ActivityItem>Rising Penstemons</ActivityItem> в Медоу.
-

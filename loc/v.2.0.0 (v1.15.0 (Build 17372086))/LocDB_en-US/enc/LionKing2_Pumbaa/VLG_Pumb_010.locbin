@@ -1,75 +1,0 @@
-
-]
-DVillage!LionKing!Pumbaa!VLG_Pumb_010_Any_CompletedRequestDescriptionCheck in with Pumbaa.
-f
-9Village!LionKing!Pumbaa!VLG_Pumb_010_AvailableDescription)Pumbaa seems troubled. Check in with him.
-è
->Village!LionKing!Pumbaa!VLG_Pumb_010_CompletedStoryDescriptionÃPumbaa has made his triumphant return to Chez Remy! He and Timon even resolve not to give up cheesecake, deciding to only eat it outside. Well-fed and cleaned up, Pumbaa is one happy and grateful warthog.
-C
-0Village!LionKing!Pumbaa!VLG_Pumb_010_DisplayNameSomething's Off
-è
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group01_Step01_StepDescriptionHAsk the following Villagers why they left Chez Remy when Pumbaa entered:
-e
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group01_Step01_TalkToCharacter01_StepDescription{TargetNPC}.
-e
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group01_Step01_TalkToCharacter02_StepDescription{TargetNPC}.
-Æ
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group01_StoryDescriptionÏPumbaa confides that he cleared out Chez Remy just by walking in. It's reminding him of his younger days at the watering hole, and he's worried about history repeating itself. Embarrassed, he asks you to look into what happened for him.
-ä
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group02_Step02_TalkToCharacter03_StepDescription1Ask {TargetNPC} about Pumbaa's restaurant orders.
-¬
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group02_StoryDescriptionÄDaisy and Elsa reveal that Pumbaa has some poor table manners and bad breath, and that his signature scent has returned. You reflect that Pumbaa did not smell during your time with him in the jungle and head to speak to Remy to see what might have changed.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_BringItem01_StepDescription{itemName}.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_BringItem02_StepDescription{itemName}.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_BringItem03_StepDescription{itemName}.
-l
-DVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_ReadyDescription$Bring the test meals to {TargetNPC}.
-k
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group03_Step03_StepDescription$Cook the following meals for Pumbaa:
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess01_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess02_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess03_StepDescription{itemName}.
-\
-MVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_Possess04_StepDescription{itemName}.
-n
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group04_Step04_StepDescription'Gather materials for Pumbaa's mud bath:
-Ä
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group04_StoryDescriptionæYou and Remy determine that Pumbaa is eating a lot of something he's never had access to before: cheese. You cook some Onion Puffs to test this theory, and some other cheese-free foods for Pumbaa to enjoy. After that, you want to get him feeling good enough to go inside the restaurant again, starting with a mud bath.
-f
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group05_Step05_CraftItem01_StepDescriptionCraft a {itemName}.
-û
-NVillage!LionKing!Pumbaa!VLG_Pumb_010_Group06_Step06_Decorate01_StepDescriptionLPlace Pumbaa's <ActivityItem>Mud Bath</ActivityItem> anywhere in the Valley.
-}
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group07_Step07_TalkToCharacter04_StepDescription$Tell {TargetNPC} it's mud bath time.
-Ä
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group08_Step08_TalkToCharacter05_StepDescription'Ask {TargetNPC} for a breath freshener.
-z
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group08_Step08_TalkToCharacter06_StepDescription!Ask {TargetNPC} for a toothbrush.
-x
-UVillage!LionKing!Pumbaa!VLG_Pumb_010_Group08_Step08_TalkToCharacter07_StepDescriptionAsk {TargetNPC} for toothpaste.
-≥
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group08_StoryDescriptionrWhile Pumbaa enjoys his mud bath, you speak with Minnie, Sulley, and the Beast in search of oral hygiene supplies.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_BringItem04_StepDescription{itemName}.
-^
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_BringItem05_StepDescription{itemName}.
-Å
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_BringItem06_StepDescription.Gather some {itemName} in the Frosted Heights.
-h
-DVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_ReadyDescription Bring everything to {TargetNPC}.
-r
-CVillage!LionKing!Pumbaa!VLG_Pumb_010_Group09_Step09_StepDescription+Search the Beast's and Sulley's Houses for:
-p
-OVillage!LionKing!Pumbaa!VLG_Pumb_010_Group10_Step10_VisitArea01_StepDescriptionMeet Pumbaa inside Chez Remy.
-k
-LVillage!LionKing!Pumbaa!VLG_Pumb_010_Group11_Step11_Listen01_StepDescriptionListen to Pumbaa and Timon.
-Ÿ
-=Village!LionKing!Pumbaa!VLG_Pumb_010_Group11_StoryDescriptionóFreshly bathed with brushed teeth, Pumbaa is ready to head into Chez Remy to meet Timon. He's a little nervous to go alone and asks you to go with him.
-h
-7Village!LionKing!Pumbaa!VLG_Pumb_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

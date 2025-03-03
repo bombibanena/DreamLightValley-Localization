@@ -1,6 +1,0 @@
-TAG: Mushu_000_f
-Вы делаете пару полных декораций <ActivityItem>Modular Dragon</ActivityItem>, верно?
-
-TAG: Mushu_001_f
-Это означает <ActivityItem>Head</ActivityItem>, пару частей <ActivityItem>Body</ActivityItem>, и <ActivityItem>Tail</ActivityItem> для каждого.
-

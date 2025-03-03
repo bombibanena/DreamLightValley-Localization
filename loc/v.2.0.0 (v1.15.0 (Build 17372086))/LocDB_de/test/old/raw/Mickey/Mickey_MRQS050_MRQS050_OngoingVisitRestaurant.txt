@@ -1,6 +1,0 @@
-TAG: Mickey_001_f
-Теперь, когда мы знаем, что ищем... мы просто должны выяснить, где это!
-
-TAG: Mickey_000_f
-<ActivityItem>Memory</ActivityItem> поможет нам.
-

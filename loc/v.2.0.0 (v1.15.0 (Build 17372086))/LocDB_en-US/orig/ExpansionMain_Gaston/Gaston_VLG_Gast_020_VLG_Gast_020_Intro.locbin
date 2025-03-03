@@ -1,61 +1,0 @@
-
-2
-Gaston_002_f"{PlayerName}! You're just in time.
-C
-Player_002_choice_000_f(Hey, Gaston. What am I just in time for?
-5
-Player_002_choice_001_fNope, never mind, I'm out.
-F
-Gaston_007_f6You're just in time to entertain me! I've grown bored.
-,
-Gaston_008_fGo on, do something amusing.
-2
-Gaston_018_f"I don't know why I come see you...
-2
-Gaston_019_f"Because you idolize me, of course.
-
-Player_000_choice_000_fHa!
-9
-Player_000_choice_001_fOh yeah, that's definitely it.
-6
-Player_000_choice_002_fNah, it's morbid curiosity.
-0
-Gaston_010_f What do you normally do for fun?
-7
-Gaston_011_f'I hunt! And then talk about my success.
-'
-Gaston_021_fNo. Not happening here.
-E
-Gaston_022_f5Well then, don't just stand there; suggest something!
-#
-Gaston_023_fWhat about fishing?
-D
-Gaston_024_f4Do I look like an old man sleeping through his life?
-/
-Player_001_choice_000_fKinda, to be honest.
-6
-Player_001_choice_001_fOkay, that was kinda funny.
-c
-Gaston_013_fSWell, I'm not! But... *sigh* I will tell you, and only you... I have fished before.
-Y
-Gaston_025_fIDuring my time in the Glittering Dunes, I tried fishing in the quicksand.
-#
-Gaston_026_fIt did not go well.
-ç
-Gaston_027_f}Oh, well why don't we try fishing in the Tangle? The fish there might be easier to catch... but they're far more dangerous...
-4
-Gaston_028_f$Danger? Now you've got my attention!
-∑
-Gaston_029_f¶Oh yeah, there are <ActivityItem>Piranhas</ActivityItem>, <ActivityItem>Electric Eels</ActivityItem>, and even those weird <ActivityItem>Prisma Shrimp</ActivityItem>!
-.
-Gaston_030_fWhat are we waiting for then?!
-N
-Gaston_003_f>I bet I can find a spot with more interesting fish than you...
-f
-Gaston_014_fVI was not joking! But... *sigh* I will tell you, and only you... I have fished before.
-Y
-Gaston_017_fII want to see how it's possible to survive without complexity of thought.
-O
-Gaston_020_f?{PlayerName}... don't you know by now, I can survive anything?!
- 
-Gaston_001_fWait, come back!

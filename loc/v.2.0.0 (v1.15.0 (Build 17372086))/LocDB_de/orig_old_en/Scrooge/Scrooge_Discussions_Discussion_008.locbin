@@ -1,45 +1,0 @@
-
-L
-Scrooge_000_f;Looking for a bit of advice about managing your Star Coins?
-=
-Player_000_choice_000_f"Please! A penny for your thoughts!
->
-Player_000_choice_001_f#I could always use a little advice.
-R
-Player_000_choice_002_f7I probably already know what you're about to tell me...
-I
-Scrooge_001_f8My thoughts are worth a lot more than a penny, you know.
-3
-Scrooge_013_f"<ActivityItem>Okra</ActivityItem>.
-3
-Scrooge_014_f"<ActivityItem>Okra</ActivityItem>?
-M
-Scrooge_015_f<There's a great future in <ActivityItem>Okra</ActivityItem>.
-S
-Scrooge_002_fBBut we all need to start somewhere. A penny's better than nothing.
-H
-Scrooge_004_f7In fact, that's just what my advice to ya is all about.
-ƒ
-Scrooge_007_frManaging your money takes nothing more than shrewd investment. Start with something little and turn it into a lot.
-1
-Scrooge_008_f Something little like... a seed!
-@
-Scrooge_009_f/In this Valley, crops are... well, a cash crop.
-4
-Scrooge_010_f#What sorts of plants should I grow?
-?
-Scrooge_011_f.I've got just one word for you. Just one word.
-"
-Scrooge_012_fAre ya listenin'?
-+
-Scrooge_003_fThat's the right attitude!
-d
-Scrooge_005_fSDon't ever go discounting the value of a little advice... or a little bit of money.
-M
-Scrooge_006_f<Hey! You can never go wrong listening to some honest advice.
-=
-Scrooge_016_f,*sigh* Okay, okay, fine. What's your advice?
-T
-Scrooge_017_fCListen up. Who knows? Maybe you'll even find a bit of wisdom in it.
-T
-Scrooge_018_fCAnd a little bit of wisdom's all you really need to strike it rich.

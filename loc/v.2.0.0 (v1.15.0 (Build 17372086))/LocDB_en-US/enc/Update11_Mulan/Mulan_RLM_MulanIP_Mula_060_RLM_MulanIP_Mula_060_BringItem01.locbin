@@ -1,29 +1,0 @@
-
-
-Mulan_001_fWhat are these?
-5
-Mulan_003_f&Where did you find them, {PlayerName}?
-M
-Mulan_004_f>Here and there, during my training. Do you know what they are?
-n
-Mulan_005_f_I do. That's one of the <ActivityItem>Fans</ActivityItem> I had when I helped save the Emperor.
-“
-Mulan_006_fƒAnd that's one of the <ActivityItem>Circular Weights</ActivityItem> I trained with. It helped me show Captain Shang I was serious about being a soldier... And Mushu used the <ActivityItem>Bamboo Snorkel</ActivityItem> when he tried to... help me with fishing.
-,
-Player_000_choice_000_fSo many memories!
-4
-Player_000_choice_001_fDo you want to keep them?
-?
-Player_000_choice_002_f$Did Mushu help you cheat at fishing?
-3
-Mulan_007_f$You're right. And good memories too.
-B
-Mulan_010_f3I'd be honored if you'd display them in your House.
-j
-Mulan_012_f[Here, {PlayerName}. It'll be a fun reminder that you and I share the same kind of training.
-E
-Mulan_008_f6No, I think I'd rather have you keep them safe for me.
-g
-Mulan_009_fXI was falling behind. Not our best moment... Eventually I learned how to work on my own.
-R
-Mulan_011_fCThese are important pieces of my story... Would you keep them safe?

@@ -1,23 +1,0 @@
-
-8
-Donald_000_f(Hey, {PlayerName}, have you seen Stitch?
-D
-Donald_001_f4That's exactly what I wanted to talk to you about...
-}
-Donald_002_fmWell, if you see him, give him a towel. When his fur gets wet, he smells like Goofy's stinky shoe collection!
->
-Donald_003_f.Anyway... what did you wanna talk to me about?
-P
-Player_000_choice_000_f5Just a heads-up â Stitch is trying to prank you.
-<
-Player_000_choice_001_f!You know what, Donald? Forget it.
-(
-Donald_004_fPRANK me?! Again?! How?!
-@
-Donald_005_f0He's trying to hide seafood all over your House.
-*
-Donald_006_fWAAAKKKK! Why, I oughta...
-|
-Donald_007_flThanks for lettin' me know, {PlayerName}. I'll go show him a thing or two about trying to prank Donald Duck!
-Y
-Donald_008_fIAw. Well, then what are you wasting my time for? Can't you see I'm busy?!

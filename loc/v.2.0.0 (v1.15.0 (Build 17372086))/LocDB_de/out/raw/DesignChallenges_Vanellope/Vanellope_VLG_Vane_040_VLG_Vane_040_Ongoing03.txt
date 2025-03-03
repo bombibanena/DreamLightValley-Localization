@@ -1,9 +1,0 @@
-TAG: Vanellope_000_f
-It's time to begin your adventure, hero, but you have to dress the part first.
-
-TAG: Vanellope_001_f
-So go <Lore>put on some Rustic clothes.</Lore>
-
-TAG: Vanellope_002_f
-If you don't have some, or you want a new outfit... you can <Lore>order one at the shop!</Lore>
-

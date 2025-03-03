@@ -1,93 +1,0 @@
-
-q
-GVillage!PrincessFrog!Tiana!VLG_Tian_010_Any_CompletedRequestDescription&Talk to Tiana about her Grand Opening.
-ë
-<Village!PrincessFrog!Tiana!VLG_Tian_010_AvailableDescriptionQTiana seems to have some big plans √¢¬Ä¬î does she need your help with something?
-‰
-AVillage!PrincessFrog!Tiana!VLG_Tian_010_CompletedStoryDescriptionûTiana's Meal Stall had its Grand Opening and all of the Villagers can now visit for tasty meals! Hopefully Tiana enjoyed the event as much as everyone else...
-J
-3Village!PrincessFrog!Tiana!VLG_Tian_010_DisplayNameBack from the Bayou
-}
-VVillage!PrincessFrog!Tiana!VLG_Tian_010_Group01_Step01_PlaceBuilding01_StepDescription#Place Tiana's Palace in the Valley.
-w
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group02_Step02_VisitArea01_StepDescription!Meet Tiana inside Tiana's Palace.
-ç
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group03_Step03_TalkToCharacter01_StepDescription1Talk to Tiana about being back in her restaurant.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess01_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess02_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess03_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group04_Step04_Possess04_StepDescription{itemName}.
-k
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group04_StepDescription(Gather materials for Tiana's Meal Stall:
-g
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group05_Step05_CraftItem01_StepDescriptionCraft {itemName}.
-ë
-VVillage!PrincessFrog!Tiana!VLG_Tian_010_Group06_Step06_PlaceBuilding02_StepDescription7Place Tiana's Meal Stall in the Valley near her Palace.
-â
-UVillage!PrincessFrog!Tiana!VLG_Tian_010_Group07_Step07_PurchaseItem01_StepDescription0Purchase the first meal from Tiana's Meal Stall.
-Œ
-@Village!PrincessFrog!Tiana!VLG_Tian_010_Group07_StoryDescriptionâYou helped Tiana get her Stall set up and ready to go, but the Grand Opening is still in the works and Tiana needs some people to attend!
-à
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group08_Step08_TalkToCharacter02_StepDescription,Check back with {TargetNPC} about her Stall.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group09_Step09_TalkToCharacter03_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group09_Step09_TalkToCharacter04_StepDescription{TargetNPC}.
-ñ
-OVillage!PrincessFrog!Tiana!VLG_Tian_010_Group09_Step10_Listen01_StepDescriptionC(Optional) Listen to Tiana and Remy discuss their respective menus.
-
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group09_StepDescription<Invite Villagers to the Grand Opening of Tiana's Meal Stall.
-î
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group10_Step11_VisitArea02_StepDescription>Head back into Tiana's Palace to check in on Tiana's progress.
-p
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group11_Step12_TalkToCharacter05_StepDescriptionTalk to {TargetNPC}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess05_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess06_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess07_StepDescription{itemName}.
-_
-PVillage!PrincessFrog!Tiana!VLG_Tian_010_Group12_Step13_Possess08_StepDescription{itemName}.
-~
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group12_StepDescription;Gather the materials to craft the Bistro Tables and Chairs:
-·
-@Village!PrincessFrog!Tiana!VLG_Tian_010_Group12_StoryDescriptionúWhen an avalanche of dirty dishes threatened the Stall's opening, Tiana tapped Merlin to help, but the exterior d√É¬©cor of the Stall still needs some work!
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group13_Step14_CraftItem02_StepDescription{itemName}.
-a
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group13_Step14_CraftItem03_StepDescription{itemName}.
-k
-?Village!PrincessFrog!Tiana!VLG_Tian_010_Group13_StepDescription(Craft the Outdoor Furnishings for Tiana.
-`
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_Decorate01_StepDescription{itemName}.
-`
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_Decorate02_StepDescription{itemName}.
-i
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_Decorate03_StepDescriptionElegant Decorations.
-Å
-FVillage!PrincessFrog!Tiana!VLG_Tian_010_Group14_Step15_StepDescription7Decorate Tiana's "Terrace" area outside her restaurant.
-v
-RVillage!PrincessFrog!Tiana!VLG_Tian_010_Group15_Step16_VisitArea03_StepDescription Head back inside Tiana's Palace.
-p
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group16_Step17_TalkToCharacter06_StepDescriptionTalk to {TargetNPC}.
-∆
-QVillage!PrincessFrog!Tiana!VLG_Tian_010_Group17_Step18_Decorate04_StepDescriptionqPlace the <ActivityItem>Inauguration Ribbon</ActivityItem> near Tiana's Meal Stall to kick off the Grand Opening.
-Ù
-@Village!PrincessFrog!Tiana!VLG_Tian_010_Group17_StoryDescriptionØThe meals have been made and the terrace decorated √¢¬Ä¬î all that's left is to enjoy the Grand Opening and see how the Villagers are enjoying the new additions to the Valley.
-ê
-NVillage!PrincessFrog!Tiana!VLG_Tian_010_Group18_Step19_Party01_StepDescription>Gather and appreciate the Grand Opening of Tiana's Meal Stall.
-à
-FVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_StepDescription>Check in with everyone to see if they like Tiana's Meal Stall.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_TalkToCharacter07_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_TalkToCharacter08_StepDescription{TargetNPC}.
-h
-XVillage!PrincessFrog!Tiana!VLG_Tian_010_Group19_Step20_TalkToCharacter09_StepDescription{TargetNPC}.
-k
-:Village!PrincessFrog!Tiana!VLG_Tian_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

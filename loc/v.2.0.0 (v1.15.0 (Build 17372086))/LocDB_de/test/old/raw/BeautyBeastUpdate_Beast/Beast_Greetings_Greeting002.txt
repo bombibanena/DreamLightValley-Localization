@@ -1,6 +1,0 @@
-TAG: Beast_000_f
-{PlayerName}...
-
-TAG: Player_000_exit_000_f
-Эй, Зверь!
-

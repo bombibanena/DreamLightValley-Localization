@@ -1,39 +1,0 @@
-
-h
-Merlin_000_fXWell, {PlayerName}? Have you uncovered what Ursula and Mother Gothel are scheming about?
-c
-Merlin_001_fSThose ingredients and vials they're trading â€” they must be potions. But for what?
-]
-Merlin_002_fMUrsula told me it was just something to get rid of pests in the Giant Willow.
-.
-Merlin_003_fHa! I find that most unlikely.
-F
-Merlin_004_f6She and Mother Gothel... they just seem to be friends.
-x
-Merlin_005_fhFriends?! Balderdash! I don't buy it for a second. Ursula doesn't have friends. Just people she can use.
-<
-Player_000_choice_000_f!Maybe it's just not our business?
-=
-Player_000_choice_001_f"We should leave her alone for now.
-A
-Player_000_choice_002_f&You're right. I still don't trust her.
-M
-Merlin_006_f=I say any magical malfeasance in this Village is my business!
-i
-Merlin_007_fY*sigh* But... In the absence of proof, if you insist that there's no scheming going on...
-+
-Merlin_008_fI'll leave them be for now.
-1
-Merlin_009_f!I only hope we don't regret this.
-W
-Merlin_010_fGNow then, I've concocted a little something to thank you for your help.
-p
-Merlin_011_f`Here. A bit of <ActivityItem>Dreamlight</ActivityItem> ought to compensate you for your trouble.
-@
-Merlin_012_f0Oh, come now. We can hardly trust Ursula's word.
-G
-Merlin_013_f7Nor do I. We'll need to keep a closer eye on those two.
-†
-Merlin_014_fvBut for now, I suspect your little chat with Ursula may have deterred her from whatever schemes she's been concocting.
-W
-Merlin_015_fGThank you, {PlayerName}. Dreamlight Valley owes you another great debt.

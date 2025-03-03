@@ -1,6 +1,0 @@
-TAG: Remy_000_f
-You're making {ItemName} for dessert. And I, for one, am really looking forward to it.
-
-TAG: Remy_005_f
-You'll need three Ingredients. And remember: <ActivityItem>Butter</ActivityItem> is key.
-

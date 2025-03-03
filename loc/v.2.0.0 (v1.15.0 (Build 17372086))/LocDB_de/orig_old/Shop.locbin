@@ -1,64 +1,0 @@
-
-)
-place_your_order_buttonПорядок
-
-btn_bundlesСвязки
-
-btn_collectСоберите
-#
-btn_collectedСобранные
-
-btn_currenciesВалюты
-
-btn_freeСвободные
-
-btn_gemsЖемчужины
-
-btn_homeМагазин
-%
-btn_passЗвездный путь
-
-btn_presentsПодарки
-?
-btn_royal_duties+Обязанности сновидения
-2
-daily_reward_day_leftДень(ы) ушёл(и)
-
-daily_reward_daysДни
->
-daily_reward_extend'Продление на {days} дней
-0
-error_already_purchasedУже куплены
-G
-exit_confirmation2Ты уверена, что хочешь уйти?
-@
-next_daily_reward_time_left!Следующий подарок
-Y
-order_shopping_cart_body=Вы уверены, что хотите купить это?
-4
-product_bonus_percent{percent}%<br> Больше
-5
-product_discount_percent{percent}% Продажа
-<
-product_offer_expire$Срок действия истек
-�
-#purchase_confirmation_body_currency_Вы уверены, что хотите потратить {amount} {currency}(s) на {item}?
-�
-%purchase_confirmation_body_real_money\Вы уверены, что хотите потратить {amount} {currency} на {item}?
-9
-purchase_confirmation_titleПодтверждение
-\
-purchase_shopping_cart_body=Ты уверена, что хочешь купить это?
-B
-purchase_success_body){item} был успешно куплен
-(
-purchase_success_titleЗакупки
-
-shop_buyПокупка
- 
-
-shop_claimПретензия
-D
-shop_confirmation_title)Подтверждение покупки
-S
-shopping_cart_exit=В твоей тележке все еще есть вещи.

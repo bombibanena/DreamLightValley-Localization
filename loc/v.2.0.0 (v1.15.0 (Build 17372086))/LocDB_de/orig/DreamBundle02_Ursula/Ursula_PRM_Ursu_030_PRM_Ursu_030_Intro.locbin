@@ -1,51 +1,0 @@
-
-¬
-Ursula_002_f›Ah, {PlayerName}, there you are. If you still insist on restoring Mirabel, Mother Gothel, and Kristoff's singing voices, I'm finally feeling rested enough.
-R
-Ursula_003_fBBut I'll need my favorite assistant's help. Well, what do you say?
-.
-Player_000_choice_000_fYes, I'll help you.
-'
-Player_000_choice_001_fMaybe later.
-F
-Ursula_001_f6What happened to their voices? How do we restore them?
-7
-Ursula_022_f'Well, first, you'll have to catch them.
-
-Ursula_000_fCatch them...?
-?
-Ursula_004_f/Exactly! <Lore>I turned them into squid</Lore>.
-&
-Player_003_choice_000_fWhy squid?!
-3
-Player_003_choice_001_fGot it. Catch the squid.
-|
-Ursula_025_flOh, everyone knows squid are excellent backup performers. They're small enough to never steal the spotlight.
-W
-Ursula_026_fGNow, you'll find these squid swimming around the waters of the Village.
-k
-Ursula_021_f[I suggest you look <Lore>in the Glade of Trust, the Forest of Valor, and the Meadow</Lore>.
-{
-Ursula_027_fkOnce you've fished them up, you'll still need a special Ingredient from each of our poor, tuneless souls...
-x
-Ursula_028_fh...a magic spark of creativity. <ActivityItem>Create a piece of a song</ActivityItem> with each of them.
-`
-Ursula_029_fPBegin with a line from them and then a line from you. And don't forget to rhyme!
-U
-Player_001_choice_000_f:I can't wait to write some songs with the other Villagers.
-,
-Player_001_choice_001_fHow will it work?
-B
-Player_001_choice_002_f'Urgh... Rhyming. I hate writing poetry.
-r
-Ursula_016_fbSee, in the end, it's good that I stole their voices. I've had my fun and now you're having yours!
-m
-Ursula_019_f]Run along, {PlayerName}. The <ActivityItem>Voice Squid</ActivityItem> won't catch themselves.
-B
-Ursula_017_f2Your Dreamlight Magic is everywhere in the Valley.
-L
-Ursula_020_f<If you add words to this enchantment, it will strengthen it.
-Q
-Ursula_018_fAOh, boo-hoo. We all have to do things we don't like now and then.
-s
-Ursula_005_fcReally? This was your idea. But I'm sure your friends will understand why you haven't got the time.

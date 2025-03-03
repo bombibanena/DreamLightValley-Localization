@@ -1,39 +1,0 @@
-
->
-Oswald_002_f.Oh-hoo-hoo! {PlayerName}, we're finally ready!
-*
-Player_000_choice_000_fReady for what?
-A
-Player_000_choice_001_f&Well I'm certainly not! Back in a bit.
-2
-Oswald_003_f"The trolley! Ya know it, don'tcha?
-?
-Player_001_choice_000_f$Sure, it's a form of transportation.
-+
-Player_001_choice_001_fUhh, not really.
-S
-Oswald_004_fC"Form of" — are ya kiddin' me?! Trolleys are LOTS more than that!
-l
-Oswald_006_f\Trolleys mean adventure! Excitement! Why, I been nuts for trolleys since I saw my first one.
-J
-Oswald_007_f:And now Eternity Isle's finally ready for its own trolley!
-=
-Oswald_008_f-That's great! How do we go about getting one?
-l
-Oswald_009_f\Well gee, trolleys are real sensitive. They only respond to folks wearin' the right uniform.
-3
-Player_002_choice_000_fThe trolley is... alive?
-4
-Player_002_choice_001_fOK, what kind of uniform?
-
-Oswald_010_fYou betcha!
-V
-Oswald_011_fFWe're gonna need a <ActivityItem>Trolley Conductor Hat</ActivityItem>.
-x
-Oswald_012_fhI used to have one, but I lost it ages ago somewhere in <Lore>Ancient's Landing around the Docks</Lore>.
-U
-Oswald_013_fEThink ya could <Lore>use that nifty Hourglass to help find it</Lore>?
-
-Oswald_014_fSure!
-Y
-Oswald_005_fIWell, they got wheels, live on tracks, and gee are they full o' mischief.

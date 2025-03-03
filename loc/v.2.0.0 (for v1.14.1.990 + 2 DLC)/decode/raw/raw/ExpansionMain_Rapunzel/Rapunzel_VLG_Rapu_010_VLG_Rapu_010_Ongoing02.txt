@@ -1,6 +1,0 @@
-TAG: Rapunzel_000_f
-You were going to collect materials to fix the door! You said... <ActivityItem>Zinc</ActivityItem>, <ActivityItem>Tin</ActivityItem>, and <ActivityItem>Soil</ActivityItem>.
-
-TAG: Rapunzel_001_f
-When you find it all, <Lore>could you bring it back to me so we can fix the door together</Lore>?
-

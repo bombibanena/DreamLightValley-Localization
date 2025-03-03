@@ -1,9 +1,0 @@
-TAG: Monkey_001_f
-Ooh! Ah ah!
-
-TAG: Monkey_002_f
-Oh, are you interested in the banana? I should find some more...
-
-TAG: Player_001_exit_000_f
-Sorry, I can't right now.
-

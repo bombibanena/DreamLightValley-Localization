@@ -1,47 +1,0 @@
-
-=
-Mickey_002_f-Oh boy, {PlayerName}, do I have news for you!
-z
-Mickey_003_fjI opened up my mailbox this morning and found a sparkly purple envelope addressed to both Minnie and me...
-9
-Mickey_004_f)Sparkly? Purple? Who was the letter from?
-L
-Mickey_006_f<Our pal Daisy Duck! I knew it the second I saw the envelope.
-Ž
-Mickey_001_f~She left the Village to investigate the Forgetting. Daisy said getting to the bottom of it was more important than anything...
-]
-Mickey_017_fM...and that she'd be back with the biggest news story the Valley's ever seen!
-+
-Player_000_fSo what did the letter say?
-/
-Player_000_choice_000_fShe sounds so brave!
-,
-Player_000_choice_001_fIs she in danger?
-'
-Player_000_choice_002_fIs she lost?
-
-Mickey_009_f}She sure is. And her letter says she's found out something big about the Forgetting, and she's ready to return to the Valley!
-¥
-Mickey_012_f”She wrote ahead to ask if we could make sure <Lore>her House is in great shape</Lore>. Gosh, I can't blame her. She's been on one LONG camping trip!
-@
-Player_001_choice_000_f%I'll set up Daisy's House right away!
-B
-Player_001_choice_001_f'Extended camping trip? Sounds like fun!
-D
-Player_001_choice_002_f)Who needs camping when you have the mall?
-.
-Mickey_011_fHot dog! Thanks, {PlayerName}!
-Z
-Mickey_015_fJLet me know if you need any help <Lore>getting Daisy's House ready</Lore>.
-]
-Mickey_000_fMWelp, I'm sure you and Daisy'll have plenty to talk about when she gets back.
-Ž
-Mickey_014_f~Actually, Daisy likes shopping almost as much as she likes investigations and adventure! You two'll have plenty to talk about.
-«
-Mickey_010_fšNo, nothing like that. Her letter said she found out something about the Forgetting during her adventures, and now she's ready to come back to the Valley.
-^
-Mickey_008_fNNo, nothing like that. In fact, she's on her way back! It's all in her letter.
-E
-Mickey_005_f5But Minnie's still missing... Who's sending her mail?
-Š
-Mickey_007_fzIt's from our best pal, Daisy Duck. She wouldn't know that Minnie's disappeared because Daisy's been away for a long time.

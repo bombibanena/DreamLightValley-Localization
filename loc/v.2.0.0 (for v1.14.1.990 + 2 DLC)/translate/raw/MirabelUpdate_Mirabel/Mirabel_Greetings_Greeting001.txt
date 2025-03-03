@@ -1,6 +1,0 @@
-TAG: Mirabel_000_f
-Ухола, {PlayerName}!
-
-TAG: Player_000_exit_000_f
-Простите, я не могу сейчас.
-

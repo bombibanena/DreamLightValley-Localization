@@ -1,9 +1,0 @@
-TAG: Oswald_000_f
-Что я должен делать, Освальд?
-
-TAG: Oswald_001_f
-Приготовь план!
-
-TAG: Oswald_002_f
-<ActivityItem>Paper</ActivityItem>, <ActivityItem>Dates</ActivityItem>, и a <ActivityItem>Nestling Pear</ActivityItem> это именно то, что нам нужно.
-

@@ -1,60 +1,0 @@
-
-*
-Gaston_003_f{PlayerName}, you're late!
-(
-Player_000_choice_000_fI'm so sorry!
-5
-Player_000_choice_001_f... We had an appointment?
-;
-Player_000_choice_002_f You need to learn some patience.
-&
-Gaston_004_fWell, you're forgiven.
-D
-Gaston_007_f4Now, are you going to help me? I don't have all day!
-1
-Player_001_choice_000_fOkay, what's going on?
-5
-Player_001_choice_001_fNope â see you later!
-[
-Gaston_008_fKI've been thinking, and I know what's needed to make you a better sidekick.
- 
-Player_002_choice_000_fNice!
-;
-Player_002_choice_001_f Once again... not your sidekick.
-G
-Gaston_009_f7I'm going to introduce you to the Gastonian Experience!
-c
-Gaston_011_fSIf you understand what it's like to be me, you'll know how to be a better sidekick.
-:
-Gaston_012_f*Okay... and what exactly does that entail?
-U
-Gaston_013_fEFirst you'll need better clothes, because I would never wear... that.
- 
-Player_003_choice_000_fRude!
-)
-Player_003_choice_001_fHey, not fair!
-7
-Player_003_choice_002_fOkay, I can try a new style.
-X
-Gaston_014_fHYes, visiting me in such an unworthy outfit was rude, but I forgive you.
-G
-Gaston_020_f7Return to me when you have clothing befitting Gaston...
-c
-Gaston_002_fSRed on top, black trousers or what you will, and a devastatingly handsome demeanor.
-E
-Gaston_015_f5The Gastonian Experience is not fair, but it is just.
-'
-Gaston_016_fThat... makes no sense.
- 
-Gaston_017_fTo you, perhaps.
-
-Gaston_018_f
-Marvelous!
-%
-Gaston_010_fOh, you will be soon!
-*
-Gaston_001_fFine. But I'll be waiting!
-R
-Gaston_005_fBWell, no. But you should have known I had something for you to do.
-
-Gaston_006_fGrr...

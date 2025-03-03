@@ -1,45 +1,0 @@
-
-9
-Gaston_008_f)New clothes! Hmm, you look... acceptable.
-*
-Player_001_choice_000_fI look AMAZING.
-5
-Player_001_choice_001_fGaston, I look like you...
-+
-Gaston_009_fYes, I'm sure you think so.
-
-Gaston_001_fSo what's next?
-†
-Gaston_013_fvI'll introduce you to the Gastonian diet, and then you'll be properly fueled for my incredible muscle-working routine.
-7
-Gaston_014_f'Do I dare ask about the Gastonian diet?
-9
-Gaston_015_f)It's simple, {PlayerName}, and effective.
-x
-Gaston_016_fhRaw eggs. Lots of them. You'll find <ActivityItem>Cobra Eggs</ActivityItem> around the Glittering Dunes.
-ƒ
-Gaston_017_fsAnd raw piranha meat. Not my traditional meal, but I've found eating dangerous animals to be especially energizing!
-7
-Player_002_choice_000_fI should have expected this.
-M
-Player_002_choice_001_f2Yeah, I'm not down with consuming animal proteins.
-<
-Gaston_003_f,All that raw food is a little iffy though...
-—
-Gaston_004_f†Well, I suppose you could make yourself a... what did Donald call it...? Oh yes, a <ActivityItem>Workout Shake</ActivityItem> instead.
-‡
-Player_000_choice_000_flI'll go with the <ActivityItem>Cobra Eggs</ActivityItem> and <ActivityItem>Piranha</ActivityItem> after all.
-)
-Player_000_choice_001_fWorkout shake!
-)
-Gaston_026_fOff you go, {PlayerName}.
->
-Gaston_005_f.Fine, but make sure you bring my meal as well?
-X
-Gaston_006_fHAnd I'll prepare a Gastonian meal for you, in case you change your mind.
-Ž
-Gaston_019_f~Well, I suppose you could make yourself a... what did Donald call it...? Oh yes, a <ActivityItem>Workout Shake</ActivityItem>.
-b
-Gaston_002_fRBut are you sure you don't want to eat like me? You are looking at me, aren't you?
-n
-Gaston_010_f^My less-stylish cousin, perhaps. Still, it's an improvement over what you were wearing before.

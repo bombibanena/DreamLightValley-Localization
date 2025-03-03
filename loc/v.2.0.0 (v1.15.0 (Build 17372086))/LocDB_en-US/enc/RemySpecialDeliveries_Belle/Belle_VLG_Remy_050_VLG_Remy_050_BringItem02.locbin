@@ -1,17 +1,0 @@
-
-{
-Belle_000_flOh, {PlayerName}, this dessert looks almost as good as the ones the staff made for me at the Beast's Castle.
-+
-Belle_001_fWhat's the special occasion?
-O
-Belle_002_f@Remy's starting a service in the Village for special deliveries.
-R
-Player_000_choice_000_f7You could order a special dinner for you and the Beast!
-Y
-Player_000_choice_001_f>Maybe you can get some of that delicious gray stuff on the go?
-M
-Belle_003_f>That's a wonderful idea! I'll be sure to order something soon.
-a
-Belle_005_fRNow, if only we could get some sort of service like this in the Village for books.
-D
-Belle_004_f5I'd like that. It's become one of my favorite treats.

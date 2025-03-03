@@ -1,58 +1,0 @@
-
-J
-Beast_000_f;{PlayerName}, have you seen a man here who becomes animals?
--
-Beast_001_fNot Merlin, another enchanter.
-#
-Player_000_choice_000_f... Who?
-0
-Player_000_choice_001_fOh, do you mean Maui?
-6
-Player_000_choice_002_fDid he play a trick on you?
-a
-Beast_002_fRA large man with long, dark hair. I saw him become a hawk and also a small beetle.
-&
-Beast_003_fOh, you must mean Maui!
-5
-Beast_004_f&Perhaps I should speak with this Maui.
-D
-Beast_005_f5I would like to learn more about his transformations.
-I
-Player_001_choice_000_f.He'll definitely enjoy showing you his powers.
-&
-Player_001_choice_001_fGreat idea!
-J
-Player_001_choice_002_f/Word of warning — he's got a big personality!
-(
-Beast_006_fThen I will seek him out.
-'
-Beast_007_fThank you, {PlayerName}.
-9
-Beast_008_f*Hmm... Like Lumiere. That is good to know.
- 
-Beast_009_fIs that his name?
-$
-Beast_010_fNot that I know of...
-X
-Beast_011_fIWait — did he stick something to my cloak? A child did that to me once.
-#
-Player_002_choice_000_fTotally!
-,
-Player_002_choice_001_fNah, you're good.
-2
-Player_002_choice_002_fI think it's invisible.
-6
-Beast_012_f'Oh... I... Hmph. There's nothing there.
-1
-Beast_013_f"I see, you're a trickster as well.
-3
-Beast_014_f$Ha! I'm a beginner compared to Maui.
-
-Beast_015_f
-Thank you.
-A
-Beast_016_f2Who can say when it comes to tricksters like Maui!
-1
-Beast_017_f"I will keep that in mind. Still...
-0
-Beast_018_f!Invisible? What would that serve?

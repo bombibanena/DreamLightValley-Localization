@@ -1,65 +1,0 @@
-
-?
-Jafar_001_f0{PlayerName}. Do you have a moment to assist me?
- 
-Player_000_choice_000_fSure!
-/
-Player_000_choice_001_fNot now, I'm afraid.
-@
-Jafar_002_f1Excellent! I have made a marvelous new discovery.
-8
-Player_001_choice_000_fGreat! What did you discover?
-/
-Player_001_choice_001_fShould I be worried?
-2
-Player_001_choice_002_fIs... is it contagious?
-*
-Jafar_003_fFurther secrets of alchemy.
-E
-Jafar_015_f6Oh, that's actually kinda nice of you. How can I help?
-§
-Jafar_018_fîI have crafted four <ActivityItem>Imagination Generators</ActivityItem>, but I require assistance setting them up around <Lore>Eternity Isle</Lore>.
-+
-Jafar_020_fCool, where do you need 'em?
-ù
-Jafar_021_fçPlace them in <Lore>the Lagoon</Lore>, <Lore>the Borderlands</Lore>, <Lore>the Docks</Lore>, and one <Lore>in front of Oswald's House</Lore>.
-*
-Player_002_choice_002_fOswald's House?
-'
-Player_002_choice_003_fCool, on it.
-+
-Jafar_009_fOh cool! What in particular?
-h
-Jafar_010_fYI have uncovered a way to share the secret of imagination with everyone on Eternity Isle!
-V
-Jafar_012_fGBut the Spark of Imagination is already there for everyone to access...
-L
-Jafar_027_f=Well yes, if one wants to exert onerous energies reaching it.
-Ñ
-Jafar_028_fuThe genius of my machines will allow everyone to access it with ease. Ideas and innovations will spring forth easily.
-D
-Jafar_029_f5Wow, you're pretty sure of yourself here, aren't you?
-E
-Jafar_008_f6I find false humility rather nauseating, {PlayerName}.
-u
-Jafar_014_ffI know that I am still not trusted, but hopefully this endeavor will influence some minds in my favor.
-x
-Jafar_019_fiIndeed. The poor fellow seemed rather upset that his experimentation impaired the geometry of the Island.
-6
-Jafar_022_f'Hopefully, this will raise his spirits.
-+
-Jafar_024_fGreat, I'll get on that now.
-2
-Jafar_030_f#Excellent. Thank you, {PlayerName}.
-p
-Jafar_000_faThe poor fellow seemed rather upset that his experimentation impaired the geometry of the Island.
-\
-Jafar_005_fMNow, now, {PlayerName}. Since my release, have I given you cause to doubt me?
-+
-Jafar_016_fNo, I guess not... recently.
-(
-Jafar_007_fSo what did you discover?
-X
-Jafar_004_fIIt can be, if others are intellectually primed to share in the discovery.
-A
-Jafar_006_f2However, I am not convinced that is possible here.

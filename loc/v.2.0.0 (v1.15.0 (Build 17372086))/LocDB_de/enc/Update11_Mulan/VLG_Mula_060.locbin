@@ -1,27 +1,0 @@
-
-�
-5Village!Mulan!Mulan!VLG_Mula_060_AvailableDescriptionbПора искать следующий <ActivityItem>Mini Flag.</ActivityItem> Talk to Мауи.
-�
-:Village!Mulan!Mulan!VLG_Mula_060_CompletedStoryDescriptionIТы оттащил флаг Мауи от волшебного льда.
-m
-,Village!Mulan!Mulan!VLG_Mula_060_DisplayName=Тренировочные игры: Шеппервертер
-u
-QVillage!Mulan!Mulan!VLG_Mula_060_Group01_Step01_TalkToCharacter01_StepDescription Поговори с {TargetNPC}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess01_StepDescription{ItemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess02_StepDescription{ItemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess03_StepDescription{ItemName}.
-X
-IVillage!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess04_StepDescription{ItemName}.
-~
-?Village!Mulan!Mulan!VLG_Mula_060_Group02_Step02_StepDescription;Соберите вещи из подсказки Мауи:
-�
-9Village!Mulan!Mulan!VLG_Mula_060_Group02_StoryDescription�Мауи говорит, что он собрал свой флаг под гигантским валуном, но он не может вытащить его из окружающего его волшебного льда. Он дает вам список Ингредиентов и спрашивает, можете ли вы помочь ему освободить флаг.
-�
-JVillage!Mulan!Mulan!VLG_Mula_060_Group03_Step03_CookMeal01_StepDescriptionrНайди способ объединить Мини Флаг с собранными Ингредиентами.
-�
-KVillage!Mulan!Mulan!VLG_Mula_060_Group04_Step04_BringItem01_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
-n
-@Village!Mulan!Mulan!VLG_Mula_060_Group04_Step04_ReadyDescription*Приведите {itemName} в Мауи.

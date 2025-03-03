@@ -1,35 +1,0 @@
-
-c
-Ursula_000_fSWell, look who it is... {PlayerName} returns. And what can I do for you, angelfish?
-s
-Player_000_fcI'm putting together a Care Package for the Fairy Godmother, and I was wondering if you could help.
-C
-Player_000_choice_000_f(She's been nothing but nice to everyone.
-=
-Player_000_choice_001_f"I'm sure she could learn from you.
-3
-Player_000_choice_002_fI freed you. You owe me.
-b
-Ursula_001_fRBAH! That scatter-brained meddler! She's giving magical help to everyone for free.
-q
-Ursula_002_faNo one comes to me anymore. They all go to her, no deal required. She's ruining all my hard work.
-a
-Ursula_003_fQ*sigh* But I suppose she has been rather nice to me. Unlike that blowhard Merlin.
-„
-Ursula_004_ftCome on. There must be something you have lying around that you could part with, just to show a little appreciation?
-^
-Ursula_005_fNUgh. Fine... Here. It's a <ActivityItem>Memento Memoria Potion</ActivityItem>.
-a
-Ursula_011_fQIf you've lost something, simply drop a few dashes of this into a basin of water.
-s
-Ursula_012_fcWhisper whatever it is you're looking for, and the reflection will show you where last you left it.
-U
-Ursula_006_fEMaybe that'll help her the next time she misplaces that wand of hers!
-O
-Ursula_007_f?Well, she could start by not giving her services away for free!
-7
-Ursula_008_f'And clearly you'll never let me forget.
-i
-Ursula_009_fYHmph. I actually respect that. Unlike that scatterbrained meddler of a fairy godmother...
-V
-Ursula_010_fFGiving everything to everyone and not asking for anything in exchange.

@@ -1,6 +1,0 @@
-TAG: EVE_000_f
-Что?
-
-TAG: EVE_001_f
-Я должен дать вам <ActivityItem> Усиленный Scanner</ActivityItem>.
-

@@ -1,31 +1,0 @@
-
-R
-Moana_000_fCHi, {PlayerName}. Wow, you seem busy. Can I help you with anything?
-;
-Player_000_choice_000_f Ursula told me to talk to you...
-?
-Player_000_choice_001_f$Have you found any seashells lately?
-9
-Player_000_choice_002_fSo I'm doing this spell and...
-O
-Moana_001_f@The Sea Witch... Are you sure it's a good idea to listen to her?
-2
-Player_001_choice_000_fShe's hungry for power.
-4
-Player_001_choice_001_fShe's a necessary evil...
-n
-Moana_005_f_Yeah, she reminds of a giant crab I met... I hope you don't get caught in whatever she's up to.
-@
-Moana_009_f1You said she asked you to get a seashell from me?
-ƒ
-Moana_007_ftWell, I did find this on the Beach. I thought it was a gift from the ocean but maybe it's a gift to you. Be careful!
->
-Moana_010_f/And she asked you to get a seashell... from me?
-ˆ
-Moana_002_fyActually, I did! I thought it was a nice present from the ocean, but I'm starting to think maybe it wasn't for me at all!
-$
-Moana_004_fHere. It's all yours!
--
-Moana_008_fI need a seashell... from you.
-[
-Moana_003_fLOh, okay. I guess the ocean must've known. Look what I found on the Beach...

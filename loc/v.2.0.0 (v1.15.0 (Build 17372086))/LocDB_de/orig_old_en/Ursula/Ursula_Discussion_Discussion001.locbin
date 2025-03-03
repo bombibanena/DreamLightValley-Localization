@@ -1,50 +1,0 @@
-
-œ
-Ursula_000_f‹Oh, {PlayerName}, it's you. I was just musing over the distant past. Did you know that I used to live in Atlantica? In the palace, in fact.
--
-Player_000_choice_000_fWhy did you leave?
-1
-Player_000_choice_001_fDid you like it there?
-5
-Player_000_choice_002_fWhy do you look different?
-a
-Ursula_002_fQIt wasn't by choice, you can be sure of that. King Triton, the tyrant, exiled me.
-N
-Ursula_003_f>I was banished to waste away in the darkest part of the ocean.
-+
-Player_001_choice_000_fThat's terrible!
-
-Player_001_choice_001_fWhy?
-[
-Ursula_008_fKIsn't it? All the world turned against poor innocent me. And what did I do?
-|
-Ursula_009_flPractically nothing! I only gave the merfolk what they asked for. Is it my fault they didn't like the price?
-Œ
-Ursula_010_f|Oh, it was over practically nothing! I only gave the merfolk what they asked for. Is it my fault they didn't like the price?
-V
-Ursula_011_fFIt was all an excuse. I know Triton was really frightened by my power.
-{
-Ursula_004_fkOf course! It's a palace! Oh, I miss the comforts. The feasts, the festivals. Servants at my beck and call.
-†
-Ursula_005_fvWhat would you miss if you were driven off and forced to live in the... well, I suppose for you it would be the woods?
-%
-Player_002_choice_000_f
-Ice Cream.
-&
-Player_002_choice_001_fTelevision.
-'
-Player_002_choice_002_fVideo games.
-I
-Ursula_012_f9Oh, I've heard of that. A cold, sugary treat, am I right?
-@
-Ursula_017_f0I wonder if anyone here makes it in kelp flavor?
-c
-Ursula_013_fSHm. I have no idea what that is. Some sort of ludicrous human invention, I suppose.
-k
-Ursula_014_f[I have no idea what that is. But I do enjoy games. Especially when I get to make the rules.
-Y
-Ursula_006_fIYou mean why am I not a waifish merperson with a dinky little green tail?
->
-Ursula_007_f.I look different because I AM different, dear.
-+
-Ursula_001_fNot just different. Better!

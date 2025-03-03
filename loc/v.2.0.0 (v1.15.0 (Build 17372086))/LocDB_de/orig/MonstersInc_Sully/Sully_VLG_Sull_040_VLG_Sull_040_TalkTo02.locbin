@@ -1,23 +1,0 @@
-
-n
-Sully_002_f_Hey, {PlayerName}. Thanks for asking the contestants for me. I'm glad there was such a turnout!
-m
-Sully_003_f^Now for your role in this. Could ya help the Villagers if they're stuck finding the next clue?
-4
-Sully_004_f%Does this mean I get all the answers?
-^
-Sully_005_fONo way. That's no fun! I want you to help 'em by figurin' it out alongside 'em.
-@
-Player_000_choice_000_f%So I get to participate too! Love it!
-D
-Player_000_choice_001_f)But what if I can't figure it out either?
-D
-Player_000_choice_002_f)Sounds like a disaster waiting to happen.
-(
-Sully_006_fI'm glad you're on board.
-3
-Sully_000_f$Now good luck, and happy scavenging!
-H
-Sully_007_f9Don't doubt yourself, {PlayerName}. I know you'll get it!
->
-Sully_008_f/Don't worry, {PlayerName}. It's gonna be great!

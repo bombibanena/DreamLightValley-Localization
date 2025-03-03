@@ -1,34 +1,0 @@
-
-?
-Sally_001_f0This isn't good, Sally. We need to do something.
-5
-Sally_002_f&I feel terrible. This is all my fault!
-"
-Player_001_choice_000_fNo way!
-K
-Player_001_choice_001_f0You're not the first to be tricked by a villain.
-?
-Player_001_choice_002_f$Let's focus on fixing the situation.
-;
-Sally_003_f,This is all Ursula's doing â not yours.
-R
-Sally_007_fCI suppose it doesn't matter. What matters is that we make it right.
-v
-Sally_008_fgExactly! But how do we reverse the effects of the potion? I don't know potion lore the way Ursula does.
-Z
-Sally_009_fKBut Ursula did mention that your Halloween plants were central to her brew.
-8
-Sally_010_f)Oh! In that case, I think I have an idea.
-%
-Sally_011_fHere â take this.
-l
-Sally_012_f]I'll try to distract Ursula. When you have a chance, <Lore>put this into her cauldron</Lore>.
-
-Sally_013_fYou got it!
-n
-Sally_004_f_Consider it a sign of how good you are. You want to believe the best of all the Villagers here.
-7
-Sally_005_f(That's the most important thing for now.
-
-Sally_006_f
-Of course.

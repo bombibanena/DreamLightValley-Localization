@@ -1,71 +1,0 @@
-
-8
-Gaston_019_f(Here we are â€” the capital of Gastonia!
-o
-Gaston_005_f_Great, can we PLEASE focus now? What are you doing here in the Glittering Dunes... or Gastonia?
-d
-Gaston_006_fTWell, if you were familiar with heroism, you'd know that heroes always go on quests.
->
-Player_000_choice_000_f#Oh, I'm quite familiar with quests.
-'
-Player_000_choice_001_fSure, go on.
-:
-Gaston_003_f*Strange; you don't look like a hero to me.
-t
-Gaston_004_fdAnyway... back home, whenever I was out doing heroic deeds, my lackey LeFou was always by my side...
-B
-Gaston_001_f2Lackey? This LeFou sounds more like your sidekick.
-€
-Gaston_002_fpSidekick? LeFou can be bothersome, but I've never felt the need to kick him in the side. That might hurt my toe.
-,
-Gaston_022_fNo no, a sidekick is like...
-€
-Gaston_023_fpA friend that helps you out with stuff. They tend to be smaller and very emotionally involved with your success.
-/
-Gaston_024_fOh! Then... yes, LeFou is that!
-c
-Gaston_025_fSLeFou... my sidekick. I like it! And now YOU can play that part for me on my quest!
-.
-Player_001_choice_000_fWhat quest is that?
-9
-Player_001_choice_001_fI think I have hero potential!
-8
-Player_001_choice_002_fHow about you be MY sidekick?
-/
-Gaston_007_fMy quest for the Mirage Wizard!
-q
-Gaston_009_faHave you met him? Carries a snake-headed staff, uses too many long words, a little see-through...
-/
-Gaston_010_fOh, you're talking about Jafar!
-<
-Gaston_011_f,Is that his name? "Mirage Wizard" is better.
-Ã
-Gaston_012_f²I started seeing him after I established Gastonia. He asked that I find something called the <ActivityItem>Jewel of Time</ActivityItem> for him. Of course, I never work for free.
-Š
-Gaston_013_fzSo, he said this "Jewel of Time" was hidden inside a vault filled with treasure, and that I could have all but that Jewel.
-C
-Gaston_000_f3So the <Lore>Jewel of Time</Lore> is in that vault!
-A
-Player_002_choice_000_f&I wish Jafar had told me about this...
-6
-Player_002_choice_001_fThis is actually helpful...
-8
-Player_002_choice_002_fHow do we get into the vault?
-ˆ
-Gaston_008_fxThere's one problem... We must <Lore>find the key to the vault first</Lore> and... the key refuses to be found anywhere!
-}
-Gaston_015_fmMaybe we should check everywhere you looked again. Retrace your steps? Two pairs of eyes are better than one.
-†
-Gaston_017_fvHmm... I'm thinking... *gasp* I know! We'll retrace my steps! You can start by checking around this camp while I rest.
-y
-Gaston_018_fiUgh! Youâ€” Iâ€” ... Fine! I'll take a look around and <Lore>see if I can find anything unusual</Lore>...
-T
-Gaston_014_fDHa-ha-ha! You're hilarious... and wrong. How you remind me of LeFou.
-7
-Gaston_026_f'Back on task. What "quest" were you on?
-f
-Gaston_016_fVYou JUST said a sidekick is SMALLER than the hero â€” and you're MUCH smaller than me.
-N
-Gaston_020_f>WOW. You actually put something together with logic. GOOD ONE.
-;
-Gaston_021_f+Impressive, I know. Everything about me is.

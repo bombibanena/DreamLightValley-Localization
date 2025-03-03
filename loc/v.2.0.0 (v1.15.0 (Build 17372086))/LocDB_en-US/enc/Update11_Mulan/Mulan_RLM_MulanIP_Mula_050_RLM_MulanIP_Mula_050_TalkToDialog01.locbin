@@ -1,25 +1,0 @@
-
-\
-Mulan_001_fMWelcome to the Training Maze. Before you start, I need to give you something.
-
-Mulan_002_fHere.
-
-Mulan_003_fWhat is that?
-t
-Mulan_004_fe<ActivityItem>Training Weights</ActivityItem>. They're roughly the weight of your pack when you walk.
-t
-Mulan_005_feI hope you didn't expect to walk through the maze carrying nothing. That would've been much too easy.
-A
-Player_000_choice_000_f&I laugh in the face of your challenge.
-5
-Player_000_choice_001_fI'm prepared for anything!
-H
-Player_000_choice_002_f-My back is already hurting just seeing those.
-V
-Mulan_006_fGDon't be too confident, {PlayerName}. That just might be your downfall.
-‚
-Mulan_011_fsPut the weights on, open the door, and come talk to me. I'll explain the rest of your goals for this exercise then.
-=
-Mulan_007_f.Thinking like a defender already. I like that.
-B
-Mulan_008_f3Well, don't forget to stretch afterwards. It helps.

@@ -1,51 +1,0 @@
-
-
-WallE_000_fYoo-hoo! Uhh...
-:
-WallE_001_f+What is it, WALLÂ·E? You have a question?
-*
-Player_000_fHmm. He's pointing at a...
- 
-Player_000_choice_000_fBird.
-$
-Player_000_choice_001_f	Squirrel.
- 
-Player_000_choice_002_fTree.
-(
-WallE_003_fThat's a bird, WALLÂ·E.
-
-WallE_004_fHuh?!
-"
-Player_001_fWell, a bird is...
-5
-Player_001_choice_000_fA small animal that flies.
-5
-Player_001_choice_001_fA pretty tuft of feathers.
-0
-Player_001_choice_002_fLike a tiny dinosaur.
-
-WallE_006_fOoh!
-,
-WallE_007_fThat's a squirrel, WALLÂ·E.
-
-WallE_008_fHuh?!
-&
-Player_002_fWell, a squirrel is...
-<
-Player_002_choice_000_f!A small mammal that climbs trees.
-9
-Player_002_choice_001_fA cute critter that eats nuts.
-W
-Player_002_choice_002_f<Like Remy but with a bushy tail and less cooking experience.
-(
-WallE_009_fThat's a tree, WALLÂ·E.
-
-WallE_010_fHuh?!
-"
-Player_003_fWell, a tree is...
-K
-Player_003_choice_000_f0A big plant that's been growing for a long time.
-L
-Player_003_choice_001_f1A telephone pole, but you don't have to build it.
-9
-Player_003_choice_002_fWhere wooden things come from.

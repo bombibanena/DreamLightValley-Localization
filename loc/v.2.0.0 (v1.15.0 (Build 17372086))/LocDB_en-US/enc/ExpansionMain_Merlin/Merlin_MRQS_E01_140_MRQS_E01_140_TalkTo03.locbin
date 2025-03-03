@@ -1,58 +1,0 @@
-
-^
-Merlin_000_fN{PlayerName}! I see you've managed to mend the rift in time around the palace.
-;
-Merlin_001_f+Hmm... I suppose that means Jafar's free...
-
-Player_000_f
-Not quite.
-=
-Player_000_choice_000_f"I think he's locked in the palace.
->
-Player_000_choice_001_f#It was all part of a bigger scheme.
-/
-Player_000_choice_002_fHe's kind of a jerk!
-3
-Merlin_002_f#Locked in the...? What do you mean?
-1
-Player_001_choice_000_fBut where do we start?
-H
-Player_001_choice_001_f-Maybe something like that should stay lost...
-R
-Player_001_choice_002_f7Just think of what I could do if I got ahold of that...
-û
-Merlin_010_fçJafar tried to take the Hourglass from me. But Rapunzel, Gaston, and EVE didn't like that. EVE almost gave Jafar a taste of her laser cannon.
-
-Merlin_016_foJafar vanished. I can only guess he's hiding in the palace √¢¬Ä¬î it's kind of his fortress. But before that...
-]
-Merlin_017_fM...he said he's <Lore>after something called the Spark of Imagination</Lore>.
-F
-Merlin_005_f6The Spark of Imagination? Why, I've never heard of it.
-ä
-Merlin_006_fzJafar said that it was somewhere <Lore>beneath this island</Lore>, and that only someone with the Hourglass can find it...
-g
-Merlin_007_fWOh! And he also said that it would give him the power to control all of space and time!
-Y
-Merlin_008_fI... Control all of space and time?! Then we've no choice but to stop him!
-[
-Merlin_009_fKWhatever this "Spark of Imagination" is, we must find it before Jafar does!
-P
-Merlin_011_f@Where so many good adventures start. With a trip to the Library!
-X
-Merlin_014_fHI must do some research. This may take quite a while. In the meantime...
-p
-Merlin_018_f`Keep uncovering the secrets of Eternity Isle, and do whatever you can to make it feel like home.
-|
-Merlin_021_flNow then, I wonder if <Lore>the Spark of Imagination might be connected to the magic of the Realms</Lore>...
-v
-Merlin_022_ffYou ought to try <Lore>venturing to one of the Realms and using your Hourglass to search there</Lore>.
-`
-Merlin_023_fPWhy, there's no telling what you might find... or what you could create from it!
-Z
-Merlin_012_fJNo secret can stay buried forever. If we don't find it, I fear Jafar will.
-{
-Merlin_013_fkYou shouldn't be too eager to wield power like that. You'll find it can be a great burden to use it wisely.
-I
-Merlin_003_f9Well, that's no surprise. Tell me... what sort of scheme?
-_
-Merlin_004_fOMy friend, he is much more than a "jerk." But what drew you to that conclusion?

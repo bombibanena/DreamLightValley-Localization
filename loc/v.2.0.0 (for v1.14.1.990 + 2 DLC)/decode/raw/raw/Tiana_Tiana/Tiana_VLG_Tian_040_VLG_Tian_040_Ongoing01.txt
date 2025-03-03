@@ -1,9 +1,0 @@
-TAG: Tiana_000_f
-How did the meeting with Daisy go?
-
-TAG: Tiana_001_f
-Quite well! I'm just working on finding the resources so I can craft you a <ActivityItem>New Orleans Parade Arch</ActivityItem>.
-
-TAG: Tiana_002_f
-Oh, {PlayerName}, that would be the bee's knees!
-

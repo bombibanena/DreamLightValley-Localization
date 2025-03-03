@@ -1,75 +1,0 @@
-
-,
-Merlin_000_fDrat! When did this appear?!
-|
-Merlin_001_flThe <Lore>secret entrance to the palace</Lore> is an old cellar door tucked away right here in the Lagoon...
-V
-Merlin_002_fF...but now this... this <Lore>rift in time</Lore> has blocked the way!
-8
-Player_000_choice_000_fMaybe there's another way in?
-;
-Player_000_choice_001_f How do we get rid of this thing?
-1
-Player_000_choice_002_fARRRGGGHHH! Not again.
-Õ
-Merlin_003_fºI'm afraid there isn't. I've already investigated teleportation, making you permeable so you could walk through the walls, disguising you as a statue and offering you to Jafar as a gift...
-*
-Merlin_012_f...using your imagination.
-9
-Player_001_choice_000_fNo problem! I'm great at that!
-5
-Player_001_choice_001_fI think I can manage that.
-=
-Player_001_choice_002_f"Uh-oh. I'm not very imaginative...
-J
-Merlin_004_f:...but Jafar has mounted defenses against all of my plans.
-^
-Merlin_005_fNIt will be tricky, but we must <Lore>heal this rift in time</Lore> to proceed.
--
-Merlin_006_fGot it. So how do we do that?
-s
-Merlin_007_fcI deduce that all the rifts across the Isle are connected to one another. And to the Spark's magic.
-É
-Merlin_008_fsTherefore, if we <Lore>close some of the other rifts</Lore>, we might be able to weaken this one enough to seal it.
-B
-Merlin_009_f2How do we close the rifts? Can I use my Hourglass?
-≤
-Merlin_010_f°Unfortunately not. For this, we need a different sort of magic. Something that will allow us to tap into the power of the Spark itself and turn it back on Jafar.
-]
-Merlin_011_fMI've done some research, and it seems that the key to the Spark's power is...
-^
-Merlin_013_fNYes, but I fear even for one as imaginative as you, some help might be needed.
-A
-Merlin_014_f1I suggest you <Lore>seek help from Oswald</Lore>.
-&
-Player_002_choice_000_fWhy Oswald?
-@
-Player_002_choice_001_f%Got it. I'll go get help from Oswald.
-X
-Merlin_015_fHWell, I've spent some time studying the fellow. He is quite fascinating.
-5
-Merlin_024_f%Got it. I'll go get help from Oswald.
-á
-Merlin_025_fwYes, and hurry, {PlayerName}! <Lore>Seek help from Oswald</Lore> so you can close the rifts and get us into the palace!
-h
-Merlin_016_fXYou see, before any of us were here in Dreamlight Valley, this place belonged to others.
-ã
-Merlin_017_f{In the same way that the Valley now shapes itself around <i>your</i> hopes, <i>your</i> dreams, and <i>your</i> memories...
-f
-Merlin_018_fV...once upon a time, it belonged to someone else, and Oswald was very special to them.
-†
-Merlin_019_fèI'm sure there are stories you cherish that were passed down from a trusted loved one. Well, Oswald is a bit like those stories... passed down.
--
-Merlin_020_fSo how does that help us now?
-{
-Merlin_021_fkWell, Oswald surely must have wisdom from seeing the ways that Dreamlight Valley and the Isle have changed.
-^
-Merlin_022_fNAnd if not, then perhaps he can give you a lesson in utilizing your ingenuity.
-Ü
-Merlin_023_fvRegardless... Things, er, well, heh, they do just seem to have a way of working out when Oswald is around, don't they?
-i
-Merlin_026_fYNonsense! You're much more imaginative than you think, {PlayerName}. I've seen it myself.
-H
-Merlin_027_f8But nonetheless, I fear you'll need some help with this.
-U
-Merlin_028_fEWe mustn't get discouraged. Jafar is counting on us simply giving up.

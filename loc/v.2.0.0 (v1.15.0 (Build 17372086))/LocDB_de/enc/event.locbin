@@ -1,35 +1,0 @@
-
-"
-label_progressПрогресс
-
-	btn_claimПретензия
-0
-btn_exchange_shopМагазин обмена
-"
-btn_homeМероприятие
-
-btn_leaderboard
-Лидер
-
-btn_shopМагазин
-&
-chapter_locked_labelЗакрыто
-9
-chapter_welcome_label Добро пожаловать.
-1
-chapter_welcomed_labelПриветствую!
-&
-leaderboard_player_label
-Игрок
-&
-leaderboard_rank_labelЗвание
-9
-leaderboard_rewards_labelВознаграждение
-#
-leaderboard_score_labelСчёт
-7
-time_collect_rewardsСоберите награды
-)
-time_end_inЗаканчивается
-%
-time_start_inНачинается

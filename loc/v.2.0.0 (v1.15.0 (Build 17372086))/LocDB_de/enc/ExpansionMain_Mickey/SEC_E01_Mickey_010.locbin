@@ -1,33 +1,0 @@
-
-�
-ASecret!Expansion01!Mickey!SEC_E01_Mickey_010_AvailableDescription�Микки Маус исследует остров Вечность, и он был в восторге увидеть все эти новые цветы!
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_BringItem01_StepDescription{ItemName}.
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_BringItem04_StepDescription{ItemName}.
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_BringItem05_StepDescription{ItemName}.
-�
-LSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_ReadyDescription3Принеси цветы на Микки Маус.
-�
-KSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group01_Step01_StepDescriptionJСоберите следующие цветы для Микки Маус:
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_BringItem02_StepDescription{ItemName}.
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_BringItem06_StepDescription{ItemName}.
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_BringItem07_StepDescription{ItemName}.
-�
-LSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_ReadyDescriptionPПринеси цветы Мерлин для его экспериментов.
-�
-KSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group02_Step02_StepDescription^Соберите следующие цветы для экспериментов Мерлин:
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_BringItem03_StepDescription{ItemName}.
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_BringItem08_StepDescription{ItemName}.
-f
-WSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_BringItem09_StepDescription{ItemName}.
-�
-LSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_ReadyDescription?Принеси цветы в Урсула за ее зелье.
-�
-KSecret!Expansion01!Mickey!SEC_E01_Mickey_010_Group03_Step03_StepDescriptionNСоберите следующие цветы для Урсула зелья:

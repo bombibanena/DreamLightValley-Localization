@@ -1,6 +1,0 @@
-TAG: Beast_000_f
-You were... <Lore>searching the West Wing</Lore>...
-
-TAG: Beast_001_f
-...for <ActivityItem>Shampoo</ActivityItem>, <ActivityItem>Cologne</ActivityItem>, and a <ActivityItem>Brush</ActivityItem>.
-

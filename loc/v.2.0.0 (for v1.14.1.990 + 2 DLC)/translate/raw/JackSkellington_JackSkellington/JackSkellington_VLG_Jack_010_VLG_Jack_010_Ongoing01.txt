@@ -1,6 +1,0 @@
-TAG: JackSkellington_000_f
-Ты так же взволнован, как и я, {PlayerName}?
-
-TAG: JackSkellington_001_f
-Давай сначала поговорим с Олаф.
-

@@ -1,75 +1,0 @@
-
-\
-EVillage!Tangled!Rapunzel!VLG_Rapu_010_Any_CompletedRequestDescriptionReturn to Rapunzel.
-h
-:Village!Tangled!Rapunzel!VLG_Rapu_010_AvailableDescription*Rapunzel needs your help with something...
-ÿ
-?Village!Tangled!Rapunzel!VLG_Rapu_010_CompletedStoryDescription»With her home cleaned and repaired, and the capybaras excited about their new companion house, Rapunzel thanks you. She's forever grateful that you took her House and made it into a home.
-E
-1Village!Tangled!Rapunzel!VLG_Rapu_010_DisplayNameThe Housewarming
-z
-VVillage!Tangled!Rapunzel!VLG_Rapu_010_Group01_Step01_FollowCharacter01_StepDescription Follow {TargetNPC} to her tower.
-p
-XVillage!Tangled!Rapunzel!VLG_Rapu_010_Group01_Step01_FollowCharacter01_TalkToDescriptionTalk to {TargetNPC}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_010_Group02_Step02_BringItem01_StepDescription{itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_010_Group02_Step02_BringItem02_StepDescription{itemName}.
-_
-PVillage!Tangled!Rapunzel!VLG_Rapu_010_Group02_Step02_BringItem03_StepDescription{itemName}.
-l
-EVillage!Tangled!Rapunzel!VLG_Rapu_010_Group02_Step02_ReadyDescription#Bring the materials to {TargetNPC}.
-q
-DVillage!Tangled!Rapunzel!VLG_Rapu_010_Group02_Step02_StepDescription)Gather materials to fix Rapunzel's Tower:
-ˆ
-VVillage!Tangled!Rapunzel!VLG_Rapu_010_Group03_Step03_FollowCharacter02_StepDescription.Return to Rapunzel's Tower to repair the door.
-p
-XVillage!Tangled!Rapunzel!VLG_Rapu_010_Group03_Step03_FollowCharacter02_TalkToDescriptionTalk to {TargetNPC}.
-l
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group04_Step04_Possess01_StepDescription{itemName} near the Docks.
-l
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group04_Step04_Possess02_StepDescription{itemName} near the Oasis.
-q
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group04_Step04_Possess03_StepDescription{itemName} near the Grasslands.
-p
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group04_Step04_Possess04_StepDescription{itemName} near the Promenade.
-˜
-DVillage!Tangled!Rapunzel!VLG_Rapu_010_Group04_Step04_StepDescriptionPUse the Hourglass to search for Rapunzel's treasures in the following locations:
-‹
->Village!Tangled!Rapunzel!VLG_Rapu_010_Group04_StoryDescriptionÈWith some materials and the Hourglass, you manage to give Rapunzel something she's always dreamed of: her very own door! Next, she asks you to find some treasures Mother Gothel "lost" around the Isle.
-n
-VVillage!Tangled!Rapunzel!VLG_Rapu_010_Group05_Step05_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
-ˆ
-RVillage!Tangled!Rapunzel!VLG_Rapu_010_Group06_Step06_ConsumeItem01_StepDescription2Investigate Rapunzel's painting in your Inventory.
-d
-RVillage!Tangled!Rapunzel!VLG_Rapu_010_Group07_Step07_FillKeyhole01_StepDescriptionCast-Iron Pan.
-g
-RVillage!Tangled!Rapunzel!VLG_Rapu_010_Group07_Step07_FillKeyhole02_StepDescriptionHandheld Lantern.
-d
-RVillage!Tangled!Rapunzel!VLG_Rapu_010_Group07_Step07_FillKeyhole03_StepDescriptionPurple Pillow.
-a
-RVillage!Tangled!Rapunzel!VLG_Rapu_010_Group07_Step07_FillKeyhole04_StepDescriptionWall Clock.
-t
-DVillage!Tangled!Rapunzel!VLG_Rapu_010_Group07_Step07_StepDescription,Return Rapunzel's treasures to their places.
-n
-VVillage!Tangled!Rapunzel!VLG_Rapu_010_Group08_Step08_TalkToCharacter02_StepDescriptionTalk to {TargetNPC}.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group09_Step09_Possess05_StepDescription{itemName}.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group09_Step09_Possess06_StepDescription{itemName}.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group09_Step09_Possess07_StepDescription{itemName}.
-]
-NVillage!Tangled!Rapunzel!VLG_Rapu_010_Group09_Step09_Possess08_StepDescription{itemName}.
-l
-DVillage!Tangled!Rapunzel!VLG_Rapu_010_Group09_Step09_StepDescription$Gather materials for their new home:
-e
-=Village!Tangled!Rapunzel!VLG_Rapu_010_Group09_StepDescription$Be a good neighbor to the capybaras.
-ð
->Village!Tangled!Rapunzel!VLG_Rapu_010_Group09_StoryDescription­Rapunzel loves the home-y feeling of her tower and wants your help sharing the feeling. She asks you to build a Tropical Companion Home for the capybaras in the Wild Tangle.
-g
-PVillage!Tangled!Rapunzel!VLG_Rapu_010_Group10_Step10_CraftItem01_StepDescriptionCraft a {itemName}.
-
-OVillage!Tangled!Rapunzel!VLG_Rapu_010_Group11_Step11_Decorate01_StepDescription,Place the {itemName} anywhere in the jungle.
-i
-8Village!Tangled!Rapunzel!VLG_Rapu_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

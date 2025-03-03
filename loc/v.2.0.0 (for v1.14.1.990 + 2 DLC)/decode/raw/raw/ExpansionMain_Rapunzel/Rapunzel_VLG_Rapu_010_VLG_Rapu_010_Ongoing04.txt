@@ -1,6 +1,0 @@
-TAG: Rapunzel_000_f
-Could you put my treasures back in the right places in the tower?
-
-TAG: Rapunzel_001_f
-You can <Lore>check the drawing I gave you</Lore> to see where things go.
-

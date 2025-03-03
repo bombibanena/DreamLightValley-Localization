@@ -1,57 +1,0 @@
-
-�
-DRealm!Aladdin!RLM_AladdinIP_Alad_010_Any_CompletedRequestDescription]Возвращайтесь на Аладдин в <ActivityItem> South Market</ActivityItem>.
-�
-9Realm!Aladdin!RLM_AladdinIP_Alad_010_AvailableDescriptionsВы дозвонились до Аладдин, который был заперт на крышах Аграбы.
-�
->Realm!Aladdin!RLM_AladdinIP_Alad_010_CompletedStoryDescription�Как только вы очистили Южный рынок, Аладдин смог найти странный амулет! Возможно Жасмин сможет рассказать вам об этом больше.
-M
-0Realm!Aladdin!RLM_AladdinIP_Alad_010_DisplayNameХрабрый шторм
-�
-WRealm!Aladdin!RLM_AladdinIP_Alad_010_Group01_Step01_FollowCharacter01_TalkToDescription2Поговори с {TargetNPC} на крышах.
-�
-<Realm!Aladdin!RLM_AladdinIP_Alad_010_Group01_StepDescriptionDПознакомьтесь с Аладдин у края крыши.
-\
-MRealm!Aladdin!RLM_AladdinIP_Alad_010_Group02_Step02_Possess01_StepDescription{ItemName}.
-\
-MRealm!Aladdin!RLM_AladdinIP_Alad_010_Group02_Step02_Possess02_StepDescription{ItemName}.
-\
-MRealm!Aladdin!RLM_AladdinIP_Alad_010_Group02_Step02_Possess03_StepDescription{ItemName}.
-�
-<Realm!Aladdin!RLM_AladdinIP_Alad_010_Group02_StepDescriptionTСтроительные материалы с юго-восточной крыши:
-�
-QRealm!Aladdin!RLM_AladdinIP_Alad_010_Group03_Step03_FillKeyhole01_StepDescriptiontПоложите вещи на край крыши рядом с Аладдин, чтобы сделать мост.
-�
-URealm!Aladdin!RLM_AladdinIP_Alad_010_Group04_Step04_FollowCharacter02_StepDescriptionZПройдите дальше через центральные крыши с {TargetNPC}.
-�
-WRealm!Aladdin!RLM_AladdinIP_Alad_010_Group04_Step04_FollowCharacter02_TalkToDescription2Поговори с {TargetNPC} на крышах.
-�
-ORealm!Aladdin!RLM_AladdinIP_Alad_010_Group05_Step05_VisitArea01_StepDescription@Возвращайся в королевство Аладдин.
-�
-WRealm!Aladdin!RLM_AladdinIP_Alad_010_Group06_Step06_FollowCharacter03_TalkToDescription?Поговори с {TargetNPC} на крышах Центра.
-
-<Realm!Aladdin!RLM_AladdinIP_Alad_010_Group06_StepDescription?Поговори с {TargetNPC} на крышах Центра.
-�
-<Realm!Aladdin!RLM_AladdinIP_Alad_010_Group08_StepDescriptionhНайдите путь к <Lore> South Market</Lore> используя то, что вы узнали.
-�
-URealm!Aladdin!RLM_AladdinIP_Alad_010_Group09_Step11_TalkToCharacter01_StepDescriptionEПоговорите с Аладдин в <Lore> South Market</Lore>.
-�
-=Realm!Aladdin!RLM_AladdinIP_Alad_010_Group09_StoryDescriptionaВозможно, среди обломков можно найти что-то полезное.
-�
-QRealm!Aladdin!RLM_AladdinIP_Alad_010_Group10_Step12_ConsumeItem01_StepDescriptionJИспользуйте <Lore>Rose Water</Lore> в вашем списке.
-x
-MRealm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess07_StepDescription'<Lore> Что-то липкое</Lore>.
-\
-MRealm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess08_StepDescription{ItemName}.
-\
-MRealm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess09_StepDescription{ItemName}.
-\
-MRealm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess10_StepDescription{ItemName}.
-�
-<Realm!Aladdin!RLM_AladdinIP_Alad_010_Group11_StepDescriptionmПроверьте обломки, что вам понадобится для ремонта кабинки.
-�
-URealm!Aladdin!RLM_AladdinIP_Alad_010_Group12_Step14_TalkToCharacter02_StepDescriptionBПоговорите с {TargetNPC} в <Lore> South Market</Lore>.
-�
-ORealm!Aladdin!RLM_AladdinIP_Alad_010_Group13_Step15_CraftItem01_StepDescription�Ремонтные комплекты <ActivityItem>Stall</ActivityItem> на ремесленной станции рядом с Аладдин.
-�
-<Realm!Aladdin!RLM_AladdinIP_Alad_010_Group14_StepDescription�Используйте <ActivityItem>Stall Reconstruction Kits</ActivityItem> на разрушенных кабинах Южного рынка.

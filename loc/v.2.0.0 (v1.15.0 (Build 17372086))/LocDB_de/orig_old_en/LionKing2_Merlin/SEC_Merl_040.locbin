@@ -1,25 +1,0 @@
-
-ù
-<Secret!SwordInStone!Merlin!SEC_Merl_040_AvailableDescription]There's something creepy and crawly loose in the Valley... You should keep an eye out for it.
-N
-3Secret!SwordInStone!Merlin!SEC_Merl_040_DisplayNameA Creepy Crawly Mystery
-ä
-RSecret!SwordInStone!Merlin!SEC_Merl_040_Group02_Step03_BringItem01_StepDescription4Make sure you have the {itemName} in your Inventory.
-o
-GSecret!SwordInStone!Merlin!SEC_Merl_040_Group02_Step03_ReadyDescription$Bring the {itemName} to {TargetNPC}.
-w
-FSecret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_StepDescription-Recruit bug catchers to stop the Night Mites:
-h
-XSecret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_TalkToCharacter01_StepDescription{TargetNPC}.
-h
-XSecret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_TalkToCharacter02_StepDescription{TargetNPC}.
-è
-RSecret!SwordInStone!Merlin!SEC_Merl_040_Group04_Step05_VisitArea01_StepDescription9Go inside Merlin's library to meet about the Night Mites.
-p
-XSecret!SwordInStone!Merlin!SEC_Merl_040_Group05_Step06_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
-t
-FSecret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_StepDescription*Make a plan to catch the Night Mites with:
-h
-XSecret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_TalkToCharacter04_StepDescription{TargetNPC}.
-h
-XSecret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_TalkToCharacter05_StepDescription{TargetNPC}.

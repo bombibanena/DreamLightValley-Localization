@@ -1,29 +1,0 @@
-
-¢
-Goofy_000_f’Gawrsh, {PlayerName}, I could use your help. Uncle Scrooge says I should do regular inventory of all my stock to make sure nothing's gone missing.
-9
-Goofy_001_f*Got any advice on the best way to do that?
->
-Player_000_choice_000_f#Count everything you have in stock.
-?
-Player_000_choice_001_f$Beats me. Sounds like a lot of work.
-c
-Goofy_002_fTI could try that... but I don't know how much I started out with in the first place.
-6
-Goofy_003_f'So I got nothin' to compare it against.
-n
-Goofy_004_f_Sounds like you should count them now and then count them again in a couple of months to check.
-%
-Goofy_005_fSure, I could do that.
-H
-Goofy_006_f9Hmm... should I count stuff by the piece or by the pound?
-
-Goofy_007_fpApples would be easy to count by the piece, but seeds could take a while. I'll keep thinkin' on it. Thanks, pal!
-X
-Goofy_008_fIWell, Uncle Scrooge says I've gotta count everything I've got in stock...
-Q
-Goofy_009_fB...then count it again in a little while and see if they match up.
-U
-Goofy_010_fFSo you've got to count it all... just so you can count it again later?
-J
-Goofy_011_f;Yep. But should I count stuff by the piece or by the pound?

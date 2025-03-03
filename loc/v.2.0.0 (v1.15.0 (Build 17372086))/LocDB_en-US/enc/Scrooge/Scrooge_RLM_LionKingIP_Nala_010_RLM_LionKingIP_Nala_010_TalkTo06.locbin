@@ -1,33 +1,0 @@
-
--
-Scrooge_003_fAye? You need what, exactly?
-E
-Scrooge_004_f4I need something to scare off a whole lot of hyenas.
-B
-Player_000_choice_000_f'Maybe some sorta Hyena Repellant spray?
-`
-Player_000_choice_001_fEYou don't happen to know where I can find a herd of lions, do you...?
-I
-Scrooge_001_f8Hyena Repellant? We don't get many hyenas in the Valley.
->
-Scrooge_013_f-So it wouldn't make much sense to stock that.
-{
-Scrooge_011_fjOkay, so maybe a spray isn't practical. But what about something to make a lot of noise to scare them off?
-q
-Scrooge_006_f`If I could just turn the sound of two lions roaring into the sound of a hundred lions roaring...
-@
-Scrooge_007_f/Oh, well, why didn't you say so from the start?
-|
-Scrooge_008_fkI've got an old Sound System in the basement of my shop. I think it used to belong to someone Goofy knew...
-W
-Scrooge_009_fFIt's in rough shape. But with a few repairs, it ought to do the trick.
-p
-Scrooge_000_f_With that, I could amplify the sound of a couple of lions roaring so it fills the whole jungle.
-b
-Scrooge_010_fQThanks, Mr. McDuck! I'll <Lore>do some repairs and take this back to Nala</Lore>.
-]
-Scrooge_002_fLA herd of lions?! First, I dinnae think a group of lions is called a herd...
-
-Scrooge_005_fnAnd second, though a few SPECIFIC lions may not consider me lunch, I wouldnae be trusting a whole army of 'em.
-’
-Scrooge_012_f€Okay, so maybe an army of lions isn't practical. But what about something to make a lot of noise so we can scare off the hyenas?

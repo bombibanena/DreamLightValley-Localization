@@ -1,35 +1,0 @@
-
-?
-Woody_000_f0Say, {PlayerName}, have ya ever been to a rodeo?
-
-Player_000_choice_000_fYes.
-
-Player_000_choice_001_fNo.
-*
-Player_000_choice_002_fWhy do you ask?
-(
-Woody_002_fThey're fun, aren't they?
-D
-Woody_005_f5All that riding, and lassoing, and sheep wrangling...
-j
-Woody_006_f[And then at the end, you've gotta save the whole rodeo from a giant pig named Dr. Porkchop.
- 
-Player_001_choice_000_fCool.
-U
-Player_001_choice_001_f:Wait, are you talking about real rodeos or pretend rodeos?
-+
-Player_001_choice_002_fUm... giant pig?
-v
-Woody_007_fgYep, there's nothin' like a good old-fashioned rodeo. We ought to have one here in the Valley sometime.
-D
-Woody_008_f5Well, I'm a toy, so I've only been to pretend rodeos.
-:
-Woody_009_f+But they can't be that different, can they?
-=
-Woody_010_f.They don't have that tradition at real rodeos?
-@
-Woody_011_f1It was very popular at the rodeos in Andy's room.
-<
-Woody_003_f-Oh, you're missin' out! They're loads of fun.
-B
-Woody_004_f3I'm just thinkin' about how much fun rodeos can be.

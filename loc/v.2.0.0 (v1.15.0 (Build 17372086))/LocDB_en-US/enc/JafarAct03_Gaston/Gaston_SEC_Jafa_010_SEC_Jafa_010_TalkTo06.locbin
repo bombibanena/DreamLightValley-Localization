@@ -1,69 +1,0 @@
-
-=
-Gaston_001_f-Hey Gaston, got a moment to talk about Jafar?
-A
-Gaston_002_f1How strange. I was just talking with him earlier.
-D
-Gaston_003_f4Oh yeah? Was he mean? Nice? Somewhere in the middle?
-J
-Gaston_004_f:He was finally behaving right Ã¢Â€Â” he brought me a gift!
-+
-Player_000_choice_000_fHow kind of him!
-J
-Player_000_choice_001_f/Was this gift a snake statue with glowing eyes?
-0
-Gaston_009_f And it was even a gift I wanted.
-‹
-Gaston_011_f{Jafar gave me a set of weights! He said he saw me with coconut-based exercise equipment so he made me something more solid.
-}
-Gaston_005_fmHe also complimented me on my clothes. Said something about how <Lore>red and black</Lore> were noble colors.
-3
-Player_001_choice_000_fThat's quite unexpected!
-H
-Player_001_choice_001_f-Wow, really seems like he's making an effort!
-k
-Gaston_012_f[I agree. I never thought someone with such skinny arms would even know the word "exercise."
-Y
-Gaston_007_fIAnything else about your dealings with him that you'd like to pass along?
-4
-Gaston_008_f$Hmm... Yes! He also complimented me!
-0
-Gaston_015_f He said I was incredibly strong!
-+
-Gaston_016_fYeah? What was the context?
-n
-Gaston_017_f^Well, I was trying out the weights, swinging them around, and I nearly hit myself in the head.
-Â
-Gaston_018_f±I said something like "good thing that didn't hit my head!" and he said that even if it did, I'd be fine since I was "incredibly thick-headed." See, he complimented my strength!
-3
-Player_002_choice_000_f... Yes, so nice of him.
-4
-Player_002_choice_001_fThat's an insult, Gaston.
-+
-Gaston_019_fHe's all right, that Jafar!
-E
-Gaston_021_f5Okay, well thanks for answering my questions, Gaston.
-y
-Gaston_000_fiYou know, after hearing what everyone has told me... I think that maybe we should do something for Jafar.
-(
-Gaston_006_fAre you sure about that?
-b
-Gaston_023_fRYeah, well, it's clear that Jafar is trying to ingratiate himself to everyone now.
-M
-Gaston_024_f=We should do something to show that we appreciate the effort.
--
-Gaston_025_fShould we give him some eggs?
-“
-Gaston_026_f‚I wasn't thinking eggs. Let's see... he did kinda show his own interests with his gift choices Ã¢Â€Â” we should use that to start!
-Á
-Gaston_027_f°I've got it! We'll decorate around the Palace with furniture that's <Lore>Red</Lore>, <Lore>Black</Lore>, <Lore>Elegant</Lore>, <Lore>Bold</Lore>, and <Lore>Traditional</Lore>!
-\
-Gaston_028_fLMaybe I should talk to Merlin to get a little something extra special too...
-
-Gaston_022_fBye!
-?
-Gaston_020_f/But he said it so nicely! You must be mistaken.
-
-Gaston_013_fI agree.
-C
-Gaston_010_f3I know better than to accept a gift like that! Now.

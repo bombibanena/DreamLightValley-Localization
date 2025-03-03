@@ -1,41 +1,0 @@
-
-I
-Beast_000_f:I... Well, I don't have much to do. It can be... tiresome.
-Y
-Beast_001_fJI mustn't take up all of Belle's time, so without Lumiere and Cogsworth...
- 
-Beast_002_fI just... wander.
-4
-Player_000_choice_000_fHave you tried gardening?
-,
-Player_000_choice_001_fMeet some people!
-?
-Player_000_choice_002_f$You could always brood dramatically.
-]
-Beast_003_fNNo. But I do enjoy spending time in the greenhouse at home. What could I grow?
-,
-Player_001_choice_001_fTasty vegetables!
-1
-Player_001_choice_002_fWhatever inspires you!
-P
-Beast_005_fANo pressure — I want you to enjoy the Village at your own pace.
-H
-Beast_006_f9Thank you, {PlayerName}. I appreciate your consideration.
-"
-Beast_007_fThat would be nice.
-A
-Beast_008_f2That isn't easy for me. But I suppose I could try.
-$
-Beast_009_fYou're so good at it!
--
-Beast_010_fI... I suppose I deserve that.
-E
-Player_002_choice_000_f*But, hey, it's all right. I get moody too.
-J
-Player_002_choice_001_f/Yeah, you've gotta turn that frown upside down.
-J
-Player_002_choice_002_f/Well, everybody has bad days. Even yours truly.
->
-Beast_011_f/You do? It's kind of you to share that with me.
-_
-Beast_012_fPThat sounds like something Mrs. Potts would say. She has a... sunny personality.

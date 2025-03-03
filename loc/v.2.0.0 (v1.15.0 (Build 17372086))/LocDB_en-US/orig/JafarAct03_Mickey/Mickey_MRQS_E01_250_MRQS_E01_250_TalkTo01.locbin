@@ -1,49 +1,0 @@
-
-*
-Mickey_000_fMickey...? Is that you...?
-+
-Mickey_001_f{PlayerName}? Yep, it's me.
-+
-Mickey_002_fGosh, am I glad to see you!
-4
-Player_000_choice_000_fI'm glad to see you, too!
-3
-Player_000_choice_001_fHow did you end up here?
-b
-Player_000_choice_002_fGI don't mean to alarm you but... you're completely black and white now!
-f
-Mickey_003_fVI wasn't expecting to see a friend after I stepped through that portal. What happened?
-o
-Mickey_004_f_Remember how I kept flickerin' all black and white? And the world around me was flickerin' too?
-t
-Mickey_005_fdWelp, not too long ago, I blinked and when I opened my eyes... I was here. And now I can't get home!
-L
-Mickey_006_f<Wait ‚Äî hold on a minute... You're all black and white too!
-<
-Player_001_choice_000_f!It's something about this island.
-:
-Player_001_choice_001_fIt's a new look I'm trying out.
-+
-Player_001_choice_002_fIt's so weird!!!
-G
-Mickey_007_f7Yeah, it's almost like this place is stuck in the past.
-f
-Mickey_008_fVMickey, we need to get out of here. Jafar is trying to take over all of Eternity Isle.
-Ç
-Mickey_009_frThere has to be some way to <Lore>pass through this place and reach Jafar's throne room</Lore> so we can stop him.
-k
-Mickey_010_f[You're right, {PlayerName}. Hey, maybe there's something around here we can use to help us?
-l
-Mickey_011_f\I did see something that looked like <Lore>an old-timey projector</Lore> lying over there...
-0
-Mickey_012_f Well, you DO look pretty spiffy.
-é
-Mickey_013_f~Though, just speaking for myself, I don't wanna look like this forever. This place... it's almost like it's stuck in the past.
- 
-Mickey_014_fThat's for sure.
-Å
-Mickey_015_fqSpeaking for myself, I don't wanna look like this forever. This place... it's almost like it's stuck in the past.
-1
-Mickey_016_f!Heh. It's a pretty strange story.
-I
-Mickey_017_f9I know. Ever since I got here, I've been stuck like this.

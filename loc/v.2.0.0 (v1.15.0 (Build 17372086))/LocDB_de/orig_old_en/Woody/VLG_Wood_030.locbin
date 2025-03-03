@@ -1,49 +1,0 @@
-
-U
-CVillage!ToyStory!Woody!VLG_Wood_030_Any_CompletedRequestDescriptionTalk to Woody.
-‡
-8Village!ToyStory!Woody!VLG_Wood_030_AvailableDescriptionÊWoody remembered more about the Alien Toys and he's now very worried. They've never lived in the Village but have always stayed in the Claw Machine. He wants to help them by giving them back their home.
-°
-=Village!ToyStory!Woody!VLG_Wood_030_CompletedStoryDescriptionoFollowing the Space Ranger's clues, you've rescued all the Alien Toys and it's now time to bring them to Woody.
-A
-/Village!ToyStory!Woody!VLG_Wood_030_DisplayNameWanted: Aliens
-u
-@Village!ToyStory!Woody!VLG_Wood_030_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-[
-LVillage!ToyStory!Woody!VLG_Wood_030_Group01_Step01_Possess01_StepDescription{ItemName}.
-[
-LVillage!ToyStory!Woody!VLG_Wood_030_Group01_Step01_Possess02_StepDescription{ItemName}.
-[
-LVillage!ToyStory!Woody!VLG_Wood_030_Group01_Step01_Possess03_StepDescription{ItemName}.
-‘
-BVillage!ToyStory!Woody!VLG_Wood_030_Group01_Step01_StepDescriptionKGather the materials for the new <ActivityItem>Claw Machine</ActivityItem>:
-Š
-NVillage!ToyStory!Woody!VLG_Wood_030_Group02_Step02_CraftItem01_StepDescription8Craft the new <ActivityItem>Claw Machine</ActivityItem>.
-c
-;Village!ToyStory!Woody!VLG_Wood_030_Group03_StepDescription$Meet with Woody inside the Carousel.
-w
-@Village!ToyStory!Woody!VLG_Wood_030_Group04_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
-e
-CVillage!ToyStory!Woody!VLG_Wood_030_Group04_Step04_ReadyDescriptionBring the {ItemName} to Woody.
-z
-BVillage!ToyStory!Woody!VLG_Wood_030_Group04_Step04_StepDescription4Make sure you have the {ItemName} in your Inventory.
-u
-@Village!ToyStory!Woody!VLG_Wood_030_Group05_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
-e
-TVillage!ToyStory!Woody!VLG_Wood_030_Group05_Step05_TalkToCharacter01_StepDescriptionTalk to Buzz.
-®
-<Village!ToyStory!Woody!VLG_Wood_030_Group05_StoryDescriptionnAfter fixing the Claw Machine, it's time to find the Alien Toys. You decide to ask another space expert: Buzz.
-l
-NVillage!ToyStory!Woody!VLG_Wood_030_Group07_Step07_BringItem02_StepDescriptionUnder Dazzle Beach's sand.
-q
-NVillage!ToyStory!Woody!VLG_Wood_030_Group07_Step07_BringItem03_StepDescriptionFrozen in ice near a waterfall.
-v
-NVillage!ToyStory!Woody!VLG_Wood_030_Group07_Step07_BringItem04_StepDescription$In the ground near the Giant Willow.
-a
-NVillage!ToyStory!Woody!VLG_Wood_030_Group07_Step07_BringItem05_StepDescriptionIn Scar's Cave.
-
-CVillage!ToyStory!Woody!VLG_Wood_030_Group07_Step07_ReadyDescription:Give the <ActivityItem>Alien Toys</ActivityItem> to Woody.
-w
-BVillage!ToyStory!Woody!VLG_Wood_030_Group07_Step07_StepDescription1Find the <ActivityItem>Alien Toys</ActivityItem>:
-g
-6Village!ToyStory!Woody!VLG_Wood_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

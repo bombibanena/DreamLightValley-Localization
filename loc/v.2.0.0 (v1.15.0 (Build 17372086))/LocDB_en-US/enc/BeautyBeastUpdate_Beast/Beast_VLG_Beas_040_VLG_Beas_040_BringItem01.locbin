@@ -1,57 +1,0 @@
-
-(
-Beast_000_fFresh roses, as promised!
-E
-Beast_001_f6Excellent. Thank you, {PlayerName}. They're beautiful.
-6
-Player_000_choice_000_fI am an excellent gardener.
-b
-Player_000_choice_001_fGWith the Dreamlight Magic here, I'm sure they'll look even better soon!
-5
-Beast_002_f&What do you want to do with the roses?
-_
-Beast_003_fPI was hoping that you could help me distribute them among some of the Villagers.
-*
-Beast_004_fThat's so sweet! Of course!
-_
-Beast_005_fPI must give one to WALLÂ·E. I've learned many things about gardening from him.
->
-Beast_006_f/And Mirabel as well. She's been very welcoming.
-3
-Beast_007_f$WALLÂ·E and Mirabel â got it!
-$
-Beast_008_fAnd... Mother Gothel.
-+
-Player_001_choice_000_fExcuse me, what?
-0
-Player_001_choice_001_fThat's... surprising.
-7
-Player_001_choice_002_fAre these... poisoned roses?
-0
-Beast_009_f!I know that's an unusual request.
-O
-Beast_010_f@But she has left Belle and me alone since the... unpleasantness.
-k
-Beast_011_f\I wanted to give her something as a token of goodwill. I hope we can put our past behind us.
--
-Beast_012_fThat's very diplomatic of you!
-z
-Beast_013_fkThe remaining ones I will keep for now. Some will go to the greenhouse so we can create more rose plants...
-3
-Beast_014_f$And one, I have special plans for...
-
-Beast_015_fHow mysterious!
-�
-Beast_016_f|Well, I guess I'll be off on the deliveries to <Lore>WALLÂ·E</Lore>, <Lore>Mirabel</Lore>, and <Lore>Mother Gothel</Lore>!
-'
-Beast_017_fThank you, {PlayerName}.
-^
-Beast_018_fOI want to give her a reminder. Though I have chosen to move past her slights...
-O
-Beast_019_f@...as the rose has its thorns, I also defend what is dear to me.
-K
-Beast_020_f<... Yup, if I were Mother Gothel, I would heed that warning.
-D
-Beast_021_f5I know it must seem odd after what she said to Belle.
-D
-Beast_022_f5No! I would never do that. I know this must seem odd.

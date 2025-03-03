@@ -1,17 +1,0 @@
-
->
-Goofy_004_f/Hey there, {PlayerName}! What can I do for you?
-!
-Player_000_fI need to know...
-@
-Player_000_choice_000_f%What's your favorite day of the year?
-<
-Player_000_choice_001_f!How many ponds are in the Meadow?
-B
-Goofy_003_f3My favorite day of the year? Huh... let me think...
-)
-Goofy_005_fOh, I know! It's May 25th!
-7
-Goofy_006_f(Can't rightly recall why, though. Hmm...
-Y
-Goofy_007_fJGawrsh, that's a great question! I guess I never stopped to count 'em all!

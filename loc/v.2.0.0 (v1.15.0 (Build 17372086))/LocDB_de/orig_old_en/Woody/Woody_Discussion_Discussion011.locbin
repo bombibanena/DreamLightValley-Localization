@@ -1,39 +1,0 @@
-
-N
-Woody_000_f?Hey {PlayerName} — be a pal and settle a little disagreement.
-E
-Woody_001_f6Which is harder: ridin' a horse or flyin' a spaceship?
-*
-Player_000_choice_000_fRiding a horse.
-.
-Player_000_choice_001_fFlying a spaceship.
-?
-Player_000_choice_002_f$They're both hard in their own ways.
-#
-Woody_002_fExactly. You get it!
-e
-Woody_003_fVWhen you're ridin' a horse, you've gotta understand the horse, guide 'em, protect 'em.
-O
-Woody_004_f@You really have to get to know your steed. They're your partner.
-?
-Player_001_choice_000_f$Hm. Relationships ARE complicated...
-;
-Player_001_choice_001_f I guess it depends on the horse.
-7
-Player_001_choice_002_fWhat about... a space-horse?
-3
-Woody_005_f$Couldn't have said it better myself.
-#
-Woody_006_fY'know, that's fair.
-B
-Woody_007_f3And I'll bet it all depends on the spaceship too...
-+
-Woody_008_fWhy don't we call it a draw?
-6
-Woody_009_f'A space-horse? Have they got those now?
-C
-Woody_010_f4I'll have to ask Buzz. They must be sold separately.
-T
-Woody_011_fEWhat?! No, no, no! Spaceships are all just buttons and blinky lights.
-o
-Woody_012_f`Okay, fine. You MAY be right. But on a spaceship, all you've gotta do is push the right buttons.

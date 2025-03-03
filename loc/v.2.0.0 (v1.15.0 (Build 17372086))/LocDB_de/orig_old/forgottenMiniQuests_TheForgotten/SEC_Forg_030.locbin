@@ -1,45 +1,0 @@
-
-�
-QSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Any_CompletedRequestDescriptionGПроверьте забытые после чтения поэзии.
-y
-FSecret!DreamlightValley!TheForgotten!SEC_Forg_030_AvailableDescription/The Forgotten нужна твоя помощь.
-�
-KSecret!DreamlightValley!TheForgotten!SEC_Forg_030_CompletedStoryDescriptionMЧтение поэзии было вдохновляющим успехом!
-h
-=Secret!DreamlightValley!TheForgotten!SEC_Forg_030_DisplayName'Поэтическая лицензия
-�
-bSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group01_Step01_TalkToCharacter01_StepDescriptionПроверь забытое.
-�
-ISecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group01_StepDescriptionYThe Forgotten кажется сегодня в заботливом настроении.
-x
-PSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group02_Step02_StepDescription$Ревнивый правитель?
-�
-PSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group02_Step03_StepDescriptionOКто-то нервничает о том, чтобы стать старше?
-�
-PSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group02_Step04_StepDescriptionCКто-то, кто был несправедливо изгнан?
-�
-ISecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group02_StepDescriptionOПозвони поэзии другим деревенским жителям:
-�
-JSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group02_StoryDescription�The Forgotten пытается выразить эмоции через поэзию, но... ну... рифмуться тяжело.
-�
-bSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group03_Step05_TalkToCharacter08_StepDescriptioneВозвращайся в "Забытый", чтобы закончить стихотворение.
-�
-JSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group03_StoryDescriptiongВам помогут какие-то неверные источники... злодеи Долины!
-k
-\Secret!DreamlightValley!TheForgotten!SEC_Forg_030_Group04_Step06_BringItem01_StepDescription{ItemName}.
-k
-\Secret!DreamlightValley!TheForgotten!SEC_Forg_030_Group04_Step06_BringItem02_StepDescription{ItemName}.
-k
-\Secret!DreamlightValley!TheForgotten!SEC_Forg_030_Group04_Step06_BringItem03_StepDescription{ItemName}.
-k
-\Secret!DreamlightValley!TheForgotten!SEC_Forg_030_Group04_Step06_BringItem04_StepDescription{ItemName}.
-�
-QSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group04_Step06_ReadyDescriptionBВозвращайтесь к забытым материалам.
-�
-PSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group04_Step06_StepDescriptionvСобирайте материалы для создания <ActivityItem>the Forgue's Poetry Corner</ActivityItem>:
-�
-[Secret!DreamlightValley!TheForgotten!SEC_Forg_030_Group05_Step07_Decorate01_StepDescriptionbМесто <ActivityItem>the Forget's Poetry Corner</ActivityItem> в Забытых землях.
-�
-JSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group05_StoryDescriptionkThe Forgotten решает поделиться своими стихами со всей деревней.
-�
-XSecret!DreamlightValley!TheForgotten!SEC_Forg_030_Group06_Step08_Party01_StepDescription7Наслаждайтесь чтением поэзии.

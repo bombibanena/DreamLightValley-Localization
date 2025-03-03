@@ -1,61 +1,0 @@
-
-3
-Jafar_002_f$Boom, look at that successful setup!
-'
-Jafar_003_fYes, I am quite pleased.
-@
-Jafar_004_f1You are nearly as efficient an assistant as Iago.
-<
-Player_000_choice_000_f!At least I have opposable thumbs.
-;
-Player_000_choice_001_f Are you calling me bird-brained?
-P
-Jafar_007_fATrue. Yet it is remarkable what Iago can accomplish without them.
-¥
-Jafar_017_f•You should be able to use the <ActivityItem>Geometrically Repaired Objects</ActivityItem> to return the planar topography to its expected dimensions.
-»
-Jafar_000_f«However, I suspect that you may need to experiment with the placement. My analysis was unable to determine the exact configuration required to solve this once and for all.
-?
-Player_001_choice_000_f$How did you get so good at geometry?
-(
-Player_001_choice_001_fGreat, on it!
-y
-Jafar_008_fjOkay, well are we going to fix this problem, or did you just want to be mean and then go back in the lamp?
-9
-Jafar_009_f*Let us not be hasty â€” much work remains.
-%
-Jafar_010_fThat's what I thought.
-9
-Jafar_011_f*My research has uncovered a worrying fact.
-s
-Jafar_012_fdThe objects we have repaired may only be a symptom of a flattening plague affecting the entire Isle.
--
-Jafar_014_fOh... that doesn't sound good.
-:
-Jafar_015_f+Indeed, but with my help it can be stopped.
-•
-Jafar_013_f…In addition to my knowledge of the arcane, I also possess an endless well of more mundane knowledge. That is... of the natural world.
-{
-Jafar_018_flAgrabah has long been a center of learning, and I have studied the works of all its best mathematical minds.
-;
-Jafar_019_f,I doubt you would have heard of any of them.
-+
-Player_002_choice_000_fI dunno; try me!
-;
-Player_002_choice_001_f Yeah, math isn't my strong suit.
-S
-Jafar_020_fDAnother time. I presume you have more pressing matters to attend to?
-†
-Jafar_024_fwOkay, Jafar. Be that way. I'm off to try and fix things for good. Hope your geometry skills were enough to settle this!
-2
-Jafar_025_f#Trust me, {PlayerName}... they are.
-@
-Jafar_021_f1One wonders if you possess suits of any strength.
-*
-Jafar_022_fYou're trying to insult me?
-0
-Jafar_023_f!I am not trying. I am succeeding.
-Q
-Jafar_026_fBHope your geometry skills were good enough to do the trick here...
-G
-Jafar_006_f8Hardly. I would not wish to insult my feathered friends.

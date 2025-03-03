@@ -1,79 +1,0 @@
-
-/
-Hades_001_f Hey Hades, you wanted to see me?
-J
-Hades_002_f;Yes! You! Sit down; I want to talk leadership with someone.
-4
-Player_000_choice_000_fI'll stand â€” what's up?
-6
-Player_000_choice_001_fI can't deal with this now.
-Œ
-Hades_003_f}I have some questions for you. When I say "Hades is a skilled and inspiring leader," how do you feel about that statement...?
-=
-Hades_004_f.Strongly agree, neutral, or strongly disagree?
-*
-Player_001_choice_000_fStrongly agree!
-#
-Player_001_choice_001_fNeutral.
--
-Player_001_choice_002_fStrongly disagree!
-9
-Hades_005_f*FINALLY! I have been waiting to hear that!
-X
-Hades_014_fISo far you're the only person to give a positive response to this survey.
-P
-Hades_017_fAWhich is ridiculous. Clearly, I'm a skilled and inspiring leader.
-0
-Hades_019_f!Maybe you need a new perspective?
-U
-Hades_020_fFWhat? No. I need... I need to show that I'm better than everyone else.
-w
-Hades_021_fhMaybe I have a flaw... or half a flaw... but I'm still a better boss than the other dolts in this place.
-•
-Hades_022_f…What if you try to work at some of the businesses around here? Maybe you can pick up some management tips, see how others run things.
-¸
-Hades_023_f¨Okay. Yeah, I see where you're goin' here. Because then I'll KNOW exactly how much better I am than they are! I knew there was a reason I kept you around, {PlayerName}.
-J
-Player_003_choice_000_f/Because Pain and Panic are terrible assistants?
-B
-Player_003_choice_001_f'Because I actually know what I'm doing?
-]
-Player_003_choice_002_fBBecause I have incredible magic that helps this land stay healthy?
-4
-Hades_024_f%What can I say? Both things are true.
-Š
-Hades_027_f{Why don't you go talk to Remy for me? I'm sure you can convince him to let me run things at the ol' restaurant for a while.
-^
-Hades_028_fOI've even got a recipe for a Grecian Baked Fish that'll knock your sandals off.
-0
-Hades_029_f!All right, I'll go talk to him...
-
-Hades_025_f	At times.
-B
-Hades_026_f3Do I look like a horticulturist to you? Don't care.
-D
-Hades_015_f5Even you don't recognize my innate management skills.
-1
-Hades_016_f"You're as bad as the rest of them!
-\
-Hades_018_fMI work my fingers to the bone in the Underworld and this is the thanks I get?
-
-Hades_006_fReally?
-M
-Hades_007_f>Because... you think that I'm MORE than skilled and inspiring?
-#
-Player_002_choice_000_fExactly.
-"
-Player_002_choice_001_f... No.
-"
-Hades_008_fYes... Good mortal.
-$
-Hades_009_fI'm not a dog, Hades.
-R
-Hades_010_fCNo, you're a mortal. And ya know what; now that I think about it...
-
-Hades_011_fNO?!
-*
-Hades_012_fDon't blow your top, Hades.
-(
-Hades_013_fDON'T TELL ME WHAT TO DO!

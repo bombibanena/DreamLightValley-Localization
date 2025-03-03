@@ -1,72 +1,0 @@
-
-8
-
-Buzz_000_f*You want me to audition for a play? Hmm...
-!
-
-Buzz_009_f"I am Donald Duck."
-<
-Player_000_f,Uh... could you try it with a little more...
-&
-Player_000_choice_000_f...emotion?
-%
-Player_000_choice_001_f
-...energy?
-2
-Player_000_choice_002_f...Donald Duck-ishness?
-
-
-Buzz_001_fWhat's the role?
-e
-
-Buzz_002_fWDonald Duck. We thought you could pull off the bravery and heroism needed for the part.
-2
-
-Buzz_003_f$Why, um... thank you. I'm flattered.
-:
-
-Buzz_004_f,Perhaps I should audition for you right now.
-F
-
-Buzz_005_f8Uh... okay, but it's actually Olaf who you need toâ
-6
-
-Buzz_006_f(Ahem, ahem. Just getting into character.
-
-
-Buzz_007_f"Hello there."
-
-
-Buzz_008_f"..."
-=
-
-Buzz_010_f/Of course. Let me take it again from the top...
-
-
-Buzz_011_f"HELLO THERE!!!"
-
-
-Buzz_012_f"I..."
-
-
-Buzz_013_f"...AM DONALD..."
-
-
-Buzz_014_f"...DUCK!!!"
-
-Player_001_fUh...
-H
-Player_001_choice_000_f-I think we're going in a different direction.
-I
-Player_001_choice_001_f.Thanks! Bye! We'll let you know if you got it!
-I
-Player_001_choice_002_f.Your talents would be wasted on local theater.
-�
-
-Buzz_015_fzOf course. I... I understand. Let me know if there's another role that might be better suited to my talents as a thespian.
-d
-
-Buzz_016_fVRoger that. And thank you for your direction. You, my friend, are a real professional.
-8
-
-Buzz_017_f*You really think so? Thanks, {PlayerName}!

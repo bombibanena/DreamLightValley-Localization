@@ -1,49 +1,0 @@
-
-S
-Minnie_000_fC{PlayerName}, there's someone in the Village I'd like to talk to...
-J
-Minnie_001_f:...but I have to admit that I'm a little nervous about it.
-*
-Player_000_choice_000_fHow can I help?
-E
-Player_000_choice_001_f*I get nervous about talking to people too.
-K
-Player_000_choice_002_f0No need to be nervous! Everyone here is so nice.
-.
-Minnie_002_fCould you give me some advice?
-4
-Minnie_005_f$You see, I'd like to talk to Ursula.
->
-Minnie_008_f.Ursula? What do you want to talk to her about?
-v
-Minnie_009_ffWell, I like to be friends with all my neighbors, so I was hoping we could find some things in common.
-5
-Minnie_010_f%But I'm not sure she'd be open to it.
-B
-Player_001_choice_000_f'Talk to her like you would anyone else.
-P
-Player_001_choice_001_f5She's pretty friendly. Just don't sign any contracts.
-F
-Player_001_choice_002_f+Better not to talk to her. She's a villain.
-1
-Minnie_011_f!Are you certain? Is it that easy?
-j
-Minnie_017_fZDefinitely. I'll bet if you give Ursula a compliment, you'll become her favorite Villager.
-B
-Minnie_016_f2Well, I'll give it a try. Thank you, {PlayerName}!
->
-Minnie_012_f.Oh, I'd never do that! I know she's a villain.
-7
-Minnie_014_f'But everyone should have a few friends.
-H
-Minnie_013_f8Oh, I know that. But everyone should have a few friends.
-[
-Minnie_015_fKI'll think about it. Thank you for always looking out for us, {PlayerName}.
-9
-Minnie_003_f)It can be scary to talk to someone new...
-:
-Minnie_006_f*...especially when that someone is Ursula.
-5
-Minnie_004_f%That's true. Most everyone here is...
-6
-Minnie_007_f&...but I was hoping to talk to Ursula.

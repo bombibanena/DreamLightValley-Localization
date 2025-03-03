@@ -1,6 +1,0 @@
-TAG: Scrooge_000_f
-Чем могу помочь, {PlayerName}?
-
-TAG: Scrooge_001_f
-У меня есть для вас этот <ActivityItem>Condened Building Sign</ActivityItem>.
-

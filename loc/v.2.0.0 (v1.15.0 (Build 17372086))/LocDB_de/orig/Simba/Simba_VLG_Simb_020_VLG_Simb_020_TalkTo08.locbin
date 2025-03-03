@@ -1,23 +1,0 @@
-
-6
-Simba_001_f'{PlayerName}! That gathering was great!
-H
-Simba_002_f9Everyone really got into the <i>hakuna matata</i> spirit.
-q
-Simba_003_fbNow, uh, since she wasn't at the party, I think we should go talk to Nala and see how she's doing.
-D
-Player_000_choice_000_f)She must want to tell you you were right.
-@
-Player_000_choice_001_f%What do you think she's going to say?
-#
-Player_000_choice_002_fUh-oh...
-3
-Simba_000_f$Nah. It isn't about right and wrong.
-X
-Simba_006_fII think both our ideas could help the Valley... I hope she thinks so too.
-/
-Simba_007_f Don't worry. I'll come with you.
-
-Simba_004_fI'm not sure.
-*
-Simba_005_fDon't worry. It'll be fine.

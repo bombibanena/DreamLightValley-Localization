@@ -1,31 +1,0 @@
-
-ƒ
-Ursula_001_fsWell done, {PlayerName}! You have my <ActivityItem>Ice Shards</ActivityItem> and <ActivityItem>Snow</ActivityItem>!
-9
-Ursula_002_f)They'll be perfect for my little project.
-
-Player_000_fA project...
-1
-Player_000_choice_000_fCan I be a part of it?
-4
-Player_000_choice_001_fWhat do you have in mind?
-2
-Player_000_choice_002_fIs this another scheme?
-#
-Ursula_004_fNot yet, angelfish.
-{
-Ursula_005_fkDespite what everyone seems to think of me, there's more to my days than making deals and creating potions.
-”
-Ursula_007_fƒNow that I can walk around like this, I'm craving something refreshing for the hot days on the beach. Something with fruit and ice.
-
-Ursula_008_fLike a sorbet?
-
-Ursula_000_fA sorbet...?
-E
-Ursula_003_f5It's exactly what you're describing. Ice and fruit...
-<
-Ursula_009_f,Perfect! And now I'm only missing the fruit.
-t
-Ursula_010_fdBe a dear and bring me some <ActivityItem>Red Fruit</ActivityItem> while I whip up the rest of this.
-'
-Ursula_006_fDon't worry, angelfish.

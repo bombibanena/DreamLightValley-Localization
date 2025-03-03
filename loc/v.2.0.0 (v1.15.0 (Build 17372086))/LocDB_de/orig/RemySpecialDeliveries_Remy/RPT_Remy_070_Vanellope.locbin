@@ -1,71 +1,0 @@
-
-v
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Any_CompletedRequestDescription Return to Remy for your rewards.
-ë
-GRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_AvailableDescriptionFRemy has a special delivery order! Today's hungry Villager: Vanellope!
-Z
->Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_DisplayNameBon App√©tit, Vanellope!
-®
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group01_Step01_CookMeal01_StepDescriptionHCook Vanellope some <ActivityItem>5-Star Vegetable Meals</ActivityItem>.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal02_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal03_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_Step02_CookMeal04_StepDescription{ItemName}.
-a
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group02_StepDescriptionCook for Vanellope:
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal05_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal06_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal07_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal08_StepDescription{ItemName}.
-k
-\Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_Step03_CookMeal09_StepDescription{ItemName}.
-o
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group03_StepDescription!Cook the following for Vanellope:
-°
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group04_Step04_ReadyDescriptionKBring the <ActivityItem>5-Star Vegetable Meals</ActivityItem> to Vanellope.
-õ
-QRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group04_Step04_StepDescriptionFGet <ActivityItem>5-Star Vegetable Meals</ActivityItem> for Vanellope.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem02_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem03_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_BringItem04_StepDescription{ItemName}.
-y
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_ReadyDescription#Bring the spicy meals to Vanellope.
-u
-QRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group05_Step05_StepDescription Get the following for Vanellope:
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem05_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem06_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem07_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem08_StepDescription{ItemName}.
-l
-]Repeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_BringItem09_StepDescription{ItemName}.
-ì
-RRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_ReadyDescription=Bring the <ActivityItem>Boba Tea</ActivityItem> to Vanellope.
-u
-QRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group06_Step06_StepDescription Get the following for Vanellope:
-
-ZRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group07_Step07_Listen01_StepDescription!Follow Vanellope to find out who.
-à
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group07_StepDescription:Uh oh. Sounds like Vanellope is trying to annoy someone...
-ë
-ZRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group08_Step08_Listen02_StepDescription3Follow Vanellope to find out who the final boss is.
-ä
-JRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group08_StepDescription<Vanellope said something about taking on the "final boss"...
-|
-cRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group09_Step09_TalkToCharacter01_StepDescriptionCheck in with Merlin.
-î
-cRepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_Group10_Step10_TalkToCharacter02_StepDescription-Talk to Scrooge McDuck to smooth things over.
-v
-ERepeatable!Ratatouille!Remy!RPT_Remy_070_Vanellope_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

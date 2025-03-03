@@ -1,6 +1,0 @@
-TAG: Belle_000_f
-I'm reading the most wonderful book, {PlayerName}! I can't wait to tell you about it.
-
-TAG: Player_000_exit_000_f
-Please â no spoilers!
-

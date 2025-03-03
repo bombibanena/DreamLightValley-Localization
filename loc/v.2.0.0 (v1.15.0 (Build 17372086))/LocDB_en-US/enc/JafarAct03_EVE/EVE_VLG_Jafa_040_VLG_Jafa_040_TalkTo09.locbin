@@ -1,21 +1,0 @@
-
-)
-	EVE_000_fHey EVE, how you holding up?
-Œ
-	EVE_009_fCool! The trial will be happening in the <Lore>Ancient Ruins</Lore>. I'll make sure you get informed when we're ready to start.
-
-	EVE_001_fUh... Directive?
-K
-	EVE_002_f>Oh, I'm in the middle of putting a trial together for Jafar...
-
-	EVE_003_fWhoo!
-6
-	EVE_004_f)Ha! Thought you might be happy with that.
-@
-	EVE_005_f3I was hoping you could help me with something else.
-K
-	EVE_006_f>I need someone to keep an eye on Jafar until the trial starts.
-s
-	EVE_007_ffIf he starts building some suspicious-looking machine, you have my permission to use your laser on it.
-
-	EVE_008_fDirective! Whoo!

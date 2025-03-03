@@ -1,6 +1,0 @@
-TAG: Flynn_000_f
-Эй {PlayerName}, ты уже <Lore>talk Аид</Lore>?
-
-TAG: Flynn_001_f
-Пока нет, но я сделаю это как можно скорее!
-
