@@ -43,7 +43,7 @@
 
 ### Версии
 
-- [v1.14.1.990 + 2 DLC](https://github.com/bombibanena/DreamLightValley-Localization/releases/tag/v.2.0.0-v1.14.1.990%2B2DLC)
+- [v1.14.1.990 + 2 DLC](https://github.com/bombibanena/DreamLightValley-Localization/releases/tag/v.1.0.0-v1.14.1.990%2B2DLC)
 - [Build 17372086 - Tales of Agrabah](https://github.com/bombibanena/DreamLightValley-Localization/releases/tag/v.1.0.0-Build-17372086) (от 27.02.2025)
 
 
