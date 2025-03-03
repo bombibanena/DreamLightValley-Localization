@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package translation;
+option go_package = "translation.v1";
+
+service TranslationService {
+    rpc Translate (TranslationRequest) returns (TranslationResponse);
+}
+
+message TranslationRequest {
+    string text = 1;
+}
+
+message TranslationResponse {
+    string data = 1;
+}
