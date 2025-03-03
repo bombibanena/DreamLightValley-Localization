@@ -1,0 +1,83 @@
+
+S
+;Premium!WallE!PRM_WallE_030_Any_CompletedRequestDescriptionTalk to {TargetNPC}.
+j
+0Premium!WallE!PRM_WallE_030_AvailableDescription6WALLÂ·E is back with a new plan â€” get a party going!
+\
+LPremium!WallE!PRM_WallE_030_Group01_Step01_TalkToCharacter01_StepDescription{TargetNPC}.
+U
+FPremium!WallE!PRM_WallE_030_Group02_Step02_BringItem01_StepDescription{itemName}.
+h
+;Premium!WallE!PRM_WallE_030_Group02_Step02_ReadyDescription)Bring the requested items to {TargetNPC}.
+d
+LPremium!WallE!PRM_WallE_030_Group04_Step04_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+U
+HPremium!WallE!PRM_WallE_030_Group05_Step05_TakePicture01_StepDescription	Villager.
+p
+LPremium!WallE!PRM_WallE_030_Group06_Step06_TalkToCharacter04_StepDescription Bring the photos to {TargetNPC}.
+d
+LPremium!WallE!PRM_WallE_030_Group07_Step07_TalkToCharacter05_StepDescriptionTalk to {TargetNPC}.
+¤
+DPremium!WallE!PRM_WallE_030_Group08_Step08_DressUp01_StepDescription\Put on <ActivityItem>WALLÂ·E</ActivityItem> and <ActivityItem>Mirabel</ActivityItem>'s gift.
+d
+LPremium!WallE!PRM_WallE_030_Group09_Step09_TalkToCharacter06_StepDescriptionTalk to {TargetNPC}.
+|
+EPremium!WallE!PRM_WallE_030_Group10_Step10_Decorate01_StepDescription3Place {itemName} where you decorated in the Forest.
+i
+BPremium!WallE!PRM_WallE_030_Group11_Step11_Party01_StepDescription#Party with {TargetNPC} and friends!
+†
+;Premium!WallE!WallE!PRM_WallE_030_CompletedStoryDescriptionGAfter placing WALLÂ·E's phonograph, the party went off without a hitch!
+A
+-Premium!WallE!WallE!PRM_WallE_030_DisplayNameStrut Your Stuff
+\
+@Premium!WallE!WallE!PRM_WallE_030_Group01_Step01_StepDescriptionTalk to these Villagers:
+b
+RPremium!WallE!WallE!PRM_WallE_030_Group01_Step01_TalkToCharacter07_StepDescription{TargetNPC}.
+`
+9Premium!WallE!WallE!PRM_WallE_030_Group01_StepDescription#WALLÂ·E wants to get a party going!
+[
+LPremium!WallE!WallE!PRM_WallE_030_Group02_Step02_BringItem02_StepDescription{itemName}.
+[
+LPremium!WallE!WallE!PRM_WallE_030_Group02_Step02_BringItem03_StepDescription{itemName}.
+y
+@Premium!WallE!WallE!PRM_WallE_030_Group02_Step02_StepDescription5Make sure you have these materials in your Inventory:
+j
+RPremium!WallE!WallE!PRM_WallE_030_Group02_Step12_TalkToCharacter02_StepDescriptionTalk to {TargetNPC}.
+l
+RPremium!WallE!WallE!PRM_WallE_030_Group03_Step03_TalkToCharacter08_StepDescriptionReturn to {TargetNPC}.
+Ø
+:Premium!WallE!WallE!PRM_WallE_030_Group04_StoryDescription™Mirabel and Woody's tasks have been taken care of, but what the party really needs is someone fun and silly to help the mood along! Someone like Goofy...
+c
+NPremium!WallE!WallE!PRM_WallE_030_Group05_Step05_TakePicture02_StepDescriptionAnimal Companion.
+c
+NPremium!WallE!WallE!PRM_WallE_030_Group05_Step05_TakePicture03_StepDescriptionVillager's House.
+]
+NPremium!WallE!WallE!PRM_WallE_030_Group05_Step05_TakePicture05_StepDescriptionFruit Tree.
+\
+9Premium!WallE!WallE!PRM_WallE_030_Group05_StepDescriptionTake pictures of your favorite:
+¢
+:Premium!WallE!WallE!PRM_WallE_030_Group07_StoryDescriptiondWith Mirabel, Woody and Goofy all confirmed for the party, there are just a few preparations left...
+o
+KPremium!WallE!WallE!PRM_WallE_030_Group08_Step13_Decorate02_StepDescription Paths to set up the dance floor.
+V
+KPremium!WallE!WallE!PRM_WallE_030_Group08_Step13_Decorate03_StepDescriptionLights.
+g
+KPremium!WallE!WallE!PRM_WallE_030_Group08_Step13_Decorate04_StepDescriptionTraditional Decorations.
+j
+@Premium!WallE!WallE!PRM_WallE_030_Group08_Step13_StepDescription&Set up the dancing area in the Forest.
+Š
+:Premium!WallE!WallE!PRM_WallE_030_Group10_StoryDescriptionLThe party is almost ready to start! Just one last bit of decoration to go...
+Y
+JPremium!WallE!WallE!PRM_WallE_030_Group12_Step14_Possess01_StepDescription{itemName}.
+Y
+JPremium!WallE!WallE!PRM_WallE_030_Group12_Step14_Possess02_StepDescription{itemName}.
+Y
+JPremium!WallE!WallE!PRM_WallE_030_Group12_Step14_Possess03_StepDescription{itemName}.
+[
+@Premium!WallE!WallE!PRM_WallE_030_Group12_Step14_StepDescriptionGather these materials:
+{
+NPremium!WallE!WallE!PRM_WallE_030_Group12_Step15_MineMineral02_StepDescription)Break all the Mining Rocks in the Forest.
+º
+:Premium!WallE!WallE!PRM_WallE_030_Group12_StoryDescription|You're on the hunt for party-goers, but Mirabel and Woody both need some help before they're free to attend WALLÂ·E's party.
+_
+.Premium!WallE!PRM_WallE_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

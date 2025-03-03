@@ -1,0 +1,73 @@
+
+F
+
+Olaf_000_f8Did you talk to Donald and Kristoff? Tell me everything.
+^
+
+Olaf_001_fPWait, wait... let me close my eyes, so I can picture it all in my imagination...
+x
+
+Olaf_002_fjWell... it all started on the Sunlit Plateau when they faced down a dragon... or possibly a hummingbird...
+K
+
+Olaf_003_f=And that's it! That's everything Kristoff and Donald told me.
+A
+
+Olaf_004_f3But that's two completely different stories. Huh...
+5
+
+Olaf_005_f'Who do you think was telling the truth?
+$
+Player_000_choice_000_f	Kristoff.
+"
+Player_000_choice_001_fDonald.
+?
+Player_000_choice_002_f$Truth is in the eye of the beholder.
+`
+
+Olaf_006_fRI'm sure you're right. Kristoff's very honest, and his story is more believable...
+M
+
+Olaf_015_f?...the <Lore>Pillar of Courage</Lore> in the Forest of Valor...
+M
+
+Olaf_016_f?...the <Lore>Elephant Graveyard</Lore> on the Sunlit Plateau...
+C
+
+Olaf_017_f5...and the <Lore>Ruins</Lore> in the Forgotten Lands?
+)
+
+Olaf_018_fWill do! I'll be back soon.
+7
+
+Olaf_007_f)...but Donald's is so much more exciting!
+e
+
+Olaf_008_fWI'm gonna ask him to help me write the scripts. This is going to be a play to remember.
+7
+
+Olaf_009_f)Oh, but this story has so many locations.
+M
+
+Olaf_010_f?The Sunlit Plateau, the Forgotten Lands, the Forest of Valor...
+]
+
+Olaf_011_fOI really should see them all while I write so I can fully capture the ambiance.
+¡
+
+Olaf_012_f’No problem. I have this thing called a "camera." I can use it to take some pictures for you. Then you'll be able to look at them to set the scene!
+e
+
+Olaf_013_fWThat would be wonderful! Thank you, {PlayerName}. You're truly a friend of the theater.
+-
+
+Olaf_014_fCould you get me pictures of...
+B
+
+Olaf_019_f4Really? Great! Donald's story is much more exciting!
+Z
+
+Olaf_020_fLI'm afraid that theme won't be very gripping for our audience, {PlayerName}.
+_
+
+Olaf_021_fQThey want excitement... and Donald's version of the story was much more exciting!

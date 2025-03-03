@@ -1,0 +1,29 @@
+
+;
+Scrooge_000_f*Ah, {PlayerName}! I was hoping to see you.
+W
+Scrooge_001_fFHas Flynn Rider decided to take me up on my offer to publish his book?
+H
+Player_000_choice_000_f-We've decided to go in a different direction.
+K
+Player_000_choice_001_f0Actually, we need you for something even BETTER!
+2
+Player_000_choice_002_fUm... uh... no comment?
+<
+Scrooge_002_f+Och, don't tell me you're goin' with Goofy?
+e
+Scrooge_005_fTGoofy would have done a great job! But... no, we've decided to self-publish instead.
+_
+Scrooge_008_fNSelf-publish? What an interesting choice. I suppose I can see how that'd work.
+Ÿ
+Scrooge_009_fTo help market, we're organizing a book signing. I'll need to order an <ActivityItem>Ink and Feather Set</ActivityItem> to get things set up.
+V
+Scrooge_012_fEWell, at least you're here to do SOME business. Let's get you sorted!
+*
+Scrooge_003_fBetter? What do you mean?
+F
+Scrooge_006_f5Well, we've decided to self-publish the book instead.
+Z
+Scrooge_004_fIThat sounds suspiciously like you have NOT chosen me to publish the book.
+I
+Scrooge_007_f8Unfortunately no. We've decided to self-publish instead.

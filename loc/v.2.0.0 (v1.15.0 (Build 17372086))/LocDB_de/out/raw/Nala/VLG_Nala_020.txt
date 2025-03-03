@@ -1,0 +1,42 @@
+TAG: Village!LionKing!Nala!VLG_Nala_020_CompletedStoryDescription
+Together, you and Nala discover that the rifts are rips in reality between Dreamlight Valley and the Here and There. Ursula promises to help fix them, but she'll need some time. All that remains is to check in with Nala and see how she feels.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_DisplayName
+Fishy Business
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group02_Step02_ReadyDescription
+Show the <ActivityItem>Lioness Statue</ActivityItem> and the photograph to Nala.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group02_Step02_StepDescription
+Gather the <ActivityItem>Lioness Statue</ActivityItem> on Skull Rock near Dazzle Beach.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group02_StoryDescription
+You found a strange statue that looks just like Nala, half-buried in the sand. Digging it out caused a mysterious, mystical rift to appear. You'll need to investigate to see if any others opened.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group03_Step03_Possess01_StepDescription
+The Glade of Trust.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group03_StepDescription
+Search for more buried <ActivityItem>Lioness Statues</ActivityItem> near mystical rifts in:
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group04_StoryDescription
+It seems like something escaped the rift and startled Goofy. You'll need to talk to him.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group06_StoryDescription
+In the ocean near the mystical rift, you catch an ugly fish that's shimmering and glowing and seems to be caught halfway between the Here and There...
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group07_StoryDescription
+With Dark Magic and strange sea creatures afoot, you and Nala decide to consult an expert: Ursula.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group08_Step08_Possess03_StepDescription
+Gather the half-buried <ActivityItem>Lioness Statue</ActivityItem> on Skull Rock near Dazzle Beach.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group08_Step08_StepDescription
+Make sure you have the <ActivityItem>Lioness Statues</ActivityItem> and the <ActivityItem>Weird Fish</ActivityItem> in your Inventory.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group09_Step09_TakePicture01_StepDescription
+Take a photo of the strange <Lore>Mystical Rift</Lore> to show to Nala.
+
+TAG: Village!LionKing!Nala!VLG_Nala_020_Group09_StepDescription
+Something just started glittering in the water just off of Skull Rock...
+

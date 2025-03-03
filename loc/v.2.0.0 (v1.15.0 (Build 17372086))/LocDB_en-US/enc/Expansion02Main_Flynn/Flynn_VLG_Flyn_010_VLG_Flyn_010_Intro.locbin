@@ -1,0 +1,43 @@
+
+o
+Flynn_000_f`Hey, {PlayerName}! Got a sec? I could use your help with some lingering Wolf of the Wilds stuff.
++
+Player_000_choice_001_fSure, what's up?
+5
+Player_000_choice_002_fSorry, I'm busy right now!
+�
+Flynn_003_f�Weeellll... if I'm being perfectly honest â which I promise I am â I'm having a little trouble shaking some unfortunate wolfy habits.
+
+Flynn_006_f"Wolfy habits"?
+I
+Flynn_007_f:Yeah. For example, I just want to chase stuff. Constantly!
+)
+Player_001_choice_000_fWhat can I do?
+5
+Player_001_choice_001_fThat doesn't sound good...
+E
+Player_001_choice_002_f*I'm scared to ask but... what do you mean?
+h
+Flynn_009_fYIt's those frog things made out of paper. They're everywhere and they're so irresistible!
+B
+Flynn_001_f3I literally HAVE to chase them whenever I see them.
+S
+Flynn_002_fDYou must mean the Frog Snippets! That does sound pretty frustrating.
+Y
+Flynn_014_fJWhat if I go <Lore>catch some of the Frog Snippets</Lore> to help you out?
+%
+Flynn_015_fThat would be amazing!
+y
+Flynn_004_fjOnce I've cleared a few, I'll <Lore>ask the Lorekeeper</Lore> if there's a way to keep them away from you.
+K
+Flynn_008_f<Oh, you don't know how much I appreciate this, {PlayerName}.
+*
+Flynn_010_fIt most certainly is not...
+C
+Flynn_012_f4I'm telling you: Those frog things are irresistible!
+4
+Flynn_011_f%It's not so much scary as ridiculous.
+l
+Flynn_013_f]You know those frog things hopping all over the place? They're completely irresistible to me.
+5
+Flynn_005_f&Understood. We'll talk about it later!

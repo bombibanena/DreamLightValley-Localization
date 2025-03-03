@@ -1,0 +1,19 @@
+
+E
+FairyGodMother_000_f-Oh! These look quite delicious, {PlayerName}!
+Q
+FairyGodMother_001_f9Now, would you be a dear and bring them to Minnie for me?
+}
+FairyGodMother_002_feAnd whatever you do, don't tell her I'm the one who sent them. Simply say they were sent by a friend.
+F
+Player_000_choice_000_f+Don't worry. I'm on it. My lips are sealed.
+-
+Player_000_choice_001_fWhy so mysterious?
+:
+Player_000_choice_002_fWhat if she wants to thank you?
+8
+FairyGodMother_003_f I so appreciate your help, dear.
+}
+FairyGodMother_005_feIf Minnie wishes to send her thanks, please ask her to pass along an act of kindness to someone else.
+Ž
+FairyGodMother_004_fvWhy, because Minnie loves a good mystery. I thought the second part of my gift could be giving her a mystery to solve.

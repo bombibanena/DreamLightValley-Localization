@@ -1,0 +1,21 @@
+TAG: Merlin_000_f
+I was right! The <ActivityItem>Night Shard</ActivityItem> is purified!
+
+TAG: Merlin_001_f
+It's shiny.
+
+TAG: Merlin_002_f
+Indeed. Very shiny. It's also a significant magical discovery!
+
+TAG: Merlin_003_f
+Can I give it to one of my friends?
+
+TAG: Merlin_005_f
+Oh... Well, yes. I don't see the harm. After all, the discovery is far more important than the object.
+
+TAG: Merlin_006_f
+And as they are rather rare, I'm sure a friend would be grateful to receive such a gift.
+
+TAG: Merlin_007_f
+Well, off with you! Give it to your friend. I'll be pondering our next experiment.
+

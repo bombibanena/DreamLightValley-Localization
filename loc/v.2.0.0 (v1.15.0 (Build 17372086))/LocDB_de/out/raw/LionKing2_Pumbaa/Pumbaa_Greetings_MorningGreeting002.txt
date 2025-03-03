@@ -1,0 +1,6 @@
+TAG: Pumbaa_000_f
+Hey, {PlayerName}! Isn't it a pretty morning?
+
+TAG: Player_000_exit_000_f
+Sorry, I can't talk now.
+

@@ -1,0 +1,24 @@
+TAG: Oswald_000_f
+Hey, {PlayerName}, got a question for ya...
+
+TAG: Oswald_001_f
+Do ya know what happens when a raspberry trips in an intersection?
+
+TAG: Player_000_choice_000_f
+I don't know.
+
+TAG: Player_000_choice_001_f
+What happens?
+
+TAG: Player_000_choice_002_f
+Oh, I think I know this one.
+
+TAG: Oswald_002_f
+A traffic jam! Oh-hoo-hoo!
+
+TAG: Oswald_003_f
+Is there a traffic jam?
+
+TAG: Oswald_004_f
+Hey, are you peeking at my material? The cheek!
+

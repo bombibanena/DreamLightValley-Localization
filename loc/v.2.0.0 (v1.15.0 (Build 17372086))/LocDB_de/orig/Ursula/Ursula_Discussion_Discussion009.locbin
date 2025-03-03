@@ -1,0 +1,25 @@
+
+_
+Ursula_000_fO{PlayerName}, just who I wanted to see. I'm in need of a sympathetic ear, dear.
+(
+Player_000_choice_000_fWhat's wrong?
+-
+Player_000_choice_001_fAre you all right?
+*
+Player_000_choice_002_fWhat is it now?
+n
+Ursula_001_f^I've had it up to here with a certain pointy-hatted, long-white-bearded, know-it-all wizard...
+9
+Player_001_choice_000_fWhy are you upset with Merlin?
+C
+Player_001_choice_001_f(I have no idea who you're talking about.
+‹
+Ursula_002_f{That windbag goody-two-shoes is always lecturing me on the proper uses of magic. As if I need lessons in magical etiquette!
+r
+Ursula_006_fbUgh, now I've got myself all in a lather. Just be sure to keep that pompous barnacle away from me.
+2
+Ursula_003_f"Do I have to spell it out for you?
+
+Ursula_004_fM-E-R-L-I-N.
+
+Ursula_005_fMerlin!

@@ -1,0 +1,29 @@
+
+0
+Oswald_007_f You want to gather some flowers?
+&
+Player_000_choice_000_fSounds fun!
+I
+Player_000_choice_001_f.Not what I was expecting, but let's go for it!
+"
+Oswald_000_fOK, how do I look?
+T
+Oswald_001_fDOswald's jaw actually drops to the floor, and he applauds excitedly.
+x
+Oswald_002_fhHe mimes rolling out a carpet in front of you and then puffs out his chest and mimes adjusting a bowtie.
+5
+Oswald_003_f%I'll take that as a sign of approval!
+N
+Oswald_004_f>So, now that I've dressed the part, what did you have in mind?
+{
+Oswald_005_fkOswald ponders for a moment before dashing about and picking flowers like a farmer late with their harvest.
+Z
+Oswald_006_fJHe stacks them together and pushes them over. He looks at you expectantly.
+B
+Oswald_008_f2Oswald frowns for a moment then shrugs and smiles.
+/
+Oswald_009_fCool! Any colors in particular?
+a
+Oswald_010_fQOswald furrows his brow, seeming more confused than a horse hitched to a Model T.
+a
+Oswald_011_fQGiven your color palette, I'm gonna go with <Lore>black-and-white flowers</Lore>.

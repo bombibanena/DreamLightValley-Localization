@@ -1,0 +1,38 @@
+
+7
+Gaston_003_f'All done! How do you feel about it now?
+A
+Gaston_004_f1Oh no, this isn't right. This isn't right at all.
+6
+Player_000_choice_000_fIt does look rather bare...
+?
+Player_000_choice_001_f$Hey, I worked hard to clean this up!
+A
+Player_000_choice_002_f&Don't worry, Gaston. We can fix it up!
+p
+Gaston_005_f`Ugh. I can't believe I have to tell you how to do everything. LeFou would just know what I want.
+'
+Gaston_008_fNow, let me see... Yes!
+J
+Gaston_009_f:The whole lodge requires furniture and careful renovation.
+^
+Gaston_010_fNTell me â is my old friend Scrooge McDuck still running that shop of his?
+&
+Player_001_choice_000_fHe sure is!
+6
+Player_001_choice_001_fYou're... friends with him?
+
+Gaston_011_f
+Excellent!
+u
+Gaston_014_feHe supplied funding before I set out from the Valley â I'm sure he'd want to invest in me again!
+�
+Gaston_015_f�Bring him some <ActivityItem>Alexandrite</ActivityItem>, <ActivityItem>Jade</ActivityItem> and <ActivityItem>Spinel</ActivityItem>. He should be raring to fund this new venture!
+e
+Gaston_012_fUOf course! We're both admired for our cunning and leave-nothing-unventured attitudes!
+)
+Gaston_013_fI guess that makes sense.
+/
+Gaston_006_fDid you? Oh, I suppose you did.
+C
+Gaston_007_f3You're sounding more and more like LeFou every day!

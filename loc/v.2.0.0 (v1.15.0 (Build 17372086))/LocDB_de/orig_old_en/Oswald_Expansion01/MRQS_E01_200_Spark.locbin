@@ -1,0 +1,37 @@
+
+Y
+DStory!Expansion01!MRQS_E01_200_Spark_Any_CompletedRequestDescriptionReturn to Oswald.
+Ð
+9Story!Expansion01!MRQS_E01_200_Spark_AvailableDescription’You've found yourself in the lower part of the Ancient Ruins, but you're not alone. There's some sort of strange black and white rabbit down here.
+
+>Story!Expansion01!MRQS_E01_200_Spark_CompletedStoryDescriptionKJafar, disguised as Merlin, stole the Spark of Imagination from your grasp.
+L
+0Story!Expansion01!MRQS_E01_200_Spark_DisplayNameThe Spark of Imagination
+u
+UStory!Expansion01!MRQS_E01_200_Spark_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to the peculiar rabbit.
+p
+<Story!Expansion01!MRQS_E01_200_Spark_Group02_StepDescription0Search for something to repair the bridge lever.
+i
+<Story!Expansion01!MRQS_E01_200_Spark_Group03_StepDescription)Fix the lever to reach the next platform.
+g
+UStory!Expansion01!MRQS_E01_200_Spark_Group04_Step05_FollowCharacter01_StepDescriptionFollow Oswald.
+j
+WStory!Expansion01!MRQS_E01_200_Spark_Group04_Step05_FollowCharacter01_TalkToDescriptionTalk to Oswald.
+£
+=Story!Expansion01!MRQS_E01_200_Spark_Group04_StoryDescriptionbIn an alarming turn of events, Oswald produced an exclamation mark for you to use to open the way.
+’
+<Story!Expansion01!MRQS_E01_200_Spark_Group05_StepDescriptionRThe bridge should rotate... Come up with a solution using everything you can find.
+{
+QStory!Expansion01!MRQS_E01_200_Spark_Group06_Step09_Conditional03_StepDescription&Activate the wheel to turn the bridge.
+|
+UStory!Expansion01!MRQS_E01_200_Spark_Group07_Step10_FollowCharacter02_StepDescription#Follow Oswald to the next platform.
+j
+WStory!Expansion01!MRQS_E01_200_Spark_Group07_Step10_FollowCharacter02_TalkToDescriptionTalk to Oswald.
+•
+<Story!Expansion01!MRQS_E01_200_Spark_Group08_StepDescriptionUUse everything you've learned to fix the platform and reach the Spark of Imagination.
+ 
+=Story!Expansion01!MRQS_E01_200_Spark_Group08_StoryDescription_You're so close to the Spark of Imagination. You just need to use your imagination to reach it!
+a
+<Story!Expansion01!MRQS_E01_200_Spark_Group09_StepDescription!Pick up the Spark of Imagination!
+h
+UStory!Expansion01!MRQS_E01_200_Spark_Group10_Step16_TalkToCharacter02_StepDescriptionTalk to Merlin.

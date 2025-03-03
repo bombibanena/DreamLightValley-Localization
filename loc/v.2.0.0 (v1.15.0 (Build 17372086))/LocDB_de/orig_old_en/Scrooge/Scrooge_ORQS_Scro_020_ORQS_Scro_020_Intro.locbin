@@ -1,0 +1,19 @@
+
+T
+Scrooge_000_fCAh, it looks like you cleared up some trouble down on Dazzle Beach.
+X
+Scrooge_001_fGFine work, {PlayerName}. That's prime waterfront real estate, you know.
+a
+Scrooge_002_fPWhich means you've got to develop it! Add your own special touches to the Beach.
+>
+Player_000_f.I'll get all the right furniture to make it...
+-
+Player_000_choice_000_f...hip and trendy.
+3
+Player_000_choice_001_f...restful and relaxing.
+/
+Player_000_choice_002_f...exciting and fun.
+I
+Scrooge_003_f8That'll certainly make it a quality tourist destination.
+ç
+Scrooge_004_f|And however you decide to decorate, I know you'll make it a fine place for a tired businessman to relax and count his money.

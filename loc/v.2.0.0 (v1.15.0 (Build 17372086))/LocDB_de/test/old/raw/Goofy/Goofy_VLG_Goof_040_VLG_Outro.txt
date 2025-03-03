@@ -1,0 +1,15 @@
+TAG: Goofy_000_f
+Спасибо, {PlayerName}! С тобой было весело рыбачить и готовить.
+
+TAG: Goofy_002_f
+О боже, Микки Маус понравится <ActivityItem>Buillabasis</ActivityItem>!
+
+TAG: Goofy_001_f
+Я расскажу тебе секрет о готовке и почему я хотел сделать <ActivityItem>Bouillabasse</ActivityItem>.
+
+TAG: Goofy_003_f
+Чем веселее блюдо, тем веселее готовить!
+
+TAG: Goofy_004_f
+<ActivityItem>Buillabaisse</ActivityItem>!
+

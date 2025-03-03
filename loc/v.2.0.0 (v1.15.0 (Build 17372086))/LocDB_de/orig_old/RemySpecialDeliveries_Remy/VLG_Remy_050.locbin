@@ -1,0 +1,55 @@
+
+r
+EVillage!Ratatouille!Remy!VLG_Remy_050_Any_CompletedRequestDescription)Возвращайтесь на Реми.
+�
+:Village!Ratatouille!Remy!VLG_Remy_050_AvailableDescriptiongРеми кажется взволнованным новой возможностью в Долине.
+Y
+1Village!Ratatouille!Remy!VLG_Remy_050_DisplayName$Приятного аппетита!
+�
+MVillage!Ratatouille!Remy!VLG_Remy_050_Group01_Step01_Unlock01_StepDescriptionfРасследуйте странный <ActivityItem> Menu</ActivityItem> в вашем списке.
+w
+VVillage!Ratatouille!Remy!VLG_Remy_050_Group02_Step02_TalkToCharacter01_StepDescriptionПоговори с Реми.
+�
+EVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step03_ReadyDescriptionaПринесите что-нибудь с <ActivityItem>Slush Ice</ActivityItem> на Эльза.
+�
+DVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step03_StepDescription]Сделай что-нибудь с <ActivityItem>Slush Ice</ActivityItem> для Эльза.
+�
+EVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step04_ReadyDescriptionCПринесите <ActivityItem>Dessert</ActivityItem> Белль.
+�
+DVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step04_StepDescriptionHПолучите <ActivityItem>Dessert</ActivityItem> для Белль.
+{
+EVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step05_ReadyDescription2Принеси еду с рыбой на Нала.
+�
+DVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step05_StepDescription<Приготовьте еду с рыбой для Нала.
+�
+EVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step06_ReadyDescriptionHПринесите <ActivityItem>5-Star Fee</ActivityItem> Ариэль.
+�
+DVillage!Ratatouille!Remy!VLG_Remy_050_Group03_Step06_StepDescriptionMПолучите <ActivityItem>5-Star Fee</ActivityItem> для Ариэль.
+�
+=Village!Ratatouille!Remy!VLG_Remy_050_Group03_StepDescription�Принесите деревенским людям бесплатные образцы, чтобы показать им, что Shez Реми Mobile открыт для бизнеса:
+�
+VVillage!Ratatouille!Remy!VLG_Remy_050_Group04_Step07_TalkToCharacter02_StepDescription)Возвращайтесь на Реми.
+_
+PVillage!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem01_StepDescription{ItemName}.
+_
+PVillage!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem02_StepDescription{ItemName}.
+_
+PVillage!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem03_StepDescription{ItemName}.
+_
+PVillage!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_CraftItem04_StepDescription{ItemName}.
+�
+DVillage!Ratatouille!Remy!VLG_Remy_050_Group05_Step08_StepDescription�(Заполните ежедневные поставки для Реми, если вам нужно больше Железо Железо!)
+�
+=Village!Ratatouille!Remy!VLG_Remy_050_Group05_StepDescription�Перемещение любого из следующих судов с использованием Железо Железо:
+^
+OVillage!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate01_StepDescription{ItemName}.
+^
+OVillage!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate02_StepDescription{ItemName}.
+^
+OVillage!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate03_StepDescription{ItemName}.
+^
+OVillage!Ratatouille!Remy!VLG_Remy_050_Group06_Step09_Decorate04_StepDescription{ItemName}.
+�
+=Village!Ratatouille!Remy!VLG_Remy_050_Group06_StepDescription�В долине Мечты декорировать вокруг Чеза Реми с любой из следующих частей:
+i
+8Village!Ratatouille!Remy!VLG_Remy_050_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

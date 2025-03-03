@@ -1,0 +1,63 @@
+
+a
+Belle_009_fR{PlayerName}, I'm so curious. What was on the <ActivityItem>Scroll</ActivityItem>?
+x
+Belle_012_fiIt was a <ActivityItem>Memory</ActivityItem>... It showed me some <ActivityItem>Symbols</ActivityItem>...
+W
+Belle_018_fHDo you think they're related to this <ActivityItem>Chest</ActivityItem>?
+ 
+Belle_025_fI have no idea...
+Y
+Belle_000_fJWell, I have to know what's inside the <ActivityItem>Chest</ActivityItem>.
+$
+Belle_002_fI'm going to open it.
+.
+Player_000_choice_000_fYes, let's do this!
+2
+Player_000_choice_001_fMost likely it's empty.
+<
+Player_000_choice_002_f!I'm gonna back away just in case.
+0
+Belle_003_f!I'm glad you agree, {PlayerName}.
+ï
+Belle_019_fÖOh, I know! I could use my <ActivityItem>Camera</ActivityItem>. It creates a picture, so I guess it could be like a sort of painting.
+A
+Belle_015_f2Your magic never ceases to amaze me, {PlayerName}.
+ë
+Belle_017_fÅNow let's see... The inscription also says... "The light of the moon will make them easier to see. The first one will be nearby."
+p
+Player_003_f`So, the first Symbol I have to find is somewhere around here, and I'll see it better at night...
+H
+Player_003_choice_000_f-Let's not waste a moment and start right now.
+-
+Player_003_choice_001_fWhat would you do?
+/
+Player_003_choice_002_fI'll wait for night.
+$
+Belle_006_fI'll be right back...
+!
+Belle_001_fOh... it's locked.
+5
+Belle_007_f&But there's something written on it...
+ó
+Belle_008_fá"To reveal the secret inside, one must recapture the scattered <ActivityItem>Symbols</ActivityItem> in the quickest painting of all..."
+L
+Belle_013_f=Must be the one from the <ActivityItem>Memory</ActivityItem>.
+%
+Belle_014_fI'm sure you're right.
+G
+Belle_016_f8But what does it mean by "the quickest painting of all"?
+6
+Belle_020_f'You never do shy away from a challenge.
+'
+Belle_024_fGood luck, {PlayerName}.
+o
+Belle_021_f`Well, I don't know how to use your <ActivityItem>Camera</ActivityItem> machine, so I'm not sure.
+.
+Belle_023_fBut I know that you'll find it.
+=
+Belle_022_f.The message does say it'll be easier that way.
+&
+Belle_004_fI hope that's not true.
+>
+Belle_005_f/*chuckle* You remind me of my friend Cogsworth.

@@ -1,0 +1,49 @@
+
+¦
+=Village!LionKing!Simba!VLG_Simb_030_CompletedStoryDescriptioneYou wonder how Simba is feeling after his showdown with Scar. You'll need to talk to him to find out.
+C
+/Village!LionKing!Simba!VLG_Simb_030_DisplayNameSeed of Memories
+¸
+<Village!LionKing!Simba!VLG_Simb_030_Group02_StoryDescriptionxScar puts you on the path of the <ActivityItem>Dreamlight Tree Seed</ActivityItem> hidden in the Sunlit Plateau's Mines.
+l
+PVillage!LionKing!Simba!VLG_Simb_030_Group04_Step16_Interaction02_StepDescriptionThe drawing on the wall.
+x
+PVillage!LionKing!Simba!VLG_Simb_030_Group04_Step16_Interaction03_StepDescription$The table full of tubes and beakers.
+c
+;Village!LionKing!Simba!VLG_Simb_030_Group04_StepDescription$Investigate the objects in the room:
+[
+LVillage!LionKing!Simba!VLG_Simb_030_Group05_Step05_Possess02_StepDescription{itemName}.
+[
+LVillage!LionKing!Simba!VLG_Simb_030_Group05_Step05_Possess03_StepDescription{itemName}.
+[
+LVillage!LionKing!Simba!VLG_Simb_030_Group05_Step05_Possess04_StepDescription{itemName}.
+[
+LVillage!LionKing!Simba!VLG_Simb_030_Group05_Step05_Possess05_StepDescription{itemName}.
+e
+BVillage!LionKing!Simba!VLG_Simb_030_Group05_Step05_StepDescriptionGather the following materials:
+Ý
+<Village!LionKing!Simba!VLG_Simb_030_Group05_StoryDescriptionœMerlin directs you on how to get the <ActivityItem>Dreamlight Tree Seed</ActivityItem>. You need to create two potions to reinfuse it with Dreamlight Magic.
+]
+NVillage!LionKing!Simba!VLG_Simb_030_Group06_Step06_CraftItem02_StepDescription{itemName}.
+b
+BVillage!LionKing!Simba!VLG_Simb_030_Group06_Step06_StepDescriptionCraft the following potions:
+¬
+BVillage!LionKing!Simba!VLG_Simb_030_Group07_Step07_StepDescriptionfPlace the <ActivityItem>Potions</ActivityItem> in the empty spaces on the Table in the Herbalist Room.
+W
+CVillage!LionKing!Simba!VLG_Simb_030_Group09_Step09_ReadyDescriptionReturn to Simba.
+×
+<Village!LionKing!Simba!VLG_Simb_030_Group09_StoryDescription–Now that you have the <ActivityItem>Dreamlight Tree Seed</ActivityItem>, it's time to plant it and Simba knows the perfect spot on the Sunlit Plateau.
+h
+VVillage!LionKing!Simba!VLG_Simb_030_Group10_Step10_FollowCharacter01_TalkToDescriptionTalk to Simba.
+{
+;Village!LionKing!Simba!VLG_Simb_030_Group12_StepDescription<Water the <ActivityItem>Dreamlight Tree Seed</ActivityItem>.
+¬
+<Village!LionKing!Simba!VLG_Simb_030_Group12_StoryDescriptionlThanks to your efforts, the Dreamlight Tree is now fully grown and it's time to see the result of your work.
+e
+TVillage!LionKing!Simba!VLG_Simb_030_Group14_Step14_FollowCharacter01_StepDescriptionFollow Simba.
+_
+;Village!LionKing!Simba!VLG_Simb_030_Group15_StepDescription Interact with the strange rocks.
+{
+@Village!LionKing!Simba!VLG_Simb_030_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+r
+@Village!LionKing!Simba!VLG_Simb_030_Group04_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?

@@ -1,0 +1,27 @@
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_CompletedStoryDescription
+ВАЛЛ·И сейчас в деревне, это начало нового приключения для него.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_DisplayName
+Славный маленький робот
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group01_StoryDescription
+Вы только что встретили ВАЛЛ·И, маленького робота с сломанным треком, вы решили помочь ему его заменить.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group02_StoryDescription
+После сбора мусора ВАЛЛ·И дает вам семена, очевидно, что маленький робот хочет учиться садоводству и не знает, с чего начать.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group05_StoryDescription
+Вы хотите привести ВАЛЛ·И в Виллидж, но он все еще немного стесняется.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group07_Step07_StepDescription
+У Джемса есть шанс упасть с любых горных скал в деревне.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group11_Step11_PlaceBuilding01_StepDescription
+Убедись, что ВАЛЛ·И комфортно в деревне, поместив его дом.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group12_StoryDescription
+Маленькому роботу нужно место, где он может чувствовать себя в безопасности.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group14_StoryDescription
+ВАЛЛ·И очищает Землю, чтобы завладеть его дружбой, вы решили сделать то же самое.
+

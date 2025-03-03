@@ -1,0 +1,81 @@
+TAG: Merlin_000_f
+Prince Eric was in the Sea Witch's clutches all this time? Oh dear. I see she gave him back his freedom but not his body...
+
+TAG: Merlin_001_f
+That's just what I'd expect from a scoundrel like Ursula. Always cheating to get what she wants. Tread lightly around her, {PlayerName}.
+
+TAG: Merlin_006_f
+Now, as luck would have it, I was just reading a book on transfiguration. It may hold the key to changing Eric back.
+
+TAG: Merlin_012_f
+It's called "Transfigure Your Troubles Away: How to Turn a Frog Back into a Prince in Three Simple Steps."
+
+TAG: Player_000_choice_003_f
+How convenient...
+
+TAG: Player_000_choice_004_f
+Can I borrow that later?
+
+TAG: Player_000_choice_005_f
+But Eric's not a frog!
+
+TAG: Merlin_013_f
+There are no coincidences in Dreamlight Valley. Subconsciously, I must have known to pull it off my shelf this morning.
+
+TAG: Merlin_008_f
+True Love's Kiss.
+
+TAG: Player_000_choice_006_f
+Blecchh!
+
+TAG: Player_000_choice_007_f
+How romantic!
+
+TAG: Player_000_choice_008_f
+I'm not kissing him, that's for sure.
+
+TAG: Merlin_015_f
+Of course Eric is not a frog, but he is a prince, so the same magic should apply.
+
+TAG: Merlin_016_f
+So what's the first step?
+
+TAG: Merlin_002_f
+Let's see... the first step when turning a frog into a prince is to build him a home fit for royalty.
+
+TAG: Merlin_003_f
+I suppose that means you'll have to <Lore>start by making a House for Prince Eric</Lore> here in the Village.
+
+TAG: Merlin_007_f
+Got it. Build Prince Eric a House. What's the next step?
+
+TAG: Merlin_009_f
+Next, the prince needs some sort of object to anchor him to the human realm. <Lore>Once you've built his House, search it to find something important to Eric.</Lore>
+
+TAG: Merlin_010_f
+Build him a House and find an object that's near and dear to his heart. Got it. What's the third step?
+
+TAG: Merlin_011_f
+According to the book, the final step is a classic, {PlayerName}.
+
+TAG: Merlin_017_f
+Well yes, it is a bit... romantic, but there's no magic more powerful than love.
+
+TAG: Merlin_020_f
+It's Ariel's love that will restore Eric.
+
+TAG: Merlin_004_f
+Now, once you've found a suitable object in his House, bring it to her and have her call his name three times while picturing Eric as he should be.
+
+TAG: Merlin_005_f
+That should restore him. Then, to make sure the spell is permanent, she'll have to kiss him soon after. Good luck, {PlayerName}!
+
+TAG: Merlin_018_f
+I find it a tad silly myself, but there's no magic more powerful than love.
+
+TAG: Merlin_019_f
+No one's asking YOU to kiss Eric, {PlayerName}.
+
+TAG: Merlin_014_f
+Certainly not. I do not lend books from my private library. Particularly ones filled with dangerous magic.
+

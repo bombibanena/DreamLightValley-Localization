@@ -1,0 +1,24 @@
+TAG: Donald_000_f
+Hiya, {PlayerName}! Say, who do you think's the best entertainer?
+
+TAG: Donald_001_f
+Mickey or me?
+
+TAG: Player_000_choice_000_f
+Mickey.
+
+TAG: Player_000_choice_001_f
+You.
+
+TAG: Player_000_choice_002_f
+Me, of course.
+
+TAG: Donald_002_f
+Aw phooey! Everybody always picks Mickey.
+
+TAG: Donald_003_f
+Oh boy, oh boy, oh boy! Thanks, { PlayerName }!
+
+TAG: Donald_004_f
+Drat! I didn't see that coming.
+

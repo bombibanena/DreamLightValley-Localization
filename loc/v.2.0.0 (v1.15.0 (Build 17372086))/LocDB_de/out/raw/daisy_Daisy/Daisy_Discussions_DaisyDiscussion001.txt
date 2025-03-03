@@ -1,0 +1,45 @@
+TAG: Daisy_000_f
+Oh, {PlayerName}, what am I going to do with Donald?
+
+TAG: Daisy_001_f
+Whenever he makes a mistake he gets SO mad at himself. I can't ever seem to talk sense into him.
+
+TAG: Player_000_choice_000_f
+He does get upset really easily...
+
+TAG: Player_000_choice_001_f
+Help him learn?
+
+TAG: Player_000_choice_002_f
+He needs positive self talk.
+
+TAG: Daisy_002_f
+And that's where the problem always starts.
+
+TAG: Daisy_003_f
+Something goes wrong. Then he loses his temper and EVERYTHING goes wrong.
+
+TAG: Player_001_choice_000_f
+At least he's a swell guy when he's not angry.
+
+TAG: Player_001_choice_001_f
+Do you think he can change?
+
+TAG: Daisy_004_f
+He is. He's kind, charming, loving... He just needs to be those things to himself. You know what? I'm gonna go tell him that. Thanks, {PlayerName}!
+
+TAG: Daisy_005_f
+Oh, I don't want him to change. I just want him to calm down and be kinder to himself. Hmm... maybe we should try meditating together.
+
+TAG: Daisy_006_f
+I'm trying. And to give him credit, he's trying too.
+
+TAG: Daisy_007_f
+That's what you do when you care about someone, right? You help them help themselves!
+
+TAG: Daisy_008_f
+You're right!
+
+TAG: Daisy_009_f
+Maybe I should come up with some daily affirmations for him!
+

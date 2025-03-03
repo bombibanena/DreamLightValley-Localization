@@ -1,0 +1,3 @@
+TAG: Scrooge_000_f
+Find where the <ActivityItem>Memory</ActivityItem> is pointing to, and you'll find the treasure!
+

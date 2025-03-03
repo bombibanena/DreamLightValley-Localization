@@ -1,0 +1,75 @@
+TAG: Timon_000_f
+Ya know, I'm not seeing as much enthusiasm for my talk as I thought I would. Nobody seems more ready to rule.
+
+TAG: Player_000_choice_000_f
+Maybe everyone is still processing it?
+
+TAG: Player_000_choice_001_f
+It kind of missed the mark.
+
+TAG: Player_000_choice_002_f
+It was too focused on Simba's journey.
+
+TAG: Timon_003_f
+You had a LOT of advice to give. Maybe they just need time to understand your wisdom.
+
+TAG: Timon_006_f
+Let me think... Oh, I've got it! They just need some help to apply my lessons to their OWN lives!
+
+TAG: Timon_001_f
+Maybe...
+
+TAG: Timon_002_f
+And as the Ruler of the Valley, you should take the lead on this!
+
+TAG: Timon_007_f
+Start by making some food. Something unique, something no one's ever tried before. Here. I have recipes you can use!
+
+TAG: Player_001_choice_000_f
+Where did you get these recipes?
+
+TAG: Player_001_choice_001_f
+How will this help?
+
+TAG: Player_001_choice_002_f
+I don't know if I should trust this recipe...
+
+TAG: Timon_011_f
+Remy gave 'em to me. Though...
+
+TAG: Timon_014_f
+I had Vanellope help me make a few tweaks. Put my own little twist on 'em, as it were.
+
+TAG: Timon_015_f
+It's going to take an adventurous eater to try meerkat recipes, I think...
+
+TAG: Timon_010_f
+I've heard Anna and Elsa are pretty adventurous. They like pickled herring. And trust me, I've smelled some, and it is PUNGENT. I bet they'd be happy to try some new foods and chase a new destiny!
+
+TAG: Timon_008_f
+If you say so... Okay, I'll <Lore>cook some of these dishes for Anna and Elsa</Lore>.
+
+TAG: Timon_009_f
+It'll be just like when I fed Simba his first grub!
+
+TAG: Timon_012_f
+Did you learn NOTHING from my Timon Talk?
+
+TAG: Timon_016_f
+New foods help leaders lead! Just like Simba! Keep up, {PlayerName}; we have work to do.
+
+TAG: Timon_017_f
+All right, and who am I feeding this... unique recipe to?
+
+TAG: Timon_013_f
+Are you doubting my Timon Talk lessons?
+
+TAG: Timon_018_f
+I'm just saying the recipe is very... creative. I'm not sure who will be willing to eat this, Timon.
+
+TAG: Timon_004_f
+What do ya mean?! It was perfect!
+
+TAG: Timon_005_f
+All of your advice was very specifically related to him.
+

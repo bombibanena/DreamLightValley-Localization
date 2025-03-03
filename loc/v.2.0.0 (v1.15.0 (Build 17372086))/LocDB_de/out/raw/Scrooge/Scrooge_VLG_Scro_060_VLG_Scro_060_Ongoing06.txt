@@ -1,0 +1,9 @@
+TAG: Scrooge_000_f
+It's a treasure HUNT, {PlayerName}. If you don't HUNT the treasure, you cannae find it.
+
+TAG: Scrooge_001_f
+Wear the magical glasses I gave you, and use the map to find the pieces of the key and the treasure in the Village.
+
+TAG: Scrooge_002_f
+The treasure will only reveal itself to you if you're wearing the <ActivityItem>Lenses of Shadows</ActivityItem>!
+

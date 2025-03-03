@@ -1,0 +1,48 @@
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_AvailableDescription
+Наконец-то, путь во дворец чист. Пора остановить Джафар раз и навсегда.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_DisplayName
+Дворец Времени
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group01_Step01_VisitArea01_StepDescription
+Войдите во дворец через люк, спрятанный в Променаде.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group02_Step02_VisitArea02_StepDescription
+Найди способ пересечь пропасть.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group02_StoryDescription
+Вы находите внутри дворца забитые головоломками и таинственными часовыми очками, они должны быть остатками экспериментов Джафар с древней технологией, найденной на острове Вечность.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group03_Step03_VisitArea03_StepDescription
+Найди способ пробраться через дверь.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group04_Step04_VisitArea04_StepDescription
+Проанализируйте дальше в этом отрывке.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group05_Step05_Conditional01_StepDescription
+Найди способ отключить дверь.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group06_Step06_VisitArea05_StepDescription
+Проходите через дверь.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group07_Step07_VisitArea06_StepDescription
+Столкнитесь с Джафар в тронном зале.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group07_StoryDescription
+Наконец-то... вы добрались до Джафар!
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group08_Step08_StepDescription
+Исследуйте дворец, чтобы найти ключ, открывающий ворота.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group08_StoryDescription
+Но он закрыл дверь, не давая вам добраться до него во дворцовом тронном зале.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group09_Step09_VisitArea07_StepDescription
+Зайдите в тронный зал.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group10_Step10_VisitArea08_StepDescription
+Заходите внутрь загадочного <Lore>Time Rift</Lore> во дворце.
+
+TAG: Story!Expansion01!MRQS_E01_240_JafarPalace_Group10_StepDescription
+Невозможно добраться до Джафар!
+

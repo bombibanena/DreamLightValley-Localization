@@ -1,0 +1,27 @@
+TAG: Merlin_000_f
+It's rather pleasant to be living in an era with so many modern conveniences.
+
+TAG: Merlin_001_f
+Magic is useful, but pales before the wonder of indoor plumbing.
+
+TAG: Merlin_002_f
+Tell me, {PlayerName}, what is your favorite invention?
+
+TAG: Player_000_choice_000_f
+Airplanes.
+
+TAG: Player_000_choice_001_f
+I agree with you... indoor plumbing.
+
+TAG: Player_000_choice_002_f
+Cell phones.
+
+TAG: Merlin_003_f
+Magnificent machines! Ahh, to fly through the sky like a bird without all those itchy feathers.
+
+TAG: Merlin_004_f
+It's a crowd pleaser, that is certain.
+
+TAG: Merlin_005_f
+Yes, those little connected boxes. They do seem more useful than pigeons... And unlike owls, they rarely talk back.
+

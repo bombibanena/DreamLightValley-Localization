@@ -1,0 +1,33 @@
+TAG: Beast_000_f
+What is this? It smells delicious.
+
+TAG: Beast_001_f
+Wonton soup. Mulan's grandmother's recipe.
+
+TAG: Beast_002_f
+Thank you, {PlayerName}.
+
+TAG: Beast_003_f
+If I have friends like you, Belle, and Mushu who treat me with kindness...
+
+TAG: Beast_004_f
+...that's a very good sign that I should try to treat myself with kindness as well.
+
+TAG: Player_000_choice_000_f
+So proud of you!
+
+TAG: Player_000_choice_001_f
+Wow, Mushu's program worked?
+
+TAG: Player_000_choice_002_f
+You better try, or the mannequin is coming back.
+
+TAG: Beast_007_f
+I... Thank you. That means a great deal.
+
+TAG: Beast_006_f
+I think it did. He's a very good Guardian.
+
+TAG: Beast_008_f
+I will do my very best.
+

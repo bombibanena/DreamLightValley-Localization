@@ -1,0 +1,55 @@
+
+X
+DVillage!Aladdin!Jasmine!VLG_Jasm_010_Any_CompletedRequestDescriptionTalk to Jasmine.
+
+9Village!Aladdin!Jasmine!VLG_Jasm_010_AvailableDescriptionPJasmine seems to have something on her mind! You should ask her what's going on.
+µ
+>Village!Aladdin!Jasmine!VLG_Jasm_010_CompletedStoryDescriptionsCarefully tending the flowers seems to have helped grow the Enchanted Flower! But... what's that inside its petals?
+H
+0Village!Aladdin!Jasmine!VLG_Jasm_010_DisplayNameThe Enchanted Flower
+h
+UVillage!Aladdin!Jasmine!VLG_Jasm_010_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Merlin.
+¿
+=Village!Aladdin!Jasmine!VLG_Jasm_010_Group01_StoryDescription~Jasmine found a strange note in her House! She doesn't remember writing it, but suspects Merlin might have more information...
+¦
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group02_Step02_Possess01_StepDescriptionUSearch the Dreamlight Library for the <ActivityItem>Envelope of Seeds</ActivityItem>.
+e
+OVillage!Aladdin!Jasmine!VLG_Jasm_010_Group03_Step03_BringItem01_StepDescriptionEnvelope of Seeds.
+Œ
+DVillage!Aladdin!Jasmine!VLG_Jasm_010_Group03_Step03_ReadyDescriptionDBring the <ActivityItem>Envelope of Seeds</ActivityItem> to Jasmine.
+Ÿ
+CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group03_Step03_StepDescriptionXMake sure you have the <ActivityItem>Envelope of Seeds</ActivityItem> in your Inventory.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess03_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess04_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess05_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess06_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess07_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess08_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_Possess09_StepDescription{itemName}.
+
+CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group04_Step04_StepDescription8Gather the materials for the Enchanted Pots of Blooming:
+ú
+=Village!Aladdin!Jasmine!VLG_Jasm_010_Group04_StoryDescription¸Jasmine is going to get her House ready for all of the flowers to grow, but she still needs your help! You head out to find everything you need to craft the Enchanted Pots of Blooming.
+•
+OVillage!Aladdin!Jasmine!VLG_Jasm_010_Group05_Step05_CraftItem01_StepDescriptionBCraft the <ActivityItem>Enchanted Pots of Blooming</ActivityItem>.
+•
+DVillage!Aladdin!Jasmine!VLG_Jasm_010_Group06_Step06_ReadyDescriptionMBring the <ActivityItem>Enchanted Pots of Blooming</ActivityItem> to Jasmine.
+¨
+CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group06_Step06_StepDescriptionaMake sure you have the <ActivityItem>Enchanted Pots of Blooming</ActivityItem> in your Inventory.
+y
+OVillage!Aladdin!Jasmine!VLG_Jasm_010_Group07_Step07_VisitArea01_StepDescription&Go inside Jasmine and Aladdin's House.
+z
+UVillage!Aladdin!Jasmine!VLG_Jasm_010_Group08_Step08_TalkToCharacter02_StepDescription!Talk to Jasmine inside her House.
+½
+=Village!Aladdin!Jasmine!VLG_Jasm_010_Group08_StoryDescription|With the Enchanted Pots of Blooming in hand, you head to Jasmine and Aladdin's House to get started on planting the flowers.
+€
+CVillage!Aladdin!Jasmine!VLG_Jasm_010_Group09_Step09_StepDescription9Place the flowers in the correct pots in Jasmine's House.
+h
+7Village!Aladdin!Jasmine!VLG_Jasm_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

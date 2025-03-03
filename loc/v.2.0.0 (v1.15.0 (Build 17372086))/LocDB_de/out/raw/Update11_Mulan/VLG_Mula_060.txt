@@ -1,0 +1,39 @@
+TAG: Village!Mulan!Mulan!VLG_Mula_060_AvailableDescription
+It's time to search for the next <ActivityItem>Mini Flag.</ActivityItem> Talk to Maui.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_CompletedStoryDescription
+You thawed Maui's flag from the magical ice. A flag for Team Mulan!
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_DisplayName
+Training Games: The Shapeshifter
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group02_Step02_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group02_Step02_StepDescription
+Gather the items from Maui's clue:
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group02_StoryDescription
+Maui says he collected his flag from under a giant boulder â but he cannot seem to get it out from the magical ice surrounding it. He gives you a list of Ingredients and asks if you can help him free the flag.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group03_Step03_CookMeal01_StepDescription
+Find a way to combine the Mini Flag with the gathered Ingredients.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group04_Step04_BringItem01_StepDescription
+Make sure you have {itemName} in your Inventory.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_060_Group04_Step04_ReadyDescription
+Bring {itemName} to Maui.
+

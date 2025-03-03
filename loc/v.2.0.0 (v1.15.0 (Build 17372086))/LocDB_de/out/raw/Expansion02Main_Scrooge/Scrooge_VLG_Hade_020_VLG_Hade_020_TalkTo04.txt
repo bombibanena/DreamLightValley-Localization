@@ -1,0 +1,42 @@
+TAG: Scrooge_000_f
+Hey Mr. McDuck, have you ever wanted an employee at your shop?
+
+TAG: Scrooge_001_f
+Hmm, can't say I've had a need for one in the past. I like being hands-on in my shop. Especially at the cash register.
+
+TAG: Scrooge_002_f
+Haven't you ever wanted a little vacation?
+
+TAG: Scrooge_003_f
+Well... I might be interested. Do you have anyone in mind to fill in?
+
+TAG: Player_000_choice_000_f
+Hades!
+
+TAG: Player_000_choice_001_f
+Okay, so hear me out...
+
+TAG: Player_000_choice_002_f
+Absolutely!
+
+TAG: Scrooge_004_f
+Interesting...
+
+TAG: Scrooge_007_f
+I heard his little foray into the restaurant business didn't go so well.
+
+TAG: Scrooge_008_f
+Oh, he's moved past that now. He needs a role with a little more cachet and your shop just oozes class!
+
+TAG: Scrooge_009_f
+Well, when ya put it like that, I suppose I could take a short break. But YOU need to keep an eye on him in case there are fires that need puttin' out.
+
+TAG: Scrooge_010_f
+Deal!
+
+TAG: Scrooge_005_f
+Oh, I'm not gonna like this suggestion, am I?
+
+TAG: Scrooge_006_f
+It's Hades!
+

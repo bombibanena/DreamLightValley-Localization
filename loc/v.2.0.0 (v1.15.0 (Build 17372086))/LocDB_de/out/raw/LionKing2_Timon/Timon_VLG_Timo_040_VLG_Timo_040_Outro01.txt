@@ -1,0 +1,27 @@
+TAG: Player_000_choice_000_f
+What's our next move?
+
+TAG: Player_000_choice_001_f
+This is SO GROSS.
+
+TAG: Player_000_choice_002_f
+Aren't you getting hungry?
+
+TAG: Timon_001_f
+While we were tackling the FIRST nest, Pumbaa's been finding MORE for you to take care of.
+
+TAG: Timon_005_f
+So, you should go <Lore>talk to Pumbaa and help him out</Lore>.
+
+TAG: Timon_000_f
+I know, not everyone's a bug aficionado like me and Pumbaa. But don't worry. We'll have it all under control soon.
+
+TAG: Timon_002_f
+Sure. But Merlin promised us a BIG feast of these things once he can figure out how to rid 'em of the stuff that makes 'em not edible. I can wait.
+
+TAG: Timon_003_f
+Now, listen up. We're moving on to the next phase of Quest... Night Mite... Fight.
+
+TAG: Timon_004_f
+Hey, I'm still workshopping titles! Anyway...
+

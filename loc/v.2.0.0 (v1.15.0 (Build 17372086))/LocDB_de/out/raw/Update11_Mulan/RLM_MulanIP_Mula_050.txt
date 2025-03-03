@@ -1,0 +1,42 @@
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_AvailableDescription
+Part of your training to become a great defender asks that you challenge your endurance. To do so, Mulan prepared an orienteering trial.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_DisplayName
+Orienteering
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Mulan to start the Orienteering challenge.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group01_StoryDescription
+The young woman briefly explains the goal of the exercise and asks you to follow her.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group02_Step02_FollowCharacter01_StepDescription
+Follow Mulan.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group02_Step02_FollowCharacter01_TalkToDescription
+Talk to Mulan.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group03_Step03_DressUp01_StepDescription
+Equip the <ActivityItem>Training Weights</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group03_Step04_Interaction01_StepDescription
+Open the door to the Training Maze.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group03_StoryDescription
+She explains to you that she and Mushu designed a Training Maze so the recruits can challenge themselves without being at risk of getting lost. She then gives you some Training Weights and instructs you to equip them.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group04_Step05_TalkToCharacter02_StepDescription
+Talk to Mulan.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group05_Step06_ReadyDescription
+Bring the <ActivityItem>Pebbles</ActivityItem> to Mulan.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group05_Step06_StepDescription
+Search the Maze for the <ActivityItem>Pebbles</ActivityItem>.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group05_StoryDescription
+Mulan tells you that you need to find your way through the Maze while carrying the Training Weights and searching for some Pebbles she hid all around, before coming to find her next to the Flag inside the Maze.
+
+TAG: Realm!Mulan!Mulan!RLM_MulanIP_Mula_050_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+

@@ -1,0 +1,21 @@
+
+P
+=Village!LionKing!VLG_Nala_020_Any_CompletedRequestDescriptionReturn to Nala.
+’
+2Village!LionKing!VLG_Nala_020_AvailableDescription\Nala has found something strange in the Village. You'll need to investigate to uncover more.
+^
+FVillage!LionKing!VLG_Nala_020_Group03_Step03_Possess02_StepDescriptionThe Frosted Heights.
+a
+NVillage!LionKing!VLG_Nala_020_Group04_Step04_TalkToCharacter02_StepDescriptionReturn to Nala.
+‰
+NVillage!LionKing!VLG_Nala_020_Group05_Step05_TalkToCharacter03_StepDescription7Talk to Goofy about what he saw near the mystical rift.
+œ
+HVillage!LionKing!VLG_Nala_020_Group06_Step06_CatchFish01_StepDescriptionPTry to catch the fish that Goofy saw next to the mystical rift off Dazzle Beach.
+_
+NVillage!LionKing!VLG_Nala_020_Group07_Step07_TalkToCharacter04_StepDescriptionTalk to Nala.
+®
+=Village!LionKing!VLG_Nala_020_Group08_Step08_ReadyDescriptionmBring the <ActivityItem>Lioness Statues</ActivityItem> and <ActivityItem>Weird Fish</ActivityItem> to Ursula.
+l
+:Village!LionKing!VLG_Nala_020_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+a
+0Village!LionKing!VLG_Nala_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

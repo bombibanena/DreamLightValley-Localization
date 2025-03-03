@@ -1,0 +1,60 @@
+TAG: Mirabel_000_f
+{PlayerName}! You found everything! Thank you!
+
+TAG: Mirabel_008_f
+Oh! These tiles are just like the ones you use for your floor.
+
+TAG: Mirabel_009_f
+Yep! You can use them in your House if you want to.
+
+TAG: Mirabel_010_f
+I'm so glad we got to fix up Mini-Casita. Caring for your House is an important part of turning it into a home, don't you think?
+
+TAG: Player_000_choice_000_f
+Absolutely.
+
+TAG: Player_000_choice_001_f
+I never thought about it that much.
+
+TAG: Player_000_choice_002_f
+No, not really.
+
+TAG: Mirabel_001_f
+And your timing's perfect. I know just how I want it all to look.
+
+TAG: Mirabel_002_f
+Let me give you a hand. It'll go faster if we work together.
+
+TAG: Mirabel_003_f
+You're the best!
+
+TAG: Mirabel_004_f
+You know, this reminds me of when the people of our Encanto came together to help my family rebuild Casita. It meant so much to all of us.
+
+TAG: Mirabel_005_f
+And it really means a lot to me that you're offering to help. If you're ready... Let's do this!
+
+TAG: Mirabel_006_f
+Â¡Me encanta! It's so much better! Â¡Muchas gracias!
+
+TAG: Mirabel_007_f
+I couldn't have done it without you. Which is why I want you to have this.
+
+TAG: Mirabel_011_f
+I should put even more love into my House.
+
+TAG: Mirabel_012_f
+I bet you'll be really happy if you do. And, just so you know, I'd love to help.
+
+TAG: Mirabel_013_f
+I could add a couple of things to my place. Scrooge McDuck might have what I need.
+
+TAG: Mirabel_014_f
+And if he doesn't, you can always place an order. I've heard it's pretty easy.
+
+TAG: Mirabel_015_f
+But you might have a point. Maybe I should put some more love into my House.
+
+TAG: Mirabel_016_f
+Well, I would love to help you do that!
+

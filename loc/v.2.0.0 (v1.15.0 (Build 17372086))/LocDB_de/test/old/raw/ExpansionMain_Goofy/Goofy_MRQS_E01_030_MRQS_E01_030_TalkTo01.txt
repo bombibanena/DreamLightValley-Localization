@@ -1,0 +1,33 @@
+TAG: Goofy_000_f
+Вы только посмотрите на это.
+
+TAG: Goofy_001_f
+Мои крепости - не причудливые места, но это просто беспорядок.
+
+TAG: Player_000_choice_000_f
+Просто нужно немного поработать.
+
+TAG: Player_000_choice_001_f
+Что тебе нужно, чтобы запустить его и запустить?
+
+TAG: Player_000_choice_002_f
+Может, здешние звери разорвали его на части...
+
+TAG: Goofy_003_f
+Ты прав, {PlayerName}!
+
+TAG: Goofy_004_f
+Думаю, нам понадобится <ActivityItem>Copper</ActivityItem> и <ActivityItem>Plastic Scrap</ActivityItem>, чтобы всё исправить.
+
+TAG: Goofy_006_f
+Я принесу их тебе.
+
+TAG: Goofy_002_f
+Кажется, я видел, как какой-то <ActivityItem>Plastic Scrap</ActivityItem> плавал в воде снаружи рипплов!
+
+TAG: Goofy_007_f
+Готов поспорить, что здесь в <Lore>Mining Rocks</Lore> много <ActivityItem>Copper</ActivityItem>!
+
+TAG: Goofy_005_f
+Уэлп, я уверен, что если и так, то это было не специально, давай попробуем это исправить.
+

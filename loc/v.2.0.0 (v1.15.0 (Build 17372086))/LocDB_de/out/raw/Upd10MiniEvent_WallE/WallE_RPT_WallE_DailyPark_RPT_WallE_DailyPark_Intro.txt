@@ -1,0 +1,75 @@
+TAG: WallE_000_f
+Hi WALLÂ·E!
+
+TAG: WallE_022_f
+WALLÂ·E!
+
+TAG: Player_000_choice_000_f
+I'm happy to see you!
+
+TAG: Player_000_choice_001_f
+Gotta go; I'm busy.
+
+TAG: WallE_011_f
+Hey, WALLÂ·E! I was thinking about making some more <ActivityItem>Spaceship Earth Cupcakes</ActivityItem> to hand out for the festival.
+
+TAG: WallE_012_f
+Ee-ah... Earth!
+
+TAG: WallE_013_f
+I'll bake them up and go hand them out to the Villagers.
+
+TAG: WallE_014_f
+You can tell me if they look ready to be handed out.
+
+TAG: WallE_015_f
+Directive!
+
+TAG: WallE_016_f
+Dir-ec-tive!
+
+TAG: WallE_017_f
+Sounds like you've got something you want me to do.
+
+TAG: WallE_018_f
+Ta-da! *holds up cupcake wrapper*
+
+TAG: WallE_019_f
+Ohh! You want some cupcakes? I'm guessing to give away to the Villagers since you don't eat...
+
+TAG: WallE_020_f
+*affirmative whistle*
+
+TAG: WallE_001_f
+Happy Dreamlight Parks Fest! Are you having a good time?
+
+TAG: WallE_010_f
+Whoopee!
+
+TAG: WallE_002_f
+Uh... Directive?
+
+TAG: WallE_003_f
+Well, the directive for the festival is to have fun!
+
+TAG: WallE_004_f
+Collect popcorn buckets, decorate...
+
+TAG: WallE_005_f
+Bake special cupcakes and give them to other Villagers...
+
+TAG: WallE_006_f
+Ah! Directive! *excited beeps*
+
+TAG: WallE_007_f
+You want to give out cupcakes?
+
+TAG: WallE_008_f
+*affirmative whistle*
+
+TAG: WallE_009_f
+Huh, okay! I can make you some <ActivityItem>Spaceship Earth Cupcakes</ActivityItem>. Maybe we can give them to the members of your Astronomy Club?
+
+TAG: WallE_021_f
+Aw...
+

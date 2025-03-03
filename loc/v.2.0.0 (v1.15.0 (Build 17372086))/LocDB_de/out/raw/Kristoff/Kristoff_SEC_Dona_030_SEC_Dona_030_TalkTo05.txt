@@ -1,0 +1,36 @@
+TAG: Kristoff_000_f
+Hey, {PlayerName}. Wait, is that a sock?
+
+TAG: Kristoff_002_f
+I found it lying on the ground. It's orange, so I figured it might be yours.
+
+TAG: Kristoff_006_f
+You know... since you really like carrots.
+
+TAG: Kristoff_003_f
+Sorry, no. That's not my sock.
+
+TAG: Kristoff_004_f
+And that's not really carrot-orange, is it? Looks more like pumpkin-orange to me.
+
+TAG: Kristoff_010_f
+Pumpkins are more of a Fairy Godmother thing.
+
+TAG: Player_000_choice_000_f
+You can see how I'd make that mistake.
+
+TAG: Player_000_choice_001_f
+Whoops. Sorry. My bad.
+
+TAG: Player_000_choice_002_f
+Oh, right. They're subtly but noticeably different shades of orange.
+
+TAG: Kristoff_005_f
+Wait a second. That's not my sock, but now that I look more closely, I think I've seen it before.
+
+TAG: Kristoff_011_f
+Socks like that were hanging up on a clothesline <Lore>near Merlin's library</Lore>.
+
+TAG: Kristoff_007_f
+Hmm... <Lore>who would be hanging up their laundry there</Lore>? I guess I'll go check.
+

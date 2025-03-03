@@ -1,0 +1,18 @@
+TAG: Scrooge_000_f
+Seein' as how Chez Remy is the only restaurant in town, opening it back up would be a smart investment. Besides, I could really use a night out.
+
+TAG: Player_000_choice_000_f
+Let's open Chez Remy. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_001_f
+Well done, {PlayerName}! Finally, we can have the Grand Opening!
+
+TAG: Scrooge_004_f
+Och! You don't have enough Star Coins to open Chez Remy! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_002_f
+Curse me kilts! Stop wasting my time and find me when you're serious about investing in Chez Remy.
+

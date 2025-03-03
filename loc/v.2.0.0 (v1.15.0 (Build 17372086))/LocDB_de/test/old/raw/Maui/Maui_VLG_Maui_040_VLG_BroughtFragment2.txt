@@ -1,0 +1,33 @@
+TAG: Maui_000_f
+Отличная работа, парень!
+
+TAG: Maui_001_f
+Конечно, <ActivityItem> Heart of Dreamlight Valley</ActivityItem> все еще сломан. Есть идеи?
+
+TAG: Player_000_f
+Мы должны...
+
+TAG: Player_000_choice_000_f
+Спросите Мерлин.
+
+TAG: Player_000_choice_001_f
+Почини его.
+
+TAG: Player_000_choice_002_f
+Положи кусочки обратно на статую.
+
+TAG: Maui_002_f
+Это сработает, ты определенно должен это сделать.
+
+TAG: Maui_005_f
+Я отличный полубог, правда, но я думаю, что это дело Мерлин.
+
+TAG: Maui_004_f
+Да, простой ремонт не сработает на <ActivityItem> Heart of Dreamlight Valley</ActivityItem>.
+
+TAG: Maui_006_f
+Я отличный полубог, правда, но я думаю, что это дело Мерлин.
+
+TAG: Maui_003_f
+Простите, Сердце долины Мечты все еще сломано.
+

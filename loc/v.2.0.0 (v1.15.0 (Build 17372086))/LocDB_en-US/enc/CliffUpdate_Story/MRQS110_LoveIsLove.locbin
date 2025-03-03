@@ -1,0 +1,103 @@
+
+_
+8Story!MRQS110_LoveIsLove_Any_CompletedRequestDescription#Talk to Olaf in the secret chamber.
+¢
+-Story!MRQS110_LoveIsLove_AvailableDescriptionqAn enchanted blizzard has started in the Frosted Heights. You'll need to investigate to find out what's going on.
+ù
+2Story!MRQS110_LoveIsLove_CompletedStoryDescriptionÊA simple act of love √¢¬Ä¬î a warm hug from Olaf √¢¬Ä¬î turns out to be all it takes to restore the light inside the Orb. You place it back in the Pillar in the Frosted Heights, and the Dark Magic powering the blizzard dissipates.
+:
+$Story!MRQS110_LoveIsLove_DisplayNameThe Great Blizzard
+m
+7Story!MRQS110_LoveIsLove_Group01_Step01_StepDescription2There's a magical blizzard in the Frosted Heights!
+a
+IStory!MRQS110_LoveIsLove_Group01_Step01_TalkToCharacter01_StepDescriptionConsult with Merlin.
+î
+CStory!MRQS110_LoveIsLove_Group02_Step02_VisitArea01_StepDescriptionMSearch around for clues to the source of the blizzard in the Frosted Heights.
+π
+1Story!MRQS110_LoveIsLove_Group02_StoryDescriptionÉMerlin tells you that you'll need to investigate the center of the mystical disturbance if you're to have any hope of solving this.
+m
+EStory!MRQS110_LoveIsLove_Group03_Step03_Interaction01_StepDescription$Interact with the wall of the cliff.
+ê
+CStory!MRQS110_LoveIsLove_Group04_Step04_VisitArea02_StepDescriptionIEnter the secret chamber in the wall of the cliff in the Frosted Heights.
+p
+IStory!MRQS110_LoveIsLove_Group05_Step05_TalkToCharacter02_StepDescription#Talk to Olaf in the secret chamber.
+ê
+CStory!MRQS110_LoveIsLove_Group06_Step06_VisitArea03_StepDescriptionISearch the blizzard for the <ActivityItem>Scary Squirrels</ActivityItem>.
+Ì
+1Story!MRQS110_LoveIsLove_Group06_StoryDescription∑Inside the secret chamber, you find Olaf. He's been trapped in here for a long time. But before he can help you solve the magical mystery, you'll need to help him find all his pieces.
+õ
+7Story!MRQS110_LoveIsLove_Group07_Step07_StepDescription`Chase down the <ActivityItem>Scary Squirrels</ActivityItem> to get Olaf's buttons and nose back.
+í
+0Story!MRQS110_LoveIsLove_Group08_StepDescription^Return to the secret chamber and bring Olaf his <ActivityItem>Nose and Buttons</ActivityItem>.
+}
+0Story!MRQS110_LoveIsLove_Group09_StepDescriptionIFigure out which gems are missing in the secret chamber and replace them.
+Z
+IStory!MRQS110_LoveIsLove_Group10_Step10_TalkToCharacter08_StepDescriptionTalk to Olaf.
+\
+IStory!MRQS110_LoveIsLove_Group11_Step11_TalkToCharacter03_StepDescriptionTalk to Merlin.
+Z
+IStory!MRQS110_LoveIsLove_Group12_Step12_TalkToCharacter04_StepDescriptionTalk to Elsa.
+u
+CStory!MRQS110_LoveIsLove_Group13_Step13_VisitArea04_StepDescription.Investigate the Pillar in the Frosted Heights.
+h
+AStory!MRQS110_LoveIsLove_Group14_Step14_Possess01_StepDescription#<ActivityItem>Glass.</ActivityItem>
+w
+AStory!MRQS110_LoveIsLove_Group14_Step14_Possess02_StepDescription2<ActivityItem>Purified Night Shard.</ActivityItem>
+à
+AStory!MRQS110_LoveIsLove_Group14_Step14_Possess04_StepDescriptionC<ActivityItem>Shattered Prism</ActivityItem> in the secret chamber.
+V
+7Story!MRQS110_LoveIsLove_Group14_Step14_StepDescriptionGather the following items:
+è
+DStory!MRQS110_LoveIsLove_Group15_Step15_WaterPlant01_StepDescriptionGUse your Watering Can on the sparkling water particles near the Pillar.
+o
+IStory!MRQS110_LoveIsLove_Group16_Step16_TalkToCharacter05_StepDescription"Talk to Merlin about what you saw.
+ﬁ
+1Story!MRQS110_LoveIsLove_Group16_StoryDescription®Merlin shows you how to use your Watering Can to uncover the memories within water. You discover that it was you who ripped the Orb from the Pillar all those years ago.
+m
+IStory!MRQS110_LoveIsLove_Group17_Step17_TalkToCharacter06_StepDescription Talk to Elsa about what you saw.
+‹
+1Story!MRQS110_LoveIsLove_Group17_StoryDescription¶Elsa shows you how to use your Watering Can to uncover the memories within water. You discover that it was you who ripped the Orb from the Pillar all those years ago.
+r
+IStory!MRQS110_LoveIsLove_Group18_Step18_TalkToCharacter07_StepDescription%Return to Olaf in the secret chamber.
+T
+8Story!MRQS110_LoveIsLove_Group19_Step19_ReadyDescriptionGive Olaf his arms back.
+Z
+7Story!MRQS110_LoveIsLove_Group19_Step19_StepDescriptionBring the Orb and arms to Olaf.
+u
+0Story!MRQS110_LoveIsLove_Group19_StepDescriptionAThe Orb seems to be broken. But at least you found Olaf's arms...
+À
+1Story!MRQS110_LoveIsLove_Group19_StoryDescriptionïYou recover the Orb and Olaf's arms. But something is wrong with the Orb. Its light is dim, and the magic inside of it no longer seems to be working.
+ï
+CStory!MRQS110_LoveIsLove_Group20_Step20_CraftItem01_StepDescriptionNCraft the <ActivityItem>Dreamlight Prism</ActivityItem> at a Crafting Station.
+u
+AStory!MRQS110_LoveIsLove_Group21_Step22_Possess03_StepDescription0Find a book about portals in the secret chamber.
+√
+1Story!MRQS110_LoveIsLove_Group21_StoryDescriptionçWith Olaf's help, you learn that the Orb was thrown into the flickering portal. You'll need to figure out how to stabilize it to get the Orb.
+ï
+DStory!MRQS110_LoveIsLove_Group22_Step23_WaterPlant02_StepDescriptionMUse your Watering Can on the sparkling water particles in the secret chamber.
+™
+DStory!MRQS110_LoveIsLove_Group23_Step24_WaterPlant03_StepDescriptionbUse your Watering Can on the sparkling water particles closer to the portal in the secret chamber.
+Z
+IStory!MRQS110_LoveIsLove_Group24_Step25_TalkToCharacter09_StepDescriptionTalk to Olaf.
+ß
+EStory!MRQS110_LoveIsLove_Group25_Step26_FillKeyhole01_StepDescription^Place the <ActivityItem>Dreamlight Prism</ActivityItem> on the pedestal in the secret chamber.
+û
+IStory!MRQS110_LoveIsLove_Group26_Step27_TalkToCharacter10_StepDescriptionQWhisper one of your deepest fears to the flickering portal in the secret chamber.
+|
+EStory!MRQS110_LoveIsLove_Group27_Step28_FillKeyhole02_StepDescription3Place the Orb in the Pillar in the Frosted Heights.
+r
+5Story!MRQS110_LoveIsLove_Group06_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+r
+5Story!MRQS110_LoveIsLove_Group07_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+l
+5Story!MRQS110_LoveIsLove_Group08_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What was I doing?
+r
+5Story!MRQS110_LoveIsLove_Group12_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+t
+5Story!MRQS110_LoveIsLove_Group13_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What were we doing again?
+l
+5Story!MRQS110_LoveIsLove_Group16_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What was I doing?
+g
+5Story!MRQS110_LoveIsLove_Group21_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+t
+5Story!MRQS110_LoveIsLove_Group22_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What was I doing again???

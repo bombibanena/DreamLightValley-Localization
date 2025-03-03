@@ -1,0 +1,113 @@
+
+x
+GVillage!BeautyBeast!Gaston!VLG_Gast_040_Any_CompletedRequestDescription-Возвращайтесь на Гастон.
+�
+<Village!BeautyBeast!Gaston!VLG_Gast_040_AvailableDescription�Гастон решил, что на самом деле ему нужен новый помощник, и он нуждается в вашей помощи, чтобы узнать, кто из деревенских будет заинтересован в соревновании за титул.
+�
+AVillage!BeautyBeast!Gaston!VLG_Gast_040_CompletedStoryDescription�Гастон удовлетворен его новым помощником. Они могут быть не так хороши, как LeFou поначалу, но Гастон уверен, что он сможет их обучить.
+v
+3Village!BeautyBeast!Gaston!VLG_Gast_040_DisplayName?Следующая вершина долины Мечты LeFou
+�
+FVillage!BeautyBeast!Gaston!VLG_Gast_040_Group01_Step01_StepDescriptionWПоговорите с потенциальными новыми приятелями:
+h
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group01_Step01_TalkToCharacter01_StepDescription{TargetNPC}.
+h
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group01_Step01_TalkToCharacter02_StepDescription{TargetNPC}.
+h
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group01_Step01_TalkToCharacter03_StepDescription{TargetNPC}.
+h
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group01_Step01_TalkToCharacter04_StepDescription{TargetNPC}.
+h
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group01_Step01_TalkToCharacter05_StepDescription{TargetNPC}.
+}
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group02_Step02_TalkToCharacter06_StepDescription!Поговори с Гастон.
+y
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group03_Step03_TalkToCharacter07_StepDescriptionПоговори с Стич.
+�
+@Village!BeautyBeast!Gaston!VLG_Gast_040_Group03_StoryDescription�Олаф и Стич являются финалистами соревнований на стороне, и Гастон дал каждому из них задание Гастонian, чтобы помочь вам проверить их напарники.
+�
+TVillage!BeautyBeast!Gaston!VLG_Gast_040_Group04_Step04_Conditional01_StepDescriptioniУбедись, что Стич зависает с тобой, чтобы продолжить тест.
+`
+QVillage!BeautyBeast!Gaston!VLG_Gast_040_Group05_Step05_CookMeal01_StepDescription{ItemName}.
+`
+QVillage!BeautyBeast!Gaston!VLG_Gast_040_Group05_Step05_CookMeal02_StepDescription{ItemName}.
+`
+QVillage!BeautyBeast!Gaston!VLG_Gast_040_Group05_Step05_CookMeal03_StepDescription{ItemName}.
+`
+QVillage!BeautyBeast!Gaston!VLG_Gast_040_Group05_Step05_CookMeal04_StepDescription{ItemName}.
+`
+QVillage!BeautyBeast!Gaston!VLG_Gast_040_Group05_Step05_CookMeal05_StepDescription{ItemName}.
+�
+?Village!BeautyBeast!Gaston!VLG_Gast_040_Group05_StepDescriptionHГотовить с Стич присматривать за тобой.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_040_Group06_Step06_BringItem01_StepDescription{ItemName}.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_040_Group06_Step06_BringItem02_StepDescription{ItemName}.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_040_Group06_Step06_BringItem03_StepDescription{ItemName}.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_040_Group06_Step06_BringItem04_StepDescription{ItemName}.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_040_Group06_Step06_BringItem05_StepDescription{ItemName}.
+n
+GVillage!BeautyBeast!Gaston!VLG_Gast_040_Group06_Step06_ReadyDescription#Принесите еду Стич.
+�
+FVillage!BeautyBeast!Gaston!VLG_Gast_040_Group06_Step06_StepDescriptionKУдостоверься, что у вас есть еда в списке:
+y
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group07_Step07_TalkToCharacter08_StepDescriptionПоговори с Олаф.
+�
+TVillage!BeautyBeast!Gaston!VLG_Gast_040_Group08_Step08_Conditional02_StepDescriptionkПопроси Олаф потусоваться с тобой, чтобы продолжить тесты.
+v
+VVillage!BeautyBeast!Gaston!VLG_Gast_040_Group09_Step09_RemoveBlocker01_StepDescriptionПлывучие пески.
+�
+VVillage!BeautyBeast!Gaston!VLG_Gast_040_Group09_Step09_RemoveBlocker02_StepDescription(Стеклянный Сталагмит.
+r
+VVillage!BeautyBeast!Gaston!VLG_Gast_040_Group09_Step09_RemoveBlocker03_StepDescriptionМедные скалы.
+�
+OVillage!BeautyBeast!Gaston!VLG_Gast_040_Group09_Step10_PickUp01_StepDescription;Возьми цветы с острова Вечность.
+�
+?Village!BeautyBeast!Gaston!VLG_Gast_040_Group09_StepDescriptionGЗакрепить природу Олаф путем удаления:
+�
+RVillage!BeautyBeast!Gaston!VLG_Gast_040_Group10_Step11_BringItem06_StepDescriptionGУбедись, что у тебя есть цветы в списке.
+s
+GVillage!BeautyBeast!Gaston!VLG_Gast_040_Group10_Step11_ReadyDescription(Принеси цветы на Олаф.
+�
+TVillage!BeautyBeast!Gaston!VLG_Gast_040_Group11_Step12_RoyalDuties01_StepDescription�Выполняйте некоторые обязанности DreamLight, в то время как Олаф докладывает Гастон.
+}
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group12_Step14_TalkToCharacter09_StepDescription!Поговори с Гастон.
+_
+PVillage!BeautyBeast!Gaston!VLG_Gast_040_Group13_Step15_Possess01_StepDescription{ItemName}.
+_
+PVillage!BeautyBeast!Gaston!VLG_Gast_040_Group13_Step15_Possess02_StepDescription{ItemName}.
+_
+PVillage!BeautyBeast!Gaston!VLG_Gast_040_Group13_Step15_Possess03_StepDescription{ItemName}.
+_
+PVillage!BeautyBeast!Gaston!VLG_Gast_040_Group13_Step15_Possess04_StepDescription{ItemName}.
+_
+PVillage!BeautyBeast!Gaston!VLG_Gast_040_Group13_Step15_Possess05_StepDescription{ItemName}.
+�
+?Village!BeautyBeast!Gaston!VLG_Gast_040_Group13_StepDescriptionSСоберите материалы для этапа оценки Гастонian:
+�
+@Village!BeautyBeast!Gaston!VLG_Gast_040_Group13_StoryDescription�Гастон до сих пор не уверен, кто из кандидатов будет лучшим помощником, так что ему нужно узнать, кто из них лучше будет смазать его во время вечеринки.
+x
+RVillage!BeautyBeast!Gaston!VLG_Gast_040_Group14_Step16_CraftItem01_StepDescription"Подготовьте {ItemName}.
+�
+QVillage!BeautyBeast!Gaston!VLG_Gast_040_Group15_Step17_Decorate01_StepDescriptionDПоставь {ItemName}, чтобы начать собрание.
+�
+NVillage!BeautyBeast!Gaston!VLG_Gast_040_Group16_Step18_Party01_StepDescriptionsСфотографируй соперников, когда закончится Гастонian Application Party.
+�
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group17_Step19_TalkToCharacter10_StepDescription-Возвращайтесь на Гастон.
+�
+OVillage!BeautyBeast!Gaston!VLG_Gast_040_Group18_Step20_Listen02_StepDescriptionXПозволь Гастон поздравить его нового помощника.
+�
+@Village!BeautyBeast!Gaston!VLG_Gast_040_Group18_StoryDescription]По вашему предложению, Стич выиграли соревнование!
+�
+OVillage!BeautyBeast!Gaston!VLG_Gast_040_Group19_Step21_Listen03_StepDescriptionXПозволь Гастон поздравить его нового помощника.
+�
+@Village!BeautyBeast!Gaston!VLG_Gast_040_Group19_StoryDescription]По вашему предложению, Олаф выиграли соревнование!
+z
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group20_Step22_TalkToCharacter11_StepDescriptionПоздравляю Стич.
+z
+XVillage!BeautyBeast!Gaston!VLG_Gast_040_Group21_Step23_TalkToCharacter12_StepDescriptionПоздравляю Олаф.
+k
+:Village!BeautyBeast!Gaston!VLG_Gast_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

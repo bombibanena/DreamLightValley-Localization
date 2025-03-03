@@ -1,0 +1,35 @@
+
+I
+Ursula_002_f9Tell me everything, angelfish. They refused, didn't they?
+#
+Ursula_003_fOh well, too bad...
+}
+Player_000_fmNo, no, they all accepted. Kristoff and Mirabel's auditions were great, but Mother Gothel didn't even sing...
+8
+Player_000_choice_000_fBut I'm sure she'll be great.
+2
+Player_000_choice_001_fWhat do you want to do?
+C
+Player_000_choice_002_f(She thinks she's the star of the show...
+?
+Ursula_005_f/I'll be the judge of that. Don't worry, dearie.
+ª
+Ursula_015_f™As for Mother Gothel, I know she has plenty of <ActivityItem>Potion Bottles</ActivityItem> in the Giant Willow. I'm sure she won't mind parting with one.
+Ž
+Ursula_006_f~You've done a fine job. Now, there's just a couple of things I need you to do for me while I go talk to my new backup singers.
+‘
+Ursula_008_f€I've been chatting with Scrooge, and he tells me he has some sort of device that amplifies the voice of those who speak into it.
+:
+Ursula_009_f*A <ActivityItem>Microphone</ActivityItem>?
+ƒ
+Ursula_010_fsYes, that's it! I want to enchant it for my backup singers. Just a little something to help them with stage fright.
+I
+Ursula_011_f9We'll need an item from each of them for the enchantment.
++
+Ursula_012_fWhat do you need me to get?
+[
+Ursula_013_fKSomething they use often but won't miss. Something they can replace easily.
+è
+Ursula_014_f×Let's see... Mirabel always has a lot of those ridiculous <ActivityItem>Pinwheels</ActivityItem>. And I think Kristoff got a new <ActivityItem>Pickaxe</ActivityItem> recently, but the old one's still lying around...
+T
+Ursula_007_fDOh, she'll soon realize who's boss around here. Don't worry, dearie.

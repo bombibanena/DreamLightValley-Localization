@@ -1,0 +1,19 @@
+
+-
+Merlin_006_fCould I learn to be a wizard?
+z
+Merlin_007_fjWell, you clearly have magical ability. But the question you must ask is "why do you WANT to be a wizard?"
+*
+Player_001_choice_000_fTo be powerful.
+$
+Player_001_choice_001_f	To learn.
+8
+Player_001_choice_002_fI want a cool hat like yours.
+\
+Merlin_008_fLThen no. Likely not. A true wizard seeks to help others, not overpower them.
+1
+Merlin_009_f!Then you are already on the path.
+D
+Merlin_010_f4You need not become a wizard for that, {PlayerName}.
+3
+Merlin_011_f#You may wear whatever hat you wish.

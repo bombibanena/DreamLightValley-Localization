@@ -1,0 +1,21 @@
+TAG: Remy_001_f
+All these <ActivityItem>Empty Vials</ActivityItem>! My spice rack is saved! Thanks, {PlayerName}!
+
+TAG: Player_000_choice_000_f
+Things are about to get a lot spicier at Chez Remy.
+
+TAG: Player_000_choice_001_f
+Just don't break these ones too, okay?
+
+TAG: Remy_002_f
+Yep. I'm going to make a multi-course meal that includes each spice, just to celebrate. It'll be a medley of flavor!
+
+TAG: Remy_003_f
+Here you go. Some <ActivityItem>Wrought Iron</ActivityItem>, courtesy of Mr. McDuck.
+
+TAG: Remy_004_f
+Use it to build something great for the Village. The more you do for Chez Remy, the more we'll be able to order.
+
+TAG: Remy_005_f
+Heh, don't worry. I'll definitely be more careful.
+

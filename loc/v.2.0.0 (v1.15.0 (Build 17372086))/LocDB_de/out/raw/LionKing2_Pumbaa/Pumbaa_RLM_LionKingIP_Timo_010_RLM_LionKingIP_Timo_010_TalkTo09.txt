@@ -1,0 +1,36 @@
+TAG: Pumbaa_000_f
+Hey Pumbaa! Buddy? You okay?
+
+TAG: Pumbaa_001_f
+Oh, {PlayerName}! I just knew you'd come back and help me!
+
+TAG: Pumbaa_002_f
+Timon said maybe you'd forget. But I said, nope! {PlayerName} would never do that to a pal!
+
+TAG: Player_001_choice_000_f
+I'd never abandon you!
+
+TAG: Player_001_choice_001_f
+Sorry if it took a little longer than planned...
+
+TAG: Player_001_choice_002_f
+I'm going to help, but I have to say, you look pretty funny.
+
+TAG: Pumbaa_004_f
+I knew it! You're a real friend.
+
+TAG: Pumbaa_006_f
+So, uh... how are ya gonna get me out?
+
+TAG: Pumbaa_007_f
+I've got a special plunger. I'm gonna use it to get enough leverage to pull you out!
+
+TAG: Pumbaa_008_f
+Between this and that oil? It's gonna be fine. I hope.
+
+TAG: Pumbaa_003_f
+That's okay! I started makin' up a song about the moss in here.
+
+TAG: Pumbaa_005_f
+Yeah, I bet this looks silly from the outside.
+

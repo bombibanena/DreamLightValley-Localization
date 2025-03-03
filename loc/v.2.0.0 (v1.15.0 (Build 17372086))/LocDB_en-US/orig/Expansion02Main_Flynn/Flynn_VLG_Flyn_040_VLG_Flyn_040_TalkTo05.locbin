@@ -1,0 +1,44 @@
+
+@
+Flynn_000_f1What a great turnout, Flynn! How are you feeling?
+P
+Flynn_001_fAIncredible! This has been a truly amazing experience! Although...
+.
+Player_000_choice_000_fIs everything okay?
++
+Player_000_choice_001_fOh no, what NOW?
+G
+Player_000_choice_002_f,I'm not sure I can handle any more bad news!
+1
+Flynn_002_f"Oh don't worry; everything's fine.
+j
+Flynn_006_f[I was just thinking about the Lorekeeper, and how she didn't have my story in her memories.
+S
+Flynn_007_fDThat was pretty unfortunate... but we figured it all out in the end!
+H
+Flynn_008_f9And I'll always be grateful to you for helping with that.
+o
+Flynn_009_f`It's just... I had an idea. I'm gonna go talk to the Lorekeeper. I'd really like you to join me.
+%
+Player_001_choice_000_f
+Of course!
+5
+Player_001_choice_001_fDepends what you're up to.
+G
+Player_001_choice_002_f,I was hoping I could finally take a break...
+-
+Flynn_011_fYou're the best, {PlayerName}!
++
+Flynn_018_fWell, I certainly try to be!
+C
+Flynn_017_f4All right, let's <Lore>go see the Lorekeeper</Lore>!
+f
+Flynn_012_fWIt's nothing bad, I swear! I've gotten you into enough trouble to last me quite awhile.
+!
+Flynn_014_fOkay, I trust you.
+g
+Flynn_013_fXYeah, I see how hard you work for everyone around here. And we all really appreciate it.
+.
+Flynn_015_fBut this isn't work; I promise!
+#
+Flynn_016_fOkay, if you insist!

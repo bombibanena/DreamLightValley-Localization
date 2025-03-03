@@ -1,0 +1,129 @@
+TAG: Gaston_003_f
+All done, Gaston! I've got three potential candidates for you.
+
+TAG: Gaston_011_f
+Marvelous! Tell me about each of them.
+
+TAG: Player_002_f
+Okay, let me tell you about...
+
+TAG: Player_002_choice_000_f
+...Stitch.
+
+TAG: Player_002_choice_001_f
+...Olaf.
+
+TAG: Player_002_choice_002_f
+...Donald.
+
+TAG: Gaston_013_f
+He's a little furry blue alien. He's extremely strong, bulletproof, and can see in the dark...
+
+TAG: Gaston_014_f
+Bulletproof? Hmm, that has definite potential. What about his personality?
+
+TAG: Gaston_015_f
+Something of a trickster. Mischievous, but means well.
+
+TAG: Gaston_016_f
+All right...
+
+TAG: Gaston_027_f
+I'll need to think carefully about this.
+
+TAG: Player_003_choice_000_f
+They're all pretty awesome.
+
+TAG: Player_003_choice_001_f
+It's an important decision!
+
+TAG: Player_003_choice_002_f
+Thinking isn't part of the Gastonian Experience!
+
+TAG: Gaston_028_f
+I don't want "pretty" anything, I want "incredibly" perfect.
+
+TAG: Player_004_choice_000_f
+On it!
+
+TAG: Player_004_choice_001_f
+This... might not turn out how you're expecting.
+
+TAG: Player_004_choice_002_f
+Okay, I'm off now.
+
+TAG: Gaston_031_f
+Thinking... thinking... Donald is out.
+
+TAG: Gaston_032_f
+I need a sidekick who doesn't lose his temper. Emotions are... inconvenient.
+
+TAG: Gaston_033_f
+Fair enough.
+
+TAG: Gaston_034_f
+Hmm... I want you to introduce some Gastonian tasks to the remaining candidates.
+
+TAG: Gaston_035_f
+And I'll watch to see how well they perform.
+
+TAG: Gaston_036_f
+All right, what are we doing?
+
+TAG: Gaston_037_f
+Start with Stitch. Have him prepare a proper Gastonian breakfast dish.
+
+TAG: Gaston_038_f
+And Olaf... See if he can conquer the wilds of nature.
+
+TAG: Gaston_005_f
+Excellent!
+
+TAG: Gaston_001_f
+I'll be watching!
+
+TAG: Gaston_002_f
+And {PlayerName}... I'll be eating the breakfast as part of the test. Here â make sure Stitch knows what I like.
+
+TAG: Gaston_006_f
+Well, if it goes badly, I'll know that you're partly to blame.
+
+TAG: Gaston_007_f
+Hey, not fair!
+
+TAG: Gaston_029_f
+Very true.
+
+TAG: Gaston_030_f
+I know. But sometimes it's unavoidable.
+
+TAG: Gaston_017_f
+He's quite charismatic and likes to put on a show!
+
+TAG: Gaston_018_f
+That reminds me of LeFou already!
+
+TAG: Gaston_004_f
+LeFou is quite the performer for such a small man.
+
+TAG: Gaston_019_f
+Well, Olaf is just the sweetest, kindest Villager you'll find in the Valley.
+
+TAG: Gaston_020_f
+Also a great partner for trivia contests.
+
+TAG: Gaston_021_f
+Hmm, interesting...
+
+TAG: Gaston_022_f
+Donald is Scrooge McDuck's nephew.
+
+TAG: Gaston_023_f
+I've seen him around... He always seems upset.
+
+TAG: Gaston_024_f
+That's Donald for you. The smallest injustice really riles him up.
+
+TAG: Gaston_025_f
+Something to consider...
+

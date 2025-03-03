@@ -1,0 +1,36 @@
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Any_CompletedRequestDescription
+Go back to Scrooge McDuck.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_AvailableDescription
+Scrooge McDuck has another valuable lesson to teach you.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_CompletedStoryDescription
+In a surprising move, Ursula gives Scrooge McDuck a gold coin as a diversion. The duck seems fascinated by it. You should check on him.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_DisplayName
+What's Bad for the Business
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Group01_Step01_BringItem01_StepDescription
+Buy {Color} Furniture for Merlin's {Zone}.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Group01_Step01_ReadyDescription
+Bring Merlin {Color} Furniture for his {Zone}.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Group01_StoryDescription
+He suspects Ursula is making deals with the Villagers and asks you to prove it by making one yourself.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Group02_StoryDescription
+The Sea Witch doesn't think twice before accepting.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Group03_StoryDescription
+Now that you have proof, you report to Scrooge McDuck...
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_Group04_StoryDescription
+...who seizes the opportunity to confront Ursula.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

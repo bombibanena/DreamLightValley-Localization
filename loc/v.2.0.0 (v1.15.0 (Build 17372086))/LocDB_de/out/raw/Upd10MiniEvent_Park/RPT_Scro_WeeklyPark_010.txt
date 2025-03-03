@@ -1,0 +1,60 @@
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Any_CompletedRequestDescription
+Return to Scrooge McDuck.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_AvailableDescription
+Talk to Scrooge McDuck.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_DisplayName
+Dreamlight Parks Fest: Decorate!
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess01_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess03_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess04_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess05_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess06_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess07_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_Step01_Possess08_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group01_StepDescription
+Gather the following materials:
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Scrooge McDuck.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group03_Step03_CraftItem01_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group03_Step03_CraftItem02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group03_StepDescription
+Craft:
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group04_Step04_Decorate01_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group04_Step04_Decorate02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_Group04_StepDescription
+Decorate your Valley with:
+
+TAG: Repeatable!Event!Park!RPT_Scro_WeeklyPark_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

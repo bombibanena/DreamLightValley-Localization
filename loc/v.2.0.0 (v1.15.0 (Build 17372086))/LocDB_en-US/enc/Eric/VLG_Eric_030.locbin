@@ -1,0 +1,57 @@
+
+U
+DVillage!LilMermaid!Eric!VLG_Eric_030_Any_CompletedRequestDescriptionTalk to Eric.
+“
+9Village!LilMermaid!Eric!VLG_Eric_030_AvailableDescriptionVNow that Eric has his life back, he has new plans and wants to talk to you about them.
+¤
+>Village!LilMermaid!Eric!VLG_Eric_030_CompletedStoryDescriptionbWith the Compass fixed, Eric has everything he needs but wants to show you something in his House.
+E
+0Village!LilMermaid!Eric!VLG_Eric_030_DisplayNameBack on the Waves
+|
+AVillage!LilMermaid!Eric!VLG_Eric_030_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+p
+UVillage!LilMermaid!Eric!VLG_Eric_030_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Scrooge McDuck.
+Ë
+=Village!LilMermaid!Eric!VLG_Eric_030_Group01_StoryDescription‰Eric wants to take to the waves again, but first he needs updated maps. You decide to go ask Scrooge McDuck, his former business partner.
+g
+DVillage!LilMermaid!Eric!VLG_Eric_030_Group02_Step02_ReadyDescriptionBring WALLÃ‚Â·E the {ItemName}.
+{
+CVillage!LilMermaid!Eric!VLG_Eric_030_Group02_Step02_StepDescription4Make sure you have the {ItemName} in your Inventory.
+v
+AVillage!LilMermaid!Eric!VLG_Eric_030_Group04_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+e
+DVillage!LilMermaid!Eric!VLG_Eric_030_Group04_Step04_ReadyDescriptionBring the {ItemName} to Eric.
+n
+CVillage!LilMermaid!Eric!VLG_Eric_030_Group04_Step04_StepDescription'Get the {ItemName} from Scrooge McDuck.
+y
+AVillage!LilMermaid!Eric!VLG_Eric_030_Group05_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>Where should I go?
+‡
+OVillage!LilMermaid!Eric!VLG_Eric_030_Group05_Step05_BringItem04_StepDescription4Make sure you have the {ItemName} in your Inventory.
+j
+DVillage!LilMermaid!Eric!VLG_Eric_030_Group05_Step05_ReadyDescription"Bring the {ItemName} to WALLÃ‚Â·E.
+·
+=Village!LilMermaid!Eric!VLG_Eric_030_Group05_StoryDescriptionvYou've brought Eric a new map from Scrooge McDuck, but Eric's Compass is broken. You decide to ask WALLÃ‚Â·E for help.
+s
+AVillage!LilMermaid!Eric!VLG_Eric_030_Group06_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+\
+MVillage!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess02_StepDescription{ItemName}.
+\
+MVillage!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess03_StepDescription{ItemName}.
+\
+MVillage!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess04_StepDescription{ItemName}.
+š
+CVillage!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_StepDescriptionSGather the materials to craft a new <ActivityItem>Dreamlight Magnet</ActivityItem>.
+»
+=Village!LilMermaid!Eric!VLG_Eric_030_Group06_StoryDescriptionzAfter consulting with WALLÃ‚Â·E, you learn that Eric's Compass needs a new Dreamlight Magnet. It's up to you to craft one.
+¢
+OVillage!LilMermaid!Eric!VLG_Eric_030_Group07_Step07_CraftItem02_StepDescriptionOCraft the <ActivityItem>Dreamlight Magnet</ActivityItem> at a Crafting Station.
+v
+AVillage!LilMermaid!Eric!VLG_Eric_030_Group09_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+‡
+OVillage!LilMermaid!Eric!VLG_Eric_030_Group09_Step09_BringItem03_StepDescription4Make sure you have the {ItemName} in your Inventory.
+„
+DVillage!LilMermaid!Eric!VLG_Eric_030_Group09_Step09_ReadyDescription<Bring the <ActivityItem>Compass</ActivityItem> back to Eric.
+n
+OVillage!LilMermaid!Eric!VLG_Eric_030_Group10_Step10_VisitArea01_StepDescriptionMeet Eric inside his House.
+h
+7Village!LilMermaid!Eric!VLG_Eric_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

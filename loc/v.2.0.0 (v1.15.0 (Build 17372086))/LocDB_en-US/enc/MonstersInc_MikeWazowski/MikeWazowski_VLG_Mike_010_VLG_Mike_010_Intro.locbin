@@ -1,0 +1,51 @@
+
+A
+MikeWazowski_000_f+Mike! How are you settling into the Valley?
+/
+MikeWazowski_001_fOh boy, where do I start?
+,
+Player_000_choice_000_fAt the beginning?
+C
+Player_000_choice_001_f(Think it over Ã¢Â€Â” I'll be back later.
+™
+MikeWazowski_004_f‚Okay. Wait... AAA-CHOOO! Sheesh! This place is nuts! *sniff* Is it actually safe? If I leave my House, is the air gonna poison me?
+$
+Player_001_choice_000_f	What? No!
+:
+Player_001_choice_001_fIs whimsy and joy toxic to you?
+`
+MikeWazowski_005_fJYou'll be fine, Mike. No poisonous air here. Just relax and come have fun.
+>
+MikeWazowski_007_f(Relax?! How am I supposed to relax here?
+q
+MikeWazowski_008_f[No Harryhausen's! No cars! And all this nature! ACHOO! Grr... It's like a different planet!
+,
+MikeWazowski_009_fIs it really that bad?
+s
+MikeWazowski_010_f]I'm sure you can survive without Harryhausen's for a while. We've got Chez Remy's, after all!
+I
+MikeWazowski_018_f3I get it; you want fashion goggles. Go for it, pal!
+A
+MikeWazowski_019_f+Just make sure they're industrial strength!
+L
+MikeWazowski_011_f6Survive? {PlayerName}, I'm talking about living, here!
+A
+MikeWazowski_012_f+Think of this as an extended glamping trip.
+2
+MikeWazowski_013_fGlamping?! I do not "glamp."
+¨
+MikeWazowski_014_f‘And even if the air here is fine, YOU are constantly hopping around worlds, right? What if you picked up some sort of interdimensional parasite?!
+€
+MikeWazowski_003_fjCan't you put on something that'll keep me safe from whatever strange magical germs you might be carrying?
+W
+MikeWazowski_015_fAIf it will get you to calm down and stop being so dramatic, sure!
+€
+MikeWazowski_016_fjGreat! I'm thinking <ActivityItem>Safety Goggles</ActivityItem>. I'm VERY vulnerable to optical parasites.
+b
+MikeWazowski_017_fLI can <Lore>talk to Scrooge McDuck and see if he can order something</Lore>.
+k
+MikeWazowski_020_fUI'm sure you can survive without Harryhausen's for a while. We've got plenty of food!
+H
+MikeWazowski_006_f2Oh, funny. I guess my health is a big joke to you.
+—
+MikeWazowski_002_f€Okay. Wait... AAA-CHOOO! Sheesh! This place is nuts! *sniff* Is it actually safe? If I stay outside, is the air gonna poison me?

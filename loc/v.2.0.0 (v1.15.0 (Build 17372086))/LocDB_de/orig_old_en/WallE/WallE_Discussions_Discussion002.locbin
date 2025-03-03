@@ -1,0 +1,82 @@
+
+
+WallE_000_fWALL·E.
+G
+Player_000_f7Let's try one WALL·E for yes and two WALL·E's for no.
+3
+Player_000_choice_000_fDo you like the Village?
+2
+Player_000_choice_001_fDo you miss your world?
+F
+Player_000_choice_002_f+Would you like to go on adventures with me?
+
+WallE_001_fWALL·E!
+=
+Player_001_f-One WALL·E means "YES"! So, do you prefer...
+#
+Player_001_choice_000_fFishing?
+%
+Player_001_choice_001_f
+Gardening?
+.
+Player_001_choice_002_fMeeting new people?
+ 
+WallE_004_fWALL·E, WALL·E!
+4
+Player_002_choice_000_fI finally understand you!
+7
+Player_002_choice_001_fThank you for playing along!
+
+WallE_007_fWhoopee!
+
+WallE_005_fWALL·E!
+
+WallE_006_fOh... WALL·E?
+
+WallE_002_f	EVE-ah...
+
+Player_003_f	Is EVE...
+'
+Player_003_choice_000_fYour friend?
+)
+Player_003_choice_001_fAnother robot?
+
+WallE_008_fWALL·E!
+#
+Player_004_fShe IS your friend!
+4
+Player_004_choice_000_fI finally understand you!
+4
+Player_004_choice_001_fThanks for playing along!
+
+WallE_009_fWALL·E!
+%
+Player_005_fShe IS another robot!
+4
+Player_005_choice_000_fI finally understand you!
+4
+Player_005_choice_001_fThanks for playing along!
+ 
+WallE_003_fWALL·E, WALL·E.
+9
+Player_006_f)Two WALL·E's mean "no"! Is it because...
+?
+Player_006_choice_000_f$You're more of a stay-at-home robot?
+/
+Player_006_choice_001_fYou're afraid of me?
+
+WallE_010_fWALL·E!
+,
+Player_007_fYou're a stay-at-home robot!
+4
+Player_007_choice_000_fI finally understand you!
+4
+Player_007_choice_001_fThanks for playing along!
+ 
+WallE_011_fWALL·E, WALL·E!
+(
+Player_008_fYou're not afraid of me!
+4
+Player_008_choice_000_fI finally understand you!
+4
+Player_008_choice_001_fThanks for playing along!

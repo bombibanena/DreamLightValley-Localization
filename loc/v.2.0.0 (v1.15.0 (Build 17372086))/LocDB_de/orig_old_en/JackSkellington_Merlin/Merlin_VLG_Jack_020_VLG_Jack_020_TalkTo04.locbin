@@ -1,0 +1,72 @@
+
+M
+Merlin_000_f=Merlin, I could use some help ‚Äî it's a bit of an emergency.
+?
+Merlin_001_f/An emergency? Goodness, what's the trouble now?
+_
+Merlin_002_fOWell, I was helping Jack Skellington with his dreams of scientific discovery...
+_
+Merlin_003_fOAnd something went dreadfully wrong? Ahh, I've certainly been in that position.
+3
+Player_000_choice_000_fI knew you'd understand.
+7
+Player_000_choice_001_fAmazing. You're a lifesaver.
+@
+Player_000_choice_002_f%Aren't you a wizard, not a scientist?
+
+Merlin_004_fFar too well.
+\
+Merlin_013_fLNow which one was it...? Was it green? No... no... it must have been purple.
+,
+Merlin_014_fOkay, purple potion. Got it.
+h
+Merlin_015_fXOr was the purple the exact one to avoid in this situation? I'm sure it's in my notes...
+b
+Merlin_016_fRI do know that you're looking for the <Lore>Night Thorn's perfect opposite</Lore>.
+±
+Merlin_017_f†I've a <Lore>Green Formula</Lore>, a <Lore>Blue Formula</Lore>, a <Lore>Yellow Formula</Lore>, and a <Lore>Purple Formula</Lore>. But which is the right one...?
+-
+Merlin_005_fNow, tell me what went wrong.
+O
+Merlin_006_f?So Jack Skellington was curious about Night Shards, and well...
+=
+Merlin_007_f-...somehow he made a Giant Night Thorn plant.
+u
+Merlin_008_feHmm... I suppose I should be disapproving, but... I can't say that I haven't been in the same pickle.
+
+Merlin_009_f... Really?
+Ö
+Merlin_010_fuOh yes! I did my share of experiments before you returned to the Valley and... well, not all of them were successful.
+í
+Merlin_011_fÅLuckily, I have just the formula for this. A sort of potion, as it were. It turns out that complementary metaphysics are the key!
+(
+Merlin_012_fYou're the best, Merlin.
+M
+Merlin_018_f=Just look around my library ‚Äî you'll find it easily enough.
+;
+Merlin_019_f+Merlin, look at this place ‚Äî it's a mess!
+u
+Merlin_020_feNonsense! Everything is exactly where it's meant to be! You simply don't understand my filing system.
+2
+Player_001_choice_000_fMust be a wizard thing.
+'
+Player_001_choice_001_fClearly not.
+U
+Player_001_choice_002_f:I have my doubts about there being a filing system at all.
+
+Merlin_021_f
+Precisely!
+O
+Merlin_022_f?Now, I've other business to attend to. Good luck, {PlayerName}!
+z
+Merlin_023_fjWell, I'll leave the administration of the Valley to you, and you leave the organization of my home to me.
+t
+Merlin_024_fdHappens to all wizards ‚Äî people attribute to you what you haven't done, and dismiss what you have!
+P
+Merlin_025_f@Oh well, it'll be easy enough to find once you enter my library.
+W
+Merlin_026_fGMerlin, I've seen what it's like in your House ‚Äî the place is a mess!
+T
+Merlin_027_fDOh, hem, well, let's see what I can do before you go on thanking me.
+c
+Merlin_028_fSYes, yes. But a thoughtful wizard is a scientist who uses magic for their research!

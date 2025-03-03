@@ -1,0 +1,39 @@
+
+Ç
+0Story!MRQS137_ReachTheLight_AvailableDescription’After a spell goes awry in your confrontation with the Forgotten, you find yourself in a strange, dark place. Something about it seems familiar...
+9
+'Story!MRQS137_ReachTheLight_DisplayNameThe Remembered
+a
+FStory!MRQS137_ReachTheLight_Group02_Step02_VisitArea02_StepDescriptionWalk towards the light.
+w
+LStory!MRQS137_ReachTheLight_Group03_Step03_TalkToCharacter01_StepDescription'Talk to the Forgotten near the sandbox.
+l
+HStory!MRQS137_ReachTheLight_Group04_Step04_Interaction01_StepDescription Focus your magic on the sandbox.
+f
+LStory!MRQS137_ReachTheLight_Group05_Step05_TalkToCharacter03_StepDescriptionTalk to the Forgotten.
+h
+HStory!MRQS137_ReachTheLight_Group06_Step06_Interaction02_StepDescriptionFocus your magic on the bed.
+o
+FStory!MRQS137_ReachTheLight_Group07_Step07_VisitArea06_StepDescription%Meet the Forgotten at the next light.
+i
+HStory!MRQS137_ReachTheLight_Group08_Step08_Interaction03_StepDescriptionFocus your magic on the desk.
+o
+FStory!MRQS137_ReachTheLight_Group09_Step09_VisitArea07_StepDescription%Meet the Forgotten at the next light.
+n
+HStory!MRQS137_ReachTheLight_Group10_Step10_Interaction04_StepDescription"Focus your magic on the bookshelf.
+â
+4Story!MRQS137_ReachTheLight_Group10_StoryDescription©You discover a place filled with all of the memories you share with the Forgotten. You just know that something in this place can pull the Forgotten back from the brink.
+f
+LStory!MRQS137_ReachTheLight_Group11_Step11_TalkToCharacter02_StepDescriptionTalk to the Forgotten.
+o
+FStory!MRQS137_ReachTheLight_Group14_Step14_VisitArea05_StepDescription%Meet the Forgotten at the next light.
+f
+LStory!MRQS137_ReachTheLight_Group15_Step15_TalkToCharacter04_StepDescriptionTalk to the Forgotten.
+f
+LStory!MRQS137_ReachTheLight_Group16_Step16_TalkToCharacter05_StepDescriptionTalk to the Forgotten.
+z
+LStory!MRQS137_ReachTheLight_Group17_Step17_TalkToCharacter06_StepDescription*Talk to the Forgotten about what happened.
+‚
+LStory!MRQS137_ReachTheLight_Group18_Step18_TalkToCharacter07_StepDescription2Talk to the Forgotten about what you've uncovered.
+
+LStory!MRQS137_ReachTheLight_Group19_Step19_TalkToCharacter08_StepDescription/Talk to the Forgotten about what you uncovered.

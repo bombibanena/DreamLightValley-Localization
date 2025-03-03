@@ -1,0 +1,33 @@
+TAG: Woody_001_f
+Nice job, {PlayerName}. That looks great! Even better than the <ActivityItem>Claw Machine</ActivityItem> that broke.
+
+TAG: Woody_002_f
+Now, we just need to find the rest of the <ActivityItem>Alien Toys</ActivityItem>...
+
+TAG: Woody_003_f
+Sure wish I knew where to start.
+
+TAG: Player_000_f
+Let's ask Buzz...
+
+TAG: Player_000_choice_000_f
+I'm sure he'd love to help.
+
+TAG: Player_000_choice_001_f
+There aren't many other toys around here.
+
+TAG: Player_000_choice_002_f
+Aliens are his territory.
+
+TAG: Woody_004_f
+You're right! Since they're all space toys, they've always had a special connection.
+
+TAG: Woody_007_f
+Let's go see him.
+
+TAG: Woody_005_f
+You're right. If those <ActivityItem>Alien Toys</ActivityItem> have gone to anybody, it would be Buzz.
+
+TAG: Woody_006_f
+You're right. Being space toys, they've always had a special connection.
+

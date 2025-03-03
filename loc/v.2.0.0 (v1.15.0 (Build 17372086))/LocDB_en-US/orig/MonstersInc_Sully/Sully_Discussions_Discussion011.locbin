@@ -1,0 +1,43 @@
+
+c
+Sully_000_fTA ton! But... uh, one main one... You seem to be in charge of running things here...
+;
+Sully_001_f,Does that feel like a lot of responsibility?
+9
+Player_000_choice_000_fMainly it's just a lot of fun.
+4
+Player_000_choice_001_fYes, I take it seriously.
+?
+Player_000_choice_002_f$Eh, I don't think about it too much.
+;
+Sully_002_f,I bet it is. You got a favorite thing to do?
+'
+Player_001_choice_000_fLandscaping!
+H
+Player_001_choice_001_f-Building the most efficient Village possible.
++
+Player_001_choice_002_fPranking Donald!
+9
+Sully_003_f*You do make things look good. Really good!
+B
+Sully_004_f3Efficiency, huh? We could use you at Monsters, Inc.
+<
+Sully_005_f-Ha! He does seem to have a really short fuse.
+Q
+Sully_006_fBI get that. Hey, but don't forget to have fun every now and again.
+]
+Sully_007_fNYou can always hang out with Mike and me if you wanna blow off a little steam.
+e
+Sully_008_fVReally? Okay... So, you never thought about taking a more serious management approach?
+,
+Player_002_choice_000_fYou have a point.
+:
+Player_002_choice_001_fWhat do you think might happen?
+K
+Player_002_choice_002_f0It's DREAMLIGHT VALLEY. Not RESPONSIBILITY CITY.
+W
+Sully_009_fHI don't wanna mess with your style. Just might be something to consider.
+˜
+Sully_010_fˆOh, I don't know. Seems like keeping the villains in check is no laughing matter. But hey, what do I know? Things here are pretty great!
+b
+Sully_011_fSHa-ha, you got me there! I guess it's important not to take anything TOO seriously.

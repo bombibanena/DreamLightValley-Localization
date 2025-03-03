@@ -1,0 +1,24 @@
+TAG: Ariel_000_f
+I've never seen this before. {PlayerName}, is this a recipe from the human world?
+
+TAG: Ariel_001_f
+One of our finest!
+
+TAG: Ariel_002_f
+Remy is starting a delivery service in the Village and wanted me to hand out some free samples to spread the word.
+
+TAG: Player_000_choice_000_f
+We hope you enjoy a little taste of surface-dweller food.
+
+TAG: Player_000_choice_001_f
+Maybe instead of eating it, you can add it to your collection.
+
+TAG: Ariel_003_f
+It's almost a shame to eat it. It looks so beautiful!
+
+TAG: Ariel_005_f
+Thank you, {PlayerName}.
+
+TAG: Ariel_004_f
+Do you think I could do that? It looks so impressive that it's almost a shame to eat it.
+

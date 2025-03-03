@@ -1,0 +1,23 @@
+
+!
+Scrooge_000_fHey, Mr. McDuck!
+@
+Player_000_choice_000_f%I need some supplies for an art show!
+C
+Player_000_choice_001_f(I have a business opportunity for you...
+>
+Player_000_choice_002_f#You're clearly a fellow of culture!
+ù
+Scrooge_002_fãAn art show, eh? Well, I do love a day at the museum ‚Äî especially when I'M the one who donated all the pieces in the exhibition! Hee-hee.
+l
+Scrooge_004_f[Pumbaa and some friends made some pottery pieces, and we need something to display them on.
+|
+Scrooge_005_fkWell, {PlayerName}, you're in luck! It just so happens that I need supplies for a little project of my own.
+≥
+Scrooge_006_f°I've got some very nice display pillars, which are just the thing for you. And I'll trade 'em for some <Lore>gemstones and flowers</Lore> from around the Valley.
+P
+Scrooge_007_f?Okay, I'll <Lore>collect what we need to make the trade</Lore>.
+d
+Scrooge_001_fSWell, you certainly know how to capture my attention. What's this venture of yours?
+u
+Scrooge_003_fdAye, I am an appreciator of the fine arts. But there's no need to butter me up. What's on your mind?

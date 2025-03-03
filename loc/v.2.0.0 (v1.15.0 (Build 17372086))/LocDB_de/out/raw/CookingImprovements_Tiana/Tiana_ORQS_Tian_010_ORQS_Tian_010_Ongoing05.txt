@@ -1,0 +1,6 @@
+TAG: Tiana_000_f
+I hear you set up your new <ActivityItem>Slow Cooker</ActivityItem>.
+
+TAG: Tiana_001_f
+I'm going to put it to the test and <Lore>batch-cook some meals with it</Lore>!
+

@@ -1,0 +1,30 @@
+TAG: Goofy_000_f
+Я хочу пригласить своего приятеля Микки Маус на ужин.
+
+TAG: Goofy_001_f
+Поможешь мне подготовиться?
+
+TAG: Player_000_choice_000_f
+Конечно, звучит неплохо!
+
+TAG: Player_000_choice_001_f
+Только если ты пообещаешь не дурачиться.
+
+TAG: Player_000_choice_002_f
+Простите, мне надо бежать!
+
+TAG: Goofy_002_f
+Это будет лучший ужин в мире!
+
+TAG: Goofy_005_f
+Я хочу сделать нам <ActivityItem>Bouillabasse</ActivityItem> с свежими морепродуктами.
+
+TAG: Goofy_006_f
+Давайте поедем на пляж и поймаем свежих <ActivityItem>Scallops</ActivityItem>, <ActivityItem>Shrimp</ActivityItem>, и <ActivityItem>Clams</ActivityItem>.
+
+TAG: Goofy_003_f
+Я никогда этого не обещаю, {PlayerName}.
+
+TAG: Goofy_004_f
+Дай мне знать, когда у тебя будет время.
+

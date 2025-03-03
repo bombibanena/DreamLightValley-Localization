@@ -1,0 +1,60 @@
+
+t
+FairyGodMother_000_f\Dreams to me are of interest, you know. Our heart's deepest wishes, they're certain to show.
+D
+FairyGodMother_001_f,Now, tell me, my dear, what do you dream of?
+ 
+Player_000_choice_000_fLove.
+!
+Player_000_choice_001_fPower.
+!
+Player_000_choice_002_fCandy.
+s
+FairyGodMother_002_f[Ah! You would not be alone. But there are so many kinds of love. What kind do you dream of?
+)
+Player_001_choice_000_fRomantic love.
+'
+Player_001_choice_001_fCaring love.
+)
+Player_001_choice_002_fFriendly love.
+�
+FairyGodMother_003_fjAhh, yes... A special evening, flowers, a dance... A moonlit walk in a garden, a look into another's eyes.
+<
+FairyGodMother_004_f$Romance is a wonderful dream indeed.
+>
+FairyGodMother_005_f&Ahh, caring love. To be warm and safe.
+3
+FairyGodMother_006_fGiving comfort and support.
+?
+FairyGodMother_007_f'Everyone should have that sort of love.
+p
+FairyGodMother_008_fXThe love of a friend may be less storied than romantic love, but it's no less important.
+w
+FairyGodMother_009_f_Faithful friends can be as close as family. I believe you may refer to them as a chosen family!
+a
+FairyGodMother_010_fIOh, many dream of power. The question is, what sort of power do you want?
+$
+Player_002_choice_000_f	Physical.
+"
+Player_002_choice_001_fSocial.
+"
+Player_002_choice_002_fMental.
+G
+FairyGodMother_011_f/Strength of limb can be a useful thing to have.
+[
+FairyGodMother_012_fCBut, as Merlin would say â all power must be responsibly used.
+m
+FairyGodMother_013_fUOh yes. Why that's much subtler than physical strength, yet perhaps more influential.
+p
+FairyGodMother_014_fXOh, to be strong of mind is to be both clever and thoughtful! A very great power indeed.
+g
+FairyGodMother_015_fOOh-ho-ho! That is certainly a sweet dream. What sort of candy do you love most?
+%
+Player_003_choice_000_f
+Chocolate.
+'
+Player_003_choice_001_fGummy bears.
+(
+Player_003_choice_002_fButterscotch.
+&
+FairyGodMother_016_fHow delicious!

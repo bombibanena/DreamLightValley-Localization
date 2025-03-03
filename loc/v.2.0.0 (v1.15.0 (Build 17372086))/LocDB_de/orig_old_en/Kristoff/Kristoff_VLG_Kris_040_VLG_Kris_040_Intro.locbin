@@ -1,0 +1,31 @@
+
+V
+Kristoff_004_fDHey, {PlayerName}, sorry to bother you. Do you have time to help me?
+7
+Player_000_choice_002_fSure, tell me what happened.
++
+Player_000_choice_003_fI'm busy, sorry!
+U
+Kristoff_006_fCI was in the Frosted Heights looking for materials the other day...
+l
+Kristoff_005_fZAnd I ran into a deep drift. Now my <ActivityItem>Sled</ActivityItem> is stuck in the ice.
+m
+Kristoff_000_f[I've tried everything, but I can't get it out. Think you could work your magic and free it?
++
+Kristoff_009_fI'll take care of this...
+1
+Player_000_choice_005_fI love to help others.
+=
+Player_000_choice_006_f"Did this ever happen in Arendelle?
+M
+Player_000_choice_007_f2Maybe I should revoke your sled-driving license...
+
+Kristoff_001_fThanks!
+T
+Kristoff_008_fBI'll show you where my <ActivityItem>Sled</ActivityItem> is stuck.
+C
+Kristoff_002_f1Sometimes. But usually I could get it out myself.
+B
+Kristoff_003_f0I don't think a sled-driving license is a thing.
+D
+Kristoff_007_f2Oh, that's okay. I'll try to figure something out.

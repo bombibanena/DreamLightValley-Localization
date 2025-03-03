@@ -1,0 +1,69 @@
+TAG: TheForgotten_000_f
+Hello, {PlayerName}. What's wrong? You look worried.
+
+TAG: Player_000_choice_000_f
+Scar is plotting against you!
+
+TAG: Player_000_choice_001_f
+Scar is manipulating you!
+
+TAG: Player_000_choice_002_f
+I know you and Scar are working together!
+
+TAG: TheForgotten_001_f
+Scar? Why would he be plotting against me?
+
+TAG: TheForgotten_004_f
+Scar has been having secret meetings with Ursula and Mother Gothel, and I found these mysterious diary entries...
+
+TAG: TheForgotten_005_f
+I even took some pictures!
+
+TAG: TheForgotten_008_f
+Oh! No, {PlayerName}, you have it all wrong! No one is planning anything evil...
+
+TAG: TheForgotten_009_f
+I introduced some of the Villagers to poetry recently!
+
+TAG: Player_001_choice_000_f
+Seriously?!
+
+TAG: Player_001_choice_001_f
+I should have known this was about poetry...
+
+TAG: Player_001_choice_002_f
+Are you SURE this isn't some grand evil scheme?
+
+TAG: TheForgotten_011_f
+Yes, I thought it would help with some of the more difficult emotions around here.
+
+TAG: TheForgotten_010_f
+Scar really took to it, but he wanted to keep it quiet to "protect his reputation." Maybe you noticed Scar's poem was handwritten? He dictated, and I wrote it out for him.
+
+TAG: TheForgotten_015_f
+Scar... writing poetry...
+
+TAG: TheForgotten_016_f
+Timon is going to LOVE this!
+
+TAG: TheForgotten_012_f
+Poetry has helped me deal with a lot of my difficult emotions.
+
+TAG: TheForgotten_013_f
+I'm sure.
+
+TAG: TheForgotten_014_f
+Poetry has helped me deal with a lot of my difficult emotions.
+
+TAG: TheForgotten_002_f
+What do you mean?
+
+TAG: TheForgotten_003_f
+I wouldn't call it work...
+
+TAG: TheForgotten_006_f
+But you admit it? So Scar doesn't want to overthrow you? You're actually plotting WITH him?
+
+TAG: TheForgotten_007_f
+Wait, what are you talking about?
+

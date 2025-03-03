@@ -1,0 +1,81 @@
+
+n
+@Village!Mulan!Mulan!VLG_Mula_030_Any_CompletedRequestDescription*Talk to Mulan about her new training area.
+d
+5Village!Mulan!Mulan!VLG_Mula_030_AvailableDescription+Find Mulan Ã¢Â€Â” she needs to talk to you.
+º
+:Village!Mulan!Mulan!VLG_Mula_030_CompletedStoryDescription|You help Mulan realize that she can have fun in her OWN way, and introduce her to her very own training area in the Village.
+>
+,Village!Mulan!Mulan!VLG_Mula_030_DisplayNameThe Art of Fun
+S
+HVillage!Mulan!Mulan!VLG_Mula_030_Group01_Step01_PickUp01_StepDescriptionYellow.
+Q
+HVillage!Mulan!Mulan!VLG_Mula_030_Group01_Step01_PickUp02_StepDescriptionBlue.
+P
+HVillage!Mulan!Mulan!VLG_Mula_030_Group01_Step01_PickUp03_StepDescriptionRed.
+j
+?Village!Mulan!Mulan!VLG_Mula_030_Group01_Step01_StepDescription'Gather flowers in the following colors:
+V
+KVillage!Mulan!Mulan!VLG_Mula_030_Group02_Step02_BringItem01_StepDescriptionYellow.
+T
+KVillage!Mulan!Mulan!VLG_Mula_030_Group02_Step02_BringItem02_StepDescriptionBlue.
+S
+KVillage!Mulan!Mulan!VLG_Mula_030_Group02_Step02_BringItem03_StepDescriptionRed.
+j
+@Village!Mulan!Mulan!VLG_Mula_030_Group02_Step02_ReadyDescription&Bring the flowers you picked to Mulan.
+„
+?Village!Mulan!Mulan!VLG_Mula_030_Group02_Step02_StepDescriptionAMake sure you have the following flower colors in your Inventory:
+Õ
+9Village!Mulan!Mulan!VLG_Mula_030_Group02_StoryDescription—Mulan says that Mushu coached her that she needs to have more fun. She asks you to pick flowers with her to try and find some relaxation and enjoyment.
+_
+PVillage!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant01_StepDescription{itemName}.
+_
+PVillage!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant02_StepDescription{itemName}.
+_
+PVillage!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant03_StepDescription{itemName}.
+_
+PVillage!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant04_StepDescription{itemName}.
+_
+PVillage!Mulan!Mulan!VLG_Mula_030_Group03_Step03_GardeningPlant05_StepDescription{itemName}.
+]
+?Village!Mulan!Mulan!VLG_Mula_030_Group03_Step03_StepDescriptionPlant the following crops:
+ó
+9Village!Mulan!Mulan!VLG_Mula_030_Group03_StoryDescriptionµAfter Mulan comes up with strategic plans for flowers, she feels she has failed to have fun again. You suggest gardening as another fun hobby and set out to grow a vegetable garden.
+x
+QVillage!Mulan!Mulan!VLG_Mula_030_Group05_Step05_TalkToCharacter01_StepDescription#Talk to Mulan about the new garden.
+Q
+?Village!Mulan!Mulan!VLG_Mula_030_Group06_Step06_StepDescriptionTalk to Mushu.
+Ä
+9Village!Mulan!Mulan!VLG_Mula_030_Group06_StoryDescription†After a conversation about gardening turns into a talk about rations and targets, Mulan asks you to speak to Mushu for more fun ideas.
+X
+IVillage!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess01_StepDescription{itemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess02_StepDescription{itemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess03_StepDescription{itemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_030_Group07_Step07_Possess04_StepDescription{itemName}.
+b
+?Village!Mulan!Mulan!VLG_Mula_030_Group07_Step07_StepDescriptionGather the following materials:
+ƒ
+?Village!Mulan!Mulan!VLG_Mula_030_Group08_Step08_StepDescription@Craft some <ActivityItem>Wooden Training Dummies</ActivityItem>.
+Œ
+@Village!Mulan!Mulan!VLG_Mula_030_Group09_Step09_ReadyDescriptionHBring the <ActivityItem>Wooden Training Dummies</ActivityItem> to Mushu.
+¡
+?Village!Mulan!Mulan!VLG_Mula_030_Group09_Step09_StepDescription^Make sure you have the <ActivityItem>Wooden Training Dummies</ActivityItem> in your Inventory.
+Y
+JVillage!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate01_StepDescription{itemName}.
+Y
+JVillage!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate02_StepDescription{itemName}.
+{
+JVillage!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate03_StepDescription-<ActivityItem>Pale Wood Fence</ActivityItem>.
+`
+JVillage!Mulan!Mulan!VLG_Mula_030_Group10_Step10_Decorate04_StepDescriptionOutdoor Furniture.
+h
+?Village!Mulan!Mulan!VLG_Mula_030_Group10_Step10_StepDescription%Make a training area for Mulan using:
+å
+9Village!Mulan!Mulan!VLG_Mula_030_Group10_StoryDescription§Mushu proposes that you build a training area for Mulan. You build wooden training dummies while he collects items. Once that's complete, it's time to set up the area!
+v
+GVillage!Mulan!Mulan!VLG_Mula_030_Group11_Step11_Party01_StepDescription+Celebrate the new training area with Mulan.
+d
+3Village!Mulan!Mulan!VLG_Mula_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

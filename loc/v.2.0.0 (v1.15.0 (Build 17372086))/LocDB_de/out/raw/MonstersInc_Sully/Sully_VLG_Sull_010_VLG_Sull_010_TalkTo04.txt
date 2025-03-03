@@ -1,0 +1,33 @@
+TAG: Sully_000_f
+What'd Mike say?
+
+TAG: Sully_001_f
+He LOVED the surprise and said he'll bring a batch of his snack mix.
+
+TAG: Sully_003_f
+Then, the only thing left to do is place the <ActivityItem>Big Scream TV</ActivityItem>. You know the Village best...
+
+TAG: Sully_004_f
+Would ya mind placing the setup in a good movie-watching spot?
+
+TAG: Player_000_choice_000_f
+I'd be honored, thank you!
+
+TAG: Player_000_choice_001_f
+Any suggestions?
+
+TAG: Player_000_choice_002_f
+Sure...
+
+TAG: Sully_005_f
+No. Thank YOU!
+
+TAG: Sully_006_f
+We used to just drag the Big Scream TV outside my House and plop down on some comfortable chairs.
+
+TAG: Sully_008_f
+But please, pick any location you'd like, {PlayerName}.
+
+TAG: Sully_007_f
+Thanks!
+

@@ -1,0 +1,75 @@
+
+”
+9Village!Aladdin!Jasmine!VLG_Jasm_030_AvailableDescriptionWJasmine has uncovered another clue to the Secret Journal. You should check in with her!
+Þ
+>Village!Aladdin!Jasmine!VLG_Jasm_030_CompletedStoryDescription›With the Secret Journal open, everything suddenly comes back to you: all your feelings of loneliness and frustration when you were younger, never having the freedom to do as you pleased. But something else seems to have been released from the journal as well... Something... magical.
+@
+0Village!Aladdin!Jasmine!VLG_Jasm_030_DisplayNameHot and Cold
+f
+UVillage!Aladdin!Jasmine!VLG_Jasm_030_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Elsa.
+â
+=Village!Aladdin!Jasmine!VLG_Jasm_030_Group01_StoryDescription Jasmine used her clever deduction skills to figure out the next key must be hidden somewhere in the Frosted Heights! And who better to ask about that than Elsa?
+o
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group02_Step02_VisitArea01_StepDescriptionGo inside Elsa's Ice Cavern.
+ñ
+=Village!Aladdin!Jasmine!VLG_Jasm_030_Group02_StoryDescription¯Elsa knows exactly where the Ice Key is hidden! Unfortunately, it's trapped under unbreakable ice. You'll need to go check out the situation in Elsa's Ice Cavern for yourself.
+{
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group03_Step03_VisitArea02_StepDescription(Find Elsa at the back of her Ice Cavern.
+f
+UVillage!Aladdin!Jasmine!VLG_Jasm_030_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to Elsa.
+“
+CVillage!Aladdin!Jasmine!VLG_Jasm_030_Group05_Step05_StepDescriptionLTake pictures of the Pedestal Symbols on the pedestals in Elsa's Ice Cavern.
+b
+QVillage!Aladdin!Jasmine!VLG_Jasm_030_Group05_Step05_TakePicture01_StepDescriptionSun pedestal.
+c
+QVillage!Aladdin!Jasmine!VLG_Jasm_030_Group05_Step05_TakePicture02_StepDescriptionSnow pedestal.
+¤
+=Village!Aladdin!Jasmine!VLG_Jasm_030_Group05_StoryDescriptionâElsa explains the magic behind the unbreakable ice: In order to break through, you'll need to find symbols in the Frosted Heights and on the Sunlit Plateau that match those found on the pedestals at the back of her Ice Cavern.
+^
+CVillage!Aladdin!Jasmine!VLG_Jasm_030_Group06_Step06_StepDescriptionFrosted Heights Symbol.
+]
+CVillage!Aladdin!Jasmine!VLG_Jasm_030_Group06_Step21_StepDescriptionSunlit Plateau Symbol.
+—
+<Village!Aladdin!Jasmine!VLG_Jasm_030_Group06_StepDescriptionWTake pictures of the Pedestal Symbols in the Frosted Heights and on the Sunlit Plateau.
+€
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group07_Step07_VisitArea03_StepDescription-Return to the pedestals in Elsa's Ice Cavern.
+r
+MVillage!Aladdin!Jasmine!VLG_Jasm_030_Group08_Step08_Possess01_StepDescription!The ice melted! Grab the Ice Key.
+i
+UVillage!Aladdin!Jasmine!VLG_Jasm_030_Group09_Step09_TalkToCharacter03_StepDescriptionTalk to Jasmine.
+w
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group10_Step10_VisitArea04_StepDescription$Go into Jasmine and Aladdin's House.
+ë
+=Village!Aladdin!Jasmine!VLG_Jasm_030_Group10_StoryDescription©With the unbreakable ice melted and the Ice Key retrieved, you and Jasmine must hurry back to her House to unlock the Secret Journal! Here's hoping nothing goes wrong...
+¦
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group11_Step11_VisitArea05_StepDescriptionSSomething isn't right... Examine the <ActivityItem>Enchanted Flower</ActivityItem>.
+i
+UVillage!Aladdin!Jasmine!VLG_Jasm_030_Group12_Step12_TalkToCharacter04_StepDescriptionTalk to Jasmine.
+u
+UVillage!Aladdin!Jasmine!VLG_Jasm_030_Group13_Step13_FollowCharacter01_StepDescriptionFollow Jasmine to the Plaza.
+o
+WVillage!Aladdin!Jasmine!VLG_Jasm_030_Group13_Step13_FollowCharacter01_TalkToDescriptionTalk to {TargetNPC}.
+µ
+=Village!Aladdin!Jasmine!VLG_Jasm_030_Group13_StoryDescriptiontThe Enchanted Flower has been stolen! Follow the petal trail to see where it's ended up... and who brought it there!
+h
+UVillage!Aladdin!Jasmine!VLG_Jasm_030_Group14_Step14_FollowCharacter02_StepDescriptionFollow Jasmine.
+o
+WVillage!Aladdin!Jasmine!VLG_Jasm_030_Group14_Step14_FollowCharacter02_TalkToDescriptionTalk to {TargetNPC}.
+t
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group15_Step15_VisitArea06_StepDescription!Follow the trail of giant petals.
+s
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group16_Step16_VisitArea07_StepDescription Go inside the Giant Willow Tree.
+p
+UVillage!Aladdin!Jasmine!VLG_Jasm_030_Group17_Step17_TalkToCharacter05_StepDescriptionConfront Mother Gothel.
+½
+=Village!Aladdin!Jasmine!VLG_Jasm_030_Group17_StoryDescription|Of course! Who other than Mother Gothel would tamper with an Enchanted Flower? You need to go get that flower back from her!
+y
+OVillage!Aladdin!Jasmine!VLG_Jasm_030_Group18_Step18_VisitArea08_StepDescription&Go inside Jasmine and Aladdin's House.
+•
+QVillage!Aladdin!Jasmine!VLG_Jasm_030_Group19_Step19_FillKeyhole01_StepDescription@Interact with the Enchanted Flower to unlock the Secret Journal.
+l
+DVillage!Aladdin!Jasmine!VLG_Jasm_030_Group20_Step20_ReadyDescription$Bring the Secret Journal to Jasmine.
+
+CVillage!Aladdin!Jasmine!VLG_Jasm_030_Group20_Step20_StepDescription8Pick up the <ActivityItem>Secret Journal</ActivityItem>.
+h
+7Village!Aladdin!Jasmine!VLG_Jasm_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

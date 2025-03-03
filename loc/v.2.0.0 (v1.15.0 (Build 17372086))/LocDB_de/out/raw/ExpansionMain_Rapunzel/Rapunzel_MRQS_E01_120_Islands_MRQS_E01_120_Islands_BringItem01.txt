@@ -1,0 +1,12 @@
+TAG: Rapunzel_000_f
+You found all of the gears we need for the <ActivityItem>Sundial</ActivityItem>! That's amazing!
+
+TAG: Rapunzel_003_f
+While you were gone, I think I figured out how it's supposed to work.
+
+TAG: Rapunzel_001_f
+Let's see if I'm right...
+
+TAG: Rapunzel_002_f
+Phew. The gears fit. You have to <Lore>try and use the Sundial</Lore>!
+

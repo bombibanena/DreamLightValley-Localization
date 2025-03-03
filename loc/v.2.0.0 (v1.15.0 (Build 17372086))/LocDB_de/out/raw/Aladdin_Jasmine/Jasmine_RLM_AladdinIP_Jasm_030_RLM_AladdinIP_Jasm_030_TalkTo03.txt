@@ -1,0 +1,39 @@
+TAG: Jasmine_000_f
+There's just one wish left to track down, {PlayerName}.
+
+TAG: Jasmine_001_f
+Yeah! What can you tell me about Aladdin's last wish?
+
+TAG: Jasmine_002_f
+The wish that freed Genie...
+
+TAG: Jasmine_003_f
+You know if I hadn't already fallen in love with Aladdin, such a selfless act would have made me do so immediately.
+
+TAG: Player_000_choice_000_f
+Genie deserved his freedom!
+
+TAG: Player_000_choice_001_f
+Poor Genie had to have been waiting for so long...
+
+TAG: Player_000_choice_002_f
+I wonder where Genie is vacationing now.
+
+TAG: Jasmine_004_f
+He did! After waiting for so long...
+
+TAG: Jasmine_007_f
+He was so happy that as he flew around, he created these lovely lights â almost like the fireworks I saw with Aladdin when we went on our magic carpet ride.
+
+TAG: Jasmine_008_f
+Then the lights became these amazing sparks that we used to make our own fireworks â they made the most fabulous colors in the sky!
+
+TAG: Jasmine_009_f
+We called it <ActivityItem>Genie's Joy</ActivityItem>. I know we didn't use them all. If you can find some, I'm sure we can use them to enchant the lamp.
+
+TAG: Jasmine_005_f
+Yes. Thousands of years.
+
+TAG: Jasmine_006_f
+I suspect someplace far away. The clothes he conjured for himself were unlike any I'd ever seen.
+

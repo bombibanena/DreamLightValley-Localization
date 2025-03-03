@@ -1,0 +1,42 @@
+TAG: Player_000_choice_000_f
+We're having problems understanding each other, huh?
+
+TAG: Player_000_choice_001_f
+You want to decorate a wall with flowers?
+
+TAG: Oswald_000_f
+Here are the flowers, Oswald!
+
+TAG: Oswald_001_f
+Oswald looks at the flowers, scratching his noggin in confusion.
+
+TAG: Oswald_002_f
+Wait, did you not want flowers?
+
+TAG: Oswald_003_f
+Oswald taps his chin, seeming lost in thought.
+
+TAG: Oswald_004_f
+He mimes speaking to you and then makes the shape of a rectangle between you.
+
+TAG: Oswald_005_f
+Then he mimes you speaking and has your words crash into the rectangle.
+
+TAG: Oswald_006_f
+Ohh...
+
+TAG: Oswald_007_f
+Oswald nods his head sadly.
+
+TAG: Oswald_008_f
+Seems like we're dealing with a bit of a communication barrier here.
+
+TAG: Oswald_009_f
+Oswald jumps in surprise, a faint outline of a light bulb appearing for a moment over his head.
+
+TAG: Oswald_010_f
+He gestures at you to follow him and departs, hurrying off into the distance.
+
+TAG: Oswald_011_f
+Oswald opens his mouth to speak, before shutting it again in confusion.
+

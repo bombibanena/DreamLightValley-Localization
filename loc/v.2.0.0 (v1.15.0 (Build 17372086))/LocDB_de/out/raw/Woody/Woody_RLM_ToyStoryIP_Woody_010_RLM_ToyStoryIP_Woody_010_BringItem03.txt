@@ -1,0 +1,42 @@
+TAG: Woody_000_f
+Nicely done, {PlayerName}! I'll put these on Bonnie's farm.
+
+TAG: Woody_001_f
+Hey-howdy-hey! The farm looks even better than it did when Bonnie left. She's gonna be one happy kid.
+
+TAG: Woody_002_f
+Say, I can't thank you enough for this, partner. You really know what being a toy's all about.
+
+TAG: Woody_003_f
+Woody, you spend so much time trying to make other people happy...
+
+TAG: Woody_004_f
+...why don't you take a little vacation for yourself and come to my Village? Buzz is already waiting for you there.
+
+TAG: Woody_005_f
+Your Village? Where's that?
+
+TAG: Player_000_f
+It's a place called Dreamlight Valley, where...
+
+TAG: Player_000_choice_000_f
+...nobody ever has to grow up.
+
+TAG: Player_000_choice_001_f
+...toys never get lost.
+
+TAG: Player_000_choice_002_f
+...there's always a touch of magic in the air.
+
+TAG: Woody_006_f
+Wow... that sounds pretty incredible.
+
+TAG: Woody_008_f
+And since Bonnie and her family aren't back from their trip yet...
+
+TAG: Woody_009_f
+...I suppose I could go visit. Not much for me to do around here till they get back.
+
+TAG: Woody_010_f
+Great! I'll <Lore>get a place set up for you in the Village</Lore>.
+

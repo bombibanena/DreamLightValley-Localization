@@ -1,0 +1,91 @@
+
+6
+WallE_007_f'OK, let's see... Oh! Look at the title!
+
+WallE_000_fHuh?
+6
+WallE_037_f'This is called "A Fable for WALLÂ·E"!
+
+WallE_038_fWhoa!
+:
+WallE_039_f+Looks like I brought it to the right robot!
+
+WallE_040_f
+WALLÂ·E!
+0
+WallE_041_f!All right, let's start the story!
+7
+WallE_008_f("Once upon a time, there was a brave..."
+7
+WallE_009_f(Hmm, I can't really read this next part.
+
+WallE_010_fHuh. Oh.
+7
+WallE_042_f(Oh cool, you've got a little boot plant!
+f
+WallE_011_fWI guess the book has been lost for long enough that there was some damage to the pages.
+
+WallE_012_f*sigh*
+:
+WallE_013_f+Don't worry; I'll just have to be creative!
+:
+WallE_014_f+"Once upon a time, there was a braveâ"
+!
+Player_000_choice_000_fRobot!
+"
+Player_000_choice_001_fKnight.
+!
+Player_000_choice_002_fRuler.
+/
+WallE_030_f Hmm, it does look kinda rough...
+
+WallE_001_f*sigh*
+3
+WallE_002_f$Don't be sad! We'll figure this out!
+!
+WallE_003_fWhew... Directive?
+S
+WallE_004_fDDo you mean... this book used to be connected to this plant somehow?
+�
+WallE_005_f�Merlin was telling me all about story magic the other day... If the book has something to do with the plant, what if we try reading to it?
+
+WallE_006_fWhoopee!
+
+WallE_015_fWhoa!
+L
+WallE_016_f=Hey, it's your plant â why not make the story about you?
+
+WallE_017_fWhoopee!
+;
+WallE_032_f,"Once upon a time, there was a brave robot!"
+}
+WallE_027_fnI'll keep an eye out for more pages â maybe if we read to the plant a little more, it will fully recover.
+�
+WallE_029_f�Since I found the book on the Beach, I'll keep looking around there and the <ActivityItem>Peaceful Meadow</ActivityItem> â maybe some of the pages are there.
+
+WallE_028_f
+WALLÂ·E!
+U
+WallE_022_fF"Who cared deeply about the people and the natural world around them."
+
+WallE_023_fWow!
+^
+WallE_024_fOHmm, it ends there. Looks like most of the pages have fallen out of the book...
+�
+WallE_026_f�The plant looks better already! The magic in that story must be really strong â we should try to track down the rest of it.
+
+WallE_025_fOh.
+\
+WallE_031_fMUntil then, why don't you keep it in your House? I bet it will be safe there.
+<
+WallE_033_f-"Once upon a time, there was a brave knight!"
+;
+WallE_034_f,"Once upon a time, there was a brave ruler!"
+
+WallE_018_fOh!
+/
+WallE_019_f Let's keep it classic, you know?
+
+WallE_020_fOooh.
+H
+WallE_021_f9Hey, if I'm reading the story, I get to make it about me!

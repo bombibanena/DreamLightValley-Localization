@@ -1,0 +1,25 @@
+
+v
+Scrooge_000_fe{PlayerName}! Thank goodness you're here! I need your help with a potentially... supernatural matter.
+f
+Scrooge_001_fUI was exploring the Dream Castle looking for hidden rooms and treasure troves when...
+@
+Scrooge_002_f/Bless me bagpipes √¢¬Ä¬î I think I saw a ghost!
+7
+Player_000_choice_000_fThe Dream Castle is haunted?
+-
+Player_000_choice_001_fYou're scaring me!
+;
+Player_000_choice_002_f There's no such thing as ghosts.
+w
+Scrooge_003_ffAye, it's possible! My ancestral home, Castle McDuck, had ghosts and apparitions clear to the rafters!
+u
+Scrooge_004_fdBut this specter looked different than any ghost I've seen before. It flickered in and out of sight.
+ñ
+Scrooge_005_fÑSince you're an adventurer like me, I want your second opinion. Could ya <Lore>go to the Dream Castle and look for the ghost?</Lore>
+_
+Scrooge_006_fNI last saw it <Lore>at the very top of the stairs next to the fountain!</Lore>
+í
+Scrooge_007_fÄOch. There's no need to be frightened of ghosts. Why, back in Scotland, Castle McDuck is rife with my formerly living relatives.
+ç
+Scrooge_008_f|Dinnae be so skeptical! Back in Scotland, Castle McDuck's filled with spirits aplenty! Mostly my relatives who've passed on.

@@ -1,0 +1,42 @@
+TAG: Jafar_000_f
+{Placeholder}You do a great deal of work managing people, do you not, {PlayerName}?
+
+TAG: Jafar_001_f
+{Placeholder}Might I recommend a useful technique?
+
+TAG: Jafar_002_f
+{Placeholder}Hypnotism.
+
+TAG: Player_000_choice_000_f
+{Placeholder}You mean hypnotize people to do what I want?
+
+TAG: Player_000_choice_001_f
+{Placeholder}That seems unethical.
+
+TAG: Player_000_choice_002_f
+{Placeholder}I'm not hypnotizing my friends, Jafar.
+
+TAG: Jafar_003_f
+{Placeholder}Precisely. You will get things done so much more quickly!
+
+TAG: Jafar_004_f
+{Placeholder}Nope. It's wrong.
+
+TAG: Jafar_005_f
+{Placeholder}Surely it is the prerogative of great people such as ourselves to rise about the petty concerns of morality?
+
+TAG: Jafar_006_f
+{Placeholder}Don't push it Jafar.
+
+TAG: Jafar_007_f
+{Placeholder}...very well.
+
+TAG: Jafar_008_f
+{Placeholder}Unethical perhaps. But also effective.
+
+TAG: Jafar_009_f
+{Placeholder}I do not see why not. It will not hurt them.
+
+TAG: Jafar_010_f
+{Placeholder}It just makes things...easier.
+

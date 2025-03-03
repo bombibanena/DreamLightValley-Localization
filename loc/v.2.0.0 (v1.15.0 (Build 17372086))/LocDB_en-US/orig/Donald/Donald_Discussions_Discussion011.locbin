@@ -1,0 +1,47 @@
+
+ƒ
+Donald_000_fsSay, {PlayerName}, I see you going around with your Camera taking pictures of yourself. Whaddaya call those things?
+&
+Donald_001_fDo you mean "selfies"?
+
+Donald_002_f
+That's it!
+8
+Donald_003_f(Just so you know, I'm real photogenic...
+^
+Donald_004_fNIf you want pictures of yourself, why don't you take some selfies of your own?
+9
+Donald_005_f)Aw, I don't think I'd be very good at it.
+>
+Player_000_f.Come on. It's really easy. You just have to...
+1
+Player_000_choice_000_f...strike a good pose.
+?
+Player_000_choice_001_f$...stand in front of something nice.
+=
+Player_000_choice_002_f"...put on a super cute expression.
++
+Donald_006_fWhat do ya mean? Like this?
+(
+Player_001_choice_000_fThat's great!
+8
+Player_001_choice_001_fEr... it could use some work.
+6
+Donald_007_f&Oh boy, oh boy, oh boy, I'm a natural!
+&
+Donald_008_fAw, what do you know?!
+?
+Donald_009_f/Stand in front of somethin' nice? Like what...?
+%
+Player_002_choice_000_f
+The ocean!
+,
+Player_002_choice_001_fThe Dream Castle!
+6
+Player_002_choice_002_fYour Uncle Scrooge's Store!
+=
+Donald_010_f-Say, that's a pretty good idea, {PlayerName}.
+;
+Donald_011_f+I can't believe I didn't think of it first.
+L
+Donald_012_f<Oh, I don't need any help with that. I'm naturally handsome.

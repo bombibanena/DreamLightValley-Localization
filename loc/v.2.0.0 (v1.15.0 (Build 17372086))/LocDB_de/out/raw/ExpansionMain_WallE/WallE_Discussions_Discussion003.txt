@@ -1,0 +1,45 @@
+TAG: WallE_000_f
+Yoo-hoo!
+
+TAG: WallE_001_f
+What is it, WALLÂ·E?
+
+TAG: WallE_002_f
+WALLÂ·E. EVE-ah? Uhh...
+
+TAG: WallE_003_f
+You're asking about you and EVE?
+
+TAG: WallE_004_f
+*whistles*
+
+TAG: Player_000_f
+I know you like EVE a lot. You want to understand about the two of you together... Are you asking what love is?
+
+TAG: Player_000_choice_000_f
+Love is poetry.
+
+TAG: Player_000_choice_001_f
+Love is extreme friendship.
+
+TAG: Player_000_choice_002_f
+Love is just a feeling. Don't overthink it.
+
+TAG: WallE_005_f
+Huh?
+
+TAG: WallE_006_f
+I know that answer is confusing, but so is love.
+
+TAG: WallE_007_f
+WALLÂ·E!
+
+TAG: WallE_008_f
+Yeah! You're good at friendship. That will be good practice for love.
+
+TAG: WallE_009_f
+Huh?
+
+TAG: WallE_010_f
+A feeling is... uh, let's just forget it.
+

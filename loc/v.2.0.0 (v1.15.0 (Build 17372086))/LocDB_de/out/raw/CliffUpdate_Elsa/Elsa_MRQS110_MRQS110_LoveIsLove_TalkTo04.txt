@@ -1,0 +1,60 @@
+TAG: Elsa_000_f
+{PlayerName}! Thank goodness you're here! I've been doing everything I can to try to stop the blizzard in the Frosted Heights.
+
+TAG: Elsa_001_f
+But nothing I do seems to work. It has some sort of dark Dreamlight Magic feeding it.
+
+TAG: Elsa_002_f
+I think I might have found the key to fixing it. But I do need your help.
+
+TAG: Elsa_003_f
+Of course. Anything. Just tell me what I should do.
+
+TAG: Elsa_004_f
+I went to the center of the blizzard and found a secret chamber full of strange magical experiments.
+
+TAG: Elsa_005_f
+And that's not all. I found Olaf inside!
+
+TAG: Elsa_006_f
+Olaf! Oh, what a relief! Anna and I have been so worried about him. Did he know anything about the blizzard?
+
+TAG: Player_000_choice_000_f
+Yes! He's helping me.
+
+TAG: Player_000_choice_001_f
+He knew a little. But we need to find out more.
+
+TAG: Player_000_choice_002_f
+Not really. He got me to chase some squirrels around.
+
+TAG: Elsa_007_f
+Good. What did he tell you?
+
+TAG: Elsa_008_f
+Olaf's arms are missing. He says the last thing he remembers is that they were holding on to the Orb. We need that to restore the Pillar.
+
+TAG: Elsa_009_f
+But he doesn't know where to find them. He said something about... water having memory?
+
+TAG: Elsa_010_f
+That's it! Olaf can be a bit of a genius. But I'm not sure my powers will help. Whatever happened may not be tied closely enough to me.
+
+TAG: Elsa_011_f
+But you might be able to do it. In the past, your Royal Watering Can could <Lore>draw out the memories held by water.</Lore>
+
+TAG: Elsa_012_f
+Hm. Then maybe we could find out exactly what happened to the Orb. Do you think my Watering Can still has that power...? I wouldn't know where to start.
+
+TAG: Elsa_013_f
+My friend Grand Pabbie would say to start where things began. And that would be <Lore>the Pillar in the Frosted Heights.</Lore> I'll keep trying to fend off this blizzard while you investigate.
+
+TAG: Elsa_014_f
+Just hold out your Watering Can and <Lore>focus your magic</Lore> near the Pillar.
+
+TAG: Elsa_015_f
+What did he say?
+
+TAG: Elsa_016_f
+That does sound like Olaf. What did he tell you?
+

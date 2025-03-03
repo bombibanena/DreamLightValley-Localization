@@ -1,0 +1,65 @@
+
+E
+Daisy_000_f6Hey Daisy, think you could help us out with something?
+6
+Daisy_001_f'Hades wants to be a celebrity andâ
+�
+Daisy_002_f|Whoa! Whoa. Not "wants" to be a celebrity â I am one! I just need a little help getting other people to recognize that.
+>
+Daisy_003_f/Well, to be a celebrity, you have to be famous.
+
+Daisy_004_fCheck.
+s
+Daisy_005_fdYou need to have fans who absolutely adore you. And you should TRY to do good things with your fame!
+i
+Daisy_006_fZAlso check! Not so much with the "doing good things," but ALL IN on the "fans adoring me."
+*
+Player_000_choice_000_fWho adores you?
+B
+Player_000_choice_001_f'The dead in the Underworld don't count.
+?
+Player_000_choice_002_f$Not counting ancient Greek citizens.
+[
+Daisy_007_fLWell, you, for instance. And I'm assuming others. C'mon, I'm a likeable guy!
+/
+Player_001_choice_000_fYou sure about that?
+A
+Player_001_choice_001_f&I'd consider us acquaintances at best.
+P
+Player_001_choice_002_f5Of course I adore you â I want a good afterlife!
+<
+Daisy_024_f-What's not to like? I'm funny, charmingâ
+8
+Daisy_020_f)Sure, if you want cheap, badly madeâ
+#
+Daisy_021_fGreat, it's settled!
+Y
+Daisy_022_fJ*sigh* ... Fine, if you want cheap merchandise, then that's what we'll do.
+b
+Daisy_023_fSDoes exactly what I say â now that's what I want from a manager! You're hired!
+>
+Daisy_012_f/Hmm, I think what you really need is a manager.
+G
+Daisy_013_f8A manager? Are you kidding?! I DON'T need to be managed.
+o
+Daisy_014_f`Trust me. Being a celebrity is oodles of work. You have to constantly touch base with your fans.
+4
+Daisy_015_f%Toss a crumb to the admirers, got it.
+�
+Daisy_016_f�I say we start by brainstorming some merchandizing opportunities. Folks love to wear clothing with their favorite celebrities on them!
+I
+Daisy_017_f:We could also do water bottles, action figures, sandals...
+T
+Daisy_018_fENO! That's what the goat's doing for Jerkcules. Let's... do T-shirts.
+K
+Daisy_019_f<I read you can produce 'em cheap and just rake in the dough.
+I
+Daisy_025_f:Yeah, yeah. You think I'd be actual friends with a MORTAL?
+[
+Daisy_026_fLUgh, transactional fawning? I've had enough of that to last a few millennia.
+
+Daisy_009_fWhat?! Why not?!
+K
+Daisy_010_f<What was it you were saying again about ironic consequences?
+d
+Daisy_011_fUI KNOW! Besides, I've given up on those ingrates. They're totally obsessed with Zeus.

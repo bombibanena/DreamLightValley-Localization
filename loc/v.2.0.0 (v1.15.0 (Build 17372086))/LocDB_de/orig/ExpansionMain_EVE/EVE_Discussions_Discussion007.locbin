@@ -1,0 +1,25 @@
+
+ 
+	EVE_000_f*complicated beeps*
+1
+	EVE_001_f$Are you trying to tell me something?
+
+	EVE_002_f*groan*
+3
+	EVE_003_f&Can you explain what's going on to me?
+&
+	EVE_004_fUh... *complicated beeps*
+)
+Player_000_fI don't understand you...
+8
+Player_000_choice_000_f...but I know I will someday.
+3
+Player_000_choice_001_fWe need to work on that.
+)
+Player_000_choice_002_fIt's hopeless.
+
+	EVE_005_fPhew!
+
+	EVE_006_fOh...
+>
+	EVE_007_f1But then again, magic is real here, so who knows?

@@ -1,0 +1,23 @@
+
+¶
+Woody_000_f¦Say, {PlayerName}, I was tryin' to talk to that funny little fella, WALLÃ‚Â·E, but he just kept sayin' the same few words and makin' sounds. Do ya know if he's a toy?
+&
+Player_000_choice_000_fHe's a toy.
+(
+Player_000_choice_001_fHe's a robot.
+)
+Player_000_choice_002_fHe's a friend.
+]
+Woody_001_fNI knew it! Seems like he could use somebody to show him the ropes around here.
+-
+Woody_004_fI'll spend some time with him.
+)
+Woody_002_fA non-toy robot, you mean?
+i
+Woody_005_fZWell, I guess that explains why he's so comfortable moving around when everyone's looking.
+`
+Woody_006_fQI know the rules are different here, but it still takes a little gettin' used to.
++
+Woody_003_fWell, he sure looks like it.
+w
+Woody_007_fhWith those round black eyes and cute little beeps, he kinda reminds me of a toy race car I used to know.

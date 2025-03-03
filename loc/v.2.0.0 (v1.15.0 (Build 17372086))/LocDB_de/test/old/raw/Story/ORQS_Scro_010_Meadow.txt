@@ -1,0 +1,24 @@
+TAG: Story!ORQS_Scro_010_Meadow_Any_CompletedRequestDescription
+Поговори с Скрудж Макдак.
+
+TAG: Story!ORQS_Scro_010_Meadow_AvailableDescription
+Теперь, когда Полюса в Мирном лугу восстановлена, пришло время разложить вещи здесь.
+
+TAG: Story!ORQS_Scro_010_Meadow_CompletedStoryDescription
+Ты сделал мирную лугу более красивым местом.
+
+TAG: Story!ORQS_Scro_010_Meadow_DisplayName
+Восстановление долины: мирный луг
+
+TAG: Story!ORQS_Scro_010_Meadow_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Story!ORQS_Scro_010_Meadow_Group01_Step01_Decorate01_StepDescription
+Место {TargetAmount} мебель.
+
+TAG: Story!ORQS_Scro_010_Meadow_Group01_Step01_StepDescription
+Украсьте мирную лугу.
+
+TAG: Story!ORQS_Scro_010_Meadow_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

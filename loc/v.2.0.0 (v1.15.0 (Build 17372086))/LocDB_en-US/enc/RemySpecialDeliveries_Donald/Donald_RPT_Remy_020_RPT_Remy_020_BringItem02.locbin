@@ -1,0 +1,39 @@
+
+D
+Donald_000_f4Oh boy! Those desserts look delicious, {PlayerName}!
+1
+Donald_001_f!I wish I could eat them myself...
+)
+Player_000_choice_000_fWhy can't you?
+7
+Player_000_choice_001_fAre they a gift for someone?
+>
+Player_000_choice_002_f#Are you using them as fishing bait?
+4
+Donald_002_f$Because I need them for something...
+<
+Donald_005_f,These are... um... they're apology desserts.
+K
+Donald_006_f;You might not have noticed, but sometimes I lose my temper.
+m
+Donald_007_f]And even though it's always for a very good reason, I OCCASIONALLY say something I shouldn't.
+^
+Donald_008_fNBut now, when that happens, I'll have these desserts to give out as apologies.
+M
+Player_002_choice_000_f2What if these go bad before you need to apologize?
+\
+Player_002_choice_001_fAWhat if you run out of desserts from having to apologize so much?
+M
+Player_002_choice_002_f2What if you eat them before you can give them out?
+K
+Donald_009_f;Uh... heh-heh... I wish I thought that was going to happen.
+K
+Donald_012_f;Oh, I almost forgot. Here's a tip for bringing these to me.
+\
+Donald_010_fLI guess I'll have to order more from Remy. Oh boy, this could get expensive.
+V
+Donald_011_fFWho do I look like? Goofy? Don't worry. I have excellent self-control!
++
+Donald_003_fIt's something like that...
+c
+Donald_004_fSFishing bait?! Why would I waste good desserts like that?! You've got it all wrong.

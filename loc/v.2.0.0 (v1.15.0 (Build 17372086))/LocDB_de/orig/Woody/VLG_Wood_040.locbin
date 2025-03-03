@@ -1,0 +1,81 @@
+
+U
+CVillage!ToyStory!Woody!VLG_Wood_040_Any_CompletedRequestDescriptionTalk to Woody.
+™
+8Village!ToyStory!Woody!VLG_Wood_040_AvailableDescriptionÜWoody was looking around the Carousel and searching through the toy chest that's there when the lights started to flicker. He is now sure that the chest holds the solution to bring back the lights and asks for your help.
+h
+=Village!ToyStory!Woody!VLG_Wood_040_CompletedStoryDescription'The Carousel is all alight! You did it.
+C
+/Village!ToyStory!Woody!VLG_Wood_040_DisplayNameThe Illumination
+u
+@Village!ToyStory!Woody!VLG_Wood_040_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+u
+KVillage!ToyStory!Woody!VLG_Wood_040_Group01_Step01_PickUp01_StepDescription&Examine the toy chest in the Carousel.
+Œ
+PVillage!ToyStory!Woody!VLG_Wood_040_Group02_Step02_ConsumeItem01_StepDescription8Pick up the Old Ruler's Lost Diary Page in the Carousel.
+f
+TVillage!ToyStory!Woody!VLG_Wood_040_Group03_Step03_TalkToCharacter01_StepDescriptionTalk to Woody.
+{
+@Village!ToyStory!Woody!VLG_Wood_040_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+^
+TVillage!ToyStory!Woody!VLG_Wood_040_Group04_Step04_TalkToCharacter02_StepDescriptionMoana.
+^
+TVillage!ToyStory!Woody!VLG_Wood_040_Group04_Step04_TalkToCharacter03_StepDescriptionAriel.
+a
+TVillage!ToyStory!Woody!VLG_Wood_040_Group04_Step04_TalkToCharacter04_StepDescription	Kristoff.
+Y
+;Village!ToyStory!Woody!VLG_Wood_040_Group04_StepDescriptionGet a childhood item from:
+ž
+<Village!ToyStory!Woody!VLG_Wood_040_Group04_StoryDescriptionÝUpon examining the toy chest, you discover a page from the Ruler's Diary, which reveals that you need to fill it with childhood items from the Villagers. After deciding who to ask, it's up to you to convince them to help.
+w
+@Village!ToyStory!Woody!VLG_Wood_040_Group05_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+]
+NVillage!ToyStory!Woody!VLG_Wood_040_Group05_Step05_BringItem01_StepDescription{ItemName}.
+]
+NVillage!ToyStory!Woody!VLG_Wood_040_Group05_Step05_BringItem02_StepDescription{ItemName}.
+]
+NVillage!ToyStory!Woody!VLG_Wood_040_Group05_Step05_BringItem03_StepDescription{ItemName}.
+s
+CVillage!ToyStory!Woody!VLG_Wood_040_Group05_Step05_ReadyDescription,Bring the items from the Villagers to Woody.
+ˆ
+BVillage!ToyStory!Woody!VLG_Wood_040_Group05_Step05_StepDescriptionBMake sure you have the items from the Villagers in your Inventory.
+u
+@Village!ToyStory!Woody!VLG_Wood_040_Group06_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What do I need?
+[
+LVillage!ToyStory!Woody!VLG_Wood_040_Group06_Step06_Possess01_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_040_Group06_Step06_Possess02_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_040_Group06_Step06_Possess03_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_040_Group06_Step06_Possess04_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_040_Group06_Step06_Possess05_StepDescription{ItemName}.
+†
+;Village!ToyStory!Woody!VLG_Wood_040_Group06_StepDescriptionGGather the materials for the <ActivityItem>Blanket Fort</ActivityItem>:
+†
+<Village!ToyStory!Woody!VLG_Wood_040_Group06_StoryDescriptionÅThe lights are still not on despite your best efforts and you realize you need to add a memory of Woody and yourself to the toy chest. You seize this opportunity to create a perfect fun experience.
+r
+@Village!ToyStory!Woody!VLG_Wood_040_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+g
+NVillage!ToyStory!Woody!VLG_Wood_040_Group07_Step07_CraftItem01_StepDescriptionCraft the {ItemName}.
+u
+@Village!ToyStory!Woody!VLG_Wood_040_Group08_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+v
+LVillage!ToyStory!Woody!VLG_Wood_040_Group08_Step08_DressUp01_StepDescription&(Optional) Put on some {Mood} clothes.
+—
+MVillage!ToyStory!Woody!VLG_Wood_040_Group08_Step09_Decorate01_StepDescriptionFPlace the <ActivityItem>Blanket Fort</ActivityItem> when you're ready.
+i
+;Village!ToyStory!Woody!VLG_Wood_040_Group08_StepDescription*Have the perfect slumber party with Woody:
+q
+JVillage!ToyStory!Woody!VLG_Wood_040_Group09_Step10_Party01_StepDescription#Take a picture with Buzz and Woody.
+u
+@Village!ToyStory!Woody!VLG_Wood_040_Group10_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+s
+TVillage!ToyStory!Woody!VLG_Wood_040_Group10_Step11_FollowCharacter01_StepDescriptionMeet Woody at the Carousel.
+h
+VVillage!ToyStory!Woody!VLG_Wood_040_Group10_Step11_FollowCharacter01_TalkToDescriptionTalk to Woody.
+š
+<Village!ToyStory!Woody!VLG_Wood_040_Group10_StoryDescriptionZIt's time to find out if the picture you took is powerful enough to light up the Carousel.
+g
+6Village!ToyStory!Woody!VLG_Wood_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

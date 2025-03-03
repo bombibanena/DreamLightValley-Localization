@@ -1,0 +1,53 @@
+
+�
+@Realm!LionKing!RLM_LionKingIP_Simb_010_CompletedStoryDescription�Симба возвращается с вами в долину Мечты, жаждет увидеть Нала и исследовать ваше королевство.
+�
+2Realm!LionKing!RLM_LionKingIP_Simb_010_DisplayNameSЗвезды, которыми мы должны руководствоваться
+�
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group01_Step01_FollowCharacter02_StepDescriptionDСледуйте за Симба к высохшему оазису.
+�
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group01_StoryDescription�Вы используете заклинание, которое Мерлин сказал вам, чтобы согнуть элементы в джунглях. Небо очищает облака, и Симба может снова увидеть звезды. Это напоминает ему некоторые слова мудрости от отца.
+�
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group02_StoryDescription�Симба открывает вам о своем отце, Муфасе. Муфаса однажды сказал Симба, что все великие короли прошлого смотрят вниз со звезд. Но Симба имеет странную проблему: он не может вспомнить последний раз, когда он видел звезды. Каждый раз, когда он смотрит вверх, небо полон облаков. Вы задумываетесь, может ли что-то волшебство работать и решить найти Мерлин.
+^
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group03_Step03_Possess03_StepDescription{ItemName}.
+^
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group03_Step03_Possess04_StepDescription{ItemName}.
+�
+ERealm!LionKing!RLM_LionKingIP_Simb_010_Group03_Step03_StepDescription7Соберите следующие материалы:
+�
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group03_StoryDescription�Мерлин говорит вам, что на погоду в Сомнении может повлиять облачное состояние разума Симба. Вам нужно сделать что-то, чтобы напомнить ему о его прошлом и заколдовать, чтобы все исправить.
+z
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group07_Step07_TalkToCharacter01_StepDescriptionПоговори с Симба.
+�
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group07_StoryDescription�Симба уверен, что лучший способ стать хорошим королем будет восстановить часть его королевства, высохший оазис рядом с джунглями.
+~
+CRealm!LionKing!RLM_LionKingIP_Simb_010_Group08_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+QRealm!LionKing!RLM_LionKingIP_Simb_010_Group08_Step15_BringItem04_StepDescriptionvУбедитесь, что в вашем списке есть "Прогулочный стик" <ActivityItem>Rafiki.
+�
+FRealm!LionKing!RLM_LionKingIP_Simb_010_Group08_Step15_ReadyDescriptionjПринесите <ActivityItem>Rafiki's Walking Stick</ActivityItem> на Симба в Lion King Realm.
+�
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group12_Step12_Possess05_StepDescription3<ActivityItem> Waterfall Plant Seed.</ActivityItem>
+�
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group12_Step12_Possess06_StepDescription0<ActivityItem>Clearing Tree Seed.</ActivityItem>
+z
+ERealm!LionKing!RLM_LionKingIP_Simb_010_Group12_Step12_StepDescription1Соберите следующие семена:
+z
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group13_Step13_TalkToCharacter06_StepDescriptionПоговори с Симба.
+�
+RRealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_MakeGarden01_StepDescription.<ActivityItem>Jungle Fern Seed</ActivityItem>.
+�
+RRealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_MakeGarden02_StepDescription3<ActivityItem> Waterfall Plant Seed</ActivityItem>.
+�
+RRealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_MakeGarden03_StepDescription0<ActivityItem>Clearing Tree Seed</ActivityItem>.
+�
+ERealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_StepDescription8Посадить семена вокруг оазиса:
+a
+>Realm!LionKing!RLM_LionKingIP_Simb_010_Group15_StepDescriptionПоговори с Симба.
+�
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group19_StoryDescription�Симба в восторге от возвращения оазиса к жизни, он просто знает, что его отец гордился бы королем, которым он становится, теперь он готов вернуться в долину Мечты с вами.
+�
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group22_Step23_TalkToCharacter09_StepDescription]Поговори с Симба в "Королевском королевстве Львов".
+[
+9Realm!LionKing!RLM_LionKingIP_Simb_010_StartRequestButton<smallcaps>{title}</smallcaps>

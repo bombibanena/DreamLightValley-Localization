@@ -1,0 +1,42 @@
+TAG: Merida_000_f
+The Snippets seem to be moving slower around here already. Nicely done!
+
+TAG: Merida_001_f
+Would you like to hear more of my dad's advice about tracking creatures?
+
+TAG: Player_000_choice_000_f
+I'm ready! Let's hear it!
+
+TAG: Player_000_choice_001_f
+Is it to go have a sandwich?
+
+TAG: Player_000_choice_002_f
+Is it to take a nice nap?
+
+TAG: Merida_002_f
+Patience... That's all. Be patient.
+
+TAG: Merida_008_f
+Which you might have noticed, I'm not always so good at.
+
+TAG: Merida_009_f
+Sometimes it takes a whole afternoon to find your prey. Me and my dad are out for hours trading stories and making each other laugh.
+
+TAG: Merida_010_f
+Don't worry, though. I don't think you'll have to wait too long for a Snippet to show up. And when they do... <Lore>catch them</Lore>!
+
+TAG: Merida_003_f
+No, but you're not far off.
+
+TAG: Merida_005_f
+A feast is usually reserved for the end.
+
+TAG: Merida_006_f
+The third bit of advice is patience.
+
+TAG: Merida_004_f
+No, but you're not far off.
+
+TAG: Merida_007_f
+I always sleep well after a day out tracking.
+

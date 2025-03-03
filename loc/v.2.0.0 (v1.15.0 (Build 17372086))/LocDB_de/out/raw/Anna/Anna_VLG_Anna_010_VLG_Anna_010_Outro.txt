@@ -1,0 +1,30 @@
+TAG: Anna_000_f
+You're back! What did Elsa say?
+
+TAG: Anna_002_f
+There are a few things she needs to take care of first...
+
+TAG: Anna_004_f
+...but she's planning to come visit Dreamlight Valley as soon as she can.
+
+TAG: Anna_009_f
+She is? Woo-hoo! {PlayerName}, you're the best!
+
+TAG: Player_000_choice_003_f
+I wanted to make you happy.
+
+TAG: Player_000_choice_004_f
+Elsa will be able to help the Village.
+
+TAG: Player_000_choice_005_f
+We could use someone with her powers around here.
+
+TAG: Anna_001_f
+Oh, that is so nice.
+
+TAG: Anna_012_f
+Thank you for everything. I can't wait to see my sister again!
+
+TAG: Anna_010_f
+I know! I can't wait to see all the ice things she'll make for the Valley.
+

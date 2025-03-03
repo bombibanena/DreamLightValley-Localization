@@ -1,0 +1,46 @@
+
+A
+Mickey_000_f1Wow, {PlayerName}! You've sure got a green thumb!
+2
+Player_000_f"Thanks, Mickey! Gardening is so...
+'
+Player_000_choice_000_f...relaxing!
+%
+Player_000_choice_001_f
+...useful!
+(
+Player_000_choice_002_f...stressful!
+õ
+Mickey_008_fäI agree. There's nothing like working in my garden to help me feel peaceful. Especially when there aren't any Night Thorns to worry about.
+í
+Mickey_001_fÅWell, now that you know how to garden, why don't you get some Ingredients ready for the <ActivityItem>Fruit Salad</ActivityItem>?
+â
+Mickey_004_fy<ActivityItem>Apples</ActivityItem> grow all the time on the <ActivityItem>Apple Trees</ActivityItem> around the Village.
+Å
+Mickey_005_fqIf you already picked some, you might need to wait for more to grow. But don't worry; it shouldn't take too long.
+w
+Mickey_006_fgAnd make sure to keep some of each Ingredient so you'll always have something to make for your friends!
+7
+Player_001_choice_000_fI'll always keep some handy!
+8
+Player_001_choice_001_fThey're too yummy to save up!
+V
+Player_001_choice_002_f;I think there's a trunk in my House where I can store them!
+c
+Mickey_012_fSThat's great! I used to try to save raspberries so I could bake a pie for Minnie...
+C
+Mickey_013_f3...but I'd always end up eating 'em on my way home!
+
+Mickey_014_fOh, Mickey...
+Ñ
+Mickey_002_ftOkay, when you're ready with the Ingredients, we'll make the <ActivityItem>Fruit Salad</ActivityItem> at your House.
+F
+Mickey_007_f6Oh, and don't forget to pick up the wheat you planted!
+`
+Mickey_011_fPI understand that. I used to try to save raspberries to bake a pie for Minnie...
+±
+Mickey_015_f†Yeah, I used to have a big trunk where I could keep all my ingredients, too. I used to try to keep it filled with raspberries so I could bake pies for Minnie...
+Y
+Mickey_009_fIYeah! We can feed the whole Village with the food we grow in our gardens!
+y
+Mickey_010_fiAw, don't worry, {PlayerName}. If you treat your garden with love and care, it'll all come out just fine.

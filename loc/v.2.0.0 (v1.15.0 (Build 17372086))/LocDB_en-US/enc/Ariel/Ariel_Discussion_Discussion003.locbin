@@ -1,0 +1,40 @@
+
+C
+Ariel_000_f4What do you do when you feel homesick, {PlayerName}?
+)
+Player_000_choice_000_fVisit friends.
+,
+Player_000_choice_001_fLook at mementos.
+'
+Player_000_choice_002_fDistraction.
+9
+Ariel_002_f*Visiting friends always cheers me up, too.
+j
+Ariel_003_f[Especially my friend Flounder. He and I have gone on the most exciting adventures together.
+ƒ
+Ariel_004_ftOh, that's smart. I spend so much time collecting human stuff, maybe I should get a few things to remind me of home.
+.
+Player_001_fHmm. Maybe you could gather...
+%
+Player_001_choice_000_f
+Seashells.
+'
+Player_001_choice_001_fSheet music.
+ 
+Player_001_choice_002_fFish.
+
+Ariel_009_frI do have some favorite seashells from when I was a little girl. I'd love to have those here to remind me of home.
+>
+Ariel_011_f/What a wonderful idea, {PlayerName}. Thank you!
+n
+Ariel_010_f_Oh, what a good idea! I'm sure I could find some of the concert music that Sebastian's written.
+K
+Ariel_012_f<Then maybe I could get some friends here to sing it with me!
+6
+Ariel_013_f'You mean like in a bowl? I could never!
+[
+Ariel_015_fLFish don't belong in bowls, {PlayerName}. They need to be free in the ocean.
+[
+Ariel_006_fLYou mean that if you don't think about home, you won't have time to miss it?
+(
+Ariel_007_fI guess that makes sense.

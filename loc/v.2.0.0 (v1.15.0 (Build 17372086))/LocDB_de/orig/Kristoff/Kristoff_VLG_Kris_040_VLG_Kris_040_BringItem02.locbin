@@ -1,0 +1,33 @@
+
+w
+Kristoff_000_feThe patch is solid. Let me check the runners... Great! My <ActivityItem>Sled</ActivityItem> is fixed!
+:
+Kristoff_004_f(This is some nice work. How'd you do it?
+=
+Player_000_f-I just used some refined materials. It was...
+
+Player_000_choice_000_fFun.
+3
+Player_000_choice_001_fAll written in the book.
+1
+Player_000_choice_002_fToo technical for you.
+&
+Kristoff_005_fThat's good to hear.
+}
+Kristoff_008_fkYou know, I'd like to sell some of those refined materials you used in my Stall. I'm sure people need them.
+\
+Kristoff_001_fJCould you bring me samples of everything you used so I know what to stock?
+>
+Player_001_choice_000_f#Love this idea! Doing it right now.
+3
+Player_001_choice_001_fAnything for the Valley.
+T
+Player_001_choice_002_f9If you sell them, I won't have to constantly forage. YES.
+'
+Kristoff_002_fThanks, {PlayerName}.
+*
+Kristoff_006_fTold you it'd be useful!
+`
+Kristoff_007_fNYeah, well, I'd like to see you harvest a lake full of ice without falling in.
+D
+Kristoff_003_f2You're right. I would have no idea how to do that.

@@ -1,0 +1,24 @@
+TAG: Mickey_000_f
+{PlayerName}! When you opened that chest, I remembered something new!
+
+TAG: Mickey_001_f
+I remembered a door... But I can't figure out where it is...
+
+TAG: Mickey_002_f
+And I remembered... part of a riddle? It goes:
+
+TAG: Mickey_003_f
+"Turrets and towers you will behold. Within: a door for things new and old."
+
+TAG: Mickey_005_f
+It sounds like there's a secret door somewhere! Could you help me find it?
+
+TAG: Player_000_choice_000_f
+Yes! Let's go!
+
+TAG: Player_000_choice_001_f
+Can you repeat that riddle again?
+
+TAG: Mickey_006_f
+Hot dog! Secret door, here we come!
+

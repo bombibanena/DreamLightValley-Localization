@@ -1,0 +1,60 @@
+TAG: Player_001_f
+Did you just say Sea Witch?
+
+TAG: Merlin_000_f
+Stupendous! You succeeded! The Well is free of the curse!
+
+TAG: Merlin_001_f
+You know, the Old Ruler used the Wells to <Lore>travel by magic</Lore> around the Village from Well to Well.
+
+TAG: Player_000_choice_000_f
+I prefer to wander!
+
+TAG: Player_000_choice_001_f
+I like to get where I'm going, fast.
+
+TAG: Player_000_choice_002_f
+Traveling by magic... sounds risky.
+
+TAG: Merlin_006_f
+Indeed! Wandering is when I think my best thoughts. But you can always use the Wells when you need to get somewhere fast.
+
+TAG: Merlin_002_f
+Speaking of wandering: Replacing the <ActivityItem>Orb of Friendship</ActivityItem> removed the Dark Magic from the Giant Night Thorns blocking the way to the rest of the Valley.
+
+TAG: Merlin_003_f
+If you gather enough Dreamlight, you can get rid of the Giant Night Thorns to <Lore>explore farther</Lore>.
+
+TAG: Merlin_007_f
+And in time, we should be able to discover what happened to the others who stayed behind.
+
+TAG: Merlin_004_f
+I seem to remember that when the Valley fell to chaos, <Lore>the Sea Witch</Lore> stayed by the beach.
+
+TAG: Player_000_choice_003_f
+Sounds scary.
+
+TAG: Player_000_choice_004_f
+Sounds like my kind of lady.
+
+TAG: Player_000_choice_005_f
+Sounds like a good place to start.
+
+TAG: Merlin_008_f
+Yes, you should be wary of her. She can be a bit... tricky.
+
+TAG: Merlin_005_f
+The Sea Witch may hold many of the answers we seek. I suggest you start by exploring the beaches to the south.
+
+TAG: Merlin_011_f
+Well, she can be a bit... tricky, but on occasion she proves to be of use.
+
+TAG: Merlin_012_f
+A shrewd observation, {PlayerName}.
+
+TAG: Merlin_009_f
+Then you'll no doubt find the Wells around the Village useful! But don't forget to take time to wander now and then. You never know what mysteries you might uncover.
+
+TAG: Merlin_010_f
+Not at all! Just remember to take time to wander now and then. You never know what mysteries you might uncover.
+

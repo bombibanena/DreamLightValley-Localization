@@ -1,0 +1,49 @@
+
+'
+Gaston_000_fGood day, {PlayerName}.
+$
+Gaston_001_fHave you seen Belle?
+;
+Player_000_choice_000_f I'm sure she's around somewhere!
+?
+Player_000_choice_001_f$Uhhh... what do you want with Belle?
+%
+Player_000_choice_002_f
+Sorry, no.
+;
+Gaston_002_f+That Belle, always distracted by something.
+?
+Gaston_003_f/I have an important matter to discuss with her.
+4
+Gaston_004_f$I'm afraid Belle is in grave danger.
+L
+Gaston_005_f<She needs someone to stop her from going down a horrid path.
+P
+Gaston_006_f@One filled with books. Those things are full of ideas, you know.
+?
+Player_001_choice_000_f$Are you sure that will go over well?
+5
+Player_001_choice_001_fI'd advise against that...
+%
+Player_001_choice_002_f
+Good luck!
+
+Gaston_007_f
+Of course!
+:
+Gaston_008_f*{PlayerName}, I'm Gaston. Just look at me!
+6
+Gaston_009_f&Okay, but don't say I didn't warn you!
+
+Gaston_010_f
+What? Why?
+*
+Gaston_011_fYou're going to need it...
+6
+Gaston_012_f&Need it? What's that supposed to mean?
+7
+Gaston_013_f'Well, I suppose telling you can't hurt.
+
+Gaston_014_fDrat!
+4
+Gaston_015_f$It's very important that I find her.

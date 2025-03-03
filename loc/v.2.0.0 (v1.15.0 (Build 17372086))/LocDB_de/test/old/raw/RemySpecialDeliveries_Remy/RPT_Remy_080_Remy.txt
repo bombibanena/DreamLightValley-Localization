@@ -1,0 +1,243 @@
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Any_CompletedRequestDescription
+Возвращайся в Реми за твои награды.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_AvailableDescription
+Реми у вас сегодня быстрая доставка, если вы готовы к вызову!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_DisplayName
+Приятного аппетита: "Убирайся!"
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group01_Step01_CookMeal01_StepDescription
+Приготовить Симба и Нала 5-звёздную еду, чтобы показать им, что человек готовит, может быть здорово!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group02_Step02_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group02_Step02_CookMeal03_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group02_Step02_CookMeal04_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group02_StepDescription
+Приготовить Джек Скеллингтон Skellington немного жуткой еды:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group03_Step03_CookMeal05_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group03_Step03_CookMeal06_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group03_Step03_CookMeal07_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group03_StepDescription
+Приготовить еду для Скрудж Макдак, чтобы напомнить ему о доме:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group04_Step04_CookMeal08_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group04_Step04_CookMeal09_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group04_Step04_CookMeal10_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group04_Step04_CookMeal11_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group04_Step04_CookMeal12_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group04_StepDescription
+Приготовить Кристофф шоколадный буфет:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group05_Step05_CookMeal13_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group05_Step05_CookMeal15_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group05_Step05_CookMeal22_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group05_Step05_CookMeal23_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group05_StepDescription
+Приготовить еду для конкурса по поеданию пирогов Ваниллопа и Гуфи:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group06_Step06_CookMeal24_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group06_Step06_CookMeal25_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group06_Step06_CookMeal26_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group06_Step06_CookMeal27_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group06_StepDescription
+Приготовить Микки Маус и Гуфи хороший обед, чтобы они были теплыми во время рыбной экспедиции:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group07_Step07_CookMeal28_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group07_Step07_CookMeal29_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group07_Step07_CookMeal30_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group07_StepDescription
+Приготовить для Вуди и Базз Лайтер следующее:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group08_Step08_CookMeal31_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group08_Step08_CookMeal32_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group08_Step08_CookMeal33_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group08_StepDescription
+Приготовить"Спасибо."еда для Мерлин:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group09_Step09_ReadyDescription
+Возьмите <ActivityItem>5-Star Feals</ActivityItem> на Симба.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group09_Step09_StepDescription
+Возьмите <ActivityItem>5-Star Feals</ActivityItem> для Симба.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group10_Step10_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group10_Step10_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group10_Step10_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group10_Step10_ReadyDescription
+Принеси еду в Джек Скеллингтон Skellington.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group10_Step10_StepDescription
+Получите следующее для Джек Скеллингтон Skellington:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group11_Step11_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group11_Step11_BringItem06_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group11_Step11_BringItem07_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group11_Step11_ReadyDescription
+Принесите еду Скрудж Макдак.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group11_Step11_StepDescription
+Получите следующую еду для Скрудж Макдак:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group12_Step12_BringItem08_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group12_Step12_BringItem09_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group12_Step12_BringItem10_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group12_Step12_BringItem11_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group12_Step12_BringItem12_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group12_Step12_ReadyDescription
+Принеси шоколадный буфет на Кристофф.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group12_Step12_StepDescription
+Получите следующую еду для Кристофф:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group13_Step13_BringItem13_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group13_Step13_BringItem15_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group13_Step13_BringItem22_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group13_Step13_BringItem23_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group13_Step13_ReadyDescription
+Принеси пироги на Гуфи, чтобы они с Ваниллопа могли начать свой конкурс.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group13_Step13_StepDescription
+Получите следующие пироги для конкурса Гуфи и Ваниллопа:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group14_Step14_BringItem24_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group14_Step14_BringItem25_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group14_Step14_BringItem26_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group14_Step14_BringItem27_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group14_Step14_ReadyDescription
+Принесите еду Микки Маус для экспедиции по вылову льда.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group14_Step14_StepDescription
+Получите следующую еду для экспедиции Микки Маус и Гуфи по вылову льда:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group15_Step15_BringItem28_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group15_Step15_BringItem29_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group15_Step15_BringItem30_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group15_Step15_ReadyDescription
+Принесите еду Вуди.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group15_Step15_StepDescription
+Получите следующие обеды для Вуди и Базз Лайтер:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group16_Step16_BringItem31_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group16_Step16_BringItem32_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group16_Step16_BringItem33_StepDescription
+{ItemName}.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group16_Step16_ReadyDescription
+Принесите"Спасибо."еда Мерлин.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group16_Step16_StepDescription
+Найдите следующее."Спасибо."еда для Мерлин:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group17_Step17_Listen01_StepDescription
+Соревнование судьи Ваниллопа и Гуфи по поеданию пирогов.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group18_Step18_TalkToCharacter01_StepDescription
+Объявите победителя Гуфи.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_Group18_StepDescription
+Есть спор по поводу пирога.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_080_Remy_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

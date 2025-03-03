@@ -1,0 +1,33 @@
+TAG: Merlin_000_f
+Hey, Merlin! Do you know anything about time magic?
+
+TAG: Merlin_001_f
+I'm afraid you'll have to be more specific. Time travel? Freezing time? Making time fly?
+
+TAG: Merlin_002_f
+Uh... No. A sort of time spell with Sundrop petals that can help Mother Gothel keep her youth.
+
+TAG: Merlin_003_f
+I'm afraid I don't. The preservation of youth hasn't been a field of study I've pursued. Why, just look at my beard! Ha-ha!
+
+TAG: Player_000_choice_000_f
+It's an impressive beard.
+
+TAG: Player_000_choice_001_f
+So... you DON'T know about an eternal youth charm?
+
+TAG: Player_000_choice_002_f
+I thought it was a costume beard.
+
+TAG: Merlin_006_f
+Well, I'm rather proud of it, you know.
+
+TAG: Merlin_007_f
+{PlayerName}, I'm afraid I don't currently have the knowledge to help you or Mother Gothel stave off age. You might want to seek someone whose magical pursuits lie more in the vanity realm.
+
+TAG: Merlin_004_f
+You've divined my meaning perfectly! After all, to age is a privilege!
+
+TAG: Merlin_005_f
+A costume â a COSTUME?! Hardly! I assure you this is all very genuine and earned with experience!
+

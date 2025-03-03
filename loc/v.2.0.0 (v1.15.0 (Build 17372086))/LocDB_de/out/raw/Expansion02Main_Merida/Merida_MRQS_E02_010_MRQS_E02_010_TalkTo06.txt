@@ -1,0 +1,81 @@
+TAG: Merida_001_f
+Did you see that?! The last of the Lorekeeper's magic just flew out of her in those <Lore>Snippets</Lore>!
+
+TAG: Player_000_f
+You mean the little paper bird thingies that flew out of her...?
+
+TAG: Player_000_choice_000_f
+They were sort of cute!
+
+TAG: Player_000_choice_001_f
+What were those things?!
+
+TAG: Player_000_choice_002_f
+Are those things dangerous...?
+
+TAG: Merida_002_f
+Cute?! The skeerie slips are annoying is what they are!
+
+TAG: Merida_005_f
+They've been flying all over the Vale ever since the Lorekeeper got sick.
+
+TAG: Merida_006_f
+She told me they're snippets of her Story Magic come to life. So I'm calling them <ActivityItem>Snippets</ActivityItem>.
+
+TAG: Merida_007_f
+Unless we can catch them all and stuff them back inside the Lorekeeper, she's done for.
+
+TAG: Merida_012_f
+Only trouble is, they're magic! Which means I can't catch them with my bare hands or shoot them out of the air with an arrow. Trust me, I've tried.
+
+TAG: Player_001_choice_000_f
+Maybe I can catch them. I don't know if you've noticed, but... I'm pretty magical.
+
+TAG: Player_001_choice_002_f
+Have you tried offering them a snack? I would definitely be tricked if you offered me a snack.
+
+TAG: Player_001_choice_003_f
+Well, I guess we're doomed then. Time to give up forever and go take a nap.
+
+TAG: Merida_000_f
+About that... I don't mean to insult you, since you seem nice enough, but the Lorekeeper told me that the only way to catch them is with the <Lore>Royal Net</Lore>.
+
+TAG: Merida_019_f
+Now where did I leave that potion...? Must be in my <Lore>bag, which is... somewhere in here</Lore>.
+
+TAG: Merida_015_f
+The Lorekeeper mentioned something about a <Lore>Royal Net</Lore> hidden here in this chamber!
+
+TAG: Merida_009_f
+Aye! <Lore>That's exactly what we need</Lore>. She said it was in here?
+
+TAG: Merida_010_f
+That's perfect! She told me once that only two people can wield its magic... and YOU'RE one of them.
+
+TAG: Merida_011_f
+We've got to find it. Let's <Lore>look around</Lore>...
+
+TAG: Merida_008_f
+Oh! Maybe there's something <Lore>underneath all that Petrified Wood</Lore>.
+
+TAG: Merida_016_f
+Maybe my Pickaxe can take care of that...
+
+TAG: Merida_017_f
+Pickaxe?! I found <Lore>a potion</Lore> while I was exploring a while back.
+
+TAG: Merida_018_f
+It's supposed to be for a Pickaxe. And I didn't have a Pickaxe. But YOU do!
+
+TAG: Merida_014_f
+I've tried everything and nothing worked! The Lorekeeper says they can only be captured with the <Lore>Royal Net</Lore>.
+
+TAG: Merida_013_f
+Give up? No member of Clan DunBroch ever gives up! We can solve this. We only need to find <Lore>the Royal Net</Lore>.
+
+TAG: Merida_003_f
+Wee annoyances are what those were.
+
+TAG: Merida_004_f
+Dangerous? I don't think so. But they are annoying, that's for sure.
+

@@ -1,0 +1,96 @@
+TAG: MikeWazowski_001_f
+Mike?!
+
+TAG: MikeWazowski_000_f
+You're not a raccoon!
+
+TAG: MikeWazowski_002_f
+No kidding!
+
+TAG: MikeWazowski_025_f
+But more importantly...
+
+TAG: MikeWazowski_003_f
+...your auto-mat's broken! I'm stuck and I can't get out!
+
+TAG: Player_000_choice_000_f
+... Auto-mat?
+
+TAG: Player_000_choice_001_f
+Do you need some help?
+
+TAG: Player_000_choice_002_f
+You're not a critter!
+
+TAG: MikeWazowski_004_f
+Yeah? An automated food delivery machine? What do you call it?
+
+TAG: MikeWazowski_009_f
+That's... not what this is.
+
+TAG: MikeWazowski_010_f
+Hold on a sec; let me get you out of there...
+
+TAG: MikeWazowski_011_f
+Ahh, much better. Thanks, {PlayerName}!
+
+TAG: MikeWazowski_012_f
+So, can you explain why you were nabbed trying to get into Sally's <ActivityItem>Compost Bin</ActivityItem>?
+
+TAG: MikeWazowski_013_f
+Who said anything about compost? I'm here for the food!
+
+TAG: MikeWazowski_014_f
+I was minding my own business when I picked up the delectable scent of some five-star seasoning!
+
+TAG: Player_001_choice_000_f
+You're... EATING the compost?
+
+TAG: Player_001_choice_001_f
+Smells kinda like dirt to me.
+
+TAG: Player_001_choice_002_f
+I should have known...
+
+TAG: MikeWazowski_020_f
+You mean the seasoning. And yeah. Why wouldn't I?
+
+TAG: MikeWazowski_015_f
+It's clearly the best flavoring available in the Valley. Though I have no idea why it was completely unattended.
+
+TAG: MikeWazowski_016_f
+It was just sittin' there, so I thought I'd help myself. But then... well, I was trapped.
+
+TAG: MikeWazowski_017_f
+Okay, I think I see the problem here. This is not a dispenser for seasoning!
+
+TAG: MikeWazowski_018_f
+... You feeling all right, {PlayerName}? There is clearly fabulous seasoning inside that container, and I'm NOT supposed to eat it?!
+
+TAG: MikeWazowski_019_f
+Oof, okay, maybe Sally should explain this to you...
+
+TAG: MikeWazowski_021_f
+Yes, very dirt forward! And yet, with notes of rot and vegetable miasma.
+
+TAG: MikeWazowski_022_f
+I agree! It's like you don't know me at all...
+
+TAG: MikeWazowski_005_f
+Oh no, clearly I want to stay here until the end of time.
+
+TAG: MikeWazowski_006_f
+Yes, I need help!
+
+TAG: MikeWazowski_007_f
+Again, no!
+
+TAG: MikeWazowski_008_f
+Why do you keep telling me things I'm not?
+
+TAG: MikeWazowski_023_f
+You're not a raven!
+
+TAG: MikeWazowski_024_f
+You're not a turtle!
+

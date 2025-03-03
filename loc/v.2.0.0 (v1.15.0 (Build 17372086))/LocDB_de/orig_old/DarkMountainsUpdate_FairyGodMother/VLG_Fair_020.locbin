@@ -1,0 +1,41 @@
+
+�
+NVillage!Cinderella!FairyGodMother!VLG_Fair_020_Any_CompletedRequestDescription2Возвращайся к Крепости Феи.
+�
+CVillage!Cinderella!FairyGodMother!VLG_Fair_020_AvailableDescription�Фея-крестная нуждается в вашей помощи. она одолжила книгу у Мерлин некоторое время назад, но потеряла ее... и теперь волшебник попросил ее вернуть. Она просит вас помочь деревенским жителям вместо неё, пока она ищет книгу.
+�
+HVillage!Cinderella!FairyGodMother!VLG_Fair_020_CompletedStoryDescription�Теперь, когда книга снова на своём месте, Крёстная Фея будет счастлива, но ты должна сказать ей на всякий случай.
+]
+:Village!Cinderella!FairyGodMother!VLG_Fair_020_DisplayNameПотерянная книга
+�
+NVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step01_ReadyDescriptionZПринесите немного <ActivityItem>Pumpkin Soup</ActivityItem> на Анна.
+�
+MVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step01_StepDescription`Приготовить немного <ActivityItem>Pumpkin Soup</ActivityItem> для Анна.
+�
+NVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step02_ReadyDescriptionCВозьмите <ActivityItem>Sticks</ActivityItem> на Олаф.
+�
+MVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step02_StepDescription�Собирайте <ActivityItem>Sticks</ActivityItem> любого типа, найденного в Dreamlight Valley для Олаф.
+�
+NVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step03_ReadyDescriptionLПриведите <ActivityItem>Amethysts</ActivityItem> на Урсула.
+�
+MVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group01_Step03_StepDescriptionLСоберите <ActivityItem>Amethysts</ActivityItem> для Урсула.
+�
+FVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group01_StepDescriptionJВыполняйте желания деревенских жителей:
+
+MVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group02_Step04_StepDescription.Поговори с Крёстной Феей.
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group02_StoryDescription�Помогая каждому деревенскому человеку получить то, что им нужно от Крёстной Феи, пришло время увидеться с ней снова.
+�
+MVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group03_Step05_StepDescriptionYУбери дом Крёстной Феи, чтобы найти книгу Мерлин.
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group03_StoryDescriptionrТы понимаешь, что Крёстная Фея искала везде, кроме своего дома.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_020_Group04_Step06_TalkToCharacter02_StepDescription.Поговори с Крёстной Феей.
+�
+FVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group05_StepDescription�Положите книгу <ActivityItem>Мерлин обратно на книжную полку слева от библиотеки.
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group05_StoryDescriptionaВы решаете вернуть книгу <ActivityItem>Мерлин в Библиотеку.
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_020_Group03_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+r
+AVillage!Cinderella!FairyGodMother!VLG_Fair_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

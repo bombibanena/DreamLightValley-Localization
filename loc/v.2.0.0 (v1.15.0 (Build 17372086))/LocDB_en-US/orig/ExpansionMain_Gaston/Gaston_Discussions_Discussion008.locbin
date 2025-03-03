@@ -1,0 +1,45 @@
+
+8
+Gaston_000_f({PlayerName}! I caught you just in time!
+8
+Gaston_001_f(Did you know that there are LIONS here?!
+7
+Player_000_choice_000_fSure! I invited them myself!
+6
+Player_000_choice_001_fWhat? How did that happen?!
+C
+Player_000_choice_002_f(There might be tigers and bears as well!
+
+Gaston_002_fYou did?
+Z
+Gaston_003_fJ{PlayerName}, you should have told me you were creating a hunting reserve.
+!
+Gaston_004_fI'm really not...
+&
+Gaston_005_fYou're lucky I'm here.
+E
+Gaston_006_f5Tone it down, Gaston. No hunting the other Villagers.
+E
+Gaston_007_f5... Fine, but I'll be ready in case anything happens.
+4
+Gaston_008_f$No beast stands a chance against me!
+A
+Player_001_choice_000_f&I think you should leave them alone...
+<
+Player_001_choice_001_f!Have you ever seen a lion before?
+'
+Gaston_009_fWe'll see about that...
+3
+Gaston_010_f#Seriously Gaston, leave them alone.
+3
+Gaston_011_f#They're guests here, just like you.
+m
+Gaston_012_f]Very well, but if I get the sense that they're stalking me... I'll have no choice but to act.
+D
+Gaston_013_f4No. They must be exceedingly rare in French forests.
+R
+Gaston_014_fBBut I've heard of them. Powerful, dangerous, majestic creatures...
+>
+Gaston_015_f.Invaders! They'll stalk us all; I promise you.
+0
+Gaston_016_f Oh, it's worse than I thought...

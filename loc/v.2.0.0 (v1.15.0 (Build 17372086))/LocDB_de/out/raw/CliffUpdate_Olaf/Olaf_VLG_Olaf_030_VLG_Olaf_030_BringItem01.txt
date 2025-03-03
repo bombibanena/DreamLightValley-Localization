@@ -1,0 +1,39 @@
+TAG: Olaf_000_f
+Donald doesn't want to star as himself in the play? Huh.
+
+TAG: Olaf_001_f
+Well, that's okay. Between you and me, I wasn't sure he had the acting skill to be convincing.
+
+TAG: Olaf_002_f
+Oh, but now we'll need to find someone else to play him. Someone who can capture his...
+
+TAG: Player_000_choice_000_f
+...courage!
+
+TAG: Player_000_choice_001_f
+...pluckiness!
+
+TAG: Player_000_choice_002_f
+...good looks!
+
+TAG: Olaf_003_f
+Courage? Yes! We should get Buzz Lightyear to audition! He's got a lot of courage for someone who's under a foot tall.
+
+TAG: Olaf_004_f
+Great. So I'll go audition Mr. McDuck, Buzz Lightyear, and Anna to play Donald.
+
+TAG: Olaf_005_f
+And I'll take that <ActivityItem>High-Quality Paper</ActivityItem> and <ActivityItem>Purple Ink</ActivityItem> and start writing the scripts!
+
+TAG: Olaf_006_f
+We'll need to audition at least a few people. We should try to find someone who can capture Donald's...
+
+TAG: Olaf_007_f
+Well, no one is as plucky as my friend Anna.
+
+TAG: Olaf_008_f
+Hmmm... Oh, I know! If we want someone who looks like Donald, we should ask his uncle...
+
+TAG: Olaf_009_f
+Scrooge McDuck!
+

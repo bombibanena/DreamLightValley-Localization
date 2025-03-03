@@ -1,0 +1,102 @@
+TAG: Merlin_000_f
+{PlayerName}, you're back! Now tell me, did your Watering Can uncover anything useful?
+
+TAG: Merlin_001_f
+It looks like a long time ago the Forgotten took the Orb from the Pillar.
+
+TAG: Merlin_002_f
+How curious. The Pillars keep Dark Magic at bay.
+
+TAG: Merlin_003_f
+So, perhaps the Forgotten needed to remove it to meddle in more dangerous forms of magic.
+
+TAG: Merlin_004_f
+But Merlin, if the Forgotten was once a part of me... does that mean that I wanted to mess with Dark Magic?
+
+TAG: Player_000_choice_000_f
+I would never mess with Dark Magic.
+
+TAG: Player_000_choice_001_f
+It's the only thing that makes sense.
+
+TAG: Player_000_choice_002_f
+It definitely sounds like something I would do.
+
+TAG: Merlin_005_f
+Perhaps you wouldn't. But the Forgotten â that spark of you, without the wisdom you have now â well, the Forgotten just might.
+
+TAG: Merlin_006_f
+But... that would mean that the blizzard, the Forgetting... Could all of this be my fault?
+
+TAG: Merlin_007_f
+Now, now, the workings of cause and effect are much too complex to assign fault for such phenomena.
+
+TAG: Merlin_008_f
+What matters now is that you're here, trying to fix these problems.
+
+TAG: Merlin_009_f
+And I guess now we're one step closer to doing that.
+
+TAG: Merlin_010_f
+In the memory... it looked like Olaf saw the Forgotten running off with the Orb from the Pillar and followed them to the secret chamber.
+
+TAG: Merlin_011_f
+Then, I suspect the rest of the answers will lie inside that chamber.
+
+TAG: Merlin_012_f
+I'll go <Lore>see if there are any more memories inside the secret chamber</Lore>.
+
+TAG: Merlin_013_f
+Yes well, we all have many potentials in us, {PlayerName}. But it's what we do that matters. The future isn't set. Trust me. I've been there.
+
+TAG: Merlin_014_f
+You've always been quite curious about the potential of magic... for good or for ill. Perhaps the Forgotten shared that curiosity.
+
+TAG: Merlin_015_f
+But wait. That's not all.
+
+TAG: Merlin_016_f
+Merlin, the Forgotten looked just like... like...
+
+TAG: Merlin_017_f
+...me.
+
+TAG: Merlin_018_f
+... Like you?
+
+TAG: Merlin_019_f
+Oh dear. This is very perplexing, {PlayerName}. Let me consider this...
+
+TAG: Merlin_020_f
+... Well, it's possible that the Forgotten is a splinter of yourself that stayed behind when you left the Valley long ago.
+
+TAG: Player_001_choice_000_f
+A splinter of myself...? How?
+
+TAG: Player_001_choice_001_f
+Merlin... is this all my fault?
+
+TAG: Player_001_choice_002_f
+We have to fix this.
+
+TAG: Merlin_021_f
+As we grow up, there are always parts of ourselves that we leave behind, pieces of us that no longer... I suppose you could say... fit.
+
+TAG: Merlin_022_f
+But just because we're finished with a part of ourselves, it doesn't mean that part of ourselves is finished with us.
+
+TAG: Merlin_023_f
+In your case, this may all be manifesting itself a bit more... literally.
+
+TAG: Merlin_024_f
+No, no, {PlayerName}. I assure you, none of this is your fault.
+
+TAG: Merlin_025_f
+Cause and effect is... tricky. The simplest action can lead to unexpected reactions.
+
+TAG: Merlin_026_f
+And here in the Valley, things are especially complicated.
+
+TAG: Merlin_027_f
+Well, I've always known that the key to restoring our Valley lies with you, {PlayerName}.
+

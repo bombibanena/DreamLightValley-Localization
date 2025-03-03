@@ -1,0 +1,348 @@
+TAG: Anna_057_f
+How cunning of you. This is the sort of thinking you will need to outsmart the Mastermind!
+
+TAG: Anna_058_f
+I reach out slowly and take my staff back...
+
+TAG: Anna_000_f
+Oh, {PlayerName}! You're here! Err... I mean...
+
+TAG: Anna_001_f
+How fascinating! Someone approaches the Wizard... (Um, what was that name again? Oh, right!) ... Chockany Gumbottom!
+
+TAG: Anna_002_f
+I'm a wizened old wizard with a very long beard and a pointy hat and tiny little glasses.
+
+TAG: Player_000_choice_000_f
+I want to save the kingdom!
+
+TAG: Player_000_choice_001_f
+How do I stop the Mastermind?
+
+TAG: Player_000_choice_002_f
+Your Merlin impression needs work.
+
+TAG: Anna_059_f
+It's been so long since I had a friend to share frozen treats with me...
+
+TAG: Anna_060_f
+As you rush towards me, I gasp and dive out of the way!
+
+TAG: Anna_061_f
+Stop!
+
+TAG: Anna_062_f
+Only a true Hero or a true daredevil would rush at a powerful wizard like me!
+
+TAG: Player_014_choice_000_f
+Maybe I'm both.
+
+TAG: Player_014_choice_001_f
+So... I win?
+
+TAG: Anna_063_f
+Either way, you are just what the kingdom needs!
+
+TAG: Anna_064_f
+Indeed, you do! You have proven your bravery on this day!
+
+TAG: Anna_065_f
+Wait... what?!
+
+TAG: Anna_066_f
+Uh... the umm... The sugar fairy crunches, and you realize it's not a fairy! Just enchanted rock candy.
+
+TAG: Anna_067_f
+You see through my illusion, and the fairies turn into lumps of rock candy and drop all around us.
+
+TAG: Anna_068_f
+With a twirl of my candy-striped staff, I summon a mighty peppermint wind!
+
+TAG: Player_015_choice_000_f
+I hate peppermint!
+
+TAG: Player_015_choice_001_f
+You won't stop me, Chockany!
+
+TAG: Anna_069_f
+Then surrender!
+
+TAG: Player_016_choice_000_f
+The kingdom is counting on me!
+
+TAG: Player_016_choice_001_f
+I refuse!
+
+TAG: Anna_070_f
+My eyes soften as you brave the peppermint wind with courage and determination.
+
+TAG: Anna_071_f
+With a wave of my candy-striped staff, the wind stops.
+
+TAG: Anna_072_f
+You have proven you will put the kingdom before all else!
+
+TAG: Anna_073_f
+I trudge forward through the freezing peppermint wind. One foot at a time...
+
+TAG: Anna_074_f
+The Futurist! I wonder... can your imaginative powers save us from boredom?
+
+TAG: Anna_075_f
+Oh, a Noble Hero. Could it be that you really were born for a great purpose... to save us from boredom and stop the Mastermind?
+
+TAG: Anna_076_f
+You must <Lore>rescue our Princess and get the keys to the chest where all fun has been locked away!</Lore> But, one thing at a time! *harrumph*
+
+TAG: Anna_077_f
+I told Vanellope I should have a costume beard but she said it "wasn't in her budget"?
+
+TAG: Anna_078_f
+But this is still fun, right? ... Anyway! Ahem!
+
+TAG: Anna_079_f
+Come closer, Hero. Let these old magical eyes have a look at you. Hrm hrm...
+
+TAG: Anna_003_f
+Yes, yes, *harrumph*, so do we all! I myself tried with my... gumball incantations many times with no result.
+
+TAG: Anna_004_f
+Now, let these old and very magical eyes have a look at you...
+
+TAG: Anna_005_f
+A humble Farmer? Could you be the Hero who will save us all from boredom?
+
+TAG: Anna_006_f
+Here's a secret... <Lore>I have the first key,</Lore> but I can only give it to the true Hero!
+
+TAG: Anna_007_f
+And to prove you're a Hero, you must defeat me in a "spellcaster's duel"!
+
+TAG: Anna_008_f
+I raise my candy-striped wizard staff and <Lore>send a rain of stale chocolate cupcakes at you!</Lore>
+
+TAG: Player_001_choice_000_f
+I catch some and throw them back at you!
+
+TAG: Player_001_choice_001_f
+Good, I'm hungry! I eat a cupcake!
+
+TAG: Anna_009_f
+You have impressive reflexes! A cupcake hits me in the shoulder! I'm smeared with buttercream and stagger back.
+
+TAG: Anna_010_f
+As I fall, the ground under your feet starts to soften. I've made it into a hot fudge sink pit!
+
+TAG: Player_002_choice_000_f
+*gasp* Chockany! You're sinking too!
+
+TAG: Player_002_choice_001_f
+I leap to solid ground!
+
+TAG: Player_002_choice_002_f
+Anybody have some ice cream?
+
+TAG: Anna_011_f
+Oh no! My spell was too powerful!
+
+TAG: Player_003_choice_000_f
+Don't worry; I'll save us!
+
+TAG: Player_003_choice_001_f
+Hm. Guess we'll sink together.
+
+TAG: Anna_012_f
+You... would save me?
+
+TAG: Anna_013_f
+I wave my candy-striped staff. We're on solid ground again.
+
+TAG: Anna_014_f
+You have proven yourself to be brave AND selfless. You are the Hero the kingdom needs. Take this.
+
+TAG: Anna_015_f
+The first key is yours!
+
+TAG: Anna_016_f
+My eyes grow wide as we start to sink into the delicious fudge until we're almost up to our necks!
+
+TAG: Anna_017_f
+It will be a chocolate drowning! ... But then!
+
+TAG: Anna_018_f
+My staff starts to glow and WHOOSH! We're on solid ground again. The fudge is gone.
+
+TAG: Player_004_choice_000_f
+Did I win?
+
+TAG: Player_004_choice_001_f
+I didn't even get any fudge!
+
+TAG: Anna_019_f
+You have proved that you are fearless, determined, and immune to fudge! YOU are the Hero the kingdom needs.
+
+TAG: Anna_020_f
+There will be fountains of fudge when you save the kingdom from boredom...
+
+TAG: Anna_021_f
+You won't get rid of me that easily!
+
+TAG: Player_005_choice_000_f
+I charge at you!
+
+TAG: Player_005_choice_001_f
+I summon a hail of rainbow sprinkles!
+
+TAG: Anna_022_f
+Ahh! I'm not used to non-magical confrontation!
+
+TAG: Anna_023_f
+As you rush at me, I throw my candy-striped staff down between us...
+
+TAG: Anna_024_f
+Have mercy on an old wizard!
+
+TAG: Player_006_choice_000_f
+I'll spare you, Chockany.
+
+TAG: Player_006_choice_001_f
+I win the duel!
+
+TAG: Anna_025_f
+You have proven yourself a Hero of mercy and might!
+
+TAG: Anna_026_f
+You have won the first key. You ARE the hero we need.
+
+TAG: Anna_027_f
+Yes, you have proven you're fearless in the face of my magical might!
+
+TAG: Anna_028_f
+Ow! Ow! Pellets of colorful confections hail from the sky!
+
+TAG: Anna_029_f
+*gasp* You can do candy magic?!
+
+TAG: Anna_030_f
+Only the chosen Hero could master candy magic without training...
+
+TAG: Player_007_choice_000_f
+I'm more than I seem.
+
+TAG: Player_007_choice_001_f
+I'm a magic genius!
+
+TAG: Anna_031_f
+Indeed! And you will become much more very soon, Hero...
+
+TAG: Anna_032_f
+Take the first key and save the kingdom with this old wizard's blessing!
+
+TAG: Anna_033_f
+You are! Perhaps once you save the kingdom, we can teach each other more candy magic!
+
+TAG: Anna_034_f
+Did... did you say "ice cream"?
+
+TAG: Player_008_choice_000_f
+I'm hungry, okay?
+
+TAG: Player_008_choice_001_f
+You said I'm sinking in fudge, right?
+
+TAG: Anna_035_f
+Ice cream is my FAVORITE food. My eyes glaze over in a dreamy daze...
+
+TAG: Anna_036_f
+I wave my candy-striped staff...
+
+TAG: Anna_037_f
+WHOOSH! The ground beneath our feet becomes solid again. I approach you...
+
+TAG: Anna_038_f
+Sweet Hero, ice cream is always the answer. You are the one the kingdom needs!
+
+TAG: Anna_039_f
+The first key is yours!
+
+TAG: Anna_040_f
+Yes! And hot fudge and ice cream go perfectly together!
+
+TAG: Anna_041_f
+What is this?! My attack failed?!
+
+TAG: Anna_042_f
+I summon a cloud of sugar fairies to swarm you!
+
+TAG: Player_009_choice_000_f
+I rush you through the fairies!
+
+TAG: Player_009_choice_001_f
+I eat a sugar fairy.
+
+TAG: Anna_043_f
+The sweet fairies sting like sleet as you run at me!
+
+TAG: Anna_044_f
+I raise my candy-striped staff, and the ground transforms to ice under your running feet.
+
+TAG: Anna_045_f
+And it's lingonberry-flavored!
+
+TAG: Player_010_choice_000_f
+I slip on the delicious ice!
+
+TAG: Player_010_choice_001_f
+I transform my footwear into candy cane skates!
+
+TAG: Anna_046_f
+You crash to the lingonberry ice! BAM!
+
+TAG: Player_011_choice_000_f
+I get up slowly...
+
+TAG: Player_011_choice_001_f
+I lick the lingonberry ice rink!
+
+TAG: Anna_047_f
+My eyes grow wide as I watch you rise, fearless and determined.
+
+TAG: Anna_048_f
+Wait! We do not need to duel any longer.
+
+TAG: Anna_049_f
+You have shown me that you are brave and can resist sugar ice! You ARE the Hero we need!
+
+TAG: Anna_050_f
+Wow, this magical ice is so good!
+
+TAG: Anna_051_f
+R-really? No one has complimented my magical lingonberry ice in so long...
+
+TAG: Anna_052_f
+I also kneel and lick a part of the ice!
+
+TAG: Player_012_choice_000_f
+I steal your candy-striped wizard staff!
+
+TAG: Player_012_choice_001_f
+We enjoy the nice moment and lingonberry ice.
+
+TAG: Anna_053_f
+*gasp* No, not my staff!
+
+TAG: Player_013_choice_000_f
+Just kidding! Have it back.
+
+TAG: Player_013_choice_001_f
+I'll trade you for the first key.
+
+TAG: Anna_054_f
+Oh... Oh thank you! My candy-striped staff is also my best friend!
+
+TAG: Anna_055_f
+A Hero is not only brave or smart but also kind. You are certainly all of those things.
+
+TAG: Anna_056_f
+Take the first key, with the regards of this old and wise wizard!
+

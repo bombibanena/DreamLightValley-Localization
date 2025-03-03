@@ -1,0 +1,48 @@
+TAG: Simba_000_f
+Hey, {PlayerName}. Do you have time to help me figure out more about my past here in the Valley?
+
+TAG: Player_000_choice_000_f
+Of course.
+
+TAG: Player_000_choice_001_f
+I'll come back later.
+
+TAG: Simba_004_f
+Thanks. I don't remember much, but I do know it's important to the Valley that I uncover my past.
+
+TAG: Simba_001_f
+I know I had a role here, something I was responsible for â like Nala said.
+
+TAG: Simba_005_f
+I want to figure it out. But I don't know where to start.
+
+TAG: Player_001_f
+We need someone who remembers EVERYTHING about the Village. Someone who was protected from the Forgetting by being trapped in a certain giant skull cave. We need Scar...
+
+TAG: Player_001_choice_000_f
+Don't worry. I'll handle the discussion.
+
+TAG: Player_001_choice_001_f
+I know you don't like dealing with him.
+
+TAG: Player_001_choice_002_f
+I'm sorry, Simba.
+
+TAG: Simba_006_f
+You just stay here. I'll talk to him. I know he's tricky.
+
+TAG: Simba_009_f
+I don't like this.
+
+TAG: Simba_010_f
+But I guess there's no other choice.
+
+TAG: Simba_011_f
+If there's no one else here who knows about my past... then, you're right, you'll have to talk to him.
+
+TAG: Simba_007_f
+That's what my friend Timon would call an understatement.
+
+TAG: Simba_003_f
+Thanks. Maybe if I keep trying, I'll remember more on my own.
+

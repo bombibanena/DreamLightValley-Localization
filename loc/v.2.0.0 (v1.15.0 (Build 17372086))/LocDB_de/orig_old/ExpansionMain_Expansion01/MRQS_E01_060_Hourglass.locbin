@@ -1,0 +1,93 @@
+
+�
+HStory!Expansion01!MRQS_E01_060_Hourglass_Any_CompletedRequestDescription_Поговорите с Джафар на станции <ActivityItem>Hologram</ActivityItem>.
+�
+=Story!Expansion01!MRQS_E01_060_Hourglass_AvailableDescription�Если вы хотите остановить распространение "Тайм Райфтс", вам нужно починить мост, чтобы сделать это, вам понадобится новый Королевский инструмент..."Психо-металлические помехи."Вам придется искать его в Гавани Древних.
+�
+BStory!Expansion01!MRQS_E01_060_Hourglass_CompletedStoryDescription�Вооруженный новым Королевским Инструментом, ты возвращаешься на мостик, чтобы узнать, что тебе нужно сделать дальше.
+p
+4Story!Expansion01!MRQS_E01_060_Hourglass_DisplayName8Летающее металлическое сияние
+�
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group01_Step01_VisitArea01_StepDescription�Обыскать пристань Древних"полетные металлические помехи"чтобы получить королевское часовое стекло.
+�
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group02_Step02_TalkToCharacter01_StepDescriptionNПоговори с ними."Угроза летающему металлу."
+�
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group02_StoryDescription�Ты наткнулся на враждебного робота, может, тебе стоит попробовать поговорить с ней...
+�
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group03_Step03_TalkToCharacter02_StepDescription�Поговорите с Джафар на одной из станций <ActivityItem>Hologram</ActivityItem> вокруг Гавани Древних.
+�
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group04_Step04_VisitArea02_StepDescription?Зайдите в дом ЕВА в Гавани Древних.
+�
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group04_StoryDescription�Вы наткнулись на ЕВА, маленького робота с большой решимостью. Она не собирается передавать "Песочные часы" кому-либо. Джафар предлагает вам обыскать ЕВА House, чтобы найти способ сделать её более дружелюбной с вами.
+�
+PStory!Expansion01!MRQS_E01_060_Hourglass_Group05_Step05_PickUp01_StepDescription{Удалить <ActivityItem>Piles Junk</ActivityItem> внутри ЕВА House, чтобы найти подсказку.
+~
+PStory!Expansion01!MRQS_E01_060_Hourglass_Group06_Step06_Unlock01_StepDescription*Возьми газету на землю.
+�
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group07_Step07_TalkToCharacter03_StepDescription�Возвращайтесь в Джафар на одной из станций <ActivityItem>Hologram</ActivityItem> вокруг земли Древних.
+�
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group07_StoryDescription�Ваш поиск дает память, показывающую ЕВА и кого-то, одетого в костюм Робота, делая то, что выглядит как еда в неизвестном месте. Вы возвращаетесь в Джафар.
+|
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_DressUp01_StepDescription'<ActivityItem>robot Hat</ActivityItem>.
+�
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_DressUp02_StepDescription+<ActivityItem>robot Costume</ActivityItem>.
+�
+GStory!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_StepDescriptionuОдевайтесь, используя предметы, которые вы нашли в скрытой зоне:
+�
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group09_Step09_TalkToCharacter04_StepDescription�Поговорите с ЕВА во время ношения <ActivityItem>robot Hat</ActivityItem> и <ActivityItem>robot Costume</ActivityItem>.
+�
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group09_StoryDescription�После того, как вы нашли костюм, вы возвращаетесь в ЕВА, надеясь развеять её подозрения.
+�
+UStory!Expansion01!MRQS_E01_060_Hourglass_Group10_Step10_Conditional01_StepDescription�(Найдите сломанную половину знака Гуфи в Гавани Древних, затем дополните"Дай мне знак"Поиск.)
+�
+@Story!Expansion01!MRQS_E01_060_Hourglass_Group10_StepDescriptionDОткройте замок Гуфи в Гавани Древних.
+�
+RStory!Expansion01!MRQS_E01_060_Hourglass_Group11_Step11_CookMeal01_StepDescriptionTПриготовить <ActivityItem>Best Fish Forever</ActivityItem> для ЕВА.
+�
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group12_Step12_BringItem01_StepDescriptioneУбедитесь, что <ActivityItem>Best Fish Forever</ActivityItem> в вашем списке.
+m
+HStory!Expansion01!MRQS_E01_060_Hourglass_Group12_Step12_ReadyDescription!Принесите еду ЕВА.
+�
+PStory!Expansion01!MRQS_E01_060_Hourglass_Group13_Step13_Unlock02_StepDescription@Возьмите <ActivityItem>Royal Hourprocess</ActivityItem>.
+�
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group13_StoryDescription�ЕВА больше не видит в вас угрозы, и позволяет вам получить доступ к часовому стеклу.
+�
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group14_Step14_VisitArea03_StepDescription8Возвращайся на сломанный мост.
+�
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group15_Step15_VisitArea04_StepDescriptionOИщите скрытую область, показанную в памяти.
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group17_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+UStory!Expansion01!MRQS_E01_060_Hourglass_Group17_Step17_ConsumeItem01_StepDescriptionhРасследуйте <ActivityItem>Best Fish Forever Recipe</ActivityItem> в вашем списке.
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group18_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+`
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess03_StepDescription{ItemName}.
+�
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess04_StepDescriptiona{ItemName}. (Некоторые белые цветы здесь могут быть тмин...)
+`
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess05_StepDescription{ItemName}.
+`
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess06_StepDescription{ItemName}.
+�
+GStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_StepDescriptionvСоберите следующие вещи из Гавани Древних, чтобы сделать рецепт:
+�
+GStory!Expansion01!MRQS_E01_060_Hourglass_Group19_Step19_StepDescription�Поиск обеих частей <ActivityItem>robot Costume</ActivityItem> в секретной зоне за водопадом.
+}
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group01_OngoingRequestButton4<smallcaps>{title}</smallcaps><br> Что я ищу?
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group04_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group06_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+|
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group09_OngoingRequestButton3{title}</smallcaps><br> Что мне делать?
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group10_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group11_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group12_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group13_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group14_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Куда мне идти?

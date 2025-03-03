@@ -1,0 +1,49 @@
+
+j
+Timon_000_f[Okay, {PlayerName}, to start your hakuna matata lessons, you gotta put your past behind ya!
+?
+Timon_001_f0And *I* came up with the perfect way to do that.
+~
+Timon_002_foKind of a symbolic gesture, if you will... It's time for you to get rid of something that represents your past!
+L
+Timon_003_f=So, let's talk about you... You strike me as the leader type.
+4
+Player_000_choice_000_fI'm definitely in charge!
+1
+Player_000_choice_001_fI wish I was a leader.
+M
+Player_000_choice_002_f2I just like to help. I don't care who's in charge.
+8
+Timon_004_f)I knew it! Okay, we can work with this...
+C
+Timon_005_f4Can ya think of anything that represents leadership?
+:
+Timon_006_f+You mean an object? Well, maybe... a crown?
+
+Timon_007_fGreat!
+
+Timon_008_fWhat's a crown?
+N
+Player_001_choice_000_f3A symbol of royalty, like a mane but made of metal.
+C
+Player_001_choice_001_f(A shiny circle made of metal and jewels.
+X
+Timon_009_fIMetal? Oh, like those tools you use! Hmm... a shiny metal mane? I... Hey!
+l
+Timon_010_f]I think I saw one of those <Lore>in the water around here</Lore>, but I can't remember where.
+[
+Timon_011_fLYou saw a crown in the water? I better <Lore>find it and fish it out</Lore>.
+K
+Timon_012_f<You're also gonna need something to shout your worries into.
+Þ
+Timon_013_fÎI could make a bottle or an <ActivityItem>Empty Vial</ActivityItem>... but I need <ActivityItem>Sand</ActivityItem> and <ActivityItem>Coal</ActivityItem> to make glass. Coal is a black rock that makes fire.
+ý
+Timon_014_fíYou're in luck, 'cause there's <Lore>some sand in the jungle</Lore>. And if this dusty rock is the "coal" you mentioned, it's all yours. Pumbaa and I tried to use it to grind up some bugs, but it turned our delicious bug mash all gritty.
+{
+Timon_015_flHm... I'll definitely <Lore>collect everything I need and head to our Crafting Station in the jungle</Lore>!
+_
+Timon_016_fPMetal? Oh, like those tools you use! Hmm... Metal circle... Metal circle... Hey!
+D
+Timon_017_f5Listen, everyone CAN be a leader! Let's go with that.
+<
+Timon_018_f-And that's just what a good leader would say!

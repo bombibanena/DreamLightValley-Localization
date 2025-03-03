@@ -1,0 +1,57 @@
+TAG: Remy_001_f
+Hey, {PlayerName}! I've got another cooking challenge for you.
+
+TAG: Remy_017_f
+This one's for Donald. And, just a heads-up, he can get cranky if he doesn't get his food in a timely manner.
+
+TAG: Remy_002_f
+Anyway, he ordered <ActivityItem>5-Star Meals</ActivityItem>.
+
+TAG: Remy_003_f
+He didn't say why. Maybe he's having friends over for dinner?
+
+TAG: Remy_004_f
+What do you say? You up to the challenge?
+
+TAG: Player_000_choice_000_f
+Let's do it!
+
+TAG: Player_000_choice_001_f
+Maybe some other time.
+
+TAG: Remy_005_f
+Great! Good luck, {PlayerName}. I know you've got this.
+
+TAG: Remy_006_f
+And remember to come visit me once you're done delivering your order. I'll have some <ActivityItem>Wrought Iron</ActivityItem> waiting for you.
+
+TAG: Remy_007_f
+Hey, no worries. Let me know if you change your mind and decide you want a new culinary challenge.
+
+TAG: Remy_008_f
+Remember: The more daily deliveries you do, the more <ActivityItem>Wrought Iron</ActivityItem> I can order so you can build more great things for the Village.
+
+TAG: Remy_009_f
+He ordered a variety of <ActivityItem>Desserts</ActivityItem>.
+
+TAG: Remy_010_f
+I'm not sure what the occasion is. You'll have to ask him.
+
+TAG: Remy_011_f
+What do you think? It's a great opportunity to diversify your dessert menu.
+
+TAG: Remy_012_f
+He ordered <ActivityItem>Seafood Meals</ActivityItem>.
+
+TAG: Remy_013_f
+A LOT of seafood meals. Maybe it's a sailor thing.
+
+TAG: Remy_014_f
+What do you say? You might need to stock up on supplies from Dazzle Beach.
+
+TAG: Remy_015_f
+{PlayerName}! I've got a special delivery order for you. And this one's going to be tough.
+
+TAG: Remy_016_f
+{PlayerName}! Are you ready to make another special delivery for Chez Remy Mobile?
+

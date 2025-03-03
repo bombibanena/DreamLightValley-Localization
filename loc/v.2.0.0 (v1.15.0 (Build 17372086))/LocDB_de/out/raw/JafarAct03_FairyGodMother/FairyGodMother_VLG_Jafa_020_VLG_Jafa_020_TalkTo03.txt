@@ -1,0 +1,99 @@
+TAG: FairyGodMother_001_f
+Fairy Godmother, do you possibly have a moment to give me a hand with something?
+
+TAG: FairyGodMother_005_f
+Why of course, my dear!
+
+TAG: FairyGodMother_006_f
+Perfect! Jafar and I were hoping to get a bit of help with an alchemical project that we're undertaking.
+
+TAG: FairyGodMother_007_f
+Jafar? Oh my. Isn't he rather... villainous?
+
+TAG: Player_001_choice_000_f
+He's turned over a new leaf!
+
+TAG: Player_001_choice_001_f
+Trust me; I'm watching him, like a hawk.
+
+TAG: FairyGodMother_008_f
+Well, that's certainly good news.
+
+TAG: FairyGodMother_010_f
+Now, how can I help?
+
+TAG: FairyGodMother_000_f
+I'm trying to get a hold of the various Essences around here â can you share any info that might help?
+
+TAG: FairyGodMother_026_f
+Why, I'd be delighted. I'm certainly no alchemist, but I know a little of the magic here! Shall I first explain the difference between Major and Minor Essences?
+
+TAG: Player_000_choice_000_f
+Please do!
+
+TAG: Player_000_choice_001_f
+I'm good; it's been explained already.
+
+TAG: FairyGodMother_027_f
+Well, a Major Essence is a combination of Minor Essences. And three Minor Essences combine to make a Major one!
+
+TAG: FairyGodMother_016_f
+Oh, do you know which ones I might need to help out with the alchemy?
+
+TAG: FairyGodMother_024_f
+I suppose you'll need the <ActivityItem>Major Essence of Wishes</ActivityItem>, though I've never been able to extract that myself.
+
+TAG: FairyGodMother_025_f
+But if you're as clever as I know you to be, you might have better luck. I do believe that one component of the <ActivityItem>Major Essence of Wishes</ActivityItem> is the <ActivityItem>Minor Essence of Fantasy</ActivityItem>.
+
+TAG: FairyGodMother_017_f
+If you can find an object filled with wish magic, you should be able to extract the <ActivityItem>Minor Essence of Fantasy</ActivityItem> from it.
+
+TAG: FairyGodMother_018_f
+Oh! I recently saw a charmed book flitting about <Lore>Ancient's Landing</Lore>. If you can catch it, I'm sure you can do the extraction without a bit of trouble!
+
+TAG: FairyGodMother_019_f
+Oh that's perfect â just what I need. Thanks!
+
+TAG: FairyGodMother_004_f
+I almost forgot! {PlayerName}, has anyone told you about the <ActivityItem>Emotive Essences</ActivityItem>?
+
+TAG: FairyGodMother_021_f
+Oh, no â what are those?
+
+TAG: FairyGodMother_022_f
+Well, they're rather elusive Essences. You see, they can't be refined from any item or resource. You must perform actions to call them forth from Dreamlight itself.
+
+TAG: FairyGodMother_002_f
+The <ActivityItem>Essence of Benevolence</ActivityItem> and the <ActivityItem>Essence of Wisdom</ActivityItem> are the most common, but there could be more.
+
+TAG: FairyGodMother_023_f
+Oh cool â thanks for the info!
+
+TAG: FairyGodMother_020_f
+I'm always happy to help, my dear!
+
+TAG: FairyGodMother_003_f
+Now, why don't you take this? It might be useful to reference it later.
+
+TAG: FairyGodMother_028_f
+Wonderful!
+
+TAG: FairyGodMother_011_f
+Well, we tried to turn Iron into Gold but didn't get much of a result.
+
+TAG: FairyGodMother_012_f
+Do you know of any alchemical Ingredients to improve a reaction?
+
+TAG: FairyGodMother_013_f
+I'm afraid alchemy is not my specialty, dear. Have you tried to find any of the Essences?
+
+TAG: FairyGodMother_014_f
+No, I haven't! What are those?
+
+TAG: FairyGodMother_015_f
+Oh, they are part of the very heart of Dreamlight Valley! You might consider them the shared feelings that make our time here so pleasant.
+
+TAG: FairyGodMother_009_f
+Oh, well, if you have your eye on the situation, then I'm sure all will turn out just fine.
+

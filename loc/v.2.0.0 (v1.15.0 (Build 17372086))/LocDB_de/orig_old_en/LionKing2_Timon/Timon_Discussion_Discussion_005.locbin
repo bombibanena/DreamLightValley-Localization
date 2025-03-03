@@ -1,0 +1,35 @@
+
+7
+Timon_000_f(No, no, no! We gotta put a stop to that!
+3
+Timon_001_f$Wait — what are you worried about?
+&
+Player_000_choice_000_fThe Valley.
+&
+Player_000_choice_001_fThe future.
+;
+Player_000_choice_002_f Just kind of worried in general.
+(
+Timon_002_fOkay. Here's what you do.
+D
+Timon_003_f5You get a bunch of bugs. Or whatever you like to eat.
+O
+Timon_004_f@You go to an oasis. Or maybe get a gourd of water? Either works.
+0
+Timon_005_f!Then, you hang out with a friend.
+=
+Player_001_choice_000_f"Hanging with a friend sounds nice.
+@
+Player_001_choice_001_f%When I'm worried, I like to be alone.
+?
+Timon_006_f0So then you invite that friend to the oasis too!
+E
+Timon_007_f6You eat the bugs, drink the water, and you just relax.
+/
+Timon_008_f Trust me, it works like a charm.
+W
+Timon_009_fHSo you go be by yourself! Curl up by the oasis, maybe under a cozy leaf.
+E
+Timon_010_f6You eat the bugs, drink the water, and you just relax.
+.
+Timon_011_fGo easy on yourself, okay, kid?

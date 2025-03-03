@@ -1,0 +1,30 @@
+TAG: Jasmine_001_f
+Finally! We've made it. This is the <Lore>Artisans' District</Lore>.
+
+TAG: Player_000_choice_000_f
+It looks a little worse for wear.
+
+TAG: Player_000_choice_001_f
+Is there a metalworker nearby?
+
+TAG: Player_000_choice_002_f
+What will we do here?
+
+TAG: Jasmine_004_f
+You're right. I suppose being so close to the Windcaller, it was especially affected by the sandstorms.
+
+TAG: Jasmine_005_f
+I wanted to come here because the artisans in Agrabah make special tools to work the extremely hard stone found in the area.
+
+TAG: Jasmine_006_f
+We should be able to find ingots of a substance called <ActivityItem>Artisans' Alloy</ActivityItem> that's far harder and more durable than regular metals.
+
+TAG: Jasmine_007_f
+That's great! If I find enough of that, I bet I can <Lore>upgrade my Royal Pickaxe</Lore> so it'll break down the sandstone barriers! Then, we'll really have a shot at finding Aladdin!
+
+TAG: Jasmine_000_f
+Wonderful! Don't forget to <Lore>check chests in the area</Lore> â the alloy is a valuable metal so would have been placed somewhere secure for safekeeping.
+
+TAG: Jasmine_009_f
+I'm afraid he's at the palace with everyone else.
+

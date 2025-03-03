@@ -1,0 +1,39 @@
+
+Q
+Stitch_000_fAI hear you and Donald have been having some... misunderstandings.
+\
+Stitch_001_fLNo misunderstanding. Stitch do prank, Donald go "WAAAAKKKK!" Ha-ha-ha-ha-ha!
+*
+Stitch_002_fDonald is my funny friend.
+[
+Player_000_fKFriends? You're pranking Donald because you think it's funny when he's mad?
+H
+Player_000_choice_000_f-Some people don't like to be pranked, Stitch.
+O
+Player_000_choice_001_f4Donald gets mad easily enough without being pranked.
+5
+Player_000_choice_002_fHeh. That is pretty funny.
+R
+Stitch_003_fBDonald's getting really upset. You have to respect his boundaries.
+<
+Stitch_008_f,... Oh. You want me to stop pranking Donald?
+3
+Stitch_004_f#Is Stitch's badness level too high?
+C
+Player_001_choice_000_f(Don't worry. We'll get it under control.
+L
+Player_001_choice_001_f1Of course not. You're just a little rambunctious.
+P
+Player_001_choice_002_f5I'm afraid we're reaching critical levels of badness.
+/
+Stitch_009_fStitch will do better. Promise.
+H
+Stitch_011_f8Why don't we start by replacing those signs you drew on?
+ô
+Stitch_012_fãI'll teach you to repair stuff. Let's go <Lore>fix Donald's signs</Lore>. We'll need to find <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Softwood</ActivityItem>, and those <ActivityItem>Vandalized Signs</ActivityItem>.
+3
+Stitch_005_f#Let's not make the situation worse.
+:
+Stitch_006_f*Yeah, {PlayerName} knows funny. It's good.
+o
+Stitch_007_f_But I think we've had enough fun around here for a little while. Donald's getting really upset.

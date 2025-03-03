@@ -1,0 +1,21 @@
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Any_CompletedRequestDescription
+Поговори с Микки Маус.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_AvailableDescription
+Микки Маус кажется взволнованным тем, что он обнаружил на острове Вечность.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_DisplayName
+Игра в покои
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Микки Маус.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group01_StepDescription
+Микки Маус хочет тебе кое-что показать.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group02_Step02_StepDescription
+(Скажи Микки Маус и выбери Scramblecoin из меню диалога для игры!)
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group02_StepDescription
+Выиграй игру "Scramblecoin" против Микки Маус.
+

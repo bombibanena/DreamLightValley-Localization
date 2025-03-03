@@ -1,0 +1,29 @@
+
+9
+Scrooge_003_f(Ah, {PlayerName}. What can I do for you?
+6
+Scrooge_004_f%I have a business proposal for you...
+è
+Scrooge_005_f~How exciting! "Business proposal" is one of my favorite two-word phrases, right up there with "tax free" and "roasted haggis."
+X
+Player_000_fHWould you consider adding Minnie and Daisy's fashion line to your store?
+)
+Player_000_choice_000_fPretty please?
+@
+Player_000_choice_001_f%I think it could be a great addition.
+?
+Player_000_choice_002_f$Or are you too afraid to take risks?
+V
+Scrooge_006_fEI appreciate ya askin' nicely, but this isn't how I conduct business.
+i
+Scrooge_009_fXI need to see something concrete before I even THINK about adding something to my wares!
+U
+Scrooge_007_fDHmm... And how do you figure that? Have you seen any of their wares?
+
+Scrooge_010_fNot... yet?
+Ö
+Scrooge_011_ftFirst rule of business, {PlayerName}: Never invest in something without thoroughly inspecting a sample or prototype.
+1
+Scrooge_008_f Afraid to take risks? Me? Never!
+~
+Scrooge_012_fmBut I must see something concrete before I make any decisions. Come back with a proof of concept or a sample.

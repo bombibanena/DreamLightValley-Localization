@@ -1,0 +1,81 @@
+
+�
+NVillage!Cinderella!FairyGodMother!VLG_Fair_040_Any_CompletedRequestDescription.Поговори с Крёстной Феей.
+�
+CVillage!Cinderella!FairyGodMother!VLG_Fair_040_AvailableDescription�Фея-крестная чувствует себя очень уставшей в последнее время, и ей нужна помощь, чтобы пережить свой день.
+�
+HVillage!Cinderella!FairyGodMother!VLG_Fair_040_CompletedStoryDescription�После вечеринки, Крёстная Фея привезет тебя в забытые земли, где ты обнаружишь, что проект, над которым она работала, превратился в карету.
+]
+:Village!Cinderella!FairyGodMother!VLG_Fair_040_DisplayNameВолшебный момент
+r
+MVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group01_Step01_StepDescription!Поговори с Мерлин.
+q
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group02_Step02_Possess01_StepDescriptionПовар {itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group02_Step02_Possess02_StepDescription{itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group02_Step02_Possess03_StepDescription{itemName}.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_040_Group02_Step03_TalkToCharacter02_StepDescription!Поговори с Урсула.
+�
+FVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group02_StepDescription7Соберите следующие материалы:
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group02_StoryDescription�Мерлин также беспокоится о Крёстной Фее, и вы решили сделать что-то для нее.
+�
+FVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group03_StepDescriptionJПодготовить упаковку <ActivityItem>Care</ActivityItem>.
+�
+YVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group04_Step05_BringItem01_StepDescriptionkУбедитесь, что у вас в списке есть пакет <ActivityItem>Care</ActivityItem>.
+�
+NVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group04_Step05_ReadyDescription[Принеси посылку <ActivityItem>Care</ActivityItem> к крестной фее.
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group04_StoryDescription�Фея-крестная тронут пакетом услуг по уходу, но еще более эмоционален в перспективе вечеринки в ее честь.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_040_Group05_Step06_TalkToCharacter03_StepDescription7Поговори с Мерлин о вечеринке.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group06_Step07_Possess04_StepDescription{itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group06_Step07_Possess05_StepDescription{itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group06_Step07_Possess06_StepDescription{itemName}.
+�
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group06_Step07_Possess07_StepDescription,<ActivityItem>Yellow Daisies</ActivityItem>.
+u
+MVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group06_Step07_StepDescription$Соберите материалы:
+
+YVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group07_Step08_CraftItem02_StepDescription"Подготовьте {itemName}.
+�
+WVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group08_Step09_DressUp01_StepDescriptionWНадень какую-нибудь одежду <ActivityItem>Elegant</ActivityItem>.
+�
+XVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group08_Step10_Decorate01_StepDescriptionOПоместите <ActivityItem>Fairytale Gazebo</ActivityItem> на пляж.
+�
+UVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group09_Step11_Party01_StepDescriptionOОтпразднуйте "Крёстную фею" с деревенскими.
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group09_StoryDescriptionGВсе готовы отпраздновать Крёстную Фею.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_040_Group10_Step12_TalkToCharacter04_StepDescription.Поговори с Крёстной Феей.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_040_Group11_Step13_FollowCharacter01_StepDescriptionSСледуйте за Крёстной Феей в правильном месте.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_040_Group12_Step14_FollowCharacter02_StepDescriptionMСледуйте за Крёстной Феей в забытые земли.
+�
+aVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group12_Step14_FollowCharacter02_TalkToDescription.Поговори с Крёстной Феей.
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group02_OngoingRequestButtonk<smallcaps>{title}</smallcaps><br>I имеет для вас обновленную информацию...
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group03_OngoingRequestButtonF<smallcaps>{title}</smallcaps><br>I у вас есть новости!
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group04_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br>Quick обновления для вас!
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group05_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group06_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br>Quick обновления для вас!
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group07_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br>Quick обновления для вас!
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group08_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br>Quick обновления для вас!
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_040_Group09_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+r
+AVillage!Cinderella!FairyGodMother!VLG_Fair_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

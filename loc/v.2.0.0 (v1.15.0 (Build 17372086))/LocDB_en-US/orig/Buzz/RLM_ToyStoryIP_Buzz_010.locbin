@@ -1,0 +1,73 @@
+
+k
+KRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Any_CompletedRequestDescriptionTalk to Buzz in the Village.
+±
+@Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_AvailableDescriptionmYou enter a strange new world where everything little is large. Are there any signs of intelligent life here?
+ƒ
+ERealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_CompletedStoryDescription¹You've brought Buzz to the Village to look for materials... but maybe now that he's seen the place and his memories have started to come back, he'll decide to stay here a little longer.
+^
+7Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_DisplayName#A Secret Mission in Uncharted Space
+w
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group01_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>Hello...?
+|
+\Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group01_Step01_TalkToCharacter01_StepDescriptionExplore the Toy Story Realm.
+y
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group02_OngoingRequestButton-<smallcaps>{title}</smallcaps><br>Um... Buzz?
+˜
+VRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group02_Step02_BringItem01_StepDescription>Search the room for <ActivityItem>AA Batteries</ActivityItem>.
+k
+KRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group02_Step02_ReadyDescriptionBring the batteries to Buzz.
+û
+DRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group02_StoryDescription²You meet Buzz Lightyear, stranded on this strange world. But Buzz's fuel cells are dying, causing all his features to go on the fritz. You'll need to replace them to talk to him.
+…
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group03_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+¨
+VRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group03_Step03_BringItem02_StepDescriptionNSearch the room for pieces of the <ActivityItem>Race Car Track</ActivityItem>.
+©
+KRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group03_Step03_ReadyDescriptionZBring the <ActivityItem>Race Car Tracks</ActivityItem> to Buzz so he can repair the track.
+„
+DRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group03_StoryDescription»Once Buzz's batteries are restored, you discover there's an even bigger problem: Sheriff Woody has been knocked out the window! You'll need to execute a daring rescue mission to save him.
+„
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group04_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What should I do next?
+ 
+CRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group04_StepDescriptionYGather the <ActivityItem>Magic Growing Cactuses</ActivityItem> scattered around the room.
+w
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group05_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+¬
+CRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group05_StepDescriptionePlace the <ActivityItem>Magic Growing Cactuses</ActivityItem> under the race car tracks on the floor.
+z
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group06_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+³
+WRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group06_Step06_MakeGarden01_StepDescriptionXWater the <ActivityItem>Magic Growing Cactuses</ActivityItem> under the race car tracks.
+m
+\Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group07_Step07_TalkToCharacter02_StepDescriptionTalk to Buzz.
+…
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group08_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+Š
+VRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group08_Step08_VisitArea01_StepDescription0Go to the ladder near the toy oven on the floor.
+…
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group09_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+~
+\Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group09_Step09_TalkToCharacter03_StepDescriptionTalk to Woody near the window.
+Y
+CRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group09_StepDescriptionWoody has arrived!
+m
+\Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group10_Step10_TalkToCharacter04_StepDescriptionTalk to Buzz.
+ª
+DRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group10_StoryDescriptionbOnce Woody is rescued, you discover that he and Buzz were working on a special project for Bonnie.
+Á
+CRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group11_StepDescriptionzSearch the room and take pictures of <Lore>Bonnie's Drawings</Lore> on colored construction paper with gold stars on them.
+t
+\Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group12_Step12_TalkToCharacter05_StepDescriptionReport back to Buzz.
+…
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group13_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+ƒ
+ZRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group13_Step13_PlaceBuilding01_StepDescription%Place Buzz's RV in Dreamlight Valley.
+…
+DRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group13_StoryDescription¼To recreate Bonnie's farm exactly how she imagined it, you'll need some materials from the Village. You volunteer to set up a command center so Buzz can do some recon in Dreamlight Valley.
+…
+HRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group14_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+œ
+SRealm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group14_Step14_Unlock01_StepDescriptionEUse the Scrooge McDuck Sign to pay for the construction of Buzz's RV.
+¥
+\Realm!ToyStory!Buzz!RLM_ToyStoryIP_Buzz_010_Group15_Step15_UnlockCharacter01_StepDescriptionEUse the Scrooge McDuck Sign to pay for the construction of Buzz's RV.

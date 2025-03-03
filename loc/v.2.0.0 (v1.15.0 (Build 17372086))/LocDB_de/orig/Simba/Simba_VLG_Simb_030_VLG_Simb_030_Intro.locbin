@@ -1,0 +1,34 @@
+
+o
+Simba_000_f`Hey, {PlayerName}. Do you have time to help me figure out more about my past here in the Valley?
+%
+Player_000_choice_000_f
+Of course.
+0
+Player_000_choice_001_fI'll come back later.
+p
+Simba_004_faThanks. I don't remember much, but I do know it's important to the Valley that I uncover my past.
+\
+Simba_001_fMI know I had a role here, something I was responsible for â€” like Nala said.
+H
+Simba_005_f9I want to figure it out. But I don't know where to start.
+º
+Player_001_f©We need someone who remembers EVERYTHING about the Village. Someone who was protected from the Forgetting by being trapped in a certain giant skull cave. We need Scar...
+C
+Player_001_choice_000_f(Don't worry. I'll handle the discussion.
+B
+Player_001_choice_001_f'I know you don't like dealing with him.
+,
+Player_001_choice_002_fI'm sorry, Simba.
+H
+Simba_006_f9You just stay here. I'll talk to him. I know he's tricky.
+!
+Simba_009_fI don't like this.
+3
+Simba_010_f$But I guess there's no other choice.
+u
+Simba_011_ffIf there's no one else here who knows about my past... then, you're right, you'll have to talk to him.
+H
+Simba_007_f9That's what my friend Timon would call an understatement.
+L
+Simba_003_f=Thanks. Maybe if I keep trying, I'll remember more on my own.

@@ -1,0 +1,77 @@
+
+|
+@Village!Frozen!Anna!VLG_Anna_010_Any_CompletedRequestDescription8Расскажи Анна хорошие новости.
+�
+5Village!Frozen!Anna!VLG_Anna_010_AvailableDescriptionTАнна имеет идею привезти Эльза в долину Мечты.
+�
+:Village!Frozen!Anna!VLG_Anna_010_CompletedStoryDescription�Вы заинтриговали Эльза фотографией Ледяного каверна, она начинает планировать приехать в долину Мечты, где она снова воссоединится со своей сестрой.
+U
+,Village!Frozen!Anna!VLG_Anna_010_DisplayName%Ледяное приглашение
+X
+=Village!Frozen!Anna!VLG_Anna_010_Group01_OngoingRequestButtonКуда мы едем?
+�
+QVillage!Frozen!Anna!VLG_Anna_010_Group01_Step01_FollowCharacter01_StepDescription?Следуйте Анна к мосту в лесу Вэлор.
+i
+=Village!Frozen!Anna!VLG_Anna_010_Group02_OngoingRequestButton(Что нам теперь делать?
+�
+QVillage!Frozen!Anna!VLG_Anna_010_Group02_Step02_TalkToCharacter01_StepDescription\Поговори с Анна о том, что застряло на мосту в лесу.
+�
+9Village!Frozen!Anna!VLG_Anna_010_Group02_StoryDescription�Анна говорит вам, что она думает, что нашла способ заставить Эльза приехать в Виллидж.
+V
+=Village!Frozen!Anna!VLG_Anna_010_Group03_OngoingRequestButtonЧто мы ищем?
+�
+KVillage!Frozen!Anna!VLG_Anna_010_Group03_Step03_BringItem01_StepDescription@Ищите правильную книгу в доме Анна.
+g
+@Village!Frozen!Anna!VLG_Anna_010_Group03_Step03_ReadyDescription#Принеси книгу Анна.
+Z
+=Village!Frozen!Anna!VLG_Anna_010_Group04_OngoingRequestButtonЧто мне нужно?
+X
+IVillage!Frozen!Anna!VLG_Anna_010_Group04_Step04_Possess01_StepDescription{itemName}.
+X
+IVillage!Frozen!Anna!VLG_Anna_010_Group04_Step04_Possess02_StepDescription{itemName}.
+X
+IVillage!Frozen!Anna!VLG_Anna_010_Group04_Step04_Possess03_StepDescription{itemName}.
+�
+?Village!Frozen!Anna!VLG_Anna_010_Group04_Step04_StepDescriptioniСоберите материалы, чтобы усовершенствовать свой Шовель:
+i
+=Village!Frozen!Anna!VLG_Anna_010_Group05_OngoingRequestButton(Что нам теперь делать?
+�
+KVillage!Frozen!Anna!VLG_Anna_010_Group05_Step05_CraftItem01_StepDescriptionIПриготовьте {itemName} на станцию крафтинга.
+\
+=Village!Frozen!Anna!VLG_Anna_010_Group06_OngoingRequestButtonЧто мне делать?
+�
+MVillage!Frozen!Anna!VLG_Anna_010_Group06_Step06_ConsumeItem01_StepDescription\Используйте <ActivityItem>Shovel Blade</ActivityItem> в вашем списке.
+g
+=Village!Frozen!Anna!VLG_Anna_010_Group07_OngoingRequestButton&Куда мне идти дальше?
+�
+OVillage!Frozen!Anna!VLG_Anna_010_Group07_Step07_RemoveBlocker01_StepDescription~Уберите деревянные столбы, блокирующие деревянный мост в лесу Вэлор.
+U
+=Village!Frozen!Anna!VLG_Anna_010_Group08_OngoingRequestButtonЧто дальше?
+�
+QVillage!Frozen!Anna!VLG_Anna_010_Group08_Step08_TalkToCharacter02_StepDescription[Поговорите с Анна, чтобы сказать ей, что мост чист.
+X
+=Village!Frozen!Anna!VLG_Anna_010_Group09_OngoingRequestButtonКуда мы едем?
+�
+QVillage!Frozen!Anna!VLG_Anna_010_Group09_Step09_FollowCharacter02_StepDescription9Посетите ледяную пещеру с Анна.
+�
+SVillage!Frozen!Anna!VLG_Anna_010_Group09_Step09_FollowCharacter02_TalkToDescription<Поговори с Анна о ледяной пещере.
+\
+=Village!Frozen!Anna!VLG_Anna_010_Group10_OngoingRequestButtonЧто мне делать?
+�
+MVillage!Frozen!Anna!VLG_Anna_010_Group10_Step10_TakePicture01_StepDescription7Сфотографируй ледяное пещеру.
+�
+9Village!Frozen!Anna!VLG_Anna_010_Group10_StoryDescription�Вы обнаруживаете таинственные ледяные пещеры, которые Анна просто знает Эльза с удовольствием.
+c
+=Village!Frozen!Anna!VLG_Anna_010_Group11_OngoingRequestButton"Что я могу сделать?
+�
+QVillage!Frozen!Anna!VLG_Anna_010_Group11_Step11_TalkToCharacter03_StepDescription+Покажите картинку Анна.
+n
+=Village!Frozen!Anna!VLG_Anna_010_Group12_OngoingRequestButton-Что мне делать с письмом?
+�
+KVillage!Frozen!Anna!VLG_Anna_010_Group12_Step12_BringItem02_StepDescription`Убедись, что у тебя в рюкзаке есть буква <ActivityItem>Анна.
+�
+@Village!Frozen!Anna!VLG_Anna_010_Group12_Step12_ReadyDescriptionmПринесите букву <ActivityItem>Анна </ActivityItem> Эльза в <Lore>Frozen Realm</Lore>.
+�
+9Village!Frozen!Anna!VLG_Anna_010_Group12_StoryDescription�Вы и Анна придумали план доставить приглашение Эльза, которое она не сможет устоять.
+Q
+3Village!Frozen!Anna!VLG_Anna_010_StartRequestButtonЧто случилось?

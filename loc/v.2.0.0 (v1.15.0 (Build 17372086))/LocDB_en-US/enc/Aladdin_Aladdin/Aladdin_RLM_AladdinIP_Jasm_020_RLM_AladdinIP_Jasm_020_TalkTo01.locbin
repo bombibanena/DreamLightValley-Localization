@@ -1,0 +1,33 @@
+
+5
+Aladdin_002_f$Hey! How'd the talk with Jasmine go?
+ü
+Aladdin_003_fçShe's hard at work translating the <ActivityItem>Ancient Tome</ActivityItem>, but she thought you could help me gather some stuff we'll need.
+*
+Aladdin_004_fSure! What's on the list?
+p
+Aladdin_005_f_Well, we have to get an <ActivityItem>Alchemy Table</ActivityItem> set up for further crafting.
+s
+Aladdin_006_fbAnd the table in the Artisans' District has definitely seen better days. Guess we're fixing it up!
+#
+Player_001_choice_000_fExactly!
+=
+Player_001_choice_001_f"... Are you secretly an alchemist?
+@
+Player_001_choice_002_f%How do you know about Alchemy Tables?
+,
+Aladdin_007_fWow, this brings me back...
+©
+Aladdin_010_fóI remember when the <Lore>Artisans' District</Lore> was really thriving. Every morning, there'd be plumes of colorful smoke and the strangest smells...
+ä
+Aladdin_014_fyIf we're gonna repair the table, we'll need to <Lore>find a Cauldron, a Crucible, and a base for an Alchemy Table</Lore>.
+}
+Aladdin_000_flAnd you'd better <Lore>keep that Protection Amulet on, in case some of the stuff's in the sandstorms</Lore>.
+ï
+Aladdin_001_fÉGiven how strong those winds are, I wouldn't be surprised if some of the pieces <Lore>ended up outside the walls of Agrabah</Lore>.
+î
+Aladdin_015_fÇGuess we'd better get to work! I may have some questions for you later, so let's meet back in the <Lore>Artisans' District</Lore>.
+2
+Aladdin_008_f!Nah. I just kinda like the place.
+R
+Aladdin_009_fAWhen you grow up on the street, you learn to keep your eyes open.

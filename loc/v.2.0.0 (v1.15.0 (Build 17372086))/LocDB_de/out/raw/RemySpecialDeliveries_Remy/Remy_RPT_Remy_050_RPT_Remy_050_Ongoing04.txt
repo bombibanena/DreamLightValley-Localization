@@ -1,0 +1,15 @@
+TAG: Remy_001_f
+Have you been able to help the Fairy Godmother yet?
+
+TAG: Remy_002_f
+She's throwing a pumpkin party. <ActivityItem>Pumpkin Puffs</ActivityItem> and <ActivityItem>Pumpkin Soup</ActivityItem> ought to feed everyone.
+
+TAG: Remy_003_f
+Oh! It looks like you've already cooked everything. Now you just have to deliver it.
+
+TAG: Remy_005_f
+She ordered some dreamy meals â <ActivityItem>Dream Fizz</ActivityItem> and <ActivityItem>Dream Ice Cream</ActivityItem>.
+
+TAG: Remy_006_f
+She wanted some <ActivityItem>Desserts</ActivityItem>. Maybe she's finally treating herself to something nice...?
+

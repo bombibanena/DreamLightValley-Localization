@@ -1,0 +1,31 @@
+
+t
+8Village!Mickey!Scrooge!VLG_Scro_080_AvailableDescription8Scrooge McDuck thinks he knows how to find the treasure.
+{
+@Village!Mickey!Scrooge!VLG_Scro_080_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What do I need to do?
+¥
+LVillage!Mickey!Scrooge!VLG_Scro_080_Group01_Step01_DressUp01_StepDescriptionUPut on the <ActivityItem>Lenses of Shadows</ActivityItem> to search for the treasure.
+u
+CVillage!Mickey!Scrooge!VLG_Scro_080_Group02_Step02_ReadyDescription.Bring the key and the chest to Scrooge McDuck.
+`
+BVillage!Mickey!Scrooge!VLG_Scro_080_Group02_Step02_StepDescriptionGather the missing pieces:
+s
+@Village!Mickey!Scrooge!VLG_Scro_080_Group03_OngoingRequestButton/<smallcaps>{title}</smallcaps><br>What is next?
+z
+NVillage!Mickey!Scrooge!VLG_Scro_080_Group04_Step04_CraftItem01_StepDescription(Repair the key at your Crafting Station.
+{
+@Village!Mickey!Scrooge!VLG_Scro_080_Group05_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What do I need to do?
+€
+LVillage!Mickey!Scrooge!VLG_Scro_080_Group05_Step05_Possess01_StepDescription0Gather <ActivityItem>Gold Ingots</ActivityItem>.
+~
+LVillage!Mickey!Scrooge!VLG_Scro_080_Group06_Step06_Possess03_StepDescription.Focus your magic on the map in your Inventory.
+©
+KVillage!Mickey!Scrooge!VLG_Scro_080_Group07_Step07_Unlock01_StepDescriptionZThe map turned into a <ActivityItem>Memory</ActivityItem>. Discover what secrets it holds.
+v
+NVillage!Mickey!Scrooge!VLG_Scro_080_Group09_Step08_BringItem05_StepDescription$Collect the map from Scrooge McDuck.
+_
+CVillage!Mickey!Scrooge!VLG_Scro_080_Group09_Step08_ReadyDescriptionBring the map to Merlin.
+‡
+TVillage!Mickey!Scrooge!VLG_Scro_080_Group10_Step09_TalkToCharacter01_StepDescription/Ask Scrooge McDuck about the Lenses of Shadows.
+g
+6Village!Mickey!Scrooge!VLG_Scro_080_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

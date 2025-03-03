@@ -1,0 +1,59 @@
+
+|
+KStory!Expansion01!MRQS_E01_080_DesertScarab_Any_CompletedRequestDescription-Проверьте Гастон и"ЛеФу."
+�
+@Story!Expansion01!MRQS_E01_080_DesertScarab_AvailableDescriptiontДжафар упомянул, что кто-то из "Блестящих Дюн" может помочь тебе.
+�
+EStory!Expansion01!MRQS_E01_080_DesertScarab_CompletedStoryDescription�Загадка Кокосового Лефу была раскрыта и найдена пропавшая часть Шрамab... но как Гастон справляется с этим открытием?
+V
+7Story!Expansion01!MRQS_E01_080_DesertScarab_DisplayNameСтранник Дюнов
+�
+VStory!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem01_StepDescription6Зелёный Спики-Лизерный завод?
+�
+VStory!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem02_StepDescription.Мягкая штука вроде Паука?
+�
+VStory!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_BringItem03_StepDescription-Сладкие коричневые Вещи?
+�
+KStory!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_ReadyDescriptionIПринесите Гастон еды, которую он просил.
+�
+JStory!Expansion01!MRQS_E01_080_DesertScarab_Group01_Step01_StepDescription�Гастон явно обезвожен. Найдите то, что он ищет вокруг <ActivityItem>Glittering Dunes</ActivityItem>:
+�
+DStory!Expansion01!MRQS_E01_080_DesertScarab_Group01_StoryDescription�Джафар послал вас найти Гастон в пустыне, но когда вы прибыли, он был в ловушке, голодал и обезвожен!
+�
+\Story!Expansion01!MRQS_E01_080_DesertScarab_Group02_Step02_FollowCharacter01_StepDescription<Следуйте за Гастон до его лагеря.
+�
+^Story!Expansion01!MRQS_E01_080_DesertScarab_Group02_Step02_FollowCharacter01_TalkToDescription!Поговори с Гастон.
+�
+JStory!Expansion01!MRQS_E01_080_DesertScarab_Group03_Step03_StepDescription�Посмотрите вокруг лагеря <ActivityItem>clues</ActivityItem> на местонахождение ключа от хранилища.
+g
+VStory!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem04_StepDescriptionКраска.
+c
+VStory!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem05_StepDescription	Клей.
+x
+VStory!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_BringItem06_StepDescriptionКокосовые орехи.
+�
+KStory!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_ReadyDescription6Покажите Гастон, что вы нашли.
+�
+JStory!Expansion01!MRQS_E01_080_DesertScarab_Group04_Step04_StepDescription@Убедитесь, что ваш список включает:
+�
+SStory!Expansion01!MRQS_E01_080_DesertScarab_Group05_Step05_Unlock01_StepDescription�(Поищите Mist со своим часовым стеклом или зайдите в меню DreamLight и проследите ваш новый <Lore>Mist Debligations</Lore> нажав {input_mainmenu}.)
+�
+CStory!Expansion01!MRQS_E01_080_DesertScarab_Group05_StepDescriptionGОтключить доступ к <ActivityItem>Wastes</ActivityItem>.
+�
+DStory!Expansion01!MRQS_E01_080_DesertScarab_Group05_StoryDescription�Обыскивая столицу Гастонia, вы смогли найти то, что выглядит как набор предметов искусства и ремесел!
+�
+\Story!Expansion01!MRQS_E01_080_DesertScarab_Group06_Step06_FollowCharacter02_StepDescriptionjВстретимся с Гастон на его <ActivityItem>Shipwreck</ActivityItem> в Отходах.
+�
+^Story!Expansion01!MRQS_E01_080_DesertScarab_Group06_Step06_FollowCharacter02_TalkToDescription!Поговори с Гастон.
+�
+VStory!Expansion01!MRQS_E01_080_DesertScarab_Group07_Step07_BringItem07_StepDescription�Ищите ключ от хранилища в <Lore>Wastes</Lore>', возможно, он упал в плавучий песок.
+�
+KStory!Expansion01!MRQS_E01_080_DesertScarab_Group07_Step07_ReadyDescriptionPСпросите Гастон о вашем тревожном открытии.
+�
+TStory!Expansion01!MRQS_E01_080_DesertScarab_Group08_Step08_Possess04_StepDescription�Поиск <ActivityItem>Desert Шрамab Piece</ActivityItem> в равнинах с помощью часового стекла.
+�
+DStory!Expansion01!MRQS_E01_080_DesertScarab_Group08_StoryDescription�Ваш поиск ключа от хранилища обнаружил только LeFou, сделанного из кокосов Гастон должно быть довольно одиноко. Шрамab все еще отсутствует и должно быть где-то в Дюне...
+�
+\Story!Expansion01!MRQS_E01_080_DesertScarab_Group09_Step09_TalkToCharacter01_StepDescriptionJПоговори с Джафар на станции Голограммы.
+P
+>Story!Expansion01!MRQS_E01_080_DesertScarab_StartRequestButtonПРОСЬБА

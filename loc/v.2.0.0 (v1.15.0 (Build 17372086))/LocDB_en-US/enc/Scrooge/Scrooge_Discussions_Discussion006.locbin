@@ -1,0 +1,39 @@
+
+ö
+Scrooge_000_fàAye. Specifically, I consider myself an adventure-capitalist. I made much of my fortune searching for treasure, and investing it wisely.
+\
+Scrooge_001_fKDo you have some questions about money? I'd be happy to answer 'em for you.
+3
+Player_000_choice_000_fHow did you get so rich?
+?
+Player_000_choice_001_f$Why do you care so much about money?
+>
+Player_000_choice_002_f#How do I make as much money as you?
+{
+Scrooge_002_fjBy being smarter than the smarties and tougher than the toughies! I'm not like some folks, born to riches.
+X
+Scrooge_005_fGI was born to a poor family in Scotland and earned every dime I've got!
+ï
+Scrooge_007_fÉNot like some who got where they are by cheating, and taking advantage of folks. And the more money they have, the more they cheat.
+/
+Player_000_choice_003_fHow do we stop them?
+4
+Player_000_choice_004_fWhy aren't you like that?
+/
+Player_000_choice_005_fCheating sounds fun.
+ü
+Scrooge_008_fçOch, that's a hard question. Money's a powerful thing. You've got to have rules about how money can be spent, and how workers can be treated.
+}
+Scrooge_011_flBut those that get rich by cheating will spend to keep cheating. So you've always gotta keep your eyes open.
+q
+Scrooge_009_f`Aye, well... I've done some things I'm not proud of. But I like to think I've learned my lesson.
+â
+Scrooge_012_fxI suppose it's my family, and the good folks I've worked with. I wouldn't want to do anything to change how they see me.
+ä
+Scrooge_010_fyWhat?! Cheaters are nothing but no-good, spineless, rotten apples! Trust me: Nothing worthwhile ever comes from cheating.
+†
+Scrooge_003_féAye, that's a fair question. And I'll answer it true. I was born to a poor family in Scotland. I know what it means to not have what you need.
+4
+Scrooge_006_f#So, I know the real value of money.
+•
+Scrooge_004_fìWell, you have to work hard and be clever and stubborn, too. And it doesn't hurt to be lucky. But most importantly, you have to treat folks fairly.

@@ -1,0 +1,33 @@
+
+�
+;Premium!LilMermaid!Ursula!PRM_Ursu_040_AvailableDescription�Урсула нуждается в вашей помощи. Она заключила кое-какие сделки, но у нее есть некоторые проблемы с тем, что ей причитается. Она просит вас начать с Гуфи.
+g
+2Premium!LilMermaid!Ursula!PRM_Ursu_040_DisplayName1Сделка дня: "Снято с крючка"
+x
+WPremium!LilMermaid!Ursula!PRM_Ursu_040_Group01_Step01_TalkToCharacter01_StepDescriptionПоговори с Гуфи.
+{
+QPremium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_BringItem01_StepDescription&<ActivityItem>Hardwood</ActivityItem>.
+�
+QPremium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_BringItem02_StepDescription2<ActivityItem>Tinkering части</ActivityItem>.
+~
+FPremium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_ReadyDescription4Принесите материалы на Гуфи.
+
+EPremium!LilMermaid!Ursula!PRM_Ursu_040_Group02_Step02_StepDescription6Собирайте материалы для Гуфи:
+�
+?Premium!LilMermaid!Ursula!PRM_Ursu_040_Group02_StoryDescription�Гуфи объясняет вам, почему он не смог принести Урсула водорослей и водорослей, которые обещал ей.
+{
+QPremium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_BringItem03_StepDescription&<ActivityItem> Seaweed</ActivityItem>.
+|
+QPremium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_BringItem04_StepDescription'<ActivityItem>Red Algae</ActivityItem>.
+�
+FPremium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_ReadyDescriptionsПриведите <ActivityItem> Seaweed</ActivityItem> и <ActivityItem>Red Algae</ActivityItem> в Урсула.
+}
+EPremium!LilMermaid!Ursula!PRM_Ursu_040_Group03_Step03_StepDescription4Соберите для Гуфи следующее:
+�
+?Premium!LilMermaid!Ursula!PRM_Ursu_040_Group03_StoryDescription�После этого вы решили получить половину водорослей и водорослей, которые он обещал Урсула, и принести их морской ведьме от его имени.
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_040_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_040_Group03_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+j
+9Premium!LilMermaid!Ursula!PRM_Ursu_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

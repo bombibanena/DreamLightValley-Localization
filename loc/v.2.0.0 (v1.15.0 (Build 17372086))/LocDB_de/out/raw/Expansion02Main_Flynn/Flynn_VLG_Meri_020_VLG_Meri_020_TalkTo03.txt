@@ -1,0 +1,60 @@
+TAG: Flynn_000_f
+Oh, hey, {PlayerName}! Just who I was hoping to see.
+
+TAG: Flynn_001_f
+I was wondering if maybe you could help me smooth something over with someone.
+
+TAG: Flynn_002_f
+I was trying to be helpful. You know, share some of the skills I've learned along the way. But Merida... Well, let's just say, that's not how she saw it.
+
+TAG: Player_000_choice_000_f
+Merida's a world-class archer. She doesn't need your advice.
+
+TAG: Player_000_choice_001_f
+It came from a good place, but it was a bit thoughtless.
+
+TAG: Player_000_choice_002_f
+You shouldn't have assumed, and she could have handled it better.
+
+TAG: Flynn_006_f
+I know that now! But I didn't when I tried to help her. Still, it was wrong of me to assume.
+
+TAG: Flynn_003_f
+But Merida didn't just yell at me.
+
+TAG: Flynn_004_f
+She found my collection of wanted posters and tacked them up all around my House.
+
+TAG: Flynn_005_f
+She knows how much it bothers me that none of them get my nose right. Now I have to see them all, every time I leave my House!
+
+TAG: Player_001_choice_000_f
+Serves you right.
+
+TAG: Player_001_choice_001_f
+Merida would never!
+
+TAG: Player_001_choice_002_f
+That wasn't cool of her.
+
+TAG: Flynn_010_f
+Go ahead. Laugh it up. I promise I've learned my lesson. So...
+
+TAG: Flynn_013_f
+If you see any of those posters around my House, could you <Lore>help me take them down</Lore>?
+
+TAG: Flynn_014_f
+And hey, if you see Merida again... tell her I'm sorry. I never meant to offend her. And next time, I'll keep my advice to myself.
+
+TAG: Flynn_011_f
+Oh, she would. Go take a look for yourself.
+
+TAG: Flynn_012_f
+THANK you! Though I have to give her credit; it was a pretty good prank.
+
+TAG: Flynn_007_f
+I get that now.
+
+TAG: Flynn_008_f
+You don't know the half of it.
+

@@ -1,0 +1,6 @@
+TAG: Jafar_000_f
+Yes! {PlayerName}, we are close! Have you the three <ActivityItem>Major Essences</ActivityItem>?
+
+TAG: Jafar_001_f
+Just put them down for a sec. I'll grab them and then we can move on to the next stage of the process!
+

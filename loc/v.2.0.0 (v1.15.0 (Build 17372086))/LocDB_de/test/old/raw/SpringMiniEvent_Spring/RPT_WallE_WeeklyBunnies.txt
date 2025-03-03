@@ -1,0 +1,24 @@
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Any_CompletedRequestDescription
+Поговори с ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_AvailableDescription
+Поймайте их и верните на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_DisplayName
+Кролики в бегах
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_StepDescription
+Поймать кроликов, бегающих в Плазе.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать сегодня?
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_StepDescription
+Принесите сбежавших банни на ВАЛЛ·И.
+
+TAG: Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Weekly Quest
+

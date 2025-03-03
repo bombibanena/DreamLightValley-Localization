@@ -1,0 +1,129 @@
+TAG: Ursula_000_f
+Oh, it's you, angelfish. And I see you brought that squeaky little creature along...
+
+TAG: Ursula_001_f
+What can I do for you?
+
+TAG: Player_000_choice_000_f
+I'm here to BATTLE YOU!
+
+TAG: Player_000_choice_001_f
+Do you know what a boss battle is?
+
+TAG: Player_000_choice_002_f
+This was Vanellope's idea.
+
+TAG: Ursula_002_f
+Battle me? Oh, that's delicious! As though little old you could ever hope to best me.
+
+TAG: Player_001_choice_000_f
+I know your weak spot!
+
+TAG: Player_001_choice_001_f
+Show me what you've got!
+
+TAG: Player_001_choice_002_f
+It's just pretend!
+
+TAG: Ursula_003_f
+As soon as you raise your tentacles, you're done, villain!
+
+TAG: Ursula_004_f
+If I raise my tentacles, you and your sweet little sidekick will be new residents of my garden. So, my advice to you...
+
+TAG: Ursula_005_f
+Scram!
+
+TAG: Ursula_006_f
+Now you're starting to annoy me. Enough of this foolishness!
+
+TAG: Ursula_007_f
+Get out of here before I add you and your little sidekick to my garden!
+
+TAG: Ursula_008_f
+You came here to... play a game with me? Don't you know how busy I am?!
+
+TAG: Ursula_009_f
+Well... I know twelve spells using squid ink, the magical properties of sea urchin spines, but that? No.
+
+TAG: Ursula_010_f
+It's a part in a game when you have a big fight.
+
+TAG: Ursula_011_f
+And you came here to battle me? Because I'm the boss... Well, I'm almost flattered.
+
+TAG: Player_002_choice_000_f
+So... want to battle?
+
+TAG: Player_002_choice_001_f
+It seemed like a thing a villain might like...
+
+TAG: Player_002_choice_002_f
+EN GARDE!
+
+TAG: Ursula_012_f
+Absolutely not. I'm actually fond of you angelfish, and if you crossed me, well...
+
+TAG: Ursula_013_f
+I'd feel so betrayed...
+
+TAG: Ursula_014_f
+I'd have to add you and your sweet little sidekick to my garden.
+
+TAG: Ursula_015_f
+Now... Scram!
+
+TAG: Ursula_016_f
+Oh, I see. You think I have nothing better to do than be YOUR villain?
+
+TAG: Ursula_017_f
+You should go before I turn you and your sticky little sidekick into new residents of my garden.
+
+TAG: Ursula_018_f
+Bad. Choice.
+
+TAG: Ursula_019_f
+This has been a waste of my valuable time, so I'll make you a deal...
+
+TAG: Ursula_020_f
+You leave, and I won't put you in my garden or feed your friend to my eels.
+
+TAG: Ursula_021_f
+She wanted me to battle you. We thought you might like it...?
+
+TAG: Ursula_022_f
+Only a child could think it was a good idea to waste my time like this.
+
+TAG: Player_003_choice_000_f
+So... no boss battle?
+
+TAG: Player_003_choice_001_f
+We thought you'd have fun.
+
+TAG: Player_003_choice_002_f
+Why are you like this?
+
+TAG: Ursula_023_f
+Afraid not, angelfish. As much as I love a good farce, I'm a busy woman.
+
+TAG: Ursula_024_f
+I suggest you leave before your sidekick breaks something she can't fix and joins my garden to pay off the debt.
+
+TAG: Ursula_025_f
+FUN? HA! That's precious...
+
+TAG: Ursula_026_f
+If you want to have fun, come back when you have real business for me.
+
+TAG: Ursula_027_f
+Like what, dear?
+
+TAG: Ursula_028_f
+Impatient with people showing up to battle me for their amusement? Interrupting my work? Disturbing my concentration?
+
+TAG: Ursula_029_f
+Whyever would such a thing bother me?
+
+TAG: Ursula_030_f
+Grr... You'd best be gone before I decide to feed your little sidekick to my eels.
+

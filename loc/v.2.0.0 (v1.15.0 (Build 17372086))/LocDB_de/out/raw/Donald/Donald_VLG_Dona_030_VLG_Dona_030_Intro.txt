@@ -1,0 +1,21 @@
+TAG: Donald_000_f
+Hey, I've been asking around the Village about that <ActivityItem>Time Capsule</ActivityItem> we found. Do you have time to help?
+
+TAG: Player_000_choice_002_f
+Of course! What did you learn?
+
+TAG: Player_000_choice_003_f
+Maybe later.
+
+TAG: Donald_001_f
+We couldn't open it because Merlin enchanted it!
+
+TAG: Donald_002_f
+I gave it to him, and he's gonna try to remember how to open it.
+
+TAG: Donald_003_f
+I'll go talk to Merlin and see if he's figured it out.
+
+TAG: Donald_006_f
+Fine. But come back soon. {PlayerName}. This is serious!
+

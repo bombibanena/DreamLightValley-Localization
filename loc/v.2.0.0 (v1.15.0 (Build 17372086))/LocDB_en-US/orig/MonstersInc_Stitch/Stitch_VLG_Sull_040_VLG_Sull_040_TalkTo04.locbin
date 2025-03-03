@@ -1,0 +1,33 @@
+
+(
+Stitch_001_fOoga-tabah! Stitch lost!
+&
+Stitch_002_f{PlayerName} lost too?
+-
+Player_000_choice_000_fYes... Completely.
+,
+Player_000_choice_001_fOnly momentarily.
+*
+Player_000_choice_002_fI'm never lost.
+B
+Stitch_004_f2Oh... Maybe Stitch and {PlayerName} work together.
+c
+Stitch_007_fSStitch found clue... "Underground, there's a babbling pool; quick, cast your hook."
+J
+Stitch_008_f:Maybe Stitch's friend Donald help Stitch and {PlayerName}.
+:
+Stitch_009_f*I asked Donald to participate. He said no.
+6
+Stitch_011_f&Oh, next time Stitch will ask him too.
+Q
+Stitch_013_fAI'll look around for the <ActivityItem>Fifth Clue</ActivityItem>.
+
+Stitch_014_fOkitaka!
+K
+Stitch_010_f;Maybe I should have asked Donald to participate in the end.
+.
+Stitch_012_fHmm... Next time! Now WE play.
+;
+Stitch_005_f+Can {PlayerName} help Stitch when not lost?
+<
+Stitch_006_f,Can {PlayerName} help Stitch since not lost?

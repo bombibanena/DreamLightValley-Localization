@@ -1,0 +1,6 @@
+TAG: Buzz_000_f
+To build a <ActivityItem>Space Ranger Ship</ActivityItem>, you'll need to gather materials.
+
+TAG: Buzz_001_f
+Some <ActivityItem>Glass</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, and <ActivityItem>Iron Ingots</ActivityItem>.
+

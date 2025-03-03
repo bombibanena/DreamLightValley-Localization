@@ -1,0 +1,69 @@
+TAG: Belle_000_f
+You know, {PlayerName}, I've been thinking I might want to try something new.
+
+TAG: Player_000_choice_000_f
+Time for an adventure!
+
+TAG: Player_000_choice_001_f
+No longer into books?
+
+TAG: Player_000_choice_002_f
+Maybe talk to Moana? She's the adventurous sort!
+
+TAG: Belle_001_f
+That would be wonderful! I love visiting new places, experiencing new things and meeting new people!
+
+TAG: Belle_002_f
+You're in luck. There are new people coming here all the time!
+
+TAG: Belle_003_f
+At least, if I manage to help them out!
+
+TAG: Belle_004_f
+Well, I know you helped me, so I'm sure you've done the same for others.
+
+TAG: Belle_005_f
+Thank you, {PlayerName}. The Village would be far less interesting without you here to look out for everyone.
+
+TAG: Player_001_choice_000_f
+Just doing my best!
+
+TAG: Player_001_choice_001_f
+It's a solemn responsibility.
+
+TAG: Player_001_choice_002_f
+... I'm looking out for people?
+
+TAG: Belle_006_f
+And your best is marvelous!
+
+TAG: Belle_007_f
+I appreciate that you take it so seriously.
+
+TAG: Belle_008_f
+But you mustn't forget to have fun now and then too!
+
+TAG: Belle_009_f
+Of course you are. You've done so much for everyone here.
+
+TAG: Belle_010_f
+You're a very respected leader.
+
+TAG: Belle_011_f
+No, it's not that at all!
+
+TAG: Belle_012_f
+It's just that sometimes I get inspired by what I read and want to experience it for myself.
+
+TAG: Belle_013_f
+Then you should go for it!
+
+TAG: Belle_014_f
+Is she? Oh, I can't wait to talk to her!
+
+TAG: Belle_015_f
+Does she like books too?
+
+TAG: Belle_016_f
+I know she likes stories.
+

@@ -1,0 +1,36 @@
+TAG: Daisy_000_f
+I'm actually brainstorming my next article.
+
+TAG: Daisy_001_f
+What do you think it should be about?
+
+TAG: Player_000_choice_000_f
+The dangers of the Night Thorns.
+
+TAG: Player_000_choice_001_f
+A cultural piece on the Villagers.
+
+TAG: Player_000_choice_002_f
+An informative article about our history.
+
+TAG: Daisy_002_f
+That's a fabulous idea! I could make it a public service announcement.
+
+TAG: Daisy_003_f
+Information about the Thorns... Plus, how to avoid them â or how to get rid of them! Although I guess you're the only one who can do that, {PlayerName}.
+
+TAG: Daisy_004_f
+That might be fun. We certainly have a lot of fascinating citizens here! Now where do I start...?
+
+TAG: Daisy_005_f
+That could be tricky, since we've forgotten a lot of it.
+
+TAG: Daisy_006_f
+Do you think we all remember enough to fill an article?
+
+TAG: Daisy_007_f
+It could be a repeating column â whenever someone remembers their history they could share it with you.
+
+TAG: Daisy_008_f
+What a fantastic idea! I'll get right on it!
+

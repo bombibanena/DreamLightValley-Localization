@@ -1,0 +1,73 @@
+
+†
+
+Anna_000_fxHi, {PlayerName}! Let me guess... You're going on a big adventure? Ooh, are you planning a feast? ... A chocolate feast?
+<
+Player_000_choice_000_f!I need you to remember something.
+E
+Player_000_choice_001_f*What do you remember about your past here?
+6
+Player_000_choice_002_fI need you to think hard...
+I
+
+Anna_001_f;Great! But I'm gonna need you to be a little more specific.
+V
+
+Anna_022_fHYes, we'll definitely do that! It's just... there's one small problem...
+J
+
+Anna_026_f<I remember it's in my House... but I don't remember where...
+1
+Player_008_choice_000_fThe Crests make music.
+Y
+Player_008_choice_001_f>You said only someone you can trust should be able to find it.
+.
+Player_008_choice_002_fIt's cold like ice.
+:
+
+Anna_027_f,Your sister was trying to protect something.
+/
+
+Anna_034_f!It had to do with the Ice Cavern.
+m
+
+Anna_038_f_Merlin helped Elsa hide all these weird <ActivityItem>Crests</ActivityItem> around the Village.
+?
+
+Anna_014_f1Yes! I remember now. She asked Merlin for help...
+:
+
+Anna_039_f,And they gave me some strange magic thing...
+d
+
+Anna_016_fVElsa wanted me to hide it where only someone we could really trust would ever find it.
+%
+
+Anna_017_fSo I hid it in my home.
+%
+
+Anna_040_fGreat! Let's go get it!
+Z
+
+Anna_012_fLMusic... hmm... Wait! I did hear some odd music in my House the other day...
+S
+
+Anna_041_fEBut the even odder thing is, I only heard it every hour, on the hour.
+÷
+
+Anna_033_fèSo, I hid the thing you're looking for in something that's been <Lore>in my family for a long time</Lore>, that's <Lore>in the dining room</Lore> and that's been <ActivityItem>making odd music every hour, on the hour.</ActivityItem>
+.
+
+Anna_032_f I hope that helps, {PlayerName}!
+–
+
+Anna_035_f‡Right. Our friends are like family to us, so I must have picked something a friend would know has been in our family for a long time...
+|
+
+Anna_036_fnWell, the dining room has been a lot chillier than I remember, but I can't find where the cold is coming from.
+S
+
+Anna_002_fEJust bits and pieces, really. Not the whole picture, that's for sure.
+;
+
+Anna_003_f-Wow, this sounds important. Okay. Focusing...

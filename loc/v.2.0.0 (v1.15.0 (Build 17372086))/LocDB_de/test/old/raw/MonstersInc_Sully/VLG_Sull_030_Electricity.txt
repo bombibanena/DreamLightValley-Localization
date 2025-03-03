@@ -1,0 +1,126 @@
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Any_CompletedRequestDescription
+Поговори с Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_AvailableDescription
+Салли хочет преподавать Ваниллопа о чудесах электричества. Он просит вас помочь сделать Lemon Clock в качестве учебного материала.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_CompletedStoryDescription
+Ваниллопа, кажется, насладился классом, но удовлетворен ли результат Салли? Есть только один способ узнать.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_DisplayName
+Сила знаний
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group01_Step01_Possess01_StepDescription
+<ActivityItem>Lemons</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group01_Step01_Possess02_StepDescription
+<ActivityItem>Iron Ingots</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group01_Step01_StepDescription
+Соберите материалы:
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group02_Step02_CraftItem01_StepDescription
+Пересаживайте на станцию крафтинга <ActivityItem>Lemon Clock</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group03_Step03_BringItem01_StepDescription
+Убедитесь, что <ActivityItem>Lemon Clock</ActivityItem> в вашем списке.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group03_Step03_ReadyDescription
+Возьмите <ActivityItem>Lemon Clock</ActivityItem> на Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group04_Step04_Listen01_StepDescription
+Слушайте Салли и Ваниллопа.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group04_StoryDescription
+Лемон Час в руке, Салли отправляется к Ваниллопа, чтобы объяснить ей секреты энергии и электричества.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group05_Step05_TalkToCharacter01_StepDescription
+Поговори с Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group05_StoryDescription
+Его первая попытка научить Ваниллопа о электричестве прошла не очень хорошо.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group06_Step06_VisitArea01_StepDescription
+Идите в монстры, инк.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group07_Step07_Possess03_StepDescription
+Найти игру <ActivityItem>Frightcade</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group08_Step08_BringItem02_StepDescription
+Убедитесь, что игра <ActivityItem>Frightcade</ActivityItem> в вашем списке.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group08_Step08_ReadyDescription
+Приведите игру <ActivityItem>Frightcade</ActivityItem> в Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group09_Step09_Possess04_StepDescription
+<ActivityItem>Gold Ingots</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group09_Step09_Possess05_StepDescription
+<ActivityItem>Purificed Night Shards</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group09_Step09_Possess06_StepDescription
+<ActivityItem>Frightcade Game</ActivityItem>.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group09_Step09_StepDescription
+Соберите материалы:
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group09_StoryDescription
+Осознав, что энергосистема Frightcade должна быть модернизирована до Dreamlight Magic, вы решили сделать это.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group10_Step10_CraftItem02_StepDescription
+<ActivityItem>Dreamlight Magic Arcade Game</ActivityItem> на ремесленной станции.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group11_Step11_BringItem03_StepDescription
+Убедитесь, что <ActivityItem>Dreamlight Magic Arcade Game</ActivityItem> в вашем списке.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group11_Step11_ReadyDescription
+Приведите <ActivityItem>Dreamlight Magic Arcade Game</ActivityItem> на Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group12_Step12_Decorate01_StepDescription
+Поместите <ActivityItem>Dreamlight Magic Arcade Game</ActivityItem> где угодно в Долине.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group12_StoryDescription
+Как только игра в аркады будет исправлена, Салли говорит вам, что он хочет, чтобы вы поместили её туда, где вы хотите в Долине.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group13_Step13_Interaction01_StepDescription
+Подключите команду <ActivityItem>Dreamlight Magic Arcade Game</ActivityItem> взаимодействуя с ней.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group14_Step14_TalkToCharacter02_StepDescription
+Возвращайтесь на Салли.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group15_Step15_Listen02_StepDescription
+Слушайте Салли и Ваниллопа.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group15_StoryDescription
+С новой игрой Dreamlight Magic Arcade, все готово для второй попытки Салли преподавать Ваниллопа о энергии и электричестве.
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!MonsterInc!Sully!VLG_Sull_030_Electricity_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

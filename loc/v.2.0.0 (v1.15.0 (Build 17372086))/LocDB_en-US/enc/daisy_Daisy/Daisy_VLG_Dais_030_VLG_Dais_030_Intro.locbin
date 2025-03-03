@@ -1,0 +1,43 @@
+
+f
+Daisy_000_fW{PlayerName}, I have a fabulous idea for the Valley that I just have to tell you about!
+(
+Player_000_choice_001_fI'm all ears.
++
+Player_000_choice_002_fSome other time.
+a
+Daisy_002_fRHooray! Okay, by now, you know that I like to keep busy and tackle new challenges.
++
+Daisy_004_fWell, I have a new-old idea.
+
+Daisy_005_f"Ask Daisy."
+8
+Player_001_choice_000_fNew-old idea? Explain please.
+*
+Player_001_choice_001_fAsk Daisy what?
+O
+Player_001_choice_002_f4Speaking about yourself in the third person? Really?
+
+Daisy_007_fpBefore the Forgetting, we had a Village newspaper: the Dreamlight Gazette. It had news, lifestyle, editorials...
+Z
+Daisy_001_fKI loved it all, but my favorite section was the advice column: "Ask Daisy."
+ê
+Daisy_010_fÄI want to bring back the Gazette and "Ask Daisy" √¢¬Ä¬î that's where you come in. Everyone knows you run things around here now.
+5
+Player_002_choice_000_fThis just in: I'm excited!
+-
+Player_002_choice_001_fWhere do we start?
+-
+Player_002_choice_002_fDo you ever relax?
+]
+Daisy_014_fNHa-ha-ha-ha! I knew I could count on you, {PlayerName}. We're kindred spirits.
+ï
+Daisy_012_fÖFirst things first: Could you build us an <ActivityItem>Advice Box</ActivityItem> so the Villagers can write in with their questions?
+!
+Daisy_013_fSo glad you asked!
+g
+Daisy_015_fXOf course! I schedule it every day in my very packed and very purple day planner. Now...
+,
+Daisy_008_fHold on. I'm getting there...
+9
+Daisy_003_f*All right, but I promise this is exciting!

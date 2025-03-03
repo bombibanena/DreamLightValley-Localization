@@ -1,0 +1,69 @@
+TAG: MotherGothel_000_f
+Oh! I didn't recognize you. You look positively dreadful...
+
+TAG: MotherGothel_001_f
+Ha! I'm only teasing, dear! Now, tell me what you need.
+
+TAG: Player_000_choice_000_f
+I need information about the curse.
+
+TAG: Player_000_choice_001_f
+Just wanted the pleasure of your company.
+
+TAG: Player_000_choice_002_f
+Would you help the Village?
+
+TAG: MotherGothel_002_f
+Well, I might be able to help... for a favor. Without Rapunzel's magic, I'm not as spry as I should be. You wouldn't leave a poor woman in distress, would you?
+
+TAG: Player_001_choice_000_f
+Helping you is the right thing to do.
+
+TAG: Player_001_choice_001_f
+The information better be worth it!
+
+TAG: MotherGothel_003_f
+Oh, your parents would be so proud. Now, bring me some food, and I'll give you a bit of information.
+
+TAG: MotherGothel_009_f
+Simple enough, yes? But not just any food.
+
+TAG: MotherGothel_010_f
+The other day, I saw someone at the Restaurant in the Village eating a scrumptious-looking dish.
+
+TAG: MotherGothel_011_f
+Fish rolled up in rice. Quite a clever idea, really.
+
+TAG: Player_000_choice_003_f
+It's called a <ActivityItem>Sushi</ActivityItem> roll.
+
+TAG: Player_000_choice_004_f
+Must've been a kind of <ActivityItem>Sushi</ActivityItem> roll.
+
+TAG: MotherGothel_012_f
+Oh, I like that! I wonder... is the <ActivityItem>Lobster Roll</ActivityItem> the little rat made me called sushi too?
+
+TAG: MotherGothel_013_f
+Actually, I'd love another one of those as well!
+
+TAG: MotherGothel_015_f
+Now, if I remember correctly, the <ActivityItem>Lobster Roll</ActivityItem> was made from <ActivityItem>Lobster</ActivityItem>, <ActivityItem>Wheat</ActivityItem>, <ActivityItem>Lemon</ActivityItem>, <ActivityItem>Butter</ActivityItem>, and <ActivityItem>Garlic</ActivityItem>.
+
+TAG: MotherGothel_014_f
+Be a dear and bring me <ActivityItem>Sushi</ActivityItem> and a <ActivityItem>Lobster Roll</ActivityItem>. Oh, and make sure they're fresh. I despise anything but the freshest fish.
+
+TAG: MotherGothel_004_f
+I promise you, it is. Now, bring me some food, and I'll give you a bit of information.
+
+TAG: MotherGothel_005_f
+Did no one teach you not to lie? I know you're conspiring with the Sea Witch. She wants information about the curse, doesn't she?
+
+TAG: MotherGothel_007_f
+Well, I want something too. Get it for me and I'll tell you all you need to know.
+
+TAG: MotherGothel_006_f
+Don't you mean help the Sea Witch? I know she's curious about the curse, and I heard she's fond of deals. Let's make one for ourselves.
+
+TAG: MotherGothel_008_f
+Bring me what I want, and I'll tell you everything I know.
+

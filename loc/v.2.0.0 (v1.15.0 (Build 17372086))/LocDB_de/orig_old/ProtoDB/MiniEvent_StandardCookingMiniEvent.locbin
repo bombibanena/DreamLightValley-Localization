@@ -1,0 +1,29 @@
+
+`
+DescriptionQ{Placeholder}Cook 5 еды для каждого типа ингредиента.
+Q
+Description_000>{Placeholder}Cook 5 еды, содержащие фрукты.
+O
+Description_001<{Placeholder}Cook 5 еды, содержащие овощи.
+Q
+Description_002>{Placeholder}Cook 5 еды, содержащие специи.
+M
+Description_003:{Placeholder}Cook 5 еды, содержащие Sea Food.
+M
+Description_004:{Placeholder}Cook 5 еды, содержащие рыбу.
+O
+Description_005<{Placeholder}Cook 5 еды, содержащие зерно.
+4
+Name,{Placeholder}Cooking мини-событие
+3
+Name_000'{Placeholder}Fruits это хорошо
+5
+Name_001){Placeholder}Vegetable - здоровые
+1
+Name_002%{Placeholder}Spics островаты
+3
+Name_003'{Placeholder} Seafood — свежая.
+/
+Name_004#{Placeholder}Fishs чокнутые
+K
+Name_005?{Placeholder}Grains являются обязательными

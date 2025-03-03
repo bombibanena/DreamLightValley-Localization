@@ -1,0 +1,39 @@
+TAG: Oswald_000_f
+OK Oswald, what did you bring?
+
+TAG: Oswald_001_f
+Not to toot my own horn, but I've got some LOVELY gems for EVE to give WALLÂ·E.
+
+TAG: Oswald_002_f
+Gems, huh? Oh-hoo-hoo! Have I got you beat, {PlayerName}.
+
+TAG: Oswald_003_f
+Really now! What did you get?
+
+TAG: Oswald_004_f
+Coal!
+
+TAG: Player_000_choice_000_f
+... Coal?
+
+TAG: Player_000_choice_001_f
+Wow, I'm so scared of losing...
+
+TAG: Oswald_005_f
+WALLÂ·E's a compactor, ain't he?
+
+TAG: Oswald_006_f
+This way he can make his own diamonds!
+
+TAG: Oswald_007_f
+Uhh, not sure he can compact things that tightly.
+
+TAG: Oswald_010_f
+Well, let's hand off our stuff to EVE and she can judge the winner!
+
+TAG: Oswald_008_f
+Ah, don't worry, {PlayerName}. We can still be chums after you lose.
+
+TAG: Oswald_009_f
+How... gracious of you.
+

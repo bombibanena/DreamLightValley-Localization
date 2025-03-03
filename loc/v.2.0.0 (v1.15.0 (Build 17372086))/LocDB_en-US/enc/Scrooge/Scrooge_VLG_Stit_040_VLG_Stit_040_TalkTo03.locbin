@@ -1,0 +1,39 @@
+
+{
+Scrooge_005_fjMr. McDuck, Stitch is starting a band. We were thinking you might be able to loan us some sound equipment.
+c
+Scrooge_006_fRLoan ya equipment? Och, I cannae just be loaning a thing like that out to anybody.
+~
+Scrooge_008_fmWhy, from what I've heard, that wee blue lad would bring it back to me in bits, if he brought it back at all.
+<
+Player_000_choice_000_f!Music will help keep Stitch busy.
+P
+Player_000_choice_001_f5A vibrant music scene would help the Village economy.
+G
+Player_000_choice_002_f,We could give you a cut of our ticket sales.
+d
+Scrooge_009_fSAye, it would be good to channel young Stitch's energies into something productive.
+…
+Scrooge_017_ftCome back to me once you've made the <ActivityItem>Photo Backdrop</ActivityItem>, and I'll tell you what to do next.
+e
+Scrooge_018_fTOch, look at me. Getting into another business. I hope this is a profitable concern.
+›
+Scrooge_012_f‰I'll dig out some sound equipment for ya, {PlayerName}. But first, I'll give ya some advice to help ya make this is a profitable venture.
+p
+Scrooge_013_f_Ahem... When it comes to music, it's about more than just the sound. It's also about the image.
+/
+Scrooge_014_fYou need to promote the music!
+n
+Scrooge_000_f]Oh no. You're not going to make me wear a T-shirt and put up a bunch of signs again, are you?
+h
+Scrooge_001_fWStill sore about that, are ya? Heh, no, I wouldnae make you do a thing like that again.
+T
+Scrooge_002_fCBut you ought to get some pictures of Stitch to help sell his band.
+%
+Scrooge_015_fThat's a great idea!
+p
+Scrooge_016_f_Make sure you've got a fine backdrop for the photo shoot, too. You'll want a professional look.
+|
+Scrooge_010_fkAye, that's true. It could help bring the tourists in. And there might be merchandising opportunities, too.
+P
+Scrooge_011_f?Ha! Why didn't you start by telling me there'd be profit in it?

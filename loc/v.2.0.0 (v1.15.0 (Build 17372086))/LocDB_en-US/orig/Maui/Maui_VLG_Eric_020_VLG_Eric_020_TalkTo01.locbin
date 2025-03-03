@@ -1,0 +1,60 @@
+
+s
+
+Maui_007_feHey, {PlayerName}! How can I help you today? Got a giant crab bothering you? Want me to lasso a star?
+o
+Player_000_f_You're a shapeshifter, right? Ariel needs a way to turn back and forth from human to mermaid...
+/
+Player_000_choice_003_fCan you teach Ariel?
+,
+Player_000_choice_004_fHow does it work?
+<
+Player_000_choice_005_f!How common is this kind of magic?
+i
+
+Maui_000_f[Whoa, whoa, whoa! Hold on. I CAN shapeshift but only because of the power of my magic hook.
+Y
+
+Maui_001_fKAnd before you ask, no, you can't borrow it. Magic hooks are very personal.
+Œ
+
+Maui_002_f~You could try creating an enchanted object yourself. I mean, you're full of Dreamlight magic, right? Who knows. It could work.
+-
+Player_000_choice_000_fYes, I'll do that!
+3
+Player_000_choice_001_fWould it be that simple?
+<
+Player_000_choice_002_f!I'm not sure I'm powerful enough.
+7
+
+Maui_003_f)That's what I like to hear, {PlayerName}!
+
+
+Maui_010_fYou've got this.
+Z
+
+Maui_006_fLOkay, so if I'm going to help Ariel and Eric... I need to enchant something.
+}
+
+Maui_013_foI'll need something with Dreamlight magic in it. Maybe some <ActivityItem>Purified Night Shards</ActivityItem>.
+Ê
+
+Maui_017_f»But if I'm going to be messing with Dreamlight magic, I'll need something to ground the spell, something from the earth. Maybe some <ActivityItem>White Impatiens</ActivityItem> flowers...
+R
+
+Maui_018_fD... Oh, and a <ActivityItem>Vial</ActivityItem> to mix it all up in!
+s
+
+Maui_019_feSounds like Merlin's rubbing off on you, kid. You're definitely getting the hang of this magic stuff.
+‡
+
+Maui_014_fyOf course, once you've got all that junk, you'll need something to enchant. Maybe Eric can help you figure that part out.
+>
+
+Maui_015_f0Have a good time enchanting stuff, {PlayerName}!
+T
+
+Maui_004_fFSimple? No, it won't be simple. But if anyone can manage it, it's you.
+z
+
+Maui_005_flHey, I didn't defeat a giant crab by doubting myself. It's a challenge, {PlayerName}. A part of your legend.

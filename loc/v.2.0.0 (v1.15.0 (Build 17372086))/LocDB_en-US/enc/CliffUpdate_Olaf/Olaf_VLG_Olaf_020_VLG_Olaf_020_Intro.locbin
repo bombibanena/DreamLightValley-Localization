@@ -1,0 +1,76 @@
+
+�
+
+Olaf_000_f{PlayerName}, just who I was hoping to see! How would you like to help me tell a tale that's sure to dazzle all the Villagers?!
+<
+Player_000_choice_000_f!Of course! What can I do to help?
+/
+Player_000_choice_001_fNot now. Kinda busy.
+M
+
+Olaf_001_f?Well, I've been searching everywhere for a great story to tell.
+t
+
+Olaf_002_ffFirst I talked to a very friendly squirrel... then I talked to WALLÂ·E... then I talked to Merlin...
+:
+Player_001_choice_000_fWhat did the squirrel tell you?
+7
+Player_001_choice_001_fWhat did WALLÂ·E tell you?
+4
+Player_001_choice_002_fWhat did Merlin tell you?
+?
+
+Olaf_003_f1Oh, it made a loud screeching noise and ran away.
+O
+
+Olaf_004_fAThough I'm not sure how that story will play with our audience...
+
+
+Olaf_005_fHe said, "Whoa!"
+,
+
+Olaf_006_fHe's a machine of few words...
+}
+
+Olaf_007_foWell, Merlin always knows the best stories! Probably because he's magical and also the most aged person I know.
+i
+
+Olaf_008_f[He told me all about how you're fighting the Forgetting, and I decided... that's our story!
+)
+
+Olaf_009_fThe Legend of {PlayerName}!
+7
+Player_002_f'You want to put on a play all about me?
+7
+Player_002_choice_000_fGood idea. I'm pretty great.
+5
+Player_002_choice_001_fThat should work, I guess.
+-
+Player_002_choice_002_fBut I'm... boring.
+�
+
+Olaf_010_f�Phew! I thought for a second there you wouldn't want the sudden fame that's sure to come with being the subject of our epic tale.
+o
+
+Olaf_011_faOkay, I'm listening, {PlayerName}. Please regale me with your feats of heroism. Spare no details.
+R
+
+Olaf_012_fDWell, okay. It all started when I fell asleep under a tree andâ
+C
+
+Olaf_013_f5Wait, wait! We can't have story time without a snack.
+/
+
+Olaf_014_f!A snack? What are you hungry for?
+Q
+
+Olaf_015_fCOh, being a snowman, I don't need to eat. I'm just thinking of you.
+x
+
+Olaf_016_fjMaybe you could ask Remy. He knows all about yummy food. I bet he'd know the perfect snack for story time.
+y
+
+Olaf_017_fkWhoa... You're not just heroic, you're also humble. Now that's the kind of protagonist a great story needs.
+C
+
+Olaf_018_f5I understand. Creativity happens on its own schedule.

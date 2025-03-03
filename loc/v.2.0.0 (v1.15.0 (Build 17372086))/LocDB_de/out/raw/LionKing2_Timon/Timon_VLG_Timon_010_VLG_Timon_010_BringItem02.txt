@@ -1,0 +1,36 @@
+TAG: Timon_000_f
+Oh, so this must be that ice cream Pumbaa told me you were making. Sorry to spoil the surprise â we have no secrets.
+
+TAG: Timon_001_f
+Say, this looks so good I'm not even THINKING about a vicious lion tryin' to eat me!
+
+TAG: Player_000_choice_000_f
+Trust me; it's delicious!
+
+TAG: Player_000_choice_001_f
+Anything for you, Timon!
+
+TAG: Player_000_choice_002_f
+I bet Pumbaa will love it.
+
+TAG: Timon_006_f
+I'm gonna wait to try it with Pumbaa.
+
+TAG: Timon_002_f
+I'm just hoping it will help you really get back to your Hakuna Matata roots.
+
+TAG: Timon_003_f
+Ya know, I think it might.
+
+TAG: Timon_008_f
+This Board Game looks interesting too. While I go find Pumbaa, can you <Lore>put the Board Game somewhere</Lore> so we can try it out?
+
+TAG: Timon_010_f
+Sure thing!
+
+TAG: Timon_004_f
+Thanks, pal!
+
+TAG: Timon_005_f
+Yeah, I'm gonna wait and try this with him.
+

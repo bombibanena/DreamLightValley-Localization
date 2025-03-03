@@ -1,0 +1,39 @@
+TAG: Gaston_003_f
+Is it time for our treasure hunt?
+
+TAG: Gaston_004_f
+Yes, but I'm afraid I've got some bad news for you first, Gaston.
+
+TAG: Gaston_005_f
+Oh? Is it that your puny arms can't carry the same amount of treasure as I can?
+
+TAG: Player_000_choice_000_f
+It's really not that.
+
+TAG: Player_000_choice_001_f
+I'll try to be nice about this...
+
+TAG: Player_000_choice_002_f
+Okay, I don't feel bad anymore.
+
+TAG: Gaston_006_f
+Well, what is it then?
+
+TAG: Gaston_001_f
+I want to be diplomatic about this...
+
+TAG: Gaston_019_f
+This is boring. Put the Scarab together!
+
+TAG: Gaston_000_f
+Ah-ha! It's about to go! After the Scarab!
+
+TAG: Gaston_007_f
+Yes, yes... go on.
+
+TAG: Gaston_008_f
+What are you blathering about?
+
+TAG: Gaston_018_f
+Well, you have a tendency to react strongly to things...
+

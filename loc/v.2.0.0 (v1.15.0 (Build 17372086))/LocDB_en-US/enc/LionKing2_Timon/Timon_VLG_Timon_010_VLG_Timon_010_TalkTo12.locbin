@@ -1,0 +1,37 @@
+
+Œ
+Timon_000_f}So... uh, {PlayerName}... thanks for cleaning up my mess. I might've been a tiny bit paranoid when I saw Scar roaming around.
+2
+Timon_001_f#I didn't mean to cause any trouble.
+=
+Player_000_choice_000_f"I just hope you're feeling better!
+H
+Player_000_choice_001_f-I don't blame you for being a little worried.
+>
+Player_000_choice_002_f#Maybe you should apologize to Scar.
+
+Timon_002_fpI am. Thanks, {PlayerName}. Simba backed you up and explained that Scar knows he has to stick to the rules here.
+s
+Timon_008_fdI mean, I don't LOVE that Scar could be lurking around every corner, stomach rumbling with hunger...
+*
+Timon_009_f...but I'll get used to it.
+P
+Timon_010_fAThe point is that the Valley is a safe place for everyone, Timon.
+…
+Timon_011_fvAnd that includes the Villains. As long as they don't step out of line, they are free to live here happily and safely.
+?
+Timon_012_f0Gotcha. I'll... uh... I'll try to remember that.
+]
+Timon_013_fNHmm, you know what? I might know a way to help you relax. But it's a surprise!
+{
+Timon_015_flI'll go <Lore>talk to Pumbaa</Lore> and see what he thinks. If he likes it, we'll get it all set up for you!
+2
+Timon_003_f#Scar isn't exactly... approachable.
+=
+Timon_005_f.HA! Ain't that the understatement of the year.
+#
+Timon_006_fAt least you get it!
+E
+Timon_004_f6Look, I feel bad, but I gotta draw the line somewhere.
+>
+Timon_007_f/I've heard Scar describe Pumbaa as "succulent."

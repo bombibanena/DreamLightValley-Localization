@@ -1,0 +1,39 @@
+TAG: Aladdin_000_f
+The Gem Stall's ready, the marketplace looks great... You sure you don't have a little genie magic, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+Thanks! I'm proud of my decorating!
+
+TAG: Player_000_choice_001_f
+You're just being nice.
+
+TAG: Player_000_choice_002_f
+I wish!
+
+TAG: Aladdin_002_f
+You should be. It's pretty impressive.
+
+TAG: Aladdin_006_f
+Oh, one last thing...
+
+TAG: Aladdin_007_f
+When I told Mr. McDuck that we wanted to open up a new marketplace, he was as excited as if I'd brought him a treasure map.
+
+TAG: Aladdin_009_f
+He even gave me this <ActivityItem>Grand Opening Balloon Arch</ActivityItem> to help celebrate the opening of our new market.
+
+TAG: Aladdin_008_f
+All you have to do is <Lore>put it close to the new Gem Stall</Lore>, and we can celebrate!
+
+TAG: Aladdin_001_f
+I'm not. I'm serious!
+
+TAG: Aladdin_005_f
+I'll prove it.
+
+TAG: Aladdin_003_f
+Seems to me like you don't need wishes. You're making amazing things happen all on your own.
+
+TAG: Aladdin_004_f
+For example...
+

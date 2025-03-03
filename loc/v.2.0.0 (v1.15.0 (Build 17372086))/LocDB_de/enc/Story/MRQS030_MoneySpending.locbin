@@ -1,0 +1,35 @@
+
+
+;Story!MRQS030_MoneySpending_Any_CompletedRequestDescription@Посмотри, что думает Скрудж Макдак.
+�
+0Story!MRQS030_MoneySpending_AvailableDescription�Вы находите Скрудж Макдак перед своим закрытым магазином, он объясняет вам, что он обычно продавал мебель и одежду деревенским жителям Dreamlight Valley, но забытость выгнала его из бизнеса, он отчаянно нуждается в инвесторе для его грандиозного открытия, он предлагает вам торговать с Гуфи, чтобы заработать немного денег.
+�
+5Story!MRQS030_MoneySpending_CompletedStoryDescription�Собирая деньги и оплачивая ремонт, вы помогаете Скрудж Макдак вернуться в бизнес. Он должен радоваться этому. Единственный способ знать наверняка, это спросить его напрямую.
+M
+'Story!MRQS030_MoneySpending_DisplayName"Делать центы вещей
+�
+8Story!MRQS030_MoneySpending_Group01_OngoingRequestButton_<smallcaps>{title}</smallcaps><br> Как мне отремонтировать магазин?
+�
+CStory!MRQS030_MoneySpending_Group01_Step01_Unlock01_StepDescription~Используйте знак снаружи магазина Скрудж Макдак, чтобы починить его.
+�
+8Story!MRQS030_MoneySpending_Group02_OngoingRequestButtonO<smallcaps>{title}</smallcaps><br> Как я зарабатываю Star Coins?
+�
+DStory!MRQS030_MoneySpending_Group02_Step02_Possess01_StepDescription\Эрн Стар Койнс для ремонта магазина Скрудж Макдак.
+�
+8Story!MRQS030_MoneySpending_Group03_OngoingRequestButtonQ<smallcaps>{title}</smallcaps><br> Как я могу инвестировать?
+�
+IStory!MRQS030_MoneySpending_Group03_Step03_PurchaseItem01_StepDescriptionKКупи что-нибудь в магазине Скрудж Макдак.
+~
+LStory!MRQS030_MoneySpending_Group04_Step04_TalkToCharacter01_StepDescription.Поговори с Скрудж Макдак.
+�
+8Story!MRQS030_MoneySpending_Group05_OngoingRequestButtonJ<smallcaps>{title}</smallcaps><br> Где я могу найти Гуфи?
+r
+HStory!MRQS030_MoneySpending_Group05_Step05_Conditional01_StepDescription&Найдите Гуфи в Медоу.
+~
+LStory!MRQS030_MoneySpending_Group06_Step06_TalkToCharacter02_StepDescription.Поговори с Скрудж Макдак.
+�
+8Story!MRQS030_MoneySpending_Group07_OngoingRequestButtonJ<smallcaps>{title}</smallcaps><br> Где я могу найти Гуфи?
+�
+HStory!MRQS030_MoneySpending_Group07_Step07_Conditional02_StepDescription=Помогите Гуфи вернуться в бизнес.
+O
+.Story!MRQS030_MoneySpending_StartRequestButtonЧем могу помочь?

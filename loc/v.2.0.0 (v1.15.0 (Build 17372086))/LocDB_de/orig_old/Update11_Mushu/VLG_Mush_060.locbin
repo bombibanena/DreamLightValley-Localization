@@ -1,0 +1,31 @@
+
+�
+5Village!Mulan!Mushu!VLG_Mush_060_AvailableDescriptionZМушу приглашает вас приготовить вкусный перекус.
+�
+:Village!Mulan!Mushu!VLG_Mush_060_CompletedStoryDescriptionrМушу одобряет Sesame Balls и возвращает их вам за веселую вечеринку!
+b
+,Village!Mulan!Mushu!VLG_Mush_060_DisplayName2Приготовление кухонных яиц
+�
+MVillage!Mulan!Mushu!VLG_Mush_060_Group01_Step01_ConsumeItem01_StepDescription`Читайте рецепт <ActivityItem>Sesame Ball</ActivityItem> в вашем списке.
+p
+9Village!Mulan!Mushu!VLG_Mush_060_Group01_StoryDescription3Мушу дает вам рецепт Sesame Balls.
+\
+IVillage!Mulan!Mushu!VLG_Mush_060_Group02_Step02_Possess01_StepDescriptionПшеница.
+^
+IVillage!Mulan!Mushu!VLG_Mush_060_Group02_Step02_Possess02_StepDescriptionДжинджер.
+T
+IVillage!Mulan!Mushu!VLG_Mush_060_Group02_Step02_Possess03_StepDescriptionРис.
+o
+IVillage!Mulan!Mushu!VLG_Mush_060_Group02_Step02_Possess04_StepDescription"Морские водоросли.
+T
+IVillage!Mulan!Mushu!VLG_Mush_060_Group02_Step02_Possess05_StepDescriptionСоя.
+�
+QVillage!Mulan!Mushu!VLG_Mush_060_Group02_Step03_TalkToCharacter01_StepDescription�(Вариант) Найдите Реми спрятанного где-нибудь в шахтах Виталий для бесплатного образца каждого Ингредиента.
+�
+8Village!Mulan!Mushu!VLG_Mush_060_Group02_StepDescription�Соберите ингредиенты для <ActivityItem>Sesame Balls</ActivityItem> в долине вне шахт Виталий.
+�
+JVillage!Mulan!Mushu!VLG_Mush_060_Group03_Step04_CookMeal01_StepDescription[Приготовить несколько ящиков <ActivityItem>Sesame</ActivityItem>.
+�
+@Village!Mulan!Mushu!VLG_Mush_060_Group04_Step05_ReadyDescriptionPДайте {TargetNPC} тарелку <ActivityItem>Sesame Balls</ActivityItem>.
+�
+?Village!Mulan!Mushu!VLG_Mush_060_Group04_Step05_StepDescriptiontУбедитесь, что у вас есть <ActivityItem>Sesame Balls</ActivityItem> в списке {TargetNPC}.

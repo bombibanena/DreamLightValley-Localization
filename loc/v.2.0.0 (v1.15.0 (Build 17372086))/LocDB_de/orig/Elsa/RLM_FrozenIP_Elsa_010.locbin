@@ -1,0 +1,35 @@
+
+X
+GRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Any_CompletedRequestDescriptionTalk to Elsa.
+â
+<Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_AvailableDescriptionIYou found Elsa on the other side of a river deep in the Enchanted Forest.
+í
+ARealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_CompletedStoryDescriptionMYou helped Elsa calm Gale, the Wind Spirit. Now you just need to talk to her.
+G
+3Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_DisplayNameChasing the Wind
+Ü
+XRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group01_Step01_TalkToCharacter01_StepDescription*Meet Elsa on the other side of the bridge.
+z
+PRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_Possess01_StepDescription&<ActivityItem>Softwood</ActivityItem>.
+|
+PRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_Possess02_StepDescription(<ActivityItem>Iron Ingot</ActivityItem>.
+w
+PRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_Possess03_StepDescription#<ActivityItem>Twine</ActivityItem>.
+ê
+FRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_Step02_StepDescriptionFGather the materials for the <ActivityItem>Wind Chimes</ActivityItem>:
+≤
+@Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group02_StoryDescriptionnYou decide to help Elsa calm the Wind Spirit, Gale, by crafting some <ActivityItem>Wind Chimes</ActivityItem>.
+v
+DRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group03_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+â
+RRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group03_Step03_CraftItem01_StepDescription3Craft the <ActivityItem>Wind Chimes</ActivityItem>.
+s
+DRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group04_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+ê
+RRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group04_Step04_VisitArea01_StepDescription:Return to the Frozen Realm and find your way back to Elsa.
+y
+DRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group05_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+†
+FRealm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_Group05_Step05_StepDescriptionVPlace all three <ActivityItem>Wind Chimes</ActivityItem> in different trees near Elsa.
+k
+:Realm!Frozen!Elsa!RLM_FrozenIP_Elsa_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

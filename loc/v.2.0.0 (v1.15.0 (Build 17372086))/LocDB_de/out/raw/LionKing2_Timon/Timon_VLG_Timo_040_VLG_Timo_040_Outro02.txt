@@ -1,0 +1,36 @@
+TAG: Timon_001_f
+And WHAT an adventure! Playing board games, capturing the majesty of the Valley â AND uncovering a poetry conspiracy!
+
+TAG: Timon_002_f
+Not to mention learning about what makes a good leader and saving the entire Valley from those scrumptious bugs.
+
+TAG: Player_000_choice_001_f
+What now?
+
+TAG: Player_000_choice_002_f
+All in a day's work.
+
+TAG: Player_000_choice_003_f
+We did good!
+
+TAG: Timon_003_f
+What now? Nothing! Now we rest and relax. We earned it!
+
+TAG: Timon_008_f
+Speaking of "earned it..."
+
+TAG: Timon_006_f
+I've got a little token of our friendship for you. I hope you enjoy it.
+
+TAG: Timon_010_f
+I'll see ya around, {PlayerName}! I've got a nap callin' my name.
+
+TAG: Timon_004_f
+Yeah well, it's too much work for this meerkat. I don't know how you do it. I gotta relax now.
+
+TAG: Timon_007_f
+But before I catch a few winks under the shade of a coconut tree...
+
+TAG: Timon_005_f
+We did! And now, I'm gonna have a loooooong nap, which I have most certainly earned. Speaking of which...
+

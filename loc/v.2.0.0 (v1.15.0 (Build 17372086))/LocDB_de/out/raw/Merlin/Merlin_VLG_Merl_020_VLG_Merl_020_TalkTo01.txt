@@ -1,0 +1,45 @@
+TAG: Merlin_008_f
+{PlayerName}, how good to see you! Now tell me, what did you make out of the <ActivityItem>Dream Shards</ActivityItem>?
+
+TAG: Merlin_012_f
+I combined them and got Dreamlight!
+
+TAG: Merlin_009_f
+Pure Dreamlight? Fascinating! And... somewhat ominous.
+
+TAG: Merlin_000_f
+You found the <ActivityItem>Dream Shards</ActivityItem> in the Night Thorns. That means...
+
+TAG: Merlin_001_f
+Well... can you discern what that means?
+
+TAG: Player_000_choice_000_f
+It means the Thorns are made of Dreamlight.
+
+TAG: Player_000_choice_001_f
+That Dreamlight must be coming from somewhere...
+
+TAG: Player_000_choice_005_f
+That we should rename them Dream Thorns?
+
+TAG: Merlin_003_f
+Indeed. As is everything in the Valley. But Night Thorns are like...
+
+TAG: Merlin_004_f
+...weeds feeding on broken shards of dreams, devouring our home.
+
+TAG: Merlin_005_f
+Hmm... Night Thorns are far more sinister than I'd realized. We must learn more.
+
+TAG: Merlin_010_f
+Perhaps studying other Valley flora will provide some insight.
+
+TAG: Merlin_007_f
+It will help for you to gather fruits and herbs from the Plaza and the Meadow.
+
+TAG: Merlin_006_f
+Indeed. Likely from the Valley. But Night Thorns are like...
+
+TAG: Merlin_002_f
+Goodness, no! They don't deserve such a lovely name. Consider what they are...
+

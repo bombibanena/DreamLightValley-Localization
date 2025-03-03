@@ -1,0 +1,33 @@
+TAG: Ursula_000_f
+Angelfish, you're back! And you have what I need! Now, hand over the enchantment.
+
+TAG: Ursula_001_f
+Ta-da! I used the enchantment on the Flower you brought, and it's all ready to be used!
+
+TAG: Ursula_002_f
+However, I still need your help for one last teensy little detail... Take this.
+
+TAG: Ursula_008_f
+Place that flower near the entrance to that Mystical Cave on the Beach â the cave you opened with the <ActivityItem>Crystal</ActivityItem> I gave you.
+
+TAG: Player_000_choice_000_f
+Why the Mystical Cave?
+
+TAG: Player_000_choice_001_f
+What is it going to do?
+
+TAG: Player_000_choice_002_f
+Are you sure it's really safe?
+
+TAG: Ursula_004_f
+This flower now has the power to steaâ PROTECT the power of that cave.
+
+TAG: Ursula_005_f
+We wouldn't want anything bad happening to it, would we?
+
+TAG: Ursula_007_f
+Now, go! Move those little legs!
+
+TAG: Ursula_006_f
+Of course! You can always trust me, dearie.
+

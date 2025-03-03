@@ -1,0 +1,63 @@
+
+n
+BVillage!Mickey!Minnie!VLG_Minn_020_Any_CompletedRequestDescription(Поговори с Минни Маус.
+a
+7Village!Mickey!Minnie!VLG_Minn_020_AvailableDescription&Минни Маус ищет тебя.
+�
+<Village!Mickey!Minnie!VLG_Minn_020_CompletedStoryDescription�Посмотрим, как себя чувствует Минни Маус после того, как она вернет свою память.
+d
+.Village!Mickey!Minnie!VLG_Minn_020_DisplayName2На трассе памяти Минни Маус
+�
+?Village!Mickey!Minnie!VLG_Minn_020_Group01_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br> Что нам нужно сделать?
+
+SVillage!Mickey!Minnie!VLG_Minn_020_Group01_Step01_TalkToCharacter01_StepDescription(Поговори с Микки Маус.
+�
+:Village!Mickey!Minnie!VLG_Minn_020_Group02_StepDescription�Приведите <ActivityItem>Dreamlight Magnifier</ActivityItem> на <ActivityItem>Sparkling Fishing Pole</ActivityItem> в Мидоу.
+�
+:Village!Mickey!Minnie!VLG_Minn_020_Group03_StepDescriptionkВзаимодействие с рыболовным полюсом <ActivityItem>Sparkling</ActivityItem>.
+
+SVillage!Mickey!Minnie!VLG_Minn_020_Group04_Step04_TalkToCharacter02_StepDescription(Поговори с Минни Маус.
+�
+:Village!Mickey!Minnie!VLG_Minn_020_Group05_StepDescription�Найдите другой потерянный <ActivityItem>Memory</ActivityItem> на пляже с помощью <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+�
+;Village!Mickey!Minnie!VLG_Minn_020_Group05_StoryDescription�После того, как <ActivityItem>Dreamlight Magnifier</ActivityItem> из Микки Маус, вы сможете получить <ActivityItem>Sparkling Fishing Pole</ActivityItem>.
+�
+:Village!Mickey!Minnie!VLG_Minn_020_Group06_StepDescriptiondИнтерактивировать с плавающим <ActivityItem>Sparkling Hat</ActivityItem>.
+f
+:Village!Mickey!Minnie!VLG_Minn_020_Group07_StepDescription(Поговори с Минни Маус.
+�
+?Village!Mickey!Minnie!VLG_Minn_020_Group08_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> Что мы делаем сейчас?
+�
+:Village!Mickey!Minnie!VLG_Minn_020_Group08_StepDescriptionSСлушайте, как Минни Маус говорит с Микки Маус.
+
+?Village!Mickey!Minnie!VLG_Minn_020_Group09_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Куда нам идти?
+�
+:Village!Mickey!Minnie!VLG_Minn_020_Group09_StepDescriptionsИнтерактивировать с плавающей упаковкой <ActivityItem>Sparkling</ActivityItem>.
+�
+:Village!Mickey!Minnie!VLG_Minn_020_Group10_StepDescription�Расследуйте лес Валора, чтобы найти еще одного потерянного <ActivityItem>Memory</ActivityItem> с помощью <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+SVillage!Mickey!Minnie!VLG_Minn_020_Group11_Step11_TalkToCharacter04_StepDescription(Поговори с Минни Маус.
+�
+?Village!Mickey!Minnie!VLG_Minn_020_Group12_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> Что мы делаем сейчас?
+z
+:Village!Mickey!Minnie!VLG_Minn_020_Group12_StepDescription<Посмотри Микки Маус с Минни Маус.
+�
+;Village!Mickey!Minnie!VLG_Minn_020_Group12_StoryDescription�Минни Маус помнит Микки Маус и бежит к нему, чтобы сообщить ему хорошие новости.
+�
+?Village!Mickey!Minnie!VLG_Minn_020_Group13_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+MVillage!Mickey!Minnie!VLG_Minn_020_Group13_Step13_BringItem02_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
+n
+BVillage!Mickey!Minnie!VLG_Minn_020_Group13_Step13_ReadyDescription(Поговори с Микки Маус.
+�
+;Village!Mickey!Minnie!VLG_Minn_020_Group13_StoryDescriptionuПосле разговора с Минни Маус Микки Маус хочет поговорить с вами.
+�
+SVillage!Mickey!Minnie!VLG_Minn_020_Group15_Step15_FollowCharacter01_StepDescriptionJСледуйте за Минни Маус до места на Медоу.
+�
+;Village!Mickey!Minnie!VLG_Minn_020_Group15_StoryDescription�Она говорит вам, что ее по-прежнему притягивают в ту же местность в Виллидж по загадочной причине.
+
+SVillage!Mickey!Minnie!VLG_Minn_020_Group16_Step16_TalkToCharacter05_StepDescription(Поговори с Минни Маус.
+�
+;Village!Mickey!Minnie!VLG_Minn_020_Group16_StoryDescriptionbЧто-то странное определенно происходит в этом районе.
+f
+5Village!Mickey!Minnie!VLG_Minn_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

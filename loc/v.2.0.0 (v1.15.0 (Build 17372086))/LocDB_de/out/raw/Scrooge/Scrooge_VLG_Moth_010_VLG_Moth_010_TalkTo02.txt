@@ -1,0 +1,15 @@
+TAG: Scrooge_000_f
+Thank you kindly, {PlayerName}. Now, here's all you need to know to find the <ActivityItem>Scroll</ActivityItem>.
+
+TAG: Scrooge_001_f
+I hid it away in the Village before the Forgetting. So, I'm not so clear on the details, but I trust you'll find it.
+
+TAG: Scrooge_008_f
+I buried the scroll in a locked chest near a cave on Dazzle Beach, though I cannae remember which one.
+
+TAG: Scrooge_002_f
+As for the key to open the chest, you'll have to fish that out from the pool in the Glade. The one with the ruins.
+
+TAG: Scrooge_003_f
+Happy searching, {PlayerName}! And thank you again for the <ActivityItem>Micberry Tree</ActivityItem>!
+

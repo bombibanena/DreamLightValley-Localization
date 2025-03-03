@@ -1,0 +1,33 @@
+TAG: Buzz_000_f
+Glad you're here, {PlayerName}. You and I have serious work to do!
+
+TAG: Buzz_001_f
+My clue was buried in front of my RV. It's just a drawing with a simple sun on it and some trees? Plus something else.
+
+TAG: Buzz_002_f
+What do you think?
+
+TAG: Player_000_choice_000_f
+The drawing is the location of your flag.
+
+TAG: Player_000_choice_001_f
+I have ZERO idea...
+
+TAG: Player_000_choice_002_f
+The Fairy Godmother does ART? Cute!
+
+TAG: Buzz_004_f
+Of course! Let's have another look. Trees... Are those <Lore>animal bones</Lore>? And there's a <Lore>large sun</Lore> over the landscape.
+
+TAG: Buzz_008_f
+A <Lore>sunny place with trees and bones</Lore>? I'll have a look around.
+
+TAG: Buzz_009_f
+Excellent! Remember: I had to <Lore>dig up our clue</Lore>, so you might have to dig up the flag. Bring your shovel!
+
+TAG: Buzz_003_f
+Let's look together... Are those <Lore>animal bones</Lore>? Plus a <Lore>large sun</Lore> over the landscape...
+
+TAG: Buzz_005_f
+Affirmative, it is adorable. But that doesn't help us find our Mini Flag.
+

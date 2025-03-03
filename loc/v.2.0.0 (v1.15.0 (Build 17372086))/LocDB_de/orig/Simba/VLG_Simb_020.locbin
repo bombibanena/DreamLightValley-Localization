@@ -1,0 +1,43 @@
+
+É
+=Village!LionKing!Simba!VLG_Simb_020_CompletedStoryDescription‡Now Simba is sure of it too. Something is wrong with the Circle of Life in the Valley, and his lost memories hold the key to fixing it.
+F
+/Village!LionKing!Simba!VLG_Simb_020_DisplayNameThe Great Gathering
+S
+BVillage!LionKing!Simba!VLG_Simb_020_Group01_Step01_StepDescriptionTalk to Remy.
+z
+NVillage!LionKing!Simba!VLG_Simb_020_Group02_Step02_BringItem02_StepDescription(<ActivityItem>{ItemName}</ActivityItem>.
+k
+BVillage!LionKing!Simba!VLG_Simb_020_Group02_Step02_StepDescription%Cook the Meals for Simba's gathering:
+_
+TVillage!LionKing!Simba!VLG_Simb_020_Group03_Step03_TalkToCharacter05_StepDescriptionMinnie.
+]
+TVillage!LionKing!Simba!VLG_Simb_020_Group03_Step03_TalkToCharacter06_StepDescriptionMaui.
+s
+;Village!LionKing!Simba!VLG_Simb_020_Group03_StepDescription4Invite the following Villagers to Simba's gathering:
+Ž
+<Village!LionKing!Simba!VLG_Simb_020_Group03_StoryDescriptionNAfter deciding who would be the perfect people to invite, you go talk to them.
+º
+<Village!LionKing!Simba!VLG_Simb_020_Group05_StoryDescriptionzThe party was a success but now Simba needs to go and apologize to Nala for putting off a task she asked him to help with.
+j
+BVillage!LionKing!Simba!VLG_Simb_020_Group07_Step07_StepDescription$Feed some animals around the Valley.
+ˆ
+BVillage!LionKing!Simba!VLG_Simb_020_Group07_Step09_StepDescriptionBPlant and grow <ActivityItem>Carrots</ActivityItem> in the Meadow.
+í
+<Village!LionKing!Simba!VLG_Simb_020_Group07_StoryDescription¬Nala unlocked some sort of memory of Simba's role in Dreamlight Valley before the Forgetting. She's sure something is wrong with this place, and that only Simba can fix it.
+f
+MVillage!LionKing!Simba!VLG_Simb_020_Group09_Step10_Decorate01_StepDescriptionPlace the {ItemName}.
+Á
+<Village!LionKing!Simba!VLG_Simb_020_Group09_StoryDescription€Now that everything is ready for the gathering, Simba thinks it's only fair you get to choose when and where it will take place.
+l
+JVillage!LionKing!Simba!VLG_Simb_020_Group10_Step11_Party01_StepDescriptionThrow Simba's great gathering.
+h
+TVillage!LionKing!Simba!VLG_Simb_020_Group11_Step12_TalkToCharacter08_StepDescriptionReturn to Simba.
+
+;Village!LionKing!Simba!VLG_Simb_020_Group12_StepDescriptionÝFigure out the last Ingredient for the cake. It asks for <ActivityItem>Eggs</ActivityItem>, <ActivityItem>Milk</ActivityItem>, <ActivityItem>Fruit</ActivityItem>, <ActivityItem>Wheat</ActivityItem> and... something sweet?
+u
+@Village!LionKing!Simba!VLG_Simb_020_Group03_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+r
+@Village!LionKing!Simba!VLG_Simb_020_Group08_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+r
+@Village!LionKing!Simba!VLG_Simb_020_Group09_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?

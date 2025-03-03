@@ -1,0 +1,21 @@
+TAG: Stitch_000_f
+{PlayerName}, you hula dance?
+
+TAG: Player_000_choice_000_f
+Yes, I do!
+
+TAG: Player_000_choice_001_f
+No, I don't.
+
+TAG: Player_000_choice_002_f
+I don't, but I admire the art.
+
+TAG: Stitch_001_f
+Ooooh! Stitch too! We hula together soon!
+
+TAG: Stitch_002_f
+Oh. Okay. Stitch will still be your friend.
+
+TAG: Stitch_003_f
+Yes. Hula is very good art. Stitch will hula some time so you can admire.
+

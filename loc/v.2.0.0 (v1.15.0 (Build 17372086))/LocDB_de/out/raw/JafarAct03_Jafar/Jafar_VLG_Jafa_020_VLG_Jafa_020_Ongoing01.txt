@@ -1,0 +1,6 @@
+TAG: Jafar_000_f
+For the first step of our alchemical journey, you must acquire Iron Ore so that EVE can reduce it to <ActivityItem>Iron Dust</ActivityItem>.
+
+TAG: Jafar_001_f
+After that, we shall transform that dust into wonders!
+

@@ -1,0 +1,33 @@
+
+n
+Goofy_000_f_Ya know pal, my favorite part of runnin' my Stall is gettin' to spend all day talkin' to folks.
+C
+Player_000_choice_000_f(Who's your favorite Villager to talk to?
+/
+Player_000_choice_001_fDon't you get tired?
+;
+Goofy_001_f,Gawrsh, I like spendin' time with everybody.
++
+Goofy_002_fBut... can ya keep a secret?
+
+Player_001_choice_000_fYes.
+
+Player_001_choice_001_fNo.
+F
+Goofy_003_f7If I had to pick a favorite, it'd be you, {PlayerName}!
+L
+Goofy_004_f=Well, I guess it's not much of a secret. I'll tell ya anyway.
+4
+Goofy_005_f%Nah! I could chat with folks all day.
+t
+Goofy_006_feCarrying all the fruit can be tiring, though. Sometimes I gotta rest my arms, but I can keep talkin'!
+:
+Player_002_choice_000_fIs running a Stall complicated?
+=
+Player_002_choice_001_f"Let me know if you ever need help!
+#
+Goofy_008_fNot the way I do it.
+^
+Goofy_009_fOUncle Scrooge makes his shop real complicated, but I try to keep things simple.
+1
+Goofy_010_f"I sure will! Thanks, {PlayerName}!

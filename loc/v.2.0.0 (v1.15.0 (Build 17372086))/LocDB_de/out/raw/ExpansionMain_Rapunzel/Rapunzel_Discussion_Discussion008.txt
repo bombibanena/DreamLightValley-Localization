@@ -1,0 +1,90 @@
+TAG: Rapunzel_000_f
+I guess that's true... Is there one you wanted to ask about specifically?
+
+TAG: Player_000_choice_000_f
+Baking and cooking.
+
+TAG: Player_000_choice_001_f
+Knitting and sewing.
+
+TAG: Player_000_choice_002_f
+Something else...
+
+TAG: Rapunzel_001_f
+Well, I love making all sorts of treats.
+
+TAG: Rapunzel_002_f
+I even started inventing my own secret recipes!
+
+TAG: Rapunzel_003_f
+Yes! I especially love making clothes for my friend Pascal... He's a chameleon.
+
+TAG: Rapunzel_004_f
+He looks so cute in little dresses. And he's surprisingly patient during fittings.
+
+TAG: Player_001_choice_000_f
+Playing guitar.
+
+TAG: Player_001_choice_001_f
+Playing darts.
+
+TAG: Player_001_choice_002_f
+Something else...
+
+TAG: Rapunzel_005_f
+Ooh, I love playing music. How about you, {PlayerName}?
+
+TAG: Rapunzel_006_f
+Does that strike a chord with you?
+
+TAG: Rapunzel_007_f
+Well, I haven't played darts in a while...
+
+TAG: Rapunzel_008_f
+You always win when you play alone. It starts to feel a little pointless.
+
+TAG: Player_002_choice_000_f
+Papier-mÃ¢chÃ©.
+
+TAG: Player_002_choice_001_f
+Ventriloquism.
+
+TAG: Player_002_choice_002_f
+Another hobby...
+
+TAG: Rapunzel_009_f
+Well, I like to make sculptures out of fabric or paper and glue.
+
+TAG: Rapunzel_010_f
+It's a little tough to learn... You really have to stick to it.
+
+TAG: Rapunzel_011_f
+Oh... Ventriloquy is something I practice with Pascal. I'm getting pretty good but...
+
+TAG: Rapunzel_012_f
+You didn't hear that from me!
+
+TAG: Player_003_choice_000_f
+Pottery.
+
+TAG: Player_003_choice_001_f
+Candle making.
+
+TAG: Player_003_choice_002_f
+Something else?
+
+TAG: Rapunzel_013_f
+I love working with clay; it's so calming.
+
+TAG: Rapunzel_014_f
+I think everyone should take a pottery wheel for a spin.
+
+TAG: Rapunzel_015_f
+Candle making is actually a very practical way to pass the time. I use what I make in the tower for light.
+
+TAG: Rapunzel_016_f
+You could say learning to do it was one of my brighter ideas.
+
+TAG: Rapunzel_017_f
+Well, I'm sure I'll find some new hobbies here in the Valley. *gasp* Maybe sailing on the boats I see out on the water!
+

@@ -1,0 +1,42 @@
+TAG: JackSkellington_000_f
+Salutations, friends! How nice to see you! And to what do I owe the pleasure?
+
+TAG: Player_000_f
+Hi, Jack. We're looking for Night Mites!
+
+TAG: Player_000_choice_000_f
+Have you seen any around?
+
+TAG: Player_000_choice_001_f
+Timon and Pumbaa tracked some here by scent.
+
+TAG: Player_000_choice_002_f
+Where are you hiding them?!
+
+TAG: JackSkellington_003_f
+Me? Oh... No. Certainly not!
+
+TAG: JackSkellington_007_f
+I wouldn't know one if I laid eyes on it. Or rather, my eye sockets! Ha-ha-ha!
+
+TAG: JackSkellington_006_f
+It is a shame you've caught them all. They seemed fascinating... I mean, from what I've heard, that is.
+
+TAG: JackSkellington_005_f
+"Fascinating," huh? Mind if we have a look around?
+
+TAG: JackSkellington_009_f
+Oh... I... Of course.
+
+TAG: JackSkellington_008_f
+... Please, I have nothing to hide.
+
+TAG: JackSkellington_002_f
+How strange! There are definitely no Night Mites here.
+
+TAG: JackSkellington_001_f
+Though I wish there were! Those strange purple bugs are fascinating.
+
+TAG: JackSkellington_004_f
+Me? Why would I hide something so... frighteningly fascinating as a Night Mite?
+

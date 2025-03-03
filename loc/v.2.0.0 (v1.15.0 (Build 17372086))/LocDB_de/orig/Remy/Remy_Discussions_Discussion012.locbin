@@ -1,0 +1,50 @@
+
+O
+
+Remy_000_fAIs there an organization that inspects food safety in the Valley?
+,
+Player_000_choice_000_fI don't think so.
+)
+Player_000_choice_001_fI can do that.
+3
+Player_000_choice_002_fWhy would you want that?
+Y
+
+Remy_001_fKWell, we need one. I want people to know it's safe to eat at my restaurant.
+c
+
+Remy_005_fUActually, you've cooked with me. Maybe you could give the restaurant a safety rating?
+9
+
+Remy_006_f+How would you rate my restaurant on safety?
+*
+Player_001_choice_000_fExtremely safe.
+'
+Player_001_choice_001_fPretty safe.
+D
+Player_001_choice_002_f)Unsafe, but only when villains eat there.
+
+
+Remy_007_f
+Excellent!
+]
+
+Remy_009_fOI was certain everything was up to code, but it's nice to have the reassurance.
+P
+
+Remy_008_fBOh. That's a good point. Maybe I should put up rules for villains?
+F
+
+Remy_010_f8But they're villains, so they'll just break the rules...
+)
+
+Remy_011_fI need to think about this.
+4
+
+Remy_002_f&Great! All right. I'm ready. Go ahead.
+B
+
+Remy_003_f4Because I want my restaurant to be certified "safe."
+;
+
+Remy_004_f-I want people to feel confident eating there.

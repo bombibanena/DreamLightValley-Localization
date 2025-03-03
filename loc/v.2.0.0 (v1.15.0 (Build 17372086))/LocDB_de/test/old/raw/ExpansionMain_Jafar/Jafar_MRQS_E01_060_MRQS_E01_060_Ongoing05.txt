@@ -1,0 +1,12 @@
+TAG: Jafar_000_f
+Вы нашли что-нибудь полезное?
+
+TAG: Jafar_001_f
+Я нашел <ActivityItem>Memory</ActivityItem> и...
+
+TAG: Jafar_002_f
+Не путайте меня с Мерлин, {PlayerName}. Только ваши способности позволяют вам раскрыть содержание воспоминаний.
+
+TAG: Jafar_003_f
+Используйте свои силы на этом <ActivityItem>Memory</ActivityItem>, чтобы увидеть, что он содержит.
+

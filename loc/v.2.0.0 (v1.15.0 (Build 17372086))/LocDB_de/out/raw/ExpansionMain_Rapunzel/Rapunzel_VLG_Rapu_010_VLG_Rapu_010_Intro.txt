@@ -1,0 +1,63 @@
+TAG: Rapunzel_000_f
+{PlayerName}, could I ask you something? It's about the tower...
+
+TAG: Player_000_choice_000_f
+Is it sand-haunted again?
+
+TAG: Player_000_choice_001_f
+Now isn't the best time.
+
+TAG: Rapunzel_001_f
+Oh no, it's nothing like that. It's just...
+
+TAG: Rapunzel_002_f
+When we found the Jewel of Time there, it was the first time I'd visited the tower in months. And I think I sort of... miss it. Not that I miss being stuck there. I just miss being able to be there.
+
+TAG: Rapunzel_004_f
+And you see, the thing is... it's kind of a mess from all the time magic. So, I was sort of hopingyoucouldhelpmefixit?!
+
+TAG: Rapunzel_005_f
+Help you fix it?
+
+TAG: Player_001_choice_000_f
+I'd love to!
+
+TAG: Player_001_choice_001_f
+You seem nervous. You okay?
+
+TAG: Player_001_choice_002_f
+Of course. The tower's a terror!
+
+TAG: Rapunzel_006_f
+Really? That would be amazing!
+
+TAG: Rapunzel_009_f
+I'm always here to help, Rapunzel.
+
+TAG: Rapunzel_014_f
+Let's go have a look at what needs to be done.
+
+TAG: Rapunzel_015_f
+Okay â yes! Follow me!
+
+TAG: Rapunzel_007_f
+Oh? I'm fine. I guess I was just waiting for you to cut me off or say "no." Mother does that a lot.
+
+TAG: Rapunzel_010_f
+You never have to be nervous to ask me for help, okay?
+
+TAG: Rapunzel_011_f
+Thank you. I'll remember that.
+
+TAG: Rapunzel_008_f
+Well, I didn't think it was THAT bad.
+
+TAG: Rapunzel_012_f
+But I guess it is crumbling and filled with enchanted sand and covered in vines, so...
+
+TAG: Rapunzel_013_f
+I agree there's room for improvement.
+
+TAG: Rapunzel_003_f
+Oh! Okay, we can talk about it later. Bye!
+

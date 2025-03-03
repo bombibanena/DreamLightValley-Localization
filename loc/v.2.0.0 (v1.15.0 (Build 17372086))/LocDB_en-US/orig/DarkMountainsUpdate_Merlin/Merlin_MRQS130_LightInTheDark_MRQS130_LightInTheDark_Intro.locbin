@@ -1,0 +1,51 @@
+
+p
+Merlin_003_f`Ah, {PlayerName}. The Fairy Godmother has informed me of all you went through in the Dreamscape.
+v
+Merlin_005_ffI hope having to live out someone else's Memories wasn't too... er, terribly discombobulating for you.
+a
+Player_001_choice_000_fFI wanted to talk about what I learned from the Forgotten's Memories...
+K
+Player_001_choice_001_f0No time for chit-chat. We have a Valley to save.
+;
+Merlin_000_f+Of course. Tell me, what have you surmised?
+9
+Player_000_choice_000_fThe Forgotten must be stopped.
+6
+Player_000_choice_001_fThe Forgotten can be saved.
+F
+Player_000_choice_003_f+I learned that you give pretty good advice.
+s
+Merlin_006_fcWhatever I saw in the Forgotten's past... it doesn't change the present. The Forgotten's dangerous.
+‹
+Merlin_015_f{You have noticed the <Lore>rips in the sky</Lore>, haven't you? Why, the very fabric of reality is coming undone around us!
+~
+Merlin_021_fnTo find the Forgotten and stop this, we'll need something connected to the Forgotten... Something left behind.
+Z
+Merlin_024_fJLike what...? The Forgotten hasn't left anything behind that I've noticed.
+Á
+Merlin_025_f°Oh, but that's where you're wrong! Follow me. I've <Lore>uncovered something at Mickey's House</Lore> that's sure to help us. It'll be easier to understand once you've seen it.
+q
+Merlin_011_faPerhaps you're right. I fear I wasted far too much time trying to reach the Forgotten with words.
+Q
+Merlin_016_fAI saw you trying to talk to the Forgotten in one of the Memories.
+i
+Merlin_012_fYYou gave the Forgotten some great advice. It's too bad they weren't ready to hear it yet.
+<
+Merlin_013_f,Really? Which Memory was it? What did I say?
+q
+Merlin_017_faYou said that no matter what we leave behind, there are some things that must never be forgotten.
+
+Merlin_018_fThings like...
+_
+Merlin_019_fO...friendship, love and care. Of course! That was rather wise of me, wasn't it?
+h
+Merlin_020_fXYou need only look skyward anywhere in the Valley to see what happens when we DO forget.
+~
+Merlin_007_fnThe Forgotten's just a mixed-up kid. I know we can fix all this. I just have to find the right words to say...
+Š
+Merlin_014_fzI'm afraid there might not be words that will stop the Forgotten. At least not words I've found, for I've certainly tried.
+T
+Merlin_008_fDThat's very true. But... uh, what specifically are you referring to?
+U
+Merlin_001_fEYes, of course. You're right! The time for idle chatter is long past.

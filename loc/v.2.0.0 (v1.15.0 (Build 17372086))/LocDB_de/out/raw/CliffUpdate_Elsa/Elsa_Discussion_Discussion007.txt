@@ -1,0 +1,39 @@
+TAG: Elsa_000_f
+{PlayerName}. I've been thinking about Olaf.
+
+TAG: Player_000_choice_000_f
+What about him?
+
+TAG: Player_000_choice_001_f
+He's a sweetheart.
+
+TAG: Player_000_choice_002_f
+He's annoying.
+
+TAG: Elsa_001_f
+About what he represents.
+
+TAG: Elsa_002_f
+He was the first living being I made out of snow. I've started being more careful about making life.
+
+TAG: Player_001_choice_000_f
+That's smart.
+
+TAG: Player_001_choice_001_f
+No! Make an army of tiny snowmen!
+
+TAG: Elsa_003_f
+I hope so. I just feel responsible for anything I create.
+
+TAG: Elsa_004_f
+I kind of already did. I had a cold. And I accidentally made snowmen when I sneezed.
+
+TAG: Elsa_005_f
+There are a lot of them. And I feel responsible for all of them. Probably no more living snowmen for a while.
+
+TAG: Elsa_006_f
+I'm also very fond of him.
+
+TAG: Elsa_007_f
+He can be a little exasperating at times.
+

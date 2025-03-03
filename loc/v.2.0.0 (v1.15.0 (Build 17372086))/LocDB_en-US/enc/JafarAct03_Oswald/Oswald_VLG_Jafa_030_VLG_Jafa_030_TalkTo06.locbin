@@ -1,0 +1,63 @@
+
+*
+Oswald_000_fOswald, are you all right?
+ 
+Oswald_001_fI... I think so.
+K
+Oswald_002_f;Gee thanks, {PlayerName}! I'd have been a goner without ya!
+/
+Oswald_003_fI'm just glad that you're okay.
+e
+Oswald_004_fUBut now we need to do something about Jafar. Time to look into another lamp, I think.
+(
+Oswald_005_fHold up, {PlayerName}...
+c
+Oswald_006_fSWhen I was under that gizmo of Jafar's, it was connectin' me to him, and I think...
+=
+Oswald_007_f-...I think I got a glimpse into how he ticks.
+V
+Player_000_choice_000_f;I'm so sorry â that can't have been a good experience.
+?
+Player_000_choice_001_f$Do you need a sauna to sweat it out?
+0
+Player_000_choice_002_fOh? What did you see?
+F
+Oswald_008_f6It sure wasn't, but maybe not for the reason ya think.
+G
+Oswald_011_f7{PlayerName}... Jafar's heart is lousy with loneliness.
+D
+Oswald_012_f4Back in the lamp might not be the savvy choice here.
+I
+Oswald_013_f9Who knows how evil he might get if he's even MORE lonely!
+,
+Oswald_014_fWhat are you saying, Oswald?
+C
+Oswald_015_f3I, uh... I think we should give him another chance.
+0
+Player_001_choice_000_fOswald, are you okay?
+0
+Player_001_choice_001_fYou can't be serious.
+9
+Player_001_choice_002_fThat's... very gallant of you.
+*
+Oswald_016_fYou betcha. Thanks to you!
+c
+Oswald_019_fSI don't know... Jafar has shown us multiple times that he only cares about himself.
+T
+Oswald_020_fDHow can we trust that he won't try to take over Eternity Isle again?
+1
+Oswald_021_f!Gee... I, uh... I guess we can't.
+q
+Oswald_022_faBut he ain't the only villain here. And you keep a close eye on them, and they don't dare act up!
+S
+Oswald_023_fCMaybe just livin' around so much Dreamlight Magic makes 'em better.
+G
+Oswald_024_f7That's... very wise of you, Oswald. I'll talk to Jafar.
+9
+Oswald_017_f)I try to avoid it, but this time I can't.
+
+Oswald_018_fThanks, chum.
+
+Oswald_009_fNah. I'm okay.
+4
+Oswald_010_f$Buckets and buckets of loneliness...

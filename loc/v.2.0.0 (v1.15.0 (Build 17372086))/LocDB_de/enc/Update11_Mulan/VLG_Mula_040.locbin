@@ -1,0 +1,79 @@
+
+�
+@Village!Mulan!Mulan!VLG_Mula_040_Any_CompletedRequestDescriptionCПоговори с Мулан о победе в конкурсе.
+�
+5Village!Mulan!Mulan!VLG_Mula_040_AvailableDescriptionyУ Мулан есть забавная идея, о которой она хочет с тобой поговорить.
+�
+:Village!Mulan!Mulan!VLG_Mula_040_CompletedStoryDescription�После вашей очевидной победы, вы празднуете, сфотографируя, но сейчас пришло время посмотреть, как Мулан относится к этому дню.
+G
+,Village!Mulan!Mulan!VLG_Mula_040_DisplayNameУчебные игры
+�
+QVillage!Mulan!Mulan!VLG_Mula_040_Group01_Step01_TalkToCharacter01_StepDescription4Поговорите с Матушка Готель.
+�
+9Village!Mulan!Mulan!VLG_Mula_040_Group01_StoryDescription�К вашему удивлению, Мулан вызвал Матушка Готель на конкурс флага, чтобы выяснить, будет ли ключ к успеху работать в команде или в одиночку.
+X
+IVillage!Mulan!Mulan!VLG_Mula_040_Group02_Step02_Possess01_StepDescription{ItemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_040_Group02_Step02_Possess02_StepDescription{ItemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_040_Group02_Step02_Possess03_StepDescription{ItemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_040_Group02_Step02_Possess04_StepDescription{ItemName}.
+�
+?Village!Mulan!Mulan!VLG_Mula_040_Group02_Step02_StepDescriptionUСобирайте материалы для <ActivityItem>Mini Flags</ActivityItem>:
+�
+9Village!Mulan!Mulan!VLG_Mula_040_Group02_StoryDescription�Матушка Готель не в восторге от вашего участия, но принимает это все равно. Она поручает вам сделать флаги для игры и привести их к богине Феи, арбитру игры.
+�
+KVillage!Mulan!Mulan!VLG_Mula_040_Group03_Step03_CraftItem01_StepDescriptionDПодготовить флаги <ActivityItem>Mini</ActivityItem>.
+�
+KVillage!Mulan!Mulan!VLG_Mula_040_Group04_Step04_BringItem01_StepDescriptionfУбедитесь, что у вас в списке есть <ActivityItem>Mini Flags</ActivityItem>.
+�
+@Village!Mulan!Mulan!VLG_Mula_040_Group04_Step04_ReadyDescriptionRПринесите <ActivityItem>Mini Flags</ActivityItem> к богине Феи.
+�
+QVillage!Mulan!Mulan!VLG_Mula_040_Group05_Step05_TalkToCharacter02_StepDescription[Возвращайтесь на Мулан, чтобы начать игру с флага.
+�
+9Village!Mulan!Mulan!VLG_Mula_040_Group05_StoryDescription�Как только Крёстная Фея спрятала флаги, она говорит тебе вернуться на Мулан.
+Z
+MVillage!Mulan!Mulan!VLG_Mula_040_Group06_Step06_Conditional01_StepDescription	Нала.
+Z
+MVillage!Mulan!Mulan!VLG_Mula_040_Group06_Step06_Conditional02_StepDescription	Мауи.
+g
+MVillage!Mulan!Mulan!VLG_Mula_040_Group06_Step06_Conditional03_StepDescriptionБазз Лайтер.
+�
+?Village!Mulan!Mulan!VLG_Mula_040_Group06_Step06_StepDescriptiongПомогите вашим товарищам найти их <ActivityItem>Mini Flags</ActivityItem>:
+�
+9Village!Mulan!Mulan!VLG_Mula_040_Group06_StoryDescription�Мулан объясняет вам, что она рассчитывает на то, что вы поможете остальным членам команды выяснить, что означают их подсказки и получить их флаг.
+�
+QVillage!Mulan!Mulan!VLG_Mula_040_Group07_Step07_TalkToCharacter03_StepDescription+Возвращайтесь на Мулан.
+�
+KVillage!Mulan!Mulan!VLG_Mula_040_Group09_Step09_VisitArea01_StepDescriptionkПознакомьтесь с Мулан в мистической пещере на пляже Даззл.
+t
+QVillage!Mulan!Mulan!VLG_Mula_040_Group10_Step10_TalkToCharacter04_StepDescriptionПоговори с Мулан.
+�
+8Village!Mulan!Mulan!VLG_Mula_040_Group11_StepDescriptionTДотроньтесь до самого дна мистической пещеры.
+�
+9Village!Mulan!Mulan!VLG_Mula_040_Group11_StoryDescription�Вы встречаете Мулан в мистической пещере и отправляетесь на самое дно, чтобы найти Крёстную Фею.
+�
+@Village!Mulan!Mulan!VLG_Mula_040_Group12_Step12_ReadyDescription�Отдай Мини Флаг Крёстной Феи в мистической пещере, чтобы она запечатлела твою победу!
+�
+?Village!Mulan!Mulan!VLG_Mula_040_Group12_Step12_StepDescriptionPУбедись, что у тебя в списке есть мини-флаги.
+�
+HVillage!Mulan!Mulan!VLG_Mula_040_Group13_Step13_Listen01_StepDescriptionfПослушайте Мулан и Матушка Готель в мистической пещере.
+�
+9Village!Mulan!Mulan!VLG_Mula_040_Group13_StoryDescription�Матушка Готель входит в пещеру как раз вовремя, чтобы увидеть вашу победу.
+t
+QVillage!Mulan!Mulan!VLG_Mula_040_Group14_Step14_TalkToCharacter05_StepDescriptionПоговори с Мулан.
+�
+9Village!Mulan!Mulan!VLG_Mula_040_Group14_StoryDescription�Матушка Готель признает победу, но вы не можете сказать, что она была любезной. Вы решили поговорить с Мулан.
+�
+MVillage!Mulan!Mulan!VLG_Mula_040_Group15_Step15_TakePicture01_StepDescription�Сфотографируй свою победную команду в мистической пещере, чтобы отпраздновать этот день.
+�
+=Village!Mulan!Mulan!VLG_Mula_040_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+�
+=Village!Mulan!Mulan!VLG_Mula_040_Group03_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+x
+=Village!Mulan!Mulan!VLG_Mula_040_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+=Village!Mulan!Mulan!VLG_Mula_040_Group11_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+d
+3Village!Mulan!Mulan!VLG_Mula_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

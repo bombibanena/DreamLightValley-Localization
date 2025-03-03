@@ -1,0 +1,51 @@
+
+U
+BVillage!ToyStory!Buzz!VLG_Buzz_030_Any_CompletedRequestDescriptionReturn to Buzz.
+ó
+7Village!ToyStory!Buzz!VLG_Buzz_030_AvailableDescription€Buzz was patrolling along the river in the Forest of Valor when his memory started to come back. He had the feeling of a great battle against evil but couldn't remember much. You decide to help him recover his memories.
+‡
+<Village!ToyStory!Buzz!VLG_Buzz_030_CompletedStoryDescriptionüNow that the <ActivityItem>Memory</ActivityItem> is complete, you realize that Buzz didn't properly remember his past in the Village. How is he going to react?
+E
+.Village!ToyStory!Buzz!VLG_Buzz_030_DisplayNameThe Fragmented Past
+o
+:Village!ToyStory!Buzz!VLG_Buzz_030_Group01_StepDescription1Go to the river in the Forest of Valor with Buzz.
+ê
+:Village!ToyStory!Buzz!VLG_Buzz_030_Group02_StepDescriptionRSearch for a buried clue about Buzz's past along the river in the Forest of Valor.
+d
+SVillage!ToyStory!Buzz!VLG_Buzz_030_Group03_Step03_TalkToCharacter01_StepDescriptionTalk to Buzz.
+d
+SVillage!ToyStory!Buzz!VLG_Buzz_030_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to Scar.
+Ω
+;Village!ToyStory!Buzz!VLG_Buzz_030_Group04_StoryDescription~The Memory revealed part of a bigger scene where Scar and Buzz were fighting each other. You decide to confront Scar about it.
+\
+MVillage!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_BringItem01_StepDescription{ItemName}.
+\
+MVillage!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_BringItem02_StepDescription{ItemName}.
+^
+BVillage!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_ReadyDescriptionBring the meals to Scar.
+`
+AVillage!ToyStory!Buzz!VLG_Buzz_030_Group06_Step06_StepDescriptionGather the following meals:
+|
+;Village!ToyStory!Buzz!VLG_Buzz_030_Group06_StoryDescription=The lion agrees to tell you the truth in exchange for a meal.
+Ö
+:Village!ToyStory!Buzz!VLG_Buzz_030_Group07_StepDescriptionGSearch Scar's Cave for an object proving his past friendship with Buzz.
+ç
+SVillage!ToyStory!Buzz!VLG_Buzz_030_Group08_Step08_TalkToCharacter03_StepDescription6You've found another part of the Memory! Talk to Buzz.
+t
+?Village!ToyStory!Buzz!VLG_Buzz_030_Group09_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+v
+:Village!ToyStory!Buzz!VLG_Buzz_030_Group09_StepDescription8Fish the next clue from the river on the Sunlit Plateau.
+ˇ
+;Village!ToyStory!Buzz!VLG_Buzz_030_Group09_StoryDescriptionøScar reveals that he never fought Buzz and even helps you find another part of the <ActivityItem>Memory</ActivityItem>. The last part of the mystery lies near the river on the Sunlit Plateau.
+t
+?Village!ToyStory!Buzz!VLG_Buzz_030_Group10_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+ì
+:Village!ToyStory!Buzz!VLG_Buzz_030_Group10_StepDescriptionUOpen your Inventory and investigate the <ActivityItem>Old Fishing Rod</ActivityItem>.
+K
+:Village!ToyStory!Buzz!VLG_Buzz_030_Group11_StepDescriptionTalk to Buzz.
+v
+?Village!ToyStory!Buzz!VLG_Buzz_030_Group12_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What will you do?
+[
+:Village!ToyStory!Buzz!VLG_Buzz_030_Group12_StepDescriptionListen as Buzz talks to Scar.
+f
+5Village!ToyStory!Buzz!VLG_Buzz_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

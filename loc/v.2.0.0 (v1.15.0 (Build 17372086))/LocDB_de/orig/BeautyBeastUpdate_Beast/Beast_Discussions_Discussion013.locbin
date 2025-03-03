@@ -1,0 +1,37 @@
+
+I
+Beast_000_f:{PlayerName}, I've been thinking about the Night Thorns...
+P
+Beast_001_fA... How they transform light and beauty into darkness and menace.
+H
+Player_000_choice_000_f-Good thing I can remove them with some magic!
+C
+Player_000_choice_001_f(... Are you talking about yourself here?
+A
+Player_000_choice_002_f&I don't know; they do look kinda cool.
+C
+Beast_002_f4Do you think you could remove the enchantment on me?
+D
+Beast_003_f5Sorry, Beast. I don't think the magic works that way.
+
+Beast_004_fI understand.
+I
+Beast_005_f:Do you suppose the Night Thorns used to be something else?
+.
+Beast_006_fSomething gentler and kinder...
+5
+Player_001_choice_000_fI'm not sure about that...
+[
+Player_001_choice_001_f@Empathizing with the Night Thorns?! You have a big heart, Beast!
+7
+Player_001_choice_002_fWhat an interesting thought!
+l
+Beast_007_f]But if you like spiky plants, you should talk to Mirabel — her sister Isabela is a fan too!
+4
+Beast_008_f%I do? No one's ever said that before.
+)
+Beast_009_fNo. Not me. But my home...
+5
+Beast_010_f&It's a shame to remove them sometimes!
+3
+Beast_011_f$Their structure is very interesting.

@@ -1,0 +1,69 @@
+
+t
+SVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_TakePicture02_StepDescriptionВ Реми Ресторан.
+�
+?Village!BeautyBeast!Beast!VLG_Beas_010_Group04_StoryDescription�Фотографии помогли Зверь обрести уверенность, но он все еще чувствует себя застенчивым.
+j
+FVillage!BeautyBeast!Beast!VLG_Beas_010_Any_CompletedRequestDescription Поговори с {TargetNPC}.
+�
+;Village!BeautyBeast!Beast!VLG_Beas_010_AvailableDescription\Зверь кажется немного расстроенным из-за чего-то...
+�
+@Village!BeautyBeast!Beast!VLG_Beas_010_CompletedStoryDescription�Ужин был успешным! Зверь чувствует себя более безопасно в его отношениях с Белль и больше не беспокоится о том, что она вырастит его.
+R
+2Village!BeautyBeast!Beast!VLG_Beas_010_DisplayNameЗверь без укуса
+�
+SVillage!BeautyBeast!Beast!VLG_Beas_010_Group01_Step01_Conditional01_StepDescription�Погулять с Зверь, чтобы устроить ему экскурсию и сделать несколько стильных фотографий.
+�
+?Village!BeautyBeast!Beast!VLG_Beas_010_Group01_StoryDescription�Похоже, у Зверь проблемы с доверием, так что фотосессия для того, чтобы вернуть ему рулетку.
+�
+EVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_StepDescriptionOСфотографируйте Зверь в разных настройках:
+e
+SVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_TakePicture01_StepDescriptionВ замке.
+�
+SVillage!BeautyBeast!Beast!VLG_Beas_010_Group02_Step02_TakePicture03_StepDescription1Всё, что снаружи, в Виллидж.
+�
+WVillage!BeautyBeast!Beast!VLG_Beas_010_Group03_Step03_TalkToCharacter01_StepDescription7Поговори с Зверь о фотосессии.
+�
+EVillage!BeautyBeast!Beast!VLG_Beas_010_Group04_Step04_StepDescriptionQСпросите деревенских жителей об отношениях:
+g
+WVillage!BeautyBeast!Beast!VLG_Beas_010_Group04_Step04_TalkToCharacter02_StepDescription{TargetNPC}.
+g
+WVillage!BeautyBeast!Beast!VLG_Beas_010_Group04_Step04_TalkToCharacter03_StepDescription{TargetNPC}.
+�
+WVillage!BeautyBeast!Beast!VLG_Beas_010_Group05_Step05_TalkToCharacter04_StepDescriptionTВозвращайтесь на {TargetNPC}, чтобы обсудить совет.
+�
+?Village!BeautyBeast!Beast!VLG_Beas_010_Group05_StoryDescription�Микки Маус предложил вечер свиданий, а Мирабель объяснила связь ее родителей с помощью еды.
+�
+TVillage!BeautyBeast!Beast!VLG_Beas_010_Group06_Step06_PurchaseItem01_StepDescription7Закажи {ItemName} от Скрудж Макдак.
+�
+FVillage!BeautyBeast!Beast!VLG_Beas_010_Group07_Step07_ReadyDescriptionbПрикоснуться к базе с Зверь о романтическом свидании.
+�
+EVillage!BeautyBeast!Beast!VLG_Beas_010_Group07_Step07_StepDescriptionУбедитесь, что в вашем списке есть таблица <ActivityItem>Date-Night Exterior</ActivityItem>.
+j
+PVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step08_CookMeal01_StepDescriptionПовар {ItemName}.
+j
+PVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step08_CookMeal02_StepDescriptionПовар {ItemName}.
+j
+PVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step08_CookMeal03_StepDescriptionПовар {ItemName}.
+�
+EVillage!BeautyBeast!Beast!VLG_Beas_010_Group08_Step09_StepDescriptionnПодождите, пока <Lore> после заката</Lore> в ночь с <Lore>clear небо</Lore>.
+�
+>Village!BeautyBeast!Beast!VLG_Beas_010_Group08_StepDescriptionfСоздать идеальный романтический ужин для Белль и Зверь:
+`
+QVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_BringItem02_StepDescription{ItemName}.
+`
+QVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_BringItem03_StepDescription{ItemName}.
+`
+QVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_BringItem04_StepDescription{ItemName}.
+n
+FVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_ReadyDescription$Принеси еду в Зверь.
+�
+EVillage!BeautyBeast!Beast!VLG_Beas_010_Group09_Step10_StepDescription}Убедись, что у тебя есть еда для романтического ужина в твоем списке.
+�
+?Village!BeautyBeast!Beast!VLG_Beas_010_Group09_StoryDescription�Заказав мебель из Скрудж Макдак, готовя бурю и ожидая идеального момента, похоже, наконец-то пришло время для даты Зверь и Белль.
+�
+PVillage!BeautyBeast!Beast!VLG_Beas_010_Group10_Step11_Decorate01_StepDescriptionKНазначь романтический стол для свидания.
+�
+MVillage!BeautyBeast!Beast!VLG_Beas_010_Group11_Step12_Party01_StepDescriptionhСфотографируйся, чтобы отметить романтическое свидание.
+\
+9Village!BeautyBeast!Beast!VLG_Beas_010_StartRequestButtonЗапустить запрос

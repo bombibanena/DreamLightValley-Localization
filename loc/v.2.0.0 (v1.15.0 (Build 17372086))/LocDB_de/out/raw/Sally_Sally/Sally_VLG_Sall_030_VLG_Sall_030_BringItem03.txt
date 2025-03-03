@@ -1,0 +1,30 @@
+TAG: Sally_000_f
+Sally, I've got good news!
+
+TAG: Sally_001_f
+... And so many sewing supplies! Did Daisy have an idea for us?
+
+TAG: Sally_002_f
+Yes! She suggested we all collaborate on something!
+
+TAG: Player_001_choice_000_f
+Let's meet them at Minnie's!
+
+TAG: Player_001_choice_002_f
+We're designing home decor!
+
+TAG: Player_001_choice_003_f
+What gave it away?
+
+TAG: Sally_005_f
+All right. I can't wait to hear what they have planned for all of these supplies.
+
+TAG: Sally_004_f
+I've never done that before... but I'm happy to try.
+
+TAG: Sally_007_f
+Thank you for collecting these. Should we take them to Daisy and Minnie?
+
+TAG: Sally_006_f
+The purple flowers. They're Daisy's signature color.
+

@@ -1,0 +1,72 @@
+TAG: Aladdin_004_f
+I think WALLÂ·E really loved our gift for his collection.
+
+TAG: Player_000_f
+I think so too.
+
+TAG: Player_000_choice_000_f
+He was so excited!
+
+TAG: Player_000_choice_001_f
+I'd be pretty happy if someone brought ME gems.
+
+TAG: Player_000_choice_002_f
+Gems are shiny. Shiny good.
+
+TAG: Aladdin_006_f
+Yeah! Gems are pretty valuable. There's a lot to be excited about.
+
+TAG: Aladdin_010_f
+More than you think. Lots of Villagers use gems for plenty of things. Magic, arts and crafts, decorating...
+
+TAG: Aladdin_011_f
+Really? Do ya think the Village would like it if they could get their hands on gems more easily?
+
+TAG: Player_001_f
+You mean like a gem stall?
+
+TAG: Player_001_choice_000_f
+Everyone would love it!
+
+TAG: Player_001_choice_001_f
+That's a great idea!
+
+TAG: Player_001_choice_002_f
+I NEED IT.
+
+TAG: Aladdin_013_f
+Well, then I say we make it happen.
+
+TAG: Aladdin_016_f
+I love the stalls in the Agrabah marketplace.
+
+TAG: Aladdin_018_f
+The vendors from far-off lands, the fruits, the breads...
+
+TAG: Aladdin_019_f
+Ya know, I'd like to bring some of that here. {PlayerName}, could you <Lore>head back to the marketplace in Agrabah and get building supplies for our stall</Lore>?
+
+TAG: Aladdin_000_f
+I'm gonna start collecting gems and some other supplies we'll need.
+
+TAG: Aladdin_014_f
+You sure?
+
+TAG: Player_002_choice_000_f
+I've been waiting for a gem stall forever!
+
+TAG: Player_002_choice_001_f
+Very sure!
+
+TAG: Player_002_choice_002_f
+This is not joke time; this is SERIOUS!
+
+TAG: Aladdin_015_f
+Whoa, I can tell!
+
+TAG: Aladdin_005_f
+Me too. Gems are pretty valuable.
+
+TAG: Aladdin_007_f
+Ha. You and Abu would definitely get along. Plus, gems are pretty valuable.
+

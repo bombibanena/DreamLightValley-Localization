@@ -1,0 +1,29 @@
+
+X
+@Village!WallE!WallE!VLG_Wall_030_Any_CompletedRequestDescriptionReturn to WALLÂ·E.
+f
+5Village!WallE!WallE!VLG_Wall_030_AvailableDescription-WALLÂ·E has something he wants to show you.
+�
+:Village!WallE!WallE!VLG_Wall_030_CompletedStoryDescriptionWYou found a strange machine among the garbage. Maybe WALLÂ·E will know more about it.
+O
+,Village!WallE!WallE!VLG_Wall_030_DisplayNameThe Compressed Garbage Incident
+�
+=Village!WallE!WallE!VLG_Wall_030_Group01_OngoingRequestButtonL<smallcaps>{title}</smallcaps><br>(Continue bringing WALLÂ·E the machine.)
+�
+@Village!WallE!WallE!VLG_Wall_030_Group01_Step01_ReadyDescription{A strange machine was hidden in one of the cubes of <ActivityItem>Compressed Garbage</ActivityItem>. Bring it to WALLÂ·E.
+�
+?Village!WallE!WallE!VLG_Wall_030_Group01_Step01_StepDescriptionpA strange machine was hidden in one of the cubes of <ActivityItem>Compressed Garbage</ActivityItem>. Pick it up!
+�
+=Village!WallE!WallE!VLG_Wall_030_Group02_OngoingRequestButton?<smallcaps>{title}</smallcaps><br>(Continue gathering garbage.)
+x
+8Village!WallE!WallE!VLG_Wall_030_Group02_StepDescription<Remove the {ItemName} that WALLÂ·E created in the Village.
+�
+9Village!WallE!WallE!VLG_Wall_030_Group02_StoryDescription�Apparently, he decided to go and compress some Trash Cubes. After explaining to him he doesn't have to keep gathering garbage, you busy yourself removing the ones he created.
+T
+?Village!WallE!WallE!VLG_Wall_030_Group03_Step03_StepDescriptionFollow WALLÂ·E.
+W
+9Village!WallE!WallE!VLG_Wall_030_Group03_StoryDescriptionHe asks you to follow him.
+U
+?Village!WallE!WallE!VLG_Wall_030_Group04_Step04_StepDescriptionTalk to WALLÂ·E.
+d
+3Village!WallE!WallE!VLG_Wall_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

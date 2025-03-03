@@ -1,0 +1,57 @@
+TAG: Scar_000_f
+I have a little thought exercise for you.
+
+TAG: Scar_001_f
+Which Villager do you think would be the most delicious?
+
+TAG: Player_000_choice_000_f
+Bad kitty!
+
+TAG: Player_000_choice_001_f
+This isn't a fun thought exercise!
+
+TAG: Player_000_choice_002_f
+YOU CAN'T EAT THE OTHER VILLAGERS.
+
+TAG: Scar_002_f
+Oh, don't overreact, {PlayerName}.
+
+TAG: Scar_006_f
+I haven't done anything wrong.
+
+TAG: Scar_003_f
+This is all strictly hypothetical, of course.
+
+TAG: Scar_005_f
+Though it does feel as if my diet has been strictly hypothetical lately.
+
+TAG: Scar_007_f
+You put so many limitations on who... ahem... WHAT I'm allowed to eat.
+
+TAG: Scar_008_f
+I'm practically skin and bones.
+
+TAG: Player_001_choice_000_f
+How about some delicious vegetable snacks?
+
+TAG: Player_001_choice_001_f
+You look fine to me.
+
+TAG: Player_001_choice_002_f
+Go catch some fish.
+
+TAG: Scar_009_f
+... I'm a carnivore, you ingrate.
+
+TAG: Scar_011_f
+And all the fish in your waters aren't going to change that.
+
+TAG: Scar_010_f
+Well, I'm not. I'm famished!
+
+TAG: Scar_012_f
+Ugh. That sounds like work.
+
+TAG: Scar_004_f
+Ugh, I'm excruciatingly aware.
+

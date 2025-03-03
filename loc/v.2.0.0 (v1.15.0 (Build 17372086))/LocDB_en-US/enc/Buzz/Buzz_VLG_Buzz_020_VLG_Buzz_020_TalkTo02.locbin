@@ -1,0 +1,56 @@
+
+C
+
+Buzz_000_f5Congratulations on another successful mission, cadet.
+V
+
+Buzz_002_fHYou've shown that you can locate resources in an unfamiliar environment.
+M
+
+Buzz_008_f?Now, let's see if you can find resources without my assistance.
+²
+
+Buzz_005_f£If we're going to hand out <ActivityItem>Buzz Lightyear Leaflets</ActivityItem>, you'll have to locate <ActivityItem>Sheets of Paper</ActivityItem> to create them.
+]
+
+Buzz_001_fONow, who could have <ActivityItem>Sheets of Paper</ActivityItem> to lend us...?
++
+Player_001_fI'm gonna go with Merlin...
+<
+Player_001_choice_000_f!He writes a lot for his research.
+@
+Player_001_choice_001_f%He practically lives in that library.
+U
+Player_001_choice_002_f:His library is so cluttered, there must be paper in there.
+Y
+
+Buzz_003_fKIt's always good to have a contact who can handle Research and Development.
+`
+Player_000_fPI think we'll need more paper than that. I'll check with Mickey and Donald, too.
+6
+Player_000_choice_000_fI can always count on them.
+E
+Player_000_choice_001_f*Their houses have been around the longest.
+9
+Player_000_choice_002_fThey won't make me pay for it.
+I
+
+Buzz_012_f;There's nothing more valuable than friends you can rely on.
+ã
+
+Buzz_011_fÔNow, once you have the <ActivityItem>Sheets of Paper</ActivityItem>, combine them with the <ActivityItem>Buzz Lightyear Playing Cards</ActivityItem> using this <ActivityItem>Adhesive Bonding Agent</ActivityItem>.
+O
+
+Buzz_013_fAThen, bring them to me for inspection as soon as you've finished.
+
+
+Buzz_014_fqAnd therefore have the highest chances of containing surplus office supplies. I like your thinking, {PlayerName}.
+`
+
+Buzz_015_fRWell, considering we haven't discussed our operating budget, that's a wise choice.
+C
+
+Buzz_004_f5Wow... Think of all the knowledge contained in there.
+I
+
+Buzz_006_f;As I recall, he does have a tendency to stockpile supplies.

@@ -1,0 +1,63 @@
+TAG: Donald_000_f
+What's that? Another clue?
+
+TAG: Player_000_choice_000_f
+It's animal fur.
+
+TAG: Player_000_choice_001_f
+It's space alien fur.
+
+TAG: Player_000_choice_002_f
+It's unidentified creature fur.
+
+TAG: Donald_002_f
+Maybe one of the raccoons around Dreamlight Valley is getting into people's houses.
+
+TAG: Donald_014_f
+WAK! It's making even less sense than it did before!
+
+TAG: Donald_015_f
+I think it means that fur came from whatever is stealing everybody's socks.
+
+TAG: Donald_016_f
+And that we might only need to find one more clue to make it go to 100%...
+
+TAG: Donald_017_f
+Oh boy, oh boy, oh boy! That'll be easy!
+
+TAG: Donald_018_f
+I'll <Lore>keep my eyes out for any more clues</Lore>.
+
+TAG: Donald_003_f
+It would make a lot more sense than space aliens.
+
+TAG: Donald_004_f
+Don't be ridiculous! What kind of raccoon steals just half of everybody's socks? And that fur is blue!
+
+TAG: Donald_007_f
+Besides, remember that funny doohickey we found in my House? That didn't come from any raccoon!
+
+TAG: Donald_009_f
+Hey, I just got an idea!
+
+TAG: Donald_011_f
+The doohickey started beeping again! Let's see what happens when we put the fur inside it...
+
+TAG: Donald_012_f
+Did ya see that? It started flashing again! What does it say?
+
+TAG: Donald_013_f
+It says... <Lore>"DNA MATCH. AUTHORIZATION 66% COMPLETE."</Lore>
+
+TAG: Donald_005_f
+You were right, Donald. There's no mistaking it.
+
+TAG: Donald_006_f
+It's blue. This fur must have come from some sort of space alien.
+
+TAG: Donald_008_f
+Oh boy! This is the best piece of evidence yet. Even better than that funny doohickey we found in my House.
+
+TAG: Donald_010_f
+It could be from a space alien. But it could also be from a raccoon or something.
+

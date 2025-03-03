@@ -1,0 +1,99 @@
+TAG: Donald_000_f
+Hey, Donald. I found this sock just lying on the ground. It has your initials sewn into the lining...
+
+TAG: Donald_002_f
+Hey, that's mine! Give it to me! ... Thanks for finding it!
+
+TAG: Donald_021_f
+I didn't even know you wore socks.
+
+TAG: Donald_022_f
+I don't. I got these as a gift, and now I use 'em to wash my dishes.
+
+TAG: Donald_020_f
+Oh... yuck! It's got bite marks and spit all over it! Somebody tried to eat it!
+
+TAG: Donald_003_f
+Where'd ya find it?
+
+TAG: Player_000_f
+It was just lying on the ground.
+
+TAG: Player_000_choice_000_f
+You must have lost it.
+
+TAG: Player_000_choice_001_f
+I wonder how it got there?
+
+TAG: Player_000_choice_002_f
+You should be more careful with your stuff.
+
+TAG: Donald_004_f
+Lost it? That's ridiculous. I don't just go around losing socks!
+
+TAG: Donald_006_f
+It must've been stolen! Stolen right outta my House!
+
+TAG: Player_001_choice_000_f
+So we have a sock thief on the loose...
+
+TAG: Player_001_choice_001_f
+Why would someone want to steal your sock?
+
+TAG: Player_001_choice_002_f
+I dunno, Donald. This seems... unlikely.
+
+TAG: Donald_008_f
+Yeah! I knew you'd believe me. And it's a good thing, too.
+
+TAG: Donald_023_f
+It's not just my sock that's gone missing. All sortsa stuff has been disappearing from my House.
+
+TAG: Donald_011_f
+And I've been seein' a bunch of funny lights streaking across the sky over the Beach the last couple nights.
+
+TAG: Donald_016_f
+Funny lights in the sky...?
+
+TAG: Donald_017_f
+That's right. It's some kinda sock-stealin' UFO!
+
+TAG: Donald_013_f
+But nobody else believes me. They think I'm tellin' tall tales.
+
+TAG: Player_002_choice_000_f
+I believe you, Donald.
+
+TAG: Player_002_choice_001_f
+I'm going to need to see some more evidence.
+
+TAG: Player_002_choice_002_f
+Come on. There's no such thing as a sock-stealing UFO.
+
+TAG: Donald_014_f
+Aw, thanks, {PlayerName}. We have to get to the bottom of this, fast.
+
+TAG: Donald_019_f
+You better <Lore>search around my House</Lore>. The space aliens made a gigantic mess.
+
+TAG: Donald_018_f
+There's gotta be a clue in there.
+
+TAG: Donald_015_f
+You want evidence? Let's go look at the scene of the crime.
+
+TAG: Donald_012_f
+I'll prove it to you. Let's go look at the scene of the crime.
+
+TAG: Donald_009_f
+'Cause it's a great sock! But that's not all.
+
+TAG: Donald_010_f
+I'm tellin' the truth, whether you or anybody else believes me. This is an emergency!
+
+TAG: Donald_005_f
+I know exactly how it got there.
+
+TAG: Donald_007_f
+I am careful! That sock was in my drawer right where it belonged.
+

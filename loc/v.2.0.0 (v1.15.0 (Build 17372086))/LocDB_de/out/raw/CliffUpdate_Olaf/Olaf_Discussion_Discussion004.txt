@@ -1,0 +1,78 @@
+TAG: Olaf_000_f
+{PlayerName}, what's your favorite season?
+
+TAG: Player_000_choice_000_f
+Winter.
+
+TAG: Player_000_choice_001_f
+Summer.
+
+TAG: Player_000_choice_002_f
+Spring.
+
+TAG: Player_000_choice_003_f
+Fall.
+
+TAG: Olaf_001_f
+Ooh! I like winter too! In fact, I was born in winter. It's such a good time to stay in and get cozy around a fire!
+
+TAG: Olaf_002_f
+What do you like to do in winter?
+
+TAG: Player_001_choice_000_f
+Go sledding.
+
+TAG: Player_001_choice_001_f
+Make snowmen.
+
+TAG: Player_001_choice_002_f
+Have a snowball fight.
+
+TAG: Olaf_003_f
+*gasp* Me too!
+
+TAG: Olaf_004_f
+Wait â sledding is when you hurtle down the sides of snowy mountains really fast, right? If so, I'm a sledding expert!
+
+TAG: Olaf_005_f
+Reason 527 why I like you! Of course, you have to be sure that you're ready for the possibility that they'll magically come to life.
+
+TAG: Olaf_006_f
+Oh, you should really meet my friend Marshmallow!
+
+TAG: Olaf_007_f
+He is excellent at throwing snowballs... and snow butts.
+
+TAG: Olaf_008_f
+What a coincidence! Me too! I love summer and sun and all things hot...
+
+TAG: Olaf_009_f
+What's your favorite part of summer?
+
+TAG: Player_002_choice_000_f
+Summer breezes.
+
+TAG: Player_002_choice_001_f
+Warmth.
+
+TAG: Player_002_choice_002_f
+Melting snow.
+
+TAG: Olaf_010_f
+Ahh... there's nothing like a summer breeze. It's the perfect combination of summer warmth and refreshing wind.
+
+TAG: Olaf_011_f
+Now that I have my permafrost, I can really enjoy warmth. It's so cozy and nice, and it makes me feel giggly all over.
+
+TAG: Olaf_012_f
+... *gasp* What?!
+
+TAG: Olaf_013_f
+Oh, you're just joking. Phew.
+
+TAG: Olaf_014_f
+Spring is so nice. I like to think of it as tiny-summer.
+
+TAG: Olaf_015_f
+Fall is so pretty! I like to think of it as early-winter.
+

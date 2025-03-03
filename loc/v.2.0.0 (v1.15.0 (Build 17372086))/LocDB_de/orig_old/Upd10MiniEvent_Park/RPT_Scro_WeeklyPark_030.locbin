@@ -1,0 +1,35 @@
+
+�
+MRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Any_CompletedRequestDescription:Возвращайтесь на Скрудж Макдак.
+t
+BRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_AvailableDescription.Поговори с Скрудж Макдак.
+�
+9Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_DisplayNameGПраздник Парков Мечты: очаровательней!
+e
+VRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess01_StepDescription{ItemName}.
+e
+VRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess02_StepDescription{ItemName}.
+e
+VRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess03_StepDescription{ItemName}.
+e
+VRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess04_StepDescription{ItemName}.
+e
+VRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_Step01_Possess05_StepDescription{ItemName}.
+�
+ERepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group01_StepDescription7Соберите следующие материалы:
+�
+^Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group02_Step02_TalkToCharacter01_StepDescription.Поговори с Скрудж Макдак.
+g
+XRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group03_Step03_CraftItem01_StepDescription{ItemName}.
+g
+XRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group03_Step03_CraftItem02_StepDescription{ItemName}.
+T
+ERepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group03_StepDescriptionСудно:
+f
+WRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group04_Step04_Decorate01_StepDescription{ItemName}.
+f
+WRepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group04_Step04_Decorate02_StepDescription{ItemName}.
+p
+ERepeatable!Event!Park!RPT_Scro_WeeklyPark_030_Group04_StepDescription'Украсить свою долину:
+q
+@Repeatable!Event!Park!RPT_Scro_WeeklyPark_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

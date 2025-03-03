@@ -1,0 +1,36 @@
+TAG: Nala_005_f
+Wow, {PlayerName}. You caught so many fish.
+
+TAG: Nala_006_f
+I guess we have a lot to learn from each other.
+
+TAG: Nala_000_f
+But maybe we should eat first. I'm starving.
+
+TAG: Nala_007_f
+Hey, that's another thing I could teach you.
+
+TAG: Nala_008_f
+The art of fine cuisine.
+
+TAG: Player_000_f
+Usually we humans would prepare fish before eating it. We could...
+
+TAG: Player_000_choice_000_f
+...wrap them in rice and seaweed to make sushi.
+
+TAG: Player_000_choice_001_f
+...grill them with some nice vegetables.
+
+TAG: Player_000_choice_002_f
+...stick them between bread to make a sandwich.
+
+TAG: Nala_009_f
+You're the expert. But whatever we do, could we do it fast?
+
+TAG: Nala_010_f
+My stomach's grumbling.
+
+TAG: Nala_011_f
+Don't worry. Maybe you can relax near that resting spot I made for you while I <Lore>make you some food</Lore>.
+

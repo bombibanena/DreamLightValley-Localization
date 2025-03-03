@@ -1,0 +1,69 @@
+TAG: Village!Moana!Moana!VLG_Moan_040_Any_CompletedRequestDescription
+Поговори с Моана.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_AvailableDescription
+Моана хочет поговорить о Пуа.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_CompletedStoryDescription
+Спроси Моана, как дела у Пуа после всех этих поворотов и поворотов.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_DisplayName
+Поиск Пуа
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group01_StepDescription
+Следуйте за Моана к рыболовной лодке.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group01_StoryDescription
+Для Пуа прошло достаточно времени, чтобы найти <ActivityItem>Coconuts</ActivityItem>. Моана хочет проверить для себя, и ты идешь с ней.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Моана.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group03_StepDescription
+Дорожка Пуа в Медоу.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group03_StoryDescription
+Ты найдёшь следы Пуа, но без Пуа тебе придется отследить маленькую свинку в Виллидж.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group04_Step04_TalkToCharacter02_StepDescription
+Поговорите с Моана.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group07_StepDescription
+Следить за Пуа рядом с Рестораном.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group08_StepDescription
+Поговори об этом с Моана.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group09_StepDescription
+Дорожка Пуа в лесу.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group10_StepDescription
+Пуа в ловушке!
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group10_StoryDescription
+После погони за Пуа по всей долине, вы обнаруживаете маленькую свинью, застрявшую в Ночных Торнах.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_Step11_ReadyDescription
+Передайте Моана новый <ActivityItem> Leader Shard</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_Step11_StepDescription
+Возьмите новый <ActivityItem> Leader Shard</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_Group11_StoryDescription
+Найти и освободить Пуа делает возможным появление еще одного <ActivityItem> Leader Shard</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

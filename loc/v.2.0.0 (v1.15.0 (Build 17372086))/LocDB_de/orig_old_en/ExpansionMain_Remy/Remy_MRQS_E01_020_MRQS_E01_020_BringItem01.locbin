@@ -1,0 +1,43 @@
+
+(
+
+Remy_002_f{PlayerName}? What's this?
+.
+
+Remy_000_f Ancient's Landing Fine Dining...
+V
+
+Remy_001_fHIt's a menu. I found it beside a boarded-up restaurant on Eternity Isle.
+D
+
+Remy_009_f6Remy... did you used to have ANOTHER restaurant there?
+=
+
+Remy_010_f/Wait... It's all starting to come back to me...
+E
+
+Remy_011_f7I DID have another Chez Remy location on Eternity Isle!
+d
+
+Remy_012_fVIt never got a chance to take off. I was just getting started when the Forgetting hit.
+l
+
+Remy_013_f^But hey... I think I'm ready to give it another try and open Chez Remy, Eternity Isle edition!
+2
+Player_000_choice_000_fThat's an amazing idea!
+J
+Player_000_choice_001_f/You're always looking for a new challenge, huh?
+K
+Player_000_choice_002_f0Isn't two restaurants a lot for just one of you?
+$
+
+Remy_005_fI'm glad you think so.
+C
+
+Remy_008_f5C'mon; let's go check out Chez Remy on Eternity Isle.
+X
+
+Remy_006_fJAlways. You never know where the inspiration for a new dish can come from.
+D
+
+Remy_007_f6Trust me, {PlayerName}; I'm very good at multitasking.

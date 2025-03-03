@@ -1,0 +1,39 @@
+TAG: WallE_000_f
+ВАЛЛ·И!
+
+TAG: Player_000_f
+Не могли бы вы взглянуть на этот компас?
+
+TAG: Player_000_choice_000_f
+Мне нужна твоя помощь починить его.
+
+TAG: Player_000_choice_001_f
+Можешь сказать мне, что с ним не так?
+
+TAG: Player_000_choice_002_f
+Ты хорош в ремонте старого хлама!
+
+TAG: WallE_002_f
+Ух ты!
+
+TAG: WallE_003_f
+Та-да!
+
+TAG: Player_002_f
+Ладно, в этой книге говорится, что мне нужно создать новый <ActivityItem>Dreamlight Magnet</ActivityItem> для компаса, используя <ActivityItem>Tinkering части</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, и <ActivityItem>Crystals</ActivityItem>.
+
+TAG: Player_002_choice_000_f
+Сделаем это!
+
+TAG: Player_002_choice_001_f
+Спасибо, ВАЛЛ·И!
+
+TAG: Player_002_choice_002_f
+ВАЛЛ·И, ты лучший!
+
+TAG: WallE_001_f
+Ура!
+
+TAG: WallE_005_f
+Ооо...
+

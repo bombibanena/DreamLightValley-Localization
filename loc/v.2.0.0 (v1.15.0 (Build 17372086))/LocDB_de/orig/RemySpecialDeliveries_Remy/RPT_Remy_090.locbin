@@ -1,0 +1,67 @@
+
+ù
+=Repeatable!Ratatouille!Remy!RPT_Remy_090_AvailableDescription\Something's gone wrong in Remy's Kitchen, and there's something he needs from you to fix it.
+_
+4Repeatable!Ratatouille!Remy!RPT_Remy_090_DisplayName'Bon App√©tit!: A Problem in The Kitchen
+à
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group01_Step01_ReadyDescription<Bring Remy the <ActivityItem>Tinkering Parts</ActivityItem>.
+Ö
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group01_Step01_StepDescription:Get <ActivityItem>Tinkering Parts</ActivityItem> for Remy.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_BringItem02_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_BringItem03_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_BringItem04_StepDescription{ItemName}.
+c
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_ReadyDescriptionBring Remy the flowers.
+n
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_StepDescription#Get the following flowers for Remy:
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem08_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem09_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem10_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem11_StepDescription{ItemName}.
+c
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_ReadyDescriptionBring the gems to Remy.
+k
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_StepDescription Get the following gems for Remy:
+á
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group04_Step04_ReadyDescription;Bring the <ActivityItem>Empty Vials</ActivityItem> to Remy.
+Å
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group04_Step04_StepDescription6Get <ActivityItem>Empty Vials</ActivityItem> for Remy.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem15_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem16_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem17_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem18_StepDescription{ItemName}.
+c
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_ReadyDescriptionBring the wood to Remy.
+f
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_StepDescriptionGet the following for Remy:
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_BringItem19_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_BringItem20_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_BringItem21_StepDescription{ItemName}.
+g
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_ReadyDescriptionBring Remy all of the fish.
+k
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_StepDescription Get the following fish for Remy:
+Ñ
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group07_Step07_ReadyDescription8Bring <ActivityItem>Dream Shards</ActivityItem> to Remy.
+Ç
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group07_Step07_StepDescription7Get <ActivityItem>Dream Shards</ActivityItem> for Remy.
+Ö
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group08_Step08_ReadyDescription9Bring the <ActivityItem>Rich Soil</ActivityItem> to Remy.
+
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group08_Step08_StepDescription4Get <ActivityItem>Rich Soil</ActivityItem> for Remy.
+l
+;Repeatable!Ratatouille!Remy!RPT_Remy_090_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,37 @@
+
+V
+DStory!Expansion01!MRQS_E01_030_Stall_Any_CompletedRequestDescriptionTalk to Goofy.
+⁄
+9Story!Expansion01!MRQS_E01_030_Stall_AvailableDescriptionúYou discovered a sign indicating that Goofy had previously opened at least one of his famous Stalls on Eternity Isle. Maybe he'll be interested to see this.
+’
+>Story!Expansion01!MRQS_E01_030_Stall_CompletedStoryDescriptioníWith the inauguration done, you can now use the Stall in Ancient's Landing. Maybe you should check in with Goofy to see if he needs anything else.
+B
+0Story!Expansion01!MRQS_E01_030_Stall_DisplayNameGive Me a Sign
+á
+OStory!Expansion01!MRQS_E01_030_Stall_Group01_Step01_BringItem01_StepDescription4Make sure you have the {ItemName} in your Inventory.
+f
+DStory!Expansion01!MRQS_E01_030_Stall_Group01_Step01_ReadyDescriptionBring the {ItemName} to Goofy.
+à
+UStory!Expansion01!MRQS_E01_030_Stall_Group02_Step02_FollowCharacter01_StepDescription/Follow Goofy to his Stall in Ancient's Landing.
+i
+WStory!Expansion01!MRQS_E01_030_Stall_Group02_Step02_FollowCharacter01_TalkToDescriptionTalk to Goofy.
+√
+=Story!Expansion01!MRQS_E01_030_Stall_Group02_StoryDescriptionÅGoofy remembers he used to have Stalls on Eternity Isle as well and decides to see what happened to the one in Ancient's Landing.
+â
+OStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_BringItem02_StepDescription6Mine for <ActivityItem>Copper</ActivityItem> in rocks.
+•
+OStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_BringItem03_StepDescriptionRFish for <ActivityItem>Plastic Scrap</ActivityItem> in the waters without ripples.
+e
+DStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_ReadyDescriptionBring the materials to Goofy.
+
+CStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_StepDescription8Gather the materials for Goofy around Ancient's Landing:
+°
+=Story!Expansion01!MRQS_E01_030_Stall_Group03_StoryDescription`The Stall is all broken, and you decide to help Goofy fix it by gathering the materials for him.
+∞
+LStory!Expansion01!MRQS_E01_030_Stall_Group04_Step04_Unlock01_StepDescription`Unlock Goofy's Stall in Ancient's Landing by interacting with the Scrooge McDuck Sign beside it.
+∫
+=Story!Expansion01!MRQS_E01_030_Stall_Group04_StoryDescriptionyYou bring Goofy what he needs to fix the Stall, and he decides that you should be the one opening it for everyone to use.
+x
+AStory!Expansion01!MRQS_E01_030_Stall_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+s
+AStory!Expansion01!MRQS_E01_030_Stall_Group04_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?

@@ -1,0 +1,69 @@
+
+í
+>Story!Expansion02!MRQS_E02_080_IntroFlame_AvailableDescriptionœ{PlayerName} forged forward into another part of Mythopia, clearing away yet more ink. This corner of the Vale had some sort of enormous, flaming torch in one corner. Surely that was worthy of investigation.
+J
+5Story!Expansion02!MRQS_E02_080_IntroFlame_DisplayNameA Moth to a Flame
+é
+TStory!Expansion02!MRQS_E02_080_IntroFlame_Group01_Step01_VisitArea01_StepDescription6Explore <ActivityItem>the Fiery Plains</ActivityItem>.
+ô
+AStory!Expansion02!MRQS_E02_080_IntroFlame_Group01_StepDescriptionTYou've cleared away the ink blocking the way, and discovered a new part of Mythopia.
+c
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group02_Step02_StepDescriptionTake a picture of them.
+f
+AStory!Expansion02!MRQS_E02_080_IntroFlame_Group02_StepDescription!Mysterious flames block the path!
+ë
+BStory!Expansion02!MRQS_E02_080_IntroFlame_Group02_StoryDescription Deeper in Mythopia, {PlayerName} found the way blocked by mysterious green and blue flames. No ordinary water could remove them. It seemed they were enchanted, imbued with some sort of mysterious magic.
+ã
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group03_Step03_StepDescription?Explore the Elysian Fields to find a Villager who can help you.
+í
+AStory!Expansion02!MRQS_E02_080_IntroFlame_Group03_StepDescriptionMIf only there were someone knowledgeable about Mythopia who could help you...
+±
+ZStory!Expansion02!MRQS_E02_080_IntroFlame_Group04_Step04_TalkToCharacter01_StepDescriptionSTalk to {TargetNPC} and show him the picture of the <Lore>Mysterious Flames</Lore>.
+ó
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group05_Step05_StepDescriptionKHades talked about a hidden spring of sacred water with magical properties.
+Ö
+ZStory!Expansion02!MRQS_E02_080_IntroFlame_Group05_Step05_TalkToCharacter02_StepDescription'Talk to {TargetNPC} about its location.
+®
+BStory!Expansion02!MRQS_E02_080_IntroFlame_Group05_StoryDescription·Hades told {PlayerName} of a hidden spring somewhere in the Vale. But (perhaps fortunately) the Lord of the Underworld had no clue where it actually was. {PlayerName} would need to seek the advice of the Lorekeeper once more.
+a
+RStory!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_Possess01_StepDescription{ItemName}.
+a
+RStory!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_Possess06_StepDescription{ItemName}.
+a
+RStory!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_Possess07_StepDescription{ItemName}.
+¿
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group06_Step06_StepDescriptiontThe Lorekeeper holds a story about the Sacred Spring's location. Collect enough Snippets to restore it to her pages.
+œ
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group07_Step07_StepDescriptionÇ(Press {input_mainmenu} to access the Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)
+π
+NStory!Expansion02!MRQS_E02_080_IntroFlame_Group07_Step07_StepDescriptionMobileg(Open your Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)
+¨
+AStory!Expansion02!MRQS_E02_080_IntroFlame_Group07_StepDescriptiongReorder the <ActivityItem>"Aurora and the Sacred Spring"</ActivityItem> Tale in the Lorekeeper's pages.
+Ω
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group08_Step08_StepDescriptionqFind the <ActivityItem>Sacred Spring</ActivityItem> hidden in Storybook Vale using the clues from Aurora's story.
+ñ
+RStory!Expansion02!MRQS_E02_080_IntroFlame_Group09_Step09_Possess02_StepDescription@Pick up a <ActivityItem>vial of the sacred water</ActivityItem>.
+h
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group09_Step09_StepDescriptionYou found the Sacred Spring!
+¢
+BStory!Expansion02!MRQS_E02_080_IntroFlame_Group09_StoryDescription€{PlayerName} soon uncovered another lost story from the Lorekeeper's pages √¢¬Ä¬î the tale of how Aurora discovered the Sacred Spring. Perhaps the hero of the Storybook Vale could follow in Aurora's footsteps once more.
+t
+ZStory!Expansion02!MRQS_E02_080_IntroFlame_Group10_Step10_TalkToCharacter03_StepDescriptionReturn to {TargetNPC}.
+a
+RStory!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_Possess03_StepDescription{ItemName}.
+a
+RStory!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_Possess04_StepDescription{ItemName}.
+a
+RStory!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_Possess05_StepDescription{ItemName}.
+m
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group11_Step11_StepDescription!Gather the following in Mythopia:
+m
+TStory!Expansion02!MRQS_E02_080_IntroFlame_Group12_Step12_CraftItem01_StepDescriptionCraft the {ItemName}.
+Å
+VStory!Expansion02!MRQS_E02_080_IntroFlame_Group13_Step13_ConsumeItem01_StepDescription'Use the {ItemName} from your Inventory.
+»
+VStory!Expansion02!MRQS_E02_080_IntroFlame_Group14_Step14_Conditional03_StepDescriptionnReach the <ActivityItem>Mythic Trial</ActivityItem> in the Fiery Plains and use your Royal Net to activate it.
+õ
+HStory!Expansion02!MRQS_E02_080_IntroFlame_Group14_Step14_StepDescriptionOYou can now use your Watering Can to remove the <Lore>Mysterious Flames</Lore>!
+”
+BStory!Expansion02!MRQS_E02_080_IntroFlame_Group14_StoryDescriptionåAt last, {PlayerName} dealt with the flames blocking the way. Mount Olympus, and an end to Hades and Maleficent's feud, was one step closer.

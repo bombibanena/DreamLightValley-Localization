@@ -1,0 +1,39 @@
+TAG: EVE_001_f
+Uh... Directive?
+
+TAG: EVE_000_f
+Don't worry. The <ActivityItem>Experimental Fireworks</ActivityItem> have failed but the <ActivityItem>Fires</ActivityItem> are gone.
+
+TAG: EVE_002_f
+So for our next attempt...
+
+TAG: EVE_003_f
+No!
+
+TAG: Player_000_f
+You don't want to try again...
+
+TAG: Player_000_choice_000_f
+I understand it was a little scary.
+
+TAG: Player_000_choice_001_f
+Sometimes experiments go wrong.
+
+TAG: Player_000_choice_002_f
+I'm with Stitch on this. The bigger the boom, the better.
+
+TAG: EVE_004_f
+*frantic digital beeps*
+
+TAG: EVE_008_f
+Maybe Stitch will know what happened. I'll go talk to him.
+
+TAG: EVE_005_f
+*sigh*
+
+TAG: EVE_006_f
+No.
+
+TAG: EVE_007_f
+Speaking of Stitch, I'll go talk to him. See if he has an idea about why it exploded like that.
+

@@ -1,0 +1,33 @@
+TAG: Merlin_000_f
+Now I know you haven't been to the Sunlit Plateau yet. Take it from me: It's not to be missed! Of course, you'll have to remove these Night Thorns to clear the path.
+
+TAG: Player_000_choice_000_f
+Let's go to the Sunlit Plateau. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Merlin_001_f
+Good show, {PlayerName}! You've cleared the way to the Sunlit Plateau!
+
+TAG: Merlin_004_f
+It seems your magic isn't quite strong enough to reach the Sunlit Plateau. You'll have to gather more Dreamlight.
+
+TAG: Merlin_002_f
+All right. But remember: Only YOU have the power to open the blocked Biomes of the Village.
+
+TAG: Merlin_003_f
+I'm afraid there's Dark Magic emanating from the Sunlit Plateau.
+
+TAG: Merlin_005_f
+We'll have to fix the Pillar of Friendship in the Meadow if we want to access new Biomes in the Village.
+
+TAG: Merlin_006_f
+The curse in the Meadow requires investigation. We must talk about that soon.
+
+TAG: Merlin_007_f
+Oh dear. There's Dark Magic emanating from the Sunlit Plateau.
+
+TAG: Merlin_008_f
+But we should gain access to the Dream Castle before we explore farther.
+

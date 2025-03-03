@@ -1,0 +1,42 @@
+TAG: Jasmine_001_f
+Didn't you say you were going to <Lore>take pictures of the Pedestal Symbols in the Frosted Heights and on the Sunlit Plateau</Lore>? That's our best clue for how to open the chest in Elsa's Ice Cavern.
+
+TAG: Jasmine_000_f
+Do you need help finding them?
+
+TAG: Player_000_choice_001_f
+Yes, please! Any idea where to look?
+
+TAG: Player_000_choice_002_f
+No, I'm okay for now.
+
+TAG: Jasmine_002_f
+If it were me, I'd <Lore>look around the perimeter of each area</Lore>.
+
+TAG: Jasmine_004_f
+Does that help?
+
+TAG: Player_001_choice_001_f
+Got anything else for me?
+
+TAG: Player_001_choice_002_f
+Yes! Thanks!
+
+TAG: Jasmine_005_f
+Well, on the Sunlit Plateau, you could look <Lore>near Scar's Cave</Lore>. I remember a couple of interesting drawings there.
+
+TAG: Jasmine_007_f
+I'd also look around the <Lore>far corners, near water, and on rocks along the edge between the Sunlit Plateau and the Plaza</Lore>.
+
+TAG: Jasmine_008_f
+In the Frosted Heights, I'd check <Lore>the farthest corners of the area</Lore>. Aladdin and I noticed some odd markings there on one of our days out exploring.
+
+TAG: Jasmine_009_f
+Then, I'd take a look <Lore>near water and on rocks along the edge to the north</Lore>.
+
+TAG: Jasmine_006_f
+Well, come find me if you need any more help.
+
+TAG: Jasmine_003_f
+Well, come find me if you need help later.
+

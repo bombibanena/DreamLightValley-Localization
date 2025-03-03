@@ -1,0 +1,69 @@
+TAG: Sally_000_f
+You put together a wonderful party, {PlayerName}. Thank you!
+
+TAG: Sally_001_f
+And I think everyone liked the quilt too... What did you think of it?
+
+TAG: Player_000_choice_000_f
+I loved the design!
+
+TAG: Player_000_choice_001_f
+It brought back so many memories!
+
+TAG: Player_000_choice_002_f
+It certainly had patches!
+
+TAG: Sally_003_f
+Oh, I'm so glad. The Fairy Godmother and I really wanted to make it a tribute to your memories.
+
+TAG: Sally_005_f
+{PlayerName}, we talked about it... and we want YOU to have the quilt.
+
+TAG: Sally_006_f
+It's part of YOUR story.
+
+TAG: Player_002_choice_000_f
+Thank you, Sally!
+
+TAG: Player_002_choice_001_f
+I'm truly honored.
+
+TAG: Player_002_choice_002_f
+I'm gonna be so COZY!
+
+TAG: Sally_012_f
+Of course.
+
+TAG: Sally_007_f
+Now, I need to go talk to the Fairy Godmother about our next project: a pumpkin-themed quilt for Jack.
+
+TAG: Sally_008_f
+... You know, I never had a mother or a grandmother. Somehow, finding her has made me feel so... happy and whole.
+
+TAG: Player_001_choice_000_f
+That's the power of chosen family!
+
+TAG: Player_001_choice_001_f
+Sally, I'm going to cry!
+
+TAG: Sally_009_f
+I suppose you're right.
+
+TAG: Sally_011_f
+Thank you for bringing us together, {PlayerName}. It's all been wonderful.
+
+TAG: Sally_010_f
+Oh! I... well, I can't cry, but the Fairy Godmother says sometimes tears aren't sadness. They're just strong emotion. I hope your tears are happy ones.
+
+TAG: Sally_015_f
+It's our honor.
+
+TAG: Sally_014_f
+That's what we wanted for you.
+
+TAG: Sally_002_f
+I'm glad.
+
+TAG: Sally_004_f
+Each one is a memory you made here.
+

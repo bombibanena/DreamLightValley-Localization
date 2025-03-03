@@ -1,0 +1,111 @@
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Any_CompletedRequestDescription
+Сообщите Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_AvailableDescription
+Поговорите с Майк Вазовски, чтобы узнать, что осталось за планированием.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_CompletedStoryDescription
+Хотя это было скалистое начало, комедийное шоу прошло хорошо, что привело к новой связи между Майк Вазовски и Ваниллопа. В конце концов, комиксы должны держаться вместе, когда зрители могут начать хихикать в любой момент...
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_DisplayName
+Говорите ли ваши люди с моим народом?
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Ваниллопа.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group02_Step02_TalkToCharacter02_StepDescription
+Поговори с Скрудж Макдак МакДаком.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group03_Step03_ReadyDescription
+Дай Ваниллопа немного <ActivityItem>Cesecake</ActivityItem>, так что она согласится выступить.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group03_Step03_StepDescription
+Убедитесь, что у вас есть восхитительный <ActivityItem>Cesecake</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group03_StoryDescription
+Похоже, что предстоящее представление Ваниллопа  пришло ей в голову, и она уже приобрела менеджера и начала требовать подарков перед выступлением.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group04_Step04_TalkToCharacter03_StepDescription
+Возвращайся на Майк Вазовски, чтобы сообщить плохие новости.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group05_Step05_DressUp01_StepDescription
+Надень что-нибудь профессиональное, элегантное или современное.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group05_StepDescription
+Одевайся как агент для встречи между людьми Майк Вазовски и Ваниллопа .
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group06_Step06_TalkToCharacter04_StepDescription
+Поговори с Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group07_Step07_Listen01_StepDescription
+Послушай разговор Салли и Скрудж Макдак об управлении.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group08_Step08_TalkToCharacter05_StepDescription
+Свяжитесь с Майк Вазовски о назревающей комичной вражде.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction01_StepDescription
+Плаза.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction02_StepDescription
+Мирный луг.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction03_StepDescription
+Даззл-Бич.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_Interaction04_StepDescription
+Лес Вэлора.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_Step09_StepDescription
+Вставить лицо Майк Вазовски на каждом из рекламных плакатов Ваниллопа  в следующих местах.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group09_StoryDescription
+После встречи менеджеров Майк Вазовски разозлился на Ваниллопа и начал шуточную войну.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group10_Step10_VisitArea01_StepDescription
+Встретимся с Майк Вазовски в его доме, чтобы обсудить комедийную вражду.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group11_Step11_TalkToCharacter06_StepDescription
+Поговори с Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group12_Step12_Interaction05_StepDescription
+Уберите нелепое число <ActivityItem>Rubber Chickens</ActivityItem> в доме Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group12_StoryDescription
+Ваниллопа отомстил, заполнив дом Майк Вазовски легионом резиновых цыплят! Надеюсь, их расчистка позволит Майк Вазовски очистить собственную голову к моменту представления.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group13_Step13_TalkToCharacter07_StepDescription
+Проверьте, может ли Майк Вазовски снова работать в таких условиях.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group14_Step14_TalkToCharacter08_StepDescription
+Возьмите <ActivityItem>Video Camera</ActivityItem> из Салли.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group15_Step15_ReadyDescription
+Передайте Майк Вазовски <ActivityItem>Video Camera</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group15_Step15_StepDescription
+Салли дал вам <ActivityItem>Video Camera</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group16_Step16_VisitArea02_StepDescription
+Входите в дом Майк Вазовски, когда будете готовы к комедии.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group17_StepDescription
+Смотреть комедийное шоу... или это дуэль сейчас?
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group18_Step18_StepDescription
+Выбери хороший момент, чтобы поймать фотоаппарат, когда ты будешь готов дослушать сетку.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group18_Step22_Listen03_StepDescription
+Послушай остальную часть комедийного шоу.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group19_Step19_Possess01_StepDescription
+Возьми сумку в доме Майк Вазовски, в которой все еще есть фильм.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group20_StepDescription
+Открой сумку, чтобы снять фильм.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_Group21_Step21_Decorate01_StepDescription
+Положите рекламный щит рядом с домом Майк Вазовски, чтобы он мог испытать славу.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

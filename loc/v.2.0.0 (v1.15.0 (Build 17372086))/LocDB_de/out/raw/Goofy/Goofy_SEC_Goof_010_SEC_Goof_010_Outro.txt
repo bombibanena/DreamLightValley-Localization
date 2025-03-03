@@ -1,0 +1,27 @@
+TAG: Goofy_000_f
+Now you just gotta hop on board and head out to sea. I hope you find a new friend out there.
+
+TAG: Goofy_005_f
+Make sure you're careful, though. I don't want ya to get shipwrecked on a deserted island.
+
+TAG: Player_000_choice_000_f
+I'm a little nervous...
+
+TAG: Player_000_choice_001_f
+I'm never nervous about anything.
+
+TAG: Player_000_choice_002_f
+I'm excited to board.
+
+TAG: Goofy_001_f
+Aw, don't worry. I'll be here to help if ya need me.
+
+TAG: Goofy_004_f
+Just get on the <ActivityItem>Raft</ActivityItem> and go find out who's shipwrecked out there. See ya later, {PlayerName}!
+
+TAG: Goofy_002_f
+Yep, you're as cool as a cucumber!
+
+TAG: Goofy_003_f
+That's 'cause you're a true adventurer!
+

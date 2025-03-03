@@ -1,0 +1,162 @@
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Any_CompletedRequestDescription
+Bring the Essences to Jafar.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_AvailableDescription
+Now that Jafar has a Laboratory going, it seems that he might need your help with further experimentation...
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_DisplayName
+The Alchemical Revolution
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group01_Step01_ReadyDescription
+Bring Iron Ore to EVE.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group01_Step01_StepDescription
+Find Iron Ore to bring to EVE.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group02_Step02_VisitArea01_StepDescription
+Return to the Alchemy Table in Jafar's Laboratory.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group03_Step03_FollowCharacter01_StepDescription
+Meet Jafar in his laboratory.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group03_Step03_FollowCharacter01_TalkToDescription
+Talk to Jafar about the next Alchemical step.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group04_Step04_VisitArea02_StepDescription
+Return to Jafar's Laboratory.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group05_Step05_CookMeal01_StepDescription
+Turn Iron Dust into Gold by mixing it at the Alchemy Table.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group05_StepDescription
+Perform your first alchemical experiment:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group06_Step06_ReadyDescription
+Give the Alchemical Gold to Jafar.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group06_Step06_StepDescription
+Make sure you have the Alchemical Gold in your Inventory.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group07_Step07_TalkToCharacter01_StepDescription
+Ursula.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group07_Step07_TalkToCharacter02_StepDescription
+Jack Skellington.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group07_Step07_TalkToCharacter03_StepDescription
+The Fairy Godmother.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group07_StepDescription
+Approach other alchemically minded Villagers.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group07_StoryDescription
+Jafar's alchemy project is running into some issues, but maybe other residents of the Valley can shed some light on the situation.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group08_Step08_Possess01_StepDescription
+Fish an Ancient Sand-Polished Stone from quicksand in The Borderlands.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group08_Step08_Possess02_StepDescription
+Grow a Mini Holiday Tree using Jack Skellington's Mini Holiday Tree Seeds.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group08_Step09_Chase01_StepDescription
+Catch the Book flying around Ancient's Landing.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group08_StepDescription
+Gather the unique Alchemical Ingredients:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group09_Step10_Possess03_StepDescription
+Ancient Sand-Polished Stone.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group09_Step10_Possess04_StepDescription
+Mini Holiday Tree.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group09_Step10_Possess05_StepDescription
+Book of Fairy Magic.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group09_StepDescription
+Make sure you have all the unique Alchemical Ingredients in your Inventory:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group10_Step11_VisitArea03_StepDescription
+Return to Jafar's Laboratory in the Palace.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group11_Step12_BringItem03_StepDescription
+Ancient Sand-Polished Stone.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group11_Step12_BringItem04_StepDescription
+Mini Holiday Tree.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group11_Step12_BringItem05_StepDescription
+Book of Fairy Magic.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group11_Step12_ReadyDescription
+Give the Alchemical Ingredients to Jafar.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group11_Step12_StepDescription
+Make sure you have in your Inventory:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group12_Step13_Possess06_StepDescription
+{ItemName}.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group12_Step13_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group12_Step13_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group12_Step13_StepDescription
+(Use any combination of 3 Minor Essences from the resource table).
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group12_StepDescription
+Mix Minor Essences to brew the Major Essences for the Gilded Stone:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group13_Step14_BringItem06_StepDescription
+Major Essence of Will.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group13_Step14_BringItem07_StepDescription
+Major Essence of Wishes.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group13_Step14_BringItem08_StepDescription
+Major Essence of Wonder.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group13_Step14_ReadyDescription
+Bring the 3 Major Essences to Jafar.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group13_Step14_StepDescription
+Make sure you have the 3 Major Essences:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group14_Step15_CookMeal02_StepDescription
+Try to create the Gilded Stone using your 3 Major Essences.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group15_Step16_ReadyDescription
+Your experimentation produced something strange! Show the <Lore>Mysterious Stone</Lore> to Jafar.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group15_Step16_StepDescription
+Make sure you have the <Lore>Mysterious Stone</Lore> in your Inventory.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group16_Step17_GiftToCharacter01_StepDescription
+Gifting favorite items to Villagers.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group16_Step18_RoyalDuties01_StepDescription
+Performing Dreamlight Duties.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group16_StepDescription
+Seek the Emotive Essences by:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group16_StoryDescription
+Success â sort of. Instead of a Gilded Stone, you got a Stone of Creativity. Maybe the Emotive Essences are the last pieces of the puzzle.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group17_Step19_BringItem10_StepDescription
+Essence of Wisdom.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group17_Step19_BringItem11_StepDescription
+Essence of Benevolence.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group17_Step19_ReadyDescription
+Show the Emotive Essences to Jafar.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_Group17_Step19_StepDescription
+Look around the center Wishing Well on Eternity Isle for:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

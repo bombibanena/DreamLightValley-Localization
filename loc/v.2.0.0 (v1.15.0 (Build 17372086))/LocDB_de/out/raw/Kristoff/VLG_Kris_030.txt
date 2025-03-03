@@ -1,0 +1,36 @@
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_CompletedStoryDescription
+Once <ActivityItem>Kristoff's Stall</ActivityItem> is crafted and then placed in the Forest, it's time for Kristoff to see it. Let's hope he likes it.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_DisplayName
+Village Project: A Mountain Man's Stall
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group01_Step01_Possess01_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group01_Step01_Possess02_StepDescription
+<ActivityItem>Stone</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group01_Step01_Possess03_StepDescription
+<ActivityItem>Hardwood</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group01_Step01_Possess05_StepDescription
+<ActivityItem>Iron Ingots</ActivityItem>.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group01_StoryDescription
+Before OPENING a <ActivityItem>Stall</ActivityItem>, you need to BUILD a <ActivityItem>Stall</ActivityItem>. You start gathering the materials for it.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group02_Step02_TalkToCharacter02_StepDescription
+Return to Kristoff.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we doing?
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group04_Step03_TalkToCharacter01_StepDescription
+Talk to Goofy.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group04_StoryDescription
+As he offers to give you the extra materials he has, you suggest to Kristoff that he open a <ActivityItem>Stall</ActivityItem>. He agrees but doesn't know where to start. You go ask Goofy for some advice on how to proceed.
+
+TAG: Village!Frozen!Kristoff!VLG_Kris_030_Group07_Step07_PlaceBuilding01_StepDescription
+Place <ActivityItem>Kristoff's Stall</ActivityItem> anywhere you like in the Valley.
+

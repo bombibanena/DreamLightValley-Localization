@@ -1,0 +1,119 @@
+
+@
+Oswald_001_f0Hey Oswald, how are you liking the alarm clocks?
+<
+Oswald_029_f,I don't see them around here. What happened?
+W
+Oswald_030_fGOh... uh, I wanted 'em to get some sun, so I... I... I put 'em outside!
+K
+Oswald_031_f;That's strange; I didn't see them outside when I came over.
+^
+Oswald_033_fNWhat...? Oh, right! It looked like it was gonna rain, so I put 'em in storage.
+1
+Oswald_034_f!You're acting a little strangely.
+V
+Oswald_007_fFMe? No! I'm actin' busy. Wait√¢¬Ä¬î Not <i>actin'</i> busy; I AM busy!
+m
+Oswald_008_f]I gotta catch up with Stitch, launder my duds, wash my hair, and lotsa other important stuff.
+;
+Player_001_choice_002_f OK, I get it; you're a busy guy.
+.
+Player_001_choice_003_f... Wash your hair?
+A
+Oswald_009_f1Yep, no time for dawdlin'; gotta get a wiggle on!
+.
+Player_000_choice_000_fOh, that's a shame.
+)
+Player_000_choice_001_fThat's... odd.
+8
+Oswald_010_f(What if I just drop by while you're out?
+Y
+Oswald_019_fIGee, they all split, {PlayerName}, and amscrayed in different directions.
+G
+Oswald_020_f7I betcha could find some in each of the Biomes, though.
+é
+Oswald_021_f~All righty, time to check <Lore>Ancient's Landing</Lore>, <Lore>the Glittering Dunes</Lore>, and <Lore>the Wild Tangle</Lore>.
+J
+Player_002_choice_000_f/Can you tell me a little more about the clocks?
+,
+Player_002_choice_001_fTime to head out!
+W
+Oswald_011_fG*sigh* Okay, I guess the jig's up. I gotta level with ya, {PlayerName}.
+J
+Oswald_012_f:The alarm clocks are gone. They're out there runnin' wild.
+"
+Oswald_013_fLike... literally?
+t
+Oswald_014_fdAw, please don't get sore with me! I just tried to glad 'em up a little with this special key I got.
+ã
+Oswald_015_f{Then, the next thing I knew, their little legs took 'em out the door and into the wide world of <Lore>Eternity Isle</Lore>!
+C
+Oswald_016_f3And... well, there's no tellin' where they are now.
+å
+Oswald_017_f|Oof, well I can help you find them √¢¬Ä¬î can't have a bunch of animated alarm clocks running around and waking everyone up!
+)
+Oswald_018_fAny idea where they went?
+«
+Oswald_035_f∂Course I can! Which of 'em do you wanna hear about? There's <ActivityItem>Charleston</ActivityItem>, <ActivityItem>Foxtrot</ActivityItem>, <ActivityItem>Texas Tommy</ActivityItem>...
+.
+Player_003_choice_000_fTell me about them!
+5
+Player_003_choice_002_fNever mind, I'm good. Bye!
+&
+Player_004_choice_000_fCharleston?
+#
+Player_004_choice_001_fFoxtrot?
+'
+Player_004_choice_002_fTexas Tommy?
+D
+Player_004_choice_003_f)Actually, never mind; I'm gonna head out.
+Ü
+Oswald_037_fvWell, <ActivityItem>Charleston</ActivityItem> is real popular! All the other clocks get inspired by its peppy dancin'!
+,
+Oswald_040_fWanna hear about the others?
+ 
+Player_006_choice_000_fSure!
+C
+Player_006_choice_001_f(It's fine. I'll go looking for them now.
+Ω
+Oswald_036_f¨Okey-dokey! There's <ActivityItem>Lindy Hop</ActivityItem>, <ActivityItem>Tango</ActivityItem>, <ActivityItem>Shimmy</ActivityItem>, and <ActivityItem>Swing</ActivityItem>!
+w
+Player_007_choice_000_f\Tell me about <ActivityItem>Lindy Hop</ActivityItem> and <ActivityItem>Tango</ActivityItem>.
+t
+Player_007_choice_001_fYTell me about <ActivityItem>Shimmy</ActivityItem> and <ActivityItem>Swing</ActivityItem>.
+D
+Player_007_choice_002_f)Never mind; I'll get to looking for them.
+ã
+Oswald_041_f{Aw, <ActivityItem>Lindy Hop</ActivityItem> is a real city clock! When it dances, it's got moves from all the hoppin' spots.
+N
+Oswald_043_f>And <ActivityItem>Tango</ActivityItem>... Sheesh. So dramatic!
+2
+Oswald_045_f"Did you name all of them yourself?
+x
+Oswald_046_fhSure did! I took one look at how each of 'em moved, and their names hit me like a bonk on the ol' melon!
+W
+Oswald_047_fGHow wonderful! Hopefully these insights help me catch them more easily.
+;
+Oswald_022_f+Good luck! (Heh-heh. You're gonna need it.)
+ß
+Oswald_042_fñ<ActivityItem>Shimmy</ActivityItem>'s all about the shoulders when it dances. Which is downright impressive since I didn't think clocks had shoulders!
+]
+Oswald_044_fMAnd <ActivityItem>Swing</ActivityItem> just can't keep its feet on the floor!
+Å
+Oswald_038_fqWell, <ActivityItem>Foxtrot</ActivityItem> is extra classy and elegant! It makes the other clocks pretty jealous!
+Z
+Oswald_039_fJGee, that clock can swing! It's what ya might call a real athletic dancer.
+a
+Oswald_032_fQDid I say wash my hair? I meant wash my... lair. My House! Gee, it's a real mess!
+5
+Oswald_002_f%Do they match your place well enough?
+7
+Oswald_003_f'Oh? Yeah, they're, uh... they're swell!
+
+Oswald_004_fGood to hear!
+1
+Oswald_005_f!Can I see how you've set them up?
+O
+Oswald_006_f?I love seeing how the different Villagers decorate their homes!
+v
+Oswald_000_ffSheesh, I... I'm sorry, but the clocks are all takin' a nap. All that tickin' can sure tucker 'em out!

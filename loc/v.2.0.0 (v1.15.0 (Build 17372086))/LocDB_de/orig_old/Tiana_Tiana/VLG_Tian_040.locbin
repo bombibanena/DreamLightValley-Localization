@@ -1,0 +1,69 @@
+
+�
+GVillage!PrincessFrog!Tiana!VLG_Tian_040_Any_CompletedRequestDescriptionZПосмотрите, как Тиана нашел парад Нового Орлеана.
+�
+<Village!PrincessFrog!Tiana!VLG_Tian_040_AvailableDescriptionrТиана, кажется, планировала что-то секретное. Что она задумала?
+�
+AVillage!PrincessFrog!Tiana!VLG_Tian_040_CompletedStoryDescription�Возможно, парад закончился, но дружба, которую он вдохновил, становится сильной! Надеюсь Тиана удовлетворена тем, как прошел первый в истории парад Мечты Новый Орлеан.
+f
+3Village!PrincessFrog!Tiana!VLG_Tian_040_DisplayName/Сельские жители на параде
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_040_Group01_Step01_TalkToCharacter01_StepDescription8Спросите {TargetNPC} о параде Float Mask.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess01_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess02_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess03_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess04_StepDescription{itemName}.
+�
+FVillage!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_StepDescription`Собирайте материалы для архитектуры Нового Орлеана:
+�
+@Village!PrincessFrog!Tiana!VLG_Tian_040_Group02_StoryDescription�Тиана создает парад Нового Орлеана! но она не может сделать это в одиночку.
+a
+RVillage!PrincessFrog!Tiana!VLG_Tian_040_Group03_Step03_CraftItem01_StepDescription{itemName}.
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_040_Group04_Step04_TalkToCharacter02_StepDescriptioniВозвращайтесь в {TargetNPC} с Новой Орлеанской Парадной Аркой.
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_040_Group05_Step05_FollowCharacter01_StepDescriptionXСледуйте за {TargetNPC} до Нового Орлеанского парада.
+�
+ZVillage!PrincessFrog!Tiana!VLG_Tian_040_Group05_Step05_FollowCharacter01_TalkToDescription"Свяжитесь с {TargetNPC}.
+�
+@Village!PrincessFrog!Tiana!VLG_Tian_040_Group05_StoryDescription�Пора следовать за Тиана по всей долине и забрать парад, который она выбросила для тебя.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step06_DressUp01_StepDescription{itemName}.
+�
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step06_DressUp02_StepDescription6Кривая или золотистая одежда.
+�
+FVillage!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step06_StepDescriptionGПриготовьтесь к параду Нового Орлеана!
+�
+QVillage!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step07_Decorate01_StepDescription|Поместите Парадную арку Нового Орлеана на пляже недалеко от Черепа.
+�
+RVillage!PrincessFrog!Tiana!VLG_Tian_040_Group07_Step08_VisitArea01_StepDescriptionqИдите к Арке на пляже возле Черепа, чтобы начать парад с Тиана.
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_040_Group08_Step09_FollowCharacter02_StepDescriptionfСледуйте за Тиана, когда она ведёт парад Нового Орлеана.
+�
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group09_Step11_Possess05_StepDescription?Быстрее! Соберите парадные броски!
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_040_Group10_Step13_FollowCharacter03_StepDescription`Следуйте за Тиана, когда она ведёт Парад через Плазу.
+�
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group11_Step15_Possess06_StepDescription;Соберите парадный поток в Плазе.
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_040_Group12_Step17_FollowCharacter04_StepDescriptionkСледуйте за Тиана, когда она ведёт Парад через мирную лугу.
+�
+PVillage!PrincessFrog!Tiana!VLG_Tian_040_Group13_Step19_Possess07_StepDescription5Собери бросок в "Мирном лугу".
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_040_Group14_Step21_FollowCharacter05_StepDescriptionLСледуйте за Тиана туда, где начался парад.
+�
+GVillage!PrincessFrog!Tiana!VLG_Tian_040_Group15_Step23_ReadyDescription=Принесите парадные броски {TargetNPC}.
+�
+FVillage!PrincessFrog!Tiana!VLG_Tian_040_Group15_Step23_StepDescriptionGУбедись, что у тебя в списке есть парад.
+�
+QVillage!PrincessFrog!Tiana!VLG_Tian_040_Group16_Step24_Decorate02_StepDescription8Поместите Banquet Table на Chuml Rock Island.
+�
+@Village!PrincessFrog!Tiana!VLG_Tian_040_Group16_StoryDescription�Парад достиг места назначения, так что осталось сделать только одну вещь, чтобы уложиться в вкусную еду и наслаждаться праздниками с другими деревенскими жителями.
+i
+NVillage!PrincessFrog!Tiana!VLG_Tian_040_Group17_Step25_Party01_StepDescriptionРазвлекайся!
+k
+:Village!PrincessFrog!Tiana!VLG_Tian_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

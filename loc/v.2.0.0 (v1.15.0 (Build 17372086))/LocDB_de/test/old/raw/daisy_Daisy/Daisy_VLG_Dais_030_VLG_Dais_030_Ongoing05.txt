@@ -1,0 +1,6 @@
+TAG: Daisy_000_f
+Скажи мне, как ты помогаешь Минни Маус с ее специальным отчетом для газеты "Снова мечты"?
+
+TAG: Daisy_001_f
+Я фотографирую <ActivityItem>Pillar дружбы</ActivityItem>, любой <ActivityItem>Statue</ActivityItem> в <ActivityItem>Mystical Cave</ActivityItem>, и <ActivityItem>Giant Willow Tree</ActivityItem> в <ActivityItem>Glade of Trust</ActivityItem>.
+

@@ -1,0 +1,27 @@
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_CompletedStoryDescription
+WALLÂ·E is now in the Village. It's the start of a new adventure for him.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_DisplayName
+The Shy Little Robot
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group01_StoryDescription
+You've just met WALLÂ·E, a little robot with a broken track. You decide to help him replace it.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group02_StoryDescription
+After all the garbage collection, WALLÂ·E gives you seeds. It's obvious the little robot wants to learn Gardening and doesn't know where to start.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group05_StoryDescription
+You want to bring WALLÂ·E to the Village, but he's still a little shy. You decide to ask for some help from the Villagers.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group07_Step07_StepDescription
+(Gems have a chance to drop from any Mining Rocks in the Village.)
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group11_Step11_PlaceBuilding01_StepDescription
+Make sure WALLÂ·E is comfortable in the Village by placing his House.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group12_StoryDescription
+The little robot needs somewhere he can feel safe. McDuck Construction can build just the place.
+
+TAG: Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group14_StoryDescription
+WALLÂ·E is cleaning up the Earth. To gain his friendship, you decide to do the same.
+

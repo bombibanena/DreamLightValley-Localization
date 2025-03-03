@@ -1,0 +1,93 @@
+TAG: Oswald_000_f
+Oswald, are you all right?
+
+TAG: Oswald_001_f
+I... I think so.
+
+TAG: Oswald_002_f
+Gee thanks, {PlayerName}! I'd have been a goner without ya!
+
+TAG: Oswald_003_f
+I'm just glad that you're okay.
+
+TAG: Oswald_004_f
+But now we need to do something about Jafar. Time to look into another lamp, I think.
+
+TAG: Oswald_005_f
+Hold up, {PlayerName}...
+
+TAG: Oswald_006_f
+When I was under that gizmo of Jafar's, it was connectin' me to him, and I think...
+
+TAG: Oswald_007_f
+...I think I got a glimpse into how he ticks.
+
+TAG: Player_000_choice_000_f
+I'm so sorry â that can't have been a good experience.
+
+TAG: Player_000_choice_001_f
+Do you need a sauna to sweat it out?
+
+TAG: Player_000_choice_002_f
+Oh? What did you see?
+
+TAG: Oswald_008_f
+It sure wasn't, but maybe not for the reason ya think.
+
+TAG: Oswald_011_f
+{PlayerName}... Jafar's heart is lousy with loneliness.
+
+TAG: Oswald_012_f
+Back in the lamp might not be the savvy choice here.
+
+TAG: Oswald_013_f
+Who knows how evil he might get if he's even MORE lonely!
+
+TAG: Oswald_014_f
+What are you saying, Oswald?
+
+TAG: Oswald_015_f
+I, uh... I think we should give him another chance.
+
+TAG: Player_001_choice_000_f
+Oswald, are you okay?
+
+TAG: Player_001_choice_001_f
+You can't be serious.
+
+TAG: Player_001_choice_002_f
+That's... very gallant of you.
+
+TAG: Oswald_016_f
+You betcha. Thanks to you!
+
+TAG: Oswald_019_f
+I don't know... Jafar has shown us multiple times that he only cares about himself.
+
+TAG: Oswald_020_f
+How can we trust that he won't try to take over Eternity Isle again?
+
+TAG: Oswald_021_f
+Gee... I, uh... I guess we can't.
+
+TAG: Oswald_022_f
+But he ain't the only villain here. And you keep a close eye on them, and they don't dare act up!
+
+TAG: Oswald_023_f
+Maybe just livin' around so much Dreamlight Magic makes 'em better.
+
+TAG: Oswald_024_f
+That's... very wise of you, Oswald. I'll talk to Jafar.
+
+TAG: Oswald_017_f
+I try to avoid it, but this time I can't.
+
+TAG: Oswald_018_f
+Thanks, chum.
+
+TAG: Oswald_009_f
+Nah. I'm okay.
+
+TAG: Oswald_010_f
+Buckets and buckets of loneliness...
+

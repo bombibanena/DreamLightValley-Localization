@@ -1,0 +1,84 @@
+TAG: Beast_000_f
+Fresh roses, as promised!
+
+TAG: Beast_001_f
+Excellent. Thank you, {PlayerName}. They're beautiful.
+
+TAG: Player_000_choice_000_f
+I am an excellent gardener.
+
+TAG: Player_000_choice_001_f
+With the Dreamlight Magic here, I'm sure they'll look even better soon!
+
+TAG: Beast_002_f
+What do you want to do with the roses?
+
+TAG: Beast_003_f
+I was hoping that you could help me distribute them among some of the Villagers.
+
+TAG: Beast_004_f
+That's so sweet! Of course!
+
+TAG: Beast_005_f
+I must give one to WALLÂ·E. I've learned many things about gardening from him.
+
+TAG: Beast_006_f
+And Mirabel as well. She's been very welcoming.
+
+TAG: Beast_007_f
+WALLÂ·E and Mirabel â got it!
+
+TAG: Beast_008_f
+And... Mother Gothel.
+
+TAG: Player_001_choice_000_f
+Excuse me, what?
+
+TAG: Player_001_choice_001_f
+That's... surprising.
+
+TAG: Player_001_choice_002_f
+Are these... poisoned roses?
+
+TAG: Beast_009_f
+I know that's an unusual request.
+
+TAG: Beast_010_f
+But she has left Belle and me alone since the... unpleasantness.
+
+TAG: Beast_011_f
+I wanted to give her something as a token of goodwill. I hope we can put our past behind us.
+
+TAG: Beast_012_f
+That's very diplomatic of you!
+
+TAG: Beast_013_f
+The remaining ones I will keep for now. Some will go to the greenhouse so we can create more rose plants...
+
+TAG: Beast_014_f
+And one, I have special plans for...
+
+TAG: Beast_015_f
+How mysterious!
+
+TAG: Beast_016_f
+Well, I guess I'll be off on the deliveries to <Lore>WALLÂ·E</Lore>, <Lore>Mirabel</Lore>, and <Lore>Mother Gothel</Lore>!
+
+TAG: Beast_017_f
+Thank you, {PlayerName}.
+
+TAG: Beast_018_f
+I want to give her a reminder. Though I have chosen to move past her slights...
+
+TAG: Beast_019_f
+...as the rose has its thorns, I also defend what is dear to me.
+
+TAG: Beast_020_f
+... Yup, if I were Mother Gothel, I would heed that warning.
+
+TAG: Beast_021_f
+I know it must seem odd after what she said to Belle.
+
+TAG: Beast_022_f
+No! I would never do that. I know this must seem odd.
+

@@ -1,0 +1,146 @@
+
+Q
+OngoingWhatToDo><smallcaps>{title}</smallcaps><br> Что мне делать?
+Q
+OngoingWhereYouGo<<smallcaps>{title}</smallcaps><br> Куда ты идешь?
+N
+OngoingWhereWeGo:<smallcaps>{title}</smallcaps><br> Куда мы идем?
+'
+Any_Buildingлюбое здание
+(
+Any_Characterлюбой символ
+2
+Any_Clothing"любой кусок одежды
+#
+Any_Cropлюбой урожай
+
+Any_CurrencyВалюта
+*
+Any_Ephemeral{Placeholder}any Efemeral
+
+Any_FishРыбы
+%
+
+Any_Flowerлюбой цветок
+3
+Any_Furniture"любой кусок мебели
+5
+Any_Ingredient#любой непристойный
++
+
+Any_Insectлюбое насекомое
+:
+Any_LootPresent'любой присутствующей
+
+Any_Mealеда
++
+
+Any_Recipeлюбой реципиент
+8
+Any_Seed,любой семенной материал
+F
+&Decorate_Location_AnywhereInTheVillage<Location>Village</Location>
+;
+Decorate_Location_PlayerHouse<Location>house</Location>
+4
+Location_Anywhere<Location>Everywhere</Location>
+.
+Location_Castle<Location>Castle</Location>
+G
+Location_Other_WishingWell)<Location>Wishing хорошо</Location>
+;
+Location_PlayerHouse#<Location> Ваш дом</Location>
+0
+ TargetItem_ActivityItemType_CropУрожай
+3
+#TargetItem_ActivityItemType_DefaultОшибка
+8
+"TargetItem_ActivityItemType_InsectНасекомые
+2
+ TargetItem_ActivityItemType_MealПитание
+,
+ TargetItem_ActivityItemType_SeedСемя
+*
+TargetItem_Complexity_Lavish
+Лавиш
+,
+TargetItem_Complexity_SimpleПросто
+%
+TargetItem_CropType_Any
+Любые
+)
+TargetItem_CropType_FruitФрукты
+/
+TargetItem_CropType_VegetableОвощное
++
+TargetItem_FishConstraint_Any
+Любые
++
+TargetItem_FishConstraint_EarlyРано
+0
+TargetItem_FishConstraint_LateОпоздал
+)
+TargetItem_FlowerRarity_Any
+Любые
+,
+TargetItem_FlowerRarity_Common
+Общие
+,
+TargetItem_FlowerRarity_RareРедкий
+4
+ TargetItem_FlowerRarity_UncommonНеобычно
+*
+TargetItem_IngredientType_FishРыба
+/
+TargetItem_IngredientType_FruitФрукты
+-
+TargetItem_IngredientType_Grain
+Зерно
+(
+TargetItem_IngredientType_NoneНет
+/
+TargetItem_IngredientType_OtherПрочее
+D
+!TargetItem_IngredientType_SeaFoodМорские продукты
+-
+TargetItem_IngredientType_Spice
+Спайс
+C
+$TargetItem_IngredientType_SubProduct{Placeholder}Subproductiont
+5
+#TargetItem_IngredientType_VegetableОвощное
+%
+TargetItem_MealType_Any
+Любые
+*
+TargetItem_MealType_MealПитание
+=
+TargetItem_MealType_SubProduct{Placeholder}Subproductiont
++
+TargetItem_Mood_CalmУспокойся.
+9
+TargetItem_Mood_PlayfulВоспроизведение
+1
+TargetItem_Normality_FamiliarЗнакомые
+-
+TargetItem_Normality_WondrousУжасно
+0
+TargetItem_Sturdiness_DelicateДеликат
+.
+TargetItem_Sturdiness_StrongСильные
+.
+VillageArea_Beach<Area>Dazzle Beach</Area>
+0
+VillageArea_Cliff<Area>Frosted Highes</Area>
+D
+VillageArea_DarkMountains'<Area> Забытые земли</Area>
+9
+VillageArea_Forest#<Area> Леса валора</Area>
+9
+VillageArea_Meadow#<Area> Мирная луга</Area>
+6
+VillageArea_Savannah<Area>Sunlit Плато</Area>
+'
+VillageArea_Urban<Area>Plaza</Area>
+2
+VillageArea_Wetland<Area>Glade of Trust</Area>

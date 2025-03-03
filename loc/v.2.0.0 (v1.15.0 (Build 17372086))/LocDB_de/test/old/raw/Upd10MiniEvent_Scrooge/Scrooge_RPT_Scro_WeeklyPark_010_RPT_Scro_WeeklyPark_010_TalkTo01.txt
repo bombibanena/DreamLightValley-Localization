@@ -1,0 +1,15 @@
+TAG: Scrooge_000_f
+Ударь меня веткой, у тебя есть все припасы!
+
+TAG: Scrooge_001_f
+Вот что я имел в виду: <ActivityItem>Disney Park Balloons</ActivityItem> и новый <ActivityItem>Colorful Collectiones</ActivityItem>!
+
+TAG: Scrooge_002_f
+Поезжайте прямо на станцию крафтинга и постройте их.
+
+TAG: Scrooge_003_f
+После этого вы можете использовать их для <Lore>decorate the Valley</Lore>.
+
+TAG: Scrooge_004_f
+У меня даже есть особая награда для тебя, когда ты закончишь!
+

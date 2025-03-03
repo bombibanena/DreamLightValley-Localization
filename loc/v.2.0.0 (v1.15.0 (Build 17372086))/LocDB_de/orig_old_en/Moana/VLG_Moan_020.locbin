@@ -1,0 +1,51 @@
+
+R
+@Village!Moana!Moana!VLG_Moan_020_Any_CompletedRequestDescriptionTalk to Moana.
+x
+5Village!Moana!Moana!VLG_Moan_020_AvailableDescription?Moana wants to know more about the strange object you've found.
+±
+:Village!Moana!Moana!VLG_Moan_020_CompletedStoryDescriptionsAs soon as Maui forgives Moana, a new <ActivityItem>Shard</ActivityItem> appears. It's time to regroup and discuss.
+;
+,Village!Moana!Moana!VLG_Moan_020_DisplayNamePeacemakers
+r
+=Village!Moana!Moana!VLG_Moan_020_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+Ç
+KVillage!Moana!Moana!VLG_Moan_020_Group01_Step03_CraftItem01_StepDescription3Craft an <ActivityItem>Oar</ActivityItem> for Maui.
+f
+QVillage!Moana!Moana!VLG_Moan_020_Group02_Step02_TalkToCharacter01_StepDescriptionGo back to Moana.
+w
+=Village!Moana!Moana!VLG_Moan_020_Group03_OngoingRequestButton6<smallcaps>{title}</smallcaps><br>What am I gathering?
+s
+IVillage!Moana!Moana!VLG_Moan_020_Group03_Step01_Possess02_StepDescription&<ActivityItem>Softwood</ActivityItem>.
+ç
+8Village!Moana!Moana!VLG_Moan_020_Group03_StepDescriptionQGather the following items to craft an <ActivityItem>Oar</ActivityItem> for Maui:
+ﬂ
+9Village!Moana!Moana!VLG_Moan_020_Group03_StoryDescription°Maui won't forgive Moana just like that; you need to find another solution. You come up with a plan to give him an <ActivityItem>Oar</ActivityItem> as a present.
+c
+8Village!Moana!Moana!VLG_Moan_020_Group05_StepDescription'Listen as Moana gives her gift to Maui.
+r
+=Village!Moana!Moana!VLG_Moan_020_Group06_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+i
+@Village!Moana!Moana!VLG_Moan_020_Group06_Step06_ReadyDescription%Bring Moana the newly found fragment.
+k
+?Village!Moana!Moana!VLG_Moan_020_Group06_Step06_StepDescription(Another {ItemName} appeared! Pick it up!
+˝
+9Village!Moana!Moana!VLG_Moan_020_Group06_StoryDescriptionøAfter you give Moana the Oar, she goes to apologize to Maui and learns the fragment you found together is a <ActivityItem>Leader Shard</ActivityItem>. It appears when people act like leaders.
+x
+KVillage!Moana!Moana!VLG_Moan_020_Group07_Step08_BringItem01_StepDescription)<ActivityItem>Fruit Salad</ActivityItem>.
+|
+KVillage!Moana!Moana!VLG_Moan_020_Group07_Step08_BringItem04_StepDescription-<ActivityItem>Seafood Platter</ActivityItem>.
+z
+KVillage!Moana!Moana!VLG_Moan_020_Group07_Step08_BringItem05_StepDescription+<ActivityItem>Seafood Salad</ActivityItem>.
+f
+@Village!Moana!Moana!VLG_Moan_020_Group07_Step08_ReadyDescription"Bring Maui the meals you prepared.
+e
+?Village!Moana!Moana!VLG_Moan_020_Group07_Step08_StepDescription"Cook the following meals for Maui:
+—
+9Village!Moana!Moana!VLG_Moan_020_Group07_StoryDescriptionìMaui probably knows about it, but he's still upset with Moana for leaving him behind in the Realm. Moana suggests to offer him food to appease him.
+r
+=Village!Moana!Moana!VLG_Moan_020_Group08_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+p
+8Village!Moana!Moana!VLG_Moan_020_Group08_StepDescription4Bring the <ActivityItem>Oar</ActivityItem> to Moana.
+d
+3Village!Moana!Moana!VLG_Moan_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

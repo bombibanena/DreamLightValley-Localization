@@ -1,0 +1,51 @@
+
+�
+QSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Any_CompletedRequestDescription+Возвращайся в "Забытый".
+�
+FSecret!DreamlightValley!TheForgotten!SEC_Forg_020_AvailableDescriptionrThe Forgotten в последнее время общались в деревнях немного получше.
+�
+KSecret!DreamlightValley!TheForgotten!SEC_Forg_020_CompletedStoryDescriptionSГуфи в восторге от еды, которую ты приготовил.
+a
+=Secret!DreamlightValley!TheForgotten!SEC_Forg_020_DisplayName Действия по уходу
+�
+bSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group01_Step01_TalkToCharacter01_StepDescriptionПроверь забытое.
+�
+ISecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group01_StepDescriptionyThe Forgotten кажется намного более дружелюбным с другими деревенскими!
+k
+\Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_BringItem01_StepDescription{ItemName}.
+k
+\Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_BringItem02_StepDescription{ItemName}.
+k
+\Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_BringItem03_StepDescription{ItemName}.
+~
+QSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_ReadyDescription)Принеси цветы забытым.
+�
+PSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_Step02_StepDescription2Соберите цветы для забытых:
+�
+JSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_StoryDescription�Вместе вы и "Забытые" решили исправить то, что пошло не так в тот день, когда вы увидели в "Сновом пейзаже".
+�
+YSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group03_Step03_Listen01_StepDescription^Смотри, как забытые дают цветы Микки Маус в деревне.
+�
+bSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group04_Step04_TalkToCharacter02_StepDescriptionПроверь забытое.
+�
+cSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group05_Step05_GardeningHarvest02_StepDescriptiondВозьмите другой <ActivityItem>Vegetable</ActivityItem> из ваших культур.
+�
+\Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group05_Step06_CatchFish02_StepDescriptionSЕще две рыбы любого рода <ActivityItem> Seafood</ActivityItem>.
+�
+ISecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group05_StepDescription�Остальную часть Ингредиентов можно получить на <ActivityItem>Bouillabasse</ActivityItem>:
+�
+[Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group06_Step07_CookMeal01_StepDescriptionMПриготовить свежий <ActivityItem>Buillabasse</ActivityItem>.
+�
+JSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group06_StoryDescription�Затем ты решишь собрать урожай и порыбачить, чтобы получить самые свежие ингредиенты для Гуфи. Ты покажешь забытым, как готовить еду, чтобы запомнить.
+�
+QSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group07_Step08_ReadyDescriptionIВозьмите <ActivityItem>Bouillabasis</ActivityItem> на Гуфи.
+�
+PSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group07_Step08_StepDescriptionhУбедитесь, что у вас в списке есть <ActivityItem>Bouillabasis</ActivityItem>.
+�
+cSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group08_Step09_GardeningHarvest03_StepDescriptionVВозьмите свежий <ActivityItem>Tomato</ActivityItem> из посевов.
+�
+\Secret!DreamlightValley!TheForgotten!SEC_Forg_020_Group08_Step10_CatchFish03_StepDescription@Поймать свежий <ActivityItem>Shrimp</ActivityItem>.
+�
+ISecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group08_StepDescriptionKВыбрать ключи для <ActivityItem>Bouillabasse</ActivityItem>:
+�
+NSecret!DreamlightValley!TheForgotten!SEC_Forg_020_Group02_OngoingRequestButtonG<smallcaps>{title}</smallcaps><br> Что мы делали снова?

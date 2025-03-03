@@ -1,0 +1,35 @@
+
+
+Mickey_001_f{PlayerName}!
+-
+Mickey_011_fOh boy! Am I glad to see you!
+
+Player_002_fMickey Mouse!
+4
+Player_002_choice_000_fI'm glad to see you, too!
+,
+Player_002_choice_001_fDo you need help?
+)
+Player_002_choice_002_fI'm a BIG fan!
+U
+Mickey_012_fEI saw you talking to Merlin and came in to get... somethin' for ya...
+4
+Mickey_015_f$But I can't seem to remember what...
+;
+Player_000_f+It must be because of these Night Thorns...
+.
+Player_000_choice_000_fAnd the Forgetting!
+2
+Player_000_choice_001_fI'll help you remember.
+8
+Player_000_choice_002_fLet's look around your House!
+`
+Mickey_008_fPGosh, these Night Thorns are the worst! I've tried everything and nothing works.
+
+Mickey_010_fThanks, pal!
+@
+Mickey_013_f0Yeah, but, uh... I forget what I need help with.
+"
+Mickey_002_fPretty silly, huh?
+8
+Mickey_014_f(Well, I'm a big fan of yours! In fact...

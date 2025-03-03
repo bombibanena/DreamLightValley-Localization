@@ -28,4 +28,4 @@ go.work.sum
 .dev
 .debug
 .*
-._
+_*

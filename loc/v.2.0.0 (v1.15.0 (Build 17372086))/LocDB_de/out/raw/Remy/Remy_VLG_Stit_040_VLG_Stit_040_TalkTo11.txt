@@ -1,0 +1,27 @@
+TAG: Remy_000_f
+Hey, Remy, Stitch is starting a band. Do you want to join?
+
+TAG: Player_000_choice_000_f
+You could bang pots and pans together.
+
+TAG: Player_000_choice_001_f
+You probably have the voice of an angel.
+
+TAG: Player_000_choice_002_f
+You already create a symphony... of flavors!
+
+TAG: Remy_001_f
+Oh, no, no, no! My pots and pans are cherished tools of artistic expression. They aren't for making noise.
+
+TAG: Remy_005_f
+Besides, it's tough enough dealing with food critics. I don't want to worry about music critics too.
+
+TAG: Remy_002_f
+But hey, if Stitch's band ends up working out, maybe he could play my restaurant sometime.
+
+TAG: Remy_003_f
+Maybe an angel who's better at flambÃ©ing a dessert than staying on key.
+
+TAG: Remy_004_f
+That's true. But I'm not sure that qualifies me to play an instrument.
+

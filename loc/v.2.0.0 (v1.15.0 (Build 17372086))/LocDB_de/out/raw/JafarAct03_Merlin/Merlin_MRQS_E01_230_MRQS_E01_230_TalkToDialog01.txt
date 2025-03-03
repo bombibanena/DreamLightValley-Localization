@@ -1,0 +1,15 @@
+TAG: Merlin_000_f
+Do you see that, {PlayerName}? The rift has weakened!
+
+TAG: Merlin_001_f
+Why, it's shrinking away before our very eyes.
+
+TAG: Merlin_002_f
+Ah-ha! The way is clear!
+
+TAG: Merlin_003_f
+Perhaps I can rally more Villagers to use our imaginations to close other rifts...
+
+TAG: Merlin_004_f
+...while you <Lore>go inside to stop Jafar</Lore> once and for all! Now, the palace is sure to be littered with relics of his experiments. So, proceed with caution!
+

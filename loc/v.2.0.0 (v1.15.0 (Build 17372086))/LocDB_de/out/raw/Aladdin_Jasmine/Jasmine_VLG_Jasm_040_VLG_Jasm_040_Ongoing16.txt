@@ -1,0 +1,3 @@
+TAG: Jasmine_000_f
+We should <Lore>visit Mike to test the wish magic</Lore>.
+

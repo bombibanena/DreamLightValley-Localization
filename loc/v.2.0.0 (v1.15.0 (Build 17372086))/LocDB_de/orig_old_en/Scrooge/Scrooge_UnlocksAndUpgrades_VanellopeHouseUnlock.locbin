@@ -1,0 +1,15 @@
+
+R
+Scrooge_000_fAAh, so the wee lass I saw in the Castle wasn't a ghost after all?
+H
+Scrooge_002_f7Then I guess we'd best make her a bonnie place to stay!
+v
+Player_000_choice_000_f[Let's build a House for Vanellope. (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
+0
+Player_000_choice_001_fI'll come back later.
+L
+Scrooge_003_f;Vanellope? Well, I cannae wait to meet the lass for m'self!
+Œ
+Scrooge_005_f{Ya know construction has costs, {PlayerName}, and you dinnae have enough Star Coins. Come back when ya have the funds, aye?
+J
+Scrooge_006_f9Are ya sure? We cannae make her wait much longer, can we?

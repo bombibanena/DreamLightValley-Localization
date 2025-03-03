@@ -1,0 +1,45 @@
+TAG: Vanellope_000_f
+The Hero returns to their Storyteller with the second key in hand. Marshmafrost Mintwizzle has been bested!
+
+TAG: Vanellope_001_f
+The Hero needs one more key to unlock the chest and save the kingdom...
+
+TAG: Vanellope_002_f
+But the Princess has the final key, and she's in the clutches of the evil Mastermind in his monster maze!
+
+TAG: Player_000_choice_000_f
+I will do what I must!
+
+TAG: Player_000_choice_001_f
+Where is the Mastermind? I'm ready!
+
+TAG: Player_000_choice_002_f
+Finally, a challenge!
+
+TAG: Vanellope_003_f
+Of course you will, Hero!
+
+TAG: Vanellope_004_f
+You have gone from humble Farmer to wizard-besting, snow-beast-battling champion! BUT you must still prepare!
+
+TAG: Vanellope_005_f
+<Lore>Arm yourself with your Pixel Sword and brew some potions!</Lore>
+
+TAG: Vanellope_006_f
+After that, <Lore>search for a Bestiary in Arendelle Castle!</Lore> That's an old book on creatures that will give you the edge on the fun-gobbling Mastermind!
+
+TAG: Vanellope_007_f
+When you're ready, go to the TRUE QUESTINATION! ... The Mines on the Sunlit Plateau!
+
+TAG: Vanellope_008_f
+Your tinkering and smarts have helped you thus far, Futurist! But there is much to prepare before your battle!
+
+TAG: Vanellope_009_f
+You have fought wizards and snow beasts, and you're worthy of your title! But even heroes must prepare.
+
+TAG: Vanellope_010_f
+Hold your horses, Hero!
+
+TAG: Vanellope_011_f
+I like this fighting spirit, Hero!
+

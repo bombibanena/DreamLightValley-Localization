@@ -1,0 +1,6 @@
+TAG: Beast_000_f
+Good night, {PlayerName}.
+
+TAG: Player_000_exit_000_f
+Right back at you!
+

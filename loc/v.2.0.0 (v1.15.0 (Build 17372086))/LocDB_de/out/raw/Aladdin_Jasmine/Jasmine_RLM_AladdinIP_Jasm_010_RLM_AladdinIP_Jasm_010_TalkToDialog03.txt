@@ -1,0 +1,12 @@
+TAG: Jasmine_001_f
+If you <Lore>break down those sandstone barriers</Lore>, the path should be clear.
+
+TAG: Jasmine_002_f
+Good luck, {PlayerName}. I hope Aladdin's where I think he is.
+
+TAG: Jasmine_003_f
+I'll do my best to <Lore>find Aladdin</Lore>. Once I clear the way you should be able to follow after me safely.
+
+TAG: Jasmine_000_f
+Thank you!
+

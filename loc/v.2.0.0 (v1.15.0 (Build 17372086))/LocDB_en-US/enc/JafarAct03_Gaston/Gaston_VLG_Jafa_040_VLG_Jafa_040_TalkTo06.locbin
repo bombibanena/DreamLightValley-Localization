@@ -1,0 +1,38 @@
+
+:
+Gaston_000_f*Gaston, I need to talk to you about Jafar.
+C
+Gaston_001_f3We're going to be holding a trial for him andâ
+@
+Gaston_002_f0Ahh, and you want me to be the judge? Of course!
+
+Player_000_choice_000_fNo.
+!
+Player_000_choice_001_fNever.
+?
+Player_000_choice_002_f$You are the last person I would ask.
+I
+Gaston_003_f9A mistake you'll regret, I'm sure. What do you want then?
+h
+Gaston_012_fXWhat if when I need to get the courtroom set up, I rely on you to move the heavy things?
+
+Gaston_013_f
+I like it!
+�
+Gaston_004_f}Well, I wanted to get your take on things. How do you feel about Jafar? Is there anything you want to raise when you testify?
+n
+Gaston_005_f^Hmm... I must confess; I'm conflicted. I don't like that he hypnotized me to do his bidding...
+
+Gaston_006_f	For sure!
+|
+Gaston_007_flBUT he did want me to move his extremely heavy equipment, so he clearly knows I'm the strongest person here.
+
+Gaston_008_f... For sure.
+<
+Gaston_009_f,I believe he should answer for his crimes...
+H
+Gaston_010_f8...AND you should acknowledge that I'm amazingly strong.
++
+Gaston_011_fOkay, I can work with this.
+G
+Gaston_014_f7Okay, glad we sorted that out â talk to you later!

@@ -1,0 +1,19 @@
+
+$
+Goofy_000_fThanks, {PlayerName}!
+Ž
+Goofy_001_fNow, I just need to catch the <ActivityItem>Seaweed</ActivityItem> and <ActivityItem>Red Algae</ActivityItem> Ursula asked for.
+6
+Player_000_f&Why don't I help you by catching half?
+(
+Player_000_choice_000_fIt'll be fun.
+D
+Player_000_choice_001_f)This way she'll have at least half of it.
+7
+Player_000_choice_002_fI'll show you how it's done!
+I
+Goofy_002_f:Aw, that'd be swell! I always love goin' fishing with you.
+(
+Goofy_003_fGreat idea, {PlayerName}!
+t
+Goofy_004_feGawrsh, it'll be just like when you first got to the Village and helped me find my lucky fishing rod!

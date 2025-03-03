@@ -1,0 +1,69 @@
+
+l
+Merlin_000_f\{PlayerName}... Now, I know you're not a wizard, but have you ever heard of a Wizards' Duel?
+
+Player_000_choice_000_fYes.
+
+Player_000_choice_001_fNo.
++
+Merlin_001_fThen you know how it works.
+‚
+Merlin_002_frMy last bout with Madam Mim... well, it... it was a bit of a grudge match, you might say. We needn't be so brutal.
+Š
+Merlin_004_fzSince you can't change forms, we'll just say the names of what we WOULD change into. And let's stick to animals, shall we?
+D
+Merlin_005_f4Here, I'll start... I choose the form of a tortoise!
+#
+Player_001_choice_000_fRaccoon.
+"
+Player_001_choice_001_fRabbit.
+$
+Player_001_choice_002_f	Elephant.
+[
+Merlin_006_fKA reasonable choice... A raccoon might be able to prey on a young tortoise.
+j
+Merlin_018_fZBut I assure you I am an old, venerable tortoise and quite immune to your raccoon attacks.
+ 
+Merlin_009_fI win this duel.
+K
+Merlin_007_f;A rabbit? Do you intend to challenge tortoise-me to a race?
+V
+Merlin_019_fFWell, I know a fable that will tell you how that goes. Heh-heh. I win.
+r
+Merlin_008_fbSeems a bit extreme, but I suppose in a contest of brawn an elephant would win against a tortoise.
+F
+Merlin_010_f6Then I shall become a mouse and terrify your elephant.
+
+Player_002_choice_000_fCat.
+
+Player_002_choice_001_fDog.
+!
+Player_002_choice_002_fRobot.
+C
+Merlin_011_f3Yes, that is a classic response. Cat catches mouse.
+W
+Merlin_020_fGThen I will make the classic response in turn and transform into a dog.
+ 
+Player_003_choice_000_fWolf.
+!
+Player_003_choice_001_fHuman.
+"
+Player_003_choice_002_fDragon.
+ˆ
+Merlin_014_fxHmph. Wolf and dog. One is a descendant of the other, so the forms are quite close. I shall declare this contest a draw.
+p
+Merlin_015_f`Very clever! Humans are indeed animals. And they've domesticated almost every dog on the planet!
+U
+Merlin_021_fEAn astute response. I concede the game to you, {PlayerName}. You win!
+l
+Merlin_016_f\Ah! No creatures of legend! That is against the rules... I did tell you that part, didn't I?
+k
+Merlin_022_f[Well, either way, there is no rule-bound response to dragon, so our little contest is over.
+^
+Merlin_012_fNHmph! Any mouse worth his salt can evade a dog. No, I think I've won this one.
+;
+Merlin_013_f+A robot is not an animal. I win by default!
+r
+Merlin_003_fbWell, it's a classic battle of wits, where each player takes turns changing into different things.
+>
+Merlin_017_f.The goal is to defeat the other player's form!

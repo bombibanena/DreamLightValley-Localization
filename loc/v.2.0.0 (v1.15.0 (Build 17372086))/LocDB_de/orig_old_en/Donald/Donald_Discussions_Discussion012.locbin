@@ -1,0 +1,19 @@
+
+_
+Donald_000_fOYou won't believe what I fished up on Dazzle Beach the other day, {PlayerName}.
+}
+Donald_001_fmA <ActivityItem>Kingfish</ActivityItem>! It weighed a whole fifty pounds! And was twice as long as your arms!
+/
+Player_000_choice_000_fWow! That's amazing!
+3
+Player_000_choice_001_fSounds a little fishy...
+N
+Player_000_choice_002_f3I've never seen a fish like that on Dazzle Beach...
+d
+Donald_002_fTYou could try and catch one yourself. But it'll never be as big as the one I caught.
+}
+Donald_003_fmJust try fishing off Dazzle Beach. Oh, and as a brilliant fisherman, I know that they only come out at night.
+-
+Donald_004_fWhat?! You don't believe me?!
+R
+Donald_005_fBGo see for yourself and catch one if you're such a fishing expert!

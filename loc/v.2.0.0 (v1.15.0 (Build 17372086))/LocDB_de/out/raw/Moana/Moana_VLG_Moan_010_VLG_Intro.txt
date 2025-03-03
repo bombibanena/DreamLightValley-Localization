@@ -1,0 +1,18 @@
+TAG: Moana_000_f
+{PlayerName}... I found a boat!
+
+TAG: Moana_009_f
+It's on the Beach and broken. But not too badly. Come and see!
+
+TAG: Player_002_choice_000_f
+Okay! Lead the way!
+
+TAG: Player_002_choice_001_f
+I can't right now, sorry.
+
+TAG: Moana_010_f
+Follow me!
+
+TAG: Moana_011_f
+But... it's a boat! Right. Okay, I understand. Maybe later then?
+

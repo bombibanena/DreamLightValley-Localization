@@ -1,0 +1,23 @@
+
+$
+Sally_001_fOh... {PlayerName}...
+;
+Sally_002_f,Is it okay? Did I bring you the right worms?
+j
+Sally_003_f[Yes, these will do nicely. I think they'll like their new home. It's filled with worm food!
+3
+Player_000_choice_000_fI'm happy for the worms!
+:
+Player_000_choice_001_fPhew, you had me worried there.
+Q
+Player_000_choice_002_f6Better them than me. I like my home free of worm food.
+v
+Sally_004_fgJust wait. After a night in the compost, they'll be the happiest and healthiest worms you've ever seen.
+š
+Sally_007_fŠWhy don't you <Lore>meet me in the Vitalys Mines</Lore>? We can introduce the worms to their new home and see if our trap caught anything.
+
+Sally_008_fSure!
+
+Sally_005_fOh, I'm sorry.
+=
+Sally_006_f.*giggle* So do I. But we won't tell them that.

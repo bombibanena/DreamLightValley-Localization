@@ -1,0 +1,64 @@
+
+(
+WallE_000_fWhat's going on, WALL·E?
+$
+WallE_001_fDirective! Directive?
+?
+Player_002_choice_000_f$Oh? Are we playing matchmaker again?
+=
+Player_002_choice_001_f"Sorry, I can't help you right now.
+
+WallE_003_f
+Uhh... No.
+C
+WallE_004_f4A new directive?! OK, let's try and figure this out.
+
+WallE_005_fWALL·E!
+=
+WallE_006_f.You seem excited — is that part of the hint?
+
+WallE_007_fOh!
+N
+Player_000_choice_000_f3You want to put together a new outfit for yourself?
+4
+Player_000_choice_001_fYou want to have a dance?
+*
+Player_000_choice_002_fYou need a hug?
+
+WallE_010_fNo.
+
+WallE_011_fOh! Oh!
+D
+WallE_013_f5That's a great idea. You need time to let loose, too.
+Y
+WallE_014_fJFirst thing we need for a party are guests — do you have anyone in mind?
+
+WallE_015_fUh... Ah...
+
+WallE_016_fWhat about...
+4
+Player_001_choice_000_fMerlin and Mother Gothel?
+-
+Player_001_choice_001_fMirabel and Woody?
+-
+Player_001_choice_002_fMickey and Minnie?
+
+WallE_017_fNo!
+j
+WallE_018_f[You're right. If they're going to learn to get along, they'll have to do that on their own.
+,
+WallE_027_fWhat about Mirabel and Woody?
+
+WallE_019_fOoh! Oh!
+
+WallE_020_fGood choice!
+(
+WallE_026_fTime to pay them a visit!
+
+WallE_021_fUhh...
+F
+WallE_022_f7I guess not. Well, there are other folks in the Valley.
+,
+WallE_002_fWhat about Mirabel and Woody?
+
+WallE_012_fAww... Uh... No.

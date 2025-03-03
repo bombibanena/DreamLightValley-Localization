@@ -1,0 +1,723 @@
+TAG: 0_ItemsToIgnore_CollectionName
+Пункты для игнорирования
+
+TAG: CharactersAladdin_CollectionName
+Аладдин
+
+TAG: CharactersBeautyAndBeast_CollectionName
+Красота и Зверь
+
+TAG: CharactersBrave_CollectionName
+Храбрость
+
+TAG: CharactersCinderella_CollectionName
+Золушка
+
+TAG: CharactersDreamlightValley_CollectionName
+Свет мечты
+
+TAG: CharactersEncanto_CollectionName
+Энканто
+
+TAG: CharactersFrozen_CollectionName
+Замороженные
+
+TAG: CharactersHercules_CollectionName
+{Placeholder}Hercules
+
+TAG: CharactersLiloStitch_CollectionName
+Lilo & Стич
+
+TAG: CharactersLionKing_CollectionName
+Король Льва
+
+TAG: CharactersLittleMermaid_CollectionName
+Маленькая Русалочка
+
+TAG: CharactersMickeyAndFriends_CollectionName
+Микки Маус & Друзья
+
+TAG: CharactersMoana_CollectionName
+Моана
+
+TAG: CharactersMonsterInc_CollectionName
+Монстры, Инк.
+
+TAG: CharactersMulan_CollectionName
+Мулан
+
+TAG: CharactersNightmare_CollectionName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: CharactersOswald_CollectionName
+Освальд
+
+TAG: CharactersPrincessFrog_CollectionName
+Принцесса и Лягушка
+
+TAG: CharactersRalph_CollectionName
+Ральф
+
+TAG: CharactersRatatouille_CollectionName
+Рататуйль
+
+TAG: CharactersSwordInStone_CollectionName
+Меч в камне
+
+TAG: CharactersTangled_CollectionName
+Спутаны
+
+TAG: CharactersToyStory_CollectionName
+История игрушек
+
+TAG: CharactersWallE_CollectionName
+ВАЛЛ·И
+
+TAG: Crafting_CollectionName
+Функциональные элементы
+
+TAG: CraftingEnchantment_CollectionName
+Уточнение
+
+TAG: CraftingFencesRoads_CollectionName
+Плавки и пастыри
+
+TAG: CraftingFurnitures_CollectionName
+Мебель
+
+TAG: CraftingRefinedMaterials_CollectionName
+Изготовленные материалы
+
+TAG: CrittersBabyArcticFox_CollectionName
+Лиса
+
+TAG: CrittersBabyCrocodile_CollectionName
+Крокодил
+
+TAG: CrittersBabyDragon_CollectionName
+{Placeholder}Baby Dragon
+
+TAG: CrittersBabyPegassus_CollectionName
+{Placeholder}Baby Pegasus
+
+TAG: CrittersBabySeaTurtle_CollectionName
+Морская черепаха
+
+TAG: CrittersCapybara_CollectionName
+Капибара
+
+TAG: CrittersCobra_CollectionName
+Кобра
+
+TAG: CrittersCrow_CollectionName
+Рэйвен
+
+TAG: CrittersMonkey_CollectionName
+Обезьяна
+
+TAG: CrittersOwl_CollectionName
+{Placeholder}Owl
+
+TAG: CrittersRabbit_CollectionName
+Кролик
+
+TAG: CrittersRacoon_CollectionName
+Раккун
+
+TAG: CrittersSquirrel_CollectionName
+Белка
+
+TAG: CrittersSunbird_CollectionName
+Солнечная птица
+
+TAG: CropsGrain_CollectionName
+Зерно
+
+TAG: CropsVegetable_CollectionName
+Овощи
+
+TAG: EmperorNewGroove_CollectionName
+Новый грув императора
+
+TAG: Expansion01!BoardgameAladdin_CollectionName
+Аладдин
+
+TAG: Expansion01!BoardgameBeautyBeast_CollectionName
+Красота и Зверь
+
+TAG: Expansion01!BoardgameCinderella_CollectionName
+Золушка
+
+TAG: Expansion01!BoardgameFrozen_CollectionName
+Замороженные
+
+TAG: Expansion01!BoardgameLiloStitch_CollectionName
+Lilo & Стич
+
+TAG: Expansion01!BoardgameLionKing_CollectionName
+Король Льва
+
+TAG: Expansion01!BoardgameMermaid_CollectionName
+Маленькая Русалочка
+
+TAG: Expansion01!BoardgameMickey_CollectionName
+Микки Маус & Друзья
+
+TAG: Expansion01!BoardgameMoana_CollectionName
+Моана
+
+TAG: Expansion01!BoardgameMonsterInc_CollectionName
+Монстры, Инк.
+
+TAG: Expansion01!BoardgameRalph_CollectionName
+Ральф
+
+TAG: Expansion01!BoardgameRatatouille_CollectionName
+Рататуйль
+
+TAG: Expansion01!BoardgameSwordStone_CollectionName
+Меч в камне
+
+TAG: Expansion01!BoardgameTangled_CollectionName
+Спутаны
+
+TAG: Expansion01!BoardgameToyStory_CollectionName
+История игрушек
+
+TAG: Expansion01!BoardgameWallE_CollectionName
+ВАЛЛ·И
+
+TAG: Expansion01!EternityIsleMemories_CollectionName
+Вечный остров
+
+TAG: Expansion01!GastonJournal_CollectionName
+Гастон Журнал
+
+TAG: Expansion01!JafarJournal_CollectionName
+Джафар Журнал
+
+TAG: Expansion01!RapunzelLyrics_CollectionName
+Рапунцель Лирики
+
+TAG: Expansion01!TimeBendingAncientMachines_CollectionName
+Древние машины
+
+TAG: Expansion01!TimeBendingFragments_CollectionName
+Осколки
+
+TAG: Expansion01!TimeBendingFurniture_CollectionName
+Мебель
+
+TAG: Expansion01!TimeBendingGifts_CollectionName
+Подарки
+
+TAG: Expansion01!TimeBendingParts_CollectionName
+Части, предусматривающие отсрочку
+
+TAG: Expansion02!AuroraJournal_CollectionName
+Журналы Авроры
+
+TAG: Expansion02!LorekeeperTales_01_Tutorial_CollectionName
+Когда-то в Сказочной Долине...
+
+TAG: Expansion02!LorekeeperTales_02_FinalQuest_CollectionName
+Спарк разбрызгивания
+
+TAG: Expansion02!LorekeeperTales_03_ShovelBlockerQuest_CollectionName
+Аврора и Чайные водопады
+
+TAG: Expansion02!LorekeeperTales_04_WateringCanBlockerQuest_CollectionName
+Аврора и Священный Источник
+
+TAG: Expansion02!LorekeeperTales_11_SleepingBeauty_CollectionName
+Спящая красавица
+
+TAG: Expansion02!LorekeeperTales_12_MonsterInc_CollectionName
+Монстры, Инк.
+
+TAG: Expansion02!LorekeeperTales_13_Mulan_CollectionName
+Мулан
+
+TAG: Expansion02!LorekeeperTales_14_Nightmare_CollectionName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: Expansion02!LorekeeperTales_15_PrincessAndTheFrog_CollectionName
+Принцесса и Лягушка
+
+TAG: Expansion02!LorekeeperTales_16_LiloAndStitch_CollectionName
+Lilo & Стич
+
+TAG: Expansion02!LorekeeperTales_17_Tangled_CollectionName
+Спутаны
+
+TAG: Expansion02!LorekeeperTales_18_Wall-E_CollectionName
+ВАЛЛ·И
+
+TAG: Expansion02!LorekeeperTales_19_WreckItRalph_CollectionName
+Ральф
+
+TAG: Expansion02!LorekeeperTales_20_SwordInStone_CollectionName
+Меч в камне
+
+TAG: Expansion02!LorekeeperTales_21_Hercules_CollectionName
+Геркулес
+
+TAG: Expansion02!LorekeeperTales_22_Frozen_CollectionName
+Замороженные
+
+TAG: Expansion02!LorekeeperTales_23_TheLittleMermaid_CollectionName
+Маленькая Русалочка
+
+TAG: Expansion02!LorekeeperTales_24_Ratatouille_CollectionName
+Рататуйль
+
+TAG: Expansion02!LorekeeperTales_25_ToyStory_CollectionName
+История игрушек
+
+TAG: Expansion02!LorekeeperTales_26_Brave_CollectionName
+Храбрость
+
+TAG: Expansion02!LorekeeperTales_27_SorcerersApprentice_CollectionName
+Ученик колдуна
+
+TAG: Expansion02!LorekeeperTalesAladdin_CollectionName
+Аладдин
+
+TAG: Expansion02!LorekeeperTalesBeautyAndTheBeast_CollectionName
+Красота и Зверь
+
+TAG: Expansion02!LorekeeperTalesCinderella_CollectionName
+Золушка
+
+TAG: Expansion02!LorekeeperTalesEncanto_CollectionName
+Энканто
+
+TAG: Expansion02!LorekeeperTalesMoana_CollectionName
+Моана
+
+TAG: Expansion02!LorekeeperTalesTheLionKing_CollectionName
+Король Льва
+
+TAG: Expansion02!SnippetsBirds_CollectionName
+{Placeholder} Птицы
+
+TAG: Expansion02!SnippetsDemon_CollectionName
+{Placeholder} Демоны
+
+TAG: Expansion02!SnippetsFrogs_CollectionName
+{Placeholder} Лягушки
+
+TAG: Fish_CollectionName
+Рыба
+
+TAG: ForagingCrafting_CollectionName
+Материалы для пересадки
+
+TAG: ForagingFlower_CollectionName
+Цветы
+
+TAG: ForagingFruits_CollectionName
+Фрукты
+
+TAG: ForagingIngredients_CollectionName
+Морские продукты
+
+TAG: ForagingSpice_CollectionName
+Спайсы и травы
+
+TAG: IngredientProtein_CollectionName
+Протеин
+
+TAG: IngredientsPantry_CollectionName
+Чез Реми Пантри
+
+TAG: MealsAppetizer_CollectionName
+Закуски
+
+TAG: MealsDessert_CollectionName
+Десерт
+
+TAG: MealsDinner_CollectionName
+Подъемные устройства
+
+TAG: MemoryShardsAladdin_CollectionName
+Аладдин
+
+TAG: MemoryShardsBeautyAndBeast_CollectionName
+Красота и Зверь
+
+TAG: MemoryShardsBrave_CollectionName
+Храбрость
+
+TAG: MemoryShardsCinderella_CollectionName
+Золушка
+
+TAG: MemoryShardsDiaries_CollectionName
+Потерянные дневники Старого Правителя
+
+TAG: MemoryShardsDreamlightValley_CollectionName
+Долина мечты
+
+TAG: MemoryShardsEncanto_CollectionName
+Энканто
+
+TAG: MemoryShardsFrozen_CollectionName
+Замороженные
+
+TAG: MemoryShardsHercules_CollectionName
+Геркулес
+
+TAG: MemoryShardsLiloStitch_CollectionName
+Lilo & Стич
+
+TAG: MemoryShardsLionKing_CollectionName
+Король Льва
+
+TAG: MemoryShardsLittleMermaid_CollectionName
+Маленькая Русалочка
+
+TAG: MemoryShardsMickey_CollectionName
+Микки Маус & Друзья
+
+TAG: MemoryShardsMoana_CollectionName
+Моана
+
+TAG: MemoryShardsMonsterInc_CollectionName
+Монстры, Инк.
+
+TAG: MemoryShardsNightmare_CollectionName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: MemoryShardsPrincess_CollectionName
+Принцесса и Лягушка
+
+TAG: MemoryShardsRalph_CollectionName
+Ральф
+
+TAG: MemoryShardsRatatouille_CollectionName
+Рататуйль
+
+TAG: MemoryShardsSleepingBeauty_CollectionName
+Спящая красавица
+
+TAG: MemoryShardsSwordInStone_CollectionName
+Меч в камне
+
+TAG: MemoryShardsTangled_CollectionName
+Спутаны
+
+TAG: MemoryShardsToyStory_CollectionName
+История игрушек
+
+TAG: MemoryShardsWallE_CollectionName
+ВАЛЛ·И
+
+TAG: MikePostIt_CollectionName
+&lt; &lt; Монстры, инк. &gt; &gt;
+
+TAG: Minerals_CollectionName
+Минеральные ресурсы
+
+TAG: MineralsCrafting_CollectionName
+Пересадка
+
+TAG: SetItemClothingAladdin_CollectionName
+Аладдин
+
+TAG: SetItemClothingAlice_CollectionName
+Элис в Стране Чудес
+
+TAG: SetItemClothingAtlantis_CollectionName
+Атлантис
+
+TAG: SetItemClothingBeautyAndBeast_CollectionName
+Красота и Зверь'
+
+TAG: SetItemClothingBeautyAndBeast2017_CollectionName
+Красота и Зверь 2017
+
+TAG: SetItemClothingBigHero6_CollectionName
+Большой Герой 6
+
+TAG: SetItemClothingBrave_CollectionName
+Храбрость
+
+TAG: SetItemClothingCars_CollectionName
+Автомобили
+
+TAG: SetItemClothingCinderella_CollectionName
+Золушка
+
+TAG: SetItemClothingCoco_CollectionName
+Коко
+
+TAG: SetItemClothingDisney_CollectionName
+Дисней
+
+TAG: SetItemClothingDreamlightValley_CollectionName
+Долина мечты
+
+TAG: SetItemClothingElemental_CollectionName
+Элементарный
+
+TAG: SetItemClothingEncanto_CollectionName
+Энканто
+
+TAG: SetItemClothingFairies_CollectionName
+Феи Дисней
+
+TAG: SetItemClothingFindingNemo_CollectionName
+Поиск Немо
+
+TAG: SetItemClothingFrozen_CollectionName
+Замороженные
+
+TAG: SetItemClothingHercules_CollectionName
+Геркулес
+
+TAG: SetItemClothingHocusPocus_CollectionName
+Hocus Pocus
+
+TAG: SetItemClothingIncredibles_CollectionName
+Невероятные
+
+TAG: SetItemClothingInsideOut_CollectionName
+Внутри
+
+TAG: SetItemClothingLadyAndTheTramp_CollectionName
+Леди и Трамп
+
+TAG: SetItemClothingLightyear_CollectionName
+Световой год
+
+TAG: SetItemClothingLiloStitch_CollectionName
+Lilo & Стич
+
+TAG: SetItemClothingLionKing_CollectionName
+Король Льва
+
+TAG: SetItemClothingLittleMermaid_CollectionName
+Маленькая Русалочка
+
+TAG: SetItemClothingMaleficent_CollectionName
+Малефисента
+
+TAG: SetItemClothingMickey_CollectionName
+Микки Маус & Друзья
+
+TAG: SetItemClothingMoana_CollectionName
+Моана
+
+TAG: SetItemClothingMonsterInc_CollectionName
+Монстры, Инк.
+
+TAG: SetItemClothingMulan_CollectionName
+Мулан
+
+TAG: SetItemClothingNightmare_CollectionName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: SetItemClothingNonIP_CollectionName
+Общие сведения
+
+TAG: SetItemClothingOswald_CollectionName
+Освальд
+
+TAG: SetItemClothingPeterPan_CollectionName
+Питер Пан
+
+TAG: SetItemClothingPirates_CollectionName
+Пираты Карибского бассейна
+
+TAG: SetItemClothingPocahontas_CollectionName
+Покахонтас
+
+TAG: SetItemClothingPrincessFrog_CollectionName
+Принцесса и Лягушка
+
+TAG: SetItemClothingRalph_CollectionName
+Ральф
+
+TAG: SetItemClothingRatatouille_CollectionName
+Рататуйль
+
+TAG: SetItemClothingSleepBeauty_CollectionName
+Спящая красавица
+
+TAG: SetItemClothingSnowWhite_CollectionName
+Белоснежка
+
+TAG: SetItemClothingSwordStone_CollectionName
+Меч в камне
+
+TAG: SetItemClothingTangled_CollectionName
+Спутаны
+
+TAG: SetItemClothingToyStory_CollectionName
+История игрушек
+
+TAG: SetItemClothingTron_CollectionName
+Трон
+
+TAG: SetItemClothingTurningRed_CollectionName
+Красный
+
+TAG: SetItemClothingUp_CollectionName
+Вверх
+
+TAG: SetItemClothingWallE_CollectionName
+ВАЛЛ·И
+
+TAG: SetItemFunitureAladdin_CollectionName
+Аладдин
+
+TAG: SetItemFurnitureAlice_CollectionName
+{Placeholder} Элис в Стране чудес
+
+TAG: SetItemFurnitureAncientCiv_CollectionName
+Древняя цивилизация
+
+TAG: SetItemFurnitureAtlantis_CollectionName
+Атлантис
+
+TAG: SetItemFurnitureBeautyAndBeast_CollectionName
+Красота и Зверь
+
+TAG: SetItemFurnitureBigHero6_CollectionName
+Большой Герой 6
+
+TAG: SetItemFurnitureBrave_CollectionName
+Храбрость
+
+TAG: SetItemFurnitureCars_CollectionName
+Автомобили
+
+TAG: SetItemFurnitureCinderella_CollectionName
+Золушка
+
+TAG: SetItemFurnitureCoco_CollectionName
+Коко
+
+TAG: SetItemFurnitureDisney_CollectionName
+Дисней
+
+TAG: SetItemFurnitureDreamlightValley_CollectionName
+Долина мечты
+
+TAG: SetItemFurnitureElemental_CollectionName
+Элементарный
+
+TAG: setItemFurnitureEmperorNewGroove_CollectionName
+Новый грув императора
+
+TAG: SetItemFurnitureEncanto_CollectionName
+Энканто
+
+TAG: SetItemFurnitureFairies_CollectionName
+Феи Дисней
+
+TAG: SetItemFurnitureFantasia_CollectionName
+Фантазия
+
+TAG: SetItemFurnitureFindingNemo_CollectionName
+Поиск Немо
+
+TAG: SetItemFurnitureFrozen_CollectionName
+Замороженные
+
+TAG: SetItemFurnitureHercules_CollectionName
+Геркулес
+
+TAG: SetItemFurnitureHocusPocus_CollectionName
+Hocus Pocus
+
+TAG: SetItemFurnitureIncredibles_CollectionName
+Невероятные
+
+TAG: SetItemFurnitureInsideOut_CollectionName
+Внутри
+
+TAG: SetItemFurnitureLadyAndTheTramp_CollectionName
+Леди и Трамп
+
+TAG: SetItemFurnitureLightyear_CollectionName
+Световой год
+
+TAG: SetItemFurnitureLiloStitch_CollectionName
+Lilo & Стич
+
+TAG: SetItemFurnitureLionKing_CollectionName
+Король Льва
+
+TAG: SetItemFurnitureLittleMermaid_CollectionName
+Маленькая Русалочка
+
+TAG: SetItemFurnitureMaleficent_CollectionName
+Малефисента
+
+TAG: SetItemFurnitureMickey_CollectionName
+Микки Маус & Друзья
+
+TAG: SetItemFurnitureMoana_CollectionName
+Моана
+
+TAG: SetItemFurnitureMonsterInc_CollectionName
+Монстры, Инк.
+
+TAG: SetItemFurnitureMulan_CollectionName
+Мулан
+
+TAG: SetItemFurnitureNightmare_CollectionName
+Тим Бёртон "Кошмар перед Рождеством"
+
+TAG: SetItemFurnitureNonIP_CollectionName
+Не связанные с дисконтированием
+
+TAG: SetItemFurnitureOswald_CollectionName
+Освальд
+
+TAG: SetItemFurniturePeterPan_CollectionName
+Питер Пан
+
+TAG: SetItemFurniturePirates_CollectionName
+Пираты Карибского бассейна
+
+TAG: SetItemFurniturePocahontas_CollectionName
+Покахонтас
+
+TAG: SetItemFurniturePrincessFrog_CollectionName
+Принцесса и Лягушка
+
+TAG: SetItemFurnitureRalph_CollectionName
+Ральф
+
+TAG: SetItemFurnitureRatatouille_CollectionName
+Рататуйль
+
+TAG: SetItemFurnitureSleepBeauty_CollectionName
+Спящая красавица
+
+TAG: SetItemFurnitureSnowWhite_CollectionName
+Белоснежка
+
+TAG: SetItemFurnitureSwordStone_CollectionName
+Меч в камне
+
+TAG: SetItemFurnitureTangled_CollectionName
+Спутаны
+
+TAG: SetItemFurnitureToyStory_CollectionName
+История игрушек
+
+TAG: SetItemFurnitureTron_CollectionName
+Трон
+
+TAG: SetItemFurnitureTurningRed_CollectionName
+Красный
+
+TAG: SetItemFurnitureUp_CollectionName
+Вверх
+
+TAG: SetItemFurnitureWallE_CollectionName
+ВАЛЛ·И
+

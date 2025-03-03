@@ -1,0 +1,81 @@
+TAG: Kristoff_004_f
+Hey, Kristoff, you play the lute, right?
+
+TAG: Kristoff_005_f
+Sure. Why do you ask?
+
+TAG: Player_000_f
+Stitch is starting a band. He was hoping you might join.
+
+TAG: Player_000_choice_000_f
+You two would really rock together!
+
+TAG: Player_000_choice_001_f
+It would make Stitch happy.
+
+TAG: Player_000_choice_002_f
+You're the only person around here with a lute.
+
+TAG: Kristoff_006_f
+You think so? I don't know if we'd be a great match as performers.
+
+TAG: Kristoff_016_f
+You won't have to do it alone. Prince Eric is going to do it too!
+
+TAG: Kristoff_018_f
+Well, that might help. But still...
+
+TAG: Kristoff_007_f
+Music is something I kind of do for me. I haven't performed much in front of crowds.
+
+TAG: Player_001_choice_000_f
+It's good to get outside your comfort zone.
+
+TAG: Player_001_choice_001_f
+It would mean the world to Stitch.
+
+TAG: Player_001_choice_002_f
+You don't have to do it if you don't want to.
+
+TAG: Kristoff_008_f
+You know, maybe you're right. This might be fun.
+
+TAG: Kristoff_019_f
+Stitch, Eric, and I... making music for the whole Village.
+
+TAG: Kristoff_010_f
+This is either gonna be great or a complete disaster.
+
+TAG: Kristoff_011_f
+Well... better start practicing!
+
+TAG: Kristoff_020_f
+Now that we've got the whole band together, I'm going to go <Lore>talk to Mr. McDuck</Lore>.
+
+TAG: Kristoff_021_f
+We'll need sound equipment. He might have some he can lend us.
+
+TAG: Kristoff_022_f
+I'll <Lore>keep looking for one more member to join the band</Lore>.
+
+TAG: Kristoff_023_f
+Sounds good. Hey, isn't there somebody around here who plays a flute...?
+
+TAG: Kristoff_009_f
+Stitch and I... making music for the whole Village.
+
+TAG: Kristoff_012_f
+Well, if it would help the little guy feel more at home in the Village, maybe I should.
+
+TAG: Kristoff_013_f
+Thanks, {PlayerName}. But... You know what? I'll do it.
+
+TAG: Kristoff_017_f
+You won't have to do it alone. I'm still looking for somebody else to join the band.
+
+TAG: Kristoff_014_f
+Are you sure there isn't somebody else who'd be better?
+
+TAG: Kristoff_015_f
+Well, that's true. But I'm not sure if just having a lute qualifies me for this.
+

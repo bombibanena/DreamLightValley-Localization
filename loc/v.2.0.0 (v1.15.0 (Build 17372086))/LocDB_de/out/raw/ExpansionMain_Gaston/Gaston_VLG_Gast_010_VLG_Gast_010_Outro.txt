@@ -1,0 +1,54 @@
+TAG: Gaston_002_f
+{PlayerName}! What an excellent day! And what an excellent party!
+
+TAG: Gaston_003_f
+How do you think it went?
+
+TAG: Player_000_choice_000_f
+Well!
+
+TAG: Player_000_choice_001_f
+Amazingly!
+
+TAG: Player_000_choice_002_f
+It was okay...
+
+TAG: Gaston_005_f
+Just "well"?! Then I guess you should have worked harder.
+
+TAG: Gaston_006_f
+The rat seemed particularly pleased about putting meat on his menu.
+
+TAG: Gaston_007_f
+But more importantly, everyone now knows that I'm back!
+
+TAG: Gaston_026_f
+Oh, Gaston...
+
+TAG: Player_001_choice_000_f
+You're nearly narcissistic.
+
+TAG: Player_001_choice_001_f
+You're so supercilious.
+
+TAG: Player_001_choice_002_f
+You're definitely daft.
+
+TAG: Gaston_010_f
+Why thank you, LeFou! And you are an adequate sidekick.
+
+TAG: Gaston_028_f
+I... You know what? Thank you, Gaston.
+
+TAG: Gaston_029_f
+Now, go do whatever you do when you're not complimenting me. I'm going to sit back and enjoy my success!
+
+TAG: Gaston_030_f
+All right, until next time!
+
+TAG: Gaston_012_f
+That's what I like to hear!
+
+TAG: Gaston_013_f
+Oh, how you like to joke, LeFou!
+

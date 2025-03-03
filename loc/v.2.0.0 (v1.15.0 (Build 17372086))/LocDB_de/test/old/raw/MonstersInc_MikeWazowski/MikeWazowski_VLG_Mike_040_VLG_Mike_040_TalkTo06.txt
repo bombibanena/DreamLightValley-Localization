@@ -1,0 +1,45 @@
+TAG: MikeWazowski_000_f
+Спасибо за уборку, {PlayerName}.
+
+TAG: MikeWazowski_002_f
+Как ты относишься к шоу?
+
+TAG: Player_003_choice_000_f
+Не могу дождаться!
+
+TAG: Player_003_choice_001_f
+Что-то пойдёт не так...
+
+TAG: MikeWazowski_022_f
+Ваниллопа  будет так много брызгать ей в путь, что ее голова будет кружиться!
+
+TAG: MikeWazowski_028_f
+Удачи?
+
+TAG: MikeWazowski_029_f
+Кому нужна удача, когда у тебя есть такие навыки, как у меня!
+
+TAG: MikeWazowski_019_f
+Ладно, думаю, мы уже готовы.
+
+TAG: MikeWazowski_020_f
+Есть только одна вещь...
+
+TAG: MikeWazowski_021_f
+Салли одолжит нам свой фотоаппарат для шоу.
+
+TAG: MikeWazowski_025_f
+Ты можешь поднять его с Салли для меня<Lore>?
+
+TAG: MikeWazowski_024_f
+Уже иду!
+
+TAG: MikeWazowski_023_f
+Думаешь?
+
+TAG: MikeWazowski_026_f
+Ну, иногда Ваниллопа может быть немного... хаотично.
+
+TAG: MikeWazowski_027_f
+Спасибо, {PlayerName}.
+

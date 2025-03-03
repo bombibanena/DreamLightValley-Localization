@@ -1,0 +1,105 @@
+TAG: Mickey_004_f
+Remember when we saw Minnie for a moment at the picnic? I've been thinking...
+
+TAG: Mickey_000_f
+I might know why it happened. And how to make it happen again!
+
+TAG: Player_000_choice_000_f
+That's great!
+
+TAG: Player_000_choice_001_f
+I can't help right now; I'm sorry.
+
+TAG: Mickey_022_f
+Minnie appeared when I was thinking about the picnics we used to have.
+
+TAG: Mickey_023_f
+I talked to Merlin, and he says it's all about remembering her!
+
+TAG: Mickey_024_f
+So, he enchanted Minnie's favorite bow. He calls it a Memory Magnet.
+
+TAG: Player_000_choice_003_f
+So we hold the bow and remember her?
+
+TAG: Player_000_choice_004_f
+Sounds far-fetched.
+
+TAG: Player_000_choice_005_f
+Minnie's lost and alone. Do you really think she'll care about a bow?
+
+TAG: Mickey_025_f
+Exactly!
+
+TAG: Mickey_026_f
+Come on; let's try it together. I remember that Minnie loves wearing...
+
+TAG: Player_000_choice_006_f
+...stripes!
+
+TAG: Player_000_choice_007_f
+...polka dots!
+
+TAG: Player_000_choice_008_f
+...stars!
+
+TAG: Mickey_029_f
+Actually, Minnie loves polka dots best.
+
+TAG: Mickey_032_f
+Let's see... What else does she love?
+
+TAG: Player_000_choice_009_f
+Flowers!
+
+TAG: Player_000_choice_010_f
+Baking!
+
+TAG: Player_000_choice_011_f
+Giggling!
+
+TAG: Mickey_034_f
+You're right! Minnie loves watching flowers bloom.
+
+TAG: Mickey_037_f
+You know, you kinda remind me of her.
+
+TAG: Mickey_038_f
+Once she even formed a club with Woody and Annaâ
+
+TAG: Mickey_039_f
+Whoa! Minnie's Bow... It's tingling!
+
+TAG: Mickey_040_f
+I think it's working! Here, take Minnie's Bow, {PlayerName}!
+
+TAG: Mickey_041_f
+If you go talk to more Villagers, we can charge it up with more Memories!
+
+TAG: Mickey_042_f
+Be sure you come back and see me when you're done.
+
+TAG: Mickey_035_f
+She sure does! And she always tells me the most important ingredient in any recipe is love.
+
+TAG: Mickey_036_f
+You got it! She loves to laugh!
+
+TAG: Mickey_030_f
+That's right! Minnie LOVES polka dots!
+
+TAG: Mickey_031_f
+Well, we both like LOOKING at the stars together.
+
+TAG: Mickey_033_f
+But she doesn't WEAR a lot of stars. She likes wearing polka dots best!
+
+TAG: Mickey_027_f
+Well, magic can be kinda strange, but I trust Merlin! He's a very wise wizard.
+
+TAG: Mickey_028_f
+Trust me: Wherever she is, Minnie will want her favorite bow. She really loves it.
+
+TAG: Mickey_020_f
+That's okay. I'll talk to you later. Come back quick!
+

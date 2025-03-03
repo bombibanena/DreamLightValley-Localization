@@ -1,0 +1,21 @@
+TAG: Repeatable!Event!Park!RPT_Scro_DailyPark_Any_CompletedRequestDescription
+Возвращайтесь на Скрудж Макдак.
+
+TAG: Repeatable!Event!Park!RPT_Scro_DailyPark_AvailableDescription
+Поговори с Скрудж Макдак.
+
+TAG: Repeatable!Event!Park!RPT_Scro_DailyPark_DisplayName
+Фестиваль Парков мечты: Скрудж Макдак
+
+TAG: Repeatable!Event!Park!RPT_Scro_DailyPark_Group01_Step01_CookMeal01_StepDescription
+Приготовить кексов Стич.
+
+TAG: Repeatable!Event!Park!RPT_Scro_DailyPark_Group02_Step02_StepDescription
+(Неожиданно раздавать кексы тем же деревенским жителям не считается.
+
+TAG: Repeatable!Event!Park!RPT_Scro_DailyPark_Group02_StepDescription
+Доставьте кексы Стич всем деревенским жителям.
+
+TAG: Repeatable!Event!Park!RPT_Scro_DailyPark_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

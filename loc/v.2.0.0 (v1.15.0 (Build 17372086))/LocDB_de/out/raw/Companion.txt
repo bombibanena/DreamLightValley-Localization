@@ -1,0 +1,903 @@
+TAG: Aladdin!Carpet_DisplayName
+Magic Carpet
+
+TAG: AncientCiv!MiniAtlantisGuardian_DisplayName
+Ancient Robot
+
+TAG: Beach!CritterBeach01_DisplayName
+Classic Sea Turtle
+
+TAG: Beach!CritterBeach01_FavoriteItemDescription
+Seaweed
+
+TAG: Beach!CritterBeach02_DisplayName
+Brown Sea Turtle
+
+TAG: Beach!CritterBeach02_FavoriteItemDescription
+Seaweed
+
+TAG: Beach!CritterBeach03_DisplayName
+White Sea Turtle
+
+TAG: Beach!CritterBeach03_FavoriteItemDescription
+Seaweed
+
+TAG: Beach!CritterBeach04_DisplayName
+Purple Sea Turtle
+
+TAG: Beach!CritterBeach04_FavoriteItemDescription
+Seaweed
+
+TAG: Beach!CritterBeach05_DisplayName
+Black Sea Turtle
+
+TAG: Beach!CritterBeach05_FavoriteItemDescription
+Seaweed
+
+TAG: Bird!SnippetBird01_DisplayName
+Red Bird Snippet
+
+TAG: Bird!SnippetBird01Tuto_DisplayName
+Red Bird Snippet
+
+TAG: Bird!SnippetBird02_DisplayName
+Blue Bird Snippet
+
+TAG: Bird!SnippetBird03_DisplayName
+Green Bird Snippet
+
+TAG: Bird!SnippetBird04_DisplayName
+Yellow Bird Snippet
+
+TAG: Bird!SnippetBird05_DisplayName
+White Bird Snippet
+
+TAG: Cat!Figaro01_DisplayName
+Figaro
+
+TAG: Crocodile!Chocodile01_DisplayName
+Choco Crocodile
+
+TAG: Crocodile!Crocodile01_DisplayName
+Classic Crocodile
+
+TAG: Crocodile!Crocodile02_DisplayName
+Blue Crocodile
+
+TAG: Crocodile!Crocodile03_DisplayName
+Red Crocodile
+
+TAG: Crocodile!Crocodile04_DisplayName
+Golden Crocodile
+
+TAG: Crocodile!Crocodile05_DisplayName
+White Crocodile
+
+TAG: Crocodile!Crocodile06_DisplayName
+Pink Crocodile
+
+TAG: Crocodile!DapperCrocodile01_DisplayName
+Dapper Crocodile
+
+TAG: Crocodile!Dreamlight!color01_DisplayName
+Blue Whimsical Crocodile
+
+TAG: Crocodile!Dreamlight!color02_DisplayName
+Pink Whimsical Crocodile
+
+TAG: Crocodile!FruitCroco01_DisplayName
+Bountiful Croc
+
+TAG: DarkMountains!CritterDarkMountains01_DisplayName
+Classic Raven
+
+TAG: DarkMountains!CritterDarkMountains01_FavoriteItemDescription
+Any 5-star meal
+
+TAG: DarkMountains!CritterDarkMountains02_DisplayName
+Red Raven
+
+TAG: DarkMountains!CritterDarkMountains02_FavoriteItemDescription
+Any 5-star meal
+
+TAG: DarkMountains!CritterDarkMountains03_DisplayName
+White Raven
+
+TAG: DarkMountains!CritterDarkMountains03_FavoriteItemDescription
+Any 5-star meal
+
+TAG: DarkMountains!CritterDarkMountains04_DisplayName
+Blue Raven
+
+TAG: DarkMountains!CritterDarkMountains04_FavoriteItemDescription
+Any 5-star meal
+
+TAG: DarkMountains!CritterDarkMountains05_DisplayName
+Brown Raven
+
+TAG: DarkMountains!CritterDarkMountains05_FavoriteItemDescription
+Any 5-star meal
+
+TAG: Demon!DemonEvil_DisplayName
+Everafter Demon Snippet
+
+TAG: Demon!DemonEvil01_DisplayName
+Everafter Demon Snippet
+
+TAG: Demon!SnippetDemon01Pink_DisplayName
+Pink Demon Snippet
+
+TAG: Demon!SnippetDemon02Blue_DisplayName
+Blue Demon Snippet
+
+TAG: Demon!SnippetDemon03Red_DisplayName
+Red Demon Snippet
+
+TAG: Demon!SnippetDemon04Green_DisplayName
+Green Demon Snippet
+
+TAG: Expansion01!Capybara!Capybara01_DisplayName
+Classic Capybara
+
+TAG: Expansion01!Capybara!Capybara02_DisplayName
+Black and White Capybara
+
+TAG: Expansion01!Capybara!Capybara03_DisplayName
+Blue Striped Capybara
+
+TAG: Expansion01!Capybara!Capybara04_DisplayName
+Gray Spotted Capybara
+
+TAG: Expansion01!Capybara!Capybara05_DisplayName
+Red and White Striped Capybara
+
+TAG: Expansion01!Capybara!CapybaraBW01_DisplayName
+Toon Capybara
+
+TAG: Expansion01!Capybara!CapybaraCottage01_DisplayName
+Flowery Capybara
+
+TAG: Expansion01!Capybara!RelaxCapybara01_DisplayName
+Relaxing Capybara
+
+TAG: Expansion01!Capybara!TinkerBellInspiredCritter01_DisplayName
+Tinker Bell Capybara
+
+TAG: Expansion01!Cobra!Cobra01_DisplayName
+Classic Cobra
+
+TAG: Expansion01!Cobra!Cobra02_DisplayName
+Blue and Red Striped Cobra
+
+TAG: Expansion01!Cobra!Cobra03_DisplayName
+Pink Spotted Cobra
+
+TAG: Expansion01!Cobra!Cobra04_DisplayName
+Yellow and Purple Striped Cobra
+
+TAG: Expansion01!Cobra!Cobra05_DisplayName
+Green and White Striped Cobra
+
+TAG: Expansion01!Cobra!CobraBW01_DisplayName
+Toon Cobra
+
+TAG: Expansion01!Desert!CritterDesert01_DisplayName
+Classic Cobra
+
+TAG: Expansion01!Desert!CritterDesert01_FavoriteItemDescription
+Egg
+
+TAG: Expansion01!Desert!CritterDesert02_DisplayName
+Blue and Red Striped Cobra
+
+TAG: Expansion01!Desert!CritterDesert02_FavoriteItemDescription
+Egg
+
+TAG: Expansion01!Desert!CritterDesert03_DisplayName
+Pink Spotted Cobra
+
+TAG: Expansion01!Desert!CritterDesert03_FavoriteItemDescription
+Egg
+
+TAG: Expansion01!Desert!CritterDesert04_DisplayName
+Yellow and Purple Striped Cobra
+
+TAG: Expansion01!Desert!CritterDesert04_FavoriteItemDescription
+Egg
+
+TAG: Expansion01!Desert!CritterDesert05_DisplayName
+Green and White Striped Cobra
+
+TAG: Expansion01!Desert!CritterDesert05_FavoriteItemDescription
+Egg
+
+TAG: Expansion01!Desert!CritterDesertBW01_DisplayName
+Toon Cobra
+
+TAG: Expansion01!Desert!CritterDesertBW1_FavoriteItemDescription
+Egg
+
+TAG: Expansion01!Jungle!CritterJungle_BW1_FavoriteItemDescription
+Cabbage
+
+TAG: Expansion01!Jungle!CritterJungle01_DisplayName
+Classic Capybara
+
+TAG: Expansion01!Jungle!CritterJungle01_FavoriteItemDescription
+Cabbage
+
+TAG: Expansion01!Jungle!CritterJungle02_DisplayName
+Black and White Capybara
+
+TAG: Expansion01!Jungle!CritterJungle02_FavoriteItemDescription
+Cabbage
+
+TAG: Expansion01!Jungle!CritterJungle03_DisplayName
+Blue Striped Capybara
+
+TAG: Expansion01!Jungle!CritterJungle03_FavoriteItemDescription
+Cabbage
+
+TAG: Expansion01!Jungle!CritterJungle04_DisplayName
+Gray Spotted Capybara
+
+TAG: Expansion01!Jungle!CritterJungle04_FavoriteItemDescription
+Cabbage
+
+TAG: Expansion01!Jungle!CritterJungle05_DisplayName
+Red and White Striped Capybara
+
+TAG: Expansion01!Jungle!CritterJungle05_FavoriteItemDescription
+Cabbage
+
+TAG: Expansion01!Jungle!CritterJungleBW01_DisplayName
+Toon Capybara
+
+TAG: Expansion01!Monkey!Monkey01_DisplayName
+Classic Monkey
+
+TAG: Expansion01!Monkey!Monkey02_DisplayName
+Black and Brown Monkey
+
+TAG: Expansion01!Monkey!Monkey03_DisplayName
+Red and Beige Monkey
+
+TAG: Expansion01!Monkey!Monkey04_DisplayName
+Beige Monkey
+
+TAG: Expansion01!Monkey!Monkey05_DisplayName
+Black and Gray Monkey
+
+TAG: Expansion01!Monkey!MonkeyBW01_DisplayName
+Toon Monkey
+
+TAG: Expansion01!Monkey!MonkeyJester01_DisplayName
+Jester Monkey
+
+TAG: Expansion01!Outpost!CritterOutpost_BW1_FavoriteItemDescription
+Any 5-star meal or better
+
+TAG: Expansion01!Outpost!CritterOutpost01_DisplayName
+Classic Monkey
+
+TAG: Expansion01!Outpost!CritterOutpost01_FavoriteItemDescription
+Any 5-star meal or better
+
+TAG: Expansion01!Outpost!CritterOutpost02_DisplayName
+Black and Brown Monkey
+
+TAG: Expansion01!Outpost!CritterOutpost02_FavoriteItemDescription
+Any 5-star meal or better
+
+TAG: Expansion01!Outpost!CritterOutpost03_DisplayName
+Red and Beige Monkey
+
+TAG: Expansion01!Outpost!CritterOutpost03_FavoriteItemDescription
+Any 5-star meal or better
+
+TAG: Expansion01!Outpost!CritterOutpost04_DisplayName
+Beige Monkey
+
+TAG: Expansion01!Outpost!CritterOutpost04_FavoriteItemDescription
+Any 5-star meal or better
+
+TAG: Expansion01!Outpost!CritterOutpost05_DisplayName
+Black and Gray Monkey
+
+TAG: Expansion01!Outpost!CritterOutpost05_FavoriteItemDescription
+Any 5-star meal or better
+
+TAG: Expansion01!Outpost!CritterOutpostBW01_DisplayName
+Toon Monkey
+
+TAG: Expansion02!BabyDragon!BabyDragon01_DisplayName
+Blue Baby Dragon
+
+TAG: Expansion02!BabyDragon!BabyDragon02_DisplayName
+Red Baby Dragon
+
+TAG: Expansion02!BabyDragon!BabyDragon03_DisplayName
+Green Baby Dragon
+
+TAG: Expansion02!BabyDragon!BabyDragon04_DisplayName
+Purple Baby Dragon
+
+TAG: Expansion02!BabyDragon!BabyDragon05_DisplayName
+Teal Baby Dragon
+
+TAG: Expansion02!BabyDragon!ScholaryDragonSkin01_DisplayName
+Scholarly Baby Dragon
+
+TAG: Expansion02!BabyPegasus!BabyPegasus01_DisplayName
+Pink Pegasus
+
+TAG: Expansion02!BabyPegasus!BabyPegasus02_DisplayName
+Blue Pegasus
+
+TAG: Expansion02!BabyPegasus!BabyPegasus03_DisplayName
+Yellow Pegasus
+
+TAG: Expansion02!BabyPegasus!BabyPegasus04_DisplayName
+Peach Pegasus
+
+TAG: Expansion02!BabyPegasus!BabyPegasus05_DisplayName
+Black Pegasus
+
+TAG: Expansion02!BabyPegasus!Herc_Pegasus_Baby01_DisplayName
+Baby Pegasus
+
+TAG: Expansion02!FairyTales!CritterFairyTales01_DisplayName
+Blue Baby Dragon
+
+TAG: Expansion02!FairyTales!CritterFairyTales01_FavoriteItemDescription
+{Placeholder}A song of Fire and Ice
+
+TAG: Expansion02!FairyTales!CritterFairyTales02_DisplayName
+Red Baby Dragon
+
+TAG: Expansion02!FairyTales!CritterFairyTales02_FavoriteItemDescription
+{Placeholder}A song of Fire and Ice
+
+TAG: Expansion02!FairyTales!CritterFairyTales03_DisplayName
+Green Baby Dragon
+
+TAG: Expansion02!FairyTales!CritterFairyTales03_FavoriteItemDescription
+{Placeholder}A song of Fire and Ice
+
+TAG: Expansion02!FairyTales!CritterFairyTales04_DisplayName
+Purple Baby Dragon
+
+TAG: Expansion02!FairyTales!CritterFairyTales04_FavoriteItemDescription
+{Placeholder}A song of Fire and Ice
+
+TAG: Expansion02!Library!CritterLibrary01_DisplayName
+Brown Owl
+
+TAG: Expansion02!Library!CritterLibrary01_FavoriteItemDescription
+{Placeholder}Grain & Barley
+
+TAG: Expansion02!Library!CritterLibrary02_DisplayName
+Purple Owl
+
+TAG: Expansion02!Library!CritterLibrary02_FavoriteItemDescription
+{Placeholder}Grain & Barley
+
+TAG: Expansion02!Library!CritterLibrary03_DisplayName
+Dark Owl
+
+TAG: Expansion02!Library!CritterLibrary03_FavoriteItemDescription
+{Placeholder}Grain & Barley
+
+TAG: Expansion02!Library!CritterLibrary04_DisplayName
+Light Owl
+
+TAG: Expansion02!Library!CritterLibrary04_FavoriteItemDescription
+{Placeholder}Grain & Barley
+
+TAG: Expansion02!Mythology!CritterMythology01_DisplayName
+Pink Pegasus
+
+TAG: Expansion02!Mythology!CritterMythology01_FavoriteItemDescription
+{Placeholder}Vegetable Meal 4-5 Stars
+
+TAG: Expansion02!Mythology!CritterMythology02_DisplayName
+Blue Pegasus
+
+TAG: Expansion02!Mythology!CritterMythology02_FavoriteItemDescription
+{Placeholder}Vegetable Meal 4-5 Stars
+
+TAG: Expansion02!Mythology!CritterMythology03_DisplayName
+Yellow Pegasus
+
+TAG: Expansion02!Mythology!CritterMythology03_FavoriteItemDescription
+{Placeholder}Vegetable Meal 4-5 Stars
+
+TAG: Expansion02!Mythology!CritterMythology04_DisplayName
+Peach Pegasus
+
+TAG: Expansion02!Mythology!CritterMythology04_FavoriteItemDescription
+{Placeholder}Vegetable Meal 4-5 Stars
+
+TAG: Expansion02!Owl!Owl01_DisplayName
+Brown Owl
+
+TAG: Expansion02!Owl!Owl02_DisplayName
+Purple Owl
+
+TAG: Expansion02!Owl!Owl03_DisplayName
+Dark Owl
+
+TAG: Expansion02!Owl!Owl04_DisplayName
+White Owl
+
+TAG: FootStool!FootStool01_DisplayName
+The Footstool
+
+TAG: Forest!CritterForest01_DisplayName
+Classic Raccoon
+
+TAG: Forest!CritterForest01_FavoriteItemDescription
+Blueberries
+
+TAG: Forest!CritterForest02_DisplayName
+Red Raccoon
+
+TAG: Forest!CritterForest02_FavoriteItemDescription
+Blueberries
+
+TAG: Forest!CritterForest03_DisplayName
+Black Raccoon
+
+TAG: Forest!CritterForest03_FavoriteItemDescription
+Blueberries
+
+TAG: Forest!CritterForest04_DisplayName
+White Raccoon
+
+TAG: Forest!CritterForest04_FavoriteItemDescription
+Blueberries
+
+TAG: Forest!CritterForest05_DisplayName
+Blue Raccoon
+
+TAG: Forest!CritterForest05_FavoriteItemDescription
+Blueberries
+
+TAG: Fox!Dreamlight!color01_DisplayName
+Blue Whimsical Fox
+
+TAG: Fox!Dreamlight!color02_DisplayName
+Pink Whimsical Fox
+
+TAG: Fox!FestiveFox01_DisplayName
+Festive Fox
+
+TAG: Fox!Fox01_DisplayName
+White Fox
+
+TAG: Fox!Fox02_DisplayName
+Classic Fox
+
+TAG: Fox!Fox03_DisplayName
+Black Fox
+
+TAG: Fox!Fox04_DisplayName
+Blue Fox
+
+TAG: Fox!Fox05_DisplayName
+Red Fox
+
+TAG: Fox!GhostZeroFox01_DisplayName
+Ghostly "Zero" Fox
+
+TAG: Fox!LionFox01_DisplayName
+Dancing Lion Fox
+
+TAG: Fox!LionInspiredFox01_DisplayName
+"Lion" Cub Fox
+
+TAG: Fox!LoungeflyFox01_DisplayName
+Pooh Adorable Loungefly Harness Fox
+
+TAG: Fox!RainbowFox_DisplayName
+Rainbow Fox
+
+TAG: Fox!RoyalFox01_DisplayName
+Regal Fox
+
+TAG: Frog!FrogEvil_DisplayName
+Neverafter Frog Snippet
+
+TAG: Frog!SnippetFrog01Blue_DisplayName
+Blue Frog Snippet
+
+TAG: Frog!SnippetFrog02Pink_DisplayName
+Pink Frog Snippet
+
+TAG: Frog!SnippetFrog03Purple_DisplayName
+Purple Frog Snippet
+
+TAG: Frog!SnippetFrog04Yellow_DisplayName
+Yellow Frog Snippet
+
+TAG: Meadow!CritterMeadow01_DisplayName
+Classic Rabbit
+
+TAG: Meadow!CritterMeadow01_FavoriteItemDescription
+Carrot
+
+TAG: Meadow!CritterMeadow02_DisplayName
+Black Rabbit
+
+TAG: Meadow!CritterMeadow02_FavoriteItemDescription
+Carrot
+
+TAG: Meadow!CritterMeadow03_DisplayName
+Brown Rabbit
+
+TAG: Meadow!CritterMeadow03_FavoriteItemDescription
+Carrot
+
+TAG: Meadow!CritterMeadow04_DisplayName
+White Rabbit
+
+TAG: Meadow!CritterMeadow04_FavoriteItemDescription
+Carrot
+
+TAG: Meadow!CritterMeadow05_DisplayName
+Calico Rabbit
+
+TAG: Meadow!CritterMeadow05_FavoriteItemDescription
+Carrot
+
+TAG: Moana!Heihei_DisplayName
+Heihei
+
+TAG: Moana!Pua_DisplayName
+Pua
+
+TAG: Rabbit!Dreamlight!color01_DisplayName
+Blue Whimsical Rabbit
+
+TAG: Rabbit!Dreamlight!color02_DisplayName
+Pink Whimsical Rabbit
+
+TAG: Rabbit!EnvyRabbit_DisplayName
+Envy Rabbit
+
+TAG: Rabbit!GingerRabbit_DisplayName
+Gingerbread Rabbit
+
+TAG: Rabbit!PlatinumRabbit01_DisplayName
+Gentle Rabbit
+
+TAG: Rabbit!Rabbit01_DisplayName
+Classic Rabbit
+
+TAG: Rabbit!Rabbit02_DisplayName
+Black Rabbit
+
+TAG: Rabbit!Rabbit03_DisplayName
+Brown Rabbit
+
+TAG: Rabbit!Rabbit04_DisplayName
+White Rabbit
+
+TAG: Rabbit!Rabbit05_DisplayName
+Calico Rabbit
+
+TAG: Rabbit!SpringRabbit_Blue_DisplayName
+Blue Spring Rabbit
+
+TAG: Rabbit!SpringRabbit_Pink_DisplayName
+Pink Spring Rabbit
+
+TAG: Rabbit!SpringRabbit_Yellow_DisplayName
+Yellow Spring Rabbit
+
+TAG: Rabbit!WinterRabbit01_DisplayName
+Frosty Rabbit
+
+TAG: Racoon!Dreamlight!color01_DisplayName
+Blue Whimsical Raccoon
+
+TAG: Racoon!Dreamlight!color02_DisplayName
+Pink Whimsical Raccoon
+
+TAG: Racoon!Emotions!RacoonAnger01_DisplayName
+Anger Raccoon
+
+TAG: Racoon!Emotions!RacoonDisgust01_DisplayName
+Disgust Raccoon
+
+TAG: Racoon!Emotions!RacoonFear01_DisplayName
+Fear Raccoon
+
+TAG: Racoon!Emotions!RacoonJoy01_DisplayName
+Joy Raccoon
+
+TAG: Racoon!Emotions!RacoonSadness01_DisplayName
+Sadness Raccoon
+
+TAG: Racoon!Racoon01_DisplayName
+Classic Raccoon
+
+TAG: Racoon!Racoon02_DisplayName
+Red Raccoon
+
+TAG: Racoon!Racoon03_DisplayName
+Black Raccoon
+
+TAG: Racoon!Racoon04_DisplayName
+White Raccoon
+
+TAG: Racoon!Racoon05_DisplayName
+Blue Raccoon
+
+TAG: Racoon!RacoonDoll01_DisplayName
+Wind-Up Raccoon
+
+TAG: Racoon!RacoonSnowman01_DisplayName
+Snowy Raccoon
+
+TAG: Raven!ChineseRaven01_DisplayName
+Mystical Phoenix
+
+TAG: Raven!Dreamlight!color01_DisplayName
+Blue Whimsical Raven
+
+TAG: Raven!Dreamlight!color02_DisplayName
+Pink Whimsical Raven
+
+TAG: Raven!EnnuiRaven_DisplayName
+Ennui Raven
+
+TAG: Raven!LumenRaven01_DisplayName
+Fiery Raven
+
+TAG: Raven!PirateRaven01_DisplayName
+Pirate Parrot
+
+TAG: Raven!Raven01_DisplayName
+Classic Raven
+
+TAG: Raven!Raven02_DisplayName
+Red Raven
+
+TAG: Raven!Raven03_DisplayName
+White Raven
+
+TAG: Raven!Raven04_DisplayName
+Blue Raven
+
+TAG: Raven!Raven05_DisplayName
+Brown Raven
+
+TAG: Reindeer!BabyReindeer_DisplayName
+L'il Reindeer
+
+TAG: Savanna!CritterSavanna01_DisplayName
+Red Sunbird
+
+TAG: Savanna!CritterSavanna01_FavoriteItemDescription
+Flower of its color
+
+TAG: Savanna!CritterSavanna02_DisplayName
+Turquoise Sunbird
+
+TAG: Savanna!CritterSavanna02_FavoriteItemDescription
+Flower of its color
+
+TAG: Savanna!CritterSavanna03_DisplayName
+Emerald Sunbird
+
+TAG: Savanna!CritterSavanna03_FavoriteItemDescription
+Flower of its color
+
+TAG: Savanna!CritterSavanna04_DisplayName
+Golden Sunbird
+
+TAG: Savanna!CritterSavanna04_FavoriteItemDescription
+Flower of its color
+
+TAG: Savanna!CritterSavanna05_DisplayName
+Orchid Sunbird
+
+TAG: Savanna!CritterSavanna05_FavoriteItemDescription
+Flower of its color
+
+TAG: SnowCliffs!CritterSnowCliffs01_DisplayName
+White Fox
+
+TAG: SnowCliffs!CritterSnowCliffs01_FavoriteItemDescription
+Unique fish from the Frosted Heights
+
+TAG: SnowCliffs!CritterSnowCliffs02_DisplayName
+Classic Fox
+
+TAG: SnowCliffs!CritterSnowCliffs02_FavoriteItemDescription
+Unique fish from the Frosted Heights
+
+TAG: SnowCliffs!CritterSnowCliffs03_DisplayName
+Black Fox
+
+TAG: SnowCliffs!CritterSnowCliffs03_FavoriteItemDescription
+Unique fish from the Frosted Heights
+
+TAG: SnowCliffs!CritterSnowCliffs04_DisplayName
+Blue Fox
+
+TAG: SnowCliffs!CritterSnowCliffs04_FavoriteItemDescription
+Unique fish from the Frosted Heights
+
+TAG: SnowCliffs!CritterSnowCliffs05_DisplayName
+Red Fox
+
+TAG: SnowCliffs!CritterSnowCliffs05_FavoriteItemDescription
+Unique fish from the Frosted Heights
+
+TAG: Squirrel!AnxietySquirrel_DisplayName
+Anxiety Squirrel
+
+TAG: Squirrel!Dreamlight!color01_DisplayName
+Blue Whimsical Squirrel
+
+TAG: Squirrel!Dreamlight!color02_DisplayName
+Pink Whimsical Squirrel
+
+TAG: Squirrel!IncrediSquirrel01_DisplayName
+IncrediSquirrel
+
+TAG: Squirrel!ParkSquirrel01_DisplayName
+Magical Squirrel
+
+TAG: Squirrel!PopCornSquirrel01_DisplayName
+Peppy Popcorn Squirrel
+
+TAG: Squirrel!ScarySquirrel01_DisplayName
+Scary Squirrel
+
+TAG: Squirrel!Squirrel01_DisplayName
+Classic Squirrel
+
+TAG: Squirrel!Squirrel02_DisplayName
+Red Squirrel
+
+TAG: Squirrel!Squirrel03_DisplayName
+Gray Squirrel
+
+TAG: Squirrel!Squirrel04_DisplayName
+Black Squirrel
+
+TAG: Squirrel!Squirrel05_DisplayName
+White Squirrel
+
+TAG: Sunbird!Dreamlight!color01_DisplayName
+Blue Whimsical Sunbird
+
+TAG: Sunbird!Dreamlight!color02_DisplayName
+Pink Whimsical Sunbird
+
+TAG: Sunbird!Lovebird!Lovebird01_DisplayName
+Pink Lovebird
+
+TAG: Sunbird!Lovebird!Lovebird02_DisplayName
+Green Lovebird
+
+TAG: Sunbird!Sunbird01_DisplayName
+Red Sunbird
+
+TAG: Sunbird!Sunbird02_DisplayName
+Turquoise Sunbird
+
+TAG: Sunbird!Sunbird03_DisplayName
+Emerald Sunbird
+
+TAG: Sunbird!Sunbird04_DisplayName
+Golden Sunbird
+
+TAG: Sunbird!Sunbird05_DisplayName
+Orchid Sunbird
+
+TAG: Turtle!CelestialTurtle01_DisplayName
+Celestial Sea Turtle
+
+TAG: Turtle!CitrusTurtle01_DisplayName
+Tart Turtle
+
+TAG: Turtle!Dreamlight!color01_DisplayName
+Blue Whimsical Turtle
+
+TAG: Turtle!Dreamlight!color02_DisplayName
+Pink Whimsical Turtle
+
+TAG: Turtle!EmbarassmentTurtle_DisplayName
+Embarrassment Turtle
+
+TAG: Turtle!RockstarTurtle01_DisplayName
+Rock Star Turtle
+
+TAG: Turtle!Turtle01_DisplayName
+Classic Sea Turtle
+
+TAG: Turtle!Turtle02_DisplayName
+Brown Sea Turtle
+
+TAG: Turtle!Turtle03_DisplayName
+White Sea Turtle
+
+TAG: Turtle!Turtle04_DisplayName
+Purple Sea Turtle
+
+TAG: Turtle!Turtle05_DisplayName
+Black Sea Turtle
+
+TAG: Turtle!ValentineTurtle01_DisplayName
+Rosy Cloud Turtle
+
+TAG: Urban!CritterUrban01_DisplayName
+Classic Squirrel
+
+TAG: Urban!CritterUrban01_FavoriteItemDescription
+Peanuts
+
+TAG: Urban!CritterUrban02_DisplayName
+Red Squirrel
+
+TAG: Urban!CritterUrban02_FavoriteItemDescription
+Peanuts
+
+TAG: Urban!CritterUrban03_DisplayName
+Gray Squirrel
+
+TAG: Urban!CritterUrban03_FavoriteItemDescription
+Peanuts
+
+TAG: Urban!CritterUrban04_DisplayName
+Black Squirrel
+
+TAG: Urban!CritterUrban04_FavoriteItemDescription
+Peanuts
+
+TAG: Urban!CritterUrban05_DisplayName
+White Squirrel
+
+TAG: Urban!CritterUrban05_FavoriteItemDescription
+Peanuts
+
+TAG: Wetlands!CritterWetlands01_DisplayName
+Classic Crocodile
+
+TAG: Wetlands!CritterWetlands01_FavoriteItemDescription
+Unique fish from the Glade of Trust
+
+TAG: Wetlands!CritterWetlands02_DisplayName
+Blue Crocodile
+
+TAG: Wetlands!CritterWetlands02_FavoriteItemDescription
+Unique fish from the Glade of Trust
+
+TAG: Wetlands!CritterWetlands03_DisplayName
+Red Crocodile
+
+TAG: Wetlands!CritterWetlands03_FavoriteItemDescription
+Unique fish from the Glade of Trust
+
+TAG: Wetlands!CritterWetlands04_DisplayName
+Golden Crocodile
+
+TAG: Wetlands!CritterWetlands04_FavoriteItemDescription
+Unique fish from the Glade of Trust
+
+TAG: Wetlands!CritterWetlands05_DisplayName
+White Crocodile
+
+TAG: Wetlands!CritterWetlands05_FavoriteItemDescription
+Unique fish from the Glade of Trust
+
+TAG: Wetlands!CritterWetlands06_DisplayName
+Pink Crocodile
+
+TAG: Wetlands!CritterWetlands06_FavoriteItemDescription
+Unique fish from the Glade of Trust
+

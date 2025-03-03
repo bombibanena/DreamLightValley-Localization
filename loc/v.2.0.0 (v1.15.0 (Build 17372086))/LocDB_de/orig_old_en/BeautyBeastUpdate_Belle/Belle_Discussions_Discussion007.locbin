@@ -1,0 +1,45 @@
+
+¬
+Belle_000_fœHello, {PlayerName}. I was wondering if you'd like to play a little game with me. It's something I've been thinking about since I met Lumiere and Cogsworth.
+Q
+Belle_001_fBIf you were transformed into an object, what would you want to be?
+#
+Player_000_choice_000_fA clock!
+(
+Player_000_choice_001_fA candelabra!
+1
+Player_000_choice_002_fHmm... tough question!
+L
+Belle_002_f=I can see that! You are useful and dependable like Cogsworth.
+I
+Belle_003_f:Well, you are cheerful and bright. Very much like Lumiere!
+k
+Belle_004_f\I agree. But don't just think of things like clocks or teapots. It could be almost anything.
+O
+Player_001_choice_000_f4Something that's outside â€” like a well or a bench!
+&
+Player_001_choice_001_fA bookcase!
+*
+Player_001_choice_002_fA... xylophone?
+1
+Belle_005_f"Is being outside important to you?
+8
+Player_002_choice_000_fYes â€” I love being outside!
+V
+Player_002_choice_001_f;It's more that I couldn't stand being indoors all the time.
+R
+Belle_006_fCThen I hope that bench-{PlayerName} has been properly waterproofed!
+\
+Belle_007_fMOh, that's wonderful! You could keep all your favorite books on your shelves!
+[
+Belle_008_fLIn fact, that might be my choice... Hmm... but could I still read the books?
+F
+Belle_009_f7What an interesting answer. Are you especially musical?
+.
+Player_003_choice_000_fYeah! I love music!
+N
+Player_003_choice_001_f3No â€” I just think being a xylophone would be fun!
+G
+Player_003_choice_002_f,Nah, I just like silly words like xylophone!
+A
+Belle_010_f2Then I'm sure you'd be quite happy as a xylophone!

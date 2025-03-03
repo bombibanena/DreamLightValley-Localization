@@ -1,0 +1,45 @@
+TAG: Jasmine_000_f
+Jasmine, could you take a look at this? Aladdin and I found it. We were wondering if you had any idea what it might be for.
+
+TAG: Jasmine_001_f
+Oh, it's beautiful! The quality of the craftsmanship is exquisite...
+
+TAG: Jasmine_002_f
+Hmm, now if I remember correctly, this phrasing signifies "protection" of some sort. But from what?
+
+TAG: Player_000_choice_000_f
+From genies?
+
+TAG: Player_000_choice_001_f
+From evil viziers?
+
+TAG: Player_000_choice_002_f
+From ancient wind structures?
+
+TAG: Jasmine_003_f
+No, I don't think so.
+
+TAG: Jasmine_006_f
+There are also mentions of caravans, and the "bite of the desert's rage"... Do you think that could be a reference to sandstorms?
+
+TAG: Jasmine_007_f
+Protection against sandstorms?! That's perfect! There are those giant whirling veils of sand around Agrabah that are blocking me from exploring!
+
+TAG: Jasmine_008_f
+Oh, but there are three indentations here that look like settings for gemstones.
+
+TAG: Jasmine_009_f
+If we <Lore>find the three missing stones</Lore>, that might activate the power of the Amulet!
+
+TAG: Jasmine_010_f
+Great, we've got our next objective then!
+
+TAG: Jasmine_011_f
+Thank you so much for your help. Here's the Amulet back. Once the stones are found, Aladdin should be able to set them properly.
+
+TAG: Jasmine_004_f
+Well, that would have been useful in the past, but no...
+
+TAG: Jasmine_005_f
+Let's see...
+

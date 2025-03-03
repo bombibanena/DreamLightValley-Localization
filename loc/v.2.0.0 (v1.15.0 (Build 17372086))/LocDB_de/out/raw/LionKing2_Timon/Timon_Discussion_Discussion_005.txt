@@ -1,0 +1,51 @@
+TAG: Timon_000_f
+No, no, no! We gotta put a stop to that!
+
+TAG: Timon_001_f
+Wait â what are you worried about?
+
+TAG: Player_000_choice_000_f
+The Valley.
+
+TAG: Player_000_choice_001_f
+The future.
+
+TAG: Player_000_choice_002_f
+Just kind of worried in general.
+
+TAG: Timon_002_f
+Okay. Here's what you do.
+
+TAG: Timon_003_f
+You get a bunch of bugs. Or whatever you like to eat.
+
+TAG: Timon_004_f
+You go to an oasis. Or maybe get a gourd of water? Either works.
+
+TAG: Timon_005_f
+Then, you hang out with a friend.
+
+TAG: Player_001_choice_000_f
+Hanging with a friend sounds nice.
+
+TAG: Player_001_choice_001_f
+When I'm worried, I like to be alone.
+
+TAG: Timon_006_f
+So then you invite that friend to the oasis too!
+
+TAG: Timon_007_f
+You eat the bugs, drink the water, and you just relax.
+
+TAG: Timon_008_f
+Trust me, it works like a charm.
+
+TAG: Timon_009_f
+So you go be by yourself! Curl up by the oasis, maybe under a cozy leaf.
+
+TAG: Timon_010_f
+You eat the bugs, drink the water, and you just relax.
+
+TAG: Timon_011_f
+Go easy on yourself, okay, kid?
+

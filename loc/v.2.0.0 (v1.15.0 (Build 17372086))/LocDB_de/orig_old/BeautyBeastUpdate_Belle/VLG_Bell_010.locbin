@@ -1,0 +1,59 @@
+
+i
+FVillage!BeautyBeast!Belle!VLG_Bell_010_Any_CompletedRequestDescriptionПоговори с Белль.
+�
+;Village!BeautyBeast!Belle!VLG_Bell_010_AvailableDescription�Белль приходит, чтобы найти вас с особой проблемой. Она хотела одолжить несколько <ActivityItem>Books</ActivityItem> из библиотеки Dreamlight, но Мерлин отказался, потому что слишком много заимствованных книг пропало. Белль решает охотиться по крайней мере на некоторых из них и просит о помощи.
+�
+@Village!BeautyBeast!Belle!VLG_Bell_010_CompletedStoryDescription�Мерлин рад, что вам и Белль удалось получить пропавшие тома. Он называет вас и почетных библиотекарей, и ставит перед вами задачу найти подходящие места для каждого тома.
+P
+2Village!BeautyBeast!Belle!VLG_Bell_010_DisplayNameОхота на книги
+a
+EVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_StepDescriptionПоговорить с:
+d
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter01_StepDescription	Гуфи.
+d
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter02_StepDescription	Реми.
+l
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter03_StepDescriptionМирабель.
+u
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter04_StepDescriptionСкрудж Макдак.
+�
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess01_StepDescription9<ActivityItem> Head in Mind</ActivityItem> из Гуфи.
+�
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess02_StepDescriptionN<ActivityItem>Crafty Creatures</ActivityItem> откуда-то в Плазе.
+�
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess03_StepDescriptionf<ActivityItem>E чрезвычайных приключений</ActivityItem> из вод пляжа.
+�
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess04_StepDescriptionQ<ActivityItem>Coin Pool Theory</ActivityItem> похоронен на пляже.
+�
+>Village!BeautyBeast!Belle!VLG_Bell_010_Group02_StepDescriptionUСоберите позаимствованные <ActivityItem>Books</ActivityItem>:
+�
+?Village!BeautyBeast!Belle!VLG_Bell_010_Group02_StoryDescription�Вы спросили деревенских жителей в вашем списке, где находятся <ActivityItem>Books</ActivityItem>, и теперь вам предстоит найти некоторые из них снова.
+�
+CVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem01_StepDescription-<ActivityItem> Action in Mind</ActivityItem>.
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem02_StepDescription-<ActivityItem>Crafty Cretures</ActivityItem>.
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem03_StepDescriptionO<ActivityItem>E чрезвычайных приключений</ActivityItem>.
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem04_StepDescription.<ActivityItem>Coin Pool Theory</ActivityItem>.
+�
+FVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_ReadyDescriptionDВозьмите <ActivityItem>Books</ActivityItem> на Белль.
+�
+EVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_StepDescriptionYУбедитесь, что <ActivityItem>Books</ActivityItem> в вашем списке:
+�
+?Village!BeautyBeast!Belle!VLG_Bell_010_Group03_StoryDescriptionmВам удалось получить все <ActivityItem>Books</ActivityItem> для Библиотеки.
+�
+NVillage!BeautyBeast!Belle!VLG_Bell_010_Group04_Step04_Listen01_StepDescription:Слушай Белль, поговори с Мерлин.
+�
+?Village!BeautyBeast!Belle!VLG_Bell_010_Group04_StoryDescription�Белль хочет рассказать Мерлин о <ActivityItem>Books</ActivityItem> и просит вас пойти с ней.
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group05_Step05_VisitArea01_StepDescription.Идите в библиотеку Мечты.
+�
+CVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+~
+CVillage!BeautyBeast!Belle!VLG_Bell_010_Group05_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+j
+9Village!BeautyBeast!Belle!VLG_Bell_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

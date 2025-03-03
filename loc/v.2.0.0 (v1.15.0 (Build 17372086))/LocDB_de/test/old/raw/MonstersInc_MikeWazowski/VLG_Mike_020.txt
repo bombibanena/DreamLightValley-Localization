@@ -1,0 +1,102 @@
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Any_CompletedRequestDescription
+Возвращайтесь на Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_AvailableDescription
+Майк Вазовски взволнованно говорил о его больших планах.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_CompletedStoryDescription
+Даже если вкусы Майк Вазовски и Салли не делятся с остальными деревенскими, они все еще есть друг у друга и могут участвовать в удовольствии повышенным комфортом, таким как Gourmet Rog Dog.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_DisplayName
+Чудовищный вкус
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group01_Step01_TalkToCharacter01_StepDescription
+Возьми специальную рыбу из Реми.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group02_Step02_GardeningPlant01_StepDescription
+Посадить Карп <ActivityItem>Spoiled</ActivityItem> где-нибудь на пляже Даззл.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group02_StoryDescription
+Первый шаг Майк Вазовски к тому, чтобы принести несколько чудовищных вибраций обратно в Долину
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group03_Step03_MakeGarden01_StepDescription
+Дай запаху <ActivityItem>Spuiled Carp</ActivityItem> повзрослеть подождать 15 минут, а потом забрать его.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group04_Step04_ReadyDescription
+Передайте <ActivityItem>Rotten Carp</ActivityItem> Майк Вазовски для оценки.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group04_Step04_StepDescription
+Была собрана вонючая мерзость.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group05_Step05_Possess01_StepDescription
+Пустой Виал.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group05_Step05_Possess02_StepDescription
+Богатая почва.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group05_StepDescription
+Соберите оставшиеся ингридиенты для <ActivityItem>Monstrus Kelen</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group06_Step06_CraftItem01_StepDescription
+Подготовить <ActivityItem>Monstrus Kelen</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group07_Step07_ReadyDescription
+Возьмите образец <ActivityItem>Monstrus Kelen</ActivityItem> Скрудж Макдак.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group07_Step07_StepDescription
+Был создан специальный одеколон.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group08_Step08_StepDescription
+Шрам.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group08_Step09_StepDescription
+Ваниллопа.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group08_StepDescription
+Поделитесь <ActivityItem>Monstrus Kelen</ActivityItem> с двумя разными деревенскими жителями.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group09_Step10_StepDescription
+Сообщите Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group10_Step11_VisitArea01_StepDescription
+Посетите пещеру Шрам.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group10_StoryDescription
+Возможно, одеколон не прошел, как планировалось, но Майк Вазовски не будет сдерживаться, и теперь он обращает внимание на революцию сцены прекрасного ужина с специальным блюдом из дома.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group11_Step12_Possess03_StepDescription
+Королевский парикмахерский мяч.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group11_Step12_Possess04_StepDescription
+Пшеница.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group11_Step12_Possess05_StepDescription
+Молоко.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group11_Step12_Possess06_StepDescription
+Клэмс.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group11_StepDescription
+Соберите "Ингредиенты" для рецепта Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group12_Step13_CookMeal01_StepDescription
+Приготовить"Вкусно."Было предложено чудовищное угощение с использованием Ingredients Майк Вазовски.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group13_Step14_ReadyDescription
+Показать <ActivityItem>Gourmet Rog</ActivityItem> Реми.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group13_Step14_StepDescription
+Что-то мерзкое было приготовлено. Убедитесь, что у вас в списке есть <ActivityItem>Gourmet Rog</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group14_Step17_ReadyDescription
+Покажите Майк Вазовски, как оказался <ActivityItem>Gourmet Rott Dog</ActivityItem>.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group14_Step17_StepDescription
+Реми дал тебе готовую еду.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_Group15_Step16_Listen01_StepDescription
+Слушайте Майк Вазовски. Поделитесь <ActivityItem>Gourmet Rott Dog</ActivityItem> с Салли.
+
+TAG: Village!MonsterInc!MikeWazowski!VLG_Mike_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

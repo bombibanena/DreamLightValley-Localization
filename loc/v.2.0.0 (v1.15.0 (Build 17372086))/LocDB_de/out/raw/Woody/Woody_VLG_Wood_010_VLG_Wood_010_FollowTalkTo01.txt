@@ -1,0 +1,45 @@
+TAG: Woody_003_f
+This is it. This is where I almost got dragged into the water by a fish.
+
+TAG: Woody_001_f
+Ya see, after the whole cooking disaster, I decided to try something simpler. Like home delivery.
+
+TAG: Woody_000_f
+Goofy was organizing a dinner with friends. He wanted to make <ActivityItem>Crispy Cod</ActivityItem>, so he needed <ActivityItem>Cod</ActivityItem> and <ActivityItem>Wheat</ActivityItem>.
+
+TAG: Woody_005_f
+Turns out herding fish is way harder than herding toy cattle. I cast my line out and, before I knew it, I was waterskiing behind a cod!
+
+TAG: Player_002_choice_000_f
+You can "herd" fish with a net, you know.
+
+TAG: Player_002_choice_001_f
+You can't herd fish. They travel in schools.
+
+TAG: Player_002_choice_002_f
+Sounds like you invented a fish rodeo...
+
+TAG: Woody_014_f
+Huh. I knew there must be a trick to it.
+
+TAG: Woody_007_f
+So I guess we'll have to fish some <ActivityItem>Cod</ActivityItem> for Goofy. Did you get him the <ActivityItem>Wheat</ActivityItem>?
+
+TAG: Woody_008_f
+Have you seen the size of those plants? They're twice as big as I am.
+
+TAG: Woody_019_f
+I couldn't harvest and carry 'em. Now Goofy hasn't got anything to make his dinner with. If we don't get all this to him soonâ
+
+TAG: Woody_013_f
+Don't worry. I'll show you how it's done. Let's get Goofy his <ActivityItem>Cod</ActivityItem> and <ActivityItem>Wheat</ActivityItem>!
+
+TAG: Woody_017_f
+What? Ohhh... Heh-heh. I get it. Very funny.
+
+TAG: Woody_018_f
+You're startin' to remind me of my friend Hamm.
+
+TAG: Woody_006_f
+Huh...? Oh! Yep, that's pretty much what I did.
+

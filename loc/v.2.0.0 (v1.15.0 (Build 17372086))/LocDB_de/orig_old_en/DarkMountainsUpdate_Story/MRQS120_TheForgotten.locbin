@@ -1,0 +1,37 @@
+
+l
+:Story!MRQS120_TheForgotten_Any_CompletedRequestDescription.Talk to the Fairy Godmother in the Dreamscape.
+∫
+/Story!MRQS120_TheForgotten_AvailableDescriptionÜA magical commotion has shaken the Forgotten Lands. It seems to have come from that mysterious Pumpkin House in the Forgotten Lands...
+ˆ
+4Story!MRQS120_TheForgotten_CompletedStoryDescriptionΩThe Fairy Godmother helps you channel your magic to dispel the Forgotten's enchantment and reveal the entrance to the Dreamscape. Now all that remains is to meet the Fairy Godmother inside.
+<
+&Story!MRQS120_TheForgotten_DisplayNameMiracles Take Time
+Z
+9Story!MRQS120_TheForgotten_Group01_Step01_StepDescriptionWhat was that strange noise?!
+â
+EStory!MRQS120_TheForgotten_Group01_Step01_VisitArea01_StepDescription@Investigate the mysterious Pumpkin House in the Forgotten Lands.
+k
+KStory!MRQS120_TheForgotten_Group02_Step02_TalkToCharacter01_StepDescriptionTalk to the Fairy Godmother.
+å
+EStory!MRQS120_TheForgotten_Group03_Step03_VisitArea03_StepDescriptionCEnter the Dreamscape through the Tree House in the Forgotten Lands.
+è
+:Story!MRQS120_TheForgotten_Group04_Step04_ReadyDescriptionQBring the Fairy Godmother the <ActivityItem>Purified Night Shards</ActivityItem>.
+ù
+9Story!MRQS120_TheForgotten_Group04_Step04_StepDescription`Gather <ActivityItem>Purified Night Shards</ActivityItem> for the Fairy Godmother's enchantment.
+∂
+3Story!MRQS120_TheForgotten_Group04_StoryDescription˛Within the Pumpkin House in the Forgotten Lands, you find the Fairy Godmother. She tells you about the Dreamscape ‚Äî a secret world between dreams and waking ‚Äî where the Forgotten has hidden the Orb of Remembrance. You'll need to help her get it back.
+}
+KStory!MRQS120_TheForgotten_Group07_Step07_TalkToCharacter03_StepDescription.Talk to the Fairy Godmother in the Dreamscape.
+é
+9Story!MRQS120_TheForgotten_Group08_Step08_StepDescriptionQCollect the <ActivityItem>Forgotten's Memories</ActivityItem> from the pedestals:
+s
+BStory!MRQS120_TheForgotten_Group08_Step08_Unlock01_StepDescription-<ActivityItem>Memory of Power</ActivityItem>.
+u
+BStory!MRQS120_TheForgotten_Group08_Step08_Unlock02_StepDescription/<ActivityItem>Memory of Courage</ActivityItem>.
+r
+BStory!MRQS120_TheForgotten_Group08_Step08_Unlock03_StepDescription,<ActivityItem>Memory of Love</ActivityItem>.
+á
+KStory!MRQS120_TheForgotten_Group09_Step09_FollowCharacter01_StepDescription8Follow the Fairy Godmother to the Dreamscape's entrance.
+m
+MStory!MRQS120_TheForgotten_Group09_Step09_FollowCharacter01_TalkToDescriptionTalk to the Fairy Godmother.

@@ -1,0 +1,15 @@
+TAG: Mickey_000_f
+Wow, {PlayerName}! That was great!
+
+TAG: Mickey_001_f
+It took me forever to win my first game of Scramblecoin against Merlin. But you beat me at it pretty quick.
+
+TAG: Mickey_002_f
+I bet lotsa folks would love to play a game with you.
+
+TAG: Mickey_003_f
+You get <ActivityItem>figurines</ActivityItem> for winning. If ya keep playing, you'll win even more.
+
+TAG: Mickey_004_f
+Hey, and maybe someday we can start up the Scramblecoin Championship again. I bet you'd be champion in no time!
+

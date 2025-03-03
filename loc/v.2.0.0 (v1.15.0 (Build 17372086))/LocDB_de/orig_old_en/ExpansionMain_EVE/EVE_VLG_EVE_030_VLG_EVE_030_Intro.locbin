@@ -1,0 +1,52 @@
+
+
+	EVE_001_fHmm...
+1
+Player_000_choice_000_fSay no more. I'm here.
+-
+Player_000_choice_001_fHm... maybe later.
+
+	EVE_015_fEVE... Home.
+'
+Player_002_fHome... Do you mean...?
+%
+Player_002_choice_000_f
+The Axiom?
+&
+Player_002_choice_001_fYour House?
+!
+Player_002_choice_002_fEarth?
+
+	EVE_016_fNo.
+%
+	EVE_019_fSo not the Axiom then...
+
+	EVE_017_fWhoo!
+"
+	EVE_021_fWhat's in your House?
+
+	EVE_000_fClassified.
+/
+Player_001_choice_000_fOh, very mysterious.
+&
+Player_001_choice_001_fClassified?
+0
+Player_001_choice_002_fAnd now I'm scared...
+
+	EVE_002_f*digital beeps*
+V
+	EVE_008_fIAnd now I can't wait to hear what it's all about. Let's go to your House.
+
+	EVE_003_fClassified.
+^
+	EVE_007_fQAll right, let's see what this "classified" is all about. Let's go to your House.
+
+	EVE_005_fNo...
+<
+	EVE_006_f/All right, I trust you. Let's go to your House.
+
+	EVE_018_fNo.
+
+	EVE_020_fNot Earth...
+
+	EVE_004_fHa.

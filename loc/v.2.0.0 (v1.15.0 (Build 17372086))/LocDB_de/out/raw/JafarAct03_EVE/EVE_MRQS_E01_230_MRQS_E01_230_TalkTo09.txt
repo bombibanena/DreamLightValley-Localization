@@ -1,0 +1,24 @@
+TAG: EVE_000_f
+*frantic digital beeps*
+
+TAG: EVE_001_f
+Directive! WALLÂ·E!
+
+TAG: EVE_002_f
+Are you okay, EVE?
+
+TAG: EVE_003_f
+I kind of need your help with something but... if something's wrong, why don't we fix that first?
+
+TAG: EVE_004_f
+Directive!
+
+TAG: EVE_005_f
+You're pointing towards the <ActivityItem>Ancient Ruins</ActivityItem> at the Docks. Do you want me to <Lore>meet you there</Lore>, EVE? Is that what you're trying to tell me?
+
+TAG: EVE_007_f
+*affirmative digital beeps*
+
+TAG: EVE_006_f
+Well, okay, EVE. I'll meet you there!
+

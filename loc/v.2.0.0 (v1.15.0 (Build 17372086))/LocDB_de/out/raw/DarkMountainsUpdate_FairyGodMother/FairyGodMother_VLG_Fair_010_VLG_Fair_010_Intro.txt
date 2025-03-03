@@ -1,0 +1,51 @@
+TAG: FairyGodMother_000_f
+My dear, would you have time for a little chat about the Forgotten Lands?
+
+TAG: Player_000_choice_000_f
+Of course.
+
+TAG: Player_000_choice_001_f
+Not right now.
+
+TAG: FairyGodMother_001_f
+Splendid! ... Now first, I would like to know: Do you think it's a place of woe?
+
+TAG: Player_001_choice_000_f
+I love the mood of the place.
+
+TAG: Player_001_choice_001_f
+I'm pretty neutral about it.
+
+TAG: Player_001_choice_002_f
+It gives me nightmares.
+
+TAG: FairyGodMother_002_f
+Ah, you're like me! Marvelous!
+
+TAG: FairyGodMother_003_f
+But I do fear that... sadly, many Villagers don't agree.
+
+TAG: FairyGodMother_004_f
+I suspect it's the small blazes scattered about.
+
+TAG: FairyGodMother_005_f
+What do you have in mind?
+
+TAG: FairyGodMother_006_f
+Well now, I've spent some time pondering the problem, and I believe in this case, two enchanters would be most helpful.
+
+TAG: FairyGodMother_007_f
+And, lucky for us, there's a second talented enchanter here. Shall we go consult Merlin, my dear?
+
+TAG: FairyGodMother_008_f
+Well, it's always good to keep an open mind. I happen to find it fairly charming.
+
+TAG: FairyGodMother_009_f
+Oh dear.
+
+TAG: FairyGodMother_010_f
+Well, you're not the only one. Many of the Villagers aren't terribly fond of that part of the Valley.
+
+TAG: FairyGodMother_011_f
+Well, when you're ready to hear my plea, simply come and speak to me!
+

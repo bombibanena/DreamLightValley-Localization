@@ -1,0 +1,19 @@
+
+r
+Scrooge_000_fa{PlayerName}, that wee blue lad is running amok all over the Valley. Isn't he a mite destructive?
+W
+Scrooge_004_fFAll that property damage! Och, my wallet aches just thinking about it.
+Z
+Scrooge_005_fIWe ought to make him his own place that he can wreck as much as he likes.
+w
+Player_000_choice_000_f\Let's make a nice house for Stitch. (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
+0
+Player_000_choice_001_fI'll come back later.
+r
+Scrooge_001_faA house for Stitch to wreck, so he doesn't wreck the Valley! Splendid idea. Glad I thought of it!
+[
+Scrooge_006_fJNow, dinnae worry. I'll have this done in a trice. It's urgent, after all!
+{
+Scrooge_002_fjOch! You dinnae have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.
+c
+Scrooge_003_fRSufferin' Scots! I'm not sure the Valley can take much more of this, {PlayerName}!

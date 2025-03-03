@@ -1,0 +1,55 @@
+
+u
+Aladdin_000_fdHey {PlayerName}, feeling up to a challenge? My old friend Mr. McDuck just asked me to rob his shop.
+8
+Player_000_choice_000_fRob his shop? Context please!
+7
+Player_000_choice_001_fLet's talk about this later.
+Ž
+Aladdin_003_f}Well, he told me he got something called a "security system" to protect his vault when he's away, and he wants me to test it.
+G
+Aladdin_004_f6So, I thought maybe you'd wanna join me. Could be fun!
+$
+Player_001_fI'll help you out...
+>
+Player_001_choice_000_f#I spend a LOT of time in that shop!
+3
+Player_001_choice_001_fWe'll make a great team!
+W
+Player_001_choice_002_f<It'll be nice to GET something from Mr. McDuck for a change.
+|
+Aladdin_007_fkYeah, Mr. McDuck did mention that you're one of his best customers. In fact, he's who suggested we team up.
+2
+Player_002_choice_000_fI'll have to thank him!
+C
+Player_002_choice_001_f(How dare he? I'm his best BEST customer.
+L
+Aladdin_008_f;He thinks pretty highly of you. 'Course, I'm not surprised.
+•
+Aladdin_014_fƒFirst things first: Could ya <Lore>talk to Mr. McDuck</Lore> and tell him we'll test his system? He said he'd give you the details.
+T
+Aladdin_015_fCI think I need to go do some stretches. I'm feeling a little rusty.
+;
+Aladdin_009_f*You know what? I'll take your word for it.
+%
+Aladdin_005_fYeah, I bet we will.
+0
+Player_003_choice_000_fWhat's the next step?
+@
+Player_003_choice_001_f%Let's go try the security system now!
+ 
+Aladdin_010_fGlad you asked!
+/
+Aladdin_011_fWhoa! Slow down, {PlayerName}!
+]
+Aladdin_006_fLHold on. If we do manage to beat his security, we're giving everything back.
+3
+Player_004_choice_000_fOf course! I was joking.
+>
+Player_004_choice_001_f#He wouldn't miss a few gemstones...
+
+Aladdin_013_fPhew! Well...
+d
+Aladdin_012_fSAre you kidding me?! He's got better recordkeeping than the palace treasury! Now...
+r
+Aladdin_002_faNo problem. Find me when you've got a minute 'cause I'm pretty sure you're gonna want in on this.

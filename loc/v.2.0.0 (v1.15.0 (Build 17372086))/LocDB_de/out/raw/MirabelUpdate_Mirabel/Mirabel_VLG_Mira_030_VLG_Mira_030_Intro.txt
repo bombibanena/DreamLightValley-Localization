@@ -1,0 +1,63 @@
+TAG: Mirabel_000_f
+So, I don't know if you know, but a whole bunch of stuff went down with my family that was kind of a mess.
+
+TAG: Mirabel_014_f
+But I got them to talk out all the issues we had, and it really brought us together.
+
+TAG: Mirabel_001_f
+Which is why I wanted to do the same for a family here in the Valley. But... it didn't go very well.
+
+TAG: Player_000_choice_000_f
+What do you mean?
+
+TAG: Player_000_choice_001_f
+I'll help you later.
+
+TAG: Mirabel_002_f
+You might've noticed that Mr. McDuck and Donald have been arguing a lot. Like my sister Isabela and I used to.
+
+TAG: Mirabel_003_f
+Well, yesterday, I heard them shouting at each other outside Mr. McDuck's Store. And I tried to help.
+
+TAG: Player_001_choice_000_f
+I don't blame you. Somebody needs to sort those two out.
+
+TAG: Player_001_choice_001_f
+And it went wrong?
+
+TAG: Player_001_choice_002_f
+When it comes to those two... I try not to get involved.
+
+TAG: Mirabel_004_f
+Exactly! But it didn't actually work.
+
+TAG: Mirabel_005_f
+See, I've found with my family that if we go somewhere quiet and be honest about how we feel, then we can really listen to each other.
+
+TAG: Mirabel_006_f
+So, I invited Donald and Mr. McDuck to come with me on a walk in the Forest of Valor.
+
+TAG: Mirabel_015_f
+I was hoping some fresh air would help them calm down and hear what the other one was saying.
+
+TAG: Mirabel_007_f
+But nothing went the way I'd hoped. They just talked over each other like they always do. And then Donald tripped on a tree root.
+
+TAG: Mirabel_008_f
+He ended up in the river, and Mr. McDuck got knocked over and lost his <ActivityItem>Cash Register Key</ActivityItem> to a raccoon.
+
+TAG: Mirabel_009_f
+Now they're mad at each other AND me.
+
+TAG: Mirabel_010_f
+Oh boy. Let me talk to them. I'll assess the situation.
+
+TAG: Mirabel_011_f
+So wrong!
+
+TAG: Mirabel_012_f
+Wish I'd had you around to tell me that yesterday.
+
+TAG: Mirabel_013_f
+I get that. Thank you! As soon as you can would be great.
+

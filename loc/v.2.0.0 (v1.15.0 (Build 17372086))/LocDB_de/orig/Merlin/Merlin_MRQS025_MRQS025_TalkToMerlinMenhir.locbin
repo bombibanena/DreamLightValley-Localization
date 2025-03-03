@@ -1,0 +1,81 @@
+
+*
+Player_001_fI have to find the Orbs...
+M
+Merlin_000_f=This Pillar is just one of many scattered around the Village.
+ç
+Merlin_003_f}For as long as I can remember, <Lore>the Pillars protected the Valley</Lore> and kept it safe from Dark Magic. But no longer.
+@
+Merlin_027_f0I'm afraid the Pillars are broken, {PlayerName}.
+.
+Player_000_choice_000_fHow did they break?
+2
+Player_000_choice_001_fWhat's wrong with them?
+-
+Player_000_choice_002_fHow do I fix them?
+ä
+Merlin_018_fzWell, you see, they're no longer whole. A vital piece of each has gone missing. And it's those pieces you'll need to find.
+:
+Merlin_023_f*...and others were stolen for their magic.
+4
+Player_000_choice_003_fTo keep the Village safe.
+<
+Player_000_choice_004_f!To restore the Village's virtues.
+<
+Player_000_choice_005_f!To get all that magic for myself!
+Y
+Merlin_014_fIEach Pillar once contained an <ActivityItem>Orb of Virtue</ActivityItem>.
+£
+Merlin_001_fíThe <ActivityItem>Orbs</ActivityItem> are filled with powerful magic. And each one stood for a virtue around which the Old Ruler built the Valley.
+á
+Merlin_020_fwThese virtues are some of the most powerful kinds of magic there are... Trust, Friendship, Power... just to name a few.
+/
+Merlin_028_fPower is one of the virtues...?
+•
+Merlin_029_fîYes! Power can be virtuous if it's wielded wisely... which I'm afraid it rarely is. That's how we've ended up with such a magical mess on our hands.
+J
+Merlin_021_f:So what happened to the <ActivityItem>Orbs</ActivityItem>?
+=
+Merlin_002_f-When our Ruler disappeared, some were lost...
+&
+Merlin_022_fSome were forgotten...
+w
+Merlin_024_fgExactly! As long as you keep what's best for the Village in your heart, you'll stay on the right track.
+•
+Merlin_005_fîNow, this Pillar held the <ActivityItem>Orb of Friendship</ActivityItem>, one of the most powerful <ActivityItem>Orbs</ActivityItem> in the Village.
+Å
+Merlin_015_fqThat <ActivityItem>Orb</ActivityItem> is now tangled in a Night Thorn fiercer than any you've encountered before.
+é
+Merlin_017_f~Since the <ActivityItem>Orb</ActivityItem> got stuck, the Well in the Meadow fell prey to a curse and we can no longer use it.
+Ñ
+Merlin_011_ftYou must free the <ActivityItem>Orb</ActivityItem> from the Thorns by proving that you have the power of friendship.
+1
+Player_002_choice_000_fI'm an awesome friend.
+J
+Player_002_choice_001_f/I'll keep bringing more friends to the Village.
+;
+Player_002_choice_002_f Haven't I proven myself enough?!
+´
+Merlin_006_föThat you are. Though a little modesty wouldn't hurt. Heh-heh. Now, just remember that while it's very important for our friends to return to the Valley...
+e
+Merlin_009_fU...we mustn't forget about those who are already here, trying to rebuild their lives.
+5
+Merlin_012_f%Small acts of kindness go a long way.
+]
+Merlin_013_fMYou know, like giving someone a gift just because you think they'd like it...
+Y
+Merlin_016_fISpending time together... What do you modern kids call it? "Hanging out"?
+j
+Merlin_008_fZSo, talk to the Villagers to get to know them. Most importantly, let them get to know you.
+∂
+Merlin_010_f•Once you understand this, the <ActivityItem>Orb of Friendship</ActivityItem> will be yours. Return it to its rightful place and the curse of the Well will be lifted.
+b
+Merlin_007_fRYes, yes, it's extremely important to get our friends back, but that isn't enough.
+W
+Merlin_004_fGFriendship isn't about proving yourself. It's about sharing your heart.
+}
+Merlin_025_fmThat's right. We can't forget what's truly important. When these Pillars are working, they help to remind us.
+z
+Merlin_026_fjOh dear. I'm afraid that if you're thinking only of yourself, you'll never be able to restore the Pillars.
+T
+Merlin_019_fDBy making them whole again. Find the vital pieces missing from each.

@@ -1,0 +1,198 @@
+TAG: Village!LionKing!Timon!VLG_Timo_030_Any_CompletedRequestDescription
+Возвращайтесь на Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_AvailableDescription
+Тимон выглядит так, будто у него есть идея.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_DisplayName
+Разговор Тимон
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step01_StepDescription
+Соберите материалы для рекламных щитов Тимон:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_Step02_StepDescription
+Сфотографируй Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group01_StoryDescription
+Тимон работает над своим собственным Тимон Talk для других деревенских жителей в долине Мечты!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group02_Step03_CraftItem01_StepDescription
+Приготовьте {ItemName} на станцию крафтинга.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate01_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate02_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate03_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_Step04_Decorate04_StepDescription
+{Location}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group03_StepDescription
+Поместить {ItemName} в:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group04_Step05_TalkToCharacter01_StepDescription
+Поговори с Симба.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group05_Step06_VisitArea01_StepDescription
+Познакомься с Тимон в Прайд Рок.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group06_Step07_TalkToCharacter02_StepDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group07_Step08_VisitArea02_StepDescription
+Возвращайся в Прайд Рок для разговора Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group08_Step09_Listen01_StepDescription
+Слушай Тимон, когда он говорит.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group09_Step10_TalkToCharacter03_StepDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group09_StoryDescription
+Тимон поговорил с деревенскими жителями!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step12_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step12_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step12_StepDescription
+Соберите ингредиенты из секретной камеры в Фростед Хайтс:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step13_Possess06_StepDescription
+{ItemName} в проклятой пещере.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step13_Possess07_StepDescription
+Вытащить {ItemName} из реки на плато Солнце.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group10_Step13_StepDescription
+Собирайте ингредиенты:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess09_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess10_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess11_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_Step14_Possess12_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_StepDescription
+Соберите оставшихся ингридиентов для креативного питания Тимон:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group11_StoryDescription
+Тимон не уверена, что деревенские люди поняли его речь.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group12_Step15_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group12_Step15_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group12_StepDescription
+Квартира Тимон для Анна и Эльза:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step16_ReadyDescription
+Возьмите {ItemName} на Анна.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step16_StepDescription
+Убедитесь, что {ItemName} в вашем списке.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step17_ReadyDescription
+Возьмите {ItemName} на Эльза.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_Step17_StepDescription
+Убедитесь, что {ItemName} в вашем списке.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_StepDescription
+Принесите творческие обеды Анна и Эльза:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group13_StoryDescription
+Тимон считает, что его творческая еда поможет Анна и Эльза стать лучшими лидерами, какими они могут быть!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group14_Step18_TalkToCharacter04_StepDescription
+Возвращайтесь на Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group15_Step19_VisitArea03_StepDescription
+Отправляйся в "Королевский король Львов".
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group16_StepDescription
+Поймать светлячков в королевстве Льва.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group17_Step21_ReadyDescription
+Приведите светлячков на Моана.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group17_Step21_StepDescription
+Убедись, что у тебя есть все светлячки.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group17_StoryDescription
+Тимон хочет, чтобы вы поймали светлячков."звезды"вдохновит Моана?
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group18_Step22_TalkToCharacter05_StepDescription
+Возвращайтесь на Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group19_Step23_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group19_StepDescription
+Время для конкурса дяди против Нефью!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group19_StoryDescription
+Тимон услышал, что Скрудж Макдак и Дональд Дак поссорились. Это отличная возможность помочь кому-то."победить дядю."и стань настоящим лидером!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group20_Step24_ConsumeItem01_StepDescription
+Изучите карту сокровищ в вашем списке.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group20_StoryDescription
+Дональд Дак пытается найти секретное сокровище до того, как дядя Скрудж Макдак доберется до него.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group21_Step25_StepDescription
+( Смотрите карту сокровищ в разделе Воспоминания меню Коллекции для помощи.)
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group21_StepDescription
+Помогите Дональд Дак найти сокровище до Скрудж Макдак.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group22_Step26_TalkToCharacter07_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group22_StepDescription
+Ты нашёл все сокровища!
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group23_Step27_TalkToCharacter08_StepDescription
+Поговори с Тимон.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_Step28_TalkToCharacter09_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_Step28_TalkToCharacter10_StepDescription
+{TargetNPC}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_StepDescription
+Поговорите с лучшими друзьями Тимон:
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_Group24_StoryDescription
+Тимон может не понять, что на самом деле делает великого лидера, вам нужно поговорить с его лучшими друзьями, чтобы помочь ему.
+
+TAG: Village!LionKing!Timon!VLG_Timo_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

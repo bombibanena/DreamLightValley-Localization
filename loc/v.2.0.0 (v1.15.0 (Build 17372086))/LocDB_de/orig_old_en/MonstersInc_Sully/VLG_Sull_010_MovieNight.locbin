@@ -1,0 +1,87 @@
+
+e
+PVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Any_CompletedRequestDescriptionReturn to Sulley.
+±
+EVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_AvailableDescriptionÁSulley comes to you with a project: bringing back an event from Dreamlight Valley's past. The Monster Movie Night. The first order of business is to find out what happened to the videotapes Scrooge McDuck used to rent in his store.
+µ
+JVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_CompletedStoryDescriptiongMonster Movie Night was a success but what did Sulley think about it? There's only one way to find out.
+S
+<Village!MonsterInc!Sully!VLG_Sull_010_MovieNight_DisplayNameMonster Movie Night
+|
+aVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Scrooge McDuck.
+ë
+OVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group02_Step02_StepDescription>Ask these Villagers about a videotape for Monster Movie Night:
+l
+aVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group02_Step02_TalkToCharacter02_StepDescriptionUrsula.
+l
+aVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group02_Step02_TalkToCharacter03_StepDescriptionMickey.
+k
+aVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group02_Step02_TalkToCharacter04_StepDescriptionGoofy.
+≠
+IVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group02_StoryDescriptionﬂScrooge reveals that he doesn't rent videotapes anymore. He does remember that a Villager ‚Äî either Ursula, Mickey or Goofy ‚Äî has a movie that could be perfect to relaunch Monster Movie Night. You decide to talk to them.
+µ
+[Village!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group03_Step03_BringItem01_StepDescriptionVFind the <ActivityItem>Videotape</ActivityItem> in a deep and dark place at the Beach.
+è
+PVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group03_Step03_ReadyDescription;Bring the <ActivityItem>Videotape</ActivityItem> to Sulley.
+…
+IVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group03_StoryDescription|You talked to the three Villagers, and they all told you what they rented and for whom. The only thing left to do is search.
+Ä
+YVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group04_Step04_Possess01_StepDescription#<ActivityItem>Fiber</ActivityItem>.
+É
+YVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group04_Step04_Possess02_StepDescription&<ActivityItem>Softwood</ActivityItem>.
+Ä
+YVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group04_Step04_Possess03_StepDescription#<ActivityItem>Glass</ActivityItem>.
+h
+OVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group04_Step04_StepDescriptionGather the materials:
+‹
+IVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group04_StoryDescriptionéNow that the movie has been found, the Valley is missing a place to watch it. You decide to help by crafting something called a Big Scream TV.
+î
+[Village!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group05_Step05_CraftItem01_StepDescription5Craft the <ActivityItem>Big Scream TV</ActivityItem>.
+≥
+[Village!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group06_Step06_BringItem02_StepDescriptionTMake sure you have the <ActivityItem>Big Scream TV</ActivityItem> in your Inventory.
+ì
+PVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group06_Step06_ReadyDescription?Bring the <ActivityItem>Big Scream TV</ActivityItem> to Sulley.
+Ñ
+IVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group06_StoryDescription7With the Big Scream TV crafted, you bring it to Sulley.
+r
+aVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group07_Step07_TalkToCharacter05_StepDescriptionTalk to Mike.
+Ê
+IVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group07_StoryDescriptionòMonster Movie Night is only missing one thing before it can take place: a batch of Mike's famous monstrous snack. You decide to ask him to make a batch.
+å
+YVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group08_Step08_DressUp01_StepDescription/A <ActivityItem>blue casual top</ActivityItem>.
+ñ
+YVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group08_Step08_DressUp02_StepDescription9A pair of <ActivityItem>blue casual pants</ActivityItem>.
+ì
+YVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group08_Step08_DressUp03_StepDescription6<ActivityItem>"Scarer Sulley" Slippers</ActivityItem>.
+z
+OVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group08_Step08_StepDescription'Put on your Monster Movie Night outfit:
+ã
+OVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group08_Step09_StepDescription8(Optional) Order the items you need from Scrooge McDuck:
+v
+aVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group09_Step10_TalkToCharacter06_StepDescriptionReturn to Sulley.
+∞
+ZVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group10_Step11_Decorate01_StepDescriptionRPlace the <ActivityItem>Big Scream TV</ActivityItem> where you want in the Valley.
+ã
+IVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group10_StoryDescription>Sulley tasks you with placing the Big Scream TV in the Valley.
+u
+WVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group11_Step12_Party01_StepDescriptionEnjoy Monster Movie Night.
+à
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group02_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Ñ
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+Ç
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group04_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+Ñ
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group05_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+Ñ
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group06_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+á
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group07_OngoingRequestButton6<smallcaps>{title}</smallcaps><br>Who should I go see?
+á
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group08_OngoingRequestButton6<smallcaps>{title}</smallcaps><br>Who should I go see?
+
+MVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_Group11_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+t
+CVillage!MonsterInc!Sully!VLG_Sull_010_MovieNight_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,41 @@
+
+L
+0Village!Frozen!Kristoff!VLG_Kris_010_DisplayNameLeaving the Woods Behind
+∂
+MVillage!Frozen!Kristoff!VLG_Kris_010_Group01_Step01_Possess03_StepDescriptioneGet the <ActivityItem>Burned Logs</ActivityItem> from Kristoff's old campfire in the Forest of Valor.
+ê
+=Village!Frozen!Kristoff!VLG_Kris_010_Group01_StoryDescriptionŒWhile he was living in the woods, Kristoff had to do without some basic commodities, like taking a bath. He suggests you help him make some <ActivityItem>Soap</ActivityItem> so he can resolve the situation.
+p
+AVillage!Frozen!Kristoff!VLG_Kris_010_Group02_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+Ü
+OVillage!Frozen!Kristoff!VLG_Kris_010_Group02_Step02_CraftItem01_StepDescription3Craft the <ActivityItem>Carrot Soap</ActivityItem>.
+v
+MVillage!Frozen!Kristoff!VLG_Kris_010_Group03_Step03_Possess01_StepDescription%<ActivityItem>Carrots</ActivityItem>.
+v
+MVillage!Frozen!Kristoff!VLG_Kris_010_Group03_Step03_Possess02_StepDescription%<ActivityItem>Coconut</ActivityItem>.
+ç
+CVillage!Frozen!Kristoff!VLG_Kris_010_Group03_Step03_StepDescriptionFGather the <ActivityItem>Soap</ActivityItem> ingredients for Kristoff:
+p
+AVillage!Frozen!Kristoff!VLG_Kris_010_Group04_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+
+<Village!Frozen!Kristoff!VLG_Kris_010_Group04_StepDescription?Bring the <ActivityItem>Carrot Soap</ActivityItem> to Kristoff.
+≠
+=Village!Frozen!Kristoff!VLG_Kris_010_Group04_StoryDescriptionlYou've prepared the <ActivityItem>Soap</ActivityItem>. Now the only thing left to do is give it to Kristoff.
+Z
+AVillage!Frozen!Kristoff!VLG_Kris_010_Group05_OngoingRequestButtonWho should I talk to?
+f
+UVillage!Frozen!Kristoff!VLG_Kris_010_Group05_Step04_TalkToCharacter01_StepDescriptionTalk to Maui.
+p
+AVillage!Frozen!Kristoff!VLG_Kris_010_Group06_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+ƒ
+OVillage!Frozen!Kristoff!VLG_Kris_010_Group06_Step07_CraftItem02_StepDescriptionqGrind the <ActivityItem>Burned Logs</ActivityItem> into <ActivityItem>Ashes</ActivityItem> at a Crafting Station.
+p
+AVillage!Frozen!Kristoff!VLG_Kris_010_Group07_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+¡
+NVillage!Frozen!Kristoff!VLG_Kris_010_Group07_Step09_CookMeal01_StepDescriptionoBoil the <ActivityItem>Ashes</ActivityItem> at any Cooking Station to extract <ActivityItem>Lye</ActivityItem>.
+ë
+UVillage!Frozen!Kristoff!VLG_Kris_010_Group08_Step05_TalkToCharacter02_StepDescription8Show Kristoff the <ActivityItem>Coconuts</ActivityItem>.
+p
+AVillage!Frozen!Kristoff!VLG_Kris_010_Group09_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+w
+<Village!Frozen!Kristoff!VLG_Kris_010_Group09_StepDescription7Bring the <ActivityItem>Lye</ActivityItem> to Kristoff.

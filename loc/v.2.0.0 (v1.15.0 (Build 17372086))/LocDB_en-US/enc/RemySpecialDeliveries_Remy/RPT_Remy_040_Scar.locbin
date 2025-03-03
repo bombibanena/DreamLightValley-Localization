@@ -1,0 +1,43 @@
+
+q
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Any_CompletedRequestDescription Return to Remy for your rewards.
+á
+BRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_AvailableDescriptionARemy has a special delivery order! Today's hungry Villager: Scar!
+R
+9Repeatable!Ratatouille!Remy!RPT_Remy_040_Scar_DisplayNameBon App√É¬©tit, Scar!
+ñ
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group01_Step01_CookMeal01_StepDescription;Cook 5 <ActivityItem>Seafood Meals</ActivityItem> for Scar.
+f
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group02_Step02_CookMeal02_StepDescription{ItemName}.
+f
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group02_Step02_CookMeal04_StepDescription{ItemName}.
+e
+ERepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group02_StepDescriptionCook the following for Scar:
+ñ
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group03_Step03_CookMeal03_StepDescription;Cook <ActivityItem>5-Star Desserts</ActivityItem> for Scar.
+é
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group04_Step04_ReadyDescription=Bring the <ActivityItem>Seafood Meals</ActivityItem> to Scar.
+ä
+LRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group04_Step04_StepDescription:Get 5 <ActivityItem>Seafood Meals</ActivityItem> for Scar.
+g
+XRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_BringItem02_StepDescription{ItemName}.
+g
+XRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_BringItem04_StepDescription{ItemName}.
+π
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_ReadyDescriptionhBring the <ActivityItem>Tekka Maki</ActivityItem> and <ActivityItem>Maguro Sushi</ActivityItem> to Scar.
+k
+LRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_StepDescriptionGet the following for Scar:
+ê
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group06_Step06_ReadyDescription?Bring the <ActivityItem>5-Star Desserts</ActivityItem> to Scar.
+ä
+LRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group06_Step06_StepDescription:Get <ActivityItem>5-Star Desserts</ActivityItem> for Scar.
+y
+URepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group07_Step07_Listen01_StepDescription Follow him and see what he does.
+Ä
+ERepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group07_StepDescription7Why did Scar want those desserts? This is suspicious...
+
+^Repeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group08_Step08_TalkToCharacter01_StepDescriptionGive Scar a stern talking-to.
+b
+ERepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group08_StepDescriptionScar tried to eat Donald!
+q
+@Repeatable!Ratatouille!Remy!RPT_Remy_040_Scar_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,102 @@
+TAG: Village!Hercules!Hades!VLG_Hade_010_AvailableDescription
+Давным-давно злобный лорд Подземного мира был настолько обижен, что облака сверкали в извилистых спиралях к небу {PlayerName}, когда-либо храбрый, попытался увидеть, в чем дело...
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_CompletedStoryDescription
+В конце концов, чувство неполноценности Аид в сторону Зевса заставило его попробовать управлять мощным, но опасным молниеносным болтом. Находчивый {PlayerName} смог направить его к генератору молний, но Аид постоянное желание превзойти Зевса может нанести ему ответный удар.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_DisplayName
+Мифическое восстановление
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group01_Step01_FollowCharacter01_TalkToDescription
+Поговорите с Аид о <ActivityItem>Lightning генератор</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group01_StepDescription
+Поговорите с Аид в восточном крыле библиотеки Лора о <ActivityItem>Lightning генератор</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group03_Step03_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group03_Step03_BringItem02_StepDescription
+{ItemName} растения из вод за пределами рипплов в Мифопии.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group03_Step03_BringItem03_StepDescription
+{ItemName} из земли Мифопии.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group03_Step03_ReadyDescription
+Возвращайся в Аид с магическими ресурсами, чтобы он мог усовершенствовать твой королевский пикакс.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group03_Step03_StepDescription
+Соберите магические ресурсы Аид:
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group04_Step04_RemoveBlocker01_StepDescription
+Удалить падающие кусочки <ActivityItem>Marble</ActivityItem> в Mythopia.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group04_Step05_CatchSnippet01_StepDescription
+Поймать <ActivityItem> Demon Snippets</ActivityItem> в Мифопии.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group04_StepDescription
+Уберите дом Аид'.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group05_Step06_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group06_Step07_Possess04_StepDescription
+Марбл.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group06_Step07_Possess05_StepDescription
+Золотые Наггеты.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group06_Step07_Possess06_StepDescription
+Магма.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group06_Step07_StepDescription
+Соберите ресурсы для создания статуй Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group06_StoryDescription
+Когда храбрый {PlayerName} отправился в область Аид, они нашли огненную морзу божества и решили поднять ему настроение, очистив его территорию.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group07_Step08_CraftItem01_StepDescription
+Статуи плота Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group08_Step09_StepDescription
+Украсить Mythopia статуями Аид, чтобы повысить его популярность.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group09_Step10_TalkToCharacter02_StepDescription
+Поговори с {TargetNPC} о его новых статуях.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group10_Step11_DressUp01_StepDescription
+Грязная одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group10_Step11_DressUp02_StepDescription
+Зеленая одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group10_Step11_DressUp03_StepDescription
+Коричневая одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group10_Step11_StepDescription
+Одевайся в маскировочный костюм.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group11_Step12_StepDescription
+Шпион за различными деревенскими жителями вокруг <Lore> Library of Lore</Lore> во время их встречи для обсуждения Аид и его статуй.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group11_StepDescription
+Иди под прикрытием, чтобы стать шпионом Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group11_StoryDescription
+Увы, чистота Аид только подтолкнула его к тому, чтобы попытаться притязать на величие Зевса, требуя, чтобы {PlayerName} приготовил ему мраморные статуи и шпионил за деревенскими жителями, чтобы увидеть, что они действительно думают о Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group12_Step13_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group13_Step14_Possess07_StepDescription
+Спайс молнии.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group13_Step14_StepDescription
+Соберите ресурсы для топлива генератора <ActivityItem>Lightning</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_Group14_Step15_FillKeyhole01_StepDescription
+Заправка генератора <ActivityItem>Lightning</ActivityItem> в восточном крыле Библиотеки Лора с использованием <ActivityItem>Lightning Spice</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

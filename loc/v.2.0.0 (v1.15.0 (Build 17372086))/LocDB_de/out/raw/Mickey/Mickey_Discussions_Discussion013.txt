@@ -1,0 +1,24 @@
+TAG: Mickey_000_f
+Say, {PlayerName}, I really like what you're doin' to spruce up the Valley.
+
+TAG: Player_000_choice_000_f
+Aw, thanks, Mickey!
+
+TAG: Player_000_choice_001_f
+It's nothing, really.
+
+TAG: Player_000_choice_002_f
+Somebody had to clean this place up...
+
+TAG: Mickey_001_f
+Hey, I just remembered! I wanted to pass on a little somethin' I learned...
+
+TAG: Mickey_002_f
+Make sure you leave room so you can make a garden big enough to grow lots of different kinds of crops.
+
+TAG: Mickey_003_f
+Ya never know what you might need around here!
+
+TAG: Mickey_004_f
+Gosh, uh... we tried before you got here, but none of us could get rid of those Night Thorns.
+

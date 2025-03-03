@@ -1,0 +1,126 @@
+TAG: button_meals
+Meals
+
+TAG: button_sub_products
+{Placeholder}Sub Products
+
+TAG: cookbook_buff_cooking_timer
+{percent,P0} faster ({hours,%h} hour[s])
+
+TAG: cookbook_buff_fishing_reel
+Fishing reel {percent,P0} faster ({hours,%h} hours)
+
+TAG: cookbook_buff_friendship
+Friendship +{percent,P0} ({hours,%h} hour[s])
+
+TAG: cookbook_buff_growth_timer
+Grow {percent,P0} faster ({hours,%h} hours)
+
+TAG: cooking_ingredient_number_exeeded_desc
+Be careful; there's a max of 5 Ingredients per Recipe.
+
+TAG: cooking_ingredient_number_exeeded_title
+Ingredient Issues
+
+TAG: cooking_missing_ingredient
+Missing Ingredients:
+
+TAG: cooking_ready_in
+Ready in:
+
+TAG: cooking_refresh_in
+Refreshes in:
+
+TAG: cooking_remaining_tries
+Remaining tries: {number,D}
+
+TAG: cooking_remi_not_enough_ingredients_desc
+Oops! You don't have enough Ingredients to cook this Recipe.
+
+TAG: cooking_remi_start_desc
+Are you ready for Remy to start cooking?
+
+TAG: cooking_start_desc
+Are you ready to try this Recipe?
+
+TAG: cooking_start_remi
+Let's go!
+
+TAG: cooking_wrong_recipe_desc
+Yuck! Those Ingredients don't go together! Try something else.
+
+TAG: new_recipe_label
+New Recipe
+
+TAG: pantry_add_ingredients
+Add Ingredients
+
+TAG: pantry_cookbook_title
+Recipes
+
+TAG: pantry_cooking_station
+Remy's Kitchen
+
+TAG: pantry_empty
+Oops! You don't have any Ingredients left in this category.
+
+TAG: pantry_fridge_title
+Pantry
+
+TAG: pantry_shop
+Remy's Shop.
+
+TAG: pantry_start_cooking
+Start Cooking
+
+TAG: pantry_transfer
+Transfer
+
+TAG: pantry_transfer_all
+Transfer all
+
+TAG: pantry_transfer_desc
+Do you want to transfer these items to the Pantry?
+
+TAG: select_recipe
+Select a Recipe
+
+TAG: history_title
+History
+
+TAG: ingredient_fish
+Fish
+
+TAG: ingredient_fruit
+Fruit
+
+TAG: ingredient_grain
+Grain
+
+TAG: ingredient_legend_bad_ingredient
+Unnecessary Ingredient
+
+TAG: ingredient_legend_empty
+Empty
+
+TAG: ingredient_legend_good_ingredient
+Mandatory Ingredient
+
+TAG: ingredient_legend_good_type
+Versatile Ingredient
+
+TAG: ingredient_other
+Other
+
+TAG: ingredient_sea_food
+Seafood
+
+TAG: ingredient_spice
+Spice
+
+TAG: ingredient_sub_product
+{Placeholder} Sub product
+
+TAG: ingredient_vegetable
+Vegetable
+

@@ -1,0 +1,21 @@
+
+9
+Description*{Placeholder}Generic Buff Описание
+4
+Description_000!Гранты Speed Busts и Luck.
+I
+Description_0016{Placeholder}Enables Зависающий спринт
+:
+Description_002'{Placeholder}Less Cooldown on Criticals
+[
+Description_003H{Placeholder}B больше шансов получить Критику
+(
+DisplayName{Placeholder}Generic Buff
+#
+DisplayName_000Федералы
+/
+DisplayName_001{Placeholder}Hovering Sprint
+F
+DisplayName_0023{Placeholder} Сокращение выбросов
+>
+DisplayName_003+{Placeholder} Больше критиков

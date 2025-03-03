@@ -1,0 +1,65 @@
+
+c
+@Village!Frozen!Elsa!VLG_Elsa_010_Any_CompletedRequestDescriptionПоговори с Эльза.
+�
+5Village!Frozen!Elsa!VLG_Elsa_010_AvailableDescription�Эльза слышал звук, исходящий из ледяного каверна в лесу Вэлора, но не видит, что внутри, так как путь заблокирован странным типом льда, непроницаемым для ее сил.
+�
+:Village!Frozen!Elsa!VLG_Elsa_010_CompletedStoryDescription�Она помнит, что его нужно поместить на скульптурную стену, и это то, что вы решили сделать.
+E
+,Village!Frozen!Elsa!VLG_Elsa_010_DisplayNameСломать лед
+�
+QVillage!Frozen!Elsa!VLG_Elsa_010_Group01_Step01_FollowCharacter01_StepDescriptionBСледуйте за Эльза до ледяной пещеры.
+v
+SVillage!Frozen!Elsa!VLG_Elsa_010_Group01_Step01_FollowCharacter01_TalkToDescriptionПоговори с Эльза.
+�
+=Village!Frozen!Elsa!VLG_Elsa_010_Group02_OngoingRequestButtonE<smallcaps>{title}</smallcaps><br> Что я могу сделать?
+{
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess01_StepDescription.<ActivityItem>Vial Ocean Water</ActivityItem>.
+u
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess02_StepDescription(<ActivityItem>Sunflowers</ActivityItem>.
+q
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess03_StepDescription$<ActivityItem>Lemons</ActivityItem>.
+t
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess04_StepDescription'<ActivityItem>Sugarcane</ActivityItem>.
+q
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess05_StepDescription$<ActivityItem>Garlic</ActivityItem>.
+�
+?Village!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_StepDescription�Соберите следующие ингредиенты для <ActivityItem>Warmth летнего зелья</ActivityItem>:
+�
+9Village!Frozen!Elsa!VLG_Elsa_010_Group02_StoryDescription�Эльза считает, что ваш особый тип магии необходим для удаления льда. Вы решили подготовить специальный <ActivityItem>Warmth Летнего Потрошителя</ActivityItem> для улучшения вашего <ActivityItem>Pickaxe</ActivityItem>.
+x
+=Village!Frozen!Elsa!VLG_Elsa_010_Group03_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+KVillage!Frozen!Elsa!VLG_Elsa_010_Group03_Step03_CraftItem01_StepDescriptionUПодготовить <ActivityItem>Warmth летнего зелья</ActivityItem>.
+}
+=Village!Frozen!Elsa!VLG_Elsa_010_Group04_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+h
+8Village!Frozen!Elsa!VLG_Elsa_010_Group04_StepDescription,Возьмите {ItemName} на Эльза.
+q
+?Village!Frozen!Elsa!VLG_Elsa_010_Group05_Step05_StepDescription.Войдите в ледяную пещеру.
+�
+9Village!Frozen!Elsa!VLG_Elsa_010_Group05_StoryDescription�С твоим усовершенствованным <ActivityItem>Pickaxe</ActivityItem> ты теперь можешь исследовать ледяной каверн.
+�
+OVillage!Frozen!Elsa!VLG_Elsa_010_Group06_Step06_RemoveBlocker01_StepDescriptionTОчистить ледяные блоки внутри ледяной пещеры.
+�
+QVillage!Frozen!Elsa!VLG_Elsa_010_Group07_Step07_FollowCharacter02_StepDescription`Следуйте за Эльза, чтобы исследовать ледяную пещеру.
+v
+SVillage!Frozen!Elsa!VLG_Elsa_010_Group07_Step07_FollowCharacter02_TalkToDescriptionПоговори с Эльза.
+�
+=Village!Frozen!Elsa!VLG_Elsa_010_Group08_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+KVillage!Frozen!Elsa!VLG_Elsa_010_Group08_Step08_VisitArea03_StepDescriptionHНайдите источник звука глубже в Пещере.
+w
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group09_Step09_Possess06_StepDescription*Возьмите {ItemName} с земли.
+�
+9Village!Frozen!Elsa!VLG_Elsa_010_Group09_StoryDescription�Когда вы исследуете, вы наткнулись на пробел, и Эльза использует её магию, чтобы воссоздать мост, который она чувствует в льду.
+t
+QVillage!Frozen!Elsa!VLG_Elsa_010_Group10_Step10_TalkToCharacter01_StepDescriptionПоговори с Эльза.
+�
+9Village!Frozen!Elsa!VLG_Elsa_010_Group10_StoryDescription�В глубине пещеры вы обнаруживаете странный <ActivityItem> Blue Crest</ActivityItem> на земле. Эльза наверняка будет заинтересован в этом.
+�
+MVillage!Frozen!Elsa!VLG_Elsa_010_Group11_Step11_FillKeyhole01_StepDescriptioncПоложите <ActivityItem> Blue Crest</ActivityItem> на скульптурную стену.
+j
+8Village!Frozen!Elsa!VLG_Elsa_010_Group12_StepDescription.Войдите в ледяную пещеру.
+^
+3Village!Frozen!Elsa!VLG_Elsa_010_StartRequestButton'<smallcaps>{title}</smallcaps><br>Start

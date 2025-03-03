@@ -1,0 +1,51 @@
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Any_CompletedRequestDescription
+Возвращайтесь на Рапунцель.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_AvailableDescription
+Вы с Рапунцель входите в древнюю рощу со странным солнцем в центре и Солнце Ядро на земле.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_CompletedStoryDescription
+Вы обнаруживаете, что Жемчужина времени украдена, и странное волшебное эхо и старый дневник указывают на Матушка Готель Матушка Готель в качестве преступника. Вы и Рапунцель направляетесь в ее башню, чтобы обыскать старую грудь, которую Матушка Готель хранили внутри.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_DisplayName
+Сундиал
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group01_Step01_VisitArea01_StepDescription
+Расследовать <ActivityItem> Second Sun Core</ActivityItem> рядом с <ActivityItem>Sundial</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group02_StepDescription
+Возьмите <ActivityItem>Flowing Sun Core</ActivityItem> на Сандиальном острове.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group03_Step03_Possess01_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Floating Sun Core</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group04_Step04_FillKeyhole01_StepDescription
+Это Солнечное Ядро выглядит так же, как и последнее...
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group05_Step05_TalkToCharacter01_StepDescription
+Поговори с Рапунцель.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group06_StepDescription
+Поиск на острове для <ActivityItem>Flowing Sundial Gears</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group07_Step08_ReadyDescription
+Показать все <ActivityItem>Sundial Gears</ActivityItem> Рапунцель.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group07_Step08_StepDescription
+Убедитесь, что все <ActivityItem>Sundial Gears</ActivityItem> в вашем списке.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group08_Step09_Conditional01_StepDescription
+Расследуйте "Сундиал".
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group09_StepDescription
+Дойти до Статуи времени с Рапунцель.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group09_StoryDescription
+Вы с Рапунцель почините механизм Sundial и обнаружите, что большая платформа движется как часы. Вы достигаете плавающего острова.
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group10_StepDescription
+Жемчужина Времени пропала...
+
+TAG: Story!Expansion01!MRQS_E01_120_Islands_Group11_Step12_ConsumeItem01_StepDescription
+Расследуйте страницу в дневнике возле Статуи времени.
+

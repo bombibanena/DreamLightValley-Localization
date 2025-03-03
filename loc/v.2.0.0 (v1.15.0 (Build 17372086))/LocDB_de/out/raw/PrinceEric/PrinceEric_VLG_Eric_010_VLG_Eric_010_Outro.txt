@@ -1,0 +1,27 @@
+TAG: PrinceEric_001_f
+I can't thank you enough, {PlayerName}. There were times when Ursula had me captive that I lost hope. I thought I'd never see Ariel again.
+
+TAG: PrinceEric_002_f
+But now, because of you, we're reunited.
+
+TAG: Player_000_choice_000_f
+I'm a sucker for a good love story.
+
+TAG: Player_000_choice_001_f
+I couldn't let Ursula win.
+
+TAG: Player_000_choice_002_f
+No problem. Helping the Valley is what I do.
+
+TAG: PrinceEric_003_f
+There's just one thing I can't stop thinking about.
+
+TAG: PrinceEric_004_f
+Something Ursula said to taunt me...
+
+TAG: PrinceEric_005_f
+Actually, never mind. You've already helped me enough for one day. I'm gonna try to solve this mystery on my own.
+
+TAG: PrinceEric_006_f
+Thanks again, {PlayerName}!
+

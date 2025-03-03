@@ -1,0 +1,30 @@
+TAG: EVE_000_f
+EVE!
+
+TAG: EVE_001_f
+There you go! With all that you should be able to communicate with that console in the Ancient Ruins.
+
+TAG: EVE_002_f
+Why don't you wait for me down there?
+
+TAG: EVE_003_f
+*digital beeps*
+
+TAG: EVE_008_f
+Looks like everyone is ready to go deeper into the Ruins.
+
+TAG: EVE_009_f
+I'll meet you down there, okay?
+
+TAG: EVE_010_f
+Directive!
+
+TAG: EVE_006_f
+I just need to finish helping Rapunzel.
+
+TAG: EVE_004_f
+I just need to finish helping Gaston.
+
+TAG: EVE_007_f
+I just need to finish helping Gaston and Rapunzel.
+

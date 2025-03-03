@@ -1,0 +1,33 @@
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_Any_CompletedRequestDescription
+Возвращайтесь на Реми.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_AvailableDescription
+Реми выглядит немного перегруженным.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_CompletedStoryDescription
+Пора узнать, как вы это сделали.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_DisplayName
+Цена славы
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_Group01_Step01_StepDescription
+Надевай одежду, которую тебе дал Реми.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_Group01_StoryDescription
+Его ресторан так хорошо работает, что он едва может выполнять приказы, ему нужен сусовый шеф, а форма уже установлена по твоему размеру...
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_Group02_Step02_TalkToCharacter01_StepDescription
+Покажите Реми свой костюм для проверки.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_Group03_Step03_ServeRestaurantOrder01_StepDescription
+Помогите Реми, выполняя заказы в ресторане.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_Group03_StoryDescription
+Правильно одетый, ты готов помочь Реми справиться с спешкой заказов.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

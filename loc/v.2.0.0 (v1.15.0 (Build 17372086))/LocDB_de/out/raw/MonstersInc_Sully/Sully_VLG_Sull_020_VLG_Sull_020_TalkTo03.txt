@@ -1,0 +1,39 @@
+TAG: Sully_001_f
+So... How did Mike react to the news that he didn't win?
+
+TAG: Sully_012_f
+Honestly? It only motivated him to work twice as hard next month.
+
+TAG: Sully_013_f
+Phew, that's a relief.
+
+TAG: Sully_000_f
+Thanks again for telling him. Oh, and I have a surprise for you...
+
+TAG: Sully_002_f
+YOU'RE the Villager of the Month. Congratulations, pal!
+
+TAG: Player_000_choice_000_f
+This is so kind of you!
+
+TAG: Player_000_choice_001_f
+But I didn't participate...
+
+TAG: Player_000_choice_002_f
+Finally, some recognition.
+
+TAG: Sully_003_f
+Hey, it's time somebody acknowledged all the work you do for the Valley and for the good of everyone, not just your own ego.
+
+TAG: Sully_006_f
+And now for the main event...
+
+TAG: Sully_007_f
+Please place this <ActivityItem>Villager-of-the-Month Award Stand</ActivityItem> in the Valley, and we'll make it official.
+
+TAG: Sully_004_f
+A true Villager of the Month would never have just sought the award. They act for the good of the community and not for their ego.
+
+TAG: Sully_005_f
+Hey, you deserve it. After all, you act for the good of the community and not your ego.
+

@@ -1,0 +1,45 @@
+TAG: Moana_000_f
+Have you noticed anything interesting in the seas around the Beach?
+
+TAG: Moana_001_f
+I found lots of little islands. But there's something strange about this place.
+
+TAG: Moana_002_f
+Whenever I try to go back and find the same island twice... it's gone.
+
+TAG: Player_000_choice_000_f
+Maybe you navigated to the wrong spot?
+
+TAG: Player_000_choice_001_f
+Maybe it drifted somewhere else?
+
+TAG: Player_000_choice_002_f
+Maybe... I don't know. Dreamlight Valley is weird.
+
+TAG: Moana_004_f
+I don't think so.
+
+TAG: Moana_005_f
+I've gotten pretty good at wayfinding.
+
+TAG: Moana_010_f
+Something weird is happening with the waters around the Village. I just need to figure out what.
+
+TAG: Moana_006_f
+That's the funny thing. I think they ARE moving, but it's even stranger than that.
+
+TAG: Moana_007_f
+Sometimes I'll be sailing towards an island and I'll blink... and all of a sudden...
+
+TAG: Moana_008_f
+...it's just gone. And then ten minutes later, I find it somewhere else.
+
+TAG: Moana_009_f
+I need to figure out how to map them... or if there's any pattern to it...
+
+TAG: Moana_011_f
+You're right. It is.
+
+TAG: Moana_012_f
+I just wonder if it's weird in a way that I can figure out, and use that to help us.
+

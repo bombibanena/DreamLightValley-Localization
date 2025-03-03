@@ -1,0 +1,21 @@
+TAG: Simba_000_f
+{PlayerName}, I wanted to thank you for all your support.
+
+TAG: Simba_001_f
+You helped me find clues about my past here, and now we have the Dreamlight Tree back.
+
+TAG: Simba_002_f
+I can't wait for the Sunbirds to notice it.
+
+TAG: Simba_005_f
+And I really think we're on the right track to figuring out what's going on with the Valley. As soon as the tree grew, I...
+
+TAG: Simba_006_f
+Well, I guess you could say I felt a change in the winds.
+
+TAG: Simba_003_f
+I'll keep an eye on it to make sure everything goes well, and I'll tell you if anything happens.
+
+TAG: Simba_004_f
+See ya around, {PlayerName}.
+

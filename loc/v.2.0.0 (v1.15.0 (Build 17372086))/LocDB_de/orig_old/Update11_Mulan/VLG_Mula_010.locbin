@@ -1,0 +1,111 @@
+
+~
+@Village!Mulan!Mulan!VLG_Mula_010_Any_CompletedRequestDescription:Поговори с Мулан о вечернем чае.
+�
+5Village!Mulan!Mulan!VLG_Mula_010_AvailableDescription�Мулан ищет её опору в долине Мечты. Посмотри, сможешь ли ты помочь с этим.
+�
+:Village!Mulan!Mulan!VLG_Mula_010_CompletedStoryDescription�Дегустация прошла хорошо, но есть только один способ узнать, получил ли Мулан этот опыт. Спроси ее!
+O
+,Village!Mulan!Mulan!VLG_Mula_010_DisplayNameЕжедневный режим
+X
+IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess01_StepDescription{itemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess02_StepDescription{itemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess03_StepDescription{itemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_010_Group01_Step01_Possess07_StepDescription{itemName}.
+~
+?Village!Mulan!Mulan!VLG_Mula_010_Group01_Step01_StepDescription;Соберите следующие ингредиенты:
+�
+9Village!Mulan!Mulan!VLG_Mula_010_Group01_StoryDescription�Молодая женщина думает, что наличие надежного распорядка поможет ей создать чувство нормальной жизни, и ты решишь помочь ей, и она хочет начать с хорошей еды, чтобы дать ей немного энергии.
+e
+?Village!Mulan!Mulan!VLG_Mula_010_Group02_Step02_StepDescription"Приготовить {itemName}.
+p
+@Village!Mulan!Mulan!VLG_Mula_010_Group03_Step03_ReadyDescription,Возьмите {ItemName} на Мулан.
+�
+?Village!Mulan!Mulan!VLG_Mula_010_Group03_Step03_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
+\
+MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral01_StepDescription{itemName}.
+\
+MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral02_StepDescription{itemName}.
+\
+MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral03_StepDescription{itemName}.
+\
+MVillage!Mulan!Mulan!VLG_Mula_010_Group04_Step04_MineMineral04_StepDescription{itemName}.
+�
+8Village!Mulan!Mulan!VLG_Mula_010_Group04_StepDescriptionwСледуйте распорядку обучения Мулан добычей полезных ископаемых:
+u
+QVillage!Mulan!Mulan!VLG_Mula_010_Group05_Step05_TalkToCharacter01_StepDescription Поговори с {TargetNPC}.
+�
+KVillage!Mulan!Mulan!VLG_Mula_010_Group06_Step06_VisitArea01_StepDescriptionKВведите поле Мулан для поиска ящиков чая.
+�
+9Village!Mulan!Mulan!VLG_Mula_010_Group06_StoryDescription�С завершением завтрака и тренировок Мулан хочет закончить свой утренний распорядок чашечкой чая.
+X
+IVillage!Mulan!Mulan!VLG_Mula_010_Group07_Step07_Possess04_StepDescription{ItemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_010_Group07_Step07_Possess05_StepDescription{ItemName}.
+X
+IVillage!Mulan!Mulan!VLG_Mula_010_Group07_Step07_Possess06_StepDescription{ItemName}.
+�
+?Village!Mulan!Mulan!VLG_Mula_010_Group07_Step07_StepDescriptionAНайдите в Мулан Smolm следующие ящики:
+Z
+KVillage!Mulan!Mulan!VLG_Mula_010_Group08_Step08_BringItem02_StepDescription{ItemName}.
+Z
+KVillage!Mulan!Mulan!VLG_Mula_010_Group08_Step08_BringItem03_StepDescription{ItemName}.
+Z
+KVillage!Mulan!Mulan!VLG_Mula_010_Group08_Step08_BringItem04_StepDescription{ItemName}.
+z
+@Village!Mulan!Mulan!VLG_Mula_010_Group08_Step08_ReadyDescription6Принеси ящики с чаем на Мулан.
+�
+?Village!Mulan!Mulan!VLG_Mula_010_Group08_Step08_StepDescriptioniУбедитесь, что у вас в списке есть следующие чайные ящики:
+~
+?Village!Mulan!Mulan!VLG_Mula_010_Group09_Step09_StepDescription;Поместите чайник Мулан в долину.
+�
+HVillage!Mulan!Mulan!VLG_Mula_010_Group10_Step10_Unlock01_StepDescription9Откройте чайник Мулан в долине.
+t
+QVillage!Mulan!Mulan!VLG_Mula_010_Group11_Step11_TalkToCharacter02_StepDescriptionПоговори с Мулан.
+Z
+KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem05_StepDescription{ItemName}.
+Z
+KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem06_StepDescription{ItemName}.
+Z
+KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem07_StepDescription{ItemName}.
+Z
+KVillage!Mulan!Mulan!VLG_Mula_010_Group12_Step12_BringItem08_StepDescription{ItemName}.
+j
+@Village!Mulan!Mulan!VLG_Mula_010_Group12_Step12_ReadyDescription&Принеси чай на Мулан.
+|
+?Village!Mulan!Mulan!VLG_Mula_010_Group12_Step12_StepDescription9Приготовить следующее питание:
+�
+9Village!Mulan!Mulan!VLG_Mula_010_Group12_StoryDescriptionВы с Мулан устроили Чайный Сталл, чтобы разделить его со всей Долиной.
+a
+QVillage!Mulan!Mulan!VLG_Mula_010_Group13_Step13_TalkToCharacter03_StepDescription{TargetNPC}.
+a
+QVillage!Mulan!Mulan!VLG_Mula_010_Group13_Step13_TalkToCharacter04_StepDescription{TargetNPC}.
+a
+QVillage!Mulan!Mulan!VLG_Mula_010_Group13_Step13_TalkToCharacter05_StepDescription{TargetNPC}.
+�
+8Village!Mulan!Mulan!VLG_Mula_010_Group13_StepDescriptionUПригласить деревенских гостей в Мулан за чаем:
+�
+9Village!Mulan!Mulan!VLG_Mula_010_Group13_StoryDescription�Запах ароматных чаев возвращает предзабытую память Мулан. Она просит вас пригласить Скрудж Макдак, Мирабель и Мерлин на чай у нее дома, как в старые времена.
+�
+KVillage!Mulan!Mulan!VLG_Mula_010_Group14_Step14_VisitArea02_StepDescriptionSОтправляйся в чайную дегустацию в Доме Мулан.
+�
+QVillage!Mulan!Mulan!VLG_Mula_010_Group15_Step15_TalkToCharacter06_StepDescription1Поговори с {TargetNPC} в её доме.
+�
+9Village!Mulan!Mulan!VLG_Mula_010_Group15_StoryDescription|Ты едешь в дом Мулан, чтобы выпить чаю со своими соотечественниками.
+o
+QVillage!Mulan!Mulan!VLG_Mula_010_Group16_Step16_TalkToCharacter07_StepDescriptionСкрудж Макдак.
+b
+QVillage!Mulan!Mulan!VLG_Mula_010_Group16_Step16_TalkToCharacter08_StepDescriptionМерлин.
+f
+QVillage!Mulan!Mulan!VLG_Mula_010_Group16_Step16_TalkToCharacter09_StepDescriptionМирабель.
+�
+8Village!Mulan!Mulan!VLG_Mula_010_Group16_StepDescriptionbПоделитесь чаем с деревенскими жителями в доме Мулан:
+x
+=Village!Mulan!Mulan!VLG_Mula_010_Group02_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+}
+=Village!Mulan!Mulan!VLG_Mula_010_Group03_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+d
+3Village!Mulan!Mulan!VLG_Mula_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

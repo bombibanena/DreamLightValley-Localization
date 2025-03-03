@@ -1,12 +1,16 @@
 package updater
 
 import (
+	"encoding/json"
 	"fmt"
 	"os"
 	"sort"
 
+	"ddv_loc/pkg/app"
+	"ddv_loc/pkg/generator"
 	"ddv_loc/pkg/models"
 	"ddv_loc/pkg/reader"
+	"ddv_loc/pkg/translator"
 	"ddv_loc/pkg/types"
 )
 
@@ -33,86 +37,123 @@ func CheckUpdates(format string, inPathOld string, inPathNew string, outPath str
 		return false, err
 	}
 
-	report := compareFileData(locFileOld, locFileNew)
-	if report == "" {
+	updates := compareFileData(locFileOld, locFileNew)
+	if !updates.Any() {
 		return false, nil
 	}
 
-	if err := writeReportToFile(outPath, report); err != nil {
-		return false, err
+	jsonData, err := json.MarshalIndent(updates, "", "  ")
+	if err != nil {
+		return false, fmt.Errorf("Error marshaling JSON: %v", err)
+	}
+
+	file, err := os.Create(outPath)
+	if err != nil {
+		return false, fmt.Errorf("error creating file: %v", err)
+	}
+	defer file.Close()
+
+	_, err = file.Write(jsonData)
+	if err != nil {
+		return false, fmt.Errorf("error writing to file: %v", err)
 	}
 
 	return true, nil
 }
 
-func compareFileData(locFileOld types.LocFile, locFileNew types.LocFile) string {
-	report := ""
+func Patch(format string, inPath string, updatesFilePath string, outFolder string, translate bool) error {
+	var locFile types.LocFile
+	var updates *types.LocFileUpdates
+	var err error
+
+	switch format {
+	case "json":
+		locFile, err = reader.ReadDecodedFromJSON(inPath)
+	case "csv":
+		locFile, err = reader.ReadDecodedFromCSV(inPath)
+	case "raw":
+		locFile, err = reader.ReadDecodedFromTxt(inPath)
+	default:
+		return fmt.Errorf("Неизвестный формат: %v\n", format)
+	}
+
+	if err != nil {
+		return err
+	}
+
+	updates, err = reader.ReadUpdatesFromJSON(updatesFilePath)
+	if err != nil {
+		return err
+	}
+
+	if translate {
+		translatedUpdates, err := translateUpdates(*updates)
+		if err != nil {
+			return err
+		}
+
+		updates = translatedUpdates
+	}
+
+	applyUpdates(&locFile, updates)
+
+	switch format {
+	case "json":
+		err = generator.GenerateDecodedJSON(locFile, outFolder)
+	case "csv":
+		err = generator.GenerateDecodedCSV(locFile, outFolder)
+	case "raw":
+		err = generator.GenerateDecodedTxt(locFile, outFolder)
+	default:
+		return fmt.Errorf("Неизвестный формат: %v\n", format)
+	}
+
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func compareFileData(old types.LocFile, new types.LocFile) types.LocFileUpdates {
+	var updates types.LocFileUpdates
 
 	oldMap := make(map[string]models.FileData)
-	for _, fd := range locFileOld {
+	for _, fd := range old {
 		oldMap[fd.Location] = fd
 	}
 
 	newMap := make(map[string]models.FileData)
-	for _, fd := range locFileNew {
+	for _, fd := range new {
 		newMap[fd.Location] = fd
 	}
 
-	var newLocations, changedLocations, removedLocations []string
-
-	for loc := range newMap {
+	for loc, newFD := range newMap {
 		if _, exists := oldMap[loc]; !exists {
-			newLocations = append(newLocations, loc)
+			updates.New = append(updates.New, newFD)
 		}
 	}
 
-	for loc := range oldMap {
-		if _, exists := newMap[loc]; !exists {
-			removedLocations = append(removedLocations, loc)
+	for loc, oldFD := range oldMap {
+		if newFD, exists := newMap[loc]; exists {
+			compareDictionaries(&updates, loc, oldFD.Dictionary, newFD.Dictionary)
 		} else {
-			changedLocations = append(changedLocations, loc)
+			updates.Removed = append(updates.Removed, oldFD)
 		}
 	}
 
-	sort.Strings(newLocations)
-	sort.Strings(changedLocations)
-	sort.Strings(removedLocations)
+	sortLocFile(&updates.New)
+	sortLocFile(&updates.Changes.New)
+	sortLocFile(&updates.Changes.Changes)
+	sortLocFile(&updates.Changes.Removed)
+	sortLocFile(&updates.Removed)
 
-	for _, loc := range newLocations {
-		report += fmt.Sprintf("[NEW]     %s\n", loc)
-		newFD := newMap[loc]
-		sort.Slice(newFD.Dictionary, func(i, j int) bool {
-			return newFD.Dictionary[i].Key < newFD.Dictionary[j].Key
-		})
-		for _, kv := range newFD.Dictionary {
-			report += fmt.Sprintf("      [NEW]     %s\n", kv.Key)
-			report += fmt.Sprintf("              - %s\n", kv.Loc.En)
-		}
-		report += "\n"
-	}
-
-	for _, loc := range changedLocations {
-		report += compareDictionaries(loc, oldMap[loc].Dictionary, newMap[loc].Dictionary)
-	}
-
-	for _, loc := range removedLocations {
-		report += fmt.Sprintf("[REMOVED] %s\n", loc)
-		oldFD := oldMap[loc]
-		sort.Slice(oldFD.Dictionary, func(i, j int) bool {
-			return oldFD.Dictionary[i].Key < oldFD.Dictionary[j].Key
-		})
-		for _, kv := range oldFD.Dictionary {
-			report += fmt.Sprintf("      [REMOVED] %s\n", kv.Key)
-			report += fmt.Sprintf("              - %s\n", kv.Loc.En)
-		}
-		report += "\n"
-	}
-
-	return report
+	return updates
 }
 
-func compareDictionaries(loc string, oldDict []models.KeyValue, newDict []models.KeyValue) string {
-	report := ""
+func compareDictionaries(updates *types.LocFileUpdates, loc string, oldDict, newDict []models.KeyValue) {
+	var newKeys, changedKeys, removedKeys []models.KeyValue
+
 	oldMap := make(map[string]models.KeyValue)
 	for _, kv := range oldDict {
 		oldMap[kv.Key] = kv
@@ -123,70 +164,162 @@ func compareDictionaries(loc string, oldDict []models.KeyValue, newDict []models
 		newMap[kv.Key] = kv
 	}
 
-	var newKeys, changedKeys, removedKeys []string
-
 	for key, newKV := range newMap {
 		if oldKV, exists := oldMap[key]; exists {
-			if oldKV.Loc.En != newKV.Loc.En || oldKV.Loc.Ru != newKV.Loc.Ru {
-				changedKeys = append(changedKeys, key)
+			if oldKV.Loc.En != newKV.Loc.En {
+				changedKeys = append(changedKeys, newKV)
 			}
 		} else {
-			newKeys = append(newKeys, key)
+			newKeys = append(newKeys, newKV)
 		}
 	}
 
-	for key := range oldMap {
+	for key, oldKV := range oldMap {
 		if _, exists := newMap[key]; !exists {
-			removedKeys = append(removedKeys, key)
+			removedKeys = append(removedKeys, oldKV)
 		}
 	}
 
-	sort.Strings(newKeys)
-	sort.Strings(changedKeys)
-	sort.Strings(removedKeys)
-
 	if len(newKeys) > 0 || len(changedKeys) > 0 || len(removedKeys) > 0 {
-		report += fmt.Sprintf("[CHANGED] %s\n", loc)
-	}
+		fileData := models.FileData{
+			Location: loc,
+		}
 
-	for _, key := range newKeys {
-		newKV := newMap[key]
-		report += fmt.Sprintf("      [NEW]     %s\n", key)
-		report += fmt.Sprintf("              - %s\n", newKV.Loc.En)
-	}
+		if len(newKeys) > 0 {
+			fileData.Dictionary = newKeys
+			updates.Changes.New = append(updates.Changes.New, fileData)
+		}
 
-	for _, key := range changedKeys {
-		oldKV := oldMap[key]
-		newKV := newMap[key]
-		report += fmt.Sprintf("      [CHANGED] %s\n", key)
-		report += fmt.Sprintf("              - %s\n", oldKV.Loc.En)
-		report += fmt.Sprintf("              - %s\n", newKV.Loc.En)
-	}
+		if len(changedKeys) > 0 {
+			fileData.Dictionary = changedKeys
+			updates.Changes.Changes = append(updates.Changes.Changes, fileData)
+		}
 
-	for _, key := range removedKeys {
-		oldKV := oldMap[key]
-		report += fmt.Sprintf("      [REMOVED] %s\n", key)
-		report += fmt.Sprintf("              - %s\n", oldKV.Loc.En)
+		if len(removedKeys) > 0 {
+			fileData.Dictionary = removedKeys
+			updates.Changes.Removed = append(updates.Changes.Removed, fileData)
+		}
 	}
-
-	if len(newKeys) > 0 || len(changedKeys) > 0 || len(removedKeys) > 0 {
-		report += "\n"
-	}
-
-	return report
 }
 
-func writeReportToFile(filePath string, report string) error {
-	file, err := os.Create(filePath)
-	if err != nil {
-		return fmt.Errorf("Error creating file: %v", err)
-	}
-	defer file.Close()
+func sortLocFile(locFile *types.LocFile) {
+	sort.Slice(*locFile, func(i, j int) bool {
+		return (*locFile)[i].Location < (*locFile)[j].Location
+	})
 
-	_, err = file.WriteString(report)
-	if err != nil {
-		return fmt.Errorf("Error writing to file: %v", err)
+	for i := range *locFile {
+		sort.Slice((*locFile)[i].Dictionary, func(j, k int) bool {
+			return (*locFile)[i].Dictionary[j].Key < (*locFile)[i].Dictionary[k].Key
+		})
+	}
+}
+
+func applyUpdates(locFile *types.LocFile, updates *types.LocFileUpdates) {
+	for _, newFD := range updates.New {
+		*locFile = append(*locFile, newFD)
 	}
 
-	return nil
+	for _, changedFD := range updates.Changes.Changes {
+		for i, fd := range *locFile {
+			if fd.Location == changedFD.Location {
+				(*locFile)[i].Dictionary = mergeDictionaries(fd.Dictionary, changedFD.Dictionary)
+				break
+			}
+		}
+	}
+
+	for _, newKVs := range updates.Changes.New {
+		for i, fd := range *locFile {
+			if fd.Location == newKVs.Location {
+				(*locFile)[i].Dictionary = mergeDictionaries(fd.Dictionary, newKVs.Dictionary)
+				break
+			}
+		}
+	}
+
+	for _, removedKVs := range updates.Changes.Removed {
+		for i, fd := range *locFile {
+			if fd.Location == removedKVs.Location {
+				(*locFile)[i].Dictionary = removeKeyValues(fd.Dictionary, removedKVs.Dictionary)
+				break
+			}
+		}
+	}
+
+	for _, removedFD := range updates.Removed {
+		for i := len(*locFile) - 1; i >= 0; i-- {
+			if (*locFile)[i].Location == removedFD.Location {
+				*locFile = append((*locFile)[:i], (*locFile)[i+1:]...)
+				break
+			}
+		}
+	}
+}
+
+func mergeDictionaries(oldDict, newDict []models.KeyValue) []models.KeyValue {
+	result := make([]models.KeyValue, len(oldDict))
+	copy(result, oldDict)
+
+	newMap := make(map[string]models.KeyValue)
+	for _, kv := range newDict {
+		newMap[kv.Key] = kv
+	}
+
+	for i, kv := range result {
+		if newKV, exists := newMap[kv.Key]; exists {
+			result[i] = newKV
+			delete(newMap, kv.Key)
+		}
+	}
+
+	for _, kv := range newDict {
+		if _, exists := newMap[kv.Key]; exists {
+			result = append(result, kv)
+		}
+	}
+
+	return result
+}
+
+func removeKeyValues(oldDict, toRemove []models.KeyValue) []models.KeyValue {
+	removeMap := make(map[string]bool)
+	for _, kv := range toRemove {
+		removeMap[kv.Key] = true
+	}
+
+	result := []models.KeyValue{}
+	for _, kv := range oldDict {
+		if !removeMap[kv.Key] {
+			result = append(result, kv)
+		}
+	}
+
+	return result
+}
+
+func translateUpdates(updates types.LocFileUpdates) (*types.LocFileUpdates, error) {
+	translatedUpdates := updates
+
+	tr := translator.NewTranslator(app.Config.Translator, "RU")
+
+	translatedUpdatesNew, err := tr.TranslateLocFile(translatedUpdates.New)
+	if err != nil {
+		return nil, err
+	}
+
+	translatedUpdatesChangesNew, err := tr.TranslateLocFile(translatedUpdates.Changes.New)
+	if err != nil {
+		return nil, err
+	}
+
+	translatedUpdatesChangesChanges, err := tr.TranslateLocFile(translatedUpdates.Changes.Changes)
+	if err != nil {
+		return nil, err
+	}
+
+	translatedUpdates.New = translatedUpdatesNew
+	translatedUpdates.Changes.New = translatedUpdatesChangesNew
+	translatedUpdates.Changes.Changes = translatedUpdatesChangesChanges
+
+	return &translatedUpdates, nil
 }

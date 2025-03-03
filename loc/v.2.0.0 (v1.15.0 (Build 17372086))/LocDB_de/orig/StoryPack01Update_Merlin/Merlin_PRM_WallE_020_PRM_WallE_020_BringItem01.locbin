@@ -1,0 +1,54 @@
+
+<
+Merlin_001_f,I've got a little something for you, Merlin!
+c
+Merlin_003_fSWha...? Oh... {PlayerName}, what's this? A magical object you'd like me to examine?
+%
+Player_000_choice_000_f
+Sort of...
+&
+Player_000_choice_001_fAfraid not.
+4
+Player_000_choice_002_fI guess that's up to you!
+(
+Merlin_004_fWell, go on. What is it?
+N
+Merlin_005_f>It's an invitation... to a magical moment with someone secret!
+r
+Merlin_006_fbAn invitation to a... whatnow? Oh no. No time. Mustn't have any distractions. I've research to do!
+g
+Merlin_000_fWBesides, I find social occasions rather a nuisance. Too much talking and too few books!
+K
+Player_001_choice_000_f0Was Madam Mim the last person you went out with?
+H
+Player_001_choice_001_f-Time to put on your most charming wizard hat!
+B
+Player_001_choice_002_f'Just relax and try to have a good time!
+‰
+Merlin_007_fyWhat?! That is utter poppycock! I'll have you know I have always endeavored to spend as little time with Mim as possible!
+
+Merlin_008_fMy apologies!
+™
+Merlin_016_fˆPlease, Merlin. Just swing by <ActivityItem>Dazzle Beach</ActivityItem> at the time listed on the invitation. I promise you'll have fun.
+<
+Merlin_017_f,You'll experience a whole new type of magic!
+&
+Merlin_018_fWell, if you insist...
+)
+Merlin_020_fI do! And WALLÂ·E agrees!
+S
+Merlin_021_fC*sigh* Very well, then. I suppose I'll look at it as an experiment.
+4
+Merlin_009_f$This IS my most charming wizard hat.
+0
+Merlin_010_f Isn't that your only wizard hat?
+?
+Merlin_011_f/Why, yes... but... but that's beside the point!
+4
+Merlin_012_f$It also happens to be very charming.
+,
+Merlin_013_fI... guess that makes sense.
+F
+Merlin_014_f6Trust me: I'd have a far better time in the library...
+P
+Merlin_015_f@...relaxing with a good book instead of indulging this nonsense.

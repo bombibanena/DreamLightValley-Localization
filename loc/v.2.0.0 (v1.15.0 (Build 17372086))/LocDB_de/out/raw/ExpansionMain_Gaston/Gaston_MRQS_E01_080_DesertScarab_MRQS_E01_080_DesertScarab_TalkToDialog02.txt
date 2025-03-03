@@ -1,0 +1,54 @@
+TAG: Gaston_001_f
+Hmm... No sign of the vault key. Well, we tried! I say we return to the capital of Gastonia. You can write a song about me!
+
+TAG: Player_000_choice_000_f
+We need that key!
+
+TAG: Player_000_choice_001_f
+The. Isle. Is. In. DANGER!!!
+
+TAG: Player_000_choice_002_f
+You don't deserve a song for failing.
+
+TAG: Gaston_002_f
+Without the key, there's no way to get that Jewel of Time. Without the Jewels, the Isle is doomed!
+
+TAG: Gaston_008_f
+Hmm... but what if there IS no <Lore>Scarab Key</Lore> and we're already doomed?
+
+TAG: Player_001_choice_000_f
+Scarab Key?
+
+TAG: Player_001_choice_001_f
+Why would Jafar send us on a fake quest?
+
+TAG: Gaston_019_f
+You never mentioned it was a Scarab.
+
+TAG: Gaston_021_f
+Oh, what does it matter what the key LOOKS like? We'll never find it.
+
+TAG: Gaston_022_f
+We've looked in TWO places! TWO! Haven't we done enough?!
+
+TAG: Gaston_023_f
+Not really.
+
+TAG: Gaston_014_f
+If you care so much, keep searching. Search the Wastes! <Lore>Check the quicksand!</Lore> You'll see I'm right!
+
+TAG: Gaston_013_f
+You're clearly not as skilled as me, but go ahead! Try and be the hero! I'll wait.
+
+TAG: Gaston_010_f
+He's a wizard. Doesn't that explain everything?
+
+TAG: Gaston_020_f
+I think you're just looking for excuses to bail.
+
+TAG: Gaston_004_f
+Me, fail? Impossible! We're changing tactics. Old hunting strategy â we stay still and the prey comes to you.
+
+TAG: Gaston_006_f
+The "prey" is a key... I don't see that strategy working.
+

@@ -1,0 +1,75 @@
+
+i
+FRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Any_CompletedRequestDescriptionПоговори с Мулан.
+�
+;Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_AvailableDescription�Мулан нуждается в вашей помощи, чтобы очистить дорогу и позволить кому-то забрать Армию Дракона.
+�
+@Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_CompletedStoryDescription|Мулан прибыла в Долину. Вы должны увидеть, как она к этому относится.
+O
+2Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_DisplayNameЗащита лагеря
+�
+URealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_RemoveBlocker01_StepDescription(<ActivityItem>Sand Piles</ActivityItem>.
+|
+URealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_RemoveBlocker02_StepDescription#<ActivityItem>Rocks</ActivityItem>.
+X
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_StepDescriptionУдалить:
+|
+ORealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step02_Possess01_StepDescription)<ActivityItem>Broken Logs</ActivityItem>.
+q
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step02_StepDescription(Собирайся и лови рыбу:
+�
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_StoryDescription�Она говорит вам, что пора использовать все навыки, которые вы накопили во время тренировки, чтобы помочь исправить ущерб с оползня.
+�
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group02_Step03_TalkToCharacter01_StepDescription+Возвращайтесь на Мулан.
+�
+VRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_Step04_GardeningPlant01_StepDescriptionjЗавод <ActivityItem>Мулан "Семя деревьев"</ActivityItem> в пятнах почвы.
+�
+RRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_Step16_WaterPlant02_StepDescription<Водить семена <ActivityItem>Tree</ActivityItem>.
+�
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_StoryDescription�Дорога сейчас чиста, но Мулан хочет убедиться, что она защищена от очередного оползня, посадив несколько деревьев, чтобы стабилизировать почву.
+z
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group05_Step06_TalkToCharacter02_StepDescriptionПоговори с Мулан.
+{
+ORealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_Possess02_StepDescription(<ActivityItem>Brown Sand</ActivityItem>.
+v
+ORealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_Possess03_StepDescription#<ActivityItem>Fiber</ActivityItem>.
+q
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_StepDescription(Собирающие материалы:
+�
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_StoryDescription�Лагерь теперь защищен от потенциальных оползней, но Мулан также хочет защитить его от наводнений.
+�
+QRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group07_Step08_CraftItem01_StepDescription\Подготовить несколько пакетов <ActivityItem>Sands</ActivityItem>.
+�
+FRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_Step09_ReadyDescriptionGВозьмите <ActivityItem>Sandbags</ActivityItem> на Мулан.
+�
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_Step09_StepDescriptioneУбедитесь, что в вашем списке есть <ActivityItem>Sandbags</ActivityItem>.
+�
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group09_Step10_FollowCharacter01_StepDescription3Следуйте за Мулан в палатки.
+|
+YRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group09_Step10_FollowCharacter01_TalkToDescriptionПоговори с Мулан.
+�
+SRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group10_Step11_Conditional01_StepDescription<Убедись, что все в порядке с Мушу.
+�
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group10_StoryDescriptionyТеперь, когда лагерь в безопасности, Мулан ищет новое приключение.
+z
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group11_Step12_TalkToCharacter03_StepDescriptionПоговори с Мулан.
+�
+URealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group12_Step13_PlaceBuilding01_StepDescriptionsВозвращайтесь в долину и место <ActivityItem>Мулан и Мушу House</ActivityItem>.
+�
+NRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group13_Step14_Unlock01_StepDescriptionhЗавершить строительство <ActivityItem>Мулан и Мушу House</ActivityItem>.
+�
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group14_Step15_UnlockCharacter01_StepDescription;Добро пожаловать Мулан в Долину.
+�
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+~
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group07_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group12_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+~
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group14_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+z
+9Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_StartRequestButton=<smallcaps>{title}</smallcaps><br> Что случилось?

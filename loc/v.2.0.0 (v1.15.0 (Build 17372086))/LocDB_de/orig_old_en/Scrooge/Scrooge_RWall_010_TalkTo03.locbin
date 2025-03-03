@@ -1,0 +1,25 @@
+
+U
+Scrooge_000_fDGreetings, {PlayerName}! And what can I do for you on this fair day?
+J
+Player_000_f:I need to find an interesting object for a friend, like...
+'
+Player_000_choice_000_fAn umbrella.
+/
+Player_000_choice_001_fA fire extinguisher.
+'
+Player_000_choice_002_fA parachute.
+A
+Scrooge_001_f0Tragically, I'm out of umbrellas for the season.
+(
+Scrooge_002_fPerhaps something else?
+]
+Scrooge_003_fLAh yes! I do have a <ActivityItem>Fire Extinguisher</ActivityItem> for sale.
+2
+Scrooge_004_f!Now, I cannae let it go for free.
+l
+Scrooge_005_f[But if you bring me a few <ActivityItem>Garnets</ActivityItem>, I'll gladly give it to you.
+P
+Scrooge_006_f?Och, the only parachute I have is made entirely of gold thread.
+V
+Scrooge_007_fEI'm afraid it's far out of your price range. Something else, perhaps?

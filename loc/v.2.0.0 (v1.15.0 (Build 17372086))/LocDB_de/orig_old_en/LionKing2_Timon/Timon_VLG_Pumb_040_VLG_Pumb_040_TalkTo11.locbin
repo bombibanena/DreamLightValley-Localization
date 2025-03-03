@@ -1,0 +1,18 @@
+
+L
+Timon_000_f=Nice work, {PlayerName}! We've put a real dent in this thing.
+g
+Timon_003_fXAnd, get this, I thought of a name for our valiant quest: Operation Night MIGHT. Get it?
+%
+Player_000_choice_000_f
+I love it!
+ 
+Player_000_choice_001_fEh...
+.
+Timon_004_fOf course you do; you're smart!
+i
+Timon_002_fZANYWAY, now we're gettin' reports of the Night Mites in <Lore>Prince Eric's Castle</Lore>.
+=
+Timon_001_f.C'mon, {PlayerName}, let's go stomp some bugs!
+5
+Timon_005_f&There's just no pleasing some folks...

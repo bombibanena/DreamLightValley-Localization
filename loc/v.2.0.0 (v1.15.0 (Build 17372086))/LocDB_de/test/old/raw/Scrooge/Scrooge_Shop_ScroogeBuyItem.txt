@@ -1,0 +1,21 @@
+TAG: Scrooge_000_f
+Посмотри на этот пункт, а ты? <ActivityItem>{ItemName}!</ActivityItem> "Штрафное приобретение для кого-то хорошего вкуса".
+
+TAG: Player_000_choice_000_f
+Купите его для {Price} <sprite="iconCurrencySoft" index=0>.
+
+TAG: Player_000_choice_001_f
+Я вернусь позже...
+
+TAG: Scrooge_002_f
+Это все твое, и очень мудрое вложение.
+
+TAG: Scrooge_003_f
+Да, но помните, что мои акции не всегда одинаковы.
+
+TAG: Scrooge_005_f
+Согласно моему каталогу, в настоящее время стоимость этого предмета оценивается в {Price} <sprite name=StarCoin>...
+
+TAG: Scrooge_004_f
+И, согласно моим записям, у тебя нет средств, чтобы купить его, {PlayerName}.
+

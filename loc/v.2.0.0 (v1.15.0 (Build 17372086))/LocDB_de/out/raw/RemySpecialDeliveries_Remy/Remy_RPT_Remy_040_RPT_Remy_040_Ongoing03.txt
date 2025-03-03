@@ -1,0 +1,18 @@
+TAG: Remy_001_f
+Have you been able to help Scar yet?
+
+TAG: Remy_002_f
+Remember: Our best bet is to give him some major <ActivityItem>Seafood Meals</ActivityItem> so he's too full to look elsewhere for food. *gulp*
+
+TAG: Remy_003_f
+It might be a challenge without the recipes, but I know you can handle it, {PlayerName}!
+
+TAG: Remy_004_f
+If you don't know how to make them... improvise! Experiment! Or see if you can find the recipes.
+
+TAG: Remy_005_f
+Some <ActivityItem>Sushi</ActivityItem> ought to fill up his highness enough to leave me alone.
+
+TAG: Remy_006_f
+Scar's looking for <ActivityItem>Desserts</ActivityItem>. Seems suspicious, but maybe he's suddenly gotten a sweet tooth...
+

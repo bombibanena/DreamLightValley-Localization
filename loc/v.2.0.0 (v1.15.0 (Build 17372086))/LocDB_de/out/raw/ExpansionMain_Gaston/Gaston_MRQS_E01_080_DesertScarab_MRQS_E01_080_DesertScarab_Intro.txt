@@ -1,0 +1,81 @@
+TAG: Gaston_003_f
+So... thirsty...
+
+TAG: Gaston_026_f
+You! Giant tankard of water, come over here!
+
+TAG: Player_000_choice_000_f
+You are SEVERELY dehydrated.
+
+TAG: Player_000_choice_001_f
+I'm not a tankard; I'm a person.
+
+TAG: Player_000_choice_002_f
+The sun has shriveled you like a raisin.
+
+TAG: Gaston_004_f
+That had better mean devastatingly handsome!
+
+TAG: Gaston_014_f
+Snap? Snap peas? Oh, I'd even eat a vegetable right now!
+
+TAG: Player_001_choice_000_f
+Vegetables? How long have you been out here?!
+
+TAG: Player_001_choice_001_f
+Wow, this is worse than I thought.
+
+TAG: Player_001_choice_002_f
+I need answers!
+
+TAG: Gaston_000_f
+Relax, okay? My name's {PlayerName}. I'm here to help you.
+
+TAG: Gaston_027_f
+You're... real? HA! You're real!
+
+TAG: Gaston_008_f
+Wait â I don't need help â you need MY help! And I'll only help for water... or jewels. That strange Mirage Wizard needs a jewel...
+
+TAG: Gaston_010_f
+Jewel?! Gaston, I'm looking for something called a Jewel of Time! Do you know where it is?
+
+TAG: Gaston_011_f
+No... or... maybe... I can't recall. But I do know the answer lies at the bottom of a cold, refreshing drink!
+
+TAG: Gaston_012_f
+Gaston, I know you're thirsty, and I'm going to help you with that. But I need your help, too. All of Eternity Isle is at stake.
+
+TAG: Gaston_013_f
+You need to snap out of it!
+
+TAG: Gaston_017_f
+Can't talk... too parched! I'm wasting away!
+
+TAG: Gaston_020_f
+If only I had some of those <Lore>green spiky leaves</Lore>...
+
+TAG: Gaston_021_f
+You know the ones. Tastier than a cactus and just as full of water!
+
+TAG: Gaston_022_f
+I have no idea what you're taking about, Gaston.
+
+TAG: Gaston_023_f
+Oh, and to finish off the meal...
+
+TAG: Gaston_024_f
+One of those <Lore>flexing, spider-like creatures that live in quicksand</Lore> and some <Lore>little brown sweet raisin things</Lore>.
+
+TAG: Gaston_025_f
+Okay, clearly <Lore>I need to help YOU first if I'm to have any hope of finding the Jewel of Time</Lore>.
+
+TAG: Gaston_001_f
+I'll be back with the <Lore>food you asked for</Lore>. Just hang on.
+
+TAG: Gaston_005_f
+Don't be ridiculous. I'm not imagining things. I've never imagined a thing in my life!
+
+TAG: Gaston_006_f
+No! No! Not my intimidating muscles! You take that back!
+

@@ -1,0 +1,63 @@
+TAG: Village!LionKing!VLG_Simb_030_Any_CompletedRequestDescription
+Talk to Simba.
+
+TAG: Village!LionKing!VLG_Simb_030_AvailableDescription
+Simba wants to learn more about his past in Dreamlight Valley. He asks for your help. The problem is that the only reliable source around here is Scar. You decide for everybody's sake that you'll go talk to him.
+
+TAG: Village!LionKing!VLG_Simb_030_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Scar.
+
+TAG: Village!LionKing!VLG_Simb_030_Group02_Step02_VisitArea01_StepDescription
+Search the Sunlit Plateau's Mines for a hidden entrance.
+
+TAG: Village!LionKing!VLG_Simb_030_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to Merlin about what you saw.
+
+TAG: Village!LionKing!VLG_Simb_030_Group05_Step05_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!VLG_Simb_030_Group06_Step06_CraftItem01_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!VLG_Simb_030_Group08_Step08_BringItem01_StepDescription
+Get the {itemName} from the Alchemist's Table in the Herbalist Room.
+
+TAG: Village!LionKing!VLG_Simb_030_Group09_Step09_GardeningPlant01_StepDescription
+Plant the <ActivityItem>Dreamlight Tree Seed</ActivityItem> near the pond on the Sunlit Plateau.
+
+TAG: Village!LionKing!VLG_Simb_030_Group11_Step11_MakeGarden01_StepDescription
+Tend to the <ActivityItem>Dreamlight Tree</ActivityItem> until it's fully grown.
+
+TAG: Village!LionKing!VLG_Simb_030_Group12_Step12_VisitArea02_StepDescription
+Go see the <ActivityItem>Dreamlight Tree</ActivityItem>.
+
+TAG: Village!LionKing!VLG_Simb_030_Group13_Step13_Listen01_StepDescription
+Listen to Simba and Scar's conversation.
+
+TAG: Village!LionKing!VLG_Simb_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I start searching?
+
+TAG: Village!LionKing!VLG_Simb_030_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Got an update for you!
+
+TAG: Village!LionKing!VLG_Simb_030_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Another update for you!
+
+TAG: Village!LionKing!VLG_Simb_030_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Almost finished...
+
+TAG: Village!LionKing!VLG_Simb_030_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!LionKing!VLG_Simb_030_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What now?
+
+TAG: Village!LionKing!VLG_Simb_030_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!LionKing!VLG_Simb_030_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!LionKing!VLG_Simb_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

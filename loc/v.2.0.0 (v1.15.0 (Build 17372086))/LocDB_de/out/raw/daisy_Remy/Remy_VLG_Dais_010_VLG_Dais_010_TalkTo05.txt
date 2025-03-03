@@ -1,0 +1,21 @@
+TAG: Remy_002_f
+Let me guess, {PlayerName}. You're here for Daisy's mocha order?
+
+TAG: Player_000_choice_000_f
+Are you psychic?
+
+TAG: Player_000_choice_001_f
+How did you know?
+
+TAG: Player_000_choice_002_f
+Yes! Coffee me, chef!
+
+TAG: Remy_003_f
+You could say I felt it in my whiskers.
+
+TAG: Remy_007_f
+Here you go. Say "hi" to Daisy and Donald for me!
+
+TAG: Remy_006_f
+Will do. I just finished making them.
+

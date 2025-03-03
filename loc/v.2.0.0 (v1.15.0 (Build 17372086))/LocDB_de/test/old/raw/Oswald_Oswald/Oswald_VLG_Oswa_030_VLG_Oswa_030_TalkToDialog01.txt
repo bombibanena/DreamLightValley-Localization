@@ -1,0 +1,21 @@
+TAG: Oswald_001_f
+Ладно, {PlayerName}, ты готов проиграть?
+
+TAG: Oswald_002_f
+Давай не будем забегать вперед.
+
+TAG: Oswald_003_f
+Я создал в общей сложности контрольно-пропускные пункты <Lore>8, чтобы пересечь</Lore>!
+
+TAG: Oswald_004_f
+Гонка начинается здесь, отправляется на <Lore>the Wild Tangle</Lore>, и через <Lore>th Glittering Dunes</Lore>.
+
+TAG: Oswald_005_f
+И финишная линия будет в <Lore>the Cave of Wonders</Lore>.
+
+TAG: Oswald_006_f
+Звучит неплохо! Пусть победит лучший гонщик!
+
+TAG: Oswald_007_f
+3... 2... Уходи!
+

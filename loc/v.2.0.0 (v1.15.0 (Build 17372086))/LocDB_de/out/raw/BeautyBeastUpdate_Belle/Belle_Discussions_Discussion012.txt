@@ -1,0 +1,36 @@
+TAG: Belle_000_f
+{PlayerName}, do you have a moment? I'm worried about the Beast.
+
+TAG: Belle_001_f
+Do you think he'll find friends here? I have, and I really want that for him too.
+
+TAG: Player_000_choice_000_f
+I'm sure he will!
+
+TAG: Player_000_choice_001_f
+It may take time...
+
+TAG: Player_000_choice_002_f
+I'll help him!
+
+TAG: Belle_002_f
+I hope so. He could really use a friend.
+
+TAG: Belle_003_f
+At his castle, he had the servants for company, but now? Well...
+
+TAG: Belle_004_f
+He could use someone who's just a friend.
+
+TAG: Belle_005_f
+You're right. These things often do take time.
+
+TAG: Belle_006_f
+It certainly took me a while to see his good side and to really like him.
+
+TAG: Belle_007_f
+Will you? Oh, thank you. That would be wonderful.
+
+TAG: Belle_008_f
+And I'll help too.
+

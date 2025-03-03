@@ -1,0 +1,102 @@
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Any_CompletedRequestDescription
+Ask if Tiana is satisfied with Little Louis's new home.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_AvailableDescription
+Tiana seems interested in the Glade of Trust â talk to her to find out why.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_CompletedStoryDescription
+Thanks to you, Little Louis is now free and has a cute little House in which to live! Hopefully Tiana is satisfied with how the whole situation shook out.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_DisplayName
+Little Louis's Big Break
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group01_Step01_FollowCharacter01_StepDescription
+Follow Tiana into the Glade of Trust.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group01_Step01_FollowCharacter01_TalkToDescription
+Talk to {TargetNPC} about Little Louis.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group02_Step02_VisitArea01_StepDescription
+Head inside the Giant Willow Tree to ask Mother Gothel about Little Louis.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group02_StoryDescription
+Tiana made friends with one of the crocs from the Glade of Trust, but he seems to have gone missing! Maybe Mother Gothel can shed some light on the situation...
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group03_Step03_TalkToCharacter01_StepDescription
+Little Louis is caged?! Ask Mother Gothel why.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_StepDescription
+Gather Materials for Mother Gothel's new garden.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_StoryDescription
+Mother Gothel has imprisoned poor Little Louis for the crime of destroying her garden! If you make her a new one, maybe she'll be inclined to release the mischievous crocodile.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_GardeningPlant01_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_GardeningPlant02_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_GardeningPlant03_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_StepDescription
+Replant the garden seeds.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step06_Decorate01_StepDescription
+Protect the seedlings with a new fence.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group05_StepDescription
+Rebuild Mother Gothel's Garden in the Glade of Trust.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group06_Step07_TalkToCharacter02_StepDescription
+See if {TargetNPC} likes her new garden enough to free Little Louis.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group07_Step08_Conditional01_StepDescription
+Open the cage in Mother Gothel's House to free Little Louis.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group08_Step09_TalkToCharacter03_StepDescription
+Little Louis ran for it! Talk to {TargetNPC} about the newly freed croc.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess05_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess06_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess07_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess08_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess09_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_StepDescription
+Gather materials for Little Louis's new House.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_StoryDescription
+Little Louis is free! Tiana is overjoyed and now it's just a matter of making him a nice little House so he can stay out of trouble.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group10_Step11_CraftItem01_StepDescription
+Craft a {itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_Group11_Step12_Decorate02_StepDescription
+Place the {itemName} in the Glade of Trust.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

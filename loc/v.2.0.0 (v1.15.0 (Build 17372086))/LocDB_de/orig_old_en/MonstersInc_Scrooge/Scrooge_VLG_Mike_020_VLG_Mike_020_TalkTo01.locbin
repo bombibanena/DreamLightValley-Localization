@@ -1,0 +1,39 @@
+
+C
+Scrooge_000_f2Why, {PlayerName}, what's this you're bringin' me?
+b
+Scrooge_001_fQIt's the Valley's hottest new cologne! Designed by Mike Wazowski and yours truly.
+(
+Scrooge_002_fGo on, give it a whiff!
+ 
+Scrooge_003_fWhy, certainly!
+"
+Scrooge_004_f*sniff sniff* ...
+#
+Scrooge_005_fWhat do you think?
+T
+Scrooge_006_fC{PlayerName}... I cannae find the words for how HORRID this smells!
+0
+Player_000_choice_000_fOh, that's a shame...
+?
+Player_000_choice_001_f$Try and find some. We want feedback!
+Q
+Scrooge_008_f@Wait just a moment, {PlayerName}; I think I do have the words...
+
+Scrooge_018_fnTry <Lore>Scar</Lore> and <Lore>Vanellope</Lore>. That seems like a disparate and representative sample to me!
+n
+Scrooge_009_f]It smells worse than when my three great-nephews were all in nappies and got the stomach flu!
+
+Scrooge_010_fOh...
+O
+Scrooge_011_f>AND it smells like Goofy left his catch in the sun for a week!
+0
+Scrooge_013_fActually, funny you say thatâ€”
+/
+Scrooge_014_fStill... I am a businessman...
+—
+Scrooge_015_f…If ya can point me to a Villager that likes wearing your cologne, I'll consider stocking it. IF you put a triple seal on the bottles!
+9
+Scrooge_016_f(The customer is always right, after all!
+,
+Scrooge_017_fOkay, I can work with this.

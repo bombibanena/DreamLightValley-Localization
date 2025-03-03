@@ -1,0 +1,30 @@
+TAG: Goofy_000_f
+Well, would ya look at all of these!
+
+TAG: Goofy_001_f
+Thanks, {PlayerName}. It's gonna be a lot easier to catch 'em now that I know the tricks.
+
+TAG: Goofy_002_f
+But say... I don't think I know any recipes for this stuff.
+
+TAG: Player_000_choice_000_f
+Robot Fish Stew?
+
+TAG: Player_000_choice_001_f
+Dunebopper Sandwich?
+
+TAG: Player_000_choice_002_f
+Prisma Shrimp Pie?
+
+TAG: Goofy_004_f
+A-hyuck, that might be somethin' worth tryin'!
+
+TAG: Goofy_005_f
+How 'bout I take half the fish and see what I can come up with, and you keep the other half and do the same?
+
+TAG: Goofy_006_f
+I bet <Lore>Remy'd have some tips</Lore> if you wanted to ask him.
+
+TAG: Goofy_007_f
+Oh, and here â I got some Ingredients to get ya started!
+

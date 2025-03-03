@@ -1,0 +1,36 @@
+TAG: Goofy_001_f
+Hiya, {PlayerName}! It is true you and Aladdin are buildin' a marketplace for the Valley?
+
+TAG: Player_000_choice_000_f
+Any advice on running a successful stall?
+
+TAG: Player_000_choice_001_f
+Are you interested in having a Stall at the market?
+
+TAG: Player_000_choice_002_f
+How'd you know what Aladdin and I are up to?
+
+TAG: Goofy_003_f
+Gawrsh, I guess the best thing to do is get stuff local, so everything's fresh!
+
+TAG: Goofy_004_f
+Oh, and offer lots of variety, so folks can get whatever they need.
+
+TAG: Goofy_002_f
+Absotively posolutely! Count me in!
+
+TAG: Goofy_005_f
+I'll be sure to add one of your Stalls to the market when the time comes, if I can.
+
+TAG: Goofy_000_f
+Oh, I hear things around the ol' vegetable Stall.
+
+TAG: Goofy_006_f
+Folks sure are excited about what you're doin'.
+
+TAG: Goofy_007_f
+And I just wanna say: Count me in!
+
+TAG: Goofy_009_f
+Great!
+

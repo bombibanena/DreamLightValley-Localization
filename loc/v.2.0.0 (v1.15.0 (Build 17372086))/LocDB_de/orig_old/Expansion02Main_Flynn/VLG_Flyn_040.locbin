@@ -1,0 +1,65 @@
+
+{
+BVillage!Tangled!Flynn!VLG_Flyn_040_Any_CompletedRequestDescription5Проверь Флин, как у него дела.
+�
+7Village!Tangled!Flynn!VLG_Flyn_040_AvailableDescription�Когда его приключение закончилось, Флин понял, что ему нужно что-то сделать, чтобы поделиться всем, через что он прошел.
+b
+.Village!Tangled!Flynn!VLG_Flyn_040_DisplayName0Приключения Флин Всадника
+v
+JVillage!Tangled!Flynn!VLG_Flyn_040_Group01_Step01_Listen01_StepDescription(Слушайте Флин и Белль.
+�
+;Village!Tangled!Flynn!VLG_Flyn_040_Group01_StoryDescription�При поддержке {PlayerName} Флин решил написать книгу своих приключений, однако, хотя он и красавчик в лице и умный в мыслях, у него не хватало способа получить письменное слово. {PlayerName} пошёл просить библиофила Белль о помощи.
+t
+SVillage!Tangled!Flynn!VLG_Flyn_040_Group02_Step02_TalkToCharacter01_StepDescriptionПоговори с Флин.
+m
+AVillage!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_StepDescription(Сфотографируйте Флин:
+l
+OVillage!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_TakePicture01_StepDescriptionНа горе Олимп.
+j
+OVillage!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_TakePicture02_StepDescriptionВ Диком лесу.
+�
+OVillage!Tangled!Flynn!VLG_Flyn_040_Group03_Step03_TakePicture03_StepDescription9В фонтане в Бинде, за Лорехером.
+t
+SVillage!Tangled!Flynn!VLG_Flyn_040_Group04_Step04_TalkToCharacter02_StepDescriptionПоговори с Флин.
+�
+AVillage!Tangled!Flynn!VLG_Flyn_040_Group05_Step05_StepDescription�Проверьте почтовый ящик на <ActivityItem> Business Cards</ActivityItem> у потенциальных издателей.
+\
+MVillage!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_BringItem01_StepDescription{ItemName}.
+\
+MVillage!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_BringItem02_StepDescription{ItemName}.
+�
+BVillage!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_ReadyDescriptionSПринесите карты <ActivityItem> Business</ActivityItem> на Флин.
+�
+AVillage!Tangled!Flynn!VLG_Flyn_040_Group06_Step06_StepDescriptionQУбедитесь, что у вас в списке есть следующее:
+�
+SVillage!Tangled!Flynn!VLG_Flyn_040_Group07_Step07_TalkToCharacter03_StepDescription?Поговори с Скрудж Макдак МакДаком.
+�
+;Village!Tangled!Flynn!VLG_Flyn_040_Group07_StoryDescription�С течением времени книга Флин начала формироваться. {PlayerName} предложила специальное мероприятие для подписания книги, возможность Флин поделиться своими историями с другими лично.
+Z
+KVillage!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess01_StepDescription{itemName}.
+Z
+KVillage!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess02_StepDescription{itemName}.
+Z
+KVillage!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess03_StepDescription{itemName}.
+Z
+KVillage!Tangled!Flynn!VLG_Flyn_040_Group08_Step08_Possess04_StepDescription{itemName}.
+�
+PVillage!Tangled!Flynn!VLG_Flyn_040_Group08_Step09_PurchaseItem01_StepDescriptionMПрикажи чернилам и Квиллу с Скрудж Макдак.
+u
+:Village!Tangled!Flynn!VLG_Flyn_040_Group08_StepDescription7Соберите следующие материалы:
+s
+MVillage!Tangled!Flynn!VLG_Flyn_040_Group09_Step10_CraftItem01_StepDescription"Подготовьте {itemName}.
+�
+LVillage!Tangled!Flynn!VLG_Flyn_040_Group10_Step11_Decorate01_StepDescriptionBПоместите {itemName} где угодно в долину.
+�
+IVillage!Tangled!Flynn!VLG_Flyn_040_Group11_Step12_Party01_StepDescriptionIПрисоединяйтесь к книге, подписывающей.
+t
+SVillage!Tangled!Flynn!VLG_Flyn_040_Group12_Step13_TalkToCharacter04_StepDescriptionПоговори с Флин.
+~
+JVillage!Tangled!Flynn!VLG_Flyn_040_Group13_Step14_Listen02_StepDescription0Послушай Флин и Лорестера.
+�
+;Village!Tangled!Flynn!VLG_Flyn_040_Group13_StoryDescription�Приключения Флин Rider были огромным успехом! Флин чувствовал себя настоящим героем в окружении обожающих фанатов!
+�
+MVillage!Tangled!Flynn!VLG_Flyn_040_Group14_Step15_VisitArea01_StepDescriptionK{Placeholder} Заходите в магазин Скрудж Макдак.
+f
+5Village!Tangled!Flynn!VLG_Flyn_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

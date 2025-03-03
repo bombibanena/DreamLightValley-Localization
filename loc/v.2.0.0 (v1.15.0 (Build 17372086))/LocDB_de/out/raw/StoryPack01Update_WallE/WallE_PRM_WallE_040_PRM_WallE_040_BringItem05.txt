@@ -1,0 +1,123 @@
+TAG: WallE_000_f
+Ooh, looks like we're here in the nick of time.
+
+TAG: WallE_001_f
+That poor plant!
+
+TAG: WallE_002_f
+Aww...
+
+TAG: WallE_003_f
+Let's see, during the last story time, we learned about our hero.
+
+TAG: WallE_004_f
+A hard worker trying to improve their home, only too aware that something was missing in their life.
+
+TAG: WallE_005_f
+*sigh*
+
+TAG: WallE_006_f
+But let's see what happens next!
+
+TAG: WallE_007_f
+"One day, the robot was graced by a vision of beauty!"
+
+TAG: WallE_008_f
+Oh!
+
+TAG: WallE_009_f
+"As glistening and clean as the robot was worn and soiled by their labors."
+
+TAG: WallE_010_f
+"The robot was astounded â they had never seen anything so lovely!"
+
+TAG: WallE_011_f
+Aww...
+
+TAG: WallE_012_f
+"They gave the vision a gift â their most rare and precious treasure, a..."
+
+TAG: WallE_013_f
+Hmm, this part is illegible. But I think the gift should be...
+
+TAG: Player_000_choice_000_f
+A magical ring!
+
+TAG: Player_000_choice_001_f
+A fantastic sword!
+
+TAG: Player_000_choice_002_f
+A beautiful flower!
+
+TAG: WallE_014_f
+Wow!
+
+TAG: WallE_015_f
+"But a terrible spell was cast on the vision of beauty!"
+
+TAG: WallE_016_f
+AH!
+
+TAG: WallE_017_f
+Hey, I'm just reading what's written down!
+
+TAG: WallE_018_f
+"And the robot wept to see their heart stolen from them."
+
+TAG: WallE_026_f
+I gotta say, there's something about this story that feels oddly familiar.
+
+TAG: WallE_027_f
+I can't put my finger on it though â maybe if we find the next part, it will become clearer!
+
+TAG: WallE_028_f
+I'll check the <ActivityItem>Sunlit Plateau</ActivityItem> and the <ActivityItem>Frosted Heights</ActivityItem> next â maybe the last batch of pages will be around there!
+
+TAG: WallE_029_f
+Whoo!
+
+TAG: WallE_019_f
+No!
+
+TAG: WallE_020_f
+Yeah, it is a little sad. But sometimes stories have sad parts so that the hero's success is even greater!
+
+TAG: WallE_021_f
+Huh?
+
+TAG: WallE_022_f
+I'm afraid that's all the pages I found.
+
+TAG: WallE_023_f
+*sigh*
+
+TAG: WallE_024_f
+Your plant is looking better, though! I bet you it can hang on while I find the last part of the story.
+
+TAG: WallE_025_f
+Directive!
+
+TAG: WallE_030_f
+"And the knight wept to see their heart stolen from them."
+
+TAG: WallE_031_f
+"And the ruler wept to see their heart stolen from them."
+
+TAG: WallE_032_f
+"As glistening and bright as the knight was worn and soiled by their labors."
+
+TAG: WallE_033_f
+"The knight was astounded â they had never seen anything so lovely in their long life!"
+
+TAG: WallE_034_f
+"As glistening and bright as the ruler was worn and soiled by their labors."
+
+TAG: WallE_035_f
+"The ruler was astounded â they had never seen anything so lovely in their long life!"
+
+TAG: WallE_036_f
+"One day, the knight was graced by a vision of beauty!"
+
+TAG: WallE_037_f
+"One day, the ruler was graced by a vision of beauty!"
+

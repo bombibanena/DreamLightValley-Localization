@@ -1,0 +1,33 @@
+TAG: FairyGodMother_000_f
+Oh, thank you, {PlayerName}.
+
+TAG: FairyGodMother_001_f
+The celebration was so kind of you and Merlin. It was such fun. And all the guests told me the same thing...
+
+TAG: FairyGodMother_002_f
+"If you find yourself most stressed, you must simply learn to rest." Something we both should follow, I suspect.
+
+TAG: Player_000_choice_000_f
+I always make sure I'm well-rested.
+
+TAG: Player_000_choice_001_f
+I should learn to do that too.
+
+TAG: Player_000_choice_002_f
+I never need rest.
+
+TAG: FairyGodMother_003_f
+Which is why you are such a treasure to us, dear.
+
+TAG: FairyGodMother_004_f
+You take wonderful care of the Village and the Villagers. Now, what else did I... Oh yes, your gift! I want you to have this...
+
+TAG: FairyGodMother_005_f
+And I have one last surprise for you as well. Follow me. We're going back to where it all started.
+
+TAG: FairyGodMother_006_f
+I recommend sitting on the Beach and watching the water. It'll make you feel better in an instant.
+
+TAG: FairyGodMother_007_f
+Careful, my dear. You're no good to anyone if you're exhausted. You must take care of yourself. After all...
+

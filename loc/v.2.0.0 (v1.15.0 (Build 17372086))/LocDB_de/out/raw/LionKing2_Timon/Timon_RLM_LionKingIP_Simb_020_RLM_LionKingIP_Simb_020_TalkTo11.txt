@@ -1,0 +1,12 @@
+TAG: Timon_000_f
+*yawn* I'm beat! Hope you're ready to get some rest, {PlayerName}.
+
+TAG: Timon_001_f
+I gotta talk to Pumbaa about your lesson for tomorrow.
+
+TAG: Timon_002_f
+Would ya mind <Lore>shoveling up some leaves for our beds</Lore>?
+
+TAG: Timon_003_f
+Okay Timon, I'm on the case!
+

@@ -1,0 +1,78 @@
+TAG: Mushu_003_f
+Okay, okay, I'm gonna drop the Sergeant Mushu stuff so we can just talk.
+
+TAG: Mushu_004_f
+Because I'm telling you, {PlayerName}, we have A LOT to do!
+
+TAG: Mushu_005_f
+We gotta come up with a defense system that'll make any invaders who wanna attack China turn around and amscray.
+
+TAG: Mushu_007_f
+Do you have an idea of what you want to do?
+
+TAG: Mushu_008_f
+I... don't. See, I'm more of a "personal Guardian" and not so much an "all of China" Guardian.
+
+TAG: Mushu_009_f
+I want something that'll strike fear in the mind of any invader and pride in the heart of any defender. Something real impressive.
+
+TAG: Player_000_f
+Why not a Dragon Army of statues? With you as the model?
+
+TAG: Player_000_choice_000_f
+You terrified me when I first saw you.
+
+TAG: Player_000_choice_001_f
+You're fierce enough.
+
+TAG: Player_000_choice_002_f
+You're perfectly portable!
+
+TAG: Mushu_011_f
+Of course I did. But no need to butter me up, {PlayerName}.
+
+TAG: Mushu_018_f
+Well, look at you, "everything's under control" recruit! I'm impressed.
+
+TAG: Mushu_019_f
+How long do you need me to pose to capture my likeness for these things? Three hours? Five?
+
+TAG: Mushu_020_f
+Just a couple of seconds...
+
+TAG: Mushu_021_f
+What?!
+
+TAG: Mushu_002_f
+I'm going to <Lore>take a picture of you, Mushu</Lore>. I've got this little machine to make instant portraits. I'll show you.
+
+TAG: Mushu_014_f
+Let me think... Yes! A <ActivityItem>Dragon Army</ActivityItem> is perfect!
+
+TAG: Mushu_015_f
+And it won't be that hard. We can find everything we need right here. Some <ActivityItem>Firewood</ActivityItem> as a combustible...
+
+TAG: Mushu_000_f
+Some <ActivityItem>Camp Mud</ActivityItem> and <ActivityItem>Buckets of Water</ActivityItem> to make the Dragon Statues.
+
+TAG: Mushu_001_f
+PLUS, I saw some <ActivityItem>Red Spider Lilies</ActivityItem> and <ActivityItem>Chrysanthemums</ActivityItem> that'd make pretty nice paint.
+
+TAG: Mushu_006_f
+It's just too bad the dragons won't breathe fire like I do...
+
+TAG: Mushu_010_f
+You know, I might be able to help with that.
+
+TAG: Mushu_016_f
+You could?! That would be amazing. Incredible! EPIC! Wait â how're you gonna do that?
+
+TAG: Mushu_017_f
+Let's just say I have a magic touch... and something called <ActivityItem>Dream Shards</ActivityItem>. All you'll have to do is breath fire on the statues when they're done.
+
+TAG: Mushu_012_f
+True, I AM fierce.
+
+TAG: Mushu_013_f
+THAT'S a dig at my size that I will ignore because this idea is too good to pass up.
+

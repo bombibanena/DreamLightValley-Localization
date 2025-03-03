@@ -1,0 +1,33 @@
+
+M
+PrinceEric_000_f9Hey, {PlayerName}. I had a thought â you know forks?
+-
+Player_000_choice_000_fLike, the cutlery?
+4
+Player_000_choice_001_fYes. I am aware of forks.
+4
+Player_000_choice_002_fYou mean "dinglehoppers"?
+.
+PrinceEric_002_fYes. Forks, as in cutlery.
+H
+PrinceEric_003_f4They have kind of a boring name, don't they? "Fork."
+r
+PrinceEric_006_f^Ariel calls them "dinglehoppers." That's way more fun. Do you think we should change the name?
+4
+Player_001_choice_000_fSounds kind of confusing.
+B
+Player_001_choice_001_f'I think you're very in love with Ariel.
+)
+PrinceEric_007_fI guess you're right.
+E
+PrinceEric_008_f1But I still think "dinglehopper" is a great name.
+#
+PrinceEric_009_fHa. Yeah, I am.
+@
+PrinceEric_010_f,Maybe changing the name isn't the best idea.
+I
+PrinceEric_011_f5I just love how excited she gets about dinglehoppers.
+V
+PrinceEric_004_fBSorry, that was a silly question. Of course you're aware of forks.
+<
+PrinceEric_005_f(Ha! Yes. Exactly. I was just thinking...

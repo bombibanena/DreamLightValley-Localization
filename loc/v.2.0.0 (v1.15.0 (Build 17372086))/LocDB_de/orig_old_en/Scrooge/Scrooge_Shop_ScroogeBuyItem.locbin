@@ -1,0 +1,15 @@
+
+…
+Scrooge_000_ftLooking at this item, are ya? <ActivityItem>{ItemName}!</ActivityItem> A fine acquisition for someone of good taste.
+R
+Player_000_choice_000_f7Buy it for {Price} <sprite="iconCurrencySoft" index=0>.
+2
+Player_000_choice_001_fI'll come back later...
+C
+Scrooge_002_f2It's all yours. And a very wise investment indeed.
+C
+Scrooge_003_f2Aye, but remember: My stock isn't always the same.
+l
+Scrooge_005_f[According to my catalog, this item is currently valued at {Price} <sprite name=StarCoin>...
+–
+Scrooge_004_f„And according to my records, you don't have the funds to purchase it, {PlayerName}. Come back when you do and I'll be happy to help.

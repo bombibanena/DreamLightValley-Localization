@@ -1,0 +1,37 @@
+
+Ü
+Flynn_015_fwWell, {PlayerName}, I have one thing to say... Do not hire whoever planned that party to take care of my next birthday.
+&
+Flynn_016_fThat was seriously odd.
+B
+Player_000_choice_000_f'I liked it. But I'm kind of odd myself.
+[
+Player_000_choice_001_f@Got it. Cake, candles, and some pointy hats are more your style.
+X
+Flynn_017_fINoted! I'll remember that next time we throw a celebration in your honor.
+@
+Flynn_019_f1And for what it's worth... you're MY kind of odd.
+Ä
+Flynn_003_fqIn any case, I did some scouting and it looks like that beanstalk to Maleficent's castle just grew a little more!
+p
+Flynn_004_faWhich means it's long enough now for us to <Lore>climb it</Lore> to get into Maleficent's castle.
+@
+Flynn_007_f1You already cleared all the ink blocking the way.
+j
+Flynn_008_f[Guess all that's left to do is head inside and... well... <Lore>confront Maleficent</Lore>.
+>
+Flynn_009_f/Whatever happens... I'm with you, {PlayerName}.
+M
+Flynn_010_f>But first, you'll have to clear all that ink blocking the way.
+o
+Flynn_011_f`Once you do that, there won't be anything stopping you from <Lore>confronting Maleficent</Lore>.
+}
+Flynn_005_fnIt looks like we still have to <Lore>find one more Fairy Tale Trial</Lore> before we can climb all the way up.
+V
+Flynn_012_fGMaybe we should <Lore>check out the Fallen Fortress</Lore> to the west?
+a
+Flynn_014_fRYou'll have to <Lore>clear away all the ink</Lore> around the place first, though.
+ê
+Flynn_013_fÄYou already cleared away the ink blocking <Lore>the Fallen Fortress</Lore>. Let's go look around there for the Fairy Tale Trial.
+Z
+Flynn_018_fKHuh. I've never had a party like that... It doesn't sound half bad, though.

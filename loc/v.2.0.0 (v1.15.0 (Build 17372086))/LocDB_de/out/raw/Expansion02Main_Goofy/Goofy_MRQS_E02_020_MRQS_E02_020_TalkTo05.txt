@@ -1,0 +1,45 @@
+TAG: Goofy_000_f
+Gawrsh, {PlayerName}, what is this place? It sure is pretty.
+
+TAG: Player_000_choice_000_f
+It's called the Storybook Vale.
+
+TAG: Player_000_choice_001_f
+Maleficent and Hades' playground...
+
+TAG: Player_000_choice_002_f
+Another big mess for me to sort out.
+
+TAG: Goofy_001_f
+Ya know, I think I'm startin' to remember it! The place with all the books!
+
+TAG: Goofy_002_f
+I hope at least a couple of 'em are about fishin'. A-hyuk.
+
+TAG: Goofy_006_f
+Uncle Scrooge said I oughta "use this place as an opportunity to expand my business."
+
+TAG: Goofy_007_f
+But I don't know what I'd even sell here in my Stall.
+
+TAG: Goofy_010_f
+I guess I should start by findin' out what kinds of <ActivityItem>Fish</ActivityItem> swim in the waters around here.
+
+TAG: Goofy_011_f
+Then I can figure out what kinds of spices and vegetables would go with 'em!
+
+TAG: Goofy_008_f
+You seem to know your way around pretty well. Think you could help me <Lore>catch some of the fish</Lore> here?
+
+TAG: Goofy_009_f
+I'll try catchin' some too, but... well, you know my luck with fishin' rods!
+
+TAG: Goofy_003_f
+Yikes! Maleficent and Hades. I was wonderin' where those two went.
+
+TAG: Goofy_004_f
+If you see 'em around, let me know so I can go the other way.
+
+TAG: Goofy_005_f
+Gee, I thought you had enough of those back in the Valley!
+

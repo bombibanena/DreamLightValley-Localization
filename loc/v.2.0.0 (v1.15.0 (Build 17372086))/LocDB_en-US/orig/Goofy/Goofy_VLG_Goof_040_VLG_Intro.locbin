@@ -1,0 +1,21 @@
+
+U
+Goofy_000_fFHey there, {PlayerName}! I wanna invite my pal Mickey over for dinner.
+6
+Goofy_001_f'Would you help me get everything ready?
+-
+Player_000_choice_000_fSure, sounds nice!
+>
+Player_000_choice_001_f#Only if you promise not to goof up.
+;
+Player_000_choice_002_f Not now. Sorry, I've got to run!
+=
+Goofy_002_f.Oh boy! This is gonna be the best dinner ever!
+_
+Goofy_005_fPI wanna make us a <ActivityItem>Bouillabaisse</ActivityItem> with fresh Seafood.
+®
+Goofy_006_fžLet's go to the Beach and catch some fresh <ActivityItem>Scallops</ActivityItem>, <ActivityItem>Shrimp</ActivityItem>, and <ActivityItem>Clams</ActivityItem>.
+?
+Goofy_003_f0I can never promise that, {PlayerName}. A-hyuck!
+@
+Goofy_004_f1Okey dokey! Let me know when you've got the time.

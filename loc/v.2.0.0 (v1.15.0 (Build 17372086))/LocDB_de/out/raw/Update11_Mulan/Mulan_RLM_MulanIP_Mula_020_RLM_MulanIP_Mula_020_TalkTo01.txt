@@ -1,0 +1,36 @@
+TAG: Mulan_004_f
+{PlayerName}, the road and the river look great. Thank you!
+
+TAG: Mulan_005_f
+I noticed a lot of damage and weak points in the perimeter. The camp is not prepared for another landslide.
+
+TAG: Mulan_006_f
+I'd like to make sure it doesn't happen again.
+
+TAG: Player_000_choice_000_f
+That's a great idea.
+
+TAG: Player_000_choice_001_f
+Where should we start?
+
+TAG: Player_000_choice_002_f
+Are you sure it's necessary?
+
+TAG: Mulan_007_f
+I'm glad you agree.
+
+TAG: Mulan_008_f
+Let's plant some <ActivityItem>Trees</ActivityItem> to repair some of the damage from the landslide.
+
+TAG: Mulan_000_f
+I'm gonna dig some holes for the seeds and let you take care of the actual planting. I'm not much of a gardener.
+
+TAG: Mulan_010_f
+Here are some <ActivityItem>Tree Seeds</ActivityItem>.
+
+TAG: Mulan_011_f
+All right, I'll <Lore>handle the planting and the watering</Lore>!
+
+TAG: Mulan_009_f
+As Captain Shang says, "better to be over-prepared than under the heel of your problem."
+

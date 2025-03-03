@@ -1,0 +1,93 @@
+TAG: JackSkellington_000_f
+I am practicing my Shakespeare, {PlayerName}. Would you like to hear a bit?
+
+TAG: Player_000_choice_000_f
+Not now, thanks.
+
+TAG: Player_000_choice_001_f
+Sure!
+
+TAG: JackSkellington_001_f
+Verily!
+
+TAG: JackSkellington_002_f
+I recite chilling lines from various plays. Ahem â let me begin...
+
+TAG: JackSkellington_003_f
+"IÂ couldÂ aÂ taleÂ unfoldÂ whoseÂ lightestÂ word<lw>WouldÂ harrowÂ upÂ thyÂ soul,<lw>FreezeÂ thyÂ youngÂ blood,
+
+TAG: JackSkellington_004_f
+MakeÂ thyÂ twoÂ eyes,Â likeÂ stars,Â startÂ fromÂ their spheres<lw>ThyÂ knottedÂ andÂ combinedÂ locksÂ toÂ part,<lw>AndÂ eachÂ particularÂ hairÂ toÂ standÂ onÂ end,<lw>LikeÂ quillsÂ uponÂ theÂ fearfulÂ porpentine!"
+
+TAG: Player_001_choice_000_f
+Cool, but I gotta run now.
+
+TAG: Player_001_choice_001_f
+Keep going!
+
+TAG: JackSkellington_005_f
+Fare thee well, {PlayerName}!
+
+TAG: JackSkellington_006_f
+"Double, double toil and trouble,<lw>Fire burn, and cauldron bubble.<lw>Fillet of a fenny snake,<lw>In the cauldron boil and bake.
+
+TAG: JackSkellington_007_f
+Eye of newt and toe of frog,<lw>Wool of bat and tongue of dog,<lw>Adder's fork and blind-worm's sting,<lw>Lizard's leg and owlet's wing!"
+
+TAG: Player_002_choice_000_f
+OK, that's enough for me.
+
+TAG: Player_002_choice_001_f
+More!
+
+TAG: JackSkellington_008_f
+"Deep night, dark night, the silent of the night,
+
+TAG: JackSkellington_009_f
+The time when screech-owls cry and ban-dogs howl,
+
+TAG: JackSkellington_010_f
+And spirits walk and ghosts break up their graves!"
+
+TAG: Player_003_choice_000_f
+This is too scary for me â I'm out.
+
+TAG: Player_003_choice_001_f
+I love it!
+
+TAG: JackSkellington_011_f
+Well, I do focus on the most chilling of Shakespeare's quotations.
+
+TAG: JackSkellington_012_f
+And now I shall customize one for our dear Valley...
+
+TAG: JackSkellington_013_f
+"Alas, poor Mickey!<lw>I knew him, {PlayerName}: a fellow of infinite jest, of most excellent fancy.
+
+TAG: JackSkellington_014_f
+Where be your gibes now? your gambols? your songs? your flashes of merriment that were wont to set the table on a roar?"
+
+TAG: JackSkellington_015_f
+Alas! Alas!
+
+TAG: Player_004_choice_000_f
+That was wonderful!
+
+TAG: Player_004_choice_001_f
+That was weird.
+
+TAG: Player_004_choice_002_f
+Mickey's a ghost? Oh no!
+
+TAG: JackSkellington_016_f
+Thank you! You were a lovely audience.
+
+TAG: JackSkellington_017_f
+Well, Shakespeare's not for everyone.
+
+TAG: JackSkellington_018_f
+Don't worry! It's only a story.
+
+TAG: JackSkellington_019_f
+Mickey's perfectly fine â you can check on him!
+

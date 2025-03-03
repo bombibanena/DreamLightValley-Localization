@@ -1,0 +1,17 @@
+
+O
+;Story!ORQS_Scro_050_Plateau_Any_CompletedRequestDescriptionTalk to Scrooge.
+¹
+0Story!ORQS_Scro_050_Plateau_AvailableDescription„Now that the Pillar on the Sunlit Plateau has been restored, it's time to make the place a little less deserted with some furniture.
+w
+5Story!ORQS_Scro_050_Plateau_CompletedStoryDescription>You turned the Sunlit Plateau into a beautiful place to visit.
+M
+'Story!ORQS_Scro_050_Plateau_DisplayName"Rebuild the Valley: Sunlit Plateau
+m
+8Story!ORQS_Scro_050_Plateau_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+r
+EStory!ORQS_Scro_050_Plateau_Group01_Step01_Decorate01_StepDescription)Place {TargetAmount} pieces of furniture.
+Z
+:Story!ORQS_Scro_050_Plateau_Group01_Step01_StepDescriptionDecorate the Sunlit Plateau.
+_
+.Story!ORQS_Scro_050_Plateau_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

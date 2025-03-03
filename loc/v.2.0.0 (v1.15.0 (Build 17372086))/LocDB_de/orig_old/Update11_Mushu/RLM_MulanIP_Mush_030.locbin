@@ -1,0 +1,69 @@
+
+g
+FRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Any_CompletedRequestDescriptionПоговори с Мушу.
+�
+;Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_AvailableDescription�Что-то случилось с дорогой за пределами лагеря, и вы все торопитесь посмотреть, что случилось.
+�
+@Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_CompletedStoryDescriptioneМушу в долине Мечты, время узнать, что он об этом думает.
+Q
+2Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_DisplayNameОчистка дороги
+u
+ERealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group01_Step01_StepDescription,Проверь, что происходит.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group02_Step02_FollowCharacter01_StepDescriptionRСледуйте за Мушу и Мулан за пределами лагеря.
+e
+ERealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group02_Step02_StepDescriptionЗемля тряслась!
+�
+NRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group03_Step03_Listen01_StepDescriptionPПослушайте Мушу и Мулан обсуждайте оползни.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group04_Step04_Conditional02_StepDescription[Свяжитесь с Мулан, чтобы очистить дорогу в лагерь.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group04_StoryDescription�Там был оползнь, блокирующий дорогу, которую фургон должен приехать и забрать Армию Дракона Мулан и вы решили помочь.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group05_Step05_TalkToCharacter01_StepDescription)Возвращайтесь на Мушу.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group05_StoryDescription�Теперь, когда дорога очищена, больше не должно быть никаких проблем с пикапом, но вы, возможно, захотите поговорить с Мушу.
+�
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group06_Step06_Possess01_StepDescriptiontСоберите больше <ActivityItem>Wooden Logs</ActivityItem> для изготовления забора.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group06_StoryDescription�Мушу хочет добавить дополнительный слой защиты к дороге, построив забор. Вы решили помочь ему.
+
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group07_Step07_CraftItem01_StepDescription*<ActivityItem>Wooden Fence</ActivityItem>.
+�
+>Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group08_StepDescription\Поместите <ActivityItem>Wooden Fence</ActivityItem> в основание горы.
+x
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group09_Step09_TalkToCharacter02_StepDescriptionПоговори с Мушу.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group09_StoryDescriptionlДорога теперь защищена, и Мушу готов послать сигнал пикапа.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group10_Step10_Conditional03_StepDescription<Смотри, как Мушу посылает сигнал.
+x
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group12_Step12_TalkToCharacter03_StepDescriptionПоговори с Мушу.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group12_StoryDescription�Немного эмоциональна в связи с окончанием тренировок и неизбежной доставкой армии Дракона, Мушу нужно немного времени, чтобы почувствовать свои чувства.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group13_Step13_Conditional05_StepDescriptiongПрогресс с Мулан в то время как Мушу ждёт вагон доставки.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group14_Step14_TalkToCharacter04_StepDescription)Возвращайтесь на Мушу.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group14_StoryDescription�Мулан сказал тебе, что Мушу должен был дать тебе что-то, чтобы отпраздновать конец тренировок.
+�
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group15_Step15_Possess02_StepDescriptionQПоиск Key</ActivityItem> <ActivityItem>Мулан в королевстве.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group15_StoryDescriptionxТо, что было отложено для вас, заперто в груди, и Мушу потерял ключ.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group16_Step16_TalkToCharacter05_StepDescription)Возвращайтесь на Мушу.
+z
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group17_Step17_FollowCharacter02_StepDescriptionСледуйте за Мушу.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group18_Step18_Interaction01_StepDescription{Используйте клавишу <ActivityItem>Мулан, чтобы открыть её грудную клетку.
+x
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group19_Step19_TalkToCharacter06_StepDescriptionПоговори с Мушу.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group19_StoryDescription�Ты открыл грудную клетку, чтобы найти свой подарок, и теперь ничего не осталось, кроме как поехать в долину Мечты с Мушу.
+�
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group20_Step20_VisitArea01_StepDescription>Отправляйся в долину Мечты с Мушу.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group21_Step21_UnlockCharacter01_StepDescription9Добро пожаловать Мушу в Долину!
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_030_Group22_Step22_FollowCharacter03_StepDescriptionWСледуйте за Мушу до моста, чтобы послать сигнал.

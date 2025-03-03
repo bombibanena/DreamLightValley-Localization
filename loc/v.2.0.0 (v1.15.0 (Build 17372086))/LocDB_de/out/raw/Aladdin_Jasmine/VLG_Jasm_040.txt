@@ -1,0 +1,99 @@
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Any_CompletedRequestDescription
+Talk to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_AvailableDescription
+Jasmine looks like she needs some help. You should go see her!
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_CompletedStoryDescription
+The wish magic quelled, it's a good time to have a heart-to-heart with Jasmine about everything that's happened since opening the Secret Journal.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_DisplayName
+Wild, Wild Wishes
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group01_Step01_VisitArea01_StepDescription
+Visit Donald inside his House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group01_StoryDescription
+Something strange is happening in the Valley! Donald's House is teeming with fish, and no one knows why! Maybe you should check in on him and see what's going on.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Donald inside his House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group03_Step03_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group03_Step03_ReadyDescription
+Bring the <ActivityItem>Stinky Fish</ActivityItem> to Donald.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group03_Step03_StepDescription
+Collect the <ActivityItem>Stinky Fish</ActivityItem> in Donald's House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group04_Step04_VisitArea02_StepDescription
+Visit Anna inside her House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group04_StoryDescription
+Donald's fish problem is cleaned up, but now Anna needs your help! Something strange is definitely happening in the Valley...
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group05_Step05_TalkToCharacter02_StepDescription
+Talk to Anna.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group06_Step06_EatMeal01_StepDescription
+Eat the chocolate meals from Anna's House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group07_Step07_TalkToCharacter03_StepDescription
+Talk to Anna inside her House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group08_Step08_TalkToCharacter04_StepDescription
+Talk to Mike.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group08_StoryDescription
+With Donald and Anna taken care of, it's time to check on Mike and see how you can help him. Whatever is going on, you're pretty sure the Secret Journal might have something to do with it.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group09_Step09_VisitArea03_StepDescription
+Meet up with Mike in Scrooge's Store.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group10_Step10_Listen01_StepDescription
+Listen to Mike and Belle in Scrooge's Store.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group10_Step11_Listen02_StepDescription
+Listen to Mike and Mulan in Scrooge's Store.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group11_Step12_TalkToCharacter05_StepDescription
+Talk to Mike.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group12_Step13_TalkToCharacter06_StepDescription
+Talk to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group13_Step14_Decorate01_StepDescription
+Decorate a room in your home with furniture you love.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group13_StoryDescription
+Jasmine is sure the rogue wish magic is due to opening the Secret Journal. She suggests you make the wishes of your younger self come true, and start embracing your freedom to do what you want! It might be the only way to stop the chaos in the Valley.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group14_Step15_CookMeal01_StepDescription
+Cook 2 of your favorite meals.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group15_Step16_TalkToCharacter07_StepDescription
+Talk to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group16_Step17_DressUp01_StepDescription
+Dress up in the outfit of your dreams.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group17_Step18_CraftItem01_StepDescription
+Craft your favorite item.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group18_Step19_TalkToCharacter08_StepDescription
+Return to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group19_Step20_Listen03_StepDescription
+Listen to Jasmine and Mike to see if the wish magic is gone.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group20_Step21_ReadyDescription
+Bring the chocolate meals to {TargetNPC}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_Group20_Step21_StepDescription
+Collect the chocolate meals in Anna's House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

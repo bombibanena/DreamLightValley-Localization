@@ -1,0 +1,67 @@
+
+�
+=Repeatable!Ratatouille!Remy!RPT_Remy_090_AvailableDescription�Что-то пошло не так в Реми на кухне, и ему нужно что-то от тебя, чтобы это исправить.
+|
+4Repeatable!Ratatouille!Remy!RPT_Remy_090_DisplayNameDПриятного аппетита!: Проблема в кухне
+�
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group01_Step01_ReadyDescriptionNПринесите Реми <ActivityItem>Tinkering части</ActivityItem>.
+�
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group01_Step01_StepDescriptionSВозьмите <ActivityItem>Tinkering части</ActivityItem> для Реми.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_BringItem02_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_BringItem03_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_BringItem04_StepDescription{ItemName}.
+o
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_ReadyDescription#Принеси Реми цветы.
+�
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group02_Step02_StepDescription?Возьмите следующие цветы для Реми:
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem08_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem09_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem10_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_BringItem11_StepDescription{ItemName}.
+x
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_ReadyDescription,Принесите камни на Реми.
+�
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group03_Step03_StepDescriptionOПолучите следующие драгоценности для Реми:
+�
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group04_Step04_ReadyDescriptionJПеренести <ActivityItem>Empty Vials</ActivityItem> на Реми.
+�
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group04_Step04_StepDescriptionJВозьмите <ActivityItem>Empty Vials</ActivityItem> для Реми.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem15_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem16_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem17_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_BringItem18_StepDescription{ItemName}.
+t
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_ReadyDescription(Принеси дерево в Реми.
+
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group05_Step05_StepDescription4Получите следующее для Реми:
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_BringItem19_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_BringItem20_StepDescription{ItemName}.
+b
+SRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_BringItem21_StepDescription{ItemName}.
+x
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_ReadyDescription,Принесите Реми всю рыбу.
+�
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group06_Step06_StepDescription=Получите следующую рыбу для Реми:
+�
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group07_Step07_ReadyDescriptionIВозьмите <ActivityItem>Dream Shards</ActivityItem> на Реми.
+�
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group07_Step07_StepDescriptionKВозьмите <ActivityItem>Dream Shards</ActivityItem> для Реми.
+�
+HRepeatable!Ratatouille!Remy!RPT_Remy_090_Group08_Step08_ReadyDescriptionJПривести почву <ActivityItem>Rich</ActivityItem> в Реми.
+�
+GRepeatable!Ratatouille!Remy!RPT_Remy_090_Group08_Step08_StepDescriptionNВозьмите <ActivityItem>Rich почва</ActivityItem> для Реми.
+l
+;Repeatable!Ratatouille!Remy!RPT_Remy_090_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

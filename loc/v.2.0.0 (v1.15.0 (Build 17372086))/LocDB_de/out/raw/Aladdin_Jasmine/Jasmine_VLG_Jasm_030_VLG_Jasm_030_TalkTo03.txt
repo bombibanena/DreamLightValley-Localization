@@ -1,0 +1,84 @@
+TAG: Jasmine_000_f
+Jasmine! The Enchanted Flower is MISSING!
+
+TAG: Jasmine_001_f
+How is this possible?
+
+TAG: Jasmine_002_f
+I have no idea. Do you think someone stole it?
+
+TAG: Player_000_choice_000_f
+That has to be it!
+
+TAG: Player_000_choice_001_f
+No way! Who would do such a thing?
+
+TAG: Player_000_choice_002_f
+I really don't know!
+
+TAG: Jasmine_003_f
+The flower certainly didn't grow legs and run out of here on its own!
+
+TAG: Jasmine_006_f
+But who would go to such lengths to steal an Enchanted Flower?
+
+TAG: Player_001_choice_000_f
+I bet it was Ursula.
+
+TAG: Player_001_choice_001_f
+Who other than Mother Gothel?
+
+TAG: Player_001_choice_002_f
+Maybe Remy?
+
+TAG: Jasmine_011_f
+She probably took it to add it to a potion or something.
+
+TAG: Jasmine_014_f
+That does sound like something she might do.
+
+TAG: Jasmine_019_f
+Exactly! It has to be her!
+
+TAG: Jasmine_007_f
+Maybe we should look for evidence before we make any accusations.
+
+TAG: Jasmine_010_f
+Okay, let's start by <Lore>searching the Plaza for clues</Lore>. We can work our way around from there!
+
+TAG: Jasmine_012_f
+I can't think of anyone else obsessed with flowers that possess magic, can you?
+
+TAG: Jasmine_015_f
+True, she DOES have a certain... history.
+
+TAG: Jasmine_013_f
+I'm sure he didn't mean to steal it, but he's always looking for new ingredients to try in recipes.
+
+TAG: Jasmine_016_f
+And you think he wants to use the Enchanted Flower in some of his food?
+
+TAG: Player_002_choice_000_f
+Well, the flower DID look delicious... Don't you think?
+
+TAG: Player_002_choice_001_f
+I know flowers are sometimes used as ingredients.
+
+TAG: Jasmine_020_f
+Um...
+
+TAG: Jasmine_021_f
+True... like jasmine flowers.
+
+TAG: Jasmine_004_f
+I can't think of anyone who would steal an Enchanted Flower!
+
+TAG: Jasmine_008_f
+Unless...
+
+TAG: Jasmine_009_f
+Unless what? Do you know who did this?
+
+TAG: Jasmine_005_f
+I can't imagine someone just stealing an Enchanted Flower like that...
+

@@ -1,0 +1,33 @@
+
+h
+GStory!Expansion02!MRQS_E02_041_TrialTea_Any_CompletedRequestDescriptionПоговори с Флин.
+�
+<Story!Expansion02!MRQS_E02_041_TrialTea_AvailableDescription�В глубине вечности {PlayerName} обнаружил водопад из таинственных гигантских чайных чайных горшков. {PlayerName} нашел еще одно испытание сказок и на шаг приблизился к встрече с Малефисента.
+R
+3Story!Expansion02!MRQS_E02_041_TrialTea_DisplayNameЧайный водопад
+�
+RStory!Expansion02!MRQS_E02_041_TrialTea_Group01_Step01_VisitArea01_StepDescriptionVВведите процесс <ActivityItem>Fairy Tale</ActivityItem> в Teapot Falls.
+�
+RStory!Expansion02!MRQS_E02_041_TrialTea_Group03_Step03_VisitArea02_StepDescription>Исследуйте испытание сказок Флин.
+�
+TStory!Expansion02!MRQS_E02_041_TrialTea_Group04_Step04_Conditional01_StepDescriptionFПридумай, что делать с часами на стене.
+�
+TStory!Expansion02!MRQS_E02_041_TrialTea_Group06_Step06_FillKeyhole01_StepDescription�Найдите <ActivityItem>Stout Tea Pot</ActivityItem> и <ActivityItem>Tall Tea Pot</ActivityItem> и положите их оба на поднос в конце стола.
+�
+XStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step05_TalkToCharacter02_StepDescription-(Вариант) Проверьте Флин.
+�
+VStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle01_StepDescription)Розовое кресло Орната.
+
+VStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle02_StepDescription%Кресло Стёрди Вудэн.
+�
+VStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle03_StepDescription-Элегантное синее кресло.
+�
+FStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_StepDescription�(Пресс {input_inventory}, затем направляйтесь в отдел мебели, чтобы забрать и перенести вещи в правильное место!)
+�
+LStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_StepDescriptionMobile�(Откройте свой список, затем отправитесь в отдел мебели, чтобы забрать и перенести вещи в правильное место!)
+|
+?Story!Expansion02!MRQS_E02_041_TrialTea_Group07_StepDescription9Поставь столик на чайное время.
+�
+TStory!Expansion02!MRQS_E02_041_TrialTea_Group08_Step08_Interaction01_StepDescriptiongВступайте в контакт с источником коррупции в суде Фейри.
+�
+RStory!Expansion02!MRQS_E02_041_TrialTea_Group09_Step09_VisitArea03_StepDescription:Возвращайся в Сказочную Долину.

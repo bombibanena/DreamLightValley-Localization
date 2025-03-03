@@ -1,0 +1,42 @@
+
+
+WallE_000_fDi-rec-tive?
+2
+WallE_001_f#You're looking for something to do?
+
+WallE_002_fEe-ah.
+9
+WallE_003_f*Oh? Are you bored? Can you even get bored?
+
+WallE_004_f*sigh*
+(
+Player_000_fHm... maybe you could...
+0
+Player_000_choice_000_f...do some gardening.
+.
+Player_000_choice_001_f...mine some rocks.
+1
+Player_000_choice_002_f...sit back and relax.
+
+WallE_005_fOh!
+
+WallE_006_fHuh?
+4
+Player_001_f$Oh... uh... you know. Relax. Like...
+.
+Player_001_choice_000_f...listen to music.
+*
+Player_001_choice_001_f...read a book.
+,
+Player_001_choice_002_f...go for a walk.
+-
+WallE_007_fDa-da-da-da-da-da-dah-dah-dah!
+
+WallE_008_fOooh!
+
+WallE_009_fHuh?
+A
+WallE_010_f2Oh. I guess you don't "walk." Uh, go for a "roll"?
+
+WallE_011_f
+WALLÂ·E!

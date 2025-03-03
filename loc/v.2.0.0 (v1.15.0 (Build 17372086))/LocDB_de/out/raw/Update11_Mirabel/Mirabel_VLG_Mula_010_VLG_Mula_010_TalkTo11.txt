@@ -1,0 +1,30 @@
+TAG: Player_000_choice_000_f
+Chrysanthemum tea.
+
+TAG: Player_000_choice_001_f
+Oolong tea.
+
+TAG: Player_000_choice_002_f
+Jasmine tea.
+
+TAG: Mirabel_003_f
+Wow, the flowers in this remind me of my sister Isabela...
+
+TAG: Mirabel_001_f
+That is sooo delicious!
+
+TAG: Mirabel_006_f
+And I feel SOOO energized!
+
+TAG: Mirabel_007_f
+Gracias, {PlayerName}!
+
+TAG: Mirabel_005_f
+That was really good â and it was fun to try something new!
+
+TAG: Mirabel_002_f
+I do love oolong! And one more cup can't hurt, right?
+
+TAG: Mirabel_004_f
+Okay... Mulan says this is pretty subtle. That could be nice.
+

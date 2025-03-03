@@ -1,0 +1,114 @@
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Any_CompletedRequestDescription
+Bring the {ItemName}Â to EVE.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_AvailableDescription
+There's some sort of computer console in the Ancient Ruins. You suspect that if anyone can hack into that thing... it would be EVE.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_CompletedStoryDescription
+With her new accessories, EVE is now ready to help you go deeper inside the Ancient Ruins.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_DisplayName
+Does Not Compute
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to EVE.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group02_Step02_ConsumeItem01_StepDescription
+Investigate the map in your Inventory.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group02_StoryDescription
+EVE would be happy to help you, but she's going to need a couple of upgrades first. Sounds like it's going to take quite the treasure hunt to find everything you need.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_Step03_Possess01_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_Step03_Possess02_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_Step03_Possess03_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_Step03_Possess04_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_Step03_Possess05_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_Step03_StepDescription
+(Press {input_mainmenu} and look at the treasure map in the Memories section of your Collection menu for help.)
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_Step03_StepDescriptionMobile
+(Look at the treasure map in the Memories section of your Collection menu for help.)
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_StepDescription
+Use all of your Tools to find ancient artifacts around Eternity Isle:
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group03_StoryDescription
+EVE gives you an old treasure map. It seems the ancient civilization scattered some sort of technology that could help EVE communicate with the Ancient Console in the ruins.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group04_Step04_Possess06_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group04_Step04_Possess07_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group04_Step04_Possess08_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group04_StepDescription
+Gather ancient material with your Hourglass to make the Ancient Processor:
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group05_Step05_CraftItem01_StepDescription
+Repair the Ancient Processor at a Timebending Table.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group06_Step06_ReadyDescription
+Bring the {ItemName} to EVE.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group06_Step06_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group07_Step07_StepDescription
+You need to replicate EVE's tech. Take some pictures of items in EVE's House:
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group07_Step07_TakePicture01_StepDescription
+Something round with holes.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group07_Step07_TakePicture02_StepDescription
+Some sort of power output.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group07_Step07_TakePicture03_StepDescription
+Some glassy globes.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group07_StoryDescription
+You create an Ancient Processor, but it doesn't work with any of EVE's ports. You'll need to learn more about how EVE works to make an adapter.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group08_Step08_Possess09_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group08_Step08_Possess10_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group08_Step08_Possess11_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group08_Step08_Possess12_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group08_Step08_Possess13_StepDescription
+{ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group08_StepDescription
+Gather materials for the Universal Adapter:
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group09_StepDescription
+Craft the {ItemName}.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group10_Step10_ReadyDescription
+Bring the {ItemName}Â to EVE.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group10_Step10_StepDescription
+Make sure you have the {ItemName}Â in your Inventory.
+
+TAG: Story!Expansion01!MRQS_E01_170_EvePart_Group10_StoryDescription
+With everything you've created to upgrade her, EVE's sure to be able to work that Ancient Console now!
+

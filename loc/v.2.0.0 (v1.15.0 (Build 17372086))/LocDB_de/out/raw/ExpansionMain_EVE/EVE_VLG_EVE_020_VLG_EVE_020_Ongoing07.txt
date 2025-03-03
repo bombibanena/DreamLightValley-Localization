@@ -1,0 +1,9 @@
+TAG: EVE_000_f
+Directive.
+
+TAG: EVE_001_f
+I'll go put out the <ActivityItem>Fires</ActivityItem> and remove the <ActivityItem>Craters</ActivityItem>, so I can make sure the area is safe for everyone.
+
+TAG: EVE_002_f
+And I'll gather the <ActivityItem>Melted Ancient Gemstones</ActivityItem>.
+

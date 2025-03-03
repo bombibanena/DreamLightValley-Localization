@@ -1,0 +1,87 @@
+TAG: FairyGodMother_002_f
+Hello, Fairy Godmother! Sally and I were hoping you might like to help us with a sewing project.
+
+TAG: Player_000_choice_000_f
+It would mean a lot to her.
+
+TAG: Player_000_choice_001_f
+You have the magic touch.
+
+TAG: Player_000_choice_002_f
+Her ideas were a little too different for Daisy and Minnie's current project.
+
+TAG: FairyGodMother_004_f
+Oh, you're such a dear. Why, I'd be thrilled to lend a hand... or a wand!
+
+TAG: FairyGodMother_007_f
+She mentioned the idea of a quilt.
+
+TAG: FairyGodMother_000_f
+What a splendid project! But what sort of a quilt? Is there a pattern or a color theme?
+
+TAG: Player_002_choice_000_f
+Maybe... Dreamlight Valley-inspired?
+
+TAG: Player_002_choice_001_f
+Can we magically find an idea?
+
+TAG: Player_002_choice_002_f
+She said a quilt "of dried cobwebs" to Daisy?
+
+TAG: FairyGodMother_015_f
+Yes, yes... I think that could work...
+
+TAG: FairyGodMother_008_f
+I know! A patchwork piece to bring back fond Valley memories. But for a quilt... well, we'll need cloth scraps, of course.
+
+TAG: Player_001_choice_000_f
+Where would we get scrap material?
+
+TAG: Player_001_choice_001_f
+We could ask Goofy!
+
+TAG: Player_001_choice_002_f
+I could cut up some clothes?
+
+TAG: FairyGodMother_011_f
+Not to worry, {PlayerName}. My magic will handle the fabric part.
+
+TAG: FairyGodMother_013_f
+If you <Lore>bring me memorabilia of your special moments in the Valley</Lore>, I'll turn them into scraps of fabric that Sally and I can sew together.
+
+TAG: FairyGodMother_016_f
+Oh! Like an <Lore>ancient Crystal from the Mystical Cave</Lore>!
+
+TAG: FairyGodMother_020_f
+Or that feather of Donald's I found <Lore>in the Forest of Valor</Lore>.
+
+TAG: FairyGodMother_018_f
+And I had such a good time making some <Lore>Fruit Salad with Mickey</Lore>...
+
+TAG: FairyGodMother_019_f
+Precisely! Items full of wonderful memories!
+
+TAG: FairyGodMother_017_f
+Guess I'll start treasure hunting!
+
+TAG: FairyGodMother_014_f
+Our quilting has begun. We're off to have such fun!
+
+TAG: FairyGodMother_010_f
+Goofy sells fine pumpkins, but not fabric. Not to worry. I have some magic we might try.
+
+TAG: FairyGodMother_012_f
+Goodness, no, dear! I have some magic that will keep your wardrobe intact.
+
+TAG: FairyGodMother_001_f
+Hmm... Let me think... Magic... Dreamlight Magic...
+
+TAG: FairyGodMother_009_f
+Oh, my! How interesting. Though... I suppose that might not appeal to everyone. Yet, the idea of cloth from a unique source is marvelous!
+
+TAG: FairyGodMother_003_f
+Magic touch? Oh, (ha-ha), yes, I suppose I do. What did you have in mind?
+
+TAG: FairyGodMother_006_f
+Different and wonderful, I imagine. Just like Sally. Well, {PlayerName}, I would love to assist!
+

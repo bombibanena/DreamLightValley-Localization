@@ -1,0 +1,33 @@
+TAG: Oswald_000_f
+OK Oswald, what did you make for Rapunzel?
+
+TAG: Oswald_001_f
+My meals are SUPER colorful. You're going to have a hard time beating me here!
+
+TAG: Oswald_002_f
+Oh, ya think so, huh? Well, feast your eyes on this!
+
+TAG: Oswald_003_f
+Out of all the possible meals... you made a carrot?
+
+TAG: Oswald_004_f
+You betcha! A colorful carrot.
+
+TAG: Oswald_005_f
+Oswald, it looks like you just dipped a carrot in ink.
+
+TAG: Oswald_006_f
+Sure. This is what the BEST carrots looked like in my day!
+
+TAG: Player_000_choice_000_f
+Feels like you didn't understand the assignment.
+
+TAG: Player_000_choice_001_f
+But that's not edible.
+
+TAG: Oswald_007_f
+I know you had high hopes for this one, {PlayerName}, but I got this in the bag.
+
+TAG: Oswald_008_f
+Well, let's wait and see what Rapunzel says...
+

@@ -1,0 +1,15 @@
+TAG: Scrooge_000_f
+Какой товар ты ищешь?
+
+TAG: Player_000_choice_000_f
+Одежда
+
+TAG: Player_000_choice_001_f
+Мебель
+
+TAG: Player_000_choice_002_f
+Неважно.
+
+TAG: Scrooge_001_f
+Возвращайся, если передумаешь!
+

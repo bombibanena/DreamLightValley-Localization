@@ -1,0 +1,91 @@
+
+�
+BRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_AvailableDescription�Симба думает о нескольких старых друзьях, которых он пропустил с момента его прибытия в Долину.
+�
+GRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_CompletedStoryDescription�В конце первого дня ты уютно спишь в джунглях с Тимон и Пумба. Хакуна Матата продолжится завтра!
+a
+9Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_DisplayName$Найти старых друзей
+�
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group02_Step02_VisitArea01_StepDescription'Посетите Король Льва.
+�
+FRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group02_StoryDescriptionwСимба говорит вам, что ему приснился странный сон о Тимон и Пумба.
+�
+^Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group03_Step03_TalkToCharacter02_StepDescriptionNНайдите {TargetNPC} в "Королевском королевстве".
+v
+VRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group04_Step04_Possess01_StepDescriptionКамни джунглей.
+n
+VRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group04_Step04_Possess02_StepDescriptionДжунгл Вуд.
+�
+VRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group04_Step04_Possess03_StepDescription+Красный джунгли Листья.
+�
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group04_Step04_StepDescription?В Львином королевстве, соберитесь:
+�
+FRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group04_StoryDescription�Вернувшись в Камаль, вы встречаетесь с Тимон и Пумба. Тимон заявляет, что вы слишком напряжены и решаете пройти уроки хакуны Матата.
+x
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group05_Step05_BringItem01_StepDescriptionКамни джунглей.
+p
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group05_Step05_BringItem02_StepDescriptionДжунгл Вуд.
+�
+MRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group05_Step05_ReadyDescriptionQОтдай джунгли строительные материалы Тимон.
+�
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group05_Step05_StepDescriptionjУбедитесь, что в вашем списке есть материалы для джунглей.
+�
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group06_Step06_CraftItem01_StepDescription�Свяжитесь со своей собственной гривой в "Львиной королеве", используя <ActivityItem>Red Jungle Lists</ActivityItem>.
+�
+VRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group07_Step07_DressUp01_StepDescriptionJОдевайся в свой <ActivityItem>Red Jungle Mane</ActivityItem>.
+�
+^Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group08_Step08_TalkToCharacter03_StepDescription$Поговорите с {TargetNPC}.
+�
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group09_Step09_StepDescriptionAСледуйте за Тимон и Пумба в джунгли.
+�
+URealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group10_Step10_Listen01_StepDescription*Слушайте Тимон и Пумба.
+�
+^Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group11_Step11_TalkToCharacter04_StepDescriptionEПоговорите с {TargetNPC} в лагере джунглей.
+�
+FRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group11_StoryDescription�После того, как вы смонтируете свою собственную станцию крафтинга и гены, Тимон говорит, что уроки могут начинаться.
+�
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group12_Step12_CatchFish01_StepDescription�Ищите корону, вынюхивающую из воды в "Королевском королевстве" и выловите ее.
+p
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group12_Step13_StepDescription <ActivityItem>Empty Vial</Lore>.
+~
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group13_Step14_BringItem03_StepDescription"Потерянная Корона.
+r
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group13_Step14_BringItem04_StepDescriptionПустой Виал.
+�
+MRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group13_Step14_ReadyDescriptionuПриведите <ActivityItem>Lost Crown</ActivityItem> и <ActivityItem>Empty Vial</ActivityItem> в {TargetNPC}.
+�
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group13_Step14_StepDescription�Убедитесь, что в вашем списке есть <ActivityItem>Lost Crown</ActivityItem> и <ActivityItem>Empty Vial</ActivityItem>.
+�
+\Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group14_Step15_RemoveBlocker01_StepDescriptionhСломай <ActivityItem>Lost Crown</ActivityItem> своим королевским пикаксом.
+�
+^Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group15_Step16_TalkToCharacter05_StepDescription Поговори с {TargetNPC}.
+�
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group16_Step17_StepDescription@Следуйте за Тимон до реки джунглей.
+s
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group17_Step18_StepDescription#Поговорите с Тимон.
+�
+ZRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group18_Step19_FillKeyhole01_StepDescription_Положите <ActivityItem>Bottle Worries</ActivityItem> в реку Льва Короля.
+�
+XRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group19_Step20_VisitArea04_StepDescriptionTВозвращайся в лагерь Тимон и Пумба в джунглях.
+�
+FRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group19_StoryDescription�С помощью Тимон вы найдёте и разобьете старую корону, символ вашего прошлого. Вы также кричите свои беспокойства в бутылку и выпускаете их в реку.
+p
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group20_Step21_StepDescription Поговори с {TargetNPC}.
+z
+\Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group21_Step22_RemoveBlocker02_StepDescriptionТимон кровать.
+z
+\Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group21_Step22_RemoveBlocker03_StepDescriptionПумба кровать.
+x
+\Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group21_Step22_RemoveBlocker04_StepDescriptionТвоя кровать.
+�
+LRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group21_Step22_StepDescriptionVПриготовьте несколько листьев с вашим шовелем:
+�
+FRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group21_StoryDescription^Вечером вы готовите джунгли для себя, Тимон и Пумба.
+�
+URealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group23_Step24_Listen02_StepDescription5Послушай слова Тимон и Пумба.
+�
+ZRealm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group23_Step26_Interaction02_StepDescriptionhЛожись на свою листьевую кровать в "Львовом королевстве".
+�
+^Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_Group24_Step25_TalkToCharacter08_StepDescriptionBСкажи "спокойной ночи" Тимон и Пумба.
+q
+@Realm!LionKing2!Simba!RLM_LionKingIP_Simb_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

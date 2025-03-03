@@ -1,0 +1,36 @@
+
+é
+MotherGothel_000_fxAh, {PlayerName}... It's occurred to me that only you and I have the interests of this Valley at heart; don't you agree?
+%
+Player_000_choice_000_f
+Yes, I do.
+5
+Player_000_choice_001_fWhat makes you think that?
+R
+Player_000_choice_002_f7I think everyone cares for the Valley in their own way.
+9
+MotherGothel_001_f#Finally, someone who listens to me!
+¡
+MotherGothel_004_f™They're all living in their grand Houses, only caring for themselves and their personal whims. Unlike me. Why, I've truly dedicated myself to tending to the Giant Willow.
+3
+Player_001_choice_000_fI love the Giant Willow!
+4
+Player_001_choice_001_fWhy do you look after it?
+;
+Player_001_choice_002_f You can always stop, you know...
+k
+MotherGothel_006_fUThen maybe YOU ought to live in it! Ha-ha! Only kidding, dear. Don't look so serious.
+r
+MotherGothel_009_f\After all, I was the one who helped you grow that Giant Willow in the first place, you know.
+b
+MotherGothel_010_fLAnd that is proof that only you and I care about what's best for our Valley.
+è
+MotherGothel_007_fyBecause someone needs to! Plants are like children. They require constant care if you don't want them to grow up spoiled.
+ç
+MotherGothel_011_fwI was the one who helped you make sure the tree would grow strong and tall. So... of course, I stayed to watch over it.
+Ñ
+MotherGothel_008_fnThen there would be no one to care for the willow I helped you grow. No, {PlayerName}. I must stay where I am.
+/
+MotherGothel_002_fWell, just look around...
+n
+MotherGothel_003_fXPerhaps, but how many of them have proof to support their claims? Few or none, I'm sure.

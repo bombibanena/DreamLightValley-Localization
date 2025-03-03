@@ -1,0 +1,606 @@
+
+H
++AncientCiv!MiniAtlantisGuardian_DisplayNameДревний робот
+\
+ Beach!CritterBeach01_DisplayName8Классическая морская черепаха
+Q
+,Beach!CritterBeach01_FavoriteItemDescription!Морские водоросли
+X
+ Beach!CritterBeach02_DisplayName4Коричневый морской черепаха
+Q
+,Beach!CritterBeach02_FavoriteItemDescription!Морские водоросли
+N
+ Beach!CritterBeach03_DisplayName*Белый морской черепаха
+Q
+,Beach!CritterBeach03_FavoriteItemDescription!Морские водоросли
+V
+ Beach!CritterBeach04_DisplayName2Пурпурные морские черепахи
+Q
+,Beach!CritterBeach04_FavoriteItemDescription!Морские водоросли
+M
+ Beach!CritterBeach05_DisplayName)Черноморская черепаха
+Q
+,Beach!CritterBeach05_FavoriteItemDescription!Морские водоросли
+;
+Bird!SnippetBird01_DisplayNameКрасная птица
+?
+"Bird!SnippetBird01Tuto_DisplayNameКрасная птица
+Z
+Bird!SnippetBird02_DisplayName8Сниппет &lt; &lt; Синей птицы &gt; &gt;
+;
+Bird!SnippetBird03_DisplayNameЗеленая птица
+9
+Bird!SnippetBird04_DisplayNameЖелтая птица
+7
+Bird!SnippetBird05_DisplayNameБелая птица
+(
+Cat!Figaro01_DisplayNameФигаро
+@
+!Crocodile!Chocodile01_DisplayNameКрокодил "Чоко"
+N
+!Crocodile!Crocodile01_DisplayName)Классический крокодил
+@
+!Crocodile!Crocodile02_DisplayNameСиний крокодил
+D
+!Crocodile!Crocodile03_DisplayNameКрасный крокодил
+D
+!Crocodile!Crocodile04_DisplayNameЗолотой крокодил
+@
+!Crocodile!Crocodile05_DisplayNameБелый крокодил
+D
+!Crocodile!Crocodile06_DisplayNameРозовый крокодил
+H
+'Crocodile!DapperCrocodile01_DisplayNameДэппер Крокодил
+G
+(Crocodile!Dreamlight!color01_DisplayNameСиний крокодил
+K
+(Crocodile!Dreamlight!color02_DisplayNameРозовый крокодил
+K
+"Crocodile!FruitCroco01_DisplayName%Прекрасный крокодил
+W
+0DarkMountains!CritterDarkMountains01_DisplayName#Классический ворон
+n
+<DarkMountains!CritterDarkMountains01_FavoriteItemDescription.Любая пятизвездочная еда
+M
+0DarkMountains!CritterDarkMountains02_DisplayNameКрасный Ворон
+n
+<DarkMountains!CritterDarkMountains02_FavoriteItemDescription.Любая пятизвездочная еда
+K
+0DarkMountains!CritterDarkMountains03_DisplayNameБелый Ворона
+n
+<DarkMountains!CritterDarkMountains03_FavoriteItemDescription.Любая пятизвездочная еда
+O
+0DarkMountains!CritterDarkMountains04_DisplayNameГолубая ворона
+n
+<DarkMountains!CritterDarkMountains04_FavoriteItemDescription.Любая пятизвездочная еда
+S
+0DarkMountains!CritterDarkMountains05_DisplayNameКоричневый ворон
+n
+<DarkMountains!CritterDarkMountains05_FavoriteItemDescription.Любая пятизвездочная еда
+R
+Demon!DemonEvil_DisplayName3Вечно после Демона Сниппета
+T
+Demon!DemonEvil01_DisplayName3Вечно после Демона Сниппета
+P
+$Demon!SnippetDemon01Pink_DisplayName(Розовый Демон Сниппет
+L
+$Demon!SnippetDemon02Blue_DisplayName$Синий Демон Сниппет
+O
+#Demon!SnippetDemon03Red_DisplayName(Красный Демон Сниппет
+Q
+%Demon!SnippetDemon04Green_DisplayName(Зеленый Демон Сниппет
+X
++Expansion01!Capybara!Capybara01_DisplayName)Классический капибара
+Z
++Expansion01!Capybara!Capybara02_DisplayName+Черный и белый Капибара
+[
++Expansion01!Capybara!Capybara03_DisplayName,Голубая полоса Капибара
+J
++Expansion01!Capybara!Capybara04_DisplayNameСерый капибара
+i
++Expansion01!Capybara!Capybara05_DisplayName:Красная и белая полоса Капибара
+H
+-Expansion01!Capybara!CapybaraBW01_DisplayNameТун Капибара
+Y
+2Expansion01!Capybara!CapybaraCottage01_DisplayName#Цветочный капибара
+T
+<Expansion01!Capybara!TinkerBellInspiredCritter01_DisplayNameTinker Bell Capybara
+L
+%Expansion01!Cobra!Cobra01_DisplayName#Классическая кобра
+h
+%Expansion01!Cobra!Cobra02_DisplayName?Кобра с голубым и красным полосами
+B
+%Expansion01!Cobra!Cobra03_DisplayNameРозовая кобра
+V
+%Expansion01!Cobra!Cobra04_DisplayName-Желтая и пурпурная кобра
+c
+%Expansion01!Cobra!Cobra05_DisplayName:Зеленая и белая полосатая кобра
+D
+'Expansion01!Cobra!CobraBW01_DisplayNameТусовая кобра
+U
+.Expansion01!Desert!CritterDesert01_DisplayName#Классическая кобра
+F
+:Expansion01!Desert!CritterDesert01_FavoriteItemDescriptionЯйцо
+q
+.Expansion01!Desert!CritterDesert02_DisplayName?Кобра с голубым и красным полосами
+F
+:Expansion01!Desert!CritterDesert02_FavoriteItemDescriptionЯйцо
+K
+.Expansion01!Desert!CritterDesert03_DisplayNameРозовая кобра
+F
+:Expansion01!Desert!CritterDesert03_FavoriteItemDescriptionЯйцо
+_
+.Expansion01!Desert!CritterDesert04_DisplayName-Желтая и пурпурная кобра
+F
+:Expansion01!Desert!CritterDesert04_FavoriteItemDescriptionЯйцо
+l
+.Expansion01!Desert!CritterDesert05_DisplayName:Зеленая и белая полосатая кобра
+F
+:Expansion01!Desert!CritterDesert05_FavoriteItemDescriptionЯйцо
+M
+0Expansion01!Desert!CritterDesertBW01_DisplayNameТусовая кобра
+G
+;Expansion01!Desert!CritterDesertBW1_FavoriteItemDescriptionЯйцо
+N
+<Expansion01!Jungle!CritterJungle_BW1_FavoriteItemDescriptionКапуста
+[
+.Expansion01!Jungle!CritterJungle01_DisplayName)Классический капибара
+L
+:Expansion01!Jungle!CritterJungle01_FavoriteItemDescriptionКапуста
+]
+.Expansion01!Jungle!CritterJungle02_DisplayName+Черный и белый Капибара
+L
+:Expansion01!Jungle!CritterJungle02_FavoriteItemDescriptionКапуста
+^
+.Expansion01!Jungle!CritterJungle03_DisplayName,Голубая полоса Капибара
+L
+:Expansion01!Jungle!CritterJungle03_FavoriteItemDescriptionКапуста
+M
+.Expansion01!Jungle!CritterJungle04_DisplayNameСерый капибара
+L
+:Expansion01!Jungle!CritterJungle04_FavoriteItemDescriptionКапуста
+l
+.Expansion01!Jungle!CritterJungle05_DisplayName:Красная и белая полоса Капибара
+L
+:Expansion01!Jungle!CritterJungle05_FavoriteItemDescriptionКапуста
+K
+0Expansion01!Jungle!CritterJungleBW01_DisplayNameТун Капибара
+T
+'Expansion01!Monkey!Monkey01_DisplayName)Классическая обезьяна
+`
+'Expansion01!Monkey!Monkey02_DisplayName5Черная и коричневая обезьяна
+\
+'Expansion01!Monkey!Monkey03_DisplayName1Красная и бежевая обезьяна
+J
+'Expansion01!Monkey!Monkey04_DisplayNameБежевая обезьяна
+V
+'Expansion01!Monkey!Monkey05_DisplayName+Черная и Серая Обезьяна
+N
+)Expansion01!Monkey!MonkeyBW01_DisplayName!Тусовая обезьянка
+R
+-Expansion01!Monkey!MonkeyJester01_DisplayName!Обезьяны-джестеры
+�
+>Expansion01!Outpost!CritterOutpost_BW1_FavoriteItemDescription@Любая пятизвездочная еда или лучше
+]
+0Expansion01!Outpost!CritterOutpost01_DisplayName)Классическая обезьяна
+�
+<Expansion01!Outpost!CritterOutpost01_FavoriteItemDescription@Любая пятизвездочная еда или лучше
+i
+0Expansion01!Outpost!CritterOutpost02_DisplayName5Черная и коричневая обезьяна
+�
+<Expansion01!Outpost!CritterOutpost02_FavoriteItemDescription@Любая пятизвездочная еда или лучше
+e
+0Expansion01!Outpost!CritterOutpost03_DisplayName1Красная и бежевая обезьяна
+�
+<Expansion01!Outpost!CritterOutpost03_FavoriteItemDescription@Любая пятизвездочная еда или лучше
+S
+0Expansion01!Outpost!CritterOutpost04_DisplayNameБежевая обезьяна
+�
+<Expansion01!Outpost!CritterOutpost04_FavoriteItemDescription@Любая пятизвездочная еда или лучше
+_
+0Expansion01!Outpost!CritterOutpost05_DisplayName+Черная и Серая Обезьяна
+�
+<Expansion01!Outpost!CritterOutpost05_FavoriteItemDescription@Любая пятизвездочная еда или лучше
+W
+2Expansion01!Outpost!CritterOutpostBW01_DisplayName!Тусовая обезьянка
+Y
+/Expansion02!BabyDragon!BabyDragon01_DisplayName&Синий детский дракон
+N
+/Expansion02!BabyDragon!BabyDragon02_DisplayNameКрасный Дракон
+]
+/Expansion02!BabyDragon!BabyDragon03_DisplayName*Зеленый детский дракон
+a
+/Expansion02!BabyDragon!BabyDragon04_DisplayName.Пурпурный детский дракон
+P
+/Expansion02!BabyDragon!BabyDragon05_DisplayNameДракон детеныша
+d
+7Expansion02!BabyDragon!ScholaryDragonSkin01_DisplayName)Стипендиатский дракон
+N
+1Expansion02!BabyPegasus!BabyPegasus01_DisplayNameРозовый Пегас
+J
+1Expansion02!BabyPegasus!BabyPegasus02_DisplayNameСиний Пегас
+L
+1Expansion02!BabyPegasus!BabyPegasus03_DisplayNameЖелтый Пегас
+L
+1Expansion02!BabyPegasus!BabyPegasus04_DisplayNameПерсик Пегас
+L
+1Expansion02!BabyPegasus!BabyPegasus05_DisplayNameЧерный Пегас
+P
+7Expansion02!BabyPegasus!Herc_Pegasus_Baby01_DisplayNameМалыш Пегас
+`
+6Expansion02!FairyTales!CritterFairyTales01_DisplayName&Синий детский дракон
+v
+BExpansion02!FairyTales!CritterFairyTales01_FavoriteItemDescription0{Placeholder}A песня "Огонь и лед"
+U
+6Expansion02!FairyTales!CritterFairyTales02_DisplayNameКрасный Дракон
+v
+BExpansion02!FairyTales!CritterFairyTales02_FavoriteItemDescription0{Placeholder}A песня "Огонь и лед"
+d
+6Expansion02!FairyTales!CritterFairyTales03_DisplayName*Зеленый детский дракон
+v
+BExpansion02!FairyTales!CritterFairyTales03_FavoriteItemDescription0{Placeholder}A песня "Огонь и лед"
+h
+6Expansion02!FairyTales!CritterFairyTales04_DisplayName.Пурпурный детский дракон
+v
+BExpansion02!FairyTales!CritterFairyTales04_FavoriteItemDescription0{Placeholder}A песня "Огонь и лед"
+Q
+0Expansion02!Library!CritterLibrary01_DisplayNameКоричневая сова
+[
+<Expansion02!Library!CritterLibrary01_FavoriteItemDescription{Placeholder}grain & Barley
+Q
+0Expansion02!Library!CritterLibrary02_DisplayNameФиолетовая сова
+[
+<Expansion02!Library!CritterLibrary02_FavoriteItemDescription{Placeholder}grain & Barley
+I
+0Expansion02!Library!CritterLibrary03_DisplayNameТёмная сова
+[
+<Expansion02!Library!CritterLibrary03_FavoriteItemDescription{Placeholder}grain & Barley
+I
+0Expansion02!Library!CritterLibrary04_DisplayNameЛегкая сова
+[
+<Expansion02!Library!CritterLibrary04_FavoriteItemDescription{Placeholder}grain & Barley
+Q
+4Expansion02!Mythology!CritterMythology01_DisplayNameРозовый Пегас
+e
+@Expansion02!Mythology!CritterMythology01_FavoriteItemDescription!{Placeholder}Vegetable Feal Stars
+M
+4Expansion02!Mythology!CritterMythology02_DisplayNameСиний Пегас
+e
+@Expansion02!Mythology!CritterMythology02_FavoriteItemDescription!{Placeholder}Vegetable Feal Stars
+O
+4Expansion02!Mythology!CritterMythology03_DisplayNameЖелтый Пегас
+e
+@Expansion02!Mythology!CritterMythology03_FavoriteItemDescription!{Placeholder}Vegetable Feal Stars
+O
+4Expansion02!Mythology!CritterMythology04_DisplayNameПерсик Пегас
+e
+@Expansion02!Mythology!CritterMythology04_FavoriteItemDescription!{Placeholder}Vegetable Feal Stars
+B
+!Expansion02!Owl!Owl01_DisplayNameКоричневая сова
+B
+!Expansion02!Owl!Owl02_DisplayNameФиолетовая сова
+:
+!Expansion02!Owl!Owl03_DisplayNameТёмная сова
+8
+!Expansion02!Owl!Owl04_DisplayNameБелая сова
+;
+!FootStool!FootStool01_DisplayNameИнструменты
+K
+"Forest!CritterForest01_DisplayName%Классический лаксон
+@
+.Forest!CritterForest01_FavoriteItemDescriptionЧерника
+?
+"Forest!CritterForest02_DisplayNameКрасный лакун
+@
+.Forest!CritterForest02_FavoriteItemDescriptionЧерника
+?
+"Forest!CritterForest03_DisplayNameЧерный лаксон
+@
+.Forest!CritterForest03_FavoriteItemDescriptionЧерника
+=
+"Forest!CritterForest04_DisplayNameБелый лаксон
+@
+.Forest!CritterForest04_FavoriteItemDescriptionЧерника
+C
+"Forest!CritterForest05_DisplayName"Голубой лаксон"
+@
+.Forest!CritterForest05_FavoriteItemDescriptionЧерника
+G
+"Fox!Dreamlight!color01_DisplayName!"Голубая вибрация"
+B
+"Fox!Dreamlight!color02_DisplayNameРозовый Whimsical Fox
+A
+Fox!FestiveFox01_DisplayName!Фестивальная лиса
+,
+Fox!Fox01_DisplayNameБелая лиса
+:
+Fox!Fox02_DisplayName!Классическая лиса
+.
+Fox!Fox03_DisplayNameЧерная лиса
+*
+Fox!Fox04_DisplayNameСиний лис
+0
+Fox!Fox05_DisplayNameКрасная лиса
+F
+Fox!GhostZeroFox01_DisplayName$Призрачно"Ноль"Лиса
+E
+Fox!LionFox01_DisplayName(Танцующий львовый лис
+<
+!Fox!LionInspiredFox01_DisplayName"Льв"Коб-Фокс
+g
+Fox!LoungeflyFox01_DisplayNameEОчаровательная хижина для гардеробов
+3
+Fox!RainbowFox_DisplayNameРадуга Фокс
+'
+Fox!RoyalFox01_DisplayName	Regal Fox
+T
+Frog!FrogEvil_DisplayName7Никогда после Лягушки Сниппет
+h
+"Frog!SnippetFrog01Blue_DisplayNameBСниппет &lt; &lt; Синий лягушатник &gt; &gt;
+Z
+"Frog!SnippetFrog02Pink_DisplayName4Розовая лягушачья снайпетка
+b
+$Frog!SnippetFrog03Purple_DisplayName:Фиолетовая лягушачья снайпетка
+I
+$Frog!SnippetFrog04Yellow_DisplayName!Желтый лягушатник
+K
+"Meadow!CritterMeadow01_DisplayName%Классический кролик
+@
+.Meadow!CritterMeadow01_FavoriteItemDescriptionМорковь
+?
+"Meadow!CritterMeadow02_DisplayNameЧерный кролик
+@
+.Meadow!CritterMeadow02_FavoriteItemDescriptionМорковь
+G
+"Meadow!CritterMeadow03_DisplayName!Коричневый кролик
+@
+.Meadow!CritterMeadow03_FavoriteItemDescriptionМорковь
+=
+"Meadow!CritterMeadow04_DisplayNameБелый кролик
+@
+.Meadow!CritterMeadow04_FavoriteItemDescriptionМорковь
+?
+"Meadow!CritterMeadow05_DisplayNameКролик Калико
+@
+.Meadow!CritterMeadow05_FavoriteItemDescriptionМорковь
+(
+Moana!Heihei_DisplayNameХейхей
+
+Moana!Pua_DisplayNameПуа
+D
+%Rabbit!Dreamlight!color01_DisplayNameГолубой кролик
+D
+%Rabbit!Dreamlight!color02_DisplayNameРозовый кролик
+D
+Rabbit!EnvyRabbit_DisplayName#Завистливый кролик
+@
+Rabbit!GingerRabbit_DisplayNameИмбирный кролик
+@
+#Rabbit!PlatinumRabbit01_DisplayNameНежный кролик
+D
+Rabbit!Rabbit01_DisplayName%Классический кролик
+8
+Rabbit!Rabbit02_DisplayNameЧерный кролик
+@
+Rabbit!Rabbit03_DisplayName!Коричневый кролик
+6
+Rabbit!Rabbit04_DisplayNameБелый кролик
+8
+Rabbit!Rabbit05_DisplayNameКролик Калико
+P
+$Rabbit!SpringRabbit_Blue_DisplayName(Синий весенний кролик
+T
+$Rabbit!SpringRabbit_Pink_DisplayName,Розовый весенний кролик
+T
+&Rabbit!SpringRabbit_Yellow_DisplayName*Желтый весенний кролик
+]
+%Racoon!Dreamlight!color01_DisplayName4"Голубой химтический лаксон"
+G
+%Racoon!Dreamlight!color02_DisplayNameРозовый Whimsic Raccoon
+B
+)Racoon!Emotions!RacoonAnger01_DisplayNameГнев Раккун
+V
++Racoon!Emotions!RacoonDisgust01_DisplayName'Отвратительный лакун
+I
+(Racoon!Emotions!RacoonFear01_DisplayNameБойтесь роккона
+>
+'Racoon!Emotions!RacoonJoy01_DisplayNameДжой Ракун
+H
++Racoon!Emotions!RacoonSadness01_DisplayNameГрусть Раккун
+D
+Racoon!Racoon01_DisplayName%Классический лаксон
+8
+Racoon!Racoon02_DisplayNameКрасный лакун
+8
+Racoon!Racoon03_DisplayNameЧерный лаксон
+6
+Racoon!Racoon04_DisplayNameБелый лаксон
+<
+Racoon!Racoon05_DisplayName"Голубой лаксон"
+>
+Racoon!RacoonDoll01_DisplayNameВетряной лакюн
+?
+"Racoon!RacoonSnowman01_DisplayNameСнежный лакун
+G
+ Raven!ChineseRaven01_DisplayName#Мистический Феникс
+<
+$Raven!Dreamlight!color01_DisplayNameBlue Whimsical Raven
+T
+$Raven!Dreamlight!color02_DisplayName,Розовый волшебный ворон
+7
+Raven!EnnuiRaven_DisplayNameЭннуи Рейвен
+=
+Raven!LumenRaven01_DisplayNameОгненный ворон
+D
+Raven!PirateRaven01_DisplayName!Пиратский попугай
+@
+Raven!Raven01_DisplayName#Классический ворон
+6
+Raven!Raven02_DisplayNameКрасный Ворон
+4
+Raven!Raven03_DisplayNameБелый Ворона
+8
+Raven!Raven04_DisplayNameГолубая ворона
+<
+Raven!Raven05_DisplayNameКоричневый ворон
+T
+$Savanna!CritterSavanna01_DisplayName,Красная солнечная птица
+G
+0Savanna!CritterSavanna01_FavoriteItemDescriptionЦвет цвета
+R
+$Savanna!CritterSavanna02_DisplayName*Бирюза солнечная птица
+G
+0Savanna!CritterSavanna02_FavoriteItemDescriptionЦвет цвета
+Z
+$Savanna!CritterSavanna03_DisplayName2Изумрудная солнечная птица
+G
+0Savanna!CritterSavanna03_FavoriteItemDescriptionЦвет цвета
+T
+$Savanna!CritterSavanna04_DisplayName,Золотая солнечная птица
+G
+0Savanna!CritterSavanna04_FavoriteItemDescriptionЦвет цвета
+R
+$Savanna!CritterSavanna05_DisplayName*Орхидеи солнечных птиц
+G
+0Savanna!CritterSavanna05_FavoriteItemDescriptionЦвет цвета
+A
+*SnowCliffs!CritterSnowCliffs01_DisplayNameБелая лиса
+�
+6SnowCliffs!CritterSnowCliffs01_FavoriteItemDescriptionFУникальная рыба с размораженных высот
+O
+*SnowCliffs!CritterSnowCliffs02_DisplayName!Классическая лиса
+�
+6SnowCliffs!CritterSnowCliffs02_FavoriteItemDescriptionFУникальная рыба с размораженных высот
+C
+*SnowCliffs!CritterSnowCliffs03_DisplayNameЧерная лиса
+�
+6SnowCliffs!CritterSnowCliffs03_FavoriteItemDescriptionFУникальная рыба с размораженных высот
+?
+*SnowCliffs!CritterSnowCliffs04_DisplayNameСиний лис
+�
+6SnowCliffs!CritterSnowCliffs04_FavoriteItemDescriptionFУникальная рыба с размораженных высот
+E
+*SnowCliffs!CritterSnowCliffs05_DisplayNameКрасная лиса
+�
+6SnowCliffs!CritterSnowCliffs05_FavoriteItemDescriptionFУникальная рыба с размораженных высот
+I
+$Squirrel!AnxietySquirrel_DisplayName!Беспокойная белка
+D
+'Squirrel!Dreamlight!color01_DisplayNameГолубая белка
+D
+'Squirrel!Dreamlight!color02_DisplayNameРозовая белка
+4
+&Squirrel!IncrediSquirrel01_DisplayName
+Белка
+D
+#Squirrel!ParkSquirrel01_DisplayNameВолшебная белка
+N
+&Squirrel!PopCornSquirrel01_DisplayName$Пеппи Попкорн Белка
+<
+$Squirrel!ScarySquirrel01_DisplayNameШрамy Белка
+F
+Squirrel!Squirrel01_DisplayName#Классическая белка
+<
+Squirrel!Squirrel02_DisplayNameКрасная белка
+8
+Squirrel!Squirrel03_DisplayNameСерая белка
+:
+Squirrel!Squirrel04_DisplayNameЧерная белка
+-
+Squirrel!Squirrel05_DisplayName
+Белка
+a
+&Sunbird!Dreamlight!color01_DisplayName7Голубая птичка солнечных птиц
+c
+&Sunbird!Dreamlight!color02_DisplayName9Розовая птичка солнечная птица
+F
+'Sunbird!Lovebird!Lovebird01_DisplayNameРозовая птичка
+O
+'Sunbird!Lovebird!Lovebird02_DisplayName$Зеленая птица любви
+M
+Sunbird!Sunbird01_DisplayName,Красная солнечная птица
+K
+Sunbird!Sunbird02_DisplayName*Бирюза солнечная птица
+S
+Sunbird!Sunbird03_DisplayName2Изумрудная солнечная птица
+M
+Sunbird!Sunbird04_DisplayName,Золотая солнечная птица
+K
+Sunbird!Sunbird05_DisplayName*Орхидеи солнечных птиц
+T
+$Turtle!CelestialTurtle01_DisplayName,Черепаха небесного моря
+5
+!Turtle!CitrusTurtle01_DisplayNameЧерепаха
+H
+%Turtle!Dreamlight!color01_DisplayNameГолубая черепаха
+H
+%Turtle!Dreamlight!color02_DisplayNameРозовая черепаха
+J
+%Turtle!EmbarassmentTurtle_DisplayName!Смущение Черепахи
+K
+#Turtle!RockstarTurtle01_DisplayName$Черепаха рок-звезда
+W
+Turtle!Turtle01_DisplayName8Классическая морская черепаха
+S
+Turtle!Turtle02_DisplayName4Коричневый морской черепаха
+I
+Turtle!Turtle03_DisplayName*Белый морской черепаха
+Q
+Turtle!Turtle04_DisplayName2Пурпурные морские черепахи
+H
+Turtle!Turtle05_DisplayName)Черноморская черепаха
+]
+$Turtle!ValentineTurtle01_DisplayName5Черепаха Рози Клауд Черепаха
+G
+ Urban!CritterUrban01_DisplayName#Классическая белка
+I
+,Urban!CritterUrban01_FavoriteItemDescriptionПыльные орехи
+=
+ Urban!CritterUrban02_DisplayNameКрасная белка
+I
+,Urban!CritterUrban02_FavoriteItemDescriptionПыльные орехи
+9
+ Urban!CritterUrban03_DisplayNameСерая белка
+I
+,Urban!CritterUrban03_FavoriteItemDescriptionПыльные орехи
+;
+ Urban!CritterUrban04_DisplayNameЧерная белка
+I
+,Urban!CritterUrban04_FavoriteItemDescriptionПыльные орехи
+.
+ Urban!CritterUrban05_DisplayName
+Белка
+I
+,Urban!CritterUrban05_FavoriteItemDescriptionПыльные орехи
+S
+&Wetlands!CritterWetlands01_DisplayName)Классический крокодил
+t
+2Wetlands!CritterWetlands01_FavoriteItemDescription>Уникальная рыба из Глейда доверия
+E
+&Wetlands!CritterWetlands02_DisplayNameСиний крокодил
+t
+2Wetlands!CritterWetlands02_FavoriteItemDescription>Уникальная рыба из Глейда доверия
+I
+&Wetlands!CritterWetlands03_DisplayNameКрасный крокодил
+t
+2Wetlands!CritterWetlands03_FavoriteItemDescription>Уникальная рыба из Глейда доверия
+I
+&Wetlands!CritterWetlands04_DisplayNameЗолотой крокодил
+t
+2Wetlands!CritterWetlands04_FavoriteItemDescription>Уникальная рыба из Глейда доверия
+E
+&Wetlands!CritterWetlands05_DisplayNameБелый крокодил
+t
+2Wetlands!CritterWetlands05_FavoriteItemDescription>Уникальная рыба из Глейда доверия
+I
+&Wetlands!CritterWetlands06_DisplayNameРозовый крокодил
+t
+2Wetlands!CritterWetlands06_FavoriteItemDescription>Уникальная рыба из Глейда доверия
+=
+Aladdin!Carpet_DisplayNameВолшебный коврик
+]
+0Expansion01!Capybara!RelaxCapybara01_DisplayName)Расслабление Капибары
+D
+!Rabbit!WinterRabbit01_DisplayNameКролик хрустящий
+7
+!Reindeer!BabyReindeer_DisplayNameЛ'ил Олень

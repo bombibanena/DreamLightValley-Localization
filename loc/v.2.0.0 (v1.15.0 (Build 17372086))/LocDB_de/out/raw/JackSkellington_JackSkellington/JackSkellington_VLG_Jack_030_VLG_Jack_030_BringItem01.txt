@@ -1,0 +1,27 @@
+TAG: JackSkellington_002_f
+Here you go, Jack â one <ActivityItem>Candy Skull</ActivityItem>, as promised.
+
+TAG: JackSkellington_003_f
+Ahh wonderful, {PlayerName}! If I had skin, it would be goosebumped now.
+
+TAG: Player_001_choice_000_f
+That's what I like to hear!
+
+TAG: Player_001_choice_001_f
+That... sounds really creepy.
+
+TAG: JackSkellington_004_f
+You're very good at following directions. There are three children in Halloween Town who could learn a lot from you.
+
+TAG: JackSkellington_007_f
+What are you planning with the <ActivityItem>Candy Skull</ActivityItem>?
+
+TAG: JackSkellington_008_f
+Oh, you'll see, just not quite yet.
+
+TAG: JackSkellington_005_f
+Perfect. That's just what I was going for.
+
+TAG: JackSkellington_006_f
+Yeah, I guess that's pretty on brand for you.
+

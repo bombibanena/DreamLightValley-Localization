@@ -1,0 +1,42 @@
+TAG: Story!ORQS_Merl_030_FloatingIslands_Any_CompletedRequestDescription
+Return to Merlin.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_AvailableDescription
+Talk to Merlin.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_CompletedStoryDescription
+You decorate the Dreamlight Library and relocate it to the floating Plaza Island. Merlin encourages you to access and decorate every Floating Island, and to make them your own.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_DisplayName
+Islands in the Sky
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group02_Step02_VisitArea01_StepDescription
+(You can also press {input_mainmenu} to access the Valley map and Fast Travel menu.)
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group02_StepDescription
+Use a Wishing Well to travel to the floating Plaza Island.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group02_StoryDescription
+Merlin tells you that he has discovered a way to travel to the islands that float about Dreamlight Valley using Wishing Wells. He asks you to use a Well to travel to the floating Plaza Island and meet him there.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group03_Step03_TalkToCharacter02_StepDescription
+Talk to {TargetNPC} on the floating Plaza Island.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group04_Step04_VisitArea02_StepDescription
+Return to the floating Plaza Island.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group05_Step05_Decorate01_StepDescription
+Use any furniture items.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group05_Step05_Decorate02_StepDescription
+Move the <Lore>Dreamlight Library</Lore> to the Plaza Island.
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group05_StepDescription
+Decorate the floating Plaza Island:
+
+TAG: Story!ORQS_Merl_030_FloatingIslands_Group05_StoryDescription
+Merlin invites you to decorate the first island to your heart's content, and asks you to include both landscaping and the Dreamlight Library in the decor.
+

@@ -1,0 +1,51 @@
+
+Y
+Donald_000_fISay, Donald... do you ever feel like YOU should be in charge around here?
+/
+Donald_001_fWell, now that ya mention it...
+'
+Donald_002_fI'd make a great ruler!
+W
+Donald_003_fGAnd... does it ever make you just a little bit jealous that you're not?
+W
+Donald_004_fGHuh?! What's going on? Why are you askin' me all these funny questions?
+c
+Donald_005_fSThe Forgotten needs some help finishing part of a poem about being a jealous ruler.
+M
+Donald_006_f=I guess you aren't really the right person to ask about it...
+@
+Player_000_choice_000_f%Did you want to hear the poem anyway?
+A
+Player_000_choice_001_f&I better keep looking. See you around!
+8
+Donald_007_f(Sure! I'm an excellent poet. What is it?
+F
+Donald_008_f6<Lore>I once was the ruler of all I surveyed...</Lore>
+G
+Donald_009_f7<Lore>But now I'm cast out and I feel so afraid.</Lore>
+J
+Donald_010_f:<Lore>Nothing I do seems to make the world right...</Lore>
+C
+Donald_011_f3That's it. The Forgotten needs a rhyme for "right."
+N
+Donald_012_f>There's your problem. No good poetry words rhyme with "right"!
+#
+Player_001_choice_000_f"Fight"?
+$
+Player_001_choice_001_f	"Fright"?
+$
+Player_001_choice_002_f	"Flight"?
+'
+Player_001_choice_003_f"Satellite"?
+J
+Donald_013_f:Ha-ha-ha! That would be a ridiculous way to end that poem.
+P
+Donald_014_f@I'm gonna go write my own poem, and then you'll see true genius!
+2
+Donald_015_f"Well, okay. But in the meantime...
+R
+Donald_016_fBI have to keep looking for a <Lore>jealous wannabe ruler</Lore>...
+g
+Donald_017_fWOkay, but remember: If you ever need help with poems OR ruling the Valley, come see me!
+6
+Donald_018_f&I'll keep that in mind. But for now...

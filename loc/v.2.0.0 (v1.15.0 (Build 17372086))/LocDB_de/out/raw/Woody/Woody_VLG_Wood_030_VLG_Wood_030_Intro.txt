@@ -1,0 +1,48 @@
+TAG: Woody_006_f
+Hey, {PlayerName}, I figured out what happened to the other <ActivityItem>Alien Toys</ActivityItem>. Do you have some time to talk about it?
+
+TAG: Player_000_choice_000_f
+Tell me everything.
+
+TAG: Player_000_choice_001_f
+I'm busy, sorry.
+
+TAG: Woody_001_f
+Well, I tried to track 'em down... but then, I remembered something.
+
+TAG: Woody_011_f
+Those little guys have always lived inside that Claw Machine because they could never learn to stop acting like toys around you and the other Villagers.
+
+TAG: Woody_012_f
+But now, the Claw Machine's broken, and it's my fault they don't have a home anymore.
+
+TAG: Player_001_choice_000_f
+Don't feel bad. It was an accident.
+
+TAG: Player_001_choice_001_f
+I understand. What should we do now?
+
+TAG: Player_001_choice_002_f
+They were squatting in your place.
+
+TAG: Woody_013_f
+I know. I know. But we still gotta make it right.
+
+TAG: Woody_014_f
+We'll have to craft a new <ActivityItem>Claw Machine</ActivityItem>, so they'll have a place to live.
+
+TAG: Woody_002_f
+Here, take the <ActivityItem>Claw Machine Pieces</ActivityItem> you found before.
+
+TAG: Woody_003_f
+Oh, and the <ActivityItem>Claw</ActivityItem>. Turns out that thing's indestructible.
+
+TAG: Woody_000_f
+And we'll need a few other things too. I talked to Kristoff, and he said it'd take some <ActivityItem>Hardwood</ActivityItem>, an <ActivityItem>Iron Ingot</ActivityItem>, and <ActivityItem>Glass</ActivityItem>.
+
+TAG: Woody_015_f
+No, no, no. They were more like roommates. Very squeaky roommates.
+
+TAG: Woody_008_f
+Okay. I'll be around whenever you've got a minute.
+

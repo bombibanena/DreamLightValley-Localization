@@ -1,0 +1,21 @@
+TAG: Village!Mulan!Mulan!VLG_Mula_050_AvailableDescription
+Поговори с Нала о поимке флага.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_050_CompletedStoryDescription
+Вы выловили флаг Нала из воды на пляже Даззл! Команда Мулан ближе к победе!
+
+TAG: Village!Mulan!Mulan!VLG_Mula_050_DisplayName
+Учебные игры: «Лионесс»
+
+TAG: Village!Mulan!Mulan!VLG_Mula_050_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_050_Group02_Step02_BringItem01_StepDescription
+Найди {itemName} рыбачить где-нибудь, где пахнет солью, рыбой и песком.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_050_Group02_Step02_ReadyDescription
+Возьмите {itemName} на Нала.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_050_Group02_StoryDescription
+Нала говорит, что её мини-флаг в тренировочной игре спрятан где-то, где пахнет песком, рыбой и соленой водой.
+

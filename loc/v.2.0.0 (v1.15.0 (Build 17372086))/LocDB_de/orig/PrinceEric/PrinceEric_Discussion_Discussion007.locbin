@@ -1,0 +1,34 @@
+
+;
+PrinceEric_000_f'Settle a question for me, {PlayerName}.
+T
+PrinceEric_001_f@I love sailing big ships. Galleons, with a crew and three masts.
+\
+PrinceEric_002_fHBut Moana says there's nothing like skimming the waves in a small canoe.
+E
+PrinceEric_003_f1Which do you prefer? A big ship or a small canoe?
+%
+Player_000_choice_000_f
+Big ships.
+(
+Player_000_choice_001_fSmall canoes.
+&
+Player_000_choice_002_fIt depends.
+I
+PrinceEric_005_f5That's how I feel. I like a solid deck under my feet.
+T
+PrinceEric_008_f@And bigger ships means you can haul more, and carry more people.
+j
+PrinceEric_009_fVBut maybe I'm just more comfortable with large ships because they're what I'm used to.
+S
+PrinceEric_004_f?Yeah? Well, they are useful. I can't deny that. Light and fast.
+`
+PrinceEric_007_fLMoana offered to teach me how to sail one. Maybe I should take her up on it.
+]
+PrinceEric_006_fII guess you're right. Different kinds of boats work for different things.
+F
+PrinceEric_010_f2My kingdom needs large ships to carry trade cargo.
+X
+PrinceEric_011_fDBut Moana's canoe is perfect for navigating between smaller islands.
+5
+PrinceEric_012_f!We're lucky we have both options.

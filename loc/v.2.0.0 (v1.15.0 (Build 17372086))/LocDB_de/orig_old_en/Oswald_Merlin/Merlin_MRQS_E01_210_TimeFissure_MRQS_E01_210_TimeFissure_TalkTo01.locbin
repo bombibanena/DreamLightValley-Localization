@@ -1,0 +1,31 @@
+
+7
+Merlin_002_f'Gracious, {PlayerName}! What happened?!
+n
+Merlin_003_f^Don't tell me you attempted to harness the power of the Spark of Imagination without guidance?
+c
+Merlin_004_fSNot quite. I was trying to leave the Ancient Ruins with the Spark of Imagination...
+'
+Merlin_005_f...when I ran into YOU.
+`
+Merlin_006_fPYou ran into ME?! That's... that's preposterous! I most certainly was not there.
+4
+Player_000_choice_000_fIt was Jafar in disguise.
+E
+Player_000_choice_001_f*It was a certain Royal Vizier in disguise.
+D
+Player_000_choice_002_f)I'll let you figure this out on your own.
+ö
+Merlin_007_fâJafar?! Ugh, of course it was him. That would-be usurper has no shortage of schemes up his sleeve when it comes to getting what he wants.
+^
+Merlin_008_fNAnd it appears he's already begun experimenting with the Spark of Imagination.
+;
+Merlin_012_f+We must investigate. I'll consult my notes.
+Å
+Merlin_013_fqIn the meantime, why don't you <Lore>check in with the Villagers</Lore> and <Lore>investigate those rifts</Lore>?
+Q
+Merlin_009_fARoyal Vizier...? Why, it couldn't have been...? No, it wasn't...?
+m
+Merlin_010_f]Unless I did meet you there, but the residual effects of the Forgetting erased it from my...?
+e
+Merlin_011_fUNo, couldn't be. It must have been someone else. Someone in disguise. Someone like...

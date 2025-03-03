@@ -1,0 +1,51 @@
+TAG: Sally_002_f
+What interesting items. I'm sure they'll make wonderful fabric for the quilt.
+
+TAG: Sally_003_f
+I already have an idea for how we'll piece them together.
+
+TAG: Player_000_choice_000_f
+I can't wait to see it finished!
+
+TAG: Player_000_choice_001_f
+What's next?
+
+TAG: Player_000_choice_002_f
+Anything else I can do?
+
+TAG: Sally_005_f
+Well, it will take some time.
+
+TAG: Sally_004_f
+The Fairy Godmother and I were talking, and we thought it might be nice to share the quilt and all of its memories with the Village.
+
+TAG: Sally_007_f
+Maybe we could make it an event. With food and guests...
+
+TAG: Player_001_choice_000_f
+What kind of food?
+
+TAG: Player_001_choice_001_f
+I love this idea!
+
+TAG: Player_001_choice_002_f
+Any excuse for a get-together!
+
+TAG: Sally_008_f
+I'm not sure... Could you <Lore>speak with some Villagers</Lore> and ask them for ideas? They might have some foods related to their favorite memories.
+
+TAG: Sally_011_f
+Great idea! Like a theme party!
+
+TAG: Sally_012_f
+Oh, {PlayerName}, I think this will be a wonderful occasion!
+
+TAG: Sally_000_f
+While you sew, I'll look into some food for the party.
+
+TAG: Sally_009_f
+I'll <Lore>ask some Villagers</Lore> if they have any dishes linked to good memories.
+
+TAG: Sally_010_f
+It's no wonder you and Jack get along so well.
+

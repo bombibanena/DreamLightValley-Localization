@@ -1,0 +1,39 @@
+TAG: Belle_000_f
+{PlayerName}, I'd love to tell you about my father. He's an inventor. His most recent invention is a log-cutting machine.
+
+TAG: Belle_001_f
+But he's also made a model of the solar system, and a device for washing dishes!
+
+TAG: Player_000_choice_000_f
+A log-cutting machine?!
+
+TAG: Player_000_choice_001_f
+A model solar system?!
+
+TAG: Player_000_choice_002_f
+He made a DISHWASHER?!
+
+TAG: Belle_002_f
+Yes. It cuts logs into firewood and runs on steam!
+
+TAG: Belle_003_f
+He was going to enter it in a fair, but I'm afraid he didn't make it there.
+
+TAG: Belle_004_f
+But hopefully next year. He's sure to win first prize!
+
+TAG: Belle_005_f
+Yes. It has the sun, the Earth, and the planets we can see through our telescope.
+
+TAG: Belle_006_f
+He hung them on metal wire and created a mechanism so they'll rotate when he turns a crank!
+
+TAG: Belle_007_f
+I loved it when I was a child. Actually, I still do.
+
+TAG: Belle_008_f
+Yes. Though he did break most of our dishes testing it...
+
+TAG: Belle_009_f
+But once we were able to buy new dishes, it was very useful!
+

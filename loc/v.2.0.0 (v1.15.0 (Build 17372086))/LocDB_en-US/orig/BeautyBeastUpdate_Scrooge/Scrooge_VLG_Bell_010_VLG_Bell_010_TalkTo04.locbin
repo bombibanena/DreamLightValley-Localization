@@ -1,0 +1,39 @@
+
+_
+Scrooge_001_fN{PlayerName}, I cannae wait to hear what new opportunity ya have for me today.
+È
+Scrooge_002_f¶It's more about something you have for me, actually. Belle and I are looking for missing <ActivityItem>Books</ActivityItem> from the Library, and you're supposed to have one of them.
+^
+Scrooge_003_fMAh yes! <ActivityItem>Coin Pool Theory</ActivityItem>, a fascinating subject.
+>
+Scrooge_004_f-In fact, I've a mind to keep it for myself...
+:
+Player_000_choice_000_fYou can always borrow it again.
+>
+Player_000_choice_001_f#Maybe other people want to read it.
+7
+Player_000_choice_002_fIt belongs in the Library...
+U
+Scrooge_000_fDAye, I might just do that. After I reimburse the Library, of course.
+~
+Scrooge_025_fmDon't worry. I'll find it. One <Lore>book treasure hunt to dig it up on Dazzle Beach</Lore>, coming right up.
+>
+Scrooge_009_f-But unfortunately, I no longer have the book.
+#
+Scrooge_020_fSo where is it...?
+;
+Scrooge_011_f*Och, it's quite a humorous tale, actually.
+n
+Scrooge_012_f]I was on Dazzle Beach digging for treasure. But alas, I couldnae find even a rusted farthing.
+_
+Scrooge_021_fNTo get a bit of relief from the sun, I sat down in one of the holes I'd dug...
+q
+Scrooge_022_f`...and decided to do some reading. After a spell, I got up and filled in all the holes I'd made.
+
+Scrooge_023_fnIt was only once I got back to the Plaza that I realized the book was missing! I must've buried it by mistake.
+`
+Scrooge_024_fOI planned to go back and dig it up, but I've no idea which hole I buried it in!
+ƒ
+Scrooge_006_frAye, I'm sure others would love to know the secret of making a good coin pool so they can make one for themselves.
+r
+Scrooge_007_faAye, no need to ruffle your feathers, {PlayerName}! I would've reimbursed the Library, of course.

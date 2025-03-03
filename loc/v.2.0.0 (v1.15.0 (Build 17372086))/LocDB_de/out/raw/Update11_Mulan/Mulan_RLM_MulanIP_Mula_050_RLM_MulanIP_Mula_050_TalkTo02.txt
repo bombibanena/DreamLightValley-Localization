@@ -1,0 +1,15 @@
+TAG: Mulan_005_f
+You're almost ready. Now your goal is to find your way through the Training Maze while carrying the <ActivityItem>Training Weights</ActivityItem>.
+
+TAG: Mulan_000_f
+But it's not just about carrying your pack and finding your way. You also need to be aware of all your surroundings down to the smallest stone.
+
+TAG: Mulan_006_f
+Which is why I'm going to hide some <ActivityItem>Pebbles</ActivityItem> in there. Find them all, then meet me at the flag inside the maze.
+
+TAG: Mulan_007_f
+Give me a moment to set everything up, and then you can start.
+
+TAG: Mulan_008_f
+OKAY, GO! I'M WAITING FOR YOU NEAR THE FLAG!
+

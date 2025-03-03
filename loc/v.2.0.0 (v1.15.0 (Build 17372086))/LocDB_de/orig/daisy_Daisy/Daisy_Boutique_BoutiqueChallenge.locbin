@@ -1,0 +1,19 @@
+
+M
+Daisy_000_f>I think you should design something that uses {challengedata}.
+X
+Daisy_001_fITalk to me again in {remainingtime} if you want to start a new challenge!
+[
+Daisy_002_fLYou completed the challenge! Here's your reward: {rewardamount} Daisy Coins!
+;
+Daisy_003_f,No, you haven't completed the challenge yet.
+L
+Player_000_f<Do you really want to cancel the current Boutique Challenge?
+;
+Player_000_choice_000_f No, I'll stay in this challenge.
+6
+Player_000_choice_001_fYes. Cancel this challenge.
+6
+Daisy_005_f'Okay! I can't wait to see your designs!
+P
+Daisy_004_fAAll right. Talk to me again if you want to start a new challenge!

@@ -1,0 +1,21 @@
+
+í
+Merlin_000_fÅ{PlayerName}, I see you've found another <Lore>mysterious Time Rift</Lore>. This too is connected to the magic of your Hourglass.
+w
+Merlin_001_fgChannel the magical <ActivityItem>Mist</ActivityItem> within it to mend this wound in time and space...
+k
+Merlin_002_f[When you do, you can explore another area of the Wild Tangle... the <Lore>Promenade</Lore>!
+~
+Player_000_choice_000_fcI'll channel the magic of the Hourglass... (Use {UpgradePrice} <sprite="iconCurrencyMist" index=0>)
+5
+Player_000_choice_001_fI'm not quite ready yet...
+ë
+Merlin_003_fÄWell done, {PlayerName}! Now you can visit the Promenade. If memory serves, it's a rather exciting and curious place for a walk.
+ä
+Merlin_004_fzEh, it appears we have a bit of a problem. You don't have enough <ActivityItem>Mist</ActivityItem> to mend this Time Rift.
+ò
+Merlin_005_fáRemember... the <ActivityItem>Mist</ActivityItem> is <Lore>connected to the magic of your Hourglass and to Eternity Isle itself</Lore>.
+∑
+Merlin_006_f¶You must keep uncovering wonders with your Hourglass and continue to make Eternity Isle a home. As you do, you'll gain the <ActivityItem>Mist</ActivityItem> required!
+ä
+Merlin_007_fzWell, don't take too long, {PlayerName}. The Wild Tangle has a life of its own. I venture you won't want to miss a moment!

@@ -1,0 +1,129 @@
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Any_CompletedRequestDescription
+Return to Woody.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_AvailableDescription
+Woody is a bit embarrassed. He tried to make himself useful and be a good neighbor by helping Remy prepare some meals at his restaurant, but cooking is a little harder than he expected. He needs your help.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_CompletedStoryDescription
+You discover that Woody's Carousel used to look very different in the past. What can it possibly mean for Woody?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_DisplayName
+Failing Better
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Remy.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group02_Step02_EatMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group02_Step02_EatMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group02_StepDescription
+Eat the meals Woody prepared.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group03_Step03_TalkToCharacter02_StepDescription
+That tasted awful. Return to Remy.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group04_Step04_TalkToCharacter03_StepDescription
+Talk to Woody.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_Step05_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_Step05_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_StepDescription
+Cook the following meals:
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group05_StoryDescription
+After tasting the horrendous meal Woody prepared, you realize he indeed needs your help and you decide to replace the meals he was supposed to prepare.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_ReadyDescription
+Bring the meals to Remy.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group06_Step06_StepDescription
+Make sure you have the following meals in your Inventory:
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group07_Step07_TalkToCharacter04_StepDescription
+Talk to Woody.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group08_Step08_FollowCharacter01_StepDescription
+Follow Woody to Dazzle Beach.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group08_Step08_FollowCharacter01_TalkToDescription
+Talk to Woody.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_Step09_StepDescription
+Catch some fresh {ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_Step10_StepDescription
+Gather some {ItemName}.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group09_StoryDescription
+After fixing the issue with Remy, Woody explains he wanted to get some ingredients for Goofy but was unable to procure any safely. You decide to help him.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group10_Step11_ReadyDescription
+Talk to Woody.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group10_Step11_StepDescription
+Make sure you have the Ingredients for Goofy in your Inventory.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I go see?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group11_Step12_ReadyDescription
+Bring the Ingredients to Goofy.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group11_Step12_StepDescription
+Make sure you have the Ingredients for Goofy's dinner in your Inventory.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group12_Step13_FollowCharacter02_StepDescription
+Meet Woody at the Carousel.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group12_Step13_FollowCharacter02_TalkToDescription
+Talk to Woody.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group13_StepDescription
+Clean up the <ActivityItem>Trash</ActivityItem> in the Carousel.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group13_StoryDescription
+After giving the Ingredients to Goofy, you find Woody at the Carousel. He explains to you that he wanted to do something useful for the Village and you decide that maybe it's best to start with the Carousel.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_Group14_Step15_ConsumeItem01_StepDescription
+Investigate the Memory in the Carousel.
+
+TAG: Village!ToyStory!Woody!VLG_Wood_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

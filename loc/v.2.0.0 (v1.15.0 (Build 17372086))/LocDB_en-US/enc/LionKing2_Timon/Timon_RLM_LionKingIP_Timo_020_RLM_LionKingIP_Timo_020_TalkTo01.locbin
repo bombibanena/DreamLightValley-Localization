@@ -1,0 +1,23 @@
+
+F
+Timon_000_f7Hey Timon, I found all this cool artwork in the jungle!
+.
+Timon_001_fDo you know where it came from?
+1
+Timon_002_f"Well, it sure wasn't me or Pumbaa.
+2
+Timon_003_f#Hey, that looks like Rafiki's work!
+"
+Player_000_choice_000_fRafiki?
+$
+Player_000_choice_001_f	Oh, cool!
+L
+Timon_004_f=Yeah, he's this wise monkey we know. Wise and a little kooky.
+8
+Timon_006_f)Nicely done, {PlayerName}. I'm impressed!
+8
+Timon_007_f)This kinda dedication should be rewarded.
+
+Timon_008_fHere!
+
+Timon_005_fYeah!

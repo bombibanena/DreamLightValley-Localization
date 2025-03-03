@@ -1,0 +1,59 @@
+
+X
+FVillage!BeautyBeast!Belle!VLG_Bell_010_Any_CompletedRequestDescriptionTalk to Belle.
+ÿ
+;Village!BeautyBeast!Belle!VLG_Bell_010_AvailableDescriptionòBelle comes to find you with a peculiar problem. She wanted to borrow some <ActivityItem>Books</ActivityItem> from the Dreamlight Library but Merlin refused because too many borrowed books have gone missing. Belle decides to hunt at least some of them down and asks for your help.
+Ï
+@Village!BeautyBeast!Belle!VLG_Bell_010_CompletedStoryDescriptionßMerlin is glad that you and Belle managed to get the missing tomes. He names you both honorary librarians and challenges you to find the proper places for each volume.
+?
+2Village!BeautyBeast!Belle!VLG_Bell_010_DisplayName	Book Hunt
+Q
+EVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_StepDescriptionTalk to:
+a
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter01_StepDescriptionGoofy.
+`
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter02_StepDescriptionRemy.
+c
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter03_StepDescriptionMirabel.
+j
+WVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_Step01_TalkToCharacter04_StepDescriptionScrooge McDuck.
+à
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess01_StepDescription5<ActivityItem>Bear in Mind</ActivityItem> from Goofy.
+ù
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess02_StepDescriptionJ<ActivityItem>Crafty Creatures</ActivityItem> from somewhere in the Plaza.
+ß
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess03_StepDescriptionT<ActivityItem>Extraordinary RATventures</ActivityItem> from the waters of the Beach.
+ï
+OVillage!BeautyBeast!Belle!VLG_Bell_010_Group02_Step02_Possess04_StepDescriptionB<ActivityItem>Coin Pool Theory</ActivityItem> buried on the Beach.
+y
+>Village!BeautyBeast!Belle!VLG_Bell_010_Group02_StepDescription7Gather the borrowed <ActivityItem>Books</ActivityItem>:
+ﬁ
+?Village!BeautyBeast!Belle!VLG_Bell_010_Group02_StoryDescriptionöYou've asked the Villagers on your list where the <ActivityItem>Books</ActivityItem> they borrowed are, and it's now up to you to find some of them again.
+z
+CVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem01_StepDescription*<ActivityItem>Bear in Mind</ActivityItem>.
+É
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem02_StepDescription.<ActivityItem>Crafty Creatures</ActivityItem>.
+å
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem03_StepDescription7<ActivityItem>Extraordinary RATventures</ActivityItem>.
+É
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_BringItem04_StepDescription.<ActivityItem>Coin Pool Theory</ActivityItem>.
+Ä
+FVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_ReadyDescription6Bring the <ActivityItem>Books</ActivityItem> to Belle.
+ï
+EVillage!BeautyBeast!Belle!VLG_Bell_010_Group03_Step03_StepDescriptionLMake sure you have the <ActivityItem>Books</ActivityItem> in your Inventory:
+≥
+?Village!BeautyBeast!Belle!VLG_Bell_010_Group03_StoryDescriptionpYou managed to get all the <ActivityItem>Books</ActivityItem> for the Library. It's time you give them to Belle.
+q
+NVillage!BeautyBeast!Belle!VLG_Bell_010_Group04_Step04_Listen01_StepDescriptionListen to Belle talk to Merlin.
+©
+?Village!BeautyBeast!Belle!VLG_Bell_010_Group04_StoryDescriptionfBelle wants to tell Merlin about the <ActivityItem>Books</ActivityItem> and asks you to come with her.
+r
+QVillage!BeautyBeast!Belle!VLG_Bell_010_Group05_Step05_VisitArea01_StepDescriptionGo to the Dreamlight Library.
+~
+CVillage!BeautyBeast!Belle!VLG_Bell_010_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+u
+CVillage!BeautyBeast!Belle!VLG_Bell_010_Group05_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+j
+9Village!BeautyBeast!Belle!VLG_Bell_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

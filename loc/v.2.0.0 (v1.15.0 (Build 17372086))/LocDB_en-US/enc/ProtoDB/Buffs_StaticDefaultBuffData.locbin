@@ -1,0 +1,21 @@
+
+4
+Description%{Placeholder}Generic Buff Description
+0
+Description_000Grants Speed Boosts and Luck.
+9
+Description_001&{Placeholder}Enables a hovering sprint
+:
+Description_002'{Placeholder}Less Cooldown on Criticals
+<
+Description_003){Placeholder}Better odds to get Criticals
+(
+DisplayName{Placeholder}Generic Buff
+
+DisplayName_000Well Fed
+/
+DisplayName_001{Placeholder}Hovering Sprint
+2
+DisplayName_002{Placeholder}Cooldown Reduction
+.
+DisplayName_003{Placeholder}More Criticals

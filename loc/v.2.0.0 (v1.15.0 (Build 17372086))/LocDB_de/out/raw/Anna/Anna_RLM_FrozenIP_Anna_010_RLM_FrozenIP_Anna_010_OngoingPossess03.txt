@@ -1,0 +1,12 @@
+TAG: Anna_000_f
+If we want to make <ActivityItem>Stone Soup</ActivityItem>, we need a few Ingredients first...
+
+TAG: Anna_001_f
+Some <ActivityItem>Craggy Rocks</ActivityItem>, <ActivityItem>Basil</ActivityItem>, and <ActivityItem>Oregano</ActivityItem>.
+
+TAG: Anna_002_f
+I'm sure we can find the right kind of rocks around here.
+
+TAG: Anna_003_f
+Then once we've got all the Ingredients, we'll cook them and leave them by the Earth Giant's foot.
+

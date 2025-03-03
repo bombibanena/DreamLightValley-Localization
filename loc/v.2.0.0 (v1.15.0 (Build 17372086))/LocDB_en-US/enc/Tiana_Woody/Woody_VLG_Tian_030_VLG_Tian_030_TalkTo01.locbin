@@ -1,0 +1,21 @@
+
+7
+Woody_000_f(Hey, Woody, I've got a proposal for you.
+]
+Woody_001_fNHowdy, {PlayerName}! Let me guess â you've got some critters to round up?
+2
+Player_000_choice_000_fNah, nothing like that.
+D
+Player_000_choice_001_f)Sort of â I'm rounding up Villagers!
+B
+Woody_003_f3Tiana wants to teach people how to cook Cajun food.
+G
+Woody_004_f8And there will be a contest to see who's the best at it.
+#
+Woody_005_fHmm, I don't know...
+t
+Woody_006_feI've got a plastic palate. I doubt that's the best for a competition that involves making human food.
+5
+Woody_007_f&Fair enough. Talk to you later, Woody.
+(
+Woody_008_fGood luck on your search!

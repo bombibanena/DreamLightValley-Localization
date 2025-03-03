@@ -1,0 +1,51 @@
+
+t
+4Story!MRQS020_Castle_Any_CompletedRequestDescription<Where do all these doors lead? Talk to Merlin in the Castle.
+U
+)Story!MRQS020_Castle_AvailableDescription(Merlin is waiting for you at the Castle.
+|
+.Story!MRQS020_Castle_CompletedStoryDescriptionJInside, you discover doors. Merlin can certainly tell you more about them.
+4
+ Story!MRQS020_Castle_DisplayNameThe Dream Castle
+W
+EStory!MRQS020_Castle_Group01_Step01_FollowCharacter01_StepDescriptionFollow Merlin.
+Z
+GStory!MRQS020_Castle_Group01_Step01_FollowCharacter01_TalkToDescriptionTalk to Merlin.
+å
+-Story!MRQS020_Castle_Group01_StoryDescription³He explains that the Giant Night Thorns blocking the way inside are nothing like the ones you've seen before. You're going to need stronger magic if you want to access the Castle.
+‡
+1Story!MRQS020_Castle_Group03_OngoingRequestButtonR<smallcaps>{title}</smallcaps><br>What should I do with the Dreamlight I gathered?
+X
+<Story!MRQS020_Castle_Group03_Step03_Unlock01_StepDescriptionUnlock the Dream Castle.
+j
+1Story!MRQS020_Castle_Group04_OngoingRequestButton5<smallcaps>{title}</smallcaps><br>What just happened?
+Z
+?Story!MRQS020_Castle_Group04_Step04_VisitArea01_StepDescriptionEnter the Dream Castle.
+•
+-Story!MRQS020_Castle_Group04_StoryDescriptiondAfter generating enough Dreamlight from the Wishing Well, you free the Castle from the Night Thorns.
+s
+1Story!MRQS020_Castle_Group05_OngoingRequestButton><smallcaps>{title}</smallcaps><br>How can I gather Dreamlight?
+l
+=Story!MRQS020_Castle_Group05_Step06_Possess02_StepDescription+Gather {ItemName} to open the Dream Castle.
+}
+AStory!MRQS020_Castle_Group05_Step11_RoyalDuties01_StepDescription8Complete <ActivityItem>Dreamlight Duties</ActivityItem>.
+‚
+3Story!MRQS020_Castle_Group05_Step11_StepDescriptionK(Access the Dreamlight menu from the Well or by pressing {input_mainmenu}.)
+~
+9Story!MRQS020_Castle_Group05_Step11_StepDescriptionMobileA(Access the Dreamlight menu from the Well or from the Main Menu.)
+„
+-Story!MRQS020_Castle_Group05_StoryDescriptionÒMerlin shows you the source of Dreamlight in the Village: the Wishing Well. He encourages you to look into it to find out which Activities generate Dreamlight, as you need to gather it to open the Dream Castle.
+o
+1Story!MRQS020_Castle_Group06_OngoingRequestButton:<smallcaps>{title}</smallcaps><br>Where can I find Mickey?
+b
+AStory!MRQS020_Castle_Group06_Step05_Conditional02_StepDescriptionCheck on Mickey at his House.
+~
+1Story!MRQS020_Castle_Group07_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br>What am I missing to unlock the Castle?
+ž
+3Story!MRQS020_Castle_Group07_Step08_StepDescriptiongKeep exploring the Valley to find the four <ActivityItem>Royal Tools</ActivityItem> and talk to Merlin.
+Z
+GStory!MRQS020_Castle_Group08_Step07_FollowCharacter02_TalkToDescriptionTalk to Merlin.
+`
+,Story!MRQS020_Castle_Group08_StepDescription0Find Merlin waiting for you at the Dream Castle.
+X
+EStory!MRQS020_Castle_Group10_Step10_TalkToCharacter04_StepDescriptionTalk to Merlin.

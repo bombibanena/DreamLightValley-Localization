@@ -1,0 +1,33 @@
+TAG: Donald_000_f
+Hey, {PlayerName}, have you seen Stitch?
+
+TAG: Donald_001_f
+That's exactly what I wanted to talk to you about...
+
+TAG: Donald_002_f
+Well, if you see him, give him a towel. When his fur gets wet, he smells like Goofy's stinky shoe collection!
+
+TAG: Donald_003_f
+Anyway... what did you wanna talk to me about?
+
+TAG: Player_000_choice_000_f
+Just a heads-up â Stitch is trying to prank you.
+
+TAG: Player_000_choice_001_f
+You know what, Donald? Forget it.
+
+TAG: Donald_004_f
+PRANK me?! Again?! How?!
+
+TAG: Donald_005_f
+He's trying to hide seafood all over your House.
+
+TAG: Donald_006_f
+WAAAKKKK! Why, I oughta...
+
+TAG: Donald_007_f
+Thanks for lettin' me know, {PlayerName}. I'll go show him a thing or two about trying to prank Donald Duck!
+
+TAG: Donald_008_f
+Aw. Well, then what are you wasting my time for? Can't you see I'm busy?!
+

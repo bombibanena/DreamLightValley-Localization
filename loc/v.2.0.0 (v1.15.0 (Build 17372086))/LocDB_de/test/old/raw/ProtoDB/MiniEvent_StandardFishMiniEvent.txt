@@ -1,0 +1,54 @@
+TAG: Description
+{Placeholder} Стандартная рыба мини-событие.
+
+TAG: Description_000
+{Placeholder}Catch 5 любая рыба, которая по крайней мере является обычной редкостью.
+
+TAG: Description_001
+{Placeholder}Catch 10 любая рыба, которая по крайней мере является обычной редкостью.
+
+TAG: Description_002
+{Placeholder}Catch 5 любая рыба, которая, по крайней мере, необычная.
+
+TAG: Description_003
+{Placeholder}Catch 10 любая рыба, которая, по крайней мере, необычная.
+
+TAG: Description_004
+{Placeholder}Catch 5 любая рыба, которая по крайней мере редко встречается.
+
+TAG: Description_005
+{Placeholder}Catch 10 любая рыба, которая по крайней мере редко встречается.
+
+TAG: Description_006
+{Placeholder}Catch 5 любая рыба очень редкая.
+
+TAG: Description_007
+{Placeholder}Catch 10 любая рыба очень редкая.
+
+TAG: Name
+{Placeholder}Fish Мини-событие Раритет
+
+TAG: Name_000
+{Placeholder} Общее число 1
+
+TAG: Name_001
+{Placeholder} Общее 2
+
+TAG: Name_002
+{Placeholder}Uncommon 1
+
+TAG: Name_003
+{Placeholder}Uncommon 2
+
+TAG: Name_004
+{Placeholder}Rare 1
+
+TAG: Name_005
+{Placeholder}Rare 2
+
+TAG: Name_006
+{Placeholder}Very Rare 1
+
+TAG: Name_007
+{Placeholder}Very Rare 2
+

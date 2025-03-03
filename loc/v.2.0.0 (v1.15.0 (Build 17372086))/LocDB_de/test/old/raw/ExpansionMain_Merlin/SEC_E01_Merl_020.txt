@@ -1,0 +1,33 @@
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Any_CompletedRequestDescription
+Возвращайтесь на Мерлин.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_AvailableDescription
+Вокруг острова Вечность много хлама, что блокирует твой путь и мешает тебе украшать.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_CompletedStoryDescription
+Ты используешь "Стол во времени", чтобы волшебно влить в свои Королевские Инструменты, ты должен быть в состоянии удалить большую часть этого грязного мусора на острове Вечность.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_DisplayName
+Проект &lt; &lt; Деревня: безвременный мусор &gt; &gt;
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_Conditional01_StepDescription
+<ActivityItem> Small Rubble Shovel Povion</ActivityItem>.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_Conditional02_StepDescription
+<ActivityItem> Small Sclass Stalagmite Pickaxe Polion</ActivityItem>.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_Conditional03_StepDescription
+<ActivityItem> Small Evil Placing Can Poilion</ActivityItem>.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_Step01_StepDescription
+С использованием "Таблицы времени" , "судовождения" и "использования" :
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group01_StoryDescription
+Мерлин считает, что магия "Timebming Table" может быть тем, что вам нужно, чтобы устранить эти отвратительные препятствия.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group02_Step02_TalkToCharacter01_StepDescription
+Поговорите с Мерлин, чтобы помочь удалить его.
+
+TAG: Secret!Expansion01!Merlin!SEC_E01_Merl_020_Group02_StepDescription
+Тут, конечно, очень много мусора на острове Вечность...
+

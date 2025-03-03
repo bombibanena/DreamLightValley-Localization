@@ -1,0 +1,59 @@
+
+[
+
+Nala_000_fM{PlayerName}, would you like to hear a story from when Simba and I were cubs?
+K
+
+Nala_001_f=I could tell you about elephant tag. That's a game I made up.
+n
+
+Nala_013_f`Or about the time we almost got killed in the elephant graveyard. Or about the giraffe incident.
+(
+Player_001_choice_000_fElephant tag.
+,
+Player_001_choice_001_fGiraffe incident.
+.
+Player_001_choice_002_fElephant graveyard.
+v
+
+Nala_003_fhAll right. Elephant tag is really fun. You find a herd of elephants on the move, and then you tag Simba.
+]
+
+Nala_006_fOAs soon as you tag him, you run under the elephants' feet to get away from him!
+c
+
+Nala_014_fUIt's like regular tag, but you have to make sure you don't get squashed by elephants.
++
+Player_002_choice_000_fThat sounds fun!
+1
+Player_002_choice_001_fThat sounds dangerous.
+'
+
+Nala_007_fIt was! And I always won.
+l
+
+Nala_008_f^It wasn't, really. The elephants knew we were there, so they did their best not to step on us.
+i
+
+Nala_015_f[Simba did get his tail stepped on one time. He was pretty sore about that, but he was fine.
+ú
+
+Nala_004_fçSo Simba got this idea that we could ride on a giraffe. We'd hide on the top of a big rock and jump on this giraffe's back when he walked by.
+á
+
+Nala_009_fyThe thing is, we didn't realize that having two lion cubs jump at him from out of nowhere would really scare the giraffe.
+å
+
+Nala_012_f~When we tried it, the giraffe bolted, ran right into a mud hole, and got stuck. Zazu had to talk a rhino into pulling him out.
+(
+
+Nala_010_fWe got in so much trouble.
+^
+
+Nala_005_fPWell, when Simba and I were cubs, we snuck off to explore an elephant graveyard.
+±
+
+Nala_016_f¢It's this creepy place, with skulls bigger than the two of us put together, and holes that shoot out steam. I think you've got a place just like it in the Valley.
+p
+
+Nala_011_fbIt turned out to be a really bad idea. We almost got eaten by hyenas. But Simba's father saved us.

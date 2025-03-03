@@ -1,0 +1,23 @@
+
+e
+Sully_000_fVGreat job, {PlayerName}! The first Villager-of-the-Month contest is goin' really well.
+l
+Sully_002_f]I know exactly which project's the winner. But... Uh, before I do that, I need a small favor.
+
+Sully_004_fHow can I help?
+1
+Sully_003_f"Well... The winner? It's not Mike.
+g
+Sully_005_fXAnd I'm hoping you can break the news to him... <i>gently</i>. Could you do that for me?
+C
+Player_000_choice_000_f(Of course. You're a good friend, Sulley.
+;
+Player_000_choice_001_f Any pointers on how to tell him?
+7
+Player_000_choice_002_fIs he really that sensitive?
+Y
+Sully_006_fJHey, just trying to do right by my pal. Let me give you a little advice...
+ª
+Sully_007_fš...Mike can be pretty sensitive sometimes, so give him the news quietly. And then stand back. He might yell â€” a lot. But he'll appreciate your kindness.
+c
+Sully_008_fTYeah, Mike can be pretty sensitive sometimes. But it's just 'cause he cares so much.

@@ -1,0 +1,27 @@
+TAG: Secret!ToyStory!SEC_Buzz_030_Any_CompletedRequestDescription
+Report to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_AvailableDescription
+Buzz seems to have found more of the Alien Toys. You'll need to speak to him.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_DisplayName
+Collect 'Em All: Attic Mode
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Any sign of alien life?
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group01_Step01_TalkToCharacter01_StepDescription
+Report to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group01_StepDescription
+Calling all Space Rangers! Star Command alert!
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group02_Step02_BringItem01_StepDescription
+Keep an eye out for <ActivityItem>Alien Toys</ActivityItem> scattered in common areas and secret spots.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group02_Step02_ReadyDescription
+Bring the <ActivityItem>Alien Toys</ActivityItem> to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Any sign of the Aliens?
+

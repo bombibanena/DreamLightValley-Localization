@@ -1,0 +1,61 @@
+
+Q
+@Village!Frozen!Olaf!VLG_Olaf_020_Any_CompletedRequestDescriptionTalk to Olaf.
+Ñ
+5Village!Frozen!Olaf!VLG_Olaf_020_AvailableDescriptionKNow that you've built the stage, Olaf has been looking for a story to tell.
+í
+:Village!Frozen!Olaf!VLG_Olaf_020_CompletedStoryDescriptionTYou help Olaf by getting reference images for him. Now he's ready to write the play.
+?
+,Village!Frozen!Olaf!VLG_Olaf_020_DisplayNameA Story to Tell
+b
+QVillage!Frozen!Olaf!VLG_Olaf_020_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Remy.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_020_Group02_Step02_Possess01_StepDescription{ItemName}.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_020_Group02_Step02_Possess02_StepDescription{ItemName}.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_020_Group02_Step02_Possess03_StepDescription{ItemName}.
+î
+QVillage!Frozen!Olaf!VLG_Olaf_020_Group02_Step09_TalkToCharacter03_StepDescription?Talk to Elsa to get some <ActivityItem>Pure Ice</ActivityItem>.
+v
+8Village!Frozen!Olaf!VLG_Olaf_020_Group02_StepDescription:Gather the following Ingredients to make a snack for Olaf:
+Ü
+JVillage!Frozen!Olaf!VLG_Olaf_020_Group04_Step04_CookMeal01_StepDescription∑Cook Olaf a snack using <ActivityItem>Corn</ActivityItem> (x2), <ActivityItem>Butter</ActivityItem>, <ActivityItem>Sugarcane</ActivityItem>, and <ActivityItem>Pure Ice</ActivityItem>.
+
+KVillage!Frozen!Olaf!VLG_Olaf_020_Group06_Step06_BringItem01_StepDescription0Make sure you have {ItemName} in your Inventory.
+a
+@Village!Frozen!Olaf!VLG_Olaf_020_Group06_Step06_ReadyDescriptionBring the {itemName} to Olaf.
+K
+?Village!Frozen!Olaf!VLG_Olaf_020_Group07_Step07_StepDescriptionTalk to:
+^
+QVillage!Frozen!Olaf!VLG_Olaf_020_Group07_Step07_TalkToCharacter02_StepDescription	Kristoff.
+\
+QVillage!Frozen!Olaf!VLG_Olaf_020_Group07_Step07_TalkToCharacter04_StepDescriptionDonald.
+›
+9Village!Frozen!Olaf!VLG_Olaf_020_Group07_StoryDescriptionüYou make some Sweet Frost Popcorn for Olaf and tell him the story of your adventures. But what really catches his interest is the story of Donald and Kristoff.
+m
+?Village!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_StepDescription*Take a picture of the following locations:
+Ä
+MVillage!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_TakePicture01_StepDescription/The Pillar of Courage from the Forest of Valor.
+~
+MVillage!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_TakePicture02_StepDescription-The Elephant Graveyard on the Sunlit Plateau.
+r
+MVillage!Frozen!Olaf!VLG_Olaf_020_Group08_Step08_TakePicture03_StepDescription!The ruins in the Forgotten Lands.
+Õ
+9Village!Frozen!Olaf!VLG_Olaf_020_Group08_StoryDescriptionèOlaf decides that Donald's version of the story is a lot more exciting. Now he'll just need some reference images to be able to write the play.
+d
+QVillage!Frozen!Olaf!VLG_Olaf_020_Group11_Step11_TalkToCharacter05_StepDescriptionReturn to Olaf.
+≥
+9Village!Frozen!Olaf!VLG_Olaf_020_Group11_StoryDescriptionvDonald and Kristoff give you two completely different stories of what happened in their quest to fight the Forgetting.
+|
+=Village!Frozen!Olaf!VLG_Olaf_020_Group01_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What were we doing again?
+l
+=Village!Frozen!Olaf!VLG_Olaf_020_Group04_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+l
+=Village!Frozen!Olaf!VLG_Olaf_020_Group06_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+o
+=Village!Frozen!Olaf!VLG_Olaf_020_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+t
+=Village!Frozen!Olaf!VLG_Olaf_020_Group08_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What was I doing?
+g
+3Village!Frozen!Olaf!VLG_Olaf_020_StartRequestButton0<smallcaps>{title}</smallcaps><br>Start Mission.

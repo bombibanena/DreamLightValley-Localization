@@ -1,0 +1,48 @@
+TAG: Sally_001_f
+So how do you feel about the compost project?
+
+TAG: Sally_002_f
+I'm very pleased. Now that we solved the question of who was eating it, of course.
+
+TAG: Player_000_choice_000_f
+Still seems so gross.
+
+TAG: Player_000_choice_001_f
+I should have known Mike was behind it...
+
+TAG: Player_000_choice_002_f
+Hopefully you'll get enough for your garden soon.
+
+TAG: Sally_003_f
+Well, I wouldn't enjoy eating compost, but I suppose I see gross differently than you.
+
+TAG: Sally_011_f
+Now, I'll just grab the seeds I brought from Halloween Town and plan out my garden.
+
+TAG: Sally_006_f
+Thank you, {PlayerName}.
+
+TAG: Sally_007_f
+I'm not sure I would have been able to get the <ActivityItem>Compost Bin</ActivityItem> going so quickly without your help... or figured out who was eating it.
+
+TAG: Sally_000_f
+And now... I can finally start growing my Halloween garden!
+
+TAG: Sally_012_f
+Soon, I'll have as much henbane, witch hazel, and worm's wort as I need.
+
+TAG: Sally_008_f
+Aww, well that's what I'm here for. Happy to help!
+
+TAG: Sally_009_f
+I'm so grateful. And here, now that I have the soil for my plants to grow, you should have the <ActivityItem>Compost Bin</ActivityItem>!
+
+TAG: Sally_010_f
+That's very nice of you; thanks, Sally!
+
+TAG: Sally_004_f
+I suppose he does have particular tastes, doesn't he?
+
+TAG: Sally_005_f
+As long as Mike sticks to our bargain, I should have some ready very soon.
+

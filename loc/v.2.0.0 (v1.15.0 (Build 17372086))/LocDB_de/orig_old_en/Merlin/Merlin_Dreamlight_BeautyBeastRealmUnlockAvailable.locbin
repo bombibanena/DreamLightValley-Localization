@@ -1,0 +1,13 @@
+
+‹
+Merlin_003_f{Behind this door you'll venture into an enchanted castle, inhabited by a most curious young woman and a prince in disguise.
+n
+Player_000_choice_000_fSLet's open the door. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+3
+Player_000_choice_001_fPerhaps some other time.
+u
+Merlin_001_feStupendous! You're now ready to go through this door, and greet both the Beauty and the Beast within.
+N
+Merlin_004_f>Oh dear, you need to gather more Dreamlight to open this door.
+f
+Merlin_002_fVRemember: Only YOU have the power to open these doors and bring our friends back home.

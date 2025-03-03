@@ -1,0 +1,41 @@
+
+3
+Merlin_000_f#Hrm, what? What's all this, I say?!
+‚
+Merlin_001_frAhh, I'm sorry, {PlayerName}. I'm rather tired and in a less-than-jovial mood. But I shouldn't take it out on you.
+?
+Player_000_choice_000_f$It's OK; I'd be in a lousy mood too.
+1
+Player_000_choice_001_fI accept your apology!
+I
+Merlin_002_f9Maybe I can help you with that! Here, have a sip of this.
+N
+Merlin_003_f>Little warning Ã¢Â€Â” there may be some... linguistic effects.
+?
+Merlin_004_f/Linguistic effects? From <i>Coffea arabica</i>?
+
+Merlin_005_f	*sip sip*
+S
+Merlin_006_fC<i>Hotsy-totsy! I'd pay good dough for another cup of this joe!</i>
+
+Merlin_007_f*gasp* What?!
+H
+Merlin_014_f8Aaaand, there's the Oswaldian speech, right on schedule.
+
+Merlin_013_fWill do!
+p
+Merlin_017_f`<i>I was thinkin' of hittin' the hay, but now I'm gonna go cut a rug down at the dance hall!</i>
+"
+Merlin_018_fYou... OK, Merlin?
+F
+Merlin_008_f6<i>You betcha! For sure I can get a wiggle on now!</i>
+'
+Merlin_009_fYou back to normal yet?
+‹
+Merlin_010_f{Hmm... <i>Higitus Figitus!</i> ... <i>Blast it all</i>... Yes, yes, all is well again. How strange! And what unusual magic.
+s
+Merlin_011_fcThat's Oswald for you! And I don't even think it's magic. Things just... work differently with him.
+_
+Merlin_012_fOWell, please convey my thanks to him, even if it came with a bit of a surprise.
+5
+Merlin_016_f%Huh? Merlin... you sound like Oswald!

@@ -1,0 +1,57 @@
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Any_CompletedRequestDescription
+Возвращайтесь на Олаф.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_AvailableDescription
+Во время изучения Bind {PlayerName} обнаружила несколько интересных записей, написанных в почерке Олаф.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_DisplayName
+Крепкий с половиной.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group01_Step01_ReadyDescription
+Принесите Олаф его забавные факты.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group01_Step01_StepDescription
+Возьмите <ActivityItem>Олаф Fun Facts</ActivityItem>.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group01_StepDescription
+Вы нашли несколько нот в аккуратной драке некоего разговорчивого снеговика...
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group02_Step02_Listen01_StepDescription
+Слушай, как Олаф и Лорестер ведут интересный разговор.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group03_Step03_TalkToCharacter01_StepDescription
+Поговори с Лоревером.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group04_Step04_TalkToCharacter02_StepDescription
+Поговори с Анна.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_StepDescription
+Сфотографируй вещи в Бинде, которые Олаф может заинтересовать:
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture01_StepDescription
+Библиотека Лора.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture02_StepDescription
+Таинственный скрытый дверной проем под мостом в Бинде.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture03_StepDescription
+Фонтаны.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group05_Step05_TakePicture04_StepDescription
+Совы.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group06_Step06_TalkToCharacter03_StepDescription
+Возвращайтесь на Олаф.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group07_Step07_Conditional01_StepDescription
+Подружитесь и откройте любую сову вокруг Бинда.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group08_StepDescription
+Возвращайтесь на Олаф.
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group09_Step09_StepDescription
+(Если у вас его нет, обыщите Бинд на Ингредиентс и посетите станцию крафтинга!)
+
+TAG: Secret!Expansion02!Frozen!Olaf!SEC_E02_Olaf_010_Group09_StepDescription
+Украсить бинд {ItemName}.
+

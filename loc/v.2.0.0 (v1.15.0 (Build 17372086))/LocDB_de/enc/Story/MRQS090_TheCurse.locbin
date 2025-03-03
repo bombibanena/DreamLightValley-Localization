@@ -1,0 +1,61 @@
+
+n
+6Story!MRQS090_TheCurse_Any_CompletedRequestDescription4Поговорите с Матушка Готель.
+m
++Story!MRQS090_TheCurse_AvailableDescription>Мерлин хочет тебе кое-что сказать.
+�
+0Story!MRQS090_TheCurse_CompletedStoryDescription�После восстановления Полюса и разрушения проклятия пришло время вернуться к Матушка Готель.
+8
+"Story!MRQS090_TheCurse_DisplayNameПроклятье
+�
+GStory!MRQS090_TheCurse_Group01_Step01_TalkToCharacter01_StepDescription7Представьтесь Матушка Готель.
+�
+AStory!MRQS090_TheCurse_Group02_Step02_VisitArea01_StepDescriptionSИсследуйте хижину внутри гигантского дерева.
+�
+GStory!MRQS090_TheCurse_Group03_Step03_TalkToCharacter03_StepDescription7Поговори с Мерлин о проклятии.
+�
+GStory!MRQS090_TheCurse_Group03_Step03_TalkToCharacter04_StepDescriptionAВыясни, может ли Урсула помочь тебе.
+�
+/Story!MRQS090_TheCurse_Group03_StoryDescription�Ты понимаешь, что Морская Ведьма - единственная, кто может наложить заклинание, в котором ты нуждаешься.
+N
+?Story!MRQS090_TheCurse_Group04_Step04_Possess02_StepDescription{ItemName}.
+N
+?Story!MRQS090_TheCurse_Group04_Step04_Possess03_StepDescription{ItemName}.
+�
+GStory!MRQS090_TheCurse_Group04_Step09_TalkToCharacter06_StepDescriptionNУбедите Кристофф помочь вам с заклинанием.
+y
+.Story!MRQS090_TheCurse_Group04_StepDescriptionGСоберите следующие интегралы для чары:
+`
+.Story!MRQS090_TheCurse_Group05_StepDescription.Слушайте Мерлин и Урсула.
+l
+GStory!MRQS090_TheCurse_Group06_Step06_TalkToCharacter05_StepDescription!Поговори с Мерлин.
+�
+?Story!MRQS090_TheCurse_Group07_Step07_Possess01_StepDescription}Возврати <ActivityItem>Orb из Trust</ActivityItem> с плавающего острова в Глейд Траст.
+�
+CStory!MRQS090_TheCurse_Group08_Step08_FillKeyhole01_StepDescriptioneВерните <ActivityItem>Orb из Trust</ActivityItem> обратно в блок доверия.
+a
+AStory!MRQS090_TheCurse_Group09_Step11_VisitArea02_StepDescriptionНайдите Мерлин.
+�
+/Story!MRQS090_TheCurse_Group09_StoryDescription�Похоже, <ActivityItem>Orb из Trust</ActivityItem> застрял между двумя реальностями. Вам нужна волшебная помощь.
+o
+3Story!MRQS090_TheCurse_Group10_OngoingRequestButton8<smallcaps>{title}</smallcaps><br> Куда мы шли?
+}
+IStory!MRQS090_TheCurse_Group10_Step15_FollowCharacter01_TalkToDescription0Поговори с Матушка Готель.
+�
+5Story!MRQS090_TheCurse_Group10_Step15_StepDescriptioncСледуйте за Матушка Готель до Стенда доверия в Глейде.
+�
+/Story!MRQS090_TheCurse_Group10_StoryDescription�Вы обнаруживаете хижину в дереве. Внутри, Матушка Готель, проклятый Старым Правителем, ждёте. Открываете дверь, выпускает Тёмную Магию Матушка Готель на всю деревню. Чтобы её починить, вам придется восстановить компонент доверия.
+P
+AStory!MRQS090_TheCurse_Group12_Step13_BringItem01_StepDescription{ItemName}.
+P
+AStory!MRQS090_TheCurse_Group12_Step13_BringItem02_StepDescription{ItemName}.
+k
+6Story!MRQS090_TheCurse_Group12_Step13_ReadyDescription1Отдай "Ингредиенты" Урсула.
+�
+5Story!MRQS090_TheCurse_Group12_Step13_StepDescriptionGСоберите следующие интегралы для чары:
+�
+/Story!MRQS090_TheCurse_Group12_StoryDescription�Кристофф должен потерять свои воспоминания о Анна, чтобы магия работала. Он делает это, чтобы помочь спасти Долину.
+�
+AStory!MRQS090_TheCurse_Group13_Step14_VisitArea04_StepDescriptionVРасследуйте проклятое дерево в Глэйде Доверия.
+�
+AStory!MRQS090_TheCurse_Group14_Step10_VisitArea03_StepDescriptionnПознакомьтесь с Урсула в пещере, где вы впервые встретились.

@@ -1,0 +1,19 @@
+
+[
+IStory!Expansion02!MRQS_E02_081_TrialFlame_Any_CompletedRequestDescriptionTalk to Hades.
+À
+>Story!Expansion02!MRQS_E02_081_TrialFlame_AvailableDescription~{PlayerName} came across another Mythic Trial in the journey across Mythopia. What wonders would there be to discover instead?
+•
+CStory!Expansion02!MRQS_E02_081_TrialFlame_CompletedStoryDescriptionÍ{PlayerName} discovered a Promethean challenge inside the Trial: Steal fire and bring it to its rightful place. Completing this feat worthy of a Titan brought {PlayerName} one step closer to Mount Olympus.
+M
+5Story!Expansion02!MRQS_E02_081_TrialFlame_DisplayNameThe Promethean Flame
+ƒ
+TStory!Expansion02!MRQS_E02_081_TrialFlame_Group01_Step01_VisitArea01_StepDescription+Enter the Mythic Trial in the Fiery Plains.
+l
+ZStory!Expansion02!MRQS_E02_081_TrialFlame_Group02_Step02_TalkToCharacter01_StepDescriptionTalk to Hades.
+—
+HStory!Expansion02!MRQS_E02_081_TrialFlame_Group03_Step03_StepDescriptionKMove every <ActivityItem>Flaming Torch</ActivityItem> to the correct place.
+n
+ZStory!Expansion02!MRQS_E02_081_TrialFlame_Group04_Step04_TalkToCharacter02_StepDescriptionReturn to Hades.
+™
+VStory!Expansion02!MRQS_E02_081_TrialFlame_Group06_Step06_Interaction01_StepDescription?Interact with the magical corruption at the heart of the Trial.

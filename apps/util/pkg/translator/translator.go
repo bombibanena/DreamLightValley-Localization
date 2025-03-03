@@ -17,21 +17,21 @@ import (
 )
 
 type (
-	translator struct {
-		opts   translateOpts
+	Translator struct {
+		opts   TranslateOpts
 		client client.IClient
 		cfg    config.Config
 	}
 
-	translateOpts struct {
+	TranslateOpts struct {
 		sourceLang string
 		targetLang string
 	}
 )
 
-func newTranslator(cfg config.Config, targetLang string) *translator {
-	return &translator{
-		opts: translateOpts{
+func NewTranslator(cfg config.Config, targetLang string) *Translator {
+	return &Translator{
+		opts: TranslateOpts{
 			sourceLang: "EN",
 			targetLang: targetLang,
 		},
@@ -56,9 +56,9 @@ func Translate(format string, inPath string, outPath string, language string) er
 		return fmt.Errorf("Неизвестный формат: %v\n", format)
 	}
 
-	translator := newTranslator(app.Config.Translator, language)
+	translator := NewTranslator(app.Config.Translator, language)
 
-	translated, err := translator.translateLocFile(locFile)
+	translated, err := translator.TranslateLocFile(locFile)
 	if err != nil {
 		return err
 	}
@@ -82,7 +82,7 @@ func Translate(format string, inPath string, outPath string, language string) er
 	return nil
 }
 
-func (t *translator) translateLocFile(locFile types.LocFile) (types.LocFile, error) {
+func (t *Translator) TranslateLocFile(locFile types.LocFile) (types.LocFile, error) {
 	// Take texts from locFile
 	var texts []string
 	for _, fd := range locFile {
@@ -122,7 +122,7 @@ func (t *translator) translateLocFile(locFile types.LocFile) (types.LocFile, err
 	return translatedLocFile, nil
 }
 
-func (t *translator) translateTexts(texts []string) ([]string, error) {
+func (t *Translator) translateTexts(texts []string) ([]string, error) {
 	pb := progress.CreateProgressBar(float64(len(texts)), progress.ProgressConfig{Message: "Перевод"})
 	pb.Start()
 
@@ -182,7 +182,7 @@ func (t *translator) translateTexts(texts []string) ([]string, error) {
 	return translatedTexts, nil
 }
 
-func (t *translator) translateBatch(batch []string) ([]string, error) {
+func (t *Translator) translateBatch(batch []string) ([]string, error) {
 	separator := t.cfg.Translation.Separator
 
 	// Combine batch into single text with separator
@@ -215,7 +215,7 @@ func (t *translator) translateBatch(batch []string) ([]string, error) {
 	return translatedTexts, nil
 }
 
-func (t *translator) translate(text string) (string, error) {
+func (t *Translator) translate(text string) (string, error) {
 	exceptions := t.cfg.Translation.GetExceptions()
 
 	htmlTagRegex := regexp.MustCompile(`(<[^>]+>)|(</[^>]+>)`) // HTML-like tags
@@ -255,6 +255,7 @@ func (t *translator) translate(text string) (string, error) {
 
 	res, err := t.client.Translate(outText, t.opts.sourceLang, t.opts.targetLang)
 	if err != nil {
+		fmt.Printf("Ошибка перевода %s\n", text)
 		return "", err
 	}
 

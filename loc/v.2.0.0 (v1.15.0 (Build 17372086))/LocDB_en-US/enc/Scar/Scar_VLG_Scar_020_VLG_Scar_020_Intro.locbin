@@ -1,0 +1,62 @@
+
+j
+
+Scar_011_f\{PlayerName}, I have a little matter to discuss with you regarding my territory. Do join me.
+8
+Player_001_choice_000_fWhat seems to be the problem?
+8
+Player_001_choice_001_fI'll take care of this later.
+i
+
+Scar_000_f[Tell me, have you taken time from your "oh-so-busy" schedule to explore the Sunlit Plateau?
+[
+
+Scar_007_fMWait â what am I saying? You never stray far from the safe and familiar.
+h
+
+Scar_004_fZWell, if you HAD bothered, you'd know that it's absolutely littered with wildebeest bones.
+:
+Player_000_choice_000_fCan't you remove them yourself?
+?
+Player_000_choice_001_f$What happened to the wildebeests...?
+C
+Player_000_choice_003_f(Scar... Did you eat all the wildebeests?
+[
+
+Scar_008_fMIf I could, I wouldn't be bothering with you. But since I can't, here we are.
+�
+
+Scar_003_fxIt wasn't such a problem before you decided to go away. You were very good at digging out the bones and removing them...
+^
+
+Scar_006_fPOf course, your <ActivityItem>Royal Shovel</ActivityItem> was sharper back then.
+�
+
+Scar_020_f~I seem to recall it had something to do with that bombastic Scrooge McDuck. He had some manner of making your Shovel stronger.
+|
+
+Scar_015_fnSounds good. I'll go talk to Mr. McDuck about making my Shovel stronger so we can clean up the Sunlit Plateau.
+
+
+Scar_012_fI couldn't say...
+�
+
+Scar_005_fvBut that is not the point, {PlayerName}. The point is that most of the Plateau is unusable for me â ahem, for us.
+~
+
+Scar_001_fpIf I were gorging myself on wildebeests, do you really think I'd need to ask that rodent to procure food for me?
+j
+
+Scar_016_f\There have never been wildebeests on the Sunlit Plateau... but there have always been bones.
+<
+
+Scar_017_f.Somehow, they simply appear from time to time.
+
+
+Scar_018_fOn my honor.
+g
+
+Scar_019_fYHm. That's weird... but I guess a lot of things about Dreamlight Valley are pretty weird.
+Q
+
+Scar_002_fC*sigh* And I'll be here, awaiting your mere morsels of benevolence.

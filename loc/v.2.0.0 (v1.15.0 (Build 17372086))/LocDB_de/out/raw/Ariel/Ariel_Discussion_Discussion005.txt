@@ -1,0 +1,372 @@
+TAG: Ariel_034_f
+Yes! He got hurt saving his dog during a storm. I'm so glad I was there to help.
+
+TAG: Ariel_000_f
+I have an idea, {PlayerName}! Let's see how much we know about each other.
+
+TAG: Ariel_001_f
+It can be a game! I'll start...
+
+TAG: Ariel_002_f
+I'm the daughter of the king of the ocean. What's my father's name?
+
+TAG: Player_000_choice_002_f
+King Triton.
+
+TAG: Player_000_choice_003_f
+Poseidon.
+
+TAG: Player_000_choice_004_f
+The Tuna King.
+
+TAG: Ariel_035_f
+No. You're thinking of his dog. I saved Prince Eric.
+
+TAG: Ariel_036_f
+I'm sorry. She wanted my voice. Let's try another one...
+
+TAG: Ariel_037_f
+Oh my gosh, you're right! Now there's only one question left...
+
+TAG: Ariel_038_f
+Oh no! That would be too dangerous. I collect human stuff. I think it's very interesting.
+
+TAG: Ariel_039_f
+Yes! I have six older sisters: Aquata, Andrina, Arista, Attina, Adella and Alana.
+
+TAG: Ariel_040_f
+Wow, you won't have any problem with the next question!
+
+TAG: Ariel_041_f
+I have a collection of gizmos and thingamabobs and all sorts of stuff. Do you know what the things in my collection have in common?
+
+TAG: Player_000_choice_026_f
+They are things found on land.
+
+TAG: Player_000_choice_027_f
+They're coral.
+
+TAG: Player_000_choice_028_f
+Shark teeth, of course.
+
+TAG: Ariel_042_f
+You're right again! I think human stuff is very interesting.
+
+TAG: Ariel_043_f
+Okay, let's see if you can answer the next question...
+
+TAG: Ariel_044_f
+What did Ursula want from me when I asked her to give me human legs?
+
+TAG: Player_000_choice_029_f
+Your fins.
+
+TAG: Player_000_choice_030_f
+Your father's trident.
+
+TAG: Player_000_choice_031_f
+Your voice!
+
+TAG: Ariel_045_f
+Oh, I'm sorry, {PlayerName}. She did give me legs, but she asked for my voice in return. Are you ready for the next one?
+
+TAG: Ariel_046_f
+What's the name of the human I saved from drowning?
+
+TAG: Ariel_047_f
+I'm sorry. She wanted my voice. Let's try another one...
+
+TAG: Ariel_048_f
+Oh my gosh, you've gotten every answer right! Now let's see if you know this very last one...
+
+TAG: Ariel_049_f
+What's the name of the human I saved from drowning?
+
+TAG: Player_000_choice_032_f
+Flotsam.
+
+TAG: Player_000_choice_033_f
+Eric.
+
+TAG: Player_000_choice_034_f
+Max.
+
+TAG: Ariel_050_f
+No. That's the name of one of Ursula's horrible eels. I saved Prince Eric.
+
+TAG: Ariel_051_f
+Yes! He got hurt saving his dog during a storm. I'm so glad I was there to help.
+
+TAG: Ariel_052_f
+No. You're thinking of his dog. I saved Prince Eric.
+
+TAG: Ariel_053_f
+No, there's a lot of coral in the ocean. It would kind of be like collecting sand. I collect human stuff. I think it's very interesting.
+
+TAG: Ariel_054_f
+Oh no! That would be too dangerous. I collect human stuff. I think it's very interesting.
+
+TAG: Ariel_055_f
+No, Flounder and Sebastian are my friends. I have six older sisters: Aquata, Andrina, Arista, Attina, Adella and Alana.
+
+TAG: Ariel_056_f
+No. My father's name is King Triton.
+
+TAG: Ariel_057_f
+Maybe you know the answer to this question: How many sisters do I have?
+
+TAG: Player_000_choice_035_f
+You're an only child.
+
+TAG: Player_000_choice_036_f
+You have six sisters.
+
+TAG: Player_000_choice_037_f
+You have two brothers: Flounder and Sebastian.
+
+TAG: Ariel_058_f
+No, I have six older sisters: Aquata, Andrina, Arista, Attina, Adella and Alana. But that was a tough one.
+
+TAG: Ariel_059_f
+I promise the next question is easier!
+
+TAG: Ariel_060_f
+I have a collection of gizmos and thingamabobs and all sorts of stuff. Do you know what the things in my collection have in common?
+
+TAG: Player_000_choice_038_f
+They are things found on land.
+
+TAG: Player_000_choice_039_f
+They're coral.
+
+TAG: Player_000_choice_040_f
+Shark teeth, of course.
+
+TAG: Ariel_061_f
+You're right! I think human stuff is very interesting.
+
+TAG: Ariel_062_f
+No, there's a lot of coral in the ocean. It would kind of be like collecting sand. I collect human stuff. I think it's very interesting.
+
+TAG: Ariel_063_f
+Well, you've only gotten one answer right so far, but let's see how you do on the next one.
+
+TAG: Ariel_064_f
+What did Ursula want from me when I asked her to give me human legs?
+
+TAG: Player_000_choice_041_f
+Your fins.
+
+TAG: Player_000_choice_042_f
+Your father's trident.
+
+TAG: Player_000_choice_043_f
+Your voice!
+
+TAG: Ariel_065_f
+Oh, I'm sorry, {PlayerName}. She did give me legs, but she asked for my voice in return.
+
+TAG: Ariel_066_f
+Now there's only one question left. What's the name of the human I saved from drowning?
+
+TAG: Player_000_choice_044_f
+Flotsam.
+
+TAG: Player_000_choice_045_f
+Eric.
+
+TAG: Player_000_choice_046_f
+Max.
+
+TAG: Ariel_067_f
+No. That's the name of one of Ursula's horrible eels. I saved Prince Eric.
+
+TAG: Ariel_068_f
+Yes! He got hurt saving his dog during a storm. I'm so glad I was there to help.
+
+TAG: Ariel_069_f
+No. You're thinking of his dog. I saved Prince Eric.
+
+TAG: Ariel_070_f
+I'm sorry. She wanted my voice.
+
+TAG: Ariel_071_f
+You got it! That's one right answer so far. Let's see if you can get this last one...
+
+TAG: Ariel_072_f
+Oh no! That would be too dangerous. I collect human stuff. I think it's very interesting.
+
+TAG: Ariel_073_f
+Yes! I have six older sisters: Aquata, Andrina, Arista, Attina, Adella and Alana.
+
+TAG: Ariel_074_f
+Wow, you won't have any problem with the next question!
+
+TAG: Ariel_075_f
+I have a collection of gizmos and thingamabobs and all sorts of stuff. Do you know what the things in my collection have in common?
+
+TAG: Ariel_003_f
+That's right! Okay, the next question is a little more difficult...
+
+TAG: Ariel_004_f
+How many sisters do I have?
+
+TAG: Player_000_choice_005_f
+You're an only child.
+
+TAG: Player_000_choice_006_f
+You have six sisters.
+
+TAG: Player_000_choice_007_f
+You have two brothers: Flounder and Sebastian.
+
+TAG: Ariel_076_f
+No, Flounder and Sebastian are my friends. I have six older sisters: Aquata, Andrina, Arista, Attina, Adella and Alana.
+
+TAG: Ariel_077_f
+*giggle* I'm not a tuna, {PlayerName}. I'm a mermaid. My father's name is King Triton.
+
+TAG: Ariel_005_f
+No, I have six older sisters: Aquata, Andrina, Arista, Attina, Adella and Alana. But that was a tough one.
+
+TAG: Ariel_006_f
+I promise the next question is easier!
+
+TAG: Ariel_007_f
+I have a collection of gizmos and thingamabobs and all sorts of stuff. Do you know what the things in my collection have in common?
+
+TAG: Player_000_choice_008_f
+They are things found on land.
+
+TAG: Player_000_choice_009_f
+They're coral.
+
+TAG: Player_000_choice_010_f
+Shark teeth, of course.
+
+TAG: Ariel_008_f
+You're right! I think human stuff is very interesting.
+
+TAG: Ariel_009_f
+Okay, two out of three is very good. Let's see if you can answer the next question!
+
+TAG: Ariel_010_f
+What did Ursula want from me when I asked her to give me human legs?
+
+TAG: Player_000_choice_011_f
+Your fins.
+
+TAG: Player_000_choice_012_f
+Your father's trident.
+
+TAG: Player_000_choice_013_f
+Your voice!
+
+TAG: Ariel_011_f
+Oh, I'm sorry, {PlayerName}. She did give me legs, but she asked for my voice in return. Are you ready for the next one?
+
+TAG: Ariel_012_f
+What's the name of the human I saved from drowning?
+
+TAG: Player_000_choice_014_f
+Flotsam.
+
+TAG: Player_000_choice_015_f
+Eric.
+
+TAG: Player_000_choice_016_f
+Max.
+
+TAG: Ariel_013_f
+No. That's the name of one of Ursula's horrible eels. I saved Prince Eric.
+
+TAG: Ariel_014_f
+That's amazing! You know so much about me. That makes me very happy.
+
+TAG: Ariel_078_f
+Let's talk again soon! I can't wait to learn more about you.
+
+TAG: Ariel_015_f
+Gosh, you really know a lot about me! I'm glad that we're becoming such good friends.
+
+TAG: Ariel_016_f
+Gosh, you really know a lot about me! I'm glad that we're becoming such good friends.
+
+TAG: Ariel_017_f
+You do know some things about me! I hope you had fun.
+
+TAG: Ariel_018_f
+Well, you only knew one thing about me, but I hope we get to know each other better!
+
+TAG: Ariel_019_f
+Gosh, that wasn't a very big success, was it? I hope we get to know each other better.
+
+TAG: Ariel_020_f
+Yes! He got hurt saving his dog during a storm. I'm so glad I was there to help.
+
+TAG: Ariel_021_f
+No. You're thinking of his dog. I saved Prince Eric.
+
+TAG: Ariel_022_f
+I'm sorry. She wanted my voice.
+
+TAG: Ariel_023_f
+Oh my gosh, you're right! Now there's only one question left...
+
+TAG: Ariel_024_f
+What's the name of the human I saved from drowning?
+
+TAG: Player_000_choice_017_f
+Flotsam.
+
+TAG: Player_000_choice_018_f
+Eric.
+
+TAG: Player_000_choice_019_f
+Max.
+
+TAG: Ariel_025_f
+No. That's the name of one of Ursula's horrible eels. I saved Prince Eric.
+
+TAG: Ariel_026_f
+Yes! He got hurt saving his dog during a storm. I'm so glad I was there to help.
+
+TAG: Ariel_027_f
+No. You're thinking of his dog. I saved Prince Eric.
+
+TAG: Ariel_028_f
+No, there's a lot of coral in the ocean. It would kind of be like collecting sand. I collect human stuff. I think it's very interesting.
+
+TAG: Ariel_029_f
+You only got one answer right so far, but let's see how you do on the next one.
+
+TAG: Ariel_030_f
+What did Ursula want from me when I asked her to give me human legs?
+
+TAG: Player_000_choice_020_f
+Your fins.
+
+TAG: Player_000_choice_021_f
+Your father's trident.
+
+TAG: Player_000_choice_022_f
+Your voice!
+
+TAG: Ariel_031_f
+Oh, I'm sorry, {PlayerName}. She did give me legs, but she asked for my voice in return. Are you ready for the next one?
+
+TAG: Ariel_032_f
+What's the name of the human I saved from drowning?
+
+TAG: Player_000_choice_023_f
+Flotsam.
+
+TAG: Player_000_choice_024_f
+Eric.
+
+TAG: Player_000_choice_025_f
+Max.
+
+TAG: Ariel_033_f
+No. That's the name of one of Ursula's horrible eels. I saved Prince Eric.
+

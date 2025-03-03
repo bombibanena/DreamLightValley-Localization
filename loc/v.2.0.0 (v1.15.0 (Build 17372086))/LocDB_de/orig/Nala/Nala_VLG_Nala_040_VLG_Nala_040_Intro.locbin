@@ -1,0 +1,50 @@
+
+i
+
+Nala_003_f[{PlayerName}, last night the <ActivityItem>Enchanted Hearts</ActivityItem> started to glow.
+M
+
+Nala_004_f?It's time to close those rifts once and for all. Are you ready?
+)
+Player_000_choice_000_fLet's do this.
+.
+Player_000_choice_001_fI'll be back later.
+ª
+
+Nala_000_f¨Based on that Memory we uncovered in Pride Rock, we need to put these <ActivityItem>Enchanted Hearts</ActivityItem> inside the <ActivityItem>Lioness Statues</ActivityItem>.
+X
+
+Nala_001_fJBut I don't remember how... Ugh! Why doesn't any of this make sense to me?
+D
+Player_001_choice_000_f)I'll understand it enough for both of us.
+R
+Player_001_choice_001_f7We don't have to understand it. We just need to fix it.
+@
+Player_001_choice_002_f%At least we can be confused together.
+P
+
+Nala_015_fBYou're right. I shouldn't get upset. We can work on this together.
+è
+
+Nala_002_fÄBut if I'm going to understand it, I need someone to explain it to me first... Looks like I have to <Lore>talk to Ursula</Lore>.
+ó
+
+Nala_006_fàThat's right. We left those old <ActivityItem>Lioness Statues</ActivityItem> with her. Maybe she's had time to figure out how they work.
+h
+
+Nala_020_fZI'll keep watch over the rifts and try to catch fish for the others while you talk to her.
+A
+
+Nala_016_f3You're right. And now, we might finally be able to.
+>
+
+Nala_018_f0First, I'll have to <Lore>talk to Ursula</Lore>.
+E
+
+Nala_017_f7That's true. All this "magic" stuff still bewilders me.
+n
+
+Nala_005_f`All the more reason to find somebody else who understands it! Let's <Lore>talk to Ursula</Lore>.
+>
+
+Nala_009_f0Please hurry. I don't know how long we can wait.

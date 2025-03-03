@@ -1,0 +1,61 @@
+
+Q
+@Village!Frozen!Olaf!VLG_Olaf_030_Any_CompletedRequestDescriptionTalk to Olaf.
+‚
+5Village!Frozen!Olaf!VLG_Olaf_030_AvailableDescriptionIOlaf has figured out a story to tell. Now he just needs to write it down.
+¨
+:Village!Frozen!Olaf!VLG_Olaf_030_CompletedStoryDescriptionjYou discovered that Anna was the perfect person to play Donald Duck. It's almost time for Olaf's big play.
+F
+,Village!Frozen!Olaf!VLG_Olaf_030_DisplayNameThe Role of a Lifetime
+X
+IVillage!Frozen!Olaf!VLG_Olaf_030_Group01_Step01_Possess01_StepDescription{ItemName}.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_030_Group01_Step01_Possess02_StepDescription{ItemName}.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_030_Group01_Step01_Possess03_StepDescription{ItemName}.
+b
+?Village!Frozen!Olaf!VLG_Olaf_030_Group01_Step01_StepDescriptionGather the following materials:
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_030_Group02_Step02_CraftItem01_StepDescription{ItemName}.
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_030_Group02_Step02_CraftItem02_StepDescription{ItemName}.
+q
+?Village!Frozen!Olaf!VLG_Olaf_030_Group02_Step02_StepDescription.Craft everything Olaf needs to write the play:
+Ê
+QVillage!Frozen!Olaf!VLG_Olaf_030_Group03_Step03_TalkToCharacter01_StepDescriptionuBring the <ActivityItem>High-Quality Paper</ActivityItem> and <ActivityItem>Purple Ink</ActivityItem> to Donald Duck.
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_030_Group04_Step04_BringItem01_StepDescription{ItemName}.
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_030_Group04_Step04_BringItem02_StepDescription{ItemName}.
+[
+@Village!Frozen!Olaf!VLG_Olaf_030_Group04_Step04_ReadyDescriptionTell Olaf the bad news.
+|
+?Village!Frozen!Olaf!VLG_Olaf_030_Group04_Step04_StepDescription9Make sure you have the following items in your Inventory.
+¶
+9Village!Frozen!Olaf!VLG_Olaf_030_Group04_StoryDescriptionyDonald and Olaf have some creative differences. Now you'll need to find someone else to play Donald in Olaf's production.
+{
+?Village!Frozen!Olaf!VLG_Olaf_030_Group05_Step05_StepDescription8Ask the following Villagers to audition for Olaf's play:
+d
+QVillage!Frozen!Olaf!VLG_Olaf_030_Group05_Step05_TalkToCharacter02_StepDescriptionScrooge McDuck.
+d
+QVillage!Frozen!Olaf!VLG_Olaf_030_Group05_Step05_TalkToCharacter07_StepDescriptionBuzz Lightyear.
+Z
+QVillage!Frozen!Olaf!VLG_Olaf_030_Group05_Step05_TalkToCharacter08_StepDescriptionAnna.
+b
+QVillage!Frozen!Olaf!VLG_Olaf_030_Group07_Step07_TalkToCharacter04_StepDescriptionTalk to Olaf.
+p
+HVillage!Frozen!Olaf!VLG_Olaf_030_Group09_Step09_Listen02_StepDescription$Listen to Anna's audition with Olaf.
+s
+=Village!Frozen!Olaf!VLG_Olaf_030_Group01_OngoingRequestButton2<smallcaps>{title}</smallcaps><br>What do we need?
+o
+=Village!Frozen!Olaf!VLG_Olaf_030_Group02_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+z
+=Village!Frozen!Olaf!VLG_Olaf_030_Group03_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+z
+=Village!Frozen!Olaf!VLG_Olaf_030_Group04_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+l
+=Village!Frozen!Olaf!VLG_Olaf_030_Group07_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+|
+=Village!Frozen!Olaf!VLG_Olaf_030_Group09_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What were we doing again?
+g
+3Village!Frozen!Olaf!VLG_Olaf_030_StartRequestButton0<smallcaps>{title}</smallcaps><br>Start Mission.

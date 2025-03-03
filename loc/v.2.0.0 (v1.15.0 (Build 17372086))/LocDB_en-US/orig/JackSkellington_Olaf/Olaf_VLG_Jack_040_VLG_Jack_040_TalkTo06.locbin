@@ -1,0 +1,73 @@
+
+F
+
+Olaf_003_f8Olaf, I heard you were in trouble — are you all right?
+H
+
+Olaf_004_f:Oh {PlayerName}, I'm so glad you're here! It was horrible!
+^
+
+Olaf_005_fPIt'll be OK; just tell me what happened. What did Jack's Dreamlight Day gift do?
+-
+
+Olaf_006_fWell, there-there was a book...
+
+
+Olaf_007_fGo on...
+:
+
+Olaf_008_f,I opened it... and it was full... of trivia!
+(
+Player_000_choice_000_fKeep going...
+6
+Player_000_choice_001_fI thought you liked trivia!
+&
+Player_000_choice_002_fTHE HORROR!
+/
+
+Olaf_009_f!But it wasn't just SOME trivia...
+m
+
+Olaf_021_f_Ooo, so maybe if I <Lore>take pictures of the trivia book</Lore>, it will lock up Jack's magic?
+&
+
+Olaf_022_fMaybe! It's worth a try.
+
+
+Olaf_023_fGreat, I'm on it!
+b
+
+Olaf_024_fTOh, but it's not just one book, {PlayerName}. Somehow, the one book made more books!
+N
+
+Olaf_013_f@The book... it's filled with every piece of trivia in existence!
+X
+
+Olaf_014_fJI only read one page, and I could feel the knowledge pouring into my head.
+]
+
+Olaf_015_fOAnd I knew, if I read the whole book, I'd know all the trivia there is to know.
+F
+
+Olaf_016_f8So, I'd never again have the joy of learning a new fact!
+2
+
+Olaf_017_f$OK, now I get why you were so upset.
+8
+
+Olaf_018_f*Any idea how to deal with the trivia book?
+W
+
+Olaf_019_fIWell, there was one piece of trivia on that first page that might help...
+f
+
+Olaf_020_fXDid you know that some cultures think a camera is capable of capturing someone's spirit?
+@
+
+Olaf_010_f2I do! But what I like most is learning NEW trivia!
+*
+
+Olaf_011_fAre you... making fun of me?
+/
+
+Olaf_012_f!I'm sorry, Olaf; please continue.

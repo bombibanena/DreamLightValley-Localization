@@ -1,0 +1,93 @@
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_AvailableDescription
+You've arrived in the Mulan Realm... There's a military camp ahead; maybe you should explore it.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_DisplayName
+A New Recruit
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group01_Step01_StepDescription
+Explore the Mulan Realm.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step02_RemoveBlocker01_StepDescription
+Break the <ActivityItem>Rocks</ActivityItem>.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step02_RemoveBlocker02_StepDescription
+Dig out the <ActivityItem>Rice Spills</ActivityItem>.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step03_StepDescription
+Flip over the cauldron.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_StepDescription
+Clean up the camp.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_StoryDescription
+Upon entering the camp, you discover Mushu among a scene of devastation. After some initial suspicion, he deduces that you must be the last recruit he and Mulan were waiting for and decides to put you to work.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group03_Step04_TalkToCharacter02_StepDescription
+Return to Mushu.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem02_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem03_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem04_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem05_StepDescription
+{itemName}.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_ReadyDescription
+Bring the <ActivityItem>Training Uniform</ActivityItem> items to Mushu.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_StepDescription
+Look around the Realm to find pieces of your <ActivityItem>Training Uniform</ActivityItem> and bring them to Mushu:
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_StoryDescription
+Once you're done, you return to the small dragon who explains to you that you need to be properly dressed in order to start your training. He tells you that parts of a uniform are hidden around the Realm.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group05_Step07_TalkToCharacter03_StepDescription
+Return to Mushu.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_Step08_CookMeal01_StepDescription
+Prepare a bowl of <ActivityItem>Mushu's Congee</ActivityItem> for Mulan.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_StoryDescription
+Now that you're properly dressed, Mushu charges you with making a bowl of Congee so Mulan will have a great breakfast when she wakes up.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group07_Step09_Interaction04_StepDescription
+Ring the gong next to Mulan's tent to wake her up.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group07_StoryDescription
+Breakfast in hand, you go to wake up Mulan by interacting with the gong next to her tent.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group08_Step10_Conditional01_StepDescription
+Watch as Mulan wakes up.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_Step11_BringItem01_StepDescription
+Make sure you have <ActivityItem>Mushu's Congee</ActivityItem> in your Inventory.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_Step11_ReadyDescription
+Give <ActivityItem>Mushu's Congee</ActivityItem> to Mulan.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_StoryDescription
+Mulan is awake. Time for you to give her breakfast.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group10_Step05_DressUp01_StepDescription
+Put on your Training Uniform.
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+

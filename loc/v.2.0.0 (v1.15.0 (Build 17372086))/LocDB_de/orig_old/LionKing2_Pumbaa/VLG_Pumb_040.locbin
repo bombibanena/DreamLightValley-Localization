@@ -1,0 +1,65 @@
+
+�
+DVillage!LionKing!Pumbaa!VLG_Pumb_040_Any_CompletedRequestDescription:Подытожите приключение с Пумба.
+�
+9Village!LionKing!Pumbaa!VLG_Pumb_040_AvailableDescriptionYПумба готов принять "Ночные миты" с Тимон'и тобой!
+�
+>Village!LionKing!Pumbaa!VLG_Pumb_040_CompletedStoryDescription�Благодаря вам, Тимон и Пумба, Ночные Миты в Долине больше нет! Всё снова в безопасности.
+S
+0Village!LionKing!Pumbaa!VLG_Pumb_040_DisplayNameЧасть 2 Заражение
+y
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group01_Step01_TalkToCharacter01_StepDescription Поговори с {TargetNPC}.
+g
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group02_Step02_StepDescription Ночные гнездышки.
+X
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group02_Step03_StepDescriptionMega Night Mites.
+�
+<Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_StepDescriptionQОчистить Медоу, Глейд доверия и Даззл-Бич от:
+�
+=Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_StoryDescription�Ты и Пумба отправляетесь в Медоу, чтобы найти Ночные Гнезда и уничтожить их.
+�
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group03_Step04_TalkToCharacter02_StepDescription2Свяжитесь с {TargetNPC} о заразе.
+�
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group04_Step05_TalkToCharacter03_StepDescription2Перегруппируйтесь с {TargetNPC}.
+�
+OVillage!LionKing!Pumbaa!VLG_Pumb_040_Group05_Step06_VisitArea01_StepDescription>Зайдите в замок принца Принц Эрик.
+�
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group06_Step07_StepDescriptionUОчистить замок Ночных Митов принца Принц Эрик.
+�
+QVillage!LionKing!Pumbaa!VLG_Pumb_040_Group07_Step08_Interaction01_StepDescriptionsПерепроверь принца Принц Эрик замка на оставшиеся Ночные Миты.
+�
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group08_Step09_StepDescriptionmОчистить замок принца Принц Эрик от остальных Ночных Митов.
+�
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group09_Step10_TalkToCharacter04_StepDescription�Поговори с {TargetNPC} о следующих шагах по избавлению Долины Ночных Митов.
+�
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step11_StepDescription9Майк Вазовски и Салли Квартира.
+[
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step12_StepDescriptionДейзи Хаус.
+e
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step13_StepDescriptionГрузовик ВАЛЛ·И.
+�
+<Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_StepDescriptionIОчистить деревенские дома Ночных Митов:
+�
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group11_Step14_TalkToCharacter05_StepDescriptionVВозьми"Всё чисто."в деревенских домах из {TargetNPC}.
+�
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group12_Step15_TalkToCharacter06_StepDescriptionVПоговорите с {TargetNPC} для обновления ночной мите.
+�
+=Village!LionKing!Pumbaa!VLG_Pumb_040_Group12_StoryDescription�После освобождения Ночных Митов из замка Принц Эрик, а также домов различных деревенских жителей, вы встречаетесь с Тимон для поиска последнего из Ночных Митов.
+�
+OVillage!LionKing!Pumbaa!VLG_Pumb_040_Group13_Step16_VisitArea02_StepDescription;Заходите в дом Джек Скеллингтон.
+�
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group14_Step17_TalkToCharacter07_StepDescriptionEСпроси {TargetNPC}, видел ли он Ночные Миты.
+�
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group15_Step18_StepDescriptionnОбыскать дом Джек Скеллингтон Скелингтона для Ночных Митов.
+R
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group16_Step20_StepDescription{ItemName}.
+]
+CVillage!LionKing!Pumbaa!VLG_Pumb_040_Group16_Step21_StepDescriptionНочные Миты.
+x
+<Village!LionKing!Pumbaa!VLG_Pumb_040_Group16_StepDescription8Очистить Джек Скеллингтон дом:
+�
+UVillage!LionKing!Pumbaa!VLG_Pumb_040_Group17_Step22_TalkToCharacter08_StepDescription�Свяжитесь с {TargetNPC} для обновления информации о заразных заболеваниях.
+�
+=Village!LionKing!Pumbaa!VLG_Pumb_040_Group17_StoryDescription�Вы обнаруживаете последний из ночных митов Долины Джек Скеллингтон Skellington хотел сохранить их как любопытство!
+�
+QVillage!LionKing!Pumbaa!VLG_Pumb_040_Group18_Step23_Conditional02_StepDescriptionZДальнейший прогресс с Тимон в части 3 "Заражение" .

@@ -1,0 +1,111 @@
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Any_CompletedRequestDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_AvailableDescription
+Рапунцель хочет поговорить с тобой о... хлебе?
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_CompletedStoryDescription
+Рапунцель хочет, чтобы мечта еще одного человека сбылась: твоя. Она ведет тебя к древнему бассейну желаний, спасибо за то, что ты ее друг, и дает тебе монету. Загадай желание!
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_DisplayName
+У меня есть свет мечты.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group02_Step02_CookMeal01_StepDescription
+Найдите Ингредиенты для <Lore>Ruby Masoor Dal</Lore> и приготовьте его.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group03_Step03_TalkToCharacter02_StepDescription
+Приведите Руби Масоор Дал в Реми.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group04_Step04_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group04_Step04_ReadyDescription
+Поделитесь с Рапунцель Ruby Masoor Dal.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group04_Step04_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_StepDescription
+Собирайте материалы для Рапунцель существа:
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group05_StoryDescription
+После того, как вы с Рапунцель приготовили что-то, чтобы возродить вдохновение Реми, вы и Рапунцель решили выполнить мечту Гастон о том, чтобы стать героем.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group06_Step06_VisitArea01_StepDescription
+Возвращайся в башню Рапунцель, чтобы отдать ей материалы.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem02_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem03_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem05_StepDescription
+{itemName}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_ReadyDescription
+Принесите материалы на Рапунцель в ее башне.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_StepDescription
+Убедитесь, что у вас есть материалы в списке.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group08_Step08_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group09_Step09_VisitArea02_StepDescription
+Познакомьтесь с Гастон в Рапунцель Tower.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group10_Step10_TalkToCharacter04_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group11_Step11_TakePicture01_StepDescription
+Сфотографируй Гастон и существо.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group12_Step12_TalkToCharacter05_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group13_Step13_TakePicture02_StepDescription
+*Вздыхай.*Сфотографируй ещё одну фотографию Гастон и существо.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group14_Step14_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group15_Step15_Listen01_StepDescription
+Слушайте Гастон и Рапунцель.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group15_StoryDescription
+Гастон побеждает папье-мяч, созданное для него Рапунцель и"сберегает"Она стала героем, которого он уже считает.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group16_Step16_TalkToCharacter07_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group17_Step17_FollowCharacter01_StepDescription
+Следуйте за Рапунцель к сюрпризу.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group17_Step17_FollowCharacter01_TalkToDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_Group18_Step18_FillKeyhole01_StepDescription
+Брось монету в воду... загадай желание!
+
+TAG: Village!Tangled!Rapunzel!VLG_Rapu_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,53 @@
+
+
+
+Buzz_000_fsExcellent work, cadet. When they see these, no one will doubt that Space Rangers are a force to be reckoned with...
+=
+
+Buzz_004_f/In fact, I'll personally deliver one to Ursula.
+0
+Player_000_f How about I take it to Ursula...
+G
+Player_000_choice_000_f,You're too high-ranking for a job like this.
+8
+Player_000_choice_001_fIt's a good task for a cadet.
+=
+Player_000_choice_002_f"So you don't end up in her garden.
+ˆ
+
+Buzz_005_fzSmart thinking. Perhaps encountering a cadet instead of an officer will convince her that we don't regard her as a threat.
+{
+
+Buzz_007_fmAnd if her intimidation tactics don't scare us... That might be enough to deter her from her nefarious plans.
+2
+
+Buzz_002_f$Great way to show initiative, cadet.
+}
+
+Buzz_009_foSince you've proven yourself, I'll let you pick two other Villagers to help spread the word about Star Command.
+8
+Player_001_f(I'll go with Maui and Donald. They're...
+'
+Player_001_choice_000_fBoth heroes.
+5
+Player_001_choice_001_fThe ones who come to mind.
+>
+Player_001_choice_002_f#Boastful enough to spread the word.
+X
+
+Buzz_003_fJThen they're sure to appreciate Star Command's mission to help. I approve.
+K
+
+Buzz_010_f=Well, Woody always says to trust your inner voice. I approve.
+\
+
+Buzz_011_fNThen I'm sure everyone will know about our Space Ranger initiative in no time.
+G
+
+Buzz_006_f9You're right. Great way to show initiative, {PlayerName}.
+‡
+
+Buzz_008_fyYour courage is admirable, cadet. Being ready to risk Ursula's wrath on one of your very first missions... I'm impressed.
+L
+
+Buzz_001_f>Well, if you're ready to take on this challenge then go ahead.

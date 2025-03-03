@@ -1,0 +1,25 @@
+
+^
+JStory!Expansion02!MRQS_E02_051_TrialKnight_Any_CompletedRequestDescriptionReturn to Flynn.
+¡
+?Story!Expansion02!MRQS_E02_051_TrialKnight_AvailableDescription~Amidst some old castle ruins, {PlayerName} found the entrance to yet another Fairy Tale Trial. What adventures awaited inside?
+µ
+DStory!Expansion02!MRQS_E02_051_TrialKnight_CompletedStoryDescriptionÏInside the Fairy Tale Trial, {PlayerName} recreated a scene from an old adventure story: brave knights facing down fierce foes. {PlayerName} would need a little of that same courage if there was to be any hope of facing down Maleficent.
+X
+6Story!Expansion02!MRQS_E02_051_TrialKnight_DisplayNameThe Knights of the Round Table
+ç
+UStory!Expansion02!MRQS_E02_051_TrialKnight_Group01_Step01_VisitArea01_StepDescription4Enter the Fairy Tale Trial near the Fallen Fortress.
+Ñ
+IStory!Expansion02!MRQS_E02_051_TrialKnight_Group03_Step03_StepDescription7Search for and return the missing piece to each knight.
+x
+[Story!Expansion02!MRQS_E02_051_TrialKnight_Group03_Step08_TalkToCharacter02_StepDescription(Optional) Talk to Flynn.
+z
+BStory!Expansion02!MRQS_E02_051_TrialKnight_Group03_StepDescription4These knight statues seem to be missing something...
+Ä
+WStory!Expansion02!MRQS_E02_051_TrialKnight_Group04_Step04_Conditional01_StepDescription%Position each knight to face its foe.
+¢
+WStory!Expansion02!MRQS_E02_051_TrialKnight_Group05_Step05_Interaction01_StepDescriptionGInteract with the source of the corruption inside the Fairy Tale Trial.
+v
+UStory!Expansion02!MRQS_E02_051_TrialKnight_Group06_Step06_VisitArea02_StepDescriptionReturn to the Storybook Vale.
+v
+UStory!Expansion02!MRQS_E02_051_TrialKnight_Group07_Step07_VisitArea03_StepDescriptionExplore the Fairy Tale Trial.

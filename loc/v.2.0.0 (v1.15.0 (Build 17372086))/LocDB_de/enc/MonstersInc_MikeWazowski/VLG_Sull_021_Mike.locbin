@@ -1,0 +1,55 @@
+
+�
+FVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_AvailableDescriptionIПосмотри на Майк Вазовски о его проекте.
+}
+=Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_DisplayName<Деревенник месяца: Майк Вазовски
+�
+cVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_GardeningHarvest01_StepDescription-<ActivityItem> Морковь</ActivityItem>.
+�
+cVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_GardeningHarvest02_StepDescription"<ActivityItem>Corn</ActivityItem>.
+�
+cVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_GardeningHarvest03_StepDescription*<ActivityItem>Bell Peppers</ActivityItem>.
+~
+PVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_StepDescription*Растение и сбор овощей:
+�
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_StoryDescription�Он хочет приготовить что-то под названием Ходжподж ля Монстрополис, чтобы напомнить Салли о том, почему он заслуживает быть коронованным, и просит вас принести разнообразные свежие ингридиенты из всей долины.
+�
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_BringItem01_StepDescription-<ActivityItem> Морковь</ActivityItem>.
+�
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_BringItem02_StepDescription"<ActivityItem>Corn</ActivityItem>.
+�
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_BringItem03_StepDescription*<ActivityItem>Bell Peppers</ActivityItem>.
+�
+QVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_ReadyDescriptionKПриведите Ингредиентов на Майк Вазовски.
+�
+PVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_StepDescriptionMУбедитесь, что Ингредиенты в вашем списке:
+�
+bVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group03_Step03_TalkToCharacter01_StepDescriptionПоговори с Реми.
+�
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group03_StoryDescription�Принося ему свежие овощи, Майк Вазовски вызывает отвращение, может, Реми поможет тебе починить рецепт.
+�
+ZVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group04_Step04_Possess01_StepDescription|Найдите <ActivityItem>Fresh Компост</ActivityItem> вокруг Ресторана в долине Мечты.
+�
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group04_StoryDescription�Маленький шеф объясняет вам, что вам нужно добавить немного свежего компоста к рецепту и указать вам верное направление.
+�
+[Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group05_Step05_CookMeal01_StepDescription]Повар {TargetAmount} чашек <ActivityItem>hodgepodge la Monstropolis</ActivityItem>.
+�
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group05_StoryDescription�Теперь, когда у вас есть все, вы можете приготовить Ходжподж ла Монстрополис.
+�
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_Step06_BringItem04_StepDescription�Убедитесь, что в вашем списке есть тарелки {TargetAmount} <ActivityItem>hodgepodge la Monstropolis</ActivityItem>.
+�
+QVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_Step06_ReadyDescription�Принесите {TargetAmount} чашек <ActivityItem>hodgepodge la Monstropolis</ActivityItem> на Майк Вазовски.
+�
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_StoryDescription�Ходжподж ла Монстрополис подготовил, единственное, что осталось сделать, это доставить его на Майк Вазовски.
+�
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group03_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+�
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group05_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?

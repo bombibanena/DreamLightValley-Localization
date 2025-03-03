@@ -1,0 +1,42 @@
+TAG: Sally_003_f
+Hey Sally, what's up?
+
+TAG: Sally_004_f
+Well, I was hoping... now that I'm back... that I could reconnect with Jack.
+
+TAG: Sally_002_f
+But it's been so long... Do you think you could help me plan a special date for us?
+
+TAG: Player_000_choice_000_f
+I would be delighted!
+
+TAG: Player_000_choice_001_f
+In the middle of something, but I'll come back later!
+
+TAG: Sally_006_f
+Try to avoid touching them with your bare hands. It can be poisonous to some.
+
+TAG: Sally_005_f
+So how can I help?
+
+TAG: Sally_007_f
+It's been AGES since Jack and I had a proper date...
+
+TAG: Sally_008_f
+And I missed him terribly. But... I'm a little hesitant. I spent so much time alone that I feel awkward around others again.
+
+TAG: Sally_009_f
+Ahhh, no problem; let's get your gothic groove back!
+
+TAG: Sally_010_f
+Is there something that made you feel more confident in the past?
+
+TAG: Sally_000_f
+Well, I do always feel better when I wear deadly nightshade perfume. But I've had trouble growing deadly nightshade here. There's something about the soil...
+
+TAG: Sally_001_f
+I can give you a hand with that!
+
+TAG: Sally_013_f
+Oh, thank you, {PlayerName}! Once planted, the deadly nightshade seedlings should take about 15 minutes to properly sprout.
+

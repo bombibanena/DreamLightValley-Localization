@@ -1,0 +1,12 @@
+TAG: Mickey_000_f
+Ты выяснил, чего хотел Дейзи?
+
+TAG: Mickey_001_f
+Мы пытаемся вернуть <ActivityItem>Boutique</ActivityItem>. Мне нужно собрать для этого несколько ингредиентов.
+
+TAG: Mickey_002_f
+Некоторые <ActivityItem>Dream Shards</ActivityItem>, <ActivityItem>Carrots</ActivityItem>, <ActivityItem>Topaz</ActivityItem>, и <ActivityItem> White Daisies</ActivityItem>.
+
+TAG: Mickey_003_f
+Удачи!
+

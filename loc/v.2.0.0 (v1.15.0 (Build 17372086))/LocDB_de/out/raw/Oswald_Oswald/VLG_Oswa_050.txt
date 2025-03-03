@@ -1,0 +1,27 @@
+TAG: Village!Oswald!VLG_Oswa_050_AvailableDescription
+Gaston should have an interesting challenge for you and Oswald...
+
+TAG: Village!Oswald!VLG_Oswa_050_DisplayName
+Gaston's Challenge
+
+TAG: Village!Oswald!VLG_Oswa_050_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Gaston.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group02_Step02_RemoveBlocker01_StepDescription
+Copper Rocks.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group02_Step02_RemoveBlocker02_StepDescription
+Glass Stalagmites.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group02_Step02_StepDescription
+Break rocks around Eternity Isle to prove your strength.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group03_Step03_TalkToCharacter02_StepDescription
+See how Oswald fared with his task.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group04_Step04_Interaction01_StepDescription
+Fill in the many holes Oswald left in the Glittering Dunes.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group05_Step05_TalkToCharacter03_StepDescription
+Check back with Gaston to see who won the challenge.
+

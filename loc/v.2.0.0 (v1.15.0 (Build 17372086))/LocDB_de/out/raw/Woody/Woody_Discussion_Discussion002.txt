@@ -1,0 +1,33 @@
+TAG: Woody_000_f
+Say, {PlayerName}, I was tryin' to talk to that funny little fella, WALLÂ·E, but he just kept sayin' the same few words and makin' sounds. Do ya know if he's a toy?
+
+TAG: Player_000_choice_000_f
+He's a toy.
+
+TAG: Player_000_choice_001_f
+He's a robot.
+
+TAG: Player_000_choice_002_f
+He's a friend.
+
+TAG: Woody_001_f
+I knew it! Seems like he could use somebody to show him the ropes around here.
+
+TAG: Woody_004_f
+I'll spend some time with him.
+
+TAG: Woody_002_f
+A non-toy robot, you mean?
+
+TAG: Woody_005_f
+Well, I guess that explains why he's so comfortable moving around when everyone's looking.
+
+TAG: Woody_006_f
+I know the rules are different here, but it still takes a little gettin' used to.
+
+TAG: Woody_003_f
+Well, he sure looks like it.
+
+TAG: Woody_007_f
+With those round black eyes and cute little beeps, he kinda reminds me of a toy race car I used to know.
+

@@ -1,0 +1,36 @@
+TAG: Mushu_001_f
+Phew, that was a doozy, huh? I think we really had a breakthrough with him! That big guy is gonna be all right.
+
+TAG: Player_000_choice_000_f
+You're a good Guardian, Mushu.
+
+TAG: Player_000_choice_001_f
+I think we're really helping!
+
+TAG: Player_000_choice_002_f
+You play with SO MUCH fire.
+
+TAG: Mushu_003_f
+Oh, I'm not done yet.
+
+TAG: Mushu_006_f
+After a tough session like that, I think the Beast could use something warm and satisfying.
+
+TAG: Mushu_007_f
+Could you cook up a few bowls of <ActivityItem>Wonton Soup</ActivityItem>? I know Mulan always finds it comforting. I think he will too.
+
+TAG: Mushu_008_f
+Here â this is Grandmother Fa's special recipe.
+
+TAG: Mushu_009_f
+While you make that, I'm gonna go check on the big guy. You know, have a little heart-to-heart chat.
+
+TAG: Mushu_002_f
+I think so too.
+
+TAG: Mushu_004_f
+Hello â dragon!
+
+TAG: Mushu_005_f
+But seriously, it's working, right?
+

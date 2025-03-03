@@ -1,0 +1,9 @@
+TAG: Daisy_000_f
+Is Donald feeling better?
+
+TAG: Daisy_001_f
+Yes! He's finishing your wardrobe, and I'm bringing him the materials.
+
+TAG: Daisy_002_f
+He'll need <ActivityItem>Dream Shards</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Tinkering Parts</ActivityItem>, and <ActivityItem>Iron Ingots</ActivityItem>.
+

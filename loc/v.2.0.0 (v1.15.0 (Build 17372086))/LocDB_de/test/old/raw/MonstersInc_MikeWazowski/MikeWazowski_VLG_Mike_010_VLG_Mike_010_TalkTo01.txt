@@ -1,0 +1,96 @@
+TAG: MikeWazowski_000_f
+Мистер МакДак подключил меня к очкам.
+
+TAG: MikeWazowski_007_f
+Вау... это тяжёлая работа, как то, что можно найти в шкафу для ЦРУ.
+
+TAG: Player_001_choice_000_f
+Тебе они не нравятся?
+
+TAG: Player_001_choice_001_f
+Да, меня это тоже пугает.
+
+TAG: Player_001_choice_002_f
+У нас есть 23-19!
+
+TAG: MikeWazowski_008_f
+Я чувствую, что вернулась в Монстрополис.
+
+TAG: MikeWazowski_005_f
+Что тебе нужно?
+
+TAG: MikeWazowski_019_f
+Ну, я могу дать тебе список, но я точно не знаю, где найти Ингредиентов.
+
+TAG: MikeWazowski_020_f
+Ты готов к небольшой охоте на мусорщиков?
+
+TAG: MikeWazowski_021_f
+Конечно!
+
+TAG: MikeWazowski_022_f
+Ладно, сначала мне понадобится <ActivityItem> Desiccated Fishering Bat<ActivityItem>...
+
+TAG: MikeWazowski_024_f
+Затем несколько <ActivityItem>Ancient Crumbs</ActivityItem> и, наконец, некоторые <ActivityItem>Spicious Frige Gunk</ActivityItem>.
+
+TAG: Player_000_choice_000_f
+Это... очень противно, Майк Вазовски.
+
+TAG: Player_000_choice_001_f
+Конечно, есть идеи, где я могу всё найти?
+
+TAG: MikeWazowski_014_f
+Теперь, когда я вся в завязке, ты чувствуешь себя немного лучше?
+
+TAG: MikeWazowski_016_f
+Но если бы ты хотел, чтобы я чувствовала себя комфортно...
+
+TAG: MikeWazowski_018_f
+Вы могли бы помочь мне с моей... моей... аллергией, клянусь, цветы здесь льют пыльцу!
+
+TAG: MikeWazowski_001_f
+У тебя аллергия на пыльцу?
+
+TAG: MikeWazowski_025_f
+Боюсь, что так, одна из многих причин, по которой я люблю жить в городе!
+
+TAG: MikeWazowski_002_f
+Может, поговорим с Мерлин о зелье?
+
+TAG: MikeWazowski_003_f
+Ммм, не уверена, что что-то из того, что у тебя есть, сработает.
+
+TAG: MikeWazowski_004_f
+Но... если вы принесете мне какие-нибудь особые "Ингредиенты", я смогу сделать <ActivityItem>Monstrus De-Pollinator Solution</ActivityItem>, которые снимут ваши носки!
+
+TAG: MikeWazowski_033_f
+Вы издеваетесь? Мы тут говорим о первоклассных ингридиентах!
+
+TAG: MikeWazowski_034_f
+Моя формула не будет работать с подпарными принадлежностями.
+
+TAG: MikeWazowski_036_f
+Ладно, извини, что спросила, где я могу найти твой уникальный список покупок?
+
+TAG: MikeWazowski_035_f
+Может, попробуем <Lore> Houses различных деревенских жителей</Lore>?
+
+TAG: MikeWazowski_037_f
+Круто, я начну с этого.
+
+TAG: MikeWazowski_009_f
+Есть кое-что о том, как они возвышают твои глаза...
+
+TAG: MikeWazowski_010_f
+Куда?
+
+TAG: MikeWazowski_011_f
+Вообще-то, ты вроде как 23-19 здесь.
+
+TAG: MikeWazowski_012_f
+Но не волнуйся, у нас нет мусоросжигателя.
+
+TAG: MikeWazowski_013_f
+Какое облегчение.
+

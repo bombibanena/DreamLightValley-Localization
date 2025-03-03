@@ -1,0 +1,13 @@
+
+`
+Moana_003_fQ{PlayerName}! I'm so glad you're here. There are Night Thorns growing in my fale!
+:
+Moana_004_f+Do you know how to get rid of those things?
+>
+Player_001_choice_000_f#I can handle them! Lead me to them.
+9
+Player_001_choice_001_fI can help, but not right now.
+?
+Moana_006_f0Thank you. They just sprouted up out of nowhere!
+9
+Moana_007_f*Okay... I guess I can sleep on the boat...

@@ -1,0 +1,53 @@
+
+œ
+@Realm!LionKing!RLM_LionKingIP_Simb_010_CompletedStoryDescriptionXSimba returns to Dreamlight Valley with you, eager to see Nala and explore your kingdom.
+G
+2Realm!LionKing!RLM_LionKingIP_Simb_010_DisplayNameStars to Guide Us
+
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group01_Step01_FollowCharacter02_StepDescription$Follow Simba to the dried-out oasis.
+–
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group01_StoryDescriptionÒYou use the enchantment that Merlin told you about to bend the elements in the jungle. The sky clears of clouds, and Simba is able to see the stars again. It reminds him of some words of wisdom from his father.
+«
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group02_StoryDescriptionçSimba opens up to you about his father, Mufasa. Mufasa once told Simba that all the great kings of the past look down from the stars. But Simba has a strange problem: He can't remember the last time he was able to see the stars. Every time he looks up, the sky is full of clouds. You wonder if something magical might be at work and decide to seek out Merlin.
+^
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group03_Step03_Possess03_StepDescription{ItemName}.
+^
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group03_Step03_Possess04_StepDescription{ItemName}.
+h
+ERealm!LionKing!RLM_LionKingIP_Simb_010_Group03_Step03_StepDescriptionGather the following materials:
+Š
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group03_StoryDescriptionÆMerlin tells you that the weather in the Realm may be influenced by Simba's cloudy state of mind. You'll need to make something to remind him of his past and cast an enchantment to set things right.
+i
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group07_Step07_TalkToCharacter01_StepDescriptionTalk to Simba.
+ú
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group07_StoryDescription¶Simba is sure that the best way to be a good king would be to restore part of his kingdom, the dried-out oasis near the jungle. Together, you start to figure out how to do just that.
+u
+CRealm!LionKing!RLM_LionKingIP_Simb_010_Group08_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+®
+QRealm!LionKing!RLM_LionKingIP_Simb_010_Group08_Step15_BringItem04_StepDescriptionYMake sure you have <ActivityItem>Rafiki's Walking Stick</ActivityItem> in your Inventory.
+¤
+FRealm!LionKing!RLM_LionKingIP_Simb_010_Group08_Step15_ReadyDescriptionZBring <ActivityItem>Rafiki's Walking Stick</ActivityItem> to Simba in The Lion King Realm.
+…
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group12_Step12_Possess05_StepDescription2<ActivityItem>Waterfall Plant Seed.</ActivityItem>
+ƒ
+ORealm!LionKing!RLM_LionKingIP_Simb_010_Group12_Step12_Possess06_StepDescription0<ActivityItem>Clearing Tree Seed.</ActivityItem>
+d
+ERealm!LionKing!RLM_LionKingIP_Simb_010_Group12_Step12_StepDescriptionGather the following seeds:
+i
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group13_Step13_TalkToCharacter06_StepDescriptionTalk to Simba.
+„
+RRealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_MakeGarden01_StepDescription.<ActivityItem>Jungle Fern Seed</ActivityItem>.
+ˆ
+RRealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_MakeGarden02_StepDescription2<ActivityItem>Waterfall Plant Seed</ActivityItem>.
+†
+RRealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_MakeGarden03_StepDescription0<ActivityItem>Clearing Tree Seed</ActivityItem>.
+j
+ERealm!LionKing!RLM_LionKingIP_Simb_010_Group14_Step14_StepDescription!Plant the seeds around the oasis:
+P
+>Realm!LionKing!RLM_LionKingIP_Simb_010_Group15_StepDescriptionTalk to Simba.
+ø
+?Realm!LionKing!RLM_LionKingIP_Simb_010_Group19_StoryDescription´Simba is thrilled to see the oasis restored to life. He just knows that his father would be proud of the king he's becoming. Now he's ready to return to Dreamlight Valley with you.
+€
+WRealm!LionKing!RLM_LionKingIP_Simb_010_Group22_Step23_TalkToCharacter09_StepDescription%Talk to Simba in The Lion King Realm.
+[
+9Realm!LionKing!RLM_LionKingIP_Simb_010_StartRequestButton<smallcaps>{title}</smallcaps>

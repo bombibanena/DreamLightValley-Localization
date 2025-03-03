@@ -1,0 +1,57 @@
+TAG: Jafar_001_f
+{PlayerName}! I have news for you.
+
+TAG: Player_001_choice_000_f
+Great! Did you figure out our geometric issue?
+
+TAG: Player_001_choice_001_f
+Hold on; I'm busy now.
+
+TAG: Jafar_002_f
+I have!
+
+TAG: Jafar_003_f
+Clearly something is wrong with the dimensionality of these objects.
+
+TAG: Jafar_004_f
+But rather than being simply ripped away, the dimensions have been folded down...
+
+TAG: Player_002_choice_000_f
+Fascinating!
+
+TAG: Player_002_choice_001_f
+Skip the technical talk please.
+
+TAG: Jafar_005_f
+I must admit, I am surprised that you appreciate the finer details of geometry. Now...
+
+TAG: Jafar_015_f
+All right, fine; I'll be back soon enough. Merlin is going to keep an eye on you.
+
+TAG: Jafar_007_f
+If I am correct â and I most certainly am â I know what is needed to resolve this situation.
+
+TAG: Jafar_008_f
+However, it will not be simple.
+
+TAG: Jafar_009_f
+All right, what do you need?
+
+TAG: Jafar_010_f
+Supplies, to begin with. <ActivityItem>Levers</ActivityItem>, a <ActivityItem>Mirror</ActivityItem> from the <Lore>Cave of Wonders</Lore>, and <ActivityItem>Power Cables</ActivityItem> from EVE's House.
+
+TAG: Jafar_011_f
+And after that... I will inform you of what to do next.
+
+TAG: Jafar_012_f
+You can't just tell me now? You're kinda on thin ice.
+
+TAG: Jafar_013_f
+Now, now, why would I tell you everything just to be rudely thrown back in a lamp?
+
+TAG: Jafar_014_f
+All in due time.
+
+TAG: Jafar_006_f
+Of course. I would not expect you to understand.
+

@@ -1,0 +1,33 @@
+TAG: Merida_001_f
+This tapestry... It's beautiful!
+
+TAG: Merida_000_f
+Oh... it's me and my mother, isn't it?
+
+TAG: Merida_002_f
+Thank you so much, {PlayerName}!
+
+TAG: Player_000_f
+You can thank the Lorekeeper.
+
+TAG: Player_000_choice_000_f
+I'm just the delivery person this time!
+
+TAG: Player_000_choice_001_f
+It was her idea!
+
+TAG: Player_000_choice_002_f
+Even though she got me to do all the work.
+
+TAG: Merida_004_f
+I don't believe you. I'm sure the two of you did this... and it was very kind.
+
+TAG: Merida_006_f
+I need to go thank her, right away!
+
+TAG: Merida_003_f
+But YOU helped make it real. I know that.
+
+TAG: Merida_005_f
+Well, you're kind for helping her out.
+

@@ -1,0 +1,27 @@
+TAG: Scrooge_003_f
+I see you've found WALLÂ·E's Garden. If you repair it, WALLÂ·E can help you grow crops. He's got a right green thumb, ya know. Even if it's metal.
+
+TAG: Player_000_choice_000_f
+Let's repair WALLÂ·E's Garden. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_001_f
+Bless me bagpipes! Isn't that a sight!
+
+TAG: Scrooge_007_f
+The wee robot will be mighty happy.
+
+TAG: Scrooge_000_f
+Och! You don't have enough Star Coins to repair WALLÂ·E's Garden! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_004_f
+I'm afraid you cannae repair WALLÂ·E's Garden without WALLÂ·E.
+
+TAG: Scrooge_005_f
+And I haven't seen the wee robot in quite some time. You'll need to find him before we can make a deal.
+
+TAG: Scrooge_002_f
+Fine, fine. I'll be ready when you've changed your mind.
+

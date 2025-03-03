@@ -1,0 +1,15 @@
+TAG: Remy_001_f
+Have you been able to help Donald yet?
+
+TAG: Remy_002_f
+He's looking for <ActivityItem>5-Star Meals</ActivityItem>.
+
+TAG: Remy_003_f
+Oh! It looks like you've already cooked them. Now you just need to bring them to him.
+
+TAG: Remy_004_f
+He's looking for <ActivityItem>Desserts</ActivityItem>.
+
+TAG: Remy_005_f
+He's looking for <ActivityItem>Seafood Meals</ActivityItem>.
+

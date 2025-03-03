@@ -1,0 +1,79 @@
+
+2
+Belle_000_f#You saw the Beast? Is he all right?
+,
+Player_000_choice_000_fI think he's sad.
+5
+Player_000_choice_001_fHe's still upset with you.
+1
+Player_000_choice_002_fHe's having a tantrum.
+g
+Belle_003_fXHe thinks he'll never measure up to the prince in that old portrait you were staring at.
+
+Belle_005_fOh no...
+˜
+Belle_006_fˆI was just trying to see if there was something there that would help me understand who he was so I can better understand who he is now.
+5
+Player_002_choice_000_fHe didn't see it that way.
+3
+Player_002_choice_001_fIt was a simple mistake!
+4
+Player_002_choice_002_fGood idea, bad execution.
+I
+Belle_011_f:I'm so sorry about that... *sigh* I'm not sure what to do.
+6
+Belle_013_f'... What if we made him a new painting?
+F
+Belle_014_f7What an interesting idea, but... I don't paint. Do you?
+(
+Player_003_choice_000_fIn my dreams!
+-
+Player_003_choice_001_fNot even a little.
+5
+Player_003_choice_002_fFinger painting is my jam.
+:
+Belle_017_f+Well, I'm sure you have many other talents.
+I
+Belle_020_f:If only we could snap our fingers and have a new painting.
+ˆ
+Belle_021_fyHey, great idea! Maybe I can use some of my Dreamlight Magic to help us. I'll head to the Valley and consult with Merlin.
+!
+Belle_022_fWhat's a "Merlin"?
+/
+Player_004_choice_000_fOur resident wizard.
+-
+Player_004_choice_001_fMy magical mentor!
+?
+Player_004_choice_002_f$Probably "very tired" at this point.
+;
+Belle_029_f,You mean a real wizard? Like in a storybook?
+
+Belle_008_fExactly!
+A
+Belle_023_f2He's like a magical encyclopedia with a great hat.
+f
+Belle_007_fWMerlin's always trying to help people in the Valley with his magic and his experiments!
+w
+Belle_024_fhExperiments? Hmm... Merlin sounds a bit like my father and his inventions. I'd love to meet him someday.
++
+Belle_009_fHey, maybe someday you will!
+d
+Belle_027_fUFor now, I'll <Lore>go talk to Merlin about some magic to make a new painting</Lore>.
+Z
+Belle_030_fKThat would be wonderful! I look forward to hearing about what you discover.
+8
+Belle_028_f)People ask him LOTS of questions all day.
+G
+Belle_016_f8Hmm. Is there someone we could commission to create one?
+6
+Belle_018_f'Your "jam"? Does that mean you like it?
+y
+Belle_019_fjKinda? I do like jam. And finger painting... But probably not enough to make a new painting for the Beast.
+F
+Belle_010_f7A mistake I need to fix. But I'm not sure what to do...
+d
+Belle_012_fUYou're right... I should have respected his wishes. I have to find a way to fix this!
+\
+Belle_002_fMYou meant well... but it bothered him that you were staring at that portrait.
+k
+Belle_004_f\He's just upset that you were staring at that old portrait in his room. I'm sure it'll pass.

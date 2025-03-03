@@ -1,0 +1,105 @@
+TAG: Ariel_030_f
+Would you have time to help me with something, {PlayerName}?
+
+TAG: Player_000_choice_009_f
+Of course! What do you need?
+
+TAG: Player_000_choice_010_f
+I don't have time right now.
+
+TAG: Ariel_020_f
+Well, now that I'm back in the Valley, I've started working on my collection again.
+
+TAG: Ariel_035_f
+I just love collecting human stuff!
+
+TAG: Ariel_003_f
+And there are a few things I'd love to have, but I can't find them anywhere.
+
+TAG: Ariel_036_f
+What are they? I'll keep an eye out for them.
+
+TAG: Ariel_004_f
+Oh, thank you! I think the first one is called a <ActivityItem>Whisk</ActivityItem>. Humans use it to scratch their feet.
+
+TAG: Player_000_choice_002_f
+I'll bring you just that.
+
+TAG: Player_000_choice_011_f
+Uh... scratch their feet?
+
+TAG: Player_000_choice_015_f
+We use it to cook.
+
+TAG: Ariel_015_f
+I knew you'd know how to help, {PlayerName}!
+
+TAG: Ariel_018_f
+The second object is called a <ActivityItem>Spinning Top</ActivityItem>. It's so much fun to watch it twirl and twirl until it falls.
+
+TAG: Ariel_019_f
+Got it. One <ActivityItem>Spinning Top</ActivityItem> coming right up.
+
+TAG: Ariel_022_f
+And the third one is a magic box with an odd name. A <ActivityItem>Gramophone</ActivityItem>. Humans put color on it and spin it to make pretty designs.
+
+TAG: Player_000_choice_019_f
+I'll get you this very special box.
+
+TAG: Player_000_choice_020_f
+Who told you about that?
+
+TAG: Player_000_choice_021_f
+Ariel... It's for listening to music.
+
+TAG: Ariel_023_f
+Oh, that would be fantastic!
+
+TAG: Ariel_025_f
+The last one is called a "story brick." It's a rectangle with words and pretty pictures that tells a story. I'd love to have a new one.
+
+TAG: Player_000_choice_022_f
+One "story brick" coming up.
+
+TAG: Player_000_choice_023_f
+A what now?
+
+TAG: Player_000_choice_024_f
+Oh, you mean a story BOOK.
+
+TAG: Ariel_026_f
+Thank you, {PlayerName}!
+
+TAG: Ariel_033_f
+Maybe you could ask WALLÂ·E. I'm sure you remember that Memory you found of us exchanging things.
+
+TAG: Ariel_034_f
+I'm sure he'll know where to find what I'm looking for.
+
+TAG: Ariel_032_f
+Great idea. I'll ask him.
+
+TAG: Ariel_031_f
+Before the Forgetting, WALLÂ·E and I used to exchange things from our collections. He might know where to find what I'm looking for.
+
+TAG: Ariel_028_f
+Oh, I'm sure you've seen one. They're like the recipe bricks you can find all over the Village.
+
+TAG: Ariel_027_f
+Book? Oh, I'll have to remember that. I would love a new story BOOK for my collection.
+
+TAG: Ariel_029_f
+Mostly my friend Scuttle, but some parts I figured out by myself.
+
+TAG: Ariel_024_f
+That's so interesting! Under the sea, we make music with our voices and instruments.
+
+TAG: Ariel_016_f
+Uh-huh. You hold the handle and scratch your feet with the teardrop-shaped part.
+
+TAG: Ariel_017_f
+Really? Oh, thank you for telling me!
+
+TAG: Ariel_021_f
+Oh, I understand. I look forward to seeing you soon!
+

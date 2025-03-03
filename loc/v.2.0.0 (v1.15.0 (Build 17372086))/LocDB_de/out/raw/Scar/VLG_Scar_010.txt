@@ -1,0 +1,93 @@
+TAG: Village!LionKing!Scar!VLG_Scar_010_Any_CompletedRequestDescription
+Talk to Scar.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_AvailableDescription
+Scar seems restless, but he won't tell you why because you don't look regal enough for him to consort with. You decide to ask Mother Gothel to make you a coat.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_CompletedStoryDescription
+Scar has been fed. He should be appeased now, but there's only one way to know for sure.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_DisplayName
+Friends Aren't Food
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Remy.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group01_StoryDescription
+The coat is a roaring success. Scar tells you he's grumpy because he's famished. You decide to go ask Remy for help before the lion starts to eat the other Villagers.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group04_Step04_TalkToCharacter03_StepDescription
+Talk to Mother Gothel.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group05_Step05_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group05_Step05_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group05_Step05_ReadyDescription
+Bring the sushi to Remy.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group05_Step05_StepDescription
+Make sure you have everything to feed Scar in your Inventory:
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group06_Step06_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group06_Step06_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group06_Step06_StepDescription
+Prepare Scar's dinner:
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group07_Step07_BringItem06_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group07_Step07_ReadyDescription
+Bring the materials to Mother Gothel.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group07_Step07_StepDescription
+Gather the materials needed for the coat:
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group07_StoryDescription
+Mother Gothel agrees to help you and asks you to bring her some materials.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group08_Step08_Listen01_StepDescription
+Follow Remy as he gives Scar his food.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group08_StoryDescription
+The little chef wants to give the food to Scar himself to ensure a perfect presentation. You stay to ensure no one gets eaten.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group09_Step09_DressUp01_StepDescription
+Put on the {ItemName}.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_Group10_Step10_TalkToCharacter02_StepDescription
+Return to Scar.
+
+TAG: Village!LionKing!Scar!VLG_Scar_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

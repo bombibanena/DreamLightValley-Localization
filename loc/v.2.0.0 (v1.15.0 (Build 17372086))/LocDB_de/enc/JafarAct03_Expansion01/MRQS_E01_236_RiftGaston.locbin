@@ -1,0 +1,39 @@
+
+�
+>Story!Expansion01!MRQS_E01_236_RiftGaston_AvailableDescription�Вам нужно помочь деревенским жителям использовать свое воображение, чтобы закрыть разломы вокруг острова Вечность.
+�
+5Story!Expansion01!MRQS_E01_236_RiftGaston_DisplayNameNВоспользуйтесь своим воображением: Гастон
+�
+ZStory!Expansion01!MRQS_E01_236_RiftGaston_Group01_Step01_FollowCharacter01_StepDescriptionSСледуйте за Гастон до Тайм Рифта в его лагере.
+�
+\Story!Expansion01!MRQS_E01_236_RiftGaston_Group01_Step01_FollowCharacter01_TalkToDescription!Поговори с Гастон.
+�
+ZStory!Expansion01!MRQS_E01_236_RiftGaston_Group02_Step02_TalkToCharacter01_StepDescription#Поговори с Освальд.
+�
+BStory!Expansion01!MRQS_E01_236_RiftGaston_Group02_StoryDescription�Гастон нуждается в маленьком совете по использованию его воображения. Вы ищете Освальд.
+�
+ZStory!Expansion01!MRQS_E01_236_RiftGaston_Group03_Step03_TalkToCharacter02_StepDescription-Возвращайтесь на Гастон.
+�
+BStory!Expansion01!MRQS_E01_236_RiftGaston_Group03_StoryDescription�После тревожного откровения о попытках Гастон превратить Освальд в рагу, вы возвращаетесь в Гастон с советом: используйте эго Гастон против него.
+�
+ZStory!Expansion01!MRQS_E01_236_RiftGaston_Group04_Step04_FollowCharacter02_StepDescription�Следуйте за Гастон до того места, где он впервые потерпел кораблекрушение на острове Вечность.
+�
+\Story!Expansion01!MRQS_E01_236_RiftGaston_Group04_Step04_FollowCharacter02_TalkToDescription!Поговори с Гастон.
+�
+ZStory!Expansion01!MRQS_E01_236_RiftGaston_Group05_Step05_FollowCharacter03_StepDescription5Следуйте за Гастон на высоту.
+�
+\Story!Expansion01!MRQS_E01_236_RiftGaston_Group05_Step05_FollowCharacter03_TalkToDescription!Поговори с Гастон.
+x
+TStory!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_BringItem01_StepDescription Мягкая древесина.
+e
+TStory!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_BringItem02_StepDescriptionСтекло.
+�
+IStory!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_ReadyDescriptionsПринесите материалы для <ActivityItem>Ship в бутылке</ActivityItem> на Гастон.
+�
+HStory!Expansion01!MRQS_E01_236_RiftGaston_Group06_Step06_StepDescriptionKСоберите следующие материалы для Гастон:
+�
+ZStory!Expansion01!MRQS_E01_236_RiftGaston_Group07_Step07_FollowCharacter04_StepDescriptionNСледуйте за Гастон до разлома в его лагере.
+�
+\Story!Expansion01!MRQS_E01_236_RiftGaston_Group07_Step07_FollowCharacter04_TalkToDescription!Поговори с Гастон.
+�
+BStory!Expansion01!MRQS_E01_236_RiftGaston_Group07_StoryDescription�Вместе вы и Гастон подвозите корабль в бутылку, чтобы выбросить его в разлом.

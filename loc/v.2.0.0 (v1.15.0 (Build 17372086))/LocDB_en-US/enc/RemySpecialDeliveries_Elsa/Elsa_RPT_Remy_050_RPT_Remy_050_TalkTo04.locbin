@@ -1,0 +1,55 @@
+
+Š
+
+Elsa_000_f|{PlayerName}, I'm glad to see you! I've been thinking... I'd like to get to know my neighbors around the Village a bit more.
+%
+
+Elsa_001_fDo you have any advice?
+0
+Player_000_choice_000_fAttend social events.
+<
+Player_000_choice_001_f!Find things you've got in common.
+2
+Player_000_choice_002_fPut yourself out there.
+I
+
+Elsa_002_f;That's a wonderful idea. Are there any you know about soon?
+^
+
+Elsa_003_fPThe Fairy Godmother is having a pumpkin party and would love it if you'd attend.
+c
+
+Elsa_007_fUA pumpkin party? How interesting. Should I bring anything? Or wear something special?
+<
+Player_001_choice_001_f!Just bring yourself and have fun!
+P
+Player_001_choice_002_f5Maybe make a big ice sculpture shaped like a pumpkin?
+D
+Player_001_choice_003_f)Do you have an orange dress lying around?
+>
+
+Elsa_008_f0Well, I'd love to attend. Where will it be held?
+F
+
+Elsa_011_f8Just stop by the Fairy Godmother's House a little later.
+u
+
+Elsa_014_fgThank you, {PlayerName}. The Fairy Godmother seems so kind. I've been hoping to get to know her better.
+*
+
+Elsa_009_fOh, I'd be happy to do that.
+T
+
+Elsa_012_fFJust kidding. The party will already be pumpkin-y enough without that.
+%
+
+Elsa_010_fOh, I don't think I do.
+7
+
+Elsa_004_f)Of course. I'll have to think about that.
+)
+
+Elsa_005_fWell, do you like pumpkins?
+ 
+
+Elsa_006_f‘Of course, you're right. I'm still not always comfortable doing that after keeping myself locked away for so long. But I'd certainly like to try.

@@ -1,0 +1,75 @@
+TAG: Olaf_000_f
+Did you talk to Donald and Kristoff? Tell me everything.
+
+TAG: Olaf_001_f
+Wait, wait... let me close my eyes, so I can picture it all in my imagination...
+
+TAG: Olaf_002_f
+Well... it all started on the Sunlit Plateau when they faced down a dragon... or possibly a hummingbird...
+
+TAG: Olaf_003_f
+And that's it! That's everything Kristoff and Donald told me.
+
+TAG: Olaf_004_f
+But that's two completely different stories. Huh...
+
+TAG: Olaf_005_f
+Who do you think was telling the truth?
+
+TAG: Player_000_choice_000_f
+Kristoff.
+
+TAG: Player_000_choice_001_f
+Donald.
+
+TAG: Player_000_choice_002_f
+Truth is in the eye of the beholder.
+
+TAG: Olaf_006_f
+I'm sure you're right. Kristoff's very honest, and his story is more believable...
+
+TAG: Olaf_015_f
+...the <Lore>Pillar of Courage</Lore> in the Forest of Valor...
+
+TAG: Olaf_016_f
+...the <Lore>Elephant Graveyard</Lore> on the Sunlit Plateau...
+
+TAG: Olaf_017_f
+...and the <Lore>Ruins</Lore> in the Forgotten Lands?
+
+TAG: Olaf_018_f
+Will do! I'll be back soon.
+
+TAG: Olaf_007_f
+...but Donald's is so much more exciting!
+
+TAG: Olaf_008_f
+I'm gonna ask him to help me write the scripts. This is going to be a play to remember.
+
+TAG: Olaf_009_f
+Oh, but this story has so many locations.
+
+TAG: Olaf_010_f
+The Sunlit Plateau, the Forgotten Lands, the Forest of Valor...
+
+TAG: Olaf_011_f
+I really should see them all while I write so I can fully capture the ambiance.
+
+TAG: Olaf_012_f
+No problem. I have this thing called a "camera." I can use it to take some pictures for you. Then you'll be able to look at them to set the scene!
+
+TAG: Olaf_013_f
+That would be wonderful! Thank you, {PlayerName}. You're truly a friend of the theater.
+
+TAG: Olaf_014_f
+Could you get me pictures of...
+
+TAG: Olaf_019_f
+Really? Great! Donald's story is much more exciting!
+
+TAG: Olaf_020_f
+I'm afraid that theme won't be very gripping for our audience, {PlayerName}.
+
+TAG: Olaf_021_f
+They want excitement... and Donald's version of the story was much more exciting!
+

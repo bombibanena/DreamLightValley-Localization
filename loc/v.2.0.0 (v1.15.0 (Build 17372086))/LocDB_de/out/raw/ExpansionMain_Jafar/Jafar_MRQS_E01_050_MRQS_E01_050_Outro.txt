@@ -1,0 +1,84 @@
+TAG: Jafar_002_f
+Do you see now, {PlayerName}?
+
+TAG: Jafar_007_f
+What lies before you was once nothing but barren desert.
+
+TAG: Jafar_011_f
+But with the magic artifacts of Eternity Isle, <Lore>half of it was transformed into a lush jungle</Lore> at my command!
+
+TAG: Jafar_016_f
+However, now it is split down the middle by a rift in time that threatens to destroy everything!
+
+TAG: Player_000_choice_000_f
+I won't let that happen.
+
+TAG: Player_000_choice_001_f
+I can't wait to explore this place.
+
+TAG: Player_000_choice_002_f
+So... you're saying this is all your fault?
+
+TAG: Jafar_017_f
+That note of determination in your voice... I chose well when I sought your aid, {PlayerName}.
+
+TAG: Jafar_021_f
+You will need determination if you are to have any hope of reaching me.
+
+TAG: Jafar_023_f
+The Time Rift in the middle of the Island has left me trapped in the palace at the other end.
+
+TAG: Jafar_024_f
+How am I supposed to get to you with this <Lore>broken bridge</Lore> blocking the way?
+
+TAG: Jafar_025_f
+You must obtain an ancient Relic known as <Lore>the Royal Hourglass</Lore>!
+
+TAG: Jafar_010_f
+It is under the protection of that <Lore>flying metal nuisance</Lore>. You must find a way to get it from her.
+
+TAG: Player_001_f
+This metal nuisance...
+
+TAG: Player_001_choice_000_f
+Where can I find her?
+
+TAG: Player_001_choice_001_f
+Who is she?
+
+TAG: Player_001_choice_002_f
+Is she dangerous...?
+
+TAG: Jafar_026_f
+She is here, somewhere, in Ancient's Landing. <Lore>Search for her</Lore>.
+
+TAG: Jafar_013_f
+Perhaps she will trust you and simply hand the Hourglass over.
+
+TAG: Jafar_006_f
+You may <Lore>have to use your Pickaxe</Lore> to clear away the <ActivityItem>Copper Rocks</ActivityItem> blocking the way.
+
+TAG: Jafar_004_f
+Oh, and {PlayerName}? When you find that metal pest...
+
+TAG: Jafar_005_f
+...do take care. She has a nasty habit of blasting things to shreds.
+
+TAG: Jafar_014_f
+I have no idea what she calls herself. Only that she has been a thorn in my side since the day I arrived.
+
+TAG: Jafar_027_f
+She almost reminds me of a certain street rat... never knowing her proper place.
+
+TAG: Jafar_015_f
+Dangerous? Most certainly. She has been a thorn in my side since the day I arrived.
+
+TAG: Jafar_018_f
+Yes, there is much to explore. But also dangers to encounter.
+
+TAG: Jafar_020_f
+Take it from me; the magic of Eternity Isle is like a tiger that turns to bite you when you grab its tail.
+
+TAG: Jafar_019_f
+MY fault? Hardly. This island, and the relics scattered about it... why, they practically have a mind of their own!
+

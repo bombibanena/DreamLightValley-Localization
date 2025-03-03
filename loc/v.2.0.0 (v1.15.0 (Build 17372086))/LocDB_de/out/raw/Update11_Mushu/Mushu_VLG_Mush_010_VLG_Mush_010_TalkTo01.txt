@@ -1,0 +1,42 @@
+TAG: Mushu_001_f
+Mm-mm! The Valley smells so nice now! Good vibrations everywhere â even more than before.
+
+TAG: Mushu_002_f
+So what do ya think, {PlayerName}? Where should we build our <ActivityItem>Great Stone Dragon Statue</ActivityItem>?
+
+TAG: Player_000_choice_001_f
+The Plaza.
+
+TAG: Player_000_choice_002_f
+The Peaceful Meadow.
+
+TAG: Player_000_choice_003_f
+Dazzle Beach.
+
+TAG: Player_000_choice_004_f
+I've got an idea â just not ready to share yet.
+
+TAG: Mushu_004_f
+Right in the middle of the action â I like it!
+
+TAG: Mushu_008_f
+Of course, with your magic, you can change your mind and put it wherever you want.
+
+TAG: Mushu_009_f
+But first we gotta make it!
+
+TAG: Mushu_010_f
+I've made a list for your convenience. Could you <Lore>gather the materials</Lore> and <Lore>make the Great Stone Dragon Statue</Lore> for me?
+
+TAG: Mushu_011_f
+I gotta go tell Mulan what we're doing. Ooh, she's gonna be so excited!
+
+TAG: Mushu_003_f
+Where it can watch over all the little critters. Nice.
+
+TAG: Mushu_005_f
+Oh, it's gonna look so majestic by the ocean! *sniff* I'm kinda tearing up just thinking about it...
+
+TAG: Mushu_007_f
+You wanna make it a surprise. Nice. Well, I can't wait to see where you've picked! I trust you.
+

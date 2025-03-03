@@ -1,0 +1,39 @@
+TAG: Remy_000_f
+Okay. We are opening the Restaurant. I'm ready.
+
+TAG: Remy_005_f
+Hold on. Gotta go through my mental checklist one more time...
+
+TAG: Remy_006_f
+WAIT! Do we have salt? Did I forget to get salt?
+
+TAG: Remy_007_f
+We can't open a restaurant without salt!
+
+TAG: Player_000_choice_000_f
+We have salt.
+
+TAG: Player_000_choice_001_f
+Breathe, Remy.
+
+TAG: Player_000_choice_002_f
+It's okay. You have everything you need. You're going to do great.
+
+TAG: Remy_002_f
+You're sure? Okay. Then I think we're good. Here we go!
+
+TAG: Remy_009_f
+The Chez Remy Restaurant is now open!
+
+TAG: Remy_010_f
+Let's head inside!
+
+TAG: Remy_008_f
+Breathing? Right. Breathing. That's important.
+
+TAG: Remy_001_f
+Oh, and look â there's the salt. Heh-heh. Okay, I can do this. Here we go!
+
+TAG: Remy_004_f
+You're right. You're right. I can do this. Here we go!
+

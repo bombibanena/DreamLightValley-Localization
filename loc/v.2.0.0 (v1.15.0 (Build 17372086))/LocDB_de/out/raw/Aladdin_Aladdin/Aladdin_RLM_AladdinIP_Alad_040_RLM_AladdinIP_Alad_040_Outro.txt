@@ -1,0 +1,48 @@
+TAG: Aladdin_001_f
+Whoa, now that I'm back here... I realize how much I missed this place!
+
+TAG: Aladdin_002_f
+I feel like I've got a lot to catch up on.
+
+TAG: Player_000_choice_000_f
+You've got the time now.
+
+TAG: Player_000_choice_001_f
+Anything you missed in particular?
+
+TAG: Player_000_choice_002_f
+What do you want to do first?
+
+TAG: Aladdin_003_f
+That's for sure. Thanks, {PlayerName}.
+
+TAG: Aladdin_006_f
+Hey, is my old friend Mr. McDuck still here?
+
+TAG: Aladdin_007_f
+Absolutely! His shop is open and stocked if you want to treat yourself to something.
+
+TAG: Aladdin_008_f
+Great! I seem to remember discussing treasure hunting with him.
+
+TAG: Aladdin_009_f
+Once I'm settled in, I'll have to go see him and catch up.
+
+TAG: Aladdin_000_f
+And you should feel free to hang out with Carpet! After I explained how you helped rescue him, he's keen to spend some time with you.
+
+TAG: Aladdin_012_f
+Cool! I'll <Lore>take a picture with him</Lore> to give him a proper Dreamlight Valley welcome as well!
+
+TAG: Aladdin_010_f
+I'll leave you to get settled in, Aladdin. Just remember: If there's anything you need, just let me know.
+
+TAG: Aladdin_011_f
+Definitely! And again... thanks, {PlayerName}.
+
+TAG: Aladdin_004_f
+The food! Don't get me wrong; I love the food in Agrabah, but when you grow up scraping for just a loaf of bread, having so much amazing food to choose from is incredible!
+
+TAG: Aladdin_005_f
+I'm not sure...
+

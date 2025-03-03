@@ -1,0 +1,33 @@
+TAG: Hades_000_f
+Nicely done, {PlayerName}.
+
+TAG: Hades_001_f
+I'd say your work here... meets expectations.
+
+TAG: Player_000_choice_000_f
+You did a great job managing me.
+
+TAG: Player_000_choice_001_f
+Uh... thanks, I guess.
+
+TAG: Player_000_choice_002_f
+ExCUSE me? My work EXCEEDS expectations, thank you very much!
+
+TAG: Hades_003_f
+Of course I did, my loyal minion.
+
+TAG: Hades_007_f
+Looks like the bridge has risen. So go ahead; work your magic...
+
+TAG: Hades_008_f
+...and get me one step closer to my throne room on Mount Olympus.
+
+TAG: Hades_004_f
+Don't mention it. I know how important positive reinforcement is for junior minions.
+
+TAG: Hades_005_f
+Whoa, whoa, whoa, {PlayerName}! Handling feedback is a CRUCIAL quality in a junior employee.
+
+TAG: Hades_006_f
+Don't make me put you on a minion-improvement plan. Anyway...
+

@@ -1,0 +1,66 @@
+TAG: Village!Moana!Maui!VLG_Maui_010_Any_CompletedRequestDescription
+Поговори с Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_AvailableDescription
+Мауи хочет поговорить с тобой.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_CompletedStoryDescription
+<ActivityItem> Coconut Tree</ActivityItem> появился на Dazzle Beach. Теперь, когда вы привезли <ActivityItem> Coconuts</ActivityItem> в деревню, Мауи должен быть рад этому.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_DisplayName
+Похоронение угря
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Гуфи.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group01_StoryDescription
+Демибод считает, что в долине Мечты что-то не хватает. <ActivityItem> Coconuts</ActivityItem>. Чтобы решить проблему, он решает привести их в деревню, но сначала ему нужен <ActivityItem>Eel</ActivityItem>. Он думает, что Гуфи может помочь.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group02_Step02_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group02_Step02_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group02_Step02_StepDescription
+Соберите следующие пункты:
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group02_StoryDescription
+Гуфи объясняет, что для того, чтобы поймать несколько <ActivityItem>Eels</ActivityItem>, вам понадобится ловушка.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group03_Step03_StepDescription
+Поместите <ActivityItem>Fishing Trap</ActivityItem> рядом с доком на пляже Даззл.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group03_StoryDescription
+Теперь, когда у вас есть рыболовная ловушка, вам просто нужно поместить ее в воду Даззл-Бич рядом с доком.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group04_Step05_ReadyDescription
+Возьмите {ItemName} на Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group04_Step05_StepDescription
+Поймать <ActivityItem>Eel</ActivityItem>, привлекаемый приманкой в <ActivityItem>Fishing Trap</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group05_Step06_StepDescription
+Похоронить <ActivityItem>Eel</ActivityItem> на пляже.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group05_StoryDescription
+Как бы удивительно это ни звучало, вам придется посадить <ActivityItem>Eel</ActivityItem>, чтобы <ActivityItem> Coconuts</ActivityItem> могли расти...
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group06_Step08_BringItem02_StepDescription
+Возьмите <ActivityItem> Coconut</ActivityItem> с нового <ActivityItem> Coconut Tree</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group06_Step08_ReadyDescription
+Возьмите <ActivityItem>Coconut</ActivityItem> на Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group07_Step10_StepDescription
+Перевозка a <ActivityItem>Fishing Chap</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group08_Step07_MakeGarden01_StepDescription
+Держите урожай до тех пор, пока он не вырастет в <ActivityItem> Coconut Tree</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_Group09_Step04_TalkToCharacter02_StepDescription
+Поговори с Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

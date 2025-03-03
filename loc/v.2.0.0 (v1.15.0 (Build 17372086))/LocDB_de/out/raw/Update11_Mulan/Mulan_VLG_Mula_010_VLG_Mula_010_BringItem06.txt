@@ -1,0 +1,30 @@
+TAG: Mulan_002_f
+{PlayerName}, you found it all! Thank you.
+
+TAG: Mulan_003_f
+And while you were gone, I was thinking... I'd like to share the teas with the Valley.
+
+TAG: Mulan_004_f
+It took me a while, but I managed to build a <ActivityItem>Tea Stall</ActivityItem> where everyone can get their tea!
+
+TAG: Player_000_choice_000_f
+That's such a nice idea.
+
+TAG: Player_000_choice_001_f
+You always come up with a plan, don't you?
+
+TAG: Player_000_choice_002_f
+Let's hope Mr. McDuck doesn't see you as competition!
+
+TAG: Mulan_005_f
+Well, the Villagers have been so helpful. It's the least I can do.
+
+TAG: Mulan_010_f
+Here. Please place the stall anywhere you'd like in the Valley.
+
+TAG: Mulan_006_f
+I'm good at making things up as I go, but I do try to plan ahead when I can.
+
+TAG: Mulan_007_f
+Oh, he doesn't. He even encouraged me and said it was good to see young people with entrepreneurial spirit.
+

@@ -1,0 +1,33 @@
+TAG: Aladdin_000_f
+That? Well, I taught myself.
+
+TAG: Aladdin_001_f
+It just took a lot of practice.
+
+TAG: Player_000_choice_000_f
+Think I could learn it?
+
+TAG: Player_000_choice_001_f
+I don't like practicing things!
+
+TAG: Player_000_choice_002_f
+Ever tried it with a different fruit?
+
+TAG: Aladdin_003_f
+Sure! Knowing you, {PlayerName}, you can do anything you put your mind to.
+
+TAG: Aladdin_005_f
+I mean, look at everything you've done with this place!
+
+TAG: Aladdin_002_f
+Well, the bad news is: That's the only way you learn to do a trick like that. Practicing and making mistakes.
+
+TAG: Aladdin_006_f
+The good news is: When you find something you like, practicing's fun!
+
+TAG: Aladdin_004_f
+Once, with a small melon. But it smashed everywhere!
+
+TAG: Aladdin_007_f
+Luckily, Abu was happy to eat what was left.
+

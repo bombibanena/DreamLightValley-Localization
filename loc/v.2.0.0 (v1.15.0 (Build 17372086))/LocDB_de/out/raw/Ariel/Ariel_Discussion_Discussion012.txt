@@ -1,0 +1,48 @@
+TAG: Ariel_000_f
+{PlayerName}, I have a very important question for you. What's your favorite thing to do on land?
+
+TAG: Player_000_choice_000_f
+Dance.
+
+TAG: Player_000_choice_001_f
+Ski.
+
+TAG: Player_000_choice_002_f
+Fly kites.
+
+TAG: Ariel_001_f
+Oh, we dance underwater too! But it must be so much harder when you have to stay connected to the floor.
+
+TAG: Ariel_006_f
+There are so many interesting things to do on land.
+
+TAG: Player_001_choice_000_f
+Yeah, it can be pretty cool.
+
+TAG: Player_001_choice_001_f
+I think the sea is better.
+
+TAG: Player_001_choice_002_f
+I think they're both amazing in their own ways.
+
+TAG: Ariel_007_f
+Thank you for telling me about it!
+
+TAG: Ariel_008_f
+*giggle* I know a crab who agrees with you.
+
+TAG: Ariel_009_f
+I guess you're right. There are lots of fantastic things about both of them.
+
+TAG: Ariel_002_f
+Oh, Merlin told me about skiing!
+
+TAG: Ariel_004_f
+You put sticks on your feet and throw yourself down a mountain.
+
+TAG: Ariel_005_f
+That sounds so exciting! I'd love to try it someday.
+
+TAG: Ariel_003_f
+Oh, I've seen those! They're almost like the sail of a boat, but in the sky.
+

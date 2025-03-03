@@ -1,0 +1,71 @@
+
+ 
+5Village!Frozen!Olaf!VLG_Olaf_010_AvailableDescriptionêOlaf's happy to be back in Dreamlight Valley, but something just doesn't feel right. He asks you for help bringing joy to some of the Villagers.
+´
+:Village!Frozen!Olaf!VLG_Olaf_010_CompletedStoryDescriptionmYou build a stage for Olaf. You're a little bit closer to bringing joy and stories back to Dreamlight Valley.
+?
+,Village!Frozen!Olaf!VLG_Olaf_010_DisplayNameA Place for Joy
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem01_StepDescription{itemName}.
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem03_StepDescription{itemName}.
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem04_StepDescription{itemName}.
+Z
+KVillage!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem05_StepDescription{itemName}.
+g
+@Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_ReadyDescription#Bring what you've gathered to Olaf.
+g
+?Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_StepDescription$Gather some gifts for the Villagers:
+í
+QVillage!Frozen!Olaf!VLG_Olaf_010_Group02_Step09_TalkToCharacter05_StepDescription=Talk to Minnie to get a <ActivityItem>Curtain</ActivityItem>.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_010_Group02_Step12_Possess05_StepDescription{ItemName}.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_010_Group02_Step12_Possess07_StepDescription{ItemName}.
+X
+IVillage!Frozen!Olaf!VLG_Olaf_010_Group02_Step12_Possess08_StepDescription{ItemName}.
+[
+8Village!Frozen!Olaf!VLG_Olaf_010_Group02_StepDescriptionGather the following materials:
+˘
+9Village!Frozen!Olaf!VLG_Olaf_010_Group02_StoryDescriptionªWhile trying to bring joy to the Villagers, you discover that Olaf used to be the storyteller of Dreamlight Valley. He asks you to help him build a stage so he can tell stories once more.
+v
+HVillage!Frozen!Olaf!VLG_Olaf_010_Group03_Step03_Listen01_StepDescription*Watch Olaf give the gift to Mother Gothel.
+b
+QVillage!Frozen!Olaf!VLG_Olaf_010_Group04_Step04_TalkToCharacter01_StepDescriptionTalk to Olaf.
+g
+8Village!Frozen!Olaf!VLG_Olaf_010_Group05_StepDescription+Bring the flowers to Scar on Olaf's behalf.
+r
+?Village!Frozen!Olaf!VLG_Olaf_010_Group07_Step07_StepDescription/A <ActivityItem>Memory</ActivityItem> appeared!
+¢
+HVillage!Frozen!Olaf!VLG_Olaf_010_Group07_Step07_Unlock01_StepDescriptionVPick up the <ActivityItem>Memory</ActivityItem> near the bridge on the Sunlit Plateau.
+b
+QVillage!Frozen!Olaf!VLG_Olaf_010_Group08_Step08_TalkToCharacter03_StepDescriptionTalk to Olaf.
+É
+QVillage!Frozen!Olaf!VLG_Olaf_010_Group09_Step13_FollowCharacter01_StepDescription.Meet Olaf at the bridge on the Sunlit Plateau.
+d
+SVillage!Frozen!Olaf!VLG_Olaf_010_Group09_Step13_FollowCharacter01_TalkToDescriptionTalk to Olaf.
+d
+KVillage!Frozen!Olaf!VLG_Olaf_010_Group10_Step10_CraftItem01_StepDescriptionCraft the {ItemName}.
+É
+KVillage!Frozen!Olaf!VLG_Olaf_010_Group11_Step11_BringItem08_StepDescription4Make sure you have the {ItemName} in your Inventory.
+a
+@Village!Frozen!Olaf!VLG_Olaf_010_Group11_Step11_ReadyDescriptionBring the {ItemName} to Olaf.
+s
+=Village!Frozen!Olaf!VLG_Olaf_010_Group01_OngoingRequestButton2<smallcaps>{title}</smallcaps><br>What do we need?
+s
+=Village!Frozen!Olaf!VLG_Olaf_010_Group02_OngoingRequestButton2<smallcaps>{title}</smallcaps><br>What do we need?
+o
+=Village!Frozen!Olaf!VLG_Olaf_010_Group03_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+o
+=Village!Frozen!Olaf!VLG_Olaf_010_Group04_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+o
+=Village!Frozen!Olaf!VLG_Olaf_010_Group05_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+l
+=Village!Frozen!Olaf!VLG_Olaf_010_Group09_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+o
+=Village!Frozen!Olaf!VLG_Olaf_010_Group10_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+x
+=Village!Frozen!Olaf!VLG_Olaf_010_Group11_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
+g
+3Village!Frozen!Olaf!VLG_Olaf_010_StartRequestButton0<smallcaps>{title}</smallcaps><br>Start Mission.

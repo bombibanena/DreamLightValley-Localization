@@ -1,0 +1,31 @@
+
+A
+Sally_001_f2{PlayerName}! Are Mickey and Mr. McDuck all right?
+R
+Sally_002_fCThey're okay for now! But... they didn't want to heed our warnings.
+?
+Sally_003_f0Oh no! Why won't anyone ever believe my visions?
+1
+Player_000_choice_000_fYou're like Cassandra.
+G
+Player_000_choice_001_f,We'll have to get ahead of whatever this is.
+.
+Player_000_choice_002_fDon't give up hope!
+
+Sally_006_fWho?
+I
+Sally_007_f:A legendary seer. Nobody believed her premonitions either.
+K
+Sally_008_f<But you've got me in your corner, and we'll figure this out!
+<
+Sally_010_f-Why don't we go <Lore>confront Ursula</Lore>?
+ù
+Sally_011_fçNow we KNOW that she's up to something and maybe we can shut it down before Mickey and Uncle Scrooge get affected by whatever she's planning.
+B
+Sally_012_f3Yes. Let's go back to <Lore>the Cursed Cave</Lore>.
+
+Sally_005_fBut how?
+
+Sally_004_fI'll try...
+G
+Sally_009_f8First things first ‚Äî let's think about our next steps.

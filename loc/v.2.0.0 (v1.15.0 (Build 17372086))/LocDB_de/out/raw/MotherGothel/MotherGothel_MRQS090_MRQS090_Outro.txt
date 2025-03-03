@@ -1,0 +1,66 @@
+TAG: MotherGothel_000_f
+And once again, <Lore>you</Lore> save the day... just like always.
+
+TAG: Player_000_choice_000_f
+You don't even know me.
+
+TAG: Player_000_choice_001_f
+Yeah. I'm the best!
+
+TAG: Player_000_choice_002_f
+Have you been watching me?
+
+TAG: MotherGothel_001_f
+Don't know you? Why, I thought you were just pretending... but you really don't know who you are, do you?
+
+TAG: MotherGothel_004_f
+Well then, let me be the first to welcome you back...
+
+TAG: MotherGothel_014_f
+...back to the Valley that was <Lore>once your home.</Lore>
+
+TAG: MotherGothel_005_f
+<Lore>You are our Ruler... Your Majesty.</Lore>
+
+TAG: Player_000_choice_003_f
+Your Majesty?
+
+TAG: Player_000_choice_004_f
+I knew it!
+
+TAG: Player_000_choice_005_f
+I'm WHAT?
+
+TAG: MotherGothel_007_f
+That's right. You always were the rightful ruler of this Valley.
+
+TAG: MotherGothel_010_f
+Long ago, <Lore>you reigned over these lands.</Lore> It was prosperous enough, I suppose, and you made a ridiculous number of friends.
+
+TAG: MotherGothel_011_f
+But then, <Lore>you started to change...</Lore> And, one day â poof! You disappeared without a trace.
+
+TAG: MotherGothel_012_f
+While you were gone, something evil started to grow and grow until it caused <Lore>the Forgetting.</Lore>
+
+TAG: MotherGothel_013_f
+If you want to end <Lore>the Forgetting</Lore>, you'll have to find a way to reach it and root it out...
+
+TAG: MotherGothel_015_f
+Keep exploring these lands, Your Majesty. Maybe you'll even find someone to help you with that.
+
+TAG: MotherGothel_008_f
+Ha! I know a performance when I see one. And you, my dear, are no performer.
+
+TAG: MotherGothel_009_f
+The Old Ruler! You really should listen more closely, dear.
+
+TAG: MotherGothel_002_f
+Ugh. How appalling. I've fed into your already overinflated ego... Wait. You really don't remember, do you?
+
+TAG: MotherGothel_006_f
+Well then, let me be the first to welcome you back...
+
+TAG: MotherGothel_003_f
+My, my. I thought you were pretending, but you really don't remember, do you?
+

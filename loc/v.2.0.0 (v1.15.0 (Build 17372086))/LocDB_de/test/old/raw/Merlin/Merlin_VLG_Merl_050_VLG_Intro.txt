@@ -1,0 +1,24 @@
+TAG: Merlin_001_f
+{PlayerName}! Я просто подумал о тебе и о том, как ты был уверен, что появишься на мгновение.
+
+TAG: Player_001_choice_000_f
+Почему ты думал обо мне?
+
+TAG: Player_001_choice_002_f
+Позволь мне показать тебе мой трюк по исчезновению.
+
+TAG: Merlin_004_f
+Ты помнишь, как я заколдовал твой Водоносный Банк, чтобы удалить грибы?
+
+TAG: Merlin_002_f
+Возможно, я нашел способ сделать это чародейство постоянным.
+
+TAG: Merlin_003_f
+Это все связано с <ActivityItem>Purificed Night Shards</ActivityItem> мы обнаружили.
+
+TAG: Merlin_005_f
+Как только вы соберете несколько Ингредиентов, я покажу вам, что нам понадобится <ActivityItem>Mushrooms</ActivityItem>, <ActivityItem>Emeralds</ActivityItem>, и <ActivityItem>Prefied Night Shards</ActivityItem>.
+
+TAG: Merlin_006_f
+Не ждите слишком долго! Я многому научился на <ActivityItem>Purificed Night Shard</ActivityItem>!
+

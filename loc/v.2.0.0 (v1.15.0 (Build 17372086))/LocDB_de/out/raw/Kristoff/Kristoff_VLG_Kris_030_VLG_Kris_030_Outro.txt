@@ -1,0 +1,15 @@
+TAG: Kristoff_001_f
+Okay, I have a <ActivityItem>Stall</ActivityItem>, so I guess I'm a shopkeeper now.
+
+TAG: Kristoff_004_f
+Or is it "stallkeeper"? I'll ask Anna.
+
+TAG: Kristoff_000_f
+Anyway, come by the Stall whenever you need something.
+
+TAG: Kristoff_003_f
+I'm gonna sell <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Stones</ActivityItem> and <ActivityItem>Sand</ActivityItem>.
+
+TAG: Kristoff_002_f
+I wasn't sure about this at first, but I think it's gonna be great! Thanks, {PlayerName}.
+

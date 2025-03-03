@@ -1,0 +1,37 @@
+
+R
+Goofy_000_fCHowdy, {PlayerName}! It's great to see ya! What are ya up to today?
+J
+Goofy_002_f;I'm looking for a <ActivityItem>Videotape</ActivityItem>...
+G
+Goofy_003_f8Gawrsh... I, uh... I suppose Uncle Scrooge sent ya, huh?
+ 
+Goofy_004_fActually, he did.
+˜
+Goofy_005_fˆI knew it. Ya see, I used to rent lots of action movies back when he offered 'em in his shop, but I wasn't so good at bringin' 'em back.
+C
+Player_000_choice_000_f(I always forget to return what I borrow.
+:
+Player_000_choice_001_fIt happens to me sometimes too.
+L
+Player_000_choice_002_f1It bothers me when people don't return my things.
+3
+Goofy_008_f$Phew! I'm glad I'm not the only one.
+†
+Goofy_006_fwThe <ActivityItem>Videotape</ActivityItem> I'm looking for is not for Mr. McDuck, though. It's for Monster Movie Night.
+E
+Goofy_001_f6Hot diggity! Does that mean Sulley's bringin' it back?
+
+Goofy_009_fYes.
+2
+Goofy_013_f#Wah-hoo! I sure am glad to hear it!
+;
+Goofy_007_f,Do you remember the last movie you borrowed?
+p
+Goofy_011_faI don't remember the title, but I know it was an action movie with lots of funny parts in it too!
+"
+Goofy_012_fAny monsters in it?
+£
+Goofy_014_f“Nope, not a monster in sight. I gotta put on my thinkin' cap and see if I can remember where it is. Welp, good luck with your Monster Movie search!
+Ä
+Goofy_010_f´I understand that, {PlayerName}. And I promise I've been tryin' to be better about rememberin' stuff. I even got a reminder note system now! Hmm... where did I put that notepad...?

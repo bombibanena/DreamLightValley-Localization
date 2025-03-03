@@ -1,0 +1,191 @@
+
+:
+Player_007_f*Maybe if we get rid of the Night Thorns...
+W
+Merlin_000_fGWhat's this? Are my spectacles enchanted or might you actually be real?
+.
+Player_001_choice_000_fOf course I'm real!
+4
+Player_001_choice_001_fI don't know. Are you...?
+:
+Player_001_choice_002_fWhat kind of question is that?!
+<
+Merlin_020_f,Well, you never can be too sure around here.
+T
+Merlin_012_fDI'm afraid you'll have to excuse me. I haven't met anyone in ages...
+M
+Merlin_060_f=Ahem... Welcome to <Lore>Dreamlight Valley</Lore>, my friend!
+@
+Merlin_025_f0<Lore>Dreamlight Valley</Lore>? This place is...
+2
+Player_000_choice_006_f...strangely beautiful.
+-
+Player_000_choice_007_f...sort of creepy.
+1
+Player_000_choice_008_f...awfully mysterious.
+<
+Merlin_034_f,This place is so cool. I want to explore it!
+}
+Merlin_027_fmQuite understandable. Why, in all my travels, I've yet to find another realm as filled with magic and wonder.
+Y
+Merlin_029_fIIn its present state, however, it's a... well, it's a sorry sight indeed.
+\
+Merlin_015_fLOh, but I haven't introduced myself yet! You're no doubt wondering who I am.
+.
+Player_000_choice_009_fDuh. You're Merlin!
+;
+Player_000_choice_010_f Um. You're some sorta... wizard?
+5
+Player_000_choice_011_fYou're a very odd old man.
+?
+Merlin_039_f/It's so strange. I almost feel like I know you.
+1
+Player_000_choice_012_fMagic? Me? Ha! No way.
+7
+Player_000_choice_013_fI don't know HOW I got here!
+4
+Player_000_choice_015_fOh, uh, yes! Great magic!
+:
+Merlin_044_f*You're a great and powerful wizard, right?
+7
+Merlin_046_f'Well... yes... but not just any wizard!
+\
+Merlin_041_fLI'm a soothsayer! A prognosticator! I have the power to see into the future.
+K
+Merlin_005_f;And I'm also quite skilled at alchemy and prestidigitation!
+S
+Merlin_006_fCNow that that's settled, there's the small matter of who YOU are...
+%
+Merlin_038_fMe? I'm {PlayerName}.
+{
+Merlin_052_fk{PlayerName}, hmm? Well, the only way to get to Dreamlight Valley is to pass through <Lore>dreams</Lore>...
+W
+Merlin_047_fGSo you must also possess great magic. Otherwise, how could you be here?
+Y
+Merlin_048_fIWhen it comes to magic, I can't tell an "abracadabra" from an "alacazam."
+h
+Merlin_055_fXOh, I think you'll find that magic often chooses us. And rarely does it choose unwisely.
+‹
+Merlin_054_f{In fact, I'm quite certain that you're the one we've been waiting for. <Lore>You're going to save Dreamlight Valley</Lore>!
+1
+Player_000_choice_016_fWhat can I do to help?
+/
+Player_000_choice_017_fWhat's in it for me?
+0
+Player_000_choice_018_fSave it from... what?
+V
+Merlin_002_fFAh-ha! That spirit of friendship is just what Dreamlight Valley needs!
+^
+Merlin_008_fNAll right, listen closely and I'll tell you the tale... before I forget again!
+u
+Merlin_045_feAnd as I can see into the future, I knew that someday, someone would come to help restore the Valley.
+=
+Player_000_choice_003_f"Tell me more about the Forgetting.
+@
+Player_000_choice_004_f%Tell me more about the missing Ruler.
+@
+Player_000_choice_005_f%I'm ready to help restore the Valley!
+@
+Merlin_011_f0If we're to restore the Valley to what it was...
+=
+Merlin_014_f-A place of magic, of wonder, of friendship...
+N
+Merlin_017_f>We need to stop <Lore>the Forgetting</Lore>, once and for all.
+&
+Merlin_058_fWe must... we must...!
+V
+Merlin_057_fFI'm... I'm sorry, I can't seem to remember what we were talking about.
+/
+Merlin_022_f<Lore>The Forgetting</Lore>...?
+5
+Merlin_037_f%Ah, yes! <Lore>The Forgetting</Lore>!
+V
+Merlin_059_fFYou'll have to forgive me, but now you can see where it gets its name.
+o
+Merlin_061_f_Yes, yes, of course. Let me see... Well, when our <Lore>Ruler</Lore> left, the sky turned dark.
+z
+Merlin_062_fjThen those horrid <Lore>Night Thorns</Lore> infested the Village, spreading everywhere like a bad thought.
+g
+Merlin_063_fWThe more <Lore>Night Thorns</Lore> that appeared, the more clouded our memories became.
+Š
+Merlin_001_fzWhy, sometimes I can't remember the faces of all the friends I've lost... or the names of all the spells I've forgotten...
+8
+Player_001_choice_003_f...your memories will return.
+:
+Player_001_choice_004_f...your friends will come back!
+Q
+Player_001_choice_005_f6...the magic of the Valley will be stronger than ever.
+h
+Merlin_003_fX<Lore>Get rid of the Night Thorns</Lore>... Hmm... now there's an interesting thought...
+²
+Merlin_013_f¡Well now, all the wonder, magic, and friendship in this Valley came from our <Lore>Ruler</Lore>. They watched over the Village, and kept us safe from Dark Magic.
+e
+Merlin_064_fUBut one day, they started to act... different. Though I can scarcely remember it now.
+7
+Merlin_065_f'And then, our Ruler simply... vanished.
+e
+Merlin_019_fUIt's been... years, I think... I've lost all track of time because of the Forgetting.
+/
+Player_002_fYour Ruler just... up and left?
+<
+Player_002_choice_000_f!Doesn't sound like a great Ruler.
+<
+Player_002_choice_001_f!There must have been some reason.
+F
+Player_002_choice_002_f+Maybe the Forgetting made your Ruler leave?
+^
+Merlin_066_fNA good Ruler would take care of the Village and its people, not just run away.
+š
+Merlin_067_f‰Oh, our Ruler was kind and very noble. There must have been quite a good reason for why they left. Though I can't remember what it was...
+O
+Merlin_068_f?Maybe your Ruler had to leave. Maybe they didn't have a choice.
+
+Merlin_070_fThat certainly seems logical. Yes, the Forgetting must be connected to our Ruler in some way... if only I could remember how...
+Š
+Merlin_016_fzWell, there's only one way to be absolutely certain you're the one destined to save Dreamlight Valley from the Forgetting.
+6
+Merlin_024_f&It'll be a small test of your magic...
+€
+Merlin_028_fpYou see, ever since the Forgetting, I've been puzzled about this <Lore>House blocked by the Night Thorns.</Lore>
+:
+Merlin_018_f*Come along. We'll investigate it together.
+B
+Merlin_009_f2Why, all the joys of Dreamlight Valley, of course!
+d
+Merlin_010_fTA wise question, indeed. After all, a problem can't be solved until it's understood!
+Y
+Merlin_051_fII just closed my eyes and drifted off and... all of a sudden, I was here!
+0
+Merlin_004_f Magic had nothing to do with it.
+G
+Merlin_007_f7Quite the contrary. Magic had everything to do with it!
+J
+Merlin_049_f:Better watch out, Merlin. I'm pretty good at magic myself!
+k
+Merlin_050_f[You're not the only soothsayer, prognosticator, prestidigitator, and alchemist around here!
+!
+Merlin_053_fAh-ha! I knew it!
+$
+Merlin_040_fNot just any wizard!
+
+Merlin_023_fI'm Merlin!
+u
+Merlin_042_fe"Odd old man"?! Why, I... I'm Merlin, I'll have you know! I'm a wizard! A very, very powerful wizard.
+#
+Merlin_043_fAnd that's not all!
+5
+Merlin_035_f%This place isn't... dangerous, is it?
+~
+Merlin_030_fnWell, it's true that the Valley is a sorry sight compared to what it used to be. But you have nothing to fear.
+k
+Merlin_031_f[Why, once upon a time, you couldn't find another realm with as much magic and wonder in it.
+b
+Merlin_036_fRI feel like I could explore this place forever and still not find all its secrets!
+5
+Merlin_032_f%Yes, the Valley is full of mysteries.
+S
+Merlin_033_fCBut there was a time when it was also filled with magic and wonder.
+X
+Merlin_021_fHHmm. That's quite an existential question. I'll have to ponder it later.
+:
+Merlin_026_f*Oh, dear. You must be dreadfully confused.

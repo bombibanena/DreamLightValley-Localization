@@ -1,0 +1,15 @@
+TAG: Nala_000_f
+What did Ursula say we need to do to fix the rifts?
+
+TAG: Nala_001_f
+She said to make the <ActivityItem>Lioness Statues</ActivityItem>, we need <ActivityItem>Clay</ActivityItem> and <ActivityItem>Sand</ActivityItem>...
+
+TAG: Nala_002_f
+And to focus the magic, each statue must have a gemstone embedded in its forehead. A gemstone from the place where each rift opened.
+
+TAG: Nala_003_f
+The rifts opened on Dazzle Beach, in the Glade of Trust, and in the Frosted Heights...
+
+TAG: Nala_004_f
+Then we should use an <ActivityItem>Aquamarine</ActivityItem>, an <ActivityItem>Amethyst</ActivityItem> and a <ActivityItem>Citrine</ActivityItem>.
+

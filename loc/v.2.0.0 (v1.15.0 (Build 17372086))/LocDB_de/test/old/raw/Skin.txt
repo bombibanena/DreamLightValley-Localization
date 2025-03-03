@@ -1,0 +1,129 @@
+TAG: Aladdin!Jafar!Jafar_Hologram_DisplayName
+Джафар Кожа голограммы
+
+TAG: BeautyBeast!Belle!GreenPyjamasBelle_DisplayName
+Белль's Green Gown
+
+TAG: BeautyBeast!Belle!Winter_DisplayName
+Чудо зимы Белль
+
+TAG: DreamlightValley!PortalSecretChamber!Unstable_DisplayName
+{Placeholder} Портальная неустойчивость
+
+TAG: Frozen!Anna!Frozen1An_DisplayName
+Привлекательный Анна
+
+TAG: Frozen!Elsa!Frozen1_DisplayName
+Замороженный Эльза
+
+TAG: Frozen!Olaf!NoArms_DisplayName
+{Placeholder}Олаф без носа
+
+TAG: Frozen!Olaf!NoButtonNoNose_DisplayName
+{Placeholder}Олаф без кнопки без носа
+
+TAG: Goofy!GoofyStallSkinBayou01_DisplayName
+Гуфи's Bayou Stall
+
+TAG: Goofy!LionKingInspiredGoofyStall01_DisplayName
+Гуфи Savanna Stall
+
+TAG: LilMermaid!Ariel!ArielPinkGownSkin01_DisplayName
+Ариэль Pink Gown
+
+TAG: LilMermaid!Ariel!Human_DisplayName
+Ариэль Человеческая форма
+
+TAG: LilMermaid!Ariel!Winter_DisplayName
+Чудо зимы Ариэль
+
+TAG: LilMermaid!Ursula!Vanessa_DisplayName
+"Ванесса"
+
+TAG: LiloStitch!Stitch!Island_DisplayName
+Солнце и Серф Стич
+
+TAG: LiloStitch!Stitch!LittleDevil_DisplayName
+Упаковка или снимок Стич
+
+TAG: LionKing!Pumbaa!RLM_PumbaaStuck_DisplayName
+{Placeholder}Пумба
+
+TAG: Mickey!Daisy!MagicKingdomCircus_DisplayName
+Волшебная цирка Царства Дейзи
+
+TAG: Mickey!Donald!Dapper_DisplayName
+Dapper Дональд Дак
+
+TAG: Mickey!Donald!Parks_DisplayName
+Рейнджер Дональд Дак
+
+TAG: Mickey!Donald!Pirate_DisplayName
+Пират Дональд Дак
+
+TAG: Mickey!Goofy!Parks_DisplayName
+Необычайно Гуфи Кондуктор
+
+TAG: Mickey!Goofy!StuntGreatGoofy_DisplayName
+Великий Гуфини
+
+TAG: Mickey!Mickey!D100_DisplayName
+Платиновая Микки Маус
+
+TAG: Mickey!Mickey!Magician_DisplayName
+Микки Маус волшебник
+
+TAG: Mickey!Mickey!SteamBoat_DisplayName
+Stemboat Микки Маус
+
+TAG: Mickey!Mickey!SteamBoat_Flicker_DisplayName
+{Placeholder} StemboatFliker
+
+TAG: Mickey!Mickey!Winter_DisplayName
+Счастливого Микки Маус
+
+TAG: Mickey!Minnie!D100_DisplayName
+Платиновая Минни Маус
+
+TAG: Mickey!Minnie!MKC_DisplayName
+Волшебная цирка Царства Минни Маус
+
+TAG: Mickey!Scrooge!Vacation_DisplayName
+Летние отпуска Скрудж Макдак
+
+TAG: Moana!Moana!Skin01_DisplayName
+Празднование Моана
+
+TAG: MonsterInc!Mike!Jacket_DisplayName
+Monsters University Varsity Майк Вазовски
+
+TAG: MonsterInc!Sully!Jacket_DisplayName
+Monsters University Varsity Салли
+
+TAG: Mulan!Mulan!ClassicGreenDress_DisplayName
+Зеленый Ханфу Мулан
+
+TAG: Nightmare!JackSkellington!Christmas_DisplayName
+Джек Скеллингтон Santa костюм
+
+TAG: Ralph!Vanellope!VanellopeGlitch_DisplayName
+{Placeholder}Ваниллопа Глитч
+
+TAG: SwordStone!Merlin!Vacation_DisplayName
+Бермудские острова Мерлин
+
+TAG: SwordStone!Merlin!Winter_DisplayName
+Фестиваль Мерлин
+
+TAG: ToyStory!Buzz!AvatarSize_DisplayName
+{Placeholder}Базз Лайтер Аватарный размер
+
+TAG: ToyStory!Buzz!Stealth_DisplayName
+Украденный космический рейнджер
+
+TAG: ToyStory!Woody!AvatarSize_DisplayName
+{Placeholder}Вуди Аватарный размер
+
+TAG: WallE!WallE!HelloDolly_DisplayName
+Dapper ВАЛЛ·И
+

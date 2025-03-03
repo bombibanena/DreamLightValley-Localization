@@ -1,0 +1,76 @@
+
+$
+Gaston_015_fSo? How do you feel?
+6
+Player_002_choice_000_fReady to lift some weights!
++
+Player_002_choice_001_fKinda bloated...
+#
+Player_002_choice_002_fAMAZING!
+
+Gaston_018_f
+Excellent.
+D
+Gaston_009_f4Was eating everything raw really all that important?
+O
+Gaston_010_f?Yes! The food will cook inside us from the heat of our efforts.
+:
+Player_001_choice_000_fThat's not how digestion works.
+)
+Player_001_choice_001_fIf you say so!
+Q
+Player_001_choice_002_f6Please never say that particular group of words again.
+6
+Gaston_011_f&Oh, {PlayerName}, how little you know.
+<
+Player_003_choice_000_f!For the sake of getting stronger?
+$
+Player_003_choice_001_f	Beats me!
+)
+Gaston_016_fOkay Gaston, what's next?
+…
+Gaston_021_fuWe must create a place to work our muscles. We'll build it from scratch with materials that we've ripped from nature!
+S
+Gaston_022_fCWe'd call that a gym. And you mean materials that I gather for you?
+,
+Gaston_023_fA "gym"... I like that name!
+Ã
+Gaston_024_f²Gather some <ActivityItem>Coconuts</ActivityItem>, <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem>Brass Ingots</ActivityItem>, and <ActivityItem>Stones</ActivityItem>.
+;
+Gaston_026_f+And see McDuck about a mirror. A large one!
+3
+Gaston_027_f#Do I dare ask why we need a mirror?
+z
+Gaston_028_fjYou disappoint me, {PlayerName}. Why would anyone work their muscles if they can't watch themselves do so?
+L
+Gaston_029_f<Ah, but how do you know that it's working without a mirror?!
+T
+Gaston_032_fDMake sure you also <Lore>find Maui</Lore> and invite him to our gym.
+h
+Gaston_033_fXAs the only other impressively muscled person around, he'll want to see what we've made.
+#
+Gaston_000_fAll right, I'm off.
+
+Gaston_012_fI do!
+
+Gaston_013_fNo promises.
+7
+Gaston_017_f'The Gastonian diet does that sometimes.
+1
+Player_000_choice_000_fReady to lift weights!
+)
+Player_000_choice_001_fFine, I guess.
+N
+Player_000_choice_002_f3Nervous, but that has nothing to do with the shake.
+
+Gaston_001_fGreat!
+X
+Gaston_005_fHWhat about you? Are you feeling all right after eating so much raw food?
+W
+Gaston_006_fGOf course! The heat of working my muscles will cook the food inside me!
+@
+Gaston_002_f0You'll need more energy than that, {PlayerName}!
+>
+Gaston_003_f.I'm here. There's nothing to be nervous about!
+9
+Gaston_004_f)That's actually what I'm nervous about...

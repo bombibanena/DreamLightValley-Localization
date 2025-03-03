@@ -1,0 +1,25 @@
+
+Q
+Sally_000_fB*sigh* It's never been so difficult for me to talk to Jack before.
+>
+Sally_001_f/Why is it hard now? What if this is a bad sign?
+1
+Player_000_choice_000_fWhoa, slow down there.
+=
+Player_000_choice_001_f"I don't think it's that serious...
+>
+Player_000_choice_002_f#Okay, that whole thing was awkward.
+B
+Sally_002_f3Clearly, you're both just feeling a little awkward.
+S
+Sally_003_fDBut that's nobody's fault, and I'm going to help you both out, okay?
+d
+Sally_004_fUThank you, {PlayerName}. I'm getting worried that maybe we've lost our... connection.
+x
+Sally_005_fiNo way! And you wouldn't be the first couple here that needed some help. Everyone does from time to time.
+…
+Sally_006_fvHow about if I go talk to some of the other Villagers? Maybe they have some suggestions for how you two can reconnect.
+5
+Sally_007_f&That's very kind of you, {PlayerName}.
+«
+Sally_008_f›That's what I'm here for! Now I bet <Lore>Daisy and Minnie</Lore> would both be overjoyed to give some suggestions here. I'll go <Lore>talk to them</Lore>!

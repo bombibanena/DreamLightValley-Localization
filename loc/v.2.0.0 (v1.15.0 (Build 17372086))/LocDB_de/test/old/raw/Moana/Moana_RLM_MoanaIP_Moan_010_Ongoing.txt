@@ -1,0 +1,6 @@
+TAG: Moana_007_f
+Я должен убедиться, что моя каноэ готова к долгому путешествию.
+
+TAG: Moana_000_f
+Я найду несколько <ActivityItem>Wood</ActivityItem> и <ActivityItem>Silk</ActivityItem>!
+

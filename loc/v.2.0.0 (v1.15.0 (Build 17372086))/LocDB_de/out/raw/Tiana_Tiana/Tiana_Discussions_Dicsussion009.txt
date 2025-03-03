@@ -1,0 +1,45 @@
+TAG: Tiana_000_f
+That's very kind of you to ask.
+
+TAG: Tiana_001_f
+Actually, I could use some advice.
+
+TAG: Tiana_002_f
+Mickey's been so sweet helping me get settled in here. Any ideas for a gift I could get him?
+
+TAG: Player_000_choice_000_f
+How about some flowers from the Plaza?
+
+TAG: Player_000_choice_001_f
+Some of your classic beignets?
+
+TAG: Player_000_choice_002_f
+Nothing better than a handwritten note!
+
+TAG: Tiana_003_f
+Hmm... that just might work.
+
+TAG: Tiana_006_f
+Who doesn't love receiving flowers, after all?
+
+TAG: Tiana_007_f
+Thank you, {PlayerName}!
+
+TAG: Tiana_004_f
+You're right! They've never failed me before.
+
+TAG: Tiana_008_f
+I'll make up a big platter right away.
+
+TAG: Tiana_009_f
+Thank you, {PlayerName}!
+
+TAG: Tiana_005_f
+You're right. A simple thank-you note is perfect.
+
+TAG: Tiana_010_f
+My mama would approve.
+
+TAG: Tiana_011_f
+Thank you, {PlayerName}!
+

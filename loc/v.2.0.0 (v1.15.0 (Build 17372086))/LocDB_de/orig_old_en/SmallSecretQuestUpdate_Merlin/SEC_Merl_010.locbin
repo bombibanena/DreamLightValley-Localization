@@ -1,0 +1,31 @@
+
+a
+GSecret!SwordInStone!Merlin!SEC_Merl_010_Any_CompletedRequestDescriptionReport back to Merlin.
+â
+<Secret!SwordInStone!Merlin!SEC_Merl_010_AvailableDescription»While wandering the Glade of Trust, you found a scrap of parchment covered in Merlin's scribbles. It seems to be a list of times and places in the Village. You'll have to talk to him to see what's up.
+⁄
+ASecret!SwordInStone!Merlin!SEC_Merl_010_CompletedStoryDescriptionîUrsula promises you that she and Mother Gothel aren't up to any nefarious schemes. You'll have to report back to Merlin and decide what to tell him.
+H
+3Secret!SwordInStone!Merlin!SEC_Merl_010_DisplayNameSecrets & Schemes
+Ö
+GSecret!SwordInStone!Merlin!SEC_Merl_010_Group01_Step01_ReadyDescription:Return <ActivityItem>Merlin's Notes</ActivityItem> to him.
+u
+?Secret!SwordInStone!Merlin!SEC_Merl_010_Group01_StepDescription2You found something strange in the Glade of Trust.
+ú
+OSecret!SwordInStone!Merlin!SEC_Merl_010_Group02_Step02_Listen01_StepDescriptionIListen in on Mother Gothel and Ursula as they meet in the Glade of Trust.
+l
+XSecret!SwordInStone!Merlin!SEC_Merl_010_Group03_Step03_TalkToCharacter01_StepDescriptionConfront Ursula.
+Ò
+@Secret!SwordInStone!Merlin!SEC_Merl_010_Group03_StoryDescription¨You see Ursula and Mother Gothel talking to each other, but it doesn't really seem like they're scheming at all. You'll need to talk to Ursula to get to the bottom of this.
+µ
+TSecret!SwordInStone!Merlin!SEC_Merl_010_Group04_Step04_Conditional01_StepDescription]Wait until tomorrow to listen in on Ursula and Mother Gothel's meeting in the Glade of Trust.
+§
+@Secret!SwordInStone!Merlin!SEC_Merl_010_Group04_StoryDescription`Merlin asks you to spy on Mother Gothel and Ursula to find out what they've been scheming about.
+y
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What do I need?
+Å
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group02_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+Ä
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group03_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What should I do next?
+Ä
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group04_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What should I do next?

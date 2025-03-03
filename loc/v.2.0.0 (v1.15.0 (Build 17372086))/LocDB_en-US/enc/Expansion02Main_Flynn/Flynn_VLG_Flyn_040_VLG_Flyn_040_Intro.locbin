@@ -1,0 +1,65 @@
+
+Ä
+Flynn_000_f´Hey {PlayerName}! Any chance you could help me out? I have this idea... Hearing my story might help others who get into similar situations. But I need advice on how to get started.
+4
+Player_000_choice_001_fI'd love to help you out!
+8
+Player_000_choice_002_fI'm a bit too busy right now.
+b
+Flynn_002_fSExcellent! I think a lot of folks could benefit if I share my story with the world.
+/
+Player_001_choice_000_fThat's a great idea!
+4
+Player_001_choice_001_fAre you sure that's wise?
+A
+Player_001_choice_002_f&You really crave attention, don't you?
+
+Flynn_005_fOf course it is!
+)
+Flynn_009_fWhat did you have in mind?
+N
+Flynn_010_f?Well, actually... I was hoping you might have a brilliant idea?
+?
+Flynn_012_f0What if we gather your stories and write a book?
+e
+Flynn_013_fVThat's PERFECT! Curses, love, adventure! It'll be like "The Tales of Flynnagan Rider"!
++
+Player_003_choice_001_fThe what of who?
+0
+Player_003_choice_002_fThat's a book, right?
+H
+Flynn_001_f9It's a book I read as a kid. Flynnagan Rider was my hero.
+S
+Flynn_006_fDIf you write a book, you'll be the hero of someone else's childhood!
+ 
+Flynn_007_fOoh, I like that!
+L
+Flynn_014_f=Although... I'm not sure I have what it takes to be a writer.
+j
+Flynn_015_f[So we get you a ghost writer. You tell them your story and they do the actual writing part!
+e
+Flynn_016_fV{PlayerName}, you're a genius! Now tell me Ã¢Â€Â” who would make a great ghost writer?
+!
+Player_002_choice_000_fBelle?
+"
+Player_002_choice_001_fMerlin?
+"
+Player_002_choice_002_fDonald?
++
+Flynn_017_fOf course! She'd be perfect.
+7
+Flynn_020_f(Do you think she'd want to write for me?
+H
+Flynn_021_f9I think so! Let's <Lore>go find Belle</Lore> and ask her!
+C
+Flynn_018_f4Oh, but he's so busy. I don't think he'll have time.
+L
+Flynn_022_f=In that case, I think Belle is our best bet. She LOVES books!
+\
+Flynn_019_fMI don't know. If we disagree about anything, I worry that he might storm off.
+0
+Flynn_004_f!Yep! Flynnagan Rider was my hero!
+]
+Flynn_008_fNCrave? No. Deserve? I'd like to think so. But this isn't about me. Not really.
+N
+Flynn_003_f?Okay, that is not a problem. Come back when you have more time!

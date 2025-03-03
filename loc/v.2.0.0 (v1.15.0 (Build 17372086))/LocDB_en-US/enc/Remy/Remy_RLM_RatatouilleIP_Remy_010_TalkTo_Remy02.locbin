@@ -1,0 +1,55 @@
+
+H
+
+Remy_000_f:I'm impressed. You've definitely got talent, {PlayerName}!
+\
+
+Remy_010_fNClearly you know your way around the kitchen. Evidence â your two dishes.
+S
+
+Remy_011_fEBut we need to hurry! The food critic is getting impatient out there.
+H
+
+Remy_003_f:Are you ready to make something a little more complicated?
+0
+Player_005_choice_000_fI'm here to help you.
+D
+Player_005_choice_001_f)I always look forward to new experiences.
+B
+Player_005_choice_002_f'Anything for you to come to my Village.
++
+
+Remy_005_fAnd I REALLY appreciate that.
+?
+
+Remy_013_f1Because I need you to make a three-course dinner.
+L
+
+Remy_008_f>It'll be tonight's prix fixe. And hey, you can even design it.
+�
+
+Remy_004_fwFirst choose an appetizer: <ActivityItem>Hearty Salad</ActivityItem> or <ActivityItem>Bell Pepper Puffs</ActivityItem>?
+$
+Player_000_fLet's go with the...
+(
+Player_000_choice_000_fHearty Salad.
+-
+Player_000_choice_001_fBell Pepper Puffs.
+@
+
+Remy_001_f2Okay, then you'll need lettuce and two vegetables.
+K
+
+Remy_002_f=Okay, then you'll need a bell pepper, some cheese and an egg.
+;
+
+Remy_006_f-Love that attitude! And you're gonna need it.
+?
+
+Remy_015_f1Next I need you to prepare a three-course dinner!
+2
+
+Remy_007_f$Your Village? So you're a recruiter?
+Y
+
+Remy_016_fKWell... let's get through tonight first. Next order is a three-course meal.

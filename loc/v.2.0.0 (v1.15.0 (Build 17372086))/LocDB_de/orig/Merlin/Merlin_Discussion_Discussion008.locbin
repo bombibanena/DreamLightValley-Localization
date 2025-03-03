@@ -1,0 +1,27 @@
+
+W
+Merlin_000_fG{PlayerName}, do you know the distinction between Dark and Light Magic?
+ 
+Player_000_choice_000_fI do.
+#
+Player_000_choice_001_fI don't.
+J
+Merlin_001_f:So, you already understand the nature of magic? Very good.
+K
+Merlin_004_f;Now tell me: Which calls to you? Light Magic or Dark Magic?
+!
+Player_000_choice_003_fLight.
+ 
+Player_000_choice_004_fDark.
+ 
+Player_000_choice_005_fBoth.
+x
+Merlin_005_fhLight Magic. An altruistic choice. And one that will serve you well in your quest to restore the Valley.
+Y
+Merlin_006_fIDark Magic can be powerful and compelling, but must be managed carefully.
+C
+Merlin_007_f3A wise answer. Balance is difficult, but important.
+V
+Merlin_002_fFIt's a simple difference, really. Light Magic is performed for others.
+|
+Merlin_003_flDark Magic is performed for yourself. Dark Magic is not necessarily evil, but is more easily turned to evil.

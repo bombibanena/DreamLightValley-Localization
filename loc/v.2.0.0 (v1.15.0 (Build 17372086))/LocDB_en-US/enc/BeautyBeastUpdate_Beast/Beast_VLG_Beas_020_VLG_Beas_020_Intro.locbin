@@ -1,0 +1,49 @@
+
+-
+Beast_000_fHow's my favorite Beast doing?
+Q
+Beast_001_fBI'm... *sigh* I feel lost. I don't have any responsibilities here.
+3
+Player_000_choice_000_fBeast, you need a hobby!
+W
+Player_000_choice_001_f<I'm kinda busy right now, but I can swing by later and help!
+6
+Beast_002_f'A hobby? A hobby seems so... frivolous.
+7
+Player_001_choice_000_fIf you don't want my help...
+*
+Player_001_choice_001_fOh, lighten up!
+
+Beast_003_fNo! ... I do.
+Y
+Beast_012_fJSay no more â I'll grab those <Lore>books from Merlin's House</Lore>.
+[
+Beast_004_fLWhat if you run an errand or something? Borrow a book from Merlin for Belle?
+;
+Beast_005_f,Merlin? The... enchanter? I'd prefer not to.
+Q
+Beast_006_fBOooh, right, I get why you might want to keep your distance a bit.
+W
+Beast_007_fHBut a book is a good idea. I've been wanting to get Belle some new ones.
+�
+Beast_008_fqShe's had difficulty borrowing books from Merlin. It seems others have lost them, and he no longer likes to lend.
+2
+Beast_009_f#Why don't I help you out with that?
+5
+Beast_010_f&{PlayerName}, I would be in your debt.
+g
+Beast_011_fXBelle has said that Merlin's library has a number of fables that she would like to read.
+:
+Beast_013_f+Do you mean like Lumiere? I cannot do that.
+.
+Beast_014_fBecause... you're not a candle?
+3
+Beast_015_f$Yes. Oh, was that meant to be a pun?
+"
+Player_002_choice_000_fGuilty!
+@
+Player_002_choice_001_f%Actually, that was purely accidental.
+
+Beast_016_fBut moving on...
+
+Beast_017_fI will be here.

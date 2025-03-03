@@ -1,0 +1,79 @@
+
+W
+CVillage!LionKing!Timon!VLG_Timo_010_Any_CompletedRequestDescriptionReturn to Timon.
+
+8Village!LionKing!Timon!VLG_Timo_010_AvailableDescriptionSTimon is adjusting to his new home in Dreamlight Valley. Try to help him settle in!
+>
+/Village!LionKing!Timon!VLG_Timo_010_DisplayNameOld Enemies
+\
+MVillage!LionKing!Timon!VLG_Timo_010_Group02_Step02_Decorate01_StepDescription{ItemName}.
+\
+MVillage!LionKing!Timon!VLG_Timo_010_Group02_Step02_Decorate02_StepDescription{ItemName}.
+\
+MVillage!LionKing!Timon!VLG_Timo_010_Group02_Step02_Decorate03_StepDescription{ItemName}.
+\
+MVillage!LionKing!Timon!VLG_Timo_010_Group02_Step02_Decorate04_StepDescription{ItemName}.
+c
+;Village!LionKing!Timon!VLG_Timo_010_Group02_StepDescription$Turn Pride Rock into a jungle oasis.
+´
+<Village!LionKing!Timon!VLG_Timo_010_Group02_StoryDescriptiontTimon wants Pride Rock to feel more like home. He's counting on you to decorate with plants and a fence he gave you.
+f
+TVillage!LionKing!Timon!VLG_Timo_010_Group03_Step03_TalkToCharacter01_StepDescriptionTalk to Timon.
+‹
+PVillage!LionKing!Timon!VLG_Timo_010_Group04_Step04_Conditional01_StepDescription7Give Timon 15 minutes to settle into Dreamlight Valley.
+‚
+TVillage!LionKing!Timon!VLG_Timo_010_Group05_Step06_TalkToCharacter02_StepDescription*Check in on Timon and see how he is doing.
+e
+TVillage!LionKing!Timon!VLG_Timo_010_Group06_Step07_TalkToCharacter03_StepDescriptionTalk to Scar.
+j
+TVillage!LionKing!Timon!VLG_Timo_010_Group06_Step07_TalkToCharacter04_StepDescriptionTalk to Vanellope.
+{
+BVillage!LionKing!Timon!VLG_Timo_010_Group06_Step08_StepDescription5Find a way to remove the trap using your Royal Tools.
+z
+;Village!LionKing!Timon!VLG_Timo_010_Group06_StepDescription;Timon and Vanellope put some sort of trap in Scar's Cave...
+Ù
+<Village!LionKing!Timon!VLG_Timo_010_Group06_StoryDescription˜After talking to Timon, Vanellope took it upon herself to put a trap in Scar's Cave! You'll need to go get rid of the trap before something bad happens.
+h
+TVillage!LionKing!Timon!VLG_Timo_010_Group07_Step09_TalkToCharacter05_StepDescriptionReturn to Timon.
+N
+;Village!LionKing!Timon!VLG_Timo_010_Group08_StepDescriptionTalk to Pumbaa.
+[
+LVillage!LionKing!Timon!VLG_Timo_010_Group09_Step11_Possess01_StepDescription{ItemName}.
+[
+LVillage!LionKing!Timon!VLG_Timo_010_Group09_Step11_Possess02_StepDescription{ItemName}.
+[
+LVillage!LionKing!Timon!VLG_Timo_010_Group09_Step11_Possess03_StepDescription{ItemName}.
+q
+BVillage!LionKing!Timon!VLG_Timo_010_Group09_Step11_StepDescription+Gather the Ingredients for Dream Ice Cream:
+[
+LVillage!LionKing!Timon!VLG_Timo_010_Group09_Step12_Possess04_StepDescription{ItemName}.
+[
+LVillage!LionKing!Timon!VLG_Timo_010_Group09_Step12_Possess05_StepDescription{ItemName}.
+[
+LVillage!LionKing!Timon!VLG_Timo_010_Group09_Step12_Possess06_StepDescription{ItemName}.
+n
+BVillage!LionKing!Timon!VLG_Timo_010_Group09_Step12_StepDescription(Gather the materials for the Board Game:
+®
+<Village!LionKing!Timon!VLG_Timo_010_Group09_StoryDescriptionnTimon still needs help relaxing in the Valley. Maybe some refreshing ice cream and a board game will help him!
+f
+MVillage!LionKing!Timon!VLG_Timo_010_Group10_Step13_CookMeal01_StepDescriptionMake some {ItemName}.
+e
+NVillage!LionKing!Timon!VLG_Timo_010_Group10_Step14_CraftItem01_StepDescriptionCraft a {ItemName}.
+s
+;Village!LionKing!Timon!VLG_Timo_010_Group10_StepDescription4Prepare for some relaxing fun with Timon and Pumbaa.
+]
+NVillage!LionKing!Timon!VLG_Timo_010_Group11_Step15_BringItem05_StepDescription{ItemName}.
+]
+NVillage!LionKing!Timon!VLG_Timo_010_Group11_Step15_BringItem06_StepDescription{ItemName}.
+}
+CVillage!LionKing!Timon!VLG_Timo_010_Group11_Step15_ReadyDescription6Bring the Dream Ice Cream and the Board Game to Timon.
+Y
+BVillage!LionKing!Timon!VLG_Timo_010_Group11_Step15_StepDescriptionMake sure you have:
+~
+MVillage!LionKing!Timon!VLG_Timo_010_Group12_Step16_Decorate05_StepDescription-Place the Board Game anywhere in the Village.
+É
+<Village!LionKing!Timon!VLG_Timo_010_Group12_StoryDescriptionˆTimon is excited to try out your ice cream and play a game! You'll need to place the Board Game anywhere in the Valley so he can try it.
+
+JVillage!LionKing!Timon!VLG_Timo_010_Group13_Step17_Party01_StepDescriptionATake a picture with Timon and Pumbaa in front of your Board Game.
+g
+6Village!LionKing!Timon!VLG_Timo_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

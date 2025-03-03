@@ -1,0 +1,25 @@
+
+®
+Jasmine_000_fœYou did it, {PlayerName}! The wish magic is completely contained in your journal. I can tell because it feels... calmer now. I don't know how to explain it.
+3
+Player_000_choice_000_fI feel a lot better now.
+.
+Player_000_choice_001_fThat's all it took?
+(
+Player_000_choice_002_fAre you SURE?
+U
+Jasmine_002_fDDoing the things that I wanted to do, just for ME, felt really good.
+(
+Jasmine_006_fI'm so glad to hear it.
+Y
+Jasmine_007_fHThough I'd still like to make sure that the wish magic is gone for good.
+Õ
+Jasmine_008_fÃMaybe we should check on Mike. His wish magic didn't work on you because you're the owner of the journal, but if I go near him and can control my laughter, we'll know everything's back to normal.
+¶
+Jasmine_009_f¤Great idea! Let's <Lore>test the wish magic by talking to Mike</Lore>. He could probably use a visit anyway. He was feeling down since everyone was laughing at him.
+›
+Jasmine_003_f‰It seems so. I suppose the journal needed to know you've made your own wish come true. You embraced your freedom and made YOURSELF happy.
+f
+Jasmine_005_fUI have to admit, doing the things that I wanted to do, just for ME, felt really good.
+”
+Jasmine_004_f‚I am. I suppose the journal needed to know you've made your own wish come true. You embraced your freedom and made YOURSELF happy.

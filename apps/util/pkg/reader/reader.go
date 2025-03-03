@@ -24,6 +24,22 @@ type (
 	}
 )
 
+func ReadUpdatesFromJSON(filePath string) (*types.LocFileUpdates, error) {
+	file, err := os.Open(filePath)
+	if err != nil {
+		return nil, err
+	}
+	defer file.Close()
+
+	var updates types.LocFileUpdates
+	decoder := json.NewDecoder(file)
+	if err := decoder.Decode(&updates); err != nil {
+		return nil, err
+	}
+
+	return &updates, nil
+}
+
 func ReadDecodedFromJSON(filePath string) (types.LocFile, error) {
 	file, err := os.Open(filePath)
 	if err != nil {

@@ -1,0 +1,75 @@
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Any_CompletedRequestDescription
+Return to Remy.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_AvailableDescription
+Remy is lost in thought. Maybe you should find out what it's all about.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_CompletedStoryDescription
+The little chef suggests combining the new recipe with a classical flavor to make it even better. And after doing just that, there's only one thing left to do... Show Remy what you just created.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_DisplayName
+The Unknown Flavor
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I ask?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group01_Step01_TalkToCharacter01_StepDescription
+Ask Merlin for help.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group01_StoryDescription
+He's trying to recreate the recipe for a magical dessert. You decide to help and go ask Merlin.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group02_Step02_Possess01_StepDescription
+Find Merlin's notes in his House.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group02_StoryDescription
+The wizard directs you to his House where he's sure you'll find something to help you.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group03_Step03_BringItem01_StepDescription
+Gather {ItemName} for the recipe.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group03_Step03_ReadyDescription
+Find someone to turn the <ActivityItem>Purified Night Shard</ActivityItem> into powder.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group03_StoryDescription
+You find a note that puts you on the track of the ingredients.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group04_Step04_CraftItem01_StepDescription
+Craft {ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group05_Step05_ReadyDescription
+Bring Remy the {ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group05_Step05_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group05_StoryDescription
+After recreating the recipe, you bring it to Remy so he can taste it.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's left to do?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group07_Step07_CookMeal01_StepDescription
+Prepare a bowl of <ActivityItem>Vanilla Ice Cream</ActivityItem>.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group08_Step08_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group08_Step08_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_Group08_Step08_StepDescription
+Complete the recipe:
+
+TAG: Village!Ratatouille!Remy!VLG_Remy_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

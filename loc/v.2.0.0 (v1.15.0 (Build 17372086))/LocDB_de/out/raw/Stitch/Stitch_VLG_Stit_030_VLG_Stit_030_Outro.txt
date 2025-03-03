@@ -1,0 +1,54 @@
+TAG: Stitch_000_f
+Stitch is glad Ariel's okay.
+
+TAG: Stitch_001_f
+If I lose voice, I would be very sad.
+
+TAG: Player_000_choice_000_f
+Me too. I wouldn't be able to sing!
+
+TAG: Player_000_choice_001_f
+I'd be scared. I couldn't ask for help!
+
+TAG: Player_000_choice_002_f
+At least you wouldn't have to make small talk.
+
+TAG: Stitch_011_f
+I don't know what I'd do if I couldn't sing.
+
+TAG: Stitch_012_f
+Yeah! Yeah! Stitch want to sing!
+
+TAG: Stitch_003_f
+Wait a sec... you like making music!
+
+TAG: Stitch_005_f
+That's perfect! I should have thought of this before.
+
+TAG: Stitch_007_f
+Music can be your hobby. You can put on a show and play for the whole Village.
+
+TAG: Stitch_008_f
+Oooooh... Stitch like that idea!
+
+TAG: Stitch_009_f
+Go practice songs now for show.
+
+TAG: Stitch_010_f
+Then, Stitch be model citizen!
+
+TAG: Stitch_013_f
+I don't know what I'd do if I couldn't go ask Merlin to help me with something.
+
+TAG: Stitch_014_f
+Yeah. Not good. No talking and no singing.
+
+TAG: Stitch_015_f
+Stitch wants to sing!
+
+TAG: Stitch_016_f
+No more awkward chit-chat about the weather... might not be so bad!
+
+TAG: Stitch_017_f
+But no talking and no singing.
+

@@ -1,0 +1,57 @@
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_AvailableDescription
+After stepping through a mysterious rift in time, you found yourself on a strange island. Stranger still, everything in this odd world seems to be lacking in color... including YOU!
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_CompletedStoryDescription
+The Spark of Imagination is safe at last! Now you need to decide what to do with it.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_DisplayName
+The Now and Then
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group01_Step01_VisitArea01_StepDescription
+Explore the mysterious <Lore>Black and White Island</Lore>.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Mickey.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group02_StepDescription
+Is that... Mickey? How did he get here?
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group02_StoryDescription
+In the middle of the black and white world revealed by Jafar's spell, you find a peculiar steamboat... and Mickey Mouse!
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group03_Step03_BringItem01_StepDescription
+Search the island for the "old-timey projector" Mickey saw.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group03_Step03_ReadyDescription
+Bring the <ActivityItem>Film Projector</ActivityItem> to Mickey.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group04_Step04_ReadyDescription
+Bring everything to Mickey.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group04_Step04_StepDescription
+Search the black and white island for things you can use to build something.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group05_Step05_TalkToCharacter02_StepDescription
+Confront Jafar in the palace throne room.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group05_StoryDescription
+With Mickey's help, you realize there's only one way to defeat Jafar: using the power of your imagination. You rig up a flying contraption to escape the black and white island. Now all that remains is to confront Jafar in his throne room.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group06_Step06_TalkToCharacter03_StepDescription
+Talk to Mickey.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group06_StoryDescription
+With a bit of quick thinking, you trick Jafar into sealing himself away inside a genie's lamp.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group07_Step07_Possess01_StepDescription
+Pick up <ActivityItem>Jafar's Lamp</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group08_Step08_Possess02_StepDescription
+Grab the Spark of Imagination.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group09_Step09_TalkToCharacter04_StepDescription
+Talk to Merlin inside Jafar's Palace.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group10_Step10_VisitArea02_StepDescription
+Meet Merlin outside Jafar's Palace on Eternity Isle.
+

@@ -1,0 +1,51 @@
+TAG: Olaf_000_f
+I've been thinking, {PlayerName}. WALLÂ·E and I have a lot in common. Do you agree?
+
+TAG: Player_000_f
+I guess you do. After all...
+
+TAG: Player_000_choice_000_f
+...you're both curious about new things.
+
+TAG: Player_000_choice_001_f
+...you're both kind of tiny.
+
+TAG: Player_000_choice_002_f
+...you both make a lot of interesting noises.
+
+TAG: Olaf_001_f
+That's true and very insightful. Oh, and don't forget...
+
+TAG: Olaf_002_f
+...we were both brought to life by magic.
+
+TAG: Player_001_choice_000_f
+WALLÂ·E's not magic. He's a robot.
+
+TAG: Player_001_choice_001_f
+I guess that's kind of true...
+
+TAG: Player_001_choice_002_f
+Does being so similar make you friends?
+
+TAG: Olaf_003_f
+But isn't technology really a kind of magic, {PlayerName}?
+
+TAG: Olaf_004_f
+I'm glad you agree.
+
+TAG: Olaf_005_f
+Well, it does help to have things in common.
+
+TAG: Olaf_006_f
+But I think what makes us friends is that we're friends!
+
+TAG: Olaf_007_f
+Yes, but I'm slightly taller.
+
+TAG: Olaf_008_f
+My stick hair gives me a bit of a height advantage. Oh, don't forget...
+
+TAG: Olaf_009_f
+That's true. Though I do know more words. Oh, and don't forget...
+

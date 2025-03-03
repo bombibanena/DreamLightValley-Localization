@@ -1,0 +1,9 @@
+TAG: Kristoff_000_f
+{PlayerName}, is everything okay?
+
+TAG: Kristoff_001_f
+Oh sure. Just wanted to let you know that I'm cooking a lot of recipes with <ActivityItem>Cocoa</ActivityItem> in them for Anna.
+
+TAG: Kristoff_002_f
+... This is more of that "Ask Daisy" advice column stuff, isn't it?
+

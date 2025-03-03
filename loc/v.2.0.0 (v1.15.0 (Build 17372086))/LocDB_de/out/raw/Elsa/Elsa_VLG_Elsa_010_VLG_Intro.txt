@@ -1,0 +1,42 @@
+TAG: Elsa_002_f
+{PlayerName}, would you have a moment to talk about that Ice Cavern in the Forest of Valor?
+
+TAG: Player_000_choice_000_f
+Yeah, of course.
+
+TAG: Player_000_choice_001_f
+I'm too busy right now.
+
+TAG: Elsa_003_f
+This is going to sound a little strange, but I've been hearing this sound... it's calling to me from the depths of the cave.
+
+TAG: Elsa_008_f
+It's not the first time that something like this has happened to me, and I've learned not to ignore such things.
+
+TAG: Elsa_000_f
+I'd investigate it myself, but there's some strange ice blocking the way that doesn't respond to my magic.
+
+TAG: Player_000_choice_003_f
+Let's go take a closer look.
+
+TAG: Player_000_choice_004_f
+But isn't your power all about ice?
+
+TAG: Player_000_choice_005_f
+Hey, do you think that cavern could be the mouth of a giant?
+
+TAG: Elsa_001_f
+Thank you, {PlayerName}. Come with me; I'll show you.
+
+TAG: Elsa_005_f
+That's what makes it so strange.
+
+TAG: Elsa_007_f
+I'm sure you'll see what I mean once I show you. Please, follow me.
+
+TAG: Elsa_006_f
+No. Trust me, if there were giants around, you'd know.
+
+TAG: Elsa_004_f
+I understand. I know what it's like to be responsible for a kingdom. Please let me know when you have some time.
+

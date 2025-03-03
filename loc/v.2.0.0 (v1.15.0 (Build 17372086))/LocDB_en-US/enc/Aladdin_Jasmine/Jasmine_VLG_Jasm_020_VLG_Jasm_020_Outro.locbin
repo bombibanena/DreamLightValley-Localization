@@ -1,0 +1,53 @@
+
+1
+Jasmine_000_f It worked! We unlocked one lock.
+
+Jasmine_006_fJasmine, I...
+1
+Jasmine_007_f {PlayerName}? Are you all right?
+_
+Jasmine_008_fNI know what this is... This is MY journal... I wrote in it when I was younger.
+.
+Player_000_choice_000_fI can't believe it!
+;
+Player_000_choice_001_f I had a feeling this was mine...
+(
+Player_000_choice_002_fDid you know?
+6
+Jasmine_010_f%I completely forgot about this thing.
+N
+Jasmine_014_f=So all this time, it was YOUR secret I was trying to protect?
+P
+Jasmine_015_f?I guess so. You truly don't remember what the secret inside is?
+#
+Jasmine_019_fI'm sorry, but no.
+p
+Jasmine_020_f_I remember you asked for my help. Whatever you wrote in the journal, you wanted it hidden away.
+G
+Player_001_choice_000_f,I was hiding my own feelings from... myself?
+8
+Player_001_choice_001_fI'm sure I had a good reason.
+<
+Player_001_choice_002_f!What if I did something terrible?
+5
+Jasmine_024_f$That doesn't sound so strange to me.
+{
+Jasmine_021_fjSometimes, when we feel things very strongly, it's easier to lock the feelings away rather than face them.
+˜
+Jasmine_025_f†What do you think we should do now? I want to know what I wrote... at least, I think I want to know... but there's still another lock.
+t
+Jasmine_004_fcLet me take some time to examine the Secret Journal a bit more. Maybe there's a hint we're missing.
+c
+Jasmine_005_fRThat's a good idea. Thanks for everything, Jasmine. We make a pretty amazing team.
+'
+Jasmine_022_fI'm sure you did, too.
+w
+Jasmine_023_ffKnowing you, that's not possible. I think this is less about what you did and more about how you felt.
+C
+Jasmine_011_f2How I felt when we first found it was so familiar.
+3
+Jasmine_012_f"No! I promise I couldn't remember.
+€
+Jasmine_013_foBut now that you've told me, bits and pieces are starting to come back. You asked me to hide it. To protect it.
+:
+Jasmine_017_f)So do you know what the secret inside is?

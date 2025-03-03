@@ -1,0 +1,98 @@
+
+o
+@Village!Mulan!Mushu!VLG_Mush_010_Any_CompletedRequestDescription+Talk with Mushu about the completed statue.
+r
+5Village!Mulan!Mushu!VLG_Mush_010_AvailableDescription9Mushu looks concerned about something. Check in with him.
+C
+,Village!Mulan!Mushu!VLG_Mush_010_DisplayNameA Reminder in Stone
+j
+KVillage!Mulan!Mushu!VLG_Mush_010_Group01_Step01_VisitArea01_StepDescriptionGo back to the Mulan Realm.
+ë
+9Village!Mulan!Mushu!VLG_Mush_010_Group01_StoryDescription”Mushu wants to build a statue of the Great Stone Dragon so he always remembers his place in the Valley as a Guardian. He asks you to collect Lucky Bugs from his home Realm to start the project on the right foot.
+a
+GVillage!Mulan!Mushu!VLG_Mush_010_Group02_Step02_Chase01_StepDescriptionIn the Southern Field.
+`
+GVillage!Mulan!Mushu!VLG_Mush_010_Group02_Step02_Chase02_StepDescriptionIn the Training Camp.
+a
+GVillage!Mulan!Mushu!VLG_Mush_010_Group02_Step02_Chase03_StepDescriptionIn the Eastern Forest.
+Å
+?Village!Mulan!Mushu!VLG_Mush_010_Group02_Step02_StepDescription>Chase and catch three <ActivityItem>Lucky Bugs</ActivityItem>:
+
+@Village!Mulan!Mushu!VLG_Mush_010_Group03_Step03_ReadyDescription;Bring the <ActivityItem>Lucky Bugs</ActivityItem> to Mushu.
+î
+?Village!Mulan!Mushu!VLG_Mush_010_Group03_Step03_StepDescriptionQMake sure you have the <ActivityItem>Lucky Bugs</ActivityItem> in your Inventory.
+Ñ
+IVillage!Mulan!Mushu!VLG_Mush_010_Group04_Step04_DressUp01_StepDescription7Equip the <ActivityItem>Incense Lantern</ActivityItem>.
+ë
+?Village!Mulan!Mushu!VLG_Mush_010_Group05_Step05_StepDescriptionNScout different Biomes with your <ActivityItem>Incense Lantern</ActivityItem>.
+Y
+KVillage!Mulan!Mushu!VLG_Mush_010_Group05_Step05_VisitArea02_StepDescription
+The Plaza.
+c
+KVillage!Mulan!Mushu!VLG_Mush_010_Group05_Step05_VisitArea03_StepDescriptionThe Peaceful Meadow.
+\
+KVillage!Mulan!Mushu!VLG_Mush_010_Group05_Step05_VisitArea04_StepDescriptionDazzle Beach.
+i
+QVillage!Mulan!Mushu!VLG_Mush_010_Group06_Step06_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
+¸
+9Village!Mulan!Mushu!VLG_Mush_010_Group06_StoryDescriptionæAfter tracking down the Lucky Bugs, Mushu gives you an Incense Lantern, and the two of you head out to scout the best place for the statue in the Valley ‚Äî and to make it smell really nice!
+V
+IVillage!Mulan!Mushu!VLG_Mush_010_Group07_Step07_Possess01_StepDescription	Softwood.
+T
+IVillage!Mulan!Mushu!VLG_Mush_010_Group07_Step07_Possess02_StepDescriptionStones.
+ñ
+8Village!Mulan!Mushu!VLG_Mush_010_Group07_StepDescriptionZCollect materials to construct the <ActivityItem>Great Stone Dragon Statue</ActivityItem>.
+÷
+9Village!Mulan!Mushu!VLG_Mush_010_Group07_StoryDescriptionòYou have a pretty good idea of where you want to place the Great Stone Dragon Statue. The next step is gathering the materials and actually building it.
+|
+8Village!Mulan!Mushu!VLG_Mush_010_Group08_StepDescription@Craft the <ActivityItem>Great Stone Dragon Statue<ActivityItem>.
+ù
+JVillage!Mulan!Mushu!VLG_Mush_010_Group09_Step09_Decorate01_StepDescriptionOPlace the <ActivityItem>Great Stone Dragon Statue</ActivityItem> in the Valley.
+à
+9Village!Mulan!Mushu!VLG_Mush_010_Group09_StoryDescriptionKMushu says you should put the constructed statue in a Biome of your choice.
+i
+QVillage!Mulan!Mushu!VLG_Mush_010_Group10_Step10_TalkToCharacter02_StepDescriptionTalk to {TargetNPC}.
+Y
+IVillage!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess03_StepDescriptionRed Flowers.
+U
+IVillage!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess04_StepDescriptionGarnets.
+Y
+IVillage!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess05_StepDescriptionAquamarines.
+S
+IVillage!Mulan!Mushu!VLG_Mush_010_Group11_Step11_Possess06_StepDescriptionTopaz.
+i
+?Village!Mulan!Mushu!VLG_Mush_010_Group11_Step11_StepDescription&Find extra decorations for the statue.
+•
+9Village!Mulan!Mushu!VLG_Mush_010_Group11_StoryDescriptionhMushu wants to put some finishing touches on the statue, including Red Flowers, Garnets and... lighting?
+x
+KVillage!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem02_StepDescription)<ActivityItem>Red Flowers</ActivityItem>.
+t
+KVillage!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem03_StepDescription%<ActivityItem>Garnets</ActivityItem>.
+x
+KVillage!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem04_StepDescription)<ActivityItem>Aquamarines</ActivityItem>.
+t
+KVillage!Mulan!Mushu!VLG_Mush_010_Group12_Step12_BringItem05_StepDescription%<ActivityItem>Topazes</ActivityItem>.
+h
+@Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_ReadyDescription$Give the decorations to {TargetNPC}.
+ã
+?Village!Mulan!Mushu!VLG_Mush_010_Group12_Step12_StepDescription«Make sure you have <ActivityItem>Red Flowers</ActivityItem>, <ActivityItem>Garnets</ActivityItem>, <ActivityItem>Aquamarines</ActivityItem> and <ActivityItem>Topazes</ActivityItem> in your Inventory.
+ª
+MVillage!Mulan!Mushu!VLG_Mush_010_Group13_Step13_FillKeyhole01_StepDescriptionjPlace a <ActivityItem>Garnet</ActivityItem> on the <ActivityItem>Great Stone Dragon Statue</ActivityItem>.
+i
+QVillage!Mulan!Mushu!VLG_Mush_010_Group14_Step14_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+´
+9Village!Mulan!Mushu!VLG_Mush_010_Group14_StoryDescriptionÌWith the statue decorated, the last step is adding dramatic lighting. Mushu asks you to collect flint from rocks you can break around Dazzle Beach. He'll be able to light torches with his fire breath ‚Äî but you'll need extra assistance.
+∑
+OVillage!Mulan!Mushu!VLG_Mush_010_Group15_Step15_RemoveBlocker01_StepDescriptiondBreak the gold and black <ActivityItem>Flint Rocks</ActivityItem> on Dazzle Beach with your Pickaxe.
+
+@Village!Mulan!Mushu!VLG_Mush_010_Group16_Step16_ReadyDescription;Give the <ActivityItem>Flint</ActivityItem> to {TargetNPC}.
+|
+?Village!Mulan!Mushu!VLG_Mush_010_Group16_Step16_StepDescription9Gather some <ActivityItem>Flint</ActivityItem> for Mushu.
+\
+MVillage!Mulan!Mushu!VLG_Mush_010_Group17_Step17_Conditional01_StepDescriptionLeft torch.
+]
+MVillage!Mulan!Mushu!VLG_Mush_010_Group17_Step17_Conditional02_StepDescriptionRight torch.
+Y
+?Village!Mulan!Mushu!VLG_Mush_010_Group17_Step17_StepDescriptionLight the two torches:
+d
+3Village!Mulan!Mushu!VLG_Mush_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

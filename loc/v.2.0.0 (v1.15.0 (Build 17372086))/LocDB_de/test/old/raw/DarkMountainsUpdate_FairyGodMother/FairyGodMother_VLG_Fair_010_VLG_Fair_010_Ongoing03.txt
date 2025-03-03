@@ -1,0 +1,9 @@
+TAG: FairyGodMother_000_f
+Вы должны собрать материалы для <ActivityItem>Icy Enchantment</ActivityItem>. Некоторые <ActivityItem>Tourmaline</ActivityItem>, несколько <ActivityItem>Snowballs</ActivityItem>...
+
+TAG: FairyGodMother_001_f
+<ActivityItem>Dream Shards</ActivityItem> и <ActivityItem>Purple Impatinens</ActivityItem> должны сделать фокус.
+
+TAG: FairyGodMother_002_f
+И <ActivityItem>Empty Vial</ActivityItem>, чтобы держать все, конечно.
+

@@ -1,0 +1,21 @@
+TAG: Village!Mulan!Mulan!VLG_Mula_070_AvailableDescription
+Базз Лайтер нуждается в помощи с его Мини Флагом.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_070_CompletedStoryDescription
+Вы выкопали Базз Лайтер Mini Flag из плато Санлит, каждый флаг приближает вас к победе команды над Матушка Готель Матушка Готель.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_070_DisplayName
+Учебные игры: космический рейнджер
+
+TAG: Village!Mulan!Mulan!VLG_Mula_070_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_070_Group02_Step02_BringItem01_StepDescription
+Копайте где-нибудь солнечными деревьями и костями для {itemName}.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_070_Group02_Step02_ReadyDescription
+Приведите {itemName} в Базз Лайтер.
+
+TAG: Village!Mulan!Mulan!VLG_Mula_070_Group02_StoryDescription
+Базз Лайтер объясняет, что он нашел свою подсказку, наполовину закопанную в земле рядом с его фургоном. Подсказка - рисунок покрытого деревьями ландшафта с большим солнцем над головой. Вы определяете, что этот Мини Флаг должен быть выкопан из плато Солнце.
+

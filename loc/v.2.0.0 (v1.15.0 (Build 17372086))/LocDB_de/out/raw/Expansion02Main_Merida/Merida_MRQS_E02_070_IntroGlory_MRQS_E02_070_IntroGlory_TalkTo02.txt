@@ -1,0 +1,54 @@
+TAG: Merida_002_f
+I hear you've been exploring Mythopia, {PlayerName}.
+
+TAG: Merida_003_f
+Who knows; perhaps you'll earn your own place in the legends.
+
+TAG: Player_000_choice_000_f
+Hmmm... "{PlayerName}, hero of legend" does have a nice ring.
+
+TAG: Player_000_choice_002_f
+I hope it isn't the kind of legend where I'm turned to stone or chained to a rock...
+
+TAG: Merida_014_f
+Aye, I can even hear the ballad they'll sing for you!
+
+TAG: Merida_019_f
+Well, is there anything *I* can do to help you earn your place in the legends?
+
+TAG: Merida_006_f
+Actually, you can. I stumbled upon something.
+
+TAG: Merida_007_f
+It was a gateway to another trial, just like the ones in Everafter.
+
+TAG: Merida_008_f
+But it seems that this one is caused by Hades... not Maleficent.
+
+TAG: Merida_009_f
+Och! I found that same one back before all that ink flooded the land!
+
+TAG: Merida_010_f
+The one near those huge statues of the funny horses with wings, right?
+
+TAG: Merida_011_f
+Let's <Lore>go see it</Lore>!
+
+TAG: Merida_012_f
+It looked like a kind of gateway, filled with ink. The Lorekeeper told me that it's a Mythic Trial.
+
+TAG: Merida_015_f
+Hmm... I don't know much about the legends and myths that make up Mythopia. Only what the Lorekeeper tells me.
+
+TAG: Merida_016_f
+But the ones I DO know have some dark twists and turns.
+
+TAG: Merida_017_f
+Remind me to tell you about the beasts they say live in the depths of our lochs!
+
+TAG: Merida_018_f
+Kelpies, selkies, monsters â not the sorts of things you want to run into on an evening stroll.
+
+TAG: Merida_021_f
+I haven't run into anything like that! But I did find something interesting.
+

@@ -1,0 +1,9 @@
+TAG: Sully_000_f
+What's up, {PlayerName}?
+
+TAG: Sully_001_f
+Stitch is in the Vitalys Mines, but he looks lost.
+
+TAG: Sully_002_f
+Maybe he needs your help. You should ask him.
+

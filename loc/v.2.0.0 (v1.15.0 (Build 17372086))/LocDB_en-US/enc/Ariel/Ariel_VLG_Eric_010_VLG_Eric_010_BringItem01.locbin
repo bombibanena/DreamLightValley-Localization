@@ -1,0 +1,21 @@
+
+'
+Ariel_001_fWhat...? Who is this...?
+p
+Ariel_000_faOh no! Eric! How could Ursula do this to you?! {PlayerName}, please help us. We have to save him!
+@
+Player_000_f0You keep Eric safe and I'll go talk to Merlin...
+3
+Player_000_choice_000_fDon't worry. I got this.
+;
+Player_000_choice_001_f Only a wizard can sort this out.
+6
+Player_000_choice_002_fUrsula's got nothing on us.
+
+Ariel_002_fOh, thank you!
+)
+Ariel_005_fI hope Merlin can help us.
+M
+Ariel_003_f>He does always seem to know what to do when it comes to magic.
+!
+Ariel_004_fThank you so much.

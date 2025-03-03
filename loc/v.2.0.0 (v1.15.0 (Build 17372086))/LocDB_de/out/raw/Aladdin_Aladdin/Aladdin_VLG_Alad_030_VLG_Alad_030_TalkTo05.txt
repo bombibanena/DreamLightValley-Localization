@@ -1,0 +1,36 @@
+TAG: Aladdin_000_f
+All right! We fixed the pillar!
+
+TAG: Aladdin_003_f
+...
+
+TAG: Aladdin_002_f
+... And nothing's happening.
+
+TAG: Player_000_choice_000_f
+Maybe a piece is missing?
+
+TAG: Player_000_choice_001_f
+Maybe these symbols are instructions.
+
+TAG: Player_000_choice_002_f
+I have no idea what to do here!
+
+TAG: Aladdin_005_f
+Could be. Is there <Lore>someone in the Valley who knows about the island</Lore> who could help us figure out if there's a missing piece?
+
+TAG: Aladdin_007_f
+I'll <Lore>take a photo</Lore> and <Lore>go ask around the Village</Lore> about the island, the symbols, and art history.
+
+TAG: Aladdin_001_f
+Great! I might stay here and keep watch over this thing or search the Village for more clues.
+
+TAG: Aladdin_008_f
+Maybe it just needs to be a certain time of day and a shadow will point to the treasure. Or it might need gems to power it up...
+
+TAG: Aladdin_004_f
+Could be. But I've never seen symbols like this before. Is there someone in the Village who has?
+
+TAG: Aladdin_006_f
+Me neither... But maybe someone in the Village does. What do you think?
+

@@ -1,0 +1,25 @@
+
+(
+Mickey_000_fWay to go, {PlayerName}!
+k
+Mickey_001_f[That was some smart thinking: tricking Jafar so he imagined himself as a genie with a lamp!
+-
+Player_000_choice_000_fThe Spark is safe!
+U
+Player_000_choice_001_f:I learned how to use my imagination from the best, Mickey.
+C
+Player_000_choice_002_f(Let's just hope he's trapped in there...
+
+Mickey_002_fIt sure is!
+L
+Mickey_003_f<But, uh... we've still got one problem: I'm stuck like this!
+)
+Mickey_004_fMaybe the Spark can help!
+N
+Mickey_005_f>Gosh, I hope so. Go ahead and <Lore>pick up the lamp</Lore>...
+J
+Mickey_006_f:Then let's <Lore>grab the Spark</Lore> and get outta here!
+=
+Mickey_007_f-Aw, thanks, pal. We make a pretty great team.
+h
+Mickey_008_fXWell, from what I know of genie lamps, he's not gettin' out until somebody lets him out.

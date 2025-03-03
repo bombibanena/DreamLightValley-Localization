@@ -1,0 +1,43 @@
+
+G
+Sully_002_f8Hey there, {PlayerName}. So... uh... where's the winner?
+F
+Player_000_f6Vanellope thinks I should be the one crowned winner...
+0
+Player_000_choice_000_fIsn't she the nicest?
+?
+Player_000_choice_001_f$I don't know how to feel about that.
++
+Player_000_choice_002_fAnd she's RIGHT.
+'
+Sully_003_fYeah, she's a great kid.
+c
+Sully_006_fTAnd she has a point. Both Stitch and Olaf came to tell me that you were a huge help.
+L
+Sully_000_f=So congratulations, {PlayerName}. You win the scavenger hunt!
+*
+Player_001_choice_000_fWow, thank you.
+.
+Player_001_choice_001_fDid I win anything?
+-
+Player_001_choice_002_fThat was too easy.
+"
+Sully_001_fHey, you earned it.
+F
+Sully_012_f7And those three seem to be having a good time together.
+I
+Sully_007_f:I think they're working on an arts and crafts project now.
+S
+Sully_008_fDVanellope said it was top secret, but could ya go check in with her?
+F
+Sully_009_f7Between her and Stitch, it could be crafts or calamity.
+=
+Sully_010_f.Your reward is: the fun you had along the way!
+@
+Sully_011_f1And still too hard for most of the contestants...
+H
+Sully_013_f9Seems they've moved on to a different kind of fun anyway.
+F
+Sully_004_f7Be happy. She's a great kid. Plus, she likes you a lot.
+4
+Sully_005_f%Wow... Okay. Glad you agree with her.

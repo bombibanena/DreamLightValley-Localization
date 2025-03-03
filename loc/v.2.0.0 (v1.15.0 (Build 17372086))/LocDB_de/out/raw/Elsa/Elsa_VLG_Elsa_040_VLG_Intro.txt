@@ -1,0 +1,63 @@
+TAG: Elsa_002_f
+{PlayerName}, I've remembered something else about the mystery in the Ice Cavern. Do you have time to help me finish solving this puzzle?
+
+TAG: Player_000_choice_000_f
+Finally! I want answers now!
+
+TAG: Player_000_choice_001_f
+I need to prepare first.
+
+TAG: Elsa_000_f
+I'm glad to see I'm not the only one who's been getting impatient.
+
+TAG: Elsa_017_f
+Thanks to your help and support, more and more of my memories have been coming back.
+
+TAG: Elsa_005_f
+And I've remembered something about the <ActivityItem>Crests</ActivityItem> we found together â I'm the one who hid them.
+
+TAG: Player_001_choice_000_f
+Wow! That's a plot twist.
+
+TAG: Player_001_choice_001_f
+Why did you do that?
+
+TAG: Player_001_choice_002_f
+Oh, NOW you remember?
+
+TAG: Elsa_001_f
+I was surprised too. I know there's more I should remember, but I just keep seeing an image in my mind of the statues of Anna and me in the Ice Cavern.
+
+TAG: Player_002_choice_000_f
+Let's go there.
+
+TAG: Player_002_choice_001_f
+What does it all mean?
+
+TAG: Player_002_choice_002_f
+What are we going to do about it?
+
+TAG: Elsa_012_f
+Yes, that's what I was about to suggest.
+
+TAG: Elsa_013_f
+I'm guessing that's where our next clue may be. We should go there as soon as we can.
+
+TAG: Elsa_007_f
+Come with me. I want to take a closer look at them.
+
+TAG: Elsa_006_f
+I don't know. Every time I try to remember more, I just keep seeing an image in my mind of the statues of Anna and me in the Ice Cavern.
+
+TAG: Elsa_009_f
+Believe me, I'm as frustrated as you are that my memories didn't come back sooner.
+
+TAG: Elsa_011_f
+Especially because every time I try to remember more, I just keep seeing an image in my mind of the statues of Anna and me in the Ice Cavern.
+
+TAG: Elsa_003_f
+Of course. The cavern does seem to be getting colder.
+
+TAG: Elsa_004_f
+That doesn't bother me, but I know you need to stay warm.
+

@@ -1,0 +1,25 @@
+
+�
+=Story!Expansion01!MRQS_E01_244_WestTower_AvailableDescription�Чтобы найти ключ к открытию тронной комнаты, вам придется исследовать Лабораторию Джафар на западной стороне дворца.
+[
+4Story!Expansion01!MRQS_E01_244_WestTower_DisplayName#Лаборатория Джафар
+�
+SStory!Expansion01!MRQS_E01_244_WestTower_Group01_Step01_VisitArea01_StepDescriptionBИсследуйте дворец, чтобы найти ключ.
+�
+YStory!Expansion01!MRQS_E01_244_WestTower_Group02_Step02_TalkToCharacter01_StepDescription9Исследуйте Лабораторию Джафар.
+m
+HStory!Expansion01!MRQS_E01_244_WestTower_Group03_Step03_ReadyDescription!Принеси еду птице.
+�
+GStory!Expansion01!MRQS_E01_244_WestTower_Group03_Step03_StepDescription�Постарайся выяснить, что птица хочет есть, смешивая Ингредиенты на кухонной станции.
+�
+UStory!Expansion01!MRQS_E01_244_WestTower_Group03_Step04_Interaction01_StepDescriptionYОглянись вокруг, чтобы понять, что кормить птицу.
+�
+UStory!Expansion01!MRQS_E01_244_WestTower_Group04_Step05_FillKeyhole01_StepDescriptionLПоиск места"Сияющая вещь"Принадлежат ему.
+�
+UStory!Expansion01!MRQS_E01_244_WestTower_Group05_Step06_Conditional01_StepDescriptionMУстановите луч света, чтобы открыть дверь.
+{
+QStory!Expansion01!MRQS_E01_244_WestTower_Group06_Step07_Possess01_StepDescription&Возьми ключ в камере.
+�
+UStory!Expansion01!MRQS_E01_244_WestTower_Group07_Step08_FillKeyhole02_StepDescription]Используй ключ, чтобы открыть ворота в тронный зал.
+�
+AStory!Expansion01!MRQS_E01_244_WestTower_Group07_StoryDescription�С небольшой помощью раздражающей птицы ты сможешь достать ключ, это, конечно, откроет дворцовые ворота.

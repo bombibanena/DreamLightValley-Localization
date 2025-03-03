@@ -1,0 +1,57 @@
+TAG: Merlin_002_f
+Merlin, I'm back! The dish turned out to be <ActivityItem>Enchanted Shrimp ÃtouffÃ©e</ActivityItem>. Would you like a taste?
+
+TAG: Merlin_003_f
+Of course!
+
+TAG: Merlin_004_f
+... Mmm. {PlayerName}, this is quite good!
+
+TAG: Merlin_005_f
+And... Oh my! This delicious dish has brought back a memory!
+
+TAG: Merlin_006_f
+Oh, awesome! What of?
+
+TAG: Merlin_007_f
+The skilled chef who first made this dish... I remember lending her an enchanted cookbook.
+
+TAG: Player_000_choice_000_f
+Sounds tasty!
+
+TAG: Player_000_choice_001_f
+Sounds... risky.
+
+TAG: Player_000_choice_003_f
+I'd take the gamble for good food.
+
+TAG: Merlin_014_f
+Yes. The recipes it contained were... well, I suppose the correct word is scrumptious!
+
+TAG: Merlin_015_f
+But when magic is brought into the equation, there's always an elevated risk.
+
+TAG: Merlin_008_f
+I wonder... What if our mystery chef was somehow trapped in the cookbook?
+
+TAG: Merlin_009_f
+Wow, is that even possible?
+
+TAG: Merlin_010_f
+Why, {PlayerName}, magic is the art of making the impossible possible!
+
+TAG: Merlin_011_f
+Well, that might explain where the chef disappeared to.
+
+TAG: Merlin_012_f
+Oh my! Look, {PlayerName} â the magic of this dish is doing something!
+
+TAG: Merlin_013_f
+I would suggest that you continue sharing this marvelous dish. Sharing food among friends is its own special magic, you know.
+
+TAG: Merlin_016_f
+How right you are! Magic is useful, but there's always an element of risk.
+
+TAG: Merlin_000_f
+Clearly, this chef agreed with you!
+

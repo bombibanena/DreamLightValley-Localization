@@ -1,0 +1,6 @@
+TAG: Player_000_choice_000_f
+Давайте починим лодку. (Используйте <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Возможно, в другой раз.
+

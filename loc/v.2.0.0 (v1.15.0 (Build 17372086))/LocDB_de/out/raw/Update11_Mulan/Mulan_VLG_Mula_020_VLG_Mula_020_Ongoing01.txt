@@ -1,0 +1,6 @@
+TAG: Mulan_000_f
+Could you gather some <ActivityItem>Tinkering Parts</ActivityItem>, <ActivityItem>Ropes</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, and <ActivityItem>Fabric</ActivityItem> for the Shadow Theater frame?
+
+TAG: Mulan_001_f
+Oh, and please don't forget to ask Minnie if she can make the <ActivityItem>Shadow Puppets</ActivityItem>. When I tried, it was kind of a mess.
+

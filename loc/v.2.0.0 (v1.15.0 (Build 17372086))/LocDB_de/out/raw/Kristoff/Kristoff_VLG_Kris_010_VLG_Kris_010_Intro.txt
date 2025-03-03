@@ -1,0 +1,156 @@
+TAG: Player_000_choice_005_f
+Always, for my friends!
+
+TAG: Player_000_choice_006_f
+Sorry, some other time.
+
+TAG: Kristoff_000_f
+Thanks. Glad you think of me as a friend, 'cause this is a little... odd.
+
+TAG: Kristoff_001_f
+So, um... While Donald was on the other side of that Dark Portal, I was living in the woods for a pretty long time...
+
+TAG: Player_000_choice_000_f
+Were you okay out there?
+
+TAG: Player_000_choice_001_f
+How did you survive by yourself?
+
+TAG: Player_000_choice_002_f
+Why didn't you just come back to the Village?
+
+TAG: Kristoff_005_f
+Oh yeah, sure. I know how to live in the forest.
+
+TAG: Kristoff_007_f
+I can find everything I need, food- and shelter-wise.
+
+TAG: Kristoff_008_f
+But... after all that time out there, I could really use some <ActivityItem>Soap</ActivityItem>.
+
+TAG: Kristoff_009_f
+Donald said I didn't exactly smell very fresh. Actually, he wasn't that polite.
+
+TAG: Kristoff_013_f
+Would you be up for helping me make some <ActivityItem>Soap</ActivityItem>?
+
+TAG: Player_000_choice_008_f
+I'm always happy to help!
+
+TAG: Player_000_choice_009_f
+It's a useful skill to learn.
+
+TAG: Player_000_choice_010_f
+Sure. So you can stop stinking up the whole Valley...
+
+TAG: Kristoff_017_f
+Great! Thanks!
+
+TAG: Kristoff_023_f
+You know, you kind of remind me of someone... but I can't exactly remember who she was. Strange.
+
+TAG: Kristoff_025_f
+Well, to make <ActivityItem>Soap</ActivityItem>, {PlayerName}, we need <ActivityItem>Lye</ActivityItem>... Now, I don't wanna scare you, but it's kind of complicated to make.
+
+TAG: Kristoff_026_f
+You might want to take notes.
+
+TAG: Kristoff_015_f
+For <ActivityItem>Lye</ActivityItem>, we need <ActivityItem>Ashes</ActivityItem>.
+
+TAG: Player_001_choice_003_f
+I've never found that in the Village.
+
+TAG: Player_001_choice_004_f
+I suppose you know where to get them.
+
+TAG: Player_001_choice_005_f
+I guess we'll have to burn something?
+
+TAG: Kristoff_019_f
+Don't worry. I know what to do.
+
+TAG: Kristoff_032_f
+Back when I was stuck in the Forest, I made a campfire near the entrance to the Frosted Heights.
+
+TAG: Kristoff_033_f
+If you could get some of the <ActivityItem>Burned Logs</ActivityItem> there, you can grind them into <ActivityItem>Ashes</ActivityItem> at a Crafting Station.
+
+TAG: Player_001_choice_006_f
+Then I bring you the Ashes?
+
+TAG: Player_001_choice_007_f
+What do I do next?
+
+TAG: Player_001_choice_008_f
+It's still definitely NOT <ActivityItem>Lye</ActivityItem>.
+
+TAG: Kristoff_034_f
+No, there's one more step, {PlayerName}...
+
+TAG: Kristoff_002_f
+After that, you boil the <ActivityItem>Ashes</ActivityItem> like any other meal to make <ActivityItem>Lye</ActivityItem>.
+
+TAG: Kristoff_016_f
+Once you've got that, come see me and we can talk about what to do next.
+
+TAG: Player_001_choice_009_f
+Okay, got it!
+
+TAG: Player_001_choice_010_f
+I'll never remember all this.
+
+TAG: Player_001_choice_011_f
+That's one pot I better wash extra carefully...
+
+TAG: Kristoff_038_f
+Great!
+
+TAG: Kristoff_003_f
+I'll figure out what else we need while you make the <ActivityItem>Lye</ActivityItem>. Remember: My camp was near the entrance to the Frosted Heights in the Forest.
+
+TAG: Kristoff_039_f
+Don't worry. I can always remind you.
+
+TAG: Kristoff_040_f
+Yeah, definitely don't eat <ActivityItem>Lye</ActivityItem>. It can be really bad for you.
+
+TAG: Kristoff_035_f
+After that, you boil the <ActivityItem>Ashes</ActivityItem> like any other meal to make <ActivityItem>Lye</ActivityItem>.
+
+TAG: Kristoff_037_f
+Once you've got that, come see me and we can talk about what to do next.
+
+TAG: Kristoff_036_f
+No, you need to boil the <ActivityItem>Ashes</ActivityItem> like any other meal recipe to get the <ActivityItem>Lye</ActivityItem>.
+
+TAG: Kristoff_027_f
+Yeah, don't worry.
+
+TAG: Kristoff_031_f
+Hold up. Before you start setting stuff on fire...
+
+TAG: Kristoff_021_f
+Practical. I like that viewpoint!
+
+TAG: Kristoff_022_f
+Hey, I didn't think it was THAT bad.
+
+TAG: Kristoff_004_f
+Easy. I know the plants I can eat, and I made myself a shelter.
+
+TAG: Kristoff_010_f
+I was pretty comfortable. But when he got back, Donald pointed out that there was one thing I was missing...
+
+TAG: Kristoff_011_f
+<ActivityItem>Soap</ActivityItem>. Turns out it's been a while since I've had a bath.
+
+TAG: Kristoff_006_f
+I wanted to be there in case Donald needed me. When he came back he said... well, he said a lot of things, including that I clearly hadn't found any <ActivityItem>Soap</ActivityItem>.
+
+TAG: Kristoff_012_f
+I'm used to living in the woods, but I guess it's not for everyone.
+
+TAG: Kristoff_020_f
+Okay, great. I'll be around when you have time.
+

@@ -1,0 +1,67 @@
+
+M
+=Village!WallE!EVE!VLG_EVE_030_Any_CompletedRequestDescriptionTalk to EVE.
+{
+2Village!WallE!EVE!VLG_EVE_030_AvailableDescriptionEEVE wants to show you something in her House. You decide to go there.
+∂
+7Village!WallE!EVE!VLG_EVE_030_CompletedStoryDescription{Now that you gave the food to EVE, the Dreamlight Cobra Lily should come back to life and the little robot should be happy.
+=
+)Village!WallE!EVE!VLG_EVE_030_DisplayNameDirective: Plant
+^
+HVillage!WallE!EVE!VLG_EVE_030_Group01_Step01_VisitArea01_StepDescriptionGo to EVE's House.
+^
+NVillage!WallE!EVE!VLG_EVE_030_Group02_Step02_TalkToCharacter01_StepDescriptionTalk to EVE.
+à
+FVillage!WallE!EVE!VLG_EVE_030_Group03_Step03_Possess01_StepDescription><ActivityItem>Ancient Gears</ActivityItem> with the Hourglass.
+ñ
+FVillage!WallE!EVE!VLG_EVE_030_Group03_Step03_Possess02_StepDescriptionL<ActivityItem>Mechanical Parts</ActivityItem> refined at a Crafting Station.
+n
+FVillage!WallE!EVE!VLG_EVE_030_Group03_Step03_Possess03_StepDescription$<ActivityItem>Copper</ActivityItem>.
+U
+<Village!WallE!EVE!VLG_EVE_030_Group03_Step03_StepDescriptionGather the materials:
+æ
+6Village!WallE!EVE!VLG_EVE_030_Group03_StoryDescriptionÉYou discover a mysterious plant that looks dry and almost dead and that EVE cannot manage to scan. It's time to update her scanner and you decide to help her do that by designing an accessory for a scanner inspired by Ancient's Landing, using local materials.
+o
+:Village!WallE!EVE!VLG_EVE_030_Group04_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+Ö
+HVillage!WallE!EVE!VLG_EVE_030_Group04_Step04_CraftItem01_StepDescription9Craft the <ActivityItem>Scanner Accessory</ActivityItem>.
+û
+HVillage!WallE!EVE!VLG_EVE_030_Group05_Step05_BringItem01_StepDescriptionRMake sure the <ActivityItem>Scanner Accessory</ActivityItem> is in your Inventory.
+Ä
+=Village!WallE!EVE!VLG_EVE_030_Group05_Step05_ReadyDescription?Give the <ActivityItem>Scanner Accessory</ActivityItem> to EVE.
+ç
+JVillage!WallE!EVE!VLG_EVE_030_Group06_Step06_Interaction01_StepDescription?Inspect the <ActivityItem>Dreamlight Cobra Lily</ActivityItem>.
+Ê
+6Village!WallE!EVE!VLG_EVE_030_Group06_StoryDescription´You discover that the mysterious plant is in fact a Dreamlight Cobra Lily and EVE really wants to save it. You have to take a closer look to determine what to do about it.
+`
+NVillage!WallE!EVE!VLG_EVE_030_Group07_Step07_TalkToCharacter02_StepDescriptionReturn to EVE.
+l
+:Village!WallE!EVE!VLG_EVE_030_Group08_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+q
+FVillage!WallE!EVE!VLG_EVE_030_Group08_Step08_Possess04_StepDescription'<ActivityItem>Sea Snail</ActivityItem>.
+q
+FVillage!WallE!EVE!VLG_EVE_030_Group08_Step08_Possess05_StepDescription'<ActivityItem>Sand Worm</ActivityItem>.
+p
+FVillage!WallE!EVE!VLG_EVE_030_Group08_Step08_Possess06_StepDescription&<ActivityItem>Scorpion</ActivityItem>.
+U
+<Village!WallE!EVE!VLG_EVE_030_Group08_Step08_StepDescriptionFind the Ingredients:
+é
+6Village!WallE!EVE!VLG_EVE_030_Group08_StoryDescriptionTSince the plant is carnivorous, you decide to put together a plate of Gourmet Grubs.
+Ü
+GVillage!WallE!EVE!VLG_EVE_030_Group09_Step09_CookMeal01_StepDescription;Cook a plate of <ActivityItem>Gourmet Grubs</ActivityItem>.
+õ
+HVillage!WallE!EVE!VLG_EVE_030_Group10_Step10_BringItem02_StepDescriptionOMake sure the <ActivityItem>Gourmet Grubs</ActivityItem> are in your Inventory.
+y
+=Village!WallE!EVE!VLG_EVE_030_Group10_Step10_ReadyDescription8Give EVE the <ActivityItem>Gourmet Grubs</ActivityItem>.
+o
+:Village!WallE!EVE!VLG_EVE_030_Group11_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+^
+HVillage!WallE!EVE!VLG_EVE_030_Group11_Step11_VisitArea02_StepDescriptionGo to EVE's House.
+q
+:Village!WallE!EVE!VLG_EVE_030_Group05_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+l
+:Village!WallE!EVE!VLG_EVE_030_Group09_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+q
+:Village!WallE!EVE!VLG_EVE_030_Group10_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+a
+0Village!WallE!EVE!VLG_EVE_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,93 @@
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Any_CompletedRequestDescription
+Talk to Minnie.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_AvailableDescription
+Minnie is looking for you.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_CompletedStoryDescription
+See how Minnie feels after getting her memory back.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_DisplayName
+On the Trail of Minnie's Memory
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do we need to do?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Mickey.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group02_StepDescription
+Bring the <ActivityItem>Dreamlight Magnifier</ActivityItem> to the <ActivityItem>Sparkling Fishing Pole</ActivityItem> in the Meadow.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group03_StepDescription
+Interact with the <ActivityItem>Sparkling Fishing Pole</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to Minnie.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group05_StepDescription
+Find another lost <ActivityItem>Memory</ActivityItem> on the Beach using the <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group05_StoryDescription
+After getting the <ActivityItem>Dreamlight Magnifier</ActivityItem> from Mickey, you manage to retrieve the <ActivityItem>Sparkling Fishing Pole</ActivityItem>. You're on the trail of Minnie's missing Memories. Only one thing left to do... Follow it.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group06_StepDescription
+Interact with the floating <ActivityItem>Sparkling Hat</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group07_StepDescription
+Talk to Minnie.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we doing now?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group08_StepDescription
+Listen as Minnie talks to Mickey.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should we go?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group09_StepDescription
+Interact with the floating <ActivityItem>Sparkling Package</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group10_StepDescription
+Investigate the Forest of Valor to find another Lost <ActivityItem>Memory</ActivityItem> using the <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group11_Step11_TalkToCharacter04_StepDescription
+Talk to Minnie.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we doing now?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group12_StepDescription
+Go see Mickey with Minnie.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group12_StoryDescription
+Minnie remembers Mickey and runs to him to tell him the good news.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_Step13_BringItem02_StepDescription
+Make sure you have the {itemName} in your Inventory.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_Step13_ReadyDescription
+Talk to Mickey.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_StoryDescription
+After talking to Minnie, Mickey is eager to talk to you.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group15_Step15_FollowCharacter01_StepDescription
+Follow Minnie to the location in the Meadow.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group15_StoryDescription
+She tells you that she keeps being drawn to the same area in the Village for a mysterious reason. It's a mystery worth investigating.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group16_Step16_TalkToCharacter05_StepDescription
+Talk to Minnie.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group16_StoryDescription
+Something weird is definitely happening in the area.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

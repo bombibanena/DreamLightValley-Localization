@@ -1,0 +1,60 @@
+TAG: Olaf_000_f
+Olaf, I'm back!
+
+TAG: Olaf_001_f
+Here's some new <Lore>Chocolate Ice Cream</Lore>, made with love just for you... for Anna.
+
+TAG: Olaf_002_f
+Oh, thank you, {PlayerName}! Anna's going to love it!
+
+TAG: Player_000_choice_000_f
+Now, that's the Olaf I know.
+
+TAG: Player_000_choice_001_f
+Are you sure Anna likes chocolate?
+
+TAG: Player_000_choice_002_f
+Are you sure, because I can eat it if you're not sure.
+
+TAG: Olaf_003_f
+I'm confused. Is there another Olaf?
+
+TAG: Olaf_007_f
+And don't worry; I'll talk to Jack Skellington about touching people's food without permission.
+
+TAG: Olaf_008_f
+That's probably wise.
+
+TAG: Olaf_010_f
+Bye, Olaf!
+
+TAG: Olaf_004_f
+Does he like warm hugs too?!
+
+TAG: Olaf_011_f
+No, no. You are THE only Olaf! I'm just glad you're not upset anymore.
+
+TAG: Olaf_012_f
+Me too. Being upset isn't fun.
+
+TAG: Olaf_013_f
+I was trying to tell myself that I was happy...
+
+TAG: Olaf_014_f
+But frustration is such a pointy emotion â like icicles! I couldn't ignore it.
+
+TAG: Olaf_015_f
+Well, I'm happy that you don't need to repress any negative emotions anymore.
+
+TAG: Olaf_005_f
+Thank you for saving Best Friends Forever Day, {PlayerName}!
+
+TAG: Olaf_006_f
+You're welcome!
+
+TAG: Olaf_016_f
+Are you kidding?! Anna LOVES chocolate!
+
+TAG: Olaf_017_f
+I'm completely and totally and absolutely sure. Anna LOVES chocolate!
+

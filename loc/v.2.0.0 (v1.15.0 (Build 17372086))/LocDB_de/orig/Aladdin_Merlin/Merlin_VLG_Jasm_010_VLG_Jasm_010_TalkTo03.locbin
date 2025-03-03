@@ -1,0 +1,61 @@
+
+—
+Merlin_002_f¿Hello, Merlin! Jasmine and I need some help. She found a note about how to make <ActivityItem>Enchanted Pots of Blooming</ActivityItem>, but we're not sure what they're for or what that means.
+w
+Merlin_011_fgHmm... <ActivityItem>Enchanted Pots of Blooming</ActivityItem>...? Ah, yes! I remember the very things!
+%
+Merlin_023_fYou do? That's great!
+y
+Merlin_008_fiIt is! Heh-heh. Now, let's see... I was instructing Jasmine on arcane flower magic before the Forgetting.
+è
+Merlin_001_fWe were using <ActivityItem>Enchanted Pots of Blooming</ActivityItem> in our work. She's a most excellent researcher, you know.
+.
+Player_001_choice_000_fSo they're magical?
+3
+Player_001_choice_001_fCould they be dangerous?
++
+Player_001_choice_002_fWhat do they DO?
+¨
+Merlin_003_fõWell, yes. "Enchanted" in the name rather says it all, doesn't it? And as with many things in Dreamlight Valley, they're sprinkled with very special magic.
+.
+Merlin_021_fCan you tell me anything else?
+¥
+Merlin_019_f£Of course. The <ActivityItem>Enchanted Pots of Blooming</ActivityItem> can be used to grow an <ActivityItem>Enchanted Flower</ActivityItem> that contains a secret.
+˝
+Merlin_000_fÏYou put seeds in one pot, plant flowers in the other pots and <Lore>carefully tend to them so they flourish</Lore>. That will inspire the <ActivityItem>Enchanted Flower</ActivityItem> to grow. Plants do like to work together, after all.
+Q
+Merlin_022_fAUnfortunately, I... I can't remember anything else at the moment.
+=
+Merlin_024_f-An Enchanted Flower that contains a secret...
+-
+Player_000_choice_000_fThat's mysterious.
+(
+Player_000_choice_001_fHow exciting!
+/
+Player_000_choice_002_fSounds suspicious...
+2
+Merlin_025_f"How can a flower contain a secret?
+[
+Merlin_028_fKOh, I find secrets have a way of hiding in all sorts of interesting places.
+.
+Merlin_031_fDo you remember ANYTHING else?
+Ü
+Merlin_010_fvI do know Jasmine and I were working together to keep this secret safe, and‚Äî Oh! Yes! <Lore>There were seeds</Lore>!
+x
+Merlin_017_fhI put them in an envelope for safekeeping and hid it inside the Dreamlight Library for Jasmine's return.
+©
+Merlin_016_fòYou may <Lore>search the Library to find the Envelope of Seeds</Lore> if you like. The seeds are sure to help you uncover the Enchanted Flower's secret.
+<
+Merlin_026_f,I wonder what this secret could possibly be?
+b
+Merlin_029_fRIf you and Princess Jasmine are on the case, I suspect we'll find out soon enough!
+9
+Merlin_027_f)Who is keeping such a well-hidden secret?
+V
+Merlin_030_fFNow, now, not everyone who has secrets is hiding them with ill intent.
+Q
+Merlin_004_fAPerhaps. But then, you've never shied away from danger, have you?
+S
+Merlin_020_fCI suppose not... but I need to know more about this before I go on.
+-
+Merlin_005_fBesides grow flowers, anyway.

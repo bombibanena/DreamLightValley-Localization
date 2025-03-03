@@ -1,0 +1,19 @@
+
+d
+Player_000_fTEric found it on an expedition. I want to enchant this Compass to find more like it.
+5
+Player_000_choice_000_fI need your help to do it.
+(
+Player_000_choice_001_fTeach me how.
+(
+Player_000_choice_002_fDo it for me.
+p
+Merlin_003_f`Well, I'm always happy to help anyone interested in learning more about the world, {PlayerName}.
+”
+Merlin_006_fƒNow, if you wish to enchant this Compass, we'll need a few materials. Our method will be similar to the one we used to find Donald.
+³
+Merlin_007_f¢First, find some <ActivityItem>Purified Night Shards</ActivityItem> and <ActivityItem>Crystals</ActivityItem>. Then, bring it all back to me once you've finished.
+X
+Merlin_004_fHI do like your gumption, {PlayerName}! Always eager to learn new things.
+|
+Merlin_005_flEh-eh-eh, {PlayerName}. I can't be expected to do everything for you... though I am happy to show you how...

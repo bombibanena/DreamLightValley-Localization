@@ -1,0 +1,27 @@
+
+(
+Stitch_000_fWell? What do you think?
+5
+Stitch_001_f%Ooh. Nice cave. Lots of shiny things.
+)
+Stitch_002_fBut where is sea monster?
+5
+Stitch_003_f%Adventure not good if no sea monster.
+C
+Stitch_004_f3Stitch wants big purple sea monster with tentacles!
+k
+Stitch_005_f[Hm. The closest thing we have to what you're describing in this Village is Ursula, I guess.
+F
+Stitch_006_f6Ursula. Ooh. Yeah! Yeah! We <Lore>visit Ursula</Lore>?
+7
+Player_000_f'We'll visit Ursula, but just be sure...
+=
+Player_000_choice_000_f"...not to make any deals with her.
+<
+Player_000_choice_001_f!...to stay on your best behavior.
+8
+Player_000_choice_002_f...to not call her a monster.
+L
+Stitch_007_f<The last thing we need is her making you part of her garden.
+E
+Stitch_008_f5Stitch be good. Make friends with Ursula. Go! Go! Go!

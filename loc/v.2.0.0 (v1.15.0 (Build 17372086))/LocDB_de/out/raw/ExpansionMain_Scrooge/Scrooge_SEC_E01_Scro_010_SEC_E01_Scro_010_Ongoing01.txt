@@ -1,0 +1,21 @@
+TAG: Scrooge_000_f
+Well, Eternity Isle is full to the brim with varieties of cash crops. If ya plant 'em all and turn the desert into a garden, you'll be swimmin' in Star Coins in no time!
+
+TAG: Scrooge_006_f
+I'd recommend startin' by <Lore>planting Celery, Broccoli, and Cabbage</Lore>.
+
+TAG: Scrooge_007_f
+Since you've helped Goofy open his Stall here in the Dunes already, it shouldn't be any trouble for ya to find seeds for <ActivityItem>Broccoli</ActivityItem>.
+
+TAG: Scrooge_008_f
+And you should have no problem buyin' <ActivityItem>Cabbage Seeds</ActivityItem> from him in the Wild Tangle.
+
+TAG: Scrooge_009_f
+Plus, there's the added bonus that if you grow those seeds, he's sure to buy it all back from ya at a premium!
+
+TAG: Scrooge_010_f
+And you'll be able to buy <ActivityItem>Cabbage Seeds</ActivityItem> from him if you help him set up his Stall in the Wild Tangle.
+
+TAG: Scrooge_011_f
+Course you might have to help Goofy set up a Stall here in the Dunes to get the seeds for <ActivityItem>Broccoli</ActivityItem>.
+

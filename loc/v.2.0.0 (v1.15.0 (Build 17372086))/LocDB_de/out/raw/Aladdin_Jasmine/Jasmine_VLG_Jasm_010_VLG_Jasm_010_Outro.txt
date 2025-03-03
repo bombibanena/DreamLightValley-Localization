@@ -1,0 +1,105 @@
+TAG: Jasmine_000_f
+Jasmine! The Enchanted Flower bloomed!
+
+TAG: Jasmine_009_f
+It did! But... what's the secret?
+
+TAG: Jasmine_019_f
+I'm not sure... There's an old <ActivityItem>Secret Journal</ActivityItem> stuck within the petals.
+
+TAG: Jasmine_010_f
+Looking at it... it gives me a really strange feeling.
+
+TAG: Jasmine_003_f
+It reminds me of when I was younger. I feel sort of...
+
+TAG: Player_001_choice_000_f
+...lonely.
+
+TAG: Player_001_choice_001_f
+...scared.
+
+TAG: Player_001_choice_002_f
+...angry.
+
+TAG: Jasmine_011_f
+You used to feel lonely?
+
+TAG: Jasmine_014_f
+Yes, sometimes. Even when I was surrounded by people, I still felt like no one really heard me.
+
+TAG: Jasmine_017_f
+This <ActivityItem>Secret Journal</ActivityItem> must have some kind of magic that's making me feel this way.
+
+TAG: Jasmine_018_f
+That must be it. I wonder what's written inside?
+
+TAG: Jasmine_020_f
+I'd suggest we check, but <Lore>it's locked tight, and it looks like we'll need two keys to open it</Lore>.
+
+TAG: Player_002_choice_000_f
+If we could open it, we'd know where it came from!
+
+TAG: Player_002_choice_001_f
+I'm nervous to see what's inside.
+
+TAG: Player_002_choice_002_f
+This is so... confusing.
+
+TAG: Jasmine_021_f
+It must have belonged to someone important once, right?
+
+TAG: Jasmine_024_f
+That's exactly what I was thinking.
+
+TAG: Jasmine_026_f
+Hmm... There's a code on the cover that looks familiar. I'm sure I can decipher it if I have a little time.
+
+TAG: Player_000_choice_000_f
+And that might open one of the locks?
+
+TAG: Player_000_choice_001_f
+It seems pretty complicated...
+
+TAG: Player_000_choice_002_f
+Ugh, this is frustrating!
+
+TAG: Jasmine_004_f
+Possibly. I'll have to do some translations to find out for sure.
+
+TAG: Jasmine_007_f
+Why don't I take a closer look at this, and then come find you once I know what it says. I have a feeling it'll be a clue to opening the journal.
+
+TAG: Jasmine_008_f
+All right. Thanks, Jasmine. Let me know when you work it out!
+
+TAG: Jasmine_005_f
+I've studied these sorts of codes before. I'm sure I'll figure it out.
+
+TAG: Jasmine_006_f
+I understand, but I'm sure we'll figure it out.
+
+TAG: Jasmine_022_f
+It must have been hidden away for a reason, don't you think?
+
+TAG: Jasmine_025_f
+Maybe. But I also think we found it for a reason.
+
+TAG: Jasmine_023_f
+Who owned this journal? Why was it hidden away?
+
+TAG: Jasmine_027_f
+I don't know, but I'm sure we'll figure it out.
+
+TAG: Jasmine_012_f
+You used to feel scared?
+
+TAG: Jasmine_015_f
+Yes, sometimes. There were all these expectations of me. I was afraid I could never live up to them.
+
+TAG: Jasmine_013_f
+You used to feel angry?
+
+TAG: Jasmine_016_f
+Yes, sometimes. I had so many responsibilities! But all I wanted to do was be FREE.
+

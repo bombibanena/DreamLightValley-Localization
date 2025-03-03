@@ -1,0 +1,36 @@
+TAG: Simba_007_f
+Я начинаю вспоминать кое-что, {PlayerName} Вы и Реми использовали <ActivityItem>Dreamlight Fruit</ActivityItem> в куче рецептов...
+
+TAG: Simba_008_f
+Но я все еще не уверен, что фрукты помогут нам получить больше <ActivityItem>Dreamlight Trees</ActivityItem>...
+
+TAG: Simba_003_f
+Может быть, однажды я знала.
+
+TAG: Simba_006_f
+На данный момент, единственное, что я помню, это Матушка Готель Матушка Готель иногда выбирал фрукты.
+
+TAG: Simba_000_f
+Думаешь, она что-то знает?
+
+TAG: Player_000_f
+Я поговорю с ней...
+
+TAG: Player_000_choice_000_f
+Она захочет помочь.
+
+TAG: Player_000_choice_001_f
+Не думаю, что она слишком любит львов.
+
+TAG: Player_000_choice_002_f
+С ней трудно иметь дело.
+
+TAG: Simba_001_f
+Спасибо, {PlayerName}!
+
+TAG: Simba_004_f
+Да, некоторые люди немного осторожны вокруг нас.
+
+TAG: Simba_005_f
+Удачи, спасибо, {PlayerName}.
+

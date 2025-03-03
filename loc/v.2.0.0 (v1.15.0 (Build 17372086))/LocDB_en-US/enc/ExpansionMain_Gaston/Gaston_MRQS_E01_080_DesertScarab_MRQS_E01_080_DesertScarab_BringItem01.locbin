@@ -1,0 +1,84 @@
+
+>
+Gaston_003_f.There, is that better? Got your strength back?
+O
+Gaston_005_f?I've never lost my strength, {PlayerName}! Don't be ridiculous.
+3
+Player_000_choice_000_fLet's agree to disagree.
+A
+Player_000_choice_001_f&You can't even admit you were thirsty?
+-
+Player_000_choice_002_fLet's arm wrestle.
+1
+Gaston_000_f!I'll disâ no, agree to that.
+9
+Gaston_006_f)Now, what are you doing here in Gastonia?
+1
+Player_003_choice_002_fExcuse me? "Gastonia"?
+7
+Player_003_choice_003_fI'm on an important mission.
+8
+Gaston_002_f(Yes. Where do you think you're standing?
+7
+Gaston_029_f'In the <Lore>Glittering Dunes</Lore>...
+=
+Gaston_030_f-Hardly. This is Gastonia, and I am the ruler!
+�
+Gaston_031_frI've been here for quite some time. So I decided it should have a proper name. You know, something I came up with!
+(
+Gaston_032_fWhat are you doing here?
+�
+Gaston_034_f�Well, I'd done all I wanted to in my village â hunted all the trophies, impressed all the townspeople. There were no more feats of daring I could do to gain their accolades.
+2
+Player_004_choice_000_fOh no, that's terrible!
+F
+Player_004_choice_001_f+I'm sensing there might be a girl involved.
+
+Gaston_035_fIt is!
+l
+Gaston_009_f\I'm looking for the Jewel of Time. Have you seen any magical-looking gems around "Gastonia"?
+^
+Gaston_010_fNNo, but I'm also looking for treasure. Lots of it! I can make use of youâ
+$
+Gaston_011_fNo, actually Iâ
+3
+Gaston_012_f#Do you have experience as a lackey?
+I
+Gaston_015_f9Gaston, I'm dealing with something pretty important here.
+|
+Gaston_016_flEternity Isle is at risk â if I can't find the other Jewels of Time, the whole Island may be destroyed!
+�
+Gaston_017_f~Hmm... That does seem bad. But is it really worse than me, Gaston, being without someone to sing my praises and do my bidding?
+S
+Player_001_choice_000_f8If the Isle is destroyed, no one sings ANYONE'S praises.
+3
+Player_001_choice_001_fYou have no perspective.
+A
+Player_001_choice_002_f&I think you're dealing with sunstroke.
+-
+Gaston_018_fOh... that is a problem then.
+M
+Gaston_025_f=You need a hero to fix this for you. *sigh* Fine. I'll do it.
+'
+Player_002_choice_000_fYou? A hero?
+4
+Player_002_choice_001_fWhat's your plan, "hero"?
+
+Gaston_026_f
+Of course!
+Y
+Gaston_027_fII'll lead the way. We'll begin at my encampment, the capital of Gastonia.
+u
+Gaston_013_feYou're notâ *sigh* You know what? Lead the way. I'll <Lore>follow you to your encampment</Lore>.
+I
+Gaston_019_f9Of course not. Who would want such a thing? Sounds itchy.
+N
+Gaston_020_f>Even I can't stroke the sun, {PlayerName}. It's up in the sky.
+ 
+Gaston_021_fOkay, moving on.
+
+Gaston_036_fExactly.
+8
+Gaston_007_f(Oh, I was thirsty, but I was NEVER weak!
+3
+Gaston_008_f#Ha-ha-ha! I'd crush you like a bug.

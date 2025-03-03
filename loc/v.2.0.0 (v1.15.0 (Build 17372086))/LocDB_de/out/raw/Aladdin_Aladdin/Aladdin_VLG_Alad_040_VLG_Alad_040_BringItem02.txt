@@ -1,0 +1,24 @@
+TAG: Aladdin_000_f
+Thanks, {PlayerName}! I think I'll be able to build a really great stall with all this stuff.
+
+TAG: Player_000_choice_000_f
+What else do we need?
+
+TAG: Player_000_choice_002_f
+Gems! Gems! Gems!
+
+TAG: Aladdin_002_f
+Well...
+
+TAG: Aladdin_005_f
+While I build the stall, there are a few more things to find...
+
+TAG: Aladdin_006_f
+I'm no expert, but from what I've seen, a good stall needs lots of <Lore>storage</Lore> and <Lore>signs</Lore> to help things stay organized.
+
+TAG: Aladdin_007_f
+Could ya look into <Lore>building some storage chests and signs</Lore> while I get to work?
+
+TAG: Aladdin_004_f
+Don't worry; we're almost there.
+

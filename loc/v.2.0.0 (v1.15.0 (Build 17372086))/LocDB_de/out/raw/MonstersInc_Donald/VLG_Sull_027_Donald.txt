@@ -1,0 +1,39 @@
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_AvailableDescription
+Go see Donald about his project.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_DisplayName
+Villager of the Month: Donald
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group01_Step01_TakePicture01_StepDescription
+Take {TargetAmount} pictures of Donald next to the <ActivityItem>Trash</ActivityItem> on Dazzle Beach.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group01_StoryDescription
+Trash mysteriously appeared on the Beach. Donald wants to clean it and needs you to document it with your Camera.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Donald.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group03_Step03_RemoveBlocker01_StepDescription
+Remove the <ActivityItem>Trash</ActivityItem> from Dazzle Beach.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group03_StoryDescription
+As soon as you show him the picture you've taken, Donald decides that it could be made better and delegates the rest of the Beach cleaning to you.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to Donald.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_Step05_BringItem01_StepDescription
+Make sure the <ActivityItem>Photo of Donald</ActivityItem> is in your Inventory.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_Step05_ReadyDescription
+Bring the <ActivityItem>Photo of Donald</ActivityItem> to Sulley.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_StoryDescription
+When you go talk to him after finishing the trash removal, Donald gives you the obviously retouched photo you took to give to Sulley.
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Mickey!Donald!VLG_Sull_027_Donald_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+

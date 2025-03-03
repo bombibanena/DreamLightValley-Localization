@@ -1,0 +1,41 @@
+
+5
+Beast_000_f&Heyyy, you doing okay? You seem upset.
+=
+Beast_001_f.*ROARRRR!!!* I'm not upset — I'm INFURIATED!
+4
+Player_000_choice_000_fOK, tell me what's wrong.
+M
+Player_000_choice_001_f2Hold on; I'll need to prepare for this, I think...
+G
+Beast_002_f8It's that... that insolent, belittling... Mother Gothel!
+2
+Player_001_choice_000_fWhat did she do to you?
+K
+Player_001_choice_001_f0Why am I not surprised she's messing with you...
+
+Beast_003_fNot to me...
+(
+Beast_004_fShe said things to Belle.
+'
+Beast_005_fWhich I will not repeat.
+C
+Beast_006_f4But Belle was quite hurt, and I WILL NOT ALLOW THAT!
+2
+Player_002_choice_000_fOK, calm down a little.
+B
+Player_002_choice_001_f'You're right; this can't go unanswered.
+.
+Beast_007_fCalm down?! She insulted Belle!
+Y
+Beast_008_fJNo time like the present — let's go confront <Lore>Mother Gothel</Lore>!
+
+Beast_009_fI agree!
+
+Beast_010_fGood.
+5
+Beast_011_f&You've had difficulty with her before?
+!
+Beast_012_fSo, so many times!
+
+Beast_013_fI will be here.

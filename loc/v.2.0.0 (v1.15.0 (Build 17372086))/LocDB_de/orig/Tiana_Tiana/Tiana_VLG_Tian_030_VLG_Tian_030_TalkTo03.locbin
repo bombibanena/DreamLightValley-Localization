@@ -1,0 +1,63 @@
+
+e
+Tiana_000_fVSo, how did you like the Seafood Boil? Each cook contributed something to the flavors.
+^
+Tiana_001_fOIt was really tasty! Let me see if I can identify each Villager's contribution.
+=
+Player_000_choice_000_f"I think Mike is responsible for...
+=
+Player_000_choice_001_f"I think Anna is responsible for...
+A
+Player_000_choice_002_f&I think Kristoff is responsible for...
+@
+Player_000_choice_003_f%Actually, I trust your judgment here.
+D
+Tiana_002_f5...the weird punch I tasted with some of the veggies.
+^
+Tiana_003_fOWeird, but... good? Like, it's a sourness that makes all the other flavors pop.
+p
+Tiana_004_faI noticed that too! It tastes like fermentation to me, but how did he ferment things so quickly?!
+8
+Tiana_005_f)I think that's just Mike's special skill!
+2
+Tiana_013_f#So, overall, that was really tasty!
+8
+Player_001_choice_000_fWhoa, never seen that before!
+G
+Player_001_choice_001_f,Really? I thought chalk was made from rocks.
+8
+Player_001_choice_002_fWell, that'll be a fun craft!
+J
+Tiana_014_f;But I could see how they're all still a little new to this.
+[
+Tiana_015_fLCompared to the food I've tried at your Stall, they aren't there just yet...
+5
+Tiana_016_f&With a few more lessons, they will be.
+s
+Tiana_017_fdThe next step is for them to make their own individual meals. Then we'll be able to pick the winner.
+.
+Tiana_018_fCool! What does the winner get?
+5
+Tiana_019_f&I'll advertise their dish at my Stall!
+s
+Tiana_020_fdBut for that, I'll need some help. Could you build me a <ActivityItem>Sandwich Board</ActivityItem>?
+n
+Tiana_021_f_And we'll need chalk too. You can make some from scratch with <Lore>eggshells and flour</Lore>.
+ê
+Tiana_023_fÄWell, since we're having a culinary contest, I thought it would be fun to try and make some of the non-food items from food too!
+'
+Tiana_022_fI'll be back in a flash!
+5
+Tiana_006_f&...the way the potatoes were prepared.
+9
+Tiana_007_f*They're all cut into flat planks. But why?
+Ö
+Tiana_008_fvWell, Anna mentioned that she wanted folks to be able to make sandwiches out of the Seafood Boil, using potato planks.
+]
+Tiana_009_fNStrange, given that the potatoes are still boiled, but an interesting attempt!
+i
+Tiana_010_fZ...the portion that got served on a bed of ice shavings. That's got to be Kristoff, right?
+U
+Tiana_011_fFMm-hmm! He said that a chilled meal would be refreshing in the summer.
+l
+Tiana_012_f]You know what? Can't blame him; that does sound like an interesting idea, if non-traditional.

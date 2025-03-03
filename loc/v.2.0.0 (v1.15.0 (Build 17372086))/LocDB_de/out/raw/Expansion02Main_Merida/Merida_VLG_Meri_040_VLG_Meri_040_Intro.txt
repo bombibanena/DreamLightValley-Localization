@@ -1,0 +1,84 @@
+TAG: Merida_001_f
+Just who I was hoping to see! {PlayerName}, do you have time to talk about a Scottish celebration I'm planning?
+
+TAG: Player_000_choice_000_f
+I love a good celebration!
+
+TAG: Player_000_choice_001_f
+Hold that thought, and I'll get back to you!
+
+TAG: Merida_002_f
+That's grand! You see, finding that old family artifact got me thinking... I want to host a proper Highland Festival!
+
+TAG: Merida_004_f
+We've all been working so hard, I think everyone would really enjoy it.
+
+TAG: Player_001_choice_000_f
+I love this idea!
+
+TAG: Player_001_choice_001_f
+What did you have in mind?
+
+TAG: Player_001_choice_002_f
+As long as I don't have to eat haggis.
+
+TAG: Merida_006_f
+I was hoping you'd say that!
+
+TAG: Merida_009_f
+We can decorate with banners from my family, Clan DunBroch...
+
+TAG: Merida_010_f
+...and have a HUGE banquet! Though a proper Scottish feast would require a giant table...
+
+TAG: Player_004_f
+I'll talk to Mr. McDuck!
+
+TAG: Player_004_choice_000_f
+He'll be happy to supply us!
+
+TAG: Player_004_choice_001_f
+He'll LOVE that we're bringing a touch of Scotland here.
+
+TAG: Player_004_choice_002_f
+As long as your clans aren't rivals?
+
+TAG: Merida_016_f
+Aye? That'll be grand!
+
+TAG: Merida_017_f
+Okay, Merida, I'll <Lore>talk to Mr. McDuck about ordering some banquet supplies and some Clan DunBroch Banners</Lore>.
+
+TAG: Merida_018_f
+Good. And while you do that, I'll talk to Tiana. I want Scottish food for the party but honestly... I've never had much skill in the kitchen.
+
+TAG: Merida_019_f
+I've a great lineage of burned bannocks to prove it.
+
+TAG: Merida_014_f
+I think he will too!
+
+TAG: Merida_015_f
+Not at all! I've nothing but respect for Clan McDuck.
+
+TAG: Merida_007_f
+You won't. But really, you should give it a try. It's quite tasty, actually.
+
+TAG: Player_003_choice_000_f
+Maybe someday I will!
+
+TAG: Player_003_choice_001_f
+REALLY think it's not my thing.
+
+TAG: Merida_012_f
+That's it! Embrace your adventurous spirit!
+
+TAG: Merida_013_f
+But back to our festival...
+
+TAG: Merida_011_f
+That's fine. To each their own.
+
+TAG: Merida_003_f
+Aye. You know where to find me when you're ready.
+

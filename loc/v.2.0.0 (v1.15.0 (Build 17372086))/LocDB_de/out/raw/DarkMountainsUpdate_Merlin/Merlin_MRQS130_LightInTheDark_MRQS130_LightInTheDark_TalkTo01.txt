@@ -1,0 +1,33 @@
+TAG: Merlin_002_f
+Observe! There, on the roof of Mickey's House... It's not just the rips in the sky. There's Dark Magic bleeding through the very fabric of reality.
+
+TAG: Merlin_003_f
+Fortunately, the phenomenon is quite localized. Only certain places seem to be affected...
+
+TAG: Player_000_choice_000_f
+Maybe these places were important to the Forgotten?
+
+TAG: Player_000_choice_001_f
+Probably just a coincidence?
+
+TAG: Player_000_choice_002_f
+Can you spell it out for me? No time for riddles.
+
+TAG: Merlin_004_f
+Yes, though I hypothesize that it's not the places themselves... but something inside of them.
+
+TAG: Merlin_006_f
+Coincidence?! This is Dreamlight Valley, {PlayerName}! Nothing here is mere coincidence.
+
+TAG: Merlin_007_f
+I hypothesize that each spot must hold something important to the Forgotten. Something left behind.
+
+TAG: Merlin_009_f
+And it appears they're still imbued with the Forgotten's magic.
+
+TAG: Merlin_010_f
+You'll have to <Lore>search Mickey's House</Lore> for anything like that. It could be something quite mundane...
+
+TAG: Merlin_008_f
+Yes well, I'm conversing as swiftly as comprehension allows!
+

@@ -1,0 +1,93 @@
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Any_CompletedRequestDescription
+Поговори с Минни Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_AvailableDescription
+Минни Маус ищет тебя.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_CompletedStoryDescription
+Посмотрим, как себя чувствует Минни Маус после того, как она вернет свою память.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_DisplayName
+На трассе памяти Минни Маус
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что нам нужно сделать?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Микки Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group02_StepDescription
+Приведите <ActivityItem>Dreamlight Magnifier</ActivityItem> на <ActivityItem>Sparkling Fishing Pole</ActivityItem> в Мидоу.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group03_StepDescription
+Взаимодействие с рыболовным полюсом <ActivityItem>Sparkling</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group04_Step04_TalkToCharacter02_StepDescription
+Поговори с Минни Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group05_StepDescription
+Найдите другой потерянный <ActivityItem>Memory</ActivityItem> на пляже с помощью <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group05_StoryDescription
+После того, как <ActivityItem>Dreamlight Magnifier</ActivityItem> из Микки Маус, вы сможете получить <ActivityItem>Sparkling Fishing Pole</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group06_StepDescription
+Интерактивировать с плавающим <ActivityItem>Sparkling Hat</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group07_StepDescription
+Поговори с Минни Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мы делаем сейчас?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group08_StepDescription
+Слушайте, как Минни Маус говорит с Микки Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда нам идти?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group09_StepDescription
+Интерактивировать с плавающей упаковкой <ActivityItem>Sparkling</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group10_StepDescription
+Расследуйте лес Валора, чтобы найти еще одного потерянного <ActivityItem>Memory</ActivityItem> с помощью <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group11_Step11_TalkToCharacter04_StepDescription
+Поговори с Минни Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мы делаем сейчас?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group12_StepDescription
+Посмотри Микки Маус с Минни Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group12_StoryDescription
+Минни Маус помнит Микки Маус и бежит к нему, чтобы сообщить ему хорошие новости.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_Step13_BringItem02_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_Step13_ReadyDescription
+Поговори с Микки Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group13_StoryDescription
+После разговора с Минни Маус Микки Маус хочет поговорить с вами.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group15_Step15_FollowCharacter01_StepDescription
+Следуйте за Минни Маус до места на Медоу.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group15_StoryDescription
+Она говорит вам, что ее по-прежнему притягивают в ту же местность в Виллидж по загадочной причине.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group16_Step16_TalkToCharacter05_StepDescription
+Поговори с Минни Маус.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_Group16_StoryDescription
+Что-то странное определенно происходит в этом районе.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

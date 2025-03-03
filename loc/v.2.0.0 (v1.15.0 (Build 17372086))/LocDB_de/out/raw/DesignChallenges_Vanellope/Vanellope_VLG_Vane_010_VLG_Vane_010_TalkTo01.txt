@@ -1,0 +1,45 @@
+TAG: Vanellope_000_f
+Great work with those decorations! You really put some life into ol' Sleeplight Valley.
+
+TAG: Vanellope_001_f
+I'm kidding! Everything looks great. There's just one thing missing...
+
+TAG: Player_000_choice_000_f
+MORE candy!
+
+TAG: Player_000_choice_001_f
+Cars for the race track?
+
+TAG: Player_000_choice_002_f
+How dare you? It's perfect!
+
+TAG: Vanellope_002_f
+Well, obviously! And that nicely segues into my next plan of awesomeness...
+
+TAG: Vanellope_003_f
+I wanna build a replica of my Sugar Rush Kart! My buddy Ralph and I made my first one together. So, I thought we could build one too.
+
+TAG: Vanellope_004_f
+Think of it as friendship bonding.
+
+TAG: Vanellope_005_f
+But since we don't have a kart bakery, it's gonna take a while, so we should start baking pieces pronto.
+
+TAG: Vanellope_006_f
+Take this special <ActivityItem>Sugar Rush Syrup</ActivityItem>. It's time to play "Bake-A-Kart"!
+
+TAG: Vanellope_007_f
+You'll need to <Lore>find the other Ingredients and go to a Cooking Station.</Lore> I looked it up; it'll take <ActivityItem>Wheat</ActivityItem>, <ActivityItem>Sugarcane</ActivityItem>, <ActivityItem>Milk</ActivityItem>, <ActivityItem>Eggs</ActivityItem>, and <ActivityItem>Butter</ActivityItem>.
+
+TAG: Vanellope_011_f
+And while you do that, I'm gonna spelunk in the Mystical Cave and see if there's anything cool down there.
+
+TAG: Vanellope_008_f
+Bring me the kart pieces when you're done cooking, okay?
+
+TAG: Vanellope_009_f
+Exactly! Especially, ONE car...
+
+TAG: Vanellope_010_f
+Whoa! Chill. It IS perfect! But if we want it to be a Perfect Deluxe edition, we need a finishing touch...
+

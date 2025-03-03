@@ -1,0 +1,51 @@
+TAG: Pumbaa_000_f
+So... Jack was tryin' to keep the Night Mites? I didn't know he liked to eat bugs.
+
+TAG: Player_000_choice_000_f
+I think maybe he wanted a pet... Or something.
+
+TAG: Player_000_choice_001_f
+He's VERY curious.
+
+TAG: Player_000_choice_002_f
+I don't think he eats...
+
+TAG: Pumbaa_003_f
+Aw, that's sweet, even if the mites could be trouble.
+
+TAG: Pumbaa_006_f
+Still...
+
+TAG: Pumbaa_005_f
+Did we do the right thing? Takin' the bugs away from him?
+
+TAG: Player_002_choice_000_f
+The Night Mites are dangerous.
+
+TAG: Player_002_choice_001_f
+Jack will have a new fascination in a minute.
+
+TAG: Player_002_choice_002_f
+It was tough â but necessary.
+
+TAG: Pumbaa_008_f
+You're right... Thanks, {PlayerName}.
+
+TAG: Pumbaa_010_f
+Say, could you go <Lore>check with Timon</Lore>? I wanna stay and talk to Jack, so I can keep him company. We can talk about our favorite bugs!
+
+TAG: Pumbaa_007_f
+Really? Okay... That makes me feel better.
+
+TAG: Pumbaa_009_f
+I guess you're right.
+
+TAG: Pumbaa_001_f
+Who could blame him? They smell DELICIOUS, even if they are dangerous.
+
+TAG: Pumbaa_004_f
+I don't think he was gonna eat them, Pumbaa â I think he wanted to keep them? Study them, maybe?
+
+TAG: Pumbaa_002_f
+Huh... Oh well, more bugs for us!
+

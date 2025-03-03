@@ -1,0 +1,90 @@
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_AvailableDescription
+A new lamp has been crafted! But in order to empower it to deal with the Windcaller, you will need to infuse it with the elusive wish magic...
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_CompletedStoryDescription
+With the newly forged lamp and the three remnants of Genie's wishes, you were able to remove the vortex protecting the Windcaller! With Carpet now freed, you're ready to fly up and confront the Windcaller directly.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_DisplayName
+Wish Magic
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Aladdin about his three wishes.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group02_Step02_Possess01_StepDescription
+Aladdin's first wish was made in a desert oasis...
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group02_StepDescription
+Search for a Remnant of the First Wish.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group03_Step03_TalkToCharacter02_StepDescription
+Return to Jasmine in the <Lore>Central Market</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group03_StepDescription
+Aladdin's second wish was made in water. This will be tricky...
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group04_Step04_Possess02_StepDescription
+{ItemName} from sandstone deposits.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group04_Step04_Possess03_StepDescription
+{ItemName} from quicksand.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group04_StepDescription
+Supplies to repair the fountain must be around somewhere:
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group05_Step05_CraftItem01_StepDescription
+(Use the Crafting Station in the <Lore>Artisans' District</Lore> or the <Lore>South Market</Lore>.)
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group05_StepDescription
+Craft new pipes to fix the fountain.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group06_Step06_FillKeyhole01_StepDescription
+Place the missing pipes near Jasmine to complete the plumbing network.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group07_StepDescription
+Switch the tiles on the water pipe to let the water flow to the fountain.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group08_Step08_Possess04_StepDescription
+Gather the remnant of the second wish at the fountain.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group08_StoryDescription
+After finding the remnant from Aladdin's first wish, you were able to repair the fountain to both supply Agrabah with water and get hold of the remnant of Aladdin's second wish. Just one wish remnant remains.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group09_Step09_TalkToCharacter03_StepDescription
+Ask Jasmine about Genie.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group09_StepDescription
+The third wish was about Genie's freedom...
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group11_Step12_Possess05_StepDescription
+Look for somewhere with a view of the palace.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group11_StepDescription
+Find some of Genie's sparkles.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group12_Step13_CookMeal01_StepDescription
+Assemble all three wish remnants at the Alchemy Table.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group12_StepDescription
+Create a wish enchantment:
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group13_Step14_BringItem01_StepDescription
+The Lamp Enchantment.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group13_Step14_BringItem02_StepDescription
+Gold Lamp.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group13_Step14_ReadyDescription
+Bring the <ActivityItem>Gold Lamp</ActivityItem> and <ActivityItem>Lamp Enchantment</ActivityItem> to Jasmine in the <Lore>Central Market</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group13_Step14_StepDescription
+Make sure you have everything for the new magic lamp.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group14_Step15_VisitArea01_StepDescription
+Move toward the giant whirlwind with the magic lamp.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group15_Step16_TalkToCharacter04_StepDescription
+Return to Jasmine and Aladdin.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_030_Group15_StepDescription
+Carpet is free!
+

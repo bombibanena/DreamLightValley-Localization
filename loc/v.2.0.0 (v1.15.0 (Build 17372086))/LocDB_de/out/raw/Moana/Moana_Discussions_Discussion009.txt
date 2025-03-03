@@ -1,0 +1,24 @@
+TAG: Moana_000_f
+I'm not sure if I'll go sailing today. It depends on the weather.
+
+TAG: Player_000_choice_000_f
+Have you sailed in storms?
+
+TAG: Player_000_choice_001_f
+What's the best weather for sailing?
+
+TAG: Moana_001_f
+A few. It's dangerous.
+
+TAG: Moana_003_f
+...and maybe a little bit exciting.
+
+TAG: Moana_002_f
+It depends on what you're doing. Cloudy days are good for fishing.
+
+TAG: Moana_004_f
+The sun feels amazing, but you want to make sure you have some shade.
+
+TAG: Moana_005_f
+So it's good that you can use a sail for shade when you need it.
+

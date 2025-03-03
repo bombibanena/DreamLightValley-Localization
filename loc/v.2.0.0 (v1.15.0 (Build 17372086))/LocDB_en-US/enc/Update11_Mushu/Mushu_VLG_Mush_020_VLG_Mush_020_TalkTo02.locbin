@@ -1,0 +1,27 @@
+
+L
+Mushu_001_f=Oh yeah! I can tell by your smiling face! The Beast said yes!
+F
+Mushu_002_f7There's one catch... I have to do the program with him.
+>
+Player_000_choice_000_f#It was the only way he would agree.
+J
+Player_000_choice_001_f/I'm nervous, but helping the Beast is worth it.
+7
+Player_000_choice_002_fI'm definitely going to win!
+k
+Mushu_005_f\I send you to convince the Beast and you come back offering a 2-for-1? This is my lucky day!
+!
+Mushu_007_fWhere do we start?
+d
+Mushu_008_fUOh, I do love that go-get-'em attitude! The first phase of the program is "Analysis."
+ˇ
+Mushu_003_fÔTo help the Beast, I need to know what's on his mind. And to do that, we're gonna use an <ActivityItem>Ink Blot Test</ActivityItem>. I found a whole book about making and analyzing 'em in Merlin's library. So I'm pretty much an expert now.
+ç
+Mushu_009_f~We're gonna need art supplies. Could you <Lore>talk to Mulan to get some paper</Lore> and <Lore>ask Belle for some ink</Lore>?
+I
+Mushu_010_f:We need the good stuff √¢¬Ä¬î this is a serious operation.
+?
+Mushu_004_f0Don't worry; we'll keep things light and breezy.
+U
+Mushu_006_fF{PlayerName}, I like the spirit and all, but this isn't a competition!

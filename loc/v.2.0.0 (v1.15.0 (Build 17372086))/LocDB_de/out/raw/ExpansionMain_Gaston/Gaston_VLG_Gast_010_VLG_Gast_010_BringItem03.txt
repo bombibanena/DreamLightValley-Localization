@@ -1,0 +1,84 @@
+TAG: Gaston_003_f
+Here we go â one <ActivityItem>Freezer of Infinite Meat</ActivityItem>, as requested!
+
+TAG: Gaston_004_f
+Nicely done, LeFou!
+
+TAG: Player_000_choice_000_f
+I'M NOT LEFOU!
+
+TAG: Player_000_choice_001_f
+I... Thanks Gaston.
+
+TAG: Gaston_005_f
+... Oh... right.
+
+TAG: Player_001_choice_000_f
+It means that you overstate things.
+
+TAG: Player_001_choice_001_f
+It means that what you said is true and accurate.
+
+TAG: Gaston_006_f
+Gaston? Hello? You okay?
+
+TAG: Gaston_007_f
+What? Why wouldn't I be?
+
+TAG: Gaston_008_f
+Never mind. Let's move on.
+
+TAG: Gaston_010_f
+You could've been a little quicker. I almost died of hunger.
+
+TAG: Gaston_011_f
+I think that's an exaggeration.
+
+TAG: Gaston_012_f
+I don't know the meaning of the word.
+
+TAG: Gaston_001_f
+Okay, I get it Gaston. You're really hungry.
+
+TAG: Gaston_002_f
+Yes. But... what does "exaggeration" MEAN?
+
+TAG: Gaston_014_f
+I do not! When I say I'm exceedingly charming and handsome, that's the truth!
+
+TAG: Gaston_017_f
+One question, Gaston... Where does the meat come from?
+
+TAG: Gaston_018_f
+I... am not sure. I was going over the plans, and there were just so many words.
+
+TAG: Gaston_019_f
+Something about crystal meta-structures, the howl-o-graphic some such and atomic reconsti-something or other?
+
+TAG: Gaston_020_f
+Whatever that all is, it's not from hunting.
+
+TAG: Player_002_choice_000_f
+Yeah, I didn't get that either.
+
+TAG: Player_002_choice_001_f
+Fascinating! It creates the food from nothing at a molecular level!
+
+TAG: Gaston_021_f
+Let's get the stall working!
+
+TAG: Gaston_026_f
+Enough book talk!
+
+TAG: Gaston_015_f
+Excellent! Then everything I say is an exaggeration.
+
+TAG: Gaston_016_f
+I completely agree.
+
+TAG: Gaston_009_f
+You're a good sidekick.
+
+TAG: Gaston_000_f
+But you could be a little quicker. I almost died of hunger!
+

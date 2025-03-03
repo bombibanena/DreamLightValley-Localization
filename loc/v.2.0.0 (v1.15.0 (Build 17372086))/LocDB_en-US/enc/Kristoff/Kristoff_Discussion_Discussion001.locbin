@@ -1,0 +1,44 @@
+
+Y
+Kristoff_000_fGIs talking about feelings as hard for you as it is for me? Why is that?
+5
+Player_000_choice_000_fBecause they're important.
+1
+Player_000_choice_001_fBecause they're scary.
+1
+Player_000_choice_002_fBecause they're weird.
+_
+Kristoff_001_fMI guess that makes sense. You don't want to mess up something that important.
+?
+Kristoff_002_f-And it's easy to get confused about feelings.
+?
+Kristoff_003_f-How do YOU talk about feelings, {PlayerName}?
+%
+Player_001_choice_000_f
+Be honest.
+(
+Player_001_choice_001_fBe sensitive.
+5
+Player_001_choice_002_fJust ignore your feelings.
+p
+Kristoff_009_f^I'm always honest. It's just sometimes the words I use don't end up saying what I really mean.
+^
+Kristoff_010_fLLike one time I called Anna crazy for getting engaged to a man she just met.
+¯
+Kristoff_011_fœThat wasn't the right word at all. I should have said "impetuous," or "eager," or "passionate"! Because Anna is all those things, and I love that about her.
+u
+Kristoff_012_fcYeah, being sensitive isn't really something I learned while climbing mountains and harvesting ice.
+F
+Kristoff_013_f4But ever since I met Anna, I've been trying my best.
+E
+Kristoff_014_f3Does that work? I don't know if that's a good idea.
+Ž
+Kristoff_004_f|Wait Ã¢Â€Â” why would feelings be scary? They can't bite you, like wolves. You can't fall off the side of a feeling and die.
+w
+Kristoff_005_feThey just sit inside of you, always there, haunting your every waking moment and changing everything.
+D
+Kristoff_006_f2... Yep. You're right. Feelings can be terrifying.
+y
+Kristoff_007_fgYou're right, feelings ARE weird. Things were so much simpler when it was just me, Sven and the trolls!
+R
+Kristoff_008_f@Simpler... but not as amazing. So I guess feelings are worth it.

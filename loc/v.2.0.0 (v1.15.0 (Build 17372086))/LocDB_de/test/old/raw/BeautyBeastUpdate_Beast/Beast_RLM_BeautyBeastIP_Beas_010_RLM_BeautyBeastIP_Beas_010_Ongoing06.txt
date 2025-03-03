@@ -1,0 +1,6 @@
+TAG: Beast_000_f
+Вы... <Lore> искали западное крыло</Lore>...
+
+TAG: Beast_001_f
+...для <ActivityItem>Shampoo</ActivityItem>, <ActivityItem>Cologne</ActivityItem> и <ActivityItem>Brush</ActivityItem>.
+

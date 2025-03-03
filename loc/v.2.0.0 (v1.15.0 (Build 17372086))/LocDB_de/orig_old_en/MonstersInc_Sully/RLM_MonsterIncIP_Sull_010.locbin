@@ -1,0 +1,77 @@
+
+c
+PRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Any_CompletedRequestDescriptionTalk to Sulley.
+ä
+ERealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_AvailableDescriptionAYou've arrived in the Monsters, Inc. Realm... Where is everybody?
+ 
+JRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_CompletedStoryDescription|After Mike's rescue, you speak to Sulley. It's time to reveal you're not a monster and ask him to visit Dreamlight Valley...
+L
+<Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_DisplayNameEscape Claws
+w
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group01_Step01_StepDescription$Examine the door to the Laugh Floor.
+É
+HRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group02_StepDescription7Search for something to disguise yourself as a monster.
+∏
+IRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group02_StoryDescriptionkThe Laugh Floor security system won't let you in because you're not a monster... You search for a disguise.
+ñ
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group03_Step03_StepDescriptionCOpen the bag of <ActivityItem>Monstrous Accessories</ActivityItem>.
+ç
+YRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group04_Step04_DressUp02_StepDescriptionØ(Optional) Experiment with <ActivityItem>Fantasy Skin Tones</ActivityItem> and <ActivityItem>Contact Lenses</ActivityItem> in the Wardrobe Menu to create a Monstrous Disguise.
+ü
+YRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group04_Step20_DressUp01_StepDescriptionBPut on your choice of <ActivityItem>Monstrous Ears</ActivityItem>.
+∞
+YRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group04_Step20_DressUp03_StepDescriptionSPut on your <ActivityItem>{ItemName}</ActivityItem> once your disguise is complete.
+ô
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group05_Step05_StepDescriptionFTake a selfie only once you're happy with your new Monstrous Disguise.
+ä
+HRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group06_StepDescription>Unlock the door to the Laugh Floor in your Monstrous Disguise.
+y
+aRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group07_Step07_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
+f
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_Step08_StepDescriptionSlug Slime Puddles.
+_
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_Step09_StepDescriptionParty Trash.
+b
+HRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_StepDescriptionClean the Laugh Floor:
+€
+IRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_StoryDescriptionçSulley welcomes you to Monsters, Inc. as the newest intern. He asks you to tidy up the Laugh Floor while he and Mike make a plan for the day.
+t
+aRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group09_Step11_TalkToCharacter02_StepDescriptionTalk to Sulley.
+r
+YRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_Step12_Possess02_StepDescriptionThe Wazowski Special.
+m
+YRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_Step12_Possess03_StepDescriptionSulley's Coffee.
+k
+HRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_StepDescriptionUse the coffee station to cook:
+≤
+IRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_StoryDescriptioneSulley asks you to prepare coffee for himself and Mike as they finish their plan. Just intern things!
+u
+PRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group11_Step14_ReadyDescription!Bring the coffees to {TargetNPC}.
+í
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group11_Step14_StepDescription?Make sure you have Mike and Sulley's coffees in your Inventory.
+y
+aRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group12_Step15_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+å
+IRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group12_StoryDescription?After bringing Mike and Sulley their coffees, they get to work.
+s
+[Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_Step16_BringItem03_StepDescriptionFind the {ItemName}.
+x
+PRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_Step16_ReadyDescription$Bring the {ItemName} to {TargetNPC}.
+ß
+IRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_StoryDescriptionZDue to a blown fuse, the Laugh Floor loses power and Mike gets trapped in the human world!
+d
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_Step17_StepDescriptionElectrical Panel.
+_
+ORealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_Step18_StepDescriptionPower Lines.
+ë
+HRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_StepDescriptionEFind and replace the fuses and correct the power flow to rescue Mike.
+ß
+IRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_StoryDescriptionZYou search the floor for power fuses to replace and repair the power lines to rescue Mike.
+y
+aRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group15_Step19_TalkToCharacter04_StepDescriptionTalk to {TargetNPC}.
+ñ
+IRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group15_StoryDescriptionIYou manage to repair the damage on the Laugh Floor and rescue Mike! Phew!
+î
+MRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_OngoingRequestButtonC<smallcaps>{title}</smallcaps><br>Can you remind me what I'm doing?
+Ç
+MRealm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?

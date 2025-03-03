@@ -1,0 +1,83 @@
+
+�
+?Story!Expansion01!MRQS_E01_190_UpperTemple_AvailableDescription�Чтобы глубже проникнуть в Древние Руины, вам нужно собраться на авантюрную вечеринку.
+r
+6Story!Expansion01!MRQS_E01_190_UpperTemple_DisplayName8Немного помощи от твоих друзей
+~
+WStory!Expansion01!MRQS_E01_190_UpperTemple_Group01_Step01_Conditional01_StepDescription#"Герой Пос"с Гастон.
+~
+WStory!Expansion01!MRQS_E01_190_UpperTemple_Group01_Step01_Conditional02_StepDescription#"Не вычисляет"с ЕВА.
+�
+WStory!Expansion01!MRQS_E01_190_UpperTemple_Group01_Step01_Conditional03_StepDescriptionB"Все правильные заметки"с Рапунцель.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group01_StepDescriptionhЗаполните следующие запросы, чтобы собрать вашу команду:
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group02_Step02_VisitArea01_StepDescriptionMВсе готовы, возвращайтесь в Древние Руины.
+k
+[Story!Expansion01!MRQS_E01_190_UpperTemple_Group03_Step03_TalkToCharacter01_StepDescription{TargetNPC}.
+k
+[Story!Expansion01!MRQS_E01_190_UpperTemple_Group03_Step03_TalkToCharacter02_StepDescription{TargetNPC}.
+k
+[Story!Expansion01!MRQS_E01_190_UpperTemple_Group03_Step03_TalkToCharacter03_StepDescription{TargetNPC}.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group03_StepDescription[Поговорите со своей командой внутри Древних Руин:
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group04_StepDescription^Познакомьтесь с ЕВА в Северной палате Древних Руин.
+f
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group05_StepDescription Поговори с {TargetNPC}.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group06_StepDescription_Найди способ восстановить власть в Древнем Консоле.
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group07_Step08_VisitArea08_StepDescription�Наденьте на пластину давления за Древним Консолем, чтобы восстановить энергию.
+r
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group08_StepDescription,Возвращайтесь на {TargetNPC}.
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group09_Step10_VisitArea03_StepDescription+Покинь Северную палату.
+�
+CStory!Expansion01!MRQS_E01_190_UpperTemple_Group09_StoryDescription�С помощью ЕВА ты подключаешь древний Консол, и теперь у тебя есть еще две проблемы.
+�
+[Story!Expansion01!MRQS_E01_190_UpperTemple_Group10_Step11_TalkToCharacter06_StepDescription>Поговори с Гастон в западном зале.
+�
+[Story!Expansion01!MRQS_E01_190_UpperTemple_Group10_Step11_TalkToCharacter07_StepDescriptionFПоговори с Рапунцель в Восточном зале.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group10_StepDescriptionbПосмотрите Гастон или Рапунцель по обе стороны храма:
+�
+IStory!Expansion01!MRQS_E01_190_UpperTemple_Group11_Step12_StepDescription�Удалить <ActivityItem>Rubble</ActivityItem> вокруг больших пьедесталов в западном зале.
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group12_Step13_VisitArea04_StepDescriptiondВозвращайтесь в Гастон в западной палате Древних Руин.
+�
+[Story!Expansion01!MRQS_E01_190_UpperTemple_Group13_Step14_TalkToCharacter08_StepDescription8Спроси, нужно ли ему что-то еще.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group13_StepDescriptionNГастон на пьедестале, но пока не работает...
+�
+IStory!Expansion01!MRQS_E01_190_UpperTemple_Group14_Step15_StepDescriptionDВыясни, куда поместить Сияющего Лефу.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group14_StepDescriptioniАктивировать нажимные пластины с обеих сторон помещения:
+�
+IStory!Expansion01!MRQS_E01_190_UpperTemple_Group15_Step16_StepDescriptionGПоставь себя на другое место за Гастон.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group15_StepDescriptioniАктивировать нажимные пластины с обеих сторон помещения:
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group16_Step17_VisitArea05_StepDescriptionlВозвращайтесь в Рапунцель в Восточную палату Древних Руин.
+�
+CStory!Expansion01!MRQS_E01_190_UpperTemple_Group16_StoryDescription�С помощью Гастон вы закончите второй вызов в западной палате. Остается только один вызов. Пора начать мюзикл.
+�
+[Story!Expansion01!MRQS_E01_190_UpperTemple_Group17_Step18_TalkToCharacter09_StepDescription'Поговори с Рапунцель.
+�
+IStory!Expansion01!MRQS_E01_190_UpperTemple_Group18_Step19_StepDescriptionFВыясните правильное расположение нот.
+�
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group18_StepDescription;Музыкальная стена активирована:
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group19_Step20_VisitArea10_StepDescription�Активировать нажимную пластину рядом с музыкальной стенкой, чтобы заполнить дуэт.
+y
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group20_StepDescription3Возвращайтесь на Рапунцель.
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group21_Step22_VisitArea06_StepDescriptionmПроникнуть через дверь ловушки в нижнюю часть Древних Руин.
+r
+BStory!Expansion01!MRQS_E01_190_UpperTemple_Group21_StepDescription,Дверь в ловушку открыта!
+�
+CStory!Expansion01!MRQS_E01_190_UpperTemple_Group21_StoryDescription�С помощью Рапунцель ты завершаешь испытание в Ист-Камере. Теперь ты должен пробежаться через дверь ловушки, глубже в Древние Руины. Для этого ты должен идти один.
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group22_Step23_VisitArea07_StepDescriptionNЧто-то только что повернуло угол впереди...?
+�
+UStory!Expansion01!MRQS_E01_190_UpperTemple_Group23_Step24_VisitArea11_StepDescriptioneАктивируйте последнюю табличку рядом с дверью ловушки.

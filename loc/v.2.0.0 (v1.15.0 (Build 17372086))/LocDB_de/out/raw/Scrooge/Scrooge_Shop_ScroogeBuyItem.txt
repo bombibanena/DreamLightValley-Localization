@@ -1,0 +1,21 @@
+TAG: Scrooge_000_f
+Looking at this item, are ya? <ActivityItem>{ItemName}!</ActivityItem> A fine acquisition for someone of good taste.
+
+TAG: Player_000_choice_000_f
+Buy it for {Price} <sprite="iconCurrencySoft" index=0>.
+
+TAG: Player_000_choice_001_f
+I'll come back later...
+
+TAG: Scrooge_002_f
+It's all yours. And a very wise investment indeed.
+
+TAG: Scrooge_003_f
+Aye, but remember: My stock isn't always the same.
+
+TAG: Scrooge_005_f
+According to my catalog, this item is currently valued at {Price} <sprite name=StarCoin>...
+
+TAG: Scrooge_004_f
+And according to my records, you don't have the funds to purchase it, {PlayerName}. Come back when you do and I'll be happy to help.
+

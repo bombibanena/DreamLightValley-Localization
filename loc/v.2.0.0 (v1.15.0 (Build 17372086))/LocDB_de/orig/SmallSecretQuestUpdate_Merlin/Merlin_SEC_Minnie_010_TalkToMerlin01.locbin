@@ -1,0 +1,31 @@
+
+b
+Merlin_000_fRAh, {PlayerName}. I believe I know precisely why you've come to speak to me today.
+~
+Merlin_001_fnIt's Minnie, isn't it? She's gotten herself in quite a jumble, worrying she might disappear again, hasn't she?
+I
+Player_000_f9It's Minnie, all right. She asked me to come talk to you.
+5
+Player_000_choice_000_fWe need a wizard for this.
+9
+Player_000_choice_001_fShe didn't want to bother you.
+@
+Player_000_choice_002_f%You know. Since you're Mr. Magic Guy.
+V
+Merlin_002_fFHmm, well, yes, I... uh... I suppose you do, for matters such as this.
+F
+Merlin_003_f6Is there anything in your magic books that might help?
+Ö
+Merlin_004_fuActually, I've given it quite a lot of careful thought, and I think I know precisely how we can fix this predicament.
+°
+Merlin_005_fêWe'll use the most powerful kind of magic there is. First, you'll need to speak to some Villagers and ask them what they like best about Minnie.
+M
+Merlin_006_f=Hmm... maybe I should <Lore>ask Elsa, Anna, and Moana.</Lore>
+ó
+Merlin_007_fÜAnd listen closely ‚Äî this part is key. Once you've spoken to them, you must bring me some <ActivityItem>Dream Shards</ActivityItem>.
+h
+Merlin_008_fXWith all that, we can sort out Minnie's dilemma... or at least, I very much hope we can.
+[
+Merlin_009_fKNonsense. She could never be a bother. I'm happy to assist in such matters.
+Y
+Merlin_010_fIEr, thank you... I suppose. Though I'm not terribly fond of that moniker.

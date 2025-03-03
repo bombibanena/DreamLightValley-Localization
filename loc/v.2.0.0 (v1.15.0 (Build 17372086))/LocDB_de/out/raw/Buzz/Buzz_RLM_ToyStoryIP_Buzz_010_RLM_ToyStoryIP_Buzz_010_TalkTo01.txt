@@ -1,0 +1,63 @@
+TAG: Buzz_000_f
+Excellent surveillance work, {PlayerName}. Now we can recreate Bonnie's farm exactly how she wants it.
+
+TAG: Buzz_013_f
+Er... no. Dreamlight Valley is...
+
+TAG: Player_000_choice_000_f
+...a new place for you to explore.
+
+TAG: Player_000_choice_001_f
+...a place where toys never get put in the attic.
+
+TAG: Player_000_choice_002_f
+...the most amazing Village in the whole quadrant.
+
+TAG: Buzz_006_f
+Let's see... Yep, Bonnie has big dreams for this little settlement.
+
+TAG: Buzz_007_f
+Her drawings are quite detailed... Of course, we could add a... No, it would never work.
+
+TAG: Buzz_008_f
+What wouldn't work?
+
+TAG: Buzz_009_f
+I was just thinking, we could improve on this design. But we'd need materials we won't find here in Bonnie's room.
+
+TAG: Buzz_001_f
+Some flowers... perhaps an adhesive bonding agent...
+
+TAG: Buzz_010_f
+I think I know where you could find all that. Come with me to Dreamlight Valley.
+
+TAG: Buzz_011_f
+Dreamlight Valley? Is that some sort of expensive playset?
+
+TAG: Buzz_012_f
+Or a themed family eatery like Pizza Planet?
+
+TAG: Buzz_016_f
+Really? Well, if you think it'll have the materials we need to help Bonnie...
+
+TAG: Buzz_017_f
+...then I suppose I ought to visit. Go on a recon mission.
+
+TAG: Buzz_018_f
+Just wait here. I'll get a special command ship set up for you in the Village. A REAL command ship.
+
+TAG: Buzz_019_f
+A REAL ship...? Like in the animated short films Bonnie watches? Will it have a hyperdrive?
+
+TAG: Player_001_choice_000_f
+It'll have... uh... a hyper-active hyperdrive.
+
+TAG: Player_001_choice_001_f
+Um... no. Sorry. I don't know what that is.
+
+TAG: Buzz_020_f
+Then I can't wait to see it.
+
+TAG: Buzz_021_f
+I understand. It... uh... it may just be part of the Star Command story.
+

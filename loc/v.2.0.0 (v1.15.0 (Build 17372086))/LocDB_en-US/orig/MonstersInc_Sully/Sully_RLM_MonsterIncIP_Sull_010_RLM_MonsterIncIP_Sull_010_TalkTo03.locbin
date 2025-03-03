@@ -1,0 +1,47 @@
+
+B
+Sully_000_f3Okay, stay calm! It's only a... small... emergency!
+J
+Sully_003_f;The door powered down, and Mike's stuck in the human world!
+6
+Player_000_choice_000_fDon't panic. What do we do?
+8
+Player_000_choice_001_fIs it time to freak out now?!
+R
+Player_000_choice_002_f7The way he was talking, it seems like he can handle it.
+3
+Sully_005_f$You're right. Mike's countin' on us.
+g
+Sully_007_fXSince this is an emergency... we need the <ActivityItem>Emergency Manual</ActivityItem>.
+”
+Sully_010_f„MIFT usually keeps a copy of the <ActivityItem>Emergency Manual</ActivityItem> somewhere on each Laugh Floor. I need you to find it.
+)
+Player_001_choice_000_fWhat's a MIFT?
+=
+Player_001_choice_001_f"Why do you think Mike's in danger?
+<
+Player_001_choice_002_f!I'll find that manual right away!
+F
+Sully_013_f7Oh, MIFT is the Monsters, Incorporated Facilities Team.
+A
+Sully_001_f2They make sure everything here's in top condition.
+`
+Sully_015_fQIt breaks? They fix it. But they're not here, so we need their manual to help us!
+]
+Sully_012_fNThe longer Mike's behind that door, the higher the chance he'll be discovered.
+s
+Sully_017_fdWhich could mean humans finding out about the monster world, which could then lead to a catastrophe!
+M
+Sully_011_f>He'll be the next Sasquatch, or Nessie, or Abominable Snowman!
+k
+Sully_018_f\Oh boy, I have gotta stop running worst-case scenarios and focus on getting him outta there.
+\
+Sully_014_fMGreat! I'm gonna check out the electrical panel, see if I can get it working.
+N
+Sully_002_f?Remember: You're looking for the <Lore>Emergency Manual</Lore>!
+I
+Sully_004_f:Yes! I mean â€” no! No... We just have to figure this out.
+†
+Sully_006_fwWhat can I say? Mike's a genius Jokester, and he's not shy about it. But this has nothin' to do with collecting laughs.
+/
+Sully_009_f We have to get him out of there!

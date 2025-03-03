@@ -1,0 +1,51 @@
+TAG: Ursula_000_f
+So... do you have anything to say for yourself?
+
+TAG: Ursula_001_f
+Why angelfish, this was all just an unfortunate misunderstanding!
+
+TAG: Player_000_choice_000_f
+Don't you angelfish me!
+
+TAG: Player_000_choice_001_f
+Oh, do tell.
+
+TAG: Player_000_choice_002_f
+I don't believe that for an instant.
+
+TAG: Ursula_002_f
+We are way past pet names now.
+
+TAG: Ursula_007_f
+This is low, even for you, Ursula.
+
+TAG: Ursula_008_f
+Sally really thought that she could be friends with you, and you just threw that away for a shot at a scheme.
+
+TAG: Ursula_009_f
+When's the last time someone actually wanted to be real friends with you?
+
+TAG: Ursula_010_f
+I... it was an opportunity I couldn't pass up. If it helps, I was never going to overthrow YOU. I just wanted more influence in the Valley.
+
+TAG: Ursula_011_f
+You should have said so. But, you picked schemes over friendship, and now you have neither.
+
+TAG: Ursula_012_f
+You're going to have to live with the consequences of that choice.
+
+TAG: Ursula_013_f
+Yes, that much is clear...
+
+TAG: Ursula_003_f
+I was... merely trying to help Mickey and Scrooge.
+
+TAG: Ursula_004_f
+There's a sickness going around, and my potion would have healed them!
+
+TAG: Ursula_006_f
+That is a complete lie.
+
+TAG: Ursula_005_f
+... Well, it was worth a shot.
+

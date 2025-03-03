@@ -1,0 +1,33 @@
+TAG: Lorekeeper_000_f
+{PlayerName}...?
+
+TAG: Lorekeeper_002_f
+Ты ответил на мой звонок...
+
+TAG: Lorekeeper_003_f
+Наконец-то... ты оставшаяся надежда Долины...*Кашляй.*
+
+TAG: Player_000_choice_000_f
+Мне нужно знать больше, смогу ли я тебе помочь.
+
+TAG: Player_000_choice_001_f
+Ты в порядке?
+
+TAG: Player_000_choice_002_f
+Извини, я привык читать книги, а не разговаривать с ними.
+
+TAG: Lorekeeper_004_f
+У нас не так много времени.
+
+TAG: Lorekeeper_005_f
+Вы должны <Lore>fined the Royal Net</Lore> и использовать его!
+
+TAG: Lorekeeper_006_f
+Royal Net... это <Lore>hidden в этой камере</Lore>, ниже...
+
+TAG: Lorekeeper_007_f
+Он спрятан под...
+
+TAG: Lorekeeper_008_f
+...сверчок...
+

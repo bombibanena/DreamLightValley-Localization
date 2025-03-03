@@ -1,0 +1,30 @@
+TAG: Story!MRQS130_LightInTheDark_AvailableDescription
+Похоже, долина Мечты разваливается на швы. Вам нужно найти способ добраться до забытого и остановить это. Возможно, Мерлин имеет некоторые идеи.
+
+TAG: Story!MRQS130_LightInTheDark_DisplayName
+The Forgotten Реликвы
+
+TAG: Story!MRQS130_LightInTheDark_Group01_Step01_FollowCharacter01_StepDescription
+Следуйте за Мерлин до дома Микки Маус.
+
+TAG: Story!MRQS130_LightInTheDark_Group01_Step01_FollowCharacter01_TalkToDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS130_LightInTheDark_Group02_Step02_StepDescription
+Мерлин уже должно быть проведено расследование...
+
+TAG: Story!MRQS130_LightInTheDark_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS130_LightInTheDark_Group03_Step03_VisitArea01_StepDescription
+Входите в дом Микки Маус.
+
+TAG: Story!MRQS130_LightInTheDark_Group04_Step04_Possess01_StepDescription
+Обыщите дом Микки Маус, чтобы найти что-то, забытое Тёмной Магией Забытых.
+
+TAG: Story!MRQS130_LightInTheDark_Group05_StepDescription
+Возьмите <ActivityItem>Forked Storybook</ActivityItem> на Мерлин.
+
+TAG: Story!MRQS130_LightInTheDark_Group06_Step06_StepDescription
+Поиск <ActivityItem>Forked Relicts</ActivityItem> вокруг деревни и разоблачение истории за ними.
+

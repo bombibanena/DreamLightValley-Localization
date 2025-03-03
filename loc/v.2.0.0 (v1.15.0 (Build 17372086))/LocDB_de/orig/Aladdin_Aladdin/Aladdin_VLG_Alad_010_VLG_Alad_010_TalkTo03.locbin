@@ -1,0 +1,39 @@
+
+>
+Aladdin_001_f-Whoa. That's different. And a little intense.
+;
+Player_000_choice_000_f We can figure this out together!
+;
+Player_000_choice_001_f What did we get ourselves into?!
+D
+Player_000_choice_002_f)Mr. McDuck's security isn't ready for us.
+*
+Aladdin_003_fYeah. Sure. You're right.
+Z
+Aladdin_005_fILet's look around and see what we're dealing with. What jumps out at you?
+"
+Player_001_choice_000_fLights.
+#
+Player_001_choice_001_fButtons.
+7
+Player_001_choice_002_fI'll figure it out as we go!
+V
+Aladdin_007_fEYou're right. There are new <Lore>lights shining in big pools</Lore>.
+N
+Aladdin_008_f=Something tells me we <Lore>need to stay out of those</Lore>.
+L
+Aladdin_006_f;Right. Buttons like the one on the wall beside the counter.
+k
+Aladdin_009_fZThat button started the system. Wonder <Lore>what these ones will start... or stop</Lore>.
+%
+Aladdin_010_fOkay, let's jump in!
+U
+Aladdin_011_fDWe have to <Lore>make it to the vault without getting caught</Lore>.
+E
+Aladdin_012_f4Just need to be careful, go slow, and take our time.
+ù
+Aladdin_000_fãWhy don't ya try <Lore>pushing that button on the table over there</Lore> to see what it does? I'll keep watch. I don't want any surprises.
+c
+Aladdin_002_fRDon't panic, {PlayerName}. We just need to stay alert, and we'll get through this.
+=
+Aladdin_004_f,That's right. I know we can figure this out.

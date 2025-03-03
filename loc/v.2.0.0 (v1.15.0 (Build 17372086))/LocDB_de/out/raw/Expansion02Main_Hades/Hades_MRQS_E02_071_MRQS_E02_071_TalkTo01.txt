@@ -1,0 +1,147 @@
+TAG: Hades_001_f
+Finally! What's a god gotta do to get some decent service around here?!
+
+TAG: Player_000_choice_000_f
+Is there something you need help with?
+
+TAG: Player_000_choice_001_f
+Whoa! Hades?!
+
+TAG: Player_000_choice_002_f
+Hey! I'm not your employee, you know.
+
+TAG: Hades_005_f
+Help? Whoa, whoa, whoa. That makes it sound like I couldn't handle it myself.
+
+TAG: Hades_025_f
+Let's get this straight... I don't NEED help. I just EXPECT the respect I oh-so-deservedly deserve.
+
+TAG: Hades_026_f
+Look, I don't wanna brag but I'm sort of a big deal around here.
+
+TAG: Hades_003_f
+Name's Hades, lord of the dead. Hi. How ya doin'?
+
+TAG: Player_001_choice_000_f
+How did you get here?
+
+TAG: Player_001_choice_001_f
+Are you stuck here...?
+
+TAG: Player_001_choice_002_f
+What's your whole deal?
+
+TAG: Player_001_choice_003_f
+I need you to stop feuding with Maleficent.
+
+TAG: Player_001_choice_004_f
+What exactly do you need me to do?
+
+TAG: Hades_010_f
+Well, it's pretty simple really. I was lounging up on Mount Olympus, ruling over my part of the cosmos, minding my own business...
+
+TAG: Hades_011_f
+...when all this ink started shooting up out of the ground!
+
+TAG: Hades_012_f
+Then everything started rumbling and BAM â I'm here, in this place! Wherever here is...
+
+TAG: Hades_047_f
+What exactly do you need me to do?
+
+TAG: Hades_041_f
+See this cart?
+
+TAG: Hades_042_f
+Help me get it across. It's got a bunch of <ActivityItem>Vases</ActivityItem> in it that are gonna look great around Mount Olympus.
+
+TAG: Hades_043_f
+But let's face it: Right now, this place is a monumental mess. I mean, look at all this stuff in the way!
+
+TAG: Player_003_choice_000_f
+I'm on it!
+
+TAG: Player_003_choice_001_f
+You're doing all this for some fancy-looking vases?
+
+TAG: Hades_045_f
+I like your attitude.
+
+TAG: Hades_034_f
+Normally, I'd send Pain and Panic to do my pilfering and plundering, but I've got no idea what rock those worms are hiding under.
+
+TAG: Hades_044_f
+And even if they were here, I've got no ferryman to get everything across for me!
+
+TAG: Hades_035_f
+I'm tellin' ya, it is so hard to find good help these days.
+
+TAG: Hades_023_f
+So, uh, why don't you start by <Lore>giving this cart a little push</Lore>? Hope that's not TOO complicated for ya.
+
+TAG: Hades_046_f
+Trust me. Those, ahem... "fancy-lookin' " vases are really gonna tie the place together. It's a whole theme I've been workin' on.
+
+TAG: Hades_027_f
+Whoa, what? Stuck? No, no, no. You've got it all wrong.
+
+TAG: Hades_028_f
+I COULD leave anytime I want. I just don't WANT to at this particular moment.
+
+TAG: Player_002_choice_001_f
+Why don't you want to leave?
+
+TAG: Player_002_choice_002_f
+You're TOTALLY stuck down here.
+
+TAG: Hades_029_f
+Because there's something down here I want.
+
+TAG: Hades_039_f
+And the second I get it, I'll leave, crush Maleficent, take my rightful place as ruler of the Vale...
+
+TAG: Hades_040_f
+...then, I don't know, maybe a nap, a nice dinner. It's gonna be a full day!
+
+TAG: Hades_030_f
+Once again, I AM NOT STUCK! There's something down here I want!
+
+TAG: Hades_015_f
+My whole deal? What do you want, my resume?
+
+TAG: Hades_031_f
+I told you. I'm Hades. God of the dead, Underworld, what have you. Soon-to-be ruler of the Storybook Vale.
+
+TAG: Hades_032_f
+Seriously, what else do you wanna know? If I like long walks on the beach?
+
+TAG: Hades_016_f
+Maleficent? Hold on. Do not get me started on Maleficent!
+
+TAG: Hades_017_f
+People say I'M a control freak! I've got nothin' on Miss Mistress of All Evil over there.
+
+TAG: Hades_018_f
+It's your feud that's causing all these problems.
+
+TAG: Hades_019_f
+Okay, okay, I can see you've got an agenda. Whaddaya say we try a little trade-off here?
+
+TAG: Hades_020_f
+You scratch my back, I scratch yours.
+
+TAG: Hades_021_f
+See, you help me with something, and then I'll hear you out about the whole Maleficent situation. Sound good?
+
+TAG: Hades_006_f
+So you've heard of me. Good. Saves me some time.
+
+TAG: Hades_007_f
+That's good. Because if you were...
+
+TAG: Hades_008_f
+...YOU'D BE FIRED!
+
+TAG: Hades_009_f
+Okay, okay, let's start over here.
+

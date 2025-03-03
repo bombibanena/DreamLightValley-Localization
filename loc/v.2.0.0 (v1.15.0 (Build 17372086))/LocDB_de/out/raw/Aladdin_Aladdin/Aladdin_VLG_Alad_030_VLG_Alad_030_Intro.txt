@@ -1,0 +1,66 @@
+TAG: Aladdin_000_f
+{PlayerName}, am I glad to see you! I could really use your help making an unforgettable gift for Jasmine.
+
+TAG: Player_000_choice_000_f
+Tell me how I can help!
+
+TAG: Player_000_choice_001_f
+I'm a little busy...
+
+TAG: Aladdin_002_f
+Well, I'm making Jasmine a bouquet.
+
+TAG: Aladdin_004_f
+She loves flowers and studying botany. The palace garden is one of her favorite places back home.
+
+TAG: Aladdin_003_f
+I've picked some already, but I need a few more. I want to impress her with something even more beautiful than what they have at the palace.
+
+TAG: Player_001_choice_000_f
+Let's pick some flowers for Jasmine!
+
+TAG: Player_001_choice_001_f
+You have a bunch. How many more do you need?
+
+TAG: Aladdin_005_f
+Thanks, {PlayerName}! I knew I could count on you.
+
+TAG: Aladdin_006_f
+I know it sounds a little... much, but Jasmine grew up surrounded by so many beautiful things.
+
+TAG: Aladdin_007_f
+She doesn't NEED to be impressed, but I still wanna impress her...
+
+TAG: Aladdin_008_f
+Does that make sense?
+
+TAG: Player_002_choice_000_f
+Makes perfect sense!
+
+TAG: Player_002_choice_001_f
+You're adorable.
+
+TAG: Player_002_choice_002_f
+I was just teasing!
+
+TAG: Aladdin_010_f
+Phew! Okay, let's <Lore>pick some flowers</Lore>.
+
+TAG: Aladdin_009_f
+What? No, I'm just trying to do something nice for Jasmine.
+
+TAG: Aladdin_012_f
+And that's ADORABLE. Let's <Lore>pick some flowers</Lore>.
+
+TAG: Aladdin_011_f
+Oh, ha! Of course.
+
+TAG: Aladdin_014_f
+I'll help you out, Aladdin.
+
+TAG: Aladdin_013_f
+Thanks, {PlayerName}! I knew I could count on you.
+
+TAG: Aladdin_001_f
+I get it. But hey, let's talk when you have a moment, okay?
+

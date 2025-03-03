@@ -1,0 +1,25 @@
+
+m
+
+Remy_003_f_Are you sure you want to turn good ingredients into a disgusting slush? It'd be such a waste...
+;
+Player_000_choice_000_f It's the only way to help Ariel.
+5
+Player_000_choice_001_fLook at it as a challenge.
+-
+Player_000_choice_002_fDon't question me.
+'
+
+Remy_004_fThen of course I'll help.
+É
+
+Remy_001_fºI'm thinking <ActivityItem>Lancetfish</ActivityItem>, <ActivityItem>Crab</ActivityItem>, <ActivityItem>Garlic</ActivityItem>, and <ActivityItem>Onions</ActivityItem> for the Ingredients.
+[
+
+Remy_002_fMIf you can bring me those, I'll prepare a meal no ocean scavenger can resist.
+^
+
+Remy_005_fPI guess you're right. I've never tried to please the palate of a mollusk before.
+|
+
+Remy_006_fnFine, {PlayerName}. Somebody's touchy today. Just don't try to eat it. I don't think it'll be safe for humans.

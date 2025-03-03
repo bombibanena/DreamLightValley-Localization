@@ -1,0 +1,36 @@
+TAG: Beast_000_f
+{PlayerName}. You talk to people. Often.
+
+TAG: Beast_001_f
+You're very good at it. How did you learn?
+
+TAG: Player_000_choice_000_f
+Practice.
+
+TAG: Player_000_choice_001_f
+It comes naturally.
+
+TAG: Player_000_choice_002_f
+Am I good at it?
+
+TAG: Player_000_choice_003_f
+I always worry about what I'm going to say.
+
+TAG: Beast_002_f
+Hrmph, I suppose I shouldn't have expected an easy answer...
+
+TAG: Beast_003_f
+Just keep at it!
+
+TAG: Beast_004_f
+You'll find you get more comfortable the more people you meet.
+
+TAG: Beast_005_f
+You're very lucky.
+
+TAG: Beast_006_f
+Yes. And everyone likes you.
+
+TAG: Beast_007_f
+I would not have thought that to be true.
+

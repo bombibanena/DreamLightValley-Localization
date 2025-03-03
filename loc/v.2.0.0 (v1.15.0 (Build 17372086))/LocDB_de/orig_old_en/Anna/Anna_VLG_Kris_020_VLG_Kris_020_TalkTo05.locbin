@@ -1,0 +1,43 @@
+
+P
+
+Anna_006_fBHey, Anna, I've got kind of a weird thing I need to ask you for...
+c
+
+Anna_007_fUMe and Elsa are trying to cast this spell. A spell to bring Kristoff's memories back.
+1
+
+Anna_008_f#If it'll help Kristoff, I'll do it!
+*
+
+Anna_009_fWe need a lock of your hair.
+3
+Player_000_choice_000_fSo get out the scissors.
+J
+Player_000_choice_001_f/You choose: scissors, clippers, a paring knife.
+7
+Player_000_choice_002_fWould you like me to cut it?
+{
+
+Anna_010_fmBut are you sure you just need a lock? I'd be happy to give you as much as you need. I can always wear a hat!
+B
+
+Anna_002_f4What I'm saying is... I'll do anything for Kristoff.
+;
+
+Anna_005_f-Just a small piece will be enough. I promise.
+ 
+
+Anna_004_fOkay, here goes...
+4
+
+Anna_003_f&There. I put it in this flask for you.
+,
+
+Anna_013_fThanks, Anna. I hope it works.
+/
+
+Anna_011_f!I think I'll stick with scissors.
+0
+
+Anna_012_f"No, that's all right. I can do it.

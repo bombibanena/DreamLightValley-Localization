@@ -1,0 +1,53 @@
+
+Q
+MotherGothel_000_f;Hey, Mother Gothel... you and I need to have a little chat.
+f
+MotherGothel_001_fPWhat is it, dear? Come to compliment me on my brilliant wit and beguiling charm?
+V
+MotherGothel_002_f@No. I wanted to talk to you about what you did to the Forgotten.
+W
+MotherGothel_003_fAOh, this isn't about that little curse, is it? That was ages ago.
+I
+MotherGothel_004_f3Really, the two of you MUST learn to let things go.
+5
+Player_000_choice_000_fWhat you did was not okay.
+G
+Player_000_choice_001_f,I'm giving you a chance to make this better.
+†
+MotherGothel_005_fpActually, when you think about it, I was the only one looking out for the Forgotten. I wanted to keep them safe!
+:
+MotherGothel_014_f$They need a good rhyme for "told"...
+^
+MotherGothel_015_fHAll right. But first, tell me... why did you come to me with this verse?
+R
+MotherGothel_016_f<It's about being afraid of getting older, so I thoughtÃ¢Â€Â”
+…
+MotherGothel_017_foMe? Afraid of something as inconsequential as that. Oh darling, don't be ridiculous. I never give it a thought.
+£
+MotherGothel_018_fŒYou tell the Forgotten that time passes. But it's how you spend the time that matters! Simply do all that's possible to look after yourself.
+Ž
+MotherGothel_019_fxThere's nothing magical about it. Of course, it does help to be devastatingly charming. After all, charm never gets old.
+Q
+MotherGothel_020_f;Wait... Mother Gothel... that's it! That's a perfect rhyme!
+M
+MotherGothel_021_f7<Lore>I've never been one to do what I'm told...</Lore>
+S
+MotherGothel_022_f=<Lore>I'll care for myself. Charm will never grow old!</Lore>
+?
+MotherGothel_023_f)... Of course it's perfect. It's from me!
+]
+MotherGothel_006_fGNot buying it. But there's one way you can make it up to the Forgotten.
+/
+MotherGothel_007_fFine. Tell me what it is.
+@
+MotherGothel_008_f*The Forgotten needs help with some poetry.
+2
+MotherGothel_009_fWell, why didn't you say so?
+A
+MotherGothel_010_f+The Forgotten needs help with this verse...
+X
+MotherGothel_011_fB<Lore>As I watch the clock tick and the sun rise and set...</Lore>
+M
+MotherGothel_012_f7<Lore>I fear what I love, I am doomed to forget.</Lore>
+Q
+MotherGothel_013_f;<Lore>But I've never been one to do what I'm told...</Lore>

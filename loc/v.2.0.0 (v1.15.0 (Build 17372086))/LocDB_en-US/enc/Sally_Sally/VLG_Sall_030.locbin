@@ -1,0 +1,108 @@
+
+à
+DVillage!Nightmare!Sally!VLG_Sall_030_Any_CompletedRequestDescription@The quilt party was a success! Talk to Sally to see how it went.
+à
+9Village!Nightmare!Sally!VLG_Sall_030_AvailableDescriptionKSally wants to get a little crafty in the Village, and she needs your help.
+™
+>Village!Nightmare!Sally!VLG_Sall_030_CompletedStoryDescriptionhWith the quilt complete, you celebrate its creation and all the memories with Sally and other Villagers.
+C
+0Village!Nightmare!Sally!VLG_Sall_030_DisplayNamePatchwork Party
+ú
+UVillage!Nightmare!Sally!VLG_Sall_030_Group01_Step01_TalkToCharacter01_StepDescriptionCAsk {TargetNPC} about collaborating on a sewing project with Sally.
+«
+=Village!Nightmare!Sally!VLG_Sall_030_Group01_StoryDescriptionÖSally says she's looking for a new sewing project. You tell her you'll see if she might be able to collaborate with Daisy and Minnie.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem01_StepDescription{ItemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem02_StepDescription{ItemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem03_StepDescription{ItemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem04_StepDescription{ItemName}.
+ú
+DVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_ReadyDescriptionTBring the materials to Sally so she can help with Daisy and Minnie's newest project.
+Ç
+CVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_StepDescription;Gather the materials for Daisy and Minnie's newest project:
+l
+OVillage!Nightmare!Sally!VLG_Sall_030_Group03_Step03_VisitArea01_StepDescriptionGo inside Minnie's House.
+Ä
+LVillage!Nightmare!Sally!VLG_Sall_030_Group04_Step04_Listen01_StepDescription0Listen to Sally and Daisy inside Minnie's House.
+Ñ
+UVillage!Nightmare!Sally!VLG_Sall_030_Group05_Step05_TalkToCharacter02_StepDescription+Talk to {TargetNPC} about a sewing project.
+x
+UVillage!Nightmare!Sally!VLG_Sall_030_Group05_Step06_TalkToCharacter03_StepDescription(Optional) Talk to {TargetNPC}.
+x
+UVillage!Nightmare!Sally!VLG_Sall_030_Group05_Step06_TalkToCharacter04_StepDescription(Optional) Talk to {TargetNPC}.
+m
+UVillage!Nightmare!Sally!VLG_Sall_030_Group06_Step07_TalkToCharacter05_StepDescriptionTalk to {TargetNPC}.
+Ü
+=Village!Nightmare!Sally!VLG_Sall_030_Group06_StoryDescriptionƒAfter gathering supplies, you, Daisy and Sally agree that their tastes are VASTLY different. Sally wants to find a new collaborator. You agree to talk to the Fairy Godmother about a group project.
+ù
+MVillage!Nightmare!Sally!VLG_Sall_030_Group07_Step08_Possess01_StepDescriptionLFish an <ActivityItem>Ancient Crystal</ActivityItem> from the Mystical Cave.
+Ç
+CVillage!Nightmare!Sally!VLG_Sall_030_Group07_Step08_StepDescription;Collect and create memorabilia from your Valley adventures:
+î
+MVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_Possess02_StepDescriptionCFind a <ActivityItem>Feather</ActivityItem> in the Forest of Valor.
+±
+MVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_Possess03_StepDescription`Find a <ActivityItem>Snowman's Nose</ActivityItem> in a cavernous region in the Frosted Heights.
+ñ
+MVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_Possess04_StepDescriptionEFind a <ActivityItem>Storybook</ActivityItem> in the Forgotten Lands.
+Ç
+CVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_StepDescription;Collect and create memorabilia from your Valley adventures:
+]
+MVillage!Nightmare!Sally!VLG_Sall_030_Group09_Step10_Possess05_StepDescriptionFruit Salad.
+[
+MVillage!Nightmare!Sally!VLG_Sall_030_Group09_Step10_Possess06_StepDescription
+Root Beer.
+~
+CVillage!Nightmare!Sally!VLG_Sall_030_Group09_Step10_StepDescription7Cook to create memorabilia from your Valley adventures:
+y
+OVillage!Nightmare!Sally!VLG_Sall_030_Group10_Step11_VisitArea02_StepDescription&Go inside the Fairy Godmother's House.
+Ï
+=Village!Nightmare!Sally!VLG_Sall_030_Group10_StoryDescription™The Fairy Godmother and Sally want to make a <ActivityItem>Dreamlight Memory Quilt</ActivityItem> and ask you to collect memorabilia so they can magically create patches.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem05_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem06_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem07_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem08_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem09_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem10_StepDescription{itemName}.
+h
+DVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_ReadyDescription Bring everything to {TargetNPC}.
+Ä
+CVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_StepDescription9Make sure you have the following items in your Inventory:
+x
+CVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_StepDescription1Ask Villagers about their favorite food memories:
+e
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter06_StepDescription{TargetNPC}.
+e
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter07_StepDescription{TargetNPC}.
+e
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter08_StepDescription{TargetNPC}.
+e
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter09_StepDescription{TargetNPC}.
+ø
+=Village!Nightmare!Sally!VLG_Sall_030_Group12_StoryDescription~After collecting the memorabilia for the quilt, you ask other Villagers about their favorite food memories for a launch party.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem11_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem12_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem13_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem14_StepDescription{itemName}.
+y
+DVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_ReadyDescription1Bring your Dreamlight memorabilia to {TargetNPC}.
+`
+CVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_StepDescriptionCook the following meals:
+~
+NVillage!Nightmare!Sally!VLG_Sall_030_Group14_Step15_Decorate01_StepDescription,Place the {itemName} anywhere in the Valley.
+£
+KVillage!Nightmare!Sally!VLG_Sall_030_Group15_Step16_Party01_StepDescriptionTCelebrate the <ActivityItem>Dreamlight Memory Quilt</ActivityItem> with the Village.
+h
+7Village!Nightmare!Sally!VLG_Sall_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

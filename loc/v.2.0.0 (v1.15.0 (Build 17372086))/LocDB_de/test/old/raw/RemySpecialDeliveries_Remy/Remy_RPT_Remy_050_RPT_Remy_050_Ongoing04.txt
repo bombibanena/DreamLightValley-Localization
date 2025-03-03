@@ -1,0 +1,15 @@
+TAG: Remy_001_f
+Ты уже смог помочь Крёстной Феи?
+
+TAG: Remy_002_f
+Она устраивает тыквенную вечеринку. <ActivityItem>Pumpkin Puffs</ActivityItem> и <ActivityItem>Pumpkin Soup</ActivityItem> должны накормить всех.
+
+TAG: Remy_003_f
+Похоже, ты уже всё приготовила, а теперь просто должна доставить.
+
+TAG: Remy_005_f
+Она заказала сказочную еду <ActivityItem>Dream Fizz</ActivityItem> и <ActivityItem>Dream Ice Cream</ActivityItem>.
+
+TAG: Remy_006_f
+Она хотела <ActivityItem>Desserts</ActivityItem>. Может быть, она наконец-то лечит себя чем-то хорошим...?
+

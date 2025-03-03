@@ -1,0 +1,84 @@
+TAG: Village!Frozen!Anna!VLG_Anna_020_Any_CompletedRequestDescription
+See how Anna feels.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_AvailableDescription
+Anna is upset about Kristoff's memories and desperate to find some way to restore them.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_CompletedStoryDescription
+Kristoff's memories are starting to come back thanks to you and Anna!
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_DisplayName
+Lost Loves and Missing Memories
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group01_OngoingRequestButton
+What should we do?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group01_Step01_Listen01_StepDescription
+Listen as Anna talks to Kristoff.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group02_OngoingRequestButton
+What should we do next?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Anna.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group02_StoryDescription
+Kristoff's memories of Anna are still not coming back. She asks for your help.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_OngoingRequestButton
+What's next?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_Step03_BringItem01_StepDescription
+Look for <ActivityItem>Kristoff's Climbing Gear</ActivityItem> on Dazzle Beach near the cliffs.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_Step03_ReadyDescription
+Bring <ActivityItem>Kristoff's Climbing Gear</ActivityItem> to Anna.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_StoryDescription
+You decide to find Kristoff's old climbing gear to see if that jogs his memory.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_OngoingRequestButton
+How can I help?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_StepDescription
+Gather the materials to fix <ActivityItem>Kristoff's Climbing Gear</ActivityItem>:
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group05_OngoingRequestButton
+What's next?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group05_Step05_CraftItem01_StepDescription
+Repair {itemName} at a Crafting Station.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group06_OngoingRequestButton
+How can I help?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group06_Step06_BringItem02_StepDescription
+Make sure you have {ItemName} in your Backpack.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group06_Step06_ReadyDescription
+Bring {ItemName} to Anna.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group07_OngoingRequestButton
+What do we do?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group07_Step07_Listen02_StepDescription
+Listen as Anna gives Kristoff his climbing gear.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group07_StoryDescription
+By showing him his climbing gear, you've begun to help Kristoff recover his lost memories.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_StartRequestButton
+What can I do for you?
+

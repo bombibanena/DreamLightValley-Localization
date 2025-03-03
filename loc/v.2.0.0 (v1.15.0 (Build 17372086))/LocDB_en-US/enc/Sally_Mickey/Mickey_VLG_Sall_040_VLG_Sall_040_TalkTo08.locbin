@@ -1,0 +1,35 @@
+
+/
+Mickey_001_fHiya, {PlayerName}! How are ya?
+X
+Mickey_002_fHWell, I'm actually coming to talk to you about something rather serious.
+)
+Mickey_003_fUh-oh. What's the matter?
+M
+Mickey_004_f=Well... have you been in contact with Ursula at all recently?
+d
+Mickey_005_fTActually, I have! It was kinda odd. She said she was getting a present ready for me.
+'
+Player_000_choice_000_fIt's a trap!
+G
+Player_000_choice_001_f,I'd stay away from her for the time being...
+C
+Player_000_choice_002_f(Do you know anything about this present?
+
+Mickey_006_fAre ya sure?
+}
+Mickey_009_fmI'm gonna level with you, Mickey. Sally has been having visions, and we think that Ursula is up to something.
+(
+Mickey_010_fVisions? Like... dreams?
+
+Mickey_011_fSort of?
+`
+Mickey_012_fPOh... Well, that doesn't mean whatever Sally saw is certain to come true, right?
+Q
+Mickey_013_fASeriously, Mickey, we're trying to warn you about something dire!
+š
+Mickey_014_f‰Thanks, pal. It sure is nice of you and Sally to worry about me. But until we know something for sure, I don't wanna assume anything bad.
+?
+Mickey_007_f/Oh. But I wouldn't wanna be rude for no reason.
+A
+Mickey_008_f1Well, no. Presents are supposed to be a surprise.

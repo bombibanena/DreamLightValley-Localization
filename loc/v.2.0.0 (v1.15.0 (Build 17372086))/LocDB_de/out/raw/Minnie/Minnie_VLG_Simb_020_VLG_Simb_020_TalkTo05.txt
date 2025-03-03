@@ -1,0 +1,30 @@
+TAG: Minnie_001_f
+Oh, {PlayerName}, hello! You look like you're on an important mission.
+
+TAG: Minnie_002_f
+Simba wants to invite you to a gathering. It's a celebration for all of us!
+
+TAG: Minnie_003_f
+How sweet of him! What can I do to help?
+
+TAG: Player_000_choice_000_f
+Just be yourself. It'll be perfect.
+
+TAG: Player_000_choice_001_f
+My guess: Just go and enjoy the party.
+
+TAG: Player_000_choice_002_f
+Nothing. That's the best part!
+
+TAG: Minnie_004_f
+You're very kind.
+
+TAG: Minnie_007_f
+Tell Simba I'll be there with bells on! Or, I guess I should say bows. Hee-hee!
+
+TAG: Minnie_005_f
+I can do that.
+
+TAG: Minnie_006_f
+You're too funny, {PlayerName}.
+

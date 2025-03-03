@@ -1,0 +1,66 @@
+
+g
+:Village!Tangled!Rapunzel!VLG_Rapu_030_AvailableDescription)Rapunzel wants to talk about something...
+?
+1Village!Tangled!Rapunzel!VLG_Rapu_030_DisplayName
+Glowing Up
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
+Ö
+RVillage!Tangled!Rapunzel!VLG_Rapu_030_Group02_Step02_ConsumeItem01_StepDescription/Investigate the Old Isle Map in your Inventory.
+ß
+>Village!Tangled!Rapunzel!VLG_Rapu_030_Group02_StoryDescriptioneMother Gothel gives you a map to search for the Sundrop Petals that hold the key to Rapunzel's magic.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group03_Step03_Possess01_StepDescription{itemName}.
+õ
+DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group03_Step03_StepDescriptionSUsing the map, search Eternity Isle to find the Sundrop Petals with your Hourglass.
+b
+DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group04_Step04_StepDescriptionAsk for magical help from:
+f
+VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group04_Step04_TalkToCharacter02_StepDescription{TargetNPC}.
+f
+VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group04_Step04_TalkToCharacter03_StepDescription{TargetNPC}.
+p
+=Village!Tangled!Rapunzel!VLG_Rapu_030_Group04_StepDescription/Bring the petals to someone skilled with magic.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_Possess02_StepDescription{itemName}.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_Possess03_StepDescription{itemName}.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_Possess04_StepDescription{itemName}.
+_
+DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group05_Step05_StepDescriptionGather these materials:
+Æ
+>Village!Tangled!Rapunzel!VLG_Rapu_030_Group05_StoryDescriptionlAfter refusing to pay Ursula with Rapunzel's secret, you decide to craft the Eternal Sundrop Charm yourself.
+h
+PVillage!Tangled!Rapunzel!VLG_Rapu_030_Group06_Step06_CraftItem01_StepDescriptionCraft an {itemName}.
+_
+PVillage!Tangled!Rapunzel!VLG_Rapu_030_Group07_Step07_BringItem01_StepDescription{itemName}.
+m
+EVillage!Tangled!Rapunzel!VLG_Rapu_030_Group07_Step07_ReadyDescription$Bring the {itemName} to {TargetNPC}.
+x
+DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group07_Step07_StepDescription0Make sure you have {itemName} in your Inventory.
+y
+MVillage!Tangled!Rapunzel!VLG_Rapu_030_Group08_Step08_Listen01_StepDescription(Witness Rapunzel confront Mother Gothel.
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group09_Step09_TalkToCharacter04_StepDescriptionTalk to {TargetNPC}.
+a
+OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate01_StepDescriptionCozy Fire Pit.
+b
+OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate02_StepDescriptionPurple Seating.
+g
+OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate03_StepDescriptionDecorative Lighting.
+f
+OVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_Decorate04_StepDescriptionRustic Decorations.
+t
+DVillage!Tangled!Rapunzel!VLG_Rapu_030_Group10_Step10_StepDescription,Decorate a campsite area in the Wild Tangle.
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group11_Step11_TalkToCharacter05_StepDescriptionTalk to {TargetNPC}.
+â
+VVillage!Tangled!Rapunzel!VLG_Rapu_030_Group12_Step12_FollowCharacter01_StepDescription/Go to the campsite you decorated with Rapunzel.
+p
+XVillage!Tangled!Rapunzel!VLG_Rapu_030_Group12_Step12_FollowCharacter01_TalkToDescriptionTalk to {TargetNPC}.
+”
+>Village!Tangled!Rapunzel!VLG_Rapu_030_Group12_StoryDescriptionêAfter helping Rapunzel deliver the charm and set boundaries with Mother Gothel, Rapunzel sings you a song you inspired her to write. She's free.
+i
+8Village!Tangled!Rapunzel!VLG_Rapu_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

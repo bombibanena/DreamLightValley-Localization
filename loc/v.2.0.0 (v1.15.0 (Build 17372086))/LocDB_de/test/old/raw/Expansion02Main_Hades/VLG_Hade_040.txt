@@ -1,0 +1,168 @@
+TAG: Village!Hercules!Hades!VLG_Hade_040_Any_CompletedRequestDescription
+Посмотрим, как Аид воспринял его выступление.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_AvailableDescription
+Слушайте, заключительная глава истории Аид! Господь Подземного мира снова вспыхивает в ссоре и ярости, ища что-то, чтобы успокоить свое вечно раненое эго.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_CompletedStoryDescription
+Час наступает поздно, и наша история заканчивается: Аид, теперь очищенный, возвращается к своим знакомым привидениям и успокаивающему запаху бурного камня. Хотя его вечное эго не дает ему ничего такого гадкого, как урок проникнуть в его пылающий череп, {PlayerName} и остальные деревенские жители теперь, надеюсь, более мудры по отношению к его античьям.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_DisplayName
+Хорошо, я сделаю это сам!
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group02_Step02_TalkToCharacter02_StepDescription
+Поговори с {TargetNPC} о запросе Тиана.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group03_Step03_GardeningHarvest01_StepDescription
+Помочь <ActivityItem>Underworld Gemstones</ActivityItem> и ждать 5 минут, чтобы собрать указатели.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group03_Step21_GardeningPlant01_StepDescription
+Посадить <ActivityItem>Underworld Gemstones</ActivityItem> в Mythopia.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group03_StepDescription
+Поместите подземные камни в указатели для дворца Тиана.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group04_StepDescription
+Декорировать Mythopia с помощью <ActivityItem>Аид Signposts</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group05_Step05_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC} о развлечениях для его вечеринки.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group05_StoryDescription
+Последним квестом Аид стала вечеринка для веков! Тиана согласился предоставить множество прекрасных закусок, Аид теперь мюзиклы, которые музыканты действительно заставят эту вечеринку петь.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group06_Step06_Listen01_StepDescription
+Прослушивание Флейты Принц Эрик.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group06_Step06_Listen02_StepDescription
+Мирабель Вокальное прослушивание.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group06_Step06_StepDescription
+Он прослушивает музыкантов на свою вечеринку вместе с Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group07_Step07_TalkToCharacter04_StepDescription
+Поговори с {TargetNPC} о прослушиваниях.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group08_Step08_Possess01_StepDescription
+Марбл.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group08_Step08_Possess02_StepDescription
+Магма.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group08_Step08_Possess03_StepDescription
+Молния.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group08_Step08_StepDescription
+Соберите ресурсы для создания DJ Table</ActivityItem> <ActivityItem>Corinthian Martble.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group09_Step09_CraftItem01_StepDescription
+Таблица DJ <ActivityItem>Corinthian Marble</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group10_Step10_ReadyDescription
+Приведите таблицу диджея <ActivityItem>Corinthian Martble</ActivityItem> в Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group10_Step10_StepDescription
+Убедитесь, что в вашем списке есть таблица диджея <ActivityItem>Corinthian Marble</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group11_Step11_Possess04_StepDescription
+{ItemName} из Бинда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group11_Step11_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group11_Step11_Possess06_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group11_StepDescription
+Убедитесь, что у вас достаточно ресурсов для <ActivityItem>Аид' партийных приглашений</ActivityItem>:
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group11_StoryDescription
+Поскольку главарь {PlayerName} работает над тем, чтобы вечеринка Аид стала событием, которое нужно запомнить, Аид настаивает на том, чтобы осложнить задачу бедняка {Playername}, решив, что он должен достичь мифических способностей ди-джея и самому управлять музыкой для своей партии!
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group12_Step12_CraftItem02_StepDescription
+Приглашения участников <ActivityItem>Аид</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group13_Step13_StepDescription
+Встретимся на Аид у ворот к горе Олимпус.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group14_Step14_ReadyDescription
+Передайте <ActivityItem>Аид ' Стороне приглашения</ActivityItem> {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group14_Step14_StepDescription
+Убедитесь, что у вас в списке есть приглашение на <ActivityItem>Аид' Стороны</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group15_Step15_DressUp01_StepDescription
+Белая одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group15_Step15_DressUp02_StepDescription
+Желтая одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group15_Step15_DressUp03_StepDescription
+Элегантная одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group15_Step15_StepDescription
+Одевайся в Олимпус-коре.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group16_Step16_DressUp04_StepDescription
+Красная одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group16_Step16_DressUp05_StepDescription
+Желтая одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group16_Step16_DressUp06_StepDescription
+Современная одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group16_Step16_StepDescription
+Одевайся в Гефаест-коре.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group17_Step17_DressUp07_StepDescription
+Зеленая одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group17_Step17_DressUp08_StepDescription
+Желтая одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group17_Step17_DressUp09_StepDescription
+Спортивная одежда.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group17_Step17_StepDescription
+Одевайся в Артемис-коре.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group18_StepDescription
+Войдите во дворец на вершине горы Олимпус, последуя за вывеской с лицом Аид', и отправитесь в тронный зал Аид' для партии.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group19_Step19_TalkToCharacter05_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group19_StoryDescription
+Аид готов к победе! можно только надеяться, что Аид имеет достаточно времени для тренировок...
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group20_Step20_Listen03_StepDescription
+Скрудж Макдак.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group20_Step20_Listen04_StepDescription
+Флин.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group20_Step20_Listen05_StepDescription
+Матушка Готель Матушка Готель.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group20_Step20_StepDescription
+Слушайте, как различные жители деревни выражают свои чувства по поводу установки диджея Аид' на вершине горы Олимпус.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group21_Step22_VisitArea02_StepDescription
+Аид установил портал у входа во дворец, чтобы ускорить людей.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group21_StepDescription
+Доберитесь до вечеринки на вершине горы Олимпус.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group23_Step24_VisitArea04_StepDescription
+Возвращайся на вершину горы Олимп.
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_Group23_StepDescription
+Вечеринка еще не закончилась!
+
+TAG: Village!Hercules!Hades!VLG_Hade_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

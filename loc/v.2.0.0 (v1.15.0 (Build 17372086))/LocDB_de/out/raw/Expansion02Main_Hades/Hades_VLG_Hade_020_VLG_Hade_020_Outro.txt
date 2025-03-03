@@ -1,0 +1,93 @@
+TAG: Hades_000_f
+So... how you feeling about your job training?
+
+TAG: Hades_001_f
+Kicking me out like that... saying I can't handle customer service.
+
+TAG: Hades_002_f
+Sounds like Scrooge is angling for an eternity being heckled by horrible customers.
+
+TAG: Hades_003_f
+Oooh, okay, I see that you're upset.
+
+TAG: Player_000_choice_000_f
+Serves you right.
+
+TAG: Player_000_choice_001_f
+Let's take a deeeeeep breath.
+
+TAG: Player_000_choice_002_f
+I feel you; I hate customer service too.
+
+TAG: Hades_004_f
+How dare you! I... I should unleash the Titans on Scrooge's Store!
+
+TAG: Hades_005_f
+Maybe he'll be less smug when he's a frozen ice block being whipped around in a tornado.
+
+TAG: Hades_010_f
+I'm guessing you don't think you proved your management skills. But did you learn anything valuable?
+
+TAG: Hades_011_f
+Oh, I've learned something all right.
+
+TAG: Hades_012_f
+This whole thing was a colossal mistake! I'm a god, I shouldn't be... serving anyone.
+
+TAG: Hades_013_f
+I'm made for giving commands, not taking them.
+
+TAG: Player_001_choice_000_f
+Oddly enough, hating customer service is a very mortal experience.
+
+TAG: Player_001_choice_001_f
+So really, you've learned nothing.
+
+TAG: Player_001_choice_002_f
+What if you think of it as "helping" instead of "serving" others?
+
+TAG: Hades_014_f
+Haven't you insulted me enough?
+
+TAG: Hades_017_f
+No, no, I clearly need to re-evaluate things, come up with some better schemes.
+
+TAG: Hades_018_f
+Something that lets everyone know exactly the kind of grandeur and respect I deserve.
+
+TAG: Hades_019_f
+Okay, well, I'll let you think that over.
+
+TAG: Hades_024_f
+Good. Ya know, this might not have gone exactly as planned, but you definitely were a solid head minion.
+
+TAG: Hades_023_f
+Keep this up and I might give you another promotion!
+
+TAG: Hades_020_f
+Good. Ya know, this might not have gone exactly as planned, but you definitely were a solid intermediate minion.
+
+TAG: Hades_021_f
+Good. Ya know, this might not have gone exactly as planned, but you definitely were a solid associate minion.
+
+TAG: Hades_022_f
+Good. Ya know, this might not have gone exactly as planned, but you definitely were a solid junior minion.
+
+TAG: Hades_015_f
+Oh, I've learned all I need to know about this whole "work" concept.
+
+TAG: Hades_016_f
+Yeah, that doesn't change anything.
+
+TAG: Hades_006_f
+Look at me, I'm practically breaking out in brimstone from the stress.
+
+TAG: Hades_007_f
+Okay, deep breath...
+
+TAG: Hades_008_f
+{PlayerName}, as Lord of the Underworld, I thought I had a handle on eternal suffering.
+
+TAG: Hades_009_f
+But wow... you mortals have been cooking up something nasty.
+

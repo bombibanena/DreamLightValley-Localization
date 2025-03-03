@@ -1,0 +1,48 @@
+TAG: EVE_001_f
+Hey, EVE! I was hoping you could help me with a little something.
+
+TAG: EVE_002_f
+Oh?
+
+TAG: EVE_003_f
+So I imagine that by now you've heard of the escaped flying trolley...
+
+TAG: EVE_004_f
+*giggle*
+
+TAG: Player_000_choice_000_f
+I'll take that as a yes.
+
+TAG: Player_000_choice_001_f
+Hey, that poor trolley needs our help!
+
+TAG: Player_000_choice_002_f
+Yeah, this whole thing is a little ridiculous.
+
+TAG: EVE_005_f
+I'm trying to build a landing track for the trolley.
+
+TAG: EVE_008_f
+As a flying machine, I thought you might have some insights as to how to help the poor trolley land safely.
+
+TAG: EVE_009_f
+Uh... Hmm...
+
+TAG: EVE_010_f
+Oh! Oh! *digital beeps*
+
+TAG: EVE_011_f
+What's this â flares? Perfect!
+
+TAG: EVE_012_f
+Directive! *giggle*
+
+TAG: EVE_013_f
+Thanks, EVE â talk to you later!
+
+TAG: EVE_006_f
+Oh... *digital beeps*
+
+TAG: EVE_007_f
+*giggle* *digital beeps*
+

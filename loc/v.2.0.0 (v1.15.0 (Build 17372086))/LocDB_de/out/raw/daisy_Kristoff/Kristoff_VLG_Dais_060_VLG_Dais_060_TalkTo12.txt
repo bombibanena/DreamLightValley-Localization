@@ -1,0 +1,54 @@
+TAG: Kristoff_001_f
+Wow, {PlayerName}, I was expecting this gala to end with a bang... but not a literal one.
+
+TAG: Kristoff_002_f
+It wasn't in Daisy's plan. It was a prank. I'm trying to piece together what might have happened.
+
+TAG: Player_001_choice_000_f
+What's your alibi?
+
+TAG: Player_001_choice_001_f
+Did you see anything?
+
+TAG: Player_001_choice_002_f
+CONFESS, ICE MAN!
+
+TAG: Kristoff_008_f
+Alibi...? Me? Well...
+
+TAG: Kristoff_003_f
+I spent the whole gala talking with the other guests.
+
+TAG: Kristoff_004_f
+Minnie told me you helped launch their Dots & Daisies business AND the Dreamlight Gazette.
+
+TAG: Kristoff_005_f
+And Donald was really grateful because you settled an issue between him and Daisy. Something about a wardrobe and a hammer? I'm not sure I got it all.
+
+TAG: Kristoff_010_f
+I guess the only thing I can tell you for sure is that everyone around here likes you.
+
+TAG: Player_000_choice_000_f
+Thanks, Kristoff. I'm pretty sure you're innocent.
+
+TAG: Player_000_choice_001_f
+Nice to know, but not helpful.
+
+TAG: Player_000_choice_002_f
+Not exactly a rock-solid alibi.
+
+TAG: Kristoff_012_f
+What? Oh, yeah, the glitter thing. I totally forgot. Well, good luck with the investigation.
+
+TAG: Kristoff_006_f
+Yeah, sorry I couldn't be more help.
+
+TAG: Kristoff_011_f
+I don't know what to say. I told you everything I remember.
+
+TAG: Kristoff_007_f
+Glitter? Lots of glitter. Other than that...
+
+TAG: Kristoff_009_f
+Confess to what?
+

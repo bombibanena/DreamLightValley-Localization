@@ -1,0 +1,75 @@
+TAG: Timon_000_f
+{PlayerName}! These pictures are great!
+
+TAG: Timon_001_f
+The angles, the lighting, the understanding of your subjects... you're a natural!
+
+TAG: Player_000_choice_000_f
+Wow, thanks so much!
+
+TAG: Player_000_choice_001_f
+You're being very complimentary...
+
+TAG: Player_000_choice_002_f
+I love photography!
+
+TAG: Timon_002_f
+You're so good, in fact, that I have another assignment for ya.
+
+TAG: Timon_005_f
+Assignment?
+
+TAG: Timon_006_f
+You know: a job, a task, a do-somethin'-for-a-pal!
+
+TAG: Timon_009_f
+See, this slideshow, it's missing the element of... danger.
+
+TAG: Timon_010_f
+Danger?!
+
+TAG: Timon_011_f
+Yep! What if we documented the homes of some of the wilder Villagers?
+
+TAG: Player_001_choice_000_f
+That's not a bad idea.
+
+TAG: Player_001_choice_001_f
+I'd need to talk to them all first.
+
+TAG: Player_001_choice_002_f
+I LOVE it!
+
+TAG: Timon_013_f
+Do I ever have bad ideas?
+
+TAG: Timon_016_f
+Don't answer that.
+
+TAG: Timon_017_f
+So you're in?
+
+TAG: Timon_018_f
+Yeah, this will add something really cool and interesting to our project.
+
+TAG: Timon_019_f
+I'll <Lore>take pictures inside some of the fiercer Villagers' homes</Lore>. I'll come find you when I'm done!
+
+TAG: Timon_014_f
+We just need pictures of their homes.
+
+TAG: Timon_015_f
+I knew you would! Ah, I'm just full of brilliant ideas!
+
+TAG: Timon_003_f
+Hey, when I see genius, I recognize it. Your competition has nothin' on you!
+
+TAG: Timon_007_f
+I'm the only one taking pictures for you, Timon.
+
+TAG: Timon_008_f
+Ah, details, details. Listen, I've got another assignment for ya.
+
+TAG: Timon_004_f
+And that is great to know, because I have another assignment for ya!
+

@@ -1,0 +1,49 @@
+
+~
+Pumbaa_002_fnHey, um... {PlayerName}? Do you have some time? I need to ask you somethin'... and it's a little embarrassing.
+6
+Player_000_choice_000_fIs everything okay, Pumbaa?
+2
+Player_000_choice_001_fLet's talk later, okay?
+^
+Pumbaa_007_fNKinda? See, Timon and I went to Remy's restaurant today for our favorite meal.
+S
+Pumbaa_008_fCWe've been goin' every day since we got here! Restaurants are NEAT!
+-
+Player_002_choice_000_fI love dining out!
+5
+Player_002_choice_001_fI like cooking for myself!
+=
+Player_002_choice_002_f"No restaurants in the jungle, huh?
+g
+Pumbaa_010_fWIt's the best! I love to rustle up my own grubs but... Gee, Remy sure makes yummy food!
+T
+Pumbaa_012_fDSo what's the problem, Pumbaa? You said it was sort of embarrassing?
+†
+Pumbaa_013_fvWell... the moment we walked into Remy's... everyone else left. It felt JUST like the old days by the watering hole...
+‡
+Pumbaa_014_fwI thought me and Timon had figured out how to make me smell not-so-bad but... uh... We think something's different now.
+)
+Pumbaa_021_fOr everybody's mad at me?
+;
+Player_003_choice_000_f I'm sure there's an explanation.
+C
+Player_003_choice_001_f(Maybe the Villagers had somewhere to be?
+;
+Player_003_choice_002_f Nothing wrong with being stinky!
+H
+Pumbaa_017_f8If there is, I sure could use some help figurin' it out.
+Q
+Pumbaa_019_fACould ya <Lore>ask Elsa and Daisy</Lore> why they left Chez Remy?
+:
+Pumbaa_020_f*I can't do it myself. I'm too embarrassed.
+m
+Pumbaa_016_f]I know you're tryin' to make me feel better, {PlayerName}, but I KNOW they left 'cause of me.
+u
+Pumbaa_018_feGee, thanks! But I don't wanna be SO stinky I clear the place. I thought I'd left all that behind me.
+{
+Pumbaa_009_fkYou do? I think eating would be tough if I had to do more than find some bugs or visit Chez Remy every day.
+z
+Pumbaa_011_fjNope! Though now, Timon's thinkin' we should start one for the other animals. He likes thinkin' big ideas.
+I
+Pumbaa_003_f9Oh, okay. But if you could hurry, I'd sure appreciate it.

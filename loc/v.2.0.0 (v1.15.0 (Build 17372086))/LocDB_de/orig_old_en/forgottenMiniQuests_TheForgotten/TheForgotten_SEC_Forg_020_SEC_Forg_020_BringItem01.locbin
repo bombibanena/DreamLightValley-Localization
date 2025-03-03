@@ -1,0 +1,55 @@
+
+;
+TheForgotten_000_f%Huh? You're giving the flowers to me?
+<
+TheForgotten_001_f&Shouldn't we be giving them to Mickey?
+@
+TheForgotten_002_f*Exactly! You're going to give them to him!
+S
+TheForgotten_003_f=... Oh. I can't remember the last time I gave someone a gift.
+$
+TheForgotten_004_fWhat do I say?
+1
+Player_001_choice_000_f"Here you go, Mickey!"
+5
+Player_001_choice_001_f"I've got a gift for you!"
+6
+Player_001_choice_002_f"Do you want some flowers?"
++
+TheForgotten_006_fOh. That makes sense.
+`
+TheForgotten_007_fJBut... Wait... What should I do with my face while I'm giving them to him?
+'
+Player_002_choice_000_fUm... smile?
+-
+Player_002_choice_002_fWhatever you want!
+2
+TheForgotten_008_fOkay... sure. I can do that!
+T
+TheForgotten_009_f>Wait. One more thing. What if Mickey doesn't LIKE the flowers?
+5
+Player_003_choice_000_fTrust me. He'll like them.
+2
+Player_003_choice_001_fHe'll be nice about it.
+C
+Player_003_choice_002_f(That's a possibility. And it'll be okay.
+I
+TheForgotten_010_f3They're really nice flowers. Mickey will love them.
+7
+TheForgotten_016_f!Okay. I think I'm ready for this.
+G
+TheForgotten_019_f1Let's go <Lore>give the flowers to Mickey</Lore>!
+c
+TheForgotten_011_fMIf Mickey doesn't like the flowers, he'll probably help us pick a bunch more.
+F
+TheForgotten_015_f0That's just the kind of neighbor that Mickey is.
+9
+TheForgotten_017_f#Yeah... yeah, you're right. Well...
+\
+TheForgotten_012_fFPart of being friends is learning how to be generous with one another.
+i
+TheForgotten_013_fSAnd that means we might make mistakes sometimes. Because mistakes are how we learn.
+N
+TheForgotten_014_f8Right. The important thing is that we don't stop trying!
+(
+TheForgotten_018_fThat's the spirit!

@@ -1,0 +1,61 @@
+
+4
+MikeWazowski_000_fMy contact lens! You found it!
+=
+MikeWazowski_001_f'Hope it's not scratched up or anything.
+
+MikeWazowski_002_fiThis thing? It's built like a tank! When you've got one eye as big as mine, you need heavy-duty contacts.
+]
+MikeWazowski_003_fGPlus, it's covered by insurance. Monsters, Inc. has excellent benefits.
+Z
+MikeWazowski_004_fDWell, if it is scratched, do we need to fill out an incident report?
+H
+MikeWazowski_005_f2Inform the insurance company? Start the paperwork?
+[
+MikeWazowski_006_fEPa-paperwork? Did you say, "p-p-paperwork"? Oh boy, I gotta sit down.
+8
+Player_000_choice_000_fIs paperwork really that bad?
+8
+Player_000_choice_001_fOh come on, Mike, lighten up!
+U
+MikeWazowski_008_f?You can only say that if you've never worked at Monsters, Inc.!
+
+MikeWazowski_028_fNoted.
+>
+MikeWazowski_017_f(I could keep goin'! Do you have all day?
+x
+MikeWazowski_018_fbAs much as I'd love to hear everything about them that bothers you, I actually don't have all day.
+ê
+MikeWazowski_019_fzBut I've got an idea! What if I dress up like Roz and then you can let out everything you've clearly wanted to say to her.
+P
+MikeWazowski_020_f:Huh. That could be interesting. Well, I'm game if you are!
+p
+MikeWazowski_021_fZShe always wears these <ActivityItem>horn-rimmed glasses and a red sweater</ActivityItem>.
+n
+MikeWazowski_022_fXHmm, I've got something else in mind that will <Lore>help me look like Roz</Lore> too...
+a
+MikeWazowski_023_fKYou try and center yourself for a moment; I'll be back to help you open up.
+1
+MikeWazowski_007_fWait... What are you up to?
+Ÿ
+MikeWazowski_009_f¬Making something that I think will be a big help! I'll be putting together some <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Rope</ActivityItem>, and <ActivityItem>Softwood</ActivityItem>.
+d
+MikeWazowski_012_fNI thought... I thought I'd get a break from Roz and her twin sister Roze here.
+-
+MikeWazowski_024_fWell, this I gotta see.
+
+MikeWazowski_013_f	You will!
+B
+MikeWazowski_014_f,What is happening? I'm actually shaking now.
+E
+MikeWazowski_015_f/And... ACHOO! My allergies are acting up again!
+Z
+MikeWazowski_025_fDHmm, I wonder if there's a link between your allergies and stress...
+a
+MikeWazowski_016_fKHave you tried figuring out why Roz and Roze get under your skin like that?
+m
+MikeWazowski_026_fWYou mean aside from how they say, "Wazzzooowwwskiiii" every morning when I get to work?
+?
+MikeWazowski_027_f)Or their constant demands for paperwork?!
+:
+MikeWazowski_010_f$You don't understand! The paperwork!

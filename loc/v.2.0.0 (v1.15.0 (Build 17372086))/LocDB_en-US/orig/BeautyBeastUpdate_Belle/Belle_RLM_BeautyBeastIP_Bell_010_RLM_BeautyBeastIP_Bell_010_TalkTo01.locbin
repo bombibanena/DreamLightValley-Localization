@@ -1,0 +1,36 @@
+
+S
+Belle_000_fDBelle, what's going on here? Why are there books flying everywhere?!
+&
+Belle_001_fOh! I— Do I know you?
+F
+Player_000_choice_000_f+Let's focus on the books! I'm here to help.
+6
+Player_000_choice_001_fI promise you can trust me.
+1
+Player_000_choice_002_fThat's a long story...
+
+Belle_003_f
+Thank you!
+N
+Belle_006_f?I'm afraid this storm of flying books is being quite difficult.
+?
+Player_001_choice_000_f$That's a good READ on the situation.
+7
+Player_001_choice_001_fI'm an expert book wrangler!
+J
+Player_001_choice_002_f/I've found some books difficult to read before.
+c
+Belle_011_fTYou enjoy wordplay, too? Well, I'd love to discuss it with you later. But for now...
++
+Belle_009_fWill you help me catch them?
+[
+Belle_008_fLOnce we <Lore>collect all the flying books</Lore>, I can explain everything!
++
+Belle_012_fThen you're just who I need!
+*
+Belle_010_fThis is a little different.
+(
+Belle_004_fI feel like I can. But...
+1
+Belle_005_f"One for a quieter moment, I think.

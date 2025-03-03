@@ -1,0 +1,69 @@
+
+X
+FVillage!BeautyBeast!Belle!VLG_Bell_030_Any_CompletedRequestDescriptionTalk to Belle.
+≈
+;Village!BeautyBeast!Belle!VLG_Bell_030_AvailableDescriptionÖThe <ActivityItem>Translation Machine</ActivityItem> has done its job, and Belle has learned that the <ActivityItem>Strange Book</ActivityItem> is in fact a <ActivityItem>Journal</ActivityItem> belonging to the best mystery solver in Dreamlight Valley. She's determined to unveil the identity of this mysterious character and asks you to help her by taking a closer look at a <ActivityItem>Page</ActivityItem> from the <ActivityItem>Mysterious Journal</ActivityItem> that she still cannot read despite the decrypting.
+Œ
+@Village!BeautyBeast!Belle!VLG_Bell_030_CompletedStoryDescriptionâNow that Belle is all set, you might be wondering what her plans are for her next adventures, and the best way to find out is to ask her.
+b
+2Village!BeautyBeast!Belle!VLG_Bell_030_DisplayName,The Best Mystery Solver in Dreamlight Valley
+ñ
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group01_Step01_ConsumeItem01_StepDescription?Examine the <ActivityItem>Page from the Journal</ActivityItem>.
+i
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group02_Step02_TalkToCharacter01_StepDescriptionTalk to Belle.
+ñ
+OVillage!BeautyBeast!Belle!VLG_Bell_030_Group03_Step03_Possess01_StepDescriptionCFind the lost object by fishing at the spot pictured in the Memory.
+Ê
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group03_StoryDescription¢The <ActivityItem>Page</ActivityItem> turned into a Memory, putting you on the trail of an object lost under the water near some ruins. You decide to look for it.
+k
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group04_Step04_TalkToCharacter02_StepDescriptionReturn to Belle.
+{
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group05_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>Where should I go?
+ë
+QVillage!BeautyBeast!Belle!VLG_Bell_030_Group05_Step05_VisitArea01_StepDescription<Find the <ActivityItem>Board</ActivityItem> from the Memory.
+ò
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group05_StoryDescription‘The lost object was in fact a <ActivityItem>Fishing Hat</ActivityItem>, which turned out to be yet another Memory showing you a <ActivityItem>Board</ActivityItem> in a mysterious room that you now have to locate.
+Ü
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group06_Step06_Interaction01_StepDescription/Examine the <ActivityItem>Board</ActivityItem>.
+≤
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group07_Step07_ConsumeItem03_StepDescription[Examine the <ActivityItem>Notes</ActivityItem> from the <ActivityItem>Board</ActivityItem>.
+k
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group08_Step08_TalkToCharacter03_StepDescriptionReturn to Belle.
+u
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group09_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+£
+TVillage!BeautyBeast!Belle!VLG_Bell_030_Group09_Step09_PurchaseItem01_StepDescriptionKOrder an <ActivityItem>Elegant Armchair</ActivityItem> from Scrooge McDuck.
+i
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group09_Step10_TalkToCharacter04_StepDescriptionTalk to Beast.
+g
+>Village!BeautyBeast!Belle!VLG_Bell_030_Group09_StepDescription%Get the furniture for Belle's office.
+‚
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group09_StoryDescriptionûBelle remembers that she was the Best Mystery Solver in Dreamlight Valley and that she had an office in her House. You decide to help her set it all up again.
+É
+QVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_BringItem01_StepDescription.<ActivityItem>Elegant Armchair</ActivityItem>.
+
+QVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_BringItem02_StepDescription*<ActivityItem>Writing Desk</ActivityItem>.
+g
+FVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_ReadyDescriptionBring the furniture to Belle.
+Å
+EVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_StepDescription8Make sure you have all the furniture for Belle's office:
+~
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group11_Step12_TakePicture01_StepDescription'Take a selfie with Belle in her office.
+¢
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group11_StoryDescription_With her office set up again, it's the perfect opportunity for a selfie to remember the moment.
+
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group12_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What am I looking for?
+å
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group12_Step13_ConsumeItem04_StepDescription5Inspect the <ActivityItem>Fishing Hat</ActivityItem>.
+x
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group03_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What am I looking for?
+u
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+u
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+u
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group11_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+j
+9Village!BeautyBeast!Belle!VLG_Bell_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

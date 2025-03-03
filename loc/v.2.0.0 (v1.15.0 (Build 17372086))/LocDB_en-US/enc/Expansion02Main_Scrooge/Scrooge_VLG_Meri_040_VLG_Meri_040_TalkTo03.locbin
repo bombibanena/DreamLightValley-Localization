@@ -1,0 +1,35 @@
+
+q
+Scrooge_001_f`{PlayerName}, you've a curious spring in your step and a twinkle in your eye... What's going on?
+<
+Player_000_choice_000_f!I'm helping Merida throw a party!
+8
+Player_000_choice_001_fI have some business for you!
+9
+Player_000_choice_002_fHey... You're Scottish, right?
+6
+Scrooge_003_f%A party, you say? What kind of party?
+Ç
+Scrooge_006_fµMerida's throwing a proper Scottish Festival. I was hoping you'd have supplies and could have some <ActivityItem>Clan DunBroch Banners</ActivityItem> made that we can decorate with?
+‰
+Scrooge_007_fxA proper Scottish Festival? Hee-hee! Now that's the best news I've heard in quite a while! Tell ya what, {PlayerName}...
+y
+Scrooge_008_fh...I'll donate the supplies IF you put up some <ActivityItem>Clan McDuck Banners</ActivityItem> as well.
+0
+Player_001_choice_000_fThe more the merrier!
+=
+Player_001_choice_001_f"Not sure that's Merida's vision...
+D
+Scrooge_010_f3That's the spirit! Take these and fair winds to ya!
+ 
+Scrooge_009_fNot her VISION?
+U
+Scrooge_011_fDThe vision of any proper Scottish Festival is: Paint the town plaid!
+N
+Scrooge_012_f=Just take these <Lore>supplies</Lore>... I'll talk to Merida.
+Z
+Scrooge_002_fIYou always know how to get my attention. And what business would that be?
+"
+Scrooge_004_fSparkle me spats!
+‚
+Scrooge_005_fqOf COURSE I'm Scottish! I'm as Scottish as the Highlands! The waters of Loch Ness! ... Wait Ã¢Â€Â” why do ya ask?

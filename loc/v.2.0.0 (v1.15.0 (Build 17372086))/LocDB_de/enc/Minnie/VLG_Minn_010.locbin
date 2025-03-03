@@ -1,0 +1,43 @@
+
+z
+BVillage!Mickey!Minnie!VLG_Minn_010_Any_CompletedRequestDescription4Возвращайтесь на Минни Маус.
+�
+7Village!Mickey!Minnie!VLG_Minn_010_AvailableDescriptionYМинни Маус хочет провести с тобой какое-то время.
+�
+<Village!Mickey!Minnie!VLG_Minn_010_CompletedStoryDescription�Микки Маус любит подарок и просит поблагодарить Минни Маус от его имени.
+G
+.Village!Mickey!Minnie!VLG_Minn_010_DisplayNameЯзык цветов
+
+?Village!Mickey!Minnie!VLG_Minn_010_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что мы делаем?
+�
+:Village!Mickey!Minnie!VLG_Minn_010_Group01_StepDescriptionbВыберите <ActivityItem> Blue Star Llies</ActivityItem> в лесу с Минни Маус.
+�
+;Village!Mickey!Minnie!VLG_Minn_010_Group01_StoryDescription�Очарованная цветами в деревне, она хочет собрать их и отдать Микки Маус.
+�
+KVillage!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess01_StepDescriptionD<ActivityItem>Минни Маус Special Flower Pot</ActivityItem>.
+�
+KVillage!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess02_StepDescription4<ActivityItem> White & Red Hydrangea</ActivityItem>.
+}
+KVillage!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess03_StepDescription.<ActivityItem>Red Bell Flowers</ActivityItem>.
+}
+KVillage!Mickey!Minnie!VLG_Minn_010_Group02_Step02_Possess04_StepDescription.<ActivityItem> Blue Star Llies</ActivityItem>.
+�
+AVillage!Mickey!Minnie!VLG_Minn_010_Group02_Step02_StepDescription�Соберите следующие вещи для устройства цветков <ActivityItem>Минни Маус Craft</ActivityItem>.
+�
+;Village!Mickey!Minnie!VLG_Minn_010_Group02_StoryDescription�Вместо того, чтобы просто отдать Микки Маус цветы, Минни Маус сначала хочет сделать их цветочными. Вы поможете ей сделать этот проект реальностью.
+�
+?Village!Mickey!Minnie!VLG_Minn_010_Group03_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+:Village!Mickey!Minnie!VLG_Minn_010_Group03_StepDescription�Передайте <ActivityItem>Минни Маус Flower Convention</ActivityItem> Микки Маус от имени Минни Маус.
+
+?Village!Mickey!Minnie!VLG_Minn_010_Group04_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что мы делаем?
+�
+BVillage!Mickey!Minnie!VLG_Minn_010_Group04_Step04_ReadyDescriptionXВозьмите <ActivityItem> Blue Star Llies</ActivityItem> на Минни Маус.
+�
+AVillage!Mickey!Minnie!VLG_Minn_010_Group04_Step04_StepDescriptionlУбедитесь, что у вас в списке есть <ActivityItem> Blue Star Llies</ActivityItem>.
+�
+MVillage!Mickey!Minnie!VLG_Minn_010_Group05_Step05_CraftItem01_StepDescriptionWРасположение цветов <ActivityItem>Минни Маус</ActivityItem>.
+m
+AVillage!Mickey!Minnie!VLG_Minn_010_Group06_Step06_StepDescription(Поговори с Минни Маус.
+f
+5Village!Mickey!Minnie!VLG_Minn_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,72 @@
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Any_CompletedRequestDescription
+Go talk to Minnie about the Club.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_AvailableDescription
+Minnie has an exciting new idea and needs your help.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_CompletedStoryDescription
+The first club meeting was a success but it's better to debrief with Minnie, just to be sure.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_DisplayName
+The Club Renewal
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_Step01_Possess04_StepDescription
+<ActivityItem>Fabric</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_Step01_Possess05_StepDescription
+<ActivityItem>Gold Nugget</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_Step09_CraftItem03_StepDescription
+Craft a <ActivityItem>Red Dye</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_StepDescription
+Gather the following items to craft the <ActivityItem>Cheerful Chums Club Banner</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group01_StoryDescription
+The old banner is damaged beyond repair. Minnie decides the best option is to make a brand-new one.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group02_Step02_CraftItem01_StepDescription
+Craft the <ActivityItem>Cheerful Chums Club Banner</ActivityItem>.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do with the banner?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group04_Step04_Decorate01_StepDescription
+Place the <ActivityItem>Cheerful Chums Club Banner</ActivityItem> in a nice spot of your choosing in your House.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group05_Step05_TalkToCharacter03_StepDescription
+Go talk to Minnie about it.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group05_StoryDescription
+You find an old banner on which you can read "Cheerful Chums." It's in a sorry state but Minnie would probably be happy to see it.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group06_Step06_VisitArea01_StepDescription
+Go to your House.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group06_StoryDescription
+Minnie loves the new banner and asks to have the first club meeting in your House.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's left to do?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group07_Step07_Party01_StepDescription
+Relaunch the Cheerful Chums Club.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I start looking?
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group08_Step08_Possess01_StepDescription
+Investigate the Glade of Trust for a long-lost banner.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_Group08_StoryDescription
+She wants to start the Cheerful Chums Club again and wonders if there's anything left of their old banner. You decide to look for it.
+
+TAG: Village!Mickey!Minnie!VLG_Minn_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

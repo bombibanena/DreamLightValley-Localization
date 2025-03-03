@@ -1,0 +1,42 @@
+TAG: FairyGodMother_000_f
+Listen closely, {PlayerName}.
+
+TAG: FairyGodMother_001_f
+Beyond the last gateway, you'll find the final lost Memory of the Forgotten.
+
+TAG: FairyGodMother_003_f
+Whatever happened here... it changed them into what they are now.
+
+TAG: Player_000_choice_000_f
+I don't think they meant to do any of this.
+
+TAG: Player_000_choice_001_f
+There's no excuse for what they've done.
+
+TAG: Player_000_choice_002_f
+I know I can save the Forgotten. I have to.
+
+TAG: FairyGodMother_004_f
+The Night Thorns and the Forgetting... All of it seemed to be outside of the Forgotten's control.
+
+TAG: FairyGodMother_005_f
+That may be so. When one is lonely and uncertain, it is easy to lose your way.
+
+TAG: FairyGodMother_010_f
+Now, collect yourself, dear. You mustn't wait. Go boldly forward and <Lore>step through the gate</Lore>.
+
+TAG: FairyGodMother_011_f
+And if it gets to be a bit too much, just know that I will be right here waiting.
+
+TAG: FairyGodMother_006_f
+Even if they were having a tough time... ripping out the Orbs has caused so much trouble. They CHOSE to do that.
+
+TAG: FairyGodMother_007_f
+Perhaps that's true. But one doesn't need to approve to understand.
+
+TAG: FairyGodMother_008_f
+The Forgotten was a part of me. I know I can fix all of this. I just... don't know how yet.
+
+TAG: FairyGodMother_009_f
+That may be true. But don't lose faith. I believe in you.
+

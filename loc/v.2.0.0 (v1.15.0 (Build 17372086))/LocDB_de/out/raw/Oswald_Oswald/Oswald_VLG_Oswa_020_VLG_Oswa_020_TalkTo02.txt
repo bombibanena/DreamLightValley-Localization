@@ -1,0 +1,42 @@
+TAG: Olaf_000_f
+Hi Olaf, I was wondering if you could help me out with something.
+
+TAG: Player_000_choice_000_f
+Yes!
+
+TAG: Player_000_choice_001_f
+I know, it's a little strange...
+
+TAG: Olaf_001_f
+Of course, {PlayerName}. I love helping my friends!
+
+TAG: Olaf_002_f
+What can I do?
+
+TAG: Olaf_003_f
+Well, Oswald has these alarm clocks that have come to life...
+
+TAG: Olaf_004_f
+That happened to me! It's very fun.
+
+TAG: Olaf_005_f
+At first, yes, but they're starting to become something of a hassle. They've been running wild and waking people up.
+
+TAG: Olaf_006_f
+But I was thinking... could you help them calm down?
+
+TAG: Olaf_007_f
+We need them to take it down a notch and only get excited in the morning when they're supposed to wake Oswald up.
+
+TAG: Olaf_008_f
+Are you saying that I should tell a story to an audience of alarm clocks?!
+
+TAG: Olaf_009_f
+Wow... I've never had an audience like that before... I can't wait!
+
+TAG: Olaf_010_f
+I'll meet you and Oswald <Lore>at Oswald's House with the alarm clocks</Lore>.
+
+TAG: Olaf_011_f
+I have so many story ideas already...
+

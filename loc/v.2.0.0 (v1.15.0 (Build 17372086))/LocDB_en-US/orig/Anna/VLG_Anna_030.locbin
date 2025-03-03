@@ -1,0 +1,43 @@
+
+j
+@Village!Frozen!Anna!VLG_Anna_030_Any_CompletedRequestDescription&Talk to Anna to see how she's feeling.
+ê
+5Village!Frozen!Anna!VLG_Anna_030_AvailableDescriptionWMerlin tells Anna that there may be a way to restore Kristoff's memories through magic.
+∑
+:Village!Frozen!Anna!VLG_Anna_030_CompletedStoryDescriptionyKristoff's memories are restored! Anna thanks you and looks forward to a future full of many more memories with Kristoff.
+B
+,Village!Frozen!Anna!VLG_Anna_030_DisplayNameThe Enchanted Ring
+V
+=Village!Frozen!Anna!VLG_Anna_030_Group01_OngoingRequestButtonWho should I talk to?
+d
+QVillage!Frozen!Anna!VLG_Anna_030_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Merlin.
+ã
+9Village!Frozen!Anna!VLG_Anna_030_Group01_StoryDescriptionNWith Merlin's help, you learn of a spell that may restore Kristoff's memories.
+R
+=Village!Frozen!Anna!VLG_Anna_030_Group02_OngoingRequestButtonWhat should I do?
+X
+IVillage!Frozen!Anna!VLG_Anna_030_Group02_Step02_Possess01_StepDescription{itemName}.
+â
+IVillage!Frozen!Anna!VLG_Anna_030_Group02_Step02_Possess02_StepDescription<{itemName} from the Giant Willow Tree in the Glade of Trust.
+d
+?Village!Frozen!Anna!VLG_Anna_030_Group02_Step02_StepDescription!Gather the following Ingredients:
+à
+?Village!Frozen!Anna!VLG_Anna_030_Group02_Step03_StepDescriptionETalk to Anna to get her <ActivityItem>Engagement Ring</ActivityItem>.
+P
+=Village!Frozen!Anna!VLG_Anna_030_Group03_OngoingRequestButtonHow can I help?
+û
+KVillage!Frozen!Anna!VLG_Anna_030_Group03_Step04_CraftItem01_StepDescriptionOEnchant the <ActivityItem>Engagement Ring</ActivityItem> at a Crafting Station.
+\
+=Village!Frozen!Anna!VLG_Anna_030_Group04_OngoingRequestButtonWhat do I do with the ring?
+∞
+KVillage!Frozen!Anna!VLG_Anna_030_Group04_Step05_BringItem01_StepDescriptionaEnchant the <ActivityItem>Engagement Ring</ActivityItem> by mixing the Ingredients for the spell.
+Ç
+@Village!Frozen!Anna!VLG_Anna_030_Group04_Step05_ReadyDescription>Bring the <ActivityItem>Enchanted Ring</ActivityItem> to Anna.
+S
+=Village!Frozen!Anna!VLG_Anna_030_Group05_OngoingRequestButtonWhat's left to do?
+s
+HVillage!Frozen!Anna!VLG_Anna_030_Group05_Step06_Listen01_StepDescription'Listen as Anna shows Kristoff the ring.
+å
+9Village!Frozen!Anna!VLG_Anna_030_Group05_StoryDescriptionOUsing Anna's enchanted Engagement Ring, you restore Kristoff's memories of her.
+E
+3Village!Frozen!Anna!VLG_Anna_030_StartRequestButtonWhat can I do?

@@ -1,0 +1,19 @@
+
+D
+Kristoff_000_f2All right {PlayerName}, I'll try to talk to Flynn.
+>
+Player_000_f.While you do that, I'm cleaning this place up.
+B
+Player_000_choice_001_f'A tidy place will help him feel better.
+8
+Player_000_choice_002_fThe clutter is getting to me.
+/
+Player_000_choice_003_fThis place is chaos!
+(
+Kristoff_003_fYou're probably right.
+;
+Kristoff_002_f)I'm sure Flynn will appreciate your help.
+E
+Kristoff_001_f3Really? I didn't know you were the organizing type.
+$
+Kristoff_004_fIt's... not great.

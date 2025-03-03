@@ -1,0 +1,55 @@
+
+m
+IStory!Expansion01!MRQS_E01_160_GastonPart_Any_CompletedRequestDescription Bring the Shiny LeFou to Gaston.
+ç
+>Story!Expansion01!MRQS_E01_160_GastonPart_AvailableDescription In the West Chamber of the ancient rooms, there's some sort of raised platform and a light. It seems someone was meant to pose heroically on it. You know one person who'd be more than happy to oblige...
+ë
+CStory!Expansion01!MRQS_E01_160_GastonPart_CompletedStoryDescriptionJWith the new Shiny LeFou in hand, Gaston will HAVE to help you now. Right?
+B
+5Story!Expansion01!MRQS_E01_160_GastonPart_DisplayName	Hero Pose
+m
+ZStory!Expansion01!MRQS_E01_160_GastonPart_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Gaston.
+è
+VStory!Expansion01!MRQS_E01_160_GastonPart_Group02_Step02_ConsumeItem01_StepDescription5Inspect the Golden Omelet Recipe from your Inventory.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess01_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess02_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess03_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess04_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess05_StepDescription{ItemName}.
+É
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_StepDescription7Find the Golden Ingredients inside the Cave of Wonders:
+≥
+BStory!Expansion01!MRQS_E01_160_GastonPart_Group03_StoryDescriptionmGaston refuses to help unless you cook him a hearty breakfast first. His breakfast order is a bit... intense.
+k
+SStory!Expansion01!MRQS_E01_160_GastonPart_Group04_Step04_CookMeal01_StepDescriptionCook the {ItemName}.
+l
+IStory!Expansion01!MRQS_E01_160_GastonPart_Group05_Step05_ReadyDescriptionBring the {ItemName} to Gaston.
+n
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group05_Step05_StepDescription"Make sure you have the {ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess06_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess07_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess08_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess09_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess10_StepDescription{ItemName}.
+w
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess11_StepDescription!{ItemName} from Rapunzel's Tower.
+ë
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_StepDescriptionEGather materials to craft a <ActivityItem>Shiny LeFou</ActivityItem>:
+…
+BStory!Expansion01!MRQS_E01_160_GastonPart_Group06_StoryDescriptionÇGaston's order is complete, but now he's asking that you make him a new sidekick out of gemstones. Is there no end to his demands?
+v
+TStory!Expansion01!MRQS_E01_160_GastonPart_Group07_Step07_CraftItem01_StepDescriptionCraft a {ItemName} for Gaston.
+m
+IStory!Expansion01!MRQS_E01_160_GastonPart_Group08_Step08_ReadyDescription Bring the Shiny LeFou to Gaston.
+z
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group08_Step08_StepDescription.Make sure you have the Shiny LeFou for Gaston.

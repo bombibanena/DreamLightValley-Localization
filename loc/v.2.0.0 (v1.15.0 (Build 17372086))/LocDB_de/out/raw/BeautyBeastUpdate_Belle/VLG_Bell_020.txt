@@ -1,0 +1,69 @@
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Any_CompletedRequestDescription
+Talk to Belle.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_AvailableDescription
+Belle wants to be able to read the <ActivityItem>Mysterious Book</ActivityItem> she has found in the Dreamlight Library and asks for your help to get a <ActivityItem>Design</ActivityItem> for a <ActivityItem>Translation Machine</ActivityItem> from the Beauty and the Beast Realm.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_CompletedStoryDescription
+With the <ActivityItem>Translation Machine</ActivityItem> in place, the only thing left to do is to talk to Belle so she uses it to decrypt the <ActivityItem>Mysterious Journal</ActivityItem>.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_DisplayName
+Breaking the Code
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group01_Step01_Possess01_StepDescription
+Find <ActivityItem>Maurice's Design Pages</ActivityItem> in the Beauty and the Beast Realm.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group02_Step02_BringItem01_StepDescription
+Make sure you have <ActivityItem>Maurice's Design Pages</ActivityItem> in your Inventory.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group02_Step02_ReadyDescription
+Bring <ActivityItem>Maurice's Design Pages</ActivityItem> to Belle.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_Step03_Possess02_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_Step03_Possess03_StepDescription
+<ActivityItem>Tinkering Parts</ActivityItem>.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_Step03_Possess04_StepDescription
+<ActivityItem>Glass</ActivityItem>.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_Step03_Possess05_StepDescription
+<ActivityItem>Motherboard</ActivityItem>.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_Step04_TalkToCharacter01_StepDescription
+Talk to WALLÂ·E.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_StepDescription
+Gather the components for the <ActivityItem>Translation Machine</ActivityItem>:
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group03_StoryDescription
+After discussing <ActivityItem>Maurice's Designs</ActivityItem> with Belle, you realize that the only thing Maurice needed to complete his <ActivityItem>Translation Machine</ActivityItem> was a <ActivityItem>Motherboard</ActivityItem>, and you decide to ask WALLÂ·E for one while hunting for the rest of the materials.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group04_Step05_CraftItem01_StepDescription
+Craft the <ActivityItem>Translation Machine</ActivityItem>.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group05_Step06_BringItem02_StepDescription
+Make sure the <ActivityItem>Translation Machine</ActivityItem> is in your Inventory.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group05_Step06_ReadyDescription
+Give the <ActivityItem>Translation Machine</ActivityItem> to Belle.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group05_StoryDescription
+Now that the <ActivityItem>Translation Machine</ActivityItem> is ready, it's time to bring it to Belle.
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I go?
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!BeautyBeast!Belle!VLG_Bell_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

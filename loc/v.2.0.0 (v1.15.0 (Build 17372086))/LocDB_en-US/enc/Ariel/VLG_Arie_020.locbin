@@ -1,0 +1,89 @@
+
+j
+EVillage!LilMermaid!Ariel!VLG_Arie_020_Any_CompletedRequestDescription!Tell Ariel what you've just seen.
+œ
+:Village!LilMermaid!Ariel!VLG_Arie_020_AvailableDescriptionêAriel is happy to be back but worried when she realizes Eric is nowhere to be found. You decide to ask the other Villagers if they remember him.
+Õ
+?Village!LilMermaid!Ariel!VLG_Arie_020_CompletedStoryDescriptionâAfter gathering all the pieces and fixing the statue, you discover a <ActivityItem>Memory Piece</ActivityItem> showing Eric talking to Ursula. You tell Ariel you'll take care of this by earning the Sea Witch's trust and friendship. Eric's life is now in your hands.
+G
+1Village!LilMermaid!Ariel!VLG_Arie_020_DisplayNameThe Missing Prince
+á
+VVillage!LilMermaid!Ariel!VLG_Arie_020_Group01_Step01_TalkToCharacter01_StepDescription-Bring the piece of Eric's Statue to Kristoff.
+»
+>Village!LilMermaid!Ariel!VLG_Arie_020_Group01_StoryDescriptionÖTo find Eric, you'll need you to ask Kristoff if he remembers anything more by showing him the piece of Eric's Statue that you found.
+z
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group02_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>Where should I go?
+ö
+NVillage!LilMermaid!Ariel!VLG_Arie_020_Group02_Step02_Possess01_StepDescriptionHSearch Kristoff's House for a <ActivityItem>Statue Piece</ActivityItem>.
+w
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group03_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+}
+DVillage!LilMermaid!Ariel!VLG_Arie_020_Group03_Step09_StepDescription5Ask the following Villagers about Eric's whereabouts:
+a
+VVillage!LilMermaid!Ariel!VLG_Arie_020_Group03_Step09_TalkToCharacter02_StepDescriptionMerlin.
+_
+VVillage!LilMermaid!Ariel!VLG_Arie_020_Group03_Step09_TalkToCharacter06_StepDescriptionMaui.
+c
+VVillage!LilMermaid!Ariel!VLG_Arie_020_Group03_Step09_TalkToCharacter07_StepDescription	Kristoff.
+}
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+y
+VVillage!LilMermaid!Ariel!VLG_Arie_020_Group04_Step04_TalkToCharacter03_StepDescriptionAsk Donald about Eric's Statue.
+Ÿ
+>Village!LilMermaid!Ariel!VLG_Arie_020_Group04_StoryDescriptionñKristoff owned another piece of the statue, which he used as a paperweight, and tells you he fished out the rest of the statue with his friend Donald.
+~
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group05_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What am I looking for?
+¢
+NVillage!LilMermaid!Ariel!VLG_Arie_020_Group05_Step12_Possess04_StepDescriptionPSearch Kristoff's House for the <ActivityItem>Expedition Records</ActivityItem>.
+—
+>Village!LilMermaid!Ariel!VLG_Arie_020_Group05_StoryDescriptionéKristoff remembers helping Eric with his expeditions. He suggests you search his House for the records to find out where Eric might have gone.
+≈
+NVillage!LilMermaid!Ariel!VLG_Arie_020_Group06_Step03_Possess02_StepDescriptionsSearch for the second <ActivityItem>Statue Piece</ActivityItem> in the ground near the water in the Glade of Trust.
+
+PVillage!LilMermaid!Ariel!VLG_Arie_020_Group06_Step13_BringItem01_StepDescription+Find {TargetAmount} {ItemName} for Scrooge.
+{
+EVillage!LilMermaid!Ariel!VLG_Arie_020_Group06_Step13_ReadyDescription2Bring {TargetAmount} {ItemName} to Scrooge McDuck.
+t
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+í
+VVillage!LilMermaid!Ariel!VLG_Arie_020_Group07_Step07_TalkToCharacter04_StepDescription8Tell Ariel you've gathered all the pieces of the statue.
+}
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group08_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>How should I proceed?
+Ä
+PVillage!LilMermaid!Ariel!VLG_Arie_020_Group08_Step08_CraftItem01_StepDescription,Fix the broken statue at a Crafting Station.
+z
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group09_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>Where should I go?
+≠
+VVillage!LilMermaid!Ariel!VLG_Arie_020_Group09_Step05_TalkToCharacter05_StepDescriptionSTalk to Scrooge McDuck about the <ActivityItem>Statue Piece</ActivityItem> he owns.
+≈
+NVillage!LilMermaid!Ariel!VLG_Arie_020_Group09_Step06_Possess03_StepDescriptionsSearch for the second <ActivityItem>Statue Piece</ActivityItem> in the ground near the water in the Glade of Trust.
+≥
+>Village!LilMermaid!Ariel!VLG_Arie_020_Group09_StoryDescriptionqDonald kept a piece for himself and buried it in the Glade of Trust and gave the last piece to his Uncle Scrooge.
+t
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group10_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+¨
+DVillage!LilMermaid!Ariel!VLG_Arie_020_Group10_Step10_StepDescriptiondPlace <ActivityItem>Eric's Statue</ActivityItem> near the base of the big staircase on Dazzle Beach.
+¥
+MVillage!LilMermaid!Ariel!VLG_Arie_020_Group11_Step11_Unlock01_StepDescriptioncPick up the <ActivityItem>Memory</ActivityItem> near the base of the big staircase on Dazzle Beach.
+ã
+=Village!LilMermaid!Ariel!VLG_Arie_020_Group11_StepDescriptionJA <ActivityItem>Memory</ActivityItem> appeared when you placed the statue.
+y
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group12_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+¢
+PVillage!LilMermaid!Ariel!VLG_Arie_020_Group12_Step14_BringItem02_StepDescriptionNGet the <ActivityItem>Expedition Records</ActivityItem> from Kristoff's House.
+è
+EVillage!LilMermaid!Ariel!VLG_Arie_020_Group12_Step14_ReadyDescriptionFBring the <ActivityItem>Expedition Records</ActivityItem> to Kristoff.
+~
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group13_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What am I looking for?
+b
+=Village!LilMermaid!Ariel!VLG_Arie_020_Group13_StepDescription!Bring what you've found to Ariel.
+‘
+>Village!LilMermaid!Ariel!VLG_Arie_020_Group13_StoryDescriptionëThe record of Eric's expeditions mentions a shipwreck off the coast of Dazzle Beach. You fish out the face of a statue that looks just like Eric.
+Ö
+PVillage!LilMermaid!Ariel!VLG_Arie_020_Group14_Step16_VisitArea01_StepDescription1Search for clues near Skull Rock on Dazzle Beach.
+O
+BVillage!LilMermaid!Ariel!VLG_Arie_020_Group15_OngoingRequestButton	What now?
+£
+NVillage!LilMermaid!Ariel!VLG_Arie_020_Group15_Step17_Possess05_StepDescriptionQTry to fish out the clue to the <Lore>Right of Skull Rock</Lore> on Dazzle Beach.
+i
+8Village!LilMermaid!Ariel!VLG_Arie_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

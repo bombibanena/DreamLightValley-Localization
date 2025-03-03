@@ -1,0 +1,99 @@
+TAG: Ursula_004_f
+Ah, {PlayerName}, there you are. I've thought of a way to continue what we started together. I'm going to make the surface of the Valley far more entertaining.
+
+TAG: Ursula_005_f
+And I need an assistant. Tell me you'll help me.
+
+TAG: Player_000_choice_000_f
+Yes, always.
+
+TAG: Player_000_choice_001_f
+Hmm, maybe later.
+
+TAG: Ursula_006_f
+Fabulous!
+
+TAG: Ursula_008_f
+Now, angelfish, I don't know if you've heard, but we seafolk are superb entertainers.
+
+TAG: Ursula_009_f
+I'd like to show the Villagers what they're missing and put on a performance for the Valley.
+
+TAG: Ursula_010_f
+Something that'll put Triton's boring little spectacles to shame.
+
+TAG: Player_001_f
+You could get some Villagers to help you. That would be a good opportunity for...
+
+TAG: Player_001_choice_000_f
+...you to make some friends.
+
+TAG: Player_001_choice_001_f
+...the whole Village to come together.
+
+TAG: Player_001_choice_002_f
+...you to show them how it's done.
+
+TAG: Ursula_011_f
+Hmph. We'll see. Though...
+
+TAG: Ursula_017_f
+I suppose I could use some backup singers to complement my stunning voice. Who do you think would work?
+
+TAG: Player_003_f
+We need someone...
+
+TAG: Player_003_choice_000_f
+...to be your partner in crime for duets.
+
+TAG: Player_003_choice_001_f
+...with a sweet voice for high harmonies.
+
+TAG: Player_003_choice_002_f
+...for the lower harmonies.
+
+TAG: Ursula_020_f
+Maybe Mother Gothel?
+
+TAG: Ursula_000_f
+Gothel! Ha-ha-ha! I'd love for her to be part of the show.
+
+TAG: Ursula_024_f
+Great, sounds like that's everyone we'll need! I'll ask them to join.
+
+TAG: Ursula_025_f
+Join? Hardly. No one graces Ursula's stage without an audition.
+
+TAG: Ursula_028_f
+And since you're going to be helping me... you should look the part. Here. Put these on.
+
+TAG: Ursula_029_f
+I had them made just for you!
+
+TAG: Ursula_021_f
+Maybe Mirabel? Her singing voice would contrast yours nicely!
+
+TAG: Ursula_023_f
+You're right. It would.
+
+TAG: Ursula_001_f
+Maybe Kristoff? He doesn't like to brag, but he's a pretty great singer, and he plays a mean lute!
+
+TAG: Ursula_002_f
+Kristoff... I doubt he'll try to upstage me. He'll do.
+
+TAG: Ursula_012_f
+Ugh, must you always be so sentimental?
+
+TAG: Ursula_014_f
+Last time, you were complaining about being exiled. Wouldn't you like to be part of something now that you can be?
+
+TAG: Ursula_015_f
+Fine... you may have a point.
+
+TAG: Ursula_013_f
+Hmm... you do have a point...
+
+TAG: Ursula_007_f
+Fine... but don't take too long. You wouldn't want me to wither away from boredom, would you?
+

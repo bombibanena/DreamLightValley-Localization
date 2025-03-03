@@ -1,0 +1,51 @@
+TAG: Sally_001_f
+Oh! I'm... back? Jack, are you there?
+
+TAG: Sally_002_f
+What happened?!
+
+TAG: Player_000_choice_000_f
+I brought you back!
+
+TAG: Player_000_choice_001_f
+Jack brought you back!
+
+TAG: Player_000_choice_002_f
+Jack and I brought you back!
+
+TAG: Sally_007_f
+Jack helped a little.
+
+TAG: Sally_003_f
+Well, thank you to you and Jack!
+
+TAG: Sally_004_f
+I'm so glad that the spiders I sent were able to give you the message.
+
+TAG: Player_001_choice_000_f
+Such a creative way of communicating!
+
+TAG: Player_001_choice_001_f
+I hope you can use mail going forward...
+
+TAG: Player_001_choice_002_f
+Yup, worked like a charm.
+
+TAG: Sally_009_f
+I've always gotten along well with spiders...
+
+TAG: Sally_005_f
+I spent so long in the holiday travel path, I was beginning to worry that the spiders didn't get my message to Jack.
+
+TAG: Sally_006_f
+Thank goodness they did. And... Oh! Jack!
+
+TAG: Sally_010_f
+Oh. Well, if that would make everyone more comfortable, then I certainly will.
+
+TAG: Sally_011_f
+That's such a relief.
+
+TAG: Sally_008_f
+I helped a bit too.
+

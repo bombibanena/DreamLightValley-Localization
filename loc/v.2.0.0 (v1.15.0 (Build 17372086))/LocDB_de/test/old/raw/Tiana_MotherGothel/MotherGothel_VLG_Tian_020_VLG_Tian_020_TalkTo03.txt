@@ -1,0 +1,54 @@
+TAG: MotherGothel_001_f
+Хорошо Матушка Готель, у нас новый сад.
+
+TAG: MotherGothel_002_f
+Да, полагаю, это приемлемо.
+
+TAG: MotherGothel_003_f
+Можешь выпустить маленького Луиса?
+
+TAG: MotherGothel_004_f
+Не торопись, {PlayerName}.
+
+TAG: MotherGothel_005_f
+Я, возможно, передумала.
+
+TAG: Player_000_choice_000_f
+Нет.
+
+TAG: Player_000_choice_001_f
+Сделка есть сделка, Матушка Готель.
+
+TAG: Player_000_choice_002_f
+Ладно, тогда я смогу откопать сад.
+
+TAG: MotherGothel_016_f
+Как грубо!
+
+TAG: MotherGothel_018_f
+Я уверен, что кто-то другой в Долине может помочь мне освободить Маленького Луиса.
+
+TAG: MotherGothel_007_f
+Серьёзно, {PlayerName}, я только дразнил!
+
+TAG: MotherGothel_008_f
+Ты относишься ко всему серьёзно.
+
+TAG: MotherGothel_009_f
+Возьми ключ.
+
+TAG: MotherGothel_011_f
+Спасибо.
+
+TAG: MotherGothel_012_f
+А теперь, пожалуйста, оставьте меня в покое.
+
+TAG: MotherGothel_013_f
+С удовольствием.
+
+TAG: MotherGothel_017_f
+Возможно, но я не верю, что когда-либо говорил, что отпущу твоего маленького питомца.
+
+TAG: MotherGothel_006_f
+Я не удивлена.
+

@@ -1,0 +1,31 @@
+
+7
+Mirabel_001_f&{PlayerName}, is what I've heard true?
+I
+Mirabel_002_f8Is Mulan back in the Village and having one of her teas?
+)
+Mirabel_003_fYes, and you're invited.
+b
+Mirabel_004_fQOh, I can't wait! I've missed those comfy afternoons sipping tea with my friends.
+>
+Mirabel_005_f-What should I bring? Maybe a cake? TWO cakes?
+3
+Player_000_f#You don't need to bring anything...
+6
+Player_000_choice_000_f...your presence is enough.
+7
+Player_000_choice_001_fThere's no reason to stress.
+7
+Player_000_choice_002_fMulan just wants to see you.
+,
+Mirabel_006_fThat's so sweet. Thank you.
+$
+Mirabel_000_fI'll see you there!
+k
+Mirabel_007_fZRight. Of course. That makes sense. I mean, why would I be stressing about a little party?
+9
+Mirabel_010_f(*sigh* ... Maybe I do need a cup of tea.
+8
+Mirabel_008_f'Of course. And I can't wait to see her!
+(
+Mirabel_009_fIt's been WAY too long!

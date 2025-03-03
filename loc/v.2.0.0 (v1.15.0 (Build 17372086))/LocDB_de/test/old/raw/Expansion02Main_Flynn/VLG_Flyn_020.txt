@@ -1,0 +1,93 @@
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Any_CompletedRequestDescription
+Поговори с Флин о его памяти.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_AvailableDescription
+Благодаря {PlayerName}, Флин у него появилось новое понимание своего сердца, однако беспокойство все еще было высечено на его красивое лицо. {PlayerName} знал, что они должны увидеть, в чем дело.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_DisplayName
+Памятная полоса
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group01_Step01_Listen01_StepDescription
+Послушай Флин и Лорестера.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group01_StoryDescription
+С мягким руководством {PlayerName} Флин понял, что ему нужно проконсультироваться с Лорестером, если он хочет увидеть эти загадочные мечты.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group02_Step02_Unlock01_StepDescription
+Возьмите <Lore>Флин Память</Lore> рядом с Лорезером.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group03_Step03_TalkToCharacter01_StepDescription
+Поговори с Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group04_Step04_TalkToCharacter02_StepDescription
+Поговори с Урсула.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group04_StoryDescription
+Отчаявшись восстановить свои воспоминания, Флин согласился, что {PlayerName} должен поговорить с пугающей морской ведьмой Урсула.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem01_StepDescription
+Зуб Морского Монстра.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem02_StepDescription
+Очевидная древесина.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem03_StepDescription
+Соль Кристал.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem04_StepDescription
+Молния.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem05_StepDescription
+Олив.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_ReadyDescription
+Приведите Ингредиентов на Урсула.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_StepDescription
+Соберите следующие ингредиенты для зелья Урсула:
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group05_StoryDescription
+Морская ведьма обнаружила, что у нее действительно есть зелье, чтобы помочь Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group06_Step06_VisitArea01_StepDescription
+Встретимся с Флин в его доме.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group07_Step07_BringItem06_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Урсула's Polion</ActivityItem>.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group07_Step07_ReadyDescription
+Отдай зелье Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group08_Step08_Unlock02_StepDescription
+Посмотри на память Флин в его доме.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group09_Step09_TalkToCharacter03_StepDescription
+Поговори с Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group10_Step10_TalkToCharacter04_StepDescription
+Поговори с Аид.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group10_StoryDescription
+Побужденный волнениями из-за своего прошлого, Флин чувствовал себя побежденным, с мужеством и решимостью {PlayerName} отправился в поисках того, кто может помочь: Аид, опасный правитель Подземного мира.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group11_Step11_Possess01_StepDescription
+Ищите что-нибудь полезное в Аид' House.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group12_Step12_VisitArea02_StepDescription
+Встретимся с Флин в его доме.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group13_Step13_BringItem07_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Tiara</ActivityItem>.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group13_Step13_ReadyDescription
+Отдай Тиару Флин.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group13_StoryDescription
+Под трифлями и безделушками в коробке Аид' что-то красиво блестит... протягиваясь, {PlayerName} вытащил Тиару принцессы Авроры. Это была идеальная вещь, чтобы помочь Флин с его потерянными воспоминаниями.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_Group14_Step14_Unlock03_StepDescription
+Посмотри на память Флин в его доме.
+
+TAG: Village!Tangled!Flynn!VLG_Flyn_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

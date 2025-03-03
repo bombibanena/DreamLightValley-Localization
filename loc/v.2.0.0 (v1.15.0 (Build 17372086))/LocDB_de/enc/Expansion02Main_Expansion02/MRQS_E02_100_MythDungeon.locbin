@@ -1,0 +1,81 @@
+
+i
+JStory!Expansion02!MRQS_E02_100_MythDungeon_Any_CompletedRequestDescriptionПоговори с Аид.
+�
+?Story!Expansion02!MRQS_E02_100_MythDungeon_AvailableDescription�Наконец, {PlayerName} расчистил путь к горе Олимпус, но проблемы, ожидавшиеся внутри, должны быть решены прежде, чем Аид согласится положить конец вражде.
+�
+DStory!Expansion02!MRQS_E02_100_MythDungeon_CompletedStoryDescription�{PlayerName} захватил Snippet, который Аид украл у Lorewer. После восстановления горы Олимпус осталось сделать только одно: заставить Аид прекратить вражду с Малефисента.
+M
+6Story!Expansion02!MRQS_E02_100_MythDungeon_DisplayNameГора Олимп
+
+UStory!Expansion02!MRQS_E02_100_MythDungeon_Group01_Step01_VisitArea01_StepDescription&Войдите в гору Олимп.
+�
+[Story!Expansion02!MRQS_E02_100_MythDungeon_Group02_Step02_TalkToCharacter01_StepDescription0Найди Аид и поговори с ним.
+�
+IStory!Expansion02!MRQS_E02_100_MythDungeon_Group03_Step03_StepDescriptionAНайди способ открыть первые ворота.
+|
+[Story!Expansion02!MRQS_E02_100_MythDungeon_Group04_Step04_FollowCharacter01_StepDescriptionСледуйте за Аид.
+|
+]Story!Expansion02!MRQS_E02_100_MythDungeon_Group04_Step04_FollowCharacter01_TalkToDescriptionПоговори с Аид.
+t
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional05_StepDescriptionГубки и Слава.
+w
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional06_StepDescriptionПламя Прометея.
+�
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional07_StepDescription'Потерять свои марблы.
+�
+IStory!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_StepDescription�Изучите мифологию и завершите три мифических испытания, чтобы добраться до горы Олимп.
+�
+SStory!Expansion02!MRQS_E02_100_MythDungeon_Group06_Step25_Possess04_StepDescriptionhНайдите еще два <ActivityItem>Vases</ActivityItem> глубже в горе Олимпус.
+�
+IStory!Expansion02!MRQS_E02_100_MythDungeon_Group06_Step25_StepDescription�Аид и {PlayerName} пытались найти вазы, чтобы помочь им достичь своих целей. (Ну, {PlayerName} работал, а Аид смотрел.)
+�
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group07_Step07_Conditional01_StepDescription>Найди способ повернуть платформу.
+�
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group08_Step08_Conditional02_StepDescriptionAНайди способ поднять первые ворота.
+�
+IStory!Expansion02!MRQS_E02_100_MythDungeon_Group09_Step09_StepDescription=Найди способ открыть второй вход.
+|
+[Story!Expansion02!MRQS_E02_100_MythDungeon_Group10_Step10_FollowCharacter02_StepDescriptionСледуйте за Аид.
+|
+]Story!Expansion02!MRQS_E02_100_MythDungeon_Group10_Step10_FollowCharacter02_TalkToDescriptionПоговори с Аид.
+�
+UStory!Expansion02!MRQS_E02_100_MythDungeon_Group11_Step05_VisitArea05_StepDescription)Исследуйте гору Олимп.
+|
+[Story!Expansion02!MRQS_E02_100_MythDungeon_Group12_Step12_FollowCharacter04_StepDescriptionСледуйте за Аид.
+|
+]Story!Expansion02!MRQS_E02_100_MythDungeon_Group12_Step12_FollowCharacter04_TalkToDescriptionПоговори с Аид.
+�
+BStory!Expansion02!MRQS_E02_100_MythDungeon_Group13_StepDescriptionhНайдите еще два <ActivityItem>Vases</ActivityItem> глубже в горе Олимпус.
+�
+IStory!Expansion02!MRQS_E02_100_MythDungeon_Group14_Step14_StepDescriptionAНайди способ открыть третьи ворота.
+�
+XStory!Expansion02!MRQS_E02_100_MythDungeon_Group15_Step15_CatchSnippet01_StepDescriptioncЗахват <ActivityItem>Demon Snippet</ActivityItem> внутри тронной комнаты.
+�
+CStory!Expansion02!MRQS_E02_100_MythDungeon_Group15_StoryDescriptionkПройдя испытание, они почувствовали, что победа в их руках.
+�
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group16_Step16_Conditional03_StepDescription=Найди способ открыть второй мост.
+�
+CStory!Expansion02!MRQS_E02_100_MythDungeon_Group16_StoryDescription�Еще одна головоломка ждала их, когда они пытались найти способ пройти второй мост.
+|
+[Story!Expansion02!MRQS_E02_100_MythDungeon_Group17_Step17_FollowCharacter03_StepDescriptionСледуйте за Аид.
+|
+[Story!Expansion02!MRQS_E02_100_MythDungeon_Group18_Step18_FollowCharacter05_StepDescriptionСледуйте за Аид.
+w
+UStory!Expansion02!MRQS_E02_100_MythDungeon_Group19_Step19_VisitArea04_StepDescriptionПересечь мостик.
+�
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group20_Step20_Conditional04_StepDescription=Найди способ открыть второй вход.
+|
+[Story!Expansion02!MRQS_E02_100_MythDungeon_Group21_Step21_FollowCharacter06_StepDescriptionСледуйте за Аид.
+�
+SStory!Expansion02!MRQS_E02_100_MythDungeon_Group22_Step24_Possess03_StepDescriptionhНайдите еще два <ActivityItem>Vases</ActivityItem> глубже в горе Олимпус.
+�
+CStory!Expansion02!MRQS_E02_100_MythDungeon_Group22_StoryDescription�Владыка Подземного мира и {PlayerName} были у самых врат Олимпа, но им нужно было ответить на важный вопрос:"Что не выглядит как ключ, но работает как ключ?"
+u
+WStory!Expansion02!MRQS_E02_100_MythDungeon_Group23_Step26_Conditional08_StepDescriptionОпустите мост.
+�
+IStory!Expansion02!MRQS_E02_100_MythDungeon_Group23_Step26_StepDescriptiondЗахват <ActivityItem>Demon Snippets</ActivityItem> внутри тронной комнаты.
+{
+BStory!Expansion02!MRQS_E02_100_MythDungeon_Group23_StepDescription5Появилось больше Сниппетсов!
+s
+UStory!Expansion02!MRQS_E02_100_MythDungeon_Group24_Step22_VisitArea02_StepDescriptionПересечь мост.

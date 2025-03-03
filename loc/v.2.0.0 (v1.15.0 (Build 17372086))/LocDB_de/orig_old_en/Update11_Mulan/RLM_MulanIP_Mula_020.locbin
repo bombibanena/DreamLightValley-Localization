@@ -1,0 +1,75 @@
+
+X
+FRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Any_CompletedRequestDescriptionTalk to Mulan.
+™
+;Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_AvailableDescriptionZMulan needs your help to clear the road and allow someone to come pick up the Dragon Army.
+‹
+@Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_CompletedStoryDescriptionGMulan has arrived in the Valley. You should see how she feels about it.
+I
+2Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_DisplayNameProtecting the Camp
+…
+URealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_RemoveBlocker01_StepDescription,The <ActivityItem>Sand Piles</ActivityItem>.
+€
+URealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_RemoveBlocker02_StepDescription'The <ActivityItem>Rocks</ActivityItem>.
+P
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step01_StepDescriptionRemove:
+€
+ORealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step02_Possess01_StepDescription-The <ActivityItem>Broken Logs</ActivityItem>.
+]
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_Step02_StepDescriptionGather and fish out:
+º
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_StoryDescriptionwShe tells you it's time to use all the skills you honed during your training to help fix the damage from the landslide.
+k
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group02_Step03_TalkToCharacter01_StepDescriptionReturn to Mulan.
+§
+VRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_Step04_GardeningPlant01_StepDescriptionMPlant <ActivityItem>Mulan's Tree Seeds</ActivityItem> in the patches of soil.
+ˆ
+RRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_Step16_WaterPlant02_StepDescription2Water the <ActivityItem>Tree Seeds</ActivityItem>.
+ä
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_StoryDescription The road is clear now but Mulan wants to make sure it's protected from another landslide by planting some trees to stabilize the ground. You decide to help her.
+i
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group05_Step06_TalkToCharacter02_StepDescriptionTalk to Mulan.
+{
+ORealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_Possess02_StepDescription(<ActivityItem>Brown Sand</ActivityItem>.
+v
+ORealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_Possess03_StepDescription#<ActivityItem>Fiber</ActivityItem>.
+Z
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_Step07_StepDescriptionGather Materials:
+Õ
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group06_StoryDescription‘The camp is now protected from potential landslides but Mulan also wants to shield it from floods. She asks for your help to craft some Sandbags.
+†
+QRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group07_Step08_CraftItem01_StepDescription1Craft some <ActivityItem>Sandbags</ActivityItem>.
+ƒ
+FRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_Step09_ReadyDescription9Bring the <ActivityItem>Sandbags</ActivityItem> to Mulan.
+˜
+ERealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_Step09_StepDescriptionOMake sure you have the <ActivityItem>Sandbags</ActivityItem> in your Inventory.
+u
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group09_Step10_FollowCharacter01_StepDescriptionFollow Mulan to the tents.
+k
+YRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group09_Step10_FollowCharacter01_TalkToDescriptionTalk to Mulan.
+
+SRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group10_Step11_Conditional01_StepDescription(Make sure everything is okay with Mushu.
+ë
+?Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group10_StoryDescription§Now that the camp is safe, Mulan is looking for a new adventure. She'd be okay with coming to Dreamlight Valley as soon as she's sure Mushu doesn't need any more help.
+i
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group11_Step12_TalkToCharacter03_StepDescriptionTalk to Mulan.
+­
+URealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group12_Step13_PlaceBuilding01_StepDescriptionTReturn to the Valley and place <ActivityItem>Mulan and Mushu's House</ActivityItem>.
+—
+NRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group13_Step14_Unlock01_StepDescriptionEFinish building <ActivityItem>Mulan and Mushu's House</ActivityItem>.
+w
+WRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group14_Step15_UnlockCharacter01_StepDescriptionWelcome Mulan to the Valley.
+x
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+x
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group03_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+u
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+z
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group08_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+z
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group12_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+u
+CRealm!Mulan!Mulan!RLM_MulanIP_Mula_020_Group14_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+i
+9Realm!Mulan!Mulan!RLM_MulanIP_Mula_020_StartRequestButton,<smallcaps>{title}</smallcaps><br>What's up?

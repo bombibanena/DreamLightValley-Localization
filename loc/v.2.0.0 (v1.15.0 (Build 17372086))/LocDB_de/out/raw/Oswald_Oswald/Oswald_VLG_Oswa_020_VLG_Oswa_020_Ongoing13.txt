@@ -1,0 +1,6 @@
+TAG: Oswald_000_f
+Still working on it! You needed a <ActivityItem>Rug</ActivityItem>, some <ActivityItem>Chairs</ActivityItem>, and <ActivityItem>Decorations</ActivityItem>, all in <Lore>black and white</Lore>, right?
+
+TAG: Oswald_001_f
+Right you are, {PlayerName}!
+

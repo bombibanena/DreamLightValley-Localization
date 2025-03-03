@@ -1,0 +1,29 @@
+
+{
+CStory!ORQS_Merl_030_FloatingIslands_Any_CompletedRequestDescription4Я могу украсить здесь @phorything!
+n
+8Story!ORQS_Merl_030_FloatingIslands_AvailableDescription2Это кажется немного пустым.
+n
+=Story!ORQS_Merl_030_FloatingIslands_CompletedStoryDescription-Возвращайтесь на Мерлин.
+T
+/Story!ORQS_Merl_030_FloatingIslands_DisplayName!Поговори с Мерлин.
+�
+TStory!ORQS_Merl_030_FloatingIslands_Group01_Step01_TalkToCharacter01_StepDescription�Вы украшаете библиотеку Dreamlight и переводите ее на плавучий остров Плава. Мерлин призывает вас пройти и украсить каждый Плавучий остров, и сделать их своими.
+q
+NStory!ORQS_Merl_030_FloatingIslands_Group02_Step02_VisitArea01_StepDescriptionНебесные острова
+_
+;Story!ORQS_Merl_030_FloatingIslands_Group02_StepDescription Поговори с {TargetNPC}.
+�
+<Story!ORQS_Merl_030_FloatingIslands_Group02_StoryDescription�(Вы также можете нажать {input_mainmenu}, чтобы получить доступ к карте долины и меню Быстрых Путешествий.)
+�
+TStory!ORQS_Merl_030_FloatingIslands_Group03_Step03_TalkToCharacter02_StepDescription�Используй "Хотящее колодец", чтобы отправиться на плавучий остров Плаза.
+�
+NStory!ORQS_Merl_030_FloatingIslands_Group04_Step04_VisitArea02_StepDescription�Мерлин говорит вам, что он нашел способ путешествовать по островам, которые плавают вокруг долины Мечты, используя Willing Wells. Он просит вас использовать колодец, чтобы отправиться на плавучий остров Плаза и встретиться с ним там.
+�
+MStory!ORQS_Merl_030_FloatingIslands_Group05_Step05_Decorate01_StepDescriptionRПоговори с {TargetNPC} на плавающем острове Плаза.
+�
+MStory!ORQS_Merl_030_FloatingIslands_Group05_Step05_Decorate02_StepDescriptionEВозвращайся на плавучий остров Плаза.
+n
+;Story!ORQS_Merl_030_FloatingIslands_Group05_StepDescription/Используйте любую мебель.
+�
+<Story!ORQS_Merl_030_FloatingIslands_Group05_StoryDescription]Перенести библиотеку <Lore>Dreamlight</Lore> на остров Плаза.

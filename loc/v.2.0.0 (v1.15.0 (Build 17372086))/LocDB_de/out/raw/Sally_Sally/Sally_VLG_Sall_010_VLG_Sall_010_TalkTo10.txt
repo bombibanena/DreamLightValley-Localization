@@ -1,0 +1,33 @@
+TAG: Sally_000_f
+Well, that seemed to go better than last time!
+
+TAG: Sally_001_f
+It did! But we need one last thing to enjoy our date...
+
+TAG: Player_000_choice_000_f
+More spiders!
+
+TAG: Player_000_choice_001_f
+Pumpkin carving?
+
+TAG: Player_000_choice_002_f
+A visit from Santa?
+
+TAG: Sally_002_f
+No. Not this time. But thank you.
+
+TAG: Sally_005_f
+There's a <ActivityItem>Halloween Picnic Kit</ActivityItem> that Mickey gave me. I think it would be perfect to mark the spot of our date.
+
+TAG: Sally_007_f
+Do you think you could <Lore>find a good spot for it near the Holiday Tree Portal<Lore>?
+
+TAG: Sally_006_f
+Sure!
+
+TAG: Sally_003_f
+Not this time, but that's a very good idea for next time.
+
+TAG: Sally_004_f
+Oh, certainly not!
+

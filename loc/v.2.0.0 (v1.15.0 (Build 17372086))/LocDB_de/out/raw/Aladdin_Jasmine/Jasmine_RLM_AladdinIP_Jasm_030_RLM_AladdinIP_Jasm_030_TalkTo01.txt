@@ -1,0 +1,54 @@
+TAG: Jasmine_000_f
+Hey Aladdin, can we talk about your experience with wishes?
+
+TAG: Aladdin_000_f
+Sure! What do you want to know?
+
+TAG: Aladdin_001_f
+Any details you can share would be good. You never know what might lead us to some of the wish magic.
+
+TAG: Player_000_f
+Tell me about...
+
+TAG: Player_000_choice_000_f
+...your first wish.
+
+TAG: Player_000_choice_001_f
+...your second wish.
+
+TAG: Player_000_choice_002_f
+...your third wish.
+
+TAG: Player_000_choice_004_f
+No, I know all about those wishes already.
+
+TAG: Aladdin_002_f
+Oh, that one... Not exactly my smartest idea, but I wished to be a prince.
+
+TAG: Aladdin_003_f
+I was in an oasis not too far from Agrabah, and Abu and I had managed to trick Genie into getting us out of the Cave of Wonders.
+
+TAG: Aladdin_004_f
+He was kinda annoyed that we pulled one over on him, so I had to be pretty clear that this was my first wish.
+
+TAG: Aladdin_011_f
+Well, let's get started. Those remnants of Genie's wishes won't find themselves!
+
+TAG: Aladdin_005_f
+My second wish was a real emergency.
+
+TAG: Aladdin_006_f
+I was caught by the guards loyal to Jafar, and they slapped some manacles on me and threw me into the sea!
+
+TAG: Aladdin_007_f
+I never would've made it without Genie's help. To be honest, I barely even remember making the wish, but I'm sure glad Genie saved me.
+
+TAG: Aladdin_008_f
+That was definitely my best wish!
+
+TAG: Aladdin_009_f
+We were on a balcony overlooking the city, and I wished for Genie's freedom.
+
+TAG: Aladdin_010_f
+Genie didn't believe me at first. I think I was halfway to being a prince again before he really heard what I'd wished.
+

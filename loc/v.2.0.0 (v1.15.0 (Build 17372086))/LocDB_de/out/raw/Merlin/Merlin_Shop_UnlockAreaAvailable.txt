@@ -1,0 +1,30 @@
+TAG: Merlin_000_f
+{Placeholder}Hi! Would you like to unlock this Biome?
+
+TAG: Player_000_choice_000_f
+{Placeholder}Yes, let's do it.
+
+TAG: Player_000_choice_001_f
+{Placeholder}Not now. I am scared.
+
+TAG: Player_000_choice_002_f
+{Placeholder}What is this?
+
+TAG: Merlin_001_f
+{Placeholder}Here we go: a new Biome.
+
+TAG: Merlin_002_f
+{Placeholder}It's okay. There could be new evils and dangers in there.
+
+TAG: Merlin_003_f
+{Placeholder}Open up a Biome.
+
+TAG: Merlin_016_f
+{Placeholder}You cannot unlock this Biome. You need {UpgradePrice} Dreamlight and have {CharactersUnlocked} Characters unlocked.
+
+TAG: Player_001_choice_000_f
+{Placeholder}Okay, I will get what I need.
+
+TAG: Merlin_017_f
+{Placeholder}Good, git gud my child.
+

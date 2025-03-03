@@ -1,0 +1,75 @@
+
+]
+EVillage!Tangled!Rapunzel!VLG_Rapu_020_Any_CompletedRequestDescriptionTalk to {TargetNPC}.
+k
+:Village!Tangled!Rapunzel!VLG_Rapu_020_AvailableDescription-Rapunzel wants to talk to you about... bread?
+Ú
+?Village!Tangled!Rapunzel!VLG_Rapu_020_CompletedStoryDescriptionÆRapunzel wants to make one more person's dream come true: yours. She leads you to an ancient wishing pool, thanks you for being her friend, and gives you a coin. Make a wish!
+J
+1Village!Tangled!Rapunzel!VLG_Rapu_020_DisplayNameI've Got a Dreamlight
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
+ô
+OVillage!Tangled!Rapunzel!VLG_Rapu_020_Group02_Step02_CookMeal01_StepDescriptionFFind the Ingredients for the <Lore>Ruby Masoor Dal</Lore> and cook it.
+|
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group03_Step03_TalkToCharacter02_StepDescription"Bring the Ruby Masoor Dal to Remy.
+_
+PVillage!Tangled!Rapunzel!VLG_Rapu_020_Group04_Step04_BringItem01_StepDescription{itemName}.
+q
+EVillage!Tangled!Rapunzel!VLG_Rapu_020_Group04_Step04_ReadyDescription(Share the Ruby Masoor Dal with Rapunzel.
+|
+DVillage!Tangled!Rapunzel!VLG_Rapu_020_Group04_Step04_StepDescription4Make sure you have the {itemName} in your Inventory.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess01_StepDescription{itemName}.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess02_StepDescription{itemName}.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess03_StepDescription{itemName}.
+]
+NVillage!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_Possess04_StepDescription{itemName}.
+q
+DVillage!Tangled!Rapunzel!VLG_Rapu_020_Group05_Step05_StepDescription)Gather materials for Rapunzel's creature:
+º
+>Village!Tangled!Rapunzel!VLG_Rapu_020_Group05_StoryDescriptionzAfter cooking something to rekindle Remy's inspiration, you and Rapunzel decide to fulfill Gaston's dream of being a hero.
+â
+PVillage!Tangled!Rapunzel!VLG_Rapu_020_Group06_Step06_VisitArea01_StepDescription5Return to Rapunzel's Tower to give her the materials.
+_
+PVillage!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem02_StepDescription{itemName}.
+_
+PVillage!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem03_StepDescription{itemName}.
+_
+PVillage!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem04_StepDescription{itemName}.
+_
+PVillage!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_BringItem05_StepDescription{itemName}.
+v
+EVillage!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_ReadyDescription-Bring the materials to Rapunzel in her tower.
+{
+DVillage!Tangled!Rapunzel!VLG_Rapu_020_Group07_Step07_StepDescription3Make sure you have the materials in your Inventory.
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group08_Step08_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+t
+PVillage!Tangled!Rapunzel!VLG_Rapu_020_Group09_Step09_VisitArea02_StepDescription Meet Gaston in Rapunzel's Tower.
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group10_Step10_TalkToCharacter04_StepDescriptionTalk to {TargetNPC}.
+Ä
+RVillage!Tangled!Rapunzel!VLG_Rapu_020_Group11_Step11_TakePicture01_StepDescription*Take a picture of Gaston and the creature.
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group12_Step12_TalkToCharacter05_StepDescriptionTalk to {TargetNPC}.
+ë
+RVillage!Tangled!Rapunzel!VLG_Rapu_020_Group13_Step13_TakePicture02_StepDescription;*sigh* ... Take ANOTHER picture of Gaston and the creature.
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group14_Step14_TalkToCharacter06_StepDescriptionTalk to {TargetNPC}.
+o
+MVillage!Tangled!Rapunzel!VLG_Rapu_020_Group15_Step15_Listen01_StepDescriptionListen to Gaston and Rapunzel.
+ƒ
+>Village!Tangled!Rapunzel!VLG_Rapu_020_Group15_StoryDescriptionÅGaston defeats the papier-m√¢ch√© creature Rapunzel made for him and "saves" her ‚Äî becoming the hero he already believes he is.
+n
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group16_Step16_TalkToCharacter07_StepDescriptionTalk to {TargetNPC}.
+z
+VVillage!Tangled!Rapunzel!VLG_Rapu_020_Group17_Step17_FollowCharacter01_StepDescription Follow Rapunzel to the surprise.
+p
+XVillage!Tangled!Rapunzel!VLG_Rapu_020_Group17_Step17_FollowCharacter01_TalkToDescriptionTalk to {TargetNPC}.
+Å
+RVillage!Tangled!Rapunzel!VLG_Rapu_020_Group18_Step18_FillKeyhole01_StepDescription+Throw the coin in the water... Make a wish!
+i
+8Village!Tangled!Rapunzel!VLG_Rapu_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

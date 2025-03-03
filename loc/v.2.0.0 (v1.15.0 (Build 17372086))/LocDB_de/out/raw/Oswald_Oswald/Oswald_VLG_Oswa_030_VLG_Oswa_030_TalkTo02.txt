@@ -1,0 +1,51 @@
+TAG: Oswald_000_f
+Oswald? How did you get here?
+
+TAG: Oswald_009_f
+You sure are! Maybe you should have tried leaning on your luck for the other challenges too.
+
+TAG: Oswald_010_f
+As the victor, I'll be gracious and say you're right.
+
+TAG: Oswald_011_f
+Well, good job, Oswald. Did you have fun? That's the most important part.
+
+TAG: Oswald_012_f
+You bet your luck I did!
+
+TAG: Oswald_013_f
+And I got a swell reminder about my true skills.
+
+TAG: Oswald_014_f
+Thanks, {PlayerName}!
+
+TAG: Oswald_015_f
+No problem!
+
+TAG: Oswald_016_f
+Now if you're lucky, you won't need my help with your next problem!
+
+TAG: Oswald_001_f
+Or more importantly, how did you get here before me?
+
+TAG: Oswald_002_f
+Oh-hoo-hoo! I win! Thank you, luck!
+
+TAG: Oswald_003_f
+Lemme tell ya what happened... When ya beat me to the Wild Tangle, I knew I had to really start hoofin'.
+
+TAG: Oswald_004_f
+But as I ran along, I stumbled onto this strange tunnel, filled with glowing blue lights.
+
+TAG: Oswald_005_f
+It called to me, {PlayerName}, and I knew I had to explore it!
+
+TAG: Oswald_006_f
+After a while I hit a dead end, so I tried to dig a little further, and it led me here!
+
+TAG: Oswald_007_f
+Wow, that's extremely lucky!
+
+TAG: Oswald_008_f
+Well, I am Oswald the Lucky Rabbit!
+

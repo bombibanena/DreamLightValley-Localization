@@ -1,0 +1,33 @@
+TAG: Jasmine_003_f
+Jasmine, look at this <ActivityItem>Ancient Tome</ActivityItem> that Aladdin and I found!
+
+TAG: Jasmine_005_f
+Hmm...
+
+TAG: Player_000_choice_000_f
+Is that a good "hmm" or a bad "hmm"?
+
+TAG: Player_000_choice_001_f
+Must be a difficult book!
+
+TAG: Player_000_choice_002_f
+I hope what we need is in there!
+
+TAG: Jasmine_006_f
+A good one! It's just a little tricky to read. I think the dialect is different from the ones I've studied...
+
+TAG: Jasmine_007_f
+All right... There's a reference to a container. And... something about alchemy.
+
+TAG: Jasmine_008_f
+I just need a little more time. While I do this, could <Lore>you and Aladdin try repairing the Alchemy Table from the Artisans' District</Lore>? Then we can meet later.
+
+TAG: Jasmine_009_f
+Based on what I'm reading, we're going to need that table, and I should know more about what's in this Tome by then.
+
+TAG: Jasmine_012_f
+It is. It's written in a dialect that's different from the ones I've studied.
+
+TAG: Jasmine_013_f
+I think it just might be...
+

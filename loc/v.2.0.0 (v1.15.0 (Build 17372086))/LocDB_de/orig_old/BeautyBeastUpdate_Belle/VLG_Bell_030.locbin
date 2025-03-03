@@ -1,0 +1,69 @@
+
+i
+FVillage!BeautyBeast!Belle!VLG_Bell_030_Any_CompletedRequestDescriptionПоговори с Белль.
+�
+;Village!BeautyBeast!Belle!VLG_Bell_030_AvailableDescription�<ActivityItem> Translation Machine</ActivityItem> выполнила свою работу, и Белль узнала, что <ActivityItem>Strange Book</ActivityItem> на самом деле является <ActivityItem>Journal</ActivityItem>, принадлежащей лучшей таинственному решателю в Долине Мечты. Она полна решимости раскрыть личность этого таинственного персонажа и просит вас помочь ей, посмотрев поближе на <ActivityItem>Page</ActivityItem> из <ActivityItem> Mysterious Journal</ActivityItem>0, которую она все еще не может прочитать, несмотря на расшифровку.
+�
+@Village!BeautyBeast!Belle!VLG_Bell_030_CompletedStoryDescription�Теперь, когда Белль готов, вам, возможно, интересно, какие у неё планы на следующие приключения, и лучший способ узнать это - спросить ее.
+h
+2Village!BeautyBeast!Belle!VLG_Bell_030_DisplayName2Лучшая тайна в долине Мечты
+�
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group01_Step01_ConsumeItem01_StepDescriptionRОзнакомьтесь с <ActivityItem>Page из Журнала</ActivityItem>.
+z
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group02_Step02_TalkToCharacter01_StepDescriptionПоговори с Белль.
+�
+OVillage!BeautyBeast!Belle!VLG_Bell_030_Group03_Step03_Possess01_StepDescription|Найдите потерянный объект, ловя рыбу в месте, изображенном в Память.
+�
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group03_StoryDescription�<ActivityItem>Page</ActivityItem> превратился в память, поставив вас на след объекта, потерянного под водой рядом с руинами.
+�
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group04_Step04_TalkToCharacter02_StepDescription+Возвращайтесь на Белль.
+�
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group05_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Куда мне идти?
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_030_Group05_Step05_VisitArea01_StepDescriptionDНайдите <ActivityItem>Board</ActivityItem> из памяти.
+�
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group05_StoryDescription�Потерянный объект на самом деле был <ActivityItem>Fishing Hat</ActivityItem>, который оказался еще одной Памятью, показавшей вам <ActivityItem>Board</ActivityItem> в таинственной комнате, которую вы сейчас должны найти.
+�
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group06_Step06_Interaction01_StepDescription6Осмотрите <ActivityItem>Board</ActivityItem>.
+�
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group07_Step07_ConsumeItem03_StepDescriptionXИзучите <ActivityItem>Notes</ActivityItem> с <ActivityItem>Board</ActivityItem>.
+�
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group08_Step08_TalkToCharacter03_StepDescription+Возвращайтесь на Белль.
+~
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group09_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+TVillage!BeautyBeast!Belle!VLG_Bell_030_Group09_Step09_PurchaseItem01_StepDescription[Закажи <ActivityItem>Elegant Archester</ActivityItem> от Скрудж Макдак.
+z
+WVillage!BeautyBeast!Belle!VLG_Bell_030_Group09_Step10_TalkToCharacter04_StepDescriptionПоговори с Зверь.
+y
+>Village!BeautyBeast!Belle!VLG_Bell_030_Group09_StepDescription7Возьми мебель для офиса Белль.
+�
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group09_StoryDescription�Белль помнит, что она была лучшим таинственным Солвером в долине Мечты и что у нее был офис в доме.
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_BringItem01_StepDescription/<ActivityItem>Elegant Archester</ActivityItem>.
+�
+QVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_BringItem02_StepDescription+<ActivityItem>Writing state</ActivityItem>.
+z
+FVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_ReadyDescription0Принесите мебель на Белль.
+�
+EVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_Step11_StepDescription]Убедись, что у тебя есть вся мебель для офиса Белль:
+�
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group11_Step12_TakePicture01_StepDescription9Возьми селфи с Белль в ее офисе.
+�
+?Village!BeautyBeast!Belle!VLG_Bell_030_Group11_StoryDescription�С ее офисом снова, это идеальная возможность для селфи запомнить момент.
+{
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group12_OngoingRequestButton4<smallcaps>{title}</smallcaps><br> Что я ищу?
+�
+SVillage!BeautyBeast!Belle!VLG_Bell_030_Group12_Step13_ConsumeItem04_StepDescription<Проверьте <ActivityItem>Fishing Hat</ActivityItem>.
+�
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group01_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+{
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group03_OngoingRequestButton4<smallcaps>{title}</smallcaps><br> Что я ищу?
+~
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group07_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+~
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group10_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+~
+CVillage!BeautyBeast!Belle!VLG_Bell_030_Group11_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+j
+9Village!BeautyBeast!Belle!VLG_Bell_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

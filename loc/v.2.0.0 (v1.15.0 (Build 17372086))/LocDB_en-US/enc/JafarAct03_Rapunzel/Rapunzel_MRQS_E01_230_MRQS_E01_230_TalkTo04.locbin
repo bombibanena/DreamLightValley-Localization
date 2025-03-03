@@ -1,0 +1,33 @@
+
+^
+Rapunzel_000_fL{PlayerName}! I'm so glad you're here! There's something I need to show you.
+s
+Rapunzel_001_faI was exploring the Isle when this huge, jagged <Lore>rift</Lore> opened up right in front of me!
+L
+Rapunzel_002_f:That's funny. I was just about to come ask you about that.
+K
+Rapunzel_003_f9Those are Time Rifts, and I need YOUR help to close them!
+L
+Rapunzel_004_f:You need MY help? Well, I'd love to help in any way I can.
+W
+Rapunzel_005_fEBut... wait... How exactly CAN I help you with this specific problem?
+0
+Player_000_choice_000_fUse your imagination.
+=
+Player_000_choice_001_f"Trust me: You're perfect for this!
+-
+Rapunzel_006_fOh! Okay... I'm using it...
+j
+Rapunzel_007_fXHmm... Maybe I could hit the rift with my frying pan? Or try and sew it up with my hair?
+d
+Rapunzel_008_fRWhoops. Not what I meant. I mean your imagination is the key to closing the rifts!
+"
+Rapunzel_009_fReally? But how?
+}
+Rapunzel_010_fkI think this will go faster if I SHOW you. Why don't you <Lore>lead me to that rift you saw opening</Lore>?
+'
+Rapunzel_011_fOf course! Follow me!
+&
+Rapunzel_012_fReally? Perfect how?
+F
+Rapunzel_013_f4Your imagination! It's the key to closing the rifts!

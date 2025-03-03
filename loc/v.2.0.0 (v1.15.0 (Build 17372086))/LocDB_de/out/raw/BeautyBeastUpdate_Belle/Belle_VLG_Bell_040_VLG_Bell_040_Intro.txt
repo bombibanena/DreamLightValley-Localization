@@ -1,0 +1,39 @@
+TAG: Belle_000_f
+{PlayerName}, I have an exciting story to tell you about a treasure hunt. Do you have time to hear it?
+
+TAG: Player_000_choice_000_f
+A treasure hunt! Of course!
+
+TAG: Player_000_choice_001_f
+Some other time.
+
+TAG: Belle_007_f
+Well, since you helped me get my memories back and set up my study again, I've continued reading through my <ActivityItem>Journal</ActivityItem>.
+
+TAG: Belle_002_f
+And I've discovered even more things about my past in the Valley.
+
+TAG: Belle_010_f
+It seems that right before the Forgetting began, I was on the trail of something called... <ActivityItem>The Chronicles of the Ancients</ActivityItem>.
+
+TAG: Belle_011_f
+<ActivityItem>The Chronicles of the Ancients</ActivityItem>? What is it?
+
+TAG: Belle_012_f
+I think it might be a book.
+
+TAG: Belle_013_f
+But something strange happened. There are parts of my <ActivityItem>Journal</ActivityItem> that I can't make sense of.
+
+TAG: Belle_014_f
+The letters are shifting... shimmering. So I was wondering if you could take a look.
+
+TAG: Belle_015_f
+It's at my House.
+
+TAG: Belle_016_f
+I'll examine it.
+
+TAG: Belle_003_f
+I understand. Whenever you can spare a moment.
+

@@ -1,0 +1,27 @@
+TAG: Donald_000_f
+The Forgotten Lands look MUCH better now. Thanks for your help, {PlayerName}!
+
+TAG: Player_000_choice_000_f
+No! Thank YOU, Donald!
+
+TAG: Player_000_choice_001_f
+It was your plan. Don't forget that.
+
+TAG: Player_000_choice_002_f
+I gotta do everything around here.
+
+TAG: Donald_001_f
+Aww, it was my pleasure.
+
+TAG: Donald_003_f
+Mine too.
+
+TAG: Donald_002_f
+Since I'm such a great friend, I got you a present to thank YOU for being such a great friend too, {PlayerName}.
+
+TAG: Donald_004_f
+It sure was. A super-genius one!
+
+TAG: Donald_005_f
+Not everything! It was MY plan for the fountain, wasn't it?! ... Aw, but I guess if it wasn't for you, I'd still be lost on the other side of that Dark Portal and the Village would be full of Night Thorns.
+

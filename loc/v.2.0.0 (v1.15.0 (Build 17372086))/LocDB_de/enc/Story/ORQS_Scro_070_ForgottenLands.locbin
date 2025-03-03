@@ -1,0 +1,17 @@
+
+t
+BStory!ORQS_Scro_070_ForgottenLands_Any_CompletedRequestDescription.Поговори с Скрудж Макдак.
+�
+7Story!ORQS_Scro_070_ForgottenLands_AvailableDescription�Это будет вызовом, но Скрудж Макдак доверил тебе сделать забытые земли более привлекательным местом для посетителей.
+�
+<Story!ORQS_Scro_070_ForgottenLands_CompletedStoryDescription�Вы сделали забытые земли немного более приветливыми и менее забытыми.
+v
+.Story!ORQS_Scro_070_ForgottenLands_DisplayNameDВосстановление долины: забытые земли
+�
+?Story!ORQS_Scro_070_ForgottenLands_Group01_OngoingRequestButton><smallcaps>{title}</smallcaps><br> Что мне делать?
+w
+LStory!ORQS_Scro_070_ForgottenLands_Group01_Step01_Decorate01_StepDescription'Место {TargetAmount} мебель.
+p
+AStory!ORQS_Scro_070_ForgottenLands_Group01_Step01_StepDescription+Украсить забытые земли.
+f
+5Story!ORQS_Scro_070_ForgottenLands_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

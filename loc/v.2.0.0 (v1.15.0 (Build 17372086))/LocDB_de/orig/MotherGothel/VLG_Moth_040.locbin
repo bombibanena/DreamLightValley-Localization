@@ -1,0 +1,65 @@
+
+b
+IVillage!Tangled!MotherGothel!VLG_Moth_040_Any_CompletedRequestDescriptionGo see Mother Gothel.
+ñ
+>Village!Tangled!MotherGothel!VLG_Moth_040_AvailableDescription”Mother Gothel knows what to do with the <ActivityItem>Sunstone Fragments</ActivityItem>. Before even thinking of restoring the <ActivityItem>Sunstone</ActivityItem>, you need to strengthen its <ActivityItem>Fragments</ActivityItem> so that a shower of <ActivityItem>Sun Meteorites</ActivityItem> can be called. Each Fragment will require a different method to restore it, and Mother Gothel details what you must do with the <ActivityItem>Dawn Fragment</ActivityItem>.
+`
+5Village!Tangled!MotherGothel!VLG_Moth_040_DisplayName'Village Project: Restoring the Sunstone
+Å
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
+¨
+TVillage!Tangled!MotherGothel!VLG_Moth_040_Group01_Step01_BringItem01_StepDescriptionTMake sure you have the <ActivityItem>Dawn Fragment</ActivityItem> in your Inventory.
+ì
+IVillage!Tangled!MotherGothel!VLG_Moth_040_Group01_Step01_ReadyDescriptionFBring the <ActivityItem>Dawn Fragment</ActivityItem> to Mother Gothel.
+Å
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group02_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
+§
+RVillage!Tangled!MotherGothel!VLG_Moth_040_Group02_Step02_Possess01_StepDescriptionNGather the <ActivityItem>Sun Meteorites</ActivityItem> in the Forgotten Lands.
+÷
+BVillage!Tangled!MotherGothel!VLG_Moth_040_Group02_StoryDescriptionèUsing the three <ActivityItem>Fragments</ActivityItem>, Mother Gothel casts a spell that causes <ActivityItem>Sun Meteorites</ActivityItem> to fall from the sky. She asks you to go find the <ActivityItem>Sun Meteorites</ActivityItem> scattered across the Forgotten Lands.
+§
+ZVillage!Tangled!MotherGothel!VLG_Moth_040_Group03_Step03_TalkToCharacter01_StepDescriptionFShow the <ActivityItem>Sun Meteorites</ActivityItem> to Mother Gothel.
+Å
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
+m
+TVillage!Tangled!MotherGothel!VLG_Moth_040_Group04_Step04_CraftItem01_StepDescriptionCraft the {ItemName}.
+Å
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group05_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
+Ü
+AVillage!Tangled!MotherGothel!VLG_Moth_040_Group05_StepDescriptionABring the <ActivityItem>Sunstone</ActivityItem> to Mother Gothel.
+…
+BVillage!Tangled!MotherGothel!VLG_Moth_040_Group05_StoryDescriptionÇFollowing Mother Gothel's instructions, you restore the <ActivityItem>Sunstone</ActivityItem>. Time to see if it was all worth it.
+á
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group06_OngoingRequestButton=<smallcaps>{title}</smallcaps><br>What Ingredients do I need?
+~
+RVillage!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess02_StepDescription(<ActivityItem>{ItemName}</ActivityItem>.
+~
+RVillage!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess03_StepDescription(<ActivityItem>{ItemName}</ActivityItem>.
+~
+RVillage!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess05_StepDescription(<ActivityItem>{ItemName}</ActivityItem>.
+~
+RVillage!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_Possess06_StepDescription(<ActivityItem>{ItemName}</ActivityItem>.
+m
+HVillage!Tangled!MotherGothel!VLG_Moth_040_Group06_Step06_StepDescription!Gather the following Ingredients:
+Ö
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group07_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What am I supposed to do?
+®
+YVillage!Tangled!MotherGothel!VLG_Moth_040_Group07_Step07_GardeningPlant01_StepDescriptionKBury the <ActivityItem>Dusk Fragment</ActivityItem> in the Forgotten Lands.
+«
+BVillage!Tangled!MotherGothel!VLG_Moth_040_Group07_StoryDescriptionÄOnce you bring her the <ActivityItem>Dawn Fragment</ActivityItem>, she gives you the <ActivityItem>Dusk Fragment</ActivityItem>.
+Ö
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group09_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What am I supposed to do?
+©
+HVillage!Tangled!MotherGothel!VLG_Moth_040_Group09_Step09_StepDescription]Make sure you have the <ActivityItem>Gleaming Dusk Fragment</ActivityItem> in your Inventory.
+î
+AVillage!Tangled!MotherGothel!VLG_Moth_040_Group09_StepDescriptionOBring the <ActivityItem>Gleaming Dusk Fragment</ActivityItem> to Mother Gothel.
+Ö
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group10_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What do I need to do now?
+ß
+SVillage!Tangled!MotherGothel!VLG_Moth_040_Group10_Step10_CookMeal01_StepDescriptionPUse a Cooking Station to restore the <ActivityItem>Dawn Fragment</ActivityItem>.
+Ö
+FVillage!Tangled!MotherGothel!VLG_Moth_040_Group11_OngoingRequestButton;<smallcaps>{title}</smallcaps><br>What am I supposed to do?
+¡
+AVillage!Tangled!MotherGothel!VLG_Moth_040_Group11_StepDescription|Tend to the <ActivityItem>Dusk Fragment</ActivityItem> in the Forgotten Lands until it's restored. (It will take some time.)
+o
+<Village!Tangled!MotherGothel!VLG_Moth_040_StartRequestButton/<smallcaps>{title}</smallcaps><br>Start Request

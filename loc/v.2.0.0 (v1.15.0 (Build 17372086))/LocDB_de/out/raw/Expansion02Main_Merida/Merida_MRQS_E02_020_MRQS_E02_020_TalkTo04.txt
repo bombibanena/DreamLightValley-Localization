@@ -1,0 +1,42 @@
+TAG: Merida_000_f
+{PlayerName}! You got all those Snippets and cleared out some of the Inkies!
+
+TAG: Merida_001_f
+That's excellent! Unfortunately, I'm having no luck at all with these fountains.
+
+TAG: Merida_002_f
+I can't get them to work. I don't know what's wrong with the gammy things.
+
+TAG: Player_000_choice_000_f
+We'll figure it out together.
+
+TAG: Player_000_choice_001_f
+They're probably magical. When I can't solve a problem, it's usually magical...
+
+TAG: Player_000_choice_002_f
+Maybe it's time to just give up.
+
+TAG: Merida_003_f
+No. I'm not giving up yet. Not after all you've done.
+
+TAG: Merida_004_f
+I'm going to figure this out on my own!
+
+TAG: Merida_007_f
+I'll just keep at it. Besides, it looks like you're about to have your hands full.
+
+TAG: Merida_008_f
+There's some <Lore>Villagers starting to arrive</Lore> from Dreamlight Valley to see what all the fuss is about here in the Vale.
+
+TAG: Merida_009_f
+Maybe you ought to <Lore>talk to them</Lore> and make sure they don't step in any Inkies or get pecked at by any Snippets.
+
+TAG: Merida_010_f
+Oh, look! Mr. McDuck's here. He's a bit fikie at times, but I've always liked him.
+
+TAG: Merida_005_f
+Could be. Well, I faced a wee magical problem with my mum a while back, and I got that one figured out... after a time.
+
+TAG: Merida_006_f
+I'm not giving up yet. Mum says being stubborn's just part of my nature.
+

@@ -1,0 +1,45 @@
+TAG: Woody_005_f
+Howdy, {PlayerName}! Are ya ready to help me with my big project? I wanna start fixin' the Carousel so I can help make folks around here even happier.
+
+TAG: Player_000_choice_000_f
+I can't wait to get started.
+
+TAG: Player_000_choice_002_f
+Not right now.
+
+TAG: Woody_006_f
+Great! 'Cause I'm gonna need you to do most of the heavy lifting since... well, I'm a toy.
+
+TAG: Woody_008_f
+Everything I've ever fixed up till now could be patched with gum or a little bit of tape, so I have no idea where to start on something this big.
+
+TAG: Player_001_f
+Let's go see Kristoff.
+
+TAG: Player_001_choice_000_f
+He's handy with tools.
+
+TAG: Player_001_choice_001_f
+He's good at solving problems.
+
+TAG: Player_001_choice_002_f
+He's very practical-minded, which I'm, uh, not.
+
+TAG: Woody_000_f
+Good idea. I hear he survived in the Forest of Valor when he was trapped by the Night Thorns. He must've learned to make the best of whatever he had on hand.
+
+TAG: Woody_004_f
+Plus, he's always workin' on that Sled of his...
+
+TAG: Woody_001_f
+Yeah, I have heard he's pretty savvy.
+
+TAG: Woody_003_f
+Aw, don't sell yourself short, {PlayerName}. The Village is proof that you can get just about anything done. And sometimes that means asking for help.
+
+TAG: Woody_002_f
+And Kristoff must've needed to be pretty practical to survive in the Forest of Valor while he was trapped by the Night Thorns.
+
+TAG: Woody_007_f
+That's okay. Just come find me whenever you're ready.
+

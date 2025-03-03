@@ -1,0 +1,32 @@
+
+
+	EVE_001_f
+Directive?
+e
+	EVE_002_fXStitch went to see Merlin about making the <ActivityItem>Fireworks</ActivityItem> safer.
+h
+	EVE_003_f[If you add this to the other Ingredients, you'll make some new Fireworks, but safer ones...
+
+	EVE_004_fPhew!
+)
+Player_001_choice_000_fI agree. Phew!
+4
+Player_001_choice_001_fI'm glad you're relieved.
+2
+Player_001_choice_002_fI'll miss the big boom.
+
+	EVE_005_fHa!
+
+	EVE_008_fEVE... Directive!
+2
+	EVE_009_f%The Fireworks are ready to be placed?
+
+	EVE_010_f*digital beeps*
+^
+	EVE_011_fQPerfect! While you place them, I'll make sure everything is ready for the show...
+À
+	EVE_000_f²Let's add some <ActivityItem>Rugs</ActivityItem>, <ActivityItem>Chairs</ActivityItem>, and <ActivityItem>Decorations</ActivityItem> so people can relax while they watch the show.
+
+	EVE_006_fOh!
+
+	EVE_007_f*giggle*

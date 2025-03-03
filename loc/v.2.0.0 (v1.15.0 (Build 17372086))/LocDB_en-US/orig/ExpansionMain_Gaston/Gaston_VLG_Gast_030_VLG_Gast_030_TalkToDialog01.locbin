@@ -1,0 +1,152 @@
+
+&
+Gaston_007_fWell, that was, uhh...
+/
+Player_000_choice_000_f...a little awkward?
+(
+Player_000_choice_001_f...hilarious?
+6
+Gaston_008_f&Never mind that. We must move forward!
+S
+Gaston_009_fCNo regrets, no second thoughts — that's the Gastonian Experience!
+J
+Gaston_010_f:Now, {PlayerName}, are you ready to build muscles like me?
+ 
+Player_001_choice_000_fYeah!
+)
+Player_001_choice_001_fUhhh, I guess.
+*
+Player_001_choice_002_fCan I say "no"?
+
+Gaston_011_f
+Excellent!
+�
+Gaston_014_fqYou've seen Merlin's legs, haven't you? Good for walking maybe, but you need powerful legs to strut impressively!
+5
+Gaston_000_f%Are you saying... never skip leg day?
+S
+Gaston_001_fCHmmm, I like the sound of that. Did you come up with that yourself?
+$
+Player_010_choice_000_f	Sure did!
+
+Player_010_choice_001_fNah.
+G
+Gaston_002_f7Actually... I think I remember inventing that ages ago.
+.
+Gaston_003_fYou must have heard me say it.
+*
+Gaston_004_fUh, no, I'm pretty sure—
+.
+Gaston_005_fEnough talk. We must exercise!
+.
+Gaston_016_fOkay, big gains, here we come!
+8
+Gaston_017_f(Start on the barbell — I'll supervise.
+
+Gaston_020_f	The neck.
+%
+Player_003_choice_000_f
+The what?!
+/
+Player_003_choice_001_fNever skip neck day?
+Z
+Gaston_021_fJYou think a neck like mine comes naturally? No, you've got to work for it!
+#
+Gaston_023_fOkay, what do I do?
+{
+Gaston_024_fkThis is the core of the Gastonian method. I'll ask you some questions, and you must answer the way I would.
+_
+Gaston_025_fOFirst question... Someone offers you a bunch of vegetables — what do you say?
+2
+Player_004_choice_000_fNo, thanks. I just ate.
+9
+Player_004_choice_001_fThat sounds lovely, thank you!
+V
+Gaston_026_fFThat's a start, but you must also shake your head with great emphasis.
+#
+Gaston_030_fOkay, try me again.
+6
+Gaston_031_f&{PlayerName}... would you like a book?
+
+Player_006_choice_000_fNO!
+ 
+Player_006_choice_001_fSure!
+2
+Gaston_018_f"So, how do you feel, {PlayerName}?
+
+Gaston_032_f
+That's it!
+J
+Gaston_036_f:Feel your neck getting stronger! Now, here's the last one.
+#
+Player_002_choice_000_fTired...
+!
+Player_002_choice_001_fSWOLE!
+*
+Player_002_choice_002_fKinda the same?
+]
+Gaston_037_fM{PlayerName}... do you enjoy thinking about the consequences of your actions?
+ 
+Player_007_choice_000_fSure.
+
+Player_007_choice_001_fNO!
+L
+Gaston_019_f<Well, we're not done yet! Now comes the most important part.
+!
+Gaston_038_fOh, wait... uh—
+
+Gaston_039_fNO!
+@
+Gaston_040_f0Yes! Your neck is getting thicker by the minute.
+%
+Player_008_choice_000_f
+Thank you?
+/
+Player_008_choice_001_fI need a shower now.
+Y
+Gaston_041_fIWrong! I DESERVE compliments. There's no reason to thank anyone for them.
+
+Gaston_044_fSo what now?
+A
+Gaston_045_f1Well, now that your neck is impressively thick...
+*
+Player_009_choice_000_fOh yeah, it is.
+A
+Player_009_choice_001_f&Not something I ever expected to hear.
+4
+Gaston_046_f$We need to show the other Villagers.
+'
+Gaston_047_fHow are you at drawing?
+�
+Gaston_048_f~What if I take some pictures instead? It's like making an instant painting. Should be faster than drawing a bunch of sketches.
+Q
+Gaston_049_fANot wasting time on boring things... Now you're thinking like me!
+,
+Gaston_015_fThree pictures should do it.
+(
+Gaston_042_fThat means it's working!
+N
+Gaston_006_f>I only think about my muscle gains when looking in the mirror!
+
+Gaston_033_f...
+
+Gaston_034_fOh, uh... no!
+
+Gaston_035_f
+That's it!
+X
+Gaston_027_fH{PlayerName}, haven't you been paying attention?! Is this a joke to you?
+&
+Player_005_choice_000_fAbsolutely.
+&
+Player_005_choice_001_fNot at all!
+5
+Gaston_028_f%Hmm... Disrespect, that is Gastonian.
+]
+Gaston_029_fMNow, you must find the answer I'd give and then shake your head emphatically.
+
+Gaston_022_fExactly!
+0
+Gaston_012_f I want enthusiasm, {PlayerName}!
+E
+Gaston_013_f5Only if you're giving up on the Gastonian Experience.

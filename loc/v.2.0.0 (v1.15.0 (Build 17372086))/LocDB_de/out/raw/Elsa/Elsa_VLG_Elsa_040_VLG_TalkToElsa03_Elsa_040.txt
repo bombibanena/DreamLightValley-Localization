@@ -1,0 +1,48 @@
+TAG: Elsa_000_f
+I remember it all now... I wanted to keep something safe. Something the Forgetting was threatening.
+
+TAG: Elsa_004_f
+Anna helped me hide the <ActivityItem>Crests</ActivityItem>, but then I realized anyone could stumble upon them. So I went to Merlin...
+
+TAG: Elsa_003_f
+He made sure they would only reappear if someone wielding Dreamlight Magic was near.
+
+TAG: Elsa_005_f
+Well, now that we've put the <ActivityItem>Crests</ActivityItem> back in their rightful places, we need to put the right items on these glowing pedestals.
+
+TAG: Elsa_009_f
+The Forgetting was so disturbing that I wanted to be sure what I held dear was safe.
+
+TAG: Player_000_choice_000_f
+I would have done the same.
+
+TAG: Player_000_choice_001_f
+I have no idea how I would have reacted.
+
+TAG: Player_000_choice_002_f
+My solution would have been WAY SIMPLER.
+
+TAG: Elsa_010_f
+That's good to hear.
+
+TAG: Elsa_013_f
+Now, Merlin created magic links to both Dreamlight Valley and Arendelle.
+
+TAG: Elsa_001_f
+I helped him pick the items to use.
+
+TAG: Elsa_014_f
+A plate of <ActivityItem>Arendellian Pickled Herring</ActivityItem> for the food I brought to the Village. A <ActivityItem>Passion White Lily</ActivityItem> to represent ice and snow.
+
+TAG: Elsa_015_f
+A <ActivityItem>Carrot</ActivityItem>, since they're rather special to some of my dear friends, and a <ActivityItem>Gold Ingot</ActivityItem> for the bond Anna and I have to our royal heritage...
+
+TAG: Elsa_016_f
+If we place one of each on the pedestals, we'll find what I hid.
+
+TAG: Elsa_011_f
+Thank you for being so honest, {PlayerName}.
+
+TAG: Elsa_012_f
+I'm sure. But I think Merlin liked the idea of creating a puzzle. He said it would be educational.
+

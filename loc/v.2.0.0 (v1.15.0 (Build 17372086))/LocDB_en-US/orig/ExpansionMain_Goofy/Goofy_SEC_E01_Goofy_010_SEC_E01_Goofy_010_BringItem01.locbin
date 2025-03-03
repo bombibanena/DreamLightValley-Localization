@@ -1,0 +1,21 @@
+
+3
+Goofy_000_f$Well, would ya look at all of these!
+h
+Goofy_001_fYThanks, {PlayerName}. It's gonna be a lot easier to catch 'em now that I know the tricks.
+J
+Goofy_002_f;But say... I don't think I know any recipes for this stuff.
++
+Player_000_choice_000_fRobot Fish Stew?
+/
+Player_000_choice_001_fDunebopper Sandwich?
+-
+Player_000_choice_002_fPrisma Shrimp Pie?
+=
+Goofy_004_f.A-hyuck, that might be somethin' worth tryin'!
+{
+Goofy_005_flHow 'bout I take half the fish and see what I can come up with, and you keep the other half and do the same?
+Q
+Goofy_006_fBI bet <Lore>Remy'd have some tips</Lore> if you wanted to ask him.
+I
+Goofy_007_f:Oh, and here — I got some Ingredients to get ya started!

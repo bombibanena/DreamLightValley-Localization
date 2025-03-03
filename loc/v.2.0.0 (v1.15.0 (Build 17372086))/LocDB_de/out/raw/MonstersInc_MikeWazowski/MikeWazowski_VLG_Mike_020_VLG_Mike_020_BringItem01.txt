@@ -1,0 +1,57 @@
+TAG: MikeWazowski_000_f
+Here we go, one <ActivityItem>Rotten Carp</ActivityItem>, as requested.
+
+TAG: MikeWazowski_001_f
+Hmm, let me give it a sniff...
+
+TAG: MikeWazowski_002_f
+*sniff sniff sniff*
+
+TAG: MikeWazowski_003_f
+{PlayerName}... it's perfect!
+
+TAG: Player_000_choice_000_f
+Awesome!
+
+TAG: Player_000_choice_001_f
+I'll take your word for it.
+
+TAG: MikeWazowski_004_f
+You gave it just the right amount of time to age!
+
+TAG: MikeWazowski_006_f
+The key to evaluating whether or not it's ready to use is all down to smell...
+
+TAG: MikeWazowski_007_f
+If it smells fishy, it's not ready yet.
+
+TAG: MikeWazowski_008_f
+But when you get top notes of ammonia and that dumpster sweetness, you know it's perfect!
+
+TAG: Player_001_choice_000_f
+I'm in awe of your scent knowledge!
+
+TAG: Player_001_choice_001_f
+I can't believe I'm doing this.
+
+TAG: MikeWazowski_009_f
+Well, my girlfriend Celia took me to a perfume-making class once.
+
+TAG: MikeWazowski_011_f
+So what's next?
+
+TAG: MikeWazowski_012_f
+Next, we gather the final Ingredients for the cologne!
+
+TAG: MikeWazowski_013_f
+We'll need an <ActivityItem>Empty Vial</ActivityItem> to put the cologne in and <ActivityItem>Rich Soil</ActivityItem> for those earthy notes.
+
+TAG: MikeWazowski_014_f
+Once it's ready, we can <Lore>bring it to Mr. McDuck</Lore> and see if he wants to stock it for the other Villagers.
+
+TAG: MikeWazowski_010_f
+Hey, we're all beginners at some point!
+
+TAG: MikeWazowski_005_f
+Oh, you can trust me on this.
+

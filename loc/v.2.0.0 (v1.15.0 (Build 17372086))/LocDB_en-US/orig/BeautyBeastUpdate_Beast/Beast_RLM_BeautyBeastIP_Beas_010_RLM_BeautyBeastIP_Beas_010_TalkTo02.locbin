@@ -1,0 +1,69 @@
+
+0
+Beast_000_f!Hey, you seem... deep in thought.
+Q
+Beast_015_fB... You and Belle showed me kindness even though I lost my temper.
+T
+Beast_016_fEI want to give her a gift. Something to show I'm... trying to change.
+:
+Beast_017_f+{PlayerName}, will you... Will you help me?
+5
+Player_003_choice_000_fI thought you'd never ask!
+7
+Player_003_choice_001_fThat's what friends are for!
+?
+Player_003_choice_002_f$By singing a duet about forgiveness?
+/
+Beast_019_f Thank you. I... I'm... grateful.
+W
+Beast_001_fHI suppose you've gotten to know Belle. What do you think she would like?
+-
+Player_000_choice_000_fHow about flowers?
+1
+Player_000_choice_001_fMaybe some chocolates?
+'
+Player_000_choice_002_fTalk to her!
+b
+Beast_002_fSThat's too simple. She could find them for herself in the garden or the greenhouse.
+6
+Beast_005_f'Perhaps I could... No. No. I shouldn't.
+=
+Beast_006_f.Sounds like you have an idea... Let's hear it!
+x
+Beast_021_fiI have an enchanted mirror that can show us the perfect gift for Belle... But I need your help to get it.
+Ü
+Beast_023_fwI was using the mirror too often to watch the outside world. So I locked it away and broke the key into three pieces...
+ë
+Beast_029_fÅOn my command, Lumiere hid the pieces of the key. Then, he decided to make me a treasure hunt to find the pieces... with riddles.
+-
+Beast_030_f*sigh* I'm no good at riddles.
+:
+Player_005_choice_000_fTreasure hunt? Riddles? I'M IN!
+8
+Player_005_choice_001_fHand 'em over! I've got this.
+*
+Player_005_choice_002_fRiddles? Noooo!
+9
+Beast_032_f*You find this exciting? That's... helpful.
+c
+Beast_034_fTPlease <Lore>search the castle using the clues</Lore> to find the pieces of the key.
+`
+Beast_035_fQWhen you have them all, come back to me. We'll open the chest and use the mirror.
+
+Beast_036_fUm... Good luck.
+-
+Beast_031_fYou're confident. That's good.
+%
+Beast_033_fOh, I... I understand.
+,
+Beast_007_fI'm just kidding! I got this.
+
+Beast_008_fOh! Thank you.
+r
+Beast_003_fc... That's too... impersonal. Besides, they would really be from the chef, not me. I don't... cook.
+Y
+Beast_004_fJYou mean just... ask her what she wants? But that would ruin the surprise.
+?
+Beast_018_f0Friends? I... I'm glad you consider me a friend.
+n
+Beast_020_f_I don't sing... I would‚Äî Oh, you were trying to be funny. I hope that means you'll assist me.

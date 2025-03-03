@@ -1,0 +1,30 @@
+TAG: Village!LionKing!VLG_Nala_020_Any_CompletedRequestDescription
+Возвращайтесь на Нала.
+
+TAG: Village!LionKing!VLG_Nala_020_AvailableDescription
+Нала нашел что-то странное в деревне.
+
+TAG: Village!LionKing!VLG_Nala_020_Group03_Step03_Possess02_StepDescription
+Размораженные высоты.
+
+TAG: Village!LionKing!VLG_Nala_020_Group04_Step04_TalkToCharacter02_StepDescription
+Возвращайтесь на Нала.
+
+TAG: Village!LionKing!VLG_Nala_020_Group05_Step05_TalkToCharacter03_StepDescription
+Поговори с Гуфи о том, что он видел рядом с мистическим разломом.
+
+TAG: Village!LionKing!VLG_Nala_020_Group06_Step06_CatchFish01_StepDescription
+Попробуй поймать рыбу, которую Гуфи видел рядом с мистическим рифтом на пляже Даззл.
+
+TAG: Village!LionKing!VLG_Nala_020_Group07_Step07_TalkToCharacter04_StepDescription
+Поговори с Нала.
+
+TAG: Village!LionKing!VLG_Nala_020_Group08_Step08_ReadyDescription
+Приведите <ActivityItem>Lioness Statues</ActivityItem> и <ActivityItem>Weird Fish</ActivityItem> в Урсула.
+
+TAG: Village!LionKing!VLG_Nala_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!LionKing!VLG_Nala_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,15 @@
+TAG: Remy_001_f
+Вы уже смогли помочь Ваниллопа?
+
+TAG: Remy_002_f
+Запомните: я хочу подарить ей лучший <ActivityItem>Vegetable Feals</ActivityItem> в Долине, чтобы убедить ее, что они вкусные.
+
+TAG: Remy_003_f
+Похоже, ты уже всё приготовила.
+
+TAG: Remy_005_f
+Она обнаружила острое питание и хочет немного <ActivityItem>Spicy Baked Bream</ActivityItem>, <ActivityItem>Chili Puffs</ActivityItem>, и <ActivityItem>Lemon Carlic Swordfish</ActivityItem>.
+
+TAG: Remy_006_f
+Она хочет разного <ActivityItem>Boba Teas</ActivityItem>.
+

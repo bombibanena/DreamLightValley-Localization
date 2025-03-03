@@ -1,0 +1,33 @@
+TAG: Mickey_000_f
+Welp, here we are.
+
+TAG: Mickey_001_f
+What do we do now?
+
+TAG: Mickey_002_f
+We have to toss the <ActivityItem>Hot Dog Cart</ActivityItem> into the rift!
+
+TAG: Mickey_003_f
+Gosh, really? After all we did to make it?
+
+TAG: Player_000_choice_000_f
+Sacrifices must be made.
+
+TAG: Player_000_choice_001_f
+I know. I'm sorry, Mickey...
+
+TAG: Player_000_choice_002_f
+We can make another Hot Dog Cart later. Toss it in!
+
+TAG: Mickey_004_f
+Well, pal, if it'll help save Eternity Isle... I'll do it.
+
+TAG: Mickey_005_f
+Whoa. Did ya see that?
+
+TAG: Mickey_006_f
+As soon as I tossed the Hot Dog Cart in, the rift disappeared!
+
+TAG: Mickey_007_f
+Hot dog! It worked!
+

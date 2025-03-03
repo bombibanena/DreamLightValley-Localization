@@ -1,0 +1,101 @@
+
+M
+=Village!WallE!EVE!VLG_EVE_040_Any_CompletedRequestDescriptionTalk to EVE.
+Ù
+2Village!WallE!EVE!VLG_EVE_040_AvailableDescription¢EVE is ready to try and find something more exciting than just gardening with WALLÃ‚Â·E. You decide to help her and find her the perfect partner-in-crime, Stitch.
+™
+7Village!WallE!EVE!VLG_EVE_040_CompletedStoryDescription^That was a great show, but what's really important now is to learn how EVE feels about it all.
+@
+)Village!WallE!EVE!VLG_EVE_040_DisplayNameWhen Things Go Boom
+a
+NVillage!WallE!EVE!VLG_EVE_040_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Stitch.
+`
+NVillage!WallE!EVE!VLG_EVE_040_Group02_Step02_TalkToCharacter02_StepDescriptionReturn to EVE.
+¢
+6Village!WallE!EVE!VLG_EVE_040_Group02_StoryDescriptionhStitch suggests that EVE could get involved in making the Fireworks. You decide to talk to her about it.
+l
+:Village!WallE!EVE!VLG_EVE_040_Group03_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Ý
+FVillage!WallE!EVE!VLG_EVE_040_Group03_Step03_Possess04_StepDescription’Collect the <ActivityItem>Dreamlight Cobra Lily Extract</ActivityItem> from the <ActivityItem>Dreamlight Cobra Lily</ActivityItem> in EVE's House.
+l
+:Village!WallE!EVE!VLG_EVE_040_Group04_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+_
+GVillage!WallE!EVE!VLG_EVE_040_Group04_Step04_CookMeal01_StepDescriptionCook the {ItemName}.
+€
+HVillage!WallE!EVE!VLG_EVE_040_Group05_Step05_BringItem01_StepDescription4Make sure you have the {ItemName} in your Inventory.
+]
+=Village!WallE!EVE!VLG_EVE_040_Group05_Step05_ReadyDescriptionBring the {ItemName} to EVE.
+„
+6Village!WallE!EVE!VLG_EVE_040_Group05_StoryDescriptionJEVE agrees, and you put together a preparation for Experimental Fireworks.
+ƒ
+NVillage!WallE!EVE!VLG_EVE_040_Group06_Step06_FollowCharacter01_StepDescription1Follow EVE. (Make sure you are on Eternity Isle.)
+`
+PVillage!WallE!EVE!VLG_EVE_040_Group06_Step06_FollowCharacter01_TalkToDescriptionTalk to EVE.
+o
+:Village!WallE!EVE!VLG_EVE_040_Group07_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+~
+LVillage!WallE!EVE!VLG_EVE_040_Group07_Step07_RemoveBlocker01_StepDescription.Remove the <ActivityItem>Fires</ActivityItem>.
+^
+NVillage!WallE!EVE!VLG_EVE_040_Group08_Step08_TalkToCharacter03_StepDescriptionTalk to EVE.
+u
+:Village!WallE!EVE!VLG_EVE_040_Group09_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+a
+NVillage!WallE!EVE!VLG_EVE_040_Group09_Step09_TalkToCharacter04_StepDescriptionTalk to Stitch.
+‡
+6Village!WallE!EVE!VLG_EVE_040_Group09_StoryDescriptionMBut the result is so explosive that EVE gets scared and you return to Stitch.
+•
+FVillage!WallE!EVE!VLG_EVE_040_Group10_Step10_Possess01_StepDescriptionKSearch for the <ActivityItem>Socks</ActivityItem> with the Royal Hourglass.
+š
+6Village!WallE!EVE!VLG_EVE_040_Group10_StoryDescription`The little alien agrees to help you in exchange for your help with his lost collection of Socks.
+l
+:Village!WallE!EVE!VLG_EVE_040_Group11_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+“
+HVillage!WallE!EVE!VLG_EVE_040_Group11_Step11_BringItem02_StepDescriptionGMake sure the <ActivityItem>Socks</ActivityItem> are in your Inventory.
+x
+=Village!WallE!EVE!VLG_EVE_040_Group11_Step11_ReadyDescription7Bring the <ActivityItem>Socks</ActivityItem> to Stitch.
+q
+:Village!WallE!EVE!VLG_EVE_040_Group12_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+t
+FVillage!WallE!EVE!VLG_EVE_040_Group12_Step12_Possess02_StepDescription*<ActivityItem>Dream Shards</ActivityItem>.
+z
+FVillage!WallE!EVE!VLG_EVE_040_Group12_Step12_Possess03_StepDescription0<ActivityItem>Red Pitcher Plants</ActivityItem>.
+Q
+<Village!WallE!EVE!VLG_EVE_040_Group12_Step12_StepDescriptionGather materials:
+v
+HVillage!WallE!EVE!VLG_EVE_040_Group13_Step13_BringItem03_StepDescription*<ActivityItem>Dream Shards</ActivityItem>.
+|
+HVillage!WallE!EVE!VLG_EVE_040_Group13_Step13_BringItem04_StepDescription0<ActivityItem>Red Pitcher Plants</ActivityItem>.
+\
+=Village!WallE!EVE!VLG_EVE_040_Group13_Step13_ReadyDescriptionBring the materials to EVE.
+n
+<Village!WallE!EVE!VLG_EVE_040_Group13_Step13_StepDescription.Make sure the materials are in your Inventory:
+x
+6Village!WallE!EVE!VLG_EVE_040_Group13_StoryDescription>With a new safer recipe for the Fireworks, you go back to EVE.
+r
+GVillage!WallE!EVE!VLG_EVE_040_Group14_Step14_Decorate01_StepDescription'<ActivityItem>Cute Rugs</ActivityItem>.
+t
+GVillage!WallE!EVE!VLG_EVE_040_Group14_Step14_Decorate02_StepDescription)<ActivityItem>Cute Chairs</ActivityItem>.
+y
+GVillage!WallE!EVE!VLG_EVE_040_Group14_Step14_Decorate03_StepDescription.<ActivityItem>Cute Decorations</ActivityItem>.
+~
+<Village!WallE!EVE!VLG_EVE_040_Group14_Step14_StepDescription>Add some <ActivityItem>Furniture</ActivityItem> to the Island:
+Ÿ
+6Village!WallE!EVE!VLG_EVE_040_Group14_StoryDescriptioneNow the only thing remaining before the show is to decorate the Island to make it ready for the show.
+`
+NVillage!WallE!EVE!VLG_EVE_040_Group15_Step15_TalkToCharacter05_StepDescriptionReturn to EVE.
+„
+GVillage!WallE!EVE!VLG_EVE_040_Group16_Step16_Decorate04_StepDescription9Place the <ActivityItem>Firework Launcher</ActivityItem>.
+h
+JVillage!WallE!EVE!VLG_EVE_040_Group16_Step17_Conditional01_StepDescription(Optional) Wait for night.
+\
+DVillage!WallE!EVE!VLG_EVE_040_Group17_Step18_Party01_StepDescriptionEnjoy the Fireworks.
+u
+:Village!WallE!EVE!VLG_EVE_040_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+o
+:Village!WallE!EVE!VLG_EVE_040_Group10_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+l
+:Village!WallE!EVE!VLG_EVE_040_Group13_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+a
+:Village!WallE!EVE!VLG_EVE_040_Group16_OngoingRequestButton#{title}</smallcaps><br>What's next?
+a
+0Village!WallE!EVE!VLG_EVE_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

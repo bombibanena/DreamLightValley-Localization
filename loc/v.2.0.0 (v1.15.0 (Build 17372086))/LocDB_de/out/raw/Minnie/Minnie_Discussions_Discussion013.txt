@@ -1,0 +1,96 @@
+TAG: Minnie_000_f
+I've been thinking, {PlayerName}... Isn't it interesting how all the parts of the Valley are so different?
+
+TAG: Minnie_001_f
+Just walking through the Village, I can visit a forest, a meadow, or a beach!
+
+TAG: Minnie_002_f
+Do you have a favorite?
+
+TAG: Player_000_choice_000_f
+The Forest of Valor.
+
+TAG: Player_000_choice_001_f
+The Peaceful Meadow.
+
+TAG: Player_000_choice_002_f
+Dazzle Beach.
+
+TAG: Minnie_003_f
+Oh, I like the forest, too. The tall trees and their long cool shadows...
+
+TAG: Minnie_006_f
+And all the adorable little forest creatures scurrying about.
+
+TAG: Minnie_007_f
+What do you like to do in the forest?
+
+TAG: Player_001_choice_000_f
+Play hide-and-seek!
+
+TAG: Player_001_choice_001_f
+Wander and explore!
+
+TAG: Player_001_choice_002_f
+Usually just fetch things for people.
+
+TAG: Minnie_012_f
+That sounds like fun! Perhaps we can play sometime.
+
+TAG: Minnie_013_f
+Well, there's certainly a lot to explore.
+
+TAG: Minnie_014_f
+It's nice that we can help out, isn't it?
+
+TAG: Minnie_004_f
+The Meadow is very lovely and so open.
+
+TAG: Minnie_008_f
+I like picking flowers and relaxing in the clover.
+
+TAG: Minnie_009_f
+What do you like to do in the Meadow?
+
+TAG: Player_002_choice_000_f
+Picnic!
+
+TAG: Player_002_choice_001_f
+Play catch!
+
+TAG: Player_002_choice_002_f
+Usually just fetch things for people.
+
+TAG: Minnie_015_f
+Me too! It's a perfect place to sit and enjoy the breeze.
+
+TAG: Minnie_016_f
+The Meadow is a wonderful place for that. There's so much space!
+
+TAG: Minnie_005_f
+I do like sitting on the Beach and watching the waves.
+
+TAG: Minnie_010_f
+And sometimes I collect seashells, too.
+
+TAG: Minnie_011_f
+What do you like to do at the Beach?
+
+TAG: Player_003_choice_000_f
+Go swimming.
+
+TAG: Player_003_choice_001_f
+Build sandcastles.
+
+TAG: Player_003_choice_002_f
+Usually just fetch things for people.
+
+TAG: Minnie_017_f
+The water here is perfect for that. Especially on a hot day.
+
+TAG: Minnie_018_f
+You should talk to Mickey. He's very good at building sandcastles.
+
+TAG: Minnie_019_f
+Maybe he could give you some pointers.
+

@@ -1,0 +1,47 @@
+
+D
+MotherGothel_000_f.Why, {PlayerName}, have you brought me a gift?
+e
+MotherGothel_001_fOThink of it as a little something from the Beast and me. Go on and take a look.
+
+MotherGothel_002_f...
+@
+MotherGothel_003_f*... Something on your mind, Mother Gothel?
+-
+MotherGothel_004_fHm? No. Nothing at all.
+0
+Player_000_choice_000_fI think you're lying.
+F
+Player_000_choice_001_f+You haven't been... reflecting on anything?
+?
+MotherGothel_005_f)Really, dear. Now why would you say that?
+V
+MotherGothel_006_f@Perhaps something has caused you to see yourself in a new light?
+…
+MotherGothel_007_foUgh! You're behind the enchantment on that mirror, aren't you? What a horrific illusion you placed within it...
+i
+MotherGothel_008_fSIt's a Mirror of True Seeing. Whatever you saw in it... is already deep within you.
+/
+MotherGothel_009_fImpossible. You're lying.
+
+MotherGothel_010_fI'm not.
+Ó
+MotherGothel_011_f¼I refuse to believe you. And I refuse to look at that... that thing a moment longer. If I promise never to bother with Belle again, will you get rid of that hideous mirror and leave me be?
+/
+Player_001_choice_000_fYou have to promise.
+3
+Player_001_choice_001_fI think that could work.
+T
+MotherGothel_012_f>You swear you're going to leave the Beast and Belle alone now?
+U
+MotherGothel_013_f?*SIGH* Yes. But only if you stop with that awful enchantment...
+`
+MotherGothel_014_fJI'll move the mirror. But if you don't keep your word... I'll put it back.
+±
+MotherGothel_015_fšI never want to see that hideous illusion again. I promise that I will leave Belle and the Beast be. Since they OBVIOUSLY can't handle a little teasing...
+„
+MotherGothel_016_fnHad I known the Beast was capable of such subterfuge, I would have been more careful. I'm... almost impressed.
+\
+MotherGothel_017_fFWell, I'll let you mull over that revelation. Bye for now â€” be good!
+0
+MotherGothel_018_fNo, I... Wait. Reflecting?

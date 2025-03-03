@@ -1,0 +1,9 @@
+TAG: Timon_000_f
+Теперь вам нужно объединить <ActivityItem>Orange Bug Oil</ActivityItem> и <ActivityItem> Green Bug Oil</ActivityItem>, чтобы сделать <ActivityItem>Super Slippery Bug Oil</ActivityItem>.
+
+TAG: Timon_002_f
+Если ты уже это сделал...
+
+TAG: Timon_001_f
+Принеси его мне!
+

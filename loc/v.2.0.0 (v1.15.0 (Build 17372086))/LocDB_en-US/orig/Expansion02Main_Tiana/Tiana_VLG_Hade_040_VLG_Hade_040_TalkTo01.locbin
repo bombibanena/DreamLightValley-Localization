@@ -1,0 +1,29 @@
+
+'
+Tiana_001_fHi, Tiana, got a moment?
+"
+Tiana_002_fFor you? Of course!
+
+Tiana_003_fWhat can I do?
+}
+Tiana_004_fnWell, Hades is trying to plan a party for everyone in the Vale, and he's hoping you'll help with the catering.
+M
+Tiana_005_f>Well, you certainly can't have a good party without good food.
+\
+Tiana_006_fMI'd be happy to help. Do you think Hades would do something for me in return?
+ 
+Player_000_choice_000_fSure!
+K
+Player_000_choice_001_f0I wouldn't let Hades demand free labor from you!
+>
+Player_000_choice_002_f#I'll... try to make him see reason.
+ 
+Tiana_007_fWhat do you need?
+M
+Tiana_009_f>I've been trying to get some more attention for my restaurant.
+h
+Tiana_010_fYIf Hades could arrange some signs that promote Tiana's Palace, that would be just peachy!
+)
+Tiana_011_fGreat! I'll go update him.
+)
+Tiana_008_fI sure do appreciate that.

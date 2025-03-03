@@ -1,0 +1,18 @@
+TAG: Sully_000_f
+{PlayerName}, Monster Movie Night 2.0 был успешным!
+
+TAG: Sully_002_f
+Всем было весело, и было здорово вернуться в качели вещей.
+
+TAG: Sully_001_f
+Спасибо за помощь, приятель.
+
+TAG: Sully_010_f
+Я хотел, чтобы это было у тебя.
+
+TAG: Sully_011_f
+Это <ActivityItem>Big Scream TV</ActivityItem>. Теперь вы можете устраивать кино ночи, когда захотите!
+
+TAG: Sully_012_f
+Еще раз спасибо, {PlayerName}.
+

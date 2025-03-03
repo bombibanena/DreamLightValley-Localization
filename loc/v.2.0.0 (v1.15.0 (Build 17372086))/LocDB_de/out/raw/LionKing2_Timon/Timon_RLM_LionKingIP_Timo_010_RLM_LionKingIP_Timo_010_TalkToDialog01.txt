@@ -1,0 +1,27 @@
+TAG: Timon_000_f
+{PlayerName}, I gotta tell ya... I don't know what I would've done to get Pumbaa out if you hadn't been here. That was a way more serious logjam than in the past.
+
+TAG: Timon_001_f
+You helpin' out reminded me how important it is to have friends around. And how we all gotta stick together.
+
+TAG: Player_000_choice_000_f
+You would've done the same for me.
+
+TAG: Player_000_choice_001_f
+You're WELCOME!
+
+TAG: Timon_002_f
+You bet we would! That said, try NOT to get stuck. There's no way Pumbaa and I could do what you did.
+
+TAG: Timon_004_f
+Ya know, I've been thinkin'... It'd be good for us to come with you and visit Simba and Nala.
+
+TAG: Timon_005_f
+So, uh... that was it! Your last day of hakuna matata lessons.
+
+TAG: Timon_006_f
+Let me talk to Pumbaa and then we can go.
+
+TAG: Timon_003_f
+I owe ya one.
+

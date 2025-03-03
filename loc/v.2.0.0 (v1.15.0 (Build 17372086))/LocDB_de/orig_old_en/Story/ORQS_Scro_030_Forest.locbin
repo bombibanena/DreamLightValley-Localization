@@ -1,0 +1,17 @@
+
+N
+:Story!ORQS_Scro_030_Forest_Any_CompletedRequestDescriptionTalk to Scrooge.
+’
+/Story!ORQS_Scro_030_Forest_AvailableDescription_Now that the Pillar in the Forest of Valor has been restored, it's time to spruce the place up.
+p
+4Story!ORQS_Scro_030_Forest_CompletedStoryDescription8You made the Forest of Valor a perfect place for a hike.
+M
+&Story!ORQS_Scro_030_Forest_DisplayName#Rebuild the Valley: Forest of Valor
+l
+7Story!ORQS_Scro_030_Forest_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+q
+DStory!ORQS_Scro_030_Forest_Group01_Step01_Decorate01_StepDescription)Place {TargetAmount} pieces of furniture.
+Z
+9Story!ORQS_Scro_030_Forest_Group01_Step01_StepDescriptionDecorate the Forest of Valor.
+^
+-Story!ORQS_Scro_030_Forest_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

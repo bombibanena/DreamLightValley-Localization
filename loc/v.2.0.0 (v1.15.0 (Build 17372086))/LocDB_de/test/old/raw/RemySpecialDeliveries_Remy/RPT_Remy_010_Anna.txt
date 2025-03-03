@@ -1,0 +1,42 @@
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Any_CompletedRequestDescription
+Возвращайся в Реми за твои награды.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_AvailableDescription
+У Реми есть специальный заказ на доставку!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_DisplayName
+Приятного аппетита, Анна!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group01_Step01_CookMeal01_StepDescription
+Приготовить 5 порций {ItemName} для Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group02_Step02_CookMeal02_StepDescription
+Приготовить 10 еды с использованием <ActivityItem>cocoa</ActivityItem>.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group03_Step03_CookMeal03_StepDescription
+Приготовить 3 <ActivityItem>5-Star Feals</ActivityItem> для Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group04_Step04_ReadyDescription
+Приведите <ActivityItem>Arendelle Pickled Herring</ActivityItem> на Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group04_Step04_StepDescription
+Возьмите 5 порций <ActivityItem>Arendelle Pickled Herring</ActivityItem> для Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group05_Step05_ReadyDescription
+Принесите 10 еды с <ActivityItem>Cocoa</ActivityItem> на Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group05_Step05_StepDescription
+Получите 10 еды с <ActivityItem>Cocoa</ActivityItem> для Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group06_Step06_ReadyDescription
+Принесите 3 <ActivityItem>5-Star Feals</ActivityItem> Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group06_Step06_StepDescription
+Возьмите 3 <ActivityItem>5-Star Feals</ActivityItem> для Анна.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_Group07_Step07_Listen01_StepDescription
+Слушайте, как Анна объясняет тонкие точки кухни Олаф.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_010_Anna_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

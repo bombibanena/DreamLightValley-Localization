@@ -1,0 +1,47 @@
+
+]
+HVillage!SwordInStone!Merlin!VLG_Merl_070_Any_CompletedRequestDescriptionTalk with Merlin.
+m
+=Village!SwordInStone!Merlin!VLG_Merl_070_AvailableDescription,Merlin has another magical project in store.
+õ
+BVillage!SwordInStone!Merlin!VLG_Merl_070_CompletedStoryDescriptionUYou improved your Royal Watering Can by yourself. Merlin will be thrilled to hear it.
+G
+4Village!SwordInStone!Merlin!VLG_Merl_070_DisplayNameThe Final Trial
+w
+EVillage!SwordInStone!Merlin!VLG_Merl_070_Group01_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>I need help!
+`
+QVillage!SwordInStone!Merlin!VLG_Merl_070_Group01_Step04_Possess01_StepDescription{ItemName}.
+`
+QVillage!SwordInStone!Merlin!VLG_Merl_070_Group01_Step04_Possess02_StepDescription{ItemName}.
+`
+QVillage!SwordInStone!Merlin!VLG_Merl_070_Group01_Step04_Possess03_StepDescription{ItemName}.
+q
+@Village!SwordInStone!Merlin!VLG_Merl_070_Group01_StepDescription-Gather the Ingredients mentioned in the book:
+
+AVillage!SwordInStone!Merlin!VLG_Merl_070_Group01_StoryDescription™When you come back with the Ingredients, Merlin tells you that he wants you to craft the enchantment yourself since you're now ready to become a wizard in your own right.
+Ä
+EVillage!SwordInStone!Merlin!VLG_Merl_070_Group02_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What do I need to do?
+m
+SVillage!SwordInStone!Merlin!VLG_Merl_070_Group02_Step06_CraftItem01_StepDescriptionCraft the enchantment.
+|
+EVillage!SwordInStone!Merlin!VLG_Merl_070_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do I do now?
+j
+@Village!SwordInStone!Merlin!VLG_Merl_070_Group03_StepDescription&Bring Merlin the results of your work.
+Ä
+EVillage!SwordInStone!Merlin!VLG_Merl_070_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What do I need to do?
+ê
+SVillage!SwordInStone!Merlin!VLG_Merl_070_Group04_Step02_BringItem02_StepDescription9Craft <ActivityItem>Purified Night Shards</ActivityItem>.
+™
+HVillage!SwordInStone!Merlin!VLG_Merl_070_Group04_Step02_ReadyDescription^Talk to WALL√Ç¬∑E for help in crushing the <ActivityItem>Purified Night Shards</ActivityItem>.
+œ
+AVillage!SwordInStone!Merlin!VLG_Merl_070_Group04_StoryDescriptionâHe has an idea to improve your Royal Watering Can even more. When you accept the project, he gives you the list of Ingredients to gather.
+l
+YVillage!SwordInStone!Merlin!VLG_Merl_070_Group05_Step01_TalkToCharacter01_StepDescriptionTalk to Merlin.
+|
+EVillage!SwordInStone!Merlin!VLG_Merl_070_Group06_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do I do now?
+ú
+WVillage!SwordInStone!Merlin!VLG_Merl_070_Group06_Step05_RemoveBlocker01_StepDescriptionARemove a <ActivityItem>Big Path-Blocking Mushroom</ActivityItem>.
+¶
+AVillage!SwordInStone!Merlin!VLG_Merl_070_Group06_StoryDescriptionaYou gather the Ingredients and craft the enchantment yourself. Now it's time to see if it worked.
+l
+;Village!SwordInStone!Merlin!VLG_Merl_070_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

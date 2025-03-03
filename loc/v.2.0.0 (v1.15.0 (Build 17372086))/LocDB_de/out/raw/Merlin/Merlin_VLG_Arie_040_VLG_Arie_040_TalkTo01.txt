@@ -1,0 +1,84 @@
+TAG: Merlin_000_f
+Hmm? A <ActivityItem>Stone Slab</ActivityItem> covered in carvings... or rather runes, as that's what these are.
+
+TAG: Merlin_003_f
+Ariel found it near some sort of door in a cave near Dazzle Beach. Do you know what it is?
+
+TAG: Merlin_014_f
+Well, it's likely a key of some kind. But as for what might be behind the door, I can't be certain.
+
+TAG: Merlin_004_f
+You know, I've always thought there were people who walked this island long before any of us did. Dreamlight Valley is old, {PlayerName}. Very old.
+
+TAG: Player_000_choice_003_f
+Even older than you? No way!
+
+TAG: Player_000_choice_004_f
+People? Who were they?
+
+TAG: Merlin_009_f
+I'll have you know that for a wizard, I'm barely a whippersnapper! Ahem...
+
+TAG: Merlin_011_f
+I haven't the faintest idea who the people were. <Lore>But these runes must have been their language</Lore>.
+
+TAG: Merlin_012_f
+I've seen them in various spots around the Village, but I've only just begun to decipher their meaning. Let me see...
+
+TAG: Player_000_choice_006_f
+Take your time.
+
+TAG: Player_000_choice_007_f
+Hurry it up.
+
+TAG: Merlin_015_f
+Ah-ha! I believe I know what this says!
+
+TAG: Merlin_016_f
+The people who made this door wanted to be sure no one could pass through it alone. You'll need something from other Villagers to get inside.
+
+TAG: Player_000_choice_008_f
+Tools?
+
+TAG: Player_000_choice_009_f
+Something magic?
+
+TAG: Player_000_choice_010_f
+We could all try pushing on it together!
+
+TAG: Merlin_017_f
+Tools? No, no, I'm afraid tools will do you no good.
+
+TAG: Merlin_020_f
+It seems the people who wrote these runes trusted only in <Lore>emotions</Lore> and the power of stories.
+
+TAG: Merlin_021_f
+To open the door, you'll have to enchant this <ActivityItem>Stone Slab</ActivityItem> by filling it with <Lore>Fiery Passion</Lore>, <Lore>Seething Anger</Lore>, <Lore>Perfect Joy</Lore> and <Lore>Exuberant Excitement</Lore>.
+
+TAG: Merlin_006_f
+Huh? How do I do that?
+
+TAG: Merlin_007_f
+Why, you simply find four Villagers and have them hold the <ActivityItem>Stone Slab</ActivityItem> while they feel each emotion.
+
+TAG: Player_000_choice_000_f
+Sounds like I have my work cut out for me.
+
+TAG: Player_000_choice_002_f
+Can't anything be simple around here?
+
+TAG: Merlin_010_f
+Perhaps Ariel can help you figure out which Villagers best embody the emotions you're looking for.
+
+TAG: Merlin_008_f
+The beauty of the world lies in its complexity, my friend. Besides, this sounds like a rather fun mystery to solve.
+
+TAG: Merlin_018_f
+Magic? Hm. Well, a magic of a sort, I suppose.
+
+TAG: Merlin_019_f
+Pushing on it? No, no, I'm afraid all we'd do is throw our backs out.
+
+TAG: Merlin_013_f
+Patience, {PlayerName}. Patience.
+

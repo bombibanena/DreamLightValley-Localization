@@ -1,0 +1,39 @@
+
+I
+Tiana_006_f:Hmm... That's strange. I can't find Little Louis anywhere.
+,
+Tiana_007_fMaybe he's just in the water?
+J
+Tiana_008_f;Could be. But usually he comes running as soon as I arrive.
+G
+Tiana_001_f8I've been feeding him gumbo, and he absolutely loves it!
+C
+Player_000_choice_000_f(Huh, usually the crocs go for lobster...
++
+Player_000_choice_001_fMaybe he's full?
+/
+Player_000_choice_002_fWhat if he's asleep?
+V
+Tiana_018_fGWell, maybe Little Louis is a culinarily adventurous crocodile. *laugh*
+;
+Tiana_010_f,Should we ask around if anyone has seen him?
+M
+Tiana_011_f>That's a wonderful idea! Let's <Lore>ask Mother Gothel</Lore>!
+T
+Tiana_000_fEShe seems to know the Glade well, so I'm sure she'll be able to help.
+%
+Player_001_fGo see Mother Gothel?
+ 
+Player_001_choice_000_fSure!
+!
+Player_001_choice_001_fUhh...
+
+Tiana_015_f	Let's go!
+"
+Tiana_021_fIs something wrong?
+-
+Tiana_022_fIt's just... well, you'll see.
+;
+Tiana_019_f,Little Louis, full? I haven't seen that yet.
+
+Tiana_020_fMaybe...

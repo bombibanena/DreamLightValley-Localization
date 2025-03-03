@@ -1,0 +1,37 @@
+
+:
+Merlin_001_f*Hey Merlin, can we talk food for a moment?
+V
+Merlin_002_fFOf course. And what sort of food do you wish to discuss, {PlayerName}?
+s
+Merlin_003_fcI recently recalled a memory of you sharing a meal with some other Villagers in the Glade of Trust.
+¬
+Merlin_004_f›It came out of this magical-looking cookbook, and I'm trying to figure out the recipe... I think it might be the key to finding the Villager who cooked it.
+W
+Merlin_005_fGRemy already confirmed that it needs <ActivityItem>Milk</ActivityItem>.
+§
+Merlin_013_f–I've already spoken with Moana and Mickey. They remembered that the dish had <ActivityItem>Onion</ActivityItem> and <ActivityItem>Rice</ActivityItem>.
+V
+Merlin_006_fFYes, yes, this is sounding familiar. Let me just think for a moment...
+2
+Merlin_007_f"Hmm... oh! It's coming back to me!
+S
+Merlin_008_fCI do recall sharing that dish. It was quite tasty and rather spicy.
+c
+Merlin_009_fSAhh, so <ActivityItem>Chili Peppers</ActivityItem> are the next Ingredient? Got it!
+a
+Merlin_010_fQJust a moment, {PlayerName}. That dish wasn't just spicy, it was magically spicy!
+m
+Merlin_011_f]I had completely forgotten, but luckily the magic in these peppers has preserved them nicely!
+O
+Merlin_017_f?Awesome; I think I have everything I need to make the dish now!
+
+Merlin_018_fThanks, Merlin!
+(
+Merlin_012_fPerfect. Thanks, Merlin!
+Y
+Merlin_016_fIMickey was sure that the dish included <ActivityItem>Rice</ActivityItem>.
+X
+Merlin_014_fHMoana was positive the dish included <ActivityItem>Onion</ActivityItem>.
+B
+Merlin_015_f2And you're the first person I've spoken to so far.

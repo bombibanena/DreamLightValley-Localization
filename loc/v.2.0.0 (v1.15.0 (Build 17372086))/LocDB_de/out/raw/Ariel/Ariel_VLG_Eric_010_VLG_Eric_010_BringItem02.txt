@@ -1,0 +1,42 @@
+TAG: Ariel_000_f
+That's <ActivityItem>Eric's Flute</ActivityItem>! He was playing it the first time I saw him. Where did you get this? Will this help us save him?
+
+TAG: Player_000_f
+Merlin told me how to restore Eric. Hold the flute. Picture Eric in your head. Call his name three times. Then seal it with a kiss.
+
+TAG: Player_000_choice_000_f
+It WILL work!
+
+TAG: Player_000_choice_001_f
+I hope it'll work.
+
+TAG: Player_000_choice_002_f
+Here goes nothing...
+
+TAG: Ariel_001_f
+I hope you're right...
+
+TAG: Ariel_004_f
+Eric...
+
+TAG: Ariel_005_f
+Eric?
+
+TAG: Ariel_006_f
+Eric!
+
+TAG: Ariel_008_f
+And now I'll kiss him... Here goes...
+
+TAG: Ariel_009_f
+Oh Eric, I hope you can feel how much I love you.
+
+TAG: Ariel_007_f
+Please return to me.
+
+TAG: Ariel_002_f
+I hope so too...
+
+TAG: Ariel_003_f
+I have to believe it'll work.
+

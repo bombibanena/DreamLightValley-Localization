@@ -1,0 +1,25 @@
+
+k
+Belle_000_f\{PlayerName}, I'm thinking of writing a book. Do you have any advice for how I should start?
+;
+Player_000_choice_000_f What made you decide to do that?
+,
+Player_000_choice_001_fAt the beginning!
+3
+Player_000_choice_002_fProbably choose a topic?
+D
+Belle_001_f5Well, I've loved books for as long as I can remember.
+T
+Belle_002_fESo I thought it would be interesting to write some stories of my own.
++
+Belle_003_fWhat an ambitious challenge!
+Å
+Belle_004_frI suppose you're right. I just want to make something for people to enjoy as much as I've enjoyed books by others.
+Ñ
+Belle_005_fuThat does seem logical. Though I've read that some authors start by knowing their ending and finding their way to it.
+$
+Belle_006_fA whole book, though?
+W
+Belle_007_fHThat is a good first step. Hmm... I suppose it could be a story about...
+#
+Belle_008_fAn enchanted castle!

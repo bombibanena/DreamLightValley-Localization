@@ -1,0 +1,24 @@
+TAG: Mickey_001_f
+I keep goin' to that funny black and white place for longer and longer. It's startin' to scare me!
+
+TAG: Mickey_002_f
+Don't worry, Mickey. I think I know how to fix all this.
+
+TAG: Mickey_003_f
+But I'm going to need your help.
+
+TAG: Mickey_004_f
+Whatever you need, {PlayerName}! Just tell me!
+
+TAG: Mickey_005_f
+We need to use our imaginations to close up some of the rifts around the Isle.
+
+TAG: Mickey_006_f
+Really? Well, I just saw a rift open up.
+
+TAG: Mickey_007_f
+That's perfect! Why don't you show me where it is?
+
+TAG: Mickey_008_f
+You got it! <Lore>Follow me!</Lore>
+

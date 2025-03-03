@@ -1,0 +1,77 @@
+
+_
+MotherGothel_000_fIOh, someone's looking for some motherly advice. How can I help you, dear?
+;
+MotherGothel_001_f%Actually, Scar and I are trying toâ€”
+U
+MotherGothel_002_f?Ugh. Don't tell me you're still associating with that creature.
+Ž
+MotherGothel_003_fxMy advice is to exile him from the Valley immediately. Do you know that he tried to hunt me down like some sort of prey?
+†
+MotherGothel_004_fpBefore the Forgetting, I was gathering herbs and I felt something following me. Something with... hungry intent.
+‡
+MotherGothel_007_fqHe pretended it was all a big mistake, but I knew that was a lie. He was looking for brunch and decided I was it.
+*
+Player_004_choice_000_f*gasp* HE WAS?!
+>
+Player_004_choice_001_f#I'm sure it was a misunderstanding.
+9
+Player_004_choice_002_fYou'd be helping me. Not Scar.
+.
+MotherGothel_012_fHe denied it, of course.
+f
+MotherGothel_027_fPBut I could see in his eyes that to him, I was a three-course meal plus dessert.
+z
+MotherGothel_037_fdLook... maybe if there was more room for Scar to roam around, we wouldn't have this kind of problem.
+Q
+MotherGothel_035_f;I'm trying to open up the other side of the Sunlit Plateau.
+M
+MotherGothel_038_f7There's a wall of wildebeest bones blocking the bridge.
+C
+MotherGothel_022_f-Oh yes, I believe I have the answer you seek.
+v
+MotherGothel_039_f`Listen closely to a little story... Long ago, there was a young, beautiful, and brilliant woman.
+6
+MotherGothel_042_f (The woman was me, of course...)
+8
+Player_001_choice_000_fYeah, I kind of guessed that.
+.
+Player_001_choice_002_f*gasp* I'm shocked!
+¶
+MotherGothel_026_fŸThis young, brilliant, and beautiful woman studied the lions and learned about something called the Circle of Life. For them, there is an order to the world...
+u
+MotherGothel_016_f_...and some <ActivityItem>Old Bones</ActivityItem>. The more ancient and crumbling, the better.
+=
+MotherGothel_017_f'Uh... where am I supposed to find that?
+s
+MotherGothel_018_f]Well, there are fossils deep in the mines beneath the Sunlit Plateau. Those should do nicely.
+D
+MotherGothel_019_f.Those mines are huge. I'll be looking forever.
+^
+MotherGothel_021_fHOh, I'll help with that, dear, if you can follow some simple directions.
+“
+MotherGothel_020_f}When you walk into the mines, <Lore>take a left, walk for a bit, take the first right you see, then take another left.</Lore>
+E
+MotherGothel_023_f/Left, right, left. Okay, I think I've got it...
+—
+MotherGothel_034_f€Now, once you have the <ActivityItem>Old Bones</ActivityItem>, you'll have to <Lore>find a way to turn them into ashes</Lore>...
+c
+MotherGothel_036_fMScar should know a way to do that. He seems to be rather fond of destruction.
+¶
+MotherGothel_024_fŸOkay. I'll go <Lore>find some Old Bones in the mines, get some Purified Night Shards, and talk to Scar to figure out how to turn it all into a potion...</Lore>
+©
+MotherGothel_006_f’And every living creature takes part in it. The lions eat the wildebeests, but when the lions die, they become the very grass the wildebeests eat.
+0
+MotherGothel_025_fSome would call it poetic.
+m
+MotherGothel_031_fWWell, once I learned of the Circle of Life, I realized there just might be power in it.
+T
+MotherGothel_005_f>So I perused Merlin's library and found a recipe for a potion.
+‹
+MotherGothel_032_fuYou must brew the same potion and apply it to your <ActivityItem>Royal Shovel</ActivityItem> to dispatch those bones.
+u
+MotherGothel_010_f_Got it. Find the Ingredients, brew the potion, save the day. But what do I need for the potion?
+4
+MotherGothel_033_fOh, just the typical things...
+l
+MotherGothel_011_fVSome <ActivityItem>Purified Night Shards</ActivityItem> to give it a spark of magic...

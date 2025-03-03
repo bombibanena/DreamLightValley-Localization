@@ -1,0 +1,42 @@
+TAG: Minnie_000_f
+{PlayerName}, you're just who I was looking for...
+
+TAG: Minnie_004_f
+I'm guessing Daisy already told you that I'm writing a special report about your efforts against the Forgetting.
+
+TAG: Minnie_005_f
+I'd love for the Dreamlight Gazette's readers to see things through your eyes... or, rather, your lens!
+
+TAG: Minnie_006_f
+Could you snap a few photos for me? I was thinking it could be a photo essay that pairs with my piece.
+
+TAG: Player_000_choice_000_f
+Sure. I like photography!
+
+TAG: Player_000_choice_001_f
+We can call it "The Remembering."
+
+TAG: Player_000_choice_002_f
+Nobody cares what I think.
+
+TAG: Minnie_007_f
+Wonderful!
+
+TAG: Minnie_008_f
+My article focuses on the way you brought the <ActivityItem>Pillar of Friendship</ActivityItem> back to its former glory...
+
+TAG: Minnie_010_f
+How you tackled the riddles of the <ActivityItem>Mystical Cave</ActivityItem>, and how you freed us from the <ActivityItem>Curse</ActivityItem>.
+
+TAG: Minnie_011_f
+So could you take a picture of the <ActivityItem>Pillar of Friendship</ActivityItem>, any <ActivityItem>Statue</ActivityItem> in the <ActivityItem>Mystical Cave</ActivityItem>, and the <ActivityItem>Giant Willow Tree</ActivityItem> in the <ActivityItem>Glade of Trust</ActivityItem>?
+
+TAG: Minnie_013_f
+They will really complement my story!
+
+TAG: Minnie_002_f
+Ooh, I'm writing that down!
+
+TAG: Minnie_009_f
+Oh, {PlayerName}, that's not true. You are so important to us all! Your voice matters, and a lot of Villagers want to know how you handled everything.
+

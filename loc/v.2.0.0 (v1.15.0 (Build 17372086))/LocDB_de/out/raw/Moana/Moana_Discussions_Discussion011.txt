@@ -1,0 +1,24 @@
+TAG: Moana_000_f
+Hey, {PlayerName}! I was wondering, have you seen all the turtles on Dazzle Beach?
+
+TAG: Player_000_choice_000_f
+They're so cute!
+
+TAG: Player_000_choice_001_f
+There are so many different kinds.
+
+TAG: Player_000_choice_002_f
+No, I haven't seen them.
+
+TAG: Moana_001_f
+I know! I love watching them crawl around.
+
+TAG: Moana_002_f
+Oh, and if you're wondering... they really like seaweed.
+
+TAG: Moana_003_f
+I'm sure if you gave them some, you could have a whole bunch of turtles following you around.
+
+TAG: Moana_004_f
+Well, they're very cute! You should look for them on Dazzle Beach.
+

@@ -1,0 +1,45 @@
+
+o
+Lorekeeper_000_f[{PlayerName}! I sense that you've turned a new page in your journey to stop the Neverafter.
+-
+Lorekeeper_001_fWhat have you discovered?
+U
+Player_000_fEI found some mysterious waterfalls shaped like a teapot in Everafter.
++
+Player_000_choice_000_fThey're so cool!
+3
+Player_000_choice_001_fThey're awfully curious.
+7
+Player_000_choice_002_fThat place is SUPER STRANGE.
+{
+Lorekeeper_003_fgAh, yes! The Teapot Falls were a most beautiful sight before all the ink sprang up, muddying the place.
+á
+Lorekeeper_006_fsI'd like to get closer and investigate them, but something is blocking the way. Giant teacups shattered everywhere!
+å
+Lorekeeper_007_fxThose are a remnant of Maleficent and Hades' feud. They quarreled in the sky over Everafter and rubble was strewn about.
+B
+Lorekeeper_012_f.Aurora faced this same problem once, long ago.
+T
+Lorekeeper_008_f@It seems your story is becoming even more intertwined with hers!
+1
+Player_001_choice_000_fWhere could Aurora be?
+=
+Player_001_choice_001_f"How did Aurora solve this problem?
+g
+Lorekeeper_009_fSI'm afraid I haven't the faintest idea. The ending of her story is still unwritten.
+Z
+Lorekeeper_010_fFBut perhaps you could follow in her footsteps to solve your challenge.
+w
+Lorekeeper_011_fcWith a little help from the good fairies, Aurora discovered the secret to clearing away the rubble.
+t
+Lorekeeper_013_f`Perhaps her notes are hidden somewhere. This part of Aurora's story is lost to me, I'm afraid...
+c
+Lorekeeper_014_fOI knew it once. But it's become scattered, like so many of my precious stories.
+ç
+Lorekeeper_015_fySo if I <Lore>caught some Snippets in Everafter</Lore>... maybe I could <Lore>bring that story back to your pages</Lore>?
+É
+Lorekeeper_016_foYes... seek out the Snippets, and restore Aurora's tale! It's the only way to learn how she faced this problem.
+b
+Lorekeeper_004_fNAh, yes. Such a mysterious sight, like something right out of a bedtime story.
+Ö
+Lorekeeper_005_fqThe unknown is not to be feared, {PlayerName}. Every great story starts with a step into the unknown, doesn't it?

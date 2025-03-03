@@ -1,0 +1,204 @@
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Any_CompletedRequestDescription
+Поговори с Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_AvailableDescription
+Дейзи приходит к вам с новым проектом."Точки и Дейзи."Она просит тебя помочь достать материалы и оборудование.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_CompletedStoryDescription
+Теперь, когда Скрудж Макдак убеждён, будущее её бренда гарантировано, но удовлетворен ли Дейзи этим результатом? Вы решили поговорить с ней.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_DisplayName
+Точка & дейзи
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group01_Step01_Possess01_StepDescription
+<ActivityItem>Fiber</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group01_Step01_Possess02_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group01_Step01_Possess03_StepDescription
+<ActivityItem> Blue Hydrangeas</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group01_Step01_Possess04_StepDescription
+<ActivityItem>Red Penstemons</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group01_Step02_TalkToCharacter01_StepDescription
+Спросите Мирабель для <ActivityItem>Sewing Machine</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group01_StepDescription
+Соберите материалы для модной линии Дейзи и Минни Маус:
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_Step03_BringItem01_StepDescription
+<ActivityItem>Fiber</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_Step03_BringItem02_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_Step03_BringItem03_StepDescription
+<ActivityItem> Blue Hydrangeas</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_Step03_BringItem04_StepDescription
+<ActivityItem>Red Penstemons</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_Step03_BringItem05_StepDescription
+<ActivityItem>Sew Machine</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_Step03_ReadyDescription
+Принесите материалы на Минни Маус.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_Step03_StepDescription
+Убедитесь, что все материалы для Минни Маус в вашем списке:
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_StoryDescription
+У вас есть все, о чем просил Дейзи. Пора доставить его на Минни Маус, как Дейзи инструктировал вас.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group03_Step04_TalkToCharacter02_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group03_StoryDescription
+Привезя материалы и оборудование на Минни Маус, она просит вас пойти к Скрудж Макдак и спросить, не хочет ли он добавить одежду, которую они собираются сделать в его магазин.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group04_Step05_TalkToCharacter03_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group04_StoryDescription
+Он отказывается обсуждать вещи дальше, не видя, по крайней мере, доказательства концепции.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group05_Step06_DressUp01_StepDescription
+Надень {ItemName}.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group06_Step07_Conditional01_StepDescription
+Ты должен быть в <ActivityItem>Shirt"Точка & дейзи"</ActivityItem> для фотосессии.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group07_Step08_TakePicture01_StepDescription
+Сфотографируйся, когда наденешь <ActivityItem>Shirt."Точки и Дейзи."</ActivityItem>
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group07_StoryDescription
+Дейзи хочет доказать Скрудж Макдак что"Точка & дейзи"Одежда заслуживает того, чтобы ее продавали в его магазине, и просит вас сделать несколько фотографий в одном из этих предметов.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group08_Step09_TalkToCharacter04_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group09_Step10_Decorate01_StepDescription
+Добавить мебель <ActivityItem>Playful</ActivityItem> на пляж.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group10_Step11_DressUp02_StepDescription
+{itemName}.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group10_Step11_DressUp03_StepDescription
+Пара очков <ActivityItem>Sun очков</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group10_Step11_DressUp04_StepDescription
+Немного <ActivityItem>Casual обуви</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group10_Step11_StepDescription
+Создать более расслабляющий взгляд вокруг <ActivityItem>Shirt"Точки и Дейзи."</ActivityItem> Надень:
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group11_Step12_TakePicture02_StepDescription
+Сфотографируй {TargetAmount} свой костюм на пляже.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group11_StoryDescription
+Взволнованный вашими первыми фотографиями и желая большего, Дейзи наставляет вас на то, как создать настоящую фотосессию.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group12_Step13_TalkToCharacter05_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group13_Step14_VisitArea01_StepDescription
+Познакомьтесь с Дейзи и Минни Маус в замке рядом с фонтаном.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group14_Step15_TalkToCharacter06_StepDescription
+Поговори с Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group14_StoryDescription
+Дейзи приглашает вас присоединиться к ней и Минни Маус в замке Мечты на еще одну фотосессию.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group15_Step16_DressUp05_StepDescription
+<ActivityItem>Shirt"Точки и Дейзи."</ActivityItem>
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group15_Step16_DressUp06_StepDescription
+A <ActivityItem>Purple</ActivityItem> аксессуар.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group15_Step16_DressUp07_StepDescription
+Пара обуви <ActivityItem>Elegant</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group15_StepDescription
+Надень:
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group16_Step17_TakePicture03_StepDescription
+Сфотографируй {TargetAmount} на фоне студии.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group17_Step18_TalkToCharacter07_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_Step19_ReadyDescription
+Урсула.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_Step19_StepDescription
+Убедитесь, что у вас есть {itemName} в списке.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_Step20_ReadyDescription
+Анна.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_Step20_StepDescription
+Убедитесь, что у вас есть {itemName} в списке.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_Step21_ReadyDescription
+Реми.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_Step21_StepDescription
+Убедитесь, что у вас есть {itemName} в списке.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_StepDescription
+Дайте деревенским жителям несколько карт <ActivityItem> Business</ActivityItem> во время ношения"Точка & дейзи"обмундирование:
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_StoryDescription
+После фотосъёмки Дейзи просит вас раздать некоторые визитки некоторым деревенским жителям, чтобы создать кайф вокруг"Точки и Дейзи."
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group19_Step22_TalkToCharacter08_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group19_StoryDescription
+Распространив визитные карточки, вы возвращаетесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group20_Step23_Listen01_StepDescription
+Послушайте Дейзи и Скрудж Макдак McDuck.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group20_StoryDescription
+Вооруженный всеми фотографиями, Дейзи убеждает Скрудж Макдак МакДак.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group21_Step24_Conditional02_StepDescription
+Ты должен быть в <ActivityItem>Shirt"Точки и Дейзи."</ActivityItem>
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group15_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне надеть?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group16_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_Group18_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

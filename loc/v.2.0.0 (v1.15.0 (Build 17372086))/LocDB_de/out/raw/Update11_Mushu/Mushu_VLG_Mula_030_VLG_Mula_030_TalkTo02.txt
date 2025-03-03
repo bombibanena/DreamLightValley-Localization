@@ -1,0 +1,87 @@
+TAG: Mushu_000_f
+Hey, Mushu. Mulan's having trouble finding hobbies in the Valley.
+
+TAG: Mushu_001_f
+Well, I'm glad she went to you for help. But I'm less glad it's not working. Tell me what happened.
+
+TAG: Player_000_choice_000_f
+We picked flowers and...
+
+TAG: Player_000_choice_001_f
+...we made a vegetable garden and...
+
+TAG: Player_000_choice_002_f
+...everything we tried turned into strategy.
+
+TAG: Mushu_003_f
+She wanted to turn them into some sort of... camouflage mat?
+
+TAG: Mushu_004_f
+Ooh, that's so CREATIVE!
+
+TAG: Mushu_005_f
+And not the point of fun! She works so HARD, she needs to relax. Let loose!
+
+TAG: Mushu_002_f
+She was talking about preserving them to make rations.
+
+TAG: Mushu_007_f
+Or making targets with pumpkins?
+
+TAG: Mushu_008_f
+I hear you. All focus. That girl sure is DEDICATED, isn't she?
+
+TAG: Mushu_006_f
+Hmm... Let me ask you something...
+
+TAG: Mushu_009_f
+When Mulan was doing this stuff, what kinda mood was she in?
+
+TAG: Player_001_choice_000_f
+Happy! Until she realized she was strategizing again.
+
+TAG: Player_001_choice_001_f
+Kind of upset; she kept chasing challenges.
+
+TAG: Player_001_choice_002_f
+I have no idea.
+
+TAG: Mushu_011_f
+Okay... Having fun till you realize you're not having "fun."
+
+TAG: Mushu_013_f
+{PlayerName}, are you thinking what I'm thinking?
+
+TAG: Player_002_choice_000_f
+Mulan's fun IS training and strategy!
+
+TAG: Player_002_choice_001_f
+... Probably. But YOU say it first.
+
+TAG: Player_002_choice_002_f
+Bao are delicious?
+
+TAG: Mushu_014_f
+Ha, I KNEW we thought alike!
+
+TAG: Mushu_015_f
+Mulan has FUN making these plans and strategies and camo-target-ration-majigs.
+
+TAG: Mushu_017_f
+She LOVES challenges. It's how she blows off steam!
+
+TAG: Mushu_018_f
+That... actually makes sense. How do we make sure she can train and strategize in a place where there's no one to train AGAINST?
+
+TAG: Mushu_019_f
+I've got an idea. Let's start by building a couple <ActivityItem>Wooden Training Dummies</ActivityItem>. By the time you're done with that, I'll have it all planned out!
+
+TAG: Mushu_016_f
+Okay, I definitely wasn't thinking THAT. But if you need a snack break, go ahead.
+
+TAG: Mushu_010_f
+But she kept coming back to making challenges for herself? Huh.
+
+TAG: Mushu_012_f
+I bet she was happy 'til she realized she was back in her same old habit.
+

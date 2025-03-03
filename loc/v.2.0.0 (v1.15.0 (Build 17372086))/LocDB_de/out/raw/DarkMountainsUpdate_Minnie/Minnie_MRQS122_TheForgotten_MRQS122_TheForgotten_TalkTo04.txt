@@ -1,0 +1,51 @@
+TAG: Minnie_001_f
+You want something...?
+
+TAG: Minnie_002_f
+Oh, yes, I do!
+
+TAG: Minnie_003_f
+<Forgotten>(Ugh. What's it going to be this time...)</Forgotten>
+
+TAG: Minnie_004_f
+I just wanted to tell you...
+
+TAG: Minnie_005_f
+...that you're loved.
+
+TAG: Player_000_choice_000_f
+What? I am?
+
+TAG: Player_000_choice_001_f
+That's it?
+
+TAG: Player_000_choice_002_f
+That's pretty cheesy...
+
+TAG: Minnie_006_f
+Of course! Everyone here cares so much about you.
+
+TAG: Minnie_009_f
+You mustn't be afraid to let your friends know how you feel. Even if you might feel a little silly doing it.
+
+TAG: Player_001_choice_000_f
+(I wish I could disappear.)
+
+TAG: Player_001_choice_001_f
+(I feel like I'm stuck in between...)
+
+TAG: Player_001_choice_002_f
+(Something is wrong...)
+
+TAG: Minnie_010_f
+...{PlayerName}?
+
+TAG: Minnie_011_f
+It's fine. I'm fine. Thanks for the talk...
+
+TAG: Minnie_007_f
+Yes. I think that everyone needs to hear that they're cared about now and then, don't you?
+
+TAG: Minnie_008_f
+Well... maybe it is. But it's true. And I think it's all right to be a little cheesy, especially when something is important!
+

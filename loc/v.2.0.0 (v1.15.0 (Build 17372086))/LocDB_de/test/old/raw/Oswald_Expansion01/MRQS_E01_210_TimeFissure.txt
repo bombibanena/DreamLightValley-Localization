@@ -1,0 +1,42 @@
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Any_CompletedRequestDescription
+Возвращайтесь на Мерлин.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_AvailableDescription
+Джафар, замаскированный как Мерлин, украл Спарк воображения с вашего ухищрения. Вам нужно поговорить с настоящим Мерлин, чтобы исправить все это.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_CompletedStoryDescription
+Эксперименты Джафар со Спарком воображения приводят к тому, что части острова Вечность становятся черными и белыми.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_DisplayName
+Загадка монахрома
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group01_Step01_VisitArea01_StepDescription
+Выходите из Древних Разрушений.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group02_Step02_TalkToCharacter01_StepDescription
+Поговорите с Мерлин (REAL Мерлин).
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step03_StepDescription
+Познакомьтесь с каждым членом вашей команды:
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step03_TalkToCharacter02_StepDescription
+{TargetNPC}.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step03_TalkToCharacter03_StepDescription
+{TargetCharacter}.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step03_TalkToCharacter04_StepDescription
+{TargetCharacter}.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step04_StepDescription
+Сфотографируйте черные и белые предметы вокруг острова Вечность:
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step04_TakePicture01_StepDescription
+Книги в секретной комнате ЕВА на доках.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step04_TakePicture02_StepDescription
+Ящики рядом с кораблекрушением Гастон в Отходах.
+
+TAG: Story!Expansion01!MRQS_E01_210_TimeFissure_Group03_Step04_TakePicture03_StepDescription
+Лодка высоко посреди Тэнгл.
+

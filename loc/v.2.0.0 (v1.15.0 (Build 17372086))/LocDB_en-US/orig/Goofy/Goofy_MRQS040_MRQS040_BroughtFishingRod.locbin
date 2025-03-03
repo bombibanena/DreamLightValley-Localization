@@ -1,0 +1,50 @@
+
+=
+Goofy_001_f.I think I found your lucky Fishing Rod, Goofy!
+N
+Goofy_005_f?Only one problem... It seems to be busted. The reel won't turn.
+8
+Goofy_000_f)Thanks, {PlayerName}! Here, let me see...
+N
+Goofy_007_f?Aw, it was just jammed up with seaweed. But it's all fixed now!
+”
+Goofy_003_f„Tell ya what, now that I have my Lucky Fishing Rod back, I'll give ya this one I found after the Forgetting so we can fish together.
+W
+Goofy_004_fHI think it belonged to our old Ruler... Hey, look! It seems to like you!
++
+Player_000_fHmm... It's reacting to me?
+2
+Player_000_choice_000_fBecause I'm so magical!
+8
+Player_000_choice_001_fBecause I'm great at fishing.
+9
+Player_000_choice_002_fThat's weird. I'm not special.
+;
+Goofy_008_f,That must be it! You do seem pretty magical.
+1
+Goofy_011_f"Well, here you go. It's all yours.
+=
+Goofy_012_f.Whaddaya think of the hat? Pretty spiffy, huh?
+=
+Goofy_009_f.Oh boy! I've been waitin' for a fishing buddy!
+5
+Goofy_010_f&Gawrsh, you seem pretty special to me.
+J
+Goofy_006_f;And here's a groovy hat so you can look like a real angler!
++
+Player_001_choice_000_fIt's so stylish!
+%
+Player_001_choice_001_f
+It's nice!
+/
+Player_001_choice_002_fIt's a bit... goofy.
+P
+Goofy_013_fAIt sure is. Say, maybe I could start my own line of "Goofwear"...
+D
+Goofy_014_f5I could give Uncle Scrooge some competition. A-hyuck!
+J
+Goofy_002_f;All righty, let me show ya how to use your new Fishing Rod.
+*
+Goofy_015_fAw shucks, glad ya like it!
+7
+Goofy_016_f(A-hyuk! That's what's so great about it!

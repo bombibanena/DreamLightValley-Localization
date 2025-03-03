@@ -1,0 +1,42 @@
+TAG: Scar_001_f
+Ah, {PlayerName}. And what brings you to mingle with the commoners?
+
+TAG: Player_002_f
+I recovered a Memory from Buzz's past and it showed you two fighting each other.
+
+TAG: Player_002_choice_000_f
+Please tell me what you know.
+
+TAG: Player_002_choice_001_f
+What happened?
+
+TAG: Player_002_choice_002_f
+Scar, time to spill the beans.
+
+TAG: Scar_014_f
+Fighting each other? Oh dear...
+
+TAG: Scar_002_f
+That pint-sized nuisance has been insisting that he'll keep the villains of the Valley in line.
+
+TAG: Scar_015_f
+I wonder how he'd react if he knew what REALLY happened back then. He wasn't exactly the hero he claims to be.
+
+TAG: Scar_009_f
+I wish I could tell you more, but I'm dreadfully hungry. I'm afraid my memory gets a tad fuzzy when I haven't eaten.
+
+TAG: Scar_000_f
+... Let me guess: You want me to cook you some <ActivityItem>Fish</ActivityItem>.
+
+TAG: Scar_003_f
+Oh, I wouldn't dream of asking you for that. But since you've offered...
+
+TAG: Scar_022_f
+Here are two recipes your little rat chef has made me that I quite enjoyed.
+
+TAG: Scar_017_f
+Not what you think, I assure you.
+
+TAG: Scar_025_f
+Tsk, tsk, tsk {PlayerName}... Manners. I'm always eager to help you, you know. Well...
+

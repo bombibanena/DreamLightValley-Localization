@@ -1,0 +1,22 @@
+
+;
+
+Anna_000_f-Olaf's putting on a play? That's so exciting!
+Q
+
+Anna_001_fCWould you be interested in auditioning for the role of Donald Duck?
+)
+
+Anna_002_fUh, yes! Of course I would!
+F
+
+Anna_003_f8That's such a complex role. Plus, I'd love to help Olaf.
+K
+Player_000_f;Great! Just make sure that you rehearse a lot so you can...
+7
+Player_000_choice_000_f...capture Donald perfectly.
+8
+Player_000_choice_001_f...bring your own spin to it.
+p
+
+Anna_004_fbOh, I definitely will. (Ahem. "Hey, what's the BIG idea?!" or "Hey, what's the big IDEA?!" Hmm...)

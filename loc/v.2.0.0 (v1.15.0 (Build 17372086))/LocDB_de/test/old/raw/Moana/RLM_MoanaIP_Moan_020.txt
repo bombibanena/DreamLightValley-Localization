@@ -1,0 +1,96 @@
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Any_CompletedRequestDescription
+Поговори с Моана.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_AvailableDescription
+Теперь, когда Моана может снова плавать, пришло время вернуться на волны.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_CompletedStoryDescription
+После того, как вы построили Моана удобное место для жизни, вы приветствуете ее в Виллидж.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_DisplayName
+Как далеко ты пойдёшь
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_OngoingRequestButton
+Что нам делать?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_Step01_CatchFish01_StepDescription
+Что-то двигается в воде. Попробуй поймать его.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_StepDescription
+Мы пересекли туман!
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group01_StoryDescription
+Изучая моря, вы обнаруживаете новую область, где что-то таинственное двигается в воде.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_OngoingRequestButton
+Ты приедешь в долину Мечты?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_Step02_StepDescription
+Убедитесь, что Моана комфортно в деревне, поместив Моана's Fale.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_StepDescription
+(Пресс {input_catalog} для доступа к Мебель в дом.)
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group02_StoryDescription
+Теперь, когда она нашла богатое место для рыбалки для своих людей, она может приехать в долину Мечты, но сначала ей нужно где-то жить.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group03_OngoingRequestButton
+Готова приехать в долину Мечты?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group03_StepDescription
+Используйте знак Скрудж Макдак, чтобы оплатить строительство Fale Моана.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group03_StoryDescription
+Чтобы построить место, где есть все, что нужно Моана, вам нужно заплатить МакДак Констракшн.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group04_OngoingRequestButton
+Я сделал для тебя особенное место в Виллидж.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group04_Step04_UnlockCharacter01_StepDescription
+Всё готово для Моана, добро пожаловать в Виллидж.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group05_StepDescription
+Покажите Моана ваш улов.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group06_StepDescription
+Моана хочет поговорить с тобой о том, что она нашла.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group07_OngoingRequestButton
+Я готов отплыть!
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group07_StepDescription
+Обыщите различные районы моря, чтобы найти что-нибудь, чтобы зажечь путь через туман.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group08_OngoingRequestButton
+Что мне делать?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group08_StepDescription
+Исследуйте странную карту Моана, которую вам только что дали.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group09_StepDescription
+Поговори с Моана о том, что скрывал <ActivityItem>Memory</ActivityItem>.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group09_StoryDescription
+Моана нашла странную карту при починке лодки. Не удаётся её прочитать, она дает ее вам, чтобы вы могли ее изучить. Она превращается в <ActivityItem>Memory</ActivityItem>, и теперь вы можете использовать ее для навигации.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group10_Step10_ReadyDescription
+Возьмите <ActivityItem>Torch</ActivityItem> на Моана.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group10_StepDescription
+Вы нашли <ActivityItem>Torch</ActivityItem> для освещения пути.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group11_OngoingRequestButton
+Давайте переплывем туман!
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_Group11_StepDescription
+Навигировать через туман с помощью Моана.
+
+TAG: Realm!Moana!Moana!RLM_MoanaIP_Moan_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

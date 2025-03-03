@@ -1,0 +1,21 @@
+TAG: Aladdin_000_f
+Hey, I think it's working! You did it, {PlayerName}!
+
+TAG: Aladdin_002_f
+I think your new carpet's ready to fly. Here...
+
+TAG: Player_000_choice_000_f
+I can't wait to fly it!
+
+TAG: Player_000_choice_002_f
+You mentioned something about a surprise?
+
+TAG: Aladdin_004_f
+Good, because I've set up something special for ya.
+
+TAG: Aladdin_003_f
+<Lore>Follow me</Lore>.
+
+TAG: Aladdin_001_f
+I was just getting to that.
+

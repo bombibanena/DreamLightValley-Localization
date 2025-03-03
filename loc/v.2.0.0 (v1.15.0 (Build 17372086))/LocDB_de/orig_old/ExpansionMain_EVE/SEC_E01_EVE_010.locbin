@@ -1,0 +1,45 @@
+
+q
+FSecret!Expansion01!EVE!SEC_E01_EVE_010_Any_CompletedRequestDescription'Возвращайтесь на ЕВА.
+�
+;Secret!Expansion01!EVE!SEC_E01_EVE_010_AvailableDescription�ЕВА все еще немного нервничает из-за всех потенциальных опасностей вокруг острова Вечность.
+�
+@Secret!Expansion01!EVE!SEC_E01_EVE_010_CompletedStoryDescription�Наконец-то вы просканировали все возможные угрозы по всему острову! Пора вернуться на ЕВА и успокоить ее.
+]
+2Secret!Expansion01!EVE!SEC_E01_EVE_010_DisplayName'Директива: Опасность!
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group01_Step01_TakePicture01_StepDescriptionaГигантское дерево с висящими фонарями возле колодца.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group01_Step01_TakePicture02_StepDescriptionZМаленькая деревянная лодка, в которую вы прибыли.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group01_Step01_TakePicture03_StepDescriptionlГигантское лицо, наблюдающее за Доксами в проходе до двора.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group01_Step01_TakePicture04_StepDescriptionkСтранный затонувший дверной проем между двумя водопадами.
+�
+>Secret!Expansion01!EVE!SEC_E01_EVE_010_Group01_StepDescriptiondСфотографируй район Древней Гавани, чтобы убедить ЕВА:
+�
+?Secret!Expansion01!EVE!SEC_E01_EVE_010_Group01_StoryDescription�Вы решили помочь ей с помощью вашего сканера... вашей камеры... чтобы сфотографировать некоторые из них и показать ей, что они не опасны.
+�
+WSecret!Expansion01!EVE!SEC_E01_EVE_010_Group02_Step02_TalkToCharacter01_StepDescription'Возвращайтесь на ЕВА.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group03_Step03_TakePicture02_StepDescription4Неуместная лодка в джунглях.
+`
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group03_Step03_TakePicture03_StepDescription	Змея.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group03_Step03_TakePicture04_StepDescription?Человек с невероятно толстой шеей.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group03_Step03_TakePicture08_StepDescription;Растение с очень острыми зубами.
+q
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group03_Step03_TakePicture09_StepDescriptionВодопад песка.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group03_Step03_TakePicture10_StepDescription4Дама с длинными блондинками.
+�
+>Secret!Expansion01!EVE!SEC_E01_EVE_010_Group03_StepDescription�Сфотографируйте возможные опасности в диких стульях и блестящих дюнах:
+�
+?Secret!Expansion01!EVE!SEC_E01_EVE_010_Group03_StoryDescription�Ты убеждаешь ЕВА, что в Гавани Древних не стоит беспокоиться об опасности.
+�
+SSecret!Expansion01!EVE!SEC_E01_EVE_010_Group04_Step04_Conditional01_StepDescription�Почините мост между Блестящими Дюнами и Диким Тангом, проанализировав главную историю.
+v
+WSecret!Expansion01!EVE!SEC_E01_EVE_010_Group05_Step05_TalkToCharacter02_StepDescriptionПоговори с ЕВА.
+�
+>Secret!Expansion01!EVE!SEC_E01_EVE_010_Group05_StepDescriptionDЕВА все еще кажется немного нервным...

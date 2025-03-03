@@ -1,0 +1,48 @@
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_CompletedStoryDescription
+<ActivityItem>Raft</ActivityItem> уже готовы к использованию.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_DisplayName
+Загадочное бедствие
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group01_Step01_BringItem01_StepDescription
+Найдите <ActivityItem> Mysterious Padle</ActivityItem> на пляже.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group01_Step01_ReadyDescription
+Поговорите с Гуфи о <ActivityItem>Wrecked Raft</ActivityItem>.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group01_StepDescription
+Тебе нужно найти кого-то, кто умеет всё исправлять.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group01_StoryDescription
+Вы решили попросить Гуфи о помощи.
+
+TAG: Secret!Mickey!Goofy!Sec_Goof_010_Group02_Step02_Possess02_StepDescription
+{ItemName}.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group02_Step02_Possess03_StepDescription
+{ItemName}.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group02_Step02_Possess04_StepDescription
+{ItemName}.
+
+TAG: Secret!Mickey!Goofy!Sec_Goof_010_Group02_StepDescription
+Соберите материалы для ремонта <ActivityItem>Wrecked Raft</ActivityItem> и узнайте, кто потерялся в море:
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group02_StoryDescription
+Он дает вам список Ингредиентов, которые собираются для ремонта <ActivityItem>Raft</ActivityItem>.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group03_StepDescription
+Приготовьте {ItemName} на станцию крафтинга.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group03_StoryDescription
+После сбора ингредиентов вы делаете то, что вам нужно для ремонта <ActivityItem>Wrecked Raft</ActivityItem>.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group04_StepDescription
+Ремонт " <ActivityItem>Wrecked Raft</ActivityItem>" возле скалы Черепа на пляже Даззл.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group05_Step05_TalkToCharacter01_StepDescription
+Поговори с Гуфи.
+
+TAG: Secret!Mickey!Goofy!SEC_Goof_010_Group06_Step06_TalkToCharacter02_StepDescription
+Поговори с Гуфи.
+

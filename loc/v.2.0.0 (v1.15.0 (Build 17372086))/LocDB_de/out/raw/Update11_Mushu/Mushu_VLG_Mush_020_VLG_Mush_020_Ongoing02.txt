@@ -1,0 +1,6 @@
+TAG: Mushu_000_f
+We need the materials for our Analysis with the Beast.
+
+TAG: Mushu_001_f
+Get me <Lore>some paper from Mulan</Lore> and some <Lore>ink from Belle</Lore>.
+

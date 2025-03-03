@@ -1,0 +1,93 @@
+TAG: Belle_009_f
+{PlayerName}, I'm so curious. What was on the <ActivityItem>Scroll</ActivityItem>?
+
+TAG: Belle_012_f
+It was a <ActivityItem>Memory</ActivityItem>... It showed me some <ActivityItem>Symbols</ActivityItem>...
+
+TAG: Belle_018_f
+Do you think they're related to this <ActivityItem>Chest</ActivityItem>?
+
+TAG: Belle_025_f
+I have no idea...
+
+TAG: Belle_000_f
+Well, I have to know what's inside the <ActivityItem>Chest</ActivityItem>.
+
+TAG: Belle_002_f
+I'm going to open it.
+
+TAG: Player_000_choice_000_f
+Yes, let's do this!
+
+TAG: Player_000_choice_001_f
+Most likely it's empty.
+
+TAG: Player_000_choice_002_f
+I'm gonna back away just in case.
+
+TAG: Belle_003_f
+I'm glad you agree, {PlayerName}.
+
+TAG: Belle_019_f
+Oh, I know! I could use my <ActivityItem>Camera</ActivityItem>. It creates a picture, so I guess it could be like a sort of painting.
+
+TAG: Belle_015_f
+Your magic never ceases to amaze me, {PlayerName}.
+
+TAG: Belle_017_f
+Now let's see... The inscription also says... "The light of the moon will make them easier to see. The first one will be nearby."
+
+TAG: Player_003_f
+So, the first Symbol I have to find is somewhere around here, and I'll see it better at night...
+
+TAG: Player_003_choice_000_f
+Let's not waste a moment and start right now.
+
+TAG: Player_003_choice_001_f
+What would you do?
+
+TAG: Player_003_choice_002_f
+I'll wait for night.
+
+TAG: Belle_006_f
+I'll be right back...
+
+TAG: Belle_001_f
+Oh... it's locked.
+
+TAG: Belle_007_f
+But there's something written on it...
+
+TAG: Belle_008_f
+"To reveal the secret inside, one must recapture the scattered <ActivityItem>Symbols</ActivityItem> in the quickest painting of all..."
+
+TAG: Belle_013_f
+Must be the one from the <ActivityItem>Memory</ActivityItem>.
+
+TAG: Belle_014_f
+I'm sure you're right.
+
+TAG: Belle_016_f
+But what does it mean by "the quickest painting of all"?
+
+TAG: Belle_020_f
+You never do shy away from a challenge.
+
+TAG: Belle_024_f
+Good luck, {PlayerName}.
+
+TAG: Belle_021_f
+Well, I don't know how to use your <ActivityItem>Camera</ActivityItem> machine, so I'm not sure.
+
+TAG: Belle_023_f
+But I know that you'll find it.
+
+TAG: Belle_022_f
+The message does say it'll be easier that way.
+
+TAG: Belle_004_f
+I hope that's not true.
+
+TAG: Belle_005_f
+*chuckle* You remind me of my friend Cogsworth.
+

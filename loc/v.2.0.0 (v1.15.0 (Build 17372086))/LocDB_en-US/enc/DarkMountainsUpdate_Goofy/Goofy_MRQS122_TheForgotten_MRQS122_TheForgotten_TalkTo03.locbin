@@ -1,0 +1,21 @@
+
+#
+Goofy_001_fHowdy, {PlayerName}!
+r
+Goofy_002_fcYa know, I was just thinkin' Ã¢Â€Â” I can't remember the last time we shared a yummy meal together.
+3
+Player_000_choice_000_fI'm not really hungry...
+Q
+Player_000_choice_001_f6(I can't remember the last time something was nice...)
+5
+Player_000_choice_002_f(I just want to be ALONE.)
+
+Goofy_003_f...
+-
+Goofy_004_fYeah. I can't remember either.
+l
+Goofy_005_f]Well, I just fished up about the juiciest <ActivityItem>Shrimp</ActivityItem> I've ever seen.
+©
+Goofy_006_f™How 'bout if I gave you that, and maybe you could go round up the rest of the Ingredients and we'll make some <ActivityItem>Bouillabaisse</ActivityItem>!
+
+Goofy_007_f*sigh* Okay...

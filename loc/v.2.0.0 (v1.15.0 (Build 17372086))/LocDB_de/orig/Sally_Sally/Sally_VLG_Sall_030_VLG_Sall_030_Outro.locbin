@@ -1,0 +1,48 @@
+
+K
+Sally_000_f<You put together a wonderful party, {PlayerName}. Thank you!
+T
+Sally_001_fEAnd I think everyone liked the quilt too... What did you think of it?
+.
+Player_000_choice_000_fI loved the design!
+<
+Player_000_choice_001_f!It brought back so many memories!
+4
+Player_000_choice_002_fIt certainly had patches!
+n
+Sally_003_f_Oh, I'm so glad. The Fairy Godmother and I really wanted to make it a tribute to your memories.
+U
+Sally_005_fF{PlayerName}, we talked about it... and we want YOU to have the quilt.
+'
+Sally_006_fIt's part of YOUR story.
+,
+Player_002_choice_000_fThank you, Sally!
+-
+Player_002_choice_001_fI'm truly honored.
+0
+Player_002_choice_002_fI'm gonna be so COZY!
+
+Sally_012_f
+Of course.
+u
+Sally_007_ffNow, I need to go talk to the Fairy Godmother about our next project: a pumpkin-themed quilt for Jack.
+€
+Sally_008_fq... You know, I never had a mother or a grandmother. Somehow, finding her has made me feel so... happy and whole.
+=
+Player_001_choice_000_f"That's the power of chosen family!
+3
+Player_001_choice_001_fSally, I'm going to cry!
+&
+Sally_009_fI suppose you're right.
+Y
+Sally_011_fJThank you for bringing us together, {PlayerName}. It's all been wonderful.
+§
+Sally_010_f—Oh! I... well, I can't cry, but the Fairy Godmother says sometimes tears aren't sadness. They're just strong emotion. I hope your tears are happy ones.
+
+Sally_015_fIt's our honor.
+-
+Sally_014_fThat's what we wanted for you.
+
+Sally_002_f	I'm glad.
+2
+Sally_004_f#Each one is a memory you made here.

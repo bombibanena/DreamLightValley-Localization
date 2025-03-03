@@ -1,0 +1,9 @@
+TAG: Merlin_000_f
+Я почувствовал, что что-то происходит в <Lore>Forked Lands</Lore>.
+
+TAG: Merlin_001_f
+Отлично! Есть другие предложения? Странные вещи. Я нашёл этот <ActivityItem>Matrioshka Doll</ActivityItem> и это меня пугает.
+
+TAG: Merlin_002_f
+Вы обыскали Долину? Должно быть больше <ActivityItem>Matrioshka Dolls</ActivityItem>!
+

@@ -1,0 +1,57 @@
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_AvailableDescription
+{PlayerName} очистил чернила, заблокировав путь в Мифопию, наш герой нашел несколько золотых полей, и еще больше чернил пролилось с земли.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_DisplayName
+Земля мифов и легенд
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group01_Step01_VisitArea01_StepDescription
+Исследовать <ActivityItem>the Elysian Fields</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group01_StepDescription
+Первая часть Мифопии - твоя.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_Step02_TalkToCharacter01_StepDescription
+Спроси об этом у Лоре.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_StepDescription
+Вы нашли загадочный вратарь с волшебными чернилами, глубоко в Элизийских полях.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group02_StoryDescription
+{PlayerName} вскоре нашел загадочный вратарь, вращающийся с волшебными чернилами, рядом с огромными статуями Пегаса в Мифопии. Только один человек, или, точнее, книга, мог объяснить это: Лорехейер.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group03_Step03_StepDescription
+Ты не должен влезать в мифический процесс в одиночку.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group03_Step03_TalkToCharacter02_StepDescription
+Поговори с Мерида.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group04_Step04_FollowCharacter01_StepDescription
+Следуйте за Мерида к <ActivityItem>Mythic Test</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group04_Step04_FollowCharacter01_TalkToDescription
+Поговори с Мерида.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group05_Step05_Conditional03_StepDescription
+Используйте Royal Net на колесе, чтобы открыть процесс <ActivityItem>Mythic</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group06_Step06_StepDescription
+(Помнишь: магия Royal Net работает только на Snippets!
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group06_StepDescription
+Поймать... <ActivityItem>Will-o-the-Wisps</ActivityItem>?
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group07_Step08_FollowCharacter02_StepDescription
+Познакомьтесь с Мерида возле входа в суд на Элизийских полях.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group07_Step08_FollowCharacter02_TalkToDescription
+Поговори с Мерида.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_Step09_Conditional02_StepDescription
+Может, это как-то связано с факелами?
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_Step09_StepDescription
+Колесо не сдвинётся, как бы сильно ты не двигался в Royal Net.
+
+TAG: Story!Expansion02!MRQS_E02_070_IntroGlory_Group08_StoryDescription
+{PlayerName} и Мерида наткнулись на какое-то таинственное синее пламя Мерида были уверены, что это были Will-o'o-the-Wisps, духи, которые намеревались привести людей к их судьбе.
+

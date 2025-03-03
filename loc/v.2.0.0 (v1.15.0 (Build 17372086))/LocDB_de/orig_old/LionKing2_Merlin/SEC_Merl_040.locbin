@@ -1,0 +1,25 @@
+
+�
+<Secret!SwordInStone!Merlin!SEC_Merl_040_AvailableDescriptionHВ Долине есть что-то жуткое и ползучие...
+[
+3Secret!SwordInStone!Merlin!SEC_Merl_040_DisplayName$Жуткая жуткая тайна
+�
+RSecret!SwordInStone!Merlin!SEC_Merl_040_Group02_Step03_BringItem01_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
+x
+GSecret!SwordInStone!Merlin!SEC_Merl_040_Group02_Step03_ReadyDescription-Возьмите {itemName} на {TargetNPC}.
+�
+FSecret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_StepDescription^Набрать ловцов жуков, чтобы остановить Ночные Миты:
+h
+XSecret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_TalkToCharacter01_StepDescription{TargetNPC}.
+h
+XSecret!SwordInStone!Merlin!SEC_Merl_040_Group03_Step04_TalkToCharacter02_StepDescription{TargetNPC}.
+�
+RSecret!SwordInStone!Merlin!SEC_Merl_040_Group04_Step05_VisitArea01_StepDescriptionrЗайдите в библиотеку Мерлин, чтобы встретиться о Ночных Митах.
+|
+XSecret!SwordInStone!Merlin!SEC_Merl_040_Group05_Step06_TalkToCharacter03_StepDescription Поговори с {TargetNPC}.
+�
+FSecret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_StepDescriptionBПридумай план поймать Ночные Миты с:
+h
+XSecret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_TalkToCharacter04_StepDescription{TargetNPC}.
+h
+XSecret!SwordInStone!Merlin!SEC_Merl_040_Group06_Step07_TalkToCharacter05_StepDescription{TargetNPC}.

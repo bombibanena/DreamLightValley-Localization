@@ -1,0 +1,36 @@
+TAG: EVE_001_f
+Directive?
+
+TAG: EVE_002_f
+You won't believe it, but there's a project from before the Forgetting that would be perfect for the secret garden.
+
+TAG: EVE_003_f
+A <ActivityItem>Stone Canvas</ActivityItem> you could use your laser on to make something beautiful for you and WALLÂ·E.
+
+TAG: EVE_004_f
+Whoo-hoo!
+
+TAG: Player_000_f
+I'm going to need your help to melt the <ActivityItem>Ancient Gemstones</ActivityItem>...
+
+TAG: Player_000_choice_000_f
+That's the most important part.
+
+TAG: Player_000_choice_001_f
+Think you can do it?
+
+TAG: Player_000_choice_002_f
+Easy. On. The. Laser.
+
+TAG: EVE_006_f
+Directive!
+
+TAG: EVE_009_f
+I'll go look for the <ActivityItem>Ancient Gemstones</ActivityItem> now.
+
+TAG: EVE_007_f
+EVE.
+
+TAG: EVE_008_f
+*sigh*
+

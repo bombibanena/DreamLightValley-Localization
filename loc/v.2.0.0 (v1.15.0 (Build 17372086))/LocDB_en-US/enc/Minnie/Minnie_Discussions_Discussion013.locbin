@@ -1,0 +1,65 @@
+
+z
+Minnie_000_fjI've been thinking, {PlayerName}... Isn't it interesting how all the parts of the Valley are so different?
+]
+Minnie_001_fMJust walking through the Village, I can visit a forest, a meadow, or a beach!
+'
+Minnie_002_fDo you have a favorite?
+/
+Player_000_choice_000_fThe Forest of Valor.
+/
+Player_000_choice_001_fThe Peaceful Meadow.
+(
+Player_000_choice_002_fDazzle Beach.
+Y
+Minnie_003_fIOh, I like the forest, too. The tall trees and their long cool shadows...
+M
+Minnie_006_f=And all the adorable little forest creatures scurrying about.
+5
+Minnie_007_f%What do you like to do in the forest?
+.
+Player_001_choice_000_fPlay hide-and-seek!
+.
+Player_001_choice_001_fWander and explore!
+@
+Player_001_choice_002_f%Usually just fetch things for people.
+C
+Minnie_012_f3That sounds like fun! Perhaps we can play sometime.
+9
+Minnie_013_f)Well, there's certainly a lot to explore.
+9
+Minnie_014_f)It's nice that we can help out, isn't it?
+6
+Minnie_004_f&The Meadow is very lovely and so open.
+B
+Minnie_008_f2I like picking flowers and relaxing in the clover.
+5
+Minnie_009_f%What do you like to do in the Meadow?
+"
+Player_002_choice_000_fPicnic!
+&
+Player_002_choice_001_fPlay catch!
+@
+Player_002_choice_002_f%Usually just fetch things for people.
+I
+Minnie_015_f9Me too! It's a perfect place to sit and enjoy the breeze.
+P
+Minnie_016_f@The Meadow is a wonderful place for that. There's so much space!
+F
+Minnie_005_f6I do like sitting on the Beach and watching the waves.
+7
+Minnie_010_f'And sometimes I collect seashells, too.
+4
+Minnie_011_f$What do you like to do at the Beach?
+'
+Player_003_choice_000_fGo swimming.
+-
+Player_003_choice_001_fBuild sandcastles.
+@
+Player_003_choice_002_f%Usually just fetch things for people.
+L
+Minnie_017_f<The water here is perfect for that. Especially on a hot day.
+R
+Minnie_018_fBYou should talk to Mickey. He's very good at building sandcastles.
+6
+Minnie_019_f&Maybe he could give you some pointers.

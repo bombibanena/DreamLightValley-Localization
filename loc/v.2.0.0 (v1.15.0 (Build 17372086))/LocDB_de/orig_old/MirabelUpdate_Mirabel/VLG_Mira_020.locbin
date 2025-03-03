@@ -1,0 +1,45 @@
+
+y
+DVillage!Encanto!Mirabel!VLG_Mira_020_Any_CompletedRequestDescription1Возвращайтесь на Мирабель.
+�
+9Village!Encanto!Mirabel!VLG_Mira_020_AvailableDescription�Мирабель хотел сделать Буэльос для Долины, но понял, что она не может вспомнить рецепт из-за Забвения. Вы решили помочь ей, спросив Реми о том, сможет ли он понять ингредиенты, просто попробовав их.
+�
+>Village!Encanto!Mirabel!VLG_Mira_020_CompletedStoryDescription�Деревенцы любят подарки, и ты должен вернуться в Мирабель, чтобы сказать ей это.
+E
+0Village!Encanto!Mirabel!VLG_Mira_020_DisplayNameВкус дома
+�
+AVillage!Encanto!Mirabel!VLG_Mira_020_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+�
+OVillage!Encanto!Mirabel!VLG_Mira_020_Group01_Step01_BringItem01_StepDescriptionlУбедитесь, что в вашем списке есть <ActivityItem>Plate Buèuelos</ActivityItem>.
+u
+DVillage!Encanto!Mirabel!VLG_Mira_020_Group01_Step01_ReadyDescription-Возьмите {itemName} на {TargetNPC}.
+�
+NVillage!Encanto!Mirabel!VLG_Mira_020_Group02_Step02_CookMeal01_StepDescription�Эксперимент с <ActivityItem>Milk</ActivityItem>, <ActivityItem>Wheat</ActivityItem>, <ActivityItem>Eggs</ActivityItem> и четвёртым Ингредиентом, чтобы вычислить <ActivityItem>Bueulios Recip</ActivityItem>.
+|
+AVillage!Encanto!Mirabel!VLG_Mira_020_Group03_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+DVillage!Encanto!Mirabel!VLG_Mira_020_Group03_Step03_ReadyDescriptionUПринесите свеже приготовленный {itemName} в {TargetNPC}.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_020_Group03_Step03_StepDescriptionIУбедитесь, что у вас есть {itemName} в списке.
+�
+AVillage!Encanto!Mirabel!VLG_Mira_020_Group04_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+<Village!Encanto!Mirabel!VLG_Mira_020_Group04_StepDescriptionoПриготовить больше <ActivityItem>BUELULOS</ActivityItem> для друзей Мирабель.
+�
+=Village!Encanto!Mirabel!VLG_Mira_020_Group04_StoryDescription�Как только ты снова выяснишь рецепт, Мирабель хочет поделиться им с другими деревенскими.
+T
+DVillage!Encanto!Mirabel!VLG_Mira_020_Group05_Step05_ReadyDescription{TargetNPC}.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_020_Group05_Step05_StepDescriptionHПриготовить несколько {itemName} для {TargetNPC}.
+T
+DVillage!Encanto!Mirabel!VLG_Mira_020_Group05_Step06_ReadyDescription{TargetNPC}.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_020_Group05_Step06_StepDescriptionHПриготовить несколько {itemName} для {TargetNPC}.
+T
+DVillage!Encanto!Mirabel!VLG_Mira_020_Group05_Step07_ReadyDescription{TargetNPC}.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_020_Group05_Step07_StepDescriptionHПриготовить несколько {itemName} для {TargetNPC}.
+�
+<Village!Encanto!Mirabel!VLG_Mira_020_Group05_StepDescriptionrПринесите <ActivityItem>BuEUelos</ActivityItem> некоторым деревенским жителям:
+h
+7Village!Encanto!Mirabel!VLG_Mira_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

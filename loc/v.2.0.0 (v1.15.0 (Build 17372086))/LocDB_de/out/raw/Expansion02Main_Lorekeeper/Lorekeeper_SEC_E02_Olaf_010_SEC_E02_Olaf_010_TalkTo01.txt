@@ -1,0 +1,39 @@
+TAG: Lorekeeper_000_f
+You and Olaf seem to be hitting it off.
+
+TAG: Lorekeeper_001_f
+He is quite... enthusiastic.
+
+TAG: Lorekeeper_002_f
+I would never wish to dampen the tiny snowman's love of scintillating trivia or a good story. But...
+
+TAG: Lorekeeper_003_f
+...given my condition, I need far more rest now. *cough cough*
+
+TAG: Player_000_choice_000_f
+I'll ask Olaf to leave you alone.
+
+TAG: Player_000_choice_001_f
+There must be another source of fun facts around here.
+
+TAG: Player_000_choice_002_f
+Maybe we could trick him into talking to some other book.
+
+TAG: Lorekeeper_005_f
+Please be careful not to hurt the little snowman's feelings.
+
+TAG: Lorekeeper_006_f
+Perhaps if there was something else to occupy him, to keep him busy?
+
+TAG: Lorekeeper_004_f
+There's one person who knows Olaf better than anybody.
+
+TAG: Lorekeeper_009_f
+Anna! I'll <Lore>talk to her</Lore> and see if we can find a new hobby for Olaf.
+
+TAG: Lorekeeper_007_f
+Yes, that's a fine idea â something else to occupy the little snowman.
+
+TAG: Lorekeeper_008_f
+The little snowman is far too clever for that. But something else to occupy his time is not a bad idea.
+

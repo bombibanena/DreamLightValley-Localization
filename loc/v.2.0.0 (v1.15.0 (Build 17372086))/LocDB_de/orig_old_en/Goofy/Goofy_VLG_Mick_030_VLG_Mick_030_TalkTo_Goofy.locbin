@@ -1,0 +1,28 @@
+
+:
+Goofy_002_f+Howdy, {PlayerName}! What can I do for you?
+
+Player_000_f
+Tell me...
+.
+Player_000_choice_000_fDo you miss Minnie?
+B
+Player_000_choice_001_f'What is your favorite memory of Minnie?
+[
+Goofy_000_fLYou bet! I miss Minnie a bunch! Let me think of my favorite memory of her...
+2
+Goofy_003_f#Gawrsh, it's hard to pick just one.
+F
+Goofy_004_f7But I'd say it's the last time we baked a pie together.
+g
+Goofy_007_fXI accidentally brought turnips instead of apples! I thought the pie was gonna be ruined.
+R
+Goofy_006_fCBut Minnie showed me how to mash the turnips and use lots of sugar.
+$
+Goofy_001_fAnd my pie was saved!
+L
+Goofy_008_f=I haven't seen her for a while now. I sure hope she turns up.
+Q
+Goofy_009_fBI hope so too. Thanks Goofy, this really helped! Talk to you soon!
+"
+Goofy_005_fMy favorite memory?

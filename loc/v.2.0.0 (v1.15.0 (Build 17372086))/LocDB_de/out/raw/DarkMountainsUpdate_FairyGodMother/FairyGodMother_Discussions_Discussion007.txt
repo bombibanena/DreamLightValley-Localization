@@ -1,0 +1,30 @@
+TAG: FairyGodMother_000_f
+Are you fond of animals, my dear? Do you have any animal companions?
+
+TAG: Player_000_choice_000_f
+I do!
+
+TAG: Player_000_choice_001_f
+I don't.
+
+TAG: Player_000_choice_002_f
+Why? Are you going to turn them into a coach driver or some horses?
+
+TAG: FairyGodMother_001_f
+That's wonderful! They can be marvelous friends.
+
+TAG: FairyGodMother_002_f
+And on occasion, rather helpful when you need a coach driver or a team of horses.
+
+TAG: FairyGodMother_003_f
+No? Well, I was just curious.
+
+TAG: FairyGodMother_004_f
+In case we need a coach driver or a team of horses.
+
+TAG: FairyGodMother_005_f
+Oh-ho-ho. Goodness no.
+
+TAG: FairyGodMother_006_f
+Unless of course a coach and horses are needed.
+

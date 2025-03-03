@@ -1,0 +1,47 @@
+
+g
+Merlin_000_fW{PlayerName}! So all this Dark Magic is Mother Gothel's doing, eh? I should have known.
+4
+Player_000_choice_003_fShe didn't mean to do it!
+8
+Player_000_choice_004_fWe better keep an eye on her.
+2
+Player_000_choice_005_fHow do we fix all this?
+w
+Merlin_004_fgIf you meddle in Dark Magic, you have to expect the unexpected. Mother Gothel should have known better.
+·
+Merlin_003_f¦Most of the Villagers are stuck in their Houses by this blasted curse. Ursula and I were able to break free only because we cast some magic of our own to ward it off.
+w
+Merlin_008_fgTo break this curse, we'll have to restore the Pillar of Trust... but that may come at a terrible cost.
+~
+Merlin_001_fnI know of a spell that could work, but it's dangerous. It demands sacrifices you may not be willing to make...
+«
+Merlin_009_fšThe spell will take you to another place... somewhere between <Lore>Here and There</Lore>, where the <ActivityItem>Orb of Trust</ActivityItem> was hidden.
+O
+Merlin_006_f?It's not easy to get to, and it's dangerous to get stuck there.
+6
+Player_000_choice_000_fWhat is the Here and There?
+7
+Player_000_choice_001_fWill I be able to come back?
+-
+Player_000_choice_002_fWhat is the spell?
+@
+Merlin_010_f0It's a place between worlds, made of pure magic.
+_
+Merlin_013_fOIn the <Lore>Here and There</Lore>, the laws that govern our world don't apply.
+T
+Merlin_014_fDOne may pass through things and see things that shouldn't be seen...
+E
+Merlin_015_f5One might even take a leap of faith, and walk on air!
+Œ
+Merlin_011_f|But usually, things or people that go to the <Lore>Here and There</Lore> never come back to tell tales of what they've seen.
+{
+Merlin_012_fkThe magic of the Pillar of Trust made whole again should be enough to summon you back to Dreamlight Valley.
+E
+Merlin_002_f5We'll just have to hope the Sea Witch can be trusted.
+x
+Merlin_007_fhOne for which <Lore>you'll need Ursula's help</Lore>. I'm afraid this type of magic is not my specialty.
+‹
+Merlin_005_f{Oh, I'll be watching Mother Gothel. The last thing we need around here is someone mucking about with curses and Dark Magic.
+"
+Merlin_016_fSplendid question!

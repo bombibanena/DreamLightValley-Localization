@@ -1,0 +1,105 @@
+TAG: Nala_005_f
+{PlayerName}, I found something strange on one of my patrols.
+
+TAG: Nala_007_f
+I've been trying to figure it out, but I think I need your help.
+
+TAG: Player_000_choice_000_f
+Sure. What did you find?
+
+TAG: Player_000_choice_001_f
+Maybe some other time.
+
+TAG: Nala_008_f
+I was patrolling near Skull Rock off Dazzle Beach when I smelled something odd...
+
+TAG: Nala_010_f
+My whiskers even started twitching...
+
+TAG: Player_001_choice_000_f
+Strange smell?
+
+TAG: Player_001_choice_001_f
+Whiskers twitching?
+
+TAG: Player_001_choice_002_f
+What happened next?
+
+TAG: Nala_011_f
+It reminded me of when Simba and I were young, and we explored the Elephant Graveyard.
+
+TAG: Nala_012_f
+It was... musty. Like something just starting to rot.
+
+TAG: Nala_015_f
+I got closer to investigate and found something buried in the ground. The tide had washed away the sand on top of it.
+
+TAG: Nala_016_f
+So I dug it out. It was a small, brown thing that looked like... me.
+
+TAG: Player_002_choice_000_f
+Like some sort of mystical idol...?
+
+TAG: Player_002_choice_001_f
+Like a decoration?
+
+TAG: Player_002_choice_002_f
+Like... a Nala action figure?
+
+TAG: Nala_017_f
+I'm not sure what you mean. Rafiki used to make pictures of animals, but this didn't look like anything I've seen before.
+
+TAG: Nala_022_f
+When I was digging it out, I scratched it with my claw.
+
+TAG: Nala_023_f
+Sparks came out of it. Like it was going to catch fire. And my whiskers started twitching even more.
+
+TAG: Nala_024_f
+That's when I decided to come find you.
+
+TAG: Player_003_f
+Sounds like another magical mystery.
+
+TAG: Player_003_choice_001_f
+Don't worry. You've come to the right person.
+
+TAG: Player_003_choice_002_f
+I'm no expert, but I'll do my best to help you.
+
+TAG: Player_003_choice_003_f
+Uh, maybe you should ask Merlin instead.
+
+TAG: Nala_025_f
+I thought so. You've solved so many problems like this for your pride already.
+
+TAG: Nala_028_f
+Okay. I'll go <Lore>find this strange thing on Skull Rock near Dazzle Beach.</Lore>
+
+TAG: Nala_026_f
+I know you will. Trust in yourself. You've solved so many problems like this for your pride already.
+
+TAG: Nala_027_f
+I don't want to bother Merlin until I know for sure what we're dealing with.
+
+TAG: Nala_018_f
+You mean the colorful things around the dwellings here? No. I think it was more than that.
+
+TAG: Nala_019_f
+What's that?
+
+TAG: Nala_020_f
+It's like a toy we humans play with. They come with lots of features and moveable parts...
+
+TAG: Nala_021_f
+Oh. No, I don't think that's what this was.
+
+TAG: Nala_013_f
+It was almost like there was a whole stampede of wildebeests nearby.
+
+TAG: Nala_014_f
+But there wasn't anything. It was just peaceful.
+
+TAG: Nala_009_f
+Of course. Maybe I'll ask Merlin. This seems like it's more his territory than mine.
+

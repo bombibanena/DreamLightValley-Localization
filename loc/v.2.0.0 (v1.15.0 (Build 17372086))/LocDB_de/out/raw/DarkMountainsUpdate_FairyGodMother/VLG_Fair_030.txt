@@ -1,0 +1,120 @@
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Any_CompletedRequestDescription
+Return to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_AvailableDescription
+The Fairy Godmother took too much upon her shoulders and asks you once again to help with her tasks by bringing some Peppermint Tea to Minnie.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_CompletedStoryDescription
+Now that every object is back to its intended form, it's time to go back to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_DisplayName
+Bibbidi-Bobbidi-Oops
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group01_Step01_ReadyDescription
+Bring the <ActivityItem>Peppermint Tea</ActivityItem> to Minnie.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group01_Step01_StepDescription
+Make sure you have a <ActivityItem>Peppermint Tea</ActivityItem> in your Inventory.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group02_Step02_TakePicture01_StepDescription
+Take a picture of an object that looks out of place in Minnie's House.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group02_StoryDescription
+Upon receiving the tea, Minnie asks you to talk to the Fairy Godmother about a problem with an enchanted Phonograph that reverts to its previous appearance every night. You decide to take a photo of the issue to show the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group03_Step03_TalkToCharacter01_StepDescription
+Return to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step04_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_Step05_TalkToCharacter02_StepDescription
+Ask WALLÂ·E for a <ActivityItem>Lens</ActivityItem>.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_StepDescription
+Gather the materials:
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_StoryDescription
+The Fairy Godmother devises a way for you to fix her enchantments that have gone wrong, and to do so you'll have to craft a new Lens for your Camera.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem02_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem03_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem05_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_BringItem06_StepDescription
+{itemName}.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_ReadyDescription
+Bring the materials to the Fairy Godmother.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_Step06_StepDescription
+Make sure you have these materials in your Inventory:
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group06_Step07_ConsumeItem01_StepDescription
+Use the <ActivityItem>Enchanted Lens</ActivityItem> in your Inventory.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group07_Step08_TakePicture02_StepDescription
+Take a picture of the <ActivityItem>Broken Object</ActivityItem> in Minnie's House between 4 p.m. and midnight.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group07_StoryDescription
+With your new and improved Camera, the Fairy Godmother asks you to fix her enchantments that have gone wrong.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture03_StepDescription
+Goofy's new yellow bicycle.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture04_StepDescription
+Remy's new Espresso Machine.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture05_StepDescription
+Olaf's parasol.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_Step09_TakePicture06_StepDescription
+Mother Gothel's mirror.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_StepDescription
+Take a picture of the <ActivityItem>Transformed Objects</ActivityItem> in the Village between 4 p.m. and midnight.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do I need to do?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group09_Step10_CookMeal01_StepDescription
+Prepare some <ActivityItem>Peppermint Tea</ActivityItem> for Minnie.
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What am I looking for?
+
+TAG: Village!Cinderella!FairyGodMother!VLG_Fair_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,55 @@
+
+Z
+Sully_000_fKHey, {PlayerName}, I've got an idea for the Village. Got some time to talk?
+.
+Player_000_choice_001_fTell me everything.
++
+Player_000_choice_002_fToo busy, sorry!
+°
+Sully_001_fëWell, first off √¢¬Ä¬î Dreamlight Valley's amazing! What you've built here is great. And I think I've got an idea that could make it even better.
+0
+Player_001_choice_000_fI'm glad you like it.
+;
+Player_001_choice_001_f Everything can always be better!
+=
+Player_001_choice_002_f"So, it's not good enough as it is?
+d
+Sully_004_fUI can tell you've put a ton of work in, but you shouldn't be the only one doing that.
+Y
+Sully_007_fJI wanna encourage other Villagers to help out more in Valley improvements.
+-
+Sully_008_fOkay... what are you thinking?
+ã
+Sully_009_f|Monsters, Inc. has this "Jokester of the Month" award. So, I was thinking there could be a Villager of the Month award here!
+`
+Sully_010_fQFolks would win by making real positive changes for the Valley. What do ya think?
+,
+Player_002_choice_000_fI love that idea.
+8
+Player_002_choice_001_fI'm willing to give it a try.
+K
+Player_002_choice_002_f0Couldn't it be kind of competitive in a bad way?
+K
+Sully_011_f<Great! Because uh... I kinda already started to organize it.
+h
+Sully_015_fYThree Villagers told me they have ideas for their own projects: Mike, Ursula, and Donald.
+/
+Sully_012_f Really? What are their projects?
+©
+Sully_016_fôI don't know yet. I told 'em that I wanted to be an impartial judge. But I'm kinda worried. Could ya go check on 'em? Maybe help 'em out if they need it?
+K
+Sully_003_f<It'll give you the perfect opportunity to see if this works.
+^
+Sully_017_fOSure! I'll check on <Lore>Ursula, Donald, and Mike's community projects.</Lore>
++
+Sully_018_fGreat! Thanks, {PlayerName}!
+Ä
+Sully_013_fqGee, I hope not. My plan is to make sure it's about folks doin' good in the Village √¢¬Ä¬î not chasing the award.
+A
+Sully_014_f2I'd still like to see a trial run before deciding.
+\
+Sully_005_fMI'm glad you think so too, but you're already doing so much for the Valley...
+ç
+Sully_006_f~No! No! That's not what I'm sayin'! It's just that you work so hard for the Valley, and I don't think you need to do it alone.
+5
+Sully_002_f&Okay, whenever you have a moment then.

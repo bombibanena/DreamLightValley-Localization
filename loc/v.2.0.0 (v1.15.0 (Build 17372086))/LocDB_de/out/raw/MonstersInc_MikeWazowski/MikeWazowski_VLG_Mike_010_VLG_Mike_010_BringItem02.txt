@@ -1,0 +1,90 @@
+TAG: MikeWazowski_000_f
+My contact lens! You found it!
+
+TAG: MikeWazowski_001_f
+Hope it's not scratched up or anything.
+
+TAG: MikeWazowski_002_f
+This thing? It's built like a tank! When you've got one eye as big as mine, you need heavy-duty contacts.
+
+TAG: MikeWazowski_003_f
+Plus, it's covered by insurance. Monsters, Inc. has excellent benefits.
+
+TAG: MikeWazowski_004_f
+Well, if it is scratched, do we need to fill out an incident report?
+
+TAG: MikeWazowski_005_f
+Inform the insurance company? Start the paperwork?
+
+TAG: MikeWazowski_006_f
+Pa-paperwork? Did you say, "p-p-paperwork"? Oh boy, I gotta sit down.
+
+TAG: Player_000_choice_000_f
+Is paperwork really that bad?
+
+TAG: Player_000_choice_001_f
+Oh come on, Mike, lighten up!
+
+TAG: MikeWazowski_008_f
+You can only say that if you've never worked at Monsters, Inc.!
+
+TAG: MikeWazowski_028_f
+Noted.
+
+TAG: MikeWazowski_017_f
+I could keep goin'! Do you have all day?
+
+TAG: MikeWazowski_018_f
+As much as I'd love to hear everything about them that bothers you, I actually don't have all day.
+
+TAG: MikeWazowski_019_f
+But I've got an idea! What if I dress up like Roz and then you can let out everything you've clearly wanted to say to her.
+
+TAG: MikeWazowski_020_f
+Huh. That could be interesting. Well, I'm game if you are!
+
+TAG: MikeWazowski_021_f
+She always wears these <ActivityItem>horn-rimmed glasses and a red sweater</ActivityItem>.
+
+TAG: MikeWazowski_022_f
+Hmm, I've got something else in mind that will <Lore>help me look like Roz</Lore> too...
+
+TAG: MikeWazowski_023_f
+You try and center yourself for a moment; I'll be back to help you open up.
+
+TAG: MikeWazowski_007_f
+Wait... What are you up to?
+
+TAG: MikeWazowski_009_f
+Making something that I think will be a big help! I'll be putting together some <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Rope</ActivityItem>, and <ActivityItem>Softwood</ActivityItem>.
+
+TAG: MikeWazowski_012_f
+I thought... I thought I'd get a break from Roz and her twin sister Roze here.
+
+TAG: MikeWazowski_024_f
+Well, this I gotta see.
+
+TAG: MikeWazowski_013_f
+You will!
+
+TAG: MikeWazowski_014_f
+What is happening? I'm actually shaking now.
+
+TAG: MikeWazowski_015_f
+And... ACHOO! My allergies are acting up again!
+
+TAG: MikeWazowski_025_f
+Hmm, I wonder if there's a link between your allergies and stress...
+
+TAG: MikeWazowski_016_f
+Have you tried figuring out why Roz and Roze get under your skin like that?
+
+TAG: MikeWazowski_026_f
+You mean aside from how they say, "Wazzzooowwwskiiii" every morning when I get to work?
+
+TAG: MikeWazowski_027_f
+Or their constant demands for paperwork?!
+
+TAG: MikeWazowski_010_f
+You don't understand! The paperwork!
+

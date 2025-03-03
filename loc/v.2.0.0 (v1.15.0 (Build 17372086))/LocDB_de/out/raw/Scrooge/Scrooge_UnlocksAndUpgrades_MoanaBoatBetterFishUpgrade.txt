@@ -1,0 +1,18 @@
+TAG: Scrooge_004_f
+Improvin' Moana's Boat would give her more storage, use less energy and help her catch rarer fish. You won't come across a finer investment.
+
+TAG: Player_001_choice_000_f
+Let's improve the boat. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_001_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_007_f
+Bless me bagpipes! It looks better already!
+
+TAG: Scrooge_008_f
+Och! You don't have enough Star Coins to fix the Boat! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_009_f
+But this is a sound investment! *sigh* Well, come back here when you come to your senses.
+

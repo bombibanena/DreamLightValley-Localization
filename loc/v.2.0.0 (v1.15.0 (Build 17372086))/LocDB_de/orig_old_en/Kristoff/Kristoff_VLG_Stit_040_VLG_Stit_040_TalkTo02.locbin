@@ -1,0 +1,55 @@
+
+:
+Kristoff_004_f(Hey, Kristoff, you play the lute, right?
+'
+Kristoff_005_fSure. Why do you ask?
+H
+Player_000_f8Stitch is starting a band. He was hoping you might join.
+>
+Player_000_choice_000_f#You two would really rock together!
+6
+Player_000_choice_001_fIt would make Stitch happy.
+J
+Player_000_choice_002_f/You're the only person around here with a lute.
+T
+Kristoff_006_fBYou think so? I don't know if we'd be a great match as performers.
+S
+Kristoff_016_fAYou won't have to do it alone. Prince Eric is going to do it too!
+5
+Kristoff_018_f#Well, that might help. But still...
+f
+Kristoff_007_fTMusic is something I kind of do for me. I haven't performed much in front of crowds.
+F
+Player_001_choice_000_f+It's good to get outside your comfort zone.
+=
+Player_001_choice_001_f"It would mean the world to Stitch.
+H
+Player_001_choice_002_f-You don't have to do it if you don't want to.
+B
+Kristoff_008_f0You know, maybe you're right. This might be fun.
+L
+Kristoff_019_f:Stitch, Eric, and I... making music for the whole Village.
+G
+Kristoff_010_f5This is either gonna be great or a complete disaster.
+2
+Kristoff_011_f Well... better start practicing!
+n
+Kristoff_020_f\Now that we've got the whole band together, I'm going to go <Lore>talk to Mr. McDuck</Lore>.
+P
+Kristoff_021_f>We'll need sound equipment. He might have some he can lend us.
+V
+Kristoff_022_fDI'll <Lore>keep looking for one more member to join the band</Lore>.
+Z
+Kristoff_023_fHSounds good. Hey, isn't there somebody around here who plays a flute...?
+E
+Kristoff_009_f3Stitch and I... making music for the whole Village.
+i
+Kristoff_012_fWWell, if it would help the little guy feel more at home in the Village, maybe I should.
+I
+Kristoff_013_f7Thanks, {PlayerName}. But... You know what? I'll do it.
+f
+Kristoff_017_fTYou won't have to do it alone. I'm still looking for somebody else to join the band.
+I
+Kristoff_014_f7Are you sure there isn't somebody else who'd be better?
+b
+Kristoff_015_fPWell, that's true. But I'm not sure if just having a lute qualifies me for this.

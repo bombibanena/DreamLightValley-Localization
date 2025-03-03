@@ -1,0 +1,39 @@
+TAG: DarkCastleDoor_000_f
+Hello, door! It's me again! The Forgotten!
+
+TAG: DarkCastleDoor_001_f
+As you can see... I look very Forgotten-y now! So... I guess you'll be opening for me, right?
+
+TAG: DarkCastleDoor_002_f
+Hrm... hrm... you do look more like my creator now... as they once appeared, long ago...
+
+TAG: DarkCastleDoor_003_f
+Though... something about you still doesn't seem quite right...
+
+TAG: Player_000_choice_000_f
+You must have dust in your keyhole. It's really me!
+
+TAG: Player_000_choice_001_f
+I did get a haircut recently...
+
+TAG: Player_000_choice_002_f
+Do you dare risk my wrath if you're wrong?
+
+TAG: DarkCastleDoor_004_f
+Yes... yes, I suppose that might be so...
+
+TAG: DarkCastleDoor_008_f
+Of course, there are challenges and dangers in this Castle much greater than me.
+
+TAG: DarkCastleDoor_009_f
+If you're trying to deceive... if you're not my creator... then you'll surely fail to pass through one of the next doors.
+
+TAG: DarkCastleDoor_007_f
+But for now... I shall swing open and let you proceed.
+
+TAG: DarkCastleDoor_005_f
+Yes... yes... perhaps that's it.
+
+TAG: DarkCastleDoor_006_f
+I suppose that's fair. I do not wish to displease Your Highness.
+

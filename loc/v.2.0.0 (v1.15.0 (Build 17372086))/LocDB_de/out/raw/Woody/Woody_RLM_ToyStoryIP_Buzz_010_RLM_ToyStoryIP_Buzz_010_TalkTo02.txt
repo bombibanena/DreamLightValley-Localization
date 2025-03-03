@@ -1,0 +1,120 @@
+TAG: Woody_001_f
+Howdy, partner. You must be {PlayerName}.
+
+TAG: Woody_002_f
+Guess I've got you to thank for helping Buzz unlock the window.
+
+TAG: Player_000_choice_000_f
+Whatever it takes to help a toy in need.
+
+TAG: Player_000_choice_001_f
+Ah, don't worry. It was nothing.
+
+TAG: Player_000_choice_002_f
+You owe me. Big time.
+
+TAG: Woody_003_f
+And I certainly appreciate it.
+
+TAG: Woody_006_f
+Buzz said you got knocked out the window on some kind of mission. What were you doing?
+
+TAG: Woody_007_f
+Well, Bonnie's family's off on a vacation, and she left us behind to take care of something for her.
+
+TAG: Woody_008_f
+She wants to put on a play when she gets back.
+
+TAG: Woody_009_f
+A play? What sort of play?
+
+TAG: Woody_010_f
+With Bonnie's imagination, you never know. But she made a little farm out of pipe cleaners and ice pop sticks...
+
+TAG: Woody_011_f
+...and then she made a whole bunch of animals for it out of construction paper.
+
+TAG: Player_001_choice_000_f
+That's so cute!
+
+TAG: Player_001_choice_001_f
+That's so creative!
+
+TAG: Player_001_choice_002_f
+That sounds like a lot of work.
+
+TAG: Woody_012_f
+That's our Bonnie.
+
+TAG: Woody_014_f
+She's a real creative kid.
+
+TAG: Woody_015_f
+But wait... Where's the farm?
+
+TAG: Woody_016_f
+Heh-heh... Well... uh... Bonnie's farm got... knocked over. And it broke. Pieces of it scattered all over the room.
+
+TAG: Player_003_choice_000_f
+Oh no! That's awful.
+
+TAG: Player_003_choice_001_f
+Wait a second... Did you knock it over?
+
+TAG: Woody_025_f
+Yep, it just about broke my heart seein' it all in pieces.
+
+TAG: Woody_017_f
+So Buzz and I decided we're gonna rebuild Bonnie's farm, just how she left it.
+
+TAG: Player_002_choice_000_f
+I want to help.
+
+TAG: Player_002_choice_001_f
+You're a good toy, Woody.
+
+TAG: Player_002_choice_002_f
+Seems like your plan isn't going too well...
+
+TAG: Woody_019_f
+That's great! Because we could really use some help right about now.
+
+TAG: Woody_000_f
+Um... I think I might have some leaves stuck under my hat.
+
+TAG: Woody_023_f
+Why don't you talk to Buzz and he'll brief you on the rest of the plan.
+
+TAG: Woody_018_f
+Any kid would be lucky to have you.
+
+TAG: Woody_020_f
+Aw, shucks. Thanks. I just wanna make sure everything's perfect when Bonnie gets back.
+
+TAG: Woody_021_f
+You're right. You're right.
+
+TAG: Woody_022_f
+But now, we've got a chance to fix our mistakes.
+
+TAG: Woody_026_f
+What? No!
+
+TAG: Woody_027_f
+... Buzz knocked it over when his wings popped out.
+
+TAG: Woody_028_f
+And sure... maybe I happened to bump into him and accidentally pushed his wing button, but...
+
+TAG: Woody_029_f
+But that doesn't matter now! What matters is, Buzz and I decided to rebuild Bonnie's farm, just how she left it.
+
+TAG: Woody_013_f
+Yeah, but Bonnie loves arts and crafts.
+
+TAG: Woody_004_f
+Hey, now. Don't sell yourself short. That was a great rescue plan you and Buzz pulled off.
+
+TAG: Woody_005_f
+Heh-heh. Okay... Don't worry. You've got a friend in me for life now.
+

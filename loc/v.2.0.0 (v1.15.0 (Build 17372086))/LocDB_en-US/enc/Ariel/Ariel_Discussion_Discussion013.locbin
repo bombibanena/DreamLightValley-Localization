@@ -1,0 +1,21 @@
+
+v
+Ariel_000_fgOh, {PlayerName}, I was wondering... have you made friends with any of the turtles around Dazzle Beach?
+>
+Player_000_choice_000_f#It seems to take a lot of patience.
+'
+Player_000_choice_001_fRemind me...
+:
+Player_000_choice_002_fI have no idea. Please help me.
+y
+Ariel_002_fjWell, they are very shy. But if you wait quietly for them, they'll poke their heads out of their shells...
+j
+Ariel_005_f[And then you can give them some <ActivityItem>Seaweed</ActivityItem> and make a new friend!
+¯
+Ariel_003_fŸThe turtles around here are very shy. When they see someone they don't know, they head right back into their shells. You have to wait until they come back out.
+W
+Ariel_006_fHThen you can give them some <ActivityItem>Seaweed</ActivityItem> to eat.
+4
+Ariel_007_f%And that's how you make a new friend!
+Y
+Ariel_004_fJOh, don't worry. It's really easy. You just need to remember a few things.

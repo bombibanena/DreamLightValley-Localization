@@ -1,0 +1,36 @@
+TAG: Mulan_001_f
+Welcome to the Training Maze. Before you start, I need to give you something.
+
+TAG: Mulan_002_f
+Here.
+
+TAG: Mulan_003_f
+What is that?
+
+TAG: Mulan_004_f
+<ActivityItem>Training Weights</ActivityItem>. They're roughly the weight of your pack when you walk.
+
+TAG: Mulan_005_f
+I hope you didn't expect to walk through the maze carrying nothing. That would've been much too easy.
+
+TAG: Player_000_choice_000_f
+I laugh in the face of your challenge.
+
+TAG: Player_000_choice_001_f
+I'm prepared for anything!
+
+TAG: Player_000_choice_002_f
+My back is already hurting just seeing those.
+
+TAG: Mulan_006_f
+Don't be too confident, {PlayerName}. That just might be your downfall.
+
+TAG: Mulan_011_f
+Put the weights on, open the door, and come talk to me. I'll explain the rest of your goals for this exercise then.
+
+TAG: Mulan_007_f
+Thinking like a defender already. I like that.
+
+TAG: Mulan_008_f
+Well, don't forget to stretch afterwards. It helps.
+

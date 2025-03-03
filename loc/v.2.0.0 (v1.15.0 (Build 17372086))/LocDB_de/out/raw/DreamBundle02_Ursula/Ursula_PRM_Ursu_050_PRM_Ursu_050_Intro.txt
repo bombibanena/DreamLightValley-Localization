@@ -1,0 +1,69 @@
+TAG: Ursula_002_f
+Ah, angelfish, do you have time to help your poor, dear friend Ursula?
+
+TAG: Player_000_choice_001_f
+Of course. What do you need?
+
+TAG: Player_000_choice_002_f
+Sorry. Busy.
+
+TAG: Ursula_003_f
+I'd like you to put your little assistant cap back on. Metaphorically, that is. This time it's Moana who's late paying what's due. I need you to go and see her... discreetly.
+
+TAG: Player_001_choice_000_f
+Discretion is my middle name.
+
+TAG: Player_001_choice_001_f
+What did she promise you?
+
+TAG: Player_001_choice_002_f
+Sounds like someone is embarrassed to ask. I could alwaysâ
+
+TAG: Ursula_006_f
+And that is why you're my favorite neighbor.
+
+TAG: Ursula_012_f
+Just between the two of us...
+
+TAG: Ursula_013_f
+Moana promised me advice...
+
+TAG: Ursula_009_f
+...on how to care for my hair on the surface.
+
+TAG: Ursula_010_f
+Whenever I spend time out of the sea, my fabulous hair becomes unruly and horridly dry.
+
+TAG: Player_002_choice_000_f
+Bad hair day... I have them too.
+
+TAG: Player_002_choice_001_f
+May I suggest a comb?
+
+TAG: Player_002_choice_002_f
+Never had a bad hair day in my life.
+
+TAG: Ursula_014_f
+Then you know why I'm so eager to learn our little wayfinder's secret. Her hair is always infuriatingly lush.
+
+TAG: Ursula_017_f
+I'll go talk to Moana for you.
+
+TAG: Ursula_015_f
+You think I didn't try that?! Hair is a part of you. It needs proper nourishment.
+
+TAG: Ursula_016_f
+Ugh... Be careful; you're starting to sound like a little mer-princess I know.
+
+TAG: Ursula_007_f
+Advice...
+
+TAG: Ursula_008_f
+Stop right there, dearie. If you're about to try your hand at blackmail, remember: It's an art.
+
+TAG: Ursula_011_f
+One that takes years to perfect. But since you've been courageous enough to try... Moana promised me advice.
+
+TAG: Ursula_004_f
+Fine then... Run along. But you'll know who to blame if I'm a shell of myself when you return.
+

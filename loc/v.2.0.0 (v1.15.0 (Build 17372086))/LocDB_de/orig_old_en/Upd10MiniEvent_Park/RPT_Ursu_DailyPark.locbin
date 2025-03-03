@@ -1,0 +1,15 @@
+
+]
+HRepeatable!Event!Park!RPT_Ursu_DailyPark_Any_CompletedRequestDescriptionReturn to Ursula.
+P
+=Repeatable!Event!Park!RPT_Ursu_DailyPark_AvailableDescriptionTalk to Ursula.
+U
+4Repeatable!Event!Park!RPT_Ursu_DailyPark_DisplayNameDreamlight Parks Fest: Ursula
+q
+RRepeatable!Event!Park!RPT_Ursu_DailyPark_Group01_Step01_CookMeal01_StepDescriptionCook some Mermaid Cupcakes.
+œ
+GRepeatable!Event!Park!RPT_Ursu_DailyPark_Group02_Step02_StepDescriptionQ(Repeatedly giving cupcakes to the same Villagers doesn't count. Spread the joy!)
+r
+@Repeatable!Event!Park!RPT_Ursu_DailyPark_Group02_StepDescription.Deliver the Mermaid Cupcakes to any Villagers.
+l
+;Repeatable!Event!Park!RPT_Ursu_DailyPark_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

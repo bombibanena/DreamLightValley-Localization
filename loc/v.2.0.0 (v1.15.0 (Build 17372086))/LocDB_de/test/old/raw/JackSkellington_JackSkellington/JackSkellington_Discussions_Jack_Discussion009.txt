@@ -1,0 +1,78 @@
+TAG: JackSkellington_000_f
+{PlayerName}, хочешь присоединиться ко мне в какой-нибудь кричащей тренировке?
+
+TAG: Player_000_choice_000_f
+Сделаем это!
+
+TAG: Player_000_choice_001_f
+Нет, спасибо.
+
+TAG: Player_000_choice_002_f
+Кричащая тренировка?
+
+TAG: JackSkellington_001_f
+Потрясающе, теперь мы начнем по-простому.
+
+TAG: Player_001_choice_000_f
+Аааа!
+
+TAG: Player_001_choice_001_f
+Аргх!
+
+TAG: Player_001_choice_002_f
+Ура!
+
+TAG: JackSkellington_002_f
+Попробуй еще раз орать, но на этот раз подольше.
+
+TAG: Player_002_choice_000_f
+А-а-а-а!
+
+TAG: Player_002_choice_001_f
+А-а-а-а-а-а!
+
+TAG: JackSkellington_003_f
+А теперь выше!
+
+TAG: Player_003_choice_000_f
+Думаю, я закончил, спасибо.
+
+TAG: Player_003_choice_001_f
+Тихо, тихо, тихо, тихо, тихо, тихо, тихо!
+
+TAG: Player_003_choice_002_f
+Эй, эй, эй!
+
+TAG: JackSkellington_004_f
+До следующего раза!
+
+TAG: JackSkellington_005_f
+Это прислало мне дрожь по позвоночнику.
+
+TAG: JackSkellington_006_f
+О, мне нравится улюляция. Ужасное прикосновение!
+
+TAG: JackSkellington_007_f
+Близко, но это йогурт, а не рычание.
+
+TAG: JackSkellington_008_f
+Попробуй еще раз орать, но на этот раз подольше.
+
+TAG: JackSkellington_009_f
+Ладно, может, ты просто посмотришь...
+
+TAG: JackSkellington_010_f
+ЙЕАЗАААРРШ!
+
+TAG: JackSkellington_011_f
+Да, даже если у кого-то нет голосовых аккордов, нужно держать свой голос в лучшем состоянии для кровожадных криков.
+
+TAG: JackSkellington_012_f
+Не могли бы вы присоединиться ко мне?
+
+TAG: Player_004_choice_000_f
+Конечно!
+
+TAG: Player_004_choice_001_f
+Нет, спасибо.
+

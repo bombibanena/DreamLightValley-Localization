@@ -1,0 +1,72 @@
+TAG: Merida_000_f
+So, how's your adventure going, {PlayerName}?
+
+TAG: Merida_001_f
+Let me guess... You've already sat Maleficent and Hades down for tea and gotten them to hash out their wee quarrel?
+
+TAG: Player_000_choice_000_f
+Uh, yeah, definitely!
+
+TAG: Player_000_choice_001_f
+I'm getting there.
+
+TAG: Player_000_choice_002_f
+Not even close...
+
+TAG: Merida_002_f
+Ha-ha-ha! Och, I'm sorry, but that's too funny! You're brilliant, {PlayerName}, but no one's that skilled.
+
+TAG: Merida_004_f
+Now then, is there anything I can do to help?
+
+TAG: Merida_005_f
+Actually, you can. I stumbled upon something in Everafter.
+
+TAG: Merida_006_f
+It was a gateway to another trial, just like the ones in Mythopia.
+
+TAG: Merida_008_f
+But it seems that this one is caused by Maleficent's meddling... not Hades'.
+
+TAG: Merida_009_f
+Oh! I found one of those before all that clarty ink flooded the land!
+
+TAG: Merida_010_f
+You mean the one deep in that dark, strange forest, right?
+
+TAG: Merida_011_f
+Well, you'd best be careful, {PlayerName}. There's something not right in those woods.
+
+TAG: Merida_012_f
+I hear it howling sometimes. It's some sort of beast, like the wolves I used to see stalking the moors back home.
+
+TAG: Player_001_choice_000_f
+I'm not afraid of some wolf.
+
+TAG: Player_001_choice_001_f
+We should stick together, just to be safe.
+
+TAG: Player_001_choice_002_f
+Maybe it's a friendly wolf...?
+
+TAG: Merida_013_f
+That's because YOU haven't heard its howls. This isn't a regular old wolf. It's a beast!
+
+TAG: Merida_016_f
+Come on. Let's go <Lore>take a look</Lore>. Together we'll have a better chance.
+
+TAG: Merida_017_f
+And I'll keep an arrow at the ready just in case you see something hairy with big teeth coming our way.
+
+TAG: Merida_015_f
+Aye. I agree!
+
+TAG: Merida_014_f
+You haven't heard it howling and snarling. It's a nasty, brutish beast. Trust me.
+
+TAG: Merida_007_f
+It looked like a kind of gateway, filled with ink. The Lorekeeper told me that it's a Fairy Tale Trial.
+
+TAG: Merida_003_f
+Och, don't worry. If you'd already gotten that mess all sorted, I'd be more than a bit suspicious.
+

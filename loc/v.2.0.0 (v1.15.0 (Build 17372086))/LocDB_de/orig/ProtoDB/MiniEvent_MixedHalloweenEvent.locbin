@@ -1,0 +1,21 @@
+
+P
+DescriptionA{Placeholder}Pickup up fruit, Garden and Cook meal For Halloween.
+2
+Description_000{Placeholder}Pick up 10 fruits.
+8
+Description_001%{Placeholder}Make 5 meals with sugar.
+4
+Description_002!{Placeholder}Harvest 10 pumpkins.
+5
+Description_003"{Placeholder}Make 5 pumpkin meals.
+$
+Name{Placeholder}Halloween Event
++
+Name_000{Placeholder}Sugar everywhere 1
++
+Name_001{Placeholder}Sugar everywhere 2
+0
+Name_002${Placeholder}Pumpkin for Halloween 1
+0
+Name_003${Placeholder}Pumpkin for Halloween 2

@@ -1,0 +1,71 @@
+
+K
+Gaston_003_f;How are you settling in, Gaston? Need a hand with anything?
+,
+Gaston_004_fWell, I never NEED a hand...
+8
+Player_004_choice_000_fBut you could use one anyway?
+1
+Player_004_choice_001_fGreat, see you around!
+Q
+Gaston_005_fA{PlayerName}, I promise you: Anything I decide to do, I excel at!
+L
+Player_000_choice_000_f1Glad to hear you're enjoying your time here then!
++
+Player_000_choice_001_fOkay, calm down.
+;
+Player_000_choice_002_f Can you succeed at being polite?
+M
+Gaston_006_f=I may be settled here, but that doesn't mean I'm enjoying it.
+K
+Gaston_009_f;I have to say... I'm not impressed by the community at all.
+y
+Gaston_010_fiWell sure, there's always room for improvement! Is there something that would help you feel more at home?
+ 
+Gaston_027_fMost definitely.
+&
+Gaston_028_fAppropriate adoration.
+"
+Gaston_029_fBuckets of praise.
+E
+Gaston_030_f5And most importantly... a place for it all to happen!
+5
+Player_001_choice_000_fWhy am I not surprised...?
+5
+Player_001_choice_001_fWhat did you have in mind?
+?
+Player_001_choice_002_f$You need a specific place for that?!
+0
+Gaston_011_f You understand me then! Finally!
+�
+Gaston_012_f�I can see it already: a rustic hunting lodge... my latest kill roasting over the fire... and me in the middle, holding court among my admiring fans.
+f
+Gaston_035_fVYeah, I'm not sure about the "latest kill" part, but I can help you get a lodge going!
+9
+Gaston_036_f)Usually LeFou handles this sort of thing.
+S
+Gaston_037_fCBut since he's not here, I suppose you could be a substitute LeFou.
+-
+Player_005_choice_000_fHow kind of you...
+(
+Player_005_choice_001_fHow about no?
+#
+Player_005_choice_002_fPerfect!
+$
+Gaston_031_fI am kind, aren't I?
+\
+Gaston_032_fLI built a lodge ages ago in the <Lore>Wastes</Lore> â let's meet there.
+R
+Gaston_002_fBI want to show you how it looks after my time stuck in the desert.
+a
+Gaston_033_fQYou're right. I'm not sure you could fill his boots. But you may still assist me.
+8
+Gaston_034_f(Ah, enthusiasm! That's just what I need!
+
+Gaston_014_fYes!
+?
+Gaston_007_f/There! You see! You don't appreciate me at all.
+3
+Gaston_008_f#Of course. But polite is overrated.
+\
+Gaston_001_fLWait â perhaps I will give you the honor of helping me. Return quickly!

@@ -1,0 +1,28 @@
+
+)
+
+Scar_000_fOh, {PlayerName}. It's you.
+[
+
+Scar_001_fMI suppose you witnessed that little... misunderstanding... I had with Donald?
++
+Player_000_choice_000_fScar, don't lie.
+2
+Player_000_choice_001_f"Misunderstanding," eh?
+M
+Player_000_choice_002_f2What have I told you about eating other Villagers?
+^
+
+Scar_002_fPLie? How insulting! I won't stand by while you make such slanderous accusations.
+Q
+
+Scar_006_fC*sigh* I suppose I'll just have to eat these desserts myself. Pity.
+N
+
+Scar_003_f@Why, yes. Donald mistook my gracious gift for some sort of trap.
+2
+
+Scar_004_f$Don't worry. I've learned my lesson.
+Z
+
+Scar_005_fLNext time, I'll pick a quieter Villager. One less likely to throw a tantrum.

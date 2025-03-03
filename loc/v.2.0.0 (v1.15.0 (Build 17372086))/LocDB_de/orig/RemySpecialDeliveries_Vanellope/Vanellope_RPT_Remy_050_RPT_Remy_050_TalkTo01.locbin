@@ -1,0 +1,27 @@
+
+r
+Vanellope_000_f_Hey, {PlayerName}! What new and exciting things are happening in our fantabulous Valley, today?
+<
+Player_000_choice_000_f!Have you met the Fairy Godmother?
+:
+Player_000_choice_002_fHow do you feel about pumpkins?
+Q
+Vanellope_002_f>That nice lady who lives in a big House shaped like a pumpkin?
+"
+Vanellope_004_fShe seems okay.
+"
+Vanellope_006_fWhy do you ask?
+R
+Player_001_choice_000_f7How would you feel about a party based around pumpkins?
+[
+Player_001_choice_001_f@Let me tell you about the most exciting pumpkin party in town...
+c
+Vanellope_007_fPSounds like a weird inanimate object to throw a party for, but hey, count me in.
+*
+Vanellope_008_fI do love a good party.
+e
+Vanellope_009_fRThen swing by the Fairy Godmother's House later! I think you'll have a great time.
+j
+Vanellope_003_fWThey're okay. I especially like the ones that are carved up with creepy faces on 'em...
+E
+Vanellope_005_f2...because that means there might be candy inside!

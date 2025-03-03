@@ -1,0 +1,27 @@
+
+$
+WallE_000_fWALLÂ·E! Directive?
+O
+Player_000_f?Hi, WALLÂ·E. Could you please take a look at this compass...?
+6
+Player_000_choice_000_fI need your help fixing it.
+@
+Player_000_choice_001_f%Can you tell me what's wrong with it?
+:
+Player_000_choice_002_fYou're good at fixing old junk!
+
+WallE_002_fWhoa! Uhh...
+
+WallE_003_fTa-da!
+�
+Player_002_f�Okay, this book says I need to craft a new <ActivityItem>Dreamlight Magnet</ActivityItem> for the compass using <ActivityItem>Tinkering Parts</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, and <ActivityItem>Crystals</ActivityItem>. Got it. Then I'll bring it to you to put together.
+)
+Player_002_choice_000_fLet's do this!
+0
+Player_002_choice_001_fThank you, WALLÂ·E!
+6
+Player_002_choice_002_fWALLÂ·E, you're the best!
+
+WallE_001_fWhoopee!
+
+WallE_005_fAww...

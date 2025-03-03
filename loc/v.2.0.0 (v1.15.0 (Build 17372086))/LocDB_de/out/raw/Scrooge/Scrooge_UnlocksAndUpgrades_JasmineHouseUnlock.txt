@@ -1,0 +1,18 @@
+TAG: Scrooge_000_f
+Why {PlayerName}, do my eyes deceive me, or are Jasmine and Aladdin comin' back to the Valley? I'd be pleased as punch to help ya get their House together again!
+
+TAG: Player_000_choice_000_f
+Let's build a home for Jasmine and Aladdin! (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_001_f
+This might not be a whole palace like in Agrabah, but it's in a neighborhood full of friendly faces!
+
+TAG: Scrooge_002_f
+Och, you haven't got enough Star Coins to cover even the materials for Aladdin and Jasmine's home! Come back when ya have sufficient funds.
+
+TAG: Scrooge_003_f
+Don't wait too long, {PlayerName}. Jasmine needs a home soon or she'll be stuck sleepin' out under the stars.
+

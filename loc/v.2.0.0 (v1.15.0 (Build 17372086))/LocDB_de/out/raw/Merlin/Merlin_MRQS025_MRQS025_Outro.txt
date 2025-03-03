@@ -1,0 +1,15 @@
+TAG: Merlin_003_f
+Bravo, {PlayerName}!
+
+TAG: Merlin_008_f
+Continue nurturing your friendships and curiosity. They'll be your greatest strength!
+
+TAG: Merlin_002_f
+And you'll need all the help you can get.
+
+TAG: Merlin_001_f
+I fear that Dreamlight Valley won't be truly safe until we can find and return all the <ActivityItem>Orbs</ActivityItem> to their rightful places.
+
+TAG: Merlin_000_f
+Find them and restore the Pillars. We're counting on you, {PlayerName}.
+

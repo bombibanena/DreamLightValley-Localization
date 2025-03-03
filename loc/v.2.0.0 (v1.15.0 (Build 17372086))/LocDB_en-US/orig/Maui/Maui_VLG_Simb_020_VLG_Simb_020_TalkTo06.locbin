@@ -1,0 +1,25 @@
+
+G
+
+Maui_001_f9Hey, {PlayerName}. Need anything rescued or fought today?
+^
+Player_000_fNSimba wants to have a gathering. He's wondering if you could come along and...
++
+Player_000_choice_000_f...fight stress.
+5
+Player_000_choice_001_f...rescue some relaxation.
+=
+
+Maui_002_f/"Stress"? Never heard of that monster before...
+
+
+Maui_004_fJust kidding!
+1
+
+Maui_005_f#I get it. Sounds like a great time.
+
+
+Maui_006_fI'll be there.
+F
+
+Maui_003_f8"Relaxation"? Is that what you named one of the islands?

@@ -1,0 +1,61 @@
+
+3
+Gaston_000_f#There's definitely some work to do.
+-
+Gaston_001_fOlaf follows commands well...
+J
+Gaston_002_f:But he refuses to simply sit and wait for my instructions!
+#
+Gaston_003_fYeah, about that...
+7
+Player_000_choice_000_fYou need to ease up on Olaf.
+B
+Player_000_choice_001_f'You're being way too hard on poor Olaf!
++
+Gaston_004_fWhat? But he's my sidekick!
+?
+Gaston_005_f/You're trying to be a hero, aren't you, Gaston?
++
+Gaston_006_fTrying to be? I already am!
+`
+Gaston_007_fPThen try acting like one! Olaf isn't your lackey. I wanted to find you a friend!
+A
+Gaston_008_f1You have a responsibility to treat Olaf properly.
+2
+Gaston_009_f"... That's truly important to you?
+
+Gaston_010_fYes!
+0
+Gaston_011_f Fine. I'll... keep that in mind.
+"
+Gaston_012_fThank you, Gaston.
+S
+Gaston_013_fCStitch has... interesting ideas about how a sidekick should behave.
+1
+Player_001_choice_000_fThat's Stitch for you!
+.
+Player_001_choice_001_fWhat sort of ideas?
+G
+Gaston_014_f7He keeps telling me to think about my "badness levels."
+/
+Gaston_015_fAnd not to let them control me.
+H
+Gaston_016_f8Can you imagine it? Me? With some sort of badness level?
+/
+Player_002_choice_000_fWhat a suggestion...
+6
+Player_002_choice_001_fYes, yes, I can imagine it.
+(
+Gaston_017_fHe'll learn soon enough.
+a
+Gaston_018_fQThough I must say, the little creature is tough â I like that in a sidekick!
+>
+Gaston_019_f.All right, Gaston; I'll let you do your thing.
+h
+Gaston_020_fXBut try to be open-minded! Stitch could probably teach you a thing or two about heroism.
+{
+Gaston_021_fkYou should ask him about his adventures. I didn't want to find you a lackey. I wanted to find you a friend.
+,
+Gaston_022_fHmm, I'll keep that in mind.
+7
+Gaston_023_f'That is why imagination is dangerous...

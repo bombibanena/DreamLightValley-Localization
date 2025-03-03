@@ -1,0 +1,114 @@
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Any_CompletedRequestDescription
+Поговори с Салли.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_AvailableDescription
+Вы прибыли в "Монстры, Инк.", где все?
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_CompletedStoryDescription
+После спасения Майк Вазовски ты поговоришь с Салли. Пора раскрыть, что ты не монстр, и попросить его посетить долину Мечты...
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_DisplayName
+Сбежавшие когти
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group01_Step01_StepDescription
+Проверьте дверь на этаж Смеха.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group02_StepDescription
+Ищите что-нибудь, чтобы замаскироваться как монстр.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group02_StoryDescription
+Система безопасности на этаже смеха тебя не впустит, потому что ты не монстр... ты ищешь маскировки.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group03_Step03_StepDescription
+Откройте мешок <ActivityItem>Monstrous Accessories</ActivityItem>.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group04_Step04_DressUp02_StepDescription
+Эксперимент с <ActivityItem>Fantasy Skin Tones</ActivityItem> и <ActivityItem>Contact Lenses</ActivityItem> в меню Wardrobe для создания монстра.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group04_Step20_DressUp01_StepDescription
+Выбирайте <ActivityItem>Murstrus Ears</ActivityItem>.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group04_Step20_DressUp03_StepDescription
+Наденьте свой <ActivityItem>{ItemName}</ActivityItem> после того, как ваша маскировка будет завершена.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group05_Step05_StepDescription
+Возьми селфи только после того, как будешь доволен своим новым Чудовищем.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group06_StepDescription
+Откройте дверь на этаж Смеха в вашем Чудовищном заблуждении.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group07_Step07_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_Step08_StepDescription
+Слизняк "Слизняк".
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_Step09_StepDescription
+Вечеринка Мусор.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_StepDescription
+Очистить пол смеха:
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group08_StoryDescription
+Салли приветствует вас в Monsters, Inc. в качестве нового стажера.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group09_Step11_TalkToCharacter02_StepDescription
+Поговори с Салли.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_Step12_Possess02_StepDescription
+Вазовский спецназ.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_Step12_Possess03_StepDescription
+Кофе Салли.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_StepDescription
+Используйте кофейную станцию для приготовления:
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_StoryDescription
+Салли просит вас приготовить кофе для себя и Майк Вазовски, когда они закончат свой план.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group11_Step14_ReadyDescription
+Принеси кофе на {TargetNPC}.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group11_Step14_StepDescription
+Убедитесь, что в вашем списке есть кофе Майк Вазовски и Салли.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group12_Step15_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group12_StoryDescription
+После того, как они принесли кофе Майк Вазовски и Салли, они начинают работать.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_Step16_BringItem03_StepDescription
+Найдите {ItemName}.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_Step16_ReadyDescription
+Возьмите {ItemName} на {TargetNPC}.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_StoryDescription
+Из-за взрыва взрыва, этаж Смех теряет энергию и Майк Вазовски попадает в ловушку в человеческом мире!
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_Step17_StepDescription
+Электрическая панель.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_Step18_StepDescription
+Электрические линии.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_StepDescription
+Найти и заменить взрыватели и скорректировать поток энергии для спасения Майк Вазовски.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group14_StoryDescription
+Вы обыскиваете пол, чтобы заменить и отремонтировать линии электропередачи, чтобы спасти Майк Вазовски.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group15_Step19_TalkToCharacter04_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group15_StoryDescription
+Вы можете восстановить повреждения на полу смеха и спасти Майк Вазовски!
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Can Вы напоминаете мне, что я делаю?
+
+TAG: Realm!MonsterInc!Sully!RLM_MonsterIncIP_Sull_010_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+

@@ -1,0 +1,31 @@
+
+3
+
+Anna_000_f%This is it! Kristoff's Climbing Gear!
+d
+
+Anna_001_fVOh, but it's really wrecked. I don't think he'll remember much from looking at this...
+5
+Player_000_choice_000_fHe might remember falling?
+M
+Player_000_choice_001_f2I could try buying some new climbing gear instead?
+:
+Player_000_choice_002_fYou're right. So what do we do?
+[
+
+Anna_004_fMI think even without a magically erased memory, he'd rather forget that part.
+\
+
+Anna_002_fNMaybe I could fix the climbing gear, so it would be like how he remembered it?
+C
+
+Anna_007_f5You'd do that? {PlayerName}, you are the actual best!
+]
+
+Anna_008_fOI think I know what I'll need to fix this. I'll come talk to you when I'm done.
+~
+
+Anna_005_fpI don't think that'll work. It has to be something from our past together if it's gonna bring back his memories.
+
+
+Anna_006_fGood question...

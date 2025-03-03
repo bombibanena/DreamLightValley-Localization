@@ -1,0 +1,42 @@
+TAG: TheForgotten_005_f
+Where are we...? Is this some kind of trick?!
+
+TAG: TheForgotten_006_f
+No! I didn't do this. When our magic collided... it brought us here.
+
+TAG: Player_000_f
+Maybe it's...
+
+TAG: Player_000_choice_000_f
+...a dream?
+
+TAG: Player_000_choice_001_f
+...the Here and There?
+
+TAG: Player_000_choice_002_f
+...a memory?
+
+TAG: TheForgotten_007_f
+Well... duh. Everything in Dreamlight Valley is a dream. But this is... different.
+
+TAG: TheForgotten_010_f
+I think... I think it's a place we share together. Somewhere our oldest memories go.
+
+TAG: TheForgotten_011_f
+Then that must mean... this sandbox...?
+
+TAG: TheForgotten_012_f
+You remember it too, don't you?
+
+TAG: TheForgotten_013_f
+But something's not right about it. Something is missing.
+
+TAG: TheForgotten_014_f
+I can fix it. I know I can.
+
+TAG: TheForgotten_008_f
+I don't think this is someplace far away.
+
+TAG: TheForgotten_009_f
+I think you're right.
+

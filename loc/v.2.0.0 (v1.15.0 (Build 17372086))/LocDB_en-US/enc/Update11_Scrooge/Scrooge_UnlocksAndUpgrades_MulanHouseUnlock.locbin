@@ -1,0 +1,13 @@
+
+{
+Scrooge_000_fj{PlayerName}, this is the perfect House for the brave Mulan and her wee Guardian Mushu. Shall we build it?
+‰
+Player_000_choice_000_fnLet's build a place for Mulan and Mushu. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+.
+Player_000_choice_001_fMaybe another time.
+D
+Scrooge_001_f3I cannae wait for them to see all that we've built!
+m
+Scrooge_002_f\Och! You dinnae have enough Star Coins yet! Come back when you have the funds, {PlayerName}.
+=
+Scrooge_003_f,*sigh* Fine. I'll be here when you're ready.

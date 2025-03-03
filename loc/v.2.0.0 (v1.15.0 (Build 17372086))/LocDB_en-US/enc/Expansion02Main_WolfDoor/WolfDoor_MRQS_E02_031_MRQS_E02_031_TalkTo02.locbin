@@ -1,0 +1,53 @@
+
+#
+WolfDoor_002_fHello? Excuse me?
+-
+WolfDoor_003_fWait. Is someone out there?
+_
+WolfDoor_004_fMUh... I mean... <i>Grrrr... Who... who DARES disturb my slumber? Awooooo!</i>
+A
+Player_000_choice_000_f&I'm {PlayerName}. Pleased to meet you.
+K
+Player_000_choice_001_f0I've got a question for YOU. What is this place?
+P
+Player_000_choice_002_f5Your growling and howling could really use some work.
+h
+WolfDoor_005_fVHey, it's great to meet you too â uh, I mean, <i>your name matters not to me!</i>
+^
+WolfDoor_006_fL<i>Leave this place, or you'll be my entrÃ©e for lunch! AwooooOOOOooo!</i>
+Z
+Player_001_choice_000_f?No offense, but I'm starting to think you're not really a wolf.
+I
+Player_001_choice_001_f.Wow. You are the fakest faker I have ever met.
+8
+WolfDoor_010_f&<i>What? No! Of course I'm a wolf.</i>
+w
+WolfDoor_018_fe<i>I am <Lore>the Wolf of the Wilds</Lore>, guardian of these woods and servant of Maleficent.</Lore>
+J
+WolfDoor_019_f8<i>It's just that this is kind of an off day for me.</i>
+*
+Player_003_choice_000_fUh, yeah, sure.
+*
+Player_003_choice_001_fA likely story.
+5
+Player_003_choice_002_fIt must be a VERY off day.
+E
+WolfDoor_020_f3<i>Don't believe me? Well, look at the proof...</i>
+p
+WolfDoor_017_f^Oh, would you just leave me alone. That's right... <i>Leave now, before my hunger returns!</i>
+}
+WolfDoor_011_fk<i>Like <Lore>what large, wolfish feet I have</Lore>! I'm sure you saw the footprints I left outside...</i>
+�
+WolfDoor_013_fy<i>Or... or <Lore>what a wolfish musk I have</Lore>? I mean, come on, you can smell me from halfway across the woods.</i>
+�
+WolfDoor_014_f�<i>Or maybe you'll be convinced by <Lore>what a terrifying howl I have</Lore>! I'm sure you've heard me howling at the moon.</i>
+q
+WolfDoor_015_f_So if I could <Lore>find proof that your feet, your scent, and your howl</Lore> are all fake...
+B
+WolfDoor_016_f0...you'll stop pretending and open up that door?
+]
+WolfDoor_007_fKHonest, I don't really know â uh, I mean... <i>It's my den! Grrrr!</i>
+W
+WolfDoor_008_fESeriously?! Do you know how hard talking like this is on your throat?
+]
+WolfDoor_009_fKUh, I mean... <i>GrrrRRRRRrrr! How dare you insult my ferocious growl?!</i>

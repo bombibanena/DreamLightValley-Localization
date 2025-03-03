@@ -1,0 +1,42 @@
+TAG: Elsa_000_f
+Hi, Elsa! Jasmine and I are on a mission to find a missing key to open an old journal of mine. We think it's somewhere in the Frosted Heights.
+
+TAG: Elsa_001_f
+Well, {PlayerName}, I was just about to come find you. Some odd, unbreakable ice surrounding a chest suddenly appeared in my Ice Cavern.
+
+TAG: Player_000_choice_000_f
+That's too much of a coincidence to not mean anything.
+
+TAG: Player_000_choice_001_f
+Hmm... I wonder if that has to do with my journal?
+
+TAG: Player_000_choice_002_f
+That's... random.
+
+TAG: Elsa_003_f
+You think the unbreakable ice is connected to the missing key?
+
+TAG: Elsa_002_f
+Well... the first key for the journal was difficult to retrieve. I think I wanted to keep whatever is in my <ActivityItem>Secret Journal</ActivityItem> very safe.
+
+TAG: Elsa_011_f
+Before the Forgetting, someone must have asked for your help to keep this other key safe, too.
+
+TAG: Elsa_008_f
+And you think the missing key is in the chest. I understand.
+
+TAG: Elsa_009_f
+Exactly! <Lore>Let's go to your Ice Cavern and see if we can find a way to break the unbreakable ice</Lore>.
+
+TAG: Elsa_013_f
+It's the only way we'll know for sure.
+
+TAG: Elsa_004_f
+Why do you think that?
+
+TAG: Elsa_005_f
+It certainly surprised me.
+
+TAG: Elsa_012_f
+I wonder if it has anything to do with the key I'm looking for?
+

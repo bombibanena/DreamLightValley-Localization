@@ -1,0 +1,27 @@
+TAG: PrinceEric_000_f
+You did it! I'm impressed, {PlayerName}.
+
+TAG: Player_000_choice_000_f
+Oh, thank you!
+
+TAG: Player_000_choice_001_f
+I hope it'll help you and Ariel.
+
+TAG: Player_000_choice_002_f
+Yeah, I'm the best, I know.
+
+TAG: PrinceEric_001_f
+Hey, I should be the one thanking you.
+
+TAG: PrinceEric_005_f
+Now I'll just put together the enchantment you made with the Nautilus shell...
+
+TAG: PrinceEric_004_f
+There! Now we just have to give the <ActivityItem>Nautilus Pendant</ActivityItem> to Ariel.
+
+TAG: PrinceEric_002_f
+There's only one way to find out.
+
+TAG: PrinceEric_003_f
+And you certainly are confident.
+

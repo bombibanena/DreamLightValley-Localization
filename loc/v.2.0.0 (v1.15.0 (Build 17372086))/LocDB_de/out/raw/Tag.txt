@@ -1,0 +1,789 @@
+TAG: A_Bold_DisplayName
+Bold
+
+TAG: A_Casual_DisplayName
+Casual
+
+TAG: A_Cute_DisplayName
+Cute
+
+TAG: A_Elegant_DisplayName
+Elegant
+
+TAG: A_Futuristic_DisplayName
+Futuristic
+
+TAG: A_Halloween_DisplayName
+Halloween
+
+TAG: A_Modern_DisplayName
+Modern
+
+TAG: A_Professional_DisplayName
+Professional
+
+TAG: A_Quirky_DisplayName
+Quirky
+
+TAG: A_Rustic_DisplayName
+Rustic
+
+TAG: A_Sporty_DisplayName
+Sporty
+
+TAG: A_Traditional_DisplayName
+Traditional
+
+TAG: Aladdin_DisplayName
+Aladdin
+
+TAG: Alice_DisplayName
+Alice in Wonderland
+
+TAG: AncientCiv_DisplayName
+Ancient Civilization
+
+TAG: Animals_DisplayName
+Animals
+
+TAG: Appetizers_DisplayName
+Appetizer
+
+TAG: Appliance_DisplayName
+Appliance
+
+TAG: Art_DisplayName
+Art
+
+TAG: Atlantis_DisplayName
+Atlantis
+
+TAG: Back_DisplayName
+Back
+
+TAG: Bathroom_DisplayName
+Bathroom
+
+TAG: Beards_DisplayName
+Beards
+
+TAG: BeautyBeast_DisplayName
+Beauty and the Beast
+
+TAG: BeautyBeast2017_DisplayName
+Beauty and the Beast â 2017
+
+TAG: Bed_DisplayName
+Beds
+
+TAG: Bedroom_DisplayName
+Bedroom
+
+TAG: BigHero6_DisplayName
+Big Hero 6
+
+TAG: Birthmark_DisplayName
+Birthmark
+
+TAG: Black_DisplayName
+Black
+
+TAG: Blue_DisplayName
+Blue
+
+TAG: Blush_DisplayName
+Blush
+
+TAG: Bracelet_DisplayName
+Bracelets
+
+TAG: Brave_DisplayName
+Brave
+
+TAG: Brown_DisplayName
+Brown
+
+TAG: Cars_DisplayName
+Cars
+
+TAG: Ceiling_DisplayName
+Ceiling
+
+TAG: Celestial_DisplayName
+Celestial
+
+TAG: Centennial2023_DisplayName
+Centennial
+
+TAG: Characters_DisplayName
+Characters
+
+TAG: Cinderella_DisplayName
+Cinderella
+
+TAG: Coat_DisplayName
+Coats
+
+TAG: Coco_DisplayName
+Coco
+
+TAG: Contour_DisplayName
+Contour
+
+TAG: Costume_DisplayName
+Costumes
+
+TAG: Dapper2024_DisplayName
+Dapper Delights
+
+TAG: DayAtDisney2024_DisplayName
+A Day at Disney
+
+TAG: Decor_DisplayName
+Decor
+
+TAG: Dessert_DisplayName
+Dessert
+
+TAG: DiningRoom_DisplayName
+Dining Room
+
+TAG: Dinner_DisplayName
+EntrÃ©e
+
+TAG: Disney_DisplayName
+Disney
+
+TAG: DisneyParks2023_DisplayName
+Disney Parks
+
+TAG: Door_DisplayName
+Doors
+
+TAG: DoorWithWall_DisplayName
+{Placeholder} DoorWithWall
+
+TAG: DreamlightValley!MerchantPapyrus_DisplayName
+{Placeholder}Merchant Papyrus
+
+TAG: DreamlightValley!MikePostIt_DisplayName
+Mike and Roz's Sticky Notes
+
+TAG: DreamlightValley_DisplayName
+Dreamlight Valley
+
+TAG: DreamlightValleyStory_DisplayName
+Dreamlight Valley
+
+TAG: Dress_DisplayName
+Dresses
+
+TAG: Earrings_DisplayName
+Earrings
+
+TAG: Electronic_DisplayName
+Electronics
+
+TAG: Elemental_DisplayName
+Elemental
+
+TAG: EmperorNewGroove_DisplayName
+The Emperor's New Groove
+
+TAG: Encanto_DisplayName
+Encanto
+
+TAG: Enchantment_DisplayName
+Potion & Enchantment
+
+TAG: Essential_DisplayName
+Essentials
+
+TAG: Expansion01!EternityIsle_DisplayName
+Eternity Isle
+
+TAG: Expansion01!GastonJournal_DisplayName
+Gaston's Journal
+
+TAG: Expansion01!JafarJournal_DisplayName
+Jafar's Journal
+
+TAG: Expansion01!RapunzelLyrics_DisplayName
+Rapunzel's Lyrics
+
+TAG: Expansion02!AuroraJournal_DisplayName
+Aurora's Journals
+
+TAG: Eyeball_DisplayName
+Eyeball
+
+TAG: Eyebrows_DisplayName
+Eyebrows
+
+TAG: Eyeliner_DisplayName
+Eyeliner
+
+TAG: Eyeshadow_DisplayName
+Eye Shadow
+
+TAG: F_Bold_DisplayName
+Bold
+
+TAG: F_Casual_DisplayName
+Casual
+
+TAG: F_Cute_DisplayName
+Cute
+
+TAG: F_Elegant_DisplayName
+Elegant
+
+TAG: F_Futuristic_DisplayName
+Futuristic
+
+TAG: F_Halloween_DisplayName
+Halloween
+
+TAG: F_Modern_DisplayName
+Modern
+
+TAG: F_Professional_DisplayName
+Professional
+
+TAG: F_Quirky_DisplayName
+Quirky
+
+TAG: F_Rustic_DisplayName
+Rustic
+
+TAG: F_Sporty_DisplayName
+Sporty
+
+TAG: F_Traditional_DisplayName
+Traditional
+
+TAG: Facelines_DisplayName
+Facial Lines
+
+TAG: Facepaint_DisplayName
+Face Paint
+
+TAG: Fairies_DisplayName
+Disney Fairies
+
+TAG: Fantasia_DisplayName
+Fantasia
+
+TAG: Fence&Paving_DisplayName
+Fence & Paving
+
+TAG: Fencing_DisplayName
+Fencing
+
+TAG: Festive2022_DisplayName
+Festive
+
+TAG: FindingNemo_DisplayName
+Finding Nemo
+
+TAG: Fish_DisplayName
+Fish
+
+TAG: Floor_DisplayName
+Floors
+
+TAG: Florals_DisplayName
+Floral
+
+TAG: Flourishes_DisplayName
+Flourishes
+
+TAG: Foliage_DisplayName
+Foliage
+
+TAG: Food_DisplayName
+Food
+
+TAG: Freckles_DisplayName
+Freckles
+
+TAG: FrostAndFairies2024_DisplayName
+Frost & Fairies
+
+TAG: Frozen_DisplayName
+Frozen
+
+TAG: FrozenFood_DisplayName
+Frozen
+
+TAG: Fruit_DisplayName
+Fruit
+
+TAG: FunctionnalItems_DisplayName
+Functional Items
+
+TAG: Furniture_DisplayName
+Furniture
+
+TAG: geometric_DisplayName
+Geometric Pattern
+
+TAG: Glasses_DisplayName
+Glasses
+
+TAG: Gloves_DisplayName
+Gloves
+
+TAG: Grain_DisplayName
+Grain
+
+TAG: Gray_DisplayName
+Gray
+
+TAG: Green_DisplayName
+Green
+
+TAG: Hairstyle_DisplayName
+Hairstyle
+
+TAG: Hat_DisplayName
+Hats
+
+TAG: HauntedHoliday2023_DisplayName
+Haunted Holiday
+
+TAG: Hercules_DisplayName
+Hercules
+
+TAG: HocusPocus_DisplayName
+Hocus Pocus
+
+TAG: Hose_socks_DisplayName
+Hose Socks
+
+TAG: Incredibles_DisplayName
+The Incredibles
+
+TAG: InsideOut_DisplayName
+Inside Out
+
+TAG: isAncientCore_DisplayName
+Ancient Core
+
+TAG: isAncientPart_DisplayName
+Timebending Part
+
+TAG: IsBerry_DisplayName
+Berry
+
+TAG: IsCitrus_DisplayName
+Citrus
+
+TAG: IsCrudite_DisplayName
+CruditÃ©s
+
+TAG: IsDreamlightValley_DisplayName
+Dreamlight Valley
+
+TAG: IsEternityIsle_DisplayName
+Eternity Isle
+
+TAG: IsFish_DisplayName
+Fish
+
+TAG: IsFrozen_DisplayName
+Frozen
+
+TAG: IsFruit_DisplayName
+Fruit
+
+TAG: IsGrain_DisplayName
+Grain
+
+TAG: IsIngredient_DisplayName
+Ingredient
+
+TAG: IsMineral_DisplayName
+Mineral
+
+TAG: IsSeaFood_DisplayName
+Seafood
+
+TAG: IsSnippet_DisplayName
+Snippet
+
+TAG: IsSpice_DisplayName
+Spice
+
+TAG: IsStarchy_DisplayName
+Starchy
+
+TAG: IsStorybookVale_DisplayName
+Storybook Vale
+
+TAG: IsSweet_DisplayName
+Sweet
+
+TAG: IsVegetable_DisplayName
+Vegetable
+
+TAG: IsWaterVegetation_DisplayName
+Water Vegetation
+
+TAG: Kitchen_DisplayName
+Kitchen
+
+TAG: LadyAndTheTramp_DisplayName
+Lady and the Tramp
+
+TAG: Landscaping_DisplayName
+Landscaping
+
+TAG: Lighting_DisplayName
+Lighting
+
+TAG: Lightyear_DisplayName
+Lightyear
+
+TAG: LiloStitch_DisplayName
+Lilo & Stitch
+
+TAG: LionKing_DisplayName
+The Lion King
+
+TAG: Lipstick_DisplayName
+Lipstick
+
+TAG: LivingRoom_DisplayName
+Living Room
+
+TAG: Magical_DisplayName
+Magical
+
+TAG: Magnolia2024_DisplayName
+Majesty and Magnolias
+
+TAG: Maleficent_DisplayName
+Maleficent
+
+TAG: Mask_DisplayName
+Masks
+
+TAG: material_DisplayName
+Material Pattern
+
+TAG: Meat_DisplayName
+Meat
+
+TAG: Mermaid_DisplayName
+The Little Mermaid
+
+TAG: Mickey_DisplayName
+Mickey & Friends
+
+TAG: Misc_DisplayName
+Misc.
+
+TAG: Miscellaneous_DisplayName
+Misc.
+
+TAG: Moana_DisplayName
+Moana
+
+TAG: MonsterInc_DisplayName
+Monsters, Inc.
+
+TAG: Mulan_DisplayName
+Mulan
+
+TAG: Mustaches_DisplayName
+Mustaches
+
+TAG: Nature_DisplayName
+Nature
+
+TAG: Neck_wear_DisplayName
+Neckwear
+
+TAG: Nightmare_DisplayName
+Tim Burton's The Nightmare Before Christmas
+
+TAG: NightShow2024_DisplayName
+The Night Show
+
+TAG: NonIP_DisplayName
+Other
+
+TAG: OasisRetreat2025_DisplayName
+Oasis Retreat
+
+TAG: Objects_DisplayName
+Objects
+
+TAG: Orange_DisplayName
+Orange
+
+TAG: Oswald_DisplayName
+Oswald the Lucky Rabbit
+
+TAG: Outdoors_DisplayName
+Outdoors
+
+TAG: Pants_DisplayName
+Pants
+
+TAG: Pathing_DisplayName
+Paths
+
+TAG: PeterPan_DisplayName
+Peter Pan
+
+TAG: Pink_DisplayName
+Pink
+
+TAG: Pirates_DisplayName
+Pirates of the Caribbean
+
+TAG: PixarFest2022_DisplayName
+Pixar Fest
+
+TAG: PixarWonder2023_DisplayName
+The Wonder of Pixar
+
+TAG: Pocahontas_DisplayName
+Pocahontas
+
+TAG: Princesses2023_DisplayName
+Royal Winter
+
+TAG: PrincessFrog_DisplayName
+The Princess and the Frog
+
+TAG: Protein_DisplayName
+Protein
+
+TAG: Pupils_DisplayName
+Pupils
+
+TAG: Purple_DisplayName
+Purple
+
+TAG: Puzzle_DisplayName
+{Placeholder}Puzzle
+
+TAG: QuestMeal_DisplayName
+Quests
+
+TAG: Quests_DisplayName
+Quests
+
+TAG: Ralph_DisplayName
+Wreck-It Ralph
+
+TAG: Ratatouille_DisplayName
+Ratatouille
+
+TAG: RayaAndTheLastDragon_DisplayName
+{Placeholder} RayaAndTheLastDragon
+
+TAG: RecRoom_DisplayName
+Rec Room
+
+TAG: Red_DisplayName
+Red
+
+TAG: RefinedMaterial_DisplayName
+Refined Material
+
+TAG: Ride_DisplayName
+Attractions
+
+TAG: Rocks_DisplayName
+Rocks
+
+TAG: Rug_DisplayName
+Rugs
+
+TAG: RulerDiaries_DisplayName
+Old Ruler's Lost Diaries
+
+TAG: Scars_DisplayName
+Scars
+
+TAG: SeaFood_DisplayName
+Seafood
+
+TAG: Seating_DisplayName
+Seating
+
+TAG: Secret_DisplayName
+Secret
+
+TAG: Shapes_DisplayName
+Shapes
+
+TAG: Shoes_DisplayName
+Shoes
+
+TAG: Shorts_DisplayName
+Shorts
+
+TAG: Skirt_DisplayName
+Skirts
+
+TAG: SleepBeauty_DisplayName
+Sleeping Beauty
+
+TAG: Snippet!Bird_DisplayName
+Bird Snippet
+
+TAG: Snippet!Demon_DisplayName
+Demon Snippet
+
+TAG: Snippet!Frog_DisplayName
+Frog Snippet
+
+TAG: SnowWhite_DisplayName
+Snow White
+
+TAG: Spice_DisplayName
+Spice
+
+TAG: SprintEffect_DisplayName
+Sprint Effect
+
+TAG: Sprints_DisplayName
+Gliders
+
+TAG: Storage_DisplayName
+Storage
+
+TAG: Stubble_DisplayName
+Stubble
+
+TAG: Study_DisplayName
+Study
+
+TAG: Sweet_DisplayName
+Sweet
+
+TAG: SweetHeart2024_DisplayName
+Lovely Monsters
+
+TAG: SwordStone_DisplayName
+The Sword in the Stone
+
+TAG: Symbols_DisplayName
+Symbols
+
+TAG: Table_DisplayName
+Tables
+
+TAG: Tangled_DisplayName
+Tangled
+
+TAG: TimeBending!AncientMachine_DisplayName
+Ancient Machine
+
+TAG: TimeBending!Fence&Paving_DisplayName
+Fence & Paving
+
+TAG: TimeBending!Furniture_DisplayName
+Furniture
+
+TAG: TimeBending!Quest_DisplayName
+Quest
+
+TAG: TimeBending!ShardFurniture_DisplayName
+Fragments
+
+TAG: TimeBending!Special_DisplayName
+Special
+
+TAG: Top_DisplayName
+Tops
+
+TAG: ToyStory_DisplayName
+Toy Story
+
+TAG: Tree!Any_DisplayName
+Any Tree
+
+TAG: Tree!Beach_DisplayName
+Beach Tree
+
+TAG: Tree!DarkMountain_DisplayName
+Dark Mountain Tree
+
+TAG: Tree!Forest_DisplayName
+Forest Tree
+
+TAG: Tree!Meadow_DisplayName
+Meadow Tree
+
+TAG: Tree!Savannah_DisplayName
+Savanna Tree
+
+TAG: Tree!SnowCliff_DisplayName
+Snow Cliff Tree
+
+TAG: Tree!Urban_DisplayName
+Urban Tree
+
+TAG: Tree!Wetland_DisplayName
+Wetland Tree
+
+TAG: Trees_DisplayName
+Trees
+
+TAG: Trimming_DisplayName
+Trimmings
+
+TAG: Tron_DisplayName
+Tron
+
+TAG: TurningRed_DisplayName
+Turning Red
+
+TAG: Underbrush_DisplayName
+Underbrush
+
+TAG: Up_DisplayName
+Up
+
+TAG: Utility_DisplayName
+Utilities
+
+TAG: Vegetable_DisplayName
+Vegetable
+
+TAG: Villainous_DisplayName
+Villainous
+
+TAG: Villains2022_DisplayName
+Villains
+
+TAG: Wall_DisplayName
+Wall
+
+TAG: WallE_DisplayName
+WALLÂ·E
+
+TAG: Wallpaper_DisplayName
+Wallpaper
+
+TAG: White_DisplayName
+White
+
+TAG: Window_DisplayName
+Windows
+
+TAG: Winnie_DisplayName
+Winnie the Pooh
+
+TAG: Yellow_DisplayName
+Yellow
+
+TAG: Zootopia_DisplayName
+Zootopia
+

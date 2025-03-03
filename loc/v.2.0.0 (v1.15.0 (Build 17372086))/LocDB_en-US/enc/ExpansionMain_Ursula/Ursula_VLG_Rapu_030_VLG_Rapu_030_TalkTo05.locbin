@@ -1,0 +1,67 @@
+
+í
+Ursula_000_fÅHey, Ursula. I found some Sundrop Petals. Can you create an <ActivityItem>Eternal Sundrop Charm</ActivityItem> for Mother Gothel?
+b
+Ursula_001_fRWell well, {PlayerName}, I had no idea you were Gothel's little errand minion now.
+0
+Player_000_choice_000_fI'm helping Rapunzel.
+8
+Player_000_choice_001_fI help everyone who needs it.
+4
+Player_000_choice_002_fThis is a one-time thing.
+L
+Ursula_002_f<What does that blonde slip of seagrass have to do with this?
+E
+Player_001_choice_000_f*You're just suspicious. There's no secret.
+8
+Player_001_choice_001_fThat's not my secret to tell.
+M
+Player_001_choice_002_f2Rapunzel is a marionette brought to life by magic.
+c
+Ursula_003_fS... Well... She wants to help Mother Gothel, so I'm helping her search. That's all.
+
+Ursula_004_fI see...
+A
+Ursula_005_f1Just tell me what else we need to make the charm.
+π
+Ursula_006_f®Since you have the petals, it should be simple. <ActivityItem>Dream Shards</ActivityItem>... <ActivityItem>Evergems</ActivityItem> that capture the light of the past...
+^
+Ursula_007_fNA few <ActivityItem>Skeleton Fish</ActivityItem>... and of course, my payment.
+%
+Ursula_008_f... What do you want?
+"
+Ursula_009_fRapunzel's secret.
+o
+Ursula_010_f_There's something special about that waifish little guppy, and Gothel won't tell me what it is.
+d
+Ursula_011_fTOh, I don't buy that for a second, dearie. You think you can keep the truth from me?
+'
+Ursula_012_fNo, but I had to try...
+Y
+Ursula_013_fIIf you're NOT going to provide payment, then leave! No payment, no charm!
+d
+Ursula_014_fTYou know what? I've got the list of Ingredients now... I bet I can make this myself.
+ä
+Ursula_015_fzFeeling like a big fish in a small pond, are we? Just remember Gothel will be furious if you make even one little mistake.
+I
+Ursula_016_f9Guess I better make sure to get it right. Thanks, Ursula!
+#
+Ursula_017_fYou're not welcome.
+P
+Ursula_018_f@It's up to Rapunzel to decide whether she wants to share or not.
+"
+Ursula_019_fHow sweet. Well...
+:
+Ursula_020_f*Oh come now; don't try pulling MY strings.
+i
+Ursula_021_fYWell, if you're being so generous with your time, you should ask me if I need anything...
+[
+Ursula_022_fKI've helped you out plenty, Ursula... I got you out of your cave, remember?
+N
+Ursula_023_f>That again? Angelfish, your credit for that ran out tides ago.
+/
+Ursula_024_fI don't work for Mother Gothel.
+m
+Ursula_025_f]And yet you're here, and not the blonde slip of seagrass she calls "daughter." Interesting...
+%
+Ursula_026_fCan we focus, please?

@@ -1,0 +1,27 @@
+TAG: Sully_000_f
+Итак, все готово?
+
+TAG: Sully_001_f
+Да, <ActivityItem>Dreamlight Magic Arcade Game</ActivityItem> в Долине, и это Works!
+
+TAG: Sully_002_f
+Фу, я не была уверена, что сомневаюсь в тебе, {PlayerName}.
+
+TAG: Player_000_choice_000_f
+Я тоже чувствую облегчение.
+
+TAG: Player_000_choice_001_f
+Это был шанс, который нам пришлось использовать.
+
+TAG: Player_000_choice_002_f
+Я чувствую себя так удобно!
+
+TAG: Sully_003_f
+Теперь я поговорю с Ваниллопа.
+
+TAG: Sully_004_f
+Для науки, я прав?
+
+TAG: Sully_005_f
+Я очень впечатлена.
+

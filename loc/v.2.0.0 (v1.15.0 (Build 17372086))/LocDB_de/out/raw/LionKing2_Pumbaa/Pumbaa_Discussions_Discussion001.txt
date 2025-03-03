@@ -1,0 +1,63 @@
+TAG: Player_000_choice_000_f
+Fine, how about you?
+
+TAG: Player_000_choice_001_f
+So tired...
+
+TAG: Player_000_choice_002_f
+Very busy!
+
+TAG: Pumbaa_001_f
+Great! I just took the best nap. The Village has so many great napping spots.
+
+TAG: Pumbaa_002_f
+Do you have a favorite nap spot?
+
+TAG: Player_001_f
+I need...
+
+TAG: Player_001_choice_000_f
+...somewhere on the beach.
+
+TAG: Player_001_choice_001_f
+...the calm of a forest.
+
+TAG: Player_001_choice_002_f
+... I don't take naps.
+
+TAG: Pumbaa_003_f
+Oh, yeah. I sleep just like a piglet when I can hear the water.
+
+TAG: Pumbaa_004_f
+Me too! The shadows and the leaves are so cozy.
+
+TAG: Pumbaa_005_f
+You don't? But you work so hard. Maybe you should try it!
+
+TAG: Pumbaa_006_f
+Oh no. You gotta take a nap! This place has lots of great spots.
+
+TAG: Player_002_f
+Naps?
+
+TAG: Player_002_choice_000_f
+I'm too busy for those!
+
+TAG: Player_002_choice_001_f
+That does sound nice...
+
+TAG: Pumbaa_007_f
+Oh. Okay. But rest's important too. We don't want ya to get worn out.
+
+TAG: Pumbaa_008_f
+I recommend it highly!
+
+TAG: Pumbaa_011_f
+Hey kid, how are ya?
+
+TAG: Pumbaa_009_f
+Me too! I was real busy taking naps all day.
+
+TAG: Pumbaa_010_f
+That takes lots of concentration, ya know.
+

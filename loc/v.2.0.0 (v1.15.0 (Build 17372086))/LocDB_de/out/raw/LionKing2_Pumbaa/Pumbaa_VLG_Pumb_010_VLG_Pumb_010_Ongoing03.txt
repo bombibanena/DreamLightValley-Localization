@@ -1,0 +1,6 @@
+TAG: Pumbaa_000_f
+Hey, {PlayerName}. Did ya talk to Daisy and Elsa?
+
+TAG: Pumbaa_001_f
+Yep! I'll update you soon, buddy. I'm just going to <Lore>talk to Remy</Lore>, and then I think we'll have the full picture of what happened.
+

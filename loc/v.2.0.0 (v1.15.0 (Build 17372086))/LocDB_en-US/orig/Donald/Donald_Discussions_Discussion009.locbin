@@ -1,0 +1,49 @@
+
+e
+Donald_000_fUHey, {PlayerName}, I'm goin' fishin', and I wanna bring a snack in case I get hungry.
+8
+Donald_001_f(What would you take for a fishing snack?
+*
+Player_000_choice_000_fGrilled cheese!
+!
+Player_000_choice_001_fSalad!
+:
+Player_000_choice_002_fWhy not eat the fish you catch?
+V
+Donald_002_fFGrilled cheese?! That's my favorite! Especially with lots of toppings.
+7
+Donald_003_f'It's easy to make and always delicious.
+*
+Donald_004_fWhat do you like on yours?
+$
+Player_001_choice_000_f	Tomatoes.
+#
+Player_001_choice_001_fMustard.
+#
+Player_001_choice_002_fNothing.
+H
+Donald_007_f8Me too! Let's have a grilled cheese party sometime, pal!
+E
+Donald_008_f5Yeah, I like mustard, too. Especially the spicy kind!
+M
+Donald_009_f=Just a plain grilled cheese? Not even onions? I don't get it.
+0
+Donald_005_f Salad? WAK! Salad's not a snack!
+/
+Player_003_choice_000_fSalads can be tasty!
+(
+Player_003_choice_001_fYeesh, sorry.
+q
+Donald_015_faHmmm... Well, maybe a nice seaweed salad made from all the seaweed I usually catch could be good.
+P
+Donald_016_f@Aw, it's okay, {PlayerName}. I'm just cranky because I'm hungry.
+3
+Donald_010_f#But what if I don't catch anything?
+-
+Player_002_choice_000_fHmm... good point.
+0
+Player_002_choice_001_fHave some confidence!
+?
+Donald_012_f/Guess I could eat the seaweed I always catch...
+u
+Donald_013_feYou're right! I'm gonna catch a bunch of fish and eat 'em all! If I don't believe in me, nobody will!

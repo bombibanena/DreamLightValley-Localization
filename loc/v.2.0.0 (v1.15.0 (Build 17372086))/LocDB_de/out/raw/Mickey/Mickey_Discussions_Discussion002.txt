@@ -1,0 +1,57 @@
+TAG: Mickey_000_f
+Hiya, pal! How are you today?
+
+TAG: Player_000_choice_000_f
+Happy as usual!
+
+TAG: Player_000_choice_001_f
+I'm a little angry.
+
+TAG: Player_000_choice_002_f
+I'm sad.
+
+TAG: Mickey_001_f
+Hot dog! Then I'm happy YOU'RE happy! Ha-ha!
+
+TAG: Mickey_002_f
+Gosh. Well, talking about it might help.
+
+TAG: Player_001_choice_000_f
+I have a lot of work to do.
+
+TAG: Player_001_choice_001_f
+I'm in a fight with my friend.
+
+TAG: Player_001_choice_002_f
+Just one of those days.
+
+TAG: Mickey_003_f
+That can be pretty overwhelming, huh? Well, I believe in you. Let me know if I can help.
+
+TAG: Mickey_004_f
+Hmm. That must be pretty tough. Well, know that you'll always have my friendship.
+
+TAG: Mickey_005_f
+I get it. Well, stick with me, and maybe we can turn a bad day into a good one!
+
+TAG: Mickey_009_f
+Oh no! What's got you so blue?
+
+TAG: Player_002_choice_000_f
+Just one of those days.
+
+TAG: Player_002_choice_001_f
+I lost someone.
+
+TAG: Player_002_choice_002_f
+I feel unproductive.
+
+TAG: Mickey_006_f
+I understand. Well, if you stick around, maybe we can help you turn the day around.
+
+TAG: Mickey_007_f
+Oh, I'm so sorry. I'll be here for you if you need me, pal.
+
+TAG: Mickey_008_f
+Well, then let's get to work! Ha-ha! You've always got friends here who need help.
+

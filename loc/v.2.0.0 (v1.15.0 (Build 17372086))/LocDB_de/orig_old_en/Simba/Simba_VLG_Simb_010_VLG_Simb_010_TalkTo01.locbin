@@ -1,0 +1,27 @@
+
+b
+Simba_004_fSWow! That does look more comfortable, {PlayerName}. Timon and Pumbaa would approve.
+q
+Simba_005_fbBut I don't think comfort is everyone's problem. Some folks around here are just downright cranky.
+4
+Simba_006_f%Maybe a change of scenery would help.
+(
+Player_001_choice_000_fYou're right.
+<
+Player_001_choice_001_f!What could make it more relaxing?
+C
+Player_001_choice_002_f(Some people are just cranky by nature...
+/
+Simba_012_f Great! So, I've been thinking...
+„
+Simba_013_fuGrowing up in the jungle with Timon and Pumbaa helped me a lot. There was an oasis there where we could really relax.
+P
+Simba_015_fAAnd relaxing is a lot easier when the place you live is peaceful.
+i
+Simba_001_fZThere was all this green, lush jungle and lots of places just to sit and enjoy the moment.
+7
+Simba_016_f(What if the Meadow could feel like that?
+Ö
+Simba_017_fÆYes! I'll make it so relaxing you'll feel like you're back in the oasis. I'll start by putting down some <ActivityItem>Seating</ActivityItem> and add to the <ActivityItem>Landscape</ActivityItem>...
+@
+Simba_014_f1Heh. Maybe you're right. But still. We could try.

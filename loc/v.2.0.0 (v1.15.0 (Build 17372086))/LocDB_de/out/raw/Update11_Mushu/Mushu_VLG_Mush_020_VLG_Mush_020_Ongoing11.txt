@@ -1,0 +1,9 @@
+TAG: Mushu_000_f
+*deep voice* I'm a prince. I'm a PRINCE! I'm â ahh! {PlayerName}, heh-heh, I didn't see you there.
+
+TAG: Mushu_001_f
+And why are you here? You were getting our supplies for the third phase of the program, remember?
+
+TAG: Mushu_002_f
+<Lore>Talk to Daisy and Stitch</Lore> and then <Lore>go to the Beast's homeland and find some of his old clothes</Lore>.
+

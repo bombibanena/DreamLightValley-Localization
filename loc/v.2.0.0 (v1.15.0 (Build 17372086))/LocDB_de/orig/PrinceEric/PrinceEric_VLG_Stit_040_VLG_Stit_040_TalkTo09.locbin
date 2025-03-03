@@ -1,0 +1,33 @@
+
+;
+PrinceEric_003_f'Hey, Eric... you play the flute, right?
+K
+PrinceEric_004_f7I do. But I haven't had much chance to practice lately.
+&
+PrinceEric_005_fI'm kind of rusty.
+{
+PrinceEric_006_fgNot too rusty, I hope? Stitch is putting together a band. I think it'd be great if you'd play with him.
+Y
+PrinceEric_012_fEKristoff has already agreed to join. I think you'd make a great trio.
+M
+Player_000_choice_000_f2You could get some practice with your flute again.
+J
+Player_000_choice_001_f/Stitch would love to have a prince in his band.
+:
+Player_000_choice_002_fIt's just for fun. No pressure.
+\
+PrinceEric_007_fHWell, it would give me the chance to play more and learn some new songs.
+%
+PrinceEric_013_fSure, I'll do it!
+k
+PrinceEric_014_fWGreat! Start practicing. In the meantime, I'm going to <Lore>talk to Mr. McDuck</Lore>.
+Š
+PrinceEric_017_fvNow that we've got a band together, you'll need to put on a concert. Maybe he has some sound equipment he can lend us.
+W
+PrinceEric_015_fCGreat! Now I just have to <Lore>find one more band member...</Lore>
+N
+PrinceEric_016_f:Hmm... isn't there someone around here who plays the lute?
+ˆ
+PrinceEric_008_ftYou might be right. He was asking me something about a music-playing king the other day, but I'd never heard of him.
+J
+PrinceEric_009_f6It would be fun to play music with other people again.

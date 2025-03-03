@@ -1,0 +1,45 @@
+TAG: Donald_001_f
+Oh brother, it's {PlayerName}. Our Villager of the Month.
+
+TAG: Donald_002_f
+Hi, Donald. Sulley wants to invite you to take part in a scavenger hunt he's organizing.
+
+TAG: Donald_003_f
+Trying to get back on my good side, huh? Hmm... Who're the other contestants?
+
+TAG: Donald_004_f
+Well, it'll be Vanellope, Stitch, Olaf and... you.
+
+TAG: Donald_005_f
+What?! Does Sulley think I'm a kid?
+
+TAG: Donald_006_f
+Does this mean you won't participate?
+
+TAG: Donald_007_f
+No, I won't! It... uh... it wouldn't be fair to the others.
+
+TAG: Player_000_choice_000_f
+That's what I thought.
+
+TAG: Player_000_choice_001_f
+Are you afraid that Vanellope might beat you?
+
+TAG: Player_000_choice_002_f
+Your loss. It sounds like fun.
+
+TAG: Donald_008_f
+*grumble* WhodotheythinkIam? I'mnokid! *grumble*
+
+TAG: Donald_009_f
+WAK?!
+
+TAG: Donald_011_f
+Don't be ridiculous.
+
+TAG: Donald_012_f
+I just don't want her to get sad when *I* win.
+
+TAG: Donald_010_f
+Then you can have my spot.
+

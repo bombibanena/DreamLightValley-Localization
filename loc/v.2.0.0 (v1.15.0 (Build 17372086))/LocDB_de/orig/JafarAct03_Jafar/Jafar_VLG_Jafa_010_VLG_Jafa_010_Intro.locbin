@@ -1,0 +1,39 @@
+
+1
+Jafar_001_f"{PlayerName}! I have news for you.
+I
+Player_001_choice_000_f.Great! Did you figure out our geometric issue?
+1
+Player_001_choice_001_fHold on; I'm busy now.
+
+Jafar_002_fI have!
+S
+Jafar_003_fDClearly something is wrong with the dimensionality of these objects.
+`
+Jafar_004_fQBut rather than being simply ripped away, the dimensions have been folded down...
+'
+Player_002_choice_000_fFascinating!
+:
+Player_002_choice_001_fSkip the technical talk please.
+e
+Jafar_005_fVI must admit, I am surprised that you appreciate the finer details of geometry. Now...
+`
+Jafar_015_fQAll right, fine; I'll be back soon enough. Merlin is going to keep an eye on you.
+o
+Jafar_007_f`If I am correct â€” and I most certainly am â€” I know what is needed to resolve this situation.
+.
+Jafar_008_fHowever, it will not be simple.
++
+Jafar_009_fAll right, what do you need?
+Ú
+Jafar_010_fÊSupplies, to begin with. <ActivityItem>Levers</ActivityItem>, a <ActivityItem>Mirror</ActivityItem> from the <Lore>Cave of Wonders</Lore>, and <ActivityItem>Power Cables</ActivityItem> from EVE's House.
+F
+Jafar_011_f7And after that... I will inform you of what to do next.
+D
+Jafar_012_f5You can't just tell me now? You're kinda on thin ice.
+a
+Jafar_013_fRNow, now, why would I tell you everything just to be rudely thrown back in a lamp?
+
+Jafar_014_fAll in due time.
+?
+Jafar_006_f0Of course. I would not expect you to understand.

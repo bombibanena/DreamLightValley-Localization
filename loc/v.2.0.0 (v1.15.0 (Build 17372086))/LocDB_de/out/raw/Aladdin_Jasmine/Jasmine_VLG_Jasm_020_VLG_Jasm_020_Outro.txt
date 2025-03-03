@@ -1,0 +1,78 @@
+TAG: Jasmine_000_f
+It worked! We unlocked one lock.
+
+TAG: Jasmine_006_f
+Jasmine, I...
+
+TAG: Jasmine_007_f
+{PlayerName}? Are you all right?
+
+TAG: Jasmine_008_f
+I know what this is... This is MY journal... I wrote in it when I was younger.
+
+TAG: Player_000_choice_000_f
+I can't believe it!
+
+TAG: Player_000_choice_001_f
+I had a feeling this was mine...
+
+TAG: Player_000_choice_002_f
+Did you know?
+
+TAG: Jasmine_010_f
+I completely forgot about this thing.
+
+TAG: Jasmine_014_f
+So all this time, it was YOUR secret I was trying to protect?
+
+TAG: Jasmine_015_f
+I guess so. You truly don't remember what the secret inside is?
+
+TAG: Jasmine_019_f
+I'm sorry, but no.
+
+TAG: Jasmine_020_f
+I remember you asked for my help. Whatever you wrote in the journal, you wanted it hidden away.
+
+TAG: Player_001_choice_000_f
+I was hiding my own feelings from... myself?
+
+TAG: Player_001_choice_001_f
+I'm sure I had a good reason.
+
+TAG: Player_001_choice_002_f
+What if I did something terrible?
+
+TAG: Jasmine_024_f
+That doesn't sound so strange to me.
+
+TAG: Jasmine_021_f
+Sometimes, when we feel things very strongly, it's easier to lock the feelings away rather than face them.
+
+TAG: Jasmine_025_f
+What do you think we should do now? I want to know what I wrote... at least, I think I want to know... but there's still another lock.
+
+TAG: Jasmine_004_f
+Let me take some time to examine the Secret Journal a bit more. Maybe there's a hint we're missing.
+
+TAG: Jasmine_005_f
+That's a good idea. Thanks for everything, Jasmine. We make a pretty amazing team.
+
+TAG: Jasmine_022_f
+I'm sure you did, too.
+
+TAG: Jasmine_023_f
+Knowing you, that's not possible. I think this is less about what you did and more about how you felt.
+
+TAG: Jasmine_011_f
+How I felt when we first found it was so familiar.
+
+TAG: Jasmine_012_f
+No! I promise I couldn't remember.
+
+TAG: Jasmine_013_f
+But now that you've told me, bits and pieces are starting to come back. You asked me to hide it. To protect it.
+
+TAG: Jasmine_017_f
+So do you know what the secret inside is?
+

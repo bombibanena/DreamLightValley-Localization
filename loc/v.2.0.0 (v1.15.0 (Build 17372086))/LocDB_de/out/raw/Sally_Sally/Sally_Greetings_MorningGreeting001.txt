@@ -1,0 +1,6 @@
+TAG: Sally_000_f
+Good morning, {PlayerName}.
+
+TAG: Player_000_exit_000_f
+Sorry, I can't talk now.
+

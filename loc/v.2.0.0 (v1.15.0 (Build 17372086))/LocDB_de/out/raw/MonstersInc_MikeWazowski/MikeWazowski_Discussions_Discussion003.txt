@@ -1,0 +1,30 @@
+TAG: MikeWazowski_000_f
+Ya know, back home, we have this GREAT restaurant called Harryhausen's. It's my girlfriend Celia's favorite.
+
+TAG: MikeWazowski_001_f
+She's a real gourmand. But talk to me about you â you got a favorite kinda food, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+Fast food!
+
+TAG: Player_000_choice_001_f
+Fancy food!
+
+TAG: Player_000_choice_002_f
+I don't think about food much.
+
+TAG: MikeWazowski_002_f
+I hear that! I could go for a rot dog with some fly fries right about now.
+
+TAG: MikeWazowski_003_f
+Nothing like the classics, am I right?
+
+TAG: MikeWazowski_004_f
+Well then, you've got great taste, just like Celia!
+
+TAG: MikeWazowski_005_f
+Keep it classy, {PlayerName}!
+
+TAG: MikeWazowski_006_f
+You're an "eat to live" not "live to eat" type, huh? Sulley's kinda like that.
+

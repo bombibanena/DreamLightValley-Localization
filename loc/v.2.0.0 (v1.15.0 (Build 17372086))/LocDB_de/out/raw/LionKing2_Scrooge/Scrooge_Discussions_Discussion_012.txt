@@ -1,0 +1,36 @@
+TAG: Scrooge_000_f
+{PlayerName}, I've never been able to stay idle for long. If I'm not on one adventure, I'm planning the next one.
+
+TAG: Scrooge_001_f
+Do you like going on adventures?
+
+TAG: Player_000_choice_000_f
+I'd rather just stay home.
+
+TAG: Player_000_choice_001_f
+Yes! I love new places and trying new things!
+
+TAG: Player_000_choice_002_f
+I wish I could. It's my dream!
+
+TAG: Scrooge_003_f
+Aye, I do like staying close to me money as well.
+
+TAG: Scrooge_005_f
+But it's important to take a chance every now and then. Life can change on a dime, ya know!
+
+TAG: Scrooge_007_f
+Make every moment count, I always say.
+
+TAG: Scrooge_008_f
+Speaking of count, it's time to count me money so I can plan that excursion I mentioned. Hee-hee!
+
+TAG: Scrooge_002_f
+That's what I like to hear! You cannae expect everything to come to you...
+
+TAG: Scrooge_006_f
+Sometimes you have to go out and grab life by the tailfeathers!
+
+TAG: Scrooge_004_f
+Well, imagination can take you on some of the wildest adventures of all! So be sure to keep dreamin'!
+

@@ -1,0 +1,35 @@
+
+3
+Scrooge_000_f"Ya want me to audition for a play?
+2
+Scrooge_001_f!Hmm... And what'll the salary be?
+/
+Player_000_choice_000_f... Zero Star Coins.
+8
+Player_000_choice_001_fThe love of an adoring crowd.
+?
+Player_000_choice_002_f$The satisfaction of a job well done.
+V
+Scrooge_002_fEOch! Doesn't sound like there's much profit in acting here, is there?
+G
+Scrooge_003_f6Well, how much of my time will I be needin' to invest?
+c
+Player_001_fSWell, you'll need to learn all the lines, attend rehearsals, do the performances...
+2
+Player_001_choice_000_fIt'll be a lot of work.
+A
+Player_001_choice_001_f&You can probably just wing it, though?
+o
+Scrooge_004_f^Curse me kilts! Sounds like ya want me to invest hours of my very valuable time for no return.
+=
+Scrooge_005_f,I'll have to think on it... What's the part?
+'
+Player_002_choice_000_fDonald Duck.
+;
+Player_002_choice_001_f Uh... a certain nephew of yours.
+5
+Scrooge_006_f$Ya want me to play my nephew Donald?
+{
+Scrooge_007_fjNo deal! Even if the returns were worth my time, I cannae begin to fathom the workings of that lad's mind.
+6
+Scrooge_008_f%Best of luck finding someone who can!

@@ -1,0 +1,12 @@
+TAG: Woody_000_f
+Well, the Photo Booth and the Strength Testing Machine are both smoking a little bit, but it looks like the biggest problem is the Claw Machine...
+
+TAG: Woody_003_f
+It's completely busted.
+
+TAG: Woody_001_f
+There are <ActivityItem>Claw Machine Pieces</ActivityItem> and <ActivityItem>Alien Toys</ActivityItem> scattered everywhere.
+
+TAG: Woody_002_f
+I'll pick everything up.
+

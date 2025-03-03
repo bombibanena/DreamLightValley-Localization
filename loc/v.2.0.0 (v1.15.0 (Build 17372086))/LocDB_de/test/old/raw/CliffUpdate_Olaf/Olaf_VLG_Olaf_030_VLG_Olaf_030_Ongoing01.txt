@@ -1,0 +1,9 @@
+TAG: Olaf_000_f
+Ну, нам нужны бумага и чернила, чтобы написать сценарий.
+
+TAG: Olaf_001_f
+Я возьму немного <ActivityItem>Softwood</ActivityItem>, чтобы мы могли заполучить бумагу.
+
+TAG: Olaf_002_f
+И я найду несколько <ActivityItem>Purple Marsh Milk Weed</ActivityItem> и <ActivityItem>Empty Vial</ActivityItem>, чтобы положить все это.
+

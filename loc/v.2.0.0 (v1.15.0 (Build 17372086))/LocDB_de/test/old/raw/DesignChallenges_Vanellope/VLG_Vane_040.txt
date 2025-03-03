@@ -1,0 +1,135 @@
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Any_CompletedRequestDescription
+Завершите ваше приключение, разговаривайте с Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_AvailableDescription
+Ваниллопа готова показать вам, чем она занималась в свободное время.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_CompletedStoryDescription
+Все три ключа, грудная клетка открыта! благодаря твоим усилиям, веселье внутри распространяется по всей земле. Никто в королевстве Ваниллопа не будет скучать до конца времени.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_DisplayName
+Клементация Неизвестна
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group02_Step02_VisitArea01_StepDescription
+Входите в дом Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group03_Step03_TalkToCharacter01_StepDescription
+Поговори с Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group04_Step04_StepDescription
+Одевайся в костюм {Style}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group04_Step18_StepDescription
+(Вариант) Закажи в магазине костюм "Ристик".
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group04_StepDescription
+Одевайся как герой фермера.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group05_Step05_StepDescription
+Одевайся в костюм {Style}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group05_Step19_StepDescription
+Закажи футуристический костюм из магазина.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group05_StepDescription
+Одевайся как герой Футуриста.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group06_Step06_StepDescription
+Одевайся в костюм {Style}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group06_Step20_StepDescription
+Закажи элегантный костюм из магазина.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group06_StepDescription
+Одевайся как новенький герой.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group07_StepDescription
+Найди Волшебника и начни свое приключение.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group08_StepDescription
+Посещение""Крысиная гостиница""и найди Волшебника.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group08_StoryDescription
+В её доме Ваниллопа показывает вам загадочную грудь. Она говорит, чтобы открыть её, вы должны стать Героем новой игры: приключение в Долине. Одетые для своей забавы, вы отправляетесь в Чез Реми в поисках Волшебника.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group09_Step11_VisitArea02_StepDescription
+Достучаться до дракона в шахтах Виталий, разбивая двери и борясь с монстрами.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group10_Step10_TalkToCharacter04_StepDescription
+Найдите следующего ключевого опекуна на дне мистической пещеры.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group11_Step14_VisitArea07_StepDescription
+Познакомьтесь с Ваниллопа в её доме.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group12_Step12_TalkToCharacter05_StepDescription
+Возвращайтесь в Storyteller Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_Step13_DressUp04_StepDescription
+Вылечи свой Меч Пиксель.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_Step22_Possess01_StepDescription
+Собери что-нибудь."исцеляющие зелья"... или {ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_Step22_Possess02_StepDescription
+Найдите монстров в замке Аренделл.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_StepDescription
+Приготовьтесь встретиться с Мастермином.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_StoryDescription
+После того как выиграешь два ключа от Анна и Олаф, Ваниллопа говорит тебе подготовиться к встрече с Мастерминдом, подготовив припасы.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group14_Step09_TalkToCharacter06_StepDescription
+Столкнуться с Властелином в шахтах.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group15_Step15_VisitArea05_StepDescription
+Убей дракона, чтобы добраться до принцессы.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group16_Step16_TalkToCharacter07_StepDescription
+Поговорите с принцессой Лайт.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_Step08_TalkToCharacter03_StepDescription
+Скажи мастеру, что ты сорвала его план.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_Step27_VisitArea08_StepDescription
+Выходите из шахт.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_StepDescription
+Заканчивай свое приключение:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_StoryDescription
+Вы встречаетесь с Мастермендом, который бросает вам вызов, чтобы раскрыть его лабиринт и встретиться с драконом внутри, вы убиваете дракона и находите его."Принцесса Лайт год"в логове.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group18_Step23_VisitArea03_StepDescription
+Войдите в логово Мастерминда. Виталийные шахты на плато Солнце.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group19_Step24_TalkToCharacter09_StepDescription
+Возвращайтесь в Storyteller Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group20_Step25_ReadyDescription
+Отдай ключи от груди Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group20_Step25_StepDescription
+Убедитесь, что все три ключа от фунгеона в вашем списке.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group21_Step26_TalkToCharacter10_StepDescription
+Возвращайтесь на Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group21_StepDescription
+Ты одета для приключений!
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group22_Step17_VisitArea06_StepDescription
+Входите в мистическую пещеру на пляже Даззл.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group22_StoryDescription
+Ты найдёшь Волшебника в Чез Реми' это Анна (AKA Chockany Gumpoot)"Дуэль."После ее поражения вы отправляетесь в мистическую пещеру в поисках следующего ключа и его опекуна.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group23_Step29_Possess03_StepDescription
+Секретная грудная клетка наконец-то открыта.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делаю?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,24 @@
+TAG: Timon_000_f
+Well, I love Simba. He's like a brother to me. A really big hairy brother.
+
+TAG: Timon_001_f
+But Nala still makes me kinda nervous. You know she tried to eat Pumbaa when she first met him?
+
+TAG: Player_000_choice_000_f
+Only once.
+
+TAG: Player_000_choice_001_f
+Nala would never hurt you!
+
+TAG: Player_000_choice_002_f
+She was just acting on instinct!
+
+TAG: Timon_002_f
+Sure. But you know how many times it takes to get eaten by a lion? ONCE! ... On the other hand, she IS a main line of defense between us and all the other dangerous stuff out there... Forget what I said. Nala's great!
+
+TAG: Timon_003_f
+I know. I know. You're right. Sometimes, it's just hard to shake that first impression. But I promise, I'm workin' on it!
+
+TAG: Timon_004_f
+That's one dangerous instinct for little guys like us! ... Huh... I think I just had to talk it out. Nala wouldn't hurt us... Hey, thanks, {PlayerName}.
+

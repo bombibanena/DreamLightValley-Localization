@@ -1,0 +1,45 @@
+TAG: Olaf_000_f
+Hello, {PlayerName}. I thought today I would sunbathe on Dazzle Beach.
+
+TAG: Player_000_choice_000_f
+That sounds fun!
+
+TAG: Player_000_choice_001_f
+Are you sure that's a good idea?
+
+TAG: Player_000_choice_002_f
+Can snow get a tan?
+
+TAG: Olaf_001_f
+I've always wanted to try it.
+
+TAG: Olaf_002_f
+Anna says sunbathing isn't something people do a lot of in Arendelle.
+
+TAG: Olaf_003_f
+Question, though: How does one sunbathe?
+
+TAG: Player_001_choice_000_f
+You just sit in the sun.
+
+TAG: Player_001_choice_001_f
+It's important to have sunscreen.
+
+TAG: Player_001_choice_002_f
+You need a hat.
+
+TAG: Olaf_004_f
+Really? Well, I can do that!
+
+TAG: Olaf_005_f
+I wonder if that's like my friend Oaken's sun balm. I'll have to find some!
+
+TAG: Olaf_006_f
+Really? I love hats! And I love doing things that need hats!
+
+TAG: Olaf_007_f
+Of course! Elsa's magic permafrost keeps me safe and cool.
+
+TAG: Olaf_008_f
+I don't know! But I can't wait to find out!
+

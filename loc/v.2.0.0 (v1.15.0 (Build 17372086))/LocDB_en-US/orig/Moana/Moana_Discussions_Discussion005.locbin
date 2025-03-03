@@ -1,0 +1,43 @@
+
+Q
+Moana_000_fBDo you ever think about coconuts? I mean, REALLY think about them?
+
+Player_000_choice_000_fYes.
+
+Player_000_choice_001_fNo.
+(
+Player_000_choice_002_fI'm allergic.
+B
+Moana_001_f3You do?! Oh... Well, what do you think of coconuts?
+*
+Player_001_choice_000_fThey're useful.
+2
+Player_001_choice_001_fThey're kind of boring.
+r
+Moana_002_fcSure. They're definitely useful. We use the fibers and leaves. We drink the water and eat the meat.
+=
+Moana_003_f.But there's more to life than coconuts, right?
+!
+Player_002_choice_000_fRight.
+-
+Player_002_choice_002_fNo, only coconuts.
+s
+Moana_009_fdThank you! Don't get me wrong; I'm grateful for coconuts. But a person can't live on coconuts alone.
+…
+Moana_010_fvA person needs to explore, and find out who she is! ... Wait, you know I was just using coconuts as a metaphor, right?
+3
+Moana_011_f$Okaaaay... You'd really like my dad.
+|
+Moana_005_fmThat's what I think! Don't get me wrong; I'm grateful for coconuts. But a person can't live on only coconuts.
+…
+Moana_006_fvA person needs to explore, and find out who she is! ... Wait, you know I was just using coconuts as a metaphor, right?
+(
+Moana_004_fWell, my dad does. A LOT.
+u
+Moana_007_ffAnd coconuts are definitely useful! We use the fibers and leaves. We drink the water and eat the meat.
+=
+Moana_008_f.But there's more to life than coconuts, right?
+
+Moana_012_fpYou're allergic to coconuts? Wow, that must be really hard. On Motunui, almost everything is made from coconuts!
+F
+Moana_013_f7I guess you can eat fish, though? I hope you like fish.

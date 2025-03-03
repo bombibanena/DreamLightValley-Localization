@@ -1,0 +1,33 @@
+TAG: Merlin_000_f
+Be sure to add the Glade of Trust to your travel plans. After you remove the Night Thorns and clear a path, that is. Lots to learn there! Lots to learn!
+
+TAG: Player_000_choice_000_f
+Let's go to the Glade of Trust. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Merlin_001_f
+Smartly done, {PlayerName}! Your path to the Glade of Trust is now clear.
+
+TAG: Merlin_004_f
+It seems your magic isn't quite strong enough to reach the Glade of Trust. You'll have to gather more Dreamlight.
+
+TAG: Merlin_002_f
+All right. But remember: Only YOU have the power to open the blocked Biomes of the Village.
+
+TAG: Merlin_003_f
+This isn't good. Not good at all. There is Dark Magic radiating from the Glade of Trust.
+
+TAG: Merlin_005_f
+The Pillar of Friendship in the Meadow is in need of repair. Once that's done, we should have access to new Biomes in the Village.
+
+TAG: Merlin_006_f
+It's imperative that we investigate the curse in the Meadow. Shall we discuss it now?
+
+TAG: Merlin_007_f
+I've rather unfortunate news. There's Dark Magic emanating from the Glade of Trust.
+
+TAG: Merlin_008_f
+But we should gain access to the Dream Castle before we explore farther.
+

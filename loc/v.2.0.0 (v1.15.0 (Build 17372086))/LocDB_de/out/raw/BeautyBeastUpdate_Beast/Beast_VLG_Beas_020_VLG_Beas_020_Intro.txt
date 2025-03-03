@@ -1,0 +1,72 @@
+TAG: Beast_000_f
+How's my favorite Beast doing?
+
+TAG: Beast_001_f
+I'm... *sigh* I feel lost. I don't have any responsibilities here.
+
+TAG: Player_000_choice_000_f
+Beast, you need a hobby!
+
+TAG: Player_000_choice_001_f
+I'm kinda busy right now, but I can swing by later and help!
+
+TAG: Beast_002_f
+A hobby? A hobby seems so... frivolous.
+
+TAG: Player_001_choice_000_f
+If you don't want my help...
+
+TAG: Player_001_choice_001_f
+Oh, lighten up!
+
+TAG: Beast_003_f
+No! ... I do.
+
+TAG: Beast_012_f
+Say no more â I'll grab those <Lore>books from Merlin's House</Lore>.
+
+TAG: Beast_004_f
+What if you run an errand or something? Borrow a book from Merlin for Belle?
+
+TAG: Beast_005_f
+Merlin? The... enchanter? I'd prefer not to.
+
+TAG: Beast_006_f
+Oooh, right, I get why you might want to keep your distance a bit.
+
+TAG: Beast_007_f
+But a book is a good idea. I've been wanting to get Belle some new ones.
+
+TAG: Beast_008_f
+She's had difficulty borrowing books from Merlin. It seems others have lost them, and he no longer likes to lend.
+
+TAG: Beast_009_f
+Why don't I help you out with that?
+
+TAG: Beast_010_f
+{PlayerName}, I would be in your debt.
+
+TAG: Beast_011_f
+Belle has said that Merlin's library has a number of fables that she would like to read.
+
+TAG: Beast_013_f
+Do you mean like Lumiere? I cannot do that.
+
+TAG: Beast_014_f
+Because... you're not a candle?
+
+TAG: Beast_015_f
+Yes. Oh, was that meant to be a pun?
+
+TAG: Player_002_choice_000_f
+Guilty!
+
+TAG: Player_002_choice_001_f
+Actually, that was purely accidental.
+
+TAG: Beast_016_f
+But moving on...
+
+TAG: Beast_017_f
+I will be here.
+

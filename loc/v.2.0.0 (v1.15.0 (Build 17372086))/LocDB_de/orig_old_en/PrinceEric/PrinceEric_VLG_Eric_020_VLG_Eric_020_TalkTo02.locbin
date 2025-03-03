@@ -1,0 +1,39 @@
+
+5
+PrinceEric_004_f!Did you learn anything from Maui?
+š
+PrinceEric_002_f…He told me we need to enchant an object. I put together everything we need for the spell... except for the object we need to enchant.
+A
+PrinceEric_000_f-Enchanting an object? That sounds familiar...
+v
+PrinceEric_001_fbWait! Ursula! When she made a deal with Ariel for her voice, Ursula used a Nautilus shell pendant.
+a
+PrinceEric_007_fMIt allowed her to speak with Ariel's voice. So we know they can be enchanted!
+#
+Player_000_fA Nautilus shell...
+)
+Player_000_choice_000_fLet's get one.
+4
+Player_000_choice_001_fIs that an octopus snail?
+<
+Player_000_choice_002_f!I've never fished one out before.
+c
+PrinceEric_008_fOIt won't be easy; they live deep under the waves, but maybe we can lure one up.
+É
+PrinceEric_013_f´They're scavengers. We'll need something that smells awful, like it comes from the depths of the ocean. I have this <ActivityItem>Fish Gut Oil</ActivityItem> sailors sometimes use.
+l
+PrinceEric_011_fXMaybe we can combine it with some other Ingredients... But I'm not sure what would work.
+;
+Player_001_f+I'll ask Remy. He knows everything about...
+:
+Player_001_choice_000_f...how to put together flavors.
+&
+Player_001_choice_001_f...seafood.
+6
+Player_001_choice_002_f...scavenging. He IS a rat.
+…
+PrinceEric_003_fqThat's great! Here, take the <ActivityItem>Fish Gut Oil</ActivityItem> with you. And thanks again for helping me.
+C
+PrinceEric_009_f/That's a pretty good description, {PlayerName}.
+d
+PrinceEric_010_fPThat's not surprising. They're rare on the surface but maybe we can lure one up.

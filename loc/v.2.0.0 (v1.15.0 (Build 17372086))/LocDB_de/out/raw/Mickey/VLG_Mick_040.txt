@@ -1,0 +1,75 @@
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Any_CompletedRequestDescription
+Talk to Mickey about what happened to Minnie.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_AvailableDescription
+Mickey knows how to get Minnie back!
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_CompletedStoryDescription
+His sweetheart might be back but she has lost her memories of him. You decide to check in with Mickey to see how he takes the news.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_DisplayName
+Memory Magnification
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group01_Step01_VisitArea01_StepDescription
+Find Minnie in the Village.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group01_StoryDescription
+Now that you have the means to talk to her, you need to find Minnie in the Village.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group02_Step02_PlaceHouse01_StepDescription
+Place Minnie's House in the Village.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group02_StoryDescription
+Minnie gives you a clue as to how to bring her back. Her House must be placed in the Village once again.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group03_Step03_Unlock01_StepDescription
+Use the Scrooge McDuck Sign to pay for the construction of Minnie's House.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group04_Step04_TalkToCharacter01_StepDescription
+She's here! Go talk to Minnie.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group04_StoryDescription
+Just as you finish preparing her House, Minnie appears. It's time to welcome her to the Village.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group05_Step05_Possess01_StepDescription
+<ActivityItem>Emerald</ActivityItem>.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group05_Step05_Possess02_StepDescription
+<ActivityItem>Hardwood</ActivityItem>.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group05_Step09_CraftItem02_StepDescription
+Craft <ActivityItem>Tinkering Parts</ActivityItem>.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group05_StepDescription
+Gather the following items to craft the <ActivityItem>Dreamlight Magnifier</ActivityItem>:
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group05_StoryDescription
+You need to craft a <ActivityItem>Dreamlight Magnifier</ActivityItem> if you want to have any chance of getting Minnie back. It's going to take some work, and you start by gathering the materials for it.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group06_Step06_CraftItem01_StepDescription
+Craft the <ActivityItem>Dreamlight Magnifier</ActivityItem>.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group07_StepDescription
+Talk to Mickey.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group08_Step08_TalkToCharacter02_StepDescription
+Talk to Minnie.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_Group09_Step10_TalkToCharacter03_StepDescription
+Talk to Mickey.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

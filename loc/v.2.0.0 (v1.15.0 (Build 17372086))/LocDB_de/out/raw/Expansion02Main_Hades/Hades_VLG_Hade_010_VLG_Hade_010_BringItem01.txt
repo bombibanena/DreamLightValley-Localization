@@ -1,0 +1,72 @@
+TAG: Hades_001_f
+Okay Hades, I've got those resources for you!
+
+TAG: Hades_002_f
+Finally! I can't wait to get this place cleaned up.
+
+TAG: Hades_003_f
+All right, let's see... Your stuff plus a flash of Underworld flames, a few drops from the river Styx...
+
+TAG: Hades_004_f
+And there we go â one enchanted pickaxe! Powerful enough to make Hephaestus drool.
+
+TAG: Player_000_choice_000_f
+Who?
+
+TAG: Player_000_choice_001_f
+Cool!
+
+TAG: Player_000_choice_002_f
+What other potions can you make?
+
+TAG: Hades_005_f
+The god of fire and banging metal into stuff. You want a flaming arrow, he's your guy.
+
+TAG: Hades_006_f
+Anyway, I'm sure you've seen those Demon Snippets darting around?
+
+TAG: Hades_007_f
+Sure...
+
+TAG: Hades_008_f
+Well, I need you to get rid of them too. I know they look like they belong here, but they keep flying around the light from my hair.
+
+TAG: Hades_009_f
+Ever smell a burnt Demon Snippet? Not. Pleasant.
+
+TAG: Player_001_choice_000_f
+Sure, I can help with that too.
+
+TAG: Player_001_choice_001_f
+You can't just... magic them away or something?
+
+TAG: Player_001_choice_002_f
+Yeah, that doesn't sound particularly appetizing.
+
+TAG: Hades_010_f
+How do I catch the Demon Snippets?
+
+TAG: Hades_000_f
+Well, they're sneaky little things. They like to run away from you a few times, so don't give up. Approach them carefully â they'll disappear, but keep it up!
+
+TAG: Hades_011_f
+Use that <Lore>Net</Lore> of yours, or <Lore>try out some traps</Lore>. Whatever works.
+
+TAG: Hades_012_f
+After that, you can make like an apprentice mason and <Lore>start clearing the marble</Lore>.
+
+TAG: Hades_014_f
+{PlayerName}... I have powers to guide the souls of the departed to their final resting spot.
+
+TAG: Hades_015_f
+I rule the domain of the dead. I am a god...
+
+TAG: Hades_016_f
+And you want me to use my powers to CLEAN?!
+
+TAG: Hades_017_f
+Okay, okay, don't overreact.
+
+TAG: Hades_013_f
+What am I, a vending machine? Focus on the task at hand, {PlayerName}.
+

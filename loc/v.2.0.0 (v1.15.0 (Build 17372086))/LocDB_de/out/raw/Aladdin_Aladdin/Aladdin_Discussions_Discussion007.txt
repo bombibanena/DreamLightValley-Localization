@@ -1,0 +1,63 @@
+TAG: Aladdin_000_f
+Wow, that's, uh... quite a question.
+
+TAG: Aladdin_001_f
+Well, there's a lot more to it than I imagined. The clothes, the attention, the responsibility...
+
+TAG: Player_000_choice_000_f
+Tell me more about the clothes!
+
+TAG: Player_000_choice_001_f
+Did you enjoy the attention?
+
+TAG: Player_000_choice_002_f
+Were the responsibilities steep?
+
+TAG: Aladdin_002_f
+Okay, I can't lie â THAT I really liked.
+
+TAG: Aladdin_003_f
+You'd think prince clothing would be itchy and stuffy...
+
+TAG: Aladdin_004_f
+But no! It was cool and really comfortable.
+
+TAG: Aladdin_005_f
+Maybe not as comfortable as my usual clothes, but pretty luxurious.
+
+TAG: Aladdin_012_f
+How 'bout you? Would you wanna be royalty?
+
+TAG: Player_001_choice_000_f
+In a heartbeat!
+
+TAG: Player_001_choice_001_f
+Seems like too much work.
+
+TAG: Player_001_choice_002_f
+I already am royalty! Dreamlight royalty!
+
+TAG: Aladdin_013_f
+Well, I hope you have a great time with it!
+
+TAG: Aladdin_014_f
+Yeah. You should see the list of duties Jasmine has. I try to pitch in where I can, but it's exhausting just to watch!
+
+TAG: Aladdin_015_f
+Oh, sorry! My apologies, your highness! Heh. Guess I'm still learning the etiquette.
+
+TAG: Aladdin_006_f
+Gotta admit, I really liked it at first.
+
+TAG: Aladdin_007_f
+But after a while, the pressure starts to get to you.
+
+TAG: Aladdin_008_f
+You can't just go for a relaxing walk down the street without everybody looking at you.
+
+TAG: Aladdin_009_f
+For me, not really.
+
+TAG: Aladdin_010_f
+But then again, I wasn't really a prince â no kingdom to run. I just had to stay on top of my story. Which... turns out, did NOT work so well.
+

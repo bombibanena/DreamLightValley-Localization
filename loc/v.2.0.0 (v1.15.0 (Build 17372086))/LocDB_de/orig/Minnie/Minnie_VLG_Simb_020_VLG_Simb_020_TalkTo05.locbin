@@ -1,0 +1,21 @@
+
+V
+Minnie_001_fFOh, {PlayerName}, hello! You look like you're on an important mission.
+[
+Minnie_002_fKSimba wants to invite you to a gathering. It's a celebration for all of us!
+8
+Minnie_003_f(How sweet of him! What can I do to help?
+>
+Player_000_choice_000_f#Just be yourself. It'll be perfect.
+A
+Player_000_choice_001_f&My guess: Just go and enjoy the party.
+9
+Player_000_choice_002_fNothing. That's the best part!
+!
+Minnie_004_fYou're very kind.
+_
+Minnie_007_fOTell Simba I'll be there with bells on! Or, I guess I should say bows. Hee-hee!
+
+Minnie_005_fI can do that.
+/
+Minnie_006_fYou're too funny, {PlayerName}.

@@ -1,0 +1,27 @@
+TAG: Village!LionKing!VLG_Nala_030_Any_CompletedRequestDescription
+Talk to Nala.
+
+TAG: Village!LionKing!VLG_Nala_030_AvailableDescription
+The mystical rifts have been causing chaos for the Villagers. You'll need to do something to help them.
+
+TAG: Village!LionKing!VLG_Nala_030_Group04_Step04_PickUp01_StepDescription
+Investigate the Lion's Paw Tablet on the wall inside Pride Rock.
+
+TAG: Village!LionKing!VLG_Nala_030_Group05_Step05_ConsumeItem01_StepDescription
+Investigate the Memory in Pride Rock.
+
+TAG: Village!LionKing!VLG_Nala_030_Group06_Step06_TalkToCharacter03_StepDescription
+Talk to Nala.
+
+TAG: Village!LionKing!VLG_Nala_030_Group07_Step07_CatchFish01_StepDescription
+Catch <ActivityItem>Weird Fish</ActivityItem> from around the rifts.
+
+TAG: Village!LionKing!VLG_Nala_030_Group09_Step09_CraftItem01_StepDescription
+Craft the <ActivityItem>Enchanted Hearts</ActivityItem>.
+
+TAG: Village!LionKing!VLG_Nala_030_Group12_Step12_ReadyDescription
+Bring the <ActivityItem>Enchanted Hearts</ActivityItem> to Nala.
+
+TAG: Village!LionKing!VLG_Nala_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,141 @@
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Any_CompletedRequestDescription
+Поговори с Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_AvailableDescription
+Ваниллопа хочет, чтобы вы построили Candy Biome в долине Мечты.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_CompletedStoryDescription
+Ты оставляешь все собранные вещи с Ваниллопа, она говорит, что сделает всю оставшуюся работу и принесет тебе карт, когда он будет готов.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_DisplayName
+Экстремальный макияж биома
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group01_Step01_GardeningPlant01_StepDescription
+Посадить семя <ActivityItem>Candy</ActivityItem> в любом месте долины.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group01_StoryDescription
+Она дает тебе конфеты, говорит, что это семена, и говорит посадить их в землю... это розыгрыш?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group03_Step03_BringItem01_StepDescription
+Помочь <ActivityItem>Candy Cane Sprouts</ActivityItem> и собрать их через минуту.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group03_Step03_ReadyDescription
+Приведите <ActivityItem>Candy Cane Sprouts</ActivityItem> на Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group04_Step04_Decorate01_StepDescription
+Кэнди Трэвс.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group04_Step04_Decorate03_StepDescription
+Гигантские Лоллипопы.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group04_Step04_Decorate04_StepDescription
+{ItemName} для гоночного трека.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group04_StepDescription
+Сделайте Candy Biome украшением около Ваниллопа  House следующим образом:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group04_StoryDescription
+Ваниллопа возвращает цветы вам, как красивые деревья Кэнди Кейн! Она также дает вам другие припасы, чтобы превратить район вокруг своего дома в Кэнди Биом.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group05_Step05_TalkToCharacter01_StepDescription
+Поговори с Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group06_Step06_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group06_Step06_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group06_Step06_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group06_Step06_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group06_Step06_Possess06_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group06_StepDescription
+Собирайте ингредиенты для частей карт:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group07_Step07_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group07_Step07_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group07_Step07_CookMeal03_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group07_StepDescription
+Приготовить части картта:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group07_StoryDescription
+Вооруженный специальным "Sugar Rush Syrup", вы решили испечь части "Sugar Rush kart" своими "Ingredients".
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group08_Step08_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group08_Step08_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group08_Step08_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group08_Step08_ReadyDescription
+Принесите части карт на Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group08_Step08_StepDescription
+Убедитесь, что у вас есть части карт в списке:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group09_Step09_Possess02_StepDescription
+Электронный мусор.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group09_Step09_Possess07_StepDescription
+Источник энергии для Карта.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group09_Step09_StepDescription
+Соберите запасные части из ВАЛЛ·И House:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group09_StoryDescription
+Не уверен, что если вы создали кулинарный хаос или шедевр, вы приносите части карт на Ваниллопа. Вы отправляетесь в ВАЛЛ·И House и просите у деревни сильный клей.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group10_Step10_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group10_Step10_BringItem06_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group10_Step10_BringItem07_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group10_Step10_ReadyDescription
+Принесите части карт на Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group10_Step10_StepDescription
+Запчасти для сбора карт:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group11_StepDescription
+Попроси деревенщину что-нибудь склеить карт вместе.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делаю?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делаю?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

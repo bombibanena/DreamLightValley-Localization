@@ -1,0 +1,63 @@
+TAG: Aladdin_002_f
+{PlayerName}, did you hear what Jasmine said?! She said the flowers reminded her of the palace.
+
+TAG: Player_000_choice_000_f
+Seemed to me that she LIKED them.
+
+TAG: Player_000_choice_001_f
+Doesn't that mean they were really impressive?
+
+TAG: Player_000_choice_002_f
+Hm, yeah, she's probably been given lots of flowers before...
+
+TAG: Aladdin_004_f
+But I was hoping I could give her something she LOVES. *sigh*
+
+TAG: Aladdin_006_f
+Wait... I do have this scroll that points to something that MIGHT impress her...
+
+TAG: Aladdin_007_f
+Mr. McDuck gave it to me after we defeated his security system. We were talking about his old treasure-hunting days...
+
+TAG: Aladdin_000_f
+He gave the scroll to me, and told me to have a new adventure.
+
+TAG: Player_001_choice_000_f
+A treasure hunt? Sounds fun!
+
+TAG: Player_001_choice_001_f
+What does it say?
+
+TAG: Player_001_choice_002_f
+You ALREADY impress Jasmine.
+
+TAG: Aladdin_010_f
+You'll join me? Great! I bet this'll get me the impressive gift I'm looking for.
+
+TAG: Aladdin_009_f
+The scroll says, "To begin at the mermaid's isle."
+
+TAG: Aladdin_015_f
+Huh... Okay, maybe it means a place where a <Lore>mermaid was stranded in the Valley</Lore>.
+
+TAG: Aladdin_011_f
+You're probably right. I know that she loves me for who I am. But that doesn't mean I can't try and find something special for her.
+
+TAG: Player_002_choice_000_f
+Good point! Let's treasure hunt.
+
+TAG: Player_002_choice_001_f
+I'm not sure... but I'll help you.
+
+TAG: Aladdin_013_f
+Yes!
+
+TAG: Aladdin_014_f
+Thanks, {PlayerName}. You're a good friend.
+
+TAG: Aladdin_003_f
+To anyone else? Yeah. To a princess raised in a palace? I don't know...
+
+TAG: Aladdin_005_f
+You're right... I need to try harder. Jasmine deserves something really special.
+

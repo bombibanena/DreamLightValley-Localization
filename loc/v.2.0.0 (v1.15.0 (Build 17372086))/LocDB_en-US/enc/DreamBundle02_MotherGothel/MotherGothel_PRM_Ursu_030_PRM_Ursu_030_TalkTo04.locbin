@@ -1,0 +1,51 @@
+
+ò
+MotherGothel_000_fÅAh, {PlayerName}, you've finally come to apologize. After all, you were the one who helped that scheming sea witch steal from me.
+2
+Player_000_f"She'll give you back your voice...
+3
+Player_000_choice_000_fShe regrets her actions.
+?
+Player_000_choice_001_f$She doesn't want things to escalate.
+;
+Player_000_choice_002_f You annoyed her into compliance.
+'
+MotherGothel_001_fI should hope so!
+à
+MotherGothel_002_frTo restore your voice, I'll need you to craft the first part of a musical line about yourself for the enchantment.
+=
+MotherGothel_003_f'And I suppose you'll add a rhyme to it?
++
+MotherGothel_004_fYes, that's the idea.
+Q
+MotherGothel_005_f;Then I'll try not to make it too hard for you, dear. Hmm...
+D
+MotherGothel_006_f.Mother Gothel, a vision of beauty and grace...
+F
+Player_001_choice_000_f+Be careful or she'll put you in your place.
+B
+Player_001_choice_001_f'Watch out or she'll beat you in a race?
+D
+Player_001_choice_002_f)And she has a few wrinkles on her face...
+0
+MotherGothel_007_fOh, I most certainly will.
+*
+MotherGothel_008_fBravo, {PlayerName}!
+9
+MotherGothel_009_f#That's all I need from you. Thanks!
+[
+MotherGothel_010_fEOh, I had hoped you'd come up with something more inspired than that.
+8
+MotherGothel_011_f"Well, I suppose it could be worse.
+"
+MotherGothel_012_fOnly joking!
+J
+MotherGothel_013_f4Of course you are, dear. Because if you aren't√¢¬Ä¬î
+
+MotherGothel_014_fOr not.
+n
+MotherGothel_015_fX{PlayerName}, don't make me add you to my long list of those who vex me in this Village.
+P
+MotherGothel_016_f:In other words, she's afraid I might get my revenge. Good.
+G
+MotherGothel_017_f1Annoyed her? Ha! She knows she's no match for me.

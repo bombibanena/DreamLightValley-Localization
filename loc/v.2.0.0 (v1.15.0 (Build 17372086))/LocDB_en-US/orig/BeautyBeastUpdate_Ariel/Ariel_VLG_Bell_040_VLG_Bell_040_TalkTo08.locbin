@@ -1,0 +1,27 @@
+
+j
+Ariel_000_f[Hi, {PlayerName}! Oh, you look like you want to talk to me about something. How can I help?
+q
+Ariel_001_fbBelle is looking for something called <ActivityItem>The Chronicles of the Ancients</ActivityItem>.
+l
+Player_000_f\It's supposed to be hidden on an island away from the Valley... I was thinking that maybe...
+0
+Player_000_choice_000_f...you could help us.
+M
+Player_000_choice_001_f2...you've seen something like that on your island.
+=
+Player_000_choice_002_f"...you have it in your collection.
+>
+Ariel_002_f/Oh, I'd love to help Belle. Now let me think...
+C
+Ariel_003_f4You know, there was something strange on the island.
+>
+Ariel_006_f/Something glowing... trapped behind some rocks.
+a
+Ariel_007_fRI never found a way to see what it was, but it might be what you're looking for...
+9
+Ariel_008_f*Thanks, Ariel. I'll go check it right now.
+P
+Ariel_004_fASorry, I don't. If I did I would've given it to Belle right away.
+
+Ariel_005_fBut...

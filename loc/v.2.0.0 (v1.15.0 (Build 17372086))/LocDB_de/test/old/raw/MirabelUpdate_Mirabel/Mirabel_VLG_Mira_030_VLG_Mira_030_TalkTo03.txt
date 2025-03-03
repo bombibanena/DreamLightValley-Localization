@@ -1,0 +1,54 @@
+TAG: Mirabel_000_f
+Как все прошло с мистером МакДаком?
+
+TAG: Mirabel_001_f
+Он был счастлив получить свой <ActivityItem>Cash Register Key</ActivityItem>.
+
+TAG: Mirabel_002_f
+Я просто хотел бы, чтобы они ладили, как раньше, конечно, у них была случайная ссора, но ничего подобного.
+
+TAG: Mirabel_013_f
+У меня так много семейных фотографий до Забвения...
+
+TAG: Mirabel_003_f
+Подожди...
+
+TAG: Mirabel_004_f
+Я найду их счастливую фотографию в моем альбоме, сделаю рамку, тогда, возможно, если мы соберем их вместе для хорошего ужина, и...
+
+TAG: Player_000_f
+Помедленнее, как насчет того, чтобы найти фото, а я приготовлю еду и раму...
+
+TAG: Player_000_choice_000_f
+Я тоже хочу быть частью решения этого вопроса.
+
+TAG: Player_000_choice_001_f
+Это даст тебе время найти идеальную фотографию.
+
+TAG: Player_000_choice_002_f
+Я не хочу, чтобы ты снова перегнул палку.
+
+TAG: Mirabel_005_f
+Знаешь, как говорят: "Чем веселее!"
+
+TAG: Mirabel_006_f
+Может, рамку можно отнести к тому, что они оба любят?
+
+TAG: Mirabel_007_f
+Ну, Дональд Дак живёт на лодке, а Скрудж Макдак - известный авантюрист, так что может быть... <ActivityItem> Seashell Frame</ActivityItem>?
+
+TAG: Mirabel_008_f
+Я должен поставить <ActivityItem>Glass</ActivityItem>, <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Clams</ActivityItem> и <ActivityItem>Scallops</ActivityItem> вместе, чтобы сделать это.
+
+TAG: Mirabel_009_f
+Это сработает, {PlayerName}, и на ужин, я думаю, мы должны пойти с чем-то, чем они могут поделиться, типа... <ActivityItem>Fruit Pie</ActivityItem>!
+
+TAG: Mirabel_010_f
+Вот, я только что прочитал об этом в этом <ActivityItem>Recipe Book</ActivityItem> Я одолжил у Реми.
+
+TAG: Mirabel_011_f
+Отличная идея, {PlayerName}!
+
+TAG: Mirabel_012_f
+Надеюсь, если мы поработаем вместе, мы всё сделаем правильно.
+

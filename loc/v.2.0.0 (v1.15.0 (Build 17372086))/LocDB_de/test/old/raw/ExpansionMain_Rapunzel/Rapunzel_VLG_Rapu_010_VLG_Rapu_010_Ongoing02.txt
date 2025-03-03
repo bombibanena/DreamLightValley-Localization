@@ -1,0 +1,6 @@
+TAG: Rapunzel_000_f
+Вы собирались собрать материалы, чтобы починить дверь! <ActivityItem>Zinc</ActivityItem>, <ActivityItem>Tin</ActivityItem>, и <ActivityItem>Soil</ActivityItem>.
+
+TAG: Rapunzel_001_f
+Когда вы найдёте все это, <Lore> не могли бы вы вернуть его мне, чтобы мы могли починить дверь вместе</Lore>?
+

@@ -1,0 +1,68 @@
+
+9
+JackSkellington_002_f What do you think of this place?
+ 
+JackSkellington_003_fIt's...
+&
+Player_000_choice_000_fToo gloomy?
+(
+Player_000_choice_001_fToo isolated?
+2
+Player_000_choice_002_fNot frightening enough?
+,
+JackSkellington_004_fNo... it's perfect!
+N
+JackSkellington_005_f5I can already envision all the research I'll do here.
+T
+JackSkellington_006_f;My Christmas experiments will seem frivolous in comparison!
+(
+Player_001_choice_000_fThat's great!
+0
+Player_001_choice_001_fThat's... concerning.
+X
+JackSkellington_007_f?I have so many ideas, and I want to get to all of them quickly!
+(
+JackSkellington_011_fSo what's next?
+B
+JackSkellington_012_f)Well... I'll need scientific instruments.
+e
+JackSkellington_013_fLNormally I'd borrow tools from Dr. Finkelstein, but that's not possible now.
+f
+JackSkellington_000_fMWhat about the stuff here? You've got flasks, a mortar and pestle, potions...
+U
+JackSkellington_001_f<Oh, I'll most certainly make good use of the equipment here!
+w
+JackSkellington_009_f^But for the experiments I'm planning, I'll need equipment made to certain physical tolerances.
+s
+JackSkellington_019_fZI wouldn't want anything exploding on me because I used the wrong type of glass container!
+%
+Player_003_choice_000_f
+Coooooool.
+C
+Player_003_choice_001_f(I'm starting to regret agreeing to this.
+E
+Player_003_choice_002_f*Well, I'm thankful this place is isolated.
+"
+JackSkellington_020_f	Isn't it?
+R
+JackSkellington_014_f9Well, good thing I'm a crafting genius! What do you need?
+i
+JackSkellington_015_fPNothing particularly fancy â€” a standard array of flasks, burners, crucibles...
+Å
+JackSkellington_016_f«Someone of your skill should be able to craft a <ActivityItem>Scientific Kit</ActivityItem> by using <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Coal</ActivityItem>, <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, and <ActivityItem>Empty Vials</ActivityItem>.
+1
+JackSkellington_017_fSure! Talk to you later.
+®
+JackSkellington_018_f”Brilliant! I'm off to see Merlin now â€” I hear he has a mind for magic, and I could use an expert's introduction to the arcane forces at work here.
+C
+JackSkellington_021_f*Nonsense! I picked this spot for a reason!
+7
+JackSkellington_022_fExactly why it appealed to me!
+Ž
+JackSkellington_008_fuOh no, there's no need to worry. This location is perfectly isolated. There's only a small chance of things escaping.
+K
+Player_002_choice_000_f0Great, let's try to lower that chance even more.
++
+Player_002_choice_001_fOh I'm worrying.
+@
+JackSkellington_010_f'But let's try to be positive for now...

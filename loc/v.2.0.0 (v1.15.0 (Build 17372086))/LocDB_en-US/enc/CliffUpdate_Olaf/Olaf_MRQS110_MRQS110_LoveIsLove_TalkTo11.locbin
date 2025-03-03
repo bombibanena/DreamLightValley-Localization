@@ -1,0 +1,61 @@
+
+q
+
+Olaf_000_fcYou found a book? Is it the one we need? You'll have to read it to me since I can't turn the pages.
+D
+
+Olaf_001_f6Okay. It's called "So You Want to Open a Dark Portal."
+j
+
+Olaf_002_f\How conveniently specific! It sounds like it's exactly what we're looking for, {PlayerName}.
+'
+Player_000_choice_000_fI hope so...
+(
+Player_000_choice_001_fDo you think?
+8
+Player_000_choice_002_fNot a very imaginative title.
+0
+
+Olaf_003_f"I can't wait to hear what it says!
+"
+
+Olaf_012_fHow do I do that...?
+q
+
+Olaf_013_fcWell, there are some gems over there near the portal. But not all the colors. Some must be missing.
+P
+
+Olaf_014_fBDon't worry, {PlayerName}. I'm sure you can figure out what to do.
+¦
+
+Olaf_015_f—Finally, it says I need to whisper one of my darkest fears to the portal to seal the spell. I guess I should start thinking about what I'm afraid of...
+R
+
+Olaf_016_fDBut for now, I'll start by <Lore>making the Dreamlight Prism</Lore>.
+q
+
+Olaf_004_fc(This book... this must be how the Forgotten learned to open all those portals in the first place.)
+=
+
+Olaf_005_f/(No wonder they've been popping up everywhere.)
+*
+
+Olaf_006_fUm... Are you going to read?
+†
+
+Olaf_007_fxHmm... According to this, we'll need something called a <ActivityItem>Dreamlight Prism</ActivityItem> to fix the portal.
+m
+
+Olaf_008_f_There's a bunch of broken glass on the floor over there. I'll bet the Forgotten tried this too.
+ˆ
+
+Olaf_009_fzMaybe if you gather it up and replace the broken parts, we can get my arms back! Oh, and the Orb. Can't forget about that.
+…
+
+Olaf_010_fwIt says we'll need some <ActivityItem>Glass</ActivityItem> and some <ActivityItem>Purified Night Shards</ActivityItem>.
+v
+
+Olaf_011_fhBut once I fix it, I need to find some way to "channel all the colors of the rainbow" through the prism.
+‹
+
+Olaf_017_f}Titles can be hard. I went through at least three dozen for each of the novels I've composed in my head while I've been here.

@@ -1,0 +1,30 @@
+TAG: Belle_000_f
+For as long as I can remember, I've wanted to have adventures. To see new places. To talk to people who understand me.
+
+TAG: Belle_001_f
+Do you long for anything like that?
+
+TAG: Player_000_choice_000_f
+I'm the same!
+
+TAG: Player_000_choice_001_f
+I just want to stay here and take care of the Village.
+
+TAG: Player_000_choice_002_f
+I'm happy with myself â the place doesn't matter!
+
+TAG: Belle_002_f
+Oh, I'm so glad to hear that.
+
+TAG: Belle_003_f
+It's nice to have someone around who understands.
+
+TAG: Belle_004_f
+Well, I'm glad your dream is coming true!
+
+TAG: Belle_005_f
+That's a wonderful way to look at things. I suppose if you think about the world around you with adventure in mind...
+
+TAG: Belle_006_f
+...then every day can be exciting, no matter where you are!
+

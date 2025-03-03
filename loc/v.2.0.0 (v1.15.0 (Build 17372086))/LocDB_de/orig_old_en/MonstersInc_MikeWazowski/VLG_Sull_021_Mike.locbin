@@ -1,0 +1,55 @@
+
+h
+FVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_AvailableDescriptionGo see Mike about his project.
+\
+=Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_DisplayNameVillager of the Month: Mike
+Œ
+cVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_GardeningHarvest01_StepDescription%<ActivityItem>Carrots</ActivityItem>.
+‰
+cVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_GardeningHarvest02_StepDescription"<ActivityItem>Corn</ActivityItem>.
+‘
+cVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_GardeningHarvest03_StepDescription*<ActivityItem>Bell Peppers</ActivityItem>.
+v
+PVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_Step01_StepDescription"Plant and harvest some vegetables:
+‹
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_StoryDescription¼He wants to prepare something called Hodgepodge Ã  la Monstropolis to remind Sulley of why he deserves to be crowned and asks you to bring diverse fresh Ingredients from around the Valley.
+…
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_BringItem01_StepDescription%<ActivityItem>Carrots</ActivityItem>.
+‚
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_BringItem02_StepDescription"<ActivityItem>Corn</ActivityItem>.
+Š
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_BringItem03_StepDescription*<ActivityItem>Bell Peppers</ActivityItem>.
+s
+QVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_ReadyDescriptionBring the Ingredients to Mike.
+„
+PVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_Step02_StepDescription0Make sure the Ingredients are in your Inventory:
+s
+bVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group03_Step03_TalkToCharacter01_StepDescriptionTalk to Remy.
+¯
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group03_StoryDescriptionaUpon bringing him fresh vegetables, Mike is disgusted. Maybe Remy can help you to fix the recipe.
+¹
+ZVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group04_Step04_Possess01_StepDescription[Find <ActivityItem>Fresh Compost</ActivityItem> around the Restaurant in Dreamlight Valley.
+Ê
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group04_StoryDescription|The Little Chef explains to you that you need to add some Fresh Compost to the recipe and points you in the right direction.
+·
+[Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group05_Step05_CookMeal01_StepDescriptionXCook {TargetAmount} bowls of <ActivityItem>Hodgepodge Ã  la Monstropolis</ActivityItem>.
+›
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group05_StoryDescriptionMNow that you have everything, you can cook the Hodgepodge Ã  la Monstropolis.
+Ø
+\Village!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_Step06_BringItem04_StepDescriptionxMake sure you have {TargetAmount} bowls of <ActivityItem>Hodgepodge Ã  la Monstropolis</ActivityItem> in your Inventory.
+¶
+QVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_Step06_ReadyDescriptionaBring {TargetAmount} bowls of <ActivityItem>Hodgepodge Ã  la Monstropolis</ActivityItem> to Mike.
+°
+JVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_StoryDescriptionbThe Hodgepodge Ã  la Monstropolis prepared, the only remaining thing to do is to bring it to Mike.
+…
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group01_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+ƒ
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group02_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+‰
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group03_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+€
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group04_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+…
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group05_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+…
+NVillage!MonsterInc!MikeWazowski!VLG_Sull_021_Mike_Group06_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?

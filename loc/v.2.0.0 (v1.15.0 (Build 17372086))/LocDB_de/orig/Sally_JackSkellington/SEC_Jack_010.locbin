@@ -1,0 +1,67 @@
+
+^
+MSecret!Nightmare!JackSkellington!SEC_Jack_010_Any_CompletedRequestDescriptionTalk to Jack.
+ì
+BSecret!Nightmare!JackSkellington!SEC_Jack_010_AvailableDescriptionMStrange spiderwebs have been appearing around the Valley. What could it mean?
+Ã
+GSecret!Nightmare!JackSkellington!SEC_Jack_010_CompletedStoryDescriptionÄWith your help, Jack's scientific knowledge and the goodwill of some spiders, you successfully brought Sally back to the Valley!
+M
+9Secret!Nightmare!JackSkellington!SEC_Jack_010_DisplayNameThe Woven Bridge
+o
+USecret!Nightmare!JackSkellington!SEC_Jack_010_Group01_Step01_PickUp01_StepDescriptionRemove the Spiderwebs.
+q
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group01_Step02_Possess01_StepDescriptionPick up the Spiderwebs.
+£
+^Secret!Nightmare!JackSkellington!SEC_Jack_010_Group01_Step03_TalkToCharacter01_StepDescriptionA(Optional) Talk to {TargetNPC} in his House about the Spiderwebs.
+l
+ESecret!Nightmare!JackSkellington!SEC_Jack_010_Group01_StepDescription#Spiders are invading Anna's Castle!
+ê
+XSecret!Nightmare!JackSkellington!SEC_Jack_010_Group02_Step05_BringItem01_StepDescription4Make sure you have the {itemName} in your Inventory.
+Ä
+MSecret!Nightmare!JackSkellington!SEC_Jack_010_Group02_Step05_ReadyDescription/Talk to {TargetNPC} about the invading spiders.
+i
+USecret!Nightmare!JackSkellington!SEC_Jack_010_Group03_Step06_PickUp02_StepDescriptionMirabel's House.
+k
+USecret!Nightmare!JackSkellington!SEC_Jack_010_Group03_Step06_PickUp03_StepDescriptionVanellope's House.
+f
+USecret!Nightmare!JackSkellington!SEC_Jack_010_Group03_Step06_PickUp04_StepDescriptionRemy's House.
+Ç
+LSecret!Nightmare!JackSkellington!SEC_Jack_010_Group03_Step06_StepDescription2Remove the Spiderwebs from other Villagers' homes:
+î
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group03_Step07_Possess02_StepDescription:Pick up the Spiderwebs as you clean each Villager's House.
+Æ
+FSecret!Nightmare!JackSkellington!SEC_Jack_010_Group03_StoryDescriptiondSpiders are invading Villagers' Houses! But Jack thinks that they may have a message encoded within.
+ê
+XSecret!Nightmare!JackSkellington!SEC_Jack_010_Group04_Step08_BringItem02_StepDescription4Make sure you have the Spiderwebs in your Inventory.
+u
+MSecret!Nightmare!JackSkellington!SEC_Jack_010_Group04_Step08_ReadyDescription$Bring the {itemName} to {targetNPC}.
+e
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group05_Step09_Possess03_StepDescription{itemName}.
+e
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group05_Step09_Possess04_StepDescription{itemName}.
+e
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group05_Step09_Possess05_StepDescription{itemName}.
+e
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group05_Step09_Possess06_StepDescription{itemName}.
+e
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group05_Step09_Possess07_StepDescription{itemName}.
+e
+VSecret!Nightmare!JackSkellington!SEC_Jack_010_Group05_Step09_Possess08_StepDescription{itemName}.
+
+ESecret!Nightmare!JackSkellington!SEC_Jack_010_Group05_StepDescription6Gather resources for the Arachnid Rejuvenation Potion:
+É
+XSecret!Nightmare!JackSkellington!SEC_Jack_010_Group06_Step10_CraftItem01_StepDescription'Craft the Arachnid Rejuvenation Potion.
+Ñ
+FSecret!Nightmare!JackSkellington!SEC_Jack_010_Group06_StoryDescriptionπThe spiderwebs contain a message from Sally ‚Äî she's trying to return to the Valley! But the spiders will need a little jolt of energy before they can weave a portal to bring her back.
+ì
+XSecret!Nightmare!JackSkellington!SEC_Jack_010_Group07_Step11_VisitArea01_StepDescription7Return to Jack Skellington's House to bring the potion.
+v
+^Secret!Nightmare!JackSkellington!SEC_Jack_010_Group08_Step12_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+≤
+ZSecret!Nightmare!JackSkellington!SEC_Jack_010_Group09_Step13_FillKeyhole01_StepDescriptionTPlace the <ActivityItem>Arachnid Rejuvenation Potion</ActivityItem> in the cauldron.
+y
+^Secret!Nightmare!JackSkellington!SEC_Jack_010_Group10_Step14_UnlockCharacter01_StepDescriptionCould that be... Sally?
+ï
+^Secret!Nightmare!JackSkellington!SEC_Jack_010_Group11_Step15_TalkToCharacter04_StepDescription3Talk to {TargetNPC} about her return to the Valley.
+|
+USecret!Nightmare!JackSkellington!SEC_Jack_010_Group12_Step16_Listen01_StepDescription#Listen to Jack and Sally's reunion.

@@ -1,0 +1,66 @@
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Any_CompletedRequestDescription
+Return to Flynn.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_AvailableDescription
+{PlayerName} ventured into the darkness at the edges of the Wild Woods and found a strange gateway there, just waiting for {PlayerName} to step inside.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_CompletedStoryDescription
+{PlayerName} removed the curse in the Fairy Tale Trial and made a home for Flynn Rider in the Storybook Vale. It was now clear what {PlayerName} would need to do to save the Vale: Venture forth and find more Fairy Tale Trials.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_DisplayName
+A Sheep in Wolf's Clothing
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_DisplayName_000
+The Wolf of the Wilds
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group01_Step01_VisitArea01_StepDescription
+Step through the gateway in the Wild Woods to enter the first <ActivityItem>Fairy Tale Trial</ActivityItem>.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group02_Step02_TalkToCharacter01_StepDescription
+Investigate the mysterious, growling doorway...
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem01_StepDescription
+What big feet he has.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem02_StepDescription
+What a wolfish smell he has.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_BringItem03_StepDescription
+What a fierce howl he has.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_ReadyDescription
+Bring the evidence to the door.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_Step03_StepDescription
+Prove the Wolf of the Wilds isn't really a wolf by searching the Trial for evidence to disprove:
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group03_StoryDescription
+Within the first Fairy Tale Trial, {PlayerName} discovered a snarling figure behind a locked door. Was this really the Wolf of the Wilds? Or was it someone playing a trick?
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to Flynn.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group05_Step05_Interaction01_StepDescription
+Interact with the <ActivityItem>source of the corruption</ActivityItem> inside the Fairy Tale Trial.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group05_StoryDescription
+{PlayerName} uncovered the truth: The Wolf of the Wilds was no wolf at all, but Flynn Rider, suffering under a curse from Maleficent.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group06_Step06_VisitArea02_StepDescription
+Return to the Storybook Vale.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group07_Step07_TalkToCharacter03_StepDescription
+Talk to Flynn.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group08_Step08_PlaceBuilding01_StepDescription
+Place the foundations for <ActivityItem>Flynn Rider's House</ActivityItem> anywhere in the Storybook Vale.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group09_Step09_Unlock01_StepDescription
+Unlock <ActivityItem>Flynn Rider's House</ActivityItem> by interacting with the Scrooge McDuck Sign beside it.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group10_Step10_VisitArea03_StepDescription
+Explore the Fairy Tale Trial.
+
+TAG: Story!Expansion02!MRQS_E02_031_TrialWolf_Group11_Step11_UnlockCharacter01_StepDescription
+Welcome Flynn Rider to the Vale!
+

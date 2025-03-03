@@ -1,0 +1,59 @@
+
+5
+Sully_000_f&Hey, {PlayerName}! What brings you by?
+=
+Sully_001_f.Well, not that I wouldn't just want to chat...
+/
+Sully_002_f ...but I'm here about Vanellope.
+*
+Sully_003_fUh-oh, what did she do now?
+0
+Player_000_choice_000_fShe's in big trouble!
+7
+Player_000_choice_001_fActually, it's a good thing.
+@
+Sully_004_f1*sigh* ... I probably should've seen this coming.
+
+Sully_017_f	Isn't it?
+0
+Sully_018_f!Oh! What about some comedy props?
+„
+Sully_019_fuThere's a ton back at the office just sitting around now that Mike's taking a break from teaching his comedy classes.
+)
+Sully_020_fGreat! What kind of props?
+¥
+Sully_021_f•Let's see... there's definitely a <ActivityItem>Rubber Chicken</ActivityItem> and a <ActivityItem>Whoopee Cushion</ActivityItem> that you could grab.
+s
+Sully_022_fdAnd if I were you, I'd try to grab a <ActivityItem>Laugh Canister</ActivityItem> while you're there.
+
+Sully_023_fOh? Why?
+M
+Sully_024_f>Well, if I know Mike, he's got some other plans up his sleeve.
+u
+Sully_025_ffBut he doesn't always communicate them at the right time, which is one of the reasons why I'm the CEO.
+
+Sully_026_fHa, got it!
+F
+Sully_005_f7Let me grab my checkbook. What did she break this time?
+I
+Sully_006_f:Nothing! Unless you count the jokes she's always cracking.
+%
+Sully_011_fPhew! That's a relief.
+Z
+Sully_012_fKMike and I want to get her something to welcome her to the world of comedy.
+A
+Sully_013_f2Any ideas of something that would be up her alley?
+$
+Sully_014_fHmm... good question.
+™
+Sully_015_f‰Off the bat, I'm thinkin' something from back home. I've been telling Vanellope stories about the other monsters, and she just LOVES 'em.
+"
+Sully_016_fThat's pretty cute.
+%
+Sully_007_fWell, that's a relief!
+c
+Sully_008_fTVanellope's a supersweet kid, but she's definitely got a troublemaker streak in her.
+4
+Sully_009_f%Well, this is kinda related, I guess.
+j
+Sully_010_f[But you'll be pleased to hear that she's channeling her mischievous intentions into comedy.

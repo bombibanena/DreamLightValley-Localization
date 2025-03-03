@@ -1,0 +1,33 @@
+TAG: Secret!Mickey!Donald!SEC_Dona_010_AvailableDescription
+Пока вы изучали долину Мечты, вы наткнулись на огромный чулок с"ДД"монограмма в подкладке."ДД"Ты задаешься вопросом, кому он может принадлежать.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_CompletedStoryDescription
+Когда немного слюны сыпется из чулок Дональд Дак на странное устройство, она начинает бухать дико и светиться. Если бы вы могли найти образцы ДНК вокруг долины Мечты, вы могли бы раз и навсегда раскрыть эту тайну.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_DisplayName
+Загадка украденных носок
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group01_Step01_BringItem01_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem>Slimy Clocking</ActivityItem>.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group01_Step01_ReadyDescription
+Найдите деревенщину, которая владеет <ActivityItem>Slimy Schooling</ActivityItem>.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group01_StepDescription
+Вы нашли чулок с инициалами"ДД"Пришили в подкладку.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group02_Step02_VisitArea01_StepDescription
+Поищи подсказку в доме Дональд Дак.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group02_StoryDescription
+Выяснилось, что чулок принадлежит Дональд Дак. Он говорит вам, что многие его вещи пропали, и он видел неопознанный летающий объект в небе. Вы решили исследовать его дом на предмет подсказок.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group03_Step03_PickUp01_StepDescription
+Ищите подсказку, удалив мусор в доме Дональд Дак.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group04_Step04_Possess01_StepDescription
+Возьми устройство <ActivityItem>Strange</ActivityItem>.
+
+TAG: Secret!Mickey!Donald!SEC_Dona_010_Group05_StepDescription
+Перенести устройство <ActivityItem>Strange</ActivityItem> на Дональд Дак.
+

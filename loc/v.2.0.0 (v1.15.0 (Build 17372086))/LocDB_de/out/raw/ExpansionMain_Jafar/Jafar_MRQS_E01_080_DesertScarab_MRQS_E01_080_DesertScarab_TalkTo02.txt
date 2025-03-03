@@ -1,0 +1,69 @@
+TAG: Jafar_003_f
+I see that you have acquired one half of my Scarab.
+
+TAG: Player_000_choice_000_f
+YOUR Scarab?
+
+TAG: Player_000_choice_001_f
+Were you... watching me?
+
+TAG: Player_000_choice_002_f
+Yup! Only had to deal with a socially starved Gaston for a while.
+
+TAG: Jafar_004_f
+Yes â I did create it, after all.
+
+TAG: Jafar_013_f
+Yeah... We found it while we were searching for the Scarab piece. I think it's kind of sweet, actually.
+
+TAG: Jafar_019_f
+It is possible that now, with company, he will be of greater service.
+
+TAG: Jafar_002_f
+The second half of the Scarab remains to be found, and Gaston may be of help to you yet.
+
+TAG: Jafar_018_f
+Do not limit your search to the Glittering Dunes. After all, the lush jungle to the east used to be a desert.
+
+TAG: Jafar_020_f
+All right, I'll <Lore>check back in with Gaston</Lore> and get back to my search.
+
+TAG: Jafar_009_f
+I commend you on your progress, {PlayerName}.
+
+TAG: Jafar_000_f
+There may be reason to hope we will avert catastrophe after all.
+
+TAG: Jafar_022_f
+Why didn't you tell me that the Jewel of Time was in some secret vault full of treasures?
+
+TAG: Jafar_023_f
+Perhaps I wanted to test your mettle.
+
+TAG: Jafar_024_f
+Though I had hoped Gaston would have done most of the work for you, and it would be as simple as taking the Scarab Key from him.
+
+TAG: Jafar_010_f
+I charged Gaston with this task some time ago, and clearly, the fool made no progress.
+
+TAG: Jafar_011_f
+Honestly, I think he was too lonely to be productive. He recreated his friend out of coconuts.
+
+TAG: Jafar_012_f
+... Coconuts?
+
+TAG: Jafar_005_f
+Perhaps.
+
+TAG: Jafar_006_f
+Perhaps I have certain devices keyed into the magical aura of the Scarab that alert me when it comes into contact with Dreamlight Magic.
+
+TAG: Jafar_021_f
+I think I will let you wonder... Now...
+
+TAG: Jafar_007_f
+Yes... You have my sympathies.
+
+TAG: Jafar_008_f
+That being said, he's gotten really good at arts and crafts.
+

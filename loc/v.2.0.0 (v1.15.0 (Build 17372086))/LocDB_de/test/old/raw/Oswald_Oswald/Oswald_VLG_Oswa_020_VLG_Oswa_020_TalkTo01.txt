@@ -1,0 +1,177 @@
+TAG: Oswald_001_f
+Эй Освальд, как тебе будильники?
+
+TAG: Oswald_029_f
+Я их здесь не вижу.
+
+TAG: Oswald_030_f
+Я хотела, чтобы у них было солнце, так что я... я выставила их наружу!
+
+TAG: Oswald_031_f
+Это странно, я не видел их снаружи, когда приходил.
+
+TAG: Oswald_033_f
+Похоже, что будет дождь, поэтому я положил их в хранилище.
+
+TAG: Oswald_034_f
+Ты ведешь себя немного странно.
+
+TAG: Oswald_007_f
+Нет, я верю, что занята.
+
+TAG: Oswald_008_f
+Я должен наверстать Стич, отмыть свои болваны, помыть волосы, и еще кучу важных вещей.
+
+TAG: Player_001_choice_002_f
+Ладно, я поняла, ты занятой парень.
+
+TAG: Player_001_choice_003_f
+Помыть волосы?
+
+TAG: Oswald_009_f
+Ага, нет времени для болтовни, надо хихикать!
+
+TAG: Player_000_choice_000_f
+Какая жалость.
+
+TAG: Player_000_choice_001_f
+Это... странно.
+
+TAG: Oswald_010_f
+Что, если я просто заскочу, пока тебя не будет?
+
+TAG: Oswald_019_f
+Боже, они все разделились, {PlayerName}, и разошлись в разных направлениях.
+
+TAG: Oswald_020_f
+Могу поспорить, что ты найдёшь что-то в каждой из Биомов.
+
+TAG: Oswald_021_f
+Ладно, время проверить <Lore>Ancient's Landing</Lore>, <Lore>th Glittering Dunes</Lore> и <Lore>the Wild Tangle</Lore>.
+
+TAG: Player_002_choice_000_f
+Можешь рассказать мне немного больше о часах?
+
+TAG: Player_002_choice_001_f
+Пора уходить!
+
+TAG: Oswald_011_f
+*Вздыхай.*Ладно, я думаю, что джиг готов, я должен быть с тобой на равных, {PlayerName}.
+
+TAG: Oswald_012_f
+Сигнальные часы пропали.
+
+TAG: Oswald_013_f
+Буквально?
+
+TAG: Oswald_014_f
+Прошу тебя, не сердись на меня, я просто пытался немного порадовать их этим особенным ключом, который у меня есть.
+
+TAG: Oswald_015_f
+Затем, следующее, что я знаю, их маленькие ноги вытащили их из двери и в широкий мир <Lore>Eternity All</Lore>!
+
+TAG: Oswald_016_f
+И... ну, теперь нечего сказать, где они.
+
+TAG: Oswald_017_f
+Я могу помочь тебе найти их. Не может быть, чтобы куча анимационных будильников бегала вокруг и разбудила всех!
+
+TAG: Oswald_018_f
+Есть идеи, куда они пошли?
+
+TAG: Oswald_035_f
+Есть <ActivityItem>Charleston</ActivityItem>, <ActivityItem>Foxtrot</ActivityItem>, <ActivityItem>Texas Tommi</ActivityItem>...
+
+TAG: Player_003_choice_000_f
+Расскажи мне о них!
+
+TAG: Player_003_choice_002_f
+Неважно, я в порядке.
+
+TAG: Player_004_choice_000_f
+Чарльстон?
+
+TAG: Player_004_choice_001_f
+Фокстрот?
+
+TAG: Player_004_choice_002_f
+Техас Томми?
+
+TAG: Player_004_choice_003_f
+Вообще-то, неважно, я пойду.
+
+TAG: Oswald_037_f
+Ну, <ActivityItem>Charleston</ActivityItem> очень популярен!
+
+TAG: Oswald_040_f
+Хочешь послушать про остальных?
+
+TAG: Player_006_choice_000_f
+Конечно!
+
+TAG: Player_006_choice_001_f
+Все в порядке, я пойду их искать.
+
+TAG: Oswald_036_f
+Есть <ActivityItem>Lindy Hop</ActivityItem>, <ActivityItem>Tango</ActivityItem>, <ActivityItem>Shimmy</ActivityItem>, и <ActivityItem>Swing</ActivityItem>!
+
+TAG: Player_007_choice_000_f
+Расскажи мне о <ActivityItem>Lindy Hop</ActivityItem> и <ActivityItem>Tango</ActivityItem>.
+
+TAG: Player_007_choice_001_f
+Расскажи мне о <ActivityItem>Shimmy</ActivityItem> и <ActivityItem>Swing</ActivityItem>.
+
+TAG: Player_007_choice_002_f
+Неважно, я начну их искать.
+
+TAG: Oswald_041_f
+О, <ActivityItem>Lindy Hop</ActivityItem> - это настоящие городские часы!
+
+TAG: Oswald_043_f
+И <ActivityItem>Tango</ActivityItem>..
+
+TAG: Oswald_045_f
+Вы сами их назвали?
+
+TAG: Oswald_046_f
+Я посмотрел, как каждый из них двигался, и их имена ударили меня, как койку на старой дыне!
+
+TAG: Oswald_047_f
+Надеюсь, эти мысли помогут мне легче их поймать.
+
+TAG: Oswald_022_f
+Удачи!
+
+TAG: Oswald_042_f
+<ActivityItem>Shimmy</ActivityItem> - это плечи, когда танцует.
+
+TAG: Oswald_044_f
+И <ActivityItem>Swing</ActivityItem> просто не может держать ноги на полу!
+
+TAG: Oswald_038_f
+Ну, <ActivityItem>Foxtrot</ActivityItem> очень классный и элегантный!
+
+TAG: Oswald_039_f
+Так можно назвать настоящий спортивный танцор.
+
+TAG: Oswald_032_f
+Я сказал помыть волосы, я имел в виду мое... логово, мой дом, это настоящий беспорядок!
+
+TAG: Oswald_002_f
+Они достаточно хорошо совпадают с твоим домом?
+
+TAG: Oswald_003_f
+Да, они... они классные!
+
+TAG: Oswald_004_f
+Приятно слышать!
+
+TAG: Oswald_005_f
+Могу я посмотреть, как вы их подставили?
+
+TAG: Oswald_006_f
+Мне нравится видеть, как разные деревенские жители украшают свои дома!
+
+TAG: Oswald_000_f
+Простите, но все часы вздремнули.
+

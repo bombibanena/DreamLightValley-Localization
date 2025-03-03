@@ -1,0 +1,63 @@
+TAG: PrinceEric_000_f
+{PlayerName}, I really want to do something nice for Ariel. So I thought I should take her on a picnic.
+
+TAG: PrinceEric_001_f
+Just the two of us. Where do you think we should go?
+
+TAG: Player_000_choice_000_f
+Dazzle Beach!
+
+TAG: Player_000_choice_001_f
+The Forest of Valor!
+
+TAG: Player_000_choice_002_f
+The Frosted Heights!
+
+TAG: PrinceEric_002_f
+That's a great idea! A blanket, some nice food...
+
+TAG: PrinceEric_005_f
+Watching the waves and the horizon.
+
+TAG: PrinceEric_007_f
+Well, the location's decided. What should I bring along to enjoy with our main course?
+
+TAG: Player_001_choice_000_f
+Fruit.
+
+TAG: Player_001_choice_001_f
+Freshly baked bread.
+
+TAG: Player_001_choice_002_f
+Chocolate chip cookies.
+
+TAG: PrinceEric_008_f
+Sounds good! I'll gather some different fruit and maybe visit Goofy's Stall.
+
+TAG: PrinceEric_009_f
+Ariel will love it.
+
+TAG: PrinceEric_010_f
+She gets almost as excited about surface food as she does about human objects.
+
+TAG: PrinceEric_011_f
+Yeah! Merfolk can't exactly mill flour underwater.
+
+TAG: PrinceEric_012_f
+So I bet Ariel hasn't tried many different kinds of bread.
+
+TAG: PrinceEric_013_f
+I'll ask Remy if he has any good ideas.
+
+TAG: PrinceEric_014_f
+Great idea. We definitely have to have a dessert.
+
+TAG: PrinceEric_003_f
+Yeah, that'd be nice. I can lay down a blanket beside the river and she can swim up alongside me.
+
+TAG: PrinceEric_004_f
+That's a little cold for us, but I bet Ariel would like to explore up there.
+
+TAG: PrinceEric_006_f
+It would be an adventure.
+

@@ -1,0 +1,27 @@
+
+M
+Belle_000_f>Hello, {PlayerName}. Was there something you wanted to ask me?
+G
+Player_000_choice_000_f,What's it like being an inventor's daughter?
+7
+Player_000_choice_001_fDo you have a favorite book?
+Y
+Player_000_choice_002_f>I've heard you've tried a food called "gray stuff." How is it?
+U
+Belle_001_fFOh... well... it's interesting... and inspiring, and often rather fun.
+M
+Belle_002_f>Papa has always encouraged me to learn about everything I can.
+Q
+Belle_003_fBNot everyone at home understands us. And that can be... difficult.
+E
+Belle_004_f6But I love my father, and I would do anything for him.
+/
+Belle_005_f Oh, I could never pick just one!
+k
+Belle_006_f\I love some books when I'm in a particular mood. Some I love anytime and read over and over.
+L
+Belle_007_f=And some I've read just once, but they'll be with me forever.
++
+Belle_008_fIt's surprisingly delicious!
+X
+Belle_009_fII'm sure you could find the recipe and make it if you'd like to try some.

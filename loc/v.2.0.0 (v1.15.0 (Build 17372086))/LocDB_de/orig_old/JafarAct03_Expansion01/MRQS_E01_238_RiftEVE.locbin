@@ -1,0 +1,47 @@
+
+�
+;Story!Expansion01!MRQS_E01_238_RiftEVE_AvailableDescription�Вам нужно помочь деревенским жителям использовать свое воображение, чтобы закрыть разломы вокруг острова Вечность.
+~
+2Story!Expansion01!MRQS_E01_238_RiftEVE_DisplayNameHВоспользуйтесь своим воображением: ЕВА
+�
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group01_Step01_VisitArea01_StepDescriptionIИдите внутрь Древних Руин в районе Докс.
+�
+WStory!Expansion01!MRQS_E01_238_RiftEVE_Group02_Step02_FollowCharacter01_StepDescription,Следуйте за ЕВА в "Time Rift".
+x
+YStory!Expansion01!MRQS_E01_238_RiftEVE_Group02_Step02_FollowCharacter01_TalkToDescriptionПоговори с ЕВА.
+|
+WStory!Expansion01!MRQS_E01_238_RiftEVE_Group03_Step03_TalkToCharacter01_StepDescription!Поговори с ВАЛЛ·И.
+�
+?Story!Expansion01!MRQS_E01_238_RiftEVE_Group03_StoryDescription�Похоже, ЕВА нуждается в небольшой помощи, чтобы быть творческим. К счастью, в деревне есть еще один робот, который мог бы помочь: ВАЛЛ·И!
+�
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group04_Step04_BringItem01_StepDescriptionZУбедитесь, что проектор <ActivityItem>Film в вашем списке.
+�
+FStory!Expansion01!MRQS_E01_238_RiftEVE_Group04_Step04_ReadyDescriptionBПеренести проектор <Lore>Film</Lore> на ЕВА.
+�
+EStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_StepDescriptionWСфотографируйте вместе ЕВА и ВАЛЛ·И для фильма:
+|
+SStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_TakePicture01_StepDescription%Внутри Древних Руин.
+w
+SStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_TakePicture02_StepDescription Внутри ВАЛЛ·И House.
+j
+SStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_TakePicture03_StepDescriptionВ доме ЕВА.
+�
+?Story!Expansion01!MRQS_E01_238_RiftEVE_Group05_StoryDescription�Теперь, когда у вас есть кинопроектор, вам просто нужно что-то поиграть в него.
+w
+OStory!Expansion01!MRQS_E01_238_RiftEVE_Group06_Step06_Possess01_StepDescription$Пластиковое дерьмо.
+w
+OStory!Expansion01!MRQS_E01_238_RiftEVE_Group06_Step06_Possess02_StepDescription$Механические части.
+�
+EStory!Expansion01!MRQS_E01_238_RiftEVE_Group06_Step06_StepDescriptionKСоберите следующие материалы для фильма:
+�
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group07_Step07_CraftItem01_StepDescriptioneПересадка <ActivityItem>Film Reel</ActivityItem> на ремесленной станции.
+�
+FStory!Expansion01!MRQS_E01_238_RiftEVE_Group08_Step08_ReadyDescriptionAПередайте <ActivityItem>Film Reel</ActivityItem> ЕВА.
+�
+EStory!Expansion01!MRQS_E01_238_RiftEVE_Group08_Step08_StepDescription=Убедись, что фильм в твоем списке.
+�
+?Story!Expansion01!MRQS_E01_238_RiftEVE_Group08_StoryDescriptionqФотография закончена и пленка в руке, пора закрыть "Тайм Рифт"!
+�
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group09_Step09_VisitArea02_StepDescriptionkПознакомьтесь с ЕВА и ВАЛЛ·И в "Тайм Рифт" в Древних Руинах.
+v
+WStory!Expansion01!MRQS_E01_238_RiftEVE_Group10_Step10_TalkToCharacter02_StepDescriptionПоговори с ЕВА.

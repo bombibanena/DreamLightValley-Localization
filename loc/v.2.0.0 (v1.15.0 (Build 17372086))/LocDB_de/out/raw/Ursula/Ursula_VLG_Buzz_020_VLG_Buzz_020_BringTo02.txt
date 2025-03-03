@@ -1,0 +1,66 @@
+TAG: Ursula_000_f
+What's this?
+
+TAG: Ursula_003_f
+Ugh! You're bothering me about that annoying little creature? Again?
+
+TAG: Ursula_004_f
+Angelfish, wouldn't it be better if I turned him into something that can't move... or talk? A sea anemone perhaps?
+
+TAG: Player_002_choice_000_f
+Please calm down.
+
+TAG: Player_002_choice_001_f
+Why are you so angry?
+
+TAG: Player_002_choice_002_f
+I'm on your side.
+
+TAG: Ursula_012_f
+Calm down? I'm the victim in this situation!
+
+TAG: Ursula_015_f
+Tell me, dearie, what would you do if someone was constantly harassing you simply because of who you are?
+
+TAG: Player_003_choice_000_f
+I'd prove to them I can be nice.
+
+TAG: Player_003_choice_001_f
+I'd try to understand them.
+
+TAG: Player_003_choice_002_f
+I'd pretend I changed my ways.
+
+TAG: Ursula_005_f
+Those who see themselves in authority rarely change their minds. Just look at Triton. Oh, but I've been playing this game long enough to know what to do.
+
+TAG: Ursula_008_f
+I'll PRETEND I respect the irritating little plaything.
+
+TAG: Ursula_006_f
+Understandâ?! The only thing that piece of junk understands is when people flatter his ego.
+
+TAG: Ursula_009_f
+But I am impressed he's gone to such lengths to try and intimidate me. It's almost... charming.
+
+TAG: Ursula_010_f
+Well, if it'll get him to stop annoying me, I'll pretend I respect the irritating little plaything.
+
+TAG: Ursula_007_f
+Hmm... You have a point, child. Maybe what that irritating little plaything is waiting for is for me to acknowledge his authority.
+
+TAG: Ursula_011_f
+Some are so easily manipulated by appearances.
+
+TAG: Ursula_017_f
+Fine. I'll pretend to be afraid of him if it buys me some peace. I'll avoid the little ranger.
+
+TAG: Ursula_013_f
+Ask yourself, dear... how would you react if someone was constantly harassing you simply because of who you are?
+
+TAG: Ursula_014_f
+But you still let that creature pester me incessantly. Tell me, dearie, how would you react in my place?
+
+TAG: Ursula_001_f
+If someone was constantly harassing you simply because of who you are?
+

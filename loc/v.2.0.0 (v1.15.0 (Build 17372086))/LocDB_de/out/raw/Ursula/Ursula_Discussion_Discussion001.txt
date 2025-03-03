@@ -1,0 +1,72 @@
+TAG: Ursula_000_f
+Oh, {PlayerName}, it's you. I was just musing over the distant past. Did you know that I used to live in Atlantica? In the palace, in fact.
+
+TAG: Player_000_choice_000_f
+Why did you leave?
+
+TAG: Player_000_choice_001_f
+Did you like it there?
+
+TAG: Player_000_choice_002_f
+Why do you look different?
+
+TAG: Ursula_002_f
+It wasn't by choice, you can be sure of that. King Triton, the tyrant, exiled me.
+
+TAG: Ursula_003_f
+I was banished to waste away in the darkest part of the ocean.
+
+TAG: Player_001_choice_000_f
+That's terrible!
+
+TAG: Player_001_choice_001_f
+Why?
+
+TAG: Ursula_008_f
+Isn't it? All the world turned against poor innocent me. And what did I do?
+
+TAG: Ursula_009_f
+Practically nothing! I only gave the merfolk what they asked for. Is it my fault they didn't like the price?
+
+TAG: Ursula_010_f
+Oh, it was over practically nothing! I only gave the merfolk what they asked for. Is it my fault they didn't like the price?
+
+TAG: Ursula_011_f
+It was all an excuse. I know Triton was really frightened by my power.
+
+TAG: Ursula_004_f
+Of course! It's a palace! Oh, I miss the comforts. The feasts, the festivals. Servants at my beck and call.
+
+TAG: Ursula_005_f
+What would you miss if you were driven off and forced to live in the... well, I suppose for you it would be the woods?
+
+TAG: Player_002_choice_000_f
+Ice Cream.
+
+TAG: Player_002_choice_001_f
+Television.
+
+TAG: Player_002_choice_002_f
+Video games.
+
+TAG: Ursula_012_f
+Oh, I've heard of that. A cold, sugary treat, am I right?
+
+TAG: Ursula_017_f
+I wonder if anyone here makes it in kelp flavor?
+
+TAG: Ursula_013_f
+Hm. I have no idea what that is. Some sort of ludicrous human invention, I suppose.
+
+TAG: Ursula_014_f
+I have no idea what that is. But I do enjoy games. Especially when I get to make the rules.
+
+TAG: Ursula_006_f
+You mean why am I not a waifish merperson with a dinky little green tail?
+
+TAG: Ursula_007_f
+I look different because I AM different, dear.
+
+TAG: Ursula_001_f
+Not just different. Better!
+

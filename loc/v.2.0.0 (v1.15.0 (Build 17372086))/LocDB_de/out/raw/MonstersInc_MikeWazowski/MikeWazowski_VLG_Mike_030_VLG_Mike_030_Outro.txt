@@ -1,0 +1,66 @@
+TAG: MikeWazowski_000_f
+Wow, what a meet and greet!
+
+TAG: MikeWazowski_001_f
+You had a good time?
+
+TAG: MikeWazowski_002_f
+It was a blast! The Monsters, Inc. holiday parties have nothin' on this!
+
+TAG: MikeWazowski_003_f
+And it was good to see Vanellope.
+
+TAG: MikeWazowski_004_f
+I'm a little disappointed that she's gonna go with prop humor, but we all have to start somewhere.
+
+TAG: Player_000_choice_000_f
+I like prop humor!
+
+TAG: Player_000_choice_001_f
+Yeah, she's young.
+
+TAG: MikeWazowski_005_f
+Well, you're not really a comic's comic, are ya?
+
+TAG: MikeWazowski_006_f
+Guess not...
+
+TAG: MikeWazowski_008_f
+I just need to take her under my wing a little, teach her the finer points of comedy.
+
+TAG: Player_001_choice_000_f
+Worth a shot.
+
+TAG: Player_001_choice_001_f
+Vanellope isn't really the "go under someone's wing" type.
+
+TAG: MikeWazowski_009_f
+Well, time to work on my set some more.
+
+TAG: MikeWazowski_011_f
+You keep the <ActivityItem>Comedic Meet and Greet Decor</ActivityItem> though. Maybe it'll inspire you to work on your own routine!
+
+TAG: MikeWazowski_013_f
+Really? Thanks Mike!
+
+TAG: MikeWazowski_014_f
+You bet!
+
+TAG: MikeWazowski_015_f
+Now if ya see me around the Village, know that I'm hard at work on my set!
+
+TAG: MikeWazowski_016_f
+Really? Even if you're fishing, or even just staring into the distance?
+
+TAG: MikeWazowski_017_f
+That's how the comedic mind turns, {PlayerName}! When we look like we're slacking off, that's when we're really doin' the work!
+
+TAG: MikeWazowski_012_f
+If everything goes according to plan, folks here are gonna be laughing so hard nobody'll get anything done for days!
+
+TAG: MikeWazowski_010_f
+Really? Hmm... I'll have to give that some thought.
+
+TAG: MikeWazowski_007_f
+She shows promise, though.
+

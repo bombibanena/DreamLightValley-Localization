@@ -1,0 +1,63 @@
+
+{
+RVillage!BeautyBeast!Beast!VLG_Beas_040_Group06_Step06_WaterPlant01_StepDescription%Water dry roses from the dead bushes.
+_
+EVillage!BeautyBeast!Beast!VLG_Beas_040_Group06_Step13_StepDescriptionPick up healthy roses.
+U
+EVillage!BeautyBeast!Beast!VLG_Beas_040_Group08_Step08_StepDescription{TargetNPC}.
+U
+EVillage!BeautyBeast!Beast!VLG_Beas_040_Group08_Step09_StepDescription{TargetNPC}.
+U
+EVillage!BeautyBeast!Beast!VLG_Beas_040_Group08_Step10_StepDescription{TargetNPC}.
+^
+FVillage!BeautyBeast!Beast!VLG_Beas_040_Any_CompletedRequestDescriptionReturn to the Beast.
+d
+;Village!BeautyBeast!Beast!VLG_Beas_040_AvailableDescription%The Beast looks... happy? That's new!
+…
+@Village!BeautyBeast!Beast!VLG_Beas_040_CompletedStoryDescriptionÑThe Beast has swept Belle off her feet with a lovely rose. You can confirm that something new and exciting has sparked between them.
+G
+2Village!BeautyBeast!Beast!VLG_Beas_040_DisplayNameA Gift in Crimson
+^
+OVillage!BeautyBeast!Beast!VLG_Beas_040_Group01_Step01_Possess01_StepDescription{ItemName}.
+^
+OVillage!BeautyBeast!Beast!VLG_Beas_040_Group01_Step01_Possess02_StepDescription{ItemName}.
+^
+OVillage!BeautyBeast!Beast!VLG_Beas_040_Group01_Step01_Possess03_StepDescription{ItemName}.
+^
+OVillage!BeautyBeast!Beast!VLG_Beas_040_Group01_Step01_Possess04_StepDescription{ItemName}.
+^
+OVillage!BeautyBeast!Beast!VLG_Beas_040_Group01_Step01_Possess05_StepDescription{ItemName}.
+u
+EVillage!BeautyBeast!Beast!VLG_Beas_040_Group01_Step01_StepDescription,Gather materials for the Beast's Greenhouse:
+º
+?Village!BeautyBeast!Beast!VLG_Beas_040_Group01_StoryDescriptionyThe Beast wants to bring roses to the Valley and has enlisted you to help him set up a greenhouse in which to house them.
+j
+QVillage!BeautyBeast!Beast!VLG_Beas_040_Group02_Step02_CraftItem01_StepDescriptionCraft the Greenhouse.
+}
+UVillage!BeautyBeast!Beast!VLG_Beas_040_Group03_Step03_PlaceBuilding01_StepDescription$Place the Greenhouse in the Village.
+o
+WVillage!BeautyBeast!Beast!VLG_Beas_040_Group04_Step04_TalkToCharacter01_StepDescriptionReturn to the Beast.
+ö
+?Village!BeautyBeast!Beast!VLG_Beas_040_Group04_StoryDescriptionWYou crafted a lovely new greenhouse for the Valley ‚Äî all it needs now are some roses!
+z
+QVillage!BeautyBeast!Beast!VLG_Beas_040_Group05_Step05_VisitArea01_StepDescription%Go to the Beauty and the Beast Realm.
+k
+>Village!BeautyBeast!Beast!VLG_Beas_040_Group06_StepDescription)Gather roses from the Beast's old garden:
+g
+FVillage!BeautyBeast!Beast!VLG_Beas_040_Group07_Step07_ReadyDescriptionBring the roses to the Beast.
+~
+EVillage!BeautyBeast!Beast!VLG_Beas_040_Group07_Step07_StepDescription5Gather the roses from the Beauty and the Beast Realm.
+v
+>Village!BeautyBeast!Beast!VLG_Beas_040_Group08_StepDescription4Bring roses as a token of friendship from the Beast:
+·
+?Village!BeautyBeast!Beast!VLG_Beas_040_Group08_StoryDescriptionùThe Beast is overjoyed at the roses you brought back to the Valley and wants you to help distribute them to different Villagers as a token of his friendship.
+m
+WVillage!BeautyBeast!Beast!VLG_Beas_040_Group09_Step11_TalkToCharacter02_StepDescriptionTalk to the Beast.
+æ
+?Village!BeautyBeast!Beast!VLG_Beas_040_Group09_StoryDescription{The roses have all been delivered to the various Villagers... but what could the Beast be planning with the remaining ones?
+å
+NVillage!BeautyBeast!Beast!VLG_Beas_040_Group10_Step12_Listen01_StepDescription:Watch as the Beast gives his most beautiful rose to Belle.
+ç
+?Village!BeautyBeast!Beast!VLG_Beas_040_Group10_StoryDescriptionJThe Beast wants to gift a rose to Belle, but could use some moral support.
+H
+9Village!BeautyBeast!Beast!VLG_Beas_040_StartRequestButtonSTART QUEST

@@ -1,0 +1,108 @@
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_AvailableDescription
+Сегодня первый день сна!
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_CompletedStoryDescription
+С последним страхом для Джек Скеллингтон Skellington, День Мечты подходит к концу, с предупреждением, что это не повторится через год. Тем не менее Джек Скеллингтон Skellington чувствует себя очень желанным в Долине сейчас, когда вы с Минни Маус смогли напугать его, и он доволен, чтобы не пугать других деревенских жителей... пока.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_DisplayName
+День мечты
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group01_Step01_Decorate01_StepDescription
+{Color} Мебель.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group01_Step01_Decorate02_StepDescription
+{Color} Мебель.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group01_Step01_Decorate03_StepDescription
+{Function}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group01_Step01_Decorate04_StepDescription
+{Style} Мебель.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group01_Step01_Decorate05_StepDescription
+{itemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group01_Step01_StepDescription
+Украсить забытые земли, солнечный плато или мирную лугу:
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group02_Step02_TakePicture01_StepDescription
+Сфотографируй {itemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group03_Step03_TalkToCharacter01_StepDescription
+Поговори с Джек Скеллингтон Skellington.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group04_Step04_VisitArea01_StepDescription
+Проверь Ваниллопа в её доме.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group04_StoryDescription
+Декорации на месте, и День Мечты официально начался, но Джек Скеллингтон Skellington ведет себя довольно подозрительно, так что лучше проверить каждого из деревенских, получающих подарки...
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group05_Step05_TalkToCharacter02_StepDescription
+Поговори с Ваниллопа.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group06_Step06_RemoveBlocker01_StepDescription
+Придумай, как удалить черепа в доме Ваниллопа.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group06_StoryDescription
+Подарок Ваниллопа оказался серией Кэнди Черепов, поражающих ее дом!
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group07_Step07_TalkToCharacter03_StepDescription
+Поговори с Шрам.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group08_Step08_VisitArea02_StepDescription
+Войдите в дом Шрам, чтобы увидеть оскорбление его достоинства.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group09_Step09_PickUp01_StepDescription
+Уберите овощную антелопу в дом Шрам.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group09_StoryDescription
+С черепами Ваниллопа, Шрам следующий в списке, и Джек Скеллингтон Skellington поместил серию овощной антелопы в свой дом в наглую насмешку над данью Прайда Рок!
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group10_Step10_TalkToCharacter04_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group11_Step11_StepDescription
+Найдите и удалите проклятую книгу с помощью камеры:
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group11_Step11_TakePicture02_StepDescription
+Рядом с домом Олаф.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group11_Step11_TakePicture03_StepDescription
+Рядом с мостом в Фростед Хайтс.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group11_Step11_TakePicture04_StepDescription
+Рядом с доком на пляже Даззл.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group11_StoryDescription
+Овощи Шрам были удалены, но теперь Олаф кишит в его доме, боясь бесконечной вибрации, которая ожидает его в книгах Джек Скеллингтон.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group12_Step12_VisitArea03_StepDescription
+Что Джек Скеллингтон Skellington сделал с Минни Маус?! Найдите ее в своем доме.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group12_StoryDescription
+Проклятые книги Олаф надежно заперты, но сейчас пришло время проверить Минни Маус'а, что Джек Скеллингтон мог сделать с ней?
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group13_Step13_TalkToCharacter05_StepDescription
+Поговори с Минни Маус.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group14_Step14_StepDescription
+Поставить знаки Уги Буги в каждом биоме в долине Мечты.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group14_Step15_DressUp01_StepDescription
+Носить {ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group14_StepDescription
+Оформить фан-клуб "Уги Буги" следующим образом:
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group14_StoryDescription
+Джек Скеллингтон Skellington создал классический опыт дома с привидениями для Минни Маус... и ей это понравилось! И все же, она указывает, что никто никогда не напугал Джек Скеллингтон Skellington и не заслуживает его?
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group15_Step16_TalkToCharacter06_StepDescription
+Поговори с Джек Скеллингтон Skellington.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_Group15_StoryDescription
+Фальшивый фан-клуб "Уги-Буги" готов идти, и пришло время, чтобы Джек Скеллингтон Skellington хорошо испугался.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

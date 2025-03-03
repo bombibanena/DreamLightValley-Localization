@@ -1,0 +1,96 @@
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Any_CompletedRequestDescription
+Speak to <Lore>Jasmine</Lore> on the rooftops.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_AvailableDescription
+You arrive in Agrabah, but instead of a vibrant city with a bustling market, you find it abandoned and filled with storms of sand and wind.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_CompletedStoryDescription
+You have rescued Aladdin! Now that he and Jasmine have been reunited, you may stand a chance of dealing with the Windcaller.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_DisplayName
+The Ancient Revealed
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group01_Step01_VisitArea01_StepDescription
+Enter the Aladdin Realm.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group02_Step02_VisitArea02_StepDescription
+Enter the Agrabah market.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group03_Step03_StepDescription
+Think like Aladdin, and find a way across rooftops using the environment.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group03_StepDescription
+The way to Jasmine is blocked!
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group04_Step05_FillKeyhole01_StepDescription
+Use planks to reach the rooftops leading to the <Lore>Artisans' District</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group05_Step06_VisitArea05_StepDescription
+Return to the Aladdin Realm.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group06_Step04_StepDescription
+(Watch out! If you touch them, you'll be thrown back to a previous area.)
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group06_StepDescription
+Go through the back alleys by evading the dust devils.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group08_Step09_FollowCharacter01_StepDescription
+Reach Jasmine in the market.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group08_Step09_FollowCharacter01_TalkToDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group08_StepDescription
+Continue traveling through the back alleys.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group09_Step10_FollowCharacter02_StepDescription
+Follow Jasmine to the <Lore>Artisans' District</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group09_Step10_FollowCharacter02_TalkToDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group10_StepDescription
+Make your way across the rooftops to enter the <Lore>Artisans' District</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group11_Step13_TalkToCharacter01_StepDescription
+Talk to {TargetNPC} in the <Lore>Artisans' District</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group11_StoryDescription
+You managed to make your way through the wreckage of Agrabah to reach Jasmine, who explained that an ancient artifact has been blanketing the city with sand, driving the citizens to shelter in the palace. If you can upgrade your Royal Pickaxe, then maybe you and Jasmine can find Aladdin.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group14_Step16_Possess02_StepDescription
+(Continue using planks to navigate the roofs.)
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group14_StepDescription
+Find pieces of <ActivityItem>Artisans' Alloy</ActivityItem> in the market chests.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group15_StepDescription
+Return to {TargetNPC} in the <Lore>Artisans' District</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group16_Step18_CraftItem01_StepDescription
+Assemble the upgrade for your Royal Pickaxe at the Crafting Station near Jasmine.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group17_Step19_ConsumeItem01_StepDescription
+Use the Pickaxe upgrade in your Inventory.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group18_Step20_RemoveBlocker04_StepDescription
+Break large sandstone deposits near Jasmine using your improved Pickaxe to help her leave the <Lore>Artisans' District</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group19_Step21_FollowCharacter03_TalkToDescription
+Talk to {TargetNPC} at the edge of the <Lore>South Alley</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group19_StepDescription
+Follow Jasmine to the <Lore>South Alley</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group20_Step23_StepDescription
+Find a way onto the rooftops using all you've learned.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group20_StepDescription
+Reach Aladdin, who is trapped in the <Lore>South Alley</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group21_Step24_Listen01_StepDescription
+Give Aladdin and Jasmine a moment to reunite.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Jasm_010_Group22_Step25_TalkToCharacter04_StepDescription
+Speak to {TargetNPC} on the rooftops.
+

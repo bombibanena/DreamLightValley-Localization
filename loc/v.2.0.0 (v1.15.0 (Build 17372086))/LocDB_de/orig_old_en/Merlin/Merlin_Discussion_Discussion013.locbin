@@ -1,0 +1,33 @@
+
+ƒ
+INSTIGATOR_000_fo{PlayerName}, just in time! I've spent the morning making a close study of the Night Thorns around the Village.
+%
+Merlin_000_fWhat kind of a study?
+I
+Merlin_001_f9Well, I enchanted one so it would get up and walk around.
+%
+Player_001_choice_000_f
+Uh... why?
++
+Player_001_choice_001_fHow fascinating!
+%
+Player_001_choice_002_f
+You WHAT?!
+Ÿ
+Merlin_002_fŽI wanted to understand its motivations. With the gift of locomotion we can see what it does when not tied to the earth. What it CHOOSES to do.
+'
+Merlin_003_f... And what did it do?
+B
+Merlin_004_f2Leapt across the table and assailed me, of course.
+T
+Merlin_005_fDNasty things. Evidently they really do harbor ill intent towards us.
+<
+Player_000_choice_000_f!Merlin! You could have been hurt!
+Y
+Player_000_choice_001_f>It's amazing the things you'll do in the pursuit of knowledge.
+O
+Merlin_006_f?Oh, a little danger is worth it, as long as we learn something.
+)
+Merlin_007_fAnd what did we learn...?
+7
+Merlin_008_f'Not to enchant Night Thorns, of course.

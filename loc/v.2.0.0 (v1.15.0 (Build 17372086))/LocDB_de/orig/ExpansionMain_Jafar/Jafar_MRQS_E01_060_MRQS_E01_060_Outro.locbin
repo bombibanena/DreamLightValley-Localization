@@ -1,0 +1,39 @@
+
+Š
+Jafar_002_f{At last! The Royal Hourglass! Do you feel it, {PlayerName}? With that in your grasp, the fabric of time is at your command!
+9
+Player_001_choice_000_fI don't feel any different...?
+C
+Player_001_choice_002_f(So you're saying I just got EVEN COOLER?
+V
+Jafar_011_fGTrust me. Hold it towards the broken bridge and watch as time reverses!
+!
+Jafar_014_fHere goes nothing!
+(
+Jafar_015_fIt... didn't do anything.
+%
+Jafar_016_fShould I try again...?
+|
+Jafar_017_fmBlast! I should have known the Hourglass would not be powerful enough to turn back time in its current state!
+>
+Jafar_018_f/You see... it's <Lore>missing something</Lore>.
+g
+Jafar_009_fXThree <ActivityItem>Jewels of Time</ActivityItem> have been pried loose from its handle.
+n
+Jafar_019_f_Long ago, when you decided the Hourglass was too powerful, you removed the Jewels and hid them.
+4
+Jafar_021_f%Luckily, I know where one of them is.
+y
+Jafar_022_fjSearch <Lore>down the hallway, to the right of the broken bridge</Lore>. There, you'll find what you seek.
+•
+Jafar_023_f…The way is blocked by <ActivityItem>Swirling Sands</ActivityItem>. Just another annoyance caused by the rifts in space and time here.
+g
+Jafar_024_fXBut they <Lore>should be no match for your Hourglass</Lore>, even in its weakened state.
+u
+Jafar_000_ffMaybe when I get a chance, I should <Lore>check in on EVE</Lore>... She still seemed a little nervous.
+
+Jafar_020_fpLong ago, when the Old Ruler decided the Hourglass was too powerful, they removed the Jewels and scattered them.
+S
+Jafar_012_fDUgh. Have your moment if you must, but remember: We have work to do.
+W
+Jafar_013_fHHold the Hourglass towards the broken bridge and watch as time reverses!

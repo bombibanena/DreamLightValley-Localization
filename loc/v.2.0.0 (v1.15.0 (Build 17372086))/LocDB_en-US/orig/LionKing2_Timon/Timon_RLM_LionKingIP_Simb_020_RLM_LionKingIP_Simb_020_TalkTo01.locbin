@@ -1,0 +1,79 @@
+
+W
+Timon_000_fHWhoa, whoa, whoa! Who are you? And why do you smell like my buddy SIMBA?
+!
+Player_000_fI'm {PlayerName}!
+5
+Player_000_choice_000_fSimba sent me to find you!
+5
+Player_000_choice_001_fAnd Simba's my friend too!
+/
+Player_000_choice_002_f... Maybe I ate him.
+
+Timon_001_fHe did?
+2
+Timon_002_f#Why didn't he come find us himself?
+<
+Player_001_f,It's a little complicated. Let's just say...
+N
+Player_001_choice_000_f3You have to trust me! He wants you to come with me.
+I
+Player_001_choice_001_f.He's somewhere GREAT and I can take you there.
+=
+Player_001_choice_002_f"You'll find out in time. Let's go.
+e
+Timon_003_fVHold on! We aren't goin' anywhere until we know it's someplace we'd actually wanna be.
+õ
+Timon_004_fãSo even if you're Simba's new friend ‚Äî and that's a pretty big "IF" ‚Äî I don't know WHERE you came from, or what kinda animal you are...
+<
+Timon_005_f-... Say... What kinda animal are you, anyway?
+#
+Player_002_choice_000_fA human.
+6
+Player_002_choice_001_fI'm a special kind of lion.
+:
+Player_002_choice_002_fA more relaxed animal than you.
+!
+Timon_006_fNever heard of it.
+Ò
+Timon_007_f·Whatever you are, you're too stressed for me and Pumbaa. Before we can consider goin' with you, you've gotta take some hakuna matata lessons from us. And since you're a "friend" of Simba's you'll know all about hakuna matata.
++
+Player_003_choice_000_fSounds like fun!
++
+Player_003_choice_001_fIf you insist...
+.
+Timon_008_fOkay, then let's get started...
+¶
+Timon_009_fñWe gotta get to the root of this worry you're givin' off. Are you stressed because you don't have enough fur? A nice sleek coat? Or a big fluffy mane?
+6
+Player_004_f&Maybe... What if I make myself a mane?
+A
+Player_004_choice_000_f&That'll get me into the jungle groove.
+4
+Player_004_choice_001_fI love creative projects!
+2
+Player_004_choice_002_fI've always wanted one!
+2
+Timon_010_f#Perfect! That'll be our first step.
+x
+Timon_011_fiOkay, well... First, I'll need to <Lore>gather materials to build a Crafting Station to work at</Lore>...
+|
+Timon_012_fmTell ya what, you <Lore>bring the stuff to me</Lore> and Pumbaa and I will help build your... whatever it is.
+e
+Timon_013_fVSure, yeah. If gettin' creative helps you find your "no worries" mindset, let's do it.
+Q
+Timon_014_fBWell, what are ya waiting for? Let's make the mane of your dreams!
+G
+Timon_015_f8Oh, come on! Lighten up! This is not a great start, pal.
+}
+Timon_016_fnA lion? I've never seen a lion that looks like YOU before but... Then again, I do my best to avoid most lions.
+ç
+Timon_017_f~Hey! An animal I've never seen before just walks in here and says I gotta follow them to find my friend? That is NOT relaxing!
+G
+Timon_018_f8But we're not talkin' about me, we're talkin' about YOU.
+R
+Timon_019_fCUh-huh. Sure he is. If he's your buddy, why isn't he here with you?
+ 
+Timon_020_fYOU ate HIM?! HA!
+e
+Timon_021_fVYour teeth aren't even sharp! Don't try to kid me, kid. What're you REALLY doin' here?

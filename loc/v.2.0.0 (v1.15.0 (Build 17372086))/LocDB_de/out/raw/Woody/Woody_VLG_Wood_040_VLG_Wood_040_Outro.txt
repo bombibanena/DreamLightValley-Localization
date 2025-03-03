@@ -1,0 +1,21 @@
+TAG: Woody_000_f
+The Carousel looks great!
+
+TAG: Woody_001_f
+Thanks for all your help, {PlayerName}.
+
+TAG: Woody_004_f
+Now that we don't need it anymore, you can keep the <ActivityItem>Blanket Fort</ActivityItem> and put it wherever you like.
+
+TAG: Woody_002_f
+Ya know, this all started because I wanted to make myself useful around the Village.
+
+TAG: Woody_003_f
+But now I see that maybe... just being around and reminding people of what it was like to be a kid, that's enough.
+
+TAG: Woody_005_f
+You're pretty wise, {PlayerName}. Having you here is like having an inner voice that helps me see the big picture.
+
+TAG: Woody_006_f
+That's why I wanted you to have this. A <ActivityItem>Pull-String</ActivityItem> just like mine, to symbolize our friendship.
+

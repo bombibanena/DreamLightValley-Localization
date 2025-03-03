@@ -1,0 +1,6 @@
+TAG: Scrooge_001_f
+Well done, {PlayerName}! With Goofy back in business, you can make some money.
+
+TAG: Scrooge_000_f
+Then, when you're ready to invest in my grand re-opening, come find my sign next to Scrooge's General Store.
+

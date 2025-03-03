@@ -1,0 +1,45 @@
+
+K
+8Story!MRQS050_MeetMickey_Any_CompletedRequestDescriptionTalk to Mickey.
+è
+-Story!MRQS050_MeetMickey_AvailableDescription^Looks like the Night Thorns have gotten to Mickey! You speak to him to see how you can help...
+≈
+2Story!MRQS050_MeetMickey_CompletedStoryDescriptionéNow that you've found the recipe for <ActivityItem>Fruit Salad</ActivityItem>, it's time to talk to Mickey to learn about what's next for you.
+9
+$Story!MRQS050_MeetMickey_DisplayNameMickey's Memories
+P
+7Story!MRQS050_MeetMickey_Group01_Step01_StepDescriptionYou found the Recipe!
+ç
+@Story!MRQS050_MeetMickey_Group01_Step01_Unlock01_StepDescriptionIUse the <ActivityItem>Fruit Salad Recipe</ActivityItem> in your Backpack.
+Ø
+1Story!MRQS050_MeetMickey_Group01_StoryDescriptionzNot only did you find the recipe for <ActivityItem>Fruit Salad</ActivityItem>, you also discovered a new Tool: the Shovel!
+u
+5Story!MRQS050_MeetMickey_Group02_OngoingRequestButton<<smallcaps>{title}</smallcaps><br>How can I find the Recipe?
+h
+AStory!MRQS050_MeetMickey_Group02_Step02_Possess01_StepDescription#Search the area to find the Recipe!
+à
+7Story!MRQS050_MeetMickey_Group02_Step02_StepDescriptionM(Press {input_mainmenu} to access the Collection menu to look at the Memory.)
+ä
+=Story!MRQS050_MeetMickey_Group02_Step02_StepDescriptionMobileI(Open the Main Menu to access the Collection menu to look at the Memory.)
+k
+0Story!MRQS050_MeetMickey_Group02_StepDescription7Mickey hid a special recipe somewhere around Chez Remy!
+^
+0Story!MRQS050_MeetMickey_Group07_StepDescription*Remove the Night Thorns in Mickey's House.
+ô
+5Story!MRQS050_MeetMickey_Group08_OngoingRequestButton`<smallcaps>{title}</smallcaps><br>What should I do with the <ActivityItem>Memory</ActivityItem>?
+è
+@Story!MRQS050_MeetMickey_Group08_Step08_Unlock03_StepDescriptionKInvestigate the <ActivityItem>Memory</ActivityItem> using {input_interact}.
+è
+FStory!MRQS050_MeetMickey_Group08_Step08_Unlock03_StepDescriptionMobileEInvestigate the <ActivityItem>Memory</ActivityItem> by picking it up.
+Ü
+IStory!MRQS050_MeetMickey_Group09_Step09_TalkToCharacter03_StepDescription9Ask Mickey about the <ActivityItem>Memory</ActivityItem>.
+à
+7Story!MRQS050_MeetMickey_Group10_Step10_StepDescriptionM(Press {input_mainmenu} to access the Collection menu to look at the Memory.)
+ä
+=Story!MRQS050_MeetMickey_Group10_Step10_StepDescriptionMobileI(Open the Main Menu to access the Collection menu to look at the Memory.)
+â
+CStory!MRQS050_MeetMickey_Group10_Step10_VisitArea02_StepDescriptionBFind the location in <ActivityItem>Mickey's Memory</ActivityItem>!
+ó
+1Story!MRQS050_MeetMickey_Group10_StoryDescription·The <ActivityItem>Memory</ActivityItem> shows you an image of Dreamlight Valley's past. Mickey tells you about Remy's recipes. The Little Chef left all his recipes in Mickey's care. Mickey hid them all over the Valley to keep them safe. The recipe for the <ActivityItem>Fruit Salad</ActivityItem> is hidden somewhere in the Village. You need to find it!
+s
++Story!MRQS050_MeetMickey_StartRequestButtonD<smallcaps>{title}</smallcaps><br>Wow! Can I help you with anything?

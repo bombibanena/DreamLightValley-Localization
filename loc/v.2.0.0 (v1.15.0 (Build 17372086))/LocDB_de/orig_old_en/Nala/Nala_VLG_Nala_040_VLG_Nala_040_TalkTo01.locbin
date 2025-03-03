@@ -1,0 +1,105 @@
+
+Y
+
+Nala_006_fKYou put the <ActivityItem>Lioness Statues</ActivityItem> down by the rifts?
+2
+Player_000_choice_000_fI just hope this works.
+7
+Player_000_choice_001_fHave you noticed any change?
+B
+Player_000_choice_002_f'Another problem solved by {PlayerName}!
+
+
+Nala_008_fMe too.
+
+
+Nala_011_fWait...
+^
+
+Nala_012_fPMy whiskers are twitching again. Just like they did when the rifts first opened.
+
+
+Nala_013_fDo you feel that?
+/
+Player_001_choice_000_fI feel... something.
+8
+Player_001_choice_001_fFeel what?! What's happening?
+B
+Player_001_choice_002_f'Uh, I think this might be a lion thing.
+B
+
+Nala_014_f4It's so strong. I can feel it tingling in my paws...
+/
+
+Nala_023_f!And they smell kind of delicious.
+(
+Player_002_fYou want to eat them...?
+3
+Player_002_choice_000_fMe too. They look tasty.
+=
+Player_002_choice_001_f"I'll admit, I am a little curious.
+J
+Player_002_choice_002_f/Ew. Nala! No eating interdimensional nastiness.
+1
+
+Nala_007_f#I... I think the rifts are closing!
+A
+
+Nala_017_f3Did you see those flashes of light in the distance?
++
+
+Nala_018_fAnd that awful smell is gone.
+^
+
+Nala_019_fPI think it's really over, {PlayerName}. We sealed the rifts, for good this time.
+3
+
+Nala_020_f%Oh, hold on... There's a new smell...
+D
+
+Nala_021_f6Those fish that swam through the rifts are still here.
+Z
+
+Nala_022_fLBut they're different somehow. They smell like... regular fish... real fish.
+3
+
+Nala_026_f%Maybe we're just hungry. But I agree.
+4
+
+Nala_029_f&I guess we won't know until we try it.
+~
+
+Nala_025_fpI'll <Lore>catch some of the fish and bring them to Remy</Lore> to see if they can be made into anything edible.
+Œ
+
+Nala_000_f~Though, I bet those fish don't like warm water very much. I'll probably need to wait until it's a little cooler to catch them.
+o
+
+Nala_001_faMaybe if I try fishing in the morning or in the evening, when the sun's not as high in the sky...
+O
+
+Nala_024_fAThey didn't look very tasty. But lots of delicious stuff doesn't.
+0
+
+Nala_030_f"Like those grubs Simba had me eat.
+7
+
+Nala_027_f)That stuff could make you sick. Or worse.
+i
+
+Nala_031_f[Maybe you'd get indigestion. Or maybe you'd start popping in and out of the Here and There.
+_
+
+Nala_032_fQThey don't smell dangerous anymore. Like I said, they smell just like other fish.
+S
+
+Nala_015_fEIt's not just my whiskers. I can feel this... tingling... in my paws.
+U
+
+Nala_016_fGIt can't be. It's so strong. Can't you feel that tingling in your feet?
+
+
+Nala_009_fNot yet.
+`
+
+Nala_010_fRI don't know if it's solved just yet. We should wait and see if the rifts close...

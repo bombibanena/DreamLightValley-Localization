@@ -1,0 +1,39 @@
+TAG: Ursula_003_f
+Angelfish! Just the creature I need to see. Tell me you have time to help me rectify a tragedy of injustice!
+
+TAG: Player_001_choice_000_f
+Yes, of course.
+
+TAG: Player_001_choice_001_f
+This will have to wait.
+
+TAG: Ursula_006_f
+Donald and I made a little deal. And being the generous and reliable woman I am, you know I delivered my part on the dot.
+
+TAG: Ursula_008_f
+But now, he's refusing to pay.
+
+TAG: Ursula_009_f
+And he refuses to give back what I gave him.
+
+TAG: Ursula_010_f
+Be a dear and go retrieve it.
+
+TAG: Player_002_choice_000_f
+That doesn't sound like Donald. I'll talk to him.
+
+TAG: Player_002_choice_002_f
+I'll get what you need right now.
+
+TAG: Ursula_011_f
+Talk to the little pest or don't. As long as you get back what belongs to me.
+
+TAG: Ursula_012_f
+And that's why you're my favorite little helper.
+
+TAG: Ursula_013_f
+What you're looking for appears to be a blue gift box. You'll have to search his home. For all I know, he's stuffed it under the bed or something careless like that.
+
+TAG: Ursula_007_f
+Fine... But hurry. I don't think you want me finding my own solution to this problem.
+

@@ -1,0 +1,24 @@
+TAG: Story!ORQS_Scro_060_Heights_Any_CompletedRequestDescription
+Поговори с Скрудж Макдак.
+
+TAG: Story!ORQS_Scro_060_Heights_AvailableDescription
+Теперь, когда Столб в Фростед Хайтс восстановлен, пришло время сделать это место менее фригидным с какой-то мебелью.
+
+TAG: Story!ORQS_Scro_060_Heights_CompletedStoryDescription
+Ты сделал Фростед Хайтс немного более теплым и пригласительным.
+
+TAG: Story!ORQS_Scro_060_Heights_DisplayName
+Восстановление долины: размораженные высоты
+
+TAG: Story!ORQS_Scro_060_Heights_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Story!ORQS_Scro_060_Heights_Group01_Step01_Decorate01_StepDescription
+Место {TargetAmount} мебель.
+
+TAG: Story!ORQS_Scro_060_Heights_Group01_Step01_StepDescription
+Украсить размораженные высоты.
+
+TAG: Story!ORQS_Scro_060_Heights_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

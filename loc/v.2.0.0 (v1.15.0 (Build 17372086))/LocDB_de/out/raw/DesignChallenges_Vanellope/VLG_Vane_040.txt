@@ -1,0 +1,135 @@
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Any_CompletedRequestDescription
+Complete your adventure by talking with Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_AvailableDescription
+Vanellope is ready to show you what she's been up to in her spare time.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_CompletedStoryDescription
+With all three keys, the chest springs open! Thanks to your efforts, the fun inside spreads throughout the land. Nobody in Vanellope's kingdom will be bored for the rest of time.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_DisplayName
+Questination Unknown
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group02_Step02_VisitArea01_StepDescription
+Enter Vanellope's House.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group03_Step03_TalkToCharacter01_StepDescription
+Talk to Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group04_Step04_StepDescription
+Dress up in a {Style} costume.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group04_Step18_StepDescription
+(Optional) Order a Rustic costume from the store.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group04_StepDescription
+Dress up as the Farmer Hero.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group05_Step05_StepDescription
+Dress up in a {Style} costume.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group05_Step19_StepDescription
+(Optional) Order a Futuristic costume from the store.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group05_StepDescription
+Dress up as the Futurist Hero.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group06_Step06_StepDescription
+Dress up in an {Style} costume.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group06_Step20_StepDescription
+(Optional) Order an Elegant costume from the store.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group06_StepDescription
+Dress up as the Noble Hero.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group07_StepDescription
+Find the Wizard and start your adventure.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group08_StepDescription
+Visit the "Rat's Inn" and find the Wizard.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group08_StoryDescription
+In her House, Vanellope shows you a mysterious chest. She says to unlock it, you have to become the Hero of a new game: an adventure set in the Valley. Dressed for your funquest, you head to Chez Remy in search of a Wizard.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group09_Step11_VisitArea02_StepDescription
+Reach the dragon in the Vitalys Mines by breaking down doors and battling monsters.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group10_Step10_TalkToCharacter04_StepDescription
+Find the next key guardian at the bottom of the Mystical Cave.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group11_Step14_VisitArea07_StepDescription
+Meet Vanellope in her House.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group12_Step12_TalkToCharacter05_StepDescription
+Return to the Storyteller, Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_Step13_DressUp04_StepDescription
+Equip your Pixel Sword.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_Step22_Possess01_StepDescription
+Gather some "healing potions"... or {ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_Step22_Possess02_StepDescription
+Find the Monster Bestiary in Arendelle Castle.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_StepDescription
+Prepare to face the Mastermind.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_StoryDescription
+After winning two keys from Anna and Olaf, Vanellope tells you to prepare to confront the Mastermind by preparing supplies.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group14_Step09_TalkToCharacter06_StepDescription
+Confront the Mastermind in the Mines.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group15_Step15_VisitArea05_StepDescription
+Slay the dragon to reach the Princess.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group16_Step16_TalkToCharacter07_StepDescription
+Speak with Princess Lightyear.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_Step08_TalkToCharacter03_StepDescription
+(Optional) Tell the Mastermind you foiled his plan.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_Step27_VisitArea08_StepDescription
+Exit the Mines.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_StepDescription
+Finish your adventure:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group17_StoryDescription
+You confront the Mastermind, who challenges you to solve his maze and face the dragon inside. You slay the dragon and find "Princess Lightyear" in the lair.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group18_Step23_VisitArea03_StepDescription
+Enter the Mastermind's lair â the Vitalys Mines on the Sunlit Plateau.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group19_Step24_TalkToCharacter09_StepDescription
+Return to the Storyteller, Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group20_Step25_ReadyDescription
+Give the chest keys to Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group20_Step25_StepDescription
+Ensure you have all three Fungeon keys in your Inventory.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group21_Step26_TalkToCharacter10_StepDescription
+Return to Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group21_StepDescription
+You're dressed for adventure!
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group22_Step17_VisitArea06_StepDescription
+Enter the Mystical Cave on Dazzle Beach.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group22_StoryDescription
+You find the Wizard in Chez Remy â it's Anna! (AKA Chockany Gumbottom) â and face off with her in a magical "duel." After her defeat, you head to the Mystical Cave in search of the next key and its guardian.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group23_Step29_Possess03_StepDescription
+The secret chest is finally unlocked. Open it up from your Inventory!
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What am I doing?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,66 @@
+TAG: Stitch_001_f
+Big BOOM! Ha-ha-ha-ha-ha!
+
+TAG: Player_000_f
+Yes, the <ActivityItem>Experimental Fireworks</ActivityItem> made a big boom. But EVE was scared...
+
+TAG: Player_000_choice_000_f
+And frankly, so was I...
+
+TAG: Player_000_choice_001_f
+It's not safe right now.
+
+TAG: Player_000_choice_002_f
+And even if I had fun, that's not what I want.
+
+TAG: Stitch_002_f
+Oh...
+
+TAG: Stitch_006_f
+Stitch didn't want to scare {PlayerName}.
+
+TAG: Stitch_007_f
+It's okay, Stitch.
+
+TAG: Stitch_008_f
+Can you help me make the fireworks more safe?
+
+TAG: Stitch_009_f
+Yes. Can you help Stitch too? Stitch is looking for <ActivityItem>Socks</ActivityItem>. Left them here before Forgetting.
+
+TAG: Stitch_010_f
+You look for <ActivityItem>Socks</ActivityItem>, and Stitch talk to Old Beard Man about fireworks?
+
+TAG: Stitch_011_f
+Okitaka?
+
+TAG: Player_001_choice_000_f
+Okitaka!
+
+TAG: Player_001_choice_001_f
+Sure!
+
+TAG: Player_001_choice_002_f
+Anything to avoid talking to Merlin.
+
+TAG: Stitch_013_f
+Akatoo-keeee!
+
+TAG: Stitch_016_f
+I'll get you your <ActivityItem>Socks</ActivityItem>. I'm guessing I'll need my Hourglass to find them...
+
+TAG: Stitch_000_f
+Old Beard Man said <ActivityItem>Socks</ActivityItem> lost in time... Stitch bad to leave them all over Island...
+
+TAG: Stitch_015_f
+Oojooba!
+
+TAG: Stitch_003_f
+Oh. Stitch sorry.
+
+TAG: Stitch_005_f
+You don't need to apologize! It's not your fault. I was just wondering...
+
+TAG: Stitch_004_f
+Ogata...
+

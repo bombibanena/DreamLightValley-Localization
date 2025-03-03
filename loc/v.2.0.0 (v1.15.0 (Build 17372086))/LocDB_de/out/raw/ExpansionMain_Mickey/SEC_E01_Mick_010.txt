@@ -1,0 +1,18 @@
+TAG: Secret!Expansion01!Mickey!SEC_E01_Mick_010_DisplayName
+Flower Power
+
+TAG: Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group01_StoryDescription
+He wonders if you could help him gather some for Minnie.
+
+TAG: Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group02_StoryDescription
+Mickey decides that these flowers seem downright dangerous for Minnie... but somebody else might really appreciate them! You decide to bring them to Merlin to help with his experiments. Merlin's done so much for you. It's only right to give back.
+
+TAG: Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group03_StoryDescription
+Mickey decides that these flowers seem downright dangerous for Minnie... but somebody else might really appreciate them! You decide to bring them to Ursula to use as ingredients in her potions. After all, having Ursula in your debt is always valuable...
+
+TAG: Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group04_Step04_TalkToCharacter01_StepDescription
+Talk to Mickey.
+
+TAG: Secret!Expansion01!Mickey!SEC_E01_Mick_010_Group04_StepDescription
+There sure are a lot of neat flowers around Eternity Isle...
+

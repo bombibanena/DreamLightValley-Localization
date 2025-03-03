@@ -1,0 +1,57 @@
+TAG: Simba_009_f
+He said that good leaders leave their kingdom better than it was at the start of their reign.
+
+TAG: Simba_014_f
+It sounds like your father was very wise. Leave the kingdom better... Hmm... how could we do that?
+
+TAG: Player_000_choice_000_f
+We could clean up the dried oasis.
+
+TAG: Player_000_choice_001_f
+We could build a giant water slide!
+
+TAG: Player_000_choice_002_f
+We could open up a shopping mall?
+
+TAG: Simba_001_f
+Ha-ha! It worked! The sky's clear. Look at all those stars.
+
+TAG: Simba_004_f
+You'll have to lend me that stick. It could really help to make sure the weather's sunny when we hunt gazelle.
+
+TAG: Simba_005_f
+I don't think it works that way. And besides, all that magic really took it out of me. I wouldn't want to try that again.
+
+TAG: Simba_006_f
+Well, thanks for doing it at all.
+
+TAG: Simba_007_f
+Just looking at those stars, I already feel closer to the great kings of the past.
+
+TAG: Simba_002_f
+Well? Do they have any guidance for you?
+
+TAG: Simba_008_f
+It's funny... now that you mention it... I just remembered something my father used to tell me about being a good leader.
+
+TAG: Simba_011_f
+The one right outside the jungle?
+
+TAG: Simba_017_f
+That's a great idea! And just the kind of thing my father meant.
+
+TAG: Simba_018_f
+Why don't we go look at that oasis now and see how we can clean it up?
+
+TAG: Simba_012_f
+I don't know what that is... but I don't think that's what my father was talking about.
+
+TAG: Simba_013_f
+What's that?
+
+TAG: Simba_015_f
+It's sort of like a water hole for us humans where we can get everything we need.
+
+TAG: Simba_016_f
+On second thought... forget it. I don't know if a mall is a good place for a lion.
+

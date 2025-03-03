@@ -1,0 +1,6 @@
+TAG: Player_000_choice_000_f
+Let's repair the boat. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+

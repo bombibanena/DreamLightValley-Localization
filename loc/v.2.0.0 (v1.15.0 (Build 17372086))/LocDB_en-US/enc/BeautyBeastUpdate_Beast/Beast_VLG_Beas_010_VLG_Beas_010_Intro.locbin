@@ -1,0 +1,74 @@
+
+,
+Beast_000_fHey... You feeling all right?
+
+Beast_001_f	I'M FINE!
+<
+Player_000_choice_000_f!OK, let's dig into that reaction.
+b
+Player_000_choice_001_fGI'm going to need to clear my schedule before I can deal with all this.
+
+Beast_002_fHrmph.
+'
+Beast_003_f... What does that mean?
+\
+Beast_004_fMWell... it's my responsibility to make sure that everyone feels at home here.
+é
+Beast_005_fBelle has been settling in nicely and making friends, but we never see you around the Village. I just wanted to make sure√¢¬Ä¬î
+B
+Beast_006_f3Belle is different. She's... kind. People like her.
+X
+Beast_007_fIThey want me to be a charming prince. But look at me! I'm... I'm... this!
+0
+Player_001_choice_000_fBut you ARE a prince!
+>
+Player_001_choice_001_f#Oh no, you're going to make me cry!
+D
+Player_001_choice_002_f)We've gotta do something to cheer you up!
+7
+Beast_008_f(What kind of prince has fangs and claws?
+ä
+Beast_017_f{Come on; it'll be fun! I can introduce you to different parts of the Valley. You do a fun pose, and we'll take some photos!
+9
+Beast_018_f*Later, you could show the photos to Belle.
+*
+Beast_019_fShe knows what I look like.
+i
+Beast_020_fZMaybe... but has she seen you posing handsomely? Has she seen you serving romantic energy?
+S
+Beast_021_fDWhat? I don't... *sigh* I will most likely regret this, but... fine.
+(
+Beast_022_fGreat! That's the spirit!
+`
+Beast_009_fQDetecting some self-esteem issues here. We clearly need to boost your confidence.
+*
+Beast_010_fHow about... a photo shoot!
+
+Beast_011_f
+... Photo?
+Z
+Beast_012_fKThink of it like getting your portrait painted... but it happens instantly!
+Z
+Beast_013_fKSometimes people take nice photos of themselves, sometimes of their food...
+.
+Beast_014_fNo, that would not be for me...
+0
+Beast_015_f!You had a portrait in the castle.
+/
+Beast_016_f I don't like to talk about that.
+!
+Beast_023_fI will follow you.
+†
+Beast_024_fêLet's take one in the <ActivityItem>Castle</ActivityItem>... one in <ActivityItem>Remy's Restaurant</ActivityItem>... and one wild card picture!
+G
+Player_002_choice_000_f,Shall we head over together? Let's hang out!
+W
+Player_002_choice_001_f<I'll come get you later when I think up some good locations.
+
+Beast_025_fI will be here.
+6
+Beast_026_f'I... I'm sorry. I keep making mistakes.
+*
+Beast_027_fYou can't change what I am.
+
+Beast_028_fI will be here.

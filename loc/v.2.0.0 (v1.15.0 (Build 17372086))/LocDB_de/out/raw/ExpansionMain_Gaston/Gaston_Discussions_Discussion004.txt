@@ -1,0 +1,30 @@
+TAG: Gaston_000_f
+{PlayerName}, I assume you'd heard of me before we met...
+
+TAG: Player_000_choice_000_f
+Yes. From Belle. Pretty interesting things.
+
+TAG: Player_000_choice_001_f
+Yes. From Belle. Mostly bad things.
+
+TAG: Player_000_choice_002_f
+Nope.
+
+TAG: Gaston_001_f
+Ah, I'm sure she told you that everyone in our village thinks I'm the best.
+
+TAG: Gaston_002_f
+It's my most admired quality.
+
+TAG: Gaston_003_f
+What?! That's impossible.
+
+TAG: Gaston_004_f
+You must have heard wrong!
+
+TAG: Gaston_005_f
+What? You haven't heard of me? How absurd.
+
+TAG: Gaston_006_f
+I'm going to have to find someone to sing my praises until everyone here knows how amazing I am!
+

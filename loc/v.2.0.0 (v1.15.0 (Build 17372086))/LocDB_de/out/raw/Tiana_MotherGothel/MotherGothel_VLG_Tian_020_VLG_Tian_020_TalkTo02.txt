@@ -1,0 +1,84 @@
+TAG: MotherGothel_001_f
+Mother Gothel? What's going on here?
+
+TAG: MotherGothel_002_f
+Well, I was hoping to have a quiet moment to myself.
+
+TAG: MotherGothel_003_f
+But clearly you have other plans.
+
+TAG: MotherGothel_004_f
+That's not what I mean...
+
+TAG: MotherGothel_005_f
+Why is Little Louis in a cage in your House?
+
+TAG: MotherGothel_006_f
+Little Louis? Do you mean that reptilian pest?
+
+TAG: Player_000_choice_000_f
+Yes!
+
+TAG: Player_000_choice_001_f
+He's not a pest.
+
+TAG: Player_000_choice_002_f
+This is low, even for you.
+
+TAG: MotherGothel_016_f
+It's quite simple, {PlayerName}. Your "Little Louis" was destroying my garden.
+
+TAG: MotherGothel_007_f
+So, I simply did what one does with pests â trap them.
+
+TAG: MotherGothel_008_f
+Maybe we can come to an understanding. What if Tiana and I make you a new garden?
+
+TAG: MotherGothel_009_f
+And then I let the pest out and it destroys my garden again? I think not.
+
+TAG: Player_001_choice_000_f
+You know, living in a tree naturally exposes one to animals...
+
+TAG: Player_001_choice_001_f
+This is quite the overreaction for an animal getting into your garden.
+
+TAG: Player_001_choice_002_f
+You seem determined to find fault in everything I say...
+
+TAG: MotherGothel_019_f
+And clearly, I am more important than the animals!
+
+TAG: MotherGothel_010_f
+Okay, fine. What if we set up some fences to protect the garden?
+
+TAG: MotherGothel_011_f
+That could be... acceptable.
+
+TAG: MotherGothel_012_f
+Great! What did you have in your garden before?
+
+TAG: MotherGothel_013_f
+It was a mix of vegetable plots â <ActivityItem>Okra</ActivityItem>, <ActivityItem>Rice</ActivityItem>, and <ActivityItem>Spinach</ActivityItem>.
+
+TAG: MotherGothel_014_f
+As for the fencing, I want <ActivityItem>White Picket Fences</ActivityItem>. That MIGHT keep my garden safe in the future.
+
+TAG: MotherGothel_022_f
+Here â take this. If I have to wait for you to gather everything yourself, I'll be waiting for years!
+
+TAG: MotherGothel_015_f
+Ugh, fine, we'll get right on that.
+
+TAG: MotherGothel_020_f
+Hardly! I cared for those vegetables, nourished and raised them myself!
+
+TAG: MotherGothel_021_f
+Well dear, have you tried saying less foolish things?
+
+TAG: MotherGothel_017_f
+I have evidence to the contrary.
+
+TAG: MotherGothel_018_f
+I was merely protecting what is mine.
+

@@ -1,0 +1,46 @@
+
+J
+Sally_000_f;Well, if you wanted to have a little flavor of Halloween...
+n
+Sally_001_f_...you could put up some bat boxes or perhaps build a belfry to invite some new winged friends.
+p
+Sally_002_faOr you could invite more witches. They're very good at helping you get into the Halloween spirit.
+(
+Player_001_choice_000_fMore witches?
+%
+Player_001_choice_001_f
+Bat boxes?
+6
+Player_001_choice_002_fI love BOTH of these ideas!
+&
+Sally_003_fYes. What do you think?
+,
+Player_002_choice_000_fI love this idea!
+:
+Player_002_choice_001_fWe might have enough witches...
+$
+Sally_007_fI'm glad you like it.
+i
+Sally_013_fZPerhaps we could sew them some decorative sleeves for their broomsticks as a welcome gift.
+>
+Sally_008_f/I mean, we have ONE sea witch and she's plenty.
+i
+Sally_014_fZPerhaps you're right. Ursula IS formidable. I think she'd fit in nicely in Halloween Town.
+c
+Sally_004_fTYes. You can never have too many bats. And they're very good at controlling insects.
+-
+Player_003_choice_000_fBring on the bats!
+0
+Player_003_choice_001_fBats aren't my thing.
+C
+Sally_010_f4Hmm... Perhaps I'll sew them all a little something.
+=
+Sally_012_f.Bats wearing tiny hats might be quite festive.
+C
+Sally_009_f4That's all right. I'll keep thinking of new ideas...
+
+Sally_005_fReally?
+M
+Sally_006_f>Well, I'll look forward to meeting anyone new that you invite.
+`
+Sally_011_fQAnd Jack will love any changes that bring a little more Halloween to the Village.

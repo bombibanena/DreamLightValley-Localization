@@ -1,0 +1,25 @@
+
+—
+Jasmine_000_f…This is the <ActivityItem>Sea Sand Torch</ActivityItem> we need to gather the sparks from? It's lovely. Here, I'll grab the sparks...
+I
+Jasmine_003_f8Here you go, {PlayerName}! You should hold onto these...
+[
+Jasmine_001_fJThe <ActivityItem>Sea Sand Sparks</ActivityItem>! You got them! Way to go!
+«
+Jasmine_002_f™Thank you! But that was just the first step. According to the code on the journal, now we need to find a "<ActivityItem>Special Starfish</ActivityItem>."
+?
+Player_000_choice_000_f$Where do you think we can find THAT?
+R
+Player_000_choice_001_f7I hope we don't have to scour the whole ocean for this.
+:
+Player_000_choice_002_fI wonder what makes it special?
+d
+Jasmine_004_fSWell, it IS a starfish. Maybe someone else who's familiar with beaches can help us?
+h
+Jasmine_007_fWIf anyone knows something about a rare, mysterious relic from the sea, I bet it's Maui.
+s
+Jasmine_009_fbI agree! Let's <Lore>talk to Maui and see if he knows anything about this Special Starfish</Lore>.
+=
+Jasmine_005_f,Me too. Maybe someone can help us locate it?
+X
+Jasmine_006_fGI suppose it must be rare. I wonder if there's someone who can help us?

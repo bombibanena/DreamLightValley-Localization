@@ -1,0 +1,58 @@
+
+=
+Donald_000_f-*sigh* Why do bad things always happen to me?
+4
+Player_000_choice_000_fBecause of your attitude!
+B
+Player_000_choice_001_f'Look at all the good things around you!
+3
+Player_000_choice_002_fWhat happened this time?
+Z
+Donald_010_fJWHAT?! I don't have an attitude! What makes you think I have an attitude?!
+2
+Player_003_choice_000_fFace it, you're grumpy!
+0
+Player_003_choice_001_fSuuuuurrre you don't.
+-
+Player_003_choice_002_fI'm sorry, Donald.
+q
+Donald_011_faOnly when I have a reason to be! If everything's going the way I like it, I'm perfectly pleasant.
+
+Donald_012_fSarcasm, huh?
+{
+Donald_014_fkWell, I only get mad when I have a reason! If everything's going the way I like it, I'm perfectly pleasant.
+h
+Donald_013_fXThat's okay. I know I can be grumpy sometimes. But only when things aren't going my way!
+
+Donald_001_f
+Such as...
+(
+Player_002_choice_000_fYour friends!
+'
+Player_002_choice_001_fThe Village!
+
+Player_002_choice_002_fMe!
+C
+Donald_007_f3Aw, you're right. My friends are pretty stupendous!
+k
+Donald_008_f[Aw, you're right. It's great having all my friends in one place... even Goofy. Heh-heh-heh.
+B
+Donald_009_f2You're right! I AM glad to have a friend like you!
+h
+Donald_002_fXI was reeling in a great big fish when Goofy came by, tripped over my bucket of worms...
+L
+Donald_015_f<Knocked the bait in the water, and scared away all the fish!
+L
+Donald_003_f<A whole day of fishing, and I've got nothing to show for it.
+-
+Player_001_choice_000_fI'm sorry, Donald.
+D
+Player_001_choice_001_f)Maybe bad things DO always happen to you!
+1
+Player_001_choice_002_fHA! I wish I saw that.
+=
+Donald_004_f-Thanks, {PlayerName}. At least someone cares.
+N
+Donald_005_f>That's what I've been saying! At least someone agrees with me.
+6
+Donald_006_f&I guess it was pretty funny. Ha-ha-ha!

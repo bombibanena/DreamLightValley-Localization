@@ -1,0 +1,42 @@
+TAG: Village!WallE!WallE!VLG_Wall_030_Any_CompletedRequestDescription
+Возвращайтесь на ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_AvailableDescription
+ВАЛЛ·И хочет тебе кое-что показать.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_CompletedStoryDescription
+Вы нашли странную машину среди мусора, возможно ВАЛЛ·И узнает об этом больше.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_DisplayName
+Инцидент с сжатым мусором
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжает приносить ВАЛЛ·И машину)
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group01_Step01_ReadyDescription
+Странная машина была спрятана в одном из кубов <ActivityItem>Compressed Garbage</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group01_Step01_StepDescription
+Странная машина была спрятана в одном из кубов <ActivityItem> Компрессированный мусор</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжать сбор мусора)
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group02_StepDescription
+Удалить {ItemName}, который ВАЛЛ·И создал в деревне.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group02_StoryDescription
+Похоже, он решил пойти и сжать пару трэш-кубов после того, как объяснил ему, что ему не нужно продолжать собирать мусор, ты занят тем, что он создал.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group03_Step03_StepDescription
+Следуйте за ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group03_StoryDescription
+Он просит тебя следовать за ним.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_Group04_Step04_StepDescription
+Поговори с ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

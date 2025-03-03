@@ -1,0 +1,39 @@
+
+à
+BVillage!Mickey!Mickey!VLG_Mick_050_Any_CompletedRequestDescriptionBWhat is this secret room? Talk to Mickey to see what he remembers.
+j
+7Village!Mickey!Mickey!VLG_Mick_050_AvailableDescription/Mickey needs your help with something he found.
+ê
+<Village!Mickey!Mickey!VLG_Mick_050_CompletedStoryDescriptionPBehind the door, there is a strange room. Let's hope Mickey knows more about it.
+A
+.Village!Mickey!Mickey!VLG_Mick_050_DisplayNameThe Secret Door
+f
+SVillage!Mickey!Mickey!VLG_Mick_050_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Mickey.
+ü
+MVillage!Mickey!Mickey!VLG_Mick_050_Group02_Step03_VisitArea01_StepDescriptionNRefer to <ActivityItem>Mickey's Memory</ActivityItem> to find the secret door.
+
+;Village!Mickey!Mickey!VLG_Mick_050_Group02_StoryDescription∞The chest turns into a <ActivityItem>Memory</ActivityItem>, and a discussion with Mickey puts you on the path toward a secret door √¢¬Ä¬î hidden somewhere in Dreamlight Valley.
+z
+?Village!Mickey!Mickey!VLG_Mick_050_Group03_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What should I do now?
+{
+JVillage!Mickey!Mickey!VLG_Mick_050_Group03_Step04_Unlock01_StepDescription-Try opening Mickey's chest in your Inventory.
+˚
+;Village!Mickey!Mickey!VLG_Mick_050_Group03_StoryDescriptionªMinnie returned to the Village, bringing with her the memory of a magical chest Mickey hid. He has found it again but is unable to open it, and thinks you're the perfect candidate to try.
+|
+OVillage!Mickey!Mickey!VLG_Mick_050_Group04_Step02_FillKeyhole01_StepDescription)Use the riddle to unlock the Secret Door.
+∏
+;Village!Mickey!Mickey!VLG_Mick_050_Group04_StoryDescriptionyYou find the secret door inside the Castle. Mickey remembers the second part of the riddle. Maybe it'll help you open it.
+w
+?Village!Mickey!Mickey!VLG_Mick_050_Group05_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>What do we do now?
+|
+MVillage!Mickey!Mickey!VLG_Mick_050_Group05_Step05_VisitArea02_StepDescription+You did it! Go inside and see what's there.
+w
+?Village!Mickey!Mickey!VLG_Mick_050_Group07_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>What do we do now?
+l
+JVillage!Mickey!Mickey!VLG_Mick_050_Group07_Step07_PickUp01_StepDescriptionUse your magic on the curtain.
+X
+AVillage!Mickey!Mickey!VLG_Mick_050_Group07_Step07_StepDescriptionYou found the door!
+f
+SVillage!Mickey!Mickey!VLG_Mick_050_Group08_Step08_TalkToCharacter02_StepDescriptionTalk to Mickey.
+f
+5Village!Mickey!Mickey!VLG_Mick_050_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

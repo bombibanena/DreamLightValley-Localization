@@ -1,0 +1,39 @@
+TAG: JackSkellington_002_f
+Декорации Долины закончены!
+
+TAG: JackSkellington_003_f
+Отлично, но скажи мне, {PlayerName}...
+
+TAG: JackSkellington_004_f
+...все наслаждаются своими подарками в День Мечты?
+
+TAG: JackSkellington_005_f
+Не уверен, но я ни с кем не связывался с самого начала дня сна.
+
+TAG: JackSkellington_006_f
+Надеюсь, они ценят работу, которую вы проделали.
+
+TAG: JackSkellington_007_f
+Так же, как и кое-что особенное, в чём я смешался, чтобы повеселиться.
+
+TAG: JackSkellington_008_f
+Это... подозрительно.
+
+TAG: JackSkellington_009_f
+{PlayerName}, я обещал тебе: все будет хорошо!
+
+TAG: Player_000_choice_000_f
+И все же я до сих пор не уверен.
+
+TAG: Player_000_choice_001_f
+Наверное, все в порядке...
+
+TAG: JackSkellington_010_f
+Ну, почему бы тебе сама не посмотреть?
+
+TAG: JackSkellington_012_f
+Ладно, я пойду проверю всех.
+
+TAG: JackSkellington_011_f
+Но я не совсем уверен.
+

@@ -1,0 +1,90 @@
+TAG: Maleficent_001_f
+Why, what's this?
+
+TAG: Maleficent_002_f
+Some sort of invitation?
+
+TAG: Player_000_choice_000_f
+We humbly request your attendance...
+
+TAG: Player_000_choice_001_f
+Look! It's got green flame and everything!
+
+TAG: Maleficent_010_f
+My attendance where?
+
+TAG: Maleficent_012_f
+Ink is still spilling all over the Vale. We need YOUR help to stop the Neverafter.
+
+TAG: Maleficent_000_f
+We invite you to the first meeting of the <Lore>Grand Council of the Neverafter</Lore>.
+
+TAG: Maleficent_013_f
+Please meet us in the Library of Lore.
+
+TAG: Maleficent_003_f
+You want me to descend from my castle and mingle with the rabble?
+
+TAG: Player_001_choice_000_f
+We NEED your help, Maleficent. We can't do it without you.
+
+TAG: Player_001_choice_001_f
+Do it or don't do it. It's up to you.
+
+TAG: Maleficent_014_f
+I suppose you are all hopelessly lost without me, aren't you?
+
+TAG: Maleficent_016_f
+I've only one question...
+
+TAG: Maleficent_017_f
+Will Hades be there?
+
+TAG: Player_002_choice_000_f
+Yes, he will.
+
+TAG: Player_002_choice_001_f
+Maybe...
+
+TAG: Player_002_choice_002_f
+If I say he is, are you not going to show up?
+
+TAG: Maleficent_018_f
+Ahhhh! You want me to waste a moment more in the presence of that fool?!
+
+TAG: Maleficent_006_f
+Put aside your feud with Hades, just for now, please. You'll be the REAL guest of honor.
+
+TAG: Maleficent_004_f
+Put aside MY feud? Hades STARTED all of this.
+
+TAG: Maleficent_005_f
+He put a curse on my castle. The ink appeared here before anywhere else in the Vale.
+
+TAG: Maleficent_007_f
+That's strange. Hades told me that YOU started the feud, and that the ink started appearing on Mount Olympus first.
+
+TAG: Maleficent_019_f
+And you believe that fiery fool? You are far more naÃ¯ve than I thought, {PlayerName}.
+
+TAG: Maleficent_009_f
+Still... I will attend your little gathering and help you set the Vale right. But only so that I may remind everyone who is the rightful ruler of the Vale.
+
+TAG: Maleficent_008_f
+Hades cursed your castle? That's weird.
+
+TAG: Maleficent_020_f
+I'll ask him about it.
+
+TAG: Maleficent_021_f
+If you think you can trust anything that fiery fool says, you are far more naÃ¯ve than I thought.
+
+TAG: Maleficent_015_f
+We invite you to join the <Lore>Guardians of the Vale</Lore>.
+
+TAG: Maleficent_022_f
+We invite you to join <Lore>the Lorekeeper's Legion</Lore>.
+
+TAG: Maleficent_011_f
+An impressive parlor trick, no doubt, but what is the meaning of it?
+

@@ -1,0 +1,105 @@
+TAG: Stitch_000_f
+{Placeholder} Это что, неплохой опыт?
+
+TAG: Stitch_001_f
+{Placeholder} это весело!
+
+TAG: Player_000_choice_000_f
+{Placeholder} Приятно слышать!
+
+TAG: Player_000_choice_001_f
+{Placeholder}... правда?
+
+TAG: Stitch_002_f
+{Placeholder}I определенно этого не ожидал.
+
+TAG: Stitch_003_f
+{Placeholder}Oh you, Стич понимает кое-что.
+
+TAG: Stitch_004_f
+{Placeholder}Sidekicks не для выполнения поручений.
+
+TAG: Stitch_005_f
+{Placeholder}Sidekicks для бросающих вызов героев и делай их лучше!
+
+TAG: Player_001_choice_000_f
+{Placeholder} Это один из способов посмотреть на это!
+
+TAG: Player_001_choice_001_f
+{Placeholder} Как к этому относится Гастон?
+
+TAG: Stitch_006_f
+{Placeholder}Pudja ca-bagga!
+
+TAG: Stitch_007_f
+{Placeholder}Гастон пока не понимает, как должен работать помощник.
+
+TAG: Stitch_008_f
+{Placeholder} Но я пытаюсь научить его, не волнуйся.
+
+TAG: Player_002_choice_000_f
+{Placeholder} Я уверена, что он любит это...
+
+TAG: Player_002_choice_001_f
+{Placeholder} Как он реагирует на это?
+
+TAG: Player_002_choice_002_f
+{Placeholder} Продолжайте!
+
+TAG: Stitch_009_f
+{Placeholder}Стич поможет с уровнями вреда Гастон; вы видите!
+
+TAG: Stitch_010_f
+{Placeholder}Ha!
+
+TAG: Stitch_011_f
+{Placeholder}A ты не против проиграть?
+
+TAG: Stitch_012_f
+{Placeholder}Ya.
+
+TAG: Stitch_013_f
+{Placeholder}Стич Скажи"Привет."Иногда.
+
+TAG: Stitch_014_f
+{Placeholder} И он поднимает палочки с Олаф?
+
+TAG: Player_003_choice_000_f
+{Placeholder} Они работают вместе!
+
+TAG: Player_003_choice_001_f
+{Placeholder}Oh, не удивительно...
+
+TAG: Stitch_015_f
+{Placeholder} Ты тоже хочешь потренироваться с ними?
+
+TAG: Stitch_016_f
+{Placeholder} Я уверен, Гастон будет счастлив иметь больше людей, заинтересованных в присоединении!
+
+TAG: Stitch_017_f
+{Placeholder}Mmm na, я уже сильный.
+
+TAG: Stitch_018_f
+{Placeholder}Гастон кажется, что ему нужен помощник, как Олаф?
+
+TAG: Stitch_019_f
+{Placeholder}Стич без сообщника; Стич важен!
+
+TAG: Player_004_choice_000_f
+{Placeholder} Вот это дух!
+
+TAG: Player_004_choice_001_f
+{Placeholder}Yeah, Гастон будет недовольна этим.
+
+TAG: Stitch_020_f
+{Placeholder} Может быть, лучше роль... друг?
+
+TAG: Stitch_021_f
+{Placeholder}Say"Привет."и"noogy bey"; помочь с уровнями зла.
+
+TAG: Stitch_022_f
+{Placeholder}Тогда Стич делает свое дело.
+
+TAG: Stitch_023_f
+{Placeholder}Verous!
+

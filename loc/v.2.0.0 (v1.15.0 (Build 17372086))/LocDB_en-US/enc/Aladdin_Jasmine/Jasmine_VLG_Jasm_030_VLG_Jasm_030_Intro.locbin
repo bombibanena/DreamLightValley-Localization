@@ -1,0 +1,51 @@
+
+
+Jasmine_000_fp{PlayerName}, I've found a clue for the other key to the Secret Journal! Do you have time to look at it with me?
+;
+Player_000_choice_001_f Yes! I want this mystery solved!
+)
+Player_000_choice_002_fNot right now.
+¶
+Jasmine_002_f¤I discovered that on the back of the first key, there is an engraving of a seashell image. It got me thinking... What if the other lock is a clue to the second key?
+1
+Jasmine_004_f Great theory! What did you find?
+b
+Jasmine_005_fQThat's the best part. The second lock does have an engraving... It's a SNOWFLAKE!
+3
+Player_001_choice_000_fWhy is that so exciting?
+6
+Player_001_choice_001_fDo you like snow THAT much?
+2
+Player_001_choice_002_fUgh, I hate the cold...
+W
+Jasmine_006_fFBecause that points us to SNOW! I think snow's fascinating, don't you?
+n
+Jasmine_009_f]There isn't any snow near Agrabah. So, as a child, I dreamed of cold, snowy lands to explore.
+=
+Player_002_choice_000_f"I didn't grow up with snow either.
+7
+Player_002_choice_001_fI LOVED the snow as a child!
+@
+Player_002_choice_002_f%We had TOO MUCH snow where I grew up.
+S
+Jasmine_001_fBI used to daydream about snowmen and snowball fights all the time!
+>
+Jasmine_015_f-And sledding and warm tea after a cold day...
+G
+Jasmine_011_f6So what do you think? Should we head towards the snow?
+Ç
+Jasmine_012_fµYes! I think that's the direction the lock is pointing us. I'll go <Lore>talk to Elsa</Lore> about this. If anyone will know about a mysterious key in the Frosted Heights, it's her!
+O
+Jasmine_013_f>I loved sledding and building snowmen and all that good stuff!
+L
+Jasmine_016_f;You're so lucky! I always wanted to go sledding as a child.
+X
+Jasmine_014_fGI enjoyed playing in it sometimes, but mostly it was just cold and wet.
+S
+Jasmine_017_fBWell, when you put it that way, it doesn't sound quite as magical.
+1
+Jasmine_007_f I do! Or at least, I think I do.
+e
+Jasmine_008_fTReally? I'm definitely more accustomed to the heat, but I find the cold fascinating!
+;
+Jasmine_003_f*All right. I'll be ready whenever you are.

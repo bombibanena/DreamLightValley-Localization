@@ -1,0 +1,153 @@
+TAG: Story!MRQS110_LoveIsLove_Any_CompletedRequestDescription
+Поговори с Олаф в секретной комнате.
+
+TAG: Story!MRQS110_LoveIsLove_AvailableDescription
+Волшебная метель началась в Фростед Хайтс, вам нужно будет выяснить, что происходит.
+
+TAG: Story!MRQS110_LoveIsLove_CompletedStoryDescription
+Простое любовное объятие Олаф', оказывается, это все, что нужно, чтобы восстановить свет внутри Орба.
+
+TAG: Story!MRQS110_LoveIsLove_DisplayName
+Великий Блейзард
+
+TAG: Story!MRQS110_LoveIsLove_Group01_Step01_StepDescription
+Волшебная метель в Фростед Хайтс!
+
+TAG: Story!MRQS110_LoveIsLove_Group01_Step01_TalkToCharacter01_StepDescription
+Консультации с Мерлин.
+
+TAG: Story!MRQS110_LoveIsLove_Group02_Step02_VisitArea01_StepDescription
+Ищите улики на источник бури в Фростед Хайтс.
+
+TAG: Story!MRQS110_LoveIsLove_Group02_StoryDescription
+Мерлин говорит вам, что вам нужно исследовать центр мистического расстройства, если вы хотите иметь хоть какие-то надежды на решение этого вопроса.
+
+TAG: Story!MRQS110_LoveIsLove_Group03_Step03_Interaction01_StepDescription
+Вступайте в контакт со стеной обрыва.
+
+TAG: Story!MRQS110_LoveIsLove_Group04_Step04_VisitArea02_StepDescription
+Войдите в тайную комнату в стене обрыва на Грозовых высотах.
+
+TAG: Story!MRQS110_LoveIsLove_Group05_Step05_TalkToCharacter02_StepDescription
+Поговори с Олаф в секретной комнате.
+
+TAG: Story!MRQS110_LoveIsLove_Group06_Step06_VisitArea03_StepDescription
+Обыщите метель для <ActivityItem>Шрамy Squirels</ActivityItem>.
+
+TAG: Story!MRQS110_LoveIsLove_Group06_StoryDescription
+В секретной комнате вы найдете Олаф. но прежде чем он сможет помочь вам раскрыть волшебную загадку, вы должны помочь ему найти все его части.
+
+TAG: Story!MRQS110_LoveIsLove_Group07_Step07_StepDescription
+Отследить <ActivityItem>Шрамy Squirels</ActivityItem>, чтобы вернуть Олаф кнопки и нос.
+
+TAG: Story!MRQS110_LoveIsLove_Group08_StepDescription
+Возвращайтесь в секретную камеру и принесите Олаф его <ActivityItem>Nose и Buttons</ActivityItem>.
+
+TAG: Story!MRQS110_LoveIsLove_Group09_StepDescription
+Выясните, какие драгоценности пропали в секретной камере, и замените их.
+
+TAG: Story!MRQS110_LoveIsLove_Group10_Step10_TalkToCharacter08_StepDescription
+Поговори с Олаф.
+
+TAG: Story!MRQS110_LoveIsLove_Group11_Step11_TalkToCharacter03_StepDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS110_LoveIsLove_Group12_Step12_TalkToCharacter04_StepDescription
+Поговори с Эльза.
+
+TAG: Story!MRQS110_LoveIsLove_Group13_Step13_VisitArea04_StepDescription
+Расследуйте Столп на Грозистых высотах.
+
+TAG: Story!MRQS110_LoveIsLove_Group14_Step14_Possess01_StepDescription
+<ActivityItem>Glas.</ActivityItem>
+
+TAG: Story!MRQS110_LoveIsLove_Group14_Step14_Possess02_StepDescription
+<ActivityItem>Purificed Night Shard.</ActivityItem>
+
+TAG: Story!MRQS110_LoveIsLove_Group14_Step14_Possess04_StepDescription
+<ActivityItem>Sattered Primth</ActivityItem> в секретной камере.
+
+TAG: Story!MRQS110_LoveIsLove_Group14_Step14_StepDescription
+Соберите следующие пункты:
+
+TAG: Story!MRQS110_LoveIsLove_Group15_Step15_WaterPlant01_StepDescription
+Пользуйся канистрой для воды на пылающих частицах воды возле Стенда.
+
+TAG: Story!MRQS110_LoveIsLove_Group16_Step16_TalkToCharacter05_StepDescription
+Поговори с Мерлин о том, что ты видел.
+
+TAG: Story!MRQS110_LoveIsLove_Group16_StoryDescription
+Мерлин показывает вам, как использовать свой Vatering Can для разоблачения воспоминаний внутри воды. Вы обнаруживаете, что это вы вырвали Сферу из Столпа все эти годы назад.
+
+TAG: Story!MRQS110_LoveIsLove_Group17_Step17_TalkToCharacter06_StepDescription
+Поговори с Эльза о том, что ты видел.
+
+TAG: Story!MRQS110_LoveIsLove_Group17_StoryDescription
+Эльза показывает вам, как использовать свой Vatering Can для разоблачения воспоминаний внутри воды. Вы обнаруживаете, что это вы вырвали Сферу из Столпа все эти годы назад.
+
+TAG: Story!MRQS110_LoveIsLove_Group18_Step18_TalkToCharacter07_StepDescription
+Возвращайтесь в Олаф в секретной комнате.
+
+TAG: Story!MRQS110_LoveIsLove_Group19_Step19_ReadyDescription
+Отдай Олаф его руки.
+
+TAG: Story!MRQS110_LoveIsLove_Group19_Step19_StepDescription
+Принесите Сферу и руки на Олаф.
+
+TAG: Story!MRQS110_LoveIsLove_Group19_StepDescription
+Похоже, Орб сломан, но, по крайней мере, вы нашли руки Олаф...
+
+TAG: Story!MRQS110_LoveIsLove_Group19_StoryDescription
+Но что-то не так с Орбом, его свет туман, и волшебство внутри него, похоже, больше не работает.
+
+TAG: Story!MRQS110_LoveIsLove_Group20_Step20_CraftItem01_StepDescription
+Пересадка <ActivityItem>Dreamlight Primst</ActivityItem> на ремесленной станции.
+
+TAG: Story!MRQS110_LoveIsLove_Group21_Step22_Possess03_StepDescription
+Найди книгу о порталах в секретной комнате.
+
+TAG: Story!MRQS110_LoveIsLove_Group21_StoryDescription
+С помощью Олаф вы узнаете, что Сфера была брошена в портал фликеринга. Вам нужно придумать, как стабилизировать её, чтобы получить Сферу.
+
+TAG: Story!MRQS110_LoveIsLove_Group22_Step23_WaterPlant02_StepDescription
+Пользуйся канистрой для воды на пылающих частицах воды в секретной камере.
+
+TAG: Story!MRQS110_LoveIsLove_Group23_Step24_WaterPlant03_StepDescription
+Используй свой канистру для воды на частицах сверкающей воды ближе к порталу в секретной камере.
+
+TAG: Story!MRQS110_LoveIsLove_Group24_Step25_TalkToCharacter09_StepDescription
+Поговори с Олаф.
+
+TAG: Story!MRQS110_LoveIsLove_Group25_Step26_FillKeyhole01_StepDescription
+Поместите <ActivityItem>Dreamlight Primst</ActivityItem> на пьедестал в секретной камере.
+
+TAG: Story!MRQS110_LoveIsLove_Group26_Step27_TalkToCharacter10_StepDescription
+Шепчешь одним из своих самых глубоких опасений перед сверкающим порталом в секретной комнате.
+
+TAG: Story!MRQS110_LoveIsLove_Group27_Step28_FillKeyhole02_StepDescription
+Положите Сферу в Столп на размораженных высотах.
+
+TAG: Story!MRQS110_LoveIsLove_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я опять делал?
+
+TAG: Story!MRQS110_LoveIsLove_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я опять делал?
+
+TAG: Story!MRQS110_LoveIsLove_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делал?
+
+TAG: Story!MRQS110_LoveIsLove_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я опять делал?
+
+TAG: Story!MRQS110_LoveIsLove_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мы делали снова?
+
+TAG: Story!MRQS110_LoveIsLove_Group16_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делал?
+
+TAG: Story!MRQS110_LoveIsLove_Group21_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Story!MRQS110_LoveIsLove_Group22_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я опять делал???
+

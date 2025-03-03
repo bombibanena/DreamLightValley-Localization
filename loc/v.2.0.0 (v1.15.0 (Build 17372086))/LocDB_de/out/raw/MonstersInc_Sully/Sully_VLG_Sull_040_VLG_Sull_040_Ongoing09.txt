@@ -1,0 +1,12 @@
+TAG: Sully_000_f
+What's up, {PlayerName}?
+
+TAG: Sully_001_f
+I'm helping Stitch look for the <ActivityItem>Fifth Clue</ActivityItem>.
+
+TAG: Sully_002_f
+The hint says: "Underground, there's a babbling pool; quick, cast your hook."
+
+TAG: Sully_003_f
+Well, I'll tell ya this... Being on <Lore>higher ground in the Mines</Lore> would help ya see things clearer.
+

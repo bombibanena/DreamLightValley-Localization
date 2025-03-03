@@ -1,0 +1,9 @@
+TAG: Stitch_000_f
+You show Stitch how to fix signs. Raise goodness level.
+
+TAG: Stitch_001_f
+What do we need?
+
+TAG: Stitch_002_f
+We need to find <ActivityItem>Hardwood</ActivityItem>, <ActivityItem>Softwood</ActivityItem>, and those <ActivityItem>Vandalized Signs</ActivityItem>.
+

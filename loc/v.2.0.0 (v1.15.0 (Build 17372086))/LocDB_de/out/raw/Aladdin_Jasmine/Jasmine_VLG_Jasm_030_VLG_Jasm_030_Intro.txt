@@ -1,0 +1,75 @@
+TAG: Jasmine_000_f
+{PlayerName}, I've found a clue for the other key to the Secret Journal! Do you have time to look at it with me?
+
+TAG: Player_000_choice_001_f
+Yes! I want this mystery solved!
+
+TAG: Player_000_choice_002_f
+Not right now.
+
+TAG: Jasmine_002_f
+I discovered that on the back of the first key, there is an engraving of a seashell image. It got me thinking... What if the other lock is a clue to the second key?
+
+TAG: Jasmine_004_f
+Great theory! What did you find?
+
+TAG: Jasmine_005_f
+That's the best part. The second lock does have an engraving... It's a SNOWFLAKE!
+
+TAG: Player_001_choice_000_f
+Why is that so exciting?
+
+TAG: Player_001_choice_001_f
+Do you like snow THAT much?
+
+TAG: Player_001_choice_002_f
+Ugh, I hate the cold...
+
+TAG: Jasmine_006_f
+Because that points us to SNOW! I think snow's fascinating, don't you?
+
+TAG: Jasmine_009_f
+There isn't any snow near Agrabah. So, as a child, I dreamed of cold, snowy lands to explore.
+
+TAG: Player_002_choice_000_f
+I didn't grow up with snow either.
+
+TAG: Player_002_choice_001_f
+I LOVED the snow as a child!
+
+TAG: Player_002_choice_002_f
+We had TOO MUCH snow where I grew up.
+
+TAG: Jasmine_001_f
+I used to daydream about snowmen and snowball fights all the time!
+
+TAG: Jasmine_015_f
+And sledding and warm tea after a cold day...
+
+TAG: Jasmine_011_f
+So what do you think? Should we head towards the snow?
+
+TAG: Jasmine_012_f
+Yes! I think that's the direction the lock is pointing us. I'll go <Lore>talk to Elsa</Lore> about this. If anyone will know about a mysterious key in the Frosted Heights, it's her!
+
+TAG: Jasmine_013_f
+I loved sledding and building snowmen and all that good stuff!
+
+TAG: Jasmine_016_f
+You're so lucky! I always wanted to go sledding as a child.
+
+TAG: Jasmine_014_f
+I enjoyed playing in it sometimes, but mostly it was just cold and wet.
+
+TAG: Jasmine_017_f
+Well, when you put it that way, it doesn't sound quite as magical.
+
+TAG: Jasmine_007_f
+I do! Or at least, I think I do.
+
+TAG: Jasmine_008_f
+Really? I'm definitely more accustomed to the heat, but I find the cold fascinating!
+
+TAG: Jasmine_003_f
+All right. I'll be ready whenever you are.
+

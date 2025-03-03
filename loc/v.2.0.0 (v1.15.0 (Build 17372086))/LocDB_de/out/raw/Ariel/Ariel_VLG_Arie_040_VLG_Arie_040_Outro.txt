@@ -1,0 +1,36 @@
+TAG: Ariel_000_f
+They went to all that trouble to hide a little crystal like this?
+
+TAG: Ariel_001_f
+You know, it's funny. It looks just like the crystals on some of the artifacts I found while I was on that desert island.
+
+TAG: Ariel_008_f
+All of this stuff... it must have been made by the people who lived here a long time ago. Before the Forgetting. Before any of us came to the Valley.
+
+TAG: Ariel_002_f
+I'm so glad that we found out about this together, {PlayerName}. It can be our secret.
+
+TAG: Player_000_choice_000_f
+You're a true friend, Ariel.
+
+TAG: Player_000_choice_001_f
+Can't wait for our next adventure!
+
+TAG: Player_000_choice_002_f
+Next time you find a weird door, ask Goofy for help instead, okay?
+
+TAG: Ariel_003_f
+I was just thinking the same thing about you!
+
+TAG: Ariel_006_f
+I want you to have this, to thank you for everything. I just know you'll look amazing in it when we go on our next adventure.
+
+TAG: Ariel_007_f
+Oh my gosh! Look at the runes on all the artifacts I brought back from the deserted island! They're starting to glow!
+
+TAG: Ariel_004_f
+Me too! I have so much fun uncovering mysteries around the Village with you.
+
+TAG: Ariel_005_f
+Well, I can try. But I don't think he'd have been able to solve this mystery.
+

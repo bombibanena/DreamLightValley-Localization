@@ -1,0 +1,96 @@
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Any_CompletedRequestDescription
+Recap the infestation adventure with Pumbaa.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_AvailableDescription
+Pumbaa is ready to take on the Night Mites with Timon â and you!
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_CompletedStoryDescription
+Thanks to you, Timon, and Pumbaa, the Night Mites in the Valley are no more! Things are safe once again.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_DisplayName
+The Infestation Part 2
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_Step02_StepDescription
+Night Mite Nests.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_Step03_StepDescription
+Mega Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_StepDescription
+Clear the Meadow, the Glade of Trust, and Dazzle Beach from:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_StoryDescription
+You and Pumbaa head to the Meadow to search for Night Mite Nests â and to eradicate them.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group03_Step04_TalkToCharacter02_StepDescription
+Get an update from {TargetNPC} on the infestation.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group04_Step05_TalkToCharacter03_StepDescription
+Regroup with {TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group05_Step06_VisitArea01_StepDescription
+Go inside Prince Eric's Castle.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group06_Step07_StepDescription
+Clear Prince Eric's Castle of Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group07_Step08_Interaction01_StepDescription
+Double-check Prince Eric's Castle for remaining Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group08_Step09_StepDescription
+Clear Prince Eric's Castle of the remaining Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group09_Step10_TalkToCharacter04_StepDescription
+Talk to {TargetNPC} about the next steps to rid the Valley of Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step11_StepDescription
+Mike and Sulley's Apartment.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step12_StepDescription
+Daisy's House.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step13_StepDescription
+WALLÂ·E's Truck.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_StepDescription
+Clear Villager homes of Night Mites:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group11_Step14_TalkToCharacter05_StepDescription
+Get the "all clear" on Villager Houses from {TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group12_Step15_TalkToCharacter06_StepDescription
+Talk to {TargetNPC} for a Night Mite update.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group12_StoryDescription
+After clearing Night Mites out of Prince Eric's Castle, as well as the homes of various Villagers, you meet up with Timon to track down the last of the Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group13_Step16_VisitArea02_StepDescription
+Go inside Jack Skellington's House.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group14_Step17_TalkToCharacter07_StepDescription
+Ask {TargetNPC} if he's seen Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group15_Step18_StepDescription
+Search Jack Skellington House's for Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group16_Step20_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group16_Step21_StepDescription
+Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group16_StepDescription
+Clear Jack Skellington's House of:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group17_Step22_TalkToCharacter08_StepDescription
+Check in with {TargetNPC} for an infestation update.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group17_StoryDescription
+You discover the last of the Valley's Night Mites â Jack Skellington wanted to hold on to them as a curiosity! With the Mites safely taken away, you regroup with Pumbaa.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group18_Step23_Conditional02_StepDescription
+Progress further with Timon in The Infestation Part 3.
+

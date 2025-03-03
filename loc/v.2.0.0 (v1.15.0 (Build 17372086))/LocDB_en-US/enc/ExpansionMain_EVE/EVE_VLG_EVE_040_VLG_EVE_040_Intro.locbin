@@ -1,0 +1,33 @@
+
+
+	EVE_001_fEVE. Directive.
+:
+Player_000_choice_000_fLet's find you a new directive!
+0
+Player_000_choice_001_fSorry, not right now.
+
+	EVE_002_fHmm...
+h
+	EVE_004_f[So you're bored when it comes to gardening. You need something a little more adventurous...
+=
+	EVE_005_f0And you're really good at making things explode.
+
+	EVE_006_f*giggle*
+]
+Player_001_fMI think I know who would be the perfect partner-in-crime for you... Stitch...
+=
+Player_001_choice_000_f"He shares your sense of adventure.
+3
+Player_001_choice_001_fHe's been to space, too.
+8
+Player_001_choice_002_fHe loves when things go boom.
+
+	EVE_008_fOh!
+!
+	EVE_011_fI'll go talk to him.
+
+	EVE_009_fOoh!
+
+	EVE_010_fHa!
+
+	EVE_003_f*sigh*

@@ -1,0 +1,33 @@
+TAG: Aladdin_000_f
+Whoa, {PlayerName}! You're a really good scout.
+
+TAG: Aladdin_001_f
+Are ya ready for the next part of the plan?
+
+TAG: Player_000_choice_000_f
+Bring it on!
+
+TAG: Player_000_choice_001_f
+I'm getting nervous...
+
+TAG: Player_000_choice_002_f
+Let's break into that vault!
+
+TAG: Aladdin_003_f
+Okay, I've been thinking about this...
+
+TAG: Aladdin_005_f
+We need to be able to move quickly and quietly. You never know when you'll have to make a quick getaway.
+
+TAG: Aladdin_006_f
+Sounds like I should <Lore>put on some sporty clothes</Lore>.
+
+TAG: Aladdin_007_f
+Great idea. And remember: Master thieves usually work at night. We might wanna consider that.
+
+TAG: Aladdin_002_f
+Don't worry; I'll be with you the whole time. And remember: This is to help Mr. McDuck. Okay now...
+
+TAG: Aladdin_004_f
+Hold on! Rushing in isn't a great idea.
+

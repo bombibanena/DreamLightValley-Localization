@@ -1,0 +1,107 @@
+
+d
+CVillage!ToyStory!Woody!VLG_Wood_020_Any_CompletedRequestDescriptionПоговори с Вуди.
+�
+8Village!ToyStory!Woody!VLG_Wood_020_AvailableDescription�Вуди готов начать ремонт Каруселя и попросить вашей помощи. Вы решили пойти и спросить Кристофф о совете.
+�
+=Village!ToyStory!Woody!VLG_Wood_020_CompletedStoryDescription�После того, как вы собрали все части "Когтевой Машины" и "Иностранных игрушек", вы возвращаете их на Вуди.
+O
+/Village!ToyStory!Woody!VLG_Wood_020_DisplayNameНемного сверху.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+z
+TVillage!ToyStory!Woody!VLG_Wood_020_Group01_Step01_TalkToCharacter01_StepDescription"Посмотри Кристофф.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group02_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что нам нужно?
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess01_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess02_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess03_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess04_StepDescription{ItemName}.
+}
+BVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_StepDescription7Соберите следующие материалы:
+�
+<Village!ToyStory!Woody!VLG_Wood_020_Group02_StoryDescription�Кристофф имел блестящую идею: создать комплект по ремонту каруселей. Вы отправились в поисках материалов, чтобы сделать его.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group03_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+NVillage!ToyStory!Woody!VLG_Wood_020_Group03_Step03_CraftItem01_StepDescriptioncПодготовить комплект для ремонта <ActivityItem>Carusel</ActivityItem>.
+�
+CVillage!ToyStory!Woody!VLG_Wood_020_Group04_Step04_ReadyDescriptionYПередайте <ActivityItem> Carousel Reconstruction Kit </ActivityItem>to Вуди.
+�
+BVillage!ToyStory!Woody!VLG_Wood_020_Group04_Step04_StepDescription�Удостоверьтесь, что в вашем списке есть "починка" <ActivityItem>Carousel Kit</ActivityItem>.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group05_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+TVillage!ToyStory!Woody!VLG_Wood_020_Group05_Step05_FollowCharacter01_StepDescription7Встретимся на Вуди в Каруселе.
+�
+VVillage!ToyStory!Woody!VLG_Wood_020_Group05_Step05_FollowCharacter01_TalkToDescription7Встретимся на Вуди в Каруселе.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group06_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+y
+TVillage!ToyStory!Woody!VLG_Wood_020_Group06_Step06_TalkToCharacter02_StepDescription!Поговори с ВАЛЛ·И.
+�
+<Village!ToyStory!Woody!VLG_Wood_020_Group06_StoryDescription�После ремонта структуры Каруселя нужно решить только один вопрос, и это свет. Вы решаете попросить ВАЛЛ·И о помощи.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group07_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group07_Step07_Possess05_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group07_Step07_Possess06_StepDescription{ItemName}.
+�
+BVillage!ToyStory!Woody!VLG_Wood_020_Group07_Step07_StepDescriptionIНайдите следующие материалы в ВАЛЛ·Иmalm:
+�
+<Village!ToyStory!Woody!VLG_Wood_020_Group07_StoryDescription�Маленький робот ведёт тебя по следу совершенно новой предохранительной коробки для Каруселя.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group08_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_Possess07_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_Possess08_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_Possess09_StepDescription{ItemName}.
+�
+BVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_StepDescriptionfСоберите остальные материалы для взрывательного ящика:
+{
+@Village!ToyStory!Woody!VLG_Wood_020_Group09_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+NVillage!ToyStory!Woody!VLG_Wood_020_Group09_Step09_CraftItem02_StepDescriptionHПриготовить коробку <ActivityItem>Fuse</ActivityItem>.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group10_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+CVillage!ToyStory!Woody!VLG_Wood_020_Group10_Step10_ReadyDescriptionBПередайте <ActivityItem>Fuse box</ActivityItem> Вуди.
+�
+BVillage!ToyStory!Woody!VLG_Wood_020_Group10_Step10_StepDescriptiongУбедитесь, что коробка <ActivityItem>Fuse</ActivityItem> в вашем списке.
+�
+TVillage!ToyStory!Woody!VLG_Wood_020_Group11_Step11_FollowCharacter02_StepDescription3Следуйте за Вуди в Карусель.
+w
+VVillage!ToyStory!Woody!VLG_Wood_020_Group11_Step11_FollowCharacter02_TalkToDescriptionПоговори с Вуди.
+�
+<Village!ToyStory!Woody!VLG_Wood_020_Group11_StoryDescription�После ВАЛЛ·И's <ActivityItem> Blueprints</ActivityItem> вы делаете <ActivityItem>Fuse Box</ActivityItem>. Вы и Вуди теперь готовы снова зажечь Carusel.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group12_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+NVillage!ToyStory!Woody!VLG_Wood_020_Group12_Step12_VisitArea01_StepDescriptionEИдите в Карусель, чтобы оценить ущерб.
+�
+<Village!ToyStory!Woody!VLG_Wood_020_Group12_StoryDescriptionwЧто-то пошло не так, когда Вуди пытался включить свет на Каруселе.
+u
+TVillage!ToyStory!Woody!VLG_Wood_020_Group13_Step13_TalkToCharacter03_StepDescriptionПоговори с Вуди.
+�
+@Village!ToyStory!Woody!VLG_Wood_020_Group14_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+]
+NVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_BringItem03_StepDescription{ItemName}.
+]
+NVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_BringItem04_StepDescription{ItemName}.
+]
+NVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_BringItem05_StepDescription{ItemName}.
+o
+CVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_ReadyDescription(Принесите все на Вуди.
+t
+BVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_StepDescription.Соберите всё из Карузель:
+�
+<Village!ToyStory!Woody!VLG_Wood_020_Group14_StoryDescription�Скачок сломал машину "Когтей" и рассеял несколько игрушек-иностранцев вокруг Каруселя. Вуди просит тебя помочь собрать кусочки.
+g
+6Village!ToyStory!Woody!VLG_Wood_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

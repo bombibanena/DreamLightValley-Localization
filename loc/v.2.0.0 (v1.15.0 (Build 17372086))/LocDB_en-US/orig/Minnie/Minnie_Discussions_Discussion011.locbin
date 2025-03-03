@@ -1,0 +1,41 @@
+
+M
+Minnie_000_f=You know, {PlayerName}, I've been thinking about the weather.
+4
+Minnie_001_f$Really? What's there to think about?
+?
+Minnie_002_f/Well, it's the one thing we all have in common.
+k
+Minnie_003_f[Even if you haven't got anything else to talk about, you can always talk about the weather.
+)
+Minnie_004_fHuh. I guess that's true.
+
+Minnie_005_fNot that I don't have many things to talk to you about. But if we didn't, we could comment on the fact that it's raining today.
+5
+Minnie_007_f%What's your favorite kind of weather?
+'
+Player_000_choice_000_fClear skies.
+ 
+Player_000_choice_001_fRain.
+ 
+Player_000_choice_002_fSnow.
+O
+Minnie_008_f?That is nice. When the sky is clear, you can do so many things!
+H
+Minnie_011_f8You can go bicycling, or play a game, or go on a picnic.
+>
+Minnie_012_f.Or just sit outside and read a wonderful book.
+9
+Minnie_009_f)Oh, I do like it when it rains sometimes.
+Y
+Minnie_013_fIIt's fun to go out with my umbrella and raincoat and smell the fresh air.
+E
+Minnie_014_f5But I also like listening to the rain from my window.
+M
+Minnie_010_f=Oh, snow is so much fun! You can do so many things with it...
+A
+Minnie_015_f1Make snowmen, or snow angels, or throw snowballs.
+?
+Minnie_016_f/And it's so pretty when it's all new and fresh.
+A
+Minnie_006_f1The weather's been so nice in the Village lately.

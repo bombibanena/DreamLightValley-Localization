@@ -1,0 +1,58 @@
+
+1
+	EVE_000_f$Hmm... something bothering you, EVE?
+
+	EVE_001_f*digital beeps*
+8
+	EVE_024_f+Hmm... I'll try to figure out what's wrong.
+
+	EVE_002_fHmm...
+"
+Player_001_fAre you feeling...
+%
+Player_001_choice_000_f
+...scared?
+&
+Player_001_choice_001_f...anxious?
+"
+Player_001_choice_002_f...sad?
+"
+	EVE_004_fDirective! Directive!
+b
+	EVE_005_fUI'll start with <Lore>that giant tree with the hanging lanterns near the Well</Lore>.
+
+	EVE_019_f*digital beeps*
+ü
+	EVE_020_fëAnd I'll bet <Lore>the boat I used to get to Eternity Isle</Lore> is making you a little nervous too, huh? I'll scan that to make sure it's safe!
+
+	EVE_021_f*digital beeps*
+}
+	EVE_016_fpHmm... those <Lore>giant statue faces</Lore> poking out everywhere around Ancient's Landing seem a little scary.
+x
+	EVE_017_fkI'll start by <Lore>taking a picture of the one in the tunnel between the Docks and the Courtyard</Lore>...
+
+	EVE_018_f*digital beeps*
+ê
+	EVE_022_fÇOh, is that <Lore>strange doorway between the two waterfalls</Lore> making you a bit nervous too? Don't worry. I'll scan that too.
+
+	EVE_023_f*digital beeps*
+D
+	EVE_008_f7Oh, EVE... are you having trouble relaxing? Is that it?
+ 
+	EVE_009_f*sigh* Directive...
+p
+	EVE_010_fcYou were looking out for dangers for so long that now you don't know how to stop. I know how it is.
+E
+	EVE_011_f8But hey... you're not alone here anymore. You've got me!
+
+	EVE_012_fOh.
+{
+	EVE_013_fnWhy don't I use my own "scanner"... my Camera... to make sure there are no dangers so you won't have to worry?
+
+	EVE_014_fHuh?
+w
+	EVE_015_fjI'll <Lore>take pictures of any possible dangers around the Docks</Lore> to show you they're not a threat.
+
+	EVE_006_fNo!
+
+	EVE_007_fClassified!

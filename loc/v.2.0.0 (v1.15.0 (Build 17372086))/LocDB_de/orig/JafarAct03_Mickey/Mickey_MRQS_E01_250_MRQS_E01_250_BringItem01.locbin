@@ -1,0 +1,47 @@
+
+N
+Mickey_000_f>Hey, it IS an old <ActivityItem>Film Projector</ActivityItem>!
+
+Mickey_001_fYou're right!
+e
+Mickey_002_fUHuh... I think it's the projector I helped EVE and WALL·E make! How'd that get here?
+D
+Player_000_choice_000_f)There's gotta be some way it can help us.
+N
+Player_000_choice_001_f3What good is this thing? It seems pretty useless...
+]
+Player_000_choice_002_fBI guess if we can't stop Jafar, we can at least watch some movies.
+%
+Mickey_003_fHmm... Let's think...
++
+Mickey_010_fBut how do we get up to it?
+i
+Mickey_011_fYWelp, I noticed a lot of other junk lyin' around the island that we might be able to use.
+>
+Player_001_choice_000_f#Great idea! We can build something!
+P
+Player_001_choice_001_f5We need more than junk to reach that hole in the sky.
+3
+Mickey_004_f#Say... have ya tried turnin' it on?
+9
+Mickey_005_f)Guess I'll just press this button here...
+4
+Mickey_006_f$WHOA! Did ya see that, {PlayerName}?
+8
+Mickey_007_f(The projector punched a hole in the sky!
+2
+Mickey_008_f"And look what's on the other side!
+$
+Mickey_009_fJafar's throne room!
+%
+Mickey_012_fI like your thinkin'!
+c
+Mickey_013_fSAll we gotta do is set our minds to it and we can do anything, if we work together!
+V
+Mickey_014_fFI'll <Lore>search the island</Lore>. Let me know if you spot anything.
+e
+Mickey_015_fUHey, ya never know. This old projector looked like junk, right? And look what it did!
+O
+Mickey_016_f?Aw, we can't give up. There's gotta be some way it can help us.
+s
+Mickey_017_fcGee, I'd love to have a movie night with ya, pal, but how 'bout we do that AFTER we get outta here?

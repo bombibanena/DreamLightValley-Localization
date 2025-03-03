@@ -1,0 +1,75 @@
+TAG: Scar_001_f
+You've done it. Bravo!
+
+TAG: Scar_002_f
+Now, just give that pesky thing to me.
+
+TAG: Scar_003_f
+The Orb of Nurturing...? What would you want with that?
+
+TAG: Scar_004_f
+Oh, only for safekeeping, of course. I may not understand exactly what it is... but I know something powerful and dangerous when I see it.
+
+TAG: Scar_005_f
+<Forgotten>(He IS tricking me. He's tricking me just like Mother Gothel did.)</Forgotten>
+
+TAG: Player_000_choice_000_f
+YOU...
+
+TAG: Player_000_choice_001_f
+CAN'T...
+
+TAG: Player_000_choice_002_f
+TRICK ME!
+
+TAG: Scar_007_f
+I know exactly what you're trying to do! And I'm not gonna fall for it!
+
+TAG: Scar_008_f
+Oh dear. Temper, {PlayerName}. Can't you see that you've already done exactly what I wanted?
+
+TAG: Scar_009_f
+Look at everything you've broken.
+
+TAG: Scar_010_f
+The other Villagers will never forgive you for this.
+
+TAG: Player_001_choice_000_f
+What have I done...
+
+TAG: Player_001_choice_001_f
+You're wrong.
+
+TAG: Player_001_choice_002_f
+AGGGHHHH!!!
+
+TAG: Scar_011_f
+Oh, there's no point in worrying.
+
+TAG: Scar_014_f
+I can easily fix this for you. Simply let ME rule Dreamlight Valley. It will be an immense burden, but I'm prepared to make the sacrifice.
+
+TAG: Scar_015_f
+Besides, it's really your only choice. Make me king and stand at my side...
+
+TAG: Scar_016_f
+...or run away and never return.
+
+TAG: Scar_017_f
+...
+
+TAG: Scar_018_f
+You'll never be king, Scar. I'll make sure of that.
+
+TAG: Scar_000_f
+AHH! You ingrate! After all I've done for you.
+
+TAG: Scar_006_f
+If you come to your senses, I'll be in my cave!
+
+TAG: Scar_012_f
+Am I? You can only fool yourself for so long. You must see how the Villagers are ignoring you more and more. How it seems like they're looking right through you?
+
+TAG: Scar_013_f
+Oh, do try to keep your emotions in check, {PlayerName}. You've no need to fear.
+

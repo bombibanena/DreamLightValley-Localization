@@ -1,0 +1,45 @@
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Any_CompletedRequestDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_AvailableDescription
+Скрудж Макдак хочет поговорить с вами.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_DisplayName
+Часть 2 Охота на сокровища
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group02_Step02_BringItem01_StepDescription
+Обыщите все места в Памятье на предмет признаков сокровищ.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group02_Step02_BringItem02_StepDescription
+Грудь.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group02_Step02_ReadyDescription
+Принесите Скрудж Макдак то, что нашли.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group02_StoryDescription
+После того, как ты найдёшь грудную клетку и починишь ключ, тебе просто нужно вернуть все обратно на Скрудж Макдак и получить свою долю в добыче.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group03_Step11_Possess02_StepDescription
+Грудь.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group03_Step11_Possess04_StepDescription
+Ключи.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group03_Step11_StepDescription
+Найдите все кусочки спрятанного сокровища:
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group03_StoryDescription
+Вооружен как знаниями, так и <ActivityItem>Lenses Теней</ActivityItem>, вы начинаете охотиться за сокровищем.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group06_StoryDescription
+Мерлин ставит вас на след ключей и чего-то под названием <ActivityItem>Lenses из Теней</ActivityItem>. Скрудж Макдак имеет <ActivityItem>Lenses из Теней</ActivityItem>. Чтобы найти ключи, вам нужно начать с изучения карты.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group08_Step10_TalkToCharacter02_StepDescription
+Возвращайтесь к Скрудж Макдак с тем, что вы нашли.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_Group09_StoryDescription
+Ему удалось собрать части карты, но он озадачен странной надписью и предполагает сотрудничество в поисках сокровищ. Вы получите даже процент прибыли. Ваша первая задача - попросить Мерлин расшифровать слова на карте.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_060_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

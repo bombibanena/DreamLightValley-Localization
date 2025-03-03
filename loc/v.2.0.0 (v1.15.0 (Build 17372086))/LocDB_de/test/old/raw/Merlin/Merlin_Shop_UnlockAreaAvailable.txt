@@ -1,0 +1,30 @@
+TAG: Merlin_000_f
+{Placeholder}Hi, не хотите открыть этот биом?
+
+TAG: Player_000_choice_000_f
+{Placeholder} Да, давайте сделаем это.
+
+TAG: Player_000_choice_001_f
+{Placeholder} Не сейчас, я боюсь.
+
+TAG: Player_000_choice_002_f
+{Placeholder} Что это?
+
+TAG: Merlin_001_f
+{Placeholder} Вот так: новый биом.
+
+TAG: Merlin_002_f
+{Placeholder} Всё в порядке, там могут быть новые зла и опасности.
+
+TAG: Merlin_003_f
+{Placeholder} Откройте биом.
+
+TAG: Merlin_016_f
+{Placeholder} Вы не можете открыть этот Biome. Вам нужен {UpgradePrice} DreamLight, и {CharactersUnlocked} символы открыты.
+
+TAG: Player_001_choice_000_f
+{Placeholder}Oky, я получу то, что мне нужно.
+
+TAG: Merlin_017_f
+{Placeholder}Good, идиот мой ребёнок.
+

@@ -1,0 +1,49 @@
+
+2
+Gaston_004_f"All done showing off the pictures!
+X
+Gaston_013_fHYou could have just been honest. There's no need for the whole pretense.
+U
+Gaston_014_fE{PlayerName}, have you learned nothing from the Gastonian Experience?
+'
+Player_000_choice_000_fI guess not.
+(
+Player_000_choice_001_fOh no, I did.
+.
+Gaston_005_fExcellent. Did Maui like them?
+C
+Gaston_006_f3Maui? Well, he did like the coconut workout gear...
+p
+Gaston_007_f`But he also said that you should spend more time working out if you want a neck as thick as his.
+
+Gaston_008_fOh...
+/
+Gaston_009_fGaston... are you about to cry?
+J
+Gaston_010_f:No! Crying is not Gastonian! I'm... sweating from my eyes.
+N
+Gaston_011_f>Was all of this just so you could talk to Maui? Make a friend?
+
+Gaston_012_fOf course not!
+[
+Gaston_015_fKWell, at least you can continue to improve your neck with the workout gear.
+`
+Gaston_016_fPBut I'm sorry to say that you just don't understand what it's like to be Gaston.
+D
+Gaston_017_f4All this cleverness of yours? It... gets in the way!
+6
+Player_001_choice_000_fIt's true: I am too clever.
+>
+Player_001_choice_001_f#Gaston, no, I can dumb myself down!
+C
+Gaston_018_f3You'll never be a new LeFou or work as my sidekick.
+(
+Gaston_020_fI... I want to be alone.
+p
+Gaston_021_f`All right, we can talk later, I guess. But I think what you're really in need of is... a friend.
+E
+Gaston_022_f5Perhaps you're right. I'll consider what you've said.
+3
+Gaston_023_f#At least you did improve your neck.
++
+Gaston_019_fOh, it's too late for that.

@@ -1,0 +1,60 @@
+TAG: Goofy_003_f
+Say, {PlayerName}, I think there might be something fishy goin' on around here.
+
+TAG: Player_000_choice_000_f
+What makes you think that?
+
+TAG: Player_000_choice_001_f
+Is that a pun...?
+
+TAG: Player_000_choice_002_f
+What else is new?
+
+TAG: Goofy_005_f
+See, I was fishin' down near Dazzle Beach, and I saw this funny thing in the water.
+
+TAG: Goofy_006_f
+Right. There's some sort of mystical rift. Nala and I are trying to figure out what's going on.
+
+TAG: Goofy_007_f
+Yep, I saw that, but that's not all.
+
+TAG: Goofy_008_f
+I cast out my line near the rifty thing, and then I saw this funny fish swimmin' out of it!
+
+TAG: Player_001_choice_000_f
+What did the fish look like?
+
+TAG: Player_001_choice_001_f
+Did you catch it?
+
+TAG: Player_001_choice_002_f
+Funny... how?
+
+TAG: Goofy_010_f
+Ya know how lotsa fish are sleek and kinda pretty? This wasn't like that at all.
+
+TAG: Goofy_011_f
+It had big bulgin' eyes comin' outta the top of its head. And it was glowing real odd-like and shiny.
+
+TAG: Goofy_009_f
+One look at it, and I hightailed it back to the Meadow!
+
+TAG: Goofy_013_f
+I didn't wanna lose another fishin' rod tryin' to catch it. I'm on my fifth one this week.
+
+TAG: Goofy_014_f
+Uncle Scrooge says he's gonna have to start ordering 'em in bulk!
+
+TAG: Goofy_015_f
+Just leave this whole fishy situation to me. I'll try <Lore>catching the weird fish near the rift.</Lore>
+
+TAG: Goofy_012_f
+Nuh-uh. It looked like trouble.
+
+TAG: Goofy_000_f
+Well, I didn't mean it to be, but now that you mention it, I guess it is!
+
+TAG: Goofy_001_f
+Hmm... I s'pose we do have a lot of fishy things going on in the Village. But this one's EXTRA fishy.
+

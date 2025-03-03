@@ -1,0 +1,66 @@
+TAG: Olaf_000_f
+{PlayerName}, you're older, and thus all-knowing. Do you ever worry about the notion that nothing is permanent?
+
+TAG: Player_000_choice_000_f
+Yes.
+
+TAG: Player_000_choice_001_f
+No.
+
+TAG: Player_000_choice_002_f
+What?
+
+TAG: Olaf_001_f
+Really? Tell me: How do you cope with the constant uncertainty of the ever-shifting landscape of life?
+
+TAG: Player_001_choice_000_f
+Friends.
+
+TAG: Player_001_choice_001_f
+Ignoring it.
+
+TAG: Player_001_choice_002_f
+What?
+
+TAG: Olaf_002_f
+Oh, that makes sense. I too find friendship very comforting.
+
+TAG: Olaf_003_f
+Huh... But does ignoring things make them go away? I fear there could be some unanticipated long-term effects.
+
+TAG: Olaf_004_f
+What indeed. And also "why." When faced with the staggering complexities and mysteries of life, both are very significant questions.
+
+TAG: Olaf_005_f
+Oh, and we can't forget "who"! Who are we to ask such questions, really?
+
+TAG: Olaf_006_f
+Really? Anna said the same thing. I can't wait until I'm ancient like both of you, so I don't have to worry about important things.
+
+TAG: Olaf_007_f
+How old do you think I need to be for everything in the world to make sense?
+
+TAG: Player_002_choice_000_f
+At least five.
+
+TAG: Player_002_choice_001_f
+Maybe forty?
+
+TAG: Player_002_choice_002_f
+Never.
+
+TAG: Olaf_008_f
+I have to wait that long for all of my existential worries to be resolved? Wow. Growing up takes forever!
+
+TAG: Olaf_009_f
+Whoa! That old?! There's so much uncertainty. I wonder if I can accelerate it by reading more.
+
+TAG: Olaf_010_f
+Mr. McDuck is going to have to order me a LOT more books!
+
+TAG: Olaf_011_f
+Oh. I hadn't anticipated that.
+
+TAG: Olaf_012_f
+Oh well. I guess it's time to resign myself to the perpetual anxiety of existence!
+

@@ -1,0 +1,102 @@
+TAG: JackSkellington_004_f
+{PlayerName}... вы смогли узнать все мысли по праздникам?
+
+TAG: JackSkellington_017_f
+Ну, тогда я знаю, что ей делать!
+
+TAG: JackSkellington_031_f
+Что ты планируешь?
+
+TAG: JackSkellington_032_f
+Это сюрприз!
+
+TAG: JackSkellington_033_f
+Можно подсказку?
+
+TAG: JackSkellington_034_f
+Хм...
+
+TAG: JackSkellington_035_f
+Все, что я скажу, это то, что люди говорят, что сначала ты ешь своими глазами, но это не будет правдой...
+
+TAG: JackSkellington_013_f
+Как загадочно, а как же остальные?
+
+TAG: JackSkellington_018_f
+Ну, мне понадобится твоя помощь для них.
+
+TAG: Player_000_choice_000_f
+Что мне делать для Ваниллопа?
+
+TAG: Player_000_choice_001_f
+Что мне делать для Шрам?
+
+TAG: Player_000_choice_002_f
+Что мне делать для Олаф?
+
+TAG: JackSkellington_006_f
+Ура!
+
+TAG: JackSkellington_005_f
+Ваниллопа, кажется, действительно заинтригован идеей каникул по теме отдыха.
+
+TAG: JackSkellington_009_f
+И Шрам очень нравится идея праздника, когда подопытные воздают ему должное.
+
+TAG: JackSkellington_008_f
+Хм, да, у меня уже есть кое-какие идеи...
+
+TAG: JackSkellington_011_f
+Олаф любит собирать информацию о своих друзьях, чтобы он мог дарить им идеальные подарки.
+
+TAG: JackSkellington_014_f
+И Минни Маус... удивительно любит Хэллоуин.
+
+TAG: JackSkellington_015_f
+Разве она не прекрасна?
+
+TAG: JackSkellington_016_f
+Минни Маус говорит, что она любит веселый испуг.
+
+TAG: JackSkellington_019_f
+Я хочу дать ей особый символ игрового времени.
+
+TAG: JackSkellington_020_f
+Не могли бы вы сделать мне ярко-красный <ActivityItem>Candy Schull</ActivityItem>? Вам понадобится <ActivityItem>Sugarcane</ActivityItem>, <ActivityItem>Vanilla</ActivityItem>, и <ActivityItem>Dreamlight Fruit</ActivityItem>.
+
+TAG: JackSkellington_021_f
+Я буду <Lore>spic на Реми</Lore>. Делать конфеты может быть сложно!
+
+TAG: JackSkellington_036_f
+Спасибо, {PlayerName}.
+
+TAG: JackSkellington_000_f
+У меня есть идеальная идея для сюрприза Шрам!
+
+TAG: JackSkellington_001_f
+Нам нужны свежие овощи.
+
+TAG: JackSkellington_002_f
+Можете вырастить <ActivityItem>Zucchini</ActivityItem>, <ActivityItem>Potatoes</ActivityItem>, <ActivityItem>Tomatoes</ActivityItem>, и <ActivityItem>Bell Peppers</ActivityItem> в Забытых землях и принести их мне?
+
+TAG: JackSkellington_003_f
+Овощи, выращенные в забытых землях?
+
+TAG: JackSkellington_007_f
+Ну, я взял образцы почвы из каждой из биом, и в земле забытых земель есть какая-то захватывающая магия.
+
+TAG: JackSkellington_010_f
+Шрам кажется мне довольно изощренным, и я уверен, что почва забытых земель создаст изысканные овощи.
+
+TAG: JackSkellington_026_f
+Я хочу помочь Олаф изучить его радость тривии, поделившись с ним особенными книгами.
+
+TAG: JackSkellington_027_f
+Не могли бы вы собрать <ActivityItem>Fiber</ActivityItem>, <ActivityItem>Dark Wood</ActivityItem> и <ActivityItem>Fabric</ActivityItem>?
+
+TAG: JackSkellington_028_f
+Они вам понадобятся для изготовления книги <ActivityItem>Blank</ActivityItem>.
+
+TAG: JackSkellington_029_f
+Конечно!
+

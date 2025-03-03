@@ -1,0 +1,24 @@
+TAG: Rapunzel_000_f
+Did you hear that, {PlayerName}?! I just heard Mother's voice again! And look â these strange rocks just appeared.
+
+TAG: Rapunzel_004_f
+I heard her voice too! Just remember it's not REALLY her... It's some kind of magic.
+
+TAG: Rapunzel_005_f
+Right... Okay... I will TRY not to worry about that. Did you find the <ActivityItem>Vine Seeds</ActivityItem>?
+
+TAG: Rapunzel_007_f
+I did!
+
+TAG: Rapunzel_002_f
+That's fantastic! While you were gone, I cleared a spot for each vine. All you have to do is <Lore>plant them</Lore>.
+
+TAG: Rapunzel_001_f
+Once I put them down, my Hourglass can take care of the rest. We'll have instant vines! Are you ready, Rapunzel?
+
+TAG: Rapunzel_003_f
+No... Yes?
+
+TAG: Rapunzel_006_f
+... Yes. This is what we have to do.
+

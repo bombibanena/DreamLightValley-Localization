@@ -1,0 +1,25 @@
+
+7
+Beast_000_f({PlayerName}. You talk to people. Often.
+9
+Beast_001_f*You're very good at it. How did you learn?
+$
+Player_000_choice_000_f	Practice.
+.
+Player_000_choice_001_fIt comes naturally.
++
+Player_000_choice_002_fAm I good at it?
+F
+Player_000_choice_003_f+I always worry about what I'm going to say.
+K
+Beast_002_f<Hrmph, I suppose I shouldn't have expected an easy answer...
+
+Beast_003_fJust keep at it!
+M
+Beast_004_f>You'll find you get more comfortable the more people you meet.
+!
+Beast_005_fYou're very lucky.
++
+Beast_006_fYes. And everyone likes you.
+8
+Beast_007_f)I would not have thought that to be true.

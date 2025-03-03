@@ -1,0 +1,69 @@
+TAG: MotherGothel_000_f
+Я тебя не узнала, ты выглядишь ужасно...
+
+TAG: MotherGothel_001_f
+А теперь скажи мне, что тебе нужно.
+
+TAG: Player_000_choice_000_f
+Мне нужна информация о проклятии.
+
+TAG: Player_000_choice_001_f
+Просто хотел удовольствия вашей компании.
+
+TAG: Player_000_choice_002_f
+Вы поможете деревенству?
+
+TAG: MotherGothel_002_f
+Ну, я мог бы помочь... без магии Рапунцель, я бы не был таким серьёзным, как должен, ты бы не оставил бедную женщину в беде, не так ли?
+
+TAG: Player_001_choice_000_f
+Помочь тебе - это правильно.
+
+TAG: Player_001_choice_001_f
+Лучше бы информация того стоила!
+
+TAG: MotherGothel_003_f
+А теперь принеси мне немного еды, и я дам тебе кое-какую информацию.
+
+TAG: MotherGothel_009_f
+Но не просто еда.
+
+TAG: MotherGothel_010_f
+На днях я видел, как кто-то в Ресторане в деревне ел блюдо, выглядящее красотой.
+
+TAG: MotherGothel_011_f
+Рыба скатилась в рис, очень умная идея, правда.
+
+TAG: Player_000_choice_003_f
+Это называется "Ролл <ActivityItem>Sushi</ActivityItem>".
+
+TAG: Player_000_choice_004_f
+Должно быть, что-то вроде ролла <ActivityItem>Sushi</ActivityItem>.
+
+TAG: MotherGothel_012_f
+О, мне нравится, интересно... эта маленькая крыса тоже звала меня суши?
+
+TAG: MotherGothel_013_f
+Вообще-то, мне бы тоже понравилось!
+
+TAG: MotherGothel_015_f
+Теперь, если я правильно помню, <ActivityItem>Lobster Roll</ActivityItem> был сделан из <ActivityItem>Lobster</ActivityItem>, <ActivityItem>Wheat</ActivityItem>, <ActivityItem>Lemon</ActivityItem>, <ActivityItem>Butter</ActivityItem>, и </ActivityItem>0Garlic</ActivityItem>1.
+
+TAG: MotherGothel_014_f
+Будь дорогой и принеси мне <ActivityItem>Sushi</ActivityItem> и <ActivityItem>Lobster Roll</ActivityItem>.
+
+TAG: MotherGothel_004_f
+А теперь принеси мне немного еды, и я дам тебе кое-какую информацию.
+
+TAG: MotherGothel_005_f
+Я знаю, что ты в сговоре с Морской Ведьмой, ей нужна информация о проклятии, не так ли?
+
+TAG: MotherGothel_007_f
+Ну, я тоже хочу кое-что для себя, и я скажу тебе все, что тебе нужно знать.
+
+TAG: MotherGothel_006_f
+Я знаю, что ей любопытно проклятие, и я слышал, что она любит сделки.
+
+TAG: MotherGothel_008_f
+Принеси мне то, что я хочу, и я расскажу тебе все, что знаю.
+

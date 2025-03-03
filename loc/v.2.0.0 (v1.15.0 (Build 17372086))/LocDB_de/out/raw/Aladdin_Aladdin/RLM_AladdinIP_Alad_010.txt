@@ -1,0 +1,84 @@
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Any_CompletedRequestDescription
+Return to Aladdin in the <ActivityItem>South Market</ActivityItem>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_AvailableDescription
+You have reached Aladdin, who was trapped on the Agrabah rooftops! Now freed, he's ready to help you make your way to the South Market and see if anything useful can be scavenged.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_CompletedStoryDescription
+Once you cleared up the South Market, Aladdin was able to find a strange amulet! Maybe Jasmine will be able to tell you more about it.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_DisplayName
+Brave the Storm
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group01_Step01_FollowCharacter01_TalkToDescription
+Talk to {TargetNPC} on the rooftops.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group01_StepDescription
+Meet Aladdin near the edge of the roof.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group02_Step02_Possess01_StepDescription
+{ItemName}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group02_Step02_Possess02_StepDescription
+{ItemName}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group02_Step02_Possess03_StepDescription
+{ItemName}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group02_StepDescription
+Scavenge building materials from the South-East Rooftops:
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group03_Step03_FillKeyhole01_StepDescription
+Place the items on the roof's edge near Aladdin to make a bridge.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group04_Step04_FollowCharacter02_StepDescription
+Make your way farther across the Center Rooftops with {TargetNPC}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group04_Step04_FollowCharacter02_TalkToDescription
+Talk to {TargetNPC} on the rooftops.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group05_Step05_VisitArea01_StepDescription
+Return to the Aladdin Realm.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group06_Step06_FollowCharacter03_TalkToDescription
+Talk to {TargetNPC} on the Center Rooftops.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group06_StepDescription
+Talk to {TargetNPC} on the Center Rooftops.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group08_StepDescription
+Find a way down to the <Lore>South Market</Lore> using what you've learned.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group09_Step11_TalkToCharacter01_StepDescription
+Talk to Aladdin in the <Lore>South Market</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group09_StoryDescription
+You and Aladdin have managed to reach the once-affluent South Market. Perhaps something useful can be found among the wreckage.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group10_Step12_ConsumeItem01_StepDescription
+Use the <Lore>Rose Water</Lore> in your Inventory.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess07_StepDescription
+<Lore>Something sticky</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess08_StepDescription
+{ItemName}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess09_StepDescription
+{ItemName}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group11_Step13_Possess10_StepDescription
+{ItemName}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group11_StepDescription
+Search through the wreckage for what you'll need for the stall repairs.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group12_Step14_TalkToCharacter02_StepDescription
+Talk to {TargetNPC} in the <Lore>South Market</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group13_Step15_CraftItem01_StepDescription
+Craft <ActivityItem>Stall Repair Kits</ActivityItem> at the Crafting Station near Aladdin.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_010_Group14_StepDescription
+Use the <ActivityItem>Stall Repair Kits</ActivityItem> on the broken South Market stalls.
+

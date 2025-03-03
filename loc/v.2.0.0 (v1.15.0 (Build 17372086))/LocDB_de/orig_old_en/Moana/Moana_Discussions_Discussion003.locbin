@@ -1,0 +1,21 @@
+
+L
+Moana_007_f={PlayerName}, I'm curious. Have you ever sailed on the ocean?
+3
+Player_000_choice_000_fI'm afraid of the water.
+0
+Player_000_choice_001_fNever, but I want to!
+@
+Player_000_choice_002_f%Of course I have! The water calls me.
+Z
+Moana_001_fKThat's understandable. The ocean can be frightening, especially in a storm.
+X
+Moana_002_fIBut if you get to know the currents and learn to sail, it can be amazing!
+I
+Moana_005_f:That's great! Maybe someday we can take a voyage together.
+
+Moana_004_fMe too!
+{
+Moana_009_flWhen I was little, I'd go to the shore every chance I got. And one day... the ocean introduced itself to me!
+d
+Moana_008_fUAt least that's what Gramma Tala said. I was just a baby, so I don't really remember.

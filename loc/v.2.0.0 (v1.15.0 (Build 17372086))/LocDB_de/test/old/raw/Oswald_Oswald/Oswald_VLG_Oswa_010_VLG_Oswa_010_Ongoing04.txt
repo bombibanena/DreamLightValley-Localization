@@ -1,0 +1,9 @@
+TAG: Oswald_000_f
+Как поживает мой дом, приятель?
+
+TAG: Oswald_001_f
+Напомнишь мне еще раз, что нам нужно?
+
+TAG: Oswald_002_f
+Ничего сложного, только <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem> Coal</ActivityItem>, и <ActivityItem>Amber</ActivityItem>.
+

@@ -1,0 +1,21 @@
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Any_CompletedRequestDescription
+Talk to Mickey.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_AvailableDescription
+Mickey seems excited about something he's discovered on Eternity Isle. Perhaps you should talk to him.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_DisplayName
+A Game of Coins
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Mickey.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group01_StepDescription
+Mickey has something he needs to show you.
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group02_Step02_StepDescription
+(Talk to Mickey and select Scramblecoin from his dialog menu to play!)
+
+TAG: Story!Expansion01!ORQS_E01_010_BoardGame_Group02_StepDescription
+Win a game of Scramblecoin against Mickey Mouse.
+

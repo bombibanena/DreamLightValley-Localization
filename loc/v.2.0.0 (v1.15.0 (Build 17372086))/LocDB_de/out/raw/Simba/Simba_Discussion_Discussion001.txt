@@ -1,0 +1,75 @@
+TAG: Simba_000_f
+Say, {PlayerName}. What do you think's the most important part of being a good king?
+
+TAG: Player_000_choice_000_f
+Balance.
+
+TAG: Player_000_choice_001_f
+Respect.
+
+TAG: Player_000_choice_002_f
+Power.
+
+TAG: Simba_001_f
+Right... Everything exists in a delicate balance. I need to remember that.
+
+TAG: Player_001_choice_000_f
+What if you slip up?
+
+TAG: Player_001_choice_001_f
+Sounds hard.
+
+TAG: Simba_002_f
+Then you have to find the balance again. Everyone makes mistakes. The important thing is that you learn from them.
+
+TAG: Simba_009_f
+When I was a cub, I thought being king meant you could do whatever you wanted. But I know that's not true now.
+
+TAG: Simba_010_f
+If you had a choice, {PlayerName}, do you think you'd want to be a ruler?
+
+TAG: Player_003_choice_000_f
+Yes.
+
+TAG: Player_003_choice_001_f
+No.
+
+TAG: Player_003_choice_002_f
+I already am.
+
+TAG: Simba_011_f
+I respect that, though I hope it's for the right reasons.
+
+TAG: Simba_012_f
+I don't blame you. Being king is a tough job.
+
+TAG: Simba_013_f
+I guess this Village is your kingdom, isn't it? Well, I hope you rule it well.
+
+TAG: Simba_003_f
+It is hard. But it's also very important.
+
+TAG: Simba_004_f
+That is important. I have to respect all the creatures in my kingdom, from the ants to the antelope.
+
+TAG: Player_002_choice_000_f
+And meerkats.
+
+TAG: Player_002_choice_001_f
+But ants are small.
+
+TAG: Player_002_choice_002_f
+But you eat antelope.
+
+TAG: Simba_005_f
+Hey, have you been talking to my friend Timon? Heh-heh.
+
+TAG: Simba_006_f
+They may be small, but they're still important.
+
+TAG: Simba_007_f
+Yep. And someday, I'll die, and my body will feed the grass. The antelope will eat the grass. It's all part of the Circle of Life.
+
+TAG: Simba_008_f
+That sounds like something Scar would say.
+

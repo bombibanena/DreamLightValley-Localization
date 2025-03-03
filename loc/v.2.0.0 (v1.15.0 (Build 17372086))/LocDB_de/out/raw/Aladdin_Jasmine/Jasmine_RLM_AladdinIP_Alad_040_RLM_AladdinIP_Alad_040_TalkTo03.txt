@@ -1,0 +1,33 @@
+TAG: Jasmine_001_f
+Oh, {PlayerName}... I'm starting to remember all the marvelous times I had here with my friends!
+
+TAG: Jasmine_002_f
+Do you think they remember me?
+
+TAG: Player_000_choice_000_f
+Definitely!
+
+TAG: Player_000_choice_001_f
+Maybe the memories are hazy.
+
+TAG: Player_000_choice_002_f
+If they don't, I'll reintroduce you.
+
+TAG: Jasmine_003_f
+If they were affected by the Forgetting, that doesn't mean they can't regain lost memories!
+
+TAG: Jasmine_006_f
+Thank you, {PlayerName}... This is such a gift.
+
+TAG: Jasmine_007_f
+Having you and Aladdin back is a gift too!
+
+TAG: Jasmine_008_f
+Now you relax, make yourself at home, and I'll have <Lore>Aladdin here with you shortly</Lore>.
+
+TAG: Jasmine_004_f
+But we'll be there to help bring those memories back.
+
+TAG: Jasmine_005_f
+That's the great thing about the Valley â we have all the time we need to make new memories together.
+

@@ -1,0 +1,9 @@
+TAG: JackSkellington_000_f
+Что это? Что-то происходит с Великим Ночным Торном!
+
+TAG: JackSkellington_001_f
+Зелье работает? Ночь Торна сокращается!
+
+TAG: JackSkellington_002_f
+Смотрите, он оставил <ActivityItem>Night Torn Sprout</ActivityItem>! {PlayerName}, не могли бы вы передать его мне?
+

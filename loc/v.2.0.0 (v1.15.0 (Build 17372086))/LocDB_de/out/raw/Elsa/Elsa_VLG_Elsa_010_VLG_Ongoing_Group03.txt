@@ -1,0 +1,15 @@
+TAG: Elsa_000_f
+You wanted to get some Ingredients to make a <ActivityItem>Warmth of Summer Potion</ActivityItem> to improve your Pickaxe.
+
+TAG: Elsa_001_f
+You said you'd need some yellow items for the color, like <ActivityItem>Sunflowers</ActivityItem> and <ActivityItem>Lemons</ActivityItem>.
+
+TAG: Elsa_002_f
+A <ActivityItem>Vial of Ocean Water</ActivityItem> to bring the sun from Dazzle Beach.
+
+TAG: Elsa_005_f
+Some <ActivityItem>Sugarcane</ActivityItem> to bind it together.
+
+TAG: Elsa_003_f
+And some <ActivityItem>Garlic</ActivityItem> for spiciness?
+

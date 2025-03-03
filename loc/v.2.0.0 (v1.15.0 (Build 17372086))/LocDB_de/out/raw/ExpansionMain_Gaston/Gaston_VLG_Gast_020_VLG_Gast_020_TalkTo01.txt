@@ -1,0 +1,57 @@
+TAG: Gaston_002_f
+Look at that: a memory pointing to lost treasures!
+
+TAG: Gaston_003_f
+Well done, Gaston!
+
+TAG: Player_000_choice_000_f
+You just congratulated... yourself?
+
+TAG: Player_000_choice_001_f
+Thanks! Uhh... wait...
+
+TAG: Player_000_choice_002_f
+I'm going to pretend you said "Well done, {PlayerName}."
+
+TAG: Gaston_004_f
+Of course. After all, I'm the one who pointed you down the path of adventure!
+
+TAG: Gaston_017_f
+Gaston the hero, eh? I like the sound of that.
+
+TAG: Gaston_018_f
+Great! Time to start searching!
+
+TAG: Gaston_009_f
+Now, we can go hunt down those lost treasures!
+
+TAG: Gaston_010_f
+Yes! And once I'm in possession of those valuables, Belle will surely be impressed!
+
+TAG: Gaston_011_f
+Gaston... who knows who those treasures actually belong to?
+
+TAG: Gaston_013_f
+You're saying if I find them, I can't keep them?
+
+TAG: Gaston_014_f
+Probably not.
+
+TAG: Gaston_015_f
+You're no fun.
+
+TAG: Gaston_016_f
+Think of it this way: If we can return those items to their owners, you'll be seen as a hero for finding them!
+
+TAG: Gaston_005_f
+Oh, are you wondering why I congratulated myself?
+
+TAG: Gaston_008_f
+Yes!
+
+TAG: Gaston_007_f
+Well, I am the one who pointed you down the path of adventure!
+
+TAG: Gaston_006_f
+Did you say something?
+

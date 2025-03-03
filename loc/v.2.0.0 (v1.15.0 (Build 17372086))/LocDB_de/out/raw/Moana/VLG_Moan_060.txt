@@ -1,0 +1,48 @@
+TAG: Village!Moana!Moana!VLG_Moan_060_Any_CompletedRequestDescription
+Talk to Moana.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_AvailableDescription
+Moana has a project she wants to talk to you about.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_CompletedStoryDescription
+A new constellation appeared in Dreamlight Valley's sky as a result of your actions. Did Moana know it was going to happen?
+
+TAG: Village!Moana!Moana!VLG_Moan_060_DisplayName
+The Ceremony
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I find?
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group01_Step01_Possess01_StepDescription
+<ActivityItem>Stone</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group01_Step01_Possess02_StepDescription
+<ActivityItem>Iron Ingot</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group01_Step01_Possess03_StepDescription
+Find Conchs in the Moana Realm.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group01_StepDescription
+Gather the following items to craft the <ActivityItem>Honored Place</ActivityItem>:
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group01_StoryDescription
+Inspired by Motunui tradition, she wants to celebrate your leadership in the Dreamlight Valley tradition by using the <ActivityItem>Leader Shards</ActivityItem> you found together. You decide to honor Moana as well, but first you need to create an Honored Place for your celebration.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group02_StepDescription
+Place the <ActivityItem>Honored Place</ActivityItem> near your House.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group03_Step06_TalkToCharacter01_StepDescription
+Talk to Moana.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group05_StepDescription
+Place the fragments onto the <ActivityItem>Honored Place</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group05_StoryDescription
+After putting the Honored Place near your House, you place the <ActivityItem>Leader Shards</ActivityItem> on it. Everything is ready for the celebration.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_Group07_Step03_CraftItem01_StepDescription
+Craft the <ActivityItem>Honored Place</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_060_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

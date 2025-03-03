@@ -1,0 +1,17 @@
+
+a
+Stitch_000_fQПривет, {PlayerName}! Стич делает новый танец хулы!
+;
+Stitch_001_f+О чём должен быть танец?
+&
+Player_000_choice_001_fЦветы.
+&
+Player_000_choice_002_fСемья.
+:
+Stitch_003_f*Семья Стич любит цветы.
+8
+Stitch_006_f(Цветы хороши для хулы.
+6
+Stitch_004_f&У Стич хорошая семья.
+
+Stitch_005_foЯ сделаю хулу насчет <font="JosefinSans-MediumItalic SDF">'ohana</font>', моей семьи.

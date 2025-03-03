@@ -1,0 +1,43 @@
+
+�
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Any_CompletedRequestDescription@Возвращайся в Реми за твои награды.
+�
+BRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_AvailableDescriptionMУ Реми есть специальный заказ на доставку!
+k
+9Repeatable!Ratatouille!Remy!RPT_Remy_040_Scar_DisplayName.Приятного аппетита, Шрам!
+�
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group01_Step01_CookMeal01_StepDescriptionUПриготовить 5 <ActivityItem> Seafood Foods</ActivityItem> для Шрам.
+f
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group02_Step02_CookMeal02_StepDescription{ItemName}.
+f
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group02_Step02_CookMeal04_StepDescription{ItemName}.
+�
+ERepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group02_StepDescription:Приготовить для Шрам следующее:
+�
+WRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group03_Step03_CookMeal03_StepDescriptionHПовар <ActivityItem>5-Star Desserts</ActivityItem> для Шрам.
+�
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group04_Step04_ReadyDescriptionMПринесите <ActivityItem> Seafood Foods</ActivityItem> на Шрам.
+�
+LRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group04_Step04_StepDescriptionOВозьмите 5 <ActivityItem> Seafood Foods</ActivityItem> для Шрам.
+g
+XRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_BringItem02_StepDescription{ItemName}.
+g
+XRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_BringItem04_StepDescription{ItemName}.
+�
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_ReadyDescriptionyПринесите <ActivityItem>Tekka Maki</ActivityItem> и <ActivityItem>Maguro суши</ActivityItem> на Шрам.
+�
+LRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group05_Step05_StepDescription4Получите следующее для Шрам:
+�
+MRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group06_Step06_ReadyDescriptionLВозьмите <ActivityItem>5-Star Desserts</ActivityItem> на Шрам.
+�
+LRepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group06_Step06_StepDescriptionNВозьмите <ActivityItem>5-Star Desserts</ActivityItem> для Шрам.
+�
+URepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group07_Step07_Listen01_StepDescriptionOСледуйте за ним и посмотрите, что он делает.
+�
+ERepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group07_StepDescription7Почему Шрам хотел эти десерты?
+�
+^Repeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group08_Step08_TalkToCharacter01_StepDescription4Дайте Шрам суровый разговор.
+�
+ERepeatable!Ratatouille!Remy!RPT_Remy_040_Scar_Group08_StepDescription;Шрам пытался съесть Дональд Дак!
+q
+@Repeatable!Ratatouille!Remy!RPT_Remy_040_Scar_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

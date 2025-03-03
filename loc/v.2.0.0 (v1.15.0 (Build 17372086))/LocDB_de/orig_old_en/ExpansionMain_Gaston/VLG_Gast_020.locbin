@@ -1,0 +1,66 @@
+
+\
+GVillage!BeautyBeast!Gaston!VLG_Gast_020_Any_CompletedRequestDescriptionReturn to Gaston.
+¤
+<Village!BeautyBeast!Gaston!VLG_Gast_020_AvailableDescriptiondGaston is bored! Try to help him get some new hobbies by taking him on a fishing tour of the Tangle.
+¢
+AVillage!BeautyBeast!Gaston!VLG_Gast_020_CompletedStoryDescription]With the treasures returned to their rightful owners, Gaston finally feels like a hero again!
+J
+3Village!BeautyBeast!Gaston!VLG_Gast_020_DisplayNameGaston the... Hero?
+’
+?Village!BeautyBeast!Gaston!VLG_Gast_020_Group01_StepDescriptionOCatch either an Electric Eel, a Piranha, or a Prisma Shrimp in the Wild Tangle.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_020_Group02_Step02_BringItem01_StepDescription{ItemName}.
+j
+GVillage!BeautyBeast!Gaston!VLG_Gast_020_Group02_Step02_ReadyDescriptionShow Gaston what you've caught.
+„
+FVillage!BeautyBeast!Gaston!VLG_Gast_020_Group02_Step02_StepDescription:Make sure you have one of the following in your Inventory:
+a
+PVillage!BeautyBeast!Gaston!VLG_Gast_020_Group03_Step03_Possess01_StepDescriptionAt the Docks.
+a
+PVillage!BeautyBeast!Gaston!VLG_Gast_020_Group03_Step03_Possess05_StepDescriptionIn the Oasis.
+a
+PVillage!BeautyBeast!Gaston!VLG_Gast_020_Group03_Step03_Possess06_StepDescriptionIn the Grove.
+y
+?Village!BeautyBeast!Gaston!VLG_Gast_020_Group03_StepDescription6Find Compass Fragments near water using the Hourglass:
+Ö
+@Village!BeautyBeast!Gaston!VLG_Gast_020_Group03_StoryDescription‘While fishing, Gaston found a fragment of a compass, sparking memories of buried treasure. Track down the missing pieces to complete the compass!
+q
+?Village!BeautyBeast!Gaston!VLG_Gast_020_Group04_StepDescription.Reassemble the compass at a Timebending Table.
+…
+TVillage!BeautyBeast!Gaston!VLG_Gast_020_Group05_Step05_ConsumeItem01_StepDescription-Investigate the {ItemName} in your Inventory.
+k
+XVillage!BeautyBeast!Gaston!VLG_Gast_020_Group06_Step06_TalkToCharacter01_StepDescriptionTalk to Gaston.
+f
+PVillage!BeautyBeast!Gaston!VLG_Gast_020_Group07_Step07_Possess02_StepDescriptionAncient's Landing.
+d
+PVillage!BeautyBeast!Gaston!VLG_Gast_020_Group07_Step07_Possess03_StepDescriptionThe Wild Tangle.
+i
+PVillage!BeautyBeast!Gaston!VLG_Gast_020_Group07_Step07_Possess04_StepDescriptionThe Glittering Dunes.
+z
+?Village!BeautyBeast!Gaston!VLG_Gast_020_Group07_StepDescription7Dig up the treasures in each Biome based on the Memory:
+¿
+@Village!BeautyBeast!Gaston!VLG_Gast_020_Group07_StoryDescription{The completed compass has spawned a Memory of the locations where Gaston hid the treasures â€” try and track them all down.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_020_Group08_Step08_BringItem02_StepDescription{ItemName}.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_020_Group08_Step08_BringItem03_StepDescription{ItemName}.
+a
+RVillage!BeautyBeast!Gaston!VLG_Gast_020_Group08_Step08_BringItem04_StepDescription{ItemName}.
+h
+GVillage!BeautyBeast!Gaston!VLG_Gast_020_Group08_Step08_ReadyDescriptionShow the treasures to Gaston.
+p
+FVillage!BeautyBeast!Gaston!VLG_Gast_020_Group08_Step08_StepDescription&Make sure you found all the treasures:
+T
+FVillage!BeautyBeast!Gaston!VLG_Gast_020_Group09_Step09_StepDescription
+The Brush.
+Y
+FVillage!BeautyBeast!Gaston!VLG_Gast_020_Group09_Step10_StepDescriptionThe Light Bulb.
+\
+FVillage!BeautyBeast!Gaston!VLG_Gast_020_Group09_Step11_StepDescriptionThe Climbing Pick.
+d
+?Village!BeautyBeast!Gaston!VLG_Gast_020_Group09_StepDescription!Find the owners of each treasure.
+¯
+@Village!BeautyBeast!Gaston!VLG_Gast_020_Group09_StoryDescriptionkThe treasures turned out to be lost items belonging to different Villagers. But which item belongs to whom?
+k
+:Village!BeautyBeast!Gaston!VLG_Gast_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,44 @@
+
+4
+
+Remy_001_f&Well, {PlayerName}? How did things go?
+Š
+
+Remy_002_f|Did Simba admit that well-prepared, cooked food can be just as good as a leaf covered in grubs or a bite out of an antelope?
+>
+Player_003_choice_000_f#It was another successful delivery!
+1
+Player_003_choice_001_fThat was a tricky one.
+{
+
+Remy_018_fmYou're getting to be a pro at this. I better watch out or pretty soon you'll be opening up Chez {PlayerName}.
+b
+
+Remy_005_fTHere you go. Some <ActivityItem>Wrought Iron</ActivityItem>, courtesy of Mr. McDuck.
+‘
+
+Remy_006_f‚Use it to build something great for the Village. The more deliveries you do for Chez Remy Mobile, the more we'll be able to order.
+C
+
+Remy_019_f5Hey, I'm sure you did great, just like you always do.
+T
+
+Remy_007_fFDid Jack Skellington like that odd combination of dishes you made him?
+_
+
+Remy_014_fQDid that meal make Scrooge McDuck feel like he was back on the moors of Scotland?
+F
+
+Remy_015_f8Did Kristoff like that chocolate buffet you brought him?
+r
+
+Remy_016_fdDid that pie-eating contest between Goofy and Vanellope work out? Nobody ate TOO much pie, did they?
+K
+
+Remy_017_f=Was Mickey excited for his ice-fishing expedition with Goofy?
+
+
+Remy_020_fqDid Woody like the food we sent over for him and Buzz? I heard it was for some sort of monster movie reenactment.
+7
+
+Remy_022_f)Was Merlin happy with his thank-you meal?

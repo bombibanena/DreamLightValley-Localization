@@ -1,0 +1,23 @@
+
+#
+Goofy_000_fHowdy, {PlayerName}!
+‹
+Goofy_001_f|Say, what's that? And how come it smells like havin' a picnic with my best pals in the Peaceful Meadow on a sunny afternoon?
+j
+Goofy_002_f[It's a gift from Ursula and... Wait. Is your favorite thing picnics in the Peaceful Meadow?
+-
+Goofy_003_fGawrsh... I think it might be!
+
+Goofy_004_fWhat about you?
+6
+Player_000_choice_000_fIt's my favorite thing too!
+E
+Player_000_choice_001_f*I like it, but it's not my favorite thing.
+H
+Player_000_choice_002_f-The mention of the Meadow gives me hay fever.
+7
+Goofy_005_f(Wow! No wonder we're such great friends.
+M
+Goofy_006_f>Aw, I bet you have lots of favorite things. No need to choose!
+i
+Goofy_007_fZWelp, if ya need it, you can borrow my favorite handkerchief. I'll even go wash it for ya!

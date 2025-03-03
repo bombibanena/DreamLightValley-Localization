@@ -1,0 +1,6 @@
+TAG: Kristoff_000_f
+Отлично, у нас есть все, что нужно для создания моего нового <ActivityItem>Stall</ActivityItem>. Спасибо, {PlayerName}!
+
+TAG: Kristoff_001_f
+Полагаю, теперь нам просто нужно построить <ActivityItem>Stall</ActivityItem> и поместить его в Виллидж.
+

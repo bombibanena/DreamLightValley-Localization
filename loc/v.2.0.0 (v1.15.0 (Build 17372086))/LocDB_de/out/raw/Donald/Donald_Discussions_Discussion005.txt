@@ -1,0 +1,63 @@
+TAG: Donald_000_f
+Hey! {PlayerName}! Who do you think you are? I just heard you call me a blockhead!
+
+TAG: Player_000_choice_000_f
+I didn't say that!
+
+TAG: Player_000_choice_001_f
+Donald, calm down. Don't be a hothead.
+
+TAG: Player_000_choice_002_f
+You are a blockhead.
+
+TAG: Donald_001_f
+You didn't? I could've sworn I heard you say that.
+
+TAG: Player_001_choice_000_f
+I didn't.
+
+TAG: Player_001_choice_001_f
+You misheard.
+
+TAG: Player_001_choice_002_f
+I called you a nincompoop.
+
+TAG: Donald_002_f
+Well... okay. I'm sorry. Guess I made a mistake.
+
+TAG: Donald_003_f
+Hmm... maybe. But I'm gonna keep my eye on you.
+
+TAG: Donald_004_f
+WHY YOU...!!!
+
+TAG: Donald_005_f
+I'm perfectly calm! Don't say that I'm not calm!!!
+
+TAG: Donald_006_f
+First you call me a blockhead, and then you say I'm a hothead?!?!
+
+TAG: Player_002_choice_000_f
+I didn't call you anything!
+
+TAG: Player_002_choice_001_f
+You are clearly angry.
+
+TAG: Player_002_choice_002_f
+What a blockhead.
+
+TAG: Donald_007_f
+Even if you didn't the first time, you just called me a hothead!
+
+TAG: Donald_008_f
+~!^$#%@!&?#!
+
+TAG: Donald_009_f
+I AM PERFECTLY CALM!!!!!!!!!
+
+TAG: Donald_010_f
+WHAT?!!! Why I oughta...
+
+TAG: Donald_011_f
+Oh, that's the last straw!!!
+

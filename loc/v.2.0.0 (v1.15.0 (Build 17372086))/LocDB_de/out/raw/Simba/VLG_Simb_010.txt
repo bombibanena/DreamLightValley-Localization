@@ -1,0 +1,51 @@
+TAG: Village!LionKing!Simba!VLG_Simb_010_CompletedStoryDescription
+With the new oasis you've created for the Village, Simba should have no worries! But there's only one way to find out.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_DisplayName
+<i>Hakuna matata</i>!
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group01_Step01_StepDescription
+Put together a <ActivityItem>Casual</ActivityItem> outfit.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_Step03_Decorate01_StepDescription
+Seating.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_Step03_Decorate03_StepDescription
+Landscaping.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_Step03_StepDescription
+Add some relaxing Furniture to the Peaceful Meadow:
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group03_StoryDescription
+Next, Simba wants you to help the Valley by creating a dedicated "<i>Hakuna Matata</i> Zone" where everyone can relax and stop worrying.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group05_StoryDescription
+Only one thing is missing from the perfect oasis you've created... somewhere to lounge and swim! You decide to go and ask Scrooge McDuck if he has a solution.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_ReadyDescription
+Or bring Scrooge McDuck the gems he asked for.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step06_StepDescription
+Or trade it by gathering the following:
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_Step08_StepDescription
+Order the pool from Scrooge's Store for 9,000 Star Coins.
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group06_StoryDescription
+Scrooge McDuck offers you a surprising deal. You can either buy the pool the regular way or trade gems for it. It's up to you!
+
+TAG: Village!LionKing!Simba!VLG_Simb_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I go talk to?
+

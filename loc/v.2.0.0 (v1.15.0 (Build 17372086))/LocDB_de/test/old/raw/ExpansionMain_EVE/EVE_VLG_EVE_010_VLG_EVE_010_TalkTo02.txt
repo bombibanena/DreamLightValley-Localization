@@ -1,0 +1,75 @@
+TAG: EVE_001_f
+Ох...
+
+TAG: EVE_002_f
+Это место в руинах.
+
+TAG: EVE_003_f
+Ох...
+
+TAG: EVE_004_f
+ЕВА ВАЛЛ·И...
+
+TAG: EVE_005_f
+Растения.
+
+TAG: EVE_006_f
+Подожди, это было похоже на тайное место, где ты делился с ВАЛЛ·И?
+
+TAG: EVE_007_f
+*цифровые сигналы*
+
+TAG: Player_000_f
+Я думаю...
+
+TAG: Player_000_choice_000_f
+...это очень мило!
+
+TAG: Player_000_choice_001_f
+...это нужно поработать.
+
+TAG: Player_000_choice_002_f
+...я видел свалки в лучшем состоянии.
+
+TAG: EVE_008_f
+Хм...
+
+TAG: EVE_017_f
+Со всеми этими аномалиями времени, возможно, они все еще в Гавани Древних, спрятаны в <ActivityItem>Swirling Sands</ActivityItem>. Я пойду поищу их.
+
+TAG: EVE_000_f
+И я даже добавлю несколько <ActivityItem>Flowers</ActivityItem> и, возможно, несколько <ActivityItem>Jade</ActivityItem> для украшения...
+
+TAG: EVE_018_f
+Ууууууууууууууу!
+
+TAG: EVE_011_f
+Давай сделаем все как новенькое.
+
+TAG: EVE_012_f
+Вау!
+
+TAG: EVE_013_f
+Я вижу, что осталось от отпечатка чего-то вроде <ActivityItem>Trashcan</ActivityItem>... Странно.
+
+TAG: EVE_014_f
+Растения! ВАЛЛ·И!
+
+TAG: EVE_015_f
+ВАЛЛ·И иногда использует <ActivityItem>Trashcans</ActivityItem> в качестве растений.
+
+TAG: EVE_019_f
+ВАЛЛ·И...
+
+TAG: EVE_020_f
+Похоже, здесь тоже был <ActivityItem>Blancet</ActivityItem> в какой-то момент.
+
+TAG: EVE_016_f
+*Вздыхай.*
+
+TAG: EVE_009_f
+Э-э...
+
+TAG: EVE_010_f
+Ох.
+

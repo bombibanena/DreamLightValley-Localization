@@ -1,0 +1,54 @@
+TAG: Rapunzel_000_f
+You're here! And look, three Villagers came, too!
+
+TAG: Rapunzel_001_f
+Oh... I'm... I'm actually a little nervous!
+
+TAG: Player_000_choice_000_f
+Everyone here is really friendly.
+
+TAG: Player_000_choice_001_f
+You know what you're doing!
+
+TAG: Player_000_choice_002_f
+Picture everyone in their pajamas!
+
+TAG: Rapunzel_003_f
+You're right... These are my new friends... They want to paint... And I know how to paint!
+
+TAG: Rapunzel_010_f
+Exactly! You've got this!
+
+TAG: Rapunzel_014_f
+Okay, here I go...
+
+TAG: Rapunzel_011_f
+Hello, everyone! We have lots of supplies so you can get started. Picture your painting in your mind first.
+
+TAG: Rapunzel_012_f
+Or make it up as you go! Just have fun. You could paint some happy little capybaras, or the Valley or whatever you dream of!
+
+TAG: Rapunzel_013_f
+{PlayerName}, while I keep mixing paint, would you go talk to the Villagers and see what they're creating?
+
+TAG: Rapunzel_002_f
+You're right! I've been painting since I was a little girl.
+
+TAG: Rapunzel_009_f
+I can do this!
+
+TAG: Rapunzel_004_f
+Lions in pajamas? ...
+
+TAG: Rapunzel_005_f
+*giggle*
+
+TAG: Rapunzel_006_f
+You're right. Thinking about Simba in pajamas IS making me feel better!
+
+TAG: Rapunzel_007_f
+That's great! Now just remember everyone is here to have fun. Don't take it too seriously.
+
+TAG: Rapunzel_008_f
+Right. Let's have fun!
+

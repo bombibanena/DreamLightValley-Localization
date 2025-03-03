@@ -1,0 +1,13 @@
+
+g
+Scrooge_000_fVI promise McDuck Construction can make you a house that's perfect for our dear Minnie.
+l
+Player_000_choice_000_fQLet's build her a house. (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
+1
+Player_000_choice_001_fMaybe some other time.
+^
+Scrooge_002_fMYou won't regret this investment. If I know Minnie, and I do, she'll love it!
+j
+Scrooge_003_fYBut this is a sound investment! *sigh* Well, come back here when you come to your senses.
+z
+Scrooge_001_fiOch! You don't have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.

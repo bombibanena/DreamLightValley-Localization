@@ -1,0 +1,66 @@
+TAG: Scrooge_000_f
+Aye. This time of year, I'm longin' to see a good caber toss. Bet I could show the Villagers here a thing or two!
+
+TAG: Scrooge_001_f
+Do you have a favorite Scottish sport?
+
+TAG: Player_000_choice_000_f
+Probably. I like all sports!
+
+TAG: Player_000_choice_001_f
+There aren't any Scottish sports!
+
+TAG: Player_000_choice_002_f
+I don't really like sports.
+
+TAG: Scrooge_003_f
+Skittle me kilts! That's grand! Gettin' your heart pumpin' is good for the constitution.
+
+TAG: Scrooge_005_f
+You'd probably take to the hammer toss like a McDuck takes to stock dividends!
+
+TAG: Scrooge_006_f
+If you like sports, here's a wee bit of trivia for ya...
+
+TAG: Scrooge_009_f
+This sport originated in Scotland in the middle ages and has even been played on the moon!
+
+TAG: Scrooge_010_f
+When it started, you'd have to hit a wee pebble with a bent stick over and around some sand dunes. What sport is it?
+
+TAG: Player_003_choice_000_f
+Baseball?
+
+TAG: Player_003_choice_001_f
+Golf?
+
+TAG: Player_003_choice_002_f
+Curling?
+
+TAG: Scrooge_012_f
+Och no! You've got to read up on your Scottish history! The answer is GOLF!
+
+TAG: Scrooge_014_f
+Ya know, this has inspired me! Maybe I'll find a tree and make my own caber right here!
+
+TAG: Scrooge_015_f
+Since I don't imagine you'd be open to turning the Peaceful Meadow into a golf course anytime soon...
+
+TAG: Scrooge_011_f
+Aye, well done! The only sport that leaves time for business!
+
+TAG: Scrooge_013_f
+Afraid not. Though it may have started in Scotland... there's no hitting sticks involved, just sweeping rocks.
+
+TAG: Scrooge_002_f
+Sufferin' Scots! No Scottish sports?!
+
+TAG: Scrooge_007_f
+You've a great deal to learn on the matter, {PlayerName}! Here's a wee quiz...
+
+TAG: Scrooge_004_f
+Not a one? Perhaps you just haven't found the one for you, {PlayerName}.
+
+TAG: Scrooge_008_f
+Here, let me give you a little quiz. It might just spark your interest.
+

@@ -1,0 +1,45 @@
+TAG: JackSkellington_000_f
+Oh {PlayerName}, this House is perfect!
+
+TAG: JackSkellington_001_f
+You like it?
+
+TAG: JackSkellington_002_f
+Of course! I can already feel the ideas brewing in my skull.
+
+TAG: JackSkellington_003_f
+But I wonder...
+
+TAG: JackSkellington_004_f
+Oh?
+
+TAG: JackSkellington_005_f
+If I was able to get here from the holiday travel path...
+
+TAG: JackSkellington_006_f
+Does that mean that holiday magic and the magic here are connected?
+
+TAG: Player_000_choice_000_f
+Hmm, I'm not sure.
+
+TAG: Player_000_choice_001_f
+Seems like!
+
+TAG: Player_000_choice_002_f
+I bet that would be a good thing to investigate.
+
+TAG: JackSkellington_007_f
+I must research that.
+
+TAG: JackSkellington_010_f
+Now, I'll just get settled in before I venture out to take in the wonders of the Valley!
+
+TAG: JackSkellington_011_f
+I'm here if you need anything, Jack.
+
+TAG: JackSkellington_008_f
+How wonderful!
+
+TAG: JackSkellington_009_f
+Interesting â I will keep that in mind.
+

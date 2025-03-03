@@ -1,0 +1,41 @@
+
+;
+Donald_003_f+Oh boy, am I glad to see you, {PlayerName}!
+0
+Player_000_f Ursula is very angry with you...
+I
+Player_000_choice_000_f.It's not like you to go back on your promises.
+)
+Player_000_choice_001_fWhat happened?
+G
+Player_000_choice_002_f,Aren't you afraid to be added to her garden?
+1
+Donald_004_f!WAKKK! That's not what I'm doin'!
+&
+Donald_007_fShe tried to trick me.
+«
+Donald_008_fšI asked her to help me find a special gift for you, and she gave me that <ActivityItem>Mysterious Blue Box</ActivityItem>. But she told me not to open it.
+r
+Donald_009_fbI was about to give it to you when I saw the box open by itself and start eating Dreamlight Magic!
+Ÿ
+Donald_010_fŽI told her I wasn't gonna pay her, or give it back to her, or give it to you 'cause there's something screwy with it! That's when she got mad.
+6
+Player_001_choice_000_fWow, that's so nice of you.
+>
+Player_001_choice_001_f#What did you intend to do about it?
+3
+Player_001_choice_002_fI ain't afraid of a box.
+6
+Donald_012_f&Aw, it's the least I could do for you.
+E
+Donald_015_f5But now that you know about it, we should destroy it.
+,
+Donald_016_fGood idea. I'll go fetch it.
+œ
+Donald_017_f‹It's in my House. It looks like a blue box. I put it under something for safe keeping. I can't remember where, but I'm sure you'll find it.
+3
+Donald_013_f#I hadn't come up with anything yet.
+]
+Donald_014_fMHey, I'm not afraid! I was just... uh, brainstorming a plan. Yeah, that's it!
+@
+Donald_006_f0You bet I am! But I don't want you added either!

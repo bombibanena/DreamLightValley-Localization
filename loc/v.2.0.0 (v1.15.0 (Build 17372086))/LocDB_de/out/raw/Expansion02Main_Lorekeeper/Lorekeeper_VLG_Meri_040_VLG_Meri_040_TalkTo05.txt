@@ -1,0 +1,51 @@
+TAG: Lorekeeper_000_f
+{PlayerName}, what a surprise. I thought you might still be at Merida's festival...
+
+TAG: Player_000_f
+I came to check on you.
+
+TAG: Player_000_choice_000_f
+Do you feel left out of the party?
+
+TAG: Player_000_choice_001_f
+Do you like parties?
+
+TAG: Player_000_choice_002_f
+Merida asked me to.
+
+TAG: Lorekeeper_003_f
+Bless Merida's heart. These papery pages simply don't have the constitution for bagpipes.
+
+TAG: Lorekeeper_005_f
+I truly am fine with being on the fringes here. But... I wonder if you might help me with <Lore>a gift for Merida</Lore>.
+
+TAG: Lorekeeper_006_f
+She has done much for the Vale. I would like to contribute to the celebration.
+
+TAG: Player_001_choice_000_f
+Of course I'll help!
+
+TAG: Player_001_choice_001_f
+Your relationship is so sweet.
+
+TAG: Player_001_choice_002_f
+Kinda wanted to go back to the party...
+
+TAG: Lorekeeper_008_f
+I knew you would. You have such a generous spirit.
+
+TAG: Lorekeeper_010_f
+Take this <Lore>tapestry</Lore>. I will need a little help from you to finish putting it on display but... it will show Merida how proud I am of her.
+
+TAG: Lorekeeper_007_f
+Merida is as important to me as I am to her.
+
+TAG: Lorekeeper_009_f
+You're in luck. My gift will be perfect FOR the party.
+
+TAG: Lorekeeper_002_f
+I like libraries. Libraries are... the opposite of parties.
+
+TAG: Lorekeeper_004_f
+She was here earlier... Perhaps not convinced I am fine on my own â what a dear girl.
+

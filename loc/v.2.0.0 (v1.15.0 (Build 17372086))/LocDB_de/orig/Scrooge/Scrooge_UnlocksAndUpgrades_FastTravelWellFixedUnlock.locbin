@@ -1,0 +1,13 @@
+
+Š
+Scrooge_009_fyRepairing this Well means you can quickly travel here from anywhere in the Valley. That sounds like a quality deal to me.
+t
+Player_000_choice_000_fYLet's fix the Well. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+3
+Player_000_choice_001_fPerhaps some other time.
+?
+Scrooge_001_f.The Well is fixed! Smartly done, {PlayerName}.
+v
+Scrooge_004_feOch! You don't have enough Star Coins for this Well! Come back when you have the funds, {PlayerName}.
+v
+Scrooge_002_feThis Well won't repair itself, you know. Come back when you're serious about investing in the Valley.

@@ -1,0 +1,9 @@
+TAG: Secret!SwordInStone!SEC_Merl_PillarUnity_010_Any_CompletedRequestDescription
+Talk to Merlin.
+
+TAG: Secret!SwordInStone!SEC_Merl_PillarUnity_010_AvailableDescription
+Upon cleansing the Pillar of Unity on Skull Rock island, you notice some magic that seems to resonate around it.
+
+TAG: Secret!SwordInStone!SEC_Merl_PillarUnity_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's happening?
+

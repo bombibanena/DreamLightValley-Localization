@@ -1,0 +1,96 @@
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Any_CompletedRequestDescription
+Подытожите приключение с Пумба.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_AvailableDescription
+Пумба готов принять "Ночные миты" с Тимон'и тобой!
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_CompletedStoryDescription
+Благодаря вам, Тимон и Пумба, Ночные Миты в Долине больше нет! Всё снова в безопасности.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_DisplayName
+Часть 2 Заражение
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_Step02_StepDescription
+Ночные гнездышки.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_Step03_StepDescription
+Mega Night Mites.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_StepDescription
+Очистить Медоу, Глейд доверия и Даззл-Бич от:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group02_StoryDescription
+Ты и Пумба отправляетесь в Медоу, чтобы найти Ночные Гнезда и уничтожить их.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group03_Step04_TalkToCharacter02_StepDescription
+Свяжитесь с {TargetNPC} о заразе.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group04_Step05_TalkToCharacter03_StepDescription
+Перегруппируйтесь с {TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group05_Step06_VisitArea01_StepDescription
+Зайдите в замок принца Принц Эрик.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group06_Step07_StepDescription
+Очистить замок Ночных Митов принца Принц Эрик.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group07_Step08_Interaction01_StepDescription
+Перепроверь принца Принц Эрик замка на оставшиеся Ночные Миты.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group08_Step09_StepDescription
+Очистить замок принца Принц Эрик от остальных Ночных Митов.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group09_Step10_TalkToCharacter04_StepDescription
+Поговори с {TargetNPC} о следующих шагах по избавлению Долины Ночных Митов.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step11_StepDescription
+Майк Вазовски и Салли Квартира.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step12_StepDescription
+Дейзи Хаус.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_Step13_StepDescription
+Грузовик ВАЛЛ·И.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group10_StepDescription
+Очистить деревенские дома Ночных Митов:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group11_Step14_TalkToCharacter05_StepDescription
+Возьми"Всё чисто."в деревенских домах из {TargetNPC}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group12_Step15_TalkToCharacter06_StepDescription
+Поговорите с {TargetNPC} для обновления ночной мите.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group12_StoryDescription
+После освобождения Ночных Митов из замка Принц Эрик, а также домов различных деревенских жителей, вы встречаетесь с Тимон для поиска последнего из Ночных Митов.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group13_Step16_VisitArea02_StepDescription
+Заходите в дом Джек Скеллингтон.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group14_Step17_TalkToCharacter07_StepDescription
+Спроси {TargetNPC}, видел ли он Ночные Миты.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group15_Step18_StepDescription
+Обыскать дом Джек Скеллингтон Скелингтона для Ночных Митов.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group16_Step20_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group16_Step21_StepDescription
+Ночные Миты.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group16_StepDescription
+Очистить Джек Скеллингтон дом:
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group17_Step22_TalkToCharacter08_StepDescription
+Свяжитесь с {TargetNPC} для обновления информации о заразных заболеваниях.
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group17_StoryDescription
+Вы обнаруживаете последний из ночных митов Долины Джек Скеллингтон Skellington хотел сохранить их как любопытство!
+
+TAG: Village!LionKing!Pumbaa!VLG_Pumb_040_Group18_Step23_Conditional02_StepDescription
+Дальнейший прогресс с Тимон в части 3 "Заражение" .
+

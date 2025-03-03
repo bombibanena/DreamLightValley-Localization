@@ -1,0 +1,30 @@
+TAG: Pumbaa_001_f
+How was the hammock?
+
+TAG: Player_000_choice_000_f
+I feel more relaxed already.
+
+TAG: Player_000_choice_001_f
+What else have you got?
+
+TAG: Player_000_choice_002_f
+Not sure I'm feeling relaxed.
+
+TAG: Pumbaa_003_f
+Great! That means it's time for a cozy nap.
+
+TAG: Pumbaa_005_f
+I've got three FAVORITE napping spots around the jungle. You can always use the hammock, but it's nice to have other options, too.
+
+TAG: Pumbaa_006_f
+Ya never know when the need to nap will sneak up on ya.
+
+TAG: Pumbaa_007_f
+So, for the next part of our lesson, you gotta <Lore>find and test out the napping spots</Lore> and pick your favorite. I'll be back at camp when you're done!
+
+TAG: Pumbaa_002_f
+How about a cozy nap?
+
+TAG: Pumbaa_004_f
+Then we need to try somethin' else: How 'bout a nap?
+

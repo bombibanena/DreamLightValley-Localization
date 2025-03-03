@@ -1,0 +1,83 @@
+
+X
+DVillage!Aladdin!Aladdin!VLG_Alad_010_Any_CompletedRequestDescriptionTalk to Aladdin.
+y
+9Village!Aladdin!Aladdin!VLG_Alad_010_AvailableDescription<Aladdin's got a twinkle in his eye. Something is going on...
+Ú
+>Village!Aladdin!Aladdin!VLG_Alad_010_CompletedStoryDescriptionØScrooge McDuck thanks you and Aladdin for helping to test his security system. Clearly, it's not thief-proof. He'll keep looking, while you and Aladdin celebrate your victory.
+@
+0Village!Aladdin!Aladdin!VLG_Alad_010_DisplayNameGood As Gold
+ù
+UVillage!Aladdin!Aladdin!VLG_Alad_010_Group01_Step01_TalkToCharacter01_StepDescriptionDTalk to Scrooge McDuck about testing his shop's new security system.
+x
+OVillage!Aladdin!Aladdin!VLG_Alad_010_Group02_Step02_VisitArea01_StepDescription%Visit Scrooge McDuck's General Store.
+´
+=Village!Aladdin!Aladdin!VLG_Alad_010_Group02_StoryDescriptionÈAladdin explains to you that his old friend Scrooge McDuck has asked the two of you to test a new security system for his shop. You agree and speak to Scrooge, who encourages you to explore and scout out the shop before your "heist."
+ç
+CVillage!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_StepDescriptionFTake photos of the following places in Scrooge McDuck's General Store:
+è
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_TakePicture01_StepDescription:A door that guards more treasure than the Cave of Wonders.
+Å
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_TakePicture02_StepDescription,A way to reach the second floor of the shop.
+|
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_TakePicture03_StepDescription'Ways to make quick escapes from guards.
+m
+UVillage!Aladdin!Aladdin!VLG_Alad_010_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to {TargetNPC}.
+X
+MVillage!Aladdin!Aladdin!VLG_Alad_010_Group05_Step05_DressUp01_StepDescriptionSporty.
+_
+MVillage!Aladdin!Aladdin!VLG_Alad_010_Group05_Step05_DressUp02_StepDescriptionDark in color.
+c
+CVillage!Aladdin!Aladdin!VLG_Alad_010_Group05_Step05_StepDescriptionDress up in clothing that's:
+ò
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group05_Step06_Conditional01_StepDescriptionC(Optional) Wait for nightfall (6 p.m. - 6 a.m.) before dressing up.
+|
+OVillage!Aladdin!Aladdin!VLG_Alad_010_Group06_Step07_VisitArea02_StepDescription)Go inside Scrooge McDuck's General Store.
+—
+=Village!Aladdin!Aladdin!VLG_Alad_010_Group06_StoryDescriptionèAfter scouting out the shop, you and Aladdin prepare for your heist by getting dressed in easy-to-move-in clothing and (perhaps) wait for dark.
+í
+UVillage!Aladdin!Aladdin!VLG_Alad_010_Group07_Step08_FollowCharacter01_StepDescription9Follow {targetNPC} inside Scrooge McDuck's General Store.
+ï
+WVillage!Aladdin!Aladdin!VLG_Alad_010_Group07_Step08_FollowCharacter01_TalkToDescription:Talk to {targetNPC} inside Scrooge McDuck's General Store.
+ 
+OVillage!Aladdin!Aladdin!VLG_Alad_010_Group08_Step09_VisitArea03_StepDescriptionwTo begin Scrooge McDuck's security system test, go inside his shop and press the button on the wall beside the counter.
+ì
+UVillage!Aladdin!Aladdin!VLG_Alad_010_Group09_Step10_TalkToCharacter03_StepDescription:Talk to {TargetNPC} inside Scrooge McDuck's General Store.
+ù
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group10_Step11_Conditional02_StepDescriptionHPush the button on the upstairs table in Scrooge McDuck's General Store.
+æ
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group11_Step12_Conditional03_StepDescriptioniPress buttons to navigate the security system to reach the first floor of Scrooge McDuck's General Store.
+Ã
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group12_Step13_Conditional04_StepDescriptionwDeactivate Scrooge McDuck's security system by <Lore>pressing the button located on the wall behind the counter</Lore>.
+⁄
+=Village!Aladdin!Aladdin!VLG_Alad_010_Group12_StoryDescriptionòYou and Aladdin enter Scrooge McDuck's General Store and activate the security system. The lights shut off, and suddenly the system kicks in! You and Aladdin note switches around the store to control the lights, and determine to use them to reach the vault without getting caught.
+ó
+UVillage!Aladdin!Aladdin!VLG_Alad_010_Group13_Step14_FollowCharacter02_StepDescription>Follow Aladdin to the vault in Scrooge McDuck's General Store.
+é
+WVillage!Aladdin!Aladdin!VLG_Alad_010_Group13_Step14_FollowCharacter02_TalkToDescription3Talk to {TargetNPC} next to Scrooge McDuck's vault.
+ä
+CVillage!Aladdin!Aladdin!VLG_Alad_010_Group14_Step15_StepDescriptionCThe vault shut, and a bunch of enchanted coins escaped! Catch them!
+â
+OVillage!Aladdin!Aladdin!VLG_Alad_010_Group15_Step16_BringItem01_StepDescription6Make sure you have every {itemName} in your Inventory.
+n
+DVillage!Aladdin!Aladdin!VLG_Alad_010_Group15_Step16_ReadyDescription&Bring every {itemName} to {targetNPC}.
+´
+=Village!Aladdin!Aladdin!VLG_Alad_010_Group15_StoryDescriptionjOnce you reach the vault, coins escape, zooming out of it. You pursue them with Aladdin to catch them all!
+k
+OVillage!Aladdin!Aladdin!VLG_Alad_010_Group16_Step17_VisitArea04_StepDescriptionGo to Dreamlight Valley.
+à
+MVillage!Aladdin!Aladdin!VLG_Alad_010_Group17_Step18_Possess01_StepDescription7Catch every remaining {itemName} throughout the Valley.
+y
+OVillage!Aladdin!Aladdin!VLG_Alad_010_Group18_Step20_VisitArea05_StepDescription&Go inside Aladdin and Jasmine's House.
+â
+OVillage!Aladdin!Aladdin!VLG_Alad_010_Group19_Step21_BringItem02_StepDescription6Make sure you have every {itemName} in your Inventory.
+x
+DVillage!Aladdin!Aladdin!VLG_Alad_010_Group19_Step21_ReadyDescription0Give every {itemName} you caught to {TargetNPC}.
+ã
+QVillage!Aladdin!Aladdin!VLG_Alad_010_Group20_Step22_TakePicture04_StepDescription6Take a picture of Aladdin with Scrooge McDuck's coins.
+£
+=Village!Aladdin!Aladdin!VLG_Alad_010_Group20_StoryDescriptionbYou and Aladdin manage to catch all of Scrooge McDuck's enchanted coins, and regroup at his House.
+ï
+LVillage!Aladdin!Aladdin!VLG_Alad_010_Group21_Step23_Listen01_StepDescriptionEListen to Aladdin and Scrooge McDuck discuss the heist in the Valley.
+h
+7Village!Aladdin!Aladdin!VLG_Alad_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

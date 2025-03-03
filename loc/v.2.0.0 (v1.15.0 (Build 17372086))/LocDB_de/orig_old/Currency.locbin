@@ -1,0 +1,89 @@
+
+.
+DaisyCoin_DisplayNameДейзи Кости
+6
+DaisyCoin_PluralDisplayNameДейзи Сундук
+,
+DreamDust_DisplayNameСвет мечты
+2
+DreamDust_PluralDisplayNameСвет мечты
+
+Dust_DisplayNameПыль
+"
+Dust_PluralDisplayNameПыль
+,
+Gem_DisplayNameЛунный камень
+0
+Gem_PluralDisplayNameЛунные камни
+!
+Heart_DisplayNameСердце
+'
+Heart_PluralDisplayNameСердца
+&
+Mist_DisplayNameМножество
+,
+Mist_PluralDisplayNameМножество
+!
+PixelDust_DisplayNameПыль
+'
+PixelDust_PluralDisplayNameПыль
+,
+ShardsBoo_DisplayNameОсколки бу
+2
+ShardsBoo_PluralDisplayNameОсколки бу
+6
+ShardsBoPeep_DisplayNameОсколки Бо-Пип
+<
+ShardsBoPeep_PluralDisplayNameОсколки Бо-Пип
+C
+ShardsMickeyMouse_DisplayName"Микки Маус Осколки
+I
+#ShardsMickeyMouse_PluralDisplayName"Микки Маус Осколки
+C
+ShardsMinnieMouse_DisplayName"Минни Маус Осколки
+I
+#ShardsMinnieMouse_PluralDisplayName"Минни Маус Осколки
+1
+ShardsOlaf_DisplayNameОлаф Осколки
+7
+ShardsOlaf_PluralDisplayNameОлаф Осколки
+7
+ShardsRafiki_DisplayNameОсколки Рафики
+=
+ShardsRafiki_PluralDisplayNameОсколки Рафики
+8
+ShardsShank_DisplayNameОсколки голяшки
+>
+ShardsShank_PluralDisplayNameОсколки голяшки
+9
+StarCoin_DisplayName!Звёздная оболочка
+9
+StarCoin_PluralDisplayNameЗвёздные койки
+A
+StorybookMagic_DisplayName#Волшебство истории
+G
+ StorybookMagic_PluralDisplayName#Волшебство истории
+"
+Ticket_DisplayNameБилеты
+(
+Ticket_PluralDisplayNameБилеты
+K
+!Transmute!AncientPart_DisplayName&{Placeholder}AncientPart_ Валюта
+D
+'Transmute!AncientPart_PluralDisplayNameДревние части
+=
+Transmute!Core_DisplayName{Placeholder}Core_ Валюта
+,
+ Transmute!Core_PluralDisplayNameКоры
+=
+Transmute!Gift_DisplayName{Placeholder}Gift_ валюта
+2
+ Transmute!Gift_PluralDisplayNameПодарки
+>
+Transmute!Shard_DisplayName{Placeholder}Sard_ Валюта
+3
+!Transmute!Shard_PluralDisplayNameОсколки
+4
+WishToken_DisplayNameПожелай Токена
+<
+WishToken_PluralDisplayNameПожелай токенов

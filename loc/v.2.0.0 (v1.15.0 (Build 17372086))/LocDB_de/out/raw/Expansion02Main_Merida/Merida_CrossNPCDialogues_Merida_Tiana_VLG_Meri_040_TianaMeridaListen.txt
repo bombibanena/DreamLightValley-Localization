@@ -1,0 +1,18 @@
+TAG: Merida_000_f
+Tiana, I need the recipe for a very specific Scottish dish: Salt-Baked Sea Wolf. Any chance you've got it?
+
+TAG: Merida_001_f
+No. I've never heard of it, but I do love a culinary mystery!
+
+TAG: Merida_002_f
+Give me a little time, and I'm sure I can find it in the Library.
+
+TAG: Merida_003_f
+Could you send it to {PlayerName} when you do?
+
+TAG: Merida_004_f
+Of course! ... It's not actually wolf, is it?
+
+TAG: Merida_005_f
+No! No. Just a fish with an odd name.
+

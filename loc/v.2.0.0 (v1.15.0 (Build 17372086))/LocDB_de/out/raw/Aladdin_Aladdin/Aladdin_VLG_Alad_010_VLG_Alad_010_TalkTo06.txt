@@ -1,0 +1,30 @@
+TAG: Aladdin_000_f
+I think we got all of the flying coins in the shop.
+
+TAG: Aladdin_002_f
+Great! Now we just need to get the ones that escaped out into the Valley.
+
+TAG: Aladdin_003_f
+That's not a thing coins normally do here, right? At least I don't remember that from before.
+
+TAG: Player_000_choice_000_f
+Mr. McDuck must have had the coins enchanted!
+
+TAG: Player_000_choice_001_f
+No. This security system is next level!
+
+TAG: Player_000_choice_002_f
+No such thing as normal in the Valley!
+
+TAG: Aladdin_005_f
+He did say he had a "last resort" if we reached the vault.
+
+TAG: Aladdin_007_f
+{PlayerName}, if we wanna REALLY test this, we need to <Lore>catch all of the coins<Lore>. Ready when you are!
+
+TAG: Aladdin_004_f
+I'd say so. I've seen carpets fly, but not coins!
+
+TAG: Aladdin_006_f
+Ya know, I'm starting to see that.
+

@@ -1,0 +1,36 @@
+TAG: Merlin_000_f
+Ah, {PlayerName}. You're wondering about this bridge, I presume. Well, it appears the bridge was damaged long ago by EVE.
+
+TAG: Merlin_008_f
+But how curious! Do you see the <Lore>Time Rift</Lore> surrounding it?
+
+TAG: Merlin_009_f
+It's connected to the magic of your Hourglass!
+
+TAG: Merlin_001_f
+If you channel the magical <ActivityItem>Mist</ActivityItem> within the Hourglass, you can reverse time and repair the bridge...
+
+TAG: Merlin_002_f
+And then you'll be able to venture forth into <Lore>the Glittering Dunes and the Wild Tangle</Lore>!
+
+TAG: Player_000_choice_000_f
+I'll channel the magic of the Hourglass... (Use {UpgradePrice} <sprite="iconCurrencyMist" index=0>)
+
+TAG: Player_000_choice_001_f
+I'm not quite ready yet...
+
+TAG: Merlin_003_f
+Ahh, well done, {PlayerName}! Now you can explore more of Eternity Isle. I'm certain you'll find numerous points of wonder as you do.
+
+TAG: Merlin_004_f
+Oh, dear. I'm afraid you don't have enough <ActivityItem>Mist</ActivityItem> to mend this Time Rift yet.
+
+TAG: Merlin_005_f
+The <ActivityItem>Mist</ActivityItem> is <Lore>connected to the magic of your Hourglass and to Eternity Isle itself</Lore>.
+
+TAG: Merlin_006_f
+You must keep uncovering wonders with your Hourglass and continue to make Eternity Isle a home. As you do, you'll gain the <ActivityItem>Mist</ActivityItem> required!
+
+TAG: Merlin_007_f
+Oh. All right, but don't dawdle! There's so much we have yet to discover on this Isle.
+

@@ -1,0 +1,168 @@
+TAG: Village!LionKing!Timon!VLG_Timo_020_Any_CompletedRequestDescription
+Talk to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_AvailableDescription
+Timon is really interested in the critters running around the Valley. You should help him document them!
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_DisplayName
+Curious About Critters
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Buzz.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group01_Step01_TalkToCharacter02_StepDescription
+Talk to Scrooge.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group01_StepDescription
+Ask Buzz and Scrooge if they have a Recording Device.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_Step02_StepDescription
+Gather components by fishing in the Forest of Valor.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group02_StoryDescription
+Buzz and Scrooge both think there may be recording device pieces in the waters of the Forest of Valor. You'll have to go fish those out!
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group03_Step03_CraftItem01_StepDescription
+Assemble the Recording Device at a Crafting Station.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group04_Step04_ReadyDescription
+Bring the {ItemName} to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group04_Step04_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group04_StoryDescription
+With all the recording device pieces found, it's time to put them together to make a <ActivityItem>Recording Device</ActivityItem> for Timon's documentary.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture01_StepDescription
+An urban creature.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture02_StepDescription
+A colorful reptile.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture03_StepDescription
+A furry omnivore.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture04_StepDescription
+A dark-colored critter.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_Step05_TakePicture05_StepDescription
+A talking dragon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_StepDescription
+Take pictures of some <Lore>wild critters</Lore> in the Valley for Timon's documentary:
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group05_StoryDescription
+Timon is so excited to start work on his documentary! You'll need to snap some great pictures of the critters in Dreamlight Valley for him.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group06_Step07_TalkToCharacter04_StepDescription
+Talk to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture06_StepDescription
+Pride Rock.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture07_StepDescription
+Scar's Cave.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture08_StepDescription
+Beast's Castle.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_Step08_TakePicture09_StepDescription
+The Cursed Cave on Dazzle Beach.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_StepDescription
+Take pictures inside the homes of the fiercest neighbors in the Valley:
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group07_StoryDescription
+Now that the critters have been photographed, Timon wants to add a little danger to his documentary. He wants you to snap some photos of the homes of the scarier Villagers around Dreamlight Valley.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group08_Step10_VisitArea02_StepDescription
+Return to Ursula's Beach Cave.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group09_Step11_Listen01_StepDescription
+Listen to Scar and Ursula's conversation.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group09_StepDescription
+Are Scar and Ursula plotting something?
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group10_Step12_VisitArea03_StepDescription
+Exit the Cave.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group10_StoryDescription
+While taking pictures for Timon, you overhear Scar and Ursula plotting something! What could they be up to?
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group11_Step13_TalkToCharacter05_StepDescription
+Talk to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group11_StepDescription
+Scar, Ursula, and Mother Gothel are up to something...
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_Step14_ConsumeItem01_StepDescription
+The Giant Willow Tree.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_Step14_ConsumeItem02_StepDescription
+Scar's Cave.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_Step14_ConsumeItem03_StepDescription
+Ursula's House.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group12_StepDescription
+Scar, Ursula, and Mother Gothel are scheming... Search for clues in:
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group13_Step15_TalkToCharacter06_StepDescription
+Show the diary entries to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group14_Step16_VisitArea04_StepDescription
+Enter the Vitalys Mines.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group14_StoryDescription
+Timon heard that Scar and Mother Gothel were headed to the Vitalys Mines. You'll need to snap a picture of them to show it to the Forgotten.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group15_Step17_TakePicture10_StepDescription
+Take a picture of Scar and Mother Gothel together.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group15_Step18_Listen02_StepDescription
+Listen to Scar and Mother Gothel's conversation.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group15_StepDescription
+Scar and Mother Gothel are having a secret meeting in the Mines!
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group16_Step19_TalkToCharacter07_StepDescription
+Talk to the Forgotten about what you've found out.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group17_Step20_TalkToCharacter08_StepDescription
+Return to Timon.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group17_StoryDescription
+The Forgotten has revealed the truth: Scar is writing poetry now! What a great twist for Timon's documentary.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group18_Step21_ReadyDescription
+Bring 1,000 Star Coins to Scrooge McDuck to buy a <ActivityItem>Giant Projector Screen</ActivityItem>.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group18_Step21_StepDescription
+Collect 1,000 Star Coins for a <ActivityItem>Giant Projector Screen</ActivityItem>.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group19_Step22_Decorate01_StepDescription
+Place the {ItemName} anywhere in the Valley.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group19_StoryDescription
+With the documentary finished, it's time to get together with some Villagers and watch it on the big screen.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group20_Step23_Party01_StepDescription
+Take a picture of everyone reunited around the <ActivityItem>Giant Projector Screen</ActivityItem>.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_Group21_Step24_Listen03_StepDescription
+Listen to Timon talk to Scar.
+
+TAG: Village!LionKing!Timon!VLG_Timo_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

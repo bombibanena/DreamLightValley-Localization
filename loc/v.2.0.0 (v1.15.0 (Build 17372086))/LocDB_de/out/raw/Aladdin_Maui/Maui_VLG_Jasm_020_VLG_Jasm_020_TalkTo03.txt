@@ -1,0 +1,81 @@
+TAG: Maui_000_f
+Hey, {PlayerName}! What's going on?
+
+TAG: Maui_001_f
+Well, Jasmine and I are looking for something that you might have some insight into...
+
+TAG: Maui_010_f
+We're looking for a <ActivityItem>Special Starfish</ActivityItem>.
+
+TAG: Maui_011_f
+Wait, not THE <ActivityItem>Special Starfish</ActivityItem>?!
+
+TAG: Player_001_choice_000_f
+What is THE Special Starfish?
+
+TAG: Player_001_choice_001_f
+I think so...?
+
+TAG: Player_001_choice_002_f
+There can't be more than one, can there?
+
+TAG: Maui_013_f
+Only the rarest starfish from the deepest part of the ocean!
+
+TAG: Maui_016_f
+Trust me; the Special Starfish is one of a kind. A unique masterpiece of a starfish!
+
+TAG: Maui_017_f
+Kind of sounds like the Maui of starfish.
+
+TAG: Maui_018_f
+Oh-ho-ho, you flatter me! But yes, you are correct.
+
+TAG: Maui_021_f
+And I happen to be the only one who's ever caught it.
+
+TAG: Maui_022_f
+So you have it? That's great! It's exactly what I need!
+
+TAG: Maui_023_f
+Not so fast! I'm happy to give you the starfish as a gift, but I say we have a little fun first.
+
+TAG: Maui_028_f
+If you can <Lore>best me in a competition of your choosing</Lore>, I'll give it to you. What do you say?
+
+TAG: Player_002_choice_000_f
+Oh no...
+
+TAG: Player_002_choice_001_f
+What kind of competition?
+
+TAG: Player_002_choice_002_f
+This sounds like it's going to be fun!
+
+TAG: Maui_025_f
+Don't worry, {PlayerName}. It'll be great!
+
+TAG: Maui_029_f
+All right, but I want to talk to Jasmine about this first.
+
+TAG: Maui_030_f
+Fine by me. <Lore>Talk to Jasmine and decide on a competition</Lore>. I'll be waiting to hear your idea!
+
+TAG: Maui_026_f
+Whatever you want. I'm pretty confident I can beat you at anything!
+
+TAG: Maui_027_f
+Of course it is!
+
+TAG: Maui_014_f
+You THINK so? {PlayerName}, the Special Starfish is â wait for it â SPECIAL!
+
+TAG: Maui_019_f
+It's one of a kind. A rare masterpiece of a starfish!
+
+TAG: Maui_015_f
+You got that right!
+
+TAG: Maui_020_f
+The Special Starfish is one of a kind. A rare masterpiece of a starfish!
+

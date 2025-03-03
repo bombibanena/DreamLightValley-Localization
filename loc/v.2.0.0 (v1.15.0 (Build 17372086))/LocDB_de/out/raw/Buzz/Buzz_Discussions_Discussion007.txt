@@ -1,0 +1,54 @@
+TAG: Buzz_000_f
+{PlayerName}, I have a question... Have you ever realized something new about yourself? Or something new about the world around you?
+
+TAG: Buzz_001_f
+Something that completely changed how you saw things?
+
+TAG: Player_000_choice_000_f
+Yes, I have.
+
+TAG: Player_000_choice_001_f
+No, I haven't.
+
+TAG: Buzz_002_f
+Interesting. And how did you handle that change?
+
+TAG: Player_000_choice_003_f
+I got really upset.
+
+TAG: Player_000_choice_004_f
+I asked for help.
+
+TAG: Player_000_choice_005_f
+I don't remember.
+
+TAG: Buzz_004_f
+That's understandable. I certainly... Let's just say I'm not proud of how I handled a few things in my past.
+
+TAG: Buzz_007_f
+The less we speak of the Mrs. Nesbitt incident, the better.
+
+TAG: Buzz_005_f
+I did too. And I got help from a good friend. That made all the difference.
+
+TAG: Buzz_008_f
+It's a... long story.
+
+TAG: Buzz_006_f
+Hmm... A lot of people around here seem to have forgotten things. I hope it's just the Forgetting and not something even more sinister.
+
+TAG: Buzz_003_f
+Then I suppose you've always known who you are. Who you're supposed to be. That must be... comforting.
+
+TAG: Player_000_choice_006_f
+It is!
+
+TAG: Player_000_choice_007_f
+It's actually kind of boring.
+
+TAG: Buzz_009_f
+Well, I'm happy for you, {PlayerName}. You know, you remind me of Bonnie. She's never afraid to be herself. It's admirable.
+
+TAG: Buzz_010_f
+I guess having identity-shattering revelations does make life more interesting. Though I'm not sure it's the sort of interesting I want often.
+

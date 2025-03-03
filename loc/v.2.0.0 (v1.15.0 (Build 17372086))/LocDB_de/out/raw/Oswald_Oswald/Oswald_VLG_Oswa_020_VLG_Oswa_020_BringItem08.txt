@@ -1,0 +1,63 @@
+TAG: Oswald_000_f
+All right, here are the remaining fugitives!
+
+TAG: Oswald_015_f
+Aces!
+
+TAG: Player_002_f
+I gotta be honest with you, Oswald...
+
+TAG: Player_002_choice_000_f
+Those are the cutest clocks I've ever seen!
+
+TAG: Player_002_choice_001_f
+The constant ringing was SUPER annoying.
+
+TAG: Oswald_016_f
+You need to take better care of them.
+
+TAG: Oswald_004_f
+Hey, it ain't my fault they went on the lam!
+
+TAG: Player_000_choice_000_f
+You're the one that animated them, not me!
+
+TAG: Player_000_choice_001_f
+I'm not so sure about that...
+
+TAG: Oswald_005_f
+But I... Well, I... Ya see, it's like this â I was just tryin' to make 'em more fun!
+
+TAG: Oswald_013_f
+Oh, great idea! Maybe he can tell them a story or something.
+
+TAG: Oswald_014_f
+That's the ticket! C'mon, let's make tracks!
+
+TAG: Oswald_006_f
+But Oswald... what if they escape again?
+
+TAG: Oswald_007_f
+We can't have them constantly running amok in Eternity Isle!
+
+TAG: Oswald_017_f
+They've already been waking people up!
+
+TAG: Oswald_008_f
+Gee. *sigh* I guess you're right, {PlayerName}.
+
+TAG: Oswald_009_f
+They sure like gallivantin'.
+
+TAG: Oswald_010_f
+Who knows? They might cheese it the next chance they get.
+
+TAG: Oswald_011_f
+Yeah, we need to get them to calm down.
+
+TAG: Oswald_012_f
+Hmm... I know! We gotta <Lore>talk to Olaf</Lore>!
+
+TAG: Oswald_003_f
+I couldn't imagine trying to relax with those running around outside.
+

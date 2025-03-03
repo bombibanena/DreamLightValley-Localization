@@ -1,0 +1,6 @@
+TAG: Belle_000_f
+Have you gathered the material for the... What was it? <Lore>Enchanted Canvas</Lore>?
+
+TAG: Belle_001_f
+That's right! I was just about to <Lore>head to a Crafting Station to put it all together</Lore>.
+

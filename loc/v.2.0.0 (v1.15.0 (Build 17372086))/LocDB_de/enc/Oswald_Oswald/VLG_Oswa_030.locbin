@@ -1,0 +1,67 @@
+
+�
+0Village!Oswald!VLG_Oswa_030_AvailableDescription^Освальд кажется храбрым и просит поговорить с вами!
+�
+5Village!Oswald!VLG_Oswa_030_CompletedStoryDescription�В конце концов, опираясь на свою счастливую природу, Освальд нашел спрятанный туннельный путь, который привел его прямо в Пещеру Чудес и победу!
+L
+'Village!Oswald!VLG_Oswa_030_DisplayName!Конкурс "Кокамами"
+�
+EVillage!Oswald!VLG_Oswa_030_Group01_Step01_CookMeal01_StepDescription8Повар <ActivityItem>Tandori Chicken</ActivityItem>.
+`
+DVillage!Oswald!VLG_Oswa_030_Group01_Step21_Possess01_StepDescriptionЧили Пепперс.
+o
+3Village!Oswald!VLG_Oswa_030_Group01_StepDescription8Соберите то, что нужно Освальд:
+s
+3Village!Oswald!VLG_Oswa_030_Group02_StepDescription<Познакомься с Освальд в его доме.
+j
+FVillage!Oswald!VLG_Oswa_030_Group03_Step03_BringItem01_StepDescription Цыпленок Тандори.
+b
+FVillage!Oswald!VLG_Oswa_030_Group03_Step03_BringItem02_StepDescriptionЧили Пепперс.
+�
+;Village!Oswald!VLG_Oswa_030_Group03_Step03_ReadyDescriptionjДоставьте острое питание Освальд для его ре-вулканизации.
+�
+:Village!Oswald!VLG_Oswa_030_Group03_Step03_StepDescriptionlУбедитесь, что в вашем списке есть острые продукты Освальд.
+�
+HVillage!Oswald!VLG_Oswa_030_Group04_Step04_TakePicture01_StepDescription=Сфотографируй Освальд в его доме.
+�
+JVillage!Oswald!VLG_Oswa_030_Group05_Step05_RemoveBlocker01_StepDescriptionOПотушить пожары в доме Освальд с канистрой.
+q
+LVillage!Oswald!VLG_Oswa_030_Group06_Step06_TalkToCharacter01_StepDescription!Проверь с Освальд.
+q
+HVillage!Oswald!VLG_Oswa_030_Group07_Step07_Conditional01_StepDescription%Полный вызов Гастон.
+k
+HVillage!Oswald!VLG_Oswa_030_Group07_Step07_Conditional02_StepDescriptionПолный вызов ЕВА.
+w
+HVillage!Oswald!VLG_Oswa_030_Group07_Step07_Conditional03_StepDescription+Полный вызов Рапунцель.
+�
+4Village!Oswald!VLG_Oswa_030_Group07_StoryDescription�Освальд хотел соревноваться с вами в серии вызовов, но его резиновые конечности не были готовы к задаче. К счастью, вы смогли помочь ему в процессе ре-вулканизации, и теперь вы готовы искать судей!
+�
+LVillage!Oswald!VLG_Oswa_030_Group08_Step08_TalkToCharacter02_StepDescriptionLПоговори с Освальд о его работе в вызовах.
+�
+NVillage!Oswald!VLG_Oswa_030_Group09_Step09_FollowCharacter02_TalkToDescription_Поговори с Освальд, когда будешь готов начать гонку.
+�
+3Village!Oswald!VLG_Oswa_030_Group09_StepDescriptionkСледуйте за Освальд до начала гонки через остров Вечность.
+�
+FVillage!Oswald!VLG_Oswa_030_Group10_Step10_VisitArea01_StepDescription�Направляйтесь на мост, чтобы пересечь первый контрольно-пропускной пункт.
+�
+4Village!Oswald!VLG_Oswa_030_Group10_StoryDescription�Вы выиграли каждый вызов, установленный деревенскими жителями, но Освальд еще не закончили и бросили вам вызов на путь к сердцу Пещеры Чудес.
+�
+3Village!Oswald!VLG_Oswa_030_Group11_StepDescription}Перейти направо, чтобы пересечь второй контрольно-пропускной пункт.
+�
+3Village!Oswald!VLG_Oswa_030_Group12_StepDescriptiongЧерез третий контрольно-пропускной пункт пересечь реку.
+�
+3Village!Oswald!VLG_Oswa_030_Group13_StepDescription}Пересечь четвёртый контрольно-пропускной пункт и подняться на холм.
+�
+3Village!Oswald!VLG_Oswa_030_Group14_StepDescriptionKЧерез пятый контрольно-пропускной пункт.
+�
+3Village!Oswald!VLG_Oswa_030_Group15_StepDescription�Повернитесь налево, чтобы пересечь шестой контрольно-пропускной пункт в Блетеринг Дюнс.
+�
+3Village!Oswald!VLG_Oswa_030_Group16_StepDescription�Пересечь седьмой контрольно-пропускной пункт, чтобы отправиться дальше в Блетеринг Дюнс.
+�
+3Village!Oswald!VLG_Oswa_030_Group17_StepDescription�Через восьмой контрольно-пропускной пункт, чтобы подойти к Пещере Чудес.
+�
+3Village!Oswald!VLG_Oswa_030_Group18_StepDescriptionwДоберитесь до контрольно-пропускного пункта на дне Пещеры Чудес.
+�
+LVillage!Oswald!VLG_Oswa_030_Group19_Step19_TalkToCharacter03_StepDescription^Узнай, как Освальд смог одолеть тебя в Пещере Чудес.
+_
+.Village!Oswald!VLG_Oswa_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

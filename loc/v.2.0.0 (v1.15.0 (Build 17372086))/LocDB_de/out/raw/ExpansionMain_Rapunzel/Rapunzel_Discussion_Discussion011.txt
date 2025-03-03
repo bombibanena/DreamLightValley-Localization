@@ -1,0 +1,93 @@
+TAG: Rapunzel_000_f
+Oh, I guess you caught me daydreaming.
+
+TAG: Rapunzel_001_f
+Do you ever daydream, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+I daydream about romance.
+
+TAG: Player_000_choice_001_f
+I daydream about adventures.
+
+TAG: Player_000_choice_002_f
+I daydream about being famous.
+
+TAG: Rapunzel_002_f
+A daydream about finding a special someone? That sounds really nice.
+
+TAG: Player_001_choice_000_f
+Do YOU have a special someone?
+
+TAG: Player_001_choice_001_f
+Love stories are the best stories!
+
+TAG: Rapunzel_003_f
+Me? A special someone? Like aâ
+
+TAG: Rapunzel_004_f
+No, no, of course not.
+
+TAG: Rapunzel_005_f
+Well... maybe? I did have a friend for a short while; he had nice hair and this goofy smolder...
+
+TAG: Rapunzel_006_f
+But I don't think heâ? I don't knowâ
+
+TAG: Rapunzel_007_f
+He... left. And I haven't seen him in a long time.
+
+TAG: Rapunzel_008_f
+Mother used to tell me stories, but never ones about romance.
+
+TAG: Rapunzel_009_f
+Most of her stories were either scary or about people who were alone like us.
+
+TAG: Rapunzel_010_f
+But since you recommend it, I'll definitely ask Merlin if he has any love stories in his library that I can read.
+
+TAG: Rapunzel_011_f
+Those are my favorite daydreams too!
+
+TAG: Rapunzel_012_f
+Exploring, running free over the grass and under the biggest, bluest sky I've ever seen! I've done a little of that but not nearly enough.
+
+TAG: Player_002_choice_000_f
+We'll make those daydreams come true!
+
+TAG: Player_002_choice_001_f
+Everything's an adventure to you.
+
+TAG: Rapunzel_013_f
+I couldn't ask for a better adventuring friend than you, {PlayerName}.
+
+TAG: Rapunzel_014_f
+Oh, and just so you know, I'm ready whenever you are!
+
+TAG: Rapunzel_015_f
+I guess it is.
+
+TAG: Rapunzel_016_f
+When everything's new, everything's... amazing!
+
+TAG: Rapunzel_017_f
+Well, that seems like it's coming true. Everyone in the Valley knows you!
+
+TAG: Player_003_choice_000_f
+That's not "famous"; that's having lots of friends.
+
+TAG: Player_003_choice_001_f
+You're right! I'm kind of a big deal.
+
+TAG: Rapunzel_018_f
+Well, when you say it like that...
+
+TAG: Rapunzel_019_f
+Having good friends seems even BETTER than being famous!
+
+TAG: Rapunzel_020_f
+You really are. Everyone around here looks up to you!
+
+TAG: Rapunzel_021_f
+Gaston is like that too â he told me so.
+

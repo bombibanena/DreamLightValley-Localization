@@ -1,0 +1,108 @@
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Any_CompletedRequestDescription
+Сообщите Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_AvailableDescription
+Базз Лайтер - это немного неуверенность в его месте в деревне. Вы предлагаете, чтобы он стал собственной версией космических рейнджеров "Dreamlight Valley". Он любит эту идею и вербует вас в качестве кадета. Базз Лайтер решает использовать свой RV в качестве Звездного Командования, но, чтобы это было очевидно, вы решаете создать <ActivityItem> Space Ranger Ship</ActivityItem>, который будет установлен перед ним.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_CompletedStoryDescription
+Теперь, когда у вас есть <ActivityItem>Uniform</ActivityItem>, вы можете вернуться к Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_DisplayName
+Космический рейнджер
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group01_Step01_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group01_Step01_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group01_Step01_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group01_StepDescription
+Собирайте материалы для корабля <ActivityItem>Space Ranger</ActivityItem>:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group02_Step02_CraftItem01_StepDescription
+Подготовить корабль <ActivityItem>Space Ranger</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group03_Step03_Decorate01_StepDescription
+Поместите корабль <ActivityItem>Space Ranger</ActivityItem> рядом с Базз Лайтер RV.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group04_Step04_TalkToCharacter01_StepDescription
+Возвращайтесь на Базз Лайтер.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group05_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group05_StoryDescription
+Теперь, когда у вас есть идеальный <ActivityItem>Space Ranger Ship</ActivityItem>, вы должны посмотреть эту часть. Базз Лайтер объясняет вам, что вы собираетесь попросить Скрудж Макдак сделать вам <ActivityItem>SpaceRanger Unimal</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group06_Step06_Possess04_StepDescription
+<ActivityItem> Blue Plaing Penstemons.</ActivityItem>
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group06_Step06_Possess05_StepDescription
+<ActivityItem> Coal.</ActivityItem>
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group06_Step06_Possess06_StepDescription
+<ActivityItem> Bluberica.</ActivityItem>
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group06_Step06_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group06_StepDescription
+Соберите ингредиенты для <ActivityItem>Navy Blue Dye</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group06_StoryDescription
+Скрудж Макдак соглашается сделать вас Космическим Рейнджером, если вы принесете ему какие-нибудь материалы и топаз.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group07_StepDescription
+Немного <ActivityItem>Navy Blue Dye</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно?
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group08_Step08_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group08_Step08_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group08_Step08_BringItem03_StepDescription
+<ActivityItem>Topaz</ActivityItem>.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group08_Step08_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group08_Step08_ReadyDescription
+Принесите материалы на Скрудж Макдак.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group08_Step08_StepDescription
+Собери то, что просил Скрудж Макдак:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group09_Step09_DressUp01_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group09_Step09_DressUp02_StepDescription
+{ItemName}.
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_Group09_Step09_StepDescription
+Надень униформу <ActivityItem>Space Ranger</ActivityItem>:
+
+TAG: Village!ToyStory!Buzz!VLG_Buzz_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,54 @@
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Any_CompletedRequestDescription
+Talk to Mickey.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_AvailableDescription
+Mickey is looking for you to talk about something important.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_CompletedStoryDescription
+Minnie was there only to disappear again. Bringing her back to Dreamlight Valley is going to take more than a few discussions. Maybe Mickey will know what to do next...
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_DisplayName
+Shadows and Bows
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need me to do?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Goofy.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_Step01_TalkToCharacter04_StepDescription
+Talk to Scrooge McDuck.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_StepDescription
+Ask friends for their favorite Minnie memory.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_StoryDescription
+He wants to bring Minnie back and the way to help her is to make sure her friends in the Village think about her. You go talk to them.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we doing?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group03_Step03_TalkToCharacter02_StepDescription
+It's Minnie! Try talking to her.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group03_StoryDescription
+It worked! Minnie has appeared thanks to your hard work.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are you doing now?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group04_Step04_Listen01_StepDescription
+Let Mickey and Minnie talk.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group06_Step06_TalkToCharacter03_StepDescription
+Talk to Mickey.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group07_Step07_FollowCharacter01_StepDescription
+Follow Mickey to the Wishing Well at the town square!
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

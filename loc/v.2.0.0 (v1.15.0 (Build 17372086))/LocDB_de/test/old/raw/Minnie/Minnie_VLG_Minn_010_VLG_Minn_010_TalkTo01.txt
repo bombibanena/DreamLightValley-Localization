@@ -1,0 +1,18 @@
+TAG: Minnie_003_f
+О, спасибо, {PlayerName}, так приятно снова увидеть цветы.
+
+TAG: Minnie_000_f
+Когда я был в том месте, я чувствовал себя в безопасности, но не было цвета, так что это было немного грустно.
+
+TAG: Minnie_001_f
+Знаешь, я думаю, что хотел бы отдать их тому доброму парню, которого я встретил Микки Маус.
+
+TAG: Minnie_002_f
+Не могли бы вы помочь мне договориться с ним?
+
+TAG: Minnie_004_f
+У меня есть ваза, нам нужна только цветы.
+
+TAG: Minnie_005_f
+Мы можем заполнить его <ActivityItem>Hydrangeas</ActivityItem>, <ActivityItem>Bell Flowers</ActivityItem>, и <ActivityItem>Star Llies</ActivityItem> мы выбрали!
+

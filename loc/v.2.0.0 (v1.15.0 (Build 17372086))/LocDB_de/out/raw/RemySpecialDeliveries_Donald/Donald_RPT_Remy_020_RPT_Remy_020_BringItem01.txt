@@ -1,0 +1,57 @@
+TAG: Donald_000_f
+Oh boy, oh boy! What's all this great food for?!
+
+TAG: Player_000_choice_000_f
+I don't know. You're the one who ordered it.
+
+TAG: Player_000_choice_001_f
+I was hoping you could tell me that.
+
+TAG: Donald_002_f
+Oh, right! These are the celebration meals I ordered from Remy.
+
+TAG: Player_001_choice_000_f
+A celebration of what?
+
+TAG: Player_001_choice_001_f
+Do I even want to know what these are for?
+
+TAG: Player_001_choice_002_f
+Well, have fun celebrating... something.
+
+TAG: Donald_004_f
+It's a celebration of ME, of course!
+
+TAG: Donald_005_f
+Because I'm so brave and helpful to everyone.
+
+TAG: Donald_006_f
+I figured since nobody else was doing it, I'd do it myself!
+
+TAG: Player_002_choice_000_f
+You ARE worth celebrating, Donald.
+
+TAG: Player_002_choice_001_f
+Well, have fun celebrating yourself.
+
+TAG: Player_002_choice_002_f
+That's kind of weird, Donald.
+
+TAG: Donald_007_f
+You bet I am!
+
+TAG: Donald_010_f
+*grumble* I suppose I should give you a tip, huh? Since you brought me these?
+
+TAG: Donald_011_f
+Well, here you go.
+
+TAG: Donald_008_f
+I will! These look delicious.
+
+TAG: Donald_009_f
+WAAAKK! No, it's not! I'm just treating myself the way everybody else SHOULD be treating me!
+
+TAG: Donald_003_f
+Huh? ... Oh! Right. These are the celebration meals I ordered from Remy.
+

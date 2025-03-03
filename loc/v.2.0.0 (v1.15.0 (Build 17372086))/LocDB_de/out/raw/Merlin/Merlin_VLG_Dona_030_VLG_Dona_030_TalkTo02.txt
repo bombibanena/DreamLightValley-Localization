@@ -1,0 +1,42 @@
+TAG: Merlin_000_f
+I hear you might know how to open the <ActivityItem>Time Capsule</ActivityItem> that Donald and I dug up?
+
+TAG: Merlin_005_f
+I ought to know how to open it. I'm the one who enchanted it, after all!
+
+TAG: Merlin_002_f
+Perfect! So what's inside?
+
+TAG: Merlin_012_f
+Now hold on! Just because I know how to open it, doesn't mean I'm going to go to all that trouble myself.
+
+TAG: Merlin_013_f
+But I'd be happy to tell you how to do it. I found all the details in one of my journals.
+
+TAG: Merlin_003_f
+You see, the <ActivityItem>Time Capsule</ActivityItem> is under an <ActivityItem>Odorous Magnificus</ActivityItem> enchantment.
+
+TAG: Player_000_choice_003_f
+Odorous Magâ What?!
+
+TAG: Player_000_choice_004_f
+So it has to do with smells?
+
+TAG: Merlin_014_f
+<ActivityItem>Odorous Magnificus</ActivityItem>!
+
+TAG: Merlin_015_f
+The <ActivityItem>Time Capsule</ActivityItem> will only open if it's presented with precisely the right scent. Quite ingenious, if I do say so myself!
+
+TAG: Merlin_017_f
+The right scent, huh? Hope it's a good one.
+
+TAG: Merlin_004_f
+Take this recipe and find out. It has everything you need to produce just the right fragrance.
+
+TAG: Merlin_001_f
+Once you have this mixed together, come see me and we'll open that <ActivityItem>Time Capsule</ActivityItem>!
+
+TAG: Merlin_016_f
+Precisely!
+

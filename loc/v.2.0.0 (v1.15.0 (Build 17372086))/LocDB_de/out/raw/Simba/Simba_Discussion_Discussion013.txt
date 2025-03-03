@@ -1,0 +1,36 @@
+TAG: Simba_000_f
+Hey, {PlayerName}. I'm heading out for a trip around the Sunlit Plateau with Nala.
+
+TAG: Simba_001_f
+We're gonna visit all our old haunts. The water hole. The bendy tree.
+
+TAG: Player_000_choice_000_f
+Is this a date?
+
+TAG: Player_000_choice_001_f
+Sounds like fun.
+
+TAG: Player_000_choice_002_f
+What about the Elephant Graveyard?
+
+TAG: Simba_002_f
+A date...?
+
+TAG: Simba_003_f
+You know. Doing something with someone you love. Usually you give them flowers and chocolates.
+
+TAG: Simba_004_f
+So... I should get some flowers for Nala? I don't know if she'd like that.
+
+TAG: Simba_005_f
+Ah, forget it. I guess it's just a silly human thing.
+
+TAG: Simba_006_f
+It'll be nice to have some time together, just the two of us.
+
+TAG: Simba_007_f
+I think we'll steer clear of that place.
+
+TAG: Simba_008_f
+Too many bad memories.
+

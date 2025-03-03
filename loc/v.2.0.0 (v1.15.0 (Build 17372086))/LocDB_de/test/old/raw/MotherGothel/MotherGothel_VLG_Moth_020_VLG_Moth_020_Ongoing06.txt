@@ -1,0 +1,12 @@
+TAG: MotherGothel_000_f
+Мы что, забыли, дорогая? Какая плохая память, опять же... чтобы создать <ActivityItem>Sunlight Forches</ActivityItem>, вам понадобится...
+
+TAG: MotherGothel_001_f
+<ActivityItem>Softwood</ActivityItem>, <ActivityItem>Fiber</ActivityItem> и три драгоценных камня.
+
+TAG: MotherGothel_002_f
+A <ActivityItem>Garnet</ActivityItem>, a <ActivityItem>Citrine</ActivityItem> и a<ActivityItem>Aquamarine</ActivityItem>.
+
+TAG: MotherGothel_003_f
+Я уже дал вам <ActivityItem>Magic Sap</ActivityItem>.
+

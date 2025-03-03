@@ -1,0 +1,45 @@
+
+E
+Stitch_000_f5Help! {PlayerName}, help Stitch check goodness level?
+*
+Player_000_choice_000_fGoodness level?
+)
+Player_000_choice_001_fI can do that.
+#
+Player_000_choice_002_fNot now.
+E
+Stitch_001_f5Yes. I have goodness and badness. But how much today?
+4
+Stitch_002_f$Good. Say someplace Stitch could be.
+,
+Player_001_choice_000_fYou're in a city.
+/
+Player_001_choice_001_fYou're at the beach.
+4
+Player_001_choice_002_fYou're getting ice cream.
+3
+Player_001_choice_003_fThat's enough questions.
+A
+Stitch_005_f1Smash buildings! Clog pipes! Take all left shoes!
+U
+Stitch_004_fE*gasp* No. That bad. Hmm... Help old person cross street? Yeah. Phew.
+>
+Stitch_006_f.Put on sunscreen and dance! Stitch can't swim.
+t
+Stitch_007_fdUmm... Oh... WAIT quietly and don't eat all the ice cream. AND GET CHOCOLATE WITH RAINBOW SPRINKLES!
+6
+Stitch_008_f&Okay. What is Stitch's goodness level?
+.
+Player_002_choice_000_fVery high goodness!
+-
+Player_002_choice_001_fVery high badness!
+6
+Player_002_choice_002_fEqual goodness and badness.
+0
+Stitch_009_f Yaaaay! Thank you, {PlayerName}!
+4
+Stitch_010_f$AHHH! Must do good things fast! Bye!
+H
+Stitch_011_f8Oh... That's okay. I will practice little more goodness.
+
+Stitch_003_f*sigh* Okay...

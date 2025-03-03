@@ -1,0 +1,36 @@
+TAG: Mulan_002_f
+Как только деревья вырастут, дорога должна быть более защищена.
+
+TAG: Mulan_003_f
+Моей следующей заботой являются наводнения.
+
+TAG: Player_000_choice_000_f
+Ты прав, нам нужно решение.
+
+TAG: Player_000_choice_001_f
+У тебя уже есть идея?
+
+TAG: Player_000_choice_002_f
+Посадить лагерь на салфетки?
+
+TAG: Mulan_004_f
+Не волнуйся, я придумал план, пока ты был в саду.
+
+TAG: Mulan_007_f
+Мы сделаем несколько <ActivityItem>Sandbags</ActivityItem> и поместим их в стратегические точки.
+
+TAG: Mulan_008_f
+Отличная идея, чем я могу помочь?
+
+TAG: Mulan_009_f
+Можешь сделать <ActivityItem>Sandbucks</ActivityItem>, пока я выясню, где лучше всего их поместить?
+
+TAG: Mulan_010_f
+Вам понадобятся <ActivityItem>Fiber</ActivityItem> и <ActivityItem>Brown Sand</ActivityItem>.
+
+TAG: Mulan_005_f
+Вообще-то, я придумал это, пока ты заканчивал посадку.
+
+TAG: Mulan_006_f
+Я начинаю понимать, почему Мушу сказал, что ты ему так нравишься, {PlayerName}. Но нет...
+

@@ -1,0 +1,37 @@
+
+U
+Sally_000_fFYes. I'm going to make soup tonight. I'm deciding which spices to use.
+1
+Sally_001_f"Witch hazel? Or maybe worm's wort?
+2
+Player_000_choice_000_fThat sounds disgusting.
+<
+Player_000_choice_001_f!What does worm's wort taste like?
+9
+Player_000_choice_002_fI have a different question...
+/
+Sally_009_f Oh, do you not like worm's wort?
+-
+Sally_002_fIt's rather sweet and warming.
+0
+Sally_003_f!I'd say it's a bit like cinnamon.
+
+Sally_010_fYes?
+7
+Player_002_choice_000_fWhat's witch hazel good for?
+7
+Player_002_choice_001_fWorm's wort is a funny name.
+8
+Player_002_choice_002_fWhat about deadly nightshade?
+h
+Sally_004_fYWell, witch hazel is good for the skin. It's wonderfully cooling, like a midnight breeze.
+>
+Sally_005_f/It is, isn't it? It's a very useful ingredient.
+8
+Sally_007_f)Worm's wort adds a sweetness to any soup.
+C
+Sally_008_f4And it's good for covering other smells and flavors.
+C
+Sally_011_f4I only use deadly nightshade when I absolutely must.
+:
+Sally_012_f+Thank goodness I haven't had to in a while.

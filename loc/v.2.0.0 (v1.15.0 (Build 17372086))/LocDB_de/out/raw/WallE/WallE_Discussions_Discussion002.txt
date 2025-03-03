@@ -1,0 +1,120 @@
+TAG: WallE_000_f
+WALLÂ·E.
+
+TAG: Player_000_f
+Let's try one WALLÂ·E for yes and two WALLÂ·E's for no.
+
+TAG: Player_000_choice_000_f
+Do you like the Village?
+
+TAG: Player_000_choice_001_f
+Do you miss your world?
+
+TAG: Player_000_choice_002_f
+Would you like to go on adventures with me?
+
+TAG: WallE_001_f
+WALLÂ·E!
+
+TAG: Player_001_f
+One WALLÂ·E means "YES"! So, do you prefer...
+
+TAG: Player_001_choice_000_f
+Fishing?
+
+TAG: Player_001_choice_001_f
+Gardening?
+
+TAG: Player_001_choice_002_f
+Meeting new people?
+
+TAG: WallE_004_f
+WALLÂ·E, WALLÂ·E!
+
+TAG: Player_002_choice_000_f
+I finally understand you!
+
+TAG: Player_002_choice_001_f
+Thank you for playing along!
+
+TAG: WallE_007_f
+Whoopee!
+
+TAG: WallE_005_f
+WALLÂ·E!
+
+TAG: WallE_006_f
+Oh... WALLÂ·E?
+
+TAG: WallE_002_f
+EVE-ah...
+
+TAG: Player_003_f
+Is EVE...
+
+TAG: Player_003_choice_000_f
+Your friend?
+
+TAG: Player_003_choice_001_f
+Another robot?
+
+TAG: WallE_008_f
+WALLÂ·E!
+
+TAG: Player_004_f
+She IS your friend!
+
+TAG: Player_004_choice_000_f
+I finally understand you!
+
+TAG: Player_004_choice_001_f
+Thanks for playing along!
+
+TAG: WallE_009_f
+WALLÂ·E!
+
+TAG: Player_005_f
+She IS another robot!
+
+TAG: Player_005_choice_000_f
+I finally understand you!
+
+TAG: Player_005_choice_001_f
+Thanks for playing along!
+
+TAG: WallE_003_f
+WALLÂ·E, WALLÂ·E.
+
+TAG: Player_006_f
+Two WALLÂ·E's mean "no"! Is it because...
+
+TAG: Player_006_choice_000_f
+You're more of a stay-at-home robot?
+
+TAG: Player_006_choice_001_f
+You're afraid of me?
+
+TAG: WallE_010_f
+WALLÂ·E!
+
+TAG: Player_007_f
+You're a stay-at-home robot!
+
+TAG: Player_007_choice_000_f
+I finally understand you!
+
+TAG: Player_007_choice_001_f
+Thanks for playing along!
+
+TAG: WallE_011_f
+WALLÂ·E, WALLÂ·E!
+
+TAG: Player_008_f
+You're not afraid of me!
+
+TAG: Player_008_choice_000_f
+I finally understand you!
+
+TAG: Player_008_choice_001_f
+Thanks for playing along!
+

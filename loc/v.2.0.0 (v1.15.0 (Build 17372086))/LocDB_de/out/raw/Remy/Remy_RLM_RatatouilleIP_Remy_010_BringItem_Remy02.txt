@@ -1,0 +1,33 @@
+TAG: Remy_000_f
+That dish was perfect! But you're not done. The last course is dessert.
+
+TAG: Remy_001_f
+Desserts are very important. They're the final taste your customer leaves with.
+
+TAG: Remy_006_f
+If we don't offer fabulous desserts, that food critic is going to roast us!
+
+TAG: Remy_002_f
+Okay, do you want to bake a <ActivityItem>Banana Pie</ActivityItem> or an <ActivityItem>Apple Pie</ActivityItem>?
+
+TAG: Player_000_f
+I will go with...
+
+TAG: Player_000_choice_000_f
+<ActivityItem>Banana Pie</ActivityItem>.
+
+TAG: Player_000_choice_001_f
+<ActivityItem>Apple Pie</ActivityItem>.
+
+TAG: Remy_003_f
+Wonderful choice! Now, for this one, I'll let you work on your own.
+
+TAG: Remy_007_f
+You'll need three Ingredients. And remember: The key to any good pie is <ActivityItem>Butter</ActivityItem>.
+
+TAG: Remy_004_f
+Classic! Now, for this one, I'll let you work on your own.
+
+TAG: Remy_005_f
+You'll need three Ingredients. And remember: The key to any good pie is <ActivityItem>Butter</ActivityItem>.
+

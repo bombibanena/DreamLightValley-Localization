@@ -1,0 +1,39 @@
+TAG: Mirabel_003_f
+Mirabel, how would you like to be a backup singer for Ursula?
+
+TAG: Player_001_choice_000_f
+Wonderful! Amazing! I'm blown away!
+
+TAG: Player_001_choice_001_f
+Are you sure your magical gift isn't singing?!
+
+TAG: Mirabel_002_f
+Sing with Ursula? Really? That sounds like fun!
+
+TAG: Mirabel_014_f
+You know, sometimes I think Ursula might be a little like my TÃ­o Bruno. Misunderstood. Maybe if we did more things with herâ
+
+TAG: Mirabel_015_f
+Exactly!
+
+TAG: Mirabel_010_f
+Now... Ursula does want me to audition you...
+
+TAG: Mirabel_013_f
+Maybe you could just sing a couple of notes for me?
+
+TAG: Mirabel_009_f
+Sure. And I know just the song...
+
+TAG: Mirabel_016_f
+Well? What do you think?
+
+TAG: Mirabel_017_f
+Aw, thanks, {PlayerName}.
+
+TAG: Mirabel_011_f
+I'll tell Ursula you're perfect for the job.
+
+TAG: Mirabel_012_f
+I can't wait to sing with everyone.
+

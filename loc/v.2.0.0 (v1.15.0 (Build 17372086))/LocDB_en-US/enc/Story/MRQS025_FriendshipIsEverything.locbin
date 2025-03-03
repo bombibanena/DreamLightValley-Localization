@@ -1,0 +1,45 @@
+
+Y
+DStory!MRQS025_FriendshipIsEverything_Any_CompletedRequestDescriptionReturn to Merlin.
+y
+9Story!MRQS025_FriendshipIsEverything_AvailableDescription<Merlin has something fascinating to show you in the Village.
+Ê
+>Story!MRQS025_FriendshipIsEverything_CompletedStoryDescription‡After you restore the <ActivityItem>Orb of Friendship</ActivityItem> to its rightful place, the Well in the Meadow is rid of its curse.
+L
+0Story!MRQS025_FriendshipIsEverything_DisplayNameFriendship Is Everything
+h
+UStory!MRQS025_FriendshipIsEverything_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Merlin.
+–
+=Story!MRQS025_FriendshipIsEverything_Group01_StoryDescriptionUMerlin guides you to a strange stone with a hole at the top. What can it possibly be?
+•
+AStory!MRQS025_FriendshipIsEverything_Group03_OngoingRequestButtonP<smallcaps>{title}</smallcaps><br>How can I be a better friend to the Villagers?
+~
+LStory!MRQS025_FriendshipIsEverything_Group03_Step03_Friend01_StepDescription.Reach Friendship Level 5 with three Villagers.
+†
+=Story!MRQS025_FriendshipIsEverything_Group03_StoryDescriptionÄThe strange stone is called the Pillar of Friendship. Once, it held the <ActivityItem>Orb of Friendship</ActivityItem>. But when the Old Ruler disappeared, the <ActivityItem>Orbs</ActivityItem> were scattered. Now, the <ActivityItem>Orb of Friendship</ActivityItem> is trapped, tangled up in Night Thorns. To free it, you'll have to become better friends with the Villagers by spending time with them. In Dreamlight Valley, that's called "hanging out."
+h
+UStory!MRQS025_FriendshipIsEverything_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to Merlin.
+y
+AStory!MRQS025_FriendshipIsEverything_Group05_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>What do we do now?
+w
+OStory!MRQS025_FriendshipIsEverything_Group05_Step05_VisitArea02_StepDescription$Go back to the Pillar in the Meadow.
+y
+AStory!MRQS025_FriendshipIsEverything_Group06_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>What do we do now?
+ª
+MStory!MRQS025_FriendshipIsEverything_Group06_Step06_Possess01_StepDescriptionYPick up the <ActivityItem>Orb of Friendship</ActivityItem> near the Pillar in the Meadow.
+¬
+AStory!MRQS025_FriendshipIsEverything_Group07_OngoingRequestButtong<smallcaps>{title}</smallcaps><br>What do I do with the <ActivityItem>Orb of Friendship</ActivityItem>?
+œ
+QStory!MRQS025_FriendshipIsEverything_Group07_Step07_FillKeyhole01_StepDescriptionGPlace the <ActivityItem>Orb of Friendship</ActivityItem> in the Pillar.
+p
+QStory!MRQS025_FriendshipIsEverything_Group08_Step08_Conditional01_StepDescriptionGain access to a new Biome.
+¬
+AStory!MRQS025_FriendshipIsEverything_Group09_OngoingRequestButtong<smallcaps>{title}</smallcaps><br>What happened when the <ActivityItem>Orb</ActivityItem> was returned?
+}
+UStory!MRQS025_FriendshipIsEverything_Group09_Step10_FollowCharacter01_StepDescription$Go check out the Well in the Meadow.
+y
+WStory!MRQS025_FriendshipIsEverything_Group09_Step10_FollowCharacter01_TalkToDescriptionTalk to Merlin about the Well.
+ƒ
+UStory!MRQS025_FriendshipIsEverything_Group10_Step09_FollowCharacter02_StepDescription*Follow Merlin to the Pillar in the Meadow.
+v
+7Story!MRQS025_FriendshipIsEverything_StartRequestButton;<smallcaps>{title}</smallcaps><br>Do you need help, Merlin?

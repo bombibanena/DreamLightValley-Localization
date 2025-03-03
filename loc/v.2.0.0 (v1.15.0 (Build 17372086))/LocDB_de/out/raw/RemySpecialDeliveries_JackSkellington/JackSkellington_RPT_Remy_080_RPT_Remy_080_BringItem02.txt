@@ -1,0 +1,36 @@
+TAG: JackSkellington_000_f
+Ohh, look at it all!
+
+TAG: JackSkellington_001_f
+It's perfect, simply perfect, for what I have in mind.
+
+TAG: Player_000_choice_000_f
+Having someone over for dinner?
+
+TAG: Player_000_choice_001_f
+Are you eating all this yourself?
+
+TAG: Player_000_choice_002_f
+These dishes are kind of weird together.
+
+TAG: JackSkellington_002_f
+Oh no, {PlayerName}. These aren't to be eaten.
+
+TAG: JackSkellington_003_f
+They're meant to be delightfully macabre decorations!
+
+TAG: JackSkellington_004_f
+Minnie and I are putting on a little haunted house.
+
+TAG: JackSkellington_005_f
+The <ActivityItem>Hardboiled Eggs</ActivityItem> will be eyes...
+
+TAG: JackSkellington_006_f
+The <ActivityItem>Spaghetti Arrabbiata</ActivityItem> will be guts!
+
+TAG: JackSkellington_007_f
+And the <ActivityItem>Roasted Asparagus</ActivityItem> will be my favorite... crunchy bones.
+
+TAG: JackSkellington_008_f
+Thank you for your assistance, {PlayerName}!
+

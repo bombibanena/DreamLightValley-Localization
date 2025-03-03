@@ -1,0 +1,102 @@
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Any_CompletedRequestDescription
+See how Tiana found the New Orleans parade event.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_AvailableDescription
+Tiana seems to have been planning something secretive â what could she be up to?
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_CompletedStoryDescription
+The parade may be over, but the friendships it inspired are going strong! Hopefully Tiana is satisfied with how the first-ever Dreamlight New Orleans parade went down.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_DisplayName
+Villagers on Parade
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group01_Step01_TalkToCharacter01_StepDescription
+Ask {TargetNPC} about a Parade Float Mask.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_Possess04_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group02_Step02_StepDescription
+Gather Materials for the New Orleans Parade Arch:
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group02_StoryDescription
+Tiana is putting together a New Orleans Parade! But she can't do it alone â help her out by crafting parade resources, such as a fancy arch to mark the location of the start of the parade.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group03_Step03_CraftItem01_StepDescription
+Craft a {itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group04_Step04_TalkToCharacter02_StepDescription
+Return to {TargetNPC} with the New Orleans Parade Arch.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group05_Step05_FollowCharacter01_StepDescription
+Follow {TargetNPC} to the New Orleans Parade starting location.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group05_Step05_FollowCharacter01_TalkToDescription
+Check in with {TargetNPC}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group05_StoryDescription
+The parade is in full swing! Time to follow Tiana throughout the Valley and pick up the Parade Throws that she tossed out for you.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step06_DressUp01_StepDescription
+{itemName}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step06_DressUp02_StepDescription
+Quirky or Bold clothes.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step06_StepDescription
+Get ready for the New Orleans Parade! Put on:
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group06_Step07_Decorate01_StepDescription
+Place the New Orleans Parade Arch on the Beach near Skull Rock.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group07_Step08_VisitArea01_StepDescription
+Go to the Arch on the Beach near Skull Rock to start the parade with Tiana.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group08_Step09_FollowCharacter02_StepDescription
+Follow Tiana as she leads the New Orleans Parade.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group09_Step11_Possess05_StepDescription
+Quick â collect the Parade Throws!
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group10_Step13_FollowCharacter03_StepDescription
+Follow Tiana as she leads the Parade through the Plaza.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group11_Step15_Possess06_StepDescription
+Collect the Parade Throws in the Plaza.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group12_Step17_FollowCharacter04_StepDescription
+Follow Tiana as she leads the Parade through the Peaceful Meadow.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group13_Step19_Possess07_StepDescription
+Collect the throws in the Peaceful Meadow.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group14_Step21_FollowCharacter05_StepDescription
+Follow Tiana back to where the parade started.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group15_Step23_ReadyDescription
+Bring the Parade Throws to {TargetNPC}.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group15_Step23_StepDescription
+Make sure you have Parade Throws in your Inventory.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group16_Step24_Decorate02_StepDescription
+Place the Banquet Table on Skull Rock Island.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group16_StoryDescription
+The parade has reached its destination, so there's only one thing left to do â tuck into some tasty food and enjoy the celebrations with the other Villagers.
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_Group17_Step25_Party01_StepDescription
+Have fun!
+
+TAG: Village!PrincessFrog!Tiana!VLG_Tian_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

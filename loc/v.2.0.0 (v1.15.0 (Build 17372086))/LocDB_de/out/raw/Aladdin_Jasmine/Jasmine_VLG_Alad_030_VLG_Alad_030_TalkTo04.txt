@@ -1,0 +1,45 @@
+TAG: Jasmine_002_f
+Jasmine! What are you doing here?
+
+TAG: Jasmine_003_f
+I heard you were asking around the Village about some sort of pillar, covered in art. So I thought, perhaps, you could use my help.
+
+TAG: Jasmine_004_f
+I studied a lot of ancient art in the library at the palace.
+
+TAG: Player_002_f
+We think this pillar leads to treasure...
+
+TAG: Player_002_choice_000_f
+Now we can search as a team!
+
+TAG: Player_002_choice_001_f
+Sounds like you're the expert we need!
+
+TAG: Player_002_choice_002_f
+I knew we should have invited you...
+
+TAG: Jasmine_011_f
+I'd love to join you.
+
+TAG: Jasmine_013_f
+So, tell me... What combinations have you tried?
+
+TAG: Jasmine_017_f
+Combinations?
+
+TAG: Jasmine_018_f
+Yes. Combinations of symbols on this pillar. The <Lore>pieces rotate</Lore>, don't they?
+
+TAG: Jasmine_000_f
+I'm sure they'll <Lore>complete a story</Lore> from bottom to top. We should look around for clues that will tell us the correct order of symbols.
+
+TAG: Jasmine_001_f
+I can't believe I didn't think of this before... I'm really glad you're here, Jasmine.
+
+TAG: Jasmine_010_f
+I don't know if I'm an expert, but I might be able to help.
+
+TAG: Jasmine_016_f
+Well, I'm here now.
+

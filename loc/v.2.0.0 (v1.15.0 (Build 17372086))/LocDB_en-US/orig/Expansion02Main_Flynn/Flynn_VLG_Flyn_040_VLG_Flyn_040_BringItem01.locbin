@@ -1,0 +1,39 @@
+
+
+Flynn_000_fpOkay Flynn, so the good news is we have two Villagers who are interested in your book! Scrooge McDuck and Goofy.
+S
+Flynn_001_fDFantastic! Those two know a good thing when they see it, don't they?
+€
+Flynn_002_fqYes, but we have to remember that with each choice comes compromise. If you ask me, I think you should go with...
+-
+Player_000_choice_000_f...Scrooge McDuck.
+$
+Player_000_choice_001_f	...Goofy.
+P
+Flynn_003_fAMr. McDuck would definitely know how to make money marketing you.
+A
+Flynn_005_f2True. And I do want to sell a lot of books, but...
+>
+Flynn_006_f/This isn't supposed to be about me. Not really.
+L
+Flynn_011_f=This is a tough one, {PlayerName}. Neither feels QUITE right.
+H
+Flynn_012_f9There is a third option... You could always self-publish.
+,
+Player_001_choice_000_fBe your own boss!
+4
+Player_001_choice_001_fYou'd have total control.
+D
+Player_001_choice_002_f)Easier than choosing between two friends!
+=
+Flynn_014_f.Why didn't you say so earlier? That's perfect!
+W
+Flynn_015_fHGreat choice! And to kick things off, we should organize a book signing.
+i
+Flynn_016_fZI'll <Lore>purchase supplies</Lore> to set everything up. You take this time to get ready.
+L
+Flynn_004_f=Goofy is so loveable. He would add personality to your brand.
+L
+Flynn_007_f=That's true. And I really like Goofy! He's a nice guy, but...
+L
+Flynn_008_f=I worry he might get distracted, and that could impact sales.

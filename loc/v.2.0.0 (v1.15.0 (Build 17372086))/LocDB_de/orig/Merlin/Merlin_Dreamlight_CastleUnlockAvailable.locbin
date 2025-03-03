@@ -1,0 +1,13 @@
+
+C
+Merlin_006_f3Focus your magic on the Night Thorns, {PlayerName}.
+r
+Player_002_choice_000_fWRemove the Night Thorns. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+-
+Player_002_choice_001_fI'm not ready yet.
+V
+Merlin_007_fFBravo, {PlayerName}! Bravo! Now we can finally enter the Dream Castle!
+j
+Merlin_010_fZYour magic isn't strong enough yet. You'll need more Dreamlight to enter the Dream Castle.
+š
+Merlin_008_f‰It's wise of you to acknowledge that. But remember: Only YOU have the magic to enter the Dream Castle. So return as soon as you're ready.

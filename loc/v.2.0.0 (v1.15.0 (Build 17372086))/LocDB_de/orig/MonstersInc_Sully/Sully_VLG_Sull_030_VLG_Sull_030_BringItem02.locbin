@@ -1,0 +1,33 @@
+
+I
+Sully_001_f:Thanks, {PlayerName}. I don't know what I'd do without ya.
+s
+Sully_002_fdNow, I just need to insert the game I got from WALLÂ·E in the machine, press the power button and...
+{
+Sully_003_flIt doesn't work... Why doesn't it work? Did it fall over? It doesn't look like it, but it's kind of fragile.
+<
+Player_000_choice_000_f!No, but I hope I didn't break it!
+;
+Player_000_choice_001_f Maybe it broke while in storage.
+;
+Player_000_choice_002_f Me? Maybe it's YOU who broke it.
+n
+Sully_004_f_Oh, I'm sure it's not your fault! It's just kind of weird. Laugh energy is usually so reliable.
+U
+Sully_007_fFLaugh energy? But... Dreamlight Valley is powered by Dreamlight Magic!
+Q
+Sully_008_fBReally? Wow... I guess that makes sense, but... what do we do now?
+–
+Sully_000_f†Let's update the <ActivityItem>Frightcade</ActivityItem> by converting it into a <ActivityItem>Dreamlight Magic Arcade</ActivityItem>.
+\
+Sully_012_fMThat would be incredible. But I gotta tell ya: I'm not a super technical guy.
+Ý
+Sully_009_fÍHmm... I help fix lots of things around here. I bet we could build a converter with some <ActivityItem>Gold Ingots</ActivityItem> for the circuitry and <ActivityItem>Purified Night Shards</ActivityItem>...
+h
+Sully_010_fYI'll get everything and upgrade the <ActivityItem>Frightcade Game</ActivityItem> for you.
+±
+Sully_011_f¡That'd be great, {PlayerName}! Here, take the <ActivityItem>Frightcade Game</ActivityItem> back. I guess Vanellope isn't the only one learning about power today!
+j
+Sully_005_f[I hope not. It's weird that it's not working though. Laugh energy is usually pretty stable.
+g
+Sully_006_fXHold on... Maybe it's not either of us. But it IS weird. Laugh energy is super reliable.

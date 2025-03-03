@@ -1,0 +1,40 @@
+
+R
+Rapunzel_000_f@Hi, Rapunzel! Do you have a moment for a fun little distraction?
+F
+Rapunzel_002_f4Of course, {PlayerName}. I always have time for fun!
+~
+Rapunzel_003_flIn fact, I was just about to offer to reorganize Merlin's library based on colors instead of alphabetically.
+(
+Player_000_choice_000_fHow artistic!
+d
+Player_000_choice_001_fIHonestly, that's probably more organized than how Merlin's books are now.
+N
+Player_000_choice_002_f3My librarian instincts aren't a fan of that idea...
+a
+Rapunzel_004_fOOh, but what's the distraction you had in mind? I can wait on my library plans.
+q
+Rapunzel_013_f_And then I'll tell you which set of meals would make for the most colorful still-life painting.
+
+Rapunzel_014_f
+I'm on it!
+N
+Rapunzel_001_f<Great! And don't worry; I'll tell Oswald all about his part.
+A
+Rapunzel_005_f/Well, Oswald and I are having a fierce contest.
+
+Rapunzel_006_fHow exciting!
+Q
+Rapunzel_007_f?We need you to give us a task and then judge who did it better.
+9
+Rapunzel_008_f'All right. Let me think for a moment...
+'
+Rapunzel_009_fOkay, I have an idea!
+w
+Rapunzel_010_feI've been thinking about colors a lot lately and how I can make more interesting choices with my art.
+8
+Rapunzel_011_f&So I've decided to paint a still life.
+N
+Rapunzel_012_f<Here's my challenge: <Lore>Bring me 3 colorful meals</Lore>.
+9
+Rapunzel_015_f'Hmm... Maybe I should rethink it, then.

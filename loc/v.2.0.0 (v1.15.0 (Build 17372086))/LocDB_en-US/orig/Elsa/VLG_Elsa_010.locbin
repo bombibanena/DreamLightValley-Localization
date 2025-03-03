@@ -1,0 +1,65 @@
+
+Q
+@Village!Frozen!Elsa!VLG_Elsa_010_Any_CompletedRequestDescriptionTalk to Elsa.
+ï
+5Village!Frozen!Elsa!VLG_Elsa_010_AvailableDescriptionµElsa has been hearing a sound coming from the Ice Cavern in the Forest of Valor but cannot see what's inside as the way is blocked by a strange type of ice impervious to her powers.
+•
+:Village!Frozen!Elsa!VLG_Elsa_010_CompletedStoryDescriptionWShe remembers it must be placed on the sculpted wall, and that's what you decide to do.
+@
+,Village!Frozen!Elsa!VLG_Elsa_010_DisplayNameBreaking the Ice
+s
+QVillage!Frozen!Elsa!VLG_Elsa_010_Group01_Step01_FollowCharacter01_StepDescriptionFollow Elsa to the Ice Cavern.
+d
+SVillage!Frozen!Elsa!VLG_Elsa_010_Group01_Step01_FollowCharacter01_TalkToDescriptionTalk to Elsa.
+q
+=Village!Frozen!Elsa!VLG_Elsa_010_Group02_OngoingRequestButton0<smallcaps>{title}</smallcaps><br>What can I do?
+~
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess01_StepDescription1<ActivityItem>Vial of Ocean Water</ActivityItem>.
+u
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess02_StepDescription(<ActivityItem>Sunflowers</ActivityItem>.
+q
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess03_StepDescription$<ActivityItem>Lemons</ActivityItem>.
+t
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess04_StepDescription'<ActivityItem>Sugarcane</ActivityItem>.
+q
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_Possess05_StepDescription$<ActivityItem>Garlic</ActivityItem>.
+¡
+?Village!Frozen!Elsa!VLG_Elsa_010_Group02_Step02_StepDescription^Gather the following Ingredients for the <ActivityItem>Warmth of Summer Potion</ActivityItem>:
+“
+9Village!Frozen!Elsa!VLG_Elsa_010_Group02_StoryDescriptionÕElsa surmises that your special type of magic is needed to remove the ice. You decide to prepare a special <ActivityItem>Warmth of Summer Potion</ActivityItem> to improve your <ActivityItem>Pickaxe</ActivityItem>.
+o
+=Village!Frozen!Elsa!VLG_Elsa_010_Group03_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Ž
+KVillage!Frozen!Elsa!VLG_Elsa_010_Group03_Step03_CraftItem01_StepDescription?Craft the <ActivityItem>Warmth of Summer Potion</ActivityItem>.
+t
+=Village!Frozen!Elsa!VLG_Elsa_010_Group04_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+Y
+8Village!Frozen!Elsa!VLG_Elsa_010_Group04_StepDescriptionBring the {ItemName} to Elsa.
+X
+?Village!Frozen!Elsa!VLG_Elsa_010_Group05_Step05_StepDescriptionEnter the Ice Cavern.
+ 
+9Village!Frozen!Elsa!VLG_Elsa_010_Group05_StoryDescriptioncWith your improved <ActivityItem>Pickaxe</ActivityItem>, you're now free to explore the Ice Cavern.
+~
+OVillage!Frozen!Elsa!VLG_Elsa_010_Group06_Step06_RemoveBlocker01_StepDescription+Clear the ice blocks inside the Ice Cavern.
+{
+QVillage!Frozen!Elsa!VLG_Elsa_010_Group07_Step07_FollowCharacter02_StepDescription&Follow Elsa to explore the Ice Cavern.
+d
+SVillage!Frozen!Elsa!VLG_Elsa_010_Group07_Step07_FollowCharacter02_TalkToDescriptionTalk to Elsa.
+r
+=Village!Frozen!Elsa!VLG_Elsa_010_Group08_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+
+KVillage!Frozen!Elsa!VLG_Elsa_010_Group08_Step08_VisitArea03_StepDescription0Find the origin of the sound deeper in the Cave.
+t
+IVillage!Frozen!Elsa!VLG_Elsa_010_Group09_Step09_Possess06_StepDescription'Pick up the {ItemName} from the ground.
+¥
+9Village!Frozen!Elsa!VLG_Elsa_010_Group09_StoryDescriptionhAs you explore, you come across a gap and Elsa uses her magic to recreate a bridge she feels in the ice.
+b
+QVillage!Frozen!Elsa!VLG_Elsa_010_Group10_Step10_TalkToCharacter01_StepDescriptionTalk to Elsa.
+Å
+9Village!Frozen!Elsa!VLG_Elsa_010_Group10_StoryDescription‡Deeper in the cave, you discover a strange <ActivityItem>Blue Crest</ActivityItem> on the ground. Elsa will surely be interested by it.
+˜
+MVillage!Frozen!Elsa!VLG_Elsa_010_Group11_Step11_FillKeyhole01_StepDescriptionGPlace the <ActivityItem>Blue Crest</ActivityItem> on the sculpted wall.
+Q
+8Village!Frozen!Elsa!VLG_Elsa_010_Group12_StepDescriptionEnter the Ice Cavern.
+f
+3Village!Frozen!Elsa!VLG_Elsa_010_StartRequestButton/<smallcaps>{title}</smallcaps><br>Start Request

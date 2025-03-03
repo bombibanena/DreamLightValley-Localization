@@ -1,0 +1,79 @@
+
+Q
+
+Scar_000_fCAhh... At last. You're the only one here who's not a complete fool.
+G
+Player_000_choice_000_f,Aw! Thanks! You're not such a fool yourself.
+8
+Player_000_choice_001_fI'm not falling for it, Scar.
+,
+Player_000_choice_002_fWhat do you want?
+;
+
+Scar_001_f-I'm humbled by your underwhelming compliment.
+;
+
+Scar_005_f-Now then, I've a small question to ask you...
+x
+
+Scar_006_fjIt seems to me that those of us who are wise, strong, and cunning should take up the mantle of leadership.
+(
+Player_001_choice_000_fYes. I agree.
+5
+Player_001_choice_001_fThat sounds a bit... evil?
+@
+Player_001_choice_002_f%I don't want to rule over anything...
+)
+
+Scar_007_fOh, you are ever so wise...
+[
+
+Scar_018_fM<Forgotten>(Is he trying to trick me...? Like Mother Gothel did?)</Forgotten>
+;
+
+Scar_019_f-<Forgotten>(I can't trust him...)</Forgotten>
+I
+
+Scar_020_f;<Forgotten>(But I can't trust MERLIN either...)</Forgotten>
+>
+
+Scar_021_f0I'll do it. I'll get that Orb out of the Pillar.
+�
+
+Scar_022_f�I knew you'd see reason. If it were me, I'd start by <Lore>destroying the hideous flowers</Lore> scattered about. I never have cared for them...
+]
+
+Scar_010_fOUnfortunately, there's one minor inconvenience stopping us from assuming power.
+M
+
+Scar_011_f?It's that... that monstrosity there, near the end of the river.
+>
+
+Scar_012_f0You mean... the Pillar and the Orb of Nurturing?
+�
+
+Scar_013_f{Precisely. The windbag with the white mane spends hours examining it, playacting as if he's trying to understand its power.
+_
+
+Scar_014_fQBut I'm certain it's there to watch over us. To keep us in our place, as it were.
+h
+
+Scar_015_fZI... I guess we could tear the Orb out... like I tore out the one in the Glade of Trust...
+9
+
+Scar_016_f+Precisely. And that's just what I've tried.
+�
+
+Scar_017_f�But it seems to feed off the nature around it. If only someone could injure the flora and fauna â temporarily, of course â perhaps you'd be able to destroy it.
+z
+
+Scar_008_flUgh. Good, evil... ridiculous distinctions that pompous windbag with the shaggy white mane put in your head.
+V
+
+Scar_009_fHOnly because you haven't seen the good I â er, you â could do.
+U
+
+Scar_002_fGOh, {PlayerName}, you wound me. My intentions are honorable. I promise.
+H
+
+Scar_003_f:Manners, {PlayerName}. Churlishness is far from endearing.

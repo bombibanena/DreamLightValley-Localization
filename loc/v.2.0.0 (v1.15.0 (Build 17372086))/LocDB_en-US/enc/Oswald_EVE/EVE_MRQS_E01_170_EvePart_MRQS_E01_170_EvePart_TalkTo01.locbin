@@ -1,0 +1,37 @@
+
+(
+	EVE_000_f*questioning digital beeps*
+<
+	EVE_001_f/EVE! I've got a very special directive for you.
+
+	EVE_002_fOoooh.
+U
+	EVE_003_fHScan this photo. There are these Ancient Ruins underneath Eternity Isle.
+`
+	EVE_004_fSThere's some kind of funny ancient computer down there. I need you to hack into it.
+)
+Player_000_choice_000_fPretty please?
+D
+Player_000_choice_001_f)Does that seem like something you can do?
+<
+Player_000_choice_002_f!Should be a piece of cake, right?
+
+	EVE_005_fHmmm...
+j
+	EVE_013_f]It looks like some kind of map... a map to pieces of something called an "Ancient Processor."
+ˆ
+	EVE_014_f{That's got to be what we need! I'll <Lore>use this map to find all those pieces</Lore> and let you know once I've got them!
+
+	EVE_006_fAhhh... *beeps*
+_
+	EVE_007_fROh no, EVE! You look sad. You don't think you'll be able to talk to this computer?
+
+	EVE_008_fNo.
+O
+	EVE_009_fBHmmm. There are so many pieces of old technology around this Isle.
+h
+	EVE_010_f[There must be SOME kind of way to make an accessory to help you link up with that computer.
+
+	EVE_011_f*gasp!*
+
+	EVE_012_fWhoa, what's this?

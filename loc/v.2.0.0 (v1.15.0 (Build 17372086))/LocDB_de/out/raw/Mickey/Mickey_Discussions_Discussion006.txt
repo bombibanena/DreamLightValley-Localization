@@ -1,0 +1,60 @@
+TAG: Mickey_000_f
+You know, as an actor, I've gotten to do all sorts of fun jobs.
+
+TAG: Mickey_001_f
+If you're curious about any of 'em, I'd be happy to tell you.
+
+TAG: Player_000_choice_000_f
+Steamboat operator.
+
+TAG: Player_000_choice_001_f
+Sorcerer's apprentice.
+
+TAG: Player_000_choice_002_f
+Musketeer.
+
+TAG: Mickey_002_f
+That was the first job anybody got to see me do! And Minnie, too!
+
+TAG: Mickey_003_f
+I had a great time whistling and driving that steamboat down the river.
+
+TAG: Player_001_choice_000_f
+Sounds fun!
+
+TAG: Player_001_choice_001_f
+Sounds boring.
+
+TAG: Player_001_choice_002_f
+Sounds muggy.
+
+TAG: Mickey_004_f
+It was! Especially since Minnie and I got to work together.
+
+TAG: Mickey_005_f
+Nah. It was great! I got to be out in the fresh air and work with Minnie. I loved it!
+
+TAG: Mickey_006_f
+Well yeah, it was a steamboat! Ha-ha!
+
+TAG: Mickey_007_f
+Gosh, that one was a lot of work. Carrying all those water buckets was harder than it looked.
+
+TAG: Mickey_008_f
+But it got really fun after I made that big mistake...
+
+TAG: Player_002_choice_000_f
+What mistake?
+
+TAG: Player_002_choice_002_f
+Did it involve brooms?
+
+TAG: Mickey_009_f
+Well, I tried to do some magic. And it kinda got out of hand.
+
+TAG: Mickey_010_f
+Yep, LOTS and LOTS of brooms. Ha-ha!
+
+TAG: Mickey_011_f
+Aw, that was a blast! Goofy, Donald and I got to battle with swords and race across the countryside. It was awesome!
+

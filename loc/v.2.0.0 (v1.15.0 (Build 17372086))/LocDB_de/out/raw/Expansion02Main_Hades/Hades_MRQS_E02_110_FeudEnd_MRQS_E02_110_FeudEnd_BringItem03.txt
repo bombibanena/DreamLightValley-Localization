@@ -1,0 +1,120 @@
+TAG: Hades_000_f
+{PlayerName}! What's this?
+
+TAG: Hades_001_f
+An apology from Maleficent? Yeah, not likely.
+
+TAG: Hades_002_f
+Wait a second. Is this an invitation?
+
+TAG: Player_000_choice_000_f
+Oh humble Lord of the Underworld, we request your presence...
+
+TAG: Player_000_choice_001_f
+Do you like the little blue flame we added?
+
+TAG: Hades_003_f
+Heyyyy, now that's the kinda respect I deserve.
+
+TAG: Hades_004_f
+Not like what I get from any of the gods at Zeus's parties.
+
+TAG: Hades_007_f
+But hold on now â what are you inviting me to? Merlin's retirement bash?
+
+TAG: Hades_008_f
+It's a very important meeting with the Lorekeeper. We need YOUR help to stop the Neverafter.
+
+TAG: Hades_013_f
+Let me see here... "We invite you to the first meeting of the <Lore>Grand Council of the Neverafter</Lore>"?
+
+TAG: Player_001_choice_000_f
+We can't do it without you.
+
+TAG: Player_001_choice_001_f
+You'd be the guest of honor.
+
+TAG: Player_001_choice_002_f
+Look, are you coming or not?
+
+TAG: Hades_009_f
+Ya know, I would like to deal with all of the ink around here. It's really messing up the ambiance.
+
+TAG: Hades_010_f
+But before I RSVP to this thing, I've got one question...
+
+TAG: Hades_011_f
+Is Maleficent gonna be there?
+
+TAG: Player_002_choice_000_f
+She's going to be there, Hades.
+
+TAG: Player_002_choice_001_f
+Hopefully.
+
+TAG: Player_002_choice_002_f
+Why don't you show up and find out?
+
+TAG: Hades_012_f
+Urrgghh, I knew there had to be a catch.
+
+TAG: Player_003_choice_000_f
+Ignore her. This gathering is ALL about you!
+
+TAG: Player_003_choice_002_f
+You two NEED to put this silly feud aside for the good of the Vale.
+
+TAG: Player_003_choice_003_f
+Fine. Don't come. Enjoy ruling over a kingdom flooded in ink.
+
+TAG: Hades_016_f
+Yeah, right. Maleficent takes over every party she shows up at.
+
+TAG: Hades_019_f
+Ya know, she's the one who started all this.
+
+TAG: Hades_020_f
+Everything was goin' great until she put some kinda whammy on me. Then all that ink started showing up on Mount Olympus.
+
+TAG: Hades_021_f
+That's weird. Maleficent told me that YOU started the feud, and that the ink started appearing in her castle first.
+
+TAG: Hades_022_f
+What? You don't actually believe that, do you? Honesty's not exactly one of her virtues.
+
+TAG: Hades_028_f
+Mine either, but that's not really the point here.
+
+TAG: Hades_023_f
+Look, I'll show up at this little shindig to help fix the Neverafter. But once that's done? Maleficent had better stay OUT of my territory.
+
+TAG: Hades_024_f
+Maleficent cursed Mount Olympus? That's weird.
+
+TAG: Hades_025_f
+I'll ask her about it.
+
+TAG: Hades_026_f
+Yeah, I'm sure she'll be real forthcoming about that.
+
+TAG: Hades_017_f
+Hey! It's Maleficent who needs to leave me alone!
+
+TAG: Hades_018_f
+Hey! That ink isn't my doing.
+
+TAG: Hades_014_f
+Don't get cute. That means she's DEFINITELY gonna be there.
+
+TAG: Hades_015_f
+Let me see here... "We invite you to join the <Lore>Guardians of the Vale</Lore>"?
+
+TAG: Hades_027_f
+Let me see here... "We invite you to join <Lore>the Lorekeeper's Legion</Lore>"?
+
+TAG: Hades_005_f
+I gotta admit, it's a great touch.
+
+TAG: Hades_006_f
+Zeus could never manage that kinda class.
+

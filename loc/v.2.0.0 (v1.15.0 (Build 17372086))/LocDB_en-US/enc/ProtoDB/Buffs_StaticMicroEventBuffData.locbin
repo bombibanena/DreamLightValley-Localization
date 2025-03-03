@@ -1,0 +1,49 @@
+
+4
+Description%{Placeholder}Generic Buff Description
+*
+Description_000Gain friendship faster.
+%
+Description_001Crops grow faster.
+J
+Description_0047Gain more friendship after discussing with a Character.
+K
+Description_0058Gain more friendship after giving a gift to a Character.
+A
+Description_006.Gain more friendship after completing a Quest.
+L
+Description_0079Gain more friendship after completing a restaurant order.
+0
+Description_009Fishing consumes less Energy.
+2
+Description_010Gardening consumes less Energy.
+/
+Description_011Mining consumes less Energy.
+9
+Description_013&More chances to find gems when mining.
+>
+Description_014+More chances to find rare gems when mining.
+(
+DisplayName{Placeholder}Generic Buff
+ 
+DisplayName_000Friendship Up
+'
+DisplayName_001Crop Growth Speed Up
++
+DisplayName_004Discussion Friendship Up
+%
+DisplayName_005Gift Friendship Up
+(
+DisplayName_006Request Friendship Up
++
+DisplayName_007Restaurant Friendship Up
++
+DisplayName_009Fishing Energy Cost Down
+-
+DisplayName_010Gardening Energy Cost Down
+*
+DisplayName_011Mining Energy Cost Down
+!
+DisplayName_013Gem Chances Up
+,
+DisplayName_014MicroRare Gems Chances Up

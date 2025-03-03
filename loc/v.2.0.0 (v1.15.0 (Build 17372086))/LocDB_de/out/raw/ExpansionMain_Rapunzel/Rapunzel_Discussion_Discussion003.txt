@@ -1,0 +1,96 @@
+TAG: Rapunzel_000_f
+{PlayerName}, I was wondering... Do you think it's ever okay to break the rules?
+
+TAG: Player_000_choice_000_f
+No, rules are meant to protect us.
+
+TAG: Player_000_choice_001_f
+I was BORN to break rules!
+
+TAG: Player_000_choice_002_f
+That depends on the rule...
+
+TAG: Rapunzel_001_f
+That's what Mother always says too.
+
+TAG: Rapunzel_002_f
+But now that I'm outside the tower, I think some of her rules might be a little, uh...
+
+TAG: Player_001_choice_000_f
+Overprotective?
+
+TAG: Player_001_choice_001_f
+Extreme!
+
+TAG: Player_001_choice_002_f
+Totally made up.
+
+TAG: Rapunzel_003_f
+Yes, exactly! I'm taking care of myself just fine... Right?
+
+TAG: Rapunzel_004_f
+I guess that's one word for it...
+
+TAG: Rapunzel_005_f
+... I never thought of it that way. But... aren't all rules made up by someone?
+
+TAG: Rapunzel_006_f
+I really need to think about this.
+
+TAG: Rapunzel_007_f
+Wow, that's really rebellious! Sometimes, I wish I was more like that.
+
+TAG: Player_002_choice_000_f
+You're more rebellious than you think.
+
+TAG: Player_002_choice_001_f
+Just do whatever you want!
+
+TAG: Player_002_choice_002_f
+You might be too sweet to be rebellious.
+
+TAG: Rapunzel_008_f
+Huh... I guess I am.
+
+TAG: Rapunzel_009_f
+I did leave the tower. AND I handled myself fine in the jungle!
+
+TAG: Rapunzel_010_f
+I suppose I could try...
+
+TAG: Rapunzel_011_f
+I just need to figure out what that would be.
+
+TAG: Rapunzel_012_f
+Hmm... But isn't it possible to be nice and still follow your dreams?
+
+TAG: Rapunzel_013_f
+I'd like to think there's room for both.
+
+TAG: Rapunzel_014_f
+Mother's rules always seemed helpful... until they weren't.
+
+TAG: Rapunzel_015_f
+It's so complicated. Not always bad... Not always good...
+
+TAG: Player_003_choice_000_f
+Like a gray area.
+
+TAG: Player_003_choice_001_f
+Like sandwiches?
+
+TAG: Rapunzel_016_f
+Exactly!
+
+TAG: Rapunzel_017_f
+Maybe rules are like paints? You have to mix them to get the color you want.
+
+TAG: Rapunzel_018_f
+Does that make sense?
+
+TAG: Rapunzel_019_f
+I don't know about that â since meeting you, I haven't had a bad sandwich.
+
+TAG: Rapunzel_020_f
+Anna would never let that happen!
+

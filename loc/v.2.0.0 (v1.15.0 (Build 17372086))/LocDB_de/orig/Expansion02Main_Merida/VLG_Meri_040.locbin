@@ -1,0 +1,77 @@
+
+T
+AVillage!Brave!Merida!VLG_Meri_040_Any_CompletedRequestDescriptionTalk to Merida.
+∆
+6Village!Brave!Merida!VLG_Meri_040_AvailableDescriptionãOnce upon a time, a Scottish princess wanted to pay tribute to her homeland in a spectacular fashion, and sought out {PlayerName} for help.
+é
+;Village!Brave!Merida!VLG_Meri_040_CompletedStoryDescriptionŒThe Lorekeeper did not feel slighted because she could not attend the celebration. She was proud of Merida, and asked {PlayerName} to help bestow a gift to display her pride: a beautiful tapestry. Merida was touched by this gift, and {PlayerName} witnessed the sweet and joyful moment between the Lorekeeper and the Scottish princess.
+L
+-Village!Brave!Merida!VLG_Meri_040_DisplayNameA Very Scottish Celebration
+ì
+RVillage!Brave!Merida!VLG_Meri_040_Group01_Step01_TalkToCharacter01_StepDescription=Talk to Scrooge about supplies for Merida's Scottish banquet.
+û
+KVillage!Brave!Merida!VLG_Meri_040_Group02_Step03_Decorate01_StepDescriptionOPlace <ActivityItem>Clan DunBroch Banners</ActivityItem> in the Storybook Vale.
+ë
+KVillage!Brave!Merida!VLG_Meri_040_Group02_Step03_Decorate02_StepDescriptionB(Optional) Place <ActivityItem>Clan McDuck Banners</ActivityItem>.
+n
+@Village!Brave!Merida!VLG_Meri_040_Group02_Step03_StepDescription*Decorate the Vale in Merida's clan colors.
+
+LVillage!Brave!Merida!VLG_Meri_040_Group03_Step04_BringItem01_StepDescription/Make sure the {ItemName} are in your Inventory.
+d
+AVillage!Brave!Merida!VLG_Meri_040_Group03_Step04_ReadyDescriptionBring the {ItemName} to Merida.
+Ñ
+9Village!Brave!Merida!VLG_Meri_040_Group03_StepDescriptionGThe Vale is decorated for the Scots' party. Time to set up the banquet.
+ı
+:Village!Brave!Merida!VLG_Meri_040_Group03_StoryDescription∂{PlayerName} sought the help of the wealthy Scrooge McDuck for supplies, and decorated the Vale in glorious tartan. With this finished, {PlayerName} found Princess Merida once again.
+à
+@Village!Brave!Merida!VLG_Meri_040_Group04_Step05_StepDescriptionDCheck your <ActivityItem>mailbox</ActivityItem> for mail from Tiana.
+¶
+9Village!Brave!Merida!VLG_Meri_040_Group04_StepDescriptioniTiana said she would send the <ActivityItem>Salt-Baked Sea Wolf Recipe</ActivityItem> to you in the mail.
+x
+NVillage!Brave!Merida!VLG_Meri_040_Group05_Step06_ConsumeItem01_StepDescription&Read the {ItemName} in your Inventory.
+Y
+JVillage!Brave!Merida!VLG_Meri_040_Group06_Step07_Possess01_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_040_Group06_Step07_Possess04_StepDescription{ItemName}.
+Ç
+@Village!Brave!Merida!VLG_Meri_040_Group06_Step07_StepDescription>Gather Ingredients to cook the Salt-Baked Sea Wolf for Merida:
+t
+KVillage!Brave!Merida!VLG_Meri_040_Group07_Step08_CookMeal01_StepDescription%Cook some {ItemName} for the banquet.
+Ö
+LVillage!Brave!Merida!VLG_Meri_040_Group08_Step09_BringItem02_StepDescription5Make sure the {ItemName} meals are in your Inventory.
+d
+AVillage!Brave!Merida!VLG_Meri_040_Group08_Step09_ReadyDescriptionBring the {ItemName} to Merida.
+µ
+:Village!Brave!Merida!VLG_Meri_040_Group08_StoryDescriptionwWith the aid of Princess Tiana, {PlayerName} prepared a veritable feast of Merida's choosing. The celebration was nigh.
+´
+KVillage!Brave!Merida!VLG_Meri_040_Group09_Step10_Decorate03_StepDescription\Place the <ActivityItem>Scots' Banquet Setup</ActivityItem> somewhere in the Storybook Vale.
+e
+HVillage!Brave!Merida!VLG_Meri_040_Group10_Step11_Party01_StepDescriptionEnjoy the Scots' Banquet.
+e
+@Village!Brave!Merida!VLG_Meri_040_Group11_Step12_StepDescription!The Scots' Banquet was a success!
+e
+RVillage!Brave!Merida!VLG_Meri_040_Group11_Step12_TalkToCharacter02_StepDescriptionTalk to Merida.
+x
+RVillage!Brave!Merida!VLG_Meri_040_Group11_Step12_TalkToCharacter03_StepDescription"(Optional) Talk to Scrooge McDuck.
+m
+RVillage!Brave!Merida!VLG_Meri_040_Group12_Step13_TalkToCharacter04_StepDescriptionTalk to the Lorekeeper.
+ü
+:Village!Brave!Merida!VLG_Meri_040_Group12_StoryDescription‡Despite the joyous celebration, Princess Merida was of heavy heart. She missed her friend, the maternal Lorekeeper, at the celebration. It was decided {PlayerName} would venture forth to the Lorekeeper to check on her state.
+Y
+JVillage!Brave!Merida!VLG_Meri_040_Group13_Step14_Possess02_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_040_Group13_Step14_Possess03_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_040_Group13_Step14_Possess05_StepDescription{ItemName}.
+ê
+@Village!Brave!Merida!VLG_Meri_040_Group13_Step14_StepDescriptionLThe Lorekeeper wants to give Merida a gift. Gather the supplies to craft it:
+e
+LVillage!Brave!Merida!VLG_Meri_040_Group14_Step15_CraftItem01_StepDescriptionCraft the {ItemName}.
+~
+LVillage!Brave!Merida!VLG_Meri_040_Group15_Step16_BringItem03_StepDescription.Make sure the {ItemName} is in your Inventory.
+|
+AVillage!Brave!Merida!VLG_Meri_040_Group15_Step16_ReadyDescription7Gift Merida the {ItemName} on behalf of the Lorekeeper.
+q
+IVillage!Brave!Merida!VLG_Meri_040_Group16_Step17_Listen02_StepDescription$Listen to Merida and the Lorekeeper.
+e
+4Village!Brave!Merida!VLG_Meri_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

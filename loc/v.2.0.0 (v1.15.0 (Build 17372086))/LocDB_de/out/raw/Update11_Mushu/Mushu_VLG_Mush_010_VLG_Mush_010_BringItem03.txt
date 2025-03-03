@@ -1,0 +1,21 @@
+TAG: Mushu_000_f
+I collected some <ActivityItem>Flint Rocks</ActivityItem>, Mushu. What now?
+
+TAG: Mushu_001_f
+Stand back. I'm about to do my thing...
+
+TAG: Mushu_002_f
+There. I lit the fire on the statue's head!
+
+TAG: Mushu_003_f
+Now, it's your turn to <Lore>light the other torches</Lore>.
+
+TAG: Mushu_004_f
+Whaâ oh yeah. Nice!
+
+TAG: Mushu_006_f
+Crawly, Skittery, and Flutter say you're doing a great job. And I agree!
+
+TAG: Mushu_005_f
+Go ahead!
+

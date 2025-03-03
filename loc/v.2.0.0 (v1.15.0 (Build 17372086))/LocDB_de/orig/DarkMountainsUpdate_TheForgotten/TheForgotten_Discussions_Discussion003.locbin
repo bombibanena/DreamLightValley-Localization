@@ -1,0 +1,38 @@
+
+*
+TheForgotten_013_fUgh. Nobody GETS me.
+;
+Player_002_f+I've felt that way too. Does it make you...
+$
+Player_002_choice_000_f	...angry?
+$
+Player_002_choice_001_f	...upset?
+%
+Player_002_choice_002_f
+...scared?
+3
+TheForgotten_014_fI... Yeah, I guess I'm angry.
+`
+TheForgotten_015_fJBut it's funny. Now that you mention it... I guess I'm really more scared.
+/
+TheForgotten_016_fOr... or maybe I'm upset.
+9
+TheForgotten_017_f#Ugh. Why are feelings so CONFUSING?
+€
+TheForgotten_018_fjSometimes when we ignore our feelings, they can change into something else. Maybe that's what's happening.
+d
+TheForgotten_019_fNDon't push those tough feelings away, okay? You have every right to feel them.
+m
+TheForgotten_020_fW... Okay, fine. I'm starting to think that maybe... at least one person understands me.
+"
+Player_003_exit_000_f	Gotta go!
+0
+TheForgotten_021_fUpset?! What? No, I'm mad.
+L
+TheForgotten_022_f6... Okay, I guess... I am upset. Underneath the anger.
+=
+TheForgotten_023_f'But I guess what I really am is scared.
+G
+TheForgotten_024_f1Scared?! You think that scares me? No. I'm angry.
+f
+TheForgotten_025_fPOr... or maybe I am scared. I don't know. Now that I think about it some more...

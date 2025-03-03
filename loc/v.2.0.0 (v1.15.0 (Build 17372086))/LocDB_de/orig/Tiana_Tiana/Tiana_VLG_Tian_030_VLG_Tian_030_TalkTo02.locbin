@@ -1,0 +1,54 @@
+
+5
+Tiana_000_f&Okay Tiana, I've got your contestants!
+8
+Player_000_choice_000_fOh, no problem â€” what's up?
+7
+Player_000_choice_001_fDo I get paid in Cajun food?
+0
+Player_000_choice_002_fAnything for you two!
+/
+Tiana_001_f Wonderful! Chef Remy's here too.
+
+Tiana_016_fCool! Hey, Remy!
+z
+Tiana_002_fkI'm just here to help out and maybe get some tips on Cajun cooking. But Kristoff, Anna, and Mike are ready!
+F
+Tiana_004_f7I can see that! You've got herbs, a bunch of veggies...
+A
+Tiana_005_f2What's the first round of the contest going to be?
+ƒ
+Tiana_006_ftWell, we're going to start with some basic skills â€” washing herbs and the difference between chopping and mincing.
+2
+Tiana_007_f#Cool! Well, I'll leave you to itâ€”
+I
+Tiana_008_f:Hold up, {PlayerName}; we need a hand with something else.
+Z
+Tiana_025_fKWe thought it might help if you did the demonstrations for our contestants.
+Y
+Tiana_026_fJThat way Remy and I can be by their sides guiding them as they try things.
+3
+Tiana_010_f$Me? But I'm not a professional chef.
+U
+Tiana_011_fFMaybe not. But we've all seen you cooking up a storm almost every day!
+
+Tiana_012_f
+I guess...
+(
+Tiana_013_fMarvelous! Let's begin...
+”
+Tiana_015_f„To start, could you <Lore>demonstrate handling herbs by washing them</Lore>? That way they'll see how clean we want the herbs to be.
+¿
+Tiana_022_f¯Then, <Lore>chop the corn and potatoes into bite-sized pieces</Lore>. That'll show our contestants how to get everything the same size and the right size so it cooks properly.
+)
+Tiana_023_fSure! What are you making?
+_
+Tiana_024_fPIt's a <ActivityItem>Seafood Boil</ActivityItem> â€” a classic New Orleans dish.
+Å
+Tiana_019_fµSo we'll need some extra fresh seafood too. Would you catch us some <ActivityItem>Shrimp</ActivityItem>, <ActivityItem>Crab</ActivityItem>, and <ActivityItem>Lobster</ActivityItem>?
+p
+Tiana_020_faWhen all the Ingredients are ready, please bring them to me and I'll take care of the next steps.
+'
+Tiana_021_fSounds delicious! On it!
+:
+Tiana_027_f+Actually, you will later on in the contest!

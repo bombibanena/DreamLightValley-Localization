@@ -1,0 +1,105 @@
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Any_CompletedRequestDescription
+Confront Jafar.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_AvailableDescription
+Jafar seems to have learned much from your Alchemical experiments â what could he want help with now?
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_DisplayName
+The Serpent's Gift
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group01_Step01_Decorate01_StepDescription
+Lagoon.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group01_Step01_Decorate02_StepDescription
+Borderlands.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group01_Step01_Decorate03_StepDescription
+Docks.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group01_Step01_Decorate04_StepDescription
+Near Oswald's House.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group01_StepDescription
+Decorate with Jafar's Imagination Generators in:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group02_Step02_Conditional01_StepDescription
+Wait 10 minutes for Jafar's machines to start working.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group03_Step03_TalkToCharacter01_StepDescription
+Talk to Oswald to see if Jafar's machines cheered him up.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group04_Step04_ReadyDescription
+Bring the Poutine to Oswald to fill him up.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group04_Step04_StepDescription
+Cook up a Poutine for Oswald.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group05_Step05_TalkToCharacter02_StepDescription
+Gaston.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group05_Step05_TalkToCharacter03_StepDescription
+Scrooge McDuck.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group05_Step05_TalkToCharacter04_StepDescription
+Rapunzel.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group05_StepDescription
+Oswald is still feeling odd. Check up on other Villagers:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group05_StoryDescription
+Oswald is feeling bad and a hearty meal did nothing to help â could this be connected to Jafar's machines?
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group06_StepDescription
+Everyone is acting strangely â maybe check in with EVE.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group07_Step07_PickUp01_StepDescription
+Rapunzel's Tower.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group07_Step07_PickUp02_StepDescription
+Gaston's Lodge.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group07_Step07_PickUp03_StepDescription
+Scrooge McDuck's Store.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group07_StepDescription
+Investigate the three Villagers' homes for whatever Jafar planted.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group08_Step09_Listen01_StepDescription
+Listen to Rapunzel and Scrooge McDuck outside Scrooge's Store on Eternity Isle.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group08_StepDescription
+Make sure everyone is feeling normal once more:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group08_StoryDescription
+Jafar's hypnosis on the Villagers has been reversed, but Oswald's sickness still hasn't been resolved â what could be happening to him?
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group09_Step10_TalkToCharacter07_StepDescription
+Check in with Gaston.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group09_StepDescription
+Make sure everyone is feeling normal once more:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group10_Step11_VisitArea01_StepDescription
+Search for Jafar's secret machine.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group10_StepDescription
+Investigate the Ancient Ruins.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group11_Step12_TalkToCharacter08_StepDescription
+Confront Jafar about his sinister plot.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group11_StoryDescription
+Oswald has been caught by Jafar! You'll need to figure out a way to free him before Jafar's machine drains away Oswald's powers.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group13_Step15_StepDescription
+Find the power sources to Jafar's Machines and short-circuit them with your Royal Watering Can.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group16_Step19_StepDescription
+Break Jafar's Machines using your Pickaxe while Jafar is distracted.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_Group17_Step21_TalkToCharacter09_StepDescription
+Check in with Oswald.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

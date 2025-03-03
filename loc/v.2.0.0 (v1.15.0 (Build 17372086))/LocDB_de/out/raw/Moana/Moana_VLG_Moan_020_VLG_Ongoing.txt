@@ -1,0 +1,9 @@
+TAG: Moana_000_f
+Help me make Maui a <ActivityItem>Seafood Salad</ActivityItem>, a <ActivityItem>Fruit Salad</ActivityItem>, and a <ActivityItem>Seafood Platter</ActivityItem>.
+
+TAG: Moana_001_f
+Remy told me the <ActivityItem>Seafood Salad</ActivityItem> is made with any kind of seafood you like and <ActivityItem>Lettuce</ActivityItem>.
+
+TAG: Moana_002_f
+The <ActivityItem>Fruit Salad</ActivityItem> can be made with any fruit you have. And the <ActivityItem>Seafood Platter</ActivityItem> uses any two kinds of seafood.
+

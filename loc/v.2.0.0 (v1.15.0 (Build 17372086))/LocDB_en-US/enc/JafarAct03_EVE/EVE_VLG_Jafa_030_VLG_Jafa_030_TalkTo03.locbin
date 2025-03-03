@@ -1,0 +1,45 @@
+
+-
+	EVE_000_f Hey EVE, you feeling okay today?
+
+	EVE_009_fAhh!
+L
+	EVE_010_f?Oh â you're drawing something with your laser? A letter J?
+%
+	EVE_011_fWhoo! Name! Plant! Home!
+(
+	EVE_012_fWhoa, slow down there, EVE.
+
+	EVE_013_fName! Plant! Home!
+s
+	EVE_014_ffName... J... Are you talking about Jafar? Plant... or planting? Jafar planting something in your home?
+
+	EVE_015_fNo.
+?
+	EVE_016_f2Jafar planted something in OTHER Villagers' homes?
+(
+	EVE_017_f*affirmative digital beeps*
+F
+	EVE_018_f9But what does that have to do with them acting strangely?
+
+	EVE_001_fNo!
+
+	EVE_019_fHmm? Directive?
+q
+	EVE_020_fdAll right, I'm gonna look into this further, maybe <Lore>check out the Houses of those three</Lore>.
+
+	EVE_021_fThanks, EVE!
+!
+	EVE_002_fOh no! Are you sick?
+
+	EVE_003_fNo! Directive.
+z
+	EVE_004_fmWell, this is strange. I spoke with Rapunzel, Gaston, and Mr. McDuck, and they all... seem super weird today.
+&
+	EVE_005_fOh... Oh! *digital beeps*
+Y
+	EVE_006_fLThey were all saying some mean things... about you. It's just not like them.
+
+	EVE_007_fOh... *sigh*
+S
+	EVE_008_fFBut I don't think they meant it! Do you have any idea what's going on?

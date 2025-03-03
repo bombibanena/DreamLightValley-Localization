@@ -1,0 +1,45 @@
+TAG: Village!Mickey!Daisy!VLG_Dais_040_AvailableDescription
+Дейзи поручил вам помочь Ваниллопа. Для этого вам нужно поговорить с Минни Маус, который делает ей новый костюм.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_DisplayName
+Ваниллопа: Следующий уровень
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Минни Маус.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group02_Step02_BringItem01_StepDescription
+<ActivityItem>Fabric</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group02_Step02_BringItem02_StepDescription
+<ActivityItem>Gold Ingots</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group02_Step02_BringItem03_StepDescription
+<ActivityItem>Red Bromeliads</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group02_Step02_ReadyDescription
+Принесите материалы на Минни Маус.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group02_Step02_StepDescription
+Соберите материалы для Минни Маус:
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group03_Step03_ReadyDescription
+Возьмите {itemName} на Ваниллопа.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group03_Step03_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group03_StoryDescription
+Одевайтесь в руке, идите к Ваниллопа.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group04_Step04_TalkToCharacter02_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group04_StoryDescription
+Маленький гонщик не был в восторге от этого предложения Дейзи, вероятно, хотел бы знать, как все прошло.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+

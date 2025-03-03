@@ -1,0 +1,96 @@
+TAG: MikeWazowski_000_f
+How's this? Mr. McDuck hooked me up with a set of goggles.
+
+TAG: MikeWazowski_007_f
+Wow... Those are heavy duty. Like something you'd find in a CDA supply closet.
+
+TAG: Player_001_choice_000_f
+You don't like them?
+
+TAG: Player_001_choice_001_f
+Yeah, it kinda freaks me out too.
+
+TAG: Player_001_choice_002_f
+WE'VE GOT A 23-19!
+
+TAG: MikeWazowski_008_f
+No, they're perfect! I feel like I'm back in Monstropolis.
+
+TAG: MikeWazowski_005_f
+What do you need?
+
+TAG: MikeWazowski_019_f
+Well, I can get you a list, but I'm not exactly sure where to find the Ingredients.
+
+TAG: MikeWazowski_020_f
+Are you up for a little scavenger hunt?
+
+TAG: MikeWazowski_021_f
+Sure!
+
+TAG: MikeWazowski_022_f
+Okay, first I'll need some <ActivityItem>Desiccated Fishing Bait<ActivityItem>...
+
+TAG: MikeWazowski_024_f
+Then some <ActivityItem>Ancient Crumbs</ActivityItem> and finally some <ActivityItem>Suspicious Fridge Gunk</ActivityItem>.
+
+TAG: Player_000_choice_000_f
+Those are... really gross, Mike.
+
+TAG: Player_000_choice_001_f
+Sure, any idea where I might be able to find everything?
+
+TAG: MikeWazowski_014_f
+Now that I'm all goggled up, do you feel a little better?
+
+TAG: MikeWazowski_016_f
+Definitely! But if you wanted to REALLY make me feel comfortable...
+
+TAG: MikeWazowski_018_f
+You could help me with my... my... ACHOO! My allergies. I swear, the flowers around here are raining pollen!
+
+TAG: MikeWazowski_001_f
+Oh, you've got pollen allergies?
+
+TAG: MikeWazowski_025_f
+Afraid so. One of the many reasons I like living in the city!
+
+TAG: MikeWazowski_002_f
+Can I get you some kind of allergy medicine? Maybe talk to Merlin about a potion?
+
+TAG: MikeWazowski_003_f
+Mmm, not sure anything you'd have here would do the trick. I need somethin' with a real monstrous kick, ya know what I mean?
+
+TAG: MikeWazowski_004_f
+BUT... if you bring me some special Ingredients, I can make a <ActivityItem>Monstrous De-Pollinator Solution</ActivityItem> that'll knock your socks off!
+
+TAG: MikeWazowski_033_f
+Gross? Are you kidding me?! These are top-tier Ingredients we're talking about here!
+
+TAG: MikeWazowski_034_f
+My formula will not work with sub-par supplies.
+
+TAG: MikeWazowski_036_f
+Okay, sorry I asked! Where can I find your unique shopping list?
+
+TAG: MikeWazowski_035_f
+I don't know. Maybe try the <Lore>Houses of different Villagers</Lore>?
+
+TAG: MikeWazowski_037_f
+Cool, I'll start there.
+
+TAG: MikeWazowski_009_f
+There's somethin' about the way they magnify your eyes...
+
+TAG: MikeWazowski_010_f
+WHERE?!
+
+TAG: MikeWazowski_011_f
+Actually, you're kinda the 23-19 here.
+
+TAG: MikeWazowski_012_f
+But don't worry; we don't have an incinerator.
+
+TAG: MikeWazowski_013_f
+Well, that's a relief.
+

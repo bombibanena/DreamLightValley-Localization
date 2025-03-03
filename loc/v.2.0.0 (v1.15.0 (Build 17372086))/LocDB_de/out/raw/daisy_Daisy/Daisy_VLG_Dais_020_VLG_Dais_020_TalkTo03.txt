@@ -1,0 +1,33 @@
+TAG: Daisy_000_f
+Welcome to our last photo shoot, {PlayerName}!
+
+TAG: Daisy_004_f
+Your fantastic pictures showcased how relaxed you can look wearing our line for a day at the beach.
+
+TAG: Daisy_001_f
+But now we want to show how to create a look for a more glamorous event.
+
+TAG: Player_001_choice_000_f
+High fashion? In a castle? Love it!
+
+TAG: Player_001_choice_001_f
+What kind of event?
+
+TAG: Player_001_choice_002_f
+This seems over the top...
+
+TAG: Daisy_006_f
+I just KNEW you'd see the vision!
+
+TAG: Daisy_007_f
+I'll trust you with the styling. Could you pick an outfit while I finish getting things ready with Minnie?
+
+TAG: Daisy_003_f
+I'm seeing something <ActivityItem>Purple</ActivityItem> and a pair of <ActivityItem>Elegant Shoes</ActivityItem>, along with that original <ActivityItem>Shirt by "Dots & Daisies","</ActivityItem> of course!
+
+TAG: Daisy_002_f
+Oh, a gala, a ball, a fancy date... something that makes you want to elevate your fashion to another level.
+
+TAG: Daisy_005_f
+Over the top is my favorite place to go. We're going to have so much fun!
+

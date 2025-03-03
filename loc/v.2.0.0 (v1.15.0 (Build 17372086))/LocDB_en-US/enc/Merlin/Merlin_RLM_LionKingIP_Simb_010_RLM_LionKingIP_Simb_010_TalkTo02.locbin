@@ -1,0 +1,82 @@
+
+v
+Merlin_004_ffHmm... I get the peculiar feeling that you've stumbled upon yet another magical mystery, {PlayerName}.
+O
+Merlin_005_f?And considering where you've been, I surmise it involves lions.
+4
+Merlin_006_f$Well, er, have I surmised correctly?
+)
+Player_000_choice_000_fYou nailed it.
+4
+Player_000_choice_001_fI'm trying to help Simba.
+O
+Player_000_choice_002_f4Well done! You should add "surmiser" to your resume.
+'
+Merlin_007_fAh-ha! Do tell me more.
+Q
+Merlin_018_fALike slipping into a dream of some place you once knew, long ago.
+I
+Merlin_019_f9The Realms are tied to their memories and their feelings.
+í
+Merlin_020_fÅIt's possible that the sky in Simba's Realm is clouded precisely because his memories of his father are clouded with uncertainty.
+%
+Merlin_024_fSo how do I help him?
+T
+Merlin_022_fDSimba will need some magical aid... and some help with his troubles.
+Å
+Merlin_023_fqYou'll have to start by creating some sort of object to channel the spell. Something that holds meaning to Simba.
+K
+Player_003_f;Hmm. But what kind of object would hold meaning for a lion?
+%
+Player_003_choice_000_f
+A cat toy?
+9
+Player_003_choice_001_fMaybe a platter full of grubs?
+3
+Player_003_choice_002_fSomething from his past?
+p
+Merlin_008_f`I passed through that door in the Castle and found myself in a new Realm, somewhere in a jungle.
+s
+Merlin_012_fcI met Simba there. But he won't come back to Dreamlight Valley unless I can help him see the stars.
+O
+Merlin_000_f?He wants to get some guidance from the great kings of the past.
+û
+Merlin_013_fçThat shouldn't prove to be too difficult. There's almost nothing as constant as the stars. Simply wait for night and then... well... look up.
+q
+Merlin_014_faThat's the problem. Simba can't even remember the last time he saw the stars. It's always cloudy.
+U
+Merlin_015_fEI think something strange is going on. Possibly something magical...?
+H
+Merlin_016_f8That is a bit odd. But I suspect I know the explanation.
+x
+Merlin_017_fhThe Realms that you visit are worlds the Villagers created when they needed to escape Dreamlight Valley.
+U
+Merlin_030_fEThere is a difference between a lion and a common housecat, you know.
+6
+Merlin_034_f&You'll need something personal to him.
+"
+Merlin_035_fWait! I've got it.
+t
+Merlin_025_fdSimba mentioned someone bopping him over the head with a walking stick to knock some sense into him.
+b
+Merlin_026_fRThat sounds like precisely what you'll need. Just the sight of it might be enough.
+f
+Merlin_027_fVNext you'll need to infuse it with <ActivityItem>Purified Night Shards</ActivityItem>.
+®
+Merlin_003_fóOnce you've done that, <Lore>find the point in the jungle nearest the sky, point the walking stick towards the clouds, and command them to part</Lore>.
+{
+Merlin_028_fkBe careful, though. This is dangerous magic. You'll be influencing the very fabric of reality in the Realm.
+0
+Merlin_029_f It'll be worth it to help Simba.
+.
+Merlin_031_fHe really seems to like grubs.
+t
+Merlin_033_fdI don't think that will do. He might like eating them, but I doubt they hold much sentimental value.
+
+Merlin_032_fYes, precisely.
+T
+Merlin_009_fDAh, of course. Our old friend, Simba! See, I was right √¢¬Ä¬î lions!
+M
+Merlin_010_f=You could put it right between "wizard" and "prognosticator."
+c
+Merlin_011_fSWell then, I suppose that means I got it right. Now, tell me what happened exactly.

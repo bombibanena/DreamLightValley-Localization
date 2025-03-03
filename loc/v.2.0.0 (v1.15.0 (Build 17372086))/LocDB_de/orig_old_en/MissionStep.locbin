@@ -1,0 +1,141 @@
+
+F
+OngoingWhatToDo3<smallcaps>{title}</smallcaps><br>What should I do?
+K
+OngoingWhereYouGo6<smallcaps>{title}</smallcaps><br>Where are you going?
+I
+OngoingWhereWeGo5<smallcaps>{title}</smallcaps><br>Where are we going?
+
+Any_Buildingany Building
+
+Any_Characterany Character
+%
+Any_Clothingany piece of Clothing
+
+Any_Cropany Crop
+
+Any_Currencyany Currency
++
+Any_Ephemeral{Placeholder}any Ephemeral
+
+Any_Fishany Fish
+
+
+Any_Flower
+any Flower
+'
+Any_Furnitureany piece of Furniture
+ 
+Any_Ingredientany Ingredient
+
+
+Any_Insect
+any Insect
+
+Any_LootPresentany Present
+
+Any_Mealany Meal
+
+
+Any_Recipe
+any Recipe
+
+Any_Seedany Seed
+J
+&Decorate_Location_AnywhereInTheVillage the <Location>Village</Location>
+@
+Decorate_Location_PlayerHouseyour <Location>House</Location>
+2
+Location_Anywhere<Location>Anywhere</Location>
+.
+Location_Castle<Location>Castle</Location>
+?
+Location_Other_WishingWell!<Location>Wishing Well</Location>
+7
+Location_PlayerHouse<Location>Your House</Location>
+(
+ TargetItem_ActivityItemType_CropCrop
+.
+#TargetItem_ActivityItemType_DefaultDefault
+,
+"TargetItem_ActivityItemType_InsectInsect
+(
+ TargetItem_ActivityItemType_MealMeal
+(
+ TargetItem_ActivityItemType_SeedSeed
+&
+TargetItem_Complexity_LavishLavish
+&
+TargetItem_Complexity_SimpleSimple
+
+TargetItem_CropType_AnyAny
+"
+TargetItem_CropType_FruitFruit
+*
+TargetItem_CropType_Vegetable	Vegetable
+$
+TargetItem_FishConstraint_AnyAny
+(
+TargetItem_FishConstraint_EarlyEarly
+&
+TargetItem_FishConstraint_LateLate
+"
+TargetItem_FlowerRarity_AnyAny
+(
+TargetItem_FlowerRarity_CommonCommon
+$
+TargetItem_FlowerRarity_RareRare
+,
+ TargetItem_FlowerRarity_UncommonUncommon
+&
+TargetItem_IngredientType_FishFish
+(
+TargetItem_IngredientType_FruitFruit
+(
+TargetItem_IngredientType_GrainGrain
+&
+TargetItem_IngredientType_NoneNone
+(
+TargetItem_IngredientType_OtherOther
+,
+!TargetItem_IngredientType_SeaFoodSeafood
+(
+TargetItem_IngredientType_SpiceSpice
+?
+$TargetItem_IngredientType_SubProduct{Placeholder}SubProduct
+0
+#TargetItem_IngredientType_Vegetable	Vegetable
+
+TargetItem_MealType_AnyAny
+ 
+TargetItem_MealType_MealMeal
+9
+TargetItem_MealType_SubProduct{Placeholder}SubProduct
+
+TargetItem_Mood_CalmCalm
+"
+TargetItem_Mood_PlayfulPlayful
+)
+TargetItem_Normality_FamiliarFamiliar
+)
+TargetItem_Normality_WondrousWondrous
+*
+TargetItem_Sturdiness_DelicateDelicate
+&
+TargetItem_Sturdiness_StrongStrong
+.
+VillageArea_Beach<Area>Dazzle Beach</Area>
+1
+VillageArea_Cliff<Area>Frosted Heights</Area>
+9
+VillageArea_DarkMountains<Area>Forgotten Lands</Area>
+2
+VillageArea_Forest<Area>Forest of Valor</Area>
+2
+VillageArea_Meadow<Area>Peaceful Meadow</Area>
+3
+VillageArea_Savannah<Area>Sunlit Plateau</Area>
+'
+VillageArea_Urban<Area>Plaza</Area>
+2
+VillageArea_Wetland<Area>Glade of Trust</Area>

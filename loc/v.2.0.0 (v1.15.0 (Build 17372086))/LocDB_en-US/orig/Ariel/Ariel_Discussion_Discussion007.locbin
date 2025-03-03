@@ -1,0 +1,19 @@
+
+à
+Ariel_000_fy{PlayerName}, I want to get a present for Eric. But I could use your advice. What sorts of things would a human man like?
+8
+Player_000_choice_000_fSomething from under the sea?
+:
+Player_000_choice_001_fSomething from your collection?
+3
+Player_000_choice_002_fEric likes your singing.
+†
+Ariel_001_fêDo you think so? He IS very curious about my world. Almost as curious as I am about his! Maybe I could find him a beautiful shell. Or sea glass!
+t
+Ariel_002_feBut my collection is all things from the human world. He already has so much of that stuff. Unless...
+V
+Ariel_004_fGMaybe he would like something familiar if it's picked out just for him.
+g
+Ariel_005_fXI'll take a look at the gizmos in my collection and see if any of them are shiny enough.
+{
+Ariel_003_flThat's true. Maybe my present can be singing for him! Oh, thank you, {PlayerName}! That's just what I'll do.

@@ -1,0 +1,31 @@
+
+x
+
+Maui_000_fj{PlayerName}, I need to ask you something VERY important. It's to settle a little disagreement with Moana.
+T
+
+Maui_001_fFIf you had to name one thing you like MOST about me, what would it be?
+(
+Player_000_choice_000_fYour tattoos.
+(
+Player_000_choice_001_fYour heroics.
++
+Player_000_choice_002_fYour humbleness.
+O
+
+Maui_002_fAGreat answer. My tattoos are kind of a chronicle of all my feats.
+,
+
+Maui_003_fThey show up when I earn them.
+%
+
+Maui_008_fThanks, { PlayerName }!
+;
+
+Maui_005_f-They don't call me "hero to all" for nothing!
+3
+
+Maui_006_f%And I've got the tattoos to prove it.
+{
+
+Maui_007_fmHuh... Now that you mention it, I am INCREDIBLY humble for a demigod. I mean, NO ONE'S more humble than I am.

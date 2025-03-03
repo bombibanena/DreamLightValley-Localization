@@ -1,0 +1,129 @@
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Any_CompletedRequestDescription
+Покажите Ваниллопа таинственную карту.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_AvailableDescription
+Ваниллопа приготовил другую схему, чтобы сделать Долину как видеоигра.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_CompletedStoryDescription
+Загадочная добыча на самом деле карта Ваниллопа говорит, что это часть секретного, большого плана... что она задумала?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_DisplayName
+Босс вверх
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group01_Step01_CookMeal01_StepDescription
+Исцеление, AKA {ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group01_Step01_CookMeal02_StepDescription
+Сила, AKA {ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group01_Step01_CookMeal03_StepDescription
+Аппетит, AKA {ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group01_Step01_StepDescription
+Приготовиться"Зелины"Босс борется:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group01_StoryDescription
+На этот раз, она хочет геймизировать вещи, добавляя"Босс сражается"с различными злодеями.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делаю?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group02_Step02_TalkToCharacter05_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group02_StoryDescription
+Со всеми вашими чайными зельями, вы встретитесь с Ваниллопа возле дома Урсула. (Что может пойти не так?)
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group03_Step03_TalkToCharacter01_StepDescription
+"Битва"Урсула в её доме.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group04_Step04_TalkToCharacter02_StepDescription
+Перегруппируйтесь с Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group05_StoryDescription
+После потери Урсула, Ваниллопа посылает тебя за охотой"мистический меч"В лесу Вэлора.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group06_Step06_RemoveBlocker01_StepDescription
+Разоблачает его с помощью своего Шовеля.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group06_StepDescription
+Найти"мистический меч"В лесу Вэлора.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group07_Step07_Possess01_StepDescription
+Возьми мешок для одежды в лесу и открой его из списка.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group08_Step08_DressUp01_StepDescription
+Очистить меч Пиксель.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group08_StoryDescription
+Найдёшь специальный Меч Пикселя и выкопаешь его, а потом пойдёшь проверить Ваниллопа "Битва босса"с Матушка Готель.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group09_Step09_Listen01_StepDescription
+Проверьте Ваниллопа "битва"с Матушка Готель... на всякий случай.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group10_Step10_TalkToCharacter03_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group11_Step11_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group11_Step11_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group11_Step11_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group11_Step11_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group11_StepDescription
+Собирайте материалы и рыбу для приманки:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group11_StoryDescription
+Ваниллопа ставит перед тобой задачу сделать капкан, чтобы заманить последнего босса: Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group12_Step12_CraftItem01_StepDescription
+Подготовьте {ItemName}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group13_Step13_Decorate01_StepDescription
+Поместите {ItemName} рядом с пещерой Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group14_Step14_FollowCharacter02_StepDescription
+Познакомьтесь с Ваниллопа возле пещеры Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group14_Step14_FollowCharacter02_TalkToDescription
+Познакомься с Ваниллопа рядом с пещерой Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group15_Step15_VisitArea02_StepDescription
+Введите пещеру Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group15_StoryDescription
+Вооружена своим мечом с пикселем и со своим боком Ваниллопа вы входите в пещеру Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group16_Step16_TalkToCharacter04_StepDescription
+Убери лицо с Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group17_Step17_ConsumeItem01_StepDescription
+Собери и открой сладкую добычу в пещере Шрам.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group17_StoryDescription
+Вы вступаете в битву с Шрам... с неоднозначными результатами. Ваниллопа сбрасывает какую-то странную добычу на землю.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group18_StepDescription
+Введите Урсула House.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group19_Step19_TalkToCharacter06_StepDescription
+Возвращайтесь на Ваниллопа.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делаю?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что теперь?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я делаю?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

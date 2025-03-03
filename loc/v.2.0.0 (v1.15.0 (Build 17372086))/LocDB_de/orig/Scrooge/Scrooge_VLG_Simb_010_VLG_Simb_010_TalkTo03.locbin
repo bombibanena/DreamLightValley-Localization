@@ -1,0 +1,31 @@
+
+p
+Scrooge_000_f_Ahh... Another perfect day for business, {PlayerName}. And just what are we investing in today?
+g
+Player_000_fWSimba wants to make the Valley a little more relaxing, and we're only missing a pool...
+,
+Player_000_choice_000_fI came to buy it.
+C
+Player_000_choice_001_f(Do you have anything like that in stock?
+B
+Player_000_choice_002_f'How many Garnets do you need this time?
+=
+Scrooge_001_f,Aye, that's what a shopkeeper likes to hear!
+<
+Scrooge_006_f+And I'm ready to make you a one-time offer.
+›
+Scrooge_007_f‰You can either order the <ActivityItem>Relaxing Oasis</ActivityItem>, or I can trade it to ya for some <ActivityItem>Gems</ActivityItem>.
+Q
+Scrooge_002_f@No need to decide right now. Take some time to think about it...
+Y
+Scrooge_014_fHThough, according to my records, you have enough Star Coins to order it.
+š
+Scrooge_016_fˆBut according to my records, you don't have enough Star Coins to order it. So, you'll need to find a way to bring in some revenue first!
++
+Scrooge_003_fAs a matter of fact, I do.
+
+Scrooge_004_f	Ha-ha-ha!
+Ë
+Scrooge_005_f¹Did you really think I'd trade you the <ActivityItem>Relaxing Oasis</ActivityItem> for just a few <ActivityItem>Garnets</ActivityItem>? That's a pittance for such an item, {PlayerName}.
+<
+Scrooge_008_f+But I'm ready to make you a one-time offer.

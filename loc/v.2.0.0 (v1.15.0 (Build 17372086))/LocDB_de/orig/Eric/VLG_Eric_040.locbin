@@ -1,0 +1,51 @@
+
+U
+DVillage!LilMermaid!Eric!VLG_Eric_040_Any_CompletedRequestDescriptionTalk to Eric.
+ã
+9Village!LilMermaid!Eric!VLG_Eric_040_AvailableDescriptionNEric wants to talk to you about something that happened during his expedition.
+Æ
+>Village!LilMermaid!Eric!VLG_Eric_040_CompletedStoryDescriptionlYou have everything you need for Eric to keep scouring the bottom of the ocean for Dreamlight Valley relics.
+H
+0Village!LilMermaid!Eric!VLG_Eric_040_DisplayNameThe Mystical Crystal
+|
+AVillage!LilMermaid!Eric!VLG_Eric_040_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+^
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_BringItem04_StepDescription{ItemName}.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_BringItem08_StepDescription{ItemName}.
+W
+DVillage!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_ReadyDescriptionTalk to Merlin.
+x
+CVillage!LilMermaid!Eric!VLG_Eric_040_Group04_Step04_StepDescription1Make sure you have these items in your Inventory:
+s
+AVillage!LilMermaid!Eric!VLG_Eric_040_Group06_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Ü
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_BringItem01_StepDescription3<ActivityItem>Purified Night Shards</ActivityItem>.
+y
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_BringItem05_StepDescription&<ActivityItem>Crystals</ActivityItem>.
+|
+DVillage!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_ReadyDescription4Bring the Ingredients for the enchantment to Merlin.
+v
+CVillage!LilMermaid!Eric!VLG_Eric_040_Group06_Step06_StepDescription/Gather the Ingredients for the crystal extract:
+x
+AVillage!LilMermaid!Eric!VLG_Eric_040_Group08_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+á
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group08_Step08_BringItem02_StepDescription4Make sure you have the {ItemName} in your Inventory.
+e
+DVillage!LilMermaid!Eric!VLG_Eric_040_Group08_Step08_ReadyDescriptionBring the {ItemName} to Eric.
+s
+AVillage!LilMermaid!Eric!VLG_Eric_040_Group11_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+^
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem03_StepDescription{ItemName}.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem06_StepDescription{ItemName}.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem07_StepDescription{ItemName}.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_BringItem09_StepDescription{ItemName}.
+d
+DVillage!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_ReadyDescriptionBring the materials to Eric.
+ç
+CVillage!LilMermaid!Eric!VLG_Eric_040_Group11_Step11_StepDescriptionFGather the materials for the <ActivityItem>Diving Suit</ActivityItem>:
+h
+7Village!LilMermaid!Eric!VLG_Eric_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

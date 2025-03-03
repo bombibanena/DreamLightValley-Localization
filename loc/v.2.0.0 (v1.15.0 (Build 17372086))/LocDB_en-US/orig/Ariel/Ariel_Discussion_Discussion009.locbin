@@ -1,0 +1,55 @@
+
+G
+Ariel_000_f8Where would you most like to go exploring, {PlayerName}?
+'
+Player_000_choice_000_fThe forests.
+&
+Player_000_choice_001_fThe tundra.
+&
+Player_000_choice_002_fThe desert.
+N
+Ariel_001_f?Oh, I'd love to do that too! What do you like about the forest?
+2
+Player_001_choice_000_fThey're dark and green.
+9
+Player_001_choice_001_fThey're full of tiny critters!
+=
+Player_001_choice_002_f"Sometimes there are scary witches.
+:
+Ariel_004_f+Hmm... I've been in kelp forests like that.
+L
+Ariel_005_f=That sounds like the ocean... except we have schools of fish.
++
+Ariel_006_fOh, the ocean has those too.
+M
+Ariel_002_f>That sounds so interesting! What do you like about the tundra?
+.
+Player_002_choice_000_fIt's nice and cold.
+0
+Player_002_choice_001_fThere's so much snow.
+8
+Player_002_choice_002_fThere are gorgeous mountains.
+K
+Ariel_007_f<Brrr. I wonder if it's as cold as the trench near Atlantica.
+G
+Ariel_008_f8I'd like to see that. It snows over the ocean sometimes.
+U
+Ariel_010_fFMy father took me very far north once, and there was ice on the water!
+1
+Ariel_009_f"We have mountains underwater, too!
+?
+Ariel_011_f0But you swim down them instead of climb up them.
+P
+Ariel_003_fAI don't think I've heard of deserts. What do you like about them?
+1
+Player_003_choice_000_fThey're wide and open.
+2
+Player_003_choice_001_fThey're warm and sunny.
++
+Player_003_choice_002_fThere are lions!
+W
+Ariel_012_fHThat sounds like the open ocean. There's room to swim in all directions.
+M
+Ariel_013_f>That sounds nice. I like going to the surface to feel the sun.
+h
+Ariel_014_fYI wonder if they're like the sea lions we have in the ocean. Sea lions can be very silly.

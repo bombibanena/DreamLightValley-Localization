@@ -1,0 +1,46 @@
+
+r
+
+Buzz_001_fd{PlayerName}, you look ready to take on any threat to the galaxy. Do you feel as heroic as you look?
+L
+Player_001_choice_000_f1Yes, I really feel like I'm part of Star Command.
+7
+Player_001_choice_001_fNo, but I sure feel stylish.
+/
+Player_001_choice_002_fI look ridiculous!!!
+\
+
+Buzz_011_fNThat's because you are, cadet. At least the version of it we're creating here.
+¨
+
+Buzz_004_fùThanks to your enrollment, there's someone to hold down the command post while I go on my first patrol. I'll let you know if I encounter anything suspicious.
+5
+
+Buzz_012_f'And you look stylish too, {PlayerName}.
+v
+
+Buzz_000_fhAh, cadet! I heard Scrooge McDuck gave you your <ActivityItem>Space Ranger Uniform</ActivityItem> and...
+&
+
+Buzz_009_fYou're not wearing it...
+(
+
+Buzz_010_fWhy aren't you wearing it?
+=
+Player_002_choice_000_f"I'm worried I'm going to dirty it.
+<
+Player_002_choice_001_f!I'm sorry; I forgot to put it on.
+1
+Player_002_choice_002_fI don't like uniforms.
+
+
+Buzz_014_fqOh, don't worry, {PlayerName}. Getting your <ActivityItem>Uniform</ActivityItem> dirty is part of the fun. Now...
+ã
+
+Buzz_015_f}That's okay, {PlayerName}. We'll just pretend that there was a surprise attack, and you're wearing your space pajamas. Now...
+g
+
+Buzz_016_fYIt does take some getting used to. But I've been wearing my uniform for... well, forever.
+g
+
+Buzz_002_fYAnd I can promise you... it's surprisingly comfortable. I think it'll grow on you. Now...

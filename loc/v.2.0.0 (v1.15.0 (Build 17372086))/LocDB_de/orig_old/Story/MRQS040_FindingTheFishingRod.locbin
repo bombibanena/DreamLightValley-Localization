@@ -1,0 +1,65 @@
+
+c
+BStory!MRQS040_FindingTheFishingRod_Any_CompletedRequestDescriptionПоговори с Гуфи.
+�
+7Story!MRQS040_FindingTheFishingRod_AvailableDescriptionmВ "Мирном лугу" появился новый друг, пора с ними встретиться.
+�
+<Story!MRQS040_FindingTheFishingRod_CompletedStoryDescription�После рыбалки с ним и открытия его Сталла, пришло время для последнего разговора с Гуфи.
+f
+.Story!MRQS040_FindingTheFishingRod_DisplayName4Экспедиция рыбного промысла
+}
+?Story!MRQS040_FindingTheFishingRod_Group01_OngoingRequestButton:<smallcaps>{title}</smallcaps><br> Что вы ищете?
+�
+MStory!MRQS040_FindingTheFishingRod_Group01_Step01_BringItem01_StepDescriptioncНайдите "Счастливого рыболовецкого Рода" Гуфи в Медоу.
+�
+BStory!MRQS040_FindingTheFishingRod_Group01_Step01_ReadyDescriptionvВы нашли "Счастливого рыболовецкого Рода" Гуфи, но все заклинило!
+�
+;Story!MRQS040_FindingTheFishingRod_Group01_StoryDescription�Гуфи потерял своего "Счастливого рыболовецкого Рода" где-то в "Мирном луге".
+�
+SStory!MRQS040_FindingTheFishingRod_Group02_Step02_FollowCharacter01_StepDescriptionBСледуйте за Гуфи в рыболовное место.
+�
+;Story!MRQS040_FindingTheFishingRod_Group02_StoryDescription�Теперь, когда он воссоединился со своим Счастливым Рыболовецким Родом, он хочет познакомить тебя со своим любимым хобби и привести тебя к пруду в Мирном Мидоу.
+�
+?Story!MRQS040_FindingTheFishingRod_Group03_OngoingRequestButtonA<smallcaps>{title}</smallcaps><br> Как я ловлю рыбу?
+~
+MStory!MRQS040_FindingTheFishingRod_Group03_Step03_CatchFish01_StepDescription-Поймай что-нибудь с Гуфи.
+�
+SStory!MRQS040_FindingTheFishingRod_Group04_Step04_TalkToCharacter02_StepDescription9Покажите Гуфи ваш большой улов.
+�
+SStory!MRQS040_FindingTheFishingRod_Group05_Step05_FollowCharacter02_StepDescription8Следуйте за Гуфи до его Столла.
+v
+UStory!MRQS040_FindingTheFishingRod_Group05_Step05_FollowCharacter02_TalkToDescriptionПоговори с Гуфи.
+�
+?Story!MRQS040_FindingTheFishingRod_Group06_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br> Как мне открыть Столл?
+�
+JStory!MRQS040_FindingTheFishingRod_Group06_Step06_Unlock01_StepDescriptionvИспользуйте знак Скрудж Макдак, чтобы вновь открыть стойку Гуфи.
+�
+;Story!MRQS040_FindingTheFishingRod_Group06_StoryDescription�Гуфи показывает вам его свернувшийся Столл и просит вас помочь ему, починив его.
+�
+SStory!MRQS040_FindingTheFishingRod_Group07_Step07_TalkToCharacter01_StepDescription1Посмотрим, что думает Гуфи.
+}
+?Story!MRQS040_FindingTheFishingRod_Group08_OngoingRequestButton:<smallcaps>{title}</smallcaps><br> Что вы ищете?
+�
+MStory!MRQS040_FindingTheFishingRod_Group08_Step08_BringItem02_StepDescriptionLНайдите в Медоу <ActivityItem>Lucky Fishing Rod</ActivityItem>.
+�
+BStory!MRQS040_FindingTheFishingRod_Group08_Step08_ReadyDescription@Вы нашли <ActivityItem>Broken Fishing Rod</ActivityItem>!
+�
+;Story!MRQS040_FindingTheFishingRod_Group08_StoryDescription�Гуфи потерял своего "Счастливого рыболовецкого Рода" где-то в "Мирном луге".
+�
+SStory!MRQS040_FindingTheFishingRod_Group09_Step09_FollowCharacter03_StepDescriptionBСледуйте за Гуфи в рыболовное место.
+�
+;Story!MRQS040_FindingTheFishingRod_Group09_StoryDescription�Теперь, когда он воссоединился со своим Счастливым Рыболовецким Родом, он хочет познакомить тебя со своим любимым хобби и привести тебя к пруду в Мирном Мидоу.
+�
+?Story!MRQS040_FindingTheFishingRod_Group10_OngoingRequestButtonA<smallcaps>{title}</smallcaps><br> Как я ловлю рыбу?
+~
+MStory!MRQS040_FindingTheFishingRod_Group10_Step10_CatchFish02_StepDescription-Поймай что-нибудь с Гуфи.
+�
+?Story!MRQS040_FindingTheFishingRod_Group11_OngoingRequestButton><smallcaps>{title}</smallcaps><br> Что мне делать?
+�
+BStory!MRQS040_FindingTheFishingRod_Group11_Step11_ReadyDescription�Вы нашли <ActivityItem>Broken Fishing Rod</ActivityItem>! Найдите человека, которому он принадлежит.
+�
+AStory!MRQS040_FindingTheFishingRod_Group11_Step11_StepDescriptionuНайдите пропавшую рыболовецкую роду <ActivityItem>Lucky</ActivityItem> в Медоу.
+�
+;Story!MRQS040_FindingTheFishingRod_Group11_StoryDescription�Когда ты блуждаешь по Мирному лугу, ты спотыкаешься на сломанной рыболовецкой траве.
+�
+5Story!MRQS040_FindingTheFishingRod_StartRequestButtonI<smallcaps>{title}</smallcaps><br>Гуфи! Чем могу помочь?

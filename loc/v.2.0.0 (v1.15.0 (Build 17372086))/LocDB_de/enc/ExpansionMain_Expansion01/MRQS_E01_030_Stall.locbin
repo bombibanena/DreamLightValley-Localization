@@ -1,0 +1,37 @@
+
+e
+DStory!Expansion01!MRQS_E01_030_Stall_Any_CompletedRequestDescriptionПоговори с Гуфи.
+�
+9Story!Expansion01!MRQS_E01_030_Stall_AvailableDescription�Вы обнаружили знак, указывающий на то, что Гуфи ранее открыл хотя бы одну из его знаменитых Сталей на острове Вечность.
+�
+>Story!Expansion01!MRQS_E01_030_Stall_CompletedStoryDescription�Теперь, когда инаугурация завершена, вы можете использовать Столл в Гавани Древних. Может, вам стоит свериться с Гуфи, чтобы узнать, нужно ли ему что-то еще.
+J
+0Story!Expansion01!MRQS_E01_030_Stall_DisplayNameДай мне знак
+�
+OStory!Expansion01!MRQS_E01_030_Stall_Group01_Step01_BringItem01_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
+r
+DStory!Expansion01!MRQS_E01_030_Stall_Group01_Step01_ReadyDescription*Возьмите {ItemName} на Гуфи.
+�
+UStory!Expansion01!MRQS_E01_030_Stall_Group02_Step02_FollowCharacter01_StepDescriptionUСледуйте за Гуфи до его поста в Гавани Древних.
+x
+WStory!Expansion01!MRQS_E01_030_Stall_Group02_Step02_FollowCharacter01_TalkToDescriptionПоговори с Гуфи.
+�
+=Story!Expansion01!MRQS_E01_030_Stall_Group02_StoryDescription�Гуфи помнит, что у него были Столлс на острове Вечность, и решает посмотреть, что случилось с тем, что случилось в Гавани Древних.
+�
+OStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_BringItem02_StepDescriptionBМой для <ActivityItem>Copper</ActivityItem> в скалах.
+�
+OStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_BringItem03_StepDescription_Рыба для <ActivityItem>Plastic Scrap</ActivityItem> в водах без рипплов.
+|
+DStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_ReadyDescription4Принесите материалы на Гуфи.
+�
+CStory!Expansion01!MRQS_E01_030_Stall_Group03_Step03_StepDescription]Соберите материалы для Гуфи вокруг Гавани Древних:
+�
+=Story!Expansion01!MRQS_E01_030_Stall_Group03_StoryDescription�Сталл сломан, и вы решили помочь Гуфи починить его, собирая материалы для него.
+�
+LStory!Expansion01!MRQS_E01_030_Stall_Group04_Step04_Unlock01_StepDescription�Откройте замок Гуфи в посадке Древних, взаимодействуя со знаком Скрудж Макдак рядом с ним.
+�
+=Story!Expansion01!MRQS_E01_030_Stall_Group04_StoryDescription�Ты приносишь Гуфи то, что ему нужно, чтобы починить Столл, и он решает, что ты должен открыть его для всех.
+�
+AStory!Expansion01!MRQS_E01_030_Stall_Group03_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+|
+AStory!Expansion01!MRQS_E01_030_Stall_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?

@@ -1,0 +1,18 @@
+TAG: Merlin_003_f
+{Placeholder}Bein за этой дверью, молодая женщина потеряла обувь и нашла настоящую любовь.
+
+TAG: Player_000_choice_000_f
+Давайте откроем дверь. (Используйте {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+
+TAG: Player_000_choice_001_f
+Возможно, в другой раз.
+
+TAG: Merlin_001_f
+{Placeholder} Вот так, теперь мы можем получить доступ к королю Золушки!
+
+TAG: Merlin_004_f
+{Placeholder} Ваша магия еще недостаточно сильна.
+
+TAG: Merlin_002_f
+{Placeholder} Помните: только Вы можете открыть эти двери.
+

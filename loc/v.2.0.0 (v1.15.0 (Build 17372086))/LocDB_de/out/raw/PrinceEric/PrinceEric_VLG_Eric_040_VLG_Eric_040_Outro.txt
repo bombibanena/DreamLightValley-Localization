@@ -1,0 +1,42 @@
+TAG: PrinceEric_000_f
+This is amazing, {PlayerName}! You found everything I need.
+
+TAG: Player_000_f
+A Diving Helmet? It's so...
+
+TAG: Player_000_choice_000_f
+...fashionable.
+
+TAG: Player_000_choice_001_f
+...useful.
+
+TAG: Player_000_choice_002_f
+...heavy. How do you walk around in that thing?
+
+TAG: PrinceEric_001_f
+I'll go put the <ActivityItem>Diving Suit</ActivityItem> together and head out on my first expedition. See you when I get back!
+
+TAG: PrinceEric_007_f
+Well, my dive was a big success! I found all kinds of odd and mystical stuff on the sea floor by those ruins.
+
+TAG: PrinceEric_003_f
+If you're interested, I'll have the blueprints for them at my House. You might be able to use a few to make things for the Valley.
+
+TAG: PrinceEric_006_f
+Sounds great!
+
+TAG: PrinceEric_002_f
+And hey... now that I've found what I was looking for, I won't be needing this <ActivityItem>Diving Helmet</ActivityItem> anymore. I'd love for you to have it.
+
+TAG: PrinceEric_009_f
+Ha-ha! Yeah, if we ever have an "Under the Sea" fashion show here in the Valley, you'll be the star.
+
+TAG: PrinceEric_005_f
+Oh... and Ariel and I also wanted you to have this. We can never thank you enough, {PlayerName}, but maybe this gift we made will give you some idea of how much you mean to us.
+
+TAG: PrinceEric_010_f
+Just be careful. You should probably leave searching the bottom of the sea to us professionals, okay?
+
+TAG: PrinceEric_011_f
+You'll get used to it. Don't worry.
+

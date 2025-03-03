@@ -1,0 +1,54 @@
+TAG: Minnie_001_f
+Hey Minnie, got a moment for a little poll?
+
+TAG: Minnie_014_f
+I'm talking to a bunch of Villagers on behalf of Jack Skellington.
+
+TAG: Minnie_002_f
+Of course, {PlayerName}. What would Jack like to know?
+
+TAG: Minnie_003_f
+What's your favorite holiday and why?
+
+TAG: Minnie_004_f
+Well, I adore different things about all the holidays. But if I had to say the one that's the most fun, it would be Halloween!
+
+TAG: Minnie_005_f
+I just LOVE dressing up... and being scared!
+
+TAG: Player_000_choice_000_f
+That's kinda surprising, to be honest.
+
+TAG: Player_000_choice_001_f
+Me too!
+
+TAG: Minnie_006_f
+Really, why? I love experimenting with fashion.
+
+TAG: Minnie_013_f
+I'm glad I could help. Goodbye, {PlayerName}!
+
+TAG: Minnie_000_f
+Though I do like being fun-scared, not real-scared.
+
+TAG: Minnie_015_f
+When I was trapped in the Here and There, that was really scary and not fun at all.
+
+TAG: Minnie_008_f
+What do you like about being fun-scared?
+
+TAG: Minnie_009_f
+It's just so exciting!
+
+TAG: Minnie_010_f
+It's like a marvelous surprise, and when it's over you remember that you're safe and surrounded by your friends.
+
+TAG: Minnie_011_f
+Aww, Minnie, that's really sweet.
+
+TAG: Minnie_012_f
+Jack Skellington will be happy to hear it! Talk to you later.
+
+TAG: Minnie_007_f
+Oh, I bet you've had some wonderful costumes!
+

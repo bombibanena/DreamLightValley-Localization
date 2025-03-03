@@ -1,0 +1,12 @@
+TAG: Name_000
+{Placeholder} Глава 1
+
+TAG: Name_001
+{Placeholder} Глава 2
+
+TAG: Subtitle
+{Placeholder} Специальное событие
+
+TAG: Title
+{Placeholder}A Новый сосед
+

@@ -1,0 +1,3 @@
+TAG: Jasmine_000_f
+According to the instructions, we need to gather <ActivityItem>Soil</ActivityItem>, <ActivityItem>Clay</ActivityItem>, <ActivityItem>Dream Shards</ActivityItem>, a <ActivityItem>Green Rising Penstemon</ActivityItem>, a <ActivityItem>Purple Rising Penstemon</ActivityItem>, a <ActivityItem>Red Daisy</ActivityItem>, a <ActivityItem>White Daisy</ActivityItem>, and a <ActivityItem>Yellow Daisy</ActivityItem>.
+

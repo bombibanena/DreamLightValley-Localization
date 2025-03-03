@@ -1,0 +1,69 @@
+
+m
+DVillage!Encanto!Mirabel!VLG_Mira_030_Any_CompletedRequestDescription%Поговори с Мирабель.
+�
+9Village!Encanto!Mirabel!VLG_Mira_030_AvailableDescription�У Мирабель есть проблема. Она пыталась играть посредника в постоянной вражде между Дональд Дак и Скрудж Макдак, и она откатилась от нее довольно неожиданно. Она просит вас помочь решить ситуацию.
+�
+>Village!Encanto!Mirabel!VLG_Mira_030_CompletedStoryDescription�Пора посмотреть, как себя чувствует Мирабель после ее разговора с Скрудж Макдак.
+U
+0Village!Encanto!Mirabel!VLG_Mira_030_DisplayName!Смещение Мирабель
+�
+AVillage!Encanto!Mirabel!VLG_Mira_030_Group01_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+e
+UVillage!Encanto!Mirabel!VLG_Mira_030_Group01_Step01_TalkToCharacter01_StepDescription{TargetNPC}.
+e
+UVillage!Encanto!Mirabel!VLG_Mira_030_Group01_Step01_TalkToCharacter02_StepDescription{TargetNPC}.
+}
+<Village!Encanto!Mirabel!VLG_Mira_030_Group01_StepDescription=Узнай, что случилось, поговорив с:
+�
+UVillage!Encanto!Mirabel!VLG_Mira_030_Group02_Step02_TalkToCharacter03_StepDescription,Возвращайтесь на {TargetNPC}.
+�
+AVillage!Encanto!Mirabel!VLG_Mira_030_Group03_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+CVillage!Encanto!Mirabel!VLG_Mira_030_Group03_Step03_StepDescriptioncИщите ключ от регистра <ActivityItem>Cash, похороненный в лесу.
+g
+CVillage!Encanto!Mirabel!VLG_Mira_030_Group03_Step04_StepDescription Покормите енотов.
+�
+=Village!Encanto!Mirabel!VLG_Mira_030_Group03_StoryDescription�После обсуждения со всеми заинтересованными сторонами, вы решите, что для того, чтобы успокоить ситуацию, вы собираетесь искать потерянный ключ от кассового регистра и кормить енотов в лесу Валор.
+|
+AVillage!Encanto!Mirabel!VLG_Mira_030_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+OVillage!Encanto!Mirabel!VLG_Mira_030_Group04_Step05_BringItem01_StepDescription^Убедитесь, что <ActivityItem>{ItemName}</ActivityItem> в вашем списке.
+�
+DVillage!Encanto!Mirabel!VLG_Mira_030_Group04_Step05_ReadyDescriptionLПеренести <ActivityItem>{ItemName}</ActivityItem> на {TargetNPC}.
+�
+UVillage!Encanto!Mirabel!VLG_Mira_030_Group05_Step06_TalkToCharacter04_StepDescription,Возвращайтесь на {TargetNPC}.
+|
+AVillage!Encanto!Mirabel!VLG_Mira_030_Group06_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+\
+MVillage!Encanto!Mirabel!VLG_Mira_030_Group06_Step07_Possess02_StepDescription{itemName}.
+\
+MVillage!Encanto!Mirabel!VLG_Mira_030_Group06_Step07_Possess03_StepDescription{itemName}.
+\
+MVillage!Encanto!Mirabel!VLG_Mira_030_Group06_Step07_Possess04_StepDescription{itemName}.
+\
+MVillage!Encanto!Mirabel!VLG_Mira_030_Group06_Step07_Possess05_StepDescription{itemName}.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_030_Group06_Step07_StepDescription\Соберите материалы для <ActivityItem> Seashell Framework</ActivityItem>.
+�
+AVillage!Encanto!Mirabel!VLG_Mira_030_Group07_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+^
+OVillage!Encanto!Mirabel!VLG_Mira_030_Group07_Step08_CraftItem01_StepDescription{itemName}.
+�
+=Village!Encanto!Mirabel!VLG_Mira_030_Group07_StoryDescription�Несмотря на то, что Скрудж Макдак воссоединил с его драгоценным ключом кассового регистра, Мирабель все еще должен примирить дядю и племянника.
+�
+AVillage!Encanto!Mirabel!VLG_Mira_030_Group08_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+^
+OVillage!Encanto!Mirabel!VLG_Mira_030_Group08_Step09_BringItem02_StepDescription{itemName}.
+^
+OVillage!Encanto!Mirabel!VLG_Mira_030_Group08_Step09_BringItem03_StepDescription{itemName}.
+�
+DVillage!Encanto!Mirabel!VLG_Mira_030_Group08_Step09_ReadyDescription{Принесите Мирабель <ActivityItem>Fruit Pie</ActivityItem> и <ActivityItem> Seashell Frame</ActivityItem>.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_030_Group08_Step09_StepDescriptiontУбедитесь, что у вас есть все, что нужно Мирабель в вашем списке:
+�
+LVillage!Encanto!Mirabel!VLG_Mira_030_Group09_Step10_Listen01_StepDescriptionYПослушай Мирабель, извинись перед Скрудж Макдак.
+�
+=Village!Encanto!Mirabel!VLG_Mira_030_Group09_StoryDescription�Молодая женщина решает, что для того, чтобы все исправить, ей нужно извиниться перед Скрудж Макдак и объяснить причину своих действий.
+h
+7Village!Encanto!Mirabel!VLG_Mira_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

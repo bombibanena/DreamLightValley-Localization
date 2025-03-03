@@ -1,0 +1,57 @@
+TAG: Jafar_000_f
+Well, well, look who finally caught up.
+
+TAG: Jafar_001_f
+Jafar, what's going on here? What are you doing with Oswald?
+
+TAG: Jafar_002_f
+As ever, I am expected to do everything for you...
+
+TAG: Jafar_003_f
+What does it look like I am doing, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+I have no idea.
+
+TAG: Player_000_choice_001_f
+Like you're draining something from Oswald!
+
+TAG: Player_000_choice_002_f
+A really strange spa treatment?
+
+TAG: Jafar_004_f
+Of course. Allow me to enlighten you, one last time.
+
+TAG: Jafar_015_f
+Go ahead and try. Surprise me.
+
+TAG: Jafar_007_f
+From the moment I saw him, I knew there was something special about Oswald.
+
+TAG: Jafar_008_f
+The chromatic aberrance. The strange geometry.
+
+TAG: Jafar_009_f
+There is power lurking in his uniquely composed body. Power to which he is oblivious, labeling it merely "luck."
+
+TAG: Jafar_010_f
+Power which would be far more suited to MY goals.
+
+TAG: Jafar_011_f
+Don't think you're going to get away with this, Jafar.
+
+TAG: Jafar_012_f
+Oh {PlayerName}, you are already too late!
+
+TAG: Jafar_013_f
+The mechanism is complete. Oswald was lured to his doom. The alchemical process has already begun.
+
+TAG: Jafar_014_f
+Just wait, Jafar; I'll figure out how to stop you.
+
+TAG: Jafar_005_f
+Correct! At last, {PlayerName}, you are catching on!
+
+TAG: Jafar_006_f
+Thank goodness; I no longer have to pretend to find you amusing.
+

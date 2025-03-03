@@ -1,0 +1,125 @@
+
+k
+GVillage!PrincessFrog!Tiana!VLG_Tian_030_Any_CompletedRequestDescription Talk to Tiana about the contest.
+—
+<Village!PrincessFrog!Tiana!VLG_Tian_030_AvailableDescriptionWTiana seems to have some plans that she's eager to start Ã¢Â€Â” what is she cooking up?
+è
+AVillage!PrincessFrog!Tiana!VLG_Tian_030_CompletedStoryDescription¢The final winner has been selected! Now that Tiana has a backup chef to fill in at Tiana's Meal Stall on occasion, hopefully Tiana can take some time for herself.
+L
+3Village!PrincessFrog!Tiana!VLG_Tian_030_DisplayNameDreamlight Gastronomy
+Ž
+FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_StepDescriptionDTry to recruit Villagers to participate in Tiana's culinary contest.
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter01_StepDescription{TargetNPC}.
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter02_StepDescription{TargetNPC}.
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter03_StepDescription{TargetNPC}.
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter04_StepDescription{TargetNPC}.
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group01_Step01_TalkToCharacter05_StepDescription{TargetNPC}.
+m
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group02_Step02_VisitArea01_StepDescriptionGo inside Remy's House.
+p
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group03_Step03_TalkToCharacter06_StepDescriptionTalk to {TargetNPC}.
+|
+VVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step04_RemoveBlocker01_StepDescription"Chop and gather Potatoes and Corn.
+o
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step05_Possess01_StepDescriptionWash and collect the Herbs.
+[
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_CatchFish01_StepDescriptionCrab.
+]
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_CatchFish02_StepDescriptionShrimp.
+^
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_CatchFish03_StepDescriptionLobster.
+e
+FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group04_Step06_StepDescriptionCatch Seafood for the Boil.
+
+?Village!PrincessFrog!Tiana!VLG_Tian_030_Group04_StepDescriptionLUse your Royal Tools to prepare the various Ingredients inside Remy's House.
+ë
+@Village!PrincessFrog!Tiana!VLG_Tian_030_Group04_StoryDescription¦Tiana needs to recruit some help for her Stall and has begun a cooking competition Ã¢Â€Â” help her out by demonstrating basic culinary techniques for the contestants.
+m
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group05_Step07_VisitArea02_StepDescriptionReturn to Remy's House.
+a
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem01_StepDescription{itemName}.
+g
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem02_StepDescriptionClean {itemName}.
+a
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem03_StepDescription{itemName}.
+a
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem04_StepDescription{itemName}.
+a
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_BringItem05_StepDescription{itemName}.
+w
+GVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_ReadyDescription,Bring the Seafood Boil Ingredients to Tiana.
+
+FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group06_Step08_StepDescriptionFMake sure you have Tiana's Seafood Boil Ingredients in your Inventory.
+
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group07_Step09_EatMeal01_StepDescription-Consume the Seafood Boil from your Inventory.
+r
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group08_Step10_TalkToCharacter07_StepDescriptionTalk with {TargetNPC}.
+ö
+@Village!PrincessFrog!Tiana!VLG_Tian_030_Group08_StoryDescription±Anna, Kristoff, and Mike have combined their talents to prepare a Seafood Boil Ã¢Â€Â” can you detect each of their distinct personalities in the way that they prepared the meal?
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess02_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess03_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess04_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group09_Step11_Possess05_StepDescription{itemName}.
+s
+?Village!PrincessFrog!Tiana!VLG_Tian_030_Group09_StepDescription0Gather materials to craft a Sandwich Board Menu.
+i
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group10_Step12_CraftItem01_StepDescriptionCraft a {itemName}.
+m
+RVillage!PrincessFrog!Tiana!VLG_Tian_030_Group11_Step13_VisitArea03_StepDescriptionReturn to Remy's House.
+o
+GVillage!PrincessFrog!Tiana!VLG_Tian_030_Group12_Step14_ReadyDescription$Bring the {itemName} to {TargetNPC}.
+~
+FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group12_Step14_StepDescription4Make sure you have the {itemName} in your Inventory.
+„
+TVillage!PrincessFrog!Tiana!VLG_Tian_030_Group13_Step15_TakePicture01_StepDescription,Take a picture of everyone with their meals.
+d
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_EatMeal02_StepDescriptionMike's Okra Soup
+f
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_EatMeal03_StepDescriptionAnna's Fish Creole
+g
+PVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_EatMeal04_StepDescriptionKristoff's Beignets
+
+FVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step17_StepDescriptionEPick up the meals from the table and have a taste of everyone's meal.
+Œ
+OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group15_Step18_Listen01_StepDescription9Listen to Remy and Tiana react to the contestants' meals.
+È
+@Village!PrincessFrog!Tiana!VLG_Tian_030_Group15_StoryDescriptionƒIt's time for the finale! Mike's Okra Soup faces off against Anna's Fish Creole and Kristoff's Beignets Ã¢Â€Â” which dish will win?
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group16_Step19_TalkToCharacter09_StepDescription{TargetNPC}.
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group16_Step19_TalkToCharacter10_StepDescription{TargetNPC}.
+h
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group16_Step19_TalkToCharacter11_StepDescription{TargetNPC}.
+Ž
+?Village!PrincessFrog!Tiana!VLG_Tian_030_Group16_StepDescriptionKTalk to each contestant to give them feedback on their culinary experiment.
+
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group17_Step20_TalkToCharacter12_StepDescription1Talk to {TargetNPC} about the contestants' meals.
+Ž
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group18_Step21_TalkToCharacter13_StepDescription2Talk to {TargetNPC} about her winning Fish Creole.
+€
+QVillage!PrincessFrog!Tiana!VLG_Tian_030_Group19_Step22_Decorate01_StepDescription+Place {itemName} outside of Tiana's Palace.
+
+OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group20_Step23_Listen02_StepDescription<Head near Tiana's Palace to listen to her congratulate Anna.
+Œ
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group21_Step24_TalkToCharacter14_StepDescription0Talk to {TargetNPC} about his winning Okra Soup.
+€
+QVillage!PrincessFrog!Tiana!VLG_Tian_030_Group22_Step25_Decorate02_StepDescription+Place {itemName} outside of Tiana's Palace.
+
+OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group23_Step26_Listen03_StepDescription<Head near Tiana's Palace to listen to her congratulate Mike.
+‹
+XVillage!PrincessFrog!Tiana!VLG_Tian_030_Group24_Step27_TalkToCharacter15_StepDescription/Talk to {TargetNPC} about his winning Beignets.
+z
+QVillage!PrincessFrog!Tiana!VLG_Tian_030_Group25_Step28_Decorate03_StepDescription%Place {itemName} near Tiana's Palace.
+“
+OVillage!PrincessFrog!Tiana!VLG_Tian_030_Group26_Step29_Listen04_StepDescription@Head near Tiana's Palace to listen to her congratulate Kristoff.
+k
+:Village!PrincessFrog!Tiana!VLG_Tian_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,94 @@
+
+K
+
+Nala_005_f={PlayerName}, I found something strange on one of my patrols.
+N
+
+Nala_007_f@I've been trying to figure it out, but I think I need your help.
+3
+Player_000_choice_000_fSure. What did you find?
+1
+Player_000_choice_001_fMaybe some other time.
+_
+
+Nala_008_fQI was patrolling near Skull Rock off Dazzle Beach when I smelled something odd...
+3
+
+Nala_010_f%My whiskers even started twitching...
+)
+Player_001_choice_000_fStrange smell?
+.
+Player_001_choice_001_fWhiskers twitching?
+.
+Player_001_choice_002_fWhat happened next?
+d
+
+Nala_011_fVIt reminded me of when Simba and I were young, and we explored the Elephant Graveyard.
+C
+
+Nala_012_f5It was... musty. Like something just starting to rot.
+ƒ
+
+Nala_015_fuI got closer to investigate and found something buried in the ground. The tide had washed away the sand on top of it.
+R
+
+Nala_016_fDSo I dug it out. It was a small, brown thing that looked like... me.
+>
+Player_002_choice_000_f#Like some sort of mystical idol...?
+-
+Player_002_choice_001_fLike a decoration?
+8
+Player_002_choice_002_fLike... a Nala action figure?
+‡
+
+Nala_017_fyI'm not sure what you mean. Rafiki used to make pictures of animals, but this didn't look like anything I've seen before.
+E
+
+Nala_022_f7When I was digging it out, I scratched it with my claw.
+r
+
+Nala_023_fdSparks came out of it. Like it was going to catch fire. And my whiskers started twitching even more.
+5
+
+Nala_024_f'That's when I decided to come find you.
+4
+Player_003_f$Sounds like another magical mystery.
+H
+Player_003_choice_001_f-Don't worry. You've come to the right person.
+J
+Player_003_choice_002_f/I'm no expert, but I'll do my best to help you.
+C
+Player_003_choice_003_f(Uh, maybe you should ask Merlin instead.
+\
+
+Nala_025_fNI thought so. You've solved so many problems like this for your pride already.
+a
+
+Nala_028_fSOkay. I'll go <Lore>find this strange thing on Skull Rock near Dazzle Beach.</Lore>
+r
+
+Nala_026_fdI know you will. Trust in yourself. You've solved so many problems like this for your pride already.
+Z
+
+Nala_027_fLI don't want to bother Merlin until I know for sure what we're dealing with.
+h
+
+Nala_018_fZYou mean the colorful things around the dwellings here? No. I think it was more than that.
+
+
+Nala_019_fWhat's that?
+h
+
+Nala_020_fZIt's like a toy we humans play with. They come with lots of features and moveable parts...
+9
+
+Nala_021_f+Oh. No, I don't think that's what this was.
+R
+
+Nala_013_fDIt was almost like there was a whole stampede of wildebeests nearby.
+>
+
+Nala_014_f0But there wasn't anything. It was just peaceful.
+b
+
+Nala_009_fTOf course. Maybe I'll ask Merlin. This seems like it's more his territory than mine.

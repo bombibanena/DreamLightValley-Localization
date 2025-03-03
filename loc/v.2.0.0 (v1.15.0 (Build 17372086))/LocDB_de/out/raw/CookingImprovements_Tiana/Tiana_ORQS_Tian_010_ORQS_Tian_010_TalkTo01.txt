@@ -1,0 +1,39 @@
+TAG: Tiana_000_f
+{PlayerName}, you're just who I was thinking about!
+
+TAG: Tiana_001_f
+I was going through my favorite cookbooks and recipe diaries and found plans for something called a <ActivityItem>Slow Cooker</ActivityItem>?
+
+TAG: Tiana_006_f
+I must've gotten them from Merlin or WALLÂ·E before the Forgetting.
+
+TAG: Tiana_002_f
+Seems that you and I used to prepare loads of dishes in <Lore>large batches</Lore> with this machine.
+
+TAG: Player_000_choice_000_f
+This thing will cook FOR me?
+
+TAG: Player_000_choice_001_f
+I like the sound of this.
+
+TAG: Player_000_choice_002_f
+Easiest meal prep EVER.
+
+TAG: Tiana_004_f
+All you need to do is choose the recipe and add the Ingredients! It'll take some time, but that just means you can do other things while you wait.
+
+TAG: Tiana_007_f
+Now, I'm sure you can <Lore>build one yourself</Lore> with things found right here in the Valley.
+
+TAG: Tiana_008_f
+I'll give you the list for what you'll need and <Lore>my famous Gumbo recipe</Lore> for you to try out when the Slow Cooker is finished.
+
+TAG: Tiana_009_f
+Be sure to drop by and let me know how it went!
+
+TAG: Tiana_003_f
+I thought you might!
+
+TAG: Tiana_005_f
+That's certainly true!
+

@@ -1,0 +1,407 @@
+
+C
++acclink_account_conflict_keep_playing_localKeep Playing Locally
+B
+$acclink_account_conflict_login_emailLog in to Gameloft Account
+=
+acclink_account_conflict_titleCloud Save Account Conflict
+é
+/acclink_conflict_ingame_autopick_server_message[A newer profile version has been found on the cloud. You'll be redirected to the Main Menu.
+L
+-acclink_conflict_ingame_autopick_server_titleAuto-pick Server Cloud Save
+î
+0acclink_conflict_ingame_uselocal_confirm_message`Are you sure you want to keep the Local Save?
+The Cloud Save will be replaced by the Local Save!
+Q
+.acclink_conflict_ingame_uselocal_confirm_titleConfirmation to Keep Local Save
+¡
+1acclink_conflict_ingame_useremote_confirm_messageãAre you sure you want to keep the Cloud Save?
+The Local Save will be replaced by the Cloud Save, and you'll be redirected to the Main Menu.
+R
+/acclink_conflict_ingame_useremote_confirm_titleConfirmation to Keep Cloud Save
+=
+"acclink_conflict_keep_customercareKeep Customer Care Save
+.
+acclink_conflict_keep_localKeep Local Save
+/
+acclink_conflict_keep_remoteKeep Cloud Save
+1
+"acclink_conflict_recommended_labelRecommended
+q
+'acclink_conflict_resolve_error_downloadFThe profile could not be downloaded from the server. Please try again.
+¥
+'acclink_conflict_resolve_error_internalàAn internal error occurred while resolving the conflict. Restart the game and try again. If the problem persists, contact Customer Care.
+Ø
+&acclink_conflict_resolve_error_parsingÑFailed to load Cloud Save properly. Make sure you have the latest version of the game installed. Try logging in from another one of your devices that is linked to this account, force save to cloud, and try again. If the problem persists, contact Customer Care.
+A
+$acclink_conflict_resolve_error_titleCloud Save Conflict Error
+-
+acclink_conflict_titleCloud Save Conflict
+?
+acclink_conflict_title_debugCloud Save Conflict ** DEBUG **
+l
+%acclink_create_account_already_existsCThe account could not be created because this email already exists.
+'
+acclink_create_account_cancelCancel
+°
+(acclink_create_account_confirmation_descuEnter the verification code that was sent to your email address and select "Log in" to complete the account creation.
+x
+*acclink_create_account_confirmation_failedJThe verification code that you entered either has expired or is not valid.
+t
+-acclink_create_account_confirmed_login_failedCAccount creation confirmed, but the login failed. Please try again.
+Ä
+acclink_create_account_descaTo use this device progress on other platforms, you must create an account and sync a Cloud Save.
+y
+$acclink_create_account_invalid_emailQThe account could not be created because the email address provided is not valid.
+ì
+'acclink_create_account_invalid_passwordhThe account could not be created because the password is not valid (must contain at least 8 characters).
+a
+$acclink_create_account_unknown_error9The account could not be created due to an unknown error.
+Å
+$acclink_create_email_account_successYTo complete the account creation, enter the verification code that was sent to {glemail}.
+4
+"acclink_create_email_account_titleCreate Account
+´
+&acclink_email_auto_login_failed_promptÄFailed to log in with your Gameloft account. Go to the Cloud Save menu, make sure your credentials are up to date and try again.
+Z
+ acclink_email_login_failed_label6To keep the Cloud Save synced, re-enter your password.
+g
+acclink_logged_email_descJYou can use this email to log in on another device and use the Cloud Save.
+I
+acclink_login_account_desc+To sync to the Cloud Save, you must log in.
+L
+acclink_login_already_logged_in)You are already logged in as {playfabid}.
+ì
+,acclink_login_another_account_already_linkedcFailed to log in with this email address because there is another account registered to it already.
+Ì
+$acclink_login_different_profile_descƒCurrent user {playfabid} is logged in.
+Are you sure you want to lose access to local progress and sync to the Cloud Save instead? Your local progress can be recovered in the future by logging out.
+P
+.acclink_login_different_profile_download_errorFailed to download Cloud Save.
+C
+%acclink_login_different_profile_titleDifferent Account Detected
+À
+6acclink_login_different_profile_useremote_confirm_descêAre you sure you want to log in with this Gameloft account?
+
+YOUR LOCAL PROGRESS WILL BE LOST FOREVER.
+
+You will be redirected to the Main Menu.
+’
+@acclink_login_different_profile_useremote_confirm_soft_lost_descêAre you sure you want to log in with this Gameloft account?
+
+YOUR LOCAL PROGRESS WILL BE LOST FOREVER.
+
+You will be redirected to the Main Menu.
+S
+7acclink_login_different_profile_useremote_confirm_titleEmail Login Confirmation
+%
+acclink_login_email_accountLog in
+—
+!acclink_login_email_not_confirmed´Your credentials are valid but the account creation process was not completed. Please complete the creation of your account and enter the verification code sent via email.
+"
+acclink_login_errorLogin Error
+B
+!acclink_login_invalid_credentialsInvalid credentials provided.
+é
+acclink_login_not_availableoThe game is experiencing some connectivity issues with Cloud Services. Please wait a few minutes and try again.
+!
+acclink_login_successLogin OK
+®
+acclink_logout_confirm_descàAre you sure you want to log out? Current progression will be synced to the Cloud and you will be redirected to the previous Local Save.
+3
+acclink_logout_confirm_titleLogout Confirmation
+'
+acclink_logout_email_accountLog out
+P
+acclink_logout_email_error_desc-Failed to log out from your Gameloft account.
+;
+ acclink_logout_email_error_titleCloud Save Logout Error
+z
+*acclink_logout_email_new_game_confirm_descLAre you sure you want to create a new game? The recovered save will be lost.
+B
++acclink_logout_email_new_game_confirm_titleCloud Save Recovery
++
+ acclink_logout_email_recover_btnRecover
+E
+(acclink_logout_email_recover_error_titleCloud Save Recovery Error
+D
+0acclink_logout_email_recover_profile_found_titleCloud Save Found
+q
+1acclink_logout_email_recover_try_again_error_desc<Failed to recover last saved game. Do you want to try again?
+
+)acclink_logout_email_try_again_error_descRFailed to completely log out from your Gameloft account. Do you want to try again?
+3
+acclink_logout_error_descYou are not logged in.
+*
+acclink_logout_error_titleLogout Error
+6
+acclink_logout_success_descYou are now logged out.
+)
+acclink_logout_success_title	Logout OK
+-
+acclink_nativeauth_customidGame Custom ID
++
+"acclink_nativeauth_email_pwd_loginEmail
+
+acclink_nativeauth_epicEpic
+ô
+acclink_nativeauth_epic_messagevWaiting for Epic Games to log in.
+
+Be sure you are using the Epic Games Launcher and that you have granted permission.
+,
+acclink_nativeauth_gameloftidGameloft ID
+@
+$acclink_nativeauth_nintendo_deviceidNintendo Switch DeviceID
+:
+acclink_nativeauth_nintendo_nsaNintendo Online Account
+%
+acclink_nativeauth_psnPlayStation
+!
+acclink_nativeauth_steamSteam
+/
+acclink_nativeauth_unsupportedNot supported
+
+acclink_nativeauth_xboxXbox
+I
+acclink_offline_connect_label(You must be online to enable Cloud Save.
+/
+ acclink_online_native_auth_labelNative Auth
+.
+acclink_online_user_id_labelOnline User ID
+1
+acclink_profile_recoveredCloud Save Recovered
+B
+acclink_register_email_error"The email could not be registered.
+
+acclink_register_email_success]An email was sent to:
+{glemail}
+Please confirm your email by clicking the link that was sent.
+.
+acclink_register_email_titleRegister Email
+*
+acclink_reset_pwd_actionReset Password
+g
+acclink_reset_pwd_descMAn email with a verification code to reset your password will be sent to you.
+~
+acclink_reset_pwd_errorcFailed to reset the password for the email provided ({glemail}) due to the following error:
+{error}
+
+acclink_reset_pwd_sendSend
+5
+acclink_reset_pwd_successEmail sent to {glemail}.
+)
+acclink_reset_pwd_titlePassword Reset
+ê
+&acclink_reset_pwd_user_not_found_errorfFailed to reset password for the email provided ‚Äî {glemail} ‚Äî because the user could not be found.
+h
+acclink_set_new_password_descGCheck your email for the verification code and enter your new password.
+W
+acclink_set_new_pwd_error:The new password failed to be set due to an unknown error.
+|
+ acclink_set_new_pwd_invalid_codeXThe new password could not be set because the verification code is wrong or has expired.
+î
+$acclink_set_new_pwd_invalid_passwordlThe new password could not be set because the password is not valid (it must contain at least 8 characters).
+û
+(acclink_set_new_pwd_max_attempts_reachedrThe new password could not be set because you have reached the maximum number of attempts. Please try again later.
+R
+acclink_set_new_pwd_success3The new password was set for this email: {glemail}.
+k
+"acclink_set_new_pwd_user_not_foundEThe new password could not be set because the account does not exist.
+
+acclink_status_errorError
+
+acclink_status_okOK
+π
+acclink_unlink_confirm_descôUnlinking will remove the link between the platforms and your Gameloft account. You can re-link your account by logging in again with a Gameloft account.
+3
+acclink_unlink_confirm_titleUnlink Confirmation
+&
+acclink_unlink_email_accountUnlink
+ù
++acclink_unlink_email_credentials_error_descnFailed to unlink from the Gameloft account because the password that you entered is invalid or does not match.
+`
+acclink_unlink_email_error_desc=Failed to unlink from the Gameloft account. Please try again.
+û
+(acclink_unlink_email_services_error_descrFailed to unlink from the Gameloft account because services are unavailable at the moment. Please try again later.
+h
+#acclink_unlink_enter_password_labelAPlease re-enter your password to confirm that you want to unlink.
+*
+acclink_unlink_error_titleUnlink Error
+¥
+/ccprofile_conflict_ingame_usecc_confirm_messageÄAre you sure you want to apply the Customer Care Save?
+The current save will be lost, and you'll be redirected to the Main Menu.
+X
+-ccprofile_conflict_ingame_usecc_confirm_title'Confirmation to Keep Customer Care Save
+å
+2ccprofile_conflict_ingame_uselocal_confirm_messageVAre you sure you want to keep the Local Save?
+The Customer Care Save won't be applied!
+S
+0ccprofile_conflict_ingame_uselocal_confirm_titleConfirmation to Keep Local Save
+S
+0cpprofile_conflict_ingame_uselocal_confirm_titleConfirmation to Keep Local Save
+6
+cpprofile_conflict_titleRestore Customer Care Save
+H
+profile_upload_to_server_error&Failed to upload Cloud Save to server.
+O
+ profile_upload_to_server_success+Cloud Save successfully uploaded to server.
+=
+profile_upload_to_server_titleUpload Cloud Save to Server
+œ
+ applearcade_dreamsnap_restricted™Your device is currently restricted from using any multiplayer features, including user-generated content. To change this, contact the person who set up the restrictions.
+<
+&applearcade_dreamsnap_restricted_titleFeature Restricted
+n
+!applearcade_gamecenter_login_failICannot log in to Game Center. Please check your connection and try again.
+D
+'applearcade_gamecenter_login_fail_titleGame Center Login Failed!
+=
+applearcade_gamecenter_requiredGame Center Login Required
+W
+applearcade_icloud_full_body7Please check your iCloud storage and free up some data.
+D
+applearcade_icloud_full_title#Failed to Save iCloud Data Properly
+I
+"applearcade_icloud_load_full_title#Failed to load iCloud data properly
+Q
+"applearcade_icloud_load_no_account+Please check if you are logged in to iCloud
+1
+applearcade_login_gamecenterGame Center Login
+T
+applearcade_login_success7You successfully logged in to your Game Center account.
+˙
+"applearcade_no_gamecenter_Boutique”To access the Boutique, you need to log in to Game Center. If you select "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the ‚Ä®Game Center access point.
+û
++applearcade_no_gamecenter_delete_thirdpartyÓTo delete all your gameplay data stored on our servers, you need to log in to Game Center. If you select Not Now, you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+ˆ
+applearcade_no_gamecenter_event“To access the Event feature, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+˛
+'applearcade_no_gamecenter_fetch_mailbox“To retrieve new online mail, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+˜
+'applearcade_no_gamecenter_claim_mailboxÀTo claim online mail, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+Ç
+%applearcade_no_gamecenter_multiplayerÿTo access the multiplayer feature, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+ˇ
+applearcade_no_gamecenter_photo€To access the Save and Share feature, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+Ö
+)applearcade_no_gamecenter_photo_dreamsnap◊To access the DreamSnaps feature, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+®
+&applearcade_no_gamecenter_save_playfab~To back up your game progress, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+
+ applearcade_no_gamecenter_showidÀTo show your User ID, you need to log in to Game Center. If you tap "Not Now," you won't be able to use this feature.
+You can log in to your Game Center account by selecting the Game Center access point.
+
+applearcade_not_nowNot Now
+†
+applearcade_sysreq_blockÉIt looks like your current device is not compatible with this version. The game will quit automatically after closing this message.
+"
+applearcade_sysreq_titleOh No!
+¬
+applearcade_sysreq_warning£It looks like your device does not meet the minimum requirements to play the game properly. The game may not run smoothly on your device or may crash occasionally.
+5
+$ccprofile_conflict_title_descriptionCustomer Care
+a
+%ccprofile_received_disclaimer_message8You just received a save from Customer Care!
+{custommsg}
+9
+#ccprofile_received_disclaimer_titleCustomer Care Save
+V
+#collect_loot_present_generic_failed/Failed to collect the reward. Please try again.
+f
+ collect_loot_present_max_reachedBYou have collected all your rewards for today. Come back tomorrow!
+P
+!collect_loot_present_offline_desc+Would you like to connect now to open this?
+5
+"collect_loot_present_offline_titleYou Are Offline
+I
+"collect_loot_you_need_to_be_online#You need to be online to open this.
+ﬁ
++error_online_session_validation_concurrencyÆYour session has expired because a new session was created elsewhere on {lastConnection}.<br><br>Please close the other instance of the game and then restart the application.
+Q
+'error_online_session_validation_default&Session failed to be validated online.
+6
+%error_online_session_validation_titleSession Check
+
+login_connect_buttonConnect
+a
+login_connect_internet_errorACannot connect to the Internet. Continue playing in offline mode.
+~
+!login_connect_nativeprofile_errorYCannot connect to online services because you are not signed in to a first-party profile.
+c
+login_connect_playfab_errorDCannot connect to online services. Continue playing in offline mode.
+b
+login_connect_portal_errorDCannot connect to the game portal. Continue playing in offline mode.
+4
+login_connect_successNow playing in online mode!
+S
+login_connect_unknown_error4Failed to connect. Continue playing in offline mode.
+r
+&login_connectivity_issue_internet_descHCannot connect to the Internet. Check your network status and try again.
+6
+'login_connectivity_issue_internet_titleNo Internet
+ü
++login_connectivity_issue_nativeprofile_descpThe game is experiencing some connectivity issues with online services. Please wait a few minutes and try again.
+K
+,login_connectivity_issue_nativeprofile_titleOnline Services Unavailable
+ô
+%login_connectivity_issue_playfab_descpThe game is experiencing some connectivity issues with online services. Please wait a few minutes and try again.
+E
+&login_connectivity_issue_playfab_titleOnline Services Unavailable
+ò
+$login_connectivity_issue_portal_descpThe game is experiencing some connectivity issues with the game portal. Please wait a few minutes and try again.
+@
+%login_connectivity_issue_portal_titleGame Portal Unavailable
+1
+login_continue_offline_buttonContinue offline
+Ä
+login_request_internet_descaThis action requires you to be connected to the Internet. Do you want to refresh your connection?
+x
+ login_request_nativeprofile_descTThis action requires you to be connected to online services. Do you want to connect?
+r
+login_request_playfab_descTThis action requires you to be connected to online services. Do you want to connect?
+q
+login_request_portal_descTThis action requires you to be connected to the game portal. Do you want to connect?
+%
+login_request_titleOnline Request
+\
+login_request_unknown_desc>This action requires you to be online. Do you want to connect?
+"
+login_successLogin Successful!
+.
+logout_messageNow playing in offline mode.
+F
+mailbox_error_already_claimed%This reward has already been claimed.
+N
+mailbox_error_generic_error/Something unexpected happened. Try again later.
+U
+mailbox_error_message_expired4This reward has expired. You can no longer claim it.
+W
+mailbox_error_message_not_found4This message was not found in your online inventory.
+<
+mailbox_error_not_claimableThis reward is not claimable.
+W
+%mailbox_error_rewards_failed_to_apply.Could not apply your rewards. Try again later.
+0
+promocode_title_successRedemption Successful
+)
+promocode_title_errorRedemption Error
+]
+promocode_successHThe code has been claimed. Your reward will appear in your mailbox soon.
+Z
+promocode_already_claimed=The code has been claimed already or reached its claim limit.
+6
+promocode_error_invalid_paramsThe code is invalid.
+<
+promocode_notFound&The code has expired or doesn't exist.
+d
+promocode_error_online_serviceBThe code cannot be claimed due to an unknown online service error.
+F
+promocode_error3The code cannot be claimed due to an unknown error.

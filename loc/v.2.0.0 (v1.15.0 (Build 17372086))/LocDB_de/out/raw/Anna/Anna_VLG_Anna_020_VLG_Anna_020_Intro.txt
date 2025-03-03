@@ -1,0 +1,51 @@
+TAG: Anna_000_f
+Well... something's really been bothering me. Do you have some time to talk?
+
+TAG: Player_000_choice_000_f
+Of course! What's wrong?
+
+TAG: Player_000_choice_001_f
+I'll come back later.
+
+TAG: Anna_005_f
+Kristoff doesn't remember me... and I'm starting to wonder if he ever will.
+
+TAG: Player_001_choice_000_f
+I'm sure his memories will come back in time.
+
+TAG: Player_001_choice_001_f
+He did it to save Dreamlight Valley.
+
+TAG: Player_001_choice_002_f
+We'll find a way to bring his memories back. Promise.
+
+TAG: Anna_007_f
+I hope so. I just wish they'd return a little faster.
+
+TAG: Anna_008_f
+You have to have faith, Anna. What you and Kristoff have is stronger than any magic.
+
+TAG: Anna_009_f
+It's love.
+
+TAG: Anna_002_f
+There has to be something we can do, some way to make him remember.
+
+TAG: Anna_003_f
+I'm gonna go talk to him. I know there's some memory of me in there. We just have to shake it out!
+
+TAG: Anna_001_f
+You're right. And I know he had to give up his memories to help the Village. But it still hurts.
+
+TAG: Anna_010_f
+Every time he looks at me, I know he's seeing a stranger... It's just... hard.
+
+TAG: Anna_011_f
+We're not going to give up until Kristoff remembers absolutely everything.
+
+TAG: Anna_012_f
+Thank you, {PlayerName}. If anyone can help me, I know it's you.
+
+TAG: Anna_004_f
+Sure. Of course. I look forward to it!
+

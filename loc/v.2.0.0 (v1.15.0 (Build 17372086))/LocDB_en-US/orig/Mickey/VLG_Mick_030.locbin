@@ -1,0 +1,37 @@
+
+U
+BVillage!Mickey!Mickey!VLG_Mick_030_Any_CompletedRequestDescriptionTalk to Mickey.
+w
+7Village!Mickey!Mickey!VLG_Mick_030_AvailableDescription<Mickey is looking for you to talk about something important.
+é
+<Village!Mickey!Mickey!VLG_Mick_030_CompletedStoryDescription¨Minnie was there only to disappear again. Bringing her back to Dreamlight Valley is going to take more than a few discussions. Maybe Mickey will know what to do next...
+B
+.Village!Mickey!Mickey!VLG_Mick_030_DisplayNameShadows and Bows
+
+?Village!Mickey!Mickey!VLG_Mick_030_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br>What do you need me to do?
+e
+SVillage!Mickey!Mickey!VLG_Mick_030_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Goofy.
+n
+SVillage!Mickey!Mickey!VLG_Mick_030_Group01_Step01_TalkToCharacter04_StepDescriptionTalk to Scrooge McDuck.
+k
+:Village!Mickey!Mickey!VLG_Mick_030_Group01_StepDescription-Ask friends for their favorite Minnie memory.
+Æ
+;Village!Mickey!Mickey!VLG_Mick_030_Group01_StoryDescription†He wants to bring Minnie back and the way to help her is to make sure her friends in the Village think about her. You go talk to them.
+w
+?Village!Mickey!Mickey!VLG_Mick_030_Group03_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>What are we doing?
+w
+SVillage!Mickey!Mickey!VLG_Mick_030_Group03_Step03_TalkToCharacter02_StepDescription It's Minnie! Try talking to her.
+w
+;Village!Mickey!Mickey!VLG_Mick_030_Group03_StoryDescription8It worked! Minnie has appeared thanks to your hard work.
+|
+?Village!Mickey!Mickey!VLG_Mick_030_Group04_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What are you doing now?
+i
+JVillage!Mickey!Mickey!VLG_Mick_030_Group04_Step04_Listen01_StepDescriptionLet Mickey and Minnie talk.
+f
+SVillage!Mickey!Mickey!VLG_Mick_030_Group06_Step06_TalkToCharacter03_StepDescriptionTalk to Mickey.
+q
+?Village!Mickey!Mickey!VLG_Mick_030_Group07_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Œ
+SVillage!Mickey!Mickey!VLG_Mick_030_Group07_Step07_FollowCharacter01_StepDescription5Follow Mickey to the Wishing Well at the town square!
+f
+5Village!Mickey!Mickey!VLG_Mick_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

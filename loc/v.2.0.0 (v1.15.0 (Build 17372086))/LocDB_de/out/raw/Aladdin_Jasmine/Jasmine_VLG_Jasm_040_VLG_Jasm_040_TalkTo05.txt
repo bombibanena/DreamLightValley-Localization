@@ -1,0 +1,75 @@
+TAG: Jasmine_005_f
+I've spoken to Donald, Anna, and Mike. All of them made a wish that's gone a little haywire.
+
+TAG: Jasmine_000_f
+That lines up with a theory I have... In your journal, you wrote, "If only wishes really did come true"?
+
+TAG: Jasmine_012_f
+What if opening the journal caused this strange wish magic to escape?
+
+TAG: Player_001_choice_000_f
+So this is my fault?
+
+TAG: Player_001_choice_001_f
+Do you think the wish magic can be dangerous?
+
+TAG: Player_001_choice_002_f
+I was thinking something similar.
+
+TAG: Jasmine_006_f
+It's no one's fault, {PlayerName}. Opening the journal was important.
+
+TAG: Jasmine_009_f
+But now we need to rein in the magic so it stops creating such chaos.
+
+TAG: Jasmine_010_f
+How do we do that?
+
+TAG: Jasmine_001_f
+I'm not sure. Do you remember the wish you wrote about in your journal?
+
+TAG: Player_002_choice_000_f
+I wanted more freedom.
+
+TAG: Player_002_choice_001_f
+I wanted to be understood for who I am.
+
+TAG: Player_002_choice_002_f
+I wanted to take care of myself for once.
+
+TAG: Jasmine_016_f
+That's right. So maybe if you do something to embrace your freedom, the wish magic can be contained again.
+
+TAG: Jasmine_019_f
+That's a good idea!
+
+TAG: Player_000_choice_000_f
+I'd like to decorate a room in my House.
+
+TAG: Player_000_choice_001_f
+I'd like to cook my favorite meals.
+
+TAG: Jasmine_002_f
+Perfect! Decorating's a wonderful way to embrace your personal taste.
+
+TAG: Jasmine_004_f
+Okay, I'll go <Lore>decorate a room in my House</Lore>, and I'll make sure it really reflects me!
+
+TAG: Jasmine_011_f
+Fabulous! A meal cooked just to your taste is a wonderful way to do what YOU want to do.
+
+TAG: Jasmine_003_f
+Okay, I'll go <Lore>cook two of my favorite meals</Lore>, and I'll make sure they really reflect me!
+
+TAG: Jasmine_017_f
+That's right. So maybe if you do something to showcase the real you, the wish magic can be contained again.
+
+TAG: Jasmine_018_f
+That's right. So maybe if you do something to take care of yourself, the wish magic can be contained again.
+
+TAG: Jasmine_007_f
+I highly doubt it. Only fairly benign wishes are coming true.
+
+TAG: Jasmine_008_f
+I thought you might have worked it out already.
+

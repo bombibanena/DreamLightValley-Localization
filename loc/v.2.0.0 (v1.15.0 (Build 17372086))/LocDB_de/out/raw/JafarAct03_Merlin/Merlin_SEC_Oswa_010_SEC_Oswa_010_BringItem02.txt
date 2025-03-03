@@ -1,0 +1,87 @@
+TAG: Merlin_002_f
+Excellent find, {PlayerName}! Now, let's have a look at these...
+
+TAG: Merlin_003_f
+Hmm...
+
+TAG: Merlin_004_f
+Um...
+
+TAG: Player_000_choice_000_f
+What's wrong?
+
+TAG: Player_000_choice_001_f
+Yeah, I barely understand any of it as well.
+
+TAG: Player_000_choice_002_f
+Not sure I've seen you stumped before.
+
+TAG: Merlin_005_f
+This is unlike any sort of magic, enchantment, or power I've studied!
+
+TAG: Player_001_choice_000_f
+No way.
+
+TAG: Player_001_choice_001_f
+Are we really at last options already?
+
+TAG: Player_001_choice_002_f
+I was afraid you'd say that.
+
+TAG: Merlin_006_f
+Not sure I'd even consider it magic, to be honest.
+
+TAG: Merlin_007_f
+Well, that explains it then! We find ourselves in the realm of "something else."
+
+TAG: Merlin_013_f
+Okay, so what's the plan?
+
+TAG: Merlin_008_f
+{PlayerName}, I wish I had the answer... but this flattening phenomenon of Oswald's has me mystified. It appears to be immune to charms, incantations, potions, and saying "please."
+
+TAG: Merlin_009_f
+But what about Oswald's strange distortions? They might be getting worse...
+
+TAG: Merlin_010_f
+Well, as to that, I have an idea, but you may not like it. In fact, I don't quite like it either.
+
+TAG: Merlin_014_f
+Let's hear it, Merlin.
+
+TAG: Merlin_015_f
+We ought to... *sigh* speak to Jafar.
+
+TAG: Merlin_018_f
+We just got him locked away in the lamp!
+
+TAG: Merlin_024_f
+All right, he better be cool about this...
+
+TAG: Merlin_017_f
+Yes, well, we could always try my first last resort â we ask Oswald to remove a dimension from everything else, and we all live on Two-Dimensional Isle.
+
+TAG: Merlin_022_f
+But for that to work, we must hope that Oswald can remove the SAME dimension from each part of the landscape...
+
+TAG: Merlin_025_f
+Uhh, no, let's try Jafar first.
+
+TAG: Merlin_016_f
+I know it's not ideal. Yet, despite his... disagreeable nature, we cannot deny Jafar's intelligence.
+
+TAG: Merlin_000_f
+His experience living inside the lamp must have given him a certain familiarity with magical space and how it works.
+
+TAG: Merlin_001_f
+Hopefully, he will have a theory on how to deal with these... flattened objects.
+
+TAG: Merlin_020_f
+All right, maybe he'll play nice for a chance to stay out of the lamp. What do I need to do to get him out?
+
+TAG: Merlin_023_f
+If you take the lamp to the <Lore>Statue of Time in the heart of the Cave of Wonders and use your Royal Hourglass on it</Lore>, that should release him.
+
+TAG: Merlin_012_f
+Being bewildered is the first step to learning! But... it's true. I am at a bit of a loss.
+

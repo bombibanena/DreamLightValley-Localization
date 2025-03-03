@@ -1,0 +1,33 @@
+TAG: Woody_000_f
+{PlayerName}! {PlayerName}! I think I figured out the problem with the lights on my Carousel. Have you got time to help me out?
+
+TAG: Player_000_choice_000_f
+Yes, of course!
+
+TAG: Player_000_choice_001_f
+Not right now!
+
+TAG: Woody_003_f
+Okay, so I was searchin' around the Carousel, tryin' to figure out why the lights weren't workin'...
+
+TAG: Woody_008_f
+...when I realized I hadn't checked what was in that old toy chest yet.
+
+TAG: Woody_002_f
+I went to open it, but the second I touched it...
+
+TAG: Woody_005_f
+The lights started to flicker, and I heard music startin' up. The Carousel was powering back on.
+
+TAG: Woody_006_f
+Whatever's inside that chest is the key to powering up the Carousel again.
+
+TAG: Woody_007_f
+Whaddaya say you help me get to the bottom of this?
+
+TAG: Woody_001_f
+Let's take another look at the toy chest.
+
+TAG: Woody_004_f
+Come back as soon as you can. I can't wait to get the Carousel lit up!
+

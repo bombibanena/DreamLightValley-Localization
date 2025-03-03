@@ -1,0 +1,69 @@
+TAG: Nala_004_f
+Ugh. What is that? And why is it glowing?
+
+TAG: Player_000_f
+It's some kind of fish that swam out of the rift.
+
+TAG: Player_000_choice_000_f
+I hope it's not dangerous.
+
+TAG: Player_000_choice_001_f
+It might be the key to solving this.
+
+TAG: Player_000_choice_002_f
+I'll bet it doesn't taste very good.
+
+TAG: Nala_000_f
+I've never seen anything like it. Or SMELLED anything like it.
+
+TAG: Nala_006_f
+All of this... the rifts, the glowing fish, the strange statues...
+
+TAG: Nala_007_f
+It's not like anything I've ever had to deal with before.
+
+TAG: Nala_008_f
+I know one person who might have some idea what's going on.
+
+TAG: Nala_009_f
+We're dealing with strange sea creatures and Dark Magic. This is a job for Ursula.
+
+TAG: Nala_010_f
+Ursula seems to only care about what's best for Ursula. Do you really think she'll help us?
+
+TAG: Player_001_choice_000_f
+She's really not so bad. We're friends.
+
+TAG: Player_001_choice_001_f
+She'll help. The whole Valley might be in danger.
+
+TAG: Player_001_choice_002_f
+I'm the boss around here. I'll MAKE her help.
+
+TAG: Nala_011_f
+You are? Of course, you do seem to get along with everyone here.
+
+TAG: Nala_005_f
+You even manage to get along with Scar...
+
+TAG: Nala_014_f
+Well, I suppose you should lead the way. Let's <Lore>go talk to Ursula</Lore>.
+
+TAG: Nala_012_f
+That's true. It is in her best interest to help us.
+
+TAG: Nala_003_f
+Even Scar wouldn't want the whole Valley to get pulled into one of those rifts.
+
+TAG: Nala_013_f
+You really are a leader, {PlayerName}. You seem to know how to keep even the worst creatures around here in line.
+
+TAG: Nala_015_f
+Not even Scar wants to mess with you.
+
+TAG: Nala_001_f
+I hope so.
+
+TAG: Nala_002_f
+Don't eat it! We don't know where it comes from.
+

@@ -1,0 +1,48 @@
+TAG: Oswald_002_f
+Hey Oswald, I found this hat. Is it the one you were talking about?
+
+TAG: Oswald_003_f
+Gee whillikers, it sure is! Aw, that sure brings me back...
+
+TAG: Oswald_004_f
+Here, put it on. You're gonna look real spiffy.
+
+TAG: Oswald_005_f
+Okey-dokey, now we can get to the important part: buildin' the trolley and its home!
+
+TAG: Player_000_choice_000_f
+Sounds great!
+
+TAG: Player_000_choice_001_f
+Its... home?
+
+TAG: Oswald_006_f
+First, we'll need some <ActivityItem>Trolley Tracks</ActivityItem>.
+
+TAG: Oswald_009_f
+You can make those with <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem>Plastic Scraps</ActivityItem>, and <ActivityItem>Copper</ActivityItem>.
+
+TAG: Oswald_010_f
+For the trolley itself, ya gotta have <ActivityItem>Ancient Belts</ActivityItem>, <ActivityItem>Plastic Scraps</ActivityItem>, <ActivityItem>Zinc</ActivityItem>, and <ActivityItem>Bones</ActivityItem>.
+
+TAG: Oswald_011_f
+And you'll hafta pick a good spot for the trolley's home and decorate it with the <ActivityItem>Trolley Tracks</ActivityItem>.
+
+TAG: Oswald_012_f
+When that's done, come find me, 'cause we'll be almost ready to welcome the trolley to Eternity Isle!
+
+TAG: Player_001_choice_000_f
+Sounds like a plan!
+
+TAG: Player_001_choice_001_f
+I feel like a combination of a city planner and a mad scientist...
+
+TAG: Oswald_013_f
+See you soon!
+
+TAG: Oswald_007_f
+Yeah, the trolley's gotta have someplace to live!
+
+TAG: Oswald_008_f
+Oh, of course. Silly me!
+

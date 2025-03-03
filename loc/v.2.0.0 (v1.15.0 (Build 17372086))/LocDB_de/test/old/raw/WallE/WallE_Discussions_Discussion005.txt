@@ -1,0 +1,78 @@
+TAG: WallE_000_f
+Ю-ху!
+
+TAG: WallE_001_f
+Что это, ВАЛЛ·И?
+
+TAG: Player_000_f
+Он указывает на...
+
+TAG: Player_000_choice_000_f
+Я.
+
+TAG: Player_000_choice_001_f
+Мои руки.
+
+TAG: Player_000_choice_002_f
+Моя одежда.
+
+TAG: WallE_002_f
+Хочешь узнать обо мне больше, ВАЛЛ·И?
+
+TAG: WallE_005_f
+*Свистки*
+
+TAG: Player_001_f
+Что мне тебе сказать...
+
+TAG: Player_001_choice_000_f
+Ты уже встречала людей.
+
+TAG: Player_001_choice_001_f
+Я отвечаю за Долину.
+
+TAG: Player_001_choice_002_f
+Я люблю долгие прогулки по пляжу.
+
+TAG: WallE_006_f
+*Свистки*Ух ты!
+
+TAG: WallE_007_f
+Ого!
+
+TAG: WallE_003_f
+Это мои руки, ВАЛЛ·И.
+
+TAG: WallE_008_f
+Хм...
+
+TAG: Player_002_f
+Да, они не такие, как твои.
+
+TAG: Player_002_choice_000_f
+Мой не из металла.
+
+TAG: Player_002_choice_001_f
+Посмотри, сколько у меня пальцев!
+
+TAG: Player_002_choice_002_f
+Эти маленькие штучки называются ногтями.
+
+TAG: WallE_004_f
+Это моя одежда, ВАЛЛ·И.
+
+TAG: WallE_009_f
+Что?
+
+TAG: Player_003_f
+Как мне объяснить одежду...?
+
+TAG: Player_003_choice_000_f
+Они защищают мое тело.
+
+TAG: Player_003_choice_001_f
+Они согревают меня.
+
+TAG: Player_003_choice_002_f
+Они супер стильные.
+

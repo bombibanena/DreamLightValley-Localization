@@ -1,0 +1,63 @@
+TAG: Moana_007_f
+We should go back across the mist.
+
+TAG: Moana_000_f
+Okay, we're ready. Into the mist!
+
+TAG: Moana_008_f
+The <ActivityItem>Torch</ActivityItem> we found will light up the night and the ocean.
+
+TAG: Moana_011_f
+Let's board my boat and sail out on the ocean.
+
+TAG: Moana_012_f
+Something's moving in the water. I think it might be the fish we're looking for! Try to catch one.
+
+TAG: Moana_003_f
+What do you want to do?
+
+TAG: Player_004_f
+Let's sail...
+
+TAG: Player_004_choice_002_f
+Back to the edge of the mist.
+
+TAG: Player_004_choice_003_f
+To the Wrecked Boat.
+
+TAG: Player_004_choice_004_f
+To the Sea Stack.
+
+TAG: Player_004_choice_005_f
+To the Small Islands.
+
+TAG: Player_004_choice_006_f
+To the Coral Reef.
+
+TAG: Player_004_choice_007_f
+I'd like to stay here a bit longer.
+
+TAG: Moana_006_f
+The edge of the mist. You got it.
+
+TAG: Moana_009_f
+The Wrecked Boat. Works for me!
+
+TAG: Moana_001_f
+The Sea Stack. I can't wait!
+
+TAG: Moana_010_f
+The Small Islands. That sounds good.
+
+TAG: Moana_004_f
+The Coral Reef. Here we go!
+
+TAG: Moana_026_f
+Okay. Just tell me when you're ready to go.
+
+TAG: Moana_016_f
+Where should we sail to next?
+
+TAG: Moana_017_f
+Where to, {PlayerName}?
+

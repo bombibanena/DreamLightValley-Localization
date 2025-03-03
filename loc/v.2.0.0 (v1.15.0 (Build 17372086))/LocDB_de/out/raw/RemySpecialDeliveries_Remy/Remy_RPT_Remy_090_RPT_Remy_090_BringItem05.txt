@@ -1,0 +1,21 @@
+TAG: Remy_001_f
+Nice! This will keep my wood-burning oven crackling for weeks. Thanks, {PlayerName}!
+
+TAG: Player_000_choice_000_f
+Hey, I love helping you make better pizza.
+
+TAG: Player_000_choice_001_f
+I'm glad you didn't have to go drag all these sticks back here yourself.
+
+TAG: Remy_002_f
+And I've got a ton of new recipes I want to try.
+
+TAG: Remy_003_f
+Here you go. Some <ActivityItem>Wrought Iron</ActivityItem>, courtesy of Mr. McDuck.
+
+TAG: Remy_004_f
+Use it to build something great for the Village. The more you do for Chez Remy, the more we'll be able to order.
+
+TAG: Remy_005_f
+Yeah, me too. It would've taken weeks!
+

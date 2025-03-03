@@ -1,6 +1,6 @@
 translator:
   translation:
-    text_size: 2000
+    text_size: 500
     batch_size: 2000
     parts: 10
     separator: (S_0)

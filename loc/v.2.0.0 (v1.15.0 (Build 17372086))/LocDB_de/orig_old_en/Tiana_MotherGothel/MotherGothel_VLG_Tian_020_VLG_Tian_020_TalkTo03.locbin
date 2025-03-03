@@ -1,0 +1,38 @@
+
+K
+MotherGothel_001_f5Okay Mother Gothel, we've got your new garden set up.
+?
+MotherGothel_002_f)Hmm... Yes, I suppose that is acceptable.
+7
+MotherGothel_003_f!Can you let out Little Louis now?
+<
+MotherGothel_004_f&Now now, don't be hasty, {PlayerName}.
+R
+MotherGothel_005_f<I may have reconsidered. There are other things I require—
+
+Player_000_choice_000_fNo.
+:
+Player_000_choice_001_fA deal's a deal, Mother Gothel.
+>
+Player_000_choice_002_f#Okay, I can dig up the garden then.
+
+MotherGothel_016_f	How rude!
+\
+MotherGothel_018_fFI'm sure someone else in the Valley can help me get Little Louis free.
+C
+MotherGothel_007_f-Really now, {PlayerName}, I was only teasing!
+7
+MotherGothel_008_f!You take everything so seriously.
+)
+MotherGothel_009_fHere. Take the key.
+ 
+MotherGothel_011_f
+Thank you.
+4
+MotherGothel_012_fNow please, leave me in peace.
+
+MotherGothel_013_fGladly.
+_
+MotherGothel_017_fIPerhaps, but I don't believe I ever said I would release your little pet.
+-
+MotherGothel_006_fUgh, I'm not surprised.

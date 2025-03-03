@@ -1,0 +1,33 @@
+TAG: Village!LionKing!VLG_Simb_010_Any_CompletedRequestDescription
+Возвращайтесь на Симба.
+
+TAG: Village!LionKing!VLG_Simb_010_AvailableDescription
+Симба думает, что он может знать одну из причин, по которой забытие началось и привело Ночных Торнов. Все в Долине слишком обеспокоены. Возможно, немного похода на философию Хакуна Матата поможет. Он хочет начать с тебя и твоего наряда.
+
+TAG: Village!LionKing!VLG_Simb_010_Group02_Step02_TalkToCharacter01_StepDescription
+Возвращайтесь на Симба.
+
+TAG: Village!LionKing!VLG_Simb_010_Group04_Step04_TalkToCharacter02_StepDescription
+Возвращайтесь на Симба.
+
+TAG: Village!LionKing!VLG_Simb_010_Group05_Step05_TalkToCharacter03_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!LionKing!VLG_Simb_010_Group06_Step06_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!LionKing!VLG_Simb_010_Group07_Step07_Decorate02_StepDescription
+Поместите {itemName} в Медоу.
+
+TAG: Village!LionKing!VLG_Simb_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!LionKing!VLG_Simb_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!LionKing!VLG_Simb_010_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!LionKing!VLG_Simb_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

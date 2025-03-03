@@ -1,0 +1,36 @@
+TAG: Jafar_001_f
+Brilliant! The Jewel of Time is back in place.
+
+TAG: Jafar_012_f
+You will find one hidden in the desert, known as the <Lore>Glittering Dunes</Lore>...
+
+TAG: Jafar_002_f
+...and the other in the <Lore>Wild Tangle</Lore>, more commonly known as the jungle.
+
+TAG: Jafar_019_f
+Eternity Isle is vast, {PlayerName}. <Lore>Perhaps you will meet Villagers on the other side of the bridge</Lore> who can be of assistance to you.
+
+TAG: Jafar_000_f
+Now your Hourglass can channel the magic of <ActivityItem>Mist</ActivityItem>!
+
+TAG: Jafar_013_f
+Undoubtedly, you have noticed that on occasion your Hourglass produces a strange, magical <ActivityItem>Mist</ActivityItem>?
+
+TAG: Jafar_014_f
+It occurs in places where the walls of space and time are thin... like at the bridge. You must channel that Mist to turn time forwards or backwards.
+
+TAG: Jafar_017_f
+Use the Mist to fix the time anomalies across the Island. And at a Timebending Table, use that Mist to make your Hourglass even more powerful.
+
+TAG: Jafar_015_f
+This all sounds complicated... Maybe I should check in with Merlin about it later.
+
+TAG: Jafar_016_f
+Yes, the wizard may have some insight. He could help you remove some of the time anomalies that remain around Ancient's Landing.
+
+TAG: Jafar_018_f
+But don't waste time. You must find enough Mist to repair the bridge.
+
+TAG: Jafar_011_f
+And once you repair the bridge, there are still <Lore>two more Jewels of Time</Lore> you must find before you will be able to fix the rift in time around my palace.
+

@@ -1,0 +1,63 @@
+TAG: Jasmine_000_f
+I'd love to explore more of the Valley.
+
+TAG: Jasmine_001_f
+Where should I go, {PlayerName}? What would you say is the most interesting place in the Valley?
+
+TAG: Player_000_choice_000_f
+The Peaceful Meadow.
+
+TAG: Player_000_choice_001_f
+Dazzle Beach!
+
+TAG: Player_000_choice_002_f
+Let me think of other options...
+
+TAG: Jasmine_002_f
+It's pretty in the Meadow, but it's not very exciting, is it?
+
+TAG: Jasmine_003_f
+I want to go somewhere that says, "adventure!"
+
+TAG: Jasmine_004_f
+That's a wonderful idea. I do like it there. But even more than the beach, I adore the ocean!
+
+TAG: Jasmine_005_f
+You know, I'd never seen an ocean before I got here, except in paintings.
+
+TAG: Jasmine_006_f
+Rivers and lakes, yes. But nothing like the ocean. And it goes on forever.
+
+TAG: Player_001_choice_000_f
+The Dream Castle.
+
+TAG: Player_001_choice_001_f
+The Frosted Heights?
+
+TAG: Player_001_choice_002_f
+The Glade of Trust!
+
+TAG: Jasmine_007_f
+The Castle IS interesting to explore â because it leads to so many worlds.
+
+TAG: Jasmine_008_f
+I do wish I could go through those doors... Maybe someday?
+
+TAG: Jasmine_009_f
+The Frosted Heights are so beautiful! And so cold...
+
+TAG: Jasmine_010_f
+Like night in the desert, but even colder â and all the time.
+
+TAG: Jasmine_011_f
+I'd need to get warmer clothing before I go exploring there.
+
+TAG: Jasmine_012_f
+The flowers in the Glade are very beautiful.
+
+TAG: Jasmine_013_f
+But if I go there, I might have to talk to Mother Gothel.
+
+TAG: Jasmine_014_f
+She and I... don't see eye-to-eye on most things.
+

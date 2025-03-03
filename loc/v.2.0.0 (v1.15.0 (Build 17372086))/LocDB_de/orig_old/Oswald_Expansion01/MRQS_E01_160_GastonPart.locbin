@@ -1,0 +1,55 @@
+
+�
+IStory!Expansion01!MRQS_E01_160_GastonPart_Any_CompletedRequestDescriptionEПринесите "Сиятельный ЛеФу" на Гастон.
+�
+>Story!Expansion01!MRQS_E01_160_GastonPart_AvailableDescription�В западной палате древних комнат есть какая-то платформа и свет, кажется, кто-то должен был позировать на нее героически.
+�
+CStory!Expansion01!MRQS_E01_160_GastonPart_CompletedStoryDescriptioneС новым Сияющим Лефу, Гастон поможет тебе сейчас, верно?
+J
+5Story!Expansion01!MRQS_E01_160_GastonPart_DisplayNameГерой Пос
+
+ZStory!Expansion01!MRQS_E01_160_GastonPart_Group01_Step01_TalkToCharacter01_StepDescription!Поговори с Гастон.
+�
+VStory!Expansion01!MRQS_E01_160_GastonPart_Group02_Step02_ConsumeItem01_StepDescriptionaПроверьте Золотой Омелет Реципиент из вашего списка.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess01_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess02_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess03_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess04_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_Possess05_StepDescription{ItemName}.
+�
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group03_Step03_StepDescriptionRНайдите Золотых Ингредиентов в Пещере Чудес:
+�
+BStory!Expansion01!MRQS_E01_160_GastonPart_Group03_StoryDescription�Гастон отказывается помочь, если ты не приготовишь ему сердечный завтрак.
+y
+SStory!Expansion01!MRQS_E01_160_GastonPart_Group04_Step04_CookMeal01_StepDescription"Приготовить {ItemName}.
+{
+IStory!Expansion01!MRQS_E01_160_GastonPart_Group05_Step05_ReadyDescription.Возьмите {ItemName} на Гастон.
+�
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group05_Step05_StepDescription7Убедись, что у тебя есть {ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess06_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess07_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess08_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess09_StepDescription{ItemName}.
+a
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess10_StepDescription{ItemName}.
+
+RStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_Possess11_StepDescription){ItemName} из Рапунцель Tower.
+�
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group06_Step06_StepDescriptionoСобирайте материалы для изготовления <ActivityItem>Shini LeFou</ActivityItem>:
+�
+BStory!Expansion01!MRQS_E01_160_GastonPart_Group06_StoryDescription�Заказ Гастон завершен, но теперь он просит сделать его новым помощником из драгоценных камней.
+y
+TStory!Expansion01!MRQS_E01_160_GastonPart_Group07_Step07_CraftItem01_StepDescription!a {ItemName} для Гастон.
+�
+IStory!Expansion01!MRQS_E01_160_GastonPart_Group08_Step08_ReadyDescriptionEПринесите "Сиятельный ЛеФу" на Гастон.
+�
+HStory!Expansion01!MRQS_E01_160_GastonPart_Group08_Step08_StepDescriptionZУбедись, что у тебя есть "Сияющий ЛеФу" для Гастон.

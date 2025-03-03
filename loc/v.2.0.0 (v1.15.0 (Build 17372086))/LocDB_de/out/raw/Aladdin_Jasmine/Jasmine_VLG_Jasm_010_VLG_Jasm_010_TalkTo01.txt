@@ -1,0 +1,15 @@
+TAG: Jasmine_000_f
+All right, {PlayerName}, I've set everything up. In the pot over here, I've planted the seeds from Merlin's library. So, this is where the <ActivityItem>Enchanted Flower</ActivityItem> will grow.
+
+TAG: Jasmine_003_f
+Okay! And I see the Enchanted Pots of Blooming around your House, too.
+
+TAG: Jasmine_001_f
+Yes. I also <Lore>have my book of notes about arcane flower magic</Lore> placed on my vanity. I made the notes when I was researching with Merlin. I know some flowers thrive in sunshine, while others need the shade.
+
+TAG: Jasmine_007_f
+The happier the flowers are, the faster the Enchanted Flower will grow! And then we can finally find the secret that's hidden away inside.
+
+TAG: Jasmine_006_f
+Okay, I can start <Lore>planting these flowers</Lore>. If I need help, I'll<Lore>check the notebook on your vanity</Lore> for some hints!
+

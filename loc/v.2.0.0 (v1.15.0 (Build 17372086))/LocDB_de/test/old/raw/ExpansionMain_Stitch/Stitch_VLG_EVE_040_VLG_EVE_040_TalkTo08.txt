@@ -1,0 +1,66 @@
+TAG: Stitch_001_f
+Большая крыша!
+
+TAG: Player_000_f
+Да, фейерверки <ActivityItem>Experimental Fireworks</ActivityItem> сделали большой бум, но ЕВА был напуган...
+
+TAG: Player_000_choice_000_f
+И, честно говоря, я тоже...
+
+TAG: Player_000_choice_001_f
+Сейчас небезопасно.
+
+TAG: Player_000_choice_002_f
+И даже если бы мне было весело, это не то, чего я хочу.
+
+TAG: Stitch_002_f
+Ох...
+
+TAG: Stitch_006_f
+Стич не хотел пугать {PlayerName}.
+
+TAG: Stitch_007_f
+Все в порядке, Стич.
+
+TAG: Stitch_008_f
+Можешь помочь мне сделать фейерверки более безопасными?
+
+TAG: Stitch_009_f
+Вы можете помочь Стич? Стич ищет <ActivityItem>Socks</ActivityItem>.
+
+TAG: Stitch_010_f
+Вы ищете <ActivityItem>Socks</ActivityItem> и Стич поговорить со Старым Бороданом о фейерверках?
+
+TAG: Stitch_011_f
+Хорошо?
+
+TAG: Player_001_choice_000_f
+Окитака!
+
+TAG: Player_001_choice_001_f
+Конечно!
+
+TAG: Player_001_choice_002_f
+Что угодно, чтобы избежать разговора с Мерлин.
+
+TAG: Stitch_013_f
+Акату-ки!
+
+TAG: Stitch_016_f
+Я дам вам ваш <ActivityItem>Socks</ActivityItem>. Полагаю, мне понадобятся мои часы, чтобы найти их...
+
+TAG: Stitch_000_f
+Старый Борода сказал, что <ActivityItem>Socks</ActivityItem> затерялись вовремя... Стич плохо оставить их по всему острову...
+
+TAG: Stitch_015_f
+Ухооба!
+
+TAG: Stitch_003_f
+О. Стич, извините.
+
+TAG: Stitch_005_f
+Тебе не нужно извиняться, это не твоя вина.
+
+TAG: Stitch_004_f
+Огата...
+

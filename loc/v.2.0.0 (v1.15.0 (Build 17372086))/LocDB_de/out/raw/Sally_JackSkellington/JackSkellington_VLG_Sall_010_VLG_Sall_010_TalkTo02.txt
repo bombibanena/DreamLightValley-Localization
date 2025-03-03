@@ -1,0 +1,57 @@
+TAG: JackSkellington_000_f
+Hey, Jack! What are you up to?
+
+TAG: JackSkellington_001_f
+{PlayerName}, it's fascinating! You must take a look. Here...
+
+TAG: JackSkellington_002_f
+Some... rocks?
+
+TAG: JackSkellington_003_f
+But not just any rocks â a variant of flint! When you strike it, instead of sparks, you'll get a forlorn wail like the cry of a lost spirit.
+
+TAG: Player_000_choice_000_f
+It suits you!
+
+TAG: Player_000_choice_001_f
+Where did the spirit come from?
+
+TAG: Player_000_choice_002_f
+That's... pretty creepy.
+
+TAG: JackSkellington_004_f
+Why, thank you!
+
+TAG: JackSkellington_016_f
+Thank you, {PlayerName}. There are still a few wrinkles in the design of my phantom flint, and I could use a moment to iron them out.
+
+TAG: JackSkellington_007_f
+I think I'll give it to Sally on our date. Is she ready?
+
+TAG: JackSkellington_008_f
+She's just finishing up. But she said there was something missing. She seemed unsure of herself in a way that doesn't feel usual at all.
+
+TAG: JackSkellington_009_f
+Ahhh, I think I know the problem. Sally is naturally a bit shy. And I suspect she still feels out of sorts from being stuck in the holiday travel path for so long.
+
+TAG: JackSkellington_010_f
+Oh no! What can we do to help?
+
+TAG: JackSkellington_012_f
+I wonder... Yes, that could be it! If Sally's lost her favorite needle in her travels, she'd feel very out of sorts. She always keeps it with her for any repairs she might need.
+
+TAG: JackSkellington_013_f
+Can you grab me some <ActivityItem>Night Shards</ActivityItem>? I know she and I can make her a new needle out of them.
+
+TAG: JackSkellington_014_f
+And this one will be even better since it will contain the magic of the Shards. Then she can be assured that the ability to fix any rips or tears is right at her fingertips!
+
+TAG: JackSkellington_015_f
+Sure, Jack! I'll head out now.
+
+TAG: JackSkellington_005_f
+Oh, it's merely an imitation. A little trick.
+
+TAG: JackSkellington_006_f
+Not to worry. No actual ghosts are involved.
+

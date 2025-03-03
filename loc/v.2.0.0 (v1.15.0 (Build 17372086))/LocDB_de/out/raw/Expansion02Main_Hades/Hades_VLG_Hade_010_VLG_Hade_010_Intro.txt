@@ -1,0 +1,93 @@
+TAG: Hades_001_f
+{PlayerName}! Finally! I've been working myself to death here. Get it? Anyway...
+
+TAG: Hades_002_f
+You â you're the helpful type, right? All keen, eager, and useful?
+
+TAG: Player_000_choice_000_f
+Yeah, I try...
+
+TAG: Player_000_choice_001_f
+Sorry, busy... helping someone else.
+
+TAG: Hades_003_f
+Excellent! Because have I got an opportunity for you!
+
+TAG: Hades_004_f
+I'm listening.
+
+TAG: Hades_005_f
+So, put yourself in my sandals. You're a god; you've got incredible power, sizzling wit and hey, not a bad mug, if I do say so myself. You follow?
+
+TAG: Player_001_choice_000_f
+Sure, keep going.
+
+TAG: Player_001_choice_001_f
+I'd rather not...
+
+TAG: Player_001_choice_002_f
+I have the sudden urge to scheme with the Fates.
+
+TAG: Hades_006_f
+Someone like me deserves a little class. A lot, actually. I'm talkin' about a domain to reflect my status and dignity.
+
+TAG: Hades_007_f
+But have you seen the <Lore>Elysian Fields</Lore>?! It's a disaster! Broken statues everywhere! Demon Snippets running amok!
+
+TAG: Hades_008_f
+It looks like Wonder Boy had a temper tantrum in a marble quarry.
+
+TAG: Player_002_choice_000_f
+What happened?
+
+TAG: Player_002_choice_001_f
+Can't you do it yourself?
+
+TAG: Player_002_choice_002_f
+Oof, that does sound annoying.
+
+TAG: Hades_009_f
+Well, you know how it goes... You get yourself a nice new domain, try to make it all homey...
+
+TAG: Hades_011_f
+...and then SOMEONE decides they need to redecorate your place with green flames and thorns.
+
+TAG: Hades_017_f
+Huh, that kinda sounds like Maleficent.
+
+TAG: Hades_018_f
+BINGO! Shame, really. I thought she and I were gonna be simpatico until things went sideways.
+
+TAG: Hades_019_f
+She really did a number here. I'm still tryin' to figure out how I'm gonna get back at her.
+
+TAG: Hades_012_f
+Hello? God here. Literally the Lord of the Underworld and you want me to... clean?
+
+TAG: Hades_013_f
+I'm giving you the chance to do a favor for a god! I thought you mortals went wild for that sort of thing.
+
+TAG: Hades_020_f
+Okay, what do you need me to do?
+
+TAG: Hades_021_f
+Well, those chunks of sculpture are pretty tough. But, bring me some <ActivityItem>of the magical resources from Mythopia</ActivityItem>, and I'll see about bestowing some god-like powers on your Pickaxe.
+
+TAG: Hades_022_f
+Out of the pure goodness of my heart, of course.
+
+TAG: Hades_023_f
+Sure, on it!
+
+TAG: Hades_024_f
+Oh, and hey... if some of those flowers happen to be on the head of a dryad... you don't know me.
+
+TAG: Hades_014_f
+Finally, some recognition!
+
+TAG: Hades_015_f
+Heh. A comedian. Great. Anyway...
+
+TAG: Hades_016_f
+That's what I'm talkin' about!
+

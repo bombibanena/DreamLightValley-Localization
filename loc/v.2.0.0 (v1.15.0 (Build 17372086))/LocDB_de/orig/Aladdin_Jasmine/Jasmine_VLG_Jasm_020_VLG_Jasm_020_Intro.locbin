@@ -1,0 +1,41 @@
+
+≥
+Jasmine_000_f°{PlayerName}, I was able to decrypt that strange code on the Secret Journal! I know what needs to be done next, but I could use your help. Do you have some time?
+*
+Player_000_choice_001_fYes, of course!
+'
+Player_000_choice_002_fMaybe later.
+
+Jasmine_001_f
+Wonderful!
+Å
+Jasmine_003_fpNow, it turns out the code was actually a recipe to craft a key. It must be one of the keys to open the journal.
+Æ
+Jasmine_004_fúThe Ingredients indicate we should go to Dazzle Beach. Though, I don't completely understand them. Perhaps someone more familiar with beaches could help us.
+9
+Player_001_choice_000_fI bet Moana can help guide us!
+'
+Player_001_choice_001_fMaybe Goofy?
+;
+Player_001_choice_002_f Merlin usually knows everything!
+/
+Jasmine_005_fI was thinking the same thing.
+•
+Jasmine_009_fìThere's also something about needing <ActivityItem>Sea Sand Sparks</ActivityItem>. I'm not familiar with those, but maybe she'll have some insight.
+Ö
+Jasmine_010_ftOkay, I'll go <Lore>talk to Moana</Lore> and see if she can help us make our <ActivityItem>Beach Key</ActivityItem>.
+U
+Jasmine_011_fDFabulous! In the meantime, I'll keep researching the Secret Journal.
+
+Jasmine_012_f
+Good luck!
+i
+Jasmine_006_fXHmm... I'm not sure. We might end up fishing up a shoe or a fishing rod if we ask Goofy.
+;
+Jasmine_013_f*Maybe we should start with Moana, instead.
+x
+Jasmine_007_fgThat's true... but I think he'd just encourage us to speak to someone who's spent more time on a beach.
+E
+Jasmine_008_f4I think we should ask Moana about these Ingredients.
+D
+Jasmine_002_f3All right. Just come and find me when you're ready.

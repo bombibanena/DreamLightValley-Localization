@@ -1,0 +1,27 @@
+
+=
+Sally_000_f.Okay, all your Ingredients have been gathered!
+<
+Sally_001_f-Thank you, {PlayerName}. That's very helpful!
+U
+Sally_002_fFWhat's the next step? Are you going to help Ursula brew up the potion?
+*
+Sally_003_fWhat do you think it's for?
+3
+Sally_004_f$Ursula said it was for a hair tonic.
+8
+Sally_005_f)But we can always go talk to her about...
+(
+Sally_006_fWait! What's that? *gasp*
+4
+Player_000_choice_000_fSally? Are you all right?
+Y
+Player_000_choice_001_f>Maybe I tracked some mud inside, but is it that big of a deal?
+H
+Player_000_choice_002_f-Hey, it's your House; I didn't decorate here.
+
+Sally_008_fI... I think so.
+3
+Sally_010_f$I just had the most terrible vision!
+#
+Sally_009_fNo, it's not that...

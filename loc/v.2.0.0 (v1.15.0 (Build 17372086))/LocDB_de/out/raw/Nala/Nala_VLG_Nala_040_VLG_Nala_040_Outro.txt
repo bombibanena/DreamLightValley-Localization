@@ -1,0 +1,60 @@
+TAG: Nala_003_f
+What is this? It smells amazing.
+
+TAG: Nala_004_f
+This is made with the fish from the Here and There, Nala. Remy gave me a recipe. We thought you should have it first.
+
+TAG: Player_000_choice_000_f
+To celebrate Nala, the protector of Dreamlight Valley.
+
+TAG: Player_000_choice_001_f
+I know you must be hungry after all that work we did.
+
+TAG: Player_000_choice_002_f
+You've got a lion's stomach, in case it turns out poisonous.
+
+TAG: Nala_005_f
+I really don't know what to say.
+
+TAG: Nala_018_f
+... Thank you, {PlayerName}. I can't tell you how much that means to me.
+
+TAG: Nala_019_f
+And to show you how much I appreciate your help, I asked Scrooge McDuck to make a special place for you.
+
+TAG: Nala_020_f
+It's an oasis for the Valley. Something everyone can use.
+
+TAG: Nala_008_f
+I'm glad I could help you feed your pride, {PlayerName}, and keep the Valley safe.
+
+TAG: Nala_011_f
+You're part of my pride, Nala. So it's time to dig in and eat!
+
+TAG: Nala_012_f
+Let's try it. It smells so good.
+
+TAG: Nala_013_f
+That was delicious.
+
+TAG: Nala_014_f
+I was so worried that because of me, this whole Valley was going to be destroyed, or that everyone would go hungry.
+
+TAG: Nala_015_f
+But now it's safe, and we have more food than ever.
+
+TAG: Nala_016_f
+You're just what this Village needed, Nala.
+
+TAG: Nala_006_f
+I'm starving. I can't wait to try this.
+
+TAG: Nala_007_f
+Excuse me. What?
+
+TAG: Nala_009_f
+Just kidding. Remy already tried a bite of it. It's tasty and safe.
+
+TAG: Nala_010_f
+Oh, good.
+

@@ -1,0 +1,33 @@
+TAG: Ursula_002_f
+Ты нашел что-нибудь в руинах?
+
+TAG: Player_000_choice_000_f
+" <ActivityItem>Dark Crystal</ActivityItem>" на пьедестале.
+
+TAG: Player_000_choice_001_f
+Ничего, кроме этого камня.
+
+TAG: Ursula_000_f
+Власть, волшебство, это именно то, чего я хотел!
+
+TAG: Ursula_003_f
+В руинах было четыре пьедестала... и когда я подобрал это, они все начали светиться!
+
+TAG: Ursula_001_f
+Ну, остальные <ActivityItem>Crystals</ActivityItem> должны были быть разбросаны по всей деревне после Забвения.
+
+TAG: Ursula_004_f
+Свет на пьедестале должен быть руинами, призывающими <ActivityItem>Crystals</ActivityItem>.
+
+TAG: Ursula_007_f
+О, и я вижу, что вы уже нашли остальные три!
+
+TAG: Ursula_008_f
+Не забудь об этом, дорогуша.
+
+TAG: Ursula_005_f
+Посмотрите вокруг деревни, {PlayerName}! Верните эти <ActivityItem>Crystals</ActivityItem> в их пьедесталы и посмотрите, что произойдет.
+
+TAG: Ursula_006_f
+О, и возьми это с собой.
+

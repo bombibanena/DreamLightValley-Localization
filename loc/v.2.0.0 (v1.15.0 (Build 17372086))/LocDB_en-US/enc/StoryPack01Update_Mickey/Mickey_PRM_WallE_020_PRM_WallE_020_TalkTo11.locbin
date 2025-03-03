@@ -1,0 +1,49 @@
+
+P
+Mickey_000_f@Hi, Mickey. I was wondering... How are things going with Minnie?
+e
+Mickey_001_fUGosh, {PlayerName}, things have been great since you brought her back to the Village.
+$
+Player_000_choice_000_f	I'll bet!
+J
+Player_000_choice_001_f/That Dreamlight Magnifier really came in handy!
+J
+Player_000_choice_002_f/You sound like there's still something wrong...
+N
+Mickey_002_f>Havin' Minnie here... I can't tell ya how much it means to me.
+6
+Mickey_003_f&There, uh... there's just one thing...
+B
+Mickey_004_f2Sometimes she still has trouble with her memories.
+_
+Mickey_005_fOMost of 'em are back, but every once in a while, somethin' seems to be missing.
+0
+Player_001_choice_000_fI'm sorry to hear it.
+6
+Player_001_choice_001_fIt's a common problem here.
+B
+Player_001_choice_002_f'I've got a few ideas for how to help...
+=
+Mickey_006_f-I just wish there was some way to remind her.
+Q
+Mickey_007_fARemy was just telling me that food and memory are tightly linked.
+u
+Mickey_008_feWhat if WALLÂ·E and I fix up some food for you and set up a nice romantic spot for your date night?
+7
+Mickey_009_f'Wow! That's a great idea, {PlayerName}!
+B
+Mickey_010_f2You let Minnie know that we're planning something.
+�
+Mickey_011_f�And we'll take care of the rest: starting with ensuring that you have a romantic atmosphere with some <ActivityItem>High Beach Torches</ActivityItem>!
+,
+Mickey_012_fHot dog! This'll be awesome!
+[
+Mickey_013_fKI guess you're right. Lucky for us, you're always around to help remind us.
++
+Mickey_014_fGosh, I'd love to hear 'em.
+$
+Mickey_015_fOh boy, did it ever!
+'
+Mickey_016_fReally? How'd you know?
+f
+Mickey_017_fVIt's all WALLÂ·E â he's boosting my matchmaking instincts with his cute outfit.

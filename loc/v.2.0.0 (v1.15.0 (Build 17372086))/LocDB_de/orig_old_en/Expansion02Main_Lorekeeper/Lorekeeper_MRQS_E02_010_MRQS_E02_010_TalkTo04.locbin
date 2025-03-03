@@ -1,0 +1,23 @@
+
+$
+Lorekeeper_000_f{PlayerName}...?
++
+Lorekeeper_002_fYou answered my call...
+T
+Lorekeeper_003_f@At last... You're the Vale's one remaining hope... *cough cough*
+S
+Player_000_choice_000_f8I need to know more if I'm going to be able to help you.
+4
+Player_000_choice_001_fYou okay? You sound sick.
+Q
+Player_000_choice_002_f6Sorry, I'm used to reading books, not talking to them.
+^
+Lorekeeper_004_fJWe haven't much time. The last of my strength... It's about to leave me...
+O
+Lorekeeper_005_f;You must <Lore>find the Royal Net</Lore> and put it to use!
+Y
+Lorekeeper_006_fEThe Royal Net... it's <Lore>hidden in this chamber</Lore>, beneath...
+*
+Lorekeeper_007_fIt's hidden beneath...
+%
+Lorekeeper_008_f...urrRRRRgggg...

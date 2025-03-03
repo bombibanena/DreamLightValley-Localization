@@ -1,0 +1,72 @@
+TAG: Flynn_000_f
+No! ... Maybe... Let's say "concerned." Here's the thing: I haven't met Rapunzel's mother, but I know she's around here.
+
+TAG: Flynn_001_f
+And I've been thinking about the whole "locked in a tower" situation, and I was wondering...
+
+TAG: Flynn_002_f
+Do you know Rapunzel's mother? What do you think of her?
+
+TAG: Player_000_choice_000_f
+She's great!
+
+TAG: Player_000_choice_001_f
+She's manipulative.
+
+TAG: Player_000_choice_002_f
+You'll have to meet her for yourself.
+
+TAG: Flynn_003_f
+Really? Huh. I guess that's reassuring. Maybe I've been getting the wrong impression.
+
+TAG: Flynn_004_f
+I mean, how bad can it be to lock your daughter away from the world to keep her SAFE?
+
+TAG: Flynn_005_f
+You know what? I didn't like that even as I was saying it. It's just bad from top to bottom.
+
+TAG: Flynn_006_f
+That's what I've been thinking! I mean, c'mon! Scaring Rapunzel just to keep her inside?
+
+TAG: Flynn_007_f
+Before you say anything, I did try to scare Rapunzel, too. But that was just once! And I deeply regret it.
+
+TAG: Player_001_choice_000_f
+You scared Rapunzel?
+
+TAG: Player_001_choice_001_f
+But you learned better.
+
+TAG: Flynn_008_f
+I wanted to get her back to her tower. And she'd said her mother scared her with stories about ruffians and thugs... So I introduced her to a few.
+
+TAG: Flynn_009_f
+Then she goes and tells them about her dreams. And I found out they like to bake and collect ceramic unicorns...
+
+TAG: Flynn_010_f
+She's amazing... She changed my life.
+
+TAG: Flynn_011_f
+Yeah. I have... Thanks to Rapunzel. She's amazing.
+
+TAG: Flynn_012_f
+Keeping me in suspense. Nice.
+
+TAG: Player_002_choice_000_f
+Mother Gothel is hard to explain.
+
+TAG: Player_002_choice_001_f
+You'll understand immediately.
+
+TAG: Flynn_013_f
+"Hard to explain"?
+
+TAG: Flynn_014_f
+I really don't like the sound of that...
+
+TAG: Flynn_015_f
+I hope you mean "you'll understand where Rapunzel gets her kind heart and joy for life from," but...
+
+TAG: Flynn_016_f
+...something tells me you don't.
+

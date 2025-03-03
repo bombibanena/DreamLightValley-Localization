@@ -1,0 +1,25 @@
+
+a
+Ariel_000_fROh my gosh, {PlayerName}, it's so great to see you! And WALL·E! You're here, too!
+4
+Player_000_f$Yes! He collects things like you do.
+I
+Player_000_choice_000_f.You used to trade items from your collections.
+7
+Player_000_choice_001_fHe'd like to trade with you.
+[
+Ariel_001_fLI remember! That was before the Forgetting. WALL·E's a wonderful collector.
+-
+Ariel_004_fWe should start trading again!
+\
+Ariel_003_fMOoh, I can trade him my duplicates! I have a whole box full of dinglehoppers.
+t
+Ariel_005_feAnd I'd love to find some things I've heard about. Like a <ActivityItem>Bowling Pin</ActivityItem>...
+f
+Ariel_006_fW...or a <ActivityItem>Toy Train</ActivityItem>! Or something called a... "flight blub"?
+D
+Ariel_007_f5WALL·E, if you have any of those, I'd love to trade.
+!
+Ariel_002_fOh, I'd love that!
+N
+Ariel_008_f?WALL·E's a wonderful collector. We should start trading again!

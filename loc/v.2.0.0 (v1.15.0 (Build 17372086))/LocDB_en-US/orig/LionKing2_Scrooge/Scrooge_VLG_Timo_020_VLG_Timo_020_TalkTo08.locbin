@@ -1,0 +1,25 @@
+
+:
+Scrooge_000_f)Aye, what can I do for you, {PlayerName}?
+/
+Scrooge_002_fI'm actually here on business.
+2
+Scrooge_003_f!Business, you say? I'm listenin'.
+P
+Player_000_choice_000_f5Do you sell anything I can use as a recording device?
+A
+Player_000_choice_001_f&Can I buy some batteries in your shop?
+E
+Player_000_choice_002_f*I'm trying to help Timon with something...
+a
+Scrooge_004_fPOch. Unfortunately, no. I dinnae have anything like that in stock at the moment.
+%
+Scrooge_005_fHmm, that's too bad.
+i
+Scrooge_007_fXI want to help Timon make a slideshow presentation of the critters in Dreamlight Valley.
+ü
+Scrooge_008_fêWell, you might want to try fishin' around the Forest of Valor. There may even be a <ActivityItem>Rusted Recorder</ActivityItem> in one of those ponds. I accidentally dropped one there ages ago and havenae had any luck fishin' it out!
+r
+Scrooge_009_faThanks! I'll <Lore>go fishing in the Forest of Valor</Lore> and hopefully find something helpful!
+@
+Scrooge_006_f/And what might you be helping the wee lad with?

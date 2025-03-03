@@ -1,0 +1,25 @@
+
+{
+CVillage!Mickey!Scrooge!VLG_Scro_040_Any_CompletedRequestDescription4Возвращайся к Скрудж Макдак.
+�
+8Village!Mickey!Scrooge!VLG_Scro_040_AvailableDescription\Скрудж Макдак преподает тебе еще один ценный урок.
+�
+=Village!Mickey!Scrooge!VLG_Scro_040_CompletedStoryDescription�В удивительном шаге Урсула дает Скрудж Макдак золотую монету как отвлекающий маневр. Утка, кажется, очарована им. Вы должны проверить его.
+Z
+/Village!Mickey!Scrooge!VLG_Scro_040_DisplayName'Что плохо для бизнеса
+�
+@Village!Mickey!Scrooge!VLG_Scro_040_Group01_OngoingRequestButton><smallcaps>{title}</smallcaps><br> Что мне делать?
+�
+NVillage!Mickey!Scrooge!VLG_Scro_040_Group01_Step01_BringItem01_StepDescriptionEПокупайте мебель {Color} для Мерлин's {Zone}.
+�
+CVillage!Mickey!Scrooge!VLG_Scro_040_Group01_Step01_ReadyDescriptionJПринесите ему мебель Мерлин {Color} для {Zone}.
+�
+<Village!Mickey!Scrooge!VLG_Scro_040_Group01_StoryDescription�Он подозревает, что Урсула заключает сделки с деревенскими жителями, и просит вас доказать это самим.
+�
+<Village!Mickey!Scrooge!VLG_Scro_040_Group02_StoryDescription_Морская Ведьма не думает дважды, прежде чем принять.
+�
+<Village!Mickey!Scrooge!VLG_Scro_040_Group03_StoryDescription~Теперь, когда у вас есть доказательства, вы сообщаете Скрудж Макдак...
+�
+<Village!Mickey!Scrooge!VLG_Scro_040_Group04_StoryDescriptiont...который пользуется возможностью, чтобы противостоять Урсула.
+g
+6Village!Mickey!Scrooge!VLG_Scro_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

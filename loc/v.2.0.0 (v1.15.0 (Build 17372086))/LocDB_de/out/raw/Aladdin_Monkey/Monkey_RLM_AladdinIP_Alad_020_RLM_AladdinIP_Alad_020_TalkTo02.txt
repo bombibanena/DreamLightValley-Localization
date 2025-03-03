@@ -1,0 +1,18 @@
+TAG: Monkey_000_f
+Oooh! Ah-ah! Oo!
+
+TAG: Monkey_001_f
+Argh, they won't hand over the gemstones!
+
+TAG: Player_000_f
+Would you like...
+
+TAG: Player_000_choice_000_f
+...some food?
+
+TAG: Player_000_choice_001_f
+...something shiny?
+
+TAG: Player_000_choice_002_f
+...some kind of toy?
+

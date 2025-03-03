@@ -1,0 +1,71 @@
+
+>
+Flynn_001_f/Hey, {PlayerName}. Need my help with something?
+3
+Flynn_008_f$I'm a man of many talents, you know.
+A
+Flynn_010_f2I could lower from the ceiling and grab something?
+;
+Flynn_009_f,Or maybe charm someone into giving up a key?
+*
+Flynn_012_fOoh, or scale a huge tower?
+5
+Flynn_011_f&Those are all Flynn Rider specialties.
+>
+Player_001_choice_002_f#Can you really do all those things?
+I
+Player_001_choice_003_f.How about lowering a drawbridge to a fortress?
+
+Flynn_013_fOf course I can!
+T
+Flynn_014_fEAnd I've got the frying pan lumps to prove it. Don't ask. Long story.
+K
+Flynn_015_f<Well, I do need somebody who can help me lower a drawbridge.
+I
+Flynn_016_f:Right. The castle with the crumbling walls in Everafter...
+c
+Flynn_017_fTI tried to get in there once, but there's some sort of magic protection spell on it.
+,
+Flynn_018_fIt'll only open for a knight.
+f
+Flynn_019_fWYou know, the place sort of reminds me of a fortress from a story that I read as a kid.
+A
+Player_002_choice_000_f&Maybe it IS the place from that story!
+X
+Player_002_choice_001_f=Did you learn anything from those stories that might help us?
+T
+Player_002_choice_002_f9Apologies, but you don't strike me as somebody who reads.
+ˆ
+Flynn_020_fyThe Lorekeeper told me this place is MADE of stories Ã¢Â€Â” the stories we all loved as kids. It makes sense, doesn't it?
+†
+Flynn_021_fwCould be. And if that's it, then maybe what I learned about being a knight from those stories could help us get inside!
+l
+Flynn_002_f]I used to read tons of stories about dashing heroes and brave knights back in the orphaÃ¢Â€Â”
+3
+Flynn_003_f$Uh, I mean, back when I was younger.
+Ž
+Flynn_004_fFor a while I even wanted to be a knight... before I settled on being an extremely charming and attractive swashbuckling rogue.
+J
+Player_000_choice_000_f/I'd much rather be a dashing and heroic knight.
+J
+Player_000_choice_001_f/Being a swashbuckling rogue seems way more fun.
+(
+Player_000_choice_002_fWhy not both?
+Q
+Flynn_005_fBWell, if you ask me, I think you could totally pull off the armor.
+ƒ
+Flynn_025_ftAnd if we want to trick this drawbridge into thinking you're a knight, then that's the first thing we're gonna need.
+G
+Flynn_026_f8Every knight needs <Lore>a suit of shining armor</Lore>!
+x
+Flynn_027_fiYou know, I've got this old drawing I made once when I was a kid. Maybe you could make THAT for yourself?
+V
+Flynn_006_fGTrust me, it is. Only one problem. You don't get a great suit of armor.
+u
+Flynn_007_ffA swashbuckling knight? That would be interesting. You get to have fun AND wear a great suit of armor.
+'
+Flynn_022_fYou know, I think I did.
+g
+Flynn_023_fXWell, I don't have much time for it these days. Too busy LIVING adventures to read them.
+m
+Flynn_024_f^But as a kid? You bet I did. For a kid with nothing, reading about possibility was everything.

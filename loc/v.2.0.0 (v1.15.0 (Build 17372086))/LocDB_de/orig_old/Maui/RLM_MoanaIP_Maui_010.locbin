@@ -1,0 +1,27 @@
+
+�
+ERealm!Moana!Maui!RLM_MoanaIP_Maui_010_Any_CompletedRequestDescription9Расскажи Мауи о своих подвигах.
+�
+:Realm!Moana!Maui!RLM_MoanaIP_Maui_010_AvailableDescriptionJПора встретить Мауи в королевстве Моана.
+�
+?Realm!Moana!Maui!RLM_MoanaIP_Maui_010_CompletedStoryDescription�Твой новый и усовершенствованный Пикокс сделал свою работу, и каноэ Моана теперь свободно плавать по открытому морю. Ты возвращаешься, чтобы сказать Мауи.
+L
+1Realm!Moana!Maui!RLM_MoanaIP_Maui_010_DisplayNameВеликий Мауи
+�
+VRealm!Moana!Maui!RLM_MoanaIP_Maui_010_Group01_Step01_TalkToCharacter01_StepDescriptionZПосмотри на Моана! Она поможет тебе узнать о Мауи.
+�
+>Realm!Moana!Maui!RLM_MoanaIP_Maui_010_Group01_StoryDescription�Мауи отказывается говорить с вами, пока он не уверен, что вы немного знаете о нем. Вы решили попросить Моана о помощи.
+}
+BRealm!Moana!Maui!RLM_MoanaIP_Maui_010_Group02_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+^
+=Realm!Moana!Maui!RLM_MoanaIP_Maui_010_Group02_StepDescriptionПоговори с Мауи.
+�
+>Realm!Moana!Maui!RLM_MoanaIP_Maui_010_Group02_StoryDescriptionnМоана дал вам некоторые элементы, чтобы выдержать тест Мауи.
+�
+BRealm!Moana!Maui!RLM_MoanaIP_Maui_010_Group03_OngoingRequestButtonQ<smallcaps>{title}</smallcaps><br> Как проверить мой Пикэкс?
+�
+=Realm!Moana!Maui!RLM_MoanaIP_Maui_010_Group03_StepDescriptionaСвободный каноэ Моана, очищая за ним морские обломки.
+�
+>Realm!Moana!Maui!RLM_MoanaIP_Maui_010_Group03_StoryDescription�Поскольку вы доказали, что знаете Мауи, полубог улучшил ваш Pickaxe, теперь вы можете освободить каноэ Моана.
+i
+8Realm!Moana!Maui!RLM_MoanaIP_Maui_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

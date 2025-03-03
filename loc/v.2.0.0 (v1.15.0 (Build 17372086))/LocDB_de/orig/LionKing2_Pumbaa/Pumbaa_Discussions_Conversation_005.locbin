@@ -1,0 +1,37 @@
+
+?
+Pumbaa_000_f/Oh no. What are ya worried about, {PlayerName}?
+9
+Pumbaa_001_f)Tell your buddy Pumbaa all your troubles.
+G
+Player_000_choice_000_f,The Night Thorns. Those spiky purple things.
+&
+Player_000_choice_001_fMy friends.
+3
+Player_000_choice_002_fJust all kinds of stuff.
+>
+Pumbaa_002_f.Oh... Well, I'm gonna tell ya a secret. Ready?
+J
+Pumbaa_003_f:Sometimes, I worry about stuff too. 'Specially my friends!
+W
+Pumbaa_004_fGLike when Simba was just a little lion, and we found him in the desert?
++
+Pumbaa_005_fI was so worried about him!
+5
+Player_001_choice_000_fOh, Pumbaa. That's so sad.
+7
+Player_001_choice_001_fYou worry about things, too?
+D
+Player_001_choice_002_f)But you're always saying "hakuna matata"!
+@
+Pumbaa_006_f0Oh, it's okay, now. Everything worked out great!
+p
+Pumbaa_009_f`Just goes to show ya, all worries go away after a while. Sometimes ya just gotta help 'em along.
+T
+Pumbaa_007_fDSure! And Timon does too, sometimes. But then we talk to each other.
+>
+Pumbaa_011_f.It helps make the big worries feel not so big.
+3
+Pumbaa_008_f#Yeah. But it doesn't ALWAYS work...
+_
+Pumbaa_012_fOSometimes I gotta talk to Timon or Simba. Or go for a swim. Then I feel better.

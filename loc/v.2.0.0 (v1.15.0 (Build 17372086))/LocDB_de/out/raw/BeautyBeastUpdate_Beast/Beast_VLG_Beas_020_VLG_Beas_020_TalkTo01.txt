@@ -1,0 +1,48 @@
+TAG: Beast_000_f
+Okay, I think you'll really get along with Kristoff.
+
+TAG: Beast_001_f
+Fishing can be pretty chill. So you two can just hang out while you do his fishing challenge.
+
+TAG: Beast_002_f
+I... I can try that.
+
+TAG: Beast_003_f
+I've always liked fishing... The silence is enjoyable.
+
+TAG: Player_000_choice_000_f
+Wow, you really do need my help.
+
+TAG: Player_000_choice_001_f
+You and Kristoff are going to get along just fine!
+
+TAG: Beast_004_f
+...
+
+TAG: Beast_005_f
+Well, I'll let you find a spot you like for the contest.
+
+TAG: Beast_006_f
+I'll check back in later and see how you two are getting along.
+
+TAG: Beast_007_f
+{PlayerName}, thank you. I will do my best.
+
+TAG: Beast_008_f
+That's the spirit!
+
+TAG: Beast_009_f
+Goodbye.
+
+TAG: Beast_010_f
+Good luck! You're going to need it â I'm participating in the contest too.
+
+TAG: Beast_011_f
+That's fine. You never asked how good a fisherman I was.
+
+TAG: Beast_012_f
+Goodbye.
+
+TAG: Beast_013_f
+I... hope so.
+

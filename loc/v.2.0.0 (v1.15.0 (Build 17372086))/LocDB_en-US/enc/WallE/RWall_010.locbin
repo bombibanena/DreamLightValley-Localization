@@ -1,0 +1,87 @@
+
+g
+;Realm!WallE!WallE!RWall_010_Any_CompletedRequestDescription(Beautiful. Go see what WALLÂ·E thinks.
+u
+0Realm!WallE!WallE!RWall_010_AvailableDescriptionAThis Realm has a shy little robot. You'll need to gain his trust.
+O
+8Realm!WallE!WallE!RWall_010_Group01_OngoingRequestButtonHow can I help you?
+}
+FRealm!WallE!WallE!RWall_010_Group01_Step01_BringItem01_StepDescription3Search the Realm to find a way to repair WALLÂ·E.
+o
+;Realm!WallE!WallE!RWall_010_Group01_Step01_ReadyDescription0You found WALLÂ·E's Track! Go bring it to him.
+O
+8Realm!WallE!WallE!RWall_010_Group02_OngoingRequestButtonHow can I help you?
+�
+GRealm!WallE!WallE!RWall_010_Group02_Step02_MakeGarden01_StepDescription@Plant WALLÂ·E's Special Seeds and help them grow in the Realm.
+h
+LRealm!WallE!WallE!RWall_010_Group03_Step03_TalkToCharacter01_StepDescriptionExplore WALLÂ·E Realm.
+x
+LRealm!WallE!WallE!RWall_010_Group04_Step04_TalkToCharacter02_StepDescription(Beautiful. Go see what WALLÂ·E thinks.
+M
+8Realm!WallE!WallE!RWall_010_Group05_OngoingRequestButtonWhat should I do?
+s
+LRealm!WallE!WallE!RWall_010_Group05_Step05_TalkToCharacter03_StepDescription#Ask Merlin for help with WALLÂ·E.
+M
+8Realm!WallE!WallE!RWall_010_Group06_OngoingRequestButtonWhat should I do?
+g
+LRealm!WallE!WallE!RWall_010_Group06_Step06_TalkToCharacter04_StepDescriptionTalk to Scrooge McDuck.
+M
+8Realm!WallE!WallE!RWall_010_Group07_OngoingRequestButtonWhat should I do?
+�
+FRealm!WallE!WallE!RWall_010_Group07_Step07_BringItem02_StepDescriptionAMine for <ActivityItem>Garnets</ActivityItem> around the Village.
+y
+;Realm!WallE!WallE!RWall_010_Group07_Step07_ReadyDescription:Bring the <ActivityItem>Garnets</ActivityItem> to Scrooge.
+M
+8Realm!WallE!WallE!RWall_010_Group08_OngoingRequestButtonWhat should I do?
+F
+:Realm!WallE!WallE!RWall_010_Group08_Step08_StepDescriptionTalk to:
+W
+LRealm!WallE!WallE!RWall_010_Group08_Step08_TalkToCharacter05_StepDescriptionMickey.
+V
+LRealm!WallE!WallE!RWall_010_Group08_Step08_TalkToCharacter06_StepDescriptionGoofy.
+M
+8Realm!WallE!WallE!RWall_010_Group09_OngoingRequestButtonWhat should I do?
+o
+DRealm!WallE!WallE!RWall_010_Group09_Step09_Possess01_StepDescription'Collect the ball inside Mickey's House.
+�
+DRealm!WallE!WallE!RWall_010_Group09_Step09_Possess02_StepDescriptionQFish the <ActivityItem>Sprout Boot</ActivityItem> from one of the Meadow's ponds.
+Q
+:Realm!WallE!WallE!RWall_010_Group09_Step09_StepDescriptionGather these items:
+M
+8Realm!WallE!WallE!RWall_010_Group10_OngoingRequestButtonWhat should I do?
+y
+FRealm!WallE!WallE!RWall_010_Group10_Step10_BringItem03_StepDescription/<ActivityItem>Fire Extinguisher</ActivityItem>.
+l
+FRealm!WallE!WallE!RWall_010_Group10_Step10_BringItem04_StepDescription"<ActivityItem>Ball</ActivityItem>.
+s
+FRealm!WallE!WallE!RWall_010_Group10_Step10_BringItem05_StepDescription)<ActivityItem>Sprout Boot</ActivityItem>.
+r
+;Realm!WallE!WallE!RWall_010_Group10_Step10_ReadyDescription3You found everything! Bring the items to WALLÂ·E.
+y
+:Realm!WallE!WallE!RWall_010_Group10_Step10_StepDescription;Make sure you have the following items in your Inventory...
+H
+8Realm!WallE!WallE!RWall_010_Group11_OngoingRequestButtonWhat's next?
+y
+3Realm!WallE!WallE!RWall_010_Group11_StepDescriptionB(Press {input_catalog} to access Furniture to place in the House.)
+H
+8Realm!WallE!WallE!RWall_010_Group12_OngoingRequestButtonWhat's next?
+�
+3Realm!WallE!WallE!RWall_010_Group12_StepDescriptionMUse the Scrooge McDuck Sign to pay for the construction of WALLÂ·E's House.
+M
+8Realm!WallE!WallE!RWall_010_Group13_OngoingRequestButtonWhat should I do?
+�
+LRealm!WallE!WallE!RWall_010_Group13_Step13_UnlockCharacter01_StepDescription>Everything is ready for WALLÂ·E. Welcome him to the Village.
+O
+8Realm!WallE!WallE!RWall_010_Group14_OngoingRequestButtonHow can I help you?
+�
+DRealm!WallE!WallE!RWall_010_Group14_Step14_Possess03_StepDescriptionBGather Trash by removing <ActivityItem>Trash Piles</ActivityItem>.
+Q
+8Realm!WallE!WallE!RWall_010_Group15_OngoingRequestButtonWhat should I do now?
+�
+FRealm!WallE!WallE!RWall_010_Group15_Step15_CraftItem01_StepDescriptionPUse the Crafting Station to craft some <ActivityItem>Trash Cubes</ActivityItem>.
+Q
+8Realm!WallE!WallE!RWall_010_Group16_OngoingRequestButtonWhat should I do now?
+
+;Realm!WallE!WallE!RWall_010_Group16_Step16_ReadyDescription@Bring the <ActivityItem>Trash Cubes</ActivityItem> to WALLÂ·E.
+�
+:Realm!WallE!WallE!RWall_010_Group16_Step16_StepDescriptionPUse the Crafting Station to craft some <ActivityItem>Trash Cubes</ActivityItem>.

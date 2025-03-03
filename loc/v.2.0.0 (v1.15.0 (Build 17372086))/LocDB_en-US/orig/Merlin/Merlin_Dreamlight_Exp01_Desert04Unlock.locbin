@@ -1,0 +1,21 @@
+
+í
+Merlin_000_fÅ{PlayerName}, I see you've found another <Lore>mysterious Time Rift</Lore>. This too is connected to the magic of your Hourglass.
+w
+Merlin_001_fgChannel the magical <ActivityItem>Mist</ActivityItem> within it to mend this wound in time and space...
+r
+Merlin_002_fbWhen you do, you can explore another area of the Glittering Dunes... the <Lore>Borderlands</Lore>!
+~
+Player_000_choice_000_fcI'll channel the magic of the Hourglass... (Use {UpgradePrice} <sprite="iconCurrencyMist" index=0>)
+5
+Player_000_choice_001_fI'm not quite ready yet...
+Å
+Merlin_003_fqBrilliantly done, {PlayerName}! Now you can set out and explore the Borderlands. There's much to learn, I'm sure.
+å
+Merlin_004_f|Seems we've a slight problem. I'm afraid you don't have enough <ActivityItem>Mist</ActivityItem> to mend this Time Rift yet.
+ò
+Merlin_005_fáRemember... the <ActivityItem>Mist</ActivityItem> is <Lore>connected to the magic of your Hourglass and to Eternity Isle itself</Lore>.
+∑
+Merlin_006_f¶You must keep uncovering wonders with your Hourglass and continue to make Eternity Isle a home. As you do, you'll gain the <ActivityItem>Mist</ActivityItem> required!
+k
+Merlin_007_f[Yes, well, that's all fine and good. But there's much to do here. We mustn't take too long.

@@ -1,0 +1,13 @@
+
+r
+Scrooge_000_faImprovin' Moana's Boat would help her catch rarer fish. You won't come across a finer investment.
+x
+Player_000_choice_000_f]Let's improve the boat. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+3
+Player_000_choice_001_fPerhaps some other time.
+<
+Scrooge_001_f+Bless me bagpipes! It looks better already!
+|
+Scrooge_002_fkOch! You don't have enough Star Coins to improve the Boat! Come back when you have the funds, {PlayerName}.
+j
+Scrooge_003_fYBut this is a sound investment! *sigh* Well, come back here when you come to your senses.

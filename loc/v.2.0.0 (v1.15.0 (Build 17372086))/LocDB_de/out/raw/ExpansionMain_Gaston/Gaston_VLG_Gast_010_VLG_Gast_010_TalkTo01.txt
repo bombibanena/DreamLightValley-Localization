@@ -1,0 +1,54 @@
+TAG: Gaston_003_f
+All done! How do you feel about it now?
+
+TAG: Gaston_004_f
+Oh no, this isn't right. This isn't right at all.
+
+TAG: Player_000_choice_000_f
+It does look rather bare...
+
+TAG: Player_000_choice_001_f
+Hey, I worked hard to clean this up!
+
+TAG: Player_000_choice_002_f
+Don't worry, Gaston. We can fix it up!
+
+TAG: Gaston_005_f
+Ugh. I can't believe I have to tell you how to do everything. LeFou would just know what I want.
+
+TAG: Gaston_008_f
+Now, let me see... Yes!
+
+TAG: Gaston_009_f
+The whole lodge requires furniture and careful renovation.
+
+TAG: Gaston_010_f
+Tell me â is my old friend Scrooge McDuck still running that shop of his?
+
+TAG: Player_001_choice_000_f
+He sure is!
+
+TAG: Player_001_choice_001_f
+You're... friends with him?
+
+TAG: Gaston_011_f
+Excellent!
+
+TAG: Gaston_014_f
+He supplied funding before I set out from the Valley â I'm sure he'd want to invest in me again!
+
+TAG: Gaston_015_f
+Bring him some <ActivityItem>Alexandrite</ActivityItem>, <ActivityItem>Jade</ActivityItem> and <ActivityItem>Spinel</ActivityItem>. He should be raring to fund this new venture!
+
+TAG: Gaston_012_f
+Of course! We're both admired for our cunning and leave-nothing-unventured attitudes!
+
+TAG: Gaston_013_f
+I guess that makes sense.
+
+TAG: Gaston_006_f
+Did you? Oh, I suppose you did.
+
+TAG: Gaston_007_f
+You're sounding more and more like LeFou every day!
+

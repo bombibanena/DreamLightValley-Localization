@@ -1,0 +1,33 @@
+TAG: Vanellope_001_f
+Wow, {PlayerName}, you did it! I'm impressed!
+
+TAG: Vanellope_002_f
+Yep! You just have to bring this <ActivityItem>Decoded Final Clue</ActivityItem> to Sulley and you'll win.
+
+TAG: Vanellope_003_f
+Are you kidding? You should be the one to do that!
+
+TAG: Vanellope_004_f
+Let's face it, {PlayerName}. Without you, I couldn't have finished the scavenger hunt.
+
+TAG: Vanellope_005_f
+And I'm pretty sure it's the same for the others. So here. You win. Go see Sulley.
+
+TAG: Player_000_choice_000_f
+You're adorable.
+
+TAG: Player_000_choice_001_f
+Are you sure you're okay with this?
+
+TAG: Player_000_choice_002_f
+Yes! I win!
+
+TAG: Vanellope_007_f
+I know! Now go!
+
+TAG: Vanellope_008_f
+Yeah. Now go... before I change my mind.
+
+TAG: Vanellope_009_f
+Ha! I knew there was a true competitor in you.
+

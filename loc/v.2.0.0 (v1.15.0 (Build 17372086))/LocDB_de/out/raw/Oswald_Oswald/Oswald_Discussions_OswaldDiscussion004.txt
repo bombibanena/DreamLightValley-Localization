@@ -1,0 +1,24 @@
+TAG: Oswald_000_f
+Hey, {PlayerName}, ya know, this place could do with some more flimflam.
+
+TAG: Oswald_001_f
+Some what?
+
+TAG: Oswald_002_f
+A bit of tomfoolery. The occasional hokum!
+
+TAG: Player_000_choice_000_f
+What are you talking about?
+
+TAG: Player_000_choice_001_f
+Are you speaking another language?
+
+TAG: Player_000_choice_002_f
+I too enjoy bafflegab and codswallop.
+
+TAG: Oswald_003_f
+What do ya mean? You're the one goin' on like a blatherskite... I'm talkin' mischief! Got it?
+
+TAG: Oswald_004_f
+Hotsy-totsy! I love findin' somebody else who enjoys a little chicanery!
+

@@ -1,0 +1,53 @@
+
+Y
+FVillage!LiloStitch!Stitch!VLG_Stit_010_Any_CompletedRequestDescriptionTalk to Stitch.
+¦
+;Village!LiloStitch!Stitch!VLG_Stit_010_AvailableDescriptiongYou found some vandalized signs in the Peaceful Meadow. It seems like Stitch has been bothering Donald.
+¬
+@Village!LiloStitch!Stitch!VLG_Stit_010_CompletedStoryDescriptionhStitch has apologized to Donald. Now it's time to talk to him and see if he's really learned his lesson.
+J
+2Village!LiloStitch!Stitch!VLG_Stit_010_DisplayNameGoodness Level Check
+›
+WVillage!LiloStitch!Stitch!VLG_Stit_010_Group01_Step01_TalkToCharacter01_StepDescription@Show the <ActivityItem>Vandalized Sign</ActivityItem> to Donald.
+z
+>Village!LiloStitch!Stitch!VLG_Stit_010_Group01_StepDescription8You found a sign with a strange drawing of Donald on it.
+j
+WVillage!LiloStitch!Stitch!VLG_Stit_010_Group02_Step02_TalkToCharacter02_StepDescriptionTalk to Stitch.
+©
+?Village!LiloStitch!Stitch!VLG_Stit_010_Group02_StoryDescriptionåDonald is hopping mad because Stitch has been vandalizing the signs he put up around the Village. He asks you to put a stop to Stitch's pranks. You decide to help Stitch make amends to Donald by replacing the signs he vandalized.
+|
+CVillage!LiloStitch!Stitch!VLG_Stit_010_Group03_OngoingRequestButton5<smallcaps>{title}</smallcaps><br>What were we doing?
+^
+OVillage!LiloStitch!Stitch!VLG_Stit_010_Group03_Step03_Possess01_StepDescription{ItemName}.
+^
+OVillage!LiloStitch!Stitch!VLG_Stit_010_Group03_Step03_Possess02_StepDescription{ItemName}.
+ˆ
+OVillage!LiloStitch!Stitch!VLG_Stit_010_Group03_Step03_Possess03_StepDescription5{ItemName} near the entrances to the Peaceful Meadow.
+|
+EVillage!LiloStitch!Stitch!VLG_Stit_010_Group03_Step03_StepDescription3Gather the following materials to repair the signs:
+`
+QVillage!LiloStitch!Stitch!VLG_Stit_010_Group04_Step04_BringItem01_StepDescription{ItemName}.
+`
+QVillage!LiloStitch!Stitch!VLG_Stit_010_Group04_Step04_BringItem02_StepDescription{ItemName}.
+`
+QVillage!LiloStitch!Stitch!VLG_Stit_010_Group04_Step04_BringItem03_StepDescription{ItemName}.
+o
+FVillage!LiloStitch!Stitch!VLG_Stit_010_Group04_Step04_ReadyDescription%Give some of the materials to Stitch.
+Ÿ
+QVillage!LiloStitch!Stitch!VLG_Stit_010_Group05_Step05_CraftItem01_StepDescriptionJCraft two <ActivityItem>Donald Signs</ActivityItem> at a Crafting Station.
+d
+>Village!LiloStitch!Stitch!VLG_Stit_010_Group06_StepDescription"Show the repaired signs to Stitch.
+“
+?Village!LiloStitch!Stitch!VLG_Stit_010_Group06_StoryDescriptionPYou help Stitch by repairing a couple of the signs and showing him how to do it.
+Ÿ
+PVillage!LiloStitch!Stitch!VLG_Stit_010_Group07_Step07_Decorate01_StepDescriptionKPlace the <ActivityItem>Donald Signs</ActivityItem> in the Peaceful Meadow.
+k
+?Village!LiloStitch!Stitch!VLG_Stit_010_Group07_StoryDescription(With your help, Stitch "repairs" a sign.
+j
+WVillage!LiloStitch!Stitch!VLG_Stit_010_Group08_Step08_TalkToCharacter04_StepDescriptionTalk to Stitch.
+¨
+?Village!LiloStitch!Stitch!VLG_Stit_010_Group08_StoryDescriptioneYou help Stitch place the signs around the Meadow to show Donald that you respect his personal space.
+w
+NVillage!LiloStitch!Stitch!VLG_Stit_010_Group09_Step09_Listen01_StepDescription%Listen to Stitch apologize to Donald.
+ã
+?Village!LiloStitch!Stitch!VLG_Stit_010_Group09_StoryDescriptionŸStitch helps you put the repaired signs up around the Peaceful Meadow. There's only one thing left that he needs to do to make this right: apologize to Donald.

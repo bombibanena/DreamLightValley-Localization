@@ -1,0 +1,47 @@
+
+ƒ
+;Story!Expansion01!MRQS_E01_238_RiftEVE_AvailableDescriptionÑYou'll need to help Villagers use their imaginations to close the rifts around Eternity Isle. You'll have to start by following EVE.
+O
+2Story!Expansion01!MRQS_E01_238_RiftEVE_DisplayNameUse Your Imagination: EVE
+É
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group01_Step01_VisitArea01_StepDescription.Go inside the Ancient Ruins in the Docks area.
+w
+WStory!Expansion01!MRQS_E01_238_RiftEVE_Group02_Step02_FollowCharacter01_StepDescriptionFollow EVE to the Time Rift.
+i
+YStory!Expansion01!MRQS_E01_238_RiftEVE_Group02_Step02_FollowCharacter01_TalkToDescriptionTalk to EVE.
+k
+WStory!Expansion01!MRQS_E01_238_RiftEVE_Group03_Step03_TalkToCharacter01_StepDescriptionTalk to WALL¬∑E.
+…
+?Story!Expansion01!MRQS_E01_238_RiftEVE_Group03_StoryDescriptionÖIt seems EVE needs a little help being imaginative. Luckily, there's another robot in the Village who might be able to help: WALL¬∑E!
+ú
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group04_Step04_BringItem01_StepDescriptionGMake sure the <ActivityItem>Film Projector</Lore> is in your Inventory.
+w
+FStory!Expansion01!MRQS_E01_238_RiftEVE_Group04_Step04_ReadyDescription-Bring the <Lore>Film Projector</Lore> to EVE.
+ì
+EStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_StepDescriptionJTake the following pictures of EVE and WALL¬∑E together for the film reel:
+p
+SStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_TakePicture01_StepDescriptionInside the Ancient Ruins.
+n
+SStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_TakePicture02_StepDescriptionInside WALL¬∑E's House.
+j
+SStory!Expansion01!MRQS_E01_238_RiftEVE_Group05_Step05_TakePicture03_StepDescriptionInside EVE's House.
+ø
+?Story!Expansion01!MRQS_E01_238_RiftEVE_Group05_StoryDescription|Now that you've got a film projector, you just need something to play on it. A photo shoot with WALL¬∑E and EVE is in order.
+a
+OStory!Expansion01!MRQS_E01_238_RiftEVE_Group06_Step06_Possess01_StepDescriptionPlastic Scrap.
+d
+OStory!Expansion01!MRQS_E01_238_RiftEVE_Group06_Step06_Possess02_StepDescriptionMechanical Parts.
+z
+EStory!Expansion01!MRQS_E01_238_RiftEVE_Group06_Step06_StepDescription1Gather the following materials for the film reel:
+ú
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group07_Step07_CraftItem01_StepDescriptionGCraft the <ActivityItem>Film Reel</ActivityItem> at a Crafting Station.
+Å
+FStory!Expansion01!MRQS_E01_238_RiftEVE_Group08_Step08_ReadyDescription7Give the <ActivityItem>Film Reel</ActivityItem> to EVE.
+v
+EStory!Expansion01!MRQS_E01_238_RiftEVE_Group08_Step08_StepDescription-Make sure the film reel is in your Inventory.
+ë
+?Story!Expansion01!MRQS_E01_238_RiftEVE_Group08_StoryDescriptionNPhoto shoot complete and film reel in hand, it's time to close that Time Rift!
+ê
+QStory!Expansion01!MRQS_E01_238_RiftEVE_Group09_Step09_VisitArea02_StepDescription;Meet EVE and WALL¬∑E at the Time Rift in the Ancient Ruins.
+g
+WStory!Expansion01!MRQS_E01_238_RiftEVE_Group10_Step10_TalkToCharacter02_StepDescriptionTalk to EVE.

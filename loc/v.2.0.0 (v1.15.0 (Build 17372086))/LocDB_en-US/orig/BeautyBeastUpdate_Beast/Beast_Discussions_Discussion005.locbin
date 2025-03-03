@@ -1,0 +1,21 @@
+
+M
+Beast_000_f>{PlayerName}, I have a favor to ask. But it's... embarrassing.
+i
+Beast_001_fZMy fur is shedding, and I don't have any brushes here. Do you know where I could find one?
+=
+Player_000_choice_000_f"You could buy one from Mr. McDuck.
+1
+Player_000_choice_001_fYou should ask Minnie.
+H
+Player_000_choice_002_f-Have you considered shaving all your fur off?
+J
+Beast_002_f;Oh. Right. He does have many things in his shop. Thank you.
+2
+Beast_003_f#Yes. She would have one. Thank you.
+,
+Beast_004_fI tried that. Once. Long ago.
+^
+Beast_005_fOWhen I was first turned into... this, I tried many things to reverse the spell.
+
+Beast_006_fNothing worked.

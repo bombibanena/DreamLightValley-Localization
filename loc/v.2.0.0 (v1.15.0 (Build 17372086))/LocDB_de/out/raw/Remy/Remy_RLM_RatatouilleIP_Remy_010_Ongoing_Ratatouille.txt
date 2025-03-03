@@ -1,0 +1,24 @@
+TAG: Remy_000_f
+The critic is waiting for his <ActivityItem>Ratatouille</ActivityItem>!
+
+TAG: Remy_001_f
+<ActivityItem>Ratatouille</ActivityItem> made with a <ActivityItem>Tomato</ActivityItem>, three other specific vegetables, and a spice!
+
+TAG: Player_000_choice_000_f
+I need help! What's the exact recipe?
+
+TAG: Player_000_choice_001_f
+I'll figure it out on my own by experimenting!
+
+TAG: Remy_005_f
+You'll need <ActivityItem>a Tomato, an Eggplant, a Zucchini, an Onion, and any Spice</ActivityItem>!
+
+TAG: Remy_006_f
+Ooh, for the spice, might I recommend a little <ActivityItem>Basil</ActivityItem>?
+
+TAG: Remy_002_f
+I've watched you cook. You can do this.
+
+TAG: Remy_004_f
+When it's ready, put it on the Serving Hatch next to the door!
+

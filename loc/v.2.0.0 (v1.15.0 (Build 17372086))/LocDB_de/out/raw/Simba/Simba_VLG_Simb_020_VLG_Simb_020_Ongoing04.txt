@@ -1,0 +1,63 @@
+TAG: Simba_010_f
+Could we plant and grow some <ActivityItem>Carrots</ActivityItem> in the Meadow for the Rabbits? I know that'll make Nala feel better.
+
+TAG: Simba_001_f
+Oh, and you also wanted to feed some of the other animals in the Valley. Do you need some pointers on how to approach them?
+
+TAG: Player_000_choice_000_f
+Yes, please!
+
+TAG: Player_000_choice_001_f
+I'm good. Let's go feed some critters!
+
+TAG: Simba_002_f
+Great! Which creatures do you wanna know about?
+
+TAG: Player_001_choice_000_f
+The squirrels and sunbirds.
+
+TAG: Player_001_choice_001_f
+The rabbits or the foxes.
+
+TAG: Player_001_choice_002_f
+The baby turtles and the ravens.
+
+TAG: Player_001_choice_003_f
+The raccoons and crocodiles.
+
+TAG: Player_001_choice_004_f
+I'm good. Let's go feed some critters!
+
+TAG: Simba_003_f
+Oh, they don't fear anyone. They'll think you're a friend.
+
+TAG: Simba_000_f
+Just go to them. It won't be any trouble.
+
+TAG: Simba_004_f
+Oh, those guys love to run and play.
+
+TAG: Simba_011_f
+You'll have to join their game and catch them if you wanna give them food.
+
+TAG: Simba_005_f
+It's funny. You'd think turtles and ravens wouldn't have anything in common, but they do.
+
+TAG: Simba_006_f
+They're both shy, so it'll take time for them to get used to you.
+
+TAG: Simba_012_f
+Just stand near them calmly. That way, they'll know there's nothing to fear, and they'll relax.
+
+TAG: Simba_007_f
+Oh, they're the most wary of creatures in the Valley. You need to be pretty careful when you approach them...
+
+TAG: Simba_013_f
+When you see them watching their surroundings, stop moving.
+
+TAG: Simba_008_f
+Only move again when you see they're relaxed... but stop as soon as you see them about to stand on guard again.
+
+TAG: Simba_009_f
+Okay. And hey, don't hesitate to ask me again if you change your mind.
+

@@ -1,0 +1,83 @@
+
+�
+DVillage!Nightmare!Sally!VLG_Sall_020_Any_CompletedRequestDescriptionJСфотографируй Салли  и Джек Скеллингтон.
+j
+9Village!Nightmare!Sally!VLG_Sall_020_AvailableDescription-<smallcaps>{title}</smallcaps><br>Start Quest
+b
+>Village!Nightmare!Sally!VLG_Sall_020_CompletedStoryDescription Поговори с Салли .
+{
+0Village!Nightmare!Sally!VLG_Sall_020_DisplayNameGГоворят, что Салли  имеет в виду проект.
+�
+MVillage!Nightmare!Sally!VLG_Sall_020_Group01_Step01_Possess01_StepDescription�Компост Бин был перезаполнен, и теперь Майк Вазовски знает, что другие используют содержимое для других целей, возможно, он не так быстро очистит его во время полуночной перекуски...
+r
+MVillage!Nightmare!Sally!VLG_Sall_020_Group01_Step01_Possess02_StepDescription!Расслабься, расти.
+`
+MVillage!Nightmare!Sally!VLG_Sall_020_Group01_Step01_Possess03_StepDescriptionКирпичи.
+\
+MVillage!Nightmare!Sally!VLG_Sall_020_Group01_Step01_Possess04_StepDescriptionПочва.
+[
+CVillage!Nightmare!Sally!VLG_Sall_020_Group01_Step01_StepDescriptionТёмный лес.
+w
+CVillage!Nightmare!Sally!VLG_Sall_020_Group01_Step02_StepDescription0Овощные тримминги из Реми.
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group02_Step03_CraftItem01_StepDescriptionEСобирайте материалы для компост-бина.
+s
+OVillage!Nightmare!Sally!VLG_Sall_020_Group03_Step04_BringItem01_StepDescription Поговори с {TargetNPC}.
+u
+DVillage!Nightmare!Sally!VLG_Sall_020_Group03_Step04_ReadyDescription-Приготовить компост-бин.
+�
+=Village!Nightmare!Sally!VLG_Sall_020_Group03_StoryDescriptionUУбедитесь, что в вашем списке есть компост-бин.
+�
+UVillage!Nightmare!Sally!VLG_Sall_020_Group04_Step05_FollowCharacter01_StepDescriptionYПринесите компост-бин на Салли  в шахтах Виталий.
+�
+WVillage!Nightmare!Sally!VLG_Sall_020_Group04_Step05_FollowCharacter01_TalkToDescription�Салли  Хэллоуинские растения не растут хорошо в земле Dreamlight, но, возможно, с каким-то богатым компостом их будет легче выращивать.
+�
+MVillage!Nightmare!Sally!VLG_Sall_020_Group05_Step06_Possess05_StepDescriptionBСледуйте Салли  через шахты Виталий.
+q
+MVillage!Nightmare!Sally!VLG_Sall_020_Group05_Step06_Possess06_StepDescription Поговори с Салли .
+R
+CVillage!Nightmare!Sally!VLG_Sall_020_Group05_Step06_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_020_Group06_Step07_VisitArea01_StepDescription{itemName}.
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group07_Step08_BringItem02_StepDescriptionZСоберите следующие материалы из плато Солнцелит:
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group07_Step08_BringItem03_StepDescription�Возвращайтесь в шахты Виталий и поместите <ActivityItem>Dry Wood</ActivityItem> и <ActivityItem>Dried Plants</ActivityItem> в Компост-Бин.
+S
+DVillage!Nightmare!Sally!VLG_Sall_020_Group07_Step08_ReadyDescription{itemName}.
+R
+CVillage!Nightmare!Sally!VLG_Sall_020_Group07_Step08_StepDescription{itemName}.
+�
+MVillage!Nightmare!Sally!VLG_Sall_020_Group08_Step09_Possess07_StepDescriptionVПринесите материалы на Салли  в шахтах Виталий.
+�
+MVillage!Nightmare!Sally!VLG_Sall_020_Group08_Step09_Possess08_StepDescriptiontУбедитесь в том, что у вас в списке имеются следующие материалы:
+`
+MVillage!Nightmare!Sally!VLG_Sall_020_Group08_Step09_Possess09_StepDescriptionЛэндвуд.
+`
+MVillage!Nightmare!Sally!VLG_Sall_020_Group08_Step09_Possess10_StepDescriptionЧерника.
+e
+CVillage!Nightmare!Sally!VLG_Sall_020_Group08_Step09_StepDescriptionЖелезные слитки.
+[
+=Village!Nightmare!Sally!VLG_Sall_020_Group08_StoryDescriptionОсколки мечты.
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group09_Step10_CraftItem02_StepDescriptionWСобирайте материалы, чтобы сделать Криттер Лэп.
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group10_Step11_VisitArea02_StepDescription�Компост Бин выглядит хорошо, но какая-то таинственная тварь явно сбила его с толку и съела или съела содержимое...
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group11_Step12_BringItem04_StepDescription1Пересадка "Критер Ловушки".
+�
+DVillage!Nightmare!Sally!VLG_Sall_020_Group11_Step12_ReadyDescriptiondВозвращайся в шахты Виталий, чтобы установить ловушку.
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group12_Step13_BringItem05_StepDescriptionZУбедись, что у тебя в списке есть Криттер Ловушка.
+�
+DVillage!Nightmare!Sally!VLG_Sall_020_Group12_Step13_ReadyDescription_Принесите Криттер Ловушку в Салли  в шахтах Виталий.
+�
+OVillage!Nightmare!Sally!VLG_Sall_020_Group13_Step14_VisitArea03_StepDescription;Выкопай червей в Глэйде Доверия.
+�
+UVillage!Nightmare!Sally!VLG_Sall_020_Group14_Step15_TalkToCharacter02_StepDescription/Приведите червей в Салли .
+�
+LVillage!Nightmare!Sally!VLG_Sall_020_Group15_Step16_Listen01_StepDescription]Идите в шахты Виталий, чтобы проверить Компост Бин.
+�
+=Village!Nightmare!Sally!VLG_Sall_020_Group15_StoryDescriptionJМайк Вазовски пойман в ловушке Криттера?
+�
+7Village!Nightmare!Sally!VLG_Sall_020_StartRequestButton|Послушайте Салли , объясните её компостную установку Майк Вазовски.

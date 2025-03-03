@@ -1,0 +1,48 @@
+TAG: Remy_002_f
+Ah, {PlayerName}. So, what plan are you cooking up today?
+
+TAG: Player_000_f
+Simba wants to throw a gathering, and I want to bring him some food. I want something...
+
+TAG: Player_000_choice_000_f
+...easy to eat.
+
+TAG: Player_000_choice_001_f
+...perfect for a large group.
+
+TAG: Player_000_choice_002_f
+...that screams "FUN."
+
+TAG: Remy_003_f
+Right... like finger foods, or paw foods...
+
+TAG: Remy_014_f
+Maybe you can figure out the last Ingredient?
+
+TAG: Remy_006_f
+Oh, I've got it! A <ActivityItem>Large Seafood Platter</ActivityItem> would be perfect!
+
+TAG: Remy_010_f
+Here, take the recipe in case you still don't know how to prepare it.
+
+TAG: Remy_011_f
+Thanks, Remy!
+
+TAG: Remy_007_f
+And for dessert, nothing beats a monumental <ActivityItem>Cake</ActivityItem>!
+
+TAG: Remy_008_f
+I used to make one that would've been great, but...
+
+TAG: Remy_012_f
+I haven't located the recipe for it yet.
+
+TAG: Remy_013_f
+I remember it called for <ActivityItem>Eggs</ActivityItem>, <ActivityItem>Milk</ActivityItem>,<lw><ActivityItem>Fruit</ActivityItem>, <ActivityItem>Wheat</ActivityItem> and something sweet.
+
+TAG: Remy_004_f
+Okay, so we need a huge plate full of food that even a lion can eat...
+
+TAG: Remy_005_f
+Hmm... So we need something exciting, but something that even a lion can eat. That's a tough one...
+

@@ -1,0 +1,9 @@
+TAG: Merlin_001_f
+You can now visit the Floating Islands above the Valley, {PlayerName}.
+
+TAG: Merlin_002_f
+All you need to do is <Lore>visit any Wishing Well</Lore> and choose your destination.
+
+TAG: Merlin_003_f
+Once there, you can <Lore>decorate</Lore> and... ahem... <Lore>relocate my Library</Lore>, perhaps?
+

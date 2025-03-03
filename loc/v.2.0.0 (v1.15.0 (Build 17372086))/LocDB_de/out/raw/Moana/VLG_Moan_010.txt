@@ -1,0 +1,81 @@
+TAG: Village!Moana!Moana!VLG_Moan_010_AvailableDescription
+Moana arrived in the Village, and now she's ready to help you fish.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_DisplayName
+Fixing the Boat
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group01_Step01_FollowCharacter01_StepDescription
+Follow Moana to the Broken Boat.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group01_StoryDescription
+She's found a Broken Boat on Dazzle Beach and wants to show it to you.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group02_StepDescription
+Talk to Moana about fixing the boat.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group03_Step03_Possess01_StepDescription
+<ActivityItem>Softwood</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group03_Step03_Possess02_StepDescription
+<ActivityItem>Fiber</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group03_Step03_Possess03_StepDescription
+<ActivityItem>Pink Hydrangea</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group03_StepDescription
+Gather the following items to fix the Broken Boat:
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group03_StoryDescription
+She wants to fix the boat and you agree to help her.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group04_Step07_FollowCharacter02_StepDescription
+Meet Moana at the Broken Boat.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group05_Step05_CraftItem01_StepDescription
+<ActivityItem>Rustic Wooden Case</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group05_Step05_CraftItem04_StepDescription
+<ActivityItem>Baskets</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group05_Step05_CraftItem05_StepDescription
+<ActivityItem>Ropes</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group05_StepDescription
+Craft the following items to fix the Broken Boat:
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What just happened?
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group06_Step06_ReadyDescription
+Give the strange object to Moana.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group06_Step06_StepDescription
+Pick up the strange object near Moana's boat on Dazzle Beach.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group06_StepDescription
+A strange object appeared after fixing the boat.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group06_StoryDescription
+After you bring her all the necessary materials, Moana repairs the boat and a strange object appears next to it. Maybe she knows more about it.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do we need?
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group07_Step08_BringItem04_StepDescription
+<ActivityItem>Rope</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group07_Step08_BringItem05_StepDescription
+<ActivityItem>Basket</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group07_Step08_BringItem06_StepDescription
+<ActivityItem>Rustic Wooden Case</ActivityItem>.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group07_Step08_ReadyDescription
+Give the items you gathered to Moana.
+
+TAG: Village!Moana!Moana!VLG_Moan_010_Group07_Step08_StepDescription
+Gather the following items to fix the Broken Boat:
+
+TAG: Village!Moana!Moana!VLG_Moan_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

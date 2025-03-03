@@ -1,0 +1,31 @@
+
+�
+BVillage!Mickey!Mickey!VLG_Mick_010_Any_CompletedRequestDescription<Посмотрим, что думает Микки Маус.
+�
+7Village!Mickey!Mickey!VLG_Mick_010_AvailableDescriptionRМикки Маус хочет сделать кое-что для Виллидж.
+�
+<Village!Mickey!Mickey!VLG_Mick_010_CompletedStoryDescription�После монтажа и установки скворечника в Виллидж, пришло время выяснить, нравится ли ему Микки Маус.
+Y
+.Village!Mickey!Mickey!VLG_Mick_010_DisplayName'Зависать с Микки Маус
+
+?Village!Mickey!Mickey!VLG_Mick_010_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что нам нужно?
+Z
+KVillage!Mickey!Mickey!VLG_Mick_010_Group01_Step01_Possess01_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Mickey!VLG_Mick_010_Group01_Step01_Possess02_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Mickey!VLG_Mick_010_Group01_Step01_Possess03_StepDescription{ItemName}.
+�
+:Village!Mickey!Mickey!VLG_Mick_010_Group01_StepDescriptionaНайдите материалы для Талл-Бёрдхауса вокруг деревни.
+�
+;Village!Mickey!Mickey!VLG_Mick_010_Group01_StoryDescription�Он объясняет, что хочет убедиться, что Долина снова приветствуется, наполняя ее птичьим птичьим птичком, и если вам нужны птицы, вам нужно построить птичий домик.
+z
+?Village!Mickey!Mickey!VLG_Mick_010_Group02_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+MVillage!Mickey!Mickey!VLG_Mick_010_Group02_Step02_CraftItem01_StepDescription1Подготовьте Толл Бёрдхаус.
+�
+?Village!Mickey!Mickey!VLG_Mick_010_Group03_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+�
+LVillage!Mickey!Mickey!VLG_Mick_010_Group03_Step03_Decorate01_StepDescription?Поместите Толл Бёрдхаус в Виллидж.
+f
+5Village!Mickey!Mickey!VLG_Mick_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

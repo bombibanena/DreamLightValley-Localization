@@ -1,0 +1,59 @@
+
+,
+Donald_001_fHey, Donald, check this out.
+!
+Donald_000_fHuh? What's this?
+)
+Donald_002_fWAK! It's a note from me!
+v
+Donald_003_ffI mean, me in the past. Even before the Forgetting, I left myself notes so I'd always remember things.
+/
+Player_000_choice_000_fThat's a good habit.
+&
+Player_000_choice_001_fYou're odd.
+)
+Player_000_choice_002_fWhat's it say?
++
+Donald_006_fYeah, I've got tons of 'em!
+[
+Donald_008_fKC'mon, let's read the note and see what I wanted to be sure I'd remember...
+^
+Donald_010_fNIt's a reminder that I was planning to build something in the Forgotten Lands.
+Q
+Player_001_choice_000_f6That place could sure use some work to brighten it up.
+M
+Player_001_choice_001_f2Why would you build something in that awful place?
++
+Donald_011_fThat's just what I thought.
+U
+Donald_020_fEIt says I buried the instructions for how to make the fountain there.
+6
+Donald_005_f&Umm... You lead the way, {PlayerName}.
+d
+Donald_017_fTIt's not that I'm scared of the Forgotten Lands but... um... it's your turn to lead!
+$
+Donald_018_fSure, I can do that.
+
+Donald_023_fPhew!
+O
+Donald_019_f?All right then. Follow me. Let's go search the Forgotten Lands.
+P
+Donald_025_f@Hey, I wonder if it was that fountain we found the pieces for...
+$
+Donald_024_fWAK! I remember now!
+[
+Donald_013_fKI was planning to build a <ActivityItem>Dreamlight Fountain</ActivityItem>.
+$
+Donald_014_fThat sounds amazing!
+'
+Donald_015_fSo how do we finish it?
+>
+Donald_016_f.We have to find the rest of my instructions...
+k
+Donald_004_f[My note says there's another campsite in the Forgotten Lands <Lore>near the Ruins</Lore>...
+P
+Donald_009_f@That must be near where you were planning to build the fountain.
+8
+Donald_012_f(Why do you think? To make it LESS awful.
+D
+Donald_007_f4No, I'm not! Haven't you ever heard of a to-do list?

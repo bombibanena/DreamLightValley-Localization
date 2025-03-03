@@ -1,0 +1,111 @@
+TAG: Merlin_004_f
+Ah, I see you've solved the problem with the river on the Sunlit Plateau.
+
+TAG: Merlin_005_f
+But by the look on your face, I know there's something else bothering you. Come on, out with it!
+
+TAG: Merlin_006_f
+As I was coming out of the Vitalys Mines, I saw the Forgotten...
+
+TAG: Merlin_009_f
+Astounding! Well, don't stop there. What happened next?
+
+TAG: Merlin_019_f
+The Forgotten dropped this.
+
+TAG: Merlin_028_f
+Well yes, but there's no reason we can't help out nature with a bit of magical nurture.
+
+TAG: Merlin_029_f
+Huh? What do you mean?
+
+TAG: Merlin_030_f
+I've finally remembered what we used to get from the Vitalys Mines. It wasn't rare gems or precious metals...
+
+TAG: Merlin_031_f
+<Lore>There are crystals that grow there.</Lore> When combined with a few other magical ingredients, they <Lore>bring life to the flora around the Village</Lore> at much greater speeds.
+
+TAG: Merlin_032_f
+What might have taken months will take mere days.
+
+TAG: Merlin_034_f
+Now, first you'll have to <Lore>dig up some <ActivityItem>Vitalys Crystals</ActivityItem> from the mines</Lore>.
+
+TAG: Merlin_033_f
+Then <Lore>use them to create the <ActivityItem>Miracle Growth Elixir</ActivityItem></Lore>. I took it upon myself to find the recipe after we spoke earlier.
+
+TAG: Merlin_037_f
+Once you've done all that, speak to me, and I'll tell you the next step.
+
+TAG: Merlin_020_f
+Ahh! The <ActivityItem>Orb of Nurturing</ActivityItem>!
+
+TAG: Merlin_021_f
+With this, we can restore the Pillar on the Sunlit Plateau.
+
+TAG: Merlin_022_f
+Not so fast. Something's wrong with it. It's all dim inside...
+
+TAG: Merlin_024_f
+Yes, I see... Well, this <ActivityItem>Orb</ActivityItem> feeds off of <Lore>natural life</Lore>.
+
+TAG: Merlin_025_f
+When you first placed it in the Pillar on the Sunlit Plateau, it took quite a long time to thrive. But once it did, it turned a dry desert into a lush oasis.
+
+TAG: Merlin_026_f
+You must plant it in the ground before the Pillar, and let nature take its course.
+
+TAG: Merlin_027_f
+Sounds like that's going to take a while...
+
+TAG: Merlin_007_f
+Merlin, the Forgotten looked just like... like...
+
+TAG: Merlin_000_f
+...me.
+
+TAG: Merlin_008_f
+... Like you?
+
+TAG: Merlin_010_f
+Oh dear. This is very perplexing, {PlayerName}. Let me consider this...
+
+TAG: Merlin_011_f
+... Well, it's possible that the Forgotten is a splinter of yourself that stayed behind when you left the Valley long ago.
+
+TAG: Player_001_choice_000_f
+A splinter of myself...? How?
+
+TAG: Player_001_choice_001_f
+Merlin... is this all my fault?
+
+TAG: Player_001_choice_002_f
+We have to fix this.
+
+TAG: Merlin_002_f
+As we grow up, there are always parts of ourselves that we leave behind, pieces of us that no longer... I suppose you could say... fit.
+
+TAG: Merlin_003_f
+But just because we're finished with a part of ourselves, it doesn't mean that part of ourselves is finished with us.
+
+TAG: Merlin_023_f
+In your case, this may all be manifesting itself a bit more... literally.
+
+TAG: Merlin_013_f
+No, no, {PlayerName}. I assure you, none of this is your fault.
+
+TAG: Merlin_014_f
+Cause and effect is... tricky. The simplest action can lead to unexpected reactions.
+
+TAG: Merlin_016_f
+And here in the Valley, things are especially complicated.
+
+TAG: Merlin_015_f
+All that matters is what you hold in your heart. We all know that you only want what's best for the Village.
+
+TAG: Merlin_012_f
+Well, I've always known that the key to restoring our Valley lies with you, {PlayerName}.
+
+TAG: Merlin_017_f
+Well, speaking of restoring Dreamlight Valley...
+

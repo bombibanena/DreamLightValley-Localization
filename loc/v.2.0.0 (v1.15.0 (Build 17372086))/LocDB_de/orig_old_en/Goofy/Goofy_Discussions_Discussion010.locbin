@@ -1,0 +1,35 @@
+
+^
+Goofy_000_fOYa know, Uncle Scrooge is a swell neighbor. He's been giving me lots of advice.
+”
+Goofy_001_f„But sometimes I'm not sure what he's talkin' about. When he starts up about dividends and returns on investments, he kinda loses me.
+;
+Player_000_choice_000_f It's nice of him to try to help!
+D
+Player_000_choice_001_f)You sure he's not trying to sabotage you?
+
+Goofy_002_fYou bet it is!
+/
+Goofy_004_f Sure, Uncle Scrooge likes money.
+K
+Goofy_005_f<Makin' money, and countin' money, and talkin' about money...
+I
+Goofy_006_f:But he's got a great big heart. Some folks don't see that.
+5
+Player_001_choice_000_fI agree. Scrooge is great.
+9
+Player_001_choice_001_fI think Scrooge is too greedy.
+:
+Player_001_choice_002_fI don't know Scrooge that well.
+
+Goofy_008_fHe sure is!
+<
+Goofy_009_f-Well, like I said, he does love makin' money.
+I
+Goofy_011_f:But he's also real generous and always helps out his pals.
+9
+Goofy_010_f*Gawrsh, you should get to know him better!
+<
+Goofy_012_f-I bet you two will become friends in no time.
+I
+Goofy_003_f:Huh? You mean 'cause we both run stores? I don't think so.

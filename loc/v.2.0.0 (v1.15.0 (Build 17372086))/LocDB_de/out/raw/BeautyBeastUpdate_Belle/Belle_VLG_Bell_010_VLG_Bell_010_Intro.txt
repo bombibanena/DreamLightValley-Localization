@@ -1,0 +1,60 @@
+TAG: Player_000_choice_000_f
+Of course.
+
+TAG: Player_000_choice_001_f
+Sorry, I'm already "booked" elsewhere.
+
+TAG: Belle_002_f
+Well, you see... when I came to your Valley, I had to pack lightly.
+
+TAG: Belle_004_f
+So, I could only bring a few books.
+
+TAG: Belle_005_f
+And I've already read most of them.
+
+TAG: Belle_014_f
+I'd like to read something new, so I asked Merlin if I could borrow from the Dreamlight Library.
+
+TAG: Belle_007_f
+But he said no. He explained that too many books have been borrowed in the past and not returned.
+
+TAG: Player_002_choice_000_f
+But the library should be open to everyone!
+
+TAG: Player_002_choice_001_f
+How many books have gone missing exactly...?
+
+TAG: Player_002_choice_002_f
+I know Merlin practically lives in there... but those books belong to all of us.
+
+TAG: Belle_006_f
+Merlin agrees, but he's rather frustrated with the situation and doesn't want to lose any more books.
+
+TAG: Belle_010_f
+I'd like to make sure that the Library reopens, so I was wondering if you could help me locate some of the missing <ActivityItem>Books</ActivityItem> and bring them back.
+
+TAG: Belle_011_f
+I can help you with that.
+
+TAG: Belle_012_f
+That's wonderful! Thank you. Now, why don't I get half of the <ActivityItem>Books</ActivityItem> from the list, while you get the other half.
+
+TAG: Belle_015_f
+Could you <Lore>go see Goofy, Mirabel, Mr. McDuck, and Remy</Lore> and ask for their library books back?
+
+TAG: Belle_008_f
+Actually, a lot. Merlin is very frustrated.
+
+TAG: Belle_013_f
+I think he feels like it's his responsibility to watch over the books. And he's rather frustrated.
+
+TAG: Belle_000_f
+Bonjour, {PlayerName}. Would you have time to help me with a small book-related problem?
+
+TAG: Belle_001_f
+Booked... Oh, I like that.
+
+TAG: Belle_003_f
+If you do have time soon, please come see me.
+

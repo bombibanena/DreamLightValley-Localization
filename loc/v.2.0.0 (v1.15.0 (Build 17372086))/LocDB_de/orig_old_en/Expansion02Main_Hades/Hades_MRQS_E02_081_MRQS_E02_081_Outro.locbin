@@ -1,0 +1,57 @@
+
+9
+Hades_000_f*That was some adequate work, {PlayerName}.
+Q
+Hades_006_fBAnd just to show you I'm all about your development as a minion...
+b
+Hades_012_fSI'm promoting you again! You're going from associate minion to intermediate minion.
+E
+Player_001_choice_000_f*How about "director of minion operations"?
+K
+Player_001_choice_001_f0I deserve to at least be "senior minion" by now.
+C
+Player_001_choice_002_f(For the last time. I am NOT your minion.
+•
+Hades_019_f…Take my word for it, kid. You're a great contributor. Don't be too eager to get into management. You would not believe the headaches!
+g
+Hades_001_fXNow, it looks like the rest of the torches around the gate to Mount Olympus have lit up!
+L
+Hades_002_f=And since you already cleared all the ink blocking the way...
+}
+Hades_003_fnIt's time to head inside the palace on Mount Olympus. Which is great! Don't get me wrong. Except for the mess.
+P
+Hades_004_fAYou've got your work cut out for ya, {PlayerName}. So, get to it!
+S
+Hades_005_fDBut first, you're gonna have to clear all that ink blocking the way.
+h
+Hades_007_fYOh, hey! Looks like another one of those torches around the gate to Mount Olympus lit up.
+\
+Hades_018_fMWhich means we need to find one more of these Mythic Trials to open the gate.
+G
+Hades_008_f8Try <Lore>investigating the Colossus</Lore> to the west.
+g
+Hades_009_fXYou'll have to start by <Lore>clearing away all the ink</Lore> around the place, though.
+‰
+Hades_010_fzYou already cleared away the ink blocking <Lore>the Colossus</Lore>. So try looking around there for another Mythic Trial.
+m
+Hades_020_f^Ambition noted, but you gotta start small and work your way up. It's business; what can I say?
+W
+Hades_021_fH*sigh* Look, fine. At your next annual review, we can talk title change.
+O
+Hades_022_f@Flunky, lackey, henchperson, whatever. We'll work something out.
+@
+Hades_011_f1Tell you what. I think it's time for a promotion.
+H
+Hades_013_f9I'm moving you up from junior minion to associate minion.
+>
+Player_000_choice_000_f#Do I have any new responsibilities?
+8
+Player_000_choice_001_fWill there be a pay increase?
+6
+Player_000_choice_002_fI'm not your minion, Hades.
+O
+Hades_015_f@Obviously. I expect you to work at least twice as hard. Minimum.
+Z
+Hades_016_fKYeah, afraid not. But really, you're in this for the experience, aren't ya?
+9
+Hades_017_f*With that attitude, you won't be for long.

@@ -1,0 +1,69 @@
+
+–
+CVillage!Nightmare!JackSkellington!VLG_Jack_020_AvailableDescriptionàNow that Jack Skellington has had time to settle into the Valley, he seems to have come up with a new goal ‚Äî maybe he needs some help.
+∫
+HVillage!Nightmare!JackSkellington!VLG_Jack_020_CompletedStoryDescriptionÌThe Giant Night Thorn has been dealt with, leaving only a tiny Night Thorn that Jack Skellington thinks has been purged of Dark Magic. Maybe he can use this in the future to understand the mystery of holiday magic in Dreamlight Valley...
+S
+:Village!Nightmare!JackSkellington!VLG_Jack_020_DisplayNameThe Scientific Method
+{
+YVillage!Nightmare!JackSkellington!VLG_Jack_020_Group01_Step01_VisitArea01_StepDescriptionHead inside the Vitalys Mines.
+é
+_Village!Nightmare!JackSkellington!VLG_Jack_020_Group02_Step02_TalkToCharacter01_StepDescription+Find Jack Skellington in the Vitalys Mines.
+f
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group03_Step03_Possess01_StepDescription{itemName}.
+f
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group03_Step03_Possess02_StepDescription{itemName}.
+f
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group03_Step03_Possess03_StepDescription{itemName}.
+f
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group03_Step03_Possess04_StepDescription{itemName}.
+f
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group03_Step03_Possess05_StepDescription{itemName}.
+p
+MVillage!Nightmare!JackSkellington!VLG_Jack_020_Group03_Step03_StepDescriptionGather the following materials:
+Ω
+GVillage!Nightmare!JackSkellington!VLG_Jack_020_Group03_StoryDescriptionrJack Skellington thinks he's found a location that would make for a perfect laboratory, but now he needs supplies!
+t
+YVillage!Nightmare!JackSkellington!VLG_Jack_020_Group04_Step04_CraftItem01_StepDescriptionCraft a Scientific Kit.
+
+NVillage!Nightmare!JackSkellington!VLG_Jack_020_Group05_Step05_ReadyDescription-Bring the Scientific Kit to Jack Skellington.
+â
+MVillage!Nightmare!JackSkellington!VLG_Jack_020_Group05_Step05_StepDescription8Make sure you have the Scientific Kit in your Inventory.
+ë
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group06_Step06_Possess06_StepDescription6Gather some <ActivityItem>Night Shards</ActivityItem>.
+˙
+GVillage!Nightmare!JackSkellington!VLG_Jack_020_Group06_StoryDescriptionÆWhile you were gathering supplies for Jack Skellington, he was getting a crash course on magical objects from Merlin and now has an interest in experimenting on Night Shards.
+{
+YVillage!Nightmare!JackSkellington!VLG_Jack_020_Group07_Step07_VisitArea02_StepDescriptionHead inside the Vitalys Mines.
+ë
+YVillage!Nightmare!JackSkellington!VLG_Jack_020_Group08_Step08_BringItem02_StepDescription4Make sure you have the {itemName} in your Inventory.
+í
+NVillage!Nightmare!JackSkellington!VLG_Jack_020_Group08_Step08_ReadyDescription@Bring the Night Shards to Jack Skellington in the Vitalys Mines.
+r
+_Village!Nightmare!JackSkellington!VLG_Jack_020_Group09_Step09_TalkToCharacter02_StepDescriptionTalk to Merlin.
+Ÿ
+GVillage!Nightmare!JackSkellington!VLG_Jack_020_Group09_StoryDescriptionçJack Skellington thought he had a breakthrough but inadvertently created a Giant Night Thorn. Maybe Merlin has a tip for dealing with this...
+i
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group10_Step10_Possess07_StepDescriptionYellow Potion.
+h
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group10_Step10_Possess08_StepDescriptionGreen Potion.
+g
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group10_Step10_Possess09_StepDescriptionBlue Potion.
+i
+WVillage!Nightmare!JackSkellington!VLG_Jack_020_Group10_Step10_Possess10_StepDescriptionPurple Potion.
+v
+MVillage!Nightmare!JackSkellington!VLG_Jack_020_Group10_Step10_StepDescription%Find each potion in Merlin's library.
+«
+GVillage!Nightmare!JackSkellington!VLG_Jack_020_Group10_StoryDescription|Luckily, Merlin has just the potion to deal with the Giant Night Thorn... if only you could figure out the right one to use.
+’
+[Village!Nightmare!JackSkellington!VLG_Jack_020_Group11_Step11_FillKeyhole01_StepDescriptionvMerlin said that the correct potion is the opposite of a Night Thorn ‚Äî place the right one on the Giant Night Thorn.
+p
+_Village!Nightmare!JackSkellington!VLG_Jack_020_Group12_Step12_TalkToCharacter03_StepDescriptionTalk to Jack.
+
+YVillage!Nightmare!JackSkellington!VLG_Jack_020_Group13_Step13_BringItem03_StepDescription"A {itemName} appeared. Pick it up.
+{
+NVillage!Nightmare!JackSkellington!VLG_Jack_020_Group13_Step13_ReadyDescription)Bring the {itemName} to Jack Skellington.
+π
+GVillage!Nightmare!JackSkellington!VLG_Jack_020_Group13_StoryDescriptionnYou've figured out the correct potion to use to deal with the Giant Night Thorn! But what's this that remains?
+r
+AVillage!Nightmare!JackSkellington!VLG_Jack_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,165 @@
+TAG: Aladdin!Jafar_DisplayName
+Джафар
+
+TAG: BeautyBeast!Cogsworth_DisplayName
+Когсворт
+
+TAG: BeautyBeast!Gaston_DisplayName
+Гастон
+
+TAG: BeautyBeast!Lumiere_DisplayName
+Люмьер
+
+TAG: Cinderella!Cinderella_Description_000
+Снимается с доски в начале пятого поворота.
+
+TAG: Cinderella!Cinderella_DisplayName
+Золушка
+
+TAG: Cinderella!FairyG_Description_000
+Дает +1 драку всем соседним фигуркам союзников в конце ее движения.
+
+TAG: Cinderella!FairyG_DisplayName
+Крёстная фея
+
+TAG: Frozen!Anna_DisplayName
+Анна
+
+TAG: Frozen!Elsa_Description_000
+Оставляя ледяные пятна на плитке, она проходит. Любая фигурка, пересекающая ледяной патрубок, сползает к следующей плитке (это не влияет на символы, которые"прыжок").
+
+TAG: Frozen!Elsa_DisplayName
+Эльза
+
+TAG: Frozen!Kristoff_DisplayName
+Кристофф
+
+TAG: Frozen!Olaf_DisplayName
+Олаф
+
+TAG: LiloStitch!Stitch_Description_000
+Может пройти через стены и уничтожить их.
+
+TAG: LiloStitch!Stitch_DisplayName
+Стич
+
+TAG: LionKing!Nala_DisplayName
+Нала
+
+TAG: LionKing!Pumbaa_Description_001
+Уничтожает все окружающие стены в конце его движения.
+
+TAG: LionKing!Pumbaa_DisplayName
+Пумба
+
+TAG: LionKing!Rafiki_Description_000
+Вытаскивает все близлежащие фигурки на 1 плитку в конце его движения.
+
+TAG: LionKing!Rafiki_DisplayName
+Рафики
+
+TAG: LionKing!Scar_Description_000
+Другая фигурка удаляется с доски и возвращается к игроку.
+
+TAG: LionKing!Scar_DisplayName
+Шрам
+
+TAG: LionKing!Simba_DisplayName
+Симба
+
+TAG: Mermaid!Ursula_Description_000
+Дает -1 мешок движения всем соседним оппонентским фигуркам в конце ее движения.
+
+TAG: Mermaid!Ursula_DisplayName
+Урсула
+
+TAG: Mickey!Daisy_Description_000
+Можете закончить движение на той же плитке, что и на другой фигурке. Фигурина на занятой плитке отправляется на оригинальную плитку Дейзи в начале ее поворота. Одна монета украдена у оппонента.
+
+TAG: Mickey!Daisy_DisplayName
+Дейзи
+
+TAG: Mickey!Donald_DisplayName
+Дональд Дак
+
+TAG: Mickey!Goofy_DisplayName
+Гуфи
+
+TAG: Mickey!Mickey_DisplayName
+Микки Маус
+
+TAG: Mickey!Minnie_DisplayName
+Минни Маус
+
+TAG: Mickey!Scrooge_Description_000
+Получает одну дополнительную монету в конце каждого поворота.
+
+TAG: Mickey!Scrooge_DisplayName
+Скрудж Макдак McDuck
+
+TAG: Moana!Moana_Description_000
+Увеличивает движение на 1 на каждый поворот на доске.
+
+TAG: Moana!Moana_DisplayName
+Моана
+
+TAG: MonsterInc!MikeWazowski_Description_000
+В конце своего движения он дает +1 коллекционный манёвр случайному союзнику в пределах 1-ти калибра. Закупоренные фигурки собирают +2 монеты вместо +1 монеты OR +4 вместо +3 монет.
+
+TAG: MonsterInc!MikeWazowski_DisplayName
+Майк Вазовски
+
+TAG: MonsterInc!Sulley_Description_000
+Если противостоящая фигурка выталкивается на плитку с монетой, игрок собирает символ(ы).
+
+TAG: MonsterInc!Sulley_DisplayName
+Салли
+
+TAG: Oswald!Oswald_Description_000
+Движение, которое не собирает монеты, заканчивается поворотом этой фигурки.
+
+TAG: Oswald!Oswald_DisplayName
+Освальд
+
+TAG: Ralph!Ralph_Description_000
+Уничтожает все окружающие препятствия в конце его движения.
+
+TAG: Ralph!Ralph_DisplayName
+Ральф
+
+TAG: Ratatouille!Remy_DisplayName
+Реми
+
+TAG: SwordInStone!Merlin_Description_000
+В начале своей очереди он изменяет одну серебряную монету в пределах своих возможностей на одну золотую монету.
+
+TAG: SwordInStone!Merlin_DisplayName
+Мерлин
+
+TAG: Tangled!Flynn_Description_001
+Кладет серебряную монету на его прежнюю плитку в конце его движения.
+
+TAG: Tangled!Flynn_DisplayName
+Флин
+
+TAG: Tangled!Rapunzel_Description_000
+Собирает до трех монет из соседней плитки в конце ее движения.
+
+TAG: Tangled!Rapunzel_DisplayName
+Рапунцель
+
+TAG: ToyStory!Forky_Description_001
+В конце концов, он снимает себя с доски и больше не может играть.
+
+TAG: ToyStory!Forky_DisplayName
+Фокки
+
+TAG: Walle!EVE_DisplayName
+ЕВА
+
+TAG: Walle!WallE_Description_000
+В конце своего движения он отталкивает все близлежащие фигурки на 1 плитку.
+
+TAG: Walle!WallE_DisplayName
+ВАЛЛ·И
+

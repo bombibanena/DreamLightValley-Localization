@@ -1,0 +1,131 @@
+
+0
+
+Olaf_000_f"You found them! You found my arms!
+:
+
+Olaf_001_f,Come here, little arms. Let me put you on...
+F
+
+Olaf_002_f8Oh, that's much better! I feel so "sticky." Hee-hee-hee.
+
+
+Olaf_003_f...
+0
+
+Olaf_004_f"Get it? 'Cause my arms are sticks?
+,
+Player_000_choice_000_fThat's hilarious.
+*
+Player_000_choice_001_fI don't get it.
+L
+Player_000_choice_002_f1You should "arm" yourself with some better jokes.
+&
+
+Olaf_005_fI thought you'd like it.
+G
+
+Olaf_006_f9Well, I didn't just find your arms. I also found the Orb.
+>
+
+Olaf_007_f0There's only one problem: It seems to be broken.
+.
+
+Olaf_008_f *gasp* No! What's wrong with it?
+J
+
+Olaf_009_f<The light inside it has gone out. The magic is just... gone.
+_
+
+Olaf_010_fQI don't think this is going to be enough to fix the Pillar and stop the blizzard.
+
+
+Olaf_011_f... Oh.
+C
+
+Olaf_012_f5I'm sorry, {PlayerName}. I wish I knew how to fix it.
+<
+Player_001_choice_000_f!I can fix this. I HAVE to fix it.
+/
+Player_001_choice_001_fThere must be a way.
+7
+Player_001_choice_002_fIt's hopeless. We're doomed.
+
+
+Olaf_013_fI just have to figure out the mystery... Maybe there's a book in Merlin's library... or another memory somewhere... or... or...
+
+
+Olaf_014_fAhem!
+i
+
+Olaf_015_f[I may not know how to fix the Orb, but I do know one thing that can make everything better.
+
+
+Olaf_016_fA warm hug.
+D
+
+Olaf_017_f6And now that I have my arms again, I can give you one!
+
+Player_002_fThanks, Olaf.
+3
+Player_002_choice_000_fI feel a lot better now.
+L
+Player_002_choice_001_f1I still feel awful, but I appreciate the thought.
+*
+
+Olaf_018_fYep. Warm hugs are the best.
+.
+
+Olaf_027_f Does this mean we saved the day?
+$
+
+Olaf_028_fAlmost, but not quite.
+U
+
+Olaf_029_fGI still need to <Lore>put this Orb back in the Pillar</Lore>. Let's go!
+
+
+Olaf_019_fWait a second...
+9
+
+Olaf_020_f+The Orb started to glow when you hugged me.
+}
+
+Olaf_021_foMerlin said he didn't know what virtue powered the Pillar in the Frosted Heights. But now I know. It must be...
+
+
+Olaf_022_f
+Warm hugs!
+)
+
+Olaf_023_fUh. Close. But not exactly.
+
+
+Olaf_024_fIt's love, Olaf.
+1
+
+Olaf_025_f#A simple act of love fixed the Orb.
+G
+
+Olaf_026_f9Oh. Then I guess I did know how to fix the Orb after all.
+8
+
+Olaf_030_f*Oh. Well, two hugs are even better thanâ€”
+5
+
+Olaf_031_f'Wait! I don't think I need another one.
+ 
+
+Olaf_032_f‘The blizzard's going to swallow up all of Dreamlight Valley, and nothing I do can fix this, and okay, maybe I'm freaking out just a little bitâ€”
+E
+
+Olaf_033_f7That's okay. Not everyone gets sophisticated word play.
+p
+
+Olaf_034_fbYou're probably right. I haven't had anyone to practice my jokes on since I've been stuck in here.
+&
+
+Olaf_035_fHey, wait. "Arm" myself?
+C
+
+Olaf_036_f5That's brilliant! I will definitely have to use that.

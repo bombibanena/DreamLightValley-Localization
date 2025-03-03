@@ -1,0 +1,54 @@
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Any_CompletedRequestDescription
+Поговори с Микки Маус.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_AvailableDescription
+Микки Маус ищет тебя, чтобы поговорить о чем-то важном.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_CompletedStoryDescription
+Минни Маус был там только для того, чтобы исчезнуть снова. Возвращение ее в долину Мечты займет больше, чем несколько дискуссий. Микки Маус будет знать, что делать дальше...
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_DisplayName
+Тени и луки
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что ты хочешь, чтобы я сделал?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Гуфи.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_Step01_TalkToCharacter04_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_StepDescription
+Спросите друзей о их любимой памяти Минни Маус.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group01_StoryDescription
+Он хочет вернуть Минни Маус, и способ помочь ей - это убедиться, что ее друзья в деревне думают о ней.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мы делаем?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group03_Step03_TalkToCharacter02_StepDescription
+Это Минни Маус! Попробуй поговорить с ней.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group03_StoryDescription
+Это сработало! Минни Маус появился благодаря вашей тяжелой работе.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что ты делаешь сейчас?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group04_Step04_Listen01_StepDescription
+Пусть Микки Маус и Минни Маус говорят.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group06_Step06_TalkToCharacter03_StepDescription
+Поговори с Микки Маус.
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_Group07_Step07_FollowCharacter01_StepDescription
+Следуйте за Микки Маус до колодца Желаний на городской площади!
+
+TAG: Village!Mickey!Mickey!VLG_Mick_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

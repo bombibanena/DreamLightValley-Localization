@@ -1,0 +1,75 @@
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_AvailableDescription
+Урсула в одном из ее редких настроений, может, если ты поговоришь с ней, она будет готова поделиться секретом того, что случилось с Принц Эрик.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_DisplayName
+Сделка с Урсула
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group01_Step01_VisitArea01_StepDescription
+Расследуйте руины в забытых землях.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group01_StoryDescription
+Морская Ведьма показывает, что она держит Принц Эрик как"гость"Она готова освободить его в обмен на все, что ты сможешь привести ее из руин в забытых землях.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group02_Step03_Possess02_StepDescription
+Возьмите <ActivityItem>Dark Crystal</ActivityItem> с пьедестала.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group04_Step04_FillKeyhole01_StepDescription
+Первый пьедестал.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group04_Step04_FillKeyhole05_StepDescription
+Второй пьедестал.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group04_Step04_FillKeyhole06_StepDescription
+Третий пьедестал.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group04_Step04_FillKeyhole07_StepDescription
+Четвертый пьедестал.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group04_StepDescription
+Поместите <ActivityItem>Crystals</ActivityItem> на педесталы в руинах забытых земель:
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group04_StoryDescription
+Как только вы найдете все <ActivityItem>Crystals</ActivityItem>, вам придется поместить их на пьедесталы в Забытых землях.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group06_StepDescription
+Найдите остальные <ActivityItem>Crystals</ActivityItem> в деревне.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group06_StoryDescription
+Вы узнаете, что есть еще три <ActivityItem>Dark Crystals</ActivityItem>, которые нужно найти, разбросанные по деревне.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group10_Step11_ReadyDescription
+Принесите <ActivityItem>Magical Chrystal</ActivityItem> на Урсула, чтобы запечатать вашу сделку.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group10_Step11_StepDescription
+Возьмите появившийся <ActivityItem>Magical Chrystal</ActivityItem>.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group10_StoryDescription
+Ваши действия позволяют появиться новому <ActivityItem>Crystal</ActivityItem>. Будем надеяться, что Урсула верны ее слову и свободны Принц Эрик в обмен.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group11_StepDescription
+Приведите <ActivityItem>Dark Crystal</ActivityItem> на Урсула.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_Group11_StoryDescription
+Вы найдёте таинственный <ActivityItem>Dark Crystal</ActivityItem> в Забытых землях, чтобы принести Урсула.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_060_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

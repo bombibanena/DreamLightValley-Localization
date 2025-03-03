@@ -1,0 +1,81 @@
+
+˜
+
+Scar_006_f‰Oh, goody. If it isn't our illustrious ruler descending from on high to mingle with the... commoners. What brings you to my humble abode?
+B
+Player_002_choice_000_f'I'm here to help. Do you need anything?
+<
+Player_002_choice_001_f!Never mind. I'll come back later.
+3
+
+Scar_005_f%How magnanimous of you, {PlayerName}.
+?
+
+Scar_001_f1But perhaps you should start by helping yourself.
+‹
+
+Scar_000_f}For someone who's supposed to be the ruler of this Valley, you look rather shabby. Are the tributes not what they used to be?
+G
+Player_000_choice_007_f,I could make myself a little more stylish...
+8
+Player_000_choice_008_fYou don't like my clothes...?
+9
+Player_000_choice_009_fThere's nothing wrong with me!
+$
+
+Scar_004_fI would if I were you.
+f
+
+Scar_010_fXYou lack a certain... dignity. Your coat is dull and ragged. Hardly worthy of a warthog.
+
+
+Scar_012_fsIf you want to rule over these lands and deal with me, the King of the Sunlit Plateau, you'll have to address that.
+M
+Player_004_f=So, I need to change my outfit to look a little more regal...
+(
+Player_000_choice_010_fI'll do that!
+,
+Player_000_choice_011_fHow do I do that?
+B
+Player_000_choice_012_f'I don't know if I can pull off "regal."
+0
+
+Scar_011_f"I'm quivering with anticipation...
+ˆ
+
+Scar_013_fzI can only assume there's someone around here responsible for making the coverings you wear on your strange, furless skin.
+Y
+
+Scar_015_fKHave them make you a coat fit for a leader who's worthy of meeting with me.
+)
+Player_001_fI'll ask Mother Gothel...
+1
+Player_001_choice_000_fShe's crafty that way.
+G
+Player_001_choice_001_f,I'd rather make a deal with her than Ursula.
+8
+Player_001_choice_002_fI don't think Merlin can sew.
++
+
+Scar_016_fThe female from the Glade...?
+X
+
+Scar_019_fJSuit yourself, {PlayerName}, but be wary she doesn't claw you in the back.
+W
+
+Scar_017_fII've never understood your obsession with all these deceptive schemers...
+4
+
+Scar_002_f&That's a little funny coming from you.
+A
+
+Scar_003_f3Oh, {PlayerName}. I'd never dream of deceiving you.
+i
+
+Scar_018_f[I've no idea what you're referring to, but I'm sure the blustering fool is incapable of it.
+~
+
+Scar_014_fpOh, "regal" is far too long a stretch... but with the right improvements, you might at least reach "acceptable."
+[
+
+Scar_007_fMRun along then. I'm sure you have oodles of hapless Villagers in need of aid.

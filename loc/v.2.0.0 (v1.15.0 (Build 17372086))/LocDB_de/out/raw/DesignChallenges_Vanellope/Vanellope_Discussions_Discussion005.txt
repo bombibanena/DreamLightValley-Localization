@@ -1,0 +1,288 @@
+TAG: Vanellope_042_f
+You call that a clue?!
+
+TAG: Vanellope_000_f
+Good idea! And I know just the game. I play it with my best buddy Ralph.
+
+TAG: Vanellope_001_f
+I spy with my little eye something that's... cute!
+
+TAG: Player_000_choice_000_f
+You.
+
+TAG: Player_000_choice_001_f
+The critters in the Valley!
+
+TAG: Player_000_choice_002_f
+Are you fishing for compliments?
+
+TAG: Vanellope_043_f
+Okay, I love a challenge!
+
+TAG: Vanellope_044_f
+Is it some kinda jewel...?
+
+TAG: Vanellope_045_f
+Gotcha. But I'm warnin' you, I'm gonna come up with some good ones!
+
+TAG: Vanellope_046_f
+Good to know my impeccable record speaks for itself!
+
+TAG: Vanellope_047_f
+Ha! I eat being underestimated for breakfast! It goes GREAT with cereal!
+
+TAG: Vanellope_048_f
+Not what I was thinking of, but now that you mention it... You think I could build a critter army with my princess charm?
+
+TAG: Player_012_choice_000_f
+Maybe stick to "I Spy" for fun...
+
+TAG: Player_012_choice_001_f
+To unleash a fury of fur and feathers?
+
+TAG: Player_012_choice_002_f
+You have charm? Since when?
+
+TAG: Vanellope_049_f
+Yeah, now that I think about it, I don't want all those squirrels following me around...
+
+TAG: Vanellope_050_f
+Naw, just for fun! Speaking of fun...
+
+TAG: Vanellope_051_f
+Ha-ha, good one! You have SEEN me, right?
+
+TAG: Vanellope_052_f
+The only fishing I wanna do is EXTREME fishing... for sharks!
+
+TAG: Vanellope_053_f
+Besides, I don't need compliments; I know I'm adorable!
+
+TAG: Player_013_choice_000_f
+So... you WERE the answer to the game?
+
+TAG: Player_013_choice_001_f
+The most adorable!
+
+TAG: Player_013_choice_002_f
+Wow, Vanellope. Wow.
+
+TAG: Vanellope_054_f
+Sure! But it wasn't a compliment: I was stating an obvious fact.
+
+TAG: Vanellope_055_f
+Aw, thanks, pal!
+
+TAG: Vanellope_056_f
+Hey, I'm just bein' honest!
+
+TAG: Vanellope_002_f
+Right-a-reeno! But don't let these baby hazels fool ya: I'm also a racing dynamo!
+
+TAG: Player_001_choice_000_f
+You can be cute AND a good racer!
+
+TAG: Player_001_choice_001_f
+Trust me, I know!
+
+TAG: Player_001_choice_002_f
+You don't look so tough.
+
+TAG: Vanellope_003_f
+Of course! You're looking at exhibit A!
+
+TAG: Vanellope_004_f
+C'mon, let's play another round. You pick something this time.
+
+TAG: Player_002_choice_000_f
+Yes! I'm ready!
+
+TAG: Player_002_choice_001_f
+Maybe some other time...
+
+TAG: Vanellope_005_f
+That's the spirit! Hit me with that clue!
+
+TAG: Player_003_f
+(Hmm, what should I pick?)
+
+TAG: Player_003_choice_000_f
+Maybe something red, like Vanellope's hair tie.
+
+TAG: Player_003_choice_001_f
+Maybe something stripy, like Vanellope's leggings.
+
+TAG: Player_003_choice_002_f
+Maybe something black, like Vanellope's boots.
+
+TAG: Vanellope_006_f
+I spy with my little eye somethiiiing that is RED!
+
+TAG: Vanellope_007_f
+Red... Hmm, any flowers around here?
+
+TAG: Player_004_choice_000_f
+Nope! Guess again!
+
+TAG: Player_004_choice_001_f
+Another hint... It's sweet.
+
+TAG: Player_004_choice_002_f
+The answer is over your head.
+
+TAG: Vanellope_008_f
+Red... Mickey's pants!
+
+TAG: Vanellope_009_f
+Nope! Guess again.
+
+TAG: Vanellope_010_f
+Huh...? This one's a real head scratcher...
+
+TAG: Player_005_choice_000_f
+It LOOKS edible.
+
+TAG: Player_005_choice_001_f
+It holds a lot of something.
+
+TAG: Player_005_choice_002_f
+Keep trying!
+
+TAG: Vanellope_011_f
+It only LOOKS edible?
+
+TAG: Vanellope_012_f
+You might be able to eat it. I don't know...
+
+TAG: Vanellope_013_f
+Apples? Raspberries? They're red and look edible unless you hate fruit!
+
+TAG: Player_006_choice_000_f
+You're wearing it.
+
+TAG: Player_006_choice_001_f
+Wrong again!
+
+TAG: Vanellope_014_f
+Red, looks edible, I'm wearing it... OH!
+
+TAG: Vanellope_015_f
+My licorice hair tie! Yes!
+
+TAG: Vanellope_016_f
+Wow! You are really good at this game!
+
+TAG: Vanellope_017_f
+Let's play again sometime!
+
+TAG: Vanellope_018_f
+I give up. What is it?!
+
+TAG: Player_007_choice_000_f
+Your licorice hair tie!
+
+TAG: Player_007_choice_001_f
+Can't tell you. Better luck next time!
+
+TAG: Vanellope_019_f
+Wow, you are tough! I respect that.
+
+TAG: Vanellope_020_f
+What?! This is so confusing!
+
+TAG: Vanellope_021_f
+Sheesh. There isn't a lot of red stuff around here...
+
+TAG: Vanellope_022_f
+Anna's hair? I mean, her HAIR isn't sweet but Anna is... right?
+
+TAG: Vanellope_023_f
+Over my head? An invisible kite that only you can see?
+
+TAG: Vanellope_024_f
+I spy with my little eye something that is... stripy!
+
+TAG: Vanellope_025_f
+Stripy? What an oh-so specific clue...
+
+TAG: Vanellope_026_f
+It's... my leggings! Ha! That was easy!
+
+TAG: Player_008_choice_000_f
+Nice work, Vanellope!
+
+TAG: Player_008_choice_001_f
+Aw, next time I'll make it tougher...
+
+TAG: Player_008_choice_002_f
+I made it easy on purpose!
+
+TAG: Vanellope_027_f
+Hey, that was fun!
+
+TAG: Vanellope_028_f
+It was still fun!
+
+TAG: Vanellope_029_f
+Okay, but next time, I want a REAL challenge!
+
+TAG: Vanellope_030_f
+I spy with my little eye something that is... black!
+
+TAG: Vanellope_031_f
+My hair!
+
+TAG: Player_009_choice_000_f
+Getting warmer...
+
+TAG: Player_009_choice_001_f
+Try doing some "sole" searching...
+
+TAG: Player_009_choice_002_f
+Um, no. Try again.
+
+TAG: Vanellope_032_f
+My skirt? No, that's brown...
+
+TAG: Vanellope_033_f
+How about another hint?
+
+TAG: Player_010_choice_000_f
+Look down.
+
+TAG: Player_010_choice_001_f
+It's BOOT-iful...
+
+TAG: Player_010_choice_002_f
+No hints! Guess again!
+
+TAG: Vanellope_034_f
+Downâ OH!
+
+TAG: Vanellope_035_f
+It's my boots! It's gotta be! Right?!
+
+TAG: Player_011_choice_000_f
+You're right!
+
+TAG: Player_011_choice_001_f
+Took you long enough!
+
+TAG: Vanellope_036_f
+All right! One point for me!
+
+TAG: Vanellope_037_f
+That was fun!
+
+TAG: Vanellope_038_f
+Hey, that was a trickier clue than I thought.
+
+TAG: Vanellope_039_f
+But kudos to you for challenging me! I'm pretty much an expert at this.
+
+TAG: Vanellope_040_f
+Huh... You said that funny... Why did youâ OH! I got it!
+
+TAG: Vanellope_041_f
+You're tough, hmm... OH!
+

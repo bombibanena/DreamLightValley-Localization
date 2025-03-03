@@ -1,0 +1,41 @@
+
+O
+Moana_002_f@Hey, {PlayerName}. What sort of adventure are we going on today?
+s
+Player_000_fcBuzz and I would like to invite you to join our new Star Command Academy here in Dreamlight Valley.
+<
+Player_000_choice_000_f!We need your wayfinder expertise.
+<
+Player_000_choice_001_f!You'd learn more about the stars.
+6
+Player_000_choice_002_fYou could help the Village.
+U
+Moana_003_fFIt sounds amazing, but I navigate by the stars, not through the stars.
+.
+Moana_008_fAre you sure I'd be a good fit?
+Z
+Player_001_fJYou left your island to save it when you didn't know much about sailing...
+<
+Player_001_choice_000_f!That's the definition of heroism.
+N
+Player_001_choice_001_f3You'll learn how to be a Space Ranger the same way.
+?
+Player_001_choice_002_f$That's the kind of boldness we need.
+>
+Moana_011_f/Huh. I guess I never thought about it that way.
+C
+Moana_014_f4And it does sound like an interesting new journey...
+4
+Moana_015_f%All right, {PlayerName}, I'll try it!
+W
+Moana_012_fHI did learn a lot about sailing after I was already out on the open sea.
+3
+Moana_013_f$Huh. It was kind of bold, wasn't it?
+-
+Moana_005_fReally? That would be amazing!
+X
+Moana_009_fIOh, but I'm really more of a sea voyager. Are you sure I'd be a good fit?
+2
+Moana_006_f#Well, you know I'd love to do that.
+W
+Moana_010_fHThough I'm really more of a sea voyager. Are you sure I'd be a good fit?

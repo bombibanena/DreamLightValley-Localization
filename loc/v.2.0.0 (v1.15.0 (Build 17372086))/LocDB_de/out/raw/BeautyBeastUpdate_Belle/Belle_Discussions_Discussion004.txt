@@ -1,0 +1,45 @@
+TAG: Belle_000_f
+{PlayerName}, I've been thinking... If this were a story, you'd certainly be written as the hero.
+
+TAG: Player_000_choice_000_f
+I'm no hero.
+
+TAG: Player_000_choice_001_f
+Definitely!
+
+TAG: Player_000_choice_002_f
+I'm more of the storyteller.
+
+TAG: Belle_001_f
+I disagree. Besides, if you KNEW you were the hero, then it wouldn't be much of a story, would it?
+
+TAG: Belle_002_f
+Hmm... what kind of character do you think I would be?
+
+TAG: Player_001_choice_000_f
+The damsel in distress.
+
+TAG: Player_001_choice_001_f
+You're definitely the hero.
+
+TAG: Player_001_choice_002_f
+The genius inventor.
+
+TAG: Belle_003_f
+Someone waiting around to be rescued? Oh, I don't think that's me at all. I'm quite capable of taking care of myself and rescuing others.
+
+TAG: Belle_004_f
+Do you think so? Well, I do enjoy adventures... and traveling to new places... and helping others!
+
+TAG: Belle_005_f
+Thank you, {PlayerName}.
+
+TAG: Belle_006_f
+That's very kind. I've certainly learned a lot from my father, so I'd be happy to aspire to fill that role.
+
+TAG: Belle_007_f
+Well, I'd want to read all about your adventures.
+
+TAG: Belle_008_f
+Oh... you know, you're right! You've created many adventures here already.
+

@@ -1,0 +1,41 @@
+
+m
+Goofy_000_f^Gawrsh, {PlayerName}, you sure do a lot of work around the Village. I'd love to help out more.
+*
+Goofy_015_fIs there anything I can do?
+#
+Player_000_choice_000_fCooking?
++
+Player_000_choice_001_fBuilding things?
+$
+Player_000_choice_002_f	Cleaning?
+#
+Player_000_choice_003_fFishing?
+0
+Player_000_choice_004_fYou know, never mind.
+\
+Goofy_002_fMAw, I'm a great cook! Folks especially love my meatballs and how I serve 'em.
+n
+Goofy_003_f_I whack 'em towards ya with a ping-pong paddle so you can catch 'em in a bowl! Pretty fun, huh?
+3
+Goofy_014_f$... Maybe you can do something else.
+l
+Goofy_004_f]I'm great at construction work! Hammering, and sawing, and pouring cement are my specialties.
+g
+Goofy_005_fXThough I oughta tell you: There've been a few accidents on some of the jobs I've worked.
+
+Goofy_006_f	How many?
+D
+Goofy_007_f5Five hundred and thirty six. What're the odds, right?
+k
+Goofy_008_f\Sure, I'm real good at cleaning. Oh, except for the time the vacuum escaped and got the cat.
+X
+Goofy_009_fIAnd the time I accidentally set the windows on fire by exploding a broom.
+L
+Goofy_010_f=Oh, I go fishing all the time! And I catch lots of fish, too.
+<
+Goofy_011_f-I've even got a signature cast I can show ya.
+E
+Goofy_012_f6And you won't fall in more than nine times out of ten.
+[
+Goofy_013_fLAre you sure? Well, let me know if you think of something I could help with.

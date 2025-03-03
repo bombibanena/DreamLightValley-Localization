@@ -1,0 +1,43 @@
+
+?
+Scrooge_000_f.Why {PlayerName}, what can I do for you today?
+`
+Scrooge_001_fOI'm here on a serious mission, I'm afraid. You need to be careful about Ursula!
+Z
+Scrooge_002_fIUrsula, eh? What's she up to now? Tryin' to steal furniture from my shop?
+A
+Player_001_choice_000_f&No... or rather... I don't think so...
+C
+Player_001_choice_001_f(If I say yes will you take me seriously?
++
+Player_001_choice_002_fWorse than that!
+;
+Scrooge_004_f*Well, is she stealin' from somewhere else?
+,
+Scrooge_005_fAgain, I'm not sure, but...
+0
+Scrooge_006_fOch! Spit it out, {PlayerName}!
+b
+Scrooge_007_fQSally had a vision! We're still figuring out the specifics, but you're in danger!
+–
+Scrooge_008_f„Vision? Not sure I set much stock in that fortune-telling stuff. Though, I have seen some mighty incredible things on my adventures.
+,
+Player_000_choice_000_fThey're all true!
+9
+Player_000_choice_001_fI know it's hard to believe...
+6
+Player_000_choice_002_fNobody ever believes her...
+1
+Scrooge_009_f But you cannae know for certain.
+O
+Scrooge_012_f>Now, I'm not sayin' that Ursula has never done anything shady.
+V
+Scrooge_013_fEBut give your Uncle Scrooge some credit. I know how to handle myself!
+M
+Scrooge_014_f<Now, if you'll excuse me, I've some business to attend to...
+"
+Scrooge_010_fMaybe. Maybe not.
+P
+Scrooge_011_f?Well, that's a shame. But in this case, we just cannae be sure.
+5
+Scrooge_015_f$That depends. Have ya got any proof?

@@ -1,0 +1,63 @@
+TAG: Village!Frozen!Anna!VLG_Anna_030_Any_CompletedRequestDescription
+Поговорите с Анна, чтобы узнать, как она себя чувствует.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_AvailableDescription
+Мерлин говорит Анна что может быть способ восстановить Кристофф воспоминания с помощью магии.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_CompletedStoryDescription
+Память Кристофф восстановлена! Анна благодарит вас и надеется на будущее, полное еще многих воспоминаний Кристофф.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_DisplayName
+Зачарованное кольцо
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group01_OngoingRequestButton
+С кем мне поговорить?
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Мерлин.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group01_StoryDescription
+С помощью Мерлин вы узнаете о заклинании, которое может восстановить воспоминания Кристофф.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group02_OngoingRequestButton
+Что мне делать?
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group02_Step02_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group02_Step02_Possess02_StepDescription
+{itemName} от гигантского ивавского дерева в Глэйде доверия.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group02_Step02_StepDescription
+Соберите следующие ингредиенты:
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group02_Step03_StepDescription
+Поговорите с Анна, чтобы получить её <ActivityItem>Engagement Ring</ActivityItem>.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group03_OngoingRequestButton
+Чем я могу помочь?
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group03_Step04_CraftItem01_StepDescription
+Укрепляйте кольца <ActivityItem>Engagement</ActivityItem> на ремесленной станции.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group04_OngoingRequestButton
+Что мне делать с кольцом?
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group04_Step05_BringItem01_StepDescription
+Уточните <ActivityItem>Engagement Ring</ActivityItem> путем смешивания Ингредиентов для заклинания.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group04_Step05_ReadyDescription
+Возьмите <ActivityItem>Enchaned Ring</ActivityItem> на Анна.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group05_OngoingRequestButton
+Что еще делать?
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group05_Step06_Listen01_StepDescription
+Слушайте, как Анна показывает Кристофф кольцо.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_Group05_StoryDescription
+Используя Анна зачарованное обручальное кольцо, вы восстанавливаете воспоминания Кристофф о ней.
+
+TAG: Village!Frozen!Anna!VLG_Anna_030_StartRequestButton
+Что я могу сделать?
+

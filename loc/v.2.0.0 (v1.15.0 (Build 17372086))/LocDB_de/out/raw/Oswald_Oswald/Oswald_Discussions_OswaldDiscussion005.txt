@@ -1,0 +1,24 @@
+TAG: Oswald_000_f
+{PlayerName}, have ya met that fella, Remy?
+
+TAG: Oswald_001_f
+That rat sure takes the cake! ... Or bakes the cake! Oh-hoo-hoo!
+
+TAG: Player_000_choice_000_f
+You like him?
+
+TAG: Player_000_choice_001_f
+He's a very good chef.
+
+TAG: Player_000_choice_002_f
+I brought him back to the Valley.
+
+TAG: Oswald_002_f
+Sure do! And his grub ain't half bad either.
+
+TAG: Oswald_003_f
+Chef? Whoa, fancy! I was thinkin' he was just a cook. But either way, his grub is TASTY!
+
+TAG: Oswald_004_f
+Well, you sure know your onions! Never overlook a good cook, says I.
+

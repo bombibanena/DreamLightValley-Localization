@@ -1,0 +1,6 @@
+TAG: Daisy_000_f
+{PlayerName}, как ты?
+
+TAG: Player_000_exit_000_f
+Простите, я не могу сейчас говорить.
+

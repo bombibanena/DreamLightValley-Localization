@@ -1,0 +1,42 @@
+TAG: Mickey_000_f
+Gosh, {PlayerName}, does your Backpack get heavy with all that stuff you keep in it?
+
+TAG: Player_000_choice_000_f
+It's not so bad.
+
+TAG: Player_000_choice_001_f
+It can get a little heavy.
+
+TAG: Player_000_choice_002_f
+I'm exhausted from lugging all this stuff around!
+
+TAG: Mickey_001_f
+Well, if it ever gets too heavy for ya, you could...
+
+TAG: Mickey_002_f
+...try puttin' some stuff in a chest in your House for safekeeping.
+
+TAG: Mickey_003_f
+Some folks around the Valley even have a bunch of different chests in different colors for all the different kinds of stuff they like to have.
+
+TAG: Player_001_choice_000_f
+Sounds like a great idea!
+
+TAG: Player_001_choice_001_f
+Sounds a little TOO organized for me.
+
+TAG: Mickey_004_f
+Fantastic! Though...
+
+TAG: Mickey_005_f
+I know I'd have to write down what I put where. Like, are my other yellow shoes in the yellow chest for "yellow" or the silver chest for "shoes"? Ha-ha!
+
+TAG: Mickey_006_f
+I understand.
+
+TAG: Mickey_007_f
+I'll bet! I can't believe how much you can fit in there!
+
+TAG: Mickey_008_f
+Just remember, if it ever gets too full for ya, you could...
+

@@ -1,0 +1,18 @@
+TAG: Scrooge_000_f
+Improvin' this Stall would be a sound investment. Goofy could buy and sell more products, so you could make more improvements to the Isle!
+
+TAG: Player_000_choice_000_f
+Let's improve the Stall. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_001_f
+Would ya look at that! What a selection of items to purchase!
+
+TAG: Scrooge_002_f
+Och! You don't have enough Star Coins to improve the Stall! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_003_f
+But this is a sound investment! *sigh* Well, come back here when you come to your senses.
+

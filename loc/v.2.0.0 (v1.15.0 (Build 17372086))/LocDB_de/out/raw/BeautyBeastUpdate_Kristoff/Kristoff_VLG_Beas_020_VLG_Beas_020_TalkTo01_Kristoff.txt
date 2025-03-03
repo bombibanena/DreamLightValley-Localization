@@ -1,0 +1,51 @@
+TAG: Kristoff_000_f
+Kristoff, I hope you're feeling friendly, because I have someone for you to meet... the Beast!
+
+TAG: Kristoff_001_f
+Oh, yeah. I've seen him around, but we haven't had a chance to talk.
+
+TAG: Kristoff_002_f
+And now you can! He's trying to meet new people.
+
+TAG: Kristoff_003_f
+Huh... That's great. It's just... I'm not one of those SUPER sociable people. So, if he's looking to hang out with a big crowd...
+
+TAG: Kristoff_004_f
+You might wanna try Mirabel?
+
+TAG: Kristoff_005_f
+Actually, that's why I came to see you!
+
+TAG: Kristoff_006_f
+I think you two might get along well â I bet you'd have a blast fishing together.
+
+TAG: Kristoff_007_f
+Well, if he wants to fish, I'm all in. {PlayerName}, you're joining us too, right?
+
+TAG: Player_000_choice_000_f
+Of course!
+
+TAG: Player_000_choice_001_f
+I don't know...
+
+TAG: Kristoff_008_f
+Great!
+
+TAG: Kristoff_009_f
+All right. I've been having a fishing contest, and there are a few guidelines.
+
+TAG: Kristoff_010_f
+You need to catch at least four fish â <Lore>two Saltwater</Lore> and <Lore>two Freshwater</Lore>. You also need a <Lore>Herring</Lore>, a <Lore>Bream</Lore>, and one fish has to be <Lore>at least three pounds</Lore>, but they can be part of the saltwater and freshwater catches.
+
+TAG: Kristoff_011_f
+Got it. I just need to talk to the Beast for a sec... and then the contest is on!
+
+TAG: Kristoff_012_f
+I'll be here.
+
+TAG: Kristoff_013_f
+From what I've seen, he seems pretty tense, but I bet he's comfortable with you. It might help if you stuck around.
+
+TAG: Kristoff_014_f
+OK, fair enough!
+

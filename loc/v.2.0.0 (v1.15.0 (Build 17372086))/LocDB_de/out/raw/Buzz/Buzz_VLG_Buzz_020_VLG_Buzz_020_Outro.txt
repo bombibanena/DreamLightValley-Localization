@@ -1,0 +1,30 @@
+TAG: Buzz_000_f
+Mission accomplished, cadet!
+
+TAG: Buzz_002_f
+Peace has been restored in the Village. And from what I hear, Maui and Donald have already started spreading the good word about Star Command.
+
+TAG: Buzz_003_f
+And Ursula seems to have gotten the message. I've had no reports of any schemes by her.
+
+TAG: Player_000_choice_000_f
+Glad I could be of service.
+
+TAG: Player_000_choice_001_f
+What's our next mission?
+
+TAG: Player_000_choice_002_f
+Be careful with Ursula. She's only pretending.
+
+TAG: Buzz_007_f
+Thanks, {PlayerName}. I'll let you know when I find a new mission for us.
+
+TAG: Buzz_006_f
+I haven't found it yet, but I'll be sure to tell you as soon as I do! Thanks again, {PlayerName}.
+
+TAG: Buzz_008_f
+That's the thing about villains. They pretend to stop their scheming, but it never lasts.
+
+TAG: Buzz_011_f
+I'm sure Ursula will go back to her old ways... and we'll be there to ruin her plans.
+

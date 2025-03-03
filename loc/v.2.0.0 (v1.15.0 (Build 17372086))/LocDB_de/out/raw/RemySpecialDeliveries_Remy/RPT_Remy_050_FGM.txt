@@ -1,0 +1,99 @@
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Any_CompletedRequestDescription
+Return to Remy for your rewards.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_AvailableDescription
+Remy has a special delivery order! Today's hungry Villager: the Fairy Godmother!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_DisplayName
+Bon AppÃ©tit, Fairy Godmother!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group01_Step01_CookMeal01_StepDescription
+Pumpkin Puffs.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group01_Step01_CookMeal02_StepDescription
+Pumpkin Soup.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group01_StepDescription
+Cook some Pumpkin-y Meals for the Fairy Godmother.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group02_Step02_CookMeal03_StepDescription
+Dream Ice Cream.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group02_Step02_CookMeal04_StepDescription
+Dream Fizz.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group02_StepDescription
+Cook the following for the Fairy Godmother:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group03_Step03_CookMeal05_StepDescription
+Cook <ActivityItem>Desserts</ActivityItem> for the Fairy Godmother.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group04_Step04_ReadyDescription
+Bring the pumpkin-y meals to the Fairy Godmother.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group04_Step04_StepDescription
+Get the following for the Fairy Godmother:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_BringItem03_StepDescription
+Dream Fizz.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_BringItem04_StepDescription
+Dream Ice Cream.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_ReadyDescription
+Bring the dreamy treats to the Fairy Godmother.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_StepDescription
+Get the following dreamy treats for the Fairy Godmother:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group06_Step12_TalkToCharacter06_StepDescription
+Show the Fairy Godmother the desserts you made and ask who they're meant for!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter01_StepDescription
+Vanellope.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter02_StepDescription
+Stitch.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter03_StepDescription
+Olaf.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter04_StepDescription
+Elsa.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter05_StepDescription
+Minnie.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_StepDescription
+Invite the following Villagers to the Fairy Godmother's House for a pumpkin party:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group08_StepDescription
+Take some pictures of the Pumpkin Party inside the Fairy Godmother's House!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_BringItem06_StepDescription
+Dream Ice Cream.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_BringItem07_StepDescription
+Dream Fizz.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_ReadyDescription
+Bring the dreamy treats to Minnie.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_StepDescription
+Gather some dreamy treats for Minnie:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group10_Step10_ReadyDescription
+Bring Minnie's desserts to the Fairy Godmother. (Be sure to not eat them... even though they look delicious!)
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group10_Step10_StepDescription
+You've misplaced Minnie's Gingerbread Cookies for the Fairy Godmother! You better find some more...
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group11_Step11_ReadyDescription
+Bring the desserts to Ursula.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group11_Step11_StepDescription
+Gather desserts for Ursula.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

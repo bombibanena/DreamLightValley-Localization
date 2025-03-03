@@ -1,0 +1,105 @@
+TAG: Stitch_000_f
+{Placeholder}Is being Gaston's sidekick an okay experience?
+
+TAG: Stitch_001_f
+{Placeholder}Is fun!
+
+TAG: Player_000_choice_000_f
+{Placeholder}That's good to hear!
+
+TAG: Player_000_choice_001_f
+{Placeholder}... Really?
+
+TAG: Stitch_002_f
+{Placeholder}I certainly wasn't expecting that.
+
+TAG: Stitch_003_f
+{Placeholder}Oh ya, Stitch understand something.
+
+TAG: Stitch_004_f
+{Placeholder}Sidekicks not for running errands.
+
+TAG: Stitch_005_f
+{Placeholder}Sidekicks for challenging heroes and make them better!
+
+TAG: Player_001_choice_000_f
+{Placeholder}That's one way to look at it!
+
+TAG: Player_001_choice_001_f
+{Placeholder}How does Gaston feel about that?
+
+TAG: Stitch_006_f
+{Placeholder}Poodja cha-bagga!
+
+TAG: Stitch_007_f
+{Placeholder}Gaston not understand yet how sidekick supposed to work.
+
+TAG: Stitch_008_f
+{Placeholder}But I try to teach him; don't worry.
+
+TAG: Player_002_choice_000_f
+{Placeholder}I bet he loves that...
+
+TAG: Player_002_choice_001_f
+{Placeholder}How is he reacting to that?
+
+TAG: Player_002_choice_002_f
+{Placeholder}Keep at it!
+
+TAG: Stitch_009_f
+{Placeholder}Stitch help with Gaston's badness levels; you see!
+
+TAG: Stitch_010_f
+{Placeholder}Ha!
+
+TAG: Stitch_011_f
+{Placeholder}Are you okay with having lost?
+
+TAG: Stitch_012_f
+{Placeholder}Ya.
+
+TAG: Stitch_013_f
+{Placeholder}Stitch go say "hello" sometimes.
+
+TAG: Stitch_014_f
+{Placeholder}And he lifting sticks with Olaf?
+
+TAG: Player_003_choice_000_f
+{Placeholder}They're working out together!
+
+TAG: Player_003_choice_001_f
+{Placeholder}Oh, not surprised...
+
+TAG: Stitch_015_f
+{Placeholder}Do you want to work out with them too?
+
+TAG: Stitch_016_f
+{Placeholder}I'm sure Gaston would be happy to have more people interested in joining!
+
+TAG: Stitch_017_f
+{Placeholder}Mmm nah, I already strong.
+
+TAG: Stitch_018_f
+{Placeholder}Gaston seem like he need a sidekick like Olaf?
+
+TAG: Stitch_019_f
+{Placeholder}Stitch no sidekick; Stitch important!
+
+TAG: Player_004_choice_000_f
+{Placeholder}That's the spirit!
+
+TAG: Player_004_choice_001_f
+{Placeholder}Yeah, Gaston wouldn't be happy with that.
+
+TAG: Stitch_020_f
+{Placeholder}Maybe better role is... friend?
+
+TAG: Stitch_021_f
+{Placeholder}Say "hello" and "noogy bay"; help with badness levels.
+
+TAG: Stitch_022_f
+{Placeholder}Then Stitch do his own thing.
+
+TAG: Stitch_023_f
+{Placeholder}Very sensible!
+

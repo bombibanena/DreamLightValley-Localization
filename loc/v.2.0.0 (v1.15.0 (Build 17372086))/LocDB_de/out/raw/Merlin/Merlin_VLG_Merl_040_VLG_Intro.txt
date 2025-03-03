@@ -1,0 +1,39 @@
+TAG: Merlin_001_f
+{PlayerName}, I'm glad you found me! I have made a marvelous discovery!
+
+TAG: Merlin_008_f
+Do you have time to hear about it?
+
+TAG: Player_000_choice_003_f
+Yes, I'm ready to listen!
+
+TAG: Player_000_choice_004_f
+Can't right now. I've got to run!
+
+TAG: Merlin_000_f
+Well then, I found a strange black crystal buried in the Forest.
+
+TAG: Merlin_004_f
+It's near the Dark Portal that Donald went through.
+
+TAG: Merlin_003_f
+Most remarkably, it's imbued with magic similar to the Night Thorns.
+
+TAG: Merlin_002_f
+We must investigate to learn more.
+
+TAG: Player_000_choice_000_f
+Yes, I'm ready!
+
+TAG: Player_000_choice_001_f
+It sounds creepy.
+
+TAG: Merlin_005_f
+That's the spirit! Our curiosity will spur us onward!
+
+TAG: Merlin_006_f
+Creepy, yes. It's certainly that. But that's all the more reason to investigate.
+
+TAG: Merlin_007_f
+Fine, fine. Come back when you're prepared!
+

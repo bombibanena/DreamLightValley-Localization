@@ -1,0 +1,47 @@
+
+r
+Sally_000_fc{PlayerName}, I'm not sure that what Daisy and Minnie have planned right now is quite right for me.
+s
+Sally_001_fdThey're very talented, and I admire them both... But I should find someone else to sew with for now.
+g
+Sally_003_fXThis place is so magical. I'd love to learn from someone who understands the magic here.
+/
+Player_003_choice_000_fThe Fairy Godmother?
+*
+Player_003_choice_001_fHow about Jack?
+5
+Player_003_choice_002_fI don't knowâ Merlin?
+u
+Sally_016_ffDo you think she would?! She gave me a recipe the other day for iced pumpkin juice that was delicious.
+l
+Sally_017_f]And she and I have been visiting so much â I can't believe I didn't think of her before.
+U
+Sally_007_fFI'm sure we could find a way to combine our styles if we made a quilt.
+G
+Sally_004_f8And perhaps we could even get a third person to join us.
+=
+Sally_010_f.Would you like to quilt with us, {PlayerName}?
+5
+Player_001_choice_000_fI thought you'd never ask.
+9
+Player_001_choice_001_fAre you sure you want my help?
+-
+Player_001_choice_002_fLET'S START NOW!!!
+S
+Sally_012_fDI'm so glad. Now, all we need is the Fairy Godmother to say yes too!
+2
+Sally_009_f#Could you <Lore>talk to her</Lore>?
+~
+Sally_002_foPlease ask her about making a quilt. While you do that, I'm going to borrow a few things from Minnie and Daisy.
+m
+Sally_011_f^Certainly. With you and the Fairy Godmother, I'm sure we can make something quite interesting.
+J
+Sally_014_f;I'm glad you're excited. I hope the Fairy Godmother is too.
+Y
+Sally_013_fJJack is wonderful at many things, but I'm afraid sewing isn't one of them.
+�
+Sally_018_f{That DOES give me an idea, though... The Fairy Godmother! She and Jack get along so well because of her love of pumpkins...
+5
+Sally_015_f&Merlin seems a little busy for sewing.
+>
+Sally_019_f/Oh, but he and the Fairy Godmother are close...

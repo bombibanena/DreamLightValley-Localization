@@ -1,0 +1,36 @@
+TAG: Merlin_001_f
+Excellent, {PlayerName}! Now, I have a challenge for you.
+
+TAG: Merlin_002_f
+We've been working together some time now, and I think you're ready.
+
+TAG: Merlin_003_f
+Ready... to become a wizard yourself!
+
+TAG: Player_000_choice_003_f
+Wow!
+
+TAG: Player_000_choice_004_f
+Am I really ready for that?
+
+TAG: Player_000_choice_005_f
+Do I get a pointy hat?
+
+TAG: Merlin_005_f
+This is a book on how to enchant objects.
+
+TAG: Merlin_006_f
+It's written in riddles, which any true wizard can decipher.
+
+TAG: Merlin_008_f
+I'll give you just one hint â you need the <ActivityItem>Ice Tear Seed</ActivityItem>.
+
+TAG: Merlin_004_f
+It was hidden in the binding of the book. Here you are.
+
+TAG: Merlin_007_f
+I wouldn't offer the challenge if I weren't absolutely certain of it.
+
+TAG: Merlin_000_f
+All in good time. Now...
+

@@ -1,0 +1,55 @@
+
+"
+Simba_000_fLook at this place.
+T
+Simba_001_fEI think it used to be a water hole for all the animals in the jungle.
+K
+Simba_002_f<But it looks like it's been dried out for quite a while now.
+0
+Player_000_f Hmm... it looks like it needs...
+*
+Player_000_choice_000_f...some plants.
+)
+Player_000_choice_001_f...some water.
+=
+Player_000_choice_002_f"...something beautiful to look at.
+J
+Simba_003_f;Yeah. Plants would bring back a lot of the smaller animals.
+m
+Simba_020_f^And there are the trees in the clearing where you found me. I bet those would have some seeds.
+e
+Simba_021_fVBut you might need to do some digging to get them. Do you think your paws can do that?
+d
+Simba_022_fUWho needs paws when you've got a <Lore>Royal Shovel</Lore>? That oughta do the trick!
+<
+Simba_004_f-And they would bring back the bigger animals.
+'
+Simba_005_fIt's the Circle of Life.
+P
+Simba_006_fAI think we'll need some water too, or the plants won't last long.
+Z
+Simba_007_fKWell, if there used to be water here, there must be a way to bring it back.
+E
+Simba_008_f6I'll try to figure that out while you find the plants.
+H
+Simba_014_f9What sorts of plants should I get? Where can I find them?
+œ
+Simba_018_fŒYou could check some of those jungle ferns near the river. Rafiki said plants come from seeds, so maybe you could get some seeds from those.
+[
+Simba_019_fLOh, and there's a plant near one of the waterfalls that might have some too.
+Z
+Simba_009_fKYeah. If there used to be water here, there must be a way to bring it back.
+V
+Simba_010_fGI'll try to figure that part out. And maybe you could find some plants.
+]
+Simba_011_fNIf there were plants here, that would bring back a lot of the smaller animals.
+<
+Simba_012_f-And they would bring back the bigger animals.
+'
+Simba_013_fIt's the Circle of Life.
+N
+Simba_015_f?Well, it would look a lot nicer if there were plants and water.
+5
+Simba_016_f&That would bring all the animals back.
+W
+Simba_017_fHHow about I try to figure out the water while you figure out the plants?

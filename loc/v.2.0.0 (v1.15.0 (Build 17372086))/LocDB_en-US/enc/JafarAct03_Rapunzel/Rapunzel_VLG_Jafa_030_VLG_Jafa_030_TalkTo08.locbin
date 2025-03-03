@@ -1,0 +1,53 @@
+
+j
+Rapunzel_002_fXHi, Rapunzel. I'm checking in with the Villagers around here: Are you feeling all right?
+`
+Rapunzel_004_fN<i>Why yes, I am feeling excellent. Thank you for inquiring, {PlayerName}.</i>
+v
+Rapunzel_003_fdBecause Oswald â and Gaston for that matter â have been feeling and acting strange lately.
+_
+Rapunzel_007_fMI want to make sure that there isn't a bug, or something worse, going around.
+P
+Rapunzel_008_f><i>Oh, I am certain that Oswald will recuperate presently.</i>
+f
+Rapunzel_009_fT<i>There is no need for you to spend your limited time on such a trifling issue.</i>
++
+Player_000_choice_000_fIf you say so...
+0
+Player_000_choice_001_fYou're not concerned?
+8
+Player_000_choice_002_fYou're speaking... strangely.
+O
+Rapunzel_010_f=<i>I do! Have I ever spoken untruth to you, {PlayerName}?</i>
+h
+Rapunzel_025_fV<i>Now, if you will excuse me, I have important affairs that require my attention.</i>
+%
+Rapunzel_026_fUhh, sure, I guess.
+"
+Rapunzel_013_fNo, I guess not.
+9
+Rapunzel_014_f'But something seems weird with you too.
+�
+Rapunzel_015_f�What if we try and do something nice for Oswald? I was thinking of grabbing EVE and seeing if she can make some fun mods to his Trolleyâ
+F
+Rapunzel_016_f4<i>Ugh, that flying... contraption? I think not!</i>
+.
+Rapunzel_017_fWhat? What's wrong with EVE?
+r
+Rapunzel_018_f`<i>You do not need her help, {PlayerName}. In fact, you do not need the help of anyone here.</i>
+:
+Rapunzel_019_f(You don't sound like yourself, Rapunzel.
+S
+Rapunzel_024_fA<i>Perhaps, in the past, you have not listened to me closely.</i>
+7
+Rapunzel_012_f%<i>Of course not! Why would I be?</i>
+$
+Rapunzel_023_fHuh, that's weird.
+D
+Rapunzel_011_f2<i>Is this not my standard style of discourse?</i>
+
+Rapunzel_021_fUhh, no.
+z
+Rapunzel_005_fhBecause Oswald â and Mr. McDuck for that matter â have been feeling and acting strange lately.
+9
+Rapunzel_006_f'Oswald has been feeling strange lately.

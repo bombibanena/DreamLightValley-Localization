@@ -1,0 +1,51 @@
+
+¡
+Flynn_000_f‘{PlayerName}! I am so glad you're here. I've been having the strangest nightmares, and you're just the person to help me work out what they mean.
+,
+Player_000_choice_001_fI'd love to help!
+5
+Player_000_choice_002_fSorry, I'm busy right now!
+.
+Flynn_001_fTell me about these nightmares.
+K
+Flynn_002_f<It's so odd... all of them feature a woman with blonde hair.
+.
+Flynn_004_fA princess, by the looks of it.
+W
+Flynn_005_fHRapunzel? Is this that same "special someone" that you're so hung up on?
+?
+Flynn_006_f0That's the funny thing. It's definitely not her.
+R
+Flynn_007_fCWhoever she is, she's... familiar, and yet I can't quite place her.
+&
+Flynn_008_fAnd in the nightmare...
+1
+Player_001_choice_000_fDoes she speak to you?
+<
+Player_001_choice_001_f!Does she do anything interesting?
+7
+Player_001_choice_002_fCan you see her face at all?
+)
+Flynn_009_fNo, she never says a word.
++
+Flynn_012_fShe's too busy running away.
+n
+Flynn_016_f_I think... I think she's running away from ME. I couldn't stand it if somehow I frightened her.
+B
+Flynn_017_f3Is this something to do with the Wolf of the Wilds?
+?
+Flynn_018_f0I... I don't know... it's all a mess in my mind.
+§
+Flynn_019_f—Okay, I have an idea. We need to <Lore>talk to the Lorekeeper</Lore>. I have a feeling this is linked to your past, and she might know the whole story.
+%
+Flynn_010_fMostly, she just runs.
+
+Flynn_013_fRuns?
+4
+Flynn_014_f%Yeah, like she's scared of something.
+7
+Flynn_011_f(Not really, but I can tell she's scared.
+)
+Flynn_015_fLike she's running away...
+5
+Flynn_003_f&No problem. Let's talk about it later.

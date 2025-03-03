@@ -1,0 +1,30 @@
+
+C
+
+Elsa_015_f5Things have been calm here for a while, {PlayerName}.
+{
+
+Elsa_024_fmAnd since you showed me the picture of that strange icy cave... I haven't been able to get it out of my head.
+,
+
+Elsa_025_fI know I've been there before.
+(
+Player_005_fYou should come visit...
+1
+Player_005_choice_000_f...to see your sister.
+4
+Player_005_choice_001_f...to solve this mystery.
+<
+Player_005_choice_002_f!...because we could sure use you.
+d
+
+Elsa_027_fVThat would be wonderful. It sounds like Anna loves your Village, so I know I will too.
+C
+
+Elsa_009_f5Lead the way, {PlayerName}. Let's go see your Valley!
+L
+
+Elsa_028_f>I do want to figure out why this Ice Cavern seems so familiar.
+Z
+
+Elsa_029_fLWell, after all the help you've given us, I'd be happy to do anything I can.

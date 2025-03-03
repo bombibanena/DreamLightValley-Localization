@@ -1,0 +1,27 @@
+TAG: Secret!ToyStory!SEC_Buzz_030_Any_CompletedRequestDescription
+Сообщите Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_AvailableDescription
+Базз Лайтер, кажется, нашли больше игрушек-иностранцев, вам нужно поговорить с ним.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_DisplayName
+Соберите Em все: Attic Mode
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Любые признаки инопланетной жизни?
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group01_Step01_TalkToCharacter01_StepDescription
+Сообщите Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group01_StepDescription
+Вызываю всех Космических Рейнджеров!
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group02_Step02_BringItem01_StepDescription
+Следите за <ActivityItem>Alien Toys</ActivityItem>, разбросанными в общих местах и тайных местах.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group02_Step02_ReadyDescription
+Приведите игрушки <ActivityItem>Alien</ActivityItem> на Базз Лайтер.
+
+TAG: Secret!ToyStory!SEC_Buzz_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Любые признаки иностранцев?
+

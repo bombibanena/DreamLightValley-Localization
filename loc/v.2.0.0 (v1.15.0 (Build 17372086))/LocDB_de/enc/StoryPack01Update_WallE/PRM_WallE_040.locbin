@@ -1,0 +1,103 @@
+
+�
+0Premium!WallE!PRM_WallE_040_AvailableDescriptionvВы нашли таинственную книгу с рисунком ВАЛЛ·И на одном обложке...
+�
+;Premium!WallE!PRM_WallE_040_Group01_Step01_ReadyDescriptionTПоказать {itemName}, что вы только что нашли {TargetNPC}.
+p
+LPremium!WallE!PRM_WallE_040_Group05_Step05_TalkToCharacter02_StepDescription Поговори с {TargetNPC}.
+�
+;Premium!WallE!PRM_WallE_040_Group07_Step07_ReadyDescriptionUПоговорите с {TargetNPC}, чтобы прочитать на заводе.
+�
+;Premium!WallE!WallE!PRM_WallE_040_CompletedStoryDescriptionrВы закончили историю, и растение вернулось к полному здоровью!
+T
+-Premium!WallE!WallE!PRM_WallE_040_DisplayName#Рассказать историю
+�
+@Premium!WallE!WallE!PRM_WallE_040_Group01_Step01_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
+Y
+JPremium!WallE!WallE!PRM_WallE_040_Group02_Step02_Possess01_StepDescription{itemName}.
+�
+9Premium!WallE!WallE!PRM_WallE_040_Group02_StepDescription�Следите за недостающими страницами <ActivityItem>Storybook</ActivityItem> в "Мирном лугу" и на пляже Даззл.
+�
+:Premium!WallE!WallE!PRM_WallE_040_Group02_StoryDescription�Но в книге, которую вы нашли, есть волшебная история, которая может помочь исцелить растение... если только вы сможете найти больше истории.
+x
+RPremium!WallE!WallE!PRM_WallE_040_Group03_Step03_FollowCharacter03_StepDescription"Следуйте за {TargetNPC}.
+[
+LPremium!WallE!WallE!PRM_WallE_040_Group04_Step04_BringItem07_StepDescription{itemName}.
+[
+LPremium!WallE!WallE!PRM_WallE_040_Group04_Step04_BringItem08_StepDescription{itemName}.
+[
+LPremium!WallE!WallE!PRM_WallE_040_Group04_Step04_BringItem09_StepDescription{itemName}.
+�
+APremium!WallE!WallE!PRM_WallE_040_Group04_Step04_ReadyDescription=Приведите Ингредиентов на {TargetNPC}.
+x
+@Premium!WallE!WallE!PRM_WallE_040_Group04_Step04_StepDescription4Соберите ингредиенты {TargetNPC}:
+�
+:Premium!WallE!WallE!PRM_WallE_040_Group04_StoryDescription�Матушка Готель стоит за исчезновением растения, и вам нужно выполнить ее просьбу, прежде чем она скажет вам, где она покинула растение.
+v
+RPremium!WallE!WallE!PRM_WallE_040_Group06_Step09_TalkToCharacter04_StepDescription Поговори с {TargetNPC}.
+�
+@Premium!WallE!WallE!PRM_WallE_040_Group07_Step07_StepDescriptionkУбедитесь, что у вас в списке есть <ActivityItem>Storybook pages</ActivityItem>.
+f
+NPremium!WallE!WallE!PRM_WallE_040_Group08_Step08_Conditional01_StepDescriptionЛес Вэлора.
+l
+NPremium!WallE!WallE!PRM_WallE_040_Group08_Step08_Conditional02_StepDescriptionГлэйд Доверия.
+q
+@Premium!WallE!WallE!PRM_WallE_040_Group08_Step08_StepDescription-Разблокируйте эти биомы:
+�
+:Premium!WallE!WallE!PRM_WallE_040_Group08_StoryDescription�Непрерывное время истории помогло растениям немного подняться, но оно все еще в опасности!
+�
+LPremium!WallE!WallE!PRM_WallE_040_Group09_Step06_VisitArea02_StepDescriptionOВозвращайтесь в дом <ActivityItem>ВАЛЛ·И</ActivityItem>.
+Y
+JPremium!WallE!WallE!PRM_WallE_040_Group10_Step10_Possess02_StepDescription{itemName}.
+�
+@Premium!WallE!WallE!PRM_WallE_040_Group10_Step10_StepDescription�Следите за недостающими страницами <ActivityItem>Storybook</ActivityItem> в Глейде доверия и Леса Вэлора.
+v
+RPremium!WallE!WallE!PRM_WallE_040_Group11_Step11_TalkToCharacter03_StepDescription Поговори с {TargetNPC}.
+�
+LPremium!WallE!WallE!PRM_WallE_040_Group12_Step12_VisitArea04_StepDescriptionOВозвращайтесь в дом <ActivityItem>ВАЛЛ·И</ActivityItem>.
+�
+APremium!WallE!WallE!PRM_WallE_040_Group13_Step13_ReadyDescriptionUПоговорите с {TargetNPC}, чтобы прочитать на заводе.
+�
+@Premium!WallE!WallE!PRM_WallE_040_Group13_Step13_StepDescriptionkУбедитесь, что у вас в списке есть <ActivityItem>Storybook pages</ActivityItem>.
+p
+NPremium!WallE!WallE!PRM_WallE_040_Group14_Step14_Conditional03_StepDescriptionСолнечный плато.
+z
+NPremium!WallE!WallE!PRM_WallE_040_Group14_Step14_Conditional04_StepDescription(Размораженные высоты.
+q
+@Premium!WallE!WallE!PRM_WallE_040_Group14_Step14_StepDescription-Разблокируйте эти биомы:
+�
+:Premium!WallE!WallE!PRM_WallE_040_Group14_StoryDescription�История продолжается, и растение медленно исцеляется! Но вы должны найти больше страниц, чтобы подтвердить ваши подозрения.
+x
+JPremium!WallE!WallE!PRM_WallE_040_Group15_Step15_Possess04_StepDescription*Ищите подсказку в Доме.
+h
+9Premium!WallE!WallE!PRM_WallE_040_Group15_StepDescription+О нет, растение исчезло!
+�
+LPremium!WallE!WallE!PRM_WallE_040_Group16_Step16_VisitArea05_StepDescriptionTПроверьте завод в доме <ActivityItem>ВАЛЛ·И</ActivityItem>.
+Y
+JPremium!WallE!WallE!PRM_WallE_040_Group18_Step18_Possess03_StepDescription{itemName}.
+�
+9Premium!WallE!WallE!PRM_WallE_040_Group18_StepDescription�Следите за недостающими страницами <ActivityItem>Storybook</ActivityItem> на плато Солнце и во Фростед Хайтс.
+v
+RPremium!WallE!WallE!PRM_WallE_040_Group19_Step19_TalkToCharacter05_StepDescription Поговори с {TargetNPC}.
+�
+APremium!WallE!WallE!PRM_WallE_040_Group21_Step21_ReadyDescriptionNВыяснить владельца <ActivityItem> Youth Tonic</ActivityItem>.
+�
+@Premium!WallE!WallE!PRM_WallE_040_Group21_Step21_StepDescriptionhУбедитесь, что у вас в списке есть <ActivityItem> Youth Tonic</ActivityItem>.
+�
+:Premium!WallE!WallE!PRM_WallE_040_Group21_StoryDescription|Вы нашли все страницы, но катастрофа нанесла удар. Растение исчезло!
+�
+LPremium!WallE!WallE!PRM_WallE_040_Group22_Step22_VisitArea03_StepDescriptionkПроверьте в доме <ActivityItem>ВАЛЛ·И</ActivityItem> пропавшего завода.
+�
+:Premium!WallE!WallE!PRM_WallE_040_Group22_StoryDescription�Матушка Готель была успокоена, и, к счастью, она покинула завод в доме ВАЛЛ·И (которую она считала мусорной свалкой деревни).
+[
+LPremium!WallE!WallE!PRM_WallE_040_Group23_Step23_BringItem05_StepDescription{itemName}.
+�
+APremium!WallE!WallE!PRM_WallE_040_Group23_Step23_ReadyDescriptionUПоговорите с {TargetNPC}, чтобы прочитать на заводе.
+�
+@Premium!WallE!WallE!PRM_WallE_040_Group23_Step23_StepDescriptionkУбедитесь, что у вас в списке есть <ActivityItem>Storybook pages</ActivityItem>.
+a
+9Premium!WallE!WallE!PRM_WallE_040_Group23_StepDescription$Растение вернулось!
+�
+LPremium!WallE!WallE!PRM_WallE_040_Group24_Step24_VisitArea01_StepDescriptionCЗайдите в дом <ActivityItem>ВАЛЛ·И</ActivityItem>.
+�
+:Premium!WallE!WallE!PRM_WallE_040_Group24_StoryDescriptionYВы нашли странную книгу с рисунком ВАЛЛ·И на ней.

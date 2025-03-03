@@ -1,0 +1,6 @@
+TAG: Flynn_000_f
+Hey {PlayerName}, did you <Lore>talk to Hades</Lore> yet?
+
+TAG: Flynn_001_f
+Not yet, but I'll go do that as soon as possible!
+

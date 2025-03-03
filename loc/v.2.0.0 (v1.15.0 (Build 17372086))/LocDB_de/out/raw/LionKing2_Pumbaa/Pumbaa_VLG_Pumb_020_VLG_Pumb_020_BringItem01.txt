@@ -1,0 +1,30 @@
+TAG: Pumbaa_000_f
+Gee, this stuff sure is interesting. I can't wait to start hobby-ing!
+
+TAG: Pumbaa_004_f
+Rapunzel told me about all the neat things you can make with clay.
+
+TAG: Pumbaa_001_f
+We're gonna set everything up in Pride Rock so we can start.
+
+TAG: Pumbaa_006_f
+Could ya invite Simba and Nala while we get the tables ready?
+
+TAG: Player_000_choice_000_f
+Do they like pottery?
+
+TAG: Player_000_choice_001_f
+Sure, I'll invite them!
+
+TAG: Pumbaa_008_f
+I don't know, but I hope so!
+
+TAG: Pumbaa_010_f
+Could ya also <Lore>talk to Timon</Lore>? I asked him, but he said no. I think he's nervous about tryin' somethin' he might not be good at right away.
+
+TAG: Pumbaa_009_f
+Thanks, pal!
+
+TAG: Pumbaa_005_f
+Minnie told me about all the things you can make with clay.
+

@@ -1,0 +1,78 @@
+TAG: Jafar_000_f
+Welcome, {PlayerName}... to MY Cave of Wonders.
+
+TAG: Player_000_choice_000_f
+This place looks incredible!
+
+TAG: Player_000_choice_001_f
+Eh, I've seen better.
+
+TAG: Jafar_001_f
+Why thank you. I did endeavor to make it as close to the original as I could.
+
+TAG: Player_002_choice_000_f
+You made this all yourself?
+
+TAG: Player_002_choice_001_f
+Less talk, more Jewel of Time.
+
+TAG: Jafar_005_f
+Indeed I did! Though modeled on the original Cave of Wonders from my past, this one has very important distinctions.
+
+TAG: Jafar_011_f
+As I am sure you will see, I was able to customize the internal structure.
+
+TAG: Jafar_006_f
+Most importantly, I did away with those ridiculous restrictions on what may or may not be touched.
+
+TAG: Jafar_007_f
+So I can bring Gaston some treasure?
+
+TAG: Jafar_008_f
+Yes. Though, I cannot imagine why you would want to...
+
+TAG: Jafar_020_f
+The purpose of my Cave is to protect the Jewel of Time.
+
+TAG: Jafar_021_f
+What kind of protections did you set up?
+
+TAG: Jafar_022_f
+Oh, nothing that should trouble those with a keen mind...
+
+TAG: Player_001_choice_001_f
+Can you give me some hints?
+
+TAG: Player_001_choice_002_f
+I don't need any hints â time to tackle this on my own!
+
+TAG: Jafar_014_f
+Ah, {PlayerName}, I assumed that your level of intellect would require such assistance.
+
+TAG: Jafar_015_f
+The magical structures within the Cave all revolve around the displacement of light.
+
+TAG: Jafar_016_f
+Mirrors around the area can be positioned to redirect and aim the light.
+
+TAG: Jafar_017_f
+In addition, there are some devices that, when powered, will create light from new sources.
+
+TAG: Jafar_018_f
+Okay, I think I can work with this...
+
+TAG: Jafar_019_f
+Excellent. I shall remain available for communication should you require further aid.
+
+TAG: Jafar_013_f
+Remember: The Jewel of Time will be found in the deepest recesses of the Cave.
+
+TAG: Jafar_024_f
+Very well. I await your return.
+
+TAG: Jafar_004_f
+But of course. Let us move on. Eternity Isle remains in danger.
+
+TAG: Jafar_003_f
+How nice for you.
+

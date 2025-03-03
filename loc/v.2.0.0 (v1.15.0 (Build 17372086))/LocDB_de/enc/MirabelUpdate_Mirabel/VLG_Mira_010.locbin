@@ -1,0 +1,51 @@
+
+m
+DVillage!Encanto!Mirabel!VLG_Mira_010_Any_CompletedRequestDescription%Поговори с Мирабель.
+�
+9Village!Encanto!Mirabel!VLG_Mira_010_AvailableDescription�Мини-Касита пострадала, когда была вдали от долины, и Мирабель нуждается в помощи, чтобы исправить это.
+F
+0Village!Encanto!Mirabel!VLG_Mira_010_DisplayNameИсцеление
+w
+OVillage!Encanto!Mirabel!VLG_Mira_010_Group01_Step01_VisitArea01_StepDescription$Зайди в Мини-Каситу.
+~
+UVillage!Encanto!Mirabel!VLG_Mira_010_Group02_Step02_TalkToCharacter01_StepDescription%Поговори с Мирабель.
+�
+AVillage!Encanto!Mirabel!VLG_Mira_010_Group03_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+^
+OVillage!Encanto!Mirabel!VLG_Mira_010_Group03_Step03_BringItem01_StepDescription{itemName}.
+^
+OVillage!Encanto!Mirabel!VLG_Mira_010_Group03_Step03_BringItem02_StepDescription{itemName}.
+^
+OVillage!Encanto!Mirabel!VLG_Mira_010_Group03_Step03_BringItem03_StepDescription{itemName}.
+^
+OVillage!Encanto!Mirabel!VLG_Mira_010_Group03_Step03_BringItem04_StepDescription{itemName}.
+^
+OVillage!Encanto!Mirabel!VLG_Mira_010_Group03_Step03_BringItem05_StepDescription{itemName}.
+�
+DVillage!Encanto!Mirabel!VLG_Mira_010_Group03_Step03_ReadyDescriptionKПринесите материалы в Мирабель в ее доме.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_010_Group03_Step03_StepDescriptionSСобери материалы, чтобы починить Мини-Каситу.
+|
+AVillage!Encanto!Mirabel!VLG_Mira_010_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+RVillage!Encanto!Mirabel!VLG_Mira_010_Group04_Step04_PurchaseItem01_StepDescriptionyПокупайте мебель в магазине Скрудж Макдак, чтобы украсить ваш дом.
+�
+=Village!Encanto!Mirabel!VLG_Mira_010_Group04_StoryDescription�Починив Mini-Casita, Мирабель дает вам образец пола, чтобы вы могли украсить свой собственный дом, как ее, если хотите, и затем поощряете вас к работе в вашем доме. Вы решаете сделать именно это.
+j
+NVillage!Encanto!Mirabel!VLG_Mira_010_Group05_Step05_Decorate01_StepDescriptionПоменяй обои.
+h
+NVillage!Encanto!Mirabel!VLG_Mira_010_Group05_Step05_Decorate02_StepDescriptionПоменяй пол.
+v
+NVillage!Encanto!Mirabel!VLG_Mira_010_Group05_Step05_Decorate03_StepDescription$Добавь мебель в дом.
+�
+CVillage!Encanto!Mirabel!VLG_Mira_010_Group05_Step05_StepDescription>Украсьте свою собственную казиту:
+�
+UVillage!Encanto!Mirabel!VLG_Mira_010_Group06_Step06_TalkToCharacter02_StepDescription1Возвращайтесь на Мирабель.
+�
+UVillage!Encanto!Mirabel!VLG_Mira_010_Group07_Step07_FollowCharacter01_StepDescription3Следуйте за {TargetNPC} в ваш дом.
+�
+=Village!Encanto!Mirabel!VLG_Mira_010_Group07_StoryDescription�Как только закончишь, пригласи Мирабель посмотреть изменения, которые ты внес в свой дом.
+�
+OVillage!Encanto!Mirabel!VLG_Mira_010_Group08_Step08_VisitArea02_StepDescription3Зайди в свою казиту с {TargetNPC}.
+h
+7Village!Encanto!Mirabel!VLG_Mira_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

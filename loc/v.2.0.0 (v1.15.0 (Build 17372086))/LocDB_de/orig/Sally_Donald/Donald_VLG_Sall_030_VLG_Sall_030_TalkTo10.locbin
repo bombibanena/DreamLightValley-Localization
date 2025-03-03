@@ -1,0 +1,19 @@
+
+¡
+Donald_001_fHiya, Donald! Do you have any Valley food memories to share? I'm putting together a spread for a theme party with Sally and the Fairy Godmother.
+
+Donald_002_fŒUmm... Oh, I know! Remember that time Kristoff got stuck in the Dark Portal? And I was there to help him out, but I didn't need help at all?
+/
+Donald_003_fAnd the two of us went fishing?
+>
+Player_000_choice_000_f#You were STUCK in the portal too...
+4
+Player_000_choice_001_fYep, it's ringing a bell!
+>
+Donald_005_f.Don't be ridiculous. I wasn't stuck! Anyway...
+v
+Donald_006_ffI made a fantastic <ActivityItem>Fish Salad</ActivityItem> with that fish we caught. It was delicious!
+8
+Donald_007_f(Hmm... Okay. Thanks for sharing, Donald.
+&
+Donald_004_fI knew you'd remember!

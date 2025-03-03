@@ -1,0 +1,3 @@
+TAG: Mushu_000_f
+Положите в печь <ActivityItem>Unlight Dragon Statues</ActivityItem> и <ActivityItem>Firewood</ActivityItem>.
+

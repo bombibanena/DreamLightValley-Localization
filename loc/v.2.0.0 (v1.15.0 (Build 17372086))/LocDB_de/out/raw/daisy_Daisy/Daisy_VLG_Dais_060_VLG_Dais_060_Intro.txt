@@ -1,0 +1,69 @@
+TAG: Daisy_002_f
+{PlayerName}, what would you say to throwing a party to celebrate our amazing Village?
+
+TAG: Player_000_choice_000_f
+Let's celebrate!
+
+TAG: Player_000_choice_002_f
+Maybe later.
+
+TAG: Daisy_003_f
+Fantastic, I was hoping you'd say that!
+
+TAG: Daisy_005_f
+The way I see it, you can throw a party for just about any reason.
+
+TAG: Daisy_006_f
+Big events, little wins â everything should be celebrated!
+
+TAG: Player_001_choice_000_f
+Yes! Exactly!
+
+TAG: Player_001_choice_001_f
+I mostly celebrate big events.
+
+TAG: Player_001_choice_002_f
+I'd love to celebrate, but parties feel overwhelming.
+
+TAG: Daisy_007_f
+Wow, we really are similar! I'm so glad we see eye to eye.
+
+TAG: Daisy_010_f
+Now, I've already done most of the planning, so there are just a few final details to take care of. I ordered the <ActivityItem>Gala Banquet</ActivityItem> from Remy.
+
+TAG: Daisy_011_f
+Would you be a doll and get it for me? I have to put the finishing touches on the gala's secret, surprise location!
+
+TAG: Player_002_choice_000_f
+I'll do it!
+
+TAG: Player_002_choice_001_f
+Your excitement is amazing.
+
+TAG: Player_002_choice_002_f
+Another day, another errand...
+
+TAG: Daisy_001_f
+You're an absolute peach!
+
+TAG: Daisy_015_f
+Please <Lore>talk to Remy</Lore> as soon as you can.
+
+TAG: Daisy_000_f
+Well, I just LOVE throwing parties. I can't help it! And why would I? Oh, and about that <ActivityItem>Gala Banquet</ActivityItem>...
+
+TAG: Daisy_014_f
+Oh, {PlayerName}, I know how hard you work. I want this gala to celebrate all you've accomplished since you came to the Valley, too.
+
+TAG: Daisy_016_f
+It's just one itty-bitty favor before the event begins, promise!
+
+TAG: Daisy_008_f
+I understand that. You want to make the big things count. So do I. But I also think the little things deserve celebrating too. Like how nice the Village looks, the fact that we're together... Everything!
+
+TAG: Daisy_009_f
+Oh, don't worry. I'll make sure the music isn't too loud and that it's not too crowded. This will be a beautiful get-together with friends.
+
+TAG: Daisy_004_f
+Just don't wait too long. I have fabulous plans!
+

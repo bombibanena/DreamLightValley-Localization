@@ -1,0 +1,40 @@
+
+u
+
+Olaf_000_fgHi, {PlayerName}. I spent the whole morning collecting all the sticks lying around the Peaceful Meadow.
+>
+
+Olaf_001_f0So I am now the owner of an abundance of sticks!
+3
+
+Olaf_002_f%How many sticks do you have, Olaf...?
++
+
+Olaf_003_fOne hundred and thirty-eight.
+6
+
+Olaf_004_f(What do you think I should do with them?
+,
+Player_000_choice_000_fMake some chairs.
+I
+Player_000_choice_001_f.Give yourself a hundred and thirty-eight arms.
+H
+Player_000_choice_002_f-You collected all those sticks for no reason?
+X
+
+Olaf_005_fJWhat a wonderful idea! I'll get Kristoff to help me make them into chairs.
+W
+
+Olaf_006_fIThen everyone in the Village will be able to sit down whenever they want!
+%
+
+Olaf_007_fBut where would they...
+>
+
+Olaf_008_f0Oh! Hee-hee-hee! You are so funny, {PlayerName}!
+
+
+Olaf_009_fNo...
+M
+
+Olaf_010_f?Collecting them was fun, and fun is one of my favorite reasons!

@@ -1,0 +1,564 @@
+TAG: CharacterMail!BeautyBeast!Beast_Mail001_Message
+{PlayerName}, я шел по долине с Белль, когда она комментировала, как было бы здорово иметь овощную пятнистость с рельсами или двумя.
+
+TAG: CharacterMail!BeautyBeast!Beast_Mail001_MessageTitle
+Для тебя.
+
+TAG: CharacterMail!BeautyBeast!Belle_Mail001_Message
+Я хотел поделиться с вами специальным рецептом "Серые штучки", это была одна из специальностей кухни в замке Зверь и я просто знаю, что ты найдешь его таким же вкусным и очаровательным, как и я. Я собрал всех "Ингредиентов", чтобы ты мог сделать его сам, конечно, ты можешь использовать его для чего угодно. Я знаю, что у тебя замечательное воображение!
+
+TAG: CharacterMail!BeautyBeast!Belle_Mail001_MessageTitle
+Что-нибудь вкусное.
+
+TAG: CharacterMail!BeautyBeast!Gaston_Mail001_Message
+{PlayerName}, я навожу на тебя, чтобы ты прислал мне кое-какие материалы.
+
+TAG: CharacterMail!BeautyBeast!Gaston_Mail001_MessageTitle
+За моего сообщника.
+
+TAG: CharacterMail!Brave!Merida!VLG010Mail_Message
+{PlayerName},<br><br>Bind выглядит намного лучше, и гораздо меньше Snippets беспокоит меня. Я очень ценю это.<br><br>Oh, я забыл один последний совет от моего отца...
+
+TAG: CharacterMail!Brave!Merida!VLG010Mail_MessageTitle
+Спасибо, что поймал Сниппетс!
+
+TAG: CharacterMail!Brave!Merida!VLG020_Message
+{PlayerName},<br><br>Флин и я уже говорим о нашем соревновании по НИМТ. Мы посмотрим, кто из нас сможет подняться на вершину этой статуи Аид в Mythopia и т.д.
+
+TAG: CharacterMail!Brave!Merida!VLG020_MessageTitle
+Дружелюбное соревнование...
+
+TAG: CharacterMail!Brave!Merida!VLG030Mail_Message
+{PlayerName},<br><br>Это звучит странно, но я почти рад, что Аид украл сокровище моего клана сейчас.
+
+TAG: CharacterMail!Brave!Merida!VLG030Mail_MessageTitle
+Связь со старыми друзьями.
+
+TAG: CharacterMail!Brave!Merida!VLG040Mail_Message
+{PlayerName},<br><br>I не может перестать думать о том, что вы сделали для Вале. Когда вы появились, здесь было так темно, и повсюду были чернила. Теперь это место чувствует себя домом. Фестиваль сделал меня таким счастливым, и мистер МакДак тоже был счастлив.<br><br> Подписано,<br>Мерида, гордая дочь Клана Данброха.
+
+TAG: CharacterMail!Brave!Merida!VLG040Mail_MessageTitle
+Фестиваль был потрясающим!
+
+TAG: CharacterMail!Cinderella!FairyGodMother_Mail001_Message
+Моя дорогая, приложенный знак моей признательности, поблагодарить вас за всю вашу усердную работу, это позволит вам сделать красивую корзину маригольдов, чтобы добавить в деревню, если хотите, или сохранить для себя все, что вы считаете лучшим, дитя.
+
+TAG: CharacterMail!Cinderella!FairyGodMother_Mail001_MessageTitle
+Предложение цветов.
+
+TAG: CharacterMail!DreamlightValley!Forgotten_Mail001_Message
+Я бродил по долине в поисках лучшего места для написания поэзии, когда чуть не споткнулся на корень дерева и упал на лицо.
+
+TAG: CharacterMail!DreamlightValley!Forgotten_Mail001_MessageTitle
+Как скажешь.
+
+TAG: CharacterMail!DreamlightValley!Forgotten_SkullRock_Message
+Дорогой {PlayerName}, я пытаюсь понять, что это за сделка с "Черепным камнем" на пляже Даззл, это занимает у меня немного больше времени, чем я ожидал, я очень сожалею, но я начинаю вспоминать кое-что я думаю, что мы играли там с кем-то я просто... я бы хотел вспомнить кто бы это ни был... ты думаешь, они все еще могут застрять внутри?
+
+TAG: CharacterMail!DreamlightValley!Forgotten_SkullRock_MessageTitle
+Прошу прощения.
+
+TAG: CharacterMail!Encanto!Mirabel_Mail001_Message
+У меня есть кое-какая забавная идея для тебя. что это хорошая идея. я уверена, что то, ради чего ты их используешь, будет великолепно!
+
+TAG: CharacterMail!Encanto!Mirabel_Mail001_MessageTitle
+Наши соседи по перьям.
+
+TAG: CharacterMail!Encanto!Mirabel_Mail002_Message
+Хола {PlayerName}! У меня отличные новости! Таинственный Даритель снова ударил. Я нашёл красивую кучу цветов у моей двери! Они такие же красивые, как те, что растут у моей сестры Изабелы. В любом случае, я подумал, что вы могли бы взять их и сделать цветочные коробки для Долины? Хаста Луэго, Мирабель
+
+TAG: CharacterMail!Encanto!Mirabel_Mail002_MessageTitle
+Загадочные новости!
+
+TAG: CharacterMail!Expansion02!Mission!MRQS_E02_010_MeridaInvite_Message
+{PlayerName}<br><br>The Storybook Vale крайне нуждается в вашей помощи. "Neverfeer" на нашей стороне. Старая магия разваливается на швы, и Вале кровоточит чернила. Худшие сказки рассеяны! Вы, и только вы, можете убрать беспорядок, который сделали Малефисента и Аид.<br><br>I послали волшебное устройство, чтобы забрать вас. Он ждет вас в порту Старпы. Если вы не уверены, где найти порт Старпы, возможно, мой старый друг Мерлин сможет помочь вам.<br><br>Simply примет мое приглашение, когда вы будете готовы к вашему приключению в "Storybook Vale".<br>0<br>1 Yours, если вы не знаете, где найти порт Старпы, возможно, мой старый друг <br>2-Хранитель Лоре"
+
+TAG: CharacterMail!Expansion02!Mission!MRQS_E02_010_MeridaInvite_MessageTitle
+"Сказочная Долина" ждет...
+
+TAG: CharacterMail!Expansion02!Mission!VLG_Meri_040_TianaRecipe_Message
+Эй {PlayerName},<br><br>I нашёл рецепт Мерида который искал, я оставил несколько нот для некоторых специй, которые вы можете добавить для дополнительного вкуса. Я не смог устоять! Я надеюсь Мерида понравится.<br><br> И я с нетерпением жду фестиваля.<lw>Свидеть вас в ближайшее время,<br>Тиана
+
+TAG: CharacterMail!Expansion02!Mission!VLG_Meri_040_TianaRecipe_MessageTitle
+Мерида Рецепт
+
+TAG: CharacterMail!Frozen!Anna_Mail001_Message
+Эй, {PlayerName}! Я только что нашел что-то крутое, спрятанное в лесу Вэлора. Похоже, кто-то спрятал там целую кучу железа и кирпича.
+
+TAG: CharacterMail!Frozen!Anna_Mail001_MessageTitle
+Нашел что-то аккуратное...
+
+TAG: CharacterMail!Frozen!Anna_Mail002_Message
+Дорогой {PlayerName}, ты хоть представляешь, кто этот Таинственный Даритель? Похоже, все в деревне говорят об этом, кроме мистера МакДака. Может быть, он думает, что они глупы за то, что раздают вещи? Я должен подумать об этом. В любом случае, "Таинственный Даритель" оставил мне "Ингредиенты", чтобы сделать горячее какао! Это идеальный напиток перед сном, после увлекательной семейной игры или завтрака... Вообще-то, нет времени для шоколада, да? наслаждайся!
+
+TAG: CharacterMail!Frozen!Anna_Mail002_MessageTitle
+Загадка лучше, чем шарады!
+
+TAG: CharacterMail!Frozen!Elsa_Mail001_Message
+{PlayerName}, я тренировался с моей силой на Фростед Хайтс, и подумал, что могу дать вам то, что я сделал как строительный материал.
+
+TAG: CharacterMail!Frozen!Elsa_Mail001_MessageTitle
+Просто идея.
+
+TAG: CharacterMail!Frozen!Kristoff_Mail001_Message
+Эй {PlayerName}, я подумал, можно ли добавить стойку с инструментами в Виллидж на случай, если кому-то это понадобится? Я собрал материалы на случай, если вам понравится эта идея.
+
+TAG: CharacterMail!Frozen!Kristoff_Mail001_MessageTitle
+Что-то полезное.
+
+TAG: CharacterMail!Frozen!Kristoff_Mail002_Message
+Эй {PlayerName}, угадай что? у меня есть подарок от "Таинственного Дарителя!" Похоже, это все, что нужно, чтобы сделать костер. У меня уже есть все необходимые припасы, так что я подумала, что поделюсь этим с тобой.
+
+TAG: CharacterMail!Frozen!Kristoff_Mail002_MessageTitle
+Нужно согреться...
+
+TAG: CharacterMail!Frozen!Olaf_Mail001_Message
+{PlayerName}, как существо из зачарованного снега, нет ничего, что я люблю больше, чем день на пляже.
+
+TAG: CharacterMail!Frozen!Olaf_Mail001_MessageTitle
+День пляжа?
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail001_Message
+{PlayerName}, я нашел это, когда нырял с берега пляжа Даззл.
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail001_MessageTitle
+Интересное открытие!
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail002_Message
+Я не могу поверить, как мне повезло! Таинственный Даритель оставил мне немного хвойного дерева и камня. Это то, что нам нужно, чтобы сделать маленькую грудь, чтобы держать коллекцию. Кто бы это ни был, они так много думают об этих подарках: они должны знать, как сильно я люблю собирать вещи и делиться. Пожалуйста, возьмите немного того, что они мне дали, чтобы вы могли сделать грудь или что-нибудь еще, что вам понравится. Увидимся позже, Ариэль
+
+TAG: CharacterMail!LilMermaid!Ariel_Mail002_MessageTitle
+Мечта коллекционера сбылась!
+
+TAG: CharacterMail!LilMermaid!Eric_Mail001_Message
+{PlayerName}, я чувствую, что мы с тобой похожи. Мы оба ценим хранение чего-то, что вам нужно на корабле, когда вылетает в море в течение нескольких месяцев. С учетом этого, я подумал, что мог бы отправить вам кое-какие вещи, которые я нашел во время уборки моего корабля.
+
+TAG: CharacterMail!LilMermaid!Eric_Mail001_MessageTitle
+Возможный проект?
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail001_Message
+Не удивляйся, у меня есть для тебя эти маленькие знаки, используй их, как хочешь, но если ты послушаешь свою бедную дорогую Урсула, сделай книжную полку для твоего логова или сохрани ее для чего-нибудь другого, но помни, что это я послал тебе эти материалы по доброте моего сердца.
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail001_MessageTitle
+Небольшой подарок, никаких обязательств.
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail002_Message
+{PlayerName}, ты ведь таинственный Даритель, не так ли? Эта щедрость сверху кажется прямо в твоем ручье. Если я прав, ты можешь забрать свои дары и сделать себе милый водный куш вместо этого. Я знаю лучше, чем принимать подарки из ниоткуда. Ты никогда ничего не получишь, знаешь. Твой, Урсула
+
+TAG: CharacterMail!LilMermaid!Ursula_Mail002_MessageTitle
+Я вижу тебя, ангельская рыбка.
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail001_Message
+Вы знали, что кофе и шоколад хороши? Стич присылают вам кофе и молоко.
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail001_MessageTitle
+Кофе!!!!!!!!!!!!
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail002_Message
+{PlayerName}, Стич делится с вами подарком!!! Такка, таинственный даритель! Ты делаешь коконот-каке, да? Хорошо. Пока, Стич
+
+TAG: CharacterMail!LiloStitch!Stitch_Mail002_MessageTitle
+Кокосовые орехи для Стич!
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG010_Mail_Message
+{PlayerName}, еще раз спасибо за имбирную печенье, зубную щетку и зубную пасту. Благодаря вам, я могу есть в Чез Реми, когда захочу, и никто не уйдет! Я чувствую себя самым лучшим из себя благодаря вам!<br><br> Вашу приятеля, Пумба.<br><br>(А небольшое добавление Мерлин: я вызвался снять диктовку с Пумба и послать от его имени некоторые миссис. Он был весьма заинтригован идеей:"почтовые отправления"и я был слишком счастлив оказать ему помощь, поскольку у него нет ни способности писать своими копытами, ни знания о том, как заклинать.)
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG010_Mail_MessageTitle
+Лучше, чем когда-либо
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG020_Mail_Message
+{PlayerName}, я до сих пор не могу поверить, что вы организовали настоящее художественное шоу всех наших гончарных творений. Вся деревня должна увидеть мою креативную сторону. Это больше, чем какой-либо джунгльский Warthog когда-либо мог мечтать!<br><br>Your дружок, Пумба.<br><br> (Добавление Мерлин: Почему Пумба гончарные создания весьма впечатляющи! Я полагаю, вы можете научить старый Warthog новым трюкам. Возможно, я должен заказать один для Библиотеки...)
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG020_Mail_MessageTitle
+Художественное шоу
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG030_Mail_Message
+{PlayerName}, с тех пор как нам было весело гоняться за нашим метеоритом, у меня были проблемы со сном. Все, что я хочу сделать, это наблюдать за небом, как только заходит солнце. Мы живём в красивом месте, не так ли?<br><br> Ваш приятель, Пумба.<br><br>(Addendum из Мерлин: Наш дорогой Пумба имеет сердце поэта, не так ли? Я не могу согласиться больше. Я сам сплю после ощущения нового открытия!)
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG030_Mail_MessageTitle
+Метеористы!
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG040_Mail_Message
+{PlayerName}, просто хотел, чтобы вы знали, что Симба, Тимон и я съели All the Night Mites на банкете. Каждый последний. Благодаря вашим великим способностям Долина в безопасности, и у нас был большой пир. Если вы снова хотите охотиться на жуков, могу я прийти?<br><br> Ваш приятель, Пумба.<br><br>(Добавление от Мерлин: Кто мог предсказать, что Тимон и Симба0 спасут Долину с их жалким аппетитом? Конечно, им повезло, что они получили немного помощи от Правителя долины Мечты, не так ли?
+
+TAG: CharacterMail!LionKing!Pumbaa!Pumb_VLG040_Mail_MessageTitle
+Ночные миты
+
+TAG: CharacterMail!LionKing!Timon!Timo_RLM_010_WelcomeMail_Message
+{PlayerName},<br><br> Мы просто хотели сказать"Поздравляю."Мы также хотели поблагодарить вас за то, что вы освободили Пумба из журнала, привезли нас в эту удивительную деревню, и воссоединили нас с нашими друзьями Симба и Нала. (Серьёзно, мы впечатлены.)<br><br> Your bridies, <br><br><br>0<br>1
+
+TAG: CharacterMail!LionKing!Timon!Timo_RLM_010_WelcomeMail_MessageTitle
+Ты лучший!
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG010_Mail_Message
+Эй, {PlayerName}!<br><br>T Спасибо, что снова помогаешь мне чувствовать себя как дома. Я все еще не люблю, что Шрам бродят по дому, но я думаю, что привыкну к этому. И я думаю, что я развиваю вкус мороженого! Твой совершенно холодный приятель Тимон<br><br>(Маленькое добавление от Мерлин: так как письменный язык не знаком с Тимон, я вызвался сделать для него транквилизацию этого мороженого. О, и я тоже очень люблю мороженое.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG010_Mail_MessageTitle
+Чувствую, что уже расслабился...
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG020_Mail_Message
+Дорогой {PlayerName},<br><br> Это то, как Мерлин говорит, что вы должны начать одну из этих вещей. В любом случае, спасибо еще раз за то, что помог мне сделать мой слайдшоу таким успешным. Доказательство чувствительности Шрам было идеальным поворотом в конце!<br><br> Ваш приятель,<br><br>Тимон<br>0<br>1(Добавление из <br>2: Возможно, я должен дать поэзийному клубу несколько примеров из моей библиотеки. Они могли бы, хм... учиться на примере.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG020_Mail_MessageTitle
+Слайдшоу успех!
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG030_Mail_Message
+Эй, {PlayerName}!<br><br>As я предсказывал, что мои переговоры Тимон привели к успеху! Конечно, мне, возможно, нужно внести некоторые коррективы, но благодаря вам, теперь я знаю, что нужно истинному лидеру: хороший друг<br><br>Your дружок,<br><br>Тимон<br><br>0 (добавление <br>1: <br>2 правильно. Значение дружбы никогда не может быть недооценено.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG030_Mail_MessageTitle
+Чувствую себя лидером...
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG040_Mail_Message
+Эй {PlayerName},<br><br>I забыл поблагодарить вас за помощь с Ночными Митам! Так что, спасибо! Вы действительно помогли спасти Долину там, приятель. Конечно, я сделал большую часть работы на ногах. Но, эй, у нас был отличный пир, и эти Ночные Миты были восхитительны!<br><br>Ваш приятель,<br><br>Тимон<br><br> (добавление из <br>0: хотя я не могу подтвердить вкусность Ночных Митов, я могу от всего сердца поблагодарить вас за ваши храбрые усилия.)
+
+TAG: CharacterMail!LionKing!Timon!Timo_VLG040_Mail_MessageTitle
+Ночной мятный кошмар!
+
+TAG: CharacterMail!Mickey!Daisy_Mail001_Message
+{PlayerName}, ты и я думаю, что очень похожи, поэтому я уверена, что ты согласишься, что Долина будет выглядеть великолепно с добавлением беседки! О, я знаю, что это амбициозно, но я собрала кое-какие припасы, чтобы доставить тебя по пути! Конечно, я знаю, что ты найдёшь что-то замечательное, что бы сделать с ними, несмотря ни на что.
+
+TAG: CharacterMail!Mickey!Daisy_Mail001_MessageTitle
+Чувствуешь амбициозность?
+
+TAG: CharacterMail!Mickey!Daisy_Mail002_Message
+Дорогой {PlayerName}, я расследовал, и я собрал следующие подсказки о Тайном Дарителе... они оставили перо с Микки Маус, так что у них должны быть деньги, и они, должно быть, были в Долине долгое время, чтобы узнать так много деревенских людей. Основываясь на том, что они оставили мне, они ясно знают, какой вкус у меня есть в décorе. Может, ты сможешь использовать это, чтобы сделать великолепный шарик для Долины? Я напишу, если я узнаю больше. xoxoxo, Дейзи
+
+TAG: CharacterMail!Mickey!Daisy_Mail002_MessageTitle
+Мы почти раскрыли это...
+
+TAG: CharacterMail!Mickey!Donald_Mail001_Message
+Эй, {PlayerName}, я вчера рыбачил на пляже Даззл, было очень темно, и я подумал:"Разве это не выглядит очень светло?"Я даже нашла припасы, чтобы приготовить пару факелов, может, это глупо, или тебе это нравится?
+
+TAG: CharacterMail!Mickey!Donald_Mail001_MessageTitle
+Что думаете?
+
+TAG: CharacterMail!Mickey!Goofy_Mail001_Message
+Слушай, {PlayerName}, я просто подумал о арках Треллис в мире нет ничего такого, как хорошо построенная арка Треллис, знаешь?
+
+TAG: CharacterMail!Mickey!Goofy_Mail001_MessageTitle
+Новый проект для тебя!
+
+TAG: CharacterMail!Mickey!Goofy_Mail002_Message
+Я уже поймал кучу рыбы и не хочу, чтобы она пошла плохо, так что я даю тебе подарок. у кого бы она ни была уверена, у кого есть причудливый вкус, да? Пока, Гуфи
+
+TAG: CharacterMail!Mickey!Goofy_Mail002_MessageTitle
+Гаурш, какой подарок!
+
+TAG: CharacterMail!Mickey!Mickey_Mail001_Message
+Эй, {PlayerName}! Я обожаю раздавать угощения своим приятелям, а ты один из лучших приятелей! Я знаю, что ты настоящий ручной человек, так что я подумал, что пришлю тебе немного ингредиентов для свежих шоколадных печенья с чипом.
+
+TAG: CharacterMail!Mickey!Mickey_Mail001_MessageTitle
+Думал, тебе понравится!
+
+TAG: CharacterMail!Mickey!Mickey_Mail002_Message
+Приятель, у меня подарок от "Таинственного Дарителя!" Они оставили корзину малины и белое перо прямо у меня на пороге, думаешь, это может быть подсказкой?
+
+TAG: CharacterMail!Mickey!Mickey_Mail002_MessageTitle
+Загадочная подсказка!
+
+TAG: CharacterMail!Mickey!Minnie_Mail001_Message
+{PlayerName}, я видел, как ты бегал по долине в последнее время, и ты, должно быть, ужасно проголодался.
+
+TAG: CharacterMail!Mickey!Minnie_Mail001_MessageTitle
+Специальное угощение только для тебя!
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_Mail002_Message
+Дорогой {PlayerName}, я уверен, что вы уже это поняли, но да, я Тайный Даритель, я думаю, некоторые из деревенских людей уже на меня вышли. Я просто скажу, что иногда я хочу поделиться своим богатством, не принимая во внимание, и вот кое-что для вас за то, что вы сохранили мой секрет и за то, что вы были самым щедрым человеком в Долине на милю!
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_Mail002_MessageTitle
+Да, это я!
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_Message
+Дорогой {PlayerName}, в последнее время у меня на мозге были шарики. Они не только привлекают клиентов, но и смотрятся на любые праздники. Я подумал, что пришлю кое-какие припасы, если вы скоро будете готовы к чему-то особенному.
+
+TAG: CharacterMail!Mickey!ScroogeMcDuck_MessageTitle
+Хочешь отпраздновать?
+
+TAG: CharacterMail!Moana!Maui_Mail001_Message
+{PlayerName}, я проснулся этим утром, думая обо всей тяжелой работе, которую ты делаешь для Деревни. Ты напоминаешь мне меня. Серьезно! Я подумал, что какая-то рыбацкая приманка может облегчить твой улов дня. Я собрал вещи, чтобы ты начал.
+
+TAG: CharacterMail!Moana!Maui_Mail001_MessageTitle
+Для легенды!
+
+TAG: CharacterMail!Moana!Moana_Mail001_Message
+{PlayerName}, я подумал, что было бы неплохо, если бы на пляже была тарелка из гранита, немного легче продолжать идти, чем костер, и место, где деревенские люди могли бы собраться, чтобы петь песни и рассказывать истории! Я собрал кое-какие припасы, чтобы начать. Как ты думаешь?
+
+TAG: CharacterMail!Moana!Moana_Mail001_MessageTitle
+Для пляжа.
+
+TAG: CharacterMail!MonstersInc!MikeWazowski_Message
+Потому что он был лизан! просто маленькая шутка для тебя... и мы с Салли почистили его, чтобы построить совершенно новую грудь... в основном... ты все еще должен добавить свет мечты. мы не были уверены, где найти эту штуку! в любом случае наслаждайся!
+
+TAG: CharacterMail!MonstersInc!MikeWazowski_MessageTitle
+Почему конверт проиграл свою битву?
+
+TAG: CharacterMail!MonstersInc!Sulley_Mail001_Message
+Эй {PlayerName}, вчера вечером я собирал "Ингредиенты" на суши-вечеринку, когда спросил себя:"Знаешь, кто бы хотел суши? Мой старый друг {PlayerName}."Итак, вот несколько дополнительных ингредиентов, которые у меня есть для вас.
+
+TAG: CharacterMail!MonstersInc!Sulley_Mail001_MessageTitle
+Что-то рыбьее.
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail001_Message
+{PlayerName}, у меня появилась удивительная возможность добавить немного духа Хэллоуина в Деревню целый год. Я уже взял на себя смелость собрать материалы. Вы можете использовать их, чтобы сделать чудовищное украшение и добавить его где угодно в Долине для страшного сюрприза. Как весело!
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail001_MessageTitle
+Жуткое предложение!
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail002_Message
+Дорогой {PlayerName}, загадочный кто-то оставляет подарки для всех в Долине! Как и мой старый друг Сэнди Когти! Я чувствую себя вдохновлённым, чтобы участвовать в дарении духа благодаря этому доброжелательному благодетелю. Они подарили мне эти чудесные снежные шары. И я хочу, чтобы ты взял их вместе с морковью, тканью и камушек, чтобы сделать снеговика! Как весело! Твой друг Джек Скеллингтон
+
+TAG: CharacterMail!Nightmare!JackSkellington_Mail002_MessageTitle
+Что это?
+
+TAG: CharacterMail!Oswald!Oswald_Mail001_Message
+Я тут подумал о том, как мы могли бы привести Долину в форму или я должен сказать SHAPES? Почему бы не встряхнуться с какими-нибудь геометрическими садовыми кроватями с черными и белыми цветами? Я думаю, это было бы здорово. Я даже собрал все вещи, чтобы вы могли перейти к бизнесу. Конечно, вы можете использовать их для чего угодно. Это ваша Долина, в конце концов.
+
+TAG: CharacterMail!Oswald!Oswald_Mail001_MessageTitle
+Поставить это место в форму...
+
+TAG: CharacterMail!Oswald!Oswald_MailClockCritter_Message
+{PlayerName}, как поживаешь, приятель?! Знаю, ты сказал остыть, свернув часы, но старина Чарльстон не мог удержать свои пальцы на ногах, так что я отпустил его! Он отличный парень и очень хочет порезать коврик с тобой на каперсах. Позаботься о нём! Твой друг Освальд
+
+TAG: CharacterMail!Oswald!Oswald_MailClockCritter_MessageTitle
+Самое время!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG010Mail_Message
+Я думала о моем папе и о том, как он научил меня, что самое важное, что ты можешь сделать с едой, это поделиться этим со своей общиной, и ты помогла мне с этим, и теперь я чувствую себя ближе как к его памяти, так и к людям в Долине.
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG010Mail_MessageTitle
+Так хорошо вернуться.
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG020Mail_Message
+Маленький Луи так счастлив в своем новом доме, и я думаю, он наконец-то научился держаться подальше от Матушка Готель Матушка Готель.
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG020Mail_MessageTitle
+Маленький Луи говорит спасибо!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_KristoffWin_Message
+Может быть, это потому, что каджун еда для него так новенькая, но у него есть какие-то идеи, не связанные с коробкой, я очень надеюсь, что он продолжит пробовать новые идеи на кухне!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_KristoffWin_MessageTitle
+Кристофф удивительно творческий!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_Message
+Я никогда не видел, чтобы кто-то так радовался новой кухне, что она уже сделала креветок, и она едет к совершенствованию муфулетты, если я ищу кого-то, кто будет в восторге от готовки, Анна определенно был правильным выбором для конкурса!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_MessageTitle
+Анна так счастлив!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_MikeWon_Message
+Я до сих пор не знаю, как он заставил эти овощи поджариться для кипения морепродуктов, и я не могу наложить палец на специальные ингредиенты, которые он добавил в свой суп Okra.
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG030Mail_MikeWon_MessageTitle
+Подход Майк Вазовски был таким необычным!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG040Mail_Message
+Я так рада, что мне пришлось поделиться одной из моих традиций Нового Орлеана со всеми здесь Я знаю, Навин будет сожалеть, что он пропустил это он бы принёс свою укулеле и провел все время играя в джаз с Стич!
+
+TAG: CharacterMail!PrincessFrog!Tiana!VLG040Mail_MessageTitle
+Парад был прекрасен!
+
+TAG: CharacterMail!Ralph!Vanellope_Mail001_Message
+{PlayerName}, у вас раньше были Jam Waffles? JAM. WAFFFLES. Они такие вкусные! Я включил всех ингредиентов, которые вам нужны.
+
+TAG: CharacterMail!Ralph!Vanellope_Mail001_MessageTitle
+Это мой джем!
+
+TAG: CharacterMail!Ralph!Vanellope_Mail002_Message
+Значит, этот "Таинственный Даритель" оставил мне несколько крутых драгоценностей, но у меня уже есть большая коллекция драгоценностей и блестящего хлама от спелунинга в Долине.
+
+TAG: CharacterMail!Ralph!Vanellope_Mail002_MessageTitle
+Посмотри на это сокровище!
+
+TAG: CharacterMail!Ratatouille!Remy!SEC020Mail_Message
+Я только что заметила, что похожа на поварскую книгу в Глэйде Доверия, она была немного большой для меня, чтобы забрать и передвигаться, но если ты ее схватишь, я уверена, что мы сможем найти в ней несколько интересных рецептов!
+
+TAG: CharacterMail!Ratatouille!Remy!SEC020Mail_MessageTitle
+Кулинарное развитие!
+
+TAG: CharacterMail!Ratatouille!Remy_Mail001_Message
+{PlayerName}, рыбалка этим утром, Дональд Дак принес мне этот прекрасный Уоллей, я думаю, он готовил бы фантастический Уоллей в Папиллоте.
+
+TAG: CharacterMail!Ratatouille!Remy_Mail001_MessageTitle
+Добыча дня!
+
+TAG: CharacterMail!Ratatouille!Remy_Mail002_Message
+Эй {PlayerName}, кто-то оставил мне неожиданный подарок в ресторане, и я понятия не имею, от кого он пришел! Вы что-нибудь слышали об этом? Хотя я ценю этот подарок, у меня больше сои и пшеницы, чем мне сейчас нужно. Может быть, вы могли бы сделать несколько вегетарианских пельменей? Просто не забудьте добавить овощи! Бон Апплет! Реми
+
+TAG: CharacterMail!Ratatouille!Remy_Mail002_MessageTitle
+Таинственный Даритель снова ударил!
+
+TAG: CharacterMail!Ratatouille!RemySpecialDeliveries_Compensation_Message
+{PlayerName}, мне только что удалось получить большую скидку на Железный Железный Железный Желез! Я смогу дать вам намного больше за каждую ежедневную доставку с этого момента. Сейчас будет немного легче сделать столы и стулья, так как это более высокое качество. И эй, я также добавил несколько Star Coins для вас из-за ваших проблем! Не могу дождаться увидеть, что вы делаете.
+
+TAG: CharacterMail!Ratatouille!RemySpecialDeliveries_Compensation_MessageTitle
+Больше Железо для тебя!
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail001_Message
+{PlayerName}, я заметила, что земля вокруг Библиотеки Мечты может выглядеть немного более приветливой. Но я собрала некоторые материалы, из которых вы могли бы сделать что-то. Могу ли я предложить сделать несколько цветных фонарей для размещения рядом с Библиотекой? Это зависит от вас, конечно.
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail001_MessageTitle
+Маленькая просьба.
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail002_Message
+Дорогой {PlayerName}, меня посетил таинственный благодетель! Кто-то оставил мне маленький пакет драгоценных драгоценных камней в моей библиотеке. Мало кто знал, они дали мне что-то гораздо более ценное: загадку! Пожалуйста, возьмите эти драгоценности для своих целей, как я их не использую. Кем может быть этот Таинственный Даритель? Самый искренний Мерлин
+
+TAG: CharacterMail!SwordInStone!Merlin_Mail002_MessageTitle
+Загадка, которую нужно разгадать...
+
+TAG: CharacterMail!Tangled!Flynn!Flyn_SEC_Message
+{PlayerName},<br><br><lw>T Спасибо, что помогли Рапунцель и мне найти путь друг к другу.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn_SEC_MessageTitle
+Спасибо за воссоединение.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn010_mail_Message
+{PlayerName},<br><br><lw>Tспасибо снова за то, что позаботился об этой проблеме с фрогом Сниппет! По крайней мере, это одна вещь, о которой мне больше не нужно беспокоиться.<br><br><lw> Ваш друг, Флин Райдер
+
+TAG: CharacterMail!Tangled!Flynn!Flyn010_mail_MessageTitle
+Наконец-то, отдохни от лягушачьего снайппета!
+
+TAG: CharacterMail!Tangled!Flynn!Flyn020_mail_Message
+{PlayerName},<br><br>I все еще сходится с теми воспоминаниями, которые мы восстановили, но я рад, что они вернулись.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn020_mail_MessageTitle
+Счастлив снова запомнить.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn030_mail_Message
+{PlayerName},<br><br><lw> В конце концов, я чувствую, что я снова мой старый болтун! Это ограбление действительно привело к моему адреналину, понимаешь? И кроме того, мое имя наконец-то очищено. Большое спасибо за помощь с этим! Не смог бы сделать это без тебя!<br><br><lw> Твой друг Флин
+
+TAG: CharacterMail!Tangled!Flynn!Flyn030_mail_MessageTitle
+Что за ограбление!
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_Message
+{PlayerName}!<br><br><lw> Запуск книги был полным успехом. Столько деревенских жителей уже сказали мне, что они любят истории! Я определенно могу привыкнуть к этому!<br><br><lw>- Флин'"Юджин"
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_MessageTitle
+Запуск книги SCCESS.
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_rapunzel_Message
+{PlayerName},<br><br><lw>My пуск книги был успешным! Я получил так много комплиментов за мои героические приключения и невероятный написание Белль. Я надеюсь Рапунцель может быть заинтересован в прочтении моей книги. Вы не могли бы принести ей копию?<br><br><lw>Thanks мой друг,<lw>Eugene
+
+TAG: CharacterMail!Tangled!Flynn!Flyn040_mail_rapunzel_MessageTitle
+Мне нужно рассказать кое-кому о моей книге.
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail001_Message
+{PlayerName}, ты чувствуешь себя сбитой вниз? Я не мог не заметить, что деревня выглядела немного уставшей, дорогая. Я беспокоюсь! Я подумал, что, возможно, ты сможешь выжить с цветочными кроватями, чтобы улучшить вид деревни. Конечно, тебе придется выбрать цветы, но я не могу делать все здесь, не так ли?
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail001_MessageTitle
+У меня есть мысли.
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail002_Message
+Дорогой {PlayerName}, когда я услышал, что в Долине был таинственный даритель подарков, я знал, что это всего лишь вопрос времени, прежде чем я найду посылку на пороге. Это не будет моим первым тайным поклонником, в отличие от тебя. О, я просто дразню! Ну, мне дали эти материалы и я понятия не имею, что делать со всем этим углем. Но я знаю, что вы любите готовить. Я уверен, что мой поклонник скоро вспомнит, что FLOWERS гораздо более подходящий. Ваш знакомый Матушка Готель Матушка Готель
+
+TAG: CharacterMail!Tangled!MotherGothel_Mail002_MessageTitle
+У меня есть тайный поклонник!
+
+TAG: CharacterMail!Tangled!Rapunzel_Mail001_Message
+Здравствуйте, {PlayerName}, я тут подумал, как было бы здорово, если бы у вас был большой столик, чтобы поработать над ним.
+
+TAG: CharacterMail!Tangled!Rapunzel_Mail001_MessageTitle
+Для твоего искусства?
+
+TAG: CharacterMail!ToyStory!Buzz_Mail001_Message
+Эй, Космический Рейнджер! Вы не думали добавить больше плотных станций вокруг Долины, чтобы облегчить доступ к вашим инструментам? Я думаю, это изменит ваши различные проекты. Я собрал несколько припасов для другой станции Крейфтинга на случай, если вы согласитесь и захотите начать. Сделайте с ними все, что хотите, просто предложение, конечно же!
+
+TAG: CharacterMail!ToyStory!Buzz_Mail001_MessageTitle
+Твоя следующая миссия.
+
+TAG: CharacterMail!ToyStory!Woody_Mail001_Message
+Привет, напарник! Я исследую долину Мечты и соберу для тебя кое-какие специальные материалы! Они помогут тебе сделать изящный мяч, который ты можешь поставить где угодно в Долине, и помочь принести немного больше веселья в это место, или оставить их, каждый ковбой, выживающий в дикой природе, узнает, когда использовать ресурсы и когда держать их в сумке...
+
+TAG: CharacterMail!ToyStory!Woody_Mail001_MessageTitle
+Для моего любимого заместителя.
+
+TAG: CharacterMail!ToyStory!Woody_Mail002_Message
+Наверное, вы уже слышали о том, что этот Тайный Даритель посылает подарки всем. Оказалось, сегодня мой счастливый день! Кто-то оставил кучу дерева у меня дома. Надо отдать его им, это довольно умно, учитывая, что меня зовут Вуди. В любом случае, я подумал использовать его, чтобы сделать другую игрушечную коробку, но я подумал, что вы могли бы вместо этого построить новую мебель. Надеюсь, это пригодится. Твой приятель Вуди
+
+TAG: CharacterMail!ToyStory!Woody_Mail002_MessageTitle
+Кто бы это мог быть?
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail001_Message
+{PlayerName},<br><br>Shouble если вам понадобится дополнительная информация, я буду продолжать свои исследования в моей Лаборатории Дворца. Хотя у меня не хватает научных приборов, ограничения, надеюсь, вдохновят творческий подход.<br><br> Более скромно,<br><br>Джафар
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail001_MessageTitle
+Текущие исследования
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail002_Message
+{PlayerName},<br><br>I очень довольны тем, как вы помогли моему эксперименту! Теперь я удовлетворен тем, что с таким помощником, как вы, мы обнаружим многое, что в настоящее время скрыто о острове Этернити.<br><br>Yours в открытии,<br><br>Джафар
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail002_MessageTitle
+Светлое будущее для всех!
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail003_Message
+{PlayerName},<br><br>Much может быть извлечен из неудач, и если мы приобретем жизненно важные знания, то действительно ли мы потерпели неудачу? У меня есть кое-что интересное, и я должен поблагодарить вас за вашу помощь.<br><br>Yours с благодарностью,<br><br>Джафар
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail003_MessageTitle
+Уроки в неожиданных местах
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail004_Message
+{PlayerName},<br><br> Вы уничтожили мою лабораторию и разрушили мои планы. Вы можете думать, что я бессильна сейчас и вынуждена полагаться на вашу добрую волю. Если бы это было так, это было бы унизительно, но я уверяю вас, что это не так.<br><br>T, пока мы не встретимся снова,<br><br> Джафар
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail004_MessageTitle
+Конечно, мы можем прийти к соглашению?
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail005_Message
+{PlayerName},<br><br>Thugh Я возражаю против большей части судебного разбирательства, я должен признать, что вы были достаточно беспристрастны, чтобы рассмотреть вопрос о возможном оправдании доказательств. За это (и ничего другого) вы можете получить мою благодарность.<br><br>Felie,<br><br> Джафар
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail005_MessageTitle
+Я должен признать твою беспристрастность.
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail006_Message
+{PlayerName},<br><br> Это требует больших сил, чтобы простить своих противников. Учитывая ваши недавние действия, я намерен отложить некоторые планы... на данный момент.<br><br>Felie,<br><br>Джафар
+
+TAG: CharacterMail!VillageRequests!Aladdin!Jafar!Jafar_Mail006_MessageTitle
+Текущие деревенские отношения
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG010Mail_Message
+Слушай, как правило, я бы не вознаградил миниона, когда они дают мне что-то, что взрывается мне в лицо, но, может быть, давай попробуем начать все с правильной ноги. Возьми эту награду, не проводи все в одном месте!
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG010Mail_MessageTitle
+Для хорошего смертного.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG020Mail_Message
+В другой день, еще одна драхма, может быть, я позволил своему вспышке стать лучше, но я могу понять, когда поклонник делает мне крепость и предотвращает пожар, чтобы выйти из-под контроля.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG020Mail_MessageTitle
+От менеджера до миниона.
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG030Mail_Message
+Почему ты не предупредил меня, что быть знаменитостью - это тяжёлая работа?
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG030Mail_MessageTitle
+Твоя фаворитская знаменитость проверяет!
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG040Mail_Message
+Полагаю, я должен злиться на тебя за то, что ты не предупредил меня, что я приглашаю неблагодарных на мою вечеринку, но в конце концов это напомнило мне, что я Господь Подземного мира, и я должен гордиться этим!
+
+TAG: CharacterMail!VillageRequests!Hercules!Hades!VLG040Mail_MessageTitle
+Возвращаюсь к своим корням!
+
+TAG: Request!Secret!Flynn!SEC_Flyn_010_FlynnBook_Message
+{PlayerName},<br><br>My запуск книги был успешным! Я получил так много комплиментов за мои героические приключения и Белль невероятный написание. Я надеюсь Рапунцель может быть заинтересован в прочтении моей книги. Вы не могли бы принести ей копию?<br><br><lw>Thanks мой друг,<br><br><br>0Eugene
+
+TAG: Request!Secret!Flynn!SEC_Flyn_010_FlynnBook_MessageTitle
+Мне нужно рассказать кое-кому о моей книге.
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_GoofyBusinessCard_Message
+Я слышал, что Флин Райдер искал кого-то, кто опубликует его книгу! Я думаю, что смогу сделать очень хорошую работу. Вот моя визитка, если тебе интересно. Твой приятель Гуфи.
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_GoofyBusinessCard_MessageTitle
+Я бы с удовольствием опубликовал книгу Флин!
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_ScroogeBusinessCard_Message
+Здравствуйте, {PlayerName}! Я хотел бы предложить сделку. Выбери меня, чтобы опубликовать книгу мистера Райдера и я гарантирую отличные продажи! Возьми мою визитку, пока думаешь. Подписано Скрудж Макдак McDuck.
+
+TAG: Request!Village!Flynn!VLG_Flyn_040_ScroogeBusinessCard_MessageTitle
+Давайте работать вместе, чтобы опубликовать книгу Флин.
+
+TAG: Request!Village!Hades!VLG_Hade_030_Mail_Message
+Некогда отдыхать, {PlayerName}! Как отличный менеджер, я договорился с Аид и Гуфи. Я свяжусь с более подробной информацией позже, но сейчас мне нужно, чтобы вы подготовили Аид Kiosk, чтобы он мог обратиться к общественности. Я приложил список ресурсов, которые вам нужно собрать.
+
+TAG: Request!Village!Hades!VLG_Hade_030_Mail_MessageTitle
+Спроси тебя.
+

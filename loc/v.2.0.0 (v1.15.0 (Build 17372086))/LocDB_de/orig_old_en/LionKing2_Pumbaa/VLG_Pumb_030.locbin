@@ -1,0 +1,89 @@
+
+q
+DVillage!LionKing!Pumbaa!VLG_Pumb_030_Any_CompletedRequestDescription)Talk with Pumbaa about the meteor shower.
+á
+9Village!LionKing!Pumbaa!VLG_Pumb_030_AvailableDescriptionJPumbaa looks excited about something. Talk to him and see what's going on.
+˚
+>Village!LionKing!Pumbaa!VLG_Pumb_030_CompletedStoryDescription∏The meteorite showcase was a rousing success! Even though Timon is not convinced that you actually HAVE a meteorite, Pumbaa is very excited about everything he's learned about the sky.
+A
+0Village!LionKing!Pumbaa!VLG_Pumb_030_DisplayNameDown to Earth
+\
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_Possess01_StepDescription{itemName}.
+\
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_Possess02_StepDescription{itemName}.
+\
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_Possess03_StepDescription{itemName}.
+ï
+CVillage!LionKing!Pumbaa!VLG_Pumb_030_Group01_Step01_StepDescriptionNGather materials for the <ActivityItem>Meteor Shower Pamphlets</ActivityItem>:
+©
+=Village!LionKing!Pumbaa!VLG_Pumb_030_Group01_StoryDescriptionÁPumbaa tells you that he and Timon saw a blue star ‚Äî a sign that foretells the coming of a rare meteor shower. He asks you to help prepare and deliver pamphlets to other members of the Astronomy Club so they don't miss the event.
+h
+OVillage!LionKing!Pumbaa!VLG_Pumb_030_Group02_Step02_CraftItem01_StepDescriptionCraft the {itemName}.
+T
+DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step03_ReadyDescription{TargetNPC}.
+T
+DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step04_ReadyDescription{TargetNPC}.
+T
+DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step05_ReadyDescription{TargetNPC}.
+T
+DVillage!LionKing!Pumbaa!VLG_Pumb_030_Group03_Step06_ReadyDescription{TargetNPC}.
+î
+<Village!LionKing!Pumbaa!VLG_Pumb_030_Group03_StepDescriptionTGive <ActivityItem>Meteor Shower Pamphlets</ActivityItem> to Astronomy Club members:
+ä
+UVillage!LionKing!Pumbaa!VLG_Pumb_030_Group04_Step07_TalkToCharacter01_StepDescription1Regroup with {TargetNPC} about the meteor shower.
+~
+NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group06_Step09_Decorate01_StepDescription,Place the {itemName} anywhere in the Valley.
+¢
+QVillage!LionKing!Pumbaa!VLG_Pumb_030_Group06_Step24_Conditional02_StepDescriptionM(Optional) Wait for nightfall (6 p.m. - 6 a.m.) before placing the telescope.
+≥
+=Village!LionKing!Pumbaa!VLG_Pumb_030_Group06_StoryDescriptionrAfter inviting all the Astronomy Club members, you borrow Merlin's telescope and wait for nightfall in the Valley.
+q
+QVillage!LionKing!Pumbaa!VLG_Pumb_030_Group07_Step10_Interaction01_StepDescriptionInteract with the telescope.
+n
+LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group08_Step11_Unlock01_StepDescriptionA Memory appeared! Pick it up.
+~
+UVillage!LionKing!Pumbaa!VLG_Pumb_030_Group09_Step12_TalkToCharacter02_StepDescription%Talk to {TargetNPC} about the Memory.
+©
+=Village!LionKing!Pumbaa!VLG_Pumb_030_Group09_StoryDescriptionhWhen the meteor shower begins, a Memory appears. When you pick it up, it points you to another location.
+µ
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group10_Step13_Possess04_StepDescriptiondGo to the location from the Memory and search for a <ActivityItem>Meteorite Fragment</ActivityItem>.
+t
+LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group11_Step14_Unlock02_StepDescription$Another Memory appeared! Pick it up!
+ª
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group12_Step15_Possess05_StepDescriptionjGo to the location from the Memory and search for another <ActivityItem>Meteorite Fragment</ActivityItem>.
+ù
+=Village!LionKing!Pumbaa!VLG_Pumb_030_Group12_StoryDescription\You believe the Memories you find are pointing you towards locations of Meteorite Fragments.
+n
+LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group13_Step16_Unlock03_StepDescriptionA Memory appeared! Pick it up!
+À
+=Village!LionKing!Pumbaa!VLG_Pumb_030_Group13_StoryDescriptionâIn the Forest of Valor, you find another meteorite fragment. The question remains: Where is the last piece? You and Pumbaa track it down.
+º
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group14_Step17_Possess06_StepDescriptionkGo to the location from the Memory and search for the last <ActivityItem>Meteorite Fragment</ActivityItem>.
+à
+UVillage!LionKing!Pumbaa!VLG_Pumb_030_Group15_Step18_TalkToCharacter03_StepDescription/Talk to {TargetNPC} about the meteorite pieces.
+\
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_Possess07_StepDescription{itemName}.
+\
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_Possess08_StepDescription{itemName}.
+\
+MVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_Possess09_StepDescription{itemName}.
+|
+CVillage!LionKing!Pumbaa!VLG_Pumb_030_Group16_Step19_StepDescription5Collect the following materials to fix the meteorite:
+∫
+=Village!LionKing!Pumbaa!VLG_Pumb_030_Group16_StoryDescriptionyYou volunteer to fix the meteorite and put it in a special display case for all the members of the Astronomy Club to see.
+f
+OVillage!LionKing!Pumbaa!VLG_Pumb_030_Group17_Step20_CraftItem02_StepDescriptionCraft a {itemName}.
+a
+NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_Decorate02_StepDescriptionThe {itemName}.
+V
+NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_Decorate03_StepDescriptionRug.
+Z
+NVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_Decorate04_StepDescriptionSeating.
+p
+CVillage!LionKing!Pumbaa!VLG_Pumb_030_Group18_Step21_StepDescription)Decorate for the meteorite showcase with:
+
+KVillage!LionKing!Pumbaa!VLG_Pumb_030_Group19_Step22_Party01_StepDescription0Celebrate the meteorite with the Astronomy Club.
+Å
+LVillage!LionKing!Pumbaa!VLG_Pumb_030_Group20_Step23_Listen01_StepDescription1Listen to Pumbaa and Timon discuss the meteorite.
+h
+7Village!LionKing!Pumbaa!VLG_Pumb_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

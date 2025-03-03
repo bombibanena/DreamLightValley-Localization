@@ -1,0 +1,93 @@
+TAG: Story!Expansion01!MRQS_E01_050_Settling_AvailableDescription
+Странные рифты времени начинают появляться вокруг долины, и таинственное устройство появилось рядом с колодцем "Пожелание" в Плазе...
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_DisplayName
+Секреты острова Вечность
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group01_Step01_TalkToCharacter01_StepDescription
+Используйте устройство <ActivityItem> Mysterious</ActivityItem> в углу Плазы, чтобы поговорить с Джафар.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group02_Step02_Conditional01_StepDescription
+Полный"Порт многих миров"Попроси отправиться на остров Вечность.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group03_Step03_VisitArea01_StepDescription
+Отправляйся в порт Старпы в замке Мечты.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group03_StoryDescription
+Вы обнаруживаете Джафар, который представляет себя как королевский визирь долины Мечты, прежде чем объяснить, что он застрял в месте под названием "Этернити Айлс", разорванном из долины каким-то волшебным инцидентом. Вам нужно найти способ добраться до острова Вечности, чтобы все исправить.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group04_Step04_VisitArea02_StepDescription
+Интерактивировать с лодкой <ActivityItem>Wooden</ActivityItem> в порту Stardust, чтобы отправиться на остров Eternity.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group05_Step05_VisitArea03_StepDescription
+Найдите станцию <ActivityItem>Hologram</ActivityItem>, которая позволит вам поговорить с Джафар.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group05_StepDescription
+Добро пожаловать на остров Вечность!
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group06_Step06_TalkToCharacter02_StepDescription
+Взаимодействие со станцией <ActivityItem>Hologram</ActivityItem> для разговора с Джафар.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group07_Step07_StepDescription
+(Удалите <ActivityItem>Splinters of Fate</ActivityItem>, подойдите к ним и нажмите {input_interact}!)
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group07_StepDescription
+Дойти до <ActivityItem>Ancient Gate</ActivityItem>, что ведет глубже к острову Вечность.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group07_StoryDescription
+Когда ты приедешь, Джафар даст тебе указание поговорить с ним возле ворот, которые ведут глубже к острову Вечность, но сначала тебе нужно разобраться с какими-то сплетнями Судьбы, блокирующими путь...
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group08_Step08_TalkToCharacter03_StepDescription
+Поговорите с Джафар с помощью станции <ActivityItem>Hologram</ActivityItem> рядом с Древними Вратами.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group09_StepDescription
+Найдите фрагменты <ActivityItem>Ancient Sphere</ActivityItem>, когда вы исследуете Гавань Древних.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group09_StoryDescription
+Он объясняет вам, что врата могут быть открыты только в том случае, если сломанная сфера, которая после ее подачи будет восстановлена в ее законное место, вы идёте искать ее сломанные части, возможно, вы откроете больше, когда начнете исследовать это место...
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group10_Step10_CraftItem01_StepDescription
+Ремонт спутника <ActivityItem>Ancient Sphere</ActivityItem> на ремесленной станции.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group11_Step11_FillKeyhole01_StepDescription
+Положите <ActivityItem>Ancient Sphere</ActivityItem> в сосуд рядом с Древними Вратами.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group12_Step12_Unlock01_StepDescription
+Открой Древние Врата.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда я иду?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group13_Step13_VisitArea05_StepDescription
+Идите глубже на остров Вечности.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group14_Step14_VisitArea06_StepDescription
+Встретимся на Джафар у разбитого моста в районе двора.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group14_StoryDescription
+Ворота открыты, и пришло время исследовать остров Вечность.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group15_Step15_TalkToCharacter04_StepDescription
+Поговорите с Джафар на станции <Lore>Hologram</Lore>.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group15_StoryDescription
+Джафар ждет тебя у разбитого моста, за ним лежит пустыня, джунгли и какое-то странное волшебное нарушение во времени, может быть, теперь он расскажет тебе больше о том, как это произошло.
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Story!Expansion01!MRQS_E01_050_Settling_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда я иду?
+

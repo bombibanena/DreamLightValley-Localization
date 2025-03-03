@@ -1,0 +1,99 @@
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Any_CompletedRequestDescription
+Возвращайся в Реми за твои награды.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_AvailableDescription
+У Реми есть специальный заказ на доставку! "Сегодня голодный деревенщина: Крёстная Фея!"
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_DisplayName
+Приятного аппетита, Крёстная Фея!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group01_Step01_CookMeal01_StepDescription
+Тыквенные паффсы.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group01_Step01_CookMeal02_StepDescription
+Тыквенный суп.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group01_StepDescription
+Приготовить немного тыквенной еды для Крёстной Феи.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group02_Step02_CookMeal03_StepDescription
+Мечтай о мороженом.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group02_Step02_CookMeal04_StepDescription
+Мечтай, Физз.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group02_StepDescription
+Приготовить для Крепости Феи следующее:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group03_Step03_CookMeal05_StepDescription
+Кук <ActivityItem>Desserts</ActivityItem> для Крестной Феи.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group04_Step04_ReadyDescription
+Принеси тыквенную еду Крёстной Феи.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group04_Step04_StepDescription
+Найди что-нибудь для Крёстной Феи:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_BringItem03_StepDescription
+Мечтай, Физз.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_BringItem04_StepDescription
+Мечтай о мороженом.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_ReadyDescription
+Принеси сказочные угощения Крёстной Феи.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group05_Step05_StepDescription
+Принеси следующие сказочные угощения для Крёстной Феи:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group06_Step12_TalkToCharacter06_StepDescription
+Покажи богине Феи десерты, что ты сделал, и спроси, для кого они предназначены!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter01_StepDescription
+Ваниллопа.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter02_StepDescription
+Стич.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter03_StepDescription
+Олаф.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter04_StepDescription
+Эльза.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_Step07_TalkToCharacter05_StepDescription
+Минни Маус.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group07_StepDescription
+Пригласи следующих деревенских жителей в дом Крёстной Феи на тыквенную вечеринку:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group08_StepDescription
+Сфотографируй тыквенную вечеринку в доме Крёстной Феи!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_BringItem06_StepDescription
+Мечтай о мороженом.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_BringItem07_StepDescription
+Мечтай, Физз.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_ReadyDescription
+Принесите сказочные угощения Минни Маус.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group09_Step09_StepDescription
+Соберите сказочные угощения для Минни Маус:
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group10_Step10_ReadyDescription
+Принеси десерты Минни Маус к крестной фее. (Не забудь их съесть... даже если они выглядят восхитительно!)
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group10_Step10_StepDescription
+Вы потеряли Минни Маус Jingerbread Cookies для Крёстной Феи!
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group11_Step11_ReadyDescription
+Принесите десерты на Урсула.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_Group11_Step11_StepDescription
+Собирайте десерты для Урсула.
+
+TAG: Repeatable!Ratatouille!Remy!RPT_Remy_050_FGM_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,55 @@
+
+2
+Hades_000_f#{PlayerName}, I've got it! Finally!
+,
+Player_000_choice_000_fHave what, Hades?
+E
+Player_000_choice_001_f*Oh, I'm not ready for this conversation...
+6
+Hades_001_f'The way to get the attention I deserve!
+6
+Hades_002_f'I can't believe I didn't see it sooner.
+ 
+Hades_003_fWhat's your idea?
+P
+Hades_004_fAOkay, so I started with the obvious fact that everyone's selfish.
+*
+Player_001_choice_000_fNo they're not!
+7
+Player_001_choice_001_fI have my doubts about that.
+3
+Player_001_choice_002_fHey, speak for yourself.
+t
+Hades_005_feSheesh, {PlayerName}, I didn't realize you were that naive. You're worse than Pandora before the box.
+I
+Hades_007_f:Trust me; this plan is gonna work. Here's what we'll do...
+U
+Hades_008_fFThrow a celebration! That way, people think I'm giving THEM something.
+7
+Player_002_choice_000_fThat doesn't sound too wild.
+2
+Player_002_choice_001_fEveryone loves a party!
+V
+Player_002_choice_002_f;This won't be a party to secretly steal something, will it?
+?
+Hades_009_f0Oh, it will be if you execute my plans properly.
+E
+Hades_012_f6I'm gonna throw the best party the Vale has ever seen.
+B
+Hades_013_f3Then, everyone will have no choice but to adore me!
+G
+Hades_014_f8Hades, if you want to throw a party, who am I to say no?
+^
+Hades_015_fOThat's what I like to hear! Now, the first thing we need for a party is a menu.
+g
+Hades_016_fXGo <Lore>talk to Tiana</Lore>. If she caters my party, they'll be raving about the food.
+/
+Hades_017_f Cool, I'll go chat with her now.
+
+Hades_010_fExactly.
+C
+Hades_011_f4Steal? No, more like reclaim what's rightfully mine.
+O
+Hades_018_f@Hey, take it from someone who's been around kinda forever, okay?
+U
+Hades_006_fFI do! And for the dead. Which, percentage-wise, is basically everyone.

@@ -1,0 +1,26 @@
+
+,
+Beast_000_fExcellent work, {PlayerName}.
+&
+Beast_001_fThanks â€” what's next?
+`
+Beast_002_fQWell, we need roses. There are some beautiful red ones growing where I come from.
+=
+Beast_003_f.Back where you come from? You mean your Realm?
+v
+Beast_004_fgYes. Could you get some cuttings for me? I'll familiarize myself with the greenhouse while you're away.
+ 
+Player_000_choice_000_fSure!
+=
+Player_000_choice_001_f"So no need to paint the roses red?
+
+Beast_005_f
+Thank you.
+š
+Beast_006_fŠYou should find them without trouble. Please make sure that you take healthy flowers â€” they'll have the best chance of taking root here.
+
+Beast_007_fOn it!
+/
+Beast_008_f What? No. That would never work.
+
+Beast_009_f... Never mind.

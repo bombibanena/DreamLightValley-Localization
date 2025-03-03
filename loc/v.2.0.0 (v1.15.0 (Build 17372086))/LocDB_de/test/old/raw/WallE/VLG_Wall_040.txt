@@ -1,0 +1,69 @@
+TAG: Village!WallE!WallE!VLG_Wall_040_Any_CompletedRequestDescription
+Посмотри ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_AvailableDescription
+Вы нашли странный <ActivityItem>Memory</ActivityItem> о ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_CompletedStoryDescription
+Теперь, когда он функционирует, ВАЛЛ·И наверняка сможет сказать вам, что он делает.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_DisplayName
+Сломанная память
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group01_Step01_TalkToCharacter01_StepDescription
+Посмотри ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group01_StoryDescription
+Если вы хотите узнать больше об этом странном <ActivityItem>Memory</ActivityItem>, вам нужно поговорить с ним.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group03_Step03_FollowCharacter01_StepDescription
+Следуйте за ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group03_StoryDescription
+Очевидно, что <ActivityItem>Memory</ActivityItem> подключена к машине, которую вы нашли в мусоре. ВАЛЛ·И хочет помочь вам ее починить и поместить вас на тропу, чтобы найти <ActivityItem> Electronic Indexsions</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group04_Step04_TalkToCharacter02_StepDescription
+Поговори с ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжающееся изготовление.)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group05_Step05_CraftItem01_StepDescription
+Подготовить некоторые части <ActivityItem>Tinkering</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжать приносить товар)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_Step06_ReadyDescription
+Возьмите <ActivityItem> Electronic Effectivities</ActivityItem>, что вы нашли на ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_Step06_StepDescription
+Поиск дома ВАЛЛ·И для <ActivityItem> Electronic Effectivities</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_StoryDescription
+Обсуждение с ВАЛЛ·И не дало вам нужных ответов, и он решил показать вам напрямую.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжать ремонт машины)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group07_Step07_CraftItem02_StepDescription
+Подготовить отремонтированный аппарат <ActivityItem>F02937 M3 N07</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group07_StoryDescription
+После сбора компонентов вы почините машину <ActivityItem>F02937 M3 N07</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжаю ремесла.) Что я делал?
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group08_StepDescription
+Перенести отремонтированный аппарат <ActivityItem>F02937 M3 N07</ActivityItem> на ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> (продолжает поиск в королевстве)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group09_Step09_ReadyDescription
+Возьмите <ActivityItem> Electronic Integration</ActivityItem> на ВАЛЛ·И.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group09_Step09_StepDescription
+Исследуйте ВАЛЛ·И Realm, чтобы найти другой <ActivityItem> Electronic Integration</ActivityItem>.
+

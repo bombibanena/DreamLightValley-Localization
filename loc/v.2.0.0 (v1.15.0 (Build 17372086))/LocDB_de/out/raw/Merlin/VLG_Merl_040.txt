@@ -1,0 +1,48 @@
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_AvailableDescription
+Merlin is looking for you to talk about an important topic.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_DisplayName
+Crystal Mystery
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group01_Step01_CraftItem01_StepDescription
+Craft a {ItemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group01_StoryDescription
+Suspecting that <ActivityItem>Night Shards</ActivityItem> are just corrupted forms of <ActivityItem>Dream Shards</ActivityItem>, he suggests you experiment with them.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group02_Step03_ReadyDescription
+Bring Merlin your discovery!
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group02_Step03_StepDescription
+Explore the Forest of Valor with Merlin.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group02_StoryDescription
+He wants to investigate a strange crystal he found in the Forest of Valor. He thinks it might be connected to Donald Duck's adventures in the Dark Grove.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group03_Step02_ReadyDescription
+Bring the {ItemName} to Merlin.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group03_Step02_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group03_StoryDescription
+You manage to purify a <ActivityItem>Night Shard</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group04_Step05_BringItem03_StepDescription
+Gather {TargetAmount} <ActivityItem>Night Shards</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group04_Step05_ReadyDescription
+Go back to Merlin with all the <ActivityItem>Night Shards</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group04_StoryDescription
+After examining another one of these crystals, he calls them <ActivityItem>Night Shards</ActivityItem> and asks you to look for more.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group05_Step04_GiftToCharacter01_StepDescription
+Gift a {ItemName} to anyone in the Village.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_Group05_StoryDescription
+Merlin encourages you to give the new <ActivityItem>Purified Night Shard</ActivityItem> as a gift to any Villager.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest.
+

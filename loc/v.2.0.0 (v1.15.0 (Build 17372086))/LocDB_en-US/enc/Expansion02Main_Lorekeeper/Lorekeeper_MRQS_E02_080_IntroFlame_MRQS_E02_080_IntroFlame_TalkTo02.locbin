@@ -1,0 +1,37 @@
+
+;
+Lorekeeper_001_f'I understand you've run afoul of Hades.
+G
+Lorekeeper_002_f3Be careful around him, {PlayerName}. He's slippery.
+7
+Player_000_choice_000_fHe's actually kind of funny.
+)
+Player_000_choice_001_fHe seems okay.
+5
+Player_000_choice_002_fHe's a JERK is what he is.
+a
+Lorekeeper_010_fMWell, he uses a sharp tongue to hide his true malevolence. Don't fall for it.
+2
+Lorekeeper_009_f...and find the Sacred Spring.
+B
+Lorekeeper_015_f.Is there something you wished to ask me about?
+
+Lorekeeper_013_fkI've come across some mysterious flames. Hades told me I need to find "a Sacred Spring" to get rid of them.
+L
+Lorekeeper_003_f8Hmm... a <Lore>Sacred Spring</Lore>! Yes, I remember it.
+‚
+Lorekeeper_004_fnIts waters could help extinguish any flame... even the magical flames scattered about by Maleficent and Hades.
+K
+Lorekeeper_005_f7But I'm afraid I've no idea where that spring might be.
+\
+Lorekeeper_006_fHI remember that Aurora found it once, with the help of the good fairies.
+]
+Lorekeeper_007_fIBut this is another story that's become lost and scattered from my pages.
+ƒ
+Lorekeeper_008_foIf you could <Lore>capture some of the Snippets</Lore> in Mythopia, perhaps you could restore this lost tale...
+X
+Lorekeeper_011_fDHe plays at being harmless when it suits him. Don't let it fool you.
+‡
+Lorekeeper_012_fsI'm glad to see he hasn't pulled the wool over your eyes with his occasional charms. But he's more than just a cad.
+<
+Lorekeeper_014_f(Take heed. Hades can be quite dangerous.

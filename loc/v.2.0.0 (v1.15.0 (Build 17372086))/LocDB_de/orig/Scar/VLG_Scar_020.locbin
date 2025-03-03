@@ -1,0 +1,37 @@
+
+U
+BVillage!LionKing!Scar!VLG_Scar_020_Any_CompletedRequestDescriptionReturn to Scar.
+œ
+7Village!LionKing!Scar!VLG_Scar_020_AvailableDescriptionàScar wants to get rid of the bones that are littering the Sunlit Plateau and asks you to help him do it. He tells you that Scrooge McDuck has a <ActivityItem>Mold</ActivityItem> that could help you improve your Royal Shovel.
+Ñ
+<Village!LionKing!Scar!VLG_Scar_020_CompletedStoryDescriptionUsing your new and improved Royal Shovel, you manage to remove the smallest of the wildebeest bones littering the Plateau. Scar should be happy.
+@
+.Village!LionKing!Scar!VLG_Scar_020_DisplayNameBreaking Bones
+q
+?Village!LionKing!Scar!VLG_Scar_020_Group02_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+n
+SVillage!LionKing!Scar!VLG_Scar_020_Group02_Step02_TalkToCharacter01_StepDescriptionTalk to Scrooge McDuck.
+¨
+KVillage!LionKing!Scar!VLG_Scar_020_Group04_Step04_Possess02_StepDescriptionY<ActivityItem>Lion's Claws</ActivityItem> buried near the cliffs on the Sunlight Plateau.
+Z
+KVillage!LionKing!Scar!VLG_Scar_020_Group04_Step04_Possess04_StepDescription{ItemName}.
+Z
+KVillage!LionKing!Scar!VLG_Scar_020_Group04_Step04_Possess05_StepDescription{ItemName}.
+”
+AVillage!LionKing!Scar!VLG_Scar_020_Group04_Step04_StepDescriptionOGather the materials to improve your <ActivityItem>Royal Shovel</ActivityItem>:
+Ä
+;Village!LionKing!Scar!VLG_Scar_020_Group04_StoryDescription„After getting the <ActivityItem>Mold</ActivityItem> from Scrooge McDuck, you manage to get Scar to remember what materials you need.
+”
+QVillage!LionKing!Scar!VLG_Scar_020_Group07_Step07_RemoveBlocker01_StepDescription?Remove the small wildebeest bones littering the Sunlit Plateau.
+f
+SVillage!LionKing!Scar!VLG_Scar_020_Group09_Step09_TalkToCharacter02_StepDescriptionReturn to Scar.
+q
+?Village!LionKing!Scar!VLG_Scar_020_Group10_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+f
+MVillage!LionKing!Scar!VLG_Scar_020_Group10_Step10_CraftItem02_StepDescriptionCraft the {ItemName}.
+n
+?Village!LionKing!Scar!VLG_Scar_020_Group11_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>Now what?
+¼
+OVillage!LionKing!Scar!VLG_Scar_020_Group11_Step11_ConsumeItem02_StepDescriptioniImprove the <ActivityItem>Shovel</ActivityItem> by using the new <ActivityItem>{ItemName}</ActivityItem>.
+f
+5Village!LionKing!Scar!VLG_Scar_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

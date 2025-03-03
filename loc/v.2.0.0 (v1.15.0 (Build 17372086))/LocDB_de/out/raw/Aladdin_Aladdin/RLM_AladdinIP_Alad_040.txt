@@ -1,0 +1,69 @@
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_AvailableDescription
+The markets have been cleared and Carpet rescued! But the Windcaller still looms over Agrabah and it will need to be dealt with before the residents of the city can safely return to their normal lives...
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_CompletedStoryDescription
+With the Windcaller disabled, the citizens of Agrabah safe, and Aladdin and Jasmine back in the Valley, it's time to start making up for lost time and rekindling your friendships.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_DisplayName
+Carpet Diem
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group01_StepDescription
+Interact with the Magic Carpet to fly up toward the Windcaller.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group02_Step03_VisitArea02_StepDescription
+Return to the Windcaller using the Magic Carpet.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group03_Step04_TalkToCharacter01_StepDescription
+Talk to Aladdin.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group04_Step05_RemoveBlocker01_StepDescription
+Red Crystal.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group04_Step05_RemoveBlocker02_StepDescription
+Green Crystal.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group04_Step05_RemoveBlocker03_StepDescription
+Blue Crystal.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group04_Step05_RemoveBlocker04_StepDescription
+Yellow Crystal.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group04_StepDescription
+Use your Pickaxe to destroy each of the Windcaller's Crystals:
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group04_StoryDescription
+You have disabled the vortex around the Windcaller and ascended to its height! You can tell now that it is covered in crystals that house the Windcaller's magic...
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group05_Step07_VisitArea03_StepDescription
+Return to Agrabah.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group06_Step08_TalkToCharacter02_StepDescription
+Talk to {TargetNPC} in the <Lore>Central Market</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group07_Step09_TalkToCharacter03_StepDescription
+Talk to {TargetNPC} in the <Lore>Central Market</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group08_Step10_PlaceBuilding01_StepDescription
+Return to the Valley and place Aladdin and Jasmine's House.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group09_Step11_Unlock01_StepDescription
+Unlock Aladdin and Jasmine's House using the Scrooge McDuck Sign.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group10_Step12_UnlockCharacter01_StepDescription
+Welcome Jasmine.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group11_Step13_TalkToCharacter04_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group12_Step14_TalkToCharacter05_StepDescription
+Return to the Aladdin Realm and talk to {TargetNPC} in the <Lore>Central Market</Lore>.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group13_StepDescription
+Return to the Valley with Aladdin.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group14_Step17_UnlockCharacter02_StepDescription
+Welcome Aladdin.
+
+TAG: Realm!Aladdin!RLM_AladdinIP_Alad_040_Group15_Step16_TakePicture01_StepDescription
+Equip the Magic Carpet from the Companions section of your Inventory, then take a picture with him!
+

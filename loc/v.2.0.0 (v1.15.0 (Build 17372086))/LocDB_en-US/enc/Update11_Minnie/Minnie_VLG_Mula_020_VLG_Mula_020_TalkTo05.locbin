@@ -1,0 +1,31 @@
+
+k
+Minnie_001_f[Hello, {PlayerName}! Hmm... by the look on your face, I suspect you have a question for me.
+i
+Minnie_002_fYI do. Mulan is putting together something called a shadow play to show the Village and...
+-
+Minnie_003_fOh, I just love shadow plays!
+$
+Minnie_004_fYou know about them?
+Á
+Minnie_005_f°Of course. I'm interested in all sorts of arts. And shadow plays are beautiful! Let me guess... Mulan would like some help with the <ActivityItem>Shadow Puppets</ActivityItem>?
+0
+Player_000_choice_000_fYes, it'd help A LOT.
+:
+Player_000_choice_001_fDo you think you can make them?
+;
+Player_000_choice_002_f Were you spying on Mulan and me?
+,
+Minnie_006_fWell, I'd love to make them.
+u
+Minnie_009_feShe wants to regale us with the journey she and Mushu took back to their Realm during the Forgetting.
++
+Minnie_010_fOh, that'll be fascinating!
+e
+Minnie_000_fUI'll get started on the puppets right away and bring them to Mulan once I'm finished.
+
+Minnie_014_fThanks, Minnie!
+L
+Minnie_007_f<Absolutely. You just need to tell me what the story's about.
+t
+Minnie_008_fdNo, I'd never do that. But Mulan has told me before that sewing and crafts aren't exactly her forte.

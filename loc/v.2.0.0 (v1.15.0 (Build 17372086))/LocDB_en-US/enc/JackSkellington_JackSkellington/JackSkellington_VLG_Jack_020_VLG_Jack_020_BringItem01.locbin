@@ -1,0 +1,59 @@
+
+@
+JackSkellington_003_f'Got your kit ready! Is it science time?
+C
+JackSkellington_004_f*{PlayerName}, I knew I could count on you!
+7
+JackSkellington_005_fHow was your talk with Merlin?
+)
+JackSkellington_006_fVery productive.
+i
+JackSkellington_007_fPWe discussed Dreamlight Magic, planetary alignments and etheric crystallization.
+>
+Player_000_choice_000_f#Dreamlight Magic is pretty special.
+2
+Player_000_choice_001_fAny particular planets?
+@
+Player_000_choice_002_f%Etheric crystallization? What's that?
+B
+JackSkellington_008_f)And quite different from Halloween magic.
+F
+JackSkellington_011_f-Do you know what you're going to investigate?
+Y
+JackSkellington_012_f@Well, the Shards that manifest here are particularly intriguing.
+a
+JackSkellington_013_fHMerlin specifically mentioned <ActivityItem>Night Shards</ActivityItem>.
+A
+JackSkellington_021_f(Do you think you could find some for me?
+=
+Player_001_choice_000_f"You're interested in Night Shards?
+E
+Player_001_choice_001_f*That's Dark Magic, Jack â be careful.
+�
+JackSkellington_014_f�Exactly! The magics I'm familiar with are considered dark, having to do with chills and frights. But the Dark Magics here, though similar, are quite mystifying.
+]
+JackSkellington_022_fDWell, then you must be the perfect person to do experiments on them!
+9
+JackSkellington_023_f That's just what I was thinking!
+b
+JackSkellington_025_fIAll right, I'll fetch you some <ActivityItem>Night Shards</ActivityItem>.
+�
+JackSkellington_026_fgExcellent! Six of them should be fine. I'll <Lore>meet you back in the Vitalys Mines</Lore> afterwards.
+J
+JackSkellington_015_f1{PlayerName}, I am a scientist! Nay, a visionary!
+7
+JackSkellington_016_fI'm just saying... be careful.
+V
+JackSkellington_017_f=Of course â I shall be the epitome of conscientiousness.
+h
+JackSkellington_018_fOJack, you must admit that you have a bit of a tendency to leap before you look.
+E
+JackSkellington_019_f,Oh no, that's all in the past! I assure you.
+`
+JackSkellington_020_fGOK, OK, I'll let you do your thing... just don't say I didn't warn you.
+>
+JackSkellington_024_f%I wouldn't dream of it, {PlayerName}.
+n
+JackSkellington_009_fUWell, there are a number of them that don't yet have names, so it's difficult to say.
+D
+JackSkellington_010_f+It's when magical energies take solid form.

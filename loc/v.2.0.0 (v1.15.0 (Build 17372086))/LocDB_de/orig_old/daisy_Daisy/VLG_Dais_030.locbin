@@ -1,0 +1,105 @@
+
+p
+AVillage!Mickey!Daisy!VLG_Dais_030_Any_CompletedRequestDescription+Возвращайтесь на Дейзи.
+�
+6Village!Mickey!Daisy!VLG_Dais_030_AvailableDescriptionvДейзи хочет вернуть газету Dreamlight Gazette и её"Спросите Дейзи"Раздел.
+�
+;Village!Mickey!Daisy!VLG_Dais_030_CompletedStoryDescription�Когда Матушка Готель Матушка Готель успокоится, вам пора вернуться в Дейзи, чтобы сообщить о своем прогрессе.
+L
+-Village!Mickey!Daisy!VLG_Dais_030_DisplayNameСпросите Дейзи
+Y
+JVillage!Mickey!Daisy!VLG_Dais_030_Group01_Step01_Possess01_StepDescription{itemName}.
+w
+JVillage!Mickey!Daisy!VLG_Dais_030_Group01_Step01_Possess02_StepDescription)<ActivityItem>Iron Ingots</ActivityItem>.
+u
+JVillage!Mickey!Daisy!VLG_Dais_030_Group01_Step01_Possess03_StepDescription'<ActivityItem>Amethysts</ActivityItem>.
+�
+@Village!Mickey!Daisy!VLG_Dais_030_Group01_Step01_StepDescriptionYСоберите материалы для ящика <ActivityItem>Advic</ActivityItem>:
+�
+LVillage!Mickey!Daisy!VLG_Dais_030_Group02_Step02_CraftItem01_StepDescriptionIПриготовить коробку <ActivityItem>Advic</ActivityItem>.
+q
+AVillage!Mickey!Daisy!VLG_Dais_030_Group03_Step03_ReadyDescription,Возьмите {itemName} на Дейзи.
+�
+@Village!Mickey!Daisy!VLG_Dais_030_Group03_Step03_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
+~
+RVillage!Mickey!Daisy!VLG_Dais_030_Group04_Step04_TalkToCharacter01_StepDescription(Поговори с Минни Маус.
+�
+:Village!Mickey!Daisy!VLG_Dais_030_Group04_StoryDescription�Вы решаете помочь Дейзи, делая ящик консультаций для деревенских жителей, чтобы они могли задавать вопросы. Чтобы предоставить деревенским жителям время для передачи их вопросов в ящик для консультаций Дейзи, вы идете помочь Минни Маус с ее статьей о Забвении.
+w
+@Village!Mickey!Daisy!VLG_Dais_030_Group05_Step05_StepDescription3Сфотографируйте Минни Маус:
+�
+NVillage!Mickey!Daisy!VLG_Dais_030_Group05_Step05_TakePicture01_StepDescription?<ActivityItem>Giant Willow Tree</ActivityItem> в Глейде.
+�
+NVillage!Mickey!Daisy!VLG_Dais_030_Group05_Step05_TakePicture02_StepDescription1<ActivityItem>Pillar дружбы</ActivityItem>.
+�
+NVillage!Mickey!Daisy!VLG_Dais_030_Group05_Step05_TakePicture03_StepDescriptionVЛюбой <ActivityItem>statue</ActivityItem> в мистической пещере.
+�
+RVillage!Mickey!Daisy!VLG_Dais_030_Group06_Step06_TalkToCharacter02_StepDescription4Возвращайтесь на Минни Маус.
+�
+NVillage!Mickey!Daisy!VLG_Dais_030_Group07_Step07_Interaction01_StepDescriptioncПроверьте ящик <ActivityItem>Advic</ActivityItem> рядом с домом Дейзи.
+�
+:Village!Mickey!Daisy!VLG_Dais_030_Group07_StoryDescription�После того, как вы поможете Минни Маус, вы пойдёте и посмотрите, не задавал ли кто-нибудь вопрос в ящик для советов Дейзи.
+�
+JVillage!Mickey!Daisy!VLG_Dais_030_Group08_Step08_Possess04_StepDescriptiondВозьмите <ActivityItem>"Спросите Дейзи"Буквы</ActivityItem> с земли.
+�
+AVillage!Mickey!Daisy!VLG_Dais_030_Group09_Step09_ReadyDescriptioneПринесите <ActivityItem>"Спросите Дейзи"Письма</ActivityItem> Дейзи.
+�
+@Village!Mickey!Daisy!VLG_Dais_030_Group09_Step09_StepDescription�Убедитесь, что у вас есть <ActivityItem>"Спросите Дейзи"Буквы</ActivityItem> в вашем списке.
+e
+NVillage!Mickey!Daisy!VLG_Dais_030_Group10_Step10_Conditional01_StepDescriptionВаниллопа.
+c
+NVillage!Mickey!Daisy!VLG_Dais_030_Group10_Step10_Conditional02_StepDescriptionКристофф.
+�
+9Village!Mickey!Daisy!VLG_Dais_030_Group10_StepDescription\Помогите Дейзи выполнить просьбы жителей деревни:
+�
+:Village!Mickey!Daisy!VLG_Dais_030_Group10_StoryDescription�Получив первую партию вопросов, Дейзи определяет, что двум деревенским жителям, Ваниллопа и Кристофф, нужна более конкретная помощь.
+�
+NVillage!Mickey!Daisy!VLG_Dais_030_Group11_Step11_Interaction02_StepDescriptioncПроверьте ящик <ActivityItem>Advic</ActivityItem> рядом с домом Дейзи.
+�
+:Village!Mickey!Daisy!VLG_Dais_030_Group11_StoryDescription�После того, как ты помогаешь деревенским жителям, ты возвращаешься в "Консультативный ящик" и проверяешь, есть ли дополнительный вопрос, заданный деревенским.
+x
+JVillage!Mickey!Daisy!VLG_Dais_030_Group12_Step12_Possess05_StepDescription*Возьмите {ItemName} с земли.
+�
+:Village!Mickey!Daisy!VLG_Dais_030_Group12_StoryDescriptionkЕсть лишний."Спросите Дейзи"Вы должны отнести его на Дейзи.
+�
+AVillage!Mickey!Daisy!VLG_Dais_030_Group13_Step13_ReadyDescriptionlПринесите <ActivityItem> Extra"Спросите Дейзи"Письмо</ActivityItem>- Дейзи.
+�
+@Village!Mickey!Daisy!VLG_Dais_030_Group13_Step13_StepDescription�Убедитесь, что у вас есть <ActivityItem> Extra"Спросите Дейзи"Письмо</ActivityItem> в вашем списке.
+{
+KVillage!Mickey!Daisy!VLG_Dais_030_Group14_Step14_Decorate01_StepDescription,<ActivityItem>Outdorrediting</ActivityItem>.
+�
+KVillage!Mickey!Daisy!VLG_Dais_030_Group14_Step14_Decorate02_StepDescription3Таблица <ActivityItem>Outdor</ActivityItem>.
+y
+KVillage!Mickey!Daisy!VLG_Dais_030_Group14_Step14_Decorate03_StepDescription*<ActivityItem>Casual Decor</ActivityItem>.
+�
+9Village!Mickey!Daisy!VLG_Dais_030_Group14_StepDescription_Сделать Глэйд Доверия более расслабленным, добавив:
+�
+:Village!Mickey!Daisy!VLG_Dais_030_Group14_StoryDescription�Матушка Готель Матушка Готель написал записку Дейзи, но вместо того, чтобы злиться на нее, Дейзи рассматривает это как выражение стресса и задач, которые вы делаете Глейд Доверия более расслабляющим.
+�
+RVillage!Mickey!Daisy!VLG_Dais_030_Group15_Step15_TalkToCharacter03_StepDescriptionPПоговорите с Матушка Готель Матушка Готель.
+~
+>Village!Mickey!Daisy!VLG_Dais_030_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+y
+>Village!Mickey!Daisy!VLG_Dais_030_Group02_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+~
+>Village!Mickey!Daisy!VLG_Dais_030_Group03_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+y
+>Village!Mickey!Daisy!VLG_Dais_030_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+>Village!Mickey!Daisy!VLG_Dais_030_Group06_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+�
+>Village!Mickey!Daisy!VLG_Dais_030_Group07_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+~
+>Village!Mickey!Daisy!VLG_Dais_030_Group09_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+>Village!Mickey!Daisy!VLG_Dais_030_Group10_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+w
+>Village!Mickey!Daisy!VLG_Dais_030_Group12_OngoingRequestButton5{title}</smallcaps><br> Чем могу помочь?
+~
+>Village!Mickey!Daisy!VLG_Dais_030_Group13_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+>Village!Mickey!Daisy!VLG_Dais_030_Group14_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+y
+>Village!Mickey!Daisy!VLG_Dais_030_Group15_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+e
+4Village!Mickey!Daisy!VLG_Dais_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

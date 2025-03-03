@@ -1,0 +1,60 @@
+TAG: Simba_000_f
+Wow! It looks better already.
+
+TAG: Simba_001_f
+And this is just the start. Once the animals come back, it'll look even nicer.
+
+TAG: Player_000_choice_000_f
+This will help the whole jungle.
+
+TAG: Player_000_choice_001_f
+Your dad would be proud.
+
+TAG: Player_000_choice_002_f
+Let's get out of here before a rhinoceros shows up.
+
+TAG: Simba_002_f
+Yeah. I guess that's what my father meant about leaving the kingdom better than when I started.
+
+TAG: Simba_004_f
+Thanks, {PlayerName}. I feel like my father's looking down on us right now. Maybe I can be a king worthy of him.
+
+TAG: Simba_006_f
+I didn't know him, but I bet you're right... Hey, since we've helped the kingdom...
+
+TAG: Simba_007_f
+...why don't you come with me to meet Nala? She's waiting for you in MY kingdom, Dreamlight Valley.
+
+TAG: Player_001_choice_000_f
+I could use someone there to teach me to be a good ruler.
+
+TAG: Player_001_choice_001_f
+We need your "roaring" personality.
+
+TAG: Player_001_choice_002_f
+It's a great place for <i>hakuna matata</i>.
+
+TAG: Simba_008_f
+Teach YOU to be a good ruler? I'm still figuring that out myself.
+
+TAG: Simba_009_f
+But I guess we could figure it out together.
+
+TAG: Simba_012_f
+We've already got a place for you in the Village. Nala is waiting there now.
+
+TAG: Simba_013_f
+I'd love to go. Lead the way!
+
+TAG: Simba_010_f
+Well, I don't know about that, but I do want to see Nala.
+
+TAG: Simba_011_f
+Really? 'Cause after fighting off hyenas and fixing the oasis, I could use a little <i>hakuna matata<i>.
+
+TAG: Simba_003_f
+I hope so.
+
+TAG: Simba_005_f
+Ha-ha! Don't worry. I'd let you know if I heard a rhino approaching. They make a lot of noise.
+

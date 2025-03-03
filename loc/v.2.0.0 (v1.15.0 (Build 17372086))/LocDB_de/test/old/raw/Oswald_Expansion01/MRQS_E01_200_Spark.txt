@@ -1,0 +1,54 @@
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Any_CompletedRequestDescription
+Возвращайтесь на Освальд.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_AvailableDescription
+Вы оказались в нижней части Древних Руин, но вы не одиноки.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_CompletedStoryDescription
+Джафар, замаскированный как Мерлин, украл Спарк воображения из вашей хватки.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_DisplayName
+Спарк воображения
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group01_Step01_TalkToCharacter01_StepDescription
+Поговорите с особенным кроликом.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group02_StepDescription
+Ищите что-нибудь, чтобы починить рычаг моста.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group03_StepDescription
+Поправьте рычаг, чтобы достичь следующей платформы.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group04_Step05_FollowCharacter01_StepDescription
+Следуйте за Освальд.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group04_Step05_FollowCharacter01_TalkToDescription
+Поговори с Освальд.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group04_StoryDescription
+В тревожном повороте событий Освальд создал восклицательный знак для вас, чтобы открыть путь.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group05_StepDescription
+Мост должен поворачиваться... придумать решение, используя все, что сможешь найти.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group06_Step09_Conditional03_StepDescription
+Активировать колесо, чтобы повернуть мост.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group07_Step10_FollowCharacter02_StepDescription
+Следуйте за Освальд следующей платформой.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group07_Step10_FollowCharacter02_TalkToDescription
+Поговори с Освальд.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group08_StepDescription
+Используйте все, что вы узнали, чтобы починить платформу и добраться до Спарка воображения.
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group08_StoryDescription
+Вы так близки к Спарку воображения, что вам просто нужно использовать свое воображение, чтобы добраться до него!
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group09_StepDescription
+Возьми Спарк воображения!
+
+TAG: Story!Expansion01!MRQS_E01_200_Spark_Group10_Step16_TalkToCharacter02_StepDescription
+Поговори с Мерлин.
+

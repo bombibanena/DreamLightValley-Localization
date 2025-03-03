@@ -1,0 +1,39 @@
+
+@
+Jasmine_000_f/I suppose I am. I'm rehearsing giving a speech.
+E
+Jasmine_001_f4When I am queen, I want to speak to my people often.
+4
+Player_000_choice_000_fWhat will you talk about?
+;
+Player_000_choice_001_f Public speaking is NOT my thing.
+2
+Player_000_choice_002_fShould I give speeches?
+h
+Jasmine_002_fWOh, lots of things... What's happening in Agrabah and how I want to make things better.
+K
+Jasmine_003_f:I want them to know that the palace is there to help them.
+k
+Jasmine_007_fZI also want a way for everyone to share their thoughts with me and tell me what they need.
+E
+Jasmine_008_f4Do you have any suggestions for how I could do that?
+*
+Player_001_choice_000_fA public forum?
+,
+Player_001_choice_001_fA suggestion box?
+N
+Player_001_choice_002_f3Disguise yourself and eavesdrop in the marketplace!
+i
+Jasmine_009_fXThat could be complicated to organize, but I like the idea. I'll have to think about it.
+B
+Jasmine_010_f1Yes... But I'd like it to be a bit more personal.
+l
+Jasmine_011_f[I know! I could have one of the palace staff stationed in the marketplace to take messages.
+B
+Jasmine_012_f1Hm... I know someone who could help me with that.
+b
+Jasmine_004_fQI understand. I'm not very comfortable with it either. That's why I'm practicing.
+o
+Jasmine_005_f^Not if you don't want to. The Valley is small enough that you can talk to everyone personally.
+f
+Jasmine_006_fUAgrabah is much bigger, so it would be impossible to talk to every person very often.

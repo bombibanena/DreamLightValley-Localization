@@ -1,0 +1,57 @@
+
+N
+Rapunzel_000_f<{PlayerName}, I could really use your help with something...
+q
+Rapunzel_001_f_If you found out someone you cared about had lied to you... but they did it to keep you safe...
+
+Rapunzel_002_fmBut then you ALSO found out the world's not as bad as they made it seem â€” it's actually pretty wonderful...
+)
+Rapunzel_003_fWould you forgive them?
+2
+Player_000_choice_000_fOnly if they apologize.
+;
+Player_000_choice_001_f I'd talk to them about it first.
+/
+Player_000_choice_002_fNo. Grudges forever!
+J
+Rapunzel_004_f8Oh. But what if... what if they won't say they're sorry?
+?
+Player_001_choice_000_f$Then you don't have to forgive them.
+@
+Player_001_choice_001_f%I don't know! This seems complicated!
+B
+Rapunzel_005_f0Hmm... That seems like it could be... difficult.
+;
+Rapunzel_006_f)I just want her to see my side of things.
+C
+Rapunzel_007_f1Guess I have some more thinking to do about this.
+-
+Rapunzel_008_fRight? I don't know either!
+l
+Rapunzel_009_fZThat's a good idea. I wonder if Mother â€” err... that person... would explain everything.
+4
+Player_002_choice_000_fOnly one way to find out!
+E
+Player_002_choice_001_f*I know you're talking about Mother Gothel.
+F
+Rapunzel_010_f4You're right! I should talk to her... soon. Not now.
+1
+Rapunzel_011_fAFTER I figure out what to say.
+4
+Rapunzel_012_f"I guess it's kind of obvious, huh?
+
+Rapunzel_013_fŠAnd Mother's reasonable, right? I'm sure she'd explain herself... and then I could forgive her. At least, I hope that's what would happen.
+E
+Rapunzel_014_f3That doesn't seem like it would help the situation.
+B
+Player_003_choice_000_f'You're right. Forgiveness is important.
+.
+Player_003_choice_001_fI said what I said!
+N
+Rapunzel_015_f<I think so too. That's why I can't stop thinking about this.
+I
+Rapunzel_016_f7I guess I do need to talk to her. Thanks, {PlayerName}.
+?
+Rapunzel_017_f-Well... that doesn't feel quite right for me.
+.
+Rapunzel_018_fBut thank you for listening.

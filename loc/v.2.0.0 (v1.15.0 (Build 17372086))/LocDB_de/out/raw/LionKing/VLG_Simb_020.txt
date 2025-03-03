@@ -1,0 +1,33 @@
+TAG: Village!LionKing!VLG_Simb_020_Any_CompletedRequestDescription
+Return to Simba.
+
+TAG: Village!LionKing!VLG_Simb_020_AvailableDescription
+Simba wants to have a gathering to bring everyone in the Valley together. You decide to start by talking to Remy about what food should be served.
+
+TAG: Village!LionKing!VLG_Simb_020_Group02_Step02_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!LionKing!VLG_Simb_020_Group02_Step02_ReadyDescription
+Bring the Meals to Simba.
+
+TAG: Village!LionKing!VLG_Simb_020_Group03_Step03_TalkToCharacter01_StepDescription
+Goofy.
+
+TAG: Village!LionKing!VLG_Simb_020_Group04_Step04_TalkToCharacter02_StepDescription
+Return to Simba.
+
+TAG: Village!LionKing!VLG_Simb_020_Group05_Step05_Listen01_StepDescription
+Listen to Simba apologize to Nala.
+
+TAG: Village!LionKing!VLG_Simb_020_Group06_Step06_TalkToCharacter03_StepDescription
+Talk to Simba.
+
+TAG: Village!LionKing!VLG_Simb_020_Group08_Step08_TalkToCharacter04_StepDescription
+Talk to Nala.
+
+TAG: Village!LionKing!VLG_Simb_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+TAG: Village!LionKing!VLG_Simb_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,81 @@
+TAG: Stitch_000_f
+It's almost time for the concert. Are you ready?
+
+TAG: Stitch_012_f
+Yep! We ready!
+
+TAG: Stitch_001_f
+Then have lots of coconut cake and coffee!
+
+TAG: Stitch_006_f
+Stitch very, very ready.
+
+TAG: Player_000_choice_000_f
+This is going to be great.
+
+TAG: Player_000_choice_001_f
+Are you nervous?
+
+TAG: Player_000_choice_002_f
+Just try not to get sick from all that coffee and coconut cake...
+
+TAG: Stitch_007_f
+Yeah! Yeah! Almost time for show... Almost.
+
+TAG: Stitch_004_f
+Can't have band without name.
+
+TAG: Stitch_013_f
+What should Stitch's band name be?
+
+TAG: Player_001_choice_000_f
+"Badness Level Check."
+
+TAG: Player_001_choice_001_f
+"Built to Destroy."
+
+TAG: Player_001_choice_002_f
+"<font="JosefinSans-MediumItalic SDF">'Ohana</font>."
+
+TAG: Player_001_choice_003_f
+"Meega Nala Kweesta."
+
+TAG: Stitch_014_f
+Yeah! "Badness Level Check" is good name.
+
+TAG: Stitch_005_f
+I'll go get the equipment from Mr. McDuck and get it set up for you on Dazzle Beach.
+
+TAG: Stitch_015_f
+Ooh. Yeah. "Built to Destroy" is good name! Sounds dangerous.
+
+TAG: Stitch_016_f
+"<font="JosefinSans-MediumItalic SDF">'Ohana</font>"! Yeah! Is good name! <font="JosefinSans-MediumItalic SDF">'Ohana</font> means nobody gets left behind or forgotten.
+
+TAG: Stitch_003_f
+No! Too naughty, {PlayerName}!
+
+TAG: Stitch_017_f
+Not good name for band. Badness level go too high.
+
+TAG: Stitch_018_f
+Oops. I didn't know that was a bad word. Uh... how about instead we call your band...
+
+TAG: Stitch_008_f
+Umm... No. Not nervous.
+
+TAG: Stitch_009_f
+...
+
+TAG: Stitch_010_f
+Maybe a little nervous. But still good... Oh, {PlayerName}...
+
+TAG: Stitch_011_f
+It's okay. Stitch never get sick.
+
+TAG: Stitch_019_f
+Almost time for show... Almost.
+
+TAG: Stitch_002_f
+Yes! Now band has flute too. Stitch hear Prince Eric play and say, "JOIN MY BAND!"
+

@@ -1,0 +1,75 @@
+
+%
+MikeWazowski_000_fMike, I'm back!
+W
+MikeWazowski_001_fAWell, how'd it go? Don't keep me in suspense, here, {PlayerName}!
+;
+Player_001_choice_000_f I'll give you the quick summary.
+C
+Player_001_choice_001_f(You're gonna want to hear the details...
+M
+MikeWazowski_030_f7Vanellope knocked it out of the park â no contest.
+;
+MikeWazowski_031_f%She was excited, clever, motivated...
+V
+MikeWazowski_026_f@Then I think we've got our opener â Vanellope sounds great!
+q
+MikeWazowski_027_f[Why don't you <Lore>go talk to Sulley</Lore>? He and Vanellope have been hangin' out a lot.
+l
+MikeWazowski_028_fVHe can probably give us tips for how to help Vanellope reach her true comic potential.
+"
+MikeWazowski_029_fSure, on it!
+&
+Player_002_fI'll tell you about...
+2
+Player_002_choice_000_f...the Fairy Godmother.
+(
+Player_002_choice_001_f...WALLÂ·E.
+(
+Player_002_choice_002_f...Vanellope.
+Y
+MikeWazowski_004_fCShe's very sweet, but unfortunately, comedy isn't really her thing.
+*
+MikeWazowski_005_fReally? Are ya sure?
+v
+MikeWazowski_006_f`I tried to tell her a "chicken crossing the road" joke and she asked if she could help it cross.
+-
+MikeWazowski_009_fAh... I see your point.
+x
+MikeWazowski_007_fbI tried to tell her a knock-knock joke and she wanted to know if her enchanted door could respond.
+x
+MikeWazowski_008_fbI tried to tell her the "six afraid of seven" joke and she got concerned seven was being too mean.
+)
+MikeWazowski_010_fGreat! How'd he do?
+6
+MikeWazowski_011_f I've got good news and bad news.
+.
+Player_000_choice_000_fThe good news is...
+-
+Player_000_choice_001_fThe bad news is...
+4
+MikeWazowski_012_fHe's got GREAT comedic timing.
+9
+MikeWazowski_013_f#Fantastic! What about the bad news?
+f
+MikeWazowski_014_fPHis vocabulary is pretty limited. He communicates mostly by sounds and gestures.
+6
+MikeWazowski_015_f Right. I hadn't considered that.
+�
+MikeWazowski_020_fwWell... sounds like WALLÂ·E would be great as part of a duo, but I'm gonna have to pass on givin' him a stand-up set.
+"
+MikeWazowski_021_fFair enough.
+f
+MikeWazowski_016_fPHis vocabulary is pretty limited. He communicates mostly by sounds and gestures.
+6
+MikeWazowski_017_f Right. I hadn't considered that.
+/
+MikeWazowski_018_fWhat about the good news?
+4
+MikeWazowski_019_fHe's got great comedic timing!
+4
+MikeWazowski_023_fShe... was actually hilarious!
+
+MikeWazowski_024_fReally?
+q
+MikeWazowski_025_f[Yeah, she's funny, she's confident and she's excited about the possibility of performing...

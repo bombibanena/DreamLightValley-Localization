@@ -1,0 +1,6369 @@
+TAG: AuroraBookshelf
+Вы узнаете почерк Авроры из ее журналов:"Тётя Флора сказала мне, что, чтобы избавиться от этих гигантских разбитых чашек, засоряющих Чайные водопады, мне придется сделать зелье с помощью..."
+
+TAG: Boutique_Cancel_Challenge_Text
+Отмените текущий вызов.
+
+TAG: Boutique_Check_Challenge_Text
+Я закончила испытание?
+
+TAG: boutique_compatibility_warning_message
+Одна из вещей, которую вы хотите увидеть, была сделана на другом типе или форме тела, которая отличается от вашей нынешней формы.<lw><lw> Если сохранить ее, она может быть в описи Magic, связанной с оригинальным типом конструкции. Это может привести к тому, что дизайн будет выглядеть немного отличающимся от оригинального. Продолжать?
+
+TAG: boutique_compatibility_warning_title
+Внимание!
+
+TAG: boutique_not_available_error
+Этот Бутик в настоящее время недоступен.
+
+TAG: Boutique_Panel_Cant_Interact_Text
+Ты не можешь проверить свою панель в режиме мультиплеера!
+
+TAG: Boutique_Panel_Empty_List_Text
+В вашем профиле нет посетителей!
+
+TAG: Boutique_Panel_FTUE_Body
+Используйте это, чтобы получить доступ к бутикам посетителей, с которыми вы связались во время посещений Долины, не навещая их.<lw><lw> (Не забудьте использовать посещения Долины, чтобы заполучить эту панель!)
+
+TAG: Boutique_Panel_FTUE_Title
+Билеты для посетителей
+
+TAG: Boutique_Panel_Local_Text
+Возвращайся в свой Бутик.
+
+TAG: Boutique_Panel_User_Generated_Restriction
+Бутик недоступен, потому что обмен контентом пользователя отключен.
+
+TAG: Boutique_Save_Design
+Дизайн успешно спасен!
+
+TAG: Boutique_Shop_Text
+Можно посмотреть ваш магазин?
+
+TAG: Boutique_Start_Challenge_Text
+Какой сегодня вызов?
+
+TAG: catalog_reset_room_desc
+Ты уверена, что хочешь перезагрузить комнату?
+
+TAG: Challenge_BoardGame
+Хочешь поиграть в "Scramblecoin"?
+
+TAG: character_skin_change
+Вы не можете обновить внешность этого Виллиджера прямо сейчас.<lw> Комплектировать их активные квесты могут решить это.
+
+TAG: character_skin_change_title
+Заблокировано стильное изменение
+
+TAG: choose_role
+Выбрать Hangout Bonus {characterName}:
+
+TAG: ColossusBridgeControls
+Похоже, что-то пропало или сломалось.
+
+TAG: confirmDataCollection
+Disney Dreamlight Valley включает онлайн-определения и события. Чтобы получить доступ к этим характеристикам, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к онлайн-сетям. Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: confirmDataCollectionSettings
+Disney Dreamlight Valley включает онлайн-определения и события. Чтобы получить доступ к этим характеристикам, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к онлайн-сетям.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: confirmDataCollectionSettingsDisable
+Для того чтобы предоставить вам доступ к сетевым особенностям и событиям Disney Dreamlight Valley, мы собираем и обрабатываем идентификаторы и/или идентификаторы пользователей и историю игровых игр.<lw><lw>Revoking ваше разрешение отключит обработку этой информации и отключит доступ к онлайновым идентификаторам. Вы все еще сможете проиграть игру в режиме оффлайн и обновить свои предпочтения в любое время из меню Параметры.<lw><lw> Вы хотите отозвать ваше разрешение и сыграть в оффлайн?
+
+TAG: confirmExtraLimit
+Если вы будете играть на других платформах, это может вызвать такие проблемы, как дорожно-транспортные происшествия и нестабильность.
+
+TAG: confirmExtraLimitTitle
+Активировать дополнительное ограничение
+
+TAG: crossplay_body
+Завершение этого действия отключает перекрестные игры с другими платформами. Вы не сможете играть с игроками или друзьями с различных платформ.<lw><lw>
+
+TAG: DataCollectionAgeDesc
+Просьба обратить внимание на то, что дети не имеют доступа к сетевым особенностям и мероприятиям Disney Dreamlight Valley.
+
+TAG: DataCollectionAgeTitle
+Возраст ограничения
+
+TAG: DataCollectionWarningText
+Для использования этой функции вам нужно отправить информацию о геймплее на наши серверы. Если вы нажмёте не сейчас, вы не сможете использовать все сетевые функции, но вы все еще можете играть в оффлайн.<lw><lw> Вы можете изменить это в любое время в меню Настройка.
+
+TAG: DataCollectionWarningText_Boutique
+Чтобы предоставить вам доступ к Disney Dreamlight Valley Butique, мы должны собрать и обработать идентификаторы и/или пользовательские идентификаторы и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к Boutique.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_claim_Mailbox
+Чтобы предоставить вам доступ к онлайновой почте Disney Dreamlight Valley, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к онлайновой почте, претендующей на функцию.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_DeleteData
+Чтобы предоставить вам доступ к функции Disney Dreamlight Valley Удалить все собранные данные, мы должны собрать и обработать идентификаторы и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к параметру Удалить все собранные данные.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_DreamSnaps
+Чтобы предоставить вам доступ к Disney Dreamlight Valley, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к DreamSnaps.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_EventMenu
+Чтобы предоставить вам доступ к меню событий Disney Dreamlight Valley, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к меню событий.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_fetch_Mailbox
+Для того чтобы вы получили доступ к системе поиска электронной почты Disney Dreamlight Valley, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к онлайновой функции поиска почты.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_Multiplayer
+Для того чтобы предоставить вам доступ к многоплеерному элементу Disney Dreamlight Valley, мы должны собрать и обработать идентификаторы и/или пользовательские идентификаторы и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к параметру мультиплеера.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_Photo_Save_And_Share
+Чтобы предоставить вам доступ к функции Disney Dreamlight Valley Save и Share, мы должны собрать и обработать идентификаторы и/или пользователь и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к функции Save and Share.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_Showid
+Для того чтобы вы смогли показать свой идентификатор пользователя, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к функции Save and Share.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningText_ShowUserID
+Для того чтобы вы смогли показать свой идентификатор пользователя, мы должны собрать и обработать идентификаторы устройства и/или пользователя и историю игры.<lw><lw> Вы можете предоставить ваше разрешение на эти операции, выбрав"Согласовано."Если вы выбираете"Противоречие,"Вы все еще сможете проиграть игру в режиме оффлайн, но у вас не будет доступа к вашему идентификатору пользователя.<lw><lw> Вы можете обновить это разрешение в любое время из меню Настройка.
+
+TAG: DataCollectionWarningTitle
+Разрешение на сбор данных
+
+TAG: Delivery_Dialogue_Text
+Я бы хотел заказать кое-какие вещи.
+
+TAG: dream_styles
+Стиль мечты
+
+TAG: duty_tab_button_1540000000
+Обязанности сновидения
+
+TAG: duty_tab_button_1540000101
+Мистические обязанности
+
+TAG: duty_tab_button_1540000119
+Обязанности, связанные с историями
+
+TAG: exp02_VLG_flyn_notefire
+Стена из камня, держащаяся крепче,<br>Shall ломается только огненным взрывом.
+
+TAG: exp02_VLG_flyn_notegas
+Болезнь, которая никогда не вылечится,<br> Этот толстый темный дым будет твоим концом.
+
+TAG: exp02_VLG_flyn_notetarget
+Дверь, которую просто невозможно прорвать,<br>Need не доходит до цели.
+
+TAG: FishingSwitchHint
+Что-то лежит под этим вихрями...<br><br> Если бы только кто-то мог <Lore>fish</Lore> его поднять...
+
+TAG: force_cloud_offline
+Вы не можете использовать функцию защиты облаков из-за возрастных требований.
+
+TAG: force_offline_alert
+Вы играете в режиме оффлайн в зависимости от возраста
+
+TAG: forYourInformation
+Для Вашего сведения
+
+TAG: ftue_bellebook_001
+[Похоже, что кто-то пишет историю.]<br><br><Lore>"Женщина и Человек Стоуна."</Lore><br><br>"Давным-давно молодая женщина шла по лесу, она слышала голос, поющий так печально, что он пронзил ее сердце."
+
+TAG: ftue_bellebook_002
+[Похоже, что кто-то пишет историю.]<br><br>"Голос привел молодую женщину к каменному мужчине, заточенному в виноградных лозах и шипах."
+
+TAG: ftue_bellebook_003
+[Похоже, что кто-то пишет историю.]<br><br>"-- Ты можешь говорить? -- спросила молодая женщина, приближаясь к каменному мужчине, колеблясь, когда она протянула руку. -- Ты можешь двигаться?"
+
+TAG: ftue_bellebook_004
+[Похоже, что кто-то пишет историю.]<br><br>"-- Я могу говорить, -- сказал каменный человек, -- и я мог бы двигаться, если бы не эти проклятые шипы."
+
+TAG: ftue_bellebook_005
+[Похоже, что кто-то пишет историю.]<br><br>"Девушка тщетно пыталась освободить каменного человека, но ранила себя на шипах и поклялась вернуться с помощью."
+
+TAG: ftue_bellebook_006
+[Похоже, что кто-то пишет историю.]<br><br>"В деревне молодой женщины никто не поверил истории о каменном мужчине, даже когда она показала свои колючие раны, они насмехались."
+
+TAG: ftue_bellebook_007
+[Похоже, что кто-то пишет историю.]<br><br>"Измученная молодая женщина заснула в своем доме, с горящими колючими ранами."
+
+TAG: ftue_bellebook_008
+[Похоже, что кто-то пишет историю.]<br><br>"Молодая женщина стала великолепным зверем с огромными когтями!"
+
+TAG: ftue_bellebook_009
+[Похоже, что кто-то пишет историю.]<br><br>"Когда каменный увидел молодую зверь, он плакал и увещевал ее о шипах, но она вопила от радости, резая шипы, пока он не был свободен."
+
+TAG: ftue_bellebook_010
+[Похоже, что кто-то пишет историю.]<br><br>"Мужчина из камня и молодая женщина пошли все глубже в лес, они были действительно свободны и вместе гнались за приключениями."<br><br><Lore>"Конец."</Lore>
+
+TAG: ftue_birdmessage_010
+Я хотел научить замену Иаго, но вместо этого я застрял с этой раздражающей помехой.<br><br> Он отказывается помочь с моими экспериментами. Он даже начал воровать мои аппараты и артефакты, отказываясь вернуть их, пока я не накормлю его. И его вкусы необычные...<br><br> Он хочет только посуду, сделанную с <Lore> свежими овощами и гнилыми морепродуктами</Lore>.<br><br>Ugh.
+
+TAG: ftue_secretroom_aquamarine
+На этом пьедестале сидит одинокий запятнанный <Lore>blue</Lore> gem's <ActivityItem>Aquamarine</ActivityItem>.
+
+TAG: ftue_secretroom_garnet
+На этом пьедестале сидит одинокий запятнанный <Lore>red</Lore> gem `а <ActivityItem>Garnet</ActivityItem>.
+
+TAG: ftue_secretroom_topaz
+На этом пьедестале сидит одинокий запятнанный <Lore> жёлтый</Lore> жемчужина а <ActivityItem>Topaz</ActivityItem>.
+
+TAG: gender
+Пол
+
+TAG: get_your_avatar_code_title
+Возьми свой код!
+
+TAG: Give_Dialogue_Text
+Я хочу тебе кое-что дать!
+
+TAG: Give_Restaurant_Order
+У меня ваш заказ!
+
+TAG: granted_from_other_dlc
+Доступ разрешен
+
+TAG: hint_capture
+Захват
+
+TAG: hint_changeCameraMode
+Сменить режим камеры
+
+TAG: hint_hideDC
+Скрыть сна
+
+TAG: hint_hideTOM
+Скрыть прикосновение волшебных объектов
+
+TAG: hint_hideUI
+Скрыть UI
+
+TAG: hint_imageformat
+Изменить формат изображения
+
+TAG: hint_saveOnly
+Сохранить только
+
+TAG: hint_share
+Сохранить и поделиться (код QR)
+
+TAG: hint_shareOnly
+Делиться (код QR)
+
+TAG: hint_showDC
+Показать снимки снов
+
+TAG: hint_showTOM
+Показать прикосновение волшебных объектов
+
+TAG: hint_showUI
+Показать UI
+
+TAG: hint_standCrouch
+Ставка/разрыв
+
+TAG: hud_btn_discord
+Дискорд
+
+TAG: hud_btn_exit
+Выход
+
+TAG: inbox_category_all
+Все
+
+TAG: interactpreview_approach
+Подход
+
+TAG: interactpreview_browse
+Просмотр
+
+TAG: interactpreview_change
+Изменение
+
+TAG: interactpreview_check
+Проверить
+
+TAG: interactpreview_eat
+Ешь
+
+TAG: interactpreview_embark
+Отправляйтесь
+
+TAG: interactpreview_enter
+Введите
+
+TAG: interactpreview_exit
+Выход
+
+TAG: interactpreview_expandhouse
+Расширить дом
+
+TAG: interactpreview_harvest
+Урожай
+
+TAG: interactpreview_harvest_hold
+Множество урожаев
+
+TAG: interactpreview_interact
+Интерактивный
+
+TAG: interactpreview_interact_get_on
+Используйте камеру, чтобы включиться.
+
+TAG: interactpreview_interact_party_gather
+Используйте камеру, чтобы собрать деревенских жителей.
+
+TAG: interactpreview_interactvoid
+Сосредоточься на магии
+
+TAG: interactpreview_investigate
+Расследование
+
+TAG: interactpreview_lounge
+Холодильник
+
+TAG: interactpreview_open
+Открыто
+
+TAG: interactpreview_opengamercard
+Открыть Gamercard
+
+TAG: interactpreview_openstorage
+Открытое хранение
+
+TAG: interactpreview_pet
+Домашний питомец
+
+TAG: interactpreview_pickup
+Поднять
+
+TAG: interactpreview_pickup_hold
+(УДЕРЖИВАТЬ) Поднять несколько
+
+TAG: interactpreview_plant_seed
+Посадить
+
+TAG: interactpreview_plant_seed_hold
+(УДЕРЖИВАТЬ) Посадить несколько
+
+TAG: interactpreview_read
+Читать
+
+TAG: interactpreview_remove
+Удалить
+
+TAG: interactpreview_secret
+??
+
+TAG: interactpreview_sit
+Сесть
+
+TAG: interactpreview_talk
+Говорить
+
+TAG: interactpreview_unlock
+Разблокировать
+
+TAG: interactpreview_upgrade
+Улучшить
+
+TAG: interactpreview_use
+Использовать
+
+TAG: interactpreview_useelevator
+Использовать лифт
+
+TAG: inventory_smart_transfer
+Умный перевод
+
+TAG: invite
+Приглашение
+
+TAG: item_amount
+{input_amount} {input_itemName}
+
+TAG: KnightDrawbridge
+На мостике что-то написано:"Никто не пройдет, пока они не окажутся рыцарями."
+
+TAG: Locked_Hangout_Text
+Дойти до уровня дружбы 2.
+
+TAG: Locked_IncorrectScene
+Недоступно в этом месте
+
+TAG: Locked_IncorrectScene_Inv
+Недоступно в этом месте
+
+TAG: Locked_IncorrectVillage
+{mission_text}<br> (Возможен в {scene_name})
+
+TAG: Locked_KeepPlaying_Text
+Продолжайте играть, чтобы открыть новые миссии.
+
+TAG: mark_item
+Отметить пункт
+
+TAG: mark_item_hold
+Маркировка
+
+TAG: MRQS_E02_031_CookingNote
+Записки для себя о том, чтобы сделать идеальный волчонок:<br><br>- Мне нужно только одно от волка.<br><lwr>-- Мне определенно нужно немного масла.<br>-Четырёх ингредиентов определенно слишком много. Он превратился в беспорядок... Держи его проще...<br><lwr>- Примечание к себе: нефть не смешивается с водой... или с слюной...<br><lwr>- Он должен пахнуть как лес... а не цветок...
+
+TAG: MRQS_E02_031_DecorateNote
+Скрытый вход будет запущен только тогда, когда нужный строительный материал <Lore>used для украшения в нужном месте</Lore>.<br><br> В первой строительной зоне <Lore>place что-то, что легче всего продуть, хеффируя и пуффируя</Lore>.<br><br>Второй, <Lore>Place что-то немного sturdier</Lore>.</Lore>0</Lore>1 В третьей, установить что-то, что не может взорваться большой плохой волк.
+
+TAG: MRQS_E02_031_ShovelNote
+Примечание к себе: Чтобы открыть этот дверной проем, попробуйте <Lore>digging</Lore> в нужных вещах...
+
+TAG: MRQS_E02_031_WardrobeNote
+Я все время забываю комбинацию к этому гардеробу, где я храню свои тапочки!!!<br><br>I <Lore>I, оставила себе некоторые подсказки вокруг комнаты</Lore>, так что я всегда могу открыть его снова.
+
+TAG: MRQS_E02_041_TeaNote01
+Мы уже опаздываем! <br><br> Чтобы начать, <Lore> сначала кто-то должен поставить стулья в нужном месте на столе</Lore>.<br><br>The <Lore>Ornate Pink Celead</Lore>... почему это должно идти в почетном месте, конечно же!<br><br>The <br>0Elegant Blue Celead<br>1, почему это самое близкое к почетному гостю!<br>2<br>3The <br>4Sturdy Wooden Chesident<br>5, которое должно уходить далеко, для кого-то застенчивого.
+
+TAG: MRQS_E02_041_TeaNote02
+Как только стулья будут установлены, вы <Lore> должны поместить чай на тележку в конце стола</Lore>, готовый к отправке.<br><br>Oh, где я оставил этот чай... где-то здесь...
+
+TAG: MRQS_E02_041_TeaNote03
+Эти часы на дальней стене вообще не работают.<br><br> Как только вы сделали все остальное, вы должны поставить руки на чайное время вручную. <Lore>8 будет слишком рано, а 10 часов будет слишком поздно, но в промежутке будет просто правильно</Lore>!
+
+TAG: MRQS_E02_051_HelmetNote
+Кто-то ушел и потерял ведро за то, что снова принес воду, я полагаю, один из этих <Lore>helmets</Lore> должен сделать это.
+
+TAG: MRQS_E02_051_KnightNote
+Каждый доблестный рыцарь имел дело с другим мифическим зверем.<br><br> Красный рыцарь боролся с львом <Lore>vicius</Lore>.<br><br> Голубой рыцарь укротил <Lore>tempestismy Unicorn</Lore>.<br><br> Зеленый рыцарь столкнулся с драконом<br>0terriing<br>1.
+
+TAG: MRQS_E02_060_DecorateNote
+Похоже, что часть моей мебели исчезла... но их тени не были.<br><br>My <Lore>throne, вращающееся колесо и канделабра</Lore> должны быть где-то здесь, просто ждут, чтобы их вернули на свое место.
+
+TAG: Reorder_Stories
+Я хочу перезаказать истории!
+
+TAG: rlm_monstersinc_brokendoor01
+[Уведомление от MIFT.]<br><br>Dor Over Order!
+
+TAG: rlm_monstersinc_brokendoor02
+[Вторая липкая записка под первой.]<br><br>Dor STULL Out Order! Инструменты пропали. Может быть, они в ящике с инструментом "Смех"?
+
+TAG: rlm_monstersinc_IngredientStall
+Из Стока.
+
+TAG: rlm_monstersinc_KidRoomNote
+"Здесь на полу достаточно одежды для бульдозера или лопаты!"<lwr><lwr>"Мама Ксоксо"
+
+TAG: rlm_monstersinc_mike_010_drawing01
+Ребёнок рисует шляпу кольца и палочку.
+
+TAG: rlm_monstersinc_mike_010_drawing02
+Ребёнок рисует циркового слона.
+
+TAG: rlm_monstersinc_mike_010_drawing03
+Ребёнок рисует циркового клоуна.
+
+TAG: rlm_monstersinc_stickynotes_010
+Вазовски, бумажная работа. Я не спрашиваю больше. ~ R<br><br>(1/10)
+
+TAG: rlm_monstersinc_stickynotes_020
+Поговорите с Салли. Бумажное дело - это проблема, связанная с генеральным директором. >MW<br><br>(2/10)
+
+TAG: rlm_monstersinc_stickynotes_030
+Вам все еще нужно сдать свои документы OLD, OVERDUE, Wazovsky. ~ &apos; R<br><br>(3/10)
+
+TAG: rlm_monstersinc_stickynotes_040
+Что, если вся эта бумажная работа случайно попала в измельчитель двери?
+
+TAG: rlm_monstersinc_stickynotes_050
+Надеюсь, ты любишь головоломки.
+
+TAG: rlm_monstersinc_stickynotes_060
+Салли, можем ли мы выбросить мои старые документы через дверь в Гималаи?
+
+TAG: rlm_monstersinc_stickynotes_070
+Гималаи не спасут тебя, Вазовский.
+
+TAG: rlm_monstersinc_stickynotes_080
+Это невежливо читать липкие ноты других монстров, Розе! (МВт<br><br>(8/10)
+
+TAG: rlm_monstersinc_stickynotes_090
+Ты знаешь, что за то время, когда ты написал все это, ты мог бы заполучить свой ПАПЕРВОРК? ~ R<br><br>(9/10)
+
+TAG: rlm_monstersinc_stickynotes_100
+НИКОГДА!!!!!!!!!! Теперь я Шутник и НИКОГДА НЕ ВЕРНУСЬ НАЗАД! â MW<br><br>(10/10)
+
+TAG: rlm_monstersinc_stickynotes_110
+... Я ПОПЫТАЮСЬ получить его к завтрашнему дню. â MW<br><br>(11/10)
+
+TAG: rlm_monstersinc_sull_010_coffeeorders
+Заказы на кофе<br><br><lwr>Селия → Кофе x 1, Сахар x 2, Немолочный скример x 2<lwr>Джордж → Чай Ooze-long<lwr>Майк → Кофе x 1, Сахар x 3, Немолочный скример x 1<lwr>Рэндалл → Кофе x 5<lwr>Роз → Кофе x 2, Сахар x 2<lwr>Салли → Кофе x 5
+
+TAG: rlm_monstersinc_sull_010_laughfloordoor
+[Вы просканированы. Мигает красный свет.]<br><br>Доступ запрещен.<br><br>Монстр не идентифицирован. Только сотрудники за этой точкой.
+
+TAG: settings_accessibility
+Доступность
+
+TAG: settings_controls_extraobjectlimit
+Лимит дополнительных объектов
+
+TAG: settings_controls_extraobjectlimit_disable
+Удалите некоторые объекты, чтобы отключить дополнительное ограничение.
+
+TAG: settings_controls_extraobjectlimit_over
+Вы превысили обычный лимит объектов ({icon_amount_multiple} 600, {icon_amount} 3000).
+
+TAG: settings_mp_friend_list_title
+Список друзей
+
+TAG: shortcut_common_default_track_story
+Отследить Историю
+
+TAG: shortcut_common_default_untrack_story
+Престать отслеживать Историю
+
+TAG: splash_all_rights_reserved
+Gameloft и логотип Gameloft являются товарными знаками Gameloft.
+
+TAG: Start_Hangout_Text
+Давай потусуемся!
+
+TAG: Stop_Hangout_Text
+Давай потусуемся попозже.
+
+TAG: storefront_huge_moonstone_pack
+Огромный набор лунных камней
+
+TAG: subtitle_touch_of_magic3_3
+Быстрее сменить углы камеры
+
+TAG: subtitle_touch_of_magic4_furniture_2
+...конструкция будет удалена, но незаполненная мебель останется на месте. База будет возвращена к вашему Инвентаризу только в том случае, если пустая мебель будет удалена.
+
+TAG: TurningFloorControl
+Что-то вроде контрольной панели видно под этим опухолью, если бы только твой Пикокс был достаточно сильным, чтобы удалить его...
+
+TAG: Visit_Aquatic_Text
+Пойдем к твоему дому!
+
+TAG: warmingExtraLimitActivated
+Ваша нынешняя платформа не совместима с опцией Дополнительных Пределов, которая была активирована на другой платформе. Обратите внимание, что на текущей платформе может возникнуть определенная нестабильность.
+
+TAG: warning_potential_time_travel
+Мы обнаружили, что ваши часы впереди реального времени. Это может вызвать проблемы. Вы уверены, что хотите продолжить?
+
+TAG: WateringCanSwitchHint
+<Lore>Water</Lore> даёт жизнь.
+
+TAG: currency_abbr_billion
+B
+
+TAG: currency_abbr_million
+М
+
+TAG: currency_abbr_thousand
+К
+
+TAG: day_abbr_friday
+Пт
+
+TAG: day_abbr_monday
+Пн
+
+TAG: day_abbr_saturday
+Сб
+
+TAG: day_abbr_sunday
+Вс
+
+TAG: day_abbr_thursday
+Чт
+
+TAG: day_abbr_tuesday
+Вт
+
+TAG: day_abbr_wednesday
+Ср
+
+TAG: level_abbr_lvl
+Ур.
+
+TAG: achievement_completed
+Завершено
+
+TAG: ancient_machine_auto_cooker_name
+Авто-Плита
+
+TAG: ancient_machine_cancel_all
+Отменить все
+
+TAG: ancient_machine_gardener_dig
+Копать
+
+TAG: ancient_machine_gardener_name
+Садовник
+
+TAG: ancient_machine_gardener_spots_available
+Места для садоводства
+
+TAG: ancient_machine_menu_add
+Добавить
+
+TAG: ancient_machine_menu_capacity
+Макс.
+
+TAG: ancient_machine_menu_claim
+Требовать
+
+TAG: ancient_machine_menu_collect
+Соберите
+
+TAG: ancient_machine_menu_cook
+Готовить...
+
+TAG: ancient_machine_menu_harvest
+Урожай
+
+TAG: ancient_machine_menu_how_many
+Сколько?
+
+TAG: ancient_machine_menu_level
+Уровень
+
+TAG: ancient_machine_menu_plant_seed
+Семена растений
+
+TAG: ancient_machine_menu_select_all
+Выбрать все
+
+TAG: ancient_machine_menu_select_ingredients
+Выбрать ингредиенты
+
+TAG: ancient_machine_menu_select_seed
+Выбрать семя
+
+TAG: ancient_machine_vacuum_name
+Вакуум
+
+TAG: ancient_machine_message_full
+Мероприятие завершено
+
+TAG: ancient_machine_message_invalid_ingredients
+Неверные ингредиенты
+
+TAG: ancient_machine_message_inventory_full
+Ваш список заполнен.
+
+TAG: ancient_machine_message_not_active
+Древняя машина не работает
+
+TAG: ancient_machine_message_not_enough_combustible
+Недостаточно угля
+
+TAG: ancient_machine_message_not_enough_ingredients
+Недостаточно ингредиентов
+
+TAG: ancient_machine_message_not_enough_mist
+Недостаточно туманности
+
+TAG: ancient_machine_message_not_enough_seeds
+Недостаточно семян
+
+TAG: ancient_machine_message_not_ready
+Не готов.
+
+TAG: ancient_machine_message_nothing_claimed
+У тебя полный рюкзак.
+
+TAG: ancient_machine_message_nothing_to_claim
+Нечего претендовать
+
+TAG: ancient_machine_message_nothing_to_do_gardener
+Рядом с этой Машиной нет дыр, которые можно было бы посадить
+
+TAG: ancient_machine_message_over_max_capacity
+Свыше максимальной вместимостью
+
+TAG: avatar_category_body_type
+Тело
+
+TAG: avatar_category_ears
+Уши
+
+TAG: avatar_category_eyes
+Глаза
+
+TAG: avatar_category_facialhair
+Лицо
+
+TAG: avatar_category_hairstyle
+Прическа
+
+TAG: avatar_category_jaw
+Челюсть.
+
+TAG: avatar_category_makeup
+Грим
+
+TAG: avatar_category_mouth
+Рот
+
+TAG: avatar_category_nose
+Нос
+
+TAG: avatar_category_skin_color
+Тон кожи
+
+TAG: avatar_category_wholeface
+Лицо
+
+TAG: avatar_no_item_category
+В этой категории нет никаких позиций.
+
+TAG: avatar_presets
+Форма тела
+
+TAG: avatar_skin_category_default
+Обычный
+
+TAG: avatar_skin_category_monstrous
+Чудовищно
+
+TAG: avatar_import_error_invalid_code
+Неверный код Avatar<br> Проверьте ваш код и попробуйте снова.
+
+TAG: avatar_import_error_invalid_data
+Данные Аватара для этого кода не действительны.
+
+TAG: avatar_import_no_internet
+Вы должны быть в сети, чтобы импортировать Аватар. Пожалуйста, убедитесь, что вы подключены к Интернету!
+
+TAG: avatar_import_success
+Аватар успешно импортирован
+
+TAG: button_avatar_import
+Импортировать Аватар
+
+TAG: button_goto_designs
+Перейти к дизайну
+
+TAG: import_avatar_already_imported
+Ты уже импортировал Аватар.
+
+TAG: import_avatar_desc
+Введите код Avatar, созданный Инструментом Avatar Designer, чтобы импортировать ваш Avatar.<br><br> Вы можете импортировать Avatar только один раз.
+
+TAG: import_avatar_error_desc
+Аватар не может быть импортирован, потому что нет места, чтобы сохранить "Трог волшебного дизайна". Удалите некоторые дизайны и попробуйте снова.
+
+TAG: import_avatar_error_title
+Импортировать ошибку Avatar
+
+TAG: import_avatar_input_placeholder
+Аватарский кодекс
+
+TAG: import_avatar_title
+Введите код Avatar
+
+TAG: board_game_anywhere
+Куда угодно.
+
+TAG: board_game_borders
+Границы
+
+TAG: board_game_charge_description
+<b> Заряд</b> <Ability> (Движение продолжается до тех пор, пока не попадет препятствие или сторона доски)</Ability>
+
+TAG: board_game_check_board
+Контрольный совет
+
+TAG: board_game_check_figurine
+Проверить фигурин
+
+TAG: board_game_choose_figurines
+Выбирайте фигурки
+
+TAG: board_game_conditions_title
+Условия игры:
+
+TAG: board_game_corners
+Углы
+
+TAG: board_game_end_draw
+Игра окончена, это ничья!
+
+TAG: board_game_end_loss
+Игра окончена, ты проиграл!
+
+TAG: board_game_end_win
+Игра окончена, ты победил!
+
+TAG: board_game_entry_point_title
+Точка входа:
+
+TAG: board_game_ethereal_description
+<b>Эфирный</b> <Ability> (Может пройти через препятствия и фигурки во время движения, но должен закончиться на бесплатной плитке)</Ability>
+
+TAG: board_game_hint_figurine_choice
+Выбирайте фигурки
+
+TAG: board_game_hint_figurine_movement
+Переместить каждую фигурку в игре
+
+TAG: board_game_hint_figurine_placement
+Расположить фигурку
+
+TAG: board_game_hint_opponent_turn
+Поворот оппонента
+
+TAG: board_game_jump_description
+<b>Jump</b> <Ability> (перейти непосредственно к мишени, игнорируя что-либо между)</Ability>
+
+TAG: board_game_mobile_figurine_movement_selection
+Воспроизвести
+
+TAG: board_game_mobile_figurine_placement_selection
+Выбрать
+
+TAG: board_game_movement_title
+Движение:
+
+TAG: board_game_moves_per_turn_description
+Эти движения улучшают каждый поворот, потраченный на доску.
+
+TAG: board_game_none
+Нет
+
+TAG: board_game_selector_title
+Выбрать 5 фигурок для игры с
+
+TAG: board_game_skip
+Пропустить
+
+TAG: board_game_turn
+Поворачивай.
+
+TAG: boardgame_already_played
+Вы уже играли с этим жителем сегодня.<br>Играйте с другими жителями, чтобы заработать больше очков рейтинга.
+
+TAG: boardgame_leave
+Оставлять
+
+TAG: boardgame_maximum_rank
+Максимальное количество рейтинговых очков
+
+TAG: boardgame_quit_popup_message
+Вы уверены, что хотите выйти?
+
+TAG: boardgame_quit_popup_message_forfeit
+Вы уверены, что хотите проиграть этот матч?\nВы не получите рейтинговые очки.
+
+TAG: boardgame_ranking_points
+Рейтинговые очки
+
+TAG: boardgame_rematch
+Реванш
+
+TAG: boat_fish_caught_title
+Поздравляю!
+
+TAG: boat_fish_title
+Рыболовное судно
+
+TAG: building_burning_state_duration_label
+Продолжительность горения
+
+TAG: building_energy_cost_reduction_label
+Сокращение расходов на энергию
+
+TAG: building_fish_cap_label
+Рыбный колпак
+
+TAG: building_fish_per_hour_label
+Рыба в час
+
+TAG: building_number_of_slots_label
+Количество слотов
+
+TAG: building_rare_ripple_unlock
+{Placeholder} Равномерное разблокирование
+
+TAG: building_refresh_cost_label
+Обновить<br>стоимость
+
+TAG: building_required_player_level
+Требуемый уровень игрока
+
+TAG: cannot_add_floor_need_upgrade
+Тебе нужно обновить свой дом, чтобы добавить больше этажей.
+
+TAG: cannot_add_room_need_upgrade
+Тебе нужно обновить свой дом, чтобы добавить больше комнат.
+
+TAG: stall_convert
+КОНВЕРТИРОВАТЬ
+
+TAG: stall_dispenser_free
+Свободные
+
+TAG: stall_error_cannot_interact
+Что-то блокирует дорогу.
+
+TAG: stall_hire
+НАНИМАТЬ
+
+TAG: stall_my_inventory
+МОЙ ИНВЕНТАРЬ
+
+TAG: stall_refresh_stocks
+ОБНОВИТЬ<br>АКЦИИ
+
+TAG: stall_sell
+Продать
+
+TAG: stall_sell_daily_cap
+Ежедневный лимит<br>{current,D}/{cap,D}
+
+TAG: stall_upgrade
+Повышен до уровня {lvl}!
+
+TAG: stall_upgrade_maxed
+Достигнут максимальный уровень!
+
+TAG: stall_upgrade_unlock_lvl
+Разблокировать уровень {lvl}
+
+TAG: bundle_belle_desc
+Помогает подружиться
+
+TAG: bundle_belle_sub_title
+Включает...
+
+TAG: bundle_belle_title
+Набор "Tale As Old As Time"
+
+TAG: bundle_belle_value
+Выгоднее на 50%!
+
+TAG: bundleitemtype_characterdreamstyle
+Стиль мечты персонажа
+
+TAG: bundleitemtype_clothing
+Одежда
+
+TAG: bundleitemtype_companion
+Спутник
+
+TAG: bundleitemtype_facepaint
+Раскраска лица
+
+TAG: bundleitemtype_furniture
+Мебель
+
+TAG: bundleitemtype_houseskin
+Стиль дома
+
+TAG: bundleitemtype_ride
+Привлечение
+
+TAG: bundleitemtype_stallskin_goofy
+Гуфи "Stall Sking"
+
+TAG: bundleitemtype_toolset
+Набор инструментов
+
+TAG: button_common_move_cursor
+Переместить курсор
+
+TAG: button_common_remove_all
+Удалить все
+
+TAG: button_common_reset_cursor
+Сбросить курсор
+
+TAG: button_exit
+ВЫХОД
+
+TAG: button_save_exit
+СОХРАНИТЬ + ВЫХОД
+
+TAG: catalog_character_house
+Дом {characterName}
+
+TAG: catalog_close_panel
+Закрыть панель
+
+TAG: catalog_draw_line
+Нарисовать линию
+
+TAG: catalog_exit_title
+ВЫХОД ИЗ КАТАЛОГА
+
+TAG: catalog_filters
+Активные фильтры:
+
+TAG: catalog_house_placed_lock
+Помещен в эту деревню
+
+TAG: catalog_indoor_item_lock
+Только внутри
+
+TAG: catalog_move_house_to_village_desc
+Вы хотите поместить {HouseItemName} в {CurrentVillageName}? <lw><lw> Это удалит его из {HouseOriginVillage}, когда вы подтвердите ваши изменения.
+
+TAG: catalog_move_house_to_village_title
+Перенести этот дом в {CurrentVillageName}
+
+TAG: catalog_no_items
+Нет совпадений с этим фильтром. Посетите магазин Скрудж Макдак. Возможно, у него есть то, что вам нужно.
+
+TAG: catalog_not_available_item_lock
+Недоступно
+
+TAG: catalog_not_placeable_item_lock
+Невозможно разместить здесь!
+
+TAG: catalog_outdoor_item_lock
+Только вне дома
+
+TAG: catalog_outdoor_item_lock_base
+Только вне дома (В долине снов)
+
+TAG: catalog_outdoor_item_lock_exp1
+Только вне дома (Вечный остров)
+
+TAG: catalog_place_fence
+Установить забор
+
+TAG: catalog_place_house
+Установить дом
+
+TAG: catalog_place_path
+Установить путь
+
+TAG: catalog_rotate_camera
+Повернуть камеру
+
+TAG: catalog_rotate_item
+Повернуть элемент
+
+TAG: catalog_trait_calm
+Спокойный
+
+TAG: catalog_trait_delicate
+Нежный
+
+TAG: catalog_trait_familiar
+Знакомый
+
+TAG: catalog_trait_lavish
+Щедрый
+
+TAG: catalog_trait_playful
+Игривый
+
+TAG: catalog_trait_simple
+Простой
+
+TAG: catalog_trait_strong
+Сильный
+
+TAG: catalog_trait_wondrous
+Чудесный
+
+TAG: catalog_zoom_in_out
+Увеличение/уменьшение
+
+TAG: duplicate_item
+Дублировать
+
+TAG: editmode_limit_mannequin_total_reach
+Максимальное число манекенов, доведенных до этой комнаты <br>Remove любого манекена, чтобы поместить больше.
+
+TAG: editmode_limit_reach
+Получено максимальное число различных позиций.<br> Изъятие всех копий предмета, с тем чтобы поместить больше.
+
+TAG: editmode_limit_total_reach
+Максимальное число доведенных до сведения. <br> Изъятие любого предмета, чтобы поместить больше.
+
+TAG: reset_room
+Сбросить комнату
+
+TAG: save_and_exit
+Сохранить и выйти
+
+TAG: similar_items
+Похожие предметы
+
+TAG: village_object_limit_reached
+Вы достигли лимита объектов деревни.
+
+TAG: catalog_buildings_house
+Дома жителей деревни
+
+TAG: catalog_buildings_other
+Другие здания
+
+TAG: catalog_buildings_playerhouse
+Дома игроков
+
+TAG: catalog_buildings_stall
+Закреплять
+
+TAG: catalog_category_appliance
+Приборы
+
+TAG: catalog_category_art
+Искусство
+
+TAG: catalog_category_bed
+Кровать
+
+TAG: catalog_category_decor
+Декор
+
+TAG: catalog_category_door
+Двери
+
+TAG: catalog_category_electronic
+Электроника
+
+TAG: catalog_category_essential
+Основные элементы
+
+TAG: catalog_category_floor
+Полы
+
+TAG: catalog_category_foliage
+Листья
+
+TAG: catalog_category_house
+Дом
+
+TAG: catalog_category_lighting
+Освещение
+
+TAG: catalog_category_misc
+Мисс.
+
+TAG: catalog_category_rug
+Крепления
+
+TAG: catalog_category_seating
+Рассадка
+
+TAG: catalog_category_storage
+Хранение
+
+TAG: catalog_category_table
+Таблица
+
+TAG: catalog_category_trimming
+Обрезь
+
+TAG: catalog_category_utility
+Коммунальные услуги
+
+TAG: catalog_category_wallpaper
+Обои
+
+TAG: catalog_category_window
+Окна
+
+TAG: catalog_furniture_zones
+Мебельные зоны
+
+TAG: furniture_item_unlock_title
+Новая мебель
+
+TAG: characters_favorties
+ФАВОРИТЫ:
+
+TAG: characters_final_reward_at
+Разблокируйся в "Дружбе".
+
+TAG: characters_follow_up_story
+Владение
+
+TAG: characters_friendship_level
+Уровень дружбы
+
+TAG: characters_full_collection_reward
+Награды в полном объеме
+
+TAG: characters_locked
+Закрыто
+
+TAG: characters_max_friendship_reward
+Максимальная награда за дружбу
+
+TAG: characters_next_unlock
+Следующий разблокировать
+
+TAG: characters_schedule_type_sleep
+Спит
+
+TAG: characters_unlock_condition_Purchase
+Пригласи этого нового друга в Виллидж!
+
+TAG: characters_unlock_condition_Secret
+Найдите их в Виллидж, чтобы открыть их!
+
+TAG: characters_unlock_condition_StoryReward
+Подружиться с этим персонажем, чтобы открыть их!
+
+TAG: characters_welcome
+Добро пожаловать<br>{characterName}!
+
+TAG: collection_befriend
+Подружиться с этим персонажем, чтобы отключить замок
+
+TAG: collection_condition_event
+Участвуйте в специальном событии
+
+TAG: collection_condition_story
+Прогресс в истории, чтобы разблокировать
+
+TAG: label_village_area_1540000089
+Виталийные шахты
+
+TAG: less_details
+Меньше деталей
+
+TAG: more_details
+Более подробная информация
+
+TAG: allController_disconnected
+Регулятор отключен. Пожалуйста, подключите контроллер.
+
+TAG: button_common_accept
+Принять
+
+TAG: button_common_agree
+Согласовано
+
+TAG: button_common_back
+Назад
+
+TAG: button_common_buy
+Покупка
+
+TAG: button_common_buy_more
+Купить больше
+
+TAG: button_common_cancel
+Отмена
+
+TAG: button_common_cart
+Карт
+
+TAG: button_common_close
+Закрыть
+
+TAG: button_common_collect
+Соберите
+
+TAG: button_common_confirm
+Подтвердить
+
+TAG: button_common_confirm_hold
+Подтверждаю (хорошо)
+
+TAG: button_common_confirm_hold_done
+Подтверждено
+
+TAG: button_common_connect
+Подключиться
+
+TAG: button_common_copy
+Копировать
+
+TAG: button_common_create
+Создать
+
+TAG: button_common_default_settings
+Параметры по умолчанию
+
+TAG: button_common_disagree
+Несоответствие
+
+TAG: button_common_edit
+Правка
+
+TAG: button_common_for
+Цена
+
+TAG: button_common_infos
+Информация
+
+TAG: button_common_move_camera
+Передвигать камеру
+
+TAG: button_common_next
+Следующий
+
+TAG: button_common_no
+Нет
+
+TAG: button_common_not_now
+Не сейчас
+
+TAG: button_common_okay
+Хорошо.
+
+TAG: button_common_opt_in
+Подключайся.
+
+TAG: button_common_previous
+Предыдущий
+
+TAG: button_common_purchase
+Закупки
+
+TAG: button_common_remove
+Удалить
+
+TAG: button_common_replace
+Заменить
+
+TAG: button_common_replay
+Повторить
+
+TAG: button_common_reset
+Перезагрузить
+
+TAG: button_common_rotate
+Вращение
+
+TAG: button_common_sell
+Продажа
+
+TAG: button_common_share_information
+Обмен информацией
+
+TAG: button_common_turn_around
+Разворачивайся.
+
+TAG: button_common_undo
+Отменить
+
+TAG: button_common_undo_all
+Отменить все
+
+TAG: button_common_validate
+Одобрить
+
+TAG: button_common_yes
+Выполнено
+
+TAG: button_common_zoom
+Увеличить
+
+TAG: button_common_zoom_in_out
+Увеличение +/-
+
+TAG: button_common_zoom_in_out_text
+Уменьшить/
+
+TAG: common_add
+Добавить
+
+TAG: common_all
+Все
+
+TAG: common_bonus
+Бонус
+
+TAG: common_button_equip
+Аккумулятор
+
+TAG: common_button_equipped
+Равномерный
+
+TAG: common_button_select
+Выбрать
+
+TAG: common_button_spend
+Потрачено
+
+TAG: common_claimed
+Заявленные
+
+TAG: common_come_back_soon
+{Placeholder} Приходите позже, чтобы найти новую и улучшенную версию долины Мечты!
+
+TAG: common_coming_soon
+Скоро приедет.
+
+TAG: common_complete
+Полный
+
+TAG: common_confirmation
+Подтверждение
+
+TAG: common_costs
+Расходы
+
+TAG: common_decal_name
+Мотиф
+
+TAG: common_directions_beach
+Даззл Бич в этом направлении!
+
+TAG: common_directions_darkMountains
+Забытые земли в этом направлении!
+
+TAG: common_directions_forest
+Лес Вэлора в этом направлении!
+
+TAG: common_directions_meadow
+Мирный Мидоу в этом направлении!
+
+TAG: common_directions_savannah
+Солнечный плато в этом направлении!
+
+TAG: common_directions_tundra
+Размораженные высоты в этом направлении!
+
+TAG: common_directions_urban
+Плаза в этом направлении!
+
+TAG: common_directions_wetland
+Глэйд доверия в этом направлении!
+
+TAG: common_earn
+Эрн
+
+TAG: common_empty
+Пустой
+
+TAG: common_favorites
+Любимые
+
+TAG: common_game_maintenance_action
+Попробуй еще раз.
+
+TAG: common_game_maintenance_desc
+Мерлин работает над заклинанием обслуживания наших серверов. Попробуйте позже.
+
+TAG: common_game_maintenance_title
+Перерыв в ремонте!
+
+TAG: common_game_mandatory_update_desc
+Обновление последней версии для открытия новой версии Dreamlight Valley!
+
+TAG: common_game_mandatory_update_title
+Новое обновление
+
+TAG: common_game_optional_update__title
+Обновление доступно
+
+TAG: common_game_optional_update_desc
+Рекомендуется обновить последний вариант.
+
+TAG: common_game_unavailable_desc
+Эта версия больше недоступна.
+
+TAG: common_game_unavailable_title
+Недоступно
+
+TAG: common_game_update_later
+Позже
+
+TAG: common_game_update_now
+Время обновления
+
+TAG: common_give
+Отдай.
+
+TAG: common_hidden
+Скрытая
+
+TAG: common_hold
+Держать!
+
+TAG: common_level
+Уроень
+
+TAG: common_level_title
+УВРОЕНЬ
+
+TAG: common_mark_favorite
+Отметить как любимое
+
+TAG: common_mark_hidden
+Скрыть
+
+TAG: common_moonstone_name_plurial
+Лунные камни
+
+TAG: common_new
+Новые должности
+
+TAG: common_old
+Старый
+
+TAG: common_or
+Или
+
+TAG: common_play_video
+Воспроизвести видео
+
+TAG: common_played
+Проиграно
+
+TAG: common_price_free
+Свободные
+
+TAG: common_ready
+Готов
+
+TAG: common_ready_unlock
+Готовы к разблокированию
+
+TAG: common_refresh
+Обновить
+
+TAG: common_search
+Поиск
+
+TAG: common_time_am
+{time} AM
+
+TAG: common_time_days
+{0} Дни
+
+TAG: common_time_label_day
+день
+
+TAG: common_time_label_day_abbr
+d
+
+TAG: common_time_label_finished
+Завершено
+
+TAG: common_time_label_hour
+час
+
+TAG: common_time_label_hour_abbr
+h
+
+TAG: common_time_label_minute
+минут
+
+TAG: common_time_label_minute_abbr
+мин.
+
+TAG: common_time_label_second
+вторая
+
+TAG: common_time_label_second_abbr
+с
+
+TAG: common_time_label_week
+неделя
+
+TAG: common_time_pm
+{time} PM
+
+TAG: common_timer_ends_in
+Заканчивается в:
+
+TAG: common_timer_refreshes_in
+Обновляется в:
+
+TAG: common_timer_starts_in
+Начинается с:
+
+TAG: common_unavailable
+Недоступно
+
+TAG: common_unlock
+Разблокировать
+
+TAG: common_unmark_favorite
+Снять отметку «Избранное»
+
+TAG: common_unmark_hidden
+Раскрыть
+
+TAG: common_upgrade
+Обновление
+
+TAG: content_offline
+Вы должны быть в сети, чтобы увидеть это содержание.
+
+TAG: controller_disconnected
+Регулятор отключен.
+
+TAG: controller_disconnected_playstation
+Беспроводной контроллер отключен.
+
+TAG: controller_disconnected_title_tvos
+Ваш контроллер либо прекратил работу, либо был отключен.<lw><lw> Пожалуйста, помните, что игра не поддерживает Siri Diletive и что вы должны соединить ваш контроллер, чтобы продолжить игру.
+
+TAG: controller_disconnected_tvos
+Регулятор не обнаружен
+
+TAG: inspect
+Инспектирование
+
+TAG: insufficient_space
+Чтобы правильно запустить эту игру, {RequiredSpace} MB свободного пространства требуется на вашем дисководе,"{Drive}."
+
+TAG: insufficient_space_arcade
+У тебя не хватает свободного пространства, освободи немного места и попробуй еще раз.
+
+TAG: insufficient_space_title
+Недостаточное пространство
+
+TAG: label_a_to_b
+{a} - {b}
+
+TAG: label_building
+Здание
+
+TAG: label_claim
+СОБИРАТЬ
+
+TAG: label_cooking
+Готовка
+
+TAG: label_create_account
+Создать счет
+
+TAG: label_dessert
+Десерт
+
+TAG: label_dinner
+Ужин
+
+TAG: label_edited_by
+Отредактировано
+
+TAG: label_email
+Электронная почта
+
+TAG: label_energy
+Энергетика
+
+TAG: label_favorite_things
+УЧАСТНИКИ
+
+TAG: label_fish
+Рыба
+
+TAG: label_fishing
+Рыбный промысел
+
+TAG: label_flower
+Цветок
+
+TAG: label_foraging
+Высадка
+
+TAG: label_friendship
+Дружба
+
+TAG: label_fruit
+Фрукты
+
+TAG: label_gardening
+Огородное хозяйство
+
+TAG: label_grain
+Зерно
+
+TAG: label_hangout_bonus
+БОНУС HANGOUT
+
+TAG: label_ingredient
+Ингредиент
+
+TAG: label_login
+Зарегистрируйтесь
+
+TAG: label_mineral
+Минеральные ресурсы
+
+TAG: label_mining
+Добыча полезных ископаемых
+
+TAG: label_new_quest
+Новый поиск!
+
+TAG: label_not_available
+Не доступно
+
+TAG: label_original_creator
+Оригинальный Создатель
+
+TAG: label_password
+Пароль
+
+TAG: label_quest_progress
+Ход поиска
+
+TAG: label_recipe
+Рециркуляция
+
+TAG: label_selling_for
+Продажа
+
+TAG: label_send
+Отправить
+
+TAG: label_spice
+Специи
+
+TAG: label_treasure
+Сокровище
+
+TAG: label_vegetable
+Овощное
+
+TAG: label_verification_code
+Код проверки
+
+TAG: label_village
+Деревня
+
+TAG: label_village_1540000000
+Долина мечты
+
+TAG: label_village_1540000101
+Вечный остров
+
+TAG: label_village_1540000119
+Сказочная долина
+
+TAG: label_village_area_atlanteanoutpost01
+Доксы
+
+TAG: label_village_area_atlanteanoutpost02
+Судоводство
+
+TAG: label_village_area_atlanteanoutpost03
+Переоценка
+
+TAG: label_village_area_atlanteanoutpost04
+Разрушения
+
+TAG: label_village_area_beach
+Пляж Dazzle
+
+TAG: label_village_area_cliff
+Размораженные высоты
+
+TAG: label_village_area_darkmountains
+Забытые земли
+
+TAG: label_village_area_desert01
+Площади
+
+TAG: label_village_area_desert02
+Отходы
+
+TAG: label_village_area_desert03
+Оазис
+
+TAG: label_village_area_desert04
+Приграничные районы
+
+TAG: label_village_area_everywhere
+Повсюду
+
+TAG: label_village_area_fairytales01
+Дикие леса
+
+TAG: label_village_area_fairytales02
+Чайный водопад
+
+TAG: label_village_area_fairytales03
+Падающая крепость
+
+TAG: label_village_area_fairytales04
+Марши с фасолью
+
+TAG: label_village_area_forest
+Лесоводство
+
+TAG: label_village_area_jungle01
+Грассленды
+
+TAG: label_village_area_jungle02
+Променад
+
+TAG: label_village_area_jungle03
+Гроув
+
+TAG: label_village_area_jungle04
+Лагун
+
+TAG: label_village_area_library01
+Библиотека Лоре
+
+TAG: label_village_area_library02
+Связка
+
+TAG: label_village_area_meadow
+Мирный луг
+
+TAG: label_village_area_mythology01
+Элизийские поля
+
+TAG: label_village_area_mythology02
+Огненные равнины
+
+TAG: label_village_area_mythology03
+Тень Статуи
+
+TAG: label_village_area_mythology04
+Гора Олимп
+
+TAG: label_village_area_savannah
+Плато солнечных лучей
+
+TAG: label_village_area_urban
+Плаза
+
+TAG: label_village_area_wetland
+Глэйд доверия
+
+TAG: scroogesignpopup
+Скрудж Макдак Хранение
+
+TAG: cooking_autofill
+Автозаполнение
+
+TAG: cooking_back_remove_ingredients
+Закрыть/ удалить ингредиенты
+
+TAG: cooking_history
+История
+
+TAG: cooking_ingredient_missing
+(Пропущенные ингредиенты)
+
+TAG: cooking_result_cookbook
+Кулинарная книга
+
+TAG: cooking_result_used
+Используется
+
+TAG: cooking_select_recipe
+(Выбрать рецепт)
+
+TAG: cooking_skip_results
+Скриншот с пропущенным результатом
+
+TAG: new_recipe_unlocked
+Новый реципиент Неблокированный:<br>{recipe}
+
+TAG: crafting_joker_info
+Использовать {icon_joker} {joker_amount} для замены недостающих материалов
+
+TAG: crafting_make_button
+Марка
+
+TAG: crafting_quests_filter
+Поиски
+
+TAG: crafting_recipes_title
+Пересадка реципиентов
+
+TAG: crafting_recipes_unlock_title
+Новый решетчатый реципиент
+
+TAG: mobile_hint_default_track_recipe
+(УДЕРЖИВАТЬ) Отслеживать Рецепт
+
+TAG: mobile_hint_default_untrack_recipe
+(УДЕРЖИВАТЬ) Неотслеживать Рецепт
+
+TAG: shortcut_common_default_track_recipe
+Отслеживать Рецепт
+
+TAG: shortcut_common_default_untrack_recipe
+Неотслеживать Рецепт
+
+TAG: premiumshop_bonus_currency
++{bonus_amount} Бонус
+
+TAG: premiumshop_bundle_includes
+В комплект входит:
+
+TAG: premiumshop_buy_currency
+Покупайте {formatted_price}
+
+TAG: premiumshop_currency_moonstones
+Лунные камни
+
+TAG: target_current
+Текущий целевой показатель
+
+TAG: target_enter
+Введите
+
+TAG: target_fish_ripple
+Рыболовство
+
+TAG: target_leave
+Оставлять
+
+TAG: cutscene_Exp2Pres1
+Но когда началось забытие, Малефисента и Аид украли Вале.
+
+TAG: cutscene_Exp2Pres2
+Они согласились править им вместе, разделив его посередине.
+
+TAG: cutscene_Exp2Pres3
+Но вскоре... Малефисента и Аид начали спорить.
+
+TAG: cutscene_Exp2Pres4
+Их вражда разорвала Вейл... и началась "Никогда".
+
+TAG: cutscene_ExpPres1
+Во время забвения я отправился в путешествие и открыл землю за водой долины Мечты.
+
+TAG: cutscene_ExpPres2
+Земля, называемая островом вечности.
+
+TAG: cutscene_ExpPres3
+Место, наполненное древними реликвиями, которые дают возможность их владельцу контролировать время...
+
+TAG: cutscene_introbackstory_01
+Долина Мечты была веселым местом, полным счастливых деревенских жителей.
+
+TAG: cutscene_introbackstory_02
+Жизнь процветала благодаря магии нашего Правителя.
+
+TAG: cutscene_introbackstory_03
+Пока наш Правитель не исчез... и не началось Забвение.
+
+TAG: cutscene_introbackstory_04
+Наши воспоминания исчезли, и долина стала тенью самой себя...
+
+TAG: cutscene_introbackstory_05
+Мы пытались сохранить наши воспоминания о той жизни, которая была.
+
+TAG: cutscene_introvideo_01
+Наша история начинается с конца, когда ты решаешь, что пора оставить город позади.
+
+TAG: cutscene_introvideo_02
+Желая сделать паузу от жизненных обязанностей, вы приходите в знакомое место.
+
+TAG: cutscene_introvideo_03
+Быстрая прогулка по соседству ведет вас к месту, где, будучи ребенком, вы обнаружили, что жизнь была проще...
+
+TAG: cutscene_introvideo_04
+И с притяжением воображения, все твои мечты сбудутся!
+
+TAG: cutscene_introvideo_05
+Найти идеальное место для отдыха, начать вспоминать эти давно потерянные мечты...
+
+TAG: cutscene_introvideo_06
+И дрейфует спать.
+
+TAG: cutscene_net_tool_unlocked
+Royal Net (Royal Net) открыт
+
+TAG: cutscene_tool_unlocked
+{tool} Открыто
+
+TAG: hold_to_skip
+Оставайтесь на месте.
+
+TAG: cutscene_tobecontinued
+Продолжать...
+
+TAG: decal_base_not_obtained
+База не получена
+
+TAG: decal_camera_view
+Вид камеры
+
+TAG: decal_color_picker
+Открыть пикер цвета
+
+TAG: decal_delete_design_confirmation_desc
+Вы уверены, что хотите навсегда удалить свой дизайн?
+
+TAG: decal_delete_design_confirmation_title
+Удалить индивидуальный дизайн
+
+TAG: decal_disclaimer_body
+Прикосновение магии - это инструмент, предназначенный для выражения вашего творчества.<lw><lw>Beading создать контент, пригодный для всех аудиторий, и избегать создания чего-либо неуместного или вредного каким-либо образом.<lw><lw>T спасибо за создание безопасного сообщества для всех.
+
+TAG: decal_disclaimer_title
+Прикосновение волшебства
+
+TAG: decal_glossiness
+Глянцевитость
+
+TAG: decal_inventory_full_body
+Вы заполнили максимальное количество доступных слотов дизайна.<lw><lw>Delet старый дизайн для создания нового.
+
+TAG: decal_inventory_full_title
+Полноформатное проектирование
+
+TAG: decal_layer_counter
+Слои<br>{current}/{max}
+
+TAG: decal_material
+Материал
+
+TAG: decal_metal
+Металл
+
+TAG: decal_modes_panel
+Панель открытых режимов
+
+TAG: decal_move_motif
+Перейти Мотиф
+
+TAG: decal_no_delete
+Нет, сохраняйте дизайн
+
+TAG: decal_orbit_camera
+Вращение камеры
+
+TAG: decal_patterns
+Схемы
+
+TAG: decal_rotate_motif
+Поворачивай мотиф
+
+TAG: decal_save_and_quit
+Сохранить & выход
+
+TAG: decal_scale_motif
+Масштаб Motif
+
+TAG: decal_texture
+Тексты
+
+TAG: decal_texture_selection
+Выбор текста
+
+TAG: decal_yes_delete
+Исключить
+
+TAG: dreamscape_disclaimer_body
+The Forgotten Memories Quests имеют дело с некоторыми сложными эмоциями и темами, такими как грусть, одиночество и гнев.<lw><lw> Если вы не в нужном пространстве, чтобы заниматься этими темами, подумайте о возвращении в вашу деревню, пока не почувствуете, что готовы к встрече с ними.
+
+TAG: dreamscape_disclaimer_title
+Берегите себя!
+
+TAG: motif_add_new
+Добавить новый
+
+TAG: motif_category
+Категории "Мотиф"
+
+TAG: motif_colorizable
+Цветные мотифы
+
+TAG: motif_customize
+Упорядочение
+
+TAG: motif_decals
+Мотифы
+
+TAG: motif_non_colorizable
+Нецветные мотифы
+
+TAG: purchase_base_cloth_desc
+Тебе нужно купить эту вещь, чтобы продолжить.
+
+TAG: button_more_details
+Более подробная информация
+
+TAG: button_report
+Отчет
+
+TAG: button_submit
+Представить
+
+TAG: button_vote
+Голосуйте!
+
+TAG: challenge_state_completed
+Завершено
+
+TAG: challenge_state_no_submission
+Представление отсутствует
+
+TAG: challenge_state_processing
+Обработка
+
+TAG: challenge_state_rewarded
+Вознаграждение
+
+TAG: challenge_state_to_be_completed
+Будет добавлено позднее
+
+TAG: check_submission
+Проверить представление
+
+TAG: confirm_report_picture
+Вы уверены, что хотите сообщить об этом фото?
+
+TAG: confirm_submit_picture
+Вы уверены, что хотите представить эту фотографию?
+
+TAG: design_challenge_current
+Текущая задача
+
+TAG: design_challenge_reward
+Вознаграждение
+
+TAG: design_challenge_rewarding
+Вознаграждение
+
+TAG: design_challenge_submission_subtitle
+Ваша задача по дизайну
+
+TAG: design_challenge_submit_error_ended
+Представление картины провалилось, потому что событие закончилось.
+
+TAG: design_challenge_submit_error_not_found
+Представление картины провалилось, так как не удалось найти это событие.
+
+TAG: design_challenge_submit_error_not_started
+Представление картины провалилось, поскольку это событие еще не началось.
+
+TAG: design_challenge_submit_error_title
+Ошибка представления
+
+TAG: design_challenge_submit_error_unknown
+Представление картины не удалось сделать из-за неизвестной ошибки.
+
+TAG: design_challenge_submit_error_unsupported_platform
+Представление картины не сработало, поскольку данное мероприятие не получило поддержки на этой платформе.
+
+TAG: design_challenge_title
+Снотворное
+
+TAG: design_challenge_vote_claimed_label
+Заявленные
+
+TAG: design_challenge_vote_error_challenge_not_found
+Снайперы не могут быть найдены онлайн.
+
+TAG: design_challenge_vote_error_description
+Некоторые голоса не могли быть зарегистрированы из-за ошибок при обработке фотографий.
+
+TAG: design_challenge_vote_error_inactive
+Снайперы либо не начинались, либо истекали.
+
+TAG: design_challenge_vote_error_title
+Ошибка голосования
+
+TAG: design_challenge_vote_error_unknown
+Невозможно найти фотографии DreamSnaps из-за неизвестной ошибки.
+
+TAG: design_challenge_vote_no_more
+Сейчас не за что голосовать.
+
+TAG: design_challenge_vote_subtitle
+Голосуйте за вашу любимую фотографию ниже
+
+TAG: design_challenge_voting
+Голосование
+
+TAG: design_challenges_disclaimer_body
+Поздравляю с завершением урока DreamSnaps! Снимки, которые вы представляете, теперь можно поделиться с другими игроками через онлайн-ситуацию для голосования. Вы увидите, что другие пользователи представили и проголосовали за самые захватывающие создания!<lw><lw>Join в веселье с обществом, когда вы зарабатываете одежду, мебель и лунные камни, которые вы можете использовать в магазине Премиум или Star Path.<lw><lw>Want, чтобы отказаться от онлайн-проблемы DreamSnaps? Вы всегда можете сделать выбор позже, если передумаете!
+
+TAG: design_challenges_disclaimer_body_applearcade
+Поздравляю с завершением урока DreamSnaps! Снимки, которые вы представляете, теперь можно поделиться с другими игроками через онлайн-ситуацию для голосования. Вы увидите, что другие пользователи представили и проголосовали за самые захватывающие создания!<lw><lw>Join в веселье с обществом, когда вы зарабатываете одежду, мебель и Star Coins<lw><lw>Want, чтобы отказаться от онлайн-проблем DreamSnaps? Вы всегда можете сделать выбор позже, если передумаете!
+
+TAG: design_challenges_disclaimer_title
+"Снайперы"
+
+TAG: design_challenges_intro_body
+Необязательный контент Quest может быть доступен только с помощью нашей функции DreamSnaps.<lw><lw>DreamSnaps — это забавный новый режим игры, позволяющий выразить ваше творчество и получить эксклюзивные призы.<lw><lw>Dectorate, сделать фото со своим телефоном и представить!
+
+TAG: design_challenges_intro_title
+Снотворное
+
+TAG: label_bonuses
+Бонусы
+
+TAG: label_both
+И то, и другое
+
+TAG: label_fullscreen
+Показать полный экран
+
+TAG: label_matching_tags
+Совпадающие метки
+
+TAG: label_requirements
+Потребности
+
+TAG: mandatory_tags_title
+Обязательно
+
+TAG: offline_picture_correctly_submitted
+Ваша фотография была представлена правильно, и вы получили {nbPixelDust} Pixel Dust. Для будущих задач мы отправим награду в ваш почтовый ящик.
+
+TAG: picture_contains_tom_items_error
+Ваша фотография не может быть представлена, потому что она содержит прикосновение к волшебным предметам.
+
+TAG: picture_correctly_submitted
+Ваша фотография была представлена правильно.
+
+TAG: picture_report_failed_unknown_error
+Из-за неизвестной ошибки не удалось сообщить об этой картине.
+
+TAG: picture_report_successful
+Эта картина была успешно освещена.
+
+TAG: rewarding_processing_disclaimer
+Этот вызов в настоящее время рассматривается. Вы можете ожидать ваших вознаграждений как-то в течение отчетного периода. Проверьте текущее состояние вашего представления ниже.
+
+TAG: submission_current_timer
+Представление заканчивается и голоса начинаются в {delay}.
+
+TAG: submission_rewarding_timer
+Период вознаграждения заканчивается {delay}.
+
+TAG: submission_vote_timer
+Голосует близко в {delay}.
+
+TAG: submit_picture_to_design_challenge
+Хочешь покориться снайперам?
+
+TAG: suggested_tags_title
+Бонус
+
+TAG: vote_and_win_moonstones
+Голосуйте за вашу любимую фотографию и выиграйте Лунные Камни!
+
+TAG: vote_and_win_starcoins
+Голосуйте за вашу любимую фотографию и выиграйте Star Coins!
+
+TAG: vote_now
+Голосуйте сейчас
+
+TAG: dialog_goodbye
+Простите, я не могу сейчас говорить.
+
+TAG: dialog_locked_friendship_level
+Требует уровня дружбы {level}
+
+TAG: dialog_request
+Давайте садиться вместе!
+
+TAG: dialog_talking
+Привет!
+
+TAG: dialog_wait
+[...]
+
+TAG: mobile_hint_default_untrack_duty
+Неупорядоченная пошлина
+
+TAG: shortcut_common_default_untrack_duty
+Неувязанная обязанность
+
+TAG: event_hub_event
+Мероприятие
+
+TAG: event_hub_event_ended
+Завершено
+
+TAG: event_hub_go_to_event
+Перейти к мероприятию
+
+TAG: event_hub_news
+Новости
+
+TAG: dreamsnap_unavailable_body
+Вызовы DreamSnaps недоступны, потому что в настоящее время не работает кросс-плей. Пожалуйста, разрешите перекрестные воспроизведения из Меню Меню для участия в DreamSnaps.
+
+TAG: dreamsnap_unavailable_title
+Недоступные сна
+
+TAG: mobile_hint_default_track_duty
+(ЖЕЛЕЗНОДОРОЖНОЕ ДВИЖЕНИЕ)
+
+TAG: track_duty_shortcut
+Дорожка
+
+TAG: untrack_duty_shortcut
+Неувязанная обязанность
+
+TAG: expand_label
+Расширить
+
+TAG: house_expansion_add_floor
+Добавить нижний предел
+
+TAG: house_expansion_add_room
+Добавить комнату
+
+TAG: house_expansion_enter_name
+Введите имя комнаты
+
+TAG: house_expansion_expand_confirm
+Вы уверены, что хотите расширить главную комнату?
+
+TAG: house_expansion_floor_confirm
+Вы уверены, что хотите добавить новый этаж?
+
+TAG: house_expansion_floor_label
+{floor}F
+
+TAG: house_expansion_floors
+Полы
+
+TAG: house_expansion_label
+Расширение жилья
+
+TAG: house_expansion_reduction_confirm
+Изменение размера этой комнаты удалит всю мебель. Мебель будет включена в ваш список. Хочешь продолжить?
+
+TAG: house_expansion_title
+Домашние полы
+
+TAG: filter_buttton_add
+Добавить фильтр
+
+TAG: filter_filters
+Фильтры
+
+TAG: filter_need_to_clear
+Введите эту категорию, перезагрузит фильтры
+
+TAG: filter_search_and_filters
+Поиск и фильтры
+
+TAG: filter_search_placeholder
+Например, коротко ИЛИ "gold solid"
+
+TAG: fishing_boat_next_fish_in
+Следующая рыба в:
+
+TAG: fishing_btn_keep
+Не высовывайся.
+
+TAG: fishing_btn_release
+Прошу вас, отпустите меня.
+
+TAG: fishing_building_locked
+Откройте дом {characterName}, чтобы открыть рыбалку!
+
+TAG: fishing_desc
+Ты только что поймал:
+
+TAG: fishing_error_no_fish_constrain
+{Placeholder} Здесь нет рыбы такого типа, которую вы ищете в данный момент, пожалуйста, попробуйте еще раз, когда это {constraint}.
+
+TAG: fishing_error_no_fish_try_later
+Нет рыбы такого типа, который вы ищете в данный момент. Попробуйте позже.
+
+TAG: fishing_hold
+Стой!
+
+TAG: fishing_new_record
+НОВЫЙ РЕКОРД
+
+TAG: fishing_release
+Отпустите!
+
+TAG: fishing_wait
+Подожди!
+
+TAG: fishing_weight_kilograms
+{weight} кг
+
+TAG: fishing_weight_pounds
+{weight} лб
+
+TAG: moana_boat_fish_cap
+Рыбный шляп: {current}/{cap}
+
+TAG: flower_stall_cap
+Цветочный колпак: {current}/{cap}
+
+TAG: flower_stall_caught_title
+Поздравляю!
+
+TAG: flower_stall_next_in
+Следующий цветок:
+
+TAG: flower_stall_title
+Цветочный столб
+
+TAG: friendship_rewards_label
+Вознаграждение:
+
+TAG: friendship_level_up
+Вверх!
+
+TAG: ftue_ancient_machines_auto_cooker_claim
+Дай ему немного приготовить, а потом вернись и забери еду.
+
+TAG: ftue_ancient_machines_auto_cooker_ingredients
+Выбирайте ингредиенты и количества, которые вы хотели бы приготовить.
+
+TAG: ftue_ancient_machines_auto_cooker_title
+Древний кухонный
+
+TAG: ftue_ancient_machines_gardener_claim
+Семена растений или урожай с одним действием! (Costs Mist.)
+
+TAG: ftue_ancient_machines_gardener_prepare
+Для того чтобы садовник мог работать, он должен быть установлен на земле, где могут выращиваться культуры.
+
+TAG: ftue_ancient_machines_gardener_title
+Древний садовник
+
+TAG: ftue_ancient_machines_general_text
+Древние машины могут быть размещены в вашей деревне для оказания помощи в выполнении различных задач.<lw><lw>Они используют Mist {icon_mist} для работы.<lw><lw>Upding ваше часовое стекло для изготовления более эффективных машин.
+
+TAG: ftue_ancient_machines_general_title
+Древние машины
+
+TAG: ftue_ancient_machines_vacuum_claim
+Выберите нужные предметы и соберите их из одного места! (Costs Mist.)
+
+TAG: ftue_ancient_machines_vacuum_select
+Древний Вакуум сканирует область в биоме для ночного торта и сплячки Судьбы.<lw><lw>Upgraphy, чтобы обнаружить еще больше видов предметов!
+
+TAG: ftue_ancient_machines_vacuum_title
+Древний вакуум
+
+TAG: ftue_be_active
+Будьте активными в Долине.
+
+TAG: ftue_beachcavetablet_01
+Предоставьте <Lore>gem, который соответствует лучшей</Lore>, чтобы продолжить поиски вашего героя.
+
+TAG: ftue_beachcavetablet_02
+Откройте посевы <Lore>right, чтобы выращивать</Lore>, чтобы продолжить их внизу. Один из них <Lore>underground</Lore>, другой <Lore>gold и коричневый</Lore>. Остается <Lore>red и круглый</Lore>.
+
+TAG: ftue_beachcavetablet_03
+Последняя загадка, пусть будет известна: <Lore>cook и ешь</Lore> то, что ты вырос.
+
+TAG: ftue_beachcavetablet_04
+Последняя вещь, и вы можете идти. <Lore>Catch The Orb, который находится ниже</Lore>.
+
+TAG: ftue_become_powerful
+Повысьте опыт и выровняйтесь!
+
+TAG: ftue_build_friendship
+Так много друзей!
+
+TAG: ftue_camera_desc
+Сделай самые красивые фотографии и сохрани их на своем устройстве.
+
+TAG: ftue_camera_desc_mobile
+Используйте камеру, чтобы сфотографировать.
+
+TAG: ftue_camera_title
+ПОДСКАЗКА ЗАМЕСТИТЕЛЯ: КАМЕРА
+
+TAG: ftue_camera_title_mobile
+Новый инструмент: камера
+
+TAG: ftue_complete_task
+Быть активным в Долине!
+
+TAG: ftue_cooking_title
+КОРОЛЕВСТВЕННАЯ АРТА КОРОЛЕВСТВА
+
+TAG: ftue_crops_grow_faster
+Урожаи растут быстрее в биоме, откуда они!
+
+TAG: ftue_design_challenges_how_it_works_1_points
+Использование предметов, отвечающих требованиям задачи, дает вам больше очков.
+
+TAG: ftue_design_challenges_how_it_works_2_win_votes
+Вы также можете получить больше очков, завоевывая голоса от общества.
+
+TAG: ftue_design_challenges_how_it_works_3_results
+Когда вызов будет завершен, результаты будут рассчитаны и вы получите вознаграждение на основе вашего рейтинга.
+
+TAG: ftue_design_challenges_how_it_works_title
+СВОБОДЫ: КАК ЭТО РАБОТАЕТ
+
+TAG: ftue_design_challenges_requirements_1_details
+Требования к вызову можно найти в разделе DreamSnaps меню События.
+
+TAG: ftue_design_challenges_requirements_2_photo_mode
+Вы также можете проверить требования в фоторежиме {input_designchallengesrequirements} OR в меню Wardrobe или Мебель, когда активируется режим DreamSnaps.
+
+TAG: ftue_design_challenges_requirements_2_photo_mode_mobile
+Вы также можете проверить требования в фоторежиме OR в меню Wardrobe или в меню Мебель, когда активирован режим DreamSnaps.
+
+TAG: ftue_design_challenges_requirements_title
+СВОБОДЫ: ТРЕБОВАНИЯ
+
+TAG: ftue_design_challenges_submit_1_requirements
+Расположить или надеть предметы, отвечающие требованиям задачи, прежде чем снимать картинку.
+
+TAG: ftue_design_challenges_submit_2_photo_mode
+Посмотрите вкладку Challenge в Фоторежиме, чтобы узнать, соответствует ли вы всем требованиям.
+
+TAG: ftue_design_challenges_submit_3_submit
+Если вы довольны своим снимком, используйте {input_designchallengessubmit} для передачи.
+
+TAG: ftue_design_challenges_submit_3_submit_mobile
+Если ты доволен своим снимком, представь свою фотографию!
+
+TAG: ftue_design_challenges_submit_title
+СВОБОДЫ: КАК ВСТРЕЧИТЬ
+
+TAG: ftue_design_challenges_voting_1_menu
+Вы можете получить доступ к системе голосования в разделе DreamSnaps меню События.
+
+TAG: ftue_design_challenges_voting_2_moonstones
+Забастовка голосов даст вам несколько Лунных Камней, до минимума за вызов.
+
+TAG: ftue_design_challenges_voting_2_starcoins
+Голосование даст тебе несколько "Звёздных Колунов", до минимума за вызов.
+
+TAG: ftue_design_challenges_voting_title
+ГОЛОСОВАНИЕ
+
+TAG: ftue_discover_recipes
+Соедините различные Ингредиенты, чтобы открыть новые Реципиенты.
+
+TAG: ftue_dreamlight_get
+Зарн Мечтай Свет из меню Мечты!
+
+TAG: ftue_dreamlight_title
+Пользуйся сном, чтобы вернуть Вэлли!
+
+TAG: ftue_easy_track
+Вы сможете отследить вашу цель, как только закончите, ваш последний поиск будет отслежен.
+
+TAG: ftue_energy_title
+ВЫРАЖАЙТЕ ЭНЕРГЕТИЧЕСКИЙ РЕЗЕРВ
+
+TAG: ftue_energyOut_info1
+Без энергии попрощайся со многими видами деятельности.
+
+TAG: ftue_energyOut_info2
+Еда или пребывание в вашем доме восполнит Энергетику.
+
+TAG: ftue_energyOut_info3
+Здоровая приготовленная еда - лучший способ выздороветь.
+
+TAG: ftue_energyOut_title
+КАК УМЕНЬШИТЬ ВО ВНЕШНИЕ ВЕЩЕСТВА
+
+TAG: ftue_energyReward_title
+БОЛЕЕ ЭНЕРГЕТИЧЕСКИЕ, БОЛЕЕ БОЛЕЕ ЭНЕРГЕТИЧЕСКИЕ
+
+TAG: ftue_energyRewards_info1
+Ешь готовую еду для заполнения бара желтой энергией
+
+TAG: ftue_energyRewards_info2
+Найти более редкие ресурсы с полным желтым энергетическим баром
+
+TAG: ftue_equip_camera
+Открой колесо инструмента {input_toolswheel} и выбери камеру.
+
+TAG: ftue_equip_camera_mobile
+Открой колесо Инструмента и выбери камеру.
+
+TAG: ftue_equip_fishingrod
+Открой колесо с помощью инструмента {input_toolswheel} и выбери рыболовный род.
+
+TAG: ftue_equip_fishingrod_mobile
+Открой колесо Инструмента и выбери рыболовецкий род.
+
+TAG: ftue_equip_pickaxe
+Открой колесо с помощью инструмента {input_toolswheel} и выбери пикакс.
+
+TAG: ftue_equip_pickaxe_mobile
+Открой колесо Инструмента и выбери пикакс.
+
+TAG: ftue_equip_shovel
+Открой колесо инструмента {input_toolswheel} и выбери шовель.
+
+TAG: ftue_equip_shovel_mobile
+Открой колесо Инструмента и выбери шовель.
+
+TAG: ftue_equip_wateringcan
+Открой колесо с помощью инструмента {input_toolswheel} и выбери водонапорный канистру.
+
+TAG: ftue_equip_wateringcan_mobile
+Открой колесо Инструмента и выбери канистру для воды.
+
+TAG: ftue_expansion02_aurora_note
+Хорошие феи сказали мне, что секрет того, что вода снова течет в Бинде, лежит в этой комнате... спрятанной за книжной полкой... но мне понадобится Royal Net, чтобы её починить...
+
+TAG: ftue_fish_anywhere
+Держите {input_usetool}, чтобы запустить линию.
+
+TAG: ftue_fish_anywhere_mobile
+Держись короче, чтобы перевернуть черту.
+
+TAG: ftue_fishing_title
+Рыболовство вокруг Валли
+
+TAG: ftue_fishing_title_mobile
+Вы можете ловить рыбу в долине.
+
+TAG: ftue_fishingrod_desc
+Держите {input_usetool}, чтобы запустить линию.
+
+TAG: ftue_fishingrod_desc_mobile
+Прижмите кнопку для ловли, чтобы запустить линию.
+
+TAG: ftue_fishingrod_title
+ЭМ ДЛЯ РИП: РЫБНЫЙ РОД
+
+TAG: ftue_fishingrod_title_mobile
+Новый инструмент: рыболовецкий Род
+
+TAG: ftue_gain_resources
+Соберите ресурсы.
+
+TAG: ftue_gain_star_coin
+Получите Звездные Койны в обмен.
+
+TAG: ftue_garden_title
+Взгляни на Валли!
+
+TAG: ftue_gather_minerals
+Добыча камней с {input_usetool} для сбора минералов.
+
+TAG: ftue_gather_minerals_mobile
+Используйте его на камнях, чтобы собрать минералы!
+
+TAG: ftue_get_friendship
+Укрепляйте ваши дружбы!
+
+TAG: ftue_get_friendship_rewards
+Откройте новые сюжетные линии и эксклюзивные награды.
+
+TAG: ftue_gift_eat_sell
+Ешь, продаёшь или даешь еду друзьям в долине!
+
+TAG: ftue_go_see_goofy
+Продай то, что тебе не нужно для "Стелла" Гуфи!
+
+TAG: ftue_hangout_ask_help
+Потусуйся с деревенскими, и они помогут тебе с твоими обязанностями.
+
+TAG: ftue_hangout_friend_bonus
+Увеличьте ваши дружбы и назначьте ролевые роли больше деревенским, чтобы получить бонусы Хангута!
+
+TAG: ftue_hangout_get_resources
+Выбирайте роли для своих друзей в деревне, чтобы получить больше ресурсов.
+
+TAG: ftue_hangout_title
+Давай потусуемся с друзьями!
+
+TAG: ftue_hold_and_release
+Целься в рябь, чтобы убедиться, что ты что-то поймаешь.
+
+TAG: ftue_hold_and_release_mobile
+Постарайся прицелиться, чтобы получить шанс на более ценный улов.
+
+TAG: ftue_house_customize_expand
+Расширь и спланируй свой дом.
+
+TAG: ftue_house_title
+Домой милый дом!
+
+TAG: ftue_how_to_interact_mobile
+И взаимодействовать с окружающей средой с кнопкой взаимодействия.
+
+TAG: ftue_how_to_interact_pc
+Левый щелчок или используйте {input_interact}, чтобы взаимодействовать с окружающими.
+
+TAG: ftue_how_to_interact_ps4
+Используйте {input_interact}, чтобы взаимодействовать с окружающими.
+
+TAG: ftue_how_to_interact_xbox
+Используйте {input_interact}, чтобы взаимодействовать с окружающими.
+
+TAG: ftue_how_to_move_mobile
+Используйте D-Pad, чтобы сдвинуть свой персонаж.
+
+TAG: ftue_how_to_move_pc
+Подвинь свой символ с помощью ключей W, A, S, D или стрелок.
+
+TAG: ftue_how_to_move_playstation
+Посмотрите вокруг справа!
+
+TAG: ftue_how_to_move_switch
+Посмотрите вокруг справа!
+
+TAG: ftue_how_to_move_title
+ВЛИЯНИЕ И СВЯЗАННОЕ С ЭТИМ
+
+TAG: ftue_how_to_move_xbox
+Посмотрите вокруг справа!
+
+TAG: ftue_increase_energy
+Твоя Макс Энергетика выросла!
+
+TAG: ftue_interact_with_oven
+Вступайте в контакт с любой плитой, использующей {input_interact} для начала приготовления пищи.
+
+TAG: ftue_interact_with_oven_mobile
+Вступайте в контакт с любой плитой, чтобы начать готовить.
+
+TAG: ftue_item_storage
+Используй хранилище своего дома как вторую инвентаризацию.
+
+TAG: ftue_keep_track_of_more
+Отследите больше, чем квесты!
+
+TAG: ftue_mining_desc_mobile
+Вылечи свой пикакс!
+
+TAG: ftue_mining_title
+Можешь поехать ко мне в Валли.
+
+TAG: ftue_mining_title_mobile
+Ты можешь быть моим в Долине.
+
+TAG: ftue_moving_house_another_village
+Дома можно помещать только в одной деревне за один раз. Дома, расположенные в другой деревне, могут быть переведены в нынешнюю деревню бесплатно.
+
+TAG: ftue_moving_house_another_village_title
+Переезд в другую деревню
+
+TAG: ftue_multiple_track
+Обязанности на дорожке или материалы для изготовления путем выбора опции в меню " Обязанности " или " Пересадка " .
+
+TAG: ftue_need_coal
+Тебе понадобится Уголь, чтобы зарядить его!
+
+TAG: ftue_new_level
+НОВЫЙ УРОВЕНЬ!
+
+TAG: ftue_not_enough_coins
+ПРЕСТУПЛЕНИЕ СТАРНЫХ КОИН
+
+TAG: ftue_or
+или
+
+TAG: ftue_pickaxe_desc
+Мой и убрать препятствия {input_usetool}.
+
+TAG: ftue_pickaxe_desc_mobile
+Придержи кнопку Пикокса и убери препятствия.
+
+TAG: ftue_pickaxe_title
+РОК И МИНЕРАЛЫ:
+
+TAG: ftue_pickaxe_title_mobile
+Новый инструмент: пикакс
+
+TAG: ftue_pillar_note
+Но не волнуйся, я знаю, как остановить их!<br><br>I пролил на них часть моего <Lore>PLEASERRERE!!!</Lore> -<br><br>Эти ночные торны становятся все хуже и хуже. Но я знаю, как остановить их!<br><br>I пролил на них немного моего <Lore>rot пива</Lore> и они заморозили немного.<br><br> Если бы мы могли сделать намного больше корневого пива... и использовать некоторые из этих </Lore>0candies...</Lore>1</Lore>2</Lore>3...почему, я бы мог избавиться от всех этих ночных корнях!</Lore>4</Lore>5 Я оставил все </Lore>6ingredients в груди в лагере.</Lore>7</Lore>8</Lore>19 Я просто надеюсь, что смогу <br>0поместить все это вместе в этом бочке<br>1, прежде чем забыть меня...<br>2
+
+TAG: ftue_plant_seeds
+Добудь семена путем высадки или торговли по адресу Гуфи's Stall.
+
+TAG: ftue_player_boutique_challenges_1
+Поговорите с Дейзи в вашем Бутике для требований вызова.
+
+TAG: ftue_player_boutique_challenges_2
+Завершите свой дизайн в "Проблемном пространстве" с мебелью и одеждой с требуемыми этикетками.
+
+TAG: ftue_player_boutique_challenges_3
+Выиграй Дейзи Coins и поговори с Дейзи в Бутике, чтобы потратить их!
+
+TAG: ftue_player_boutique_challenges_title
+Бутичные вызовы: как участвовать
+
+TAG: ftue_player_boutique_displays_1
+Вступайте в контакт с бутиком, чтобы поместить на него одежду или мебель.
+
+TAG: ftue_player_boutique_displays_2
+Выберите элемент(ы), который(ые) вы хотите использовать. Вам нужно выбрать Прикосновение магических дизайнов.
+
+TAG: ftue_player_boutique_displays_3
+Пригласите посетителей в Вэлли одолжить вещи с ваших выставок Бутик!
+
+TAG: ftue_player_boutique_displays_title
+Выставка бутиков: создание магазина
+
+TAG: ftue_realtime_synch_char_schedule
+Персонажи будут следовать своему графику, так что присмотри за этим!
+
+TAG: ftue_realtime_synch_daily
+Убедись, что каждый день возвращайся, чтобы найти что-то новое!
+
+TAG: ftue_realtime_synch_timesynch
+Сейчас игра синхронизирована с вашим временем! Время меняется изо дня в день, по мере того, как проходит время.
+
+TAG: ftue_realtime_synch_title
+Теперь синхронизировано в реальном времени!
+
+TAG: ftue_remove_night_thorns
+Уберите Ночных Торнов с входа в замок и других частей долины.
+
+TAG: ftue_remove_obstacles
+Очистить путь
+
+TAG: ftue_remove_obstacles_desc
+И избавиться от того, что блокирует тебя!
+
+TAG: ftue_remove_obstacles_desc_m02
+Использовать инструмент (пикакс, шов, водяной канистры и т.д.)
+
+TAG: ftue_remove_obstacles_desc_m03
+Устранить препятствия
+
+TAG: ftue_remove_obstacles_desc_mobile
+Используйте свои минералы, как хотите.
+
+TAG: ftue_remove_obstacles_mobile
+Устранить препятствия
+
+TAG: ftue_rest_at_house
+Восстановите свою энергию, проводя время в вашем доме!
+
+TAG: ftue_ripples_chances_for_rare
+Нажмите {input_FishingAction} быстро каждый раз, когда круг становится зеленым.
+
+TAG: ftue_ripples_chances_for_rare_hold
+Держите {input_FishingAction}, пока не будете ловить рыбу.
+
+TAG: ftue_ripples_chances_for_rare_hold_mobile
+Держите кнопку, пока не будете ловить рыбу.
+
+TAG: ftue_ripples_chances_for_rare_hold_pc
+Держите кнопку "Левая мышь" пока вы рыбачите, пока рыбу не поймают.
+
+TAG: ftue_ripples_chances_for_rare_mobile
+Нажмите кнопку, когда круг в нужном месте!
+
+TAG: ftue_royalduties_more_options
+После завершения, вы получите Dreamlight из меню DreamLight. Откройте его {input_mainmenudreamlight}.
+
+TAG: ftue_royalduties_more_options_mobile
+Как только ты закончишь, ты заработаешь Мечту Светом из Меню Мечты.
+
+TAG: ftue_royalduties_tasks
+"Долги мечты" - это короткая задача в Долине.
+
+TAG: ftue_royalduties_title
+Не забудь о своих сюрпризах!
+
+TAG: ftue_royalduties_unlock_areas
+Доступ к новым биомам и восстановление Долины!
+
+TAG: ftue_shortcut_camera
+Доступ к камере можно также получить с помощью {input_shortcutcamera}.
+
+TAG: ftue_shortcut_fishingrod
+Доступ к Рыболовству можно получить также с помощью {input_shortcutfishingpole}.
+
+TAG: ftue_shortcut_pickaxe
+Доступ к Pickaxe можно также получить с помощью {input_shortcutpickaxe}.
+
+TAG: ftue_shortcut_shovel
+Доступ к Shovel можно также получить с помощью {input_shortcutshovel}.
+
+TAG: ftue_shortcut_wateringcan
+Доступ к Watering Can можно получить также с помощью {input_shortcutwateringcan}.
+
+TAG: ftue_shovel_desc
+Копайте отверстия в земле и убирайте препятствия с помощью {input_usetool}.
+
+TAG: ftue_shovel_desc_mobile
+Используйте Шовель, чтобы откопать и устранить препятствия.
+
+TAG: ftue_shovel_title
+Маленький суперпер: Шовель
+
+TAG: ftue_shovel_title_mobile
+Новый инструмент:
+
+TAG: ftue_spending_time_with_friends
+Построить дружбу:<lw>-Hange compet<lw>-Mange Sharts<lw>-Discussion ежедневно
+
+TAG: ftue_sprint_info
+Желтая энергия позволяет вам скользить по своей долине с {input_sprint}
+
+TAG: ftue_sprint_title
+КАК УМЕНЬШИТЬ
+
+TAG: ftue_starpath_duties
+Выполнение обязанностей, связанных с получением жетонов
+
+TAG: ftue_starpath_duty_desc
+Обсудим с ними 10 раз.
+
+TAG: ftue_starpath_duty_title
+Познакомьтесь с деревенскими жителями.
+
+TAG: ftue_starpath_rewards
+Пожертвуйте жетоны для эксклюзивных наград до окончания мероприятия
+
+TAG: ftue_starpath_timer
+Окончание: 02:32:45
+
+TAG: ftue_starpath_title
+Звездный путь
+
+TAG: ftue_starpath_unlock_premium
+Открой премиум-Звездный Путь, чтобы двигаться быстрее и получить больше наград
+
+TAG: ftue_strengthen_friends
+Смотри, как растут твои дружбы.
+
+TAG: ftue_time_bending_hidden_treasure_1
+Чувство скрытых сокровищ {input_hourglass} и следуйте за песком.
+
+TAG: ftue_time_bending_hidden_treasure_1_mobile
+Воспользуйтесь часовым стеклом, чтобы ощутить скрытые сокровища, а затем следуйте за песком.
+
+TAG: ftue_time_bending_hidden_treasure_2
+Нажмите {input_hourglass}, чтобы вытащить сокровища из потока времени.
+
+TAG: ftue_time_bending_hidden_treasure_2_hold
+Когда его найдут, держите {input_hourglass}, чтобы вытащить его из потока времени.
+
+TAG: ftue_time_bending_hidden_treasure_2_hold_mobile
+Когда найдёшь, держи кнопку "Песочные часы", чтобы вытащить сокровища из потока времени.
+
+TAG: ftue_time_bending_hidden_treasure_2_mobile
+Нажмите на кнопку "Песочные часы", чтобы вытащить сокровища из потока времени.
+
+TAG: ftue_time_bending_hidden_treasure_3
+Найдите уникальные сокровища, потерянные во времени, которые можно объединить в "Стране времени"!
+
+TAG: ftue_time_bending_hidden_treasure_title
+Скрытые сокровища: как найти их
+
+TAG: ftue_time_bending_hourglass_1
+Используйте {input_toolswheel}, чтобы открыть колесо Инструмента и выбрать часовое стекло!
+
+TAG: ftue_time_bending_hourglass_1_mobile
+Открой колесо Инструмента и выбери часовое стекло.
+
+TAG: ftue_time_bending_hourglass_2
+Вы также можете использовать 7-й короткий путь, чтобы быстро захватить часовое стекло.
+
+TAG: ftue_time_bending_hourglass_3
+Воспользуйтесь часовым стеклом, чтобы найти артефакты, потерянные до времени!
+
+TAG: ftue_time_bending_hourglass_title
+Время: Часовое стекло
+
+TAG: ftue_time_bending_station_1
+Вступайте в контакт с этой таблицей, чтобы использовать свои временные ресурсы.
+
+TAG: ftue_time_bending_station_2
+Соберите свои ресурсы, чтобы создать эксклюзивные предметы.
+
+TAG: ftue_time_bending_station_3
+Усовершенствуйте часы, чтобы найти ещё больше ресурсов.
+
+TAG: ftue_time_bending_station_title
+Таблица времени: Как использовать
+
+TAG: ftue_time_bending_time_rifts_1
+Вы можете открыть "Time Rfts" с помощью часового стекла с помощью {input_usetool}.
+
+TAG: ftue_time_bending_time_rifts_1_mobile
+Вы можете открыть "Тайм Райфтс" с помощью кнопки "Песочные часы".
+
+TAG: ftue_time_bending_time_rifts_2
+В « Тайм Райфтс » сокровища появляются постоянно.
+
+TAG: ftue_time_bending_time_rifts_3
+"Тайм Рифт" длится только ограниченное время, так что быстро найдите столько сокровищ, сколько сможете.
+
+TAG: ftue_time_bending_time_rifts_title
+Время: как пользоваться
+
+TAG: ftue_tool_list
+Выбрать нужный инструмент для правильной задачи...
+
+TAG: ftue_use_minerals
+Минеральные ресурсы могут использоваться различными способами.
+
+TAG: ftue_use_shovel
+Найдите садовое пятно с помощью {input_usetool}.
+
+TAG: ftue_valleyverse_invite
+Вы можете пригласить до трёх друзей в Вэлли.
+
+TAG: ftue_valleyverse_join
+Присоединяйтесь к Долине друга, введя код в разделе Multiplayer Main Player.
+
+TAG: ftue_valleyverse_title
+Поездки в долину: Multipleer Guide
+
+TAG: ftue_valleyverse_what_to_do
+Посещение позволит вам забрать Пиксель Шардс для изготовления специальных предметов, сбрасывать товары на торговлю и магазины в магазине Скрудж Макдак.
+
+TAG: ftue_water_seed
+Посадите семя, пойте и ждите, пока ваша культура вырастет!
+
+TAG: ftue_wateringcan_desc
+Урожаи воды и цветы с {input_usetool}.
+
+TAG: ftue_wateringcan_desc_mobile
+Используйте канистру для воды и цветов.
+
+TAG: ftue_wateringcan_title
+ВСЕ БЛИЖНИЙ: ВОДНЫЙ КАН
+
+TAG: ftue_wateringcan_title_mobile
+Новый инструмент: водонасыщение
+
+TAG: menu_collection
+Сбор
+
+TAG: PalaceDoorInteract
+Дверь во дворец закрыта с другой стороны.
+
+TAG: press_left_click
+Кнопка мыши слева
+
+TAG: tuto_popup_collection
+КОМПЕНДИУМ
+
+TAG: tuto_popup_collection_box_1
+Зайдите в меню Коллекции из главного меню.
+
+TAG: tuto_popup_collection_box_1_PC
+Свяжитесь с меню Коллекции {input_mainmenucollection} или с главного меню.
+
+TAG: tuto_popup_collection_box_2
+Выберите пункт, чтобы узнать больше информации о нем.
+
+TAG: tuto_popup_collection_item_label
+Где его найти?
+
+TAG: tuto_popup_crafting_station
+СТАНДАРТЫ НА КРАЙНУЮ СТАНДАРТУ
+
+TAG: tuto_popup_crafting_station_box_1
+Начинать взаимодействие с любой станцией по пересадке.
+
+TAG: tuto_popup_crafting_station_box_2
+Выберите реципиент, чтобы убедиться, что у вас есть необходимые материалы, и если да, подготовьте требуемый предмет.
+
+TAG: tuto_popup_crafting_station_box_3
+Каждый биом содержит конкретные материалы. &lt; &lt; Фораж &gt; &gt; , &lt; &lt; Эксперимент &gt; &gt; и &lt; &lt; Новые реципиенты &gt; &gt; .
+
+TAG: tuto_popup_customization_clothing
+Одевайтесь лучше всех: Одежда.
+
+TAG: tuto_popup_customization_clothing_box_1
+Свяжитесь с меню Обмундирования.
+
+TAG: tuto_popup_customization_clothing_box_1_PC
+Доступ к меню Обмундирования или с помощью {input_wardrobe}.
+
+TAG: tuto_popup_customization_clothing_box_2
+Выбери одежду, чтобы настроить вид своего Аватара.
+
+TAG: tuto_popup_customization_clothing_box_3
+Увеличьте уровень дружбы со своими соседями и посетите магазин Скрудж Макдак каждый день, чтобы открыть новые вещи.
+
+TAG: tuto_popup_customization_furniture
+НАЗНАЧЕНИЕ ВАШЕЙ ВЕЩЕСТВА: ПРОВЕДЕНИЕ
+
+TAG: tuto_popup_customization_furniture_box_1
+Свяжитесь с меню Мебель из Инвентаря.
+
+TAG: tuto_popup_customization_furniture_box_1_PC
+Доступ к меню Мебель из Инвентариза или с помощью {input_catalog}.
+
+TAG: tuto_popup_customization_furniture_box_2
+Выбрать Мебель, чтобы подстроить свою деревню.
+
+TAG: tuto_popup_customization_furniture_box_3
+Ежедневно посетите магазин Скрудж Макдак и поднимите уровень дружбы с ним, чтобы открыть больше мебели.
+
+TAG: tuto_popup_map
+СОБЛЮДЕНИЕ НАПРАВЛЕНИЯ
+
+TAG: tuto_popup_map_box_1
+Найдите карту с главного меню.
+
+TAG: tuto_popup_map_box_1_PC
+Нажмите {input_mainmenumap} или нажмите на карту с главного меню.
+
+TAG: tuto_popup_map_box_2
+Карта показывает вам положение персонажей, культур, зданий и многое другое!
+
+TAG: tuto_popup_map_box_3
+Выберите замок или используйте короткий путь {input_fastTravel} к быстрому путешествию в доступные места.
+
+TAG: tuto_popup_map_box_3_mobile
+Выберите замок для быстрого путешествия в доступные места.
+
+TAG: tuto_popup_map_fast_travel
+ПОЕЗДКА В СВОБОДЕ СВОБОДЫ
+
+TAG: tuto_popup_map_fast_travel_box_1
+Найдите карту с главного меню.
+
+TAG: tuto_popup_map_fast_travel_box_1_PC
+Нажмите {input_mainmenumap} или нажмите на карту с главного меню.
+
+TAG: tuto_popup_map_fast_travel_box_2
+Нажмите на колодец или откройте меню Быстрых Путешествий, чтобы быстро телепортироваться в место в деревне.
+
+TAG: tuto_popup_map_fast_travel_box_3
+Откройте больше "Ремсов" или "Хотя бы Уэллс" исследуя деревню.
+
+TAG: tuto_popup_moana_fishing_boat
+Жирная лодка Моаны
+
+TAG: tuto_popup_moana_fishing_boat_box_1
+Моана будет периодически выходить в море и ловить рыбу для вас.
+
+TAG: tuto_popup_moana_fishing_boat_box_2
+Удостоверься часто посещать рыболовную лодку, чтобы заявить о том, что было поймано!
+
+TAG: tuto_popup_moana_fishing_boat_box_3
+Модернизация лодки, чтобы повысить ее эффективность.
+
+TAG: tuto_popup_npcschedule_desc1
+В меню Карта, откройте вкладку Символы {input_npcschedule}, чтобы решить, какие деревенские жители присутствуют в текущей деревне.
+
+TAG: tuto_popup_npcschedule_desc2
+Включите или отключите символы. <lw><lw>Villagers все еще появится, если они нужны для конкретного действия или запроса.
+
+TAG: tuto_popup_npcschedule_title
+Управляя своими деревенскими жителями
+
+TAG: tuto_popup_place_house
+Мечтать в: Сооружение дома
+
+TAG: tuto_popup_place_house_box_1
+Вы можете найти его в меню Мебель. Откройте Инвентарь.
+
+TAG: tuto_popup_place_house_box_1_PC
+Вы можете найти его в разделе Мебель. Откройте Инвентарь или нажмите {input_catalog}, чтобы получить доступ к нему.
+
+TAG: tuto_popup_place_house_box_2
+Войдите в меню Дома и выберите ту, которую вы хотите поместить!
+
+TAG: tuto_popup_place_house_box_3
+Вы должны попросить Скрудж Макдак помочь его усовершенствовать!
+
+TAG: tuto_popup_quest
+КОЛИЧЕСКАЯ ЛОГ
+
+TAG: tuto_popup_quest_box_1
+Свяжитесь с меню Поисков из главного меню.
+
+TAG: tuto_popup_quest_box_1_PC
+Доступ к меню Поисков нажатием {input_mainmenuquestlog} или из главного меню.
+
+TAG: tuto_popup_quest_box_2
+Вы также можете отследить поиск с помощью {input_trackquest}.
+
+TAG: tuto_popup_quest_box_2_mobile
+Вы также можете отследить поиск, нажав кнопку дорожки.
+
+TAG: tuto_popup_quest_box_2_PC
+Вы также можете отследить поиск с помощью {input_trackquest}.
+
+TAG: tuto_popup_quest_tracking
+Осторожно, следи за своей историей.
+
+TAG: tuto_popup_quest_tracking_box_1
+Быстрее отследите новые квесты {input_fasttrackquest}!
+
+TAG: tuto_popup_quest_tracking_box_1_mobile
+Быстрее отследите новые квесты.
+
+TAG: tuto_popup_quest_tracking_box_2
+Отследить поиск с помощью пиктограммы дорожки или {input_trackquest} в меню Поиска.
+
+TAG: tuto_popup_quest_tracking_box_2_mobile
+Отследить поиск с помощью кнопки дорожки в меню Поиска.
+
+TAG: tuto_popup_restaurant_orders
+Ресторанные приказы
+
+TAG: tuto_popup_restaurant_orders_box_1
+У деревенских жителей иногда бывают особые запросы на еду, когда они едят в Chez Реми.
+
+TAG: tuto_popup_restaurant_orders_box_2
+Выполняйте приказ, чтобы получить вознаграждение и дружбу.
+
+TAG: tuto_popup_walle_garden
+ДИРЕКТИВНЫЙ: ПЛАН
+
+TAG: tuto_popup_walle_garden_box_1
+ВАЛЛ·И теперь будет ухаживать за своим садом.
+
+TAG: tuto_popup_walle_garden_box_2
+Удостоверьтесь регулярно посещать сад, чтобы собирать урожай.
+
+TAG: tuto_popup_walle_garden_box_3
+[[Всевышний поведал о том, что Он ведает о том, как Он одаряет Своих творений всеми творениями, и о том, что Он властен над всем сущим, и о том, что Он властен над всем сущим, и о том, что Он властен над всем сущим и что Он властен над всем сущим и ведает обо всем сущем.]]
+
+TAG: game_guide_title_ancient_machines
+Древние машины
+
+TAG: game_guide_title_boardgame
+Настольная игра
+
+TAG: game_guide_title_camera
+Камера
+
+TAG: game_guide_title_collection
+Сбор
+
+TAG: game_guide_title_cooking
+Готовка
+
+TAG: game_guide_title_crafting
+Пересадка
+
+TAG: game_guide_title_customization
+Упорядочение
+
+TAG: game_guide_title_decoration_puzzles
+Награды
+
+TAG: game_guide_title_design_challenges
+Снотворное
+
+TAG: game_guide_title_dreamlight
+Свет мечты
+
+TAG: game_guide_title_energy
+Энергетика
+
+TAG: game_guide_title_fishing
+Рыбный промысел
+
+TAG: game_guide_title_friendship
+Дружба
+
+TAG: game_guide_title_gameplay
+Игра
+
+TAG: game_guide_title_gardening
+Огородное хозяйство
+
+TAG: game_guide_title_house
+Дом
+
+TAG: game_guide_title_map
+Карта
+
+TAG: game_guide_title_mining
+Добыча полезных ископаемых
+
+TAG: game_guide_title_page_reordering
+Изменить историю
+
+TAG: game_guide_title_player_boutique
+Твой бутик
+
+TAG: game_guide_title_quest
+Поиски
+
+TAG: game_guide_title_selling
+Продажа
+
+TAG: game_guide_title_time_bending
+Время
+
+TAG: game_guide_title_tools
+Инструменты
+
+TAG: game_guide_title_touchOfMagic
+Прикосновение магии
+
+TAG: game_guide_title_valleyverse
+Поездки в долину
+
+TAG: gardening_grown_in
+Взрослый
+
+TAG: gardening_no_more_seeds
+Семена больше нет.
+
+TAG: gardening_not_enough_currency
+Недостаточно валюты
+
+TAG: gift_confirm_body
+Хочешь подарить эти вещи?
+
+TAG: gift_extra
++ EXTRA
+
+TAG: gift_favorites_label
+ФАВРИЧЕСКИЕ ВЕЩЕСТВА ДЕНЬ
+
+TAG: gift_limit_reached
+Не могу подарить больше вещей.
+
+TAG: health_notice
+Рекомендуется время от времени делать перерывы во время продолжительного игрового сеанса.
+
+TAG: hourglass_materialization_qte
+Быстрее.
+
+TAG: hourglass_no_treasure
+В этом районе больше нет сокровищ.
+
+TAG: crafting_tracker_desc
+Сбор материалов
+
+TAG: hud_stop_sprint_shortcut
+Прекратить спринтирование
+
+TAG: level_max
+Макс уровень достигнут!
+
+TAG: action_break_rock
+Разбить камни
+
+TAG: action_catch
+Поймать
+
+TAG: action_dig
+Копать
+
+TAG: action_fish
+Рыба
+
+TAG: action_photo
+Фото
+
+TAG: action_photo_party
+Собрать деревенских жителей
+
+TAG: action_photo_ride
+Приближайтесь к притягиванию
+
+TAG: action_water
+Водоснабжение
+
+TAG: avatar_code
+Аватарский кодекс
+
+TAG: avatar_code_desc
+Это код для передачи вашей аватарной адаптации Лорем ipsum Долор сидит амет, консектетурно адипизирующий элит, седан ду эйзмод темперор некислый ut worke et dolore magna aliqua Cillum dolore eu fugiat nulla pariatur.
+
+TAG: avatar_code_expire
+Срок действия истек в течение 2 дней
+
+TAG: avatar_designer_demo
+АВАТАРСКИЙ ДЕСТОРОННИЙ ГОЛОС
+
+TAG: backpack_amount_title
+Перечень: {amount,D}/{total,D}
+
+TAG: backpack_empty
+Твоя инвентаризация пуста!
+
+TAG: backpack_title
+Товарно-материальные запасы
+
+TAG: btn_go
+Уходи.
+
+TAG: btn_restore_purchase
+Восстановить покупку
+
+TAG: btn_track
+СЛЕКТРОВАНИЯ
+
+TAG: button_change_avatar_name
+Изменить имя Аватар
+
+TAG: catalog_choose_item_title
+Выбрать предмет
+
+TAG: catalog_desc
+Деревня и дом
+
+TAG: catalog_replace_locked_house
+Требует обновления дома
+
+TAG: catalog_replace_minimum_amount_Fence
+Замена плитки: {amount}
+
+TAG: catalog_replace_minimum_amount_GroundAlteration
+Приборы для замены: {amount}
+
+TAG: catalog_replace_title
+Выбрать замену
+
+TAG: catalog_title
+КАТАЛОГ
+
+TAG: change_avatar_name_desc
+Это должно быть больше двух букв.
+
+TAG: change_avatar_name_input_placeholder
+Имя Аватар
+
+TAG: change_avatar_name_title
+Как тебя зовут?
+
+TAG: coming_soon
+Скоро приедет.
+
+TAG: companion_playground_no_companion
+Встреться с тварями в долине, чтобы подружиться с ними!
+
+TAG: companion_playground_title
+Выбрать {MaxPets} товарищей
+
+TAG: conflict_profile_local_description
+Сохранить
+
+TAG: conflict_profile_message
+{PlayerName}<lw><lw>Time Расход: {SpentTime}<lw>standard {PlayerLevel}<lw>XP: {XP}<lw>Star Coins: {StarCoins}<lw>0Moonstones: <lw>1
+
+TAG: conflict_profile_message_arcade
+{PlayerName}<lw><lw>Time Расход: {SpentTime}<lw>standard {PlayerLevel}<lw>XP: {XP}<lw>Star Coins: {StarCoins}<lw>0Save Time: <lw>1
+
+TAG: conflict_profile_message_spent_time
+{Days} d {Hours} h {Minutes} мин.
+
+TAG: conflict_profile_message_unnamed
+(безымянный)
+
+TAG: conflict_profile_server_description
+Сохранить облако
+
+TAG: emotes_title
+ЭМОЦИИ
+
+TAG: equip_accessory
+Оснастить аксессуаром
+
+TAG: fishing_pull
+Тяни
+
+TAG: hide_avatar_code_button
+Скрыть код Аватара
+
+TAG: hud_btn_achievements
+Достижения
+
+TAG: hud_btn_blocked_visitors
+Заблокированные посетители
+
+TAG: hud_btn_catalog
+Мебель
+
+TAG: hud_btn_characters
+Символы
+
+TAG: hud_btn_collection
+Сбор
+
+TAG: hud_btn_collection_reminder
+Сбор
+
+TAG: hud_btn_continue_game
+Продолжить
+
+TAG: hud_btn_credits
+Кредиты
+
+TAG: hud_btn_customer_care
+Контактный уход за клиентом
+
+TAG: hud_btn_downloadable_content
+Содержание, поддающееся загрузке
+
+TAG: hud_btn_duty
+Обязанности сновидения
+
+TAG: hud_btn_eternity_isle
+Вечный остров
+
+TAG: hud_btn_expansions
+Расширение
+
+TAG: hud_btn_hide_user_id
+Скрыть идентификатор пользователя
+
+TAG: hud_btn_inventory
+Товарно-материальные запасы
+
+TAG: hud_btn_link_account
+Сохранить облако
+
+TAG: hud_btn_map
+Карта
+
+TAG: hud_btn_menus
+Меню
+
+TAG: hud_btn_multiplayer
+Многопользователь
+
+TAG: hud_btn_new_game
+Новая игра
+
+TAG: hud_btn_phone
+Телефон
+
+TAG: hud_btn_photo
+Фото
+
+TAG: hud_btn_quest_log
+Поиски
+
+TAG: hud_btn_reset_profile
+Перезагрузить профиль
+
+TAG: hud_btn_roadmap
+&lt; &lt; Дорожная карта &gt; &gt;
+
+TAG: hud_btn_save_to_cloud
+Сохранить в облако
+
+TAG: hud_btn_settings
+Параметры
+
+TAG: hud_btn_shop
+Магазин
+
+TAG: hud_btn_show_user_id
+Показать ID пользователя
+
+TAG: hud_btn_storybook_vale
+Сказочная долина
+
+TAG: hud_btn_user_id
+Показать ID пользователя
+
+TAG: hud_btn_wardrobe
+Вордроб
+
+TAG: hud_collection_reminder_goofy_spices
+Ищите специи? Используйте меню Коллекции для дополнительной информации!
+
+TAG: hud_collection_reminder_mickey_apples
+Ищите яблоки? Используйте меню Коллекции для дополнительной информации!
+
+TAG: hud_collection_reminder_moana_wood
+Пользуйтесь меню Коллекции для дополнительной информации!
+
+TAG: hud_collection_reminder_remy_ingredients
+Ищите Ингредиентов? Используйте меню Коллекции для дополнительной информации!
+
+TAG: hud_collection_reminder_scrooge_wood
+Пользуйтесь меню Коллекции для дополнительной информации!
+
+TAG: hud_hold_action
+(Хорошо)
+
+TAG: hud_language_code_de
+Deutsch
+
+TAG: hud_language_code_en-US
+Английский
+
+TAG: hud_language_code_es
+EspaÃ±ol
+
+TAG: hud_language_code_fr
+FranÃ§ais
+
+TAG: hud_language_code_it
+Italiano
+
+TAG: hud_language_code_ja
+æ¥æ¬èª
+
+TAG: hud_language_code_zh-CN
+ç®ä½ä¸­æ
+
+TAG: hud_lbl_master_volume
+Основная громкость
+
+TAG: hud_lbl_music_volume
+Громкость музыки
+
+TAG: hud_lbl_qrcode_description
+Сканируйте QR-код или введите ссылку в ваш браузер.
+
+TAG: hud_lbl_qrcode_title_cookie
+Политика в отношении печений
+
+TAG: hud_lbl_qrcode_title_customer
+Контактный уход за клиентом
+
+TAG: hud_lbl_qrcode_title_discord
+Дискорд
+
+TAG: hud_lbl_qrcode_title_eula
+Соглашение о лицензировании конечного пользователя
+
+TAG: hud_lbl_qrcode_title_privacy
+Политика обеспечения конфиденциальности Gameloft
+
+TAG: hud_lbl_qrcode_title_term_use
+Условия использования
+
+TAG: hud_lbl_report
+Отчет
+
+TAG: hud_lbl_sfx_volume
+SFX Объем
+
+TAG: hud_lbl_streaming_music
+Строительный режим
+
+TAG: hud_lbl_streaming_music_note
+Заменяет авторитарную музыку из игры
+
+TAG: hud_lbl_voice_volume
+Голосовой объем
+
+TAG: hud_report_selector_title
+Выбрать проигрыватель
+
+TAG: hud_sprint_shortcut
+Спринт
+
+TAG: hud_status_save_to_cloud_desync_days
+Заканчивается синхронизация {days} дня (дней), {hours} часа (часов).
+
+TAG: hud_status_save_to_cloud_desync_hours
+Выключено из синхронизации {hours} часов (с), {minutes} минут (с), {seconds} секунды (с).
+
+TAG: hud_status_save_to_cloud_desync_minutes
+Выключено из синхронизации {minutes} мин. (с), {seconds} секунды (с).
+
+TAG: hud_status_save_to_cloud_multiplayer_client
+Во время посещения данные отсутствуют.
+
+TAG: hud_status_save_to_cloud_multiplayer_host
+Во время приема данных не имеется.
+
+TAG: hud_status_save_to_cloud_never_uploaded
+Никогда не загружал.
+
+TAG: hud_status_save_to_cloud_sync
+Полностью синхронизировано!
+
+TAG: not_enough_mana
+Ты устал!
+
+TAG: not_enough_mana_refill_explanation
+Ешь что-нибудь или возвращайся в свой дом, чтобы наполнить свою энергию.
+
+TAG: notification_item_try
+Попробуй.
+
+TAG: patterns_title
+ПАРТНЕРЫ
+
+TAG: pets_title
+КОМПАНИИ
+
+TAG: player_not_reported_message
+Произошла ошибка. Игрок."{playername}"Пожалуйста, попробуйте еще раз.
+
+TAG: player_not_reported_message_connection_error
+Отчётливый игрок"{playername}"Отсчет времени в связи с подключением к сети; пожалуйста, проверьте ваше подключение и попробуйте еще раз.
+
+TAG: player_not_reported_message_online_unknown_error
+Отчётливый игрок"{playername}"Не удалось завершить из-за неустановленной ошибки в сервисе. Попробуйте еще раз.
+
+TAG: player_not_reported_title
+Ошибка отчета
+
+TAG: player_reported_message
+Игрок"{playername}"и информация о ее содержании была успешно представлена.
+
+TAG: player_reported_title
+Успешное представление доклада
+
+TAG: quest_tracker_new
+Просьба принята
+
+TAG: quest_tracker_progress
+Прогресс
+
+TAG: report_confirmation_message
+Вы хотите сообщить {playername} и содержание на вашем экране?
+
+TAG: report_confirmation_message_boutique
+Вы хотите сообщить о содержании бутика с {playername} на вашем экране?
+
+TAG: report_content_title
+Содержание отчета
+
+TAG: requires_mana
+У тебя недостаточно энергии...
+
+TAG: settings_controls
+Контроль
+
+TAG: settings_game_guide
+Руководство по игре
+
+TAG: settings_gameplay
+Игра
+
+TAG: settings_general
+Общие сведения
+
+TAG: settings_graphics
+Графика
+
+TAG: settings_help
+Справка
+
+TAG: settings_sounds
+Звуки
+
+TAG: show_avatar_code_button
+Показать код Avatar
+
+TAG: unequip_accessory
+Неравномерный аксессуар
+
+TAG: wardrobe_desc
+Приспособление & символов
+
+TAG: wardrobe_title
+ГАРДЕРОБ
+
+TAG: inbox_category_activations
+Активации
+
+TAG: inbox_category_events
+Мероприятия
+
+TAG: inbox_category_message_from_villagers
+Сельские жители
+
+TAG: inbox_category_other
+Прочее
+
+TAG: inbox_category_rewards_and_offers
+Вознаграждение и предложения
+
+TAG: inbox_category_unread
+Нечитаемый
+
+TAG: inbox_empty_diff_grid_message
+К счастью для тебя, "Магия Мечты" всегда находит способ вернуть все, что ты могла забыть.
+
+TAG: inbox_empty_diff_grid_title
+Заблудились и нашли!
+
+TAG: inbox_generic_message
+Ты только что получил новое сообщение!
+
+TAG: inbox_generic_subtitle
+Новое сообщение
+
+TAG: inbox_generic_title
+Новое сообщение
+
+TAG: inbox_items_sent_generic
+Кое-что было отправлено в твой почтовый ящик!
+
+TAG: inbox_items_sent_inventory_full
+Ваш список заполнен. Вы можете забрать вещи из почтового ящика.
+
+TAG: moonstones_off
+Лунные камни выключены
+
+TAG: old_price
+Старая цена:
+
+TAG: price_for_all_items
+Цена по всем позициям*
+
+TAG: shop_best_value
+Наилучшая стоимость
+
+TAG: shop_bundle
+Специальные предложения
+
+TAG: shop_bundle_discount
+{discount}% вылета
+
+TAG: shop_buy_token
+Возьмите {amount} {token} для
+
+TAG: shop_confirmation_description
+Вы собираетесь потратить {price} на {item}
+
+TAG: shop_confirmation_title
+Подтверждение
+
+TAG: shop_daily
+Ежедневно
+
+TAG: shop_discount
+Скидка
+
+TAG: shop_discover_starpath
+Откройте звёздный путь
+
+TAG: shop_dream_bundle
+Сброс мечты
+
+TAG: shop_exclude_moonstones
+*Лунные камни, не включенные
+
+TAG: shop_featured
+Предназначенные
+
+TAG: shop_furniture_outdoor_description
+Украсьте Вашу Долину этой свежей мебелью!
+
+TAG: shop_game_upgrades
+Модернизация игры
+
+TAG: shop_house_skin
+Дайте вашему дому новый взгляд, как только он будет полностью модернизирован!
+
+TAG: shop_house_skin_warning
+Внимание
+
+TAG: shop_item_shop
+Магазин товаров
+
+TAG: shop_native_confirmation_description
+Продолжение {storename} {item} для {price}
+
+TAG: shop_native_confirmation_title
+Переименовать в {storename}
+
+TAG: shop_native_limit_reached
+Закупка не может быть завершена, поскольку эта упаковка уже была куплена.
+
+TAG: shop_native_open_disabled_default
+Магазин не может быть открыт, потому что он сейчас отключен.
+
+TAG: shop_native_open_disabled_steam
+Закупка не может быть завершена, потому что Steam Overlay в настоящее время отключена.<lw><lw> Пожалуйста, убедитесь, что у вас есть Steam Overlay."Включите паровую оболочку во время игры"опция включена, которая может быть найдена в параметрах / In Game, затем вы должны возобновить игру.
+
+TAG: shop_native_storename_generic
+магазин
+
+TAG: shop_native_storename_nintendo_switch
+Nintendo eShop
+
+TAG: shop_native_tax_disclaimer
+Лунные камни могут использоваться только на той же платформе, где они были приобретены.
+
+TAG: shop_owned_item_from_starpath
+Товар, уже полученный во время предыдущего "Звездного пути"
+
+TAG: shop_price_non_owned
+*Цена на все неимущие товары
+
+TAG: shop_purchase_error_already_purchased
+Невозможно купить, потому что у вас уже есть все вещи, содержащиеся в этом пакете.
+
+TAG: shop_purchase_error_bundle_expired
+Упаковка истекла.
+
+TAG: shop_purchase_error_bundle_not_found
+Связка не была найдена.
+
+TAG: shop_purchase_error_content_not_found
+Содержание связки найдено не было.
+
+TAG: shop_purchase_error_not_enough_currency
+Недостаточно денег, чтобы купить эту сумку.
+
+TAG: shop_purchase_error_not_found
+Текущий магазин не был найден онлайн.
+
+TAG: shop_purchase_error_price_mismatch
+Записи из этой связки находятся в вашем местном файле, но не в вашем онлайновом файле, означающем, что они не были получены по официальным каналам (Star Path или Premium Shop). Не хотите ли вы завершить покупку и добавить их в ваше онлайн-сохранение? <lw><lw>{items}
+
+TAG: shop_purchase_error_sale_invalid
+Текущая продажа этого предмета является недействительной.
+
+TAG: shop_purchase_error_store_expired
+Текущее предложение истекло.
+
+TAG: shop_purchase_error_title
+Ошибка покупки
+
+TAG: shop_purchase_error_transaction_failed
+Операция с покупкой не увенчалась успехом из-за неожиданного результата, связанного с Интернет-услугами.
+
+TAG: shop_purchase_error_unknown
+Покупная сделка не состоялась из-за неизвестной ошибки.
+
+TAG: shop_purchase_error_version_mismatch
+Местная версия магазина не соответствует серверной версии.
+
+TAG: shop_purchase_failed
+Ошибка операции
+
+TAG: shop_sale
+Продажа
+
+TAG: shop_something_wrong_desc
+Магазин сейчас недоступен. Пожалуйста, вернитесь позже.
+
+TAG: shop_something_wrong_title
+Что-то пошло не так...
+
+TAG: shop_starpath_activated
+Активировано
+
+TAG: shop_starpath_bundle_purchased
+Приобретено
+
+TAG: shop_time_limited
+Ограниченное время
+
+TAG: shop_upgrade_deluxe
+Компьютерное издание Deluxe
+
+TAG: shop_upgrade_ultimate
+Скорректировка Пакет "окончательное издание"
+
+TAG: shop_weekly
+Еженедельно
+
+TAG: inventory_categories
+Категории
+
+TAG: inventory_drag
+Тащить
+
+TAG: inventory_dreamsnaps
+DreamSnaps
+
+TAG: inventory_item_lock_message
+Этот товар пока недоступен.
+
+TAG: inventory_requests
+Запросы
+
+TAG: inventory_required_for
+Требуется для:
+
+TAG: inventory_sort
+Сортировка
+
+TAG: inventory_sort_by_name
+Имя
+
+TAG: inventory_sort_by_type
+Тип
+
+TAG: container_WallERealm_Refrigerator
+У холодильника отсутствует ручка на двери. Она должна быть где-то здесь...
+
+TAG: inventory_action_drop
+Бросить
+
+TAG: inventory_action_eat
+Ешь
+
+TAG: inventory_action_open
+Открыто
+
+TAG: inventory_action_open_not_allowed
+Не допускается
+
+TAG: inventory_action_split
+Разделить
+
+TAG: inventory_action_transfer
+Передача
+
+TAG: inventory_action_use
+Использование
+
+TAG: inventory_category_owned
+Собственное имущество
+
+TAG: inventory_category_store
+Сохранить
+
+TAG: inventory_category_suggested
+Предлагаемые
+
+TAG: inventory_expand_btn
+Расширить
+
+TAG: inventory_expand_home_storage
+Модернизация дома для увеличения объема хранения
+
+TAG: inventory_full_choose_item_to_drop
+Выбери предмет, который можно сбросить.
+
+TAG: inventory_item_info_eat
+Ешь:
+
+TAG: inventory_item_info_gift
+Подарок:
+
+TAG: inventory_item_info_sell
+Продажа:
+
+TAG: inventory_lock_item_missing
+Вам нужен {itemName}, чтобы получить доступ к этому хранилищу.
+
+TAG: inventory_no_room_to_drop
+Здесь нельзя ничего бросать.
+
+TAG: inventory_no_room_to_drop_more
+Ты больше не можешь бросать вещи здесь.
+
+TAG: levelup_max_energy_increased
+Увеличение максимальной энергии
+
+TAG: levelup_new_level
+НОВЫЙ УРОВЕНЬ!
+
+TAG: levelup_press_any_button
+Нажмите любой кнопка, чтобы продолжить
+
+TAG: levelup_press_any_key
+Нажмите любой ключ для продолжения
+
+TAG: levelup_rewards
+Вознаграждение:
+
+TAG: levelup_tap_screen_mobile
+Скриншот для продолжения
+
+TAG: levelup_unlocked_new_roles
+НОВЫЕ РОЛИ!
+
+TAG: role_changed
+ИЗМЕНЕНИЕ РОЛЬ
+
+TAG: select_role_below
+Выберите одну из следующих ролей:
+
+TAG: cloud_save_access_main_menu
+Вы должны перезагрузить игру, чтобы получить доступ к опции из главного меню
+
+TAG: cloud_save_benefit
+Ваш Cloud Save будет:<lw> - Защищать ваш прогресс в игре.<lw> - Позволить вам играть в вашу сохранённую игру на других платформах.<lw> - Убедитесь, что ваши награды сохранены на вашем счету.
+
+TAG: cloud_save_benefit_confirmation
+{packName} Награды могут быть заявлены только за один счет. Мы предлагаем создать или подключиться к Claud Sleep, чтобы избежать любой возможной потери наград и/или прогресса в будущем.
+
+TAG: cloud_save_claim
+В любом случае
+
+TAG: cloud_save_confirmation
+Вы уверены, что хотите продолжить без подключения к облаку?
+
+TAG: cloud_save_do_not_claim
+Не претендуйте сейчас
+
+TAG: cloud_save_redirect
+Подключиться (от главного меню)
+
+TAG: cloud_save_suggest
+Прежде чем требовать награду, вы бы хотели синхронизировать свой счет с облаком?
+
+TAG: cloud_save_title
+Сохранить облако
+
+TAG: cloud_save_warning_title
+Внимание!
+
+TAG: common_claim
+Претензия
+
+TAG: mailbox_claim_error_title
+Ошибка почтового ящика
+
+TAG: mailbox_empty
+Твой почтовый ящик пуст!
+
+TAG: mailbox_expired
+Срок действия истек
+
+TAG: mailbox_expires_in_days
+Срок годности в {days} дней
+
+TAG: mailbox_expires_in_hours
+Срок годности в {hours} часов
+
+TAG: mailbox_offline
+Новые онлайн-сообщения не могут быть извлечены.
+
+TAG: mailbox_offline_internet
+Нет Интернета. Новые онлайн-сообщения не могут быть извлечены.
+
+TAG: mailbox_offline_nativeprofile
+Недоступные онлайновые услуги. Новое онлайновое сообщение не может быть извлечено.
+
+TAG: mailbox_offline_playfab
+Недоступные онлайновые услуги. Новое онлайновое сообщение не может быть извлечено.
+
+TAG: mailbox_offline_portal
+Портал игры недоступен. Новые онлайн-сообщения не могут быть извлечены.
+
+TAG: mailbox_offline_unknown
+Новые онлайн-сообщения не могут быть извлечены.
+
+TAG: mailbox_reward
+Вознаграждение
+
+TAG: EyeShadowColor
+Цвет тени
+
+TAG: EyeShadowOpacity
+Теневая непроницаемость глаз
+
+TAG: BeardsCategoryDisplayName
+Борода
+
+TAG: BirthMarksCategoryDisplayName
+Знаки рождения
+
+TAG: BlushCategoryDisplayName
+Покраснеть
+
+TAG: BrowsCategoryDisplayName
+Просмотры
+
+TAG: ContourCategoryDisplayName
+Контур
+
+TAG: EyeballCategoryDisplayName
+Тупица
+
+TAG: EyeLineCategoryDisplayName
+Глазная подводка
+
+TAG: EyeShadowCategoryDisplayName
+Глазная тень
+
+TAG: FaceLinesCategoryDisplayName
+Линия лиц
+
+TAG: FacePaintCategoryDisplayName
+Краска лица
+
+TAG: FrecklesCategoryDisplayName
+Фриклс
+
+TAG: LipstickCategoryDisplayName
+Помадка
+
+TAG: MustachesCategoryDisplayName
+Усы
+
+TAG: PupilsCategoryDisplayName
+Учащиеся
+
+TAG: ScarsCategoryDisplayName
+Шрамs
+
+TAG: StubbleCategoryDisplayName
+Стуббл
+
+TAG: mannequin_options_edit
+Правка
+
+TAG: mannequin_options_wear
+Одевайся.
+
+TAG: map_AreaName_beach
+Dazzle<br>Beach
+
+TAG: map_AreaName_cliff
+Разморщенные<br>Hges
+
+TAG: map_AreaName_darkMountains
+Забытые<br>Lands
+
+TAG: map_AreaName_forest
+Леса<br>Valor
+
+TAG: map_AreaName_meadow
+Мирный<br>Meadow
+
+TAG: map_AreaName_savannah
+Sunlit<br>Platau
+
+TAG: map_AreaName_urban
+Плаза
+
+TAG: map_AreaName_wetlands
+Глэйд<br>Trust
+
+TAG: map_biomes_desert
+Сияние<br>Dunes
+
+TAG: map_biomes_fairytale
+Вечно
+
+TAG: map_biomes_jungle
+Дикий<br>Tangle
+
+TAG: map_biomes_library
+Связка
+
+TAG: map_biomes_mythology
+Мифопия
+
+TAG: map_biomes_outpost
+Посадка Древних<br>
+
+TAG: map_btn_beach
+ПЕСНЯЯ ЧАСТЬ
+
+TAG: map_btn_dark_mountain
+Забытые земли
+
+TAG: map_btn_forest
+ЛЕСА ВАЛОРА
+
+TAG: map_btn_gates
+Ворота
+
+TAG: map_btn_meadow
+МЕЖПРАВИТЕЛЬСТВЕННЫЙ МЕСТ
+
+TAG: map_btn_plants
+Растения
+
+TAG: map_btn_plaza
+ПЛАЗА
+
+TAG: map_btn_realms
+РЕАЛИЗАЦИИ
+
+TAG: map_btn_savanna
+СВЯЗАННЫЙ ПЛАНАУ
+
+TAG: map_btn_snow
+СВОБОДНЫЕ ВЕЩЕСТВА
+
+TAG: map_btn_wetlands
+ГЛАВНЫЕ НАРУШЕНИЯ
+
+TAG: map_fast_travel
+Быстрые поездки
+
+TAG: map_fast_travel_Realms
+Ремни
+
+TAG: map_fast_travel_village_1540000000
+Долина
+
+TAG: map_fast_travel_village_1540000101
+Вечный остров
+
+TAG: map_fast_travel_village_1540000119
+Сказочная долина
+
+TAG: map_fast_travel_villages
+Деревня
+
+TAG: map_filters
+Фильтры
+
+TAG: map_npcschedule_title
+Сельские жители {CurrentVillageName}
+
+TAG: map_toggle_filters
+Фильтры закладки
+
+TAG: menu_nav_dreamlight
+Свет мечты
+
+TAG: energycoil1
+0% заряжено
+
+TAG: energycoil2
+25% Заряжено
+
+TAG: energycoil3
+50 процентов заряжено
+
+TAG: energycoil4
+75% Заряжено
+
+TAG: notifications_dreamsnap_event_started_message
+Одевайся для нового мероприятия DreamSnaps.<lw>Participate и выигрывай награду!
+
+TAG: notifications_dreamsnap_event_started_title
+Начался новый событий "Снова мечты"!
+
+TAG: notifications_dreamsnap_submit_reminder_message
+Ударь свою лучшую позу и представь свою лучшую фотографию к событию "Снайперс"!
+
+TAG: notifications_dreamsnap_submit_reminder_title
+Лучшая фотография еще не выбрана!
+
+TAG: notifications_inactive_player_message
+Возвращайся и очисти замок Мечты от коварной хватки Забвения
+
+TAG: notifications_inactive_player_title
+Ты нужен Долине Мечты!
+
+TAG: complete_to_unveil
+Полнота для открытия
+
+TAG: page_reordering_assembled
+Историю собрали!
+
+TAG: page_reordering_difficulty
+Трудности
+
+TAG: page_reordering_reorder
+Перезарядить сказку
+
+TAG: page_reordering_replay
+Реорганизовать репроигрывание сказок
+
+TAG: page_reordering_reward
+Новая награда открыта!
+
+TAG: page_reordering_snippets
+Снайпеты
+
+TAG: page_reordering_title
+Истории, чтобы изменить порядок
+
+TAG: unlock_story
+Хочешь открыть "Сказку"?
+
+TAG: phone_feed_timer
+{time} назад
+
+TAG: save_picture_premission_denied
+У вас нет разрешения сохранить файлы на этом устройстве!
+
+TAG: save_picture_premission_granted
+Твоя фотография была сохранена на этом устройстве!
+
+TAG: save_picture_subtitle
+Хотите сохранить эту фотографию на вашем устройстве?
+
+TAG: save_picture_title
+Сохранить картинку?
+
+TAG: share_event_picture_subtitle
+Хотите поделиться своей фотографией в социальной сети и принять участие в мероприятии, которое проводится в настоящее время?
+
+TAG: share_event_picture_title
+Участвовать в случае?
+
+TAG: share_picture_event_expired
+Не удалось принять участие в мероприятии, потому что оно только что закончилось!
+
+TAG: share_picture_event_limitation
+Вы достигли максимального числа раз, которые вы можете подать на это мероприятие!
+
+TAG: share_picture_failed
+Не удалось поделиться картинкой.
+
+TAG: share_picture_limitation
+Не удалось поделиться картиной, потому что максимальное число раз, когда вы можете поделиться картиной, было достигнуто!
+
+TAG: share_picture_subtitle
+Хотите поделиться своей фотографией в социальной сети?
+
+TAG: share_picture_title
+Поделить фотку?
+
+TAG: boutique_visitors_popup_title
+Посетители
+
+TAG: moderationPolicy_multiplayer_Content
+Здравствуйте, мы в Gameloft хотим, чтобы все наслаждались тем, что создадут игроки. Итак, мы придумали некоторые правила, чтобы сохранить нашу общину дружелюбной и веселой.<lw>, пожалуйста, прочтите нашу политику умеренности здесь:<lw>{moderationWebLink}<lw>Ce вы начинаете многопользователь, мы предположим, что вы согласны с этими правилами.
+
+TAG: moderationPolicy_multiplayer_Title
+Многопользовательская политика
+
+TAG: moderationPolicyContent
+Здравствуйте, мы в Gameloft хотим, чтобы всем понравилось создание контент-плееров. Итак, мы придумали некоторые правила, чтобы сохранить нашу общину дружелюбной и весёлой.<lw>, пожалуйста, прочитайте нашу политику умеренности здесь:<lw>{moderationWebLink}<lw>Ce, когда вы представите свое фото, мы предположим, что вы согласны с этими правилами.
+
+TAG: moderationPolicyTitle
+Политика умеренности
+
+TAG: message_warning_store_unavailable
+В настоящее время магазин недоступен. Для доступа к нему просьба проверить, имеется ли последняя версия и обновить ее.
+
+TAG: price_bundle_all_included_items
+Цена по всем позициям
+
+TAG: price_bundle_all_items_non_owned
+Цена на все неимущие товары
+
+TAG: price_for_seasonal_offer
+Сезонное предложение с эксклюзивными позициями.
+
+TAG: shortcut_buy_bundle
+Покупка связки
+
+TAG: shortcut_toggle_day_night
+День/ночь
+
+TAG: apple_login_not_authorized_message
+Ваш счет не был записан. Если этот вопрос продолжает возникать, пожалуйста, попытайтесь зарегистрироваться снова или вновь загрузите приложение.<lw> Вы хотите зарегистрироваться снова?
+
+TAG: apple_login_not_authorized_title
+Ошибка в заходе
+
+TAG: Boutique_Empty_TOM_Text
+Здесь нет места для прикосновений к волшебным предметам!
+
+TAG: btn_continue
+Продолжить
+
+TAG: btn_go_phone
+Перейти к телефону
+
+TAG: btn_validate
+Одобрить
+
+TAG: bundle_exclusive_perk
+Исключительный перк
+
+TAG: catalog_exit_desc
+Ты уверена, что хочешь уйти, не спасая?
+
+TAG: catalog_undo_all_desc
+Ты уверена, что хочешь все исправить без сбережений?
+
+TAG: character_sleeping_message
+{characterName} спит.
+
+TAG: character_sleeping_title
+Не волнуйся!
+
+TAG: characters_sleeping_message
+Эти деревенские спят: {characterNames}.
+
+TAG: confirm_cancel_request_message
+Ты уверена?
+
+TAG: confirm_cancel_request_title
+Оставь свой поиск.
+
+TAG: confirm_complete_quest
+Вы хотите немедленно выполнить эту просьбу?
+
+TAG: confirm_eat_meal_message
+{Placeholder} Вы хотите есть {mealName}? {buff}
+
+TAG: confirm_grid_object_clearing_message
+Осторожно, некоторые предметы будут уничтожены, если вы поместите их сюда.
+
+TAG: confirm_new_game_message
+Ты уверена?
+
+TAG: confirm_new_game_title
+Новая игра
+
+TAG: confirm_purchase_message
+Вы уверены, что хотите купить {itemName}?
+
+TAG: confirm_refresh_request_slot_message
+Ты уверена?
+
+TAG: confirm_refresh_request_slot_title
+Обновить слот запроса
+
+TAG: confirm_skip_request_step_message
+Ты уверена?
+
+TAG: confirm_skip_request_step_title
+Пропустить этап запроса
+
+TAG: continue_button
+Продолжить
+
+TAG: cross_network_play_disabled_message
+Кроссплей в настоящее время отключен. Чтобы получить доступ к мультиплеерной функциональности, вам нужно создать его в ваших настройках.
+
+TAG: cross_network_play_disabled_message_console
+Кроссплей в настоящее время отключен. Чтобы получить доступ к мультиплеерной функциональности, вам нужно создать его в ваших консольных настройках.
+
+TAG: cross_network_play_disabled_title
+Кроссплей отключен!
+
+TAG: cross_network_play_message
+Выбирая ONFIRM ниже, вы признаете, что теперь сможете играть в Disney Dreamlight Valley с игроками на других платформах. Ваша Долина останется доступной только по приглашению.
+
+TAG: cross_network_play_title
+Кроссплей работает!
+
+TAG: delete_account
+Удаление счетов
+
+TAG: delete_iCloud
+Удалить iCloud
+
+TAG: delete_thirdparty_data
+Удалить все собранные данные
+
+TAG: delete_thirdparty_data_body
+Это удалит все ваши данные о геймплее, хранящиеся на наших серверах. Ваш прогресс и сохранение данных не будут затронуты.
+
+TAG: disclaimer_age
+Возраст
+
+TAG: disclaimer_age_incorrect
+Пожалуйста, вступайте в законный возраст!
+
+TAG: disclaimer_age_text
+Прежде чем мы начнем, пожалуйста, расскажите нам о вашем возрасте:
+
+TAG: disclaimer_contact
+Контактный сотрудник:
+
+TAG: disclaimer_cookies
+Политика в отношении печений
+
+TAG: disclaimer_eula
+Соглашение о лицензировании конечного пользователя
+
+TAG: disclaimer_parental_info
+Информация о родителях
+
+TAG: disclaimer_privacy
+Политика обеспечения конфиденциальности Gameloft
+
+TAG: disclaimer_privacy_macos
+DISNEY DREAMLIGHT VALLEY → macOS → ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
+
+TAG: disclaimer_ps_siea
+Закупка и использование товаров регулируются сетевыми условиями обслуживания и соглашением с пользователями. Эта онлайновая услуга была сублицензирована компанией Sony Interactive Entertainment America.
+
+TAG: disclaimer_ps_siee
+Любой контент, приобретенный в магазине игр, будет куплен у Sony Interactive Entertainment Network Europe Limited (Sony Interactive Entertainment Network Europe Limited)."СЕНЕ") и подпадать под действие PlayStation (PlayStation) (Сеть условий обслуживания и пользовательского соглашения), которые доступны на PlayStation) (Store). Проверьте права пользования для каждой покупки, поскольку они могут отличаться от товара. Если не указано иное, контент, имеющийся в любом магазине, имеет тот же возрастный рейтинг, что и игра.
+
+TAG: disclaimer_terms_of_use
+Условия использования
+
+TAG: disclaimer_text
+Некоторые игровые вещи могут быть куплены за реальные деньги. Вы можете ограничить покупки в меню настройок вашего счета. Для того чтобы играть в эту игру, вы или ваш родитель или опекун должны прочитать и принять следующее:
+
+TAG: disclaimer_text_applearcade
+Чтобы играть в эту игру, вы или ваш родитель или опекун должны прочитать и принять следующее:
+
+TAG: disclaimer_text_ps4
+Некоторые игровые вещи могут быть куплены с реальными деньгами. Вы можете ограничить покупки в настройках в меню вашей системы PlayStation. Для того чтобы играть в эту игру, вы или ваш родитель или опекун должны прочитать и принять следующее:
+
+TAG: disclaimer_text_ps5
+Некоторые игровые вещи могут быть куплены за реальные деньги. Вы можете ограничить покупки в меню настройок вашей консоли PlayStation. Чтобы играть в эту игру, вы или ваш родитель или опекун должны прочитать и принять следующее:
+
+TAG: disclaimer_text_switch
+Некоторые игровые вещи могут быть куплены с реальными деньгами. Вы можете ограничить покупки в настройках в меню вашей системы Nintendo Smitho. Для того чтобы играть в эту игру, вы или ваш родитель или опекун должны прочитать и принять следующее:
+
+TAG: disclaimer_title
+Добро пожаловать в Disney Dreamlight Valley
+
+TAG: donate
+Пожертвование
+
+TAG: donate_buy_all
+Купите все
+
+TAG: donate_required_furniture
+Требуемая мебель
+
+TAG: error_backpack_full_message
+Ваш список заполнен!<lw>Store, падает на землю или продает некоторые вещи на сайте Гуфи's Stall.
+
+TAG: error_buff_maximum_message
+Использование баффа уже достигло своего предела. (Максимальный уровень: {maximumBuff})
+
+TAG: error_crafting_recipe_already_known
+Ты уже знаешь этот рецепт изготовления.
+
+TAG: error_critical_message
+Если проблема сохраняется, свяжитесь с организацией " Забота о клиентах " .
+
+TAG: error_critical_subtitle
+Что-то пошло не так, и приложение нужно перезапустить.
+
+TAG: error_critical_title
+Критическая ошибка
+
+TAG: error_edit_mode_invalid_floor_type
+Вы не можете поместить этот объект в эту среду.
+
+TAG: error_insane_profile_message
+Пожалуйста, подождите, пока мы вернём ваш профиль.
+
+TAG: error_insane_profile_subtitle
+Что-то пошло не так, и вы, возможно, потеряли прогресс.
+
+TAG: error_insane_profile_title
+Ошибка профиля
+
+TAG: error_login_message
+Проверьте подключение к Интернету и попробуйте снова, или продолжайте играть в оффлайн.
+
+TAG: error_login_subtitle
+Не удалось зарегистрироваться на ваш счет игрока.
+
+TAG: error_max_item_owned_reached
+Ты не можешь владеть больше этой штуковиной.
+
+TAG: error_memory_shard_already_collected
+У тебя уже есть этот Память Кусочек.
+
+TAG: error_not_enough_cooking_combustible
+Тебе не хватает {cookingCombustible}!
+
+TAG: error_not_enough_currency_dreamdust_message
+У тебя недостаточно Мечты для этой покупки.
+
+TAG: error_not_enough_currency_dreamdust_title
+Пропал свет мечты
+
+TAG: error_not_enough_currency_heart_message
+У вас недостаточно сердец для покупки. Выполните проектный вызов, чтобы заработать больше!
+
+TAG: error_not_enough_currency_heart_title
+Пропавшие сердца
+
+TAG: error_not_enough_currency_starcoin_noshop_message
+У вас недостаточно Стар Койнсов для этой покупки.
+
+TAG: error_not_enough_currency_starcoin_title
+Пропали звёздные койки
+
+TAG: error_not_enough_currency_title
+Вам не хватает нескольких валют, необходимых для этой покупки.
+
+TAG: error_not_enough_mana
+Недостаточно энергии.
+
+TAG: error_online_connection_lost_message
+Связь с интернетом потеряна. Теперь игра в режиме оффлайна.
+
+TAG: error_profile_recovery_message
+Проверьте подключение к Интернету и попробуйте еще раз.
+
+TAG: error_profile_recovery_subtitle
+Мы не смогли восстановить ваш профиль.
+
+TAG: error_profile_recovery_title
+Ошибка восстановления профиля
+
+TAG: error_purchase_item_price_invalid
+Закупки не увенчались успехом из-за ошибки в ценообразовании.
+
+TAG: error_purchase_item_state_invalid
+Закупка не состоялась из-за ошибки с наличием товаров.
+
+TAG: error_purchase_item_store_invalid
+Покупка провалилась из-за ошибки в магазине.
+
+TAG: error_purchase_item_store_locked
+Покупка провалилась, потому что магазин в настоящее время закрыт.
+
+TAG: error_purchase_item_unavailable
+Закупки не увенчались успехом, поскольку в настоящее время эта статья недоступна.
+
+TAG: error_purchase_item_unknown
+Закупка провалилась по неизвестной причине. Попробуйте позже.
+
+TAG: error_remote_cannot_update_extra_limit
+Невозможно обновить предел дополнительного объекта; пожалуйста, попробуйте попозже.
+
+TAG: error_remote_transaction_message
+Проверь подключение к Интернету и попробуй еще раз.
+
+TAG: error_remote_transaction_subtitle
+Запрошенная операция не была завершена.
+
+TAG: error_remote_transaction_title
+Ошибка операции
+
+TAG: error_server_connection_message
+Проверьте подключение к Интернету и попробуйте снова, или переключайтесь на режим Offline.
+
+TAG: error_server_connection_subtitle
+Доступ к серверу невозможен.
+
+TAG: error_server_connection_title
+Ошибка подключения
+
+TAG: error_server_unexpected_message
+Перепробуйте или переключитесь на режим офлайна. Если проблема сохраняется, обратитесь в службу обслуживания клиентов.
+
+TAG: error_server_unexpected_subtitle
+Что-то пошло не так, но, возможно, все еще в порядке.
+
+TAG: error_server_unexpected_title
+Неожиданная ошибка
+
+TAG: error_social_request_message
+Проверь подключение к Интернету и попробуй еще раз.
+
+TAG: error_social_request_subtitle
+Ральф не смог выполнить твою просьбу.
+
+TAG: error_social_request_title
+Ошибка Ральфтаграмма
+
+TAG: error_storage_full_message
+Попробуй обменять некоторые вещи на Гуфи's Stall.
+
+TAG: error_version_mismatched_message
+Ваш профиль был обновлен на версию выше, чем эта игра может поддержать. Пожалуйста, обновите игру и попробуйте снова.
+
+TAG: error_version_mismatched_title
+Неверная версия профиля
+
+TAG: go_offline_button
+Продолжение работы
+
+TAG: input_your_name
+Напиши здесь свое имя.
+
+TAG: logout_save_to_cloud_error_desc
+Твоя связь не могла быть загружена в облако. Ты уверена, что хочешь выйти?
+
+TAG: logout_save_to_cloud_error_title
+Ошибка сохранения в облаке
+
+TAG: logout_without_save_button
+Выходите в любом случае
+
+TAG: mission_subtype_cooking
+Готовка
+
+TAG: mission_subtype_designchallenge
+Задача проектирования
+
+TAG: mission_subtype_fishing
+Рыбный промысел
+
+TAG: mission_subtype_gardening
+Огородное хозяйство
+
+TAG: no_item_available_message
+Предметы снабжения отсутствуют
+
+TAG: player_name_error_length
+Это должно быть больше двух букв.
+
+TAG: player_name_error_length_mac
+Это должно быть больше двух писем, и для вашей конфиденциальности лучше избегать использования настоящих имен.
+
+TAG: player_name_question
+Как тебя зовут?
+
+TAG: playstation_age_gating_description
+Применяется ограничение по возрасту пользователя; онлайновые функции отключены.
+
+TAG: playstation_age_gating_title
+Внимание
+
+TAG: playstation_patch_required
+Доступно обновление приложения. Онлайновые функции отключены.
+
+TAG: profile_desync_detected
+Ошибка инициализации игры
+
+TAG: profile_desync_option_contact
+Забота о клиентах
+
+TAG: profile_desync_option_quit
+Выход
+
+TAG: profile_recovery_success
+Твой профиль восстановлен, приложение нужно перезапустить.
+
+TAG: profile_user_credentials_init_failed
+Не удалось получить идентификатор пользователя с текущей платформой. Попробуйте еще раз.
+
+TAG: profile_user_credentials_init_failed_epic
+Невозможно подключиться к вашему аккаунту Epic Games. Попробуйте еще раз. Это может потребовать возобновления игры.
+
+TAG: profile_user_credentials_init_failed_microsoft
+Простите, чтобы сыграть в игру, вы должны быть подключены к вашему аккаунту Microsoft.
+
+TAG: profile_user_credentials_init_failed_osx
+Невозможно подключиться к вашему аккаунту Apple. Попробуйте еще раз. Если вы решите проиграть в оффлайне, вы потеряете свои данные после регистрации.
+
+TAG: profile_user_credentials_init_failed_steam
+Не удалось получить ваш счёт паров. Проверьте подключение к сети и не забудьте запустить игру с Steam.
+
+TAG: profile_user_credentials_init_failed_windows
+Простите! Вы должны начать игру со Steam или Epic Games. Попробуйте еще раз. Это может произойти, когда некоторые файлы игры будут удалены.
+
+TAG: profile_user_credentials_init_title
+Идентификатор пользователя
+
+TAG: purchase_all_button
+Закупить все
+
+TAG: purchase_popup_message
+Хочешь купить вещи для...
+
+TAG: quit_button
+Выход
+
+TAG: quit_game_no_save_desc
+Ты уверена, что хочешь уйти?
+
+TAG: quit_game_save_desc
+Вы уверены, что хотите уйти?
+
+TAG: quit_game_title
+Выход
+
+TAG: quit_save_to_cloud_error_desc
+Ваш ход игры был сохранен на местном уровне, но его нельзя было загрузить в облако. Вы уверены, что хотите уйти?
+
+TAG: quit_save_to_cloud_error_title
+Ошибка сохранения в облаке
+
+TAG: quit_save_to_cloud_generic_error
+Ваш ход игры был сохранен на месте, но его не удалось загрузить в облако.
+
+TAG: quit_save_to_cloud_offline_error
+Вы играете в оффлайн. Ваша игра была сохранена на месте, но ее нельзя было загрузить в облако. Вы уверены, что хотите уйти?
+
+TAG: quit_save_to_cloud_offline_internet_error
+Нет интернета. Ваша игра была сохранена на месте, но её нельзя было загрузить в облако. Вы уверены, что хотите уйти?
+
+TAG: quit_save_to_cloud_offline_nativeprofile_error
+Недоступны онлайн-услуги. Ваша игра была сохранена на месте, но ее не удалось загрузить в облако. Вы уверены, что хотите уйти?
+
+TAG: quit_save_to_cloud_offline_playfab_error
+Недоступны онлайн-услуги. Ваша игра была сохранена на месте, но ее не удалось загрузить в облако. Вы уверены, что хотите уйти?
+
+TAG: quit_save_to_cloud_offline_portal_error
+Портал игры недоступен. Ваш ход игры сохранен на месте, но его нельзя загрузить в облако. Вы уверены, что хотите уйти?
+
+TAG: quit_save_to_cloud_offline_unknown_error
+Ваш ход игры был сохранен на местном уровне, но его нельзя было загрузить в облако. Вы уверены, что хотите уйти?
+
+TAG: quit_without_save_button
+В любом случае, уходи.
+
+TAG: retry_button
+Повторить
+
+TAG: return_to_main_menu_desc
+Вы уверены, что хотите вернуться на главный экран? Прогресс игры будет сохранен.
+
+TAG: return_to_main_menu_desc_avatar
+Вы уверены, что хотите вернуться на главный экран? Вам нужно будет снова настроить свой аватар.
+
+TAG: return_to_main_menu_title
+Вернуться на Главный Экран
+
+TAG: share_message_no_internet
+Пожалуйста, убедитесь, что у вас есть доступ к Интернету.
+
+TAG: share_qr_body
+Пожалуйста, сканируйте этот QR код, чтобы открыть ссылку
+
+TAG: share_subtitle
+Сканируй QR код, чтобы поделиться фото с друзьями.
+
+TAG: share_title_photo_mode
+Поделитесь со своими друзьями!
+
+TAG: signin_button
+Подписать
+
+TAG: title_error_code
+Код ошибки
+
+TAG: unlock_activity_title
+Отключить активность
+
+TAG: unlock_building_character_requirement
+{characterName} должно быть в вашей деревне, чтобы открыть: {buildingName}!
+
+TAG: unlock_building_character_requirement_activity
+{characterName} должно быть в вашей деревне, чтобы открыть здание {buildingName} и {activityName} Activity!
+
+TAG: unlock_building_level_requirement
+Подняться на уровень {level}, чтобы открыть: {buildingName}.
+
+TAG: unlock_building_message
+Вы хотите отремонтировать: {buildingName}?
+
+TAG: unlock_building_message_activity
+Разблокировать здание {buildingName}, чтобы начать работу {activityName} в вашей деревне?
+
+TAG: unlock_building_title
+Разблокировать здание
+
+TAG: unlock_character_not_enough_space
+В вашей деревне недостаточно места, уберите камни и Торнс и попробуйте еще раз.
+
+TAG: unlock_character_title
+Добро пожаловать, {characterName}
+
+TAG: wish_select_adventure
+Приключение
+
+TAG: wish_select_desc
+Это желание поможет создать вашу деревню!
+
+TAG: wish_select_friendship
+Дружба
+
+TAG: wish_select_magic
+Волшебство
+
+TAG: xbox_request_user_signin_description
+Продолжение без пользователя отключит функции сохранения игры и достижения.
+
+TAG: xbox_request_user_signin_title
+Внимание
+
+TAG: xbox_user_signed_restart_description
+Пользователи уже подписались. Игра возобновит загрузку профиля.
+
+TAG: character_skin_required
+Стиль мечты деревенских жителей
+
+TAG: character_skin_required_unlock
+Разблокировать стиль мечты {skin}
+
+TAG: character_skin_required_wear
+Equip {skin} Style Мечты
+
+TAG: character_unlock
+Отключить символы
+
+TAG: hidden_condition
+??
+
+TAG: hidden_criteria
+Скрытое требование
+
+TAG: levelup_friendships
+Уровни дружбы
+
+TAG: new_mission_available
+Новый запрос доступен
+
+TAG: next_mission_available_desc_female
+У {character} есть новый доступ к поискам. Иди поговори с ней.
+
+TAG: next_mission_available_desc_male
+У {character} есть новый доступ к поискам. Иди поговори с ним.
+
+TAG: next_mission_available_desc_neutral
+У {character} есть новое задание. Иди поговори с ними.
+
+TAG: next_mission_not_available
+Следующий поиск заблокирован
+
+TAG: next_mission_not_available_desc
+Чтобы открыть следующий поиск дружбы {character}, заполните следующее.
+
+TAG: next_mission_not_available_desc_override
+Чтобы раскрыть этот поиск дружбы, заполните следующее.
+
+TAG: progress_further
+ДАЛЬНЕЙШИЙ ПРОГРЕСС В СВЯЗИ
+
+TAG: quest_started
+Начали поиск
+
+TAG: required_village
+Место проведения
+
+TAG: unlock_village_area
+Отключить биомы
+
+TAG: quest_track
+Отслеживать
+
+TAG: quest_track_shortcut
+Отслеживать Квест
+
+TAG: quest_untrack
+Неотслеживать
+
+TAG: character_friendship_condition
+{character} Уровень {level}
+
+TAG: player_level_condition
+Подняться на уровень {level}
+
+TAG: questlog_cannot_progress_multiplayer
+Не может прогрессировать во время приема/посещения.
+
+TAG: questlog_daily_quests
+Ежедневные запросы
+
+TAG: questlog_dreambundles_quests
+Квесты мечты
+
+TAG: questlog_event_quests
+Критерий событий
+
+TAG: questlog_friendship_quests
+Поиски дружбы
+
+TAG: questlog_no_quests_available
+Поисков нет
+
+TAG: questlog_realm_quests
+Королевские квесты
+
+TAG: questlog_rewards
+Вознаграждение:
+
+TAG: questlog_show_completed_requests
+Показать выполненные запросы
+
+TAG: questlog_story_quests
+Истории
+
+TAG: questlog_weekly_quests
+Еженедельные запросы
+
+TAG: common_button_deselect
+Отменить выбор
+
+TAG: sec_goldenp_purplebook01
+Эксперимент No 146.<br>Но никто не заподозрит что-то столь примитивное, как <Lore>potato</Lore> может держать ключ.
+
+TAG: sec_goldenp_purplebook02
+Эксперимент No 243.<br>The Forgotten доходит до меня, я не могу полагаться на собственную память, я должен записать все в <Lore>book</Lore>, чтобы не забыть...
+
+TAG: sec_goldenp_purplebook03
+Эксперимент No 569.<br>I должен опираться на логику <Lore>dreams</Lore> для защиты. Только мечтатель может надеяться восстановить...
+
+TAG: sec_goldenp_purplebook04
+Эксперимент No 892<br>A простое описание <Lore>Higitus Figitus</Lore> должно быть достаточным для...
+
+TAG: sec_goldenp_purplebook05
+Эксперимент No 977.<br>Пытался раскрыть магическую силу <Lore>fugu</Lore>..
+
+TAG: sec_goldenp_purplebook06
+Эксперимент No 1232<br>Growning усталый <Lore>crystal</Lore> должен позволить мне направить энергию трансфигурации...
+
+TAG: sec_goldenp_purplebook07
+Эксперимент No 3598<br>Spent сегодня <Lore>forage</Lore> для всего, что мне нужно, чтобы сделать Трансфигурационные камни...
+
+TAG: sec_goldenp_purplebook08
+Эксперимент No 3599.<br>Must быть более усердным с моими заметками <Lore>The Забытие</Lore> почти заставило меня забыть, что я имел в виду делать со всеми этими ингредиентами...
+
+TAG: sec_goldenp_purplebook09
+Эксперимент No 4232<br>Found довольно вкусный <Lore>raspberry</Lore> сегодня, возможно, Ночные Торны еще не задушили всю жизнь в Долине.
+
+TAG: sec_goldenp_purplebook10
+Эксперимент No 5232<br> Только один способ запечатать <Lore>magic</Lore>. Я спрячу код в этих книгах.
+
+TAG: ftue_fairy_letter
+{Placeholder}Письмо крестной феи просит читателя присоединиться к ней в Dreamscape. Она спрятала вход, чтобы он выглядел как простая каменная насыпь. Читателю следует поторопиться.
+
+TAG: ftue_melt_ice
+Дорина - придирчивый пожиратель! <br><br><lw>She нравится это просто. Только несколько необходимых ингредиентов.<br><br>She ненавидит плохое дыхание. <br><br>She любит что-то с дополнительной хрустящей.<br><br>She любит хорошо сезонные вещи. <br><br>0 Она отказывается есть что-то, что не выращено прямо здесь, в Замке.
+
+TAG: ftue_take_picture
+Примечание к себе: Чтобы увидеть дверь, попробуйте изменить свой взгляд. Только с мгновением <Lore>mechnical глаз</Lore> вы сможете открыть путь вперед.
+
+TAG: request_unlock_slot_at_level
+Разблокировать на уровне {level}
+
+TAG: vlg_belle_040_interrocks
+Тяжелые камни сложены на светящуюся груду. Потребуется огромное количество сил, чтобы удалить камни.
+
+TAG: vlg_eve_030_plant
+Спящее, сушеное растение, кажется, возвращает немного энергии при вашем подходе и пытается откусить ваш палец...
+
+TAG: vlg_mick_050_secretbook1
+Сказочная книга<br>A классическая сказочная книга о <Lore>prance в беде и даме на помощь</Lore>.
+
+TAG: vlg_mick_050_secretbook2
+На первой странице кто-то нарисовал башню.
+
+TAG: vlg_mick_050_secretbook3
+Минни Маус Polka Dot Compendium<br> Кто мог подумать, что будет так много возможных вариантов?
+
+TAG: vlg_mick_050_secretbook4
+Скрудж Макдак's Accounting Records<br> Эта книга содержит бухгалтерские записи Скрудж Макдак до забвения. Похоже, он много продавал за большую прибыль.
+
+TAG: vlg_mike_010_goofyhouse
+Рыбалка за кроватью, ты находишь что-то, что могло быть приманкой... много лет назад.
+
+TAG: vlg_mike_010_merlinhouse
+Просматривая документы Мерлин, вы находите крошки настолько скучными, что они, должно быть, прятались в бороде Мерлин в течение всего Возрождения.
+
+TAG: vlg_mike_010_mickeyhouse
+Ты царапаешь чёрную грязь из трещины между раковиной и стеной.
+
+TAG: vlgrequest_Simba030_alchemistdrawing
+Похоже на какое-то уведомление.<br>Maybe кто-нибудь может помочь тебе понять все это.
+
+TAG: vlgrequest_Simba030_alchemisttable
+Большую часть стола занимает сложная связка трубок и букеров.<br> Вы заметили, что в двух местах все еще есть место, чтобы добавить что-то еще. <br> Вы не уверены в том, что.
+
+TAG: vlgrequest_Simba030_bookoncrate
+Страницы покрыты линиями и линиями почти неразборчивой драки...<br> от рисунков, вы понимаете, что книга о растениях.
+
+TAG: searching_error_no_activity_item_try_later
+Здесь нет предметов того типа, который вы ищете в данный момент. Пожалуйста, попробуйте еще раз позже.
+
+TAG: scrooge_store_dummybook
+<i>Ergonomic Преимущества L Coshes и их декоративное значение части I</i>
+
+TAG: settings_data_collection_sublabel
+Включаю, чтобы можно было включать функции в режиме онлайн
+
+TAG: button_crossplay_yes
+Отключить кросс-плей
+
+TAG: crossplay_title
+Кросс-плейсменты
+
+TAG: setting_customer_care_applearcade_label
+Apple Arcade:
+
+TAG: setting_customer_care_applearcade_link
+https://support.aple.com
+
+TAG: setting_customer_care_label
+Контактная помощь клиента:
+
+TAG: setting_customer_care_link
+https://gameloft.helpcheft.com/hc/en/66-disney-dreamlight-valley/?han=1&hbhf=1
+
+TAG: setting_customer_care_link_applearcade
+http://ddv-help.gameloft.com/
+
+TAG: setting_customer_care_link_applearcade_delete_info
+Просьба обращаться в службу обслуживания клиентов с целью исключения всех собранных данных.
+
+TAG: setting_disable_pn_message
+Мы предоставляем уведомления для Disney Dreamlight Valley, чтобы держать вас в курсе.<br> Вы не будете получать никаких уведомлений извне, если вы отключите настройку уведомления Push. Это может быть изменено в любое время в меню Параметры.<br> Вы хотите отключить уведомления?
+
+TAG: setting_disable_pn_title
+Отключить уведомления
+
+TAG: setting_discord_label
+Дискорд:
+
+TAG: setting_discord_link
+https://discord.gg/disneydreamlightvalley
+
+TAG: setting_enable_pn_cancel
+Не сейчас
+
+TAG: setting_enable_pn_confirm
+Уведи меня.
+
+TAG: setting_enable_pn_message
+Вы будете получать уведомления о событиях и обновлениях, связанных с Disney Dreamlight Valley?<br> Вы получите уведомления о событиях и обновлениях, связанных с DreamSnaps.<br> Ваша информация будет связана с случайным идентификатором, который не связан с вами. Вы можете изменить это в любое время меню Настройка.
+
+TAG: setting_enable_pn_title
+Включить уведомления
+
+TAG: setting_expansion_restore_purchase_desc_success_first
+Вы уже купили часть контента.
+
+TAG: setting_ios_pn_permission_message
+Для корректировки предпочтений уведомления для Disney Dreamlight Valley, пожалуйста, пройдите в настройки устройства. Разрешите уведомления оставаться в курсе событий игры.<lw> Ваша информация будет связана с случайным идентификатором, который не связан с вами.
+
+TAG: setting_ios_pn_permission_title
+Разрешение направить уведомление
+
+TAG: setting_restore_purchase_desc_error_already_restored
+Вы уже восстановили свои покупки.
+
+TAG: setting_restore_purchase_desc_error_no_purchase
+У тебя нет никаких покупок, чтобы восстановиться.
+
+TAG: setting_restore_purchase_desc_error_restart
+Не удалось восстановить покупку. Если проблема все еще сохраняется, постарайтесь возобновить игру.
+
+TAG: setting_restore_purchase_desc_error_server
+Не удалось восстановить покупку из-за неизвестной ошибки в интернете.
+
+TAG: setting_restore_purchase_desc_success
+Покупки были успешно восстановлены и отправлены в ваш почтовый ящик!
+
+TAG: setting_restore_purchase_desc_success_first
+Закупки были успешно восстановлены.
+
+TAG: setting_restore_purchase_desc_success_second
+<br> Пожалуйста, зайдите к вашему почтовому ящику, чтобы вновь заявить о своей покупке (покупках).
+
+TAG: setting_restore_purchase_title
+Восстановить покупку
+
+TAG: settings_about
+О том, что
+
+TAG: settings_contact_info
+Электронная почта: http://support.gameloft.com/<lw>Gameloft, 14 rue Auber, 75009 Paris, Франция.
+
+TAG: settings_controls_click_to_move
+Нажмите для перемещения
+
+TAG: settings_controls_controller_sensitivity
+Чувствительность камеры для контролера
+
+TAG: settings_controls_crossplay
+Многопользователь: Cross-played
+
+TAG: settings_controls_editmode_controls
+Правка Регулирование режима
+
+TAG: settings_controls_invert_camera
+Инвертированная камера - ось Y
+
+TAG: settings_controls_invert_camera_x_axis
+Переворачиваемая камера - ось Х
+
+TAG: settings_controls_keyboard_layout
+Типовая форма
+
+TAG: settings_controls_keyboard_layout_default
+КОЛИЧЕСТВО
+
+TAG: settings_controls_keyboard_layout_keyboard_azerty
+АЗЕРТИЯ
+
+TAG: settings_controls_keyboard_layout_keyboard_qwerty
+КОЛИЧЕСТВО
+
+TAG: settings_controls_mobile_vibration
+Вибрация
+
+TAG: settings_controls_mouse_sensitivity
+Чувствительность камеры для мышей
+
+TAG: settings_controls_touch_sensitivity
+Чувствительность камеры к прикосновению
+
+TAG: settings_data_collection_label
+Сбор данных
+
+TAG: settings_delete_icloud_body
+Ты уверена, что хочешь удалить свой iCloud счёт?
+
+TAG: settings_delete_icloud_fail_body
+Невозможно удалить данные iCloud. Попробуйте еще раз.
+
+TAG: settings_delete_icloud_fail_label
+Не удалось удалить данные iCloud
+
+TAG: settings_delete_icloud_label
+Удалить iCloud Progress?
+
+TAG: settings_delete_icloud_nodata_body
+Невозможно удалить данные iCloud, потому что они не сохранены.
+
+TAG: settings_delete_icloud_success_body
+Ваши данные iCloud были удалены.
+
+TAG: settings_delete_icloud_success_label
+Успешно удаленные данные iCloud
+
+TAG: settings_gameplay_text_scaling
+Размножение текста
+
+TAG: settings_gameplay_time_of_day_offset
+Затраченное время дня
+
+TAG: settings_gameplay_time_of_day_offset_note
+Визуальные эффекты:<lw>Gameplay останутся синхронизированными с вашим местным временем.
+
+TAG: settings_gameplay_time_of_day_offset_value
+({value}h)
+
+TAG: settings_general_about
+О том, что
+
+TAG: settings_general_language
+Язык
+
+TAG: settings_general_language_restart
+Вы должны возобновить игру, чтобы сменить языки
+
+TAG: settings_general_legal
+Юридические вопросы
+
+TAG: settings_general_legal_macos
+Юридическая и неприкосновенность частной жизни
+
+TAG: settings_general_local_notification
+Местные уведомления
+
+TAG: settings_general_push_notification
+Направить уведомления
+
+TAG: settings_general_service_status
+Статус обслуживания
+
+TAG: settings_general_service_status_last_incident_report
+Последняя заявленная ошибка
+
+TAG: settings_general_service_status_last_updated
+Последнее обновление
+
+TAG: settings_general_service_status_playfab
+PlayFab
+
+TAG: settings_graphics_disable_camera_shakes
+Отключить фотоаппараты
+
+TAG: settings_graphics_disable_flashes
+Отключить фликинг
+
+TAG: settings_graphics_display
+Показать
+
+TAG: settings_graphics_display_mode
+Режим отображения
+
+TAG: settings_graphics_display_mode_fullscreen
+Скриншот
+
+TAG: settings_graphics_display_mode_fullscreen_no_borders
+Полная скриншотка (без границ)
+
+TAG: settings_graphics_display_mode_windowed
+Окно
+
+TAG: settings_graphics_display_number
+Показать {num,D}
+
+TAG: settings_graphics_distance_quality
+Качество
+
+TAG: settings_graphics_graphics_preset
+Графики
+
+TAG: settings_graphics_quality_android_high
+Высокая школа Андроида
+
+TAG: settings_graphics_quality_android_low
+Андроид Низкий
+
+TAG: settings_graphics_quality_android_medium
+Android Medium
+
+TAG: settings_graphics_quality_default
+Ошибка
+
+TAG: settings_graphics_quality_ios_high
+iOS Высокая
+
+TAG: settings_graphics_quality_ios_low
+iOS Низкая
+
+TAG: settings_graphics_quality_ios_medium
+iOS Средняя
+
+TAG: settings_graphics_quality_mac_high
+Высокая
+
+TAG: settings_graphics_quality_mac_low
+Низкая
+
+TAG: settings_graphics_quality_mac_medium
+Средняя
+
+TAG: settings_graphics_quality_mac_ultra
+Ультра
+
+TAG: settings_graphics_quality_mac_ultra_high
+Ультра-высокая
+
+TAG: settings_graphics_quality_mac_ultra_low
+Ультра-низкий
+
+TAG: settings_graphics_quality_mac_very_high
+Очень высокий
+
+TAG: settings_graphics_quality_mac_very_low
+Очень низкий
+
+TAG: settings_graphics_quality_pc_high
+PC высокий
+
+TAG: settings_graphics_quality_pc_low
+Низкий ПК
+
+TAG: settings_graphics_quality_pc_medium
+PC Smedium
+
+TAG: settings_graphics_quality_pc_ultra
+ПК &lt; &lt; Ультра &gt; &gt;
+
+TAG: settings_graphics_quality_pc_ultra_high
+ПК &lt; &lt; Ультра &gt; &gt;
+
+TAG: settings_graphics_quality_pc_ultra_low
+ПК &lt; &lt; Ультра нижний &gt; &gt;
+
+TAG: settings_graphics_quality_pc_very_high
+PC очень высокий
+
+TAG: settings_graphics_quality_pc_very_low
+PC очень низкий
+
+TAG: settings_graphics_quality_ps4
+PS4
+
+TAG: settings_graphics_quality_ps4_pro
+PS4 Pro
+
+TAG: settings_graphics_quality_ps5
+PS5
+
+TAG: settings_graphics_quality_switch
+Переключатель Nintendo
+
+TAG: settings_graphics_quality_switchdocked
+Режим переключения телевизора Nintendo
+
+TAG: settings_graphics_quality_unknown
+Неизвестно
+
+TAG: settings_graphics_quality_xboxone
+Xbox 1
+
+TAG: settings_graphics_quality_xboxones
+Xbox 1 S
+
+TAG: settings_graphics_quality_xboxonex
+Xbox 1 X
+
+TAG: settings_graphics_quality_xboxseriess
+Серия Xbox S
+
+TAG: settings_graphics_quality_xboxseriesx
+Xbox Серия X
+
+TAG: settings_graphics_refresh_rate
+Коэффициент обновления
+
+TAG: settings_graphics_refresh_rate_default
+Ошибка
+
+TAG: settings_graphics_resolution
+Резолюция
+
+TAG: settings_graphics_resolution_scale
+Результирующая шкала
+
+TAG: settings_graphics_shadow_resolution
+Теневая резолюция
+
+TAG: settings_graphics_texture_quality
+Качество текстуры
+
+TAG: settings_graphics_texture_quality_default
+Ошибка
+
+TAG: settings_graphics_texture_quality_low
+Низкая
+
+TAG: settings_graphics_texture_quality_very_low
+Очень низкий
+
+TAG: settings_graphics_vsync
+VSync
+
+TAG: settings_hide_items_red_dots
+Спрятать красные точки в меню Мебель и Вардроб
+
+TAG: settings_hold_to_complete_fishing
+Придержаться к полному рыбному промыслу
+
+TAG: settings_hold_to_complete_timebending
+Оставайтесь на месте, чтобы завершить отсрочку
+
+TAG: settings_mp_blocked_visitors_title
+Заблокированные посетители
+
+TAG: settings_mp_do_you_want_to_unblock_message
+Вы действительно хотите разблокировать {playername}?
+
+TAG: settings_mp_no_blocked_visitor_message
+Никаких заблокированных посетителей.
+
+TAG: settings_mp_no_blocked_visitor_title
+Никаких заблокированных посетителей
+
+TAG: settings_mp_unblock_visitor_title
+Разблокировать посетителя
+
+TAG: settings_mp_visitor_couldnt_be_unblocked_message
+Посетитель {playername} не может быть разблокирован.
+
+TAG: settings_mp_visitor_unblocked_message
+Посетитель {playername} был успешно открыт.
+
+TAG: settings_need_restart
+Перезапустить игру, чтобы применить эти изменения
+
+TAG: settings_parental_info_epic
+Дорогие родители, спасибо за ваше внимание!<lw><lw>DISNEY DREAMLIGHT VALLY позволяет вам играть с помощью виртуальной валюты (называемой"Лунные камни"), которые могут быть приобретены путем игры или оплаты с помощью реальных денег. Покупки Moonstones с использованием реальных денег производятся с использованием кредитной карты или другой формы платежа, связанной с вашим счетом.<lw><lw> После добавления номера кредитной карты, вы не будете просить о повторном вводе номера вашей кредитной карты или PIN. После регистрации в магазине Epic Games, ваш счет будет уполномочен производить покупки в загрузке и не потребуется пароль. Если вы хотите ограничить покупки, вы можете перейти на счет > Контроль родителей, а затем установить PIN.<lw><lw>. Пожалуйста, проследите, чтобы ваши дети получили ваше разрешение до покупки в магазине Epic Games.<lw><lw>
+
+TAG: settings_parental_info_mac
+Дорогие родители, спасибо за ваше внимание!<lw><lw> Пожалуйста, сообщите, что DISNEY DREAMLIGHT VALLY позволяет вам играть с помощью виртуальной валюты (называемой"Лунные камни"), которые могут быть приобретены путем игры или оплаты с реальными деньгами.<lw><lw>Purchases из Мунстоуна, используя реальные деньги, исполняются с использованием кредитной карты или другой формы платежа, связанной с вашим счетом, когда вы вводите свой пароль на Apple.<lw><lw> Вы не будете просить о повторном вводе вашего номера кредитной карты или PIN. Как только ваш пароль Apple будет введён, он не будет запрошен для внутренних закупок в течение 15 минут. Поэтому мы настоятельно предлагаем, чтобы вы не делились паролем Apple с вашими детьми.<lw><lw> Если вы хотите получить возмещение, обратитесь непосредственно в App Store. <lw><lw>To сократить период, в течение которого могут быть произведены закупки, пожалуйста, изменения настройки вашего устройства: AppStore >>>Покупки и In-App Покупки (In-App) (включите документы Apple).<lw>0 <lw>1 Заявление было разработано компанией Gameloft S.E с зарегистрированным офисом по адресу: 14 rue Auber, 75009, Parister.
+
+TAG: settings_parental_info_playstation
+Дорогие родители, спасибо за ваше внимание!<lw><lw>DISNEY DREAMLIGHT VALLY позволяет вам играть с помощью виртуальной валюты (называемой"Лунные камни"), которые могут быть приобретены, играя в игру или платя реальными деньгами. Покупки Moonstones с использованием реальных денег производятся с использованием кредитной карты или другой формы платежа, связанной с вашим счетом, когда вы введите свой счет для PlayStation» ( &lt; &lt; PlayStation &gt; &gt; ) ( &lt; &lt; Сеть &gt; &gt; ). Вы не будете просить о повторном вводе номера вашей кредитной карты или PIN. По умолчанию закупки требуют вашего счета для PlayStation &gt; &gt; ( " PlayStation " ) ( &lt; &lt; Сеть &gt; &gt; )."Параметры" >> "Пользователи и счета">> Выбрать"Счет" >> "Платежи и подписные издания" >> "Параметры закупок" >> "Требовать пароль при проверке"<lw><lw>PS4»: Перейти к"Параметры" >> "Управление счетами" >> "Информация о счете" >> "Бумажник" >> "Параметры покупки,"и введите информацию о входе >> Выбрать"Требовать пароль на выписке?">> Выбрать"Выполнено"А потом"Подтверждаю."<lw><lw>Kids, пожалуйста, спросите одного из родителей перед покупками.<lw>0<lw>1Это приложение было разработано Gameloft S.E., зарегистрированное бюро по адресу: 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_parental_info_steam
+Дорогие родители, спасибо за ваше внимание!<lw><lw> Пожалуйста, сообщите, что DISNEY DREAMLIGHT VALLY позволяет вам играть с помощью виртуальной валюты (называемой"Лунные камни"), которые могут быть приобретены путем игры или оплаты с реальными деньгами.<lw><lw>Purchases of Moonstones с помощью реальных денег осуществляются с использованием вашего Steam Wallet, кредитной карты или другой формы оплаты, связанной с вашим счетом.<lw><lw> Вы не будете просить о повторном вводе вашего номера кредитной карты или PIN.<lw><lw>Once, зарегистрированного в Steam, ваш счет будет уполномочен производить покупки в сетке, и ваш пароль не потребуется.<lw><lw>Пожалуйста, убедитесь, что ваши дети получат ваше разрешение до того, как делать покупки in-app.<lw>0<lw>1. Если вы хотите запросить возмещение, обратитесь к Steam support непосредственно.<lw>2<lw>3 Заявление было разработано Gameloft S.E. вместе с зарегистрированным офисом по адресу 14 rue Auber, 75009 Paris, France. www.gameloft.com http://stif.gam.galoft.
+
+TAG: settings_parental_info_switch
+Дорогие родители, спасибо за ваше внимание!<lw><lw>DISNEY DREAMLIGHT VALLY позволяет вам играть с помощью виртуальной валюты (называемой"Лунные камни"), которые могут быть приобретены, играя в игру или платя реальными деньгами. Покупки Moonstones с использованием реальных денег производятся с использованием кредитной карты или другой формы платежа. Вы не будете просить о повторном вводе вашего номера кредитной карты или PIN. По умолчанию, покупки требуют вашего пароля, так что вы можете быть уверены, что покупки не могут быть произведены, если вы не делитесь паролем с вашими детьми. Если вы хотите получить возмещение, обратитесь напрямую к Nintendo_F2<lw> Если вы хотите ввести в действие ограничения на покупку, пожалуйста, поменяйте свой Nintendo eShopments.<lw><lw>Kids, пожалуйста, спросите у родителя перед тем, как делать покупки вами.<lw><lw>Этот приложение было разработано Gameloft S.E., с зарегистрированным офисом по адресу: 14 rue Auber, 75009 Paris, France. www.gameloft.com http://sup.gameloft.com.
+
+TAG: settings_parental_info_windows
+Дорогие родители, спасибо за ваше внимание!<lw><lw>DISNEY DREAMLIGHT VALLY позволяет вам играть с помощью виртуальной валюты (называемой"Лунные камни"), которые можно приобрести, играя в игру или платя реальными деньгами. Покупки Moonstones с использованием реальных денег производятся с использованием кредитной карты или другой формы платежа, связанной с вашим счетом, когда вы вводите свой пароль на счет Windows. Вы не будете просить о повторном вводе вашего номера кредитной карты или PIN. По умолчанию, покупки в системе Windows требуют вашего пароля, так что вы можете быть уверены, что покупки не могут быть сделаны, если вы не делитесь паролем с вашими детьми.<lw><lw> Если вы хотите получить возмещение, обратитесь непосредственно в Windows Store.<lw><lw>Kids, пожалуйста, спросите одного из родителей перед покупками в системе Windows.<lw><lw>Прикладное приложение было разработано Gameloft S.E. с зарегистрированным офисом в 14 rue Auber, 75009 Paris, France. www.gameloft.com http://sup.gameloft.com.
+
+TAG: settings_parental_info_xbox
+Дорогие родители, спасибо за ваше внимание!<lw><lw>DISNEY DREAMLIGHT VALLY позволяет вам играть с помощью виртуальной валюты (называемой"Лунные камни"), которые могут быть приобретены, играя в игру или платя реальными деньгами. Покупки Moonstones с использованием реальных денег производятся с использованием кредитной карты или другой формы платежа, связанной с вашим счетом, когда вы вводите пароль или пароль вашего счета Microsoft. Вы не будете просить о повторном вводе вашего номера кредитной карты или PIN. По умолчанию, покупки в системе Microsoft требуют вашего пароля или пароля, так что вы можете быть уверены, что покупки не могут быть произведены, если вы не будете делиться паролем или паролем с вашими детьми. Если вы хотите получить возмещение, обратитесь в Microsoft Store на Xbox напрямую.<lw><lw> Если вы хотите, чтобы приложение запрашивало пароль или пароль пароля каждый раз, когда вы делаете покупку, пожалуйста, измените свой Microsoft Store на параметрах Xbox: нажмите кнопку Xbox >>"Профиль & система" >> "Параметры">> Вниз"Счет,"Выбрать"Подписка, безопасность и PIN">> Выбрать"Измените мои предпочтения в отношении регистрации и безопасности">> Прокрутить правый и выбрать"Откорректированные">> Выбрать"Попроси мой PIN сделать покупки."<lw><lw>Kids, пожалуйста, спросите одного из родителей перед покупками.<lw><lw>Это приложение было разработано Gameloft S.E., зарегистрированное бюро по адресу: 14 rue Auber, 75009 Paris, France. www.gameloft.com http://support.gameloft.com/
+
+TAG: settings_promo_code_label
+Код изъятия
+
+TAG: settings_quit_game
+Выход из игры
+
+TAG: settings_reset_game
+Перезагрузить игру
+
+TAG: settings_restart_game
+Вернуться на Главный Экран
+
+TAG: settings_save_game
+Сохранить игру
+
+TAG: settings_save_game_last_saved_at
+Последнее сохранение: {minutes} м {seconds} с назад
+
+TAG: settings_save_game_last_saved_now
+Последнее сохранение: сейчас
+
+TAG: settings_save_icloud
+Сохранить в iCloud
+
+TAG: settings_save_playfab
+Сохранить для воспроизведения
+
+TAG: settings_show_boardgame_eager
+Включить запросы на скремблкоин
+
+TAG: settings_sprint_uses_old_button
+Использование альтернативного спринтного кнопки
+
+TAG: settings_tap_to_sprint
+Перейти к спринту
+
+TAG: settings_toggle_item_off
+Отключайся.
+
+TAG: settings_toggle_item_on
+ВО ВСТРЕЧЕ
+
+TAG: shop_starpath_confirmation_description
+Вы собираетесь потратить {0} на: Премиум Звездный Путь
+
+TAG: shop_starpath_plus_confirmation_description
+Вы собираетесь потратить {0} на: Premium Star Path и 100 символов
+
+TAG: shortcut_common_default_track_duty
+Отслеживать
+
+TAG: snippet_catch_activity
+Сниппет поймает
+
+TAG: snippet_trap_chiller_category_plural
+Медленные ловушки
+
+TAG: snippet_trap_chiller_category_singular
+Медленная ловушка
+
+TAG: snippet_trap_chiller_description
+Сниппетс в районе {percentage}
+
+TAG: snippet_trap_chiller_upgrade_description
+Сниппетс в районе <TrapUpgrade>{percentage}</TrapUpgrade>
+
+TAG: snippet_trap_multiple_info
+Множество {traptypeplural} в"{areaname}"Когда несколько {traptypeplural} расположены в одном и том же районе, активируется только самый сильный {traptypesingular}.
+
+TAG: snippet_trap_next_level
+Следующий уровень
+
+TAG: snippet_trap_repellant_category_plural
+Отклонения от снайппета
+
+TAG: snippet_trap_repellant_category_singular
+Отклонение от снайппета
+
+TAG: snippet_trap_repellant_description
+Снизить скорость размножения на {percentage}
+
+TAG: snippet_trap_repellant_upgrade_description
+Снизить скорость размножения сниппета на <TrapUpgrade>{percentage}</TrapUpgrade>
+
+TAG: snippet_trap_sticky_category_plural
+Лучшие ловушки
+
+TAG: snippet_trap_sticky_category_singular
+Лучшая ловушка
+
+TAG: snippet_trap_sticky_description
+Регулярно генерирует Snippets. Максимальная пропускная способность: {capacity}
+
+TAG: snippet_trap_sticky_upgrade_description
+Максимальная вместимость: <TrapUpgrade>{capacity}</TrapUpgrade>
+
+TAG: phone_liked_by
+Типа {number}-плеер(ы)
+
+TAG: phoneprompt_show_your_mood_desc
+Покажите свое настроение на картинке!
+
+TAG: social_character_label
+Пригласите {character} в долину
+
+TAG: social_event_generic_name
+Социальное мероприятие
+
+TAG: social_profile_info_posts
+Должности: {posts}
+
+TAG: sort_items
+Сортировка
+
+TAG: sort_items_by_alphabetical
+Имя A-Z
+
+TAG: sort_items_by_newest_to_oldest
+Самая новая
+
+TAG: sort_items_by_oldest_to_newest
+Самая старая
+
+TAG: sort_items_by_reverse_alphabetical
+Имя Z-A
+
+TAG: sort_items_by_type
+Тип
+
+TAG: splash_autosave
+Эта игра поддерживает автосбережение. Значок будет показан справа от нижней части экрана во время сохранения данных. Не выходи из игры или не выключай мощность, пока отображается значок.
+
+TAG: splash_developed_by
+Разработана Gameloft
+
+TAG: splash_seizure_warning
+Даже у тех, у кого нет припадков или эпилепсии, может быть недиагностическое заболевание, которое может вызвать эти фоточувствительные эпилептические припадки во время игры в видеоигры.
+
+TAG: buy_moonstone
+Покупайте Лунные Камни
+
+TAG: buy_moonstone_switch
+Ты можешь получить больше Лунных Камней на Nintendo eShop!
+
+TAG: purchase_moonstone_desc
+Есть какие-то дополнительные жетоны?<lw>Change их в Лунные Камни, пока не закончился Звездный Путь.
+
+TAG: starpass_title
+Звездный путь
+
+TAG: starpath_activate
+Активировать Звездный Путь
+
+TAG: starpath_ad_desc
+Выполняйте различные задания, чтобы заработать исключительно мебель, одежду и многое другое!
+
+TAG: starpath_ad_title
+Путь к звёздам теперь доступен
+
+TAG: starpath_bonus_rewards
+Благодарность
+
+TAG: starpath_bundle_offer
+Получите скидку на первую покупку {0} {1}
+
+TAG: starpath_buy_moonstone_desc
+Вы хотите купить больше Лунных Камней?
+
+TAG: starpath_buy_moonstone_title
+Лунный камень сверху
+
+TAG: starpath_collect_duty_error_duty_not_found
+Выбранная должность не была найдена в Интернете.
+
+TAG: starpath_collect_duty_error_invalid_config
+Нынешняя конфигурация Звездного пути недействительна.
+
+TAG: starpath_collect_sync_title
+Синхронизация
+
+TAG: starpath_collected
+Собранные
+
+TAG: starpath_companion_name
+{petName} Компаньон
+
+TAG: starpath_confirm_unlock
+Активировать премиум Звездный Путь
+
+TAG: starpath_confirm_unlock_plus
+Активировать и получить {0} {1} для
+
+TAG: starpath_description
+Описание
+
+TAG: starpath_duties
+Обязанности
+
+TAG: starpath_duties_completed
+Поздравляю, {PlayerName}.<lw> Вы завершили все мероприятия.
+
+TAG: starpath_empty_event
+Никакого мероприятия на данный момент.
+
+TAG: starpath_event_ended_desc
+У вас есть {0}, чтобы использовать {1} для получения вознаграждения.
+
+TAG: starpath_event_ended_label
+Завершено
+
+TAG: starpath_event_ended_title
+{0} закончено
+
+TAG: starpath_friendship_progression
+Прогресс в дружбе
+
+TAG: starpath_generic_error_already_collected
+Награда уже была собрана.
+
+TAG: starpath_generic_error_collect_title
+Ошибки в сборе
+
+TAG: starpath_generic_error_config_not_found
+Текущий Звездный Путь не был найден онлайн.
+
+TAG: starpath_generic_error_event_ended
+Нынешний Звездный Путь закончился.
+
+TAG: starpath_generic_error_event_finished
+Текущий Звездный Путь закончился.
+
+TAG: starpath_generic_error_transaction_failed
+:: Приветствую."сбор вознаграждения"Операция не увенчалась успехом из-за неожиданного результата, связанного с Интернет-услугами.
+
+TAG: starpath_generic_error_unknown
+Невозможно получить вознаграждение из-за неизвестной ошибки.
+
+TAG: starpath_get_tokens
+Больше токенов
+
+TAG: starpath_go_to
+Идите на Звездный Путь
+
+TAG: starpath_goofy_bonus
+Гуфи's Stall<br>bonus
+
+TAG: starpath_locked_label
+Отключить поощрительные выплаты
+
+TAG: starpath_more_moonstone
+Больше лунных камней
+
+TAG: starpath_multiplayer_desc
+Покончим с визитом, чтобы увидеть это содержание!
+
+TAG: starpath_multiplayer_title_client
+Ты навещаешь меня.
+
+TAG: starpath_multiplayer_title_host
+Ты принимаешь
+
+TAG: starpath_offline_desc
+Хотите связаться, чтобы увидеть это содержание?
+
+TAG: starpath_offline_internet_title
+Нет сети &lt; &lt; Интернет &gt; &gt;
+
+TAG: starpath_offline_nativeprofile_title
+Недоступные онлайновые услуги
+
+TAG: starpath_offline_playfab_title
+Недоступные онлайновые услуги
+
+TAG: starpath_offline_portal_title
+Портал игры недоступен
+
+TAG: starpath_offline_title
+Ты в отключке.
+
+TAG: starpath_offline_unknown_title
+Ты в отключке.
+
+TAG: starpath_page
+Стр.
+
+TAG: starpath_premium
+Премиум
+
+TAG: starpath_premium_locked
+Активировать премиум Звездный Путь для выполнения большего числа обязанностей одновременно
+
+TAG: starpath_premium_popup_desc
+Активировать премиум-Звездный Путь, чтобы собирать символы быстрее и раскрывать сезонные награды. Вы заработаете еще более культовые новые внешности и специальную мебель, чтобы украсить вашу деревню, чтобы вы могли сиять как звезда.
+
+TAG: starpath_premium_popup_title
+Путь премиум-звезды
+
+TAG: starpath_purchase_reward_already_purchased_recovery
+Награда уже была куплена; синхронизация данных с сервером.
+
+TAG: starpath_purchase_reward_error_page_locked
+Нынешняя страница заблокирована из-за того, что требования о разблокировании не выполняются в полной мере.
+
+TAG: starpath_purchase_reward_error_reward_not_found
+Выбранное вознаграждение не было найдено в Интернете.
+
+TAG: starpath_purchase_reward_not_enough_currency_recovery
+Недостаточно валюты, чтобы требовать эту награду; синхронизация данных с сервером.
+
+TAG: starpath_purchase_reward_premium_pass_inactive_recovery
+Премиум-пасс должен быть открыт для того, чтобы это вознаграждение можно было претендовать; синхронизация данных с сервером.
+
+TAG: starpath_reward_locked
+Получите, по крайней мере, {0} от награды {1} со страницы {2} для открытия этого раздела.
+
+TAG: starpath_reward_locked_until
+Соберите {0} больше награды, чтобы открыть {1}
+
+TAG: starpath_rewards
+Вознаграждение
+
+TAG: starpath_shortcut_claim_duty
+Претензия
+
+TAG: starpath_shortcut_collect_reward
+Вознаграждение
+
+TAG: starpath_task_available_in
+Имеется в: <lw>
+
+TAG: starpath_unlock_now
+Разблокируйся!
+
+TAG: starpath_unlock_premium
+Отключить премиум
+
+TAG: starpath_unlocked_label
+Разблокировано премиумное вознаграждение
+
+TAG: button_common_deny
+Отрицание
+
+TAG: data_share_checkbox_text
+Я позволяю Gameloft собирать и делиться своими данными с Select Partners (https://www.gameloft.com/en/privaty-notice/contact-form/#slected-partners) в целях демонстрации персональной рекламы на внешних сайтах и охвата потенциальных пользователей, которые выглядят как нынешние пользователи Gameloft.
+
+TAG: desc_you_must_login
+Чтобы сохранить и продолжить свой прогресс на различных платформах, вы должны создать аккаунт и подтвердить, что вам 16 лет или старше. Если вы моложе этого возраста, ваш родитель или опекун должны предоставить свой адрес электронной почты.
+
+TAG: desc_you_must_login_ps
+Чтобы сохранить и продолжить свой прогресс, вы должны создать счет и подтвердить, что вам 16 лет или старше. Если вы моложе этого возраста, ваш родитель или опекун должны предоставить свой адрес электронной почты.
+
+TAG: dont_ask_me_again
+Не спрашивай меня снова.
+
+TAG: email_update_checkbox_text
+Я принимаю, чтобы получать по электронной почте обновления, новости и рекламные предложения, связанные с играми Gameloft, зная, что я могу отключить подписку в любое время через ссылку, включенную в эти письма.
+
+TAG: label_reset_password
+Перезагрузить пароль
+
+TAG: label_roadmap_title
+План развития
+
+TAG: marketing_options_account_creation
+Вы собираетесь создать аккаунт. Вы также хотите подписаться на наш Newsletter и партнер по обмену данными?
+
+TAG: marketing_options_logged_in
+Вы уже зарегистрированы на нашу функцию Cloud Save. Вы также хотите подписаться на наш Newsletter и Partner Data Common?
+
+TAG: label_press_any_button
+Нажмите любой кнопка, чтобы начать
+
+TAG: label_press_any_key
+Нажмите любой ключ для начала
+
+TAG: label_tap_screen_mobile
+Скриншот для начала
+
+TAG: startftue_avatar_preset
+АВАТАРНЫЙ ПРЕЗИДЕНТ
+
+TAG: startftue_you_can_edit
+Вы можете отредактировать Аватар на следующем этапе.
+
+TAG: set_name_abusive_language
+Это имя содержит оскорбительные выражения.
+
+TAG: set_name_invalid_profile
+Ваш профиль искажен, и игра не может быть запущена должным образом.
+
+TAG: set_name_on_cooldown
+Существует активное охлаждение на изменении имени дисплея.
+
+TAG: set_name_online_error
+Имя не было сохранено онлайн.
+
+TAG: set_name_something_happened
+Случилось что-то неожиданное. Попробуй позже.
+
+TAG: expansion_real_money_disclaimer
+Затраты на реальные деньги
+
+TAG: scrooge_store_buyable
+Покупка
+
+TAG: scrooge_store_cant_order_desc
+Ты пытаешься заказать слишком много одежды.
+
+TAG: scrooge_store_cant_order_title
+Не могу заказать.
+
+TAG: scrooge_store_limit_reached_desc
+Ты не можешь заказать больше вещей сегодня.
+
+TAG: scrooge_store_limit_reached_title
+Выполнено ограничение ежедневного порядка
+
+TAG: scrooge_store_order
+Порядок
+
+TAG: scrooge_store_order_with_amount
+Заказ x{amount}
+
+TAG: scrooge_store_owned
+Собственное имущество
+
+TAG: scrooge_store_quest
+Запрашиваемые элементы
+
+TAG: store_clothing
+Одежда
+
+TAG: store_expansion_desc
+Расширяйте свой путь на остров Вечность, где ждут приключения! Disney Dreamlight Valley: A Rift in Time, новый перевал расширения, предлагает новые сюжетные дуги, символы, биомы и множество сюрпризов.
+
+TAG: store_filters
+Фильтры
+
+TAG: store_furniture
+Мебель
+
+TAG: store_purchase
+Закупки
+
+TAG: store_purchase_confirm
+Подтверждение покупки
+
+TAG: storefront_big_moonstone_pack
+Упаковка из большого лунного камня
+
+TAG: storefront_enormous_moonstone_pack
+Огромная стая лунного камня
+
+TAG: storefront_moonstones_usage_desc
+Используйте магию Лунных Камней, чтобы активировать Звездный Путь и получить стильную одежду, уникальную мебель и многое другое.
+
+TAG: storefront_regular_moonstone_pack
+Обычная упаковка Лунного камня
+
+TAG: storefront_small_moonstone_pack
+Упаковка из маленького лунного камня
+
+TAG: storefront_tiny_moonstone_pack
+Упаковка из маленького лунного камня
+
+TAG: visit_aquatic_text
+Пойдем к твоему дому!
+
+TAG: timebendingstation_transmute_title
+Перерыв в цикле
+
+TAG: menu.timebendingstation_combine_receipes
+Комбинированные реципиенты
+
+TAG: timebendingstation_allowstofind
+Позволь тебе найти
+
+TAG: timebendingstation_combine_receipes
+Комбинированные реципиенты
+
+TAG: timebendingstation_crafting_title
+Combine Recipe
+
+TAG: timebendingstation_dismute
+Разрушение
+
+TAG: timebendingstation_dismute_label
+Выбрать элемент для расчленения
+
+TAG: timebendingstation_hourglass
+Часовое стекло
+
+TAG: timebendingstation_hourglass_level
+УРОВЕНЬ {Binding HourglassLevel}
+
+TAG: timebendingstation_hourglass_maxlevel
+МАКСИМАЛЬНЫЙ УРОВЕНЬ
+
+TAG: timebendingstation_newtreasures
+Новые сокровища должны быть найдены!
+
+TAG: timebendingstation_nextlevel
+СЛЕДУЮЩИЙ УРОВЕНЬ
+
+TAG: timebendingstation_title
+Таблица временн*х интервалов
+
+TAG: timebendingstation_transmute
+Верхний цикл
+
+TAG: timebendingstation_transmute_label
+Выбрать пункт для включения в цикл
+
+TAG: timebendingstation_transmute_unlock
+Столовый стол "Вверх и вверх по течению"
+
+TAG: timebendingstation_upgrade
+Модернизация
+
+TAG: timebendingstation_upgrade_hourglass
+Модернизация часового стекла
+
+TAG: timebendingstation_upgrades_title
+Модернизация часового стекла
+
+TAG: select_tool
+Выбрать инструмент
+
+TAG: subtitle_touch_of_magic1_1
+Выберите <Add new> для создания нового дизайна.
+
+TAG: subtitle_touch_of_magic1_2
+Вы можете модифицировать или удалять свой дизайн позже.
+
+TAG: subtitle_touch_of_magic2_1
+Измените цвет выбранного вами предмета в любое время.
+
+TAG: subtitle_touch_of_magic2_2
+Добавьте до 50 мотивов к предмету. Измените порядок слоя, перетащите мотив.
+
+TAG: subtitle_touch_of_magic2_furniture_1
+Измените материал выбранного вами предмета в любое время.
+
+TAG: subtitle_touch_of_magic2_furniture_2
+Добавьте до 50 мотивов к предмету. Измените порядок слоя, перетащите мотив.
+
+TAG: subtitle_touch_of_magic3_1
+Двигайся, поворачивай и переозначай Мотиф на твоем предмете.
+
+TAG: subtitle_touch_of_magic3_2
+Изменить мотив с эффектом слоя в верхнем стержне.
+
+TAG: subtitle_touch_of_magic4_furniture_1
+Если есть вещи на куске магической мебели, когда пытаются удалить этот дизайн...
+
+TAG: title_touch_of_magic1
+Touch of Magic â Design Inventory
+
+TAG: title_touch_of_magic2
+Прикосновение волшебства
+
+TAG: title_touch_of_magic3
+Прикосновение к волшебству
+
+TAG: title_touch_of_magic4_furniture
+Волшебство удалить дизайн
+
+TAG: tutorial_button_lets_go
+Пошли!
+
+TAG: tutorial_enterrestaurant_desc_step1
+Выбрать ингредиенты
+
+TAG: tutorial_enterrestaurant_desc_step2
+Начинай готовить!
+
+TAG: tutorial_enterrestaurant_desc_step3
+Добавь свой реципиент в Кук Книгу и попробуй что-нибудь другое.
+
+TAG: tutorial_gardeningtutorial_desc_step1
+Семена растений
+
+TAG: tutorial_gardeningtutorial_desc_step2
+Поливайте, или он засохнет!
+
+TAG: tutorial_gardeningtutorial_desc_step3
+Подожди, пока он не созреет, чтобы забрать его.
+
+TAG: character_detail_unlock_profession
+Дойти до второго уровня, чтобы открыть Бонус Хангута.
+
+TAG: locked_realm_character_unlock
+Откройте королевство: {name}
+
+TAG: locked_region_character_counter
+Символы<br>{current} / {needed}
+
+TAG: locked_region_character_desc
+Отключить<br>{character} Символ(ы)
+
+TAG: locked_region_character_unlock
+Отключить {name}
+
+TAG: locked_region_current_level
+Вы<br>standard {level}
+
+TAG: locked_region_level_desc
+Подключиться к<br>-уровню {level}
+
+TAG: locked_region_title
+Закрытая биом
+
+TAG: not_enough_space_around_well
+Не хватает места вокруг этого колодца Желаний.
+
+TAG: realm_ask_unlock
+Хочешь войти в этот король?
+
+TAG: realm_locked_message_default
+Скоро будет доступно новое королевство!
+
+TAG: realm_locked_title
+Закрытое королевство
+
+TAG: village_area_ask_unlock
+Хочешь открыть биом?
+
+TAG: village_area_character_count_condition
+Возьмите, по крайней мере, {unlockCharacterCount} деревенских жителей, чтобы исследовать этот биом.
+
+TAG: village_area_player_level_condition
+Дойти до уровня {unlockPlayerLevel}, чтобы открыть этот биом.
+
+TAG: change_sprint_body
+Выбранный задний аксессуар отменяет любой задний аксессуар, который был ранее оснащен
+
+TAG: critter_item_unlock_title
+Новый критер без блокировки
+
+TAG: missing_tool_msg
+Здравствуйте, Valley Villager!<br> Вы получаете это сообщение, потому что ранее вы купили "Premium Royal Tool Set" и наше самое первое расширение, "Rift in Time".<br> Мы рады закончить ваш купленный набор с кожей для вашего Royal Hours стекло! Мы не можем дождаться, когда вы будете использовать его во всех своих приключениях на острове Eternity и за его пределами!<br>Hang Спасибо за ваше терпение и поддержку.
+
+TAG: missing_tool_title
+Ваш Королевский Инструмент получает новый вид!
+
+TAG: new_item
+Новые пункты
+
+TAG: Opacity
+Непрозрачность
+
+TAG: rarity_filter_display_name
+{stars} Звезда (звезды)
+
+TAG: wardrobe.tool_needs_expansion01
+Инструмент открыт через расширение
+
+TAG: wardrobe.tool_needs_expansion02
+Инструмент открыт через расширение
+
+TAG: wardrobe.tool_not_unlocked
+Инструмент не открыт
+
+TAG: wardrobe_appearance
+Упорядочение
+
+TAG: wardrobe_category_accessories
+Принадлежности
+
+TAG: wardrobe_category_arms
+Оружие
+
+TAG: wardrobe_category_back
+Назад
+
+TAG: wardrobe_category_bracelet
+Браслеты
+
+TAG: wardrobe_category_coat
+Пальто
+
+TAG: wardrobe_category_costume
+Полный корпус
+
+TAG: wardrobe_category_dress
+Одежда
+
+TAG: wardrobe_category_earrings
+Урн
+
+TAG: wardrobe_category_full_body
+Полный корпус
+
+TAG: wardrobe_category_glasses
+Очки
+
+TAG: wardrobe_category_gloves
+Перчатки
+
+TAG: wardrobe_category_hat
+Шляпы
+
+TAG: wardrobe_category_head
+Глава
+
+TAG: wardrobe_category_hose_socks
+Носки
+
+TAG: wardrobe_category_legs
+Ноги
+
+TAG: wardrobe_category_mask
+Маски
+
+TAG: wardrobe_category_neck_wear
+Шея
+
+TAG: wardrobe_category_pants
+Брюки
+
+TAG: wardrobe_category_shoes
+Туфли
+
+TAG: wardrobe_category_shorts
+Шорты
+
+TAG: wardrobe_category_skirt
+Скирты
+
+TAG: wardrobe_category_sprints
+Глайдеры
+
+TAG: wardrobe_category_tools
+Инструменты
+
+TAG: wardrobe_category_top
+Верхние
+
+TAG: wardrobe_category_torso
+Torso
+
+TAG: wardrobe_category_wig
+Виги
+
+TAG: wardrobe_dye
+Да
+
+TAG: wardrobe_exit_title
+ВНЕШНЯЯ ЗАГРЯЗНЯЮЩАЯ СТРУКТУРА
+
+TAG: wardrobe_filter_apply
+Применить фильтры
+
+TAG: wardrobe_filter_dominantcolor
+Цвет
+
+TAG: wardrobe_filter_rarity
+Рарность
+
+TAG: wardrobe_filter_reset
+Перезагрузить фильтры
+
+TAG: wardrobe_filter_style
+Стиль
+
+TAG: wardrobe_filter_trait
+Предательство
+
+TAG: wardrobe_filter_universe
+Вселенная
+
+TAG: wardrobe_filter_zone
+Комната
+
+TAG: wardrobe_gender
+Тип кузова
+
+TAG: wardrobe_item_unlock_title
+Новая одежда
+
+TAG: wardrobe_outfit_preset
+Выделить {number}
+
+TAG: wardrobe_outfit_preset_empty
+Пустой пресет {number}
+
+TAG: wardrobe_outfit_preset_option_delete
+Удалить предустановку: whatsthis
+
+TAG: wardrobe_outfit_preset_option_equip
+Оснащение
+
+TAG: wardrobe_outfit_preset_option_overwrite
+Перезаписать предисловие
+
+TAG: wardrobe_outfit_preset_option_rename
+Переименовать Preset
+
+TAG: wardrobe_outfit_preset_option_save
+Сохранить предварительную выдержку
+
+TAG: wardrobe_outfit_preset_options
+Выделить параметры
+
+TAG: wardrobe_outfit_presets
+Подготавливание
+
+TAG: wardrobe_outfit_presets_name_new
+Назовите новый наряд Preet
+
+TAG: wardrobe_outfit_presets_rename_input_placeholder
+Предопределенное имя
+
+TAG: wardrobe_outfit_presets_rename_title
+Переименовать наряд {number}
+
+TAG: wardrobe_pet_assign
+Назначить
+
+TAG: wardrobe_pets
+Спутники
+
+TAG: wardrobe_tool_catchingnet
+Royal Net ( &lt; &lt; Королевская сеть &gt; &gt; )
+
+TAG: wardrobe_tool_fishing
+Рыболовецкий Род
+
+TAG: wardrobe_tool_gardening
+Шовель
+
+TAG: wardrobe_tool_mining
+Пикокс
+
+TAG: wardrobe_tool_misc
+Телефон
+
+TAG: wardrobe_tool_timebending
+Часовое стекло
+
+TAG: wardrobe_tool_watering
+Водопроводный канистры
+

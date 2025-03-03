@@ -1,0 +1,35 @@
+
+r
+WallE_000_fcHey, WALLÂ·E. It looks like someone made a mess of your garden. I found this coffee cup nearby...
+
+WallE_001_fAww...
+(
+WallE_002_fDo you know who did this?
+
+WallE_003_fAh... ah... ah!
+
+WallE_004_fHm. Was it...
+%
+Player_000_choice_000_f
+...Mickey?
+%
+Player_000_choice_001_f
+...Donald?
+%
+Player_000_choice_002_f
+...Stitch?
+
+WallE_008_fOh! No. No.
+R
+WallE_009_fCI guess Mickey's not really the type to tear up a garden. Was it...
+
+WallE_010_f
+Uhh... No.
+l
+WallE_011_f]Right. Donald can get pretty mad sometimes, but he wouldn't do something like that. Was it...
+
+WallE_012_fTa-da.
+4
+WallE_013_f%Stitch messed up your garden? Oh boy.
+Z
+WallE_014_fKI guess I'll have to <Lore>find Stitch</Lore> and do a badness level check.

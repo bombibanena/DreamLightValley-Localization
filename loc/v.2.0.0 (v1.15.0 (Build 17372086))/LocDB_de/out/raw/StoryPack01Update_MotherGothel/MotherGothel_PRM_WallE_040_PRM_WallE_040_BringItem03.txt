@@ -1,0 +1,51 @@
+TAG: MotherGothel_000_f
+Well... I suppose these will do.
+
+TAG: MotherGothel_001_f
+So, what did you do with the plant?
+
+TAG: MotherGothel_002_f
+I threw it away.
+
+TAG: Player_000_choice_000_f
+WHAT?
+
+TAG: Player_000_choice_001_f
+How could you?
+
+TAG: Player_000_choice_002_f
+We were reading a story to it...
+
+TAG: MotherGothel_003_f
+I said I disposed of it. Really, dear, you should pay better attention.
+
+TAG: MotherGothel_004_f
+Where did you throw it out?
+
+TAG: MotherGothel_005_f
+The rubbish pile, of course.
+
+TAG: MotherGothel_006_f
+... Mother Gothel, we don't have a rubbish pile in the Valley.
+
+TAG: MotherGothel_007_f
+Of course we do! It's a nasty shade of yellow, rather rectangular, has a ramp in front...
+
+TAG: MotherGothel_008_f
+Rubbish pile?! That's WALLÂ·E's home!
+
+TAG: MotherGothel_009_f
+... Well, I'm not sure how to react to that without infuriating you further.
+
+TAG: MotherGothel_010_f
+I... Never mind. Thank you for telling us where you left it.
+
+TAG: MotherGothel_011_f
+Goodbye, {PlayerName}! And I hope that's the last time you meddle with my belongings.
+
+TAG: MotherGothel_012_f
+Well, it would have clashed terribly with the dÃ©cor here â surely you can see that?
+
+TAG: MotherGothel_013_f
+Oh... that is so pathetic; it must be true.
+

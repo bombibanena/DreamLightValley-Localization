@@ -1,0 +1,31 @@
+
+f
+MotherGothel_001_fP{PlayerName}. Let me guess: You've come to scold me about the note I sent Daisy.
+c
+MotherGothel_002_fMWell? Go ahead. Somehow, I'm always the bad guy for simply telling the truth.
+ã
+Player_000_f{Not at all. Daisy wanted you to know that we've made some changes to the Glade of Trust to make it more relaxing for you...
+0
+Player_000_choice_000_fIsn't she the nicest?
+6
+Player_000_choice_001_fHow do you feel about that?
+G
+Player_000_choice_002_f,I think it's called "killing with kindness"?
+A
+MotherGothel_003_f+Hmpf... She's just doing that to look good.
+w
+MotherGothel_006_faI'm sure these "relaxing" additions are absolute eyesores. I'll be back to tell you what I think.
+
+MotherGothel_007_fSo?
+;
+MotherGothel_000_f%Oh, {PlayerName}, are you still here?
+?
+MotherGothel_008_f)Well, I guess it's... not too horrendous.
+†
+MotherGothel_009_fâI still don't think she should be doling out advice, but... I can imagine reading a copy of the Dreamlight Gazette on my new furniture...
+E
+MotherGothel_010_f/And then using it as kindling for my fireplace.
+#
+MotherGothel_004_fUnderwhelmed.
+?
+MotherGothel_005_f)Ha! I'm glad you see through her fa√ßade.

@@ -1,0 +1,84 @@
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Any_CompletedRequestDescription
+Возвращайтесь на Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_AvailableDescription
+{PlayerName} открыл еще один врата в мифический процесс, этот под великой статуей Аид. Какие тайны {PlayerName} нашли бы внутри?
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_CompletedStoryDescription
+{PlayerName} проследил мосты внутри мифического процесса и разобрался с источником коррупции глубоко внутри.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_DisplayName
+Потерять свои мраморные шарики
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group01_Step01_VisitArea01_StepDescription
+Введите <ActivityItem>Mythic Test</ActivityItem> под статуей Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group02_Step02_TalkToCharacter01_StepDescription
+Найди Аид и поговори с ним.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group03_Step03_Conditional01_StepDescription
+Потяни рычаг, чтобы опустить дроссельный мост.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_Step04_TalkToCharacter02_StepDescription
+Поговори с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_StepDescription
+Упс... это не сработало так хорошо...
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group04_StoryDescription
+Аид показал, что {PlayerName} должен выполнить задачу геркулезных пропорций: надавить на кучу камней для него. (Хорошо, возможно, это было не так мифическое, как Аид.)
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group05_Step05_Conditional02_StepDescription
+Найди способ удержать мостик.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group07_Step07_Conditional03_StepDescription
+Попробуй еще раз потянуть рычаг.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group08_Step08_FollowCharacter01_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group08_Step08_FollowCharacter01_TalkToDescription
+Поговори с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group10_Step10_Conditional04_StepDescription
+Поворачивай вращающуюся платформу.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group11_Step11_Interaction01_StepDescription
+Взаимодействовать с источником коррупции в ходе первого мифического процесса.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group12_Step12_StepDescription
+Поговори с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group12_Step12_TalkToCharacter05_StepDescription
+Платформа вращается повсюду, не имея ничего, чтобы остановить её...
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group13_Step13_Conditional06_StepDescription
+Найди способ заблокировать вращение моста.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group15_Step15_FollowCharacter02_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group17_Step17_Conditional05_StepDescription
+Поворачивай вращающуюся платформу.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_Step18_FollowCharacter03_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_Step18_FollowCharacter03_TalkToDescription
+Поговори с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group18_StoryDescription
+{PlayerName} вскоре обнаружила, что эта задача будет более простой, чем выполненная.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group19_Step19_FollowCharacter04_StepDescription
+Следуйте за Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group19_Step19_FollowCharacter04_TalkToDescription
+Поговори с Аид.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group20_Step20_VisitArea03_StepDescription
+Исследуйте глубже в мифическом испытании.
+
+TAG: Story!Expansion02!MRQS_E02_091_TrialColossus_Group21_Step21_Conditional07_StepDescription
+Подтолкни тележку.
+

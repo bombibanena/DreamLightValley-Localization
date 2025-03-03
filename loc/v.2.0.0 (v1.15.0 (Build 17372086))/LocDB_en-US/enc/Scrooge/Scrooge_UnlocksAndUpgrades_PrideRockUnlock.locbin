@@ -1,0 +1,17 @@
+
+t
+Scrooge_000_fcAh, {PlayerName}. Did you know that Pride Rock is the traditional home of the lions in this Valley?
+]
+Scrooge_004_fLUnfortunately, the Forgetting left the place overgrown and in a sorry state.
+c
+Scrooge_005_fRBut don't fret. I can clear out anything dangerous... for a modest fee, of course.
+m
+Player_000_choice_000_fRLet's clean up that rock! (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
+3
+Player_000_choice_001_fPerhaps some other time.
+Z
+Scrooge_001_fISparkle me spats! When I'm done with this place, it'll be fit for a king.
+{
+Scrooge_002_fjOch! You dinnae have enough Star Coins for this property! Come back when you have the funds, {PlayerName}.
+¤
+Scrooge_003_f’Well, come back soon. The whole Village will benefit if we restore this historic landmark. And it won't be bad for my profits either. Hee-hee-hee.

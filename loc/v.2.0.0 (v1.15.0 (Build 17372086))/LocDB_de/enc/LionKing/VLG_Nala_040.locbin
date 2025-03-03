@@ -1,0 +1,23 @@
+
+^
+=Village!LionKing!VLG_Nala_040_Any_CompletedRequestDescriptionПоговори с Нала.
+�
+2Village!LionKing!VLG_Nala_040_AvailableDescription�Нала готов закрыть рифы раз и навсегда, но вам нужно сделать кое-какую работу, чтобы создать чародейство, которое сделает фокус.
+U
+FVillage!LionKing!VLG_Nala_040_Group01_Step01_Possess01_StepDescription{ItemName}.
+W
+HVillage!LionKing!VLG_Nala_040_Group02_Step02_CraftItem01_StepDescription{ItemName}.
+]
+GVillage!LionKing!VLG_Nala_040_Group03_Step03_Decorate01_StepDescriptionДаззл-Бич.
+o
+NVillage!LionKing!VLG_Nala_040_Group04_Step04_TalkToCharacter01_StepDescriptionПоговори с Нала.
+h
+=Village!LionKing!VLG_Nala_040_Group06_Step06_ReadyDescription'Принесите {ItemName} Реми.
+}
+GVillage!LionKing!VLG_Nala_040_Group07_Step07_CookMeal01_StepDescription2Приготовить {ItemName} для Нала.
+�
+=Village!LionKing!VLG_Nala_040_Group08_Step08_ReadyDescriptionjСюрприз Нала с {ItemName} чтобы отпраздновать закрытие рифтов.
+�
+:Village!LionKing!VLG_Nala_040_Group01_OngoingRequestButtonF<smallcaps>{title}</smallcaps><br> Что я опять делал...?
+a
+0Village!LionKing!VLG_Nala_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

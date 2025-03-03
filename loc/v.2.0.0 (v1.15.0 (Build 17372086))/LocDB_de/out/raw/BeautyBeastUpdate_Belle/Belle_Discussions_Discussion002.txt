@@ -1,0 +1,60 @@
+TAG: Belle_000_f
+{PlayerName}, would you tell me about where you come from? I love learning about different places.
+
+TAG: Player_000_choice_000_f
+I come from a faraway land...
+
+TAG: Player_000_choice_001_f
+It's ordinary. Just like me.
+
+TAG: Belle_001_f
+That's amazing! Knowing you, I imagine it must be filled with magic.
+
+TAG: Player_001_choice_000_f
+No, it's kind of boring, unfortunately.
+
+TAG: Player_001_choice_001_f
+Yes! The magic of friendship and love!
+
+TAG: Player_001_choice_002_f
+More like wonderful inventions!
+
+TAG: Belle_002_f
+Oh, I'm sorry. I feel that way about my village sometimes, too.
+
+TAG: Belle_003_f
+That really is the most important kind of magic, isn't it?
+
+TAG: Belle_004_f
+Really? Oh, I wish my father could see it.
+
+TAG: Belle_005_f
+{PlayerName}, you certainly are not ordinary. In fact, you're VERY special.
+
+TAG: Player_002_choice_000_f
+Sometimes I don't feel very special.
+
+TAG: Player_002_choice_001_f
+You're just saying that.
+
+TAG: Player_002_choice_002_f
+I AM special!
+
+TAG: Belle_006_f
+Oh, I understand. We all have days like that now and then...
+
+TAG: Belle_007_f
+But look at where you are right now... and look at all that you've accomplished here!
+
+TAG: Belle_008_f
+You've done so much for the Villagers. It's important to remember that.
+
+TAG: Belle_009_f
+No. It's true.
+
+TAG: Belle_010_f
+I wouldn't tell you something just to be polite. You're very special, {PlayerName}. We all see it.
+
+TAG: Belle_011_f
+And if you ever need reminding, just look around at all you've done.
+

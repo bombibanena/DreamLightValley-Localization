@@ -1,0 +1,120 @@
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Any_CompletedRequestDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_AvailableDescription
+At last, {PlayerName} cleared the way to Mount Olympus. But challenges awaited inside â the Neverafter's corruption would need to be dealt with before Hades would agree to end the feud.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_CompletedStoryDescription
+{PlayerName} captured the Snippet that Hades had stolen from the Lorekeeper. With Mount Olympus restored, there remained only one thing left to do: Get Hades to give up the feud with Maleficent.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_DisplayName
+Mount Olympus
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group01_Step01_VisitArea01_StepDescription
+Enter Mount Olympus.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group02_Step02_TalkToCharacter01_StepDescription
+Find Hades and talk to him.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group03_Step03_StepDescription
+Find a way to open the first gates.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group04_Step04_FollowCharacter01_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group04_Step04_FollowCharacter01_TalkToDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional05_StepDescription
+Guts & Glory.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional06_StepDescription
+The Promethean Flame.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_Conditional07_StepDescription
+Losing Your Marbles.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group05_Step11_StepDescription
+Explore Mythopia and complete the three Mythic Trials to reach Mount Olympus.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group06_Step25_Possess04_StepDescription
+Find two more <ActivityItem>Vases</ActivityItem> deeper in Mount Olympus.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group06_Step25_StepDescription
+Hades and {PlayerName} labored to find the vases to help them reach their goals. (Well, {PlayerName} labored, while Hades looked on.)
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group07_Step07_Conditional01_StepDescription
+Find a way to rotate the platform.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group08_Step08_Conditional02_StepDescription
+Find a way to raise the first gate.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group09_Step09_StepDescription
+Find a way to open the second gate.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group10_Step10_FollowCharacter02_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group10_Step10_FollowCharacter02_TalkToDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group11_Step05_VisitArea05_StepDescription
+Explore Mount Olympus.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group12_Step12_FollowCharacter04_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group12_Step12_FollowCharacter04_TalkToDescription
+Talk to Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group13_StepDescription
+Find two more <ActivityItem>Vases</ActivityItem> deeper in Mount Olympus.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group14_Step14_StepDescription
+Find a way to open the third gate.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group15_Step15_CatchSnippet01_StepDescription
+Capture the <ActivityItem>Demon Snippet</ActivityItem> inside the throne room.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group15_StoryDescription
+Having made their way through the trial, they felt victory was within their grasp.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group16_Step16_Conditional03_StepDescription
+Find a way to open the second drawbridge.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group16_StoryDescription
+Another puzzle awaited them as they labored to find a way to pass the second drawbridge.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group17_Step17_FollowCharacter03_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group18_Step18_FollowCharacter05_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group19_Step19_VisitArea04_StepDescription
+Cross the drawbridge.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group20_Step20_Conditional04_StepDescription
+Find a way to open the second gate.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group21_Step21_FollowCharacter06_StepDescription
+Follow Hades.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group22_Step24_Possess03_StepDescription
+Find two more <ActivityItem>Vases</ActivityItem> deeper in Mount Olympus.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group22_StoryDescription
+The Lord of the Underworld and {PlayerName} were at the very gates of Olympus itself. However, they needed to answer an important question: "What does not look like a key, but works as a key?"
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group23_Step26_Conditional08_StepDescription
+Lower the bridge.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group23_Step26_StepDescription
+Capture the <ActivityItem>Demon Snippets</ActivityItem> inside the throne room.
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group23_StepDescription
+More Snippets have appeared!
+
+TAG: Story!Expansion02!MRQS_E02_100_MythDungeon_Group24_Step22_VisitArea02_StepDescription
+Cross the bridge.
+

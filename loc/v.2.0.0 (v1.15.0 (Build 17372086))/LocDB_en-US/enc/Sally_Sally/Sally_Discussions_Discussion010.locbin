@@ -1,0 +1,25 @@
+
+J
+Sally_000_f;Well, I suppose I feel most at home in the Forgotten Lands.
+z
+Sally_001_fkI love visiting with the Fairy Godmother. We discuss sewing, and she serves the most delicious pumpkin tea.
+F
+Sally_003_f7What do you think of the Forgotten Lands, {PlayerName}?
+3
+Player_000_choice_000_fI love decorating there!
+5
+Player_000_choice_001_fThey're too gloomy for me.
+1
+Player_000_choice_002_fThey speak to my soul.
+>
+Sally_005_f/I'm sure it's a wonderful place to be creative.
+:
+Sally_007_f+The atmosphere is so open to possibilities.
+t
+Sally_004_feI understand. After Jack returned from Christmas Town, we learned that everyone has different tastes.
+>
+Sally_006_f/Well, then I'm sure you'd enjoy Halloween Town.
+/
+Sally_008_f Perhaps you could visit someday.
+l
+Sally_002_f]The ravens there have such beautiful glossy feathers, and the whole place feels rather comfy.

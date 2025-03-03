@@ -1,0 +1,18 @@
+TAG: WallE_000_f
+Ta-da! Eaaaaarth.
+
+TAG: WallE_001_f
+You want to use this old dirt pile as a Garden?
+
+TAG: WallE_002_f
+Directive!
+
+TAG: WallE_003_f
+We can! But we'll need to gather a lot of equipment.
+
+TAG: WallE_004_f
+We'll need to find <ActivityItem>Seeds</ActivityItem>, <ActivityItem>Dirt Sacks</ActivityItem>, and a <ActivityItem>Trellis</ActivityItem>!
+
+TAG: WallE_005_f
+Okay!
+

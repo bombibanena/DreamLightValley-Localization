@@ -1,0 +1,63 @@
+
+�
+LVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Any_CompletedRequestDescription�Убедись, что Майк Вазовски доволен тем, как прошла встреча и приветствие.
+�
+AVillage!MonsterInc!MikeWazowski!VLG_Mike_030_AvailableDescription�Неуравновешенный различными вкусами деревенских жителей, Майк Вазовски выдумывает другой план революции Долины. Поговорите с ним, чтобы узнать, что у него на уме.
+�
+FVillage!MonsterInc!MikeWazowski!VLG_Mike_030_CompletedStoryDescription�Комедия прошла без стычка, и Майк Вазовски теперь готова ввести Ваниллопа в мир комедии stand-up.
+g
+8Village!MonsterInc!MikeWazowski!VLG_Mike_030_DisplayName+Комедийное предложение
+�
+]Village!MonsterInc!MikeWazowski!VLG_Mike_030_Group01_Step01_TalkToCharacter01_StepDescription!Поговори с ВАЛЛ·И.
+�
+]Village!MonsterInc!MikeWazowski!VLG_Mike_030_Group01_Step01_TalkToCharacter02_StepDescription.Поговори с Крёстной Феей.
+�
+]Village!MonsterInc!MikeWazowski!VLG_Mike_030_Group01_Step01_TalkToCharacter03_StepDescription'Поговори с Ваниллопа.
+�
+EVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group01_StoryDescription�Майк Вазовски готов отвезти его комедию от пола Смеха до долины и хочет, чтобы вы помогли организовать и начать первую комедийную ночь в долине.
+�
+]Village!MonsterInc!MikeWazowski!VLG_Mike_030_Group02_Step02_TalkToCharacter04_StepDescriptionBПередайте результаты Майк Вазовски.
+�
+]Village!MonsterInc!MikeWazowski!VLG_Mike_030_Group03_Step03_TalkToCharacter05_StepDescriptionПоговори с Салли.
+|
+UVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group04_Step04_Possess01_StepDescription#Канистры для смеха.
+w
+UVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group04_Step04_Possess02_StepDescriptionУх ты, подушечка.
+y
+UVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group04_Step04_Possess03_StepDescription Резиновая курица.
+�
+KVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group04_Step04_StepDescriptionCСоберите из "Монстры, инк." следующее:
+�
+EVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group04_StoryDescription�Ваниллопа был прослушан как новый комикс и первый открыватель Майк Вазовски пришло время поприветствовать ее в мире комедии со специальным подарком!
+{
+WVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group05_Step05_BringItem01_StepDescription Резиновая курица.
+q
+WVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group05_Step05_BringItem02_StepDescriptionУоуп Кушион.
+�
+LVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group05_Step05_ReadyDescription4Принесите вещи на Ваниллопа.
+�
+]Village!MonsterInc!MikeWazowski!VLG_Mike_030_Group06_Step06_TalkToCharacter06_StepDescriptionLСообщите Майк Вазовски о вашем прогрессе.
+h
+UVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group07_Step07_Possess04_StepDescriptionКирпичи.
+d
+UVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group07_Step07_Possess05_StepDescriptionФибер.
+|
+UVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group07_Step07_Possess06_StepDescription#Канистры для смеха.
+w
+UVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group07_Step07_Possess07_StepDescriptionЖелезные слитки.
+s
+KVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group07_Step07_StepDescription$Соберите следующее:
+�
+EVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group07_StoryDescription�Ваниллопа обожает ее новый реквизит и будет пытаться взять нарождающуюся сцену комедии Долины штормом, но прежде чем это случится, пришло время встретиться и поприветствовать, чтобы повысить осведомленность о событии.
+�
+WVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group08_Step08_CraftItem01_StepDescriptionZПодготовить встречу <ActivityItem>Comedic и Greet Decor</ActivityItem>.
+�
+LVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group09_Step09_ReadyDescriptioneПоказать <ActivityItem>Comedic Meet and Greet Decor</ActivityItem> Майк Вазовски.
+�
+KVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group09_Step09_StepDescriptionN<ActivityItem>Comedic Meet and Greet Decor</ActivityItem> уже готовы.
+�
+VVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group10_Step10_Decorate01_StepDescriptionsПоместите <ActivityItem>Comedic With and Greet Decor</ActivityItem> где-нибудь в деревне.
+�
+SVillage!MonsterInc!MikeWazowski!VLG_Mike_030_Group11_Step11_Party01_StepDescription0Отвали от комедийной ночи.
+p
+?Village!MonsterInc!MikeWazowski!VLG_Mike_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

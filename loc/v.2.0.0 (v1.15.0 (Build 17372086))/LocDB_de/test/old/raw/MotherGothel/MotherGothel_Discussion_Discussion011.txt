@@ -1,0 +1,57 @@
+TAG: MotherGothel_000_f
+{PlayerName}, я чувствую, что должен поделиться некоторыми своими знаниями о мире, так что у тебя есть шанс выжить здесь один...
+
+TAG: MotherGothel_001_f
+Вы, должно быть, заметили цветы, растущие вокруг деревни, такие красивые и величественные, как я!
+
+TAG: Player_000_choice_000_f
+Я люблю цветы!
+
+TAG: Player_000_choice_001_f
+А что с ними?
+
+TAG: Player_000_choice_002_f
+Цветы...
+
+TAG: MotherGothel_002_f
+В конце концов, кто же нет?
+
+TAG: MotherGothel_005_f
+Вы должны помнить, что в каждой части Долины есть один или два конкретных типа цветов...
+
+TAG: MotherGothel_009_f
+В Плазах вы найдете <ActivityItem>Dandelions</ActivityItem>, обычную, очаровательную травку, которая напоминает мне немного о вас! Ха-ха, только шутка, дорогая, но также <ActivityItem>Penstemons</ActivityItem> многих цветов.
+
+TAG: MotherGothel_010_f
+Если вы хотите <ActivityItem>Rising Penstemons</ActivityItem> или <ActivityItem>Daisies</ActivityItem>, вам придется пойти на Meadow.
+
+TAG: MotherGothel_011_f
+Некоторые цветы даже растут на песке Dazzle Beach <ActivityItem>Hydrangeas</ActivityItem> и <ActivityItem>Sunflowers</ActivityItem>, если быть точным.
+
+TAG: MotherGothel_012_f
+Если вам понадобится <ActivityItem>Bell Flowers</ActivityItem> или <ActivityItem>Star Llies</ActivityItem>, посмотрите под деревьями в лесу Валор.
+
+TAG: MotherGothel_013_f
+<ActivityItem>Bromiads</ActivityItem> и <ActivityItem> Houseleyks</ActivityItem> растут только на плато Санлита.
+
+TAG: MotherGothel_008_f
+Например, если вы посетите моего любимого Глэйда, вы найдете все виды <ActivityItem>Marsh Milkweed</ActivityItem>. Белый, оранжевый, фиолетовый, синий... почти радугу от них.
+
+TAG: MotherGothel_014_f
+Если вы чувствуете себя достаточно смелыми, чтобы исследовать забытые земли, вы можете собрать <ActivityItem>Impatyens</ActivityItem> и <ActivityItem>Nasturtiums</ActivityItem>. Правильно названные цветы для этого уродливого места, если вы спросите меня.
+
+TAG: MotherGothel_015_f
+Но только один тип цветка растет в Фростед Хайтс <ActivityItem>Passion Lilly</ActivityItem>. Хотя он и имеет много цветов.
+
+TAG: MotherGothel_003_f
+Ну, я знаю, каковы дети, поэтому я чувствую, что это нужно сказать... постарайся не есть их, это было бы нехорошо для тебя.
+
+TAG: MotherGothel_004_f
+{PlayerName}, у тебя действительно нет глаза на красоту, не так ли?
+
+TAG: MotherGothel_006_f
+Ну, не все могут ценить прекрасные вещи.
+
+TAG: MotherGothel_007_f
+Тем не менее, вы должны помнить, что в каждой части Долины есть один или два конкретных типа цветов...
+

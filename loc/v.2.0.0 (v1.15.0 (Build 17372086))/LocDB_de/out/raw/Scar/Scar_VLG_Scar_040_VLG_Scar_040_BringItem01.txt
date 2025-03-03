@@ -1,0 +1,69 @@
+TAG: Scar_000_f
+Enjoy, {PlayerName}...
+
+TAG: Scar_001_f
+Argh! Nothing!
+
+TAG: Scar_002_f
+Once again, I'm denied what's mine!
+
+TAG: Scar_003_f
+It should have worked! Where is it?
+
+TAG: Player_000_choice_000_f
+Uh... what's going on?
+
+TAG: Player_000_choice_002_f
+I KNEW IT! You were plotting something!
+
+TAG: Scar_004_f
+You still haven't figured it out, have you? I had an ulterior motive for inviting you here.
+
+TAG: Scar_005_f
+No point in avoiding it now...
+
+TAG: Scar_007_f
+There's a... trinket I've been looking for.
+
+TAG: Scar_008_f
+You hid it from me, long ago. Another one of your lessons.
+
+TAG: Player_001_choice_000_f
+I did that?
+
+TAG: Player_001_choice_001_f
+Doesn't sound like me...
+
+TAG: Player_001_choice_002_f
+Are you sure you haven't just lost it?
+
+TAG: Scar_009_f
+Before you left the first time. You wanted to teach me a lesson...
+
+TAG: Scar_012_f
+*sigh* You said...
+
+TAG: Scar_018_f
+<Lore>"Good rulers care for everyone, from the tallest to the smallest. They invite everyone to the table."</Lore>
+
+TAG: Scar_013_f
+You told me that my stolen trinket would be returned when I understood the meaning of those words.
+
+TAG: Scar_014_f
+I hoped if we shared a meal, it would break your silly little curse. But I was wrong...
+
+TAG: Scar_019_f
+I'm going to talk to Merlin. He probably helped me cast the enchantment. Maybe he can help me break it.
+
+TAG: Scar_016_f
+That old windbag does delight in being a know-it-all.
+
+TAG: Scar_010_f
+You still don't remember, do you? You stole it from me to teach me a lesson...
+
+TAG: Scar_011_f
+No! Unlike you, I remember when you stole it from me. You wanted to teach me a lesson...
+
+TAG: Scar_006_f
+*sigh* Yes, {PlayerName}, how astute. You've ascertained my ulterior motive. Very good.
+

@@ -1,0 +1,30 @@
+TAG: Jasmine_000_f
+{PlayerName}, you did it! I'm so happy the Magic Carpet's safe again. Thank you!
+
+TAG: Player_001_choice_000_f
+Easy as pie.
+
+TAG: Player_001_choice_001_f
+We all did it â together!
+
+TAG: Player_001_choice_002_f
+Agrabah will be back to normal soon!
+
+TAG: Jasmine_009_f
+Perhaps for you. I know it was a difficult task.
+
+TAG: Jasmine_012_f
+Now we only have the Windcaller to deal with.
+
+TAG: Jasmine_013_f
+I think you should work with Aladdin on that. Though the way's been cleared, I'm sure the winds up high are intense, and Aladdin's a much more experienced flyer than I am.
+
+TAG: Jasmine_014_f
+The three of you will have to <Lore>head up to the top of the wind swirl</Lore>, and then hopefully we can put an end to this whole mess.
+
+TAG: Jasmine_010_f
+You're right. Things are always easier when you have friends to help out.
+
+TAG: Jasmine_011_f
+And I can't wait to tell the residents of Agrabah that it's safe to return to their homes.
+

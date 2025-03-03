@@ -1,0 +1,49 @@
+
+l
+Kristoff_000_fZYou want me to tell you about my adventures with Donald Duck when the Forgetting happened?
+D
+Kristoff_001_f2Uh... well, it really wasn't much of an adventure.
+~
+Kristoff_002_flWe camped out on the Sunlit Plateau for a while until the Giant Night Thorns started to creep up everywhere.
+^
+Kristoff_003_fLThen Donald saw something that got him really mad, and he tried to fight it.
+:
+Kristoff_004_f(Right! The huge dragon he told me about!
+Y
+Kristoff_005_fGDragon?! Not exactly. He just saw a shadow and thought it was a dragon.
+'
+Kristoff_006_fIt was a hummingbird.
+9
+Player_000_f)Donald got in a fight with a hummingbird?
+4
+Player_000_choice_000_fThat's not very heroic...
+<
+Player_000_choice_001_f!Hummingbirds can be pretty scary.
+.
+Player_000_choice_002_fWhat happened next?
+b
+Kristoff_007_fPLike I told you, it wasn't much of an adventure. We just kind of... hung around.
+=
+Kristoff_008_f+After that, we went to the Forgotten Lands.
+b
+Kristoff_009_fPThat's where the ground opened up and a giant sea monster grabbed Donald, right?
+s
+Kristoff_010_faUh... no. Donald stepped in a puddle and splashed water everywhere. Then a frog jumped out at us.
+D
+Player_001_choice_000_f)Definitely a frog...? Not a cool monster?
+#
+Player_001_choice_001_fYeesh...
+X
+Kristoff_011_fFSorry, {PlayerName}. I wish I had something more exciting to tell you.
+]
+Kristoff_012_fKAfter that, we went to the Forest of Valor, and... well, you know the rest.
+Y
+Kristoff_013_fGI'm guessing Donald's version of the story sounded a lot more dramatic.
+m
+Kristoff_014_f[But you should talk to Donald. I bet he'll make it sound a lot more heroic than I just did.
+i
+Kristoff_015_fWDonald stepped in a puddle and splashed water everywhere. Then a frog jumped out at us.
+
+Kristoff_016_foGuess I haven't met the right kind of hummingbirds. Anyway, like I said, it really wasn't much of an adventure.
+G
+Kristoff_017_f5It was just a shadow, but he thought it was a dragon.

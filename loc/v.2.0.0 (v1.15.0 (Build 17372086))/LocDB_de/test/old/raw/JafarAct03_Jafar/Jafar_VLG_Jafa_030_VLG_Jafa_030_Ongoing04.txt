@@ -1,0 +1,9 @@
+TAG: Jafar_000_f
+Как дела, дорогой Освальд?
+
+TAG: Jafar_001_f
+Похоже, он под погодой. Я принесу ему немного <ActivityItem>Poutine</ActivityItem>, чтобы он почувствовал себя лучше.
+
+TAG: Jafar_002_f
+Желаю тебе удачи, {PlayerName}.
+

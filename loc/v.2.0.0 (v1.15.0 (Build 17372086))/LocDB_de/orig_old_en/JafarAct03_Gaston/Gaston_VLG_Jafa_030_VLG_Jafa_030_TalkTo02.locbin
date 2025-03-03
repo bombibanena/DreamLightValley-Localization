@@ -1,0 +1,43 @@
+
+6
+Gaston_001_f&Hey Gaston, how are you feeling today?
+B
+Gaston_016_f2I spoke with Rapunzel and she seemed... kinda off.
+V
+Gaston_002_fF<i>How unfortunate. Personally, I feel like a paragon of vitality!</i>
+ 
+Gaston_003_fExcuse me, what?
+{
+Gaston_004_fk<i>I am infused with exuberance! I revel in exertion! Behold, the manly perspiration that dots my brow!</i>
+Q
+Gaston_005_fAI'm glad for you. Unfortunately, Oswald's been under the weather.
+x
+Gaston_006_fh<i>Perhaps he should seek a medicinal remedy from Jafar. I hear his alchemical skills are unmatched!</i>
+R
+Gaston_008_fB<i>I am sure creating a simple tonic would not tax him unduly.</i>
+;
+Player_000_choice_000_f Your vocabulary seems different.
+B
+Player_000_choice_001_f'I already tried bringing him some food.
+S
+Gaston_009_fC<i>Oh... Am I not permitted to improve my communication skills?</i>
+(
+Gaston_010_fNo, of course you are...
+,
+Gaston_012_fIt just seems weird for you.
+;
+Gaston_015_f+Okay, this conversation is going strangely.
+@
+Gaston_019_f0I think I'm going to continue on with my survey.
+<
+Gaston_020_f,<i>But of course. Goodbye, {PlayerName}.</i>
+*
+Gaston_011_fBut it didn't really help.
+X
+Gaston_013_fH<i>One hopes he is not taking notes from that foul floating machine!</i>
+=
+Gaston_014_f-<i>Her aversion to sustenance is uncanny.</i>
+S
+Gaston_017_fCI was talking with Mr. McDuck, and he seems a little strange today.
+S
+Gaston_018_fC<i>Simply stupendous, {PlayerName}! I am a paragon of vitality!</i>

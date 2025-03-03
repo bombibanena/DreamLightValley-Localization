@@ -1,0 +1,64 @@
+
+1
+Beast_000_f"Hey, you're looking chipper today!
+H
+Beast_001_f9It is a pleasant day. It's nice to see you, {PlayerName}.
+A
+Beast_002_f2Well, that's a lovely change! What's on your mind?
+R
+Beast_003_fCI have an idea for a project of sorts. Do you think you could help?
+ 
+Player_000_choice_000_fSure!
+H
+Player_000_choice_001_f-Not at the moment, but I can come back later!
+
+Beast_004_f
+Thank you.
+'
+Beast_005_fSo what's this big idea?
+�
+Beast_006_f~I've noticed something missing from the Valley â there are many lovely flowers here, but one important flower is missing.
+"
+Beast_007_fThere are no roses.
+I
+Player_001_choice_000_f.You're right; I've never realized that before!
+M
+Player_001_choice_001_f2Yeah, it's been bugging me that we don't have any.
+Y
+Beast_008_fJBut Beast... I'd have thought with your history with the enchanted rose...
+*
+Beast_009_fThat I might not like them?
+#
+Player_002_choice_000_fExactly!
+7
+Player_002_choice_001_fThat's putting it lightly...
+S
+Beast_010_fDWell, yes... There is one rose that is difficult for me to speak of.
+�
+Beast_011_f�But ever since Belle came into my life, roses have changed from a symbol of my misfortune to a symbol of what's growing between us.
+.
+Player_003_choice_000_fThat's so romantic!
+F
+Player_003_choice_001_f+That's very... emotionally balanced of you.
+$
+Beast_012_fI... I suppose it is.
+/
+Beast_013_f So what do you need my help for?
+V
+Beast_014_fGWell, I was speaking with Kristoff and... communicating with WALLÂ·E.
+o
+Beast_015_f`It seems that the best way to ensure that roses grow well here is to start them in a greenhouse.
+7
+Beast_016_f(Ahh, and you need my building expertise?
+w
+Beast_017_fhYes. I tried to begin building one myself, but well... my paws are too large for the fine work required.
+�
+Beast_018_f�Kristoff helped by telling me what is needed for a greenhouse â <ActivityItem>Glass</ActivityItem>, <ActivityItem>Dry Wood</ActivityItem>, <ActivityItem>Gold Ingots</ActivityItem>, <ActivityItem>Crystal</ActivityItem>, and <ActivityItem>Soil</ActivityItem>.
+t
+Beast_019_feAnd please, take this frame for the greenhouse â Kristoff was able to help me with that as well.
+,
+Beast_020_fDon't worry â I'm on it.
+2
+Beast_021_f#It is? That... that's good to hear.
+
+Beast_022_fI will be here.

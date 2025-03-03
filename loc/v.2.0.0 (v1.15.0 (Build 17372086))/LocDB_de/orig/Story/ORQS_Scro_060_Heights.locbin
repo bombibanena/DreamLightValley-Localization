@@ -1,0 +1,17 @@
+
+O
+;Story!ORQS_Scro_060_Heights_Any_CompletedRequestDescriptionTalk to Scrooge.
+¸
+0Story!ORQS_Scro_060_Heights_AvailableDescriptionƒNow that the Pillar in the Frosted Heights has been restored, it's time to make the place a little less frigid with some furniture.
+v
+5Story!ORQS_Scro_060_Heights_CompletedStoryDescription=You made the Frosted Heights a little more warm and inviting.
+N
+'Story!ORQS_Scro_060_Heights_DisplayName#Rebuild the Valley: Frosted Heights
+m
+8Story!ORQS_Scro_060_Heights_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+r
+EStory!ORQS_Scro_060_Heights_Group01_Step01_Decorate01_StepDescription)Place {TargetAmount} pieces of furniture.
+[
+:Story!ORQS_Scro_060_Heights_Group01_Step01_StepDescriptionDecorate the Frosted Heights.
+_
+.Story!ORQS_Scro_060_Heights_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,47 @@
+
+�
+6Secret!Mickey!Donald!SEC_Dona_030_AvailableDescription�Вы нашли еще один носок, вам, возможно, придется провести расследование, чтобы выяснить, кому принадлежит этот...
+�
+;Secret!Mickey!Donald!SEC_Dona_030_CompletedStoryDescriptioncВы привезли Стич в долину Мечты и нашли для него место.
+^
+-Secret!Mickey!Donald!SEC_Dona_030_DisplayName-Построен на Уничтожение!
+~
+RSecret!Mickey!Donald!SEC_Dona_030_Group01_Step01_TalkToCharacter01_StepDescription(Поговори с Микки Маус.
+{
+RSecret!Mickey!Donald!SEC_Dona_030_Group01_Step01_TalkToCharacter02_StepDescription%Поговори с Кристофф.
+�
+LSecret!Mickey!Donald!SEC_Dona_030_Group01_Step02_BringItem01_StepDescriptionlУбедитесь, что у вас в списке есть <ActivityItem>Knmd Orange Sock</ActivityItem>.
+f
+ASecret!Mickey!Donald!SEC_Dona_030_Group01_Step02_ReadyDescription!Поговори с Мерлин.
+�
+9Secret!Mickey!Donald!SEC_Dona_030_Group01_StepDescription�Чтобы узнать, кому принадлежит этот носок, тебе, возможно, придется поспрашивать.
+�
+LSecret!Mickey!Donald!SEC_Dona_030_Group02_Step03_VisitArea01_StepDescriptionGНайдите подсказку в библиотеке Мерлин.
+�
+:Secret!Mickey!Donald!SEC_Dona_030_Group02_StoryDescription�Вы обнаруживаете, что кто-то зашил этот носок для Мерлин давным-давно в качестве подарка. Он говорит вам, что что-то крало книги и разрушало его библиотеку. Вы решаете искать внутри больше улик о инопланетянине, который ворует носки.
+�
+ISecret!Mickey!Donald!SEC_Dona_030_Group03_Step04_PickUp01_StepDescriptioniУберите мусор в библиотеке Мерлин, чтобы найти подсказку.
+�
+JSecret!Mickey!Donald!SEC_Dona_030_Group04_Step05_Possess01_StepDescriptionHВы нашли подсказку в библиотеке Мерлин!
+�
+:Secret!Mickey!Donald!SEC_Dona_030_Group04_StoryDescription�Вы нашли таинственный когтя, который что-то осталось в библиотеке Мерлин. Вам придется отнести его на Дональд Дак, чтобы узнать, связано ли это с недостающими носками, синим мехом и странным устройством.
+�
+9Secret!Mickey!Donald!SEC_Dona_030_Group05_StepDescriptionZВозьмите <ActivityItem> Mysterious Claw</ActivityItem> на Дональд Дак.
+�
+KSecret!Mickey!Donald!SEC_Dona_030_Group07_Step08_Decorate01_StepDescription_Поместите <ActivityItem>Homing beacon</ActivityItem> на черепную скалу.
+�
+>Secret!Mickey!Donald!SEC_Dona_030_Group08_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br> Что нам теперь делать?
+�
+RSecret!Mickey!Donald!SEC_Dona_030_Group08_Step09_TalkToCharacter03_StepDescriptionPПоговори с инопланетянином, укравшим носки.
+�
+:Secret!Mickey!Donald!SEC_Dona_030_Group08_StoryDescription�Этот маяк заставил космический корабль обрушиться на остров, и его пилотировал маленький синий парень, который сейчас бегает по острову.
+�
+RSecret!Mickey!Donald!SEC_Dona_030_Group09_Step10_TalkToCharacter04_StepDescription*Поговори с Дональд Дак.
+�
+PSecret!Mickey!Donald!SEC_Dona_030_Group10_Step11_PlaceBuilding01_StepDescription6Место Стич Дом в долине Мечты.
+�
+ISecret!Mickey!Donald!SEC_Dona_030_Group11_Step12_Unlock01_StepDescription�Используйте знак Скрудж Макдак, чтобы оплатить строительство Стич House.
+�
+RSecret!Mickey!Donald!SEC_Dona_030_Group12_Step13_TalkToCharacter05_StepDescriptionMНайди Стич и расскажи ему о его новом доме.
+�
+:Secret!Mickey!Donald!SEC_Dona_030_Group12_StoryDescription�Вы строите дом для Стич, чтобы компенсировать разрушение его космического корабля.

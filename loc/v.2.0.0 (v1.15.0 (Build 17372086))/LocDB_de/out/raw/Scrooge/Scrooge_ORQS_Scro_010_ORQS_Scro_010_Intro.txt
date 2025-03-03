@@ -1,0 +1,30 @@
+TAG: Scrooge_000_f
+Ah, the Meadow is lookin' much better thanks to you.
+
+TAG: Scrooge_001_f
+Though, it could still use a bit more polish.
+
+TAG: Scrooge_002_f
+Of course, with your ingenuity, I'm sure you'll make the Meadow a world-class travel destination in no time.
+
+TAG: Player_000_f
+Don't worry. I'll decorate the Meadow to look...
+
+TAG: Player_000_choice_000_f
+...expensive and extravagant.
+
+TAG: Player_000_choice_001_f
+...chic and modern.
+
+TAG: Player_000_choice_002_f
+...cute and cozy.
+
+TAG: Scrooge_004_f
+An entrepreneur after me own heart!
+
+TAG: Scrooge_006_f
+Just remember to make it 110% {PlayerName}. Oh, and come have a gander at me wares if you're in need of more furniture. Enjoy decorating!
+
+TAG: Scrooge_005_f
+I trust you'll do a grand job!
+

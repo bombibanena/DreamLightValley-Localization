@@ -1,0 +1,34 @@
+
+J
+Jasmine_000_f9Okay Jasmine, I have the lamp, all ready to be enchanted!
+
+Jasmine_001_f
+Marvelous!
+q
+Jasmine_002_f`Are you sure you aren't a genie, {PlayerName}? You're certainly making all our wishes come true!
+N
+Player_000_choice_000_f3Nah, I don't do well with itty-bitty living spaces.
+Q
+Player_000_choice_001_f6Phenomenal cosmic powers? More like Dreamlight powers.
+N
+Player_000_choice_002_f3Kind of. But not exactly. Let's say genie-adjacent.
+(
+Jasmine_003_fHmm... Sounds familiar.
+`
+Jasmine_006_fOIt turns out genie magic is going to help us. I've translated more of the Tome!
+ï
+Jasmine_012_fÉIt says we need wish magic, and it explains that every time a genie grants a wish, there's a chance of a magical remnant or "echo."
+ì
+Jasmine_007_fÅIf we can find remnants of the wishes that Aladdin made, we can use them to enchant the <ActivityItem>Golden Lamp</ActivityItem>!
+7
+Jasmine_009_f&The question is ‚Äî how do we do that?
+N
+Jasmine_010_f=Hmm, sounds like it might be a job for some Dreamlight Magic!
+L
+Jasmine_011_f;Oh, I didn't know you had that sort of power, {PlayerName}!
+k
+Jasmine_008_fZWhy don't you <Lore>talk to Aladdin</Lore>? He can tell you more about the wishes he made.
+d
+Jasmine_004_fSWell, I am glad for your powers ‚Äî without them, this would be far more difficult.
+;
+Jasmine_005_f*Hmm... Perhaps you can explain more later.

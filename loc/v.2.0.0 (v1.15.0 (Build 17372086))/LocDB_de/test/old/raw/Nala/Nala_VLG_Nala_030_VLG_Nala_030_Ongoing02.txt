@@ -1,0 +1,12 @@
+TAG: Nala_001_f
+Нам нужно <Lore>get рыбы для Моана, Реми и Дональд Дак</Lore>.
+
+TAG: Nala_002_f
+Моана хочет <ActivityItem>Swordfish</ActivityItem>.
+
+TAG: Nala_003_f
+Реми ищет <ActivityItem>Crab</ActivityItem>.
+
+TAG: Nala_004_f
+И Дональд Дак хочет немного <ActivityItem>Tuna</ActivityItem>.
+

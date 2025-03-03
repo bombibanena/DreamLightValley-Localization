@@ -1,0 +1,59 @@
+
+.
+
+Remy_000_f Oh hey, {PlayerName}! What's up?
+<
+Player_000_f,Let's talk about your passion for cooking...
+2
+Player_000_choice_000_fIt would help me a lot.
+5
+Player_000_choice_001_fWe're doing an experiment.
+-
+Player_000_choice_002_fAnd don't ask why.
+A
+
+Remy_001_f3Of course, {PlayerName}. I love talking about food.
+u
+
+Remy_007_fgSo, as you might have noticed, I'm a rat. And rats aren't usually chefs. Or interested in fine cuisine.
+|
+
+Remy_008_fnBut the first time I tasted a really good meal, I was hooked! And then when I combined my first ingredients...
+€
+
+Remy_009_frThe thrill of discovery. The artistry of combining flavors to create something new. I knew I had found my calling.
+s
+
+Remy_004_feAnd now every time I cook, it's the same feeling all over again. I gotta tell you, it's pretty great.
+v
+Player_001_ffYou did it! You enchanted the <ActivityItem>Stone Slab</ActivityItem> with <Lore>Fiery Passion</Lore>!
++
+Player_001_choice_000_fThank you, Remy!
+Z
+Player_001_choice_001_f?Now, I have to find someone willing to talk about Excitement...
+/
+Player_001_choice_002_fTwo down, two to go.
+"
+
+Remy_002_fSure. Happy to help.
+d
+
+Remy_013_fVNow, I have to find someone willing to talk about <Lore>Exuberant Excitement</Lore>...
+¦
+
+Remy_003_f—Then you definitely need to talk to Moana. She came into my restaurant the other day and was going on and on about what a kick she gets out of sailing.
+.
+
+Remy_011_f Talk to Moana... got it! Thanks!
+Y
+
+Remy_010_fKRight. Hey, whenever magic's involved, I try not to ask too many questions.
+d
+
+Remy_014_fVI just have to find someone willing to talk about <Lore>Exuberant Excitement</Lore>...
+>
+
+Remy_005_f0I'm gonna guess it's not a cooking experiment...
+!
+
+Remy_006_fUh... well, okay...

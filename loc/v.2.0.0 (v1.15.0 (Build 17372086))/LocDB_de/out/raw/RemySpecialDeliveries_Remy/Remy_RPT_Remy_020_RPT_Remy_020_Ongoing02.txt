@@ -1,0 +1,18 @@
+TAG: Remy_001_f
+Have you been able to help Donald yet?
+
+TAG: Remy_002_f
+He's looking for <ActivityItem>5-Star Meals</ActivityItem>.
+
+TAG: Remy_003_f
+It might be a challenge without the recipes, but I know you can handle it, {PlayerName}!
+
+TAG: Remy_004_f
+If you don't know how to make them... improvise! Experiment! Or see if you can find the recipes.
+
+TAG: Remy_005_f
+He's looking for <ActivityItem>Desserts</ActivityItem>.
+
+TAG: Remy_006_f
+He's looking for <ActivityItem>Seafood Meals</ActivityItem>.
+

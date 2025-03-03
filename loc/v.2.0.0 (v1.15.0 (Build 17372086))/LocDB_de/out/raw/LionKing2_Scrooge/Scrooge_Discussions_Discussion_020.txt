@@ -1,0 +1,33 @@
+TAG: Scrooge_000_f
+Aye, and let me give you some financial advice. It'll protect you from the multitude of moochers!
+
+TAG: Player_000_choice_000_f
+Please! I need it.
+
+TAG: Player_000_choice_001_f
+I care more about friendship than money.
+
+TAG: Player_000_choice_002_f
+Moochers don't bother me. You can't take it with you.
+
+TAG: Scrooge_002_f
+Invest in being tough! If someone drives a hard bargain...
+
+TAG: Scrooge_004_f
+...drive a HARDER bargain!
+
+TAG: Scrooge_007_f
+You've got to be tougher than the toughies and smarter than the smarties.
+
+TAG: Scrooge_001_f
+Oh aye, the intangibles like friendship, love, adventure, and family are all vital...
+
+TAG: Scrooge_005_f
+But there's no shop that takes "adventure" as payment!
+
+TAG: Scrooge_003_f
+If you dinnae mind moochers, then they willnae mind you!
+
+TAG: Scrooge_006_f
+Soon enough, you won't have a Star Coin to your name.
+

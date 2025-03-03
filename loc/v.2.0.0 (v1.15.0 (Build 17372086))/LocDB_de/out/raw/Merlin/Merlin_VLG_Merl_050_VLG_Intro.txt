@@ -1,0 +1,24 @@
+TAG: Merlin_001_f
+{PlayerName}! I was just thinking of you and how you were sure to appear momentarily.
+
+TAG: Player_001_choice_000_f
+Why were you thinking about me?
+
+TAG: Player_001_choice_002_f
+Let me show you my disappearing trick.
+
+TAG: Merlin_004_f
+Do you recall when I enchanted your Watering Can to remove Mushrooms?
+
+TAG: Merlin_002_f
+I may have found a way to make that enchantment permanent.
+
+TAG: Merlin_003_f
+It's all to do with the <ActivityItem>Purified Night Shards</ActivityItem> we discovered.
+
+TAG: Merlin_005_f
+Once you gather a few Ingredients, I'll show you. We'll need <ActivityItem>Mushrooms</ActivityItem>, <ActivityItem>Emeralds</ActivityItem>, and <ActivityItem>Purified Night Shards</ActivityItem>.
+
+TAG: Merlin_006_f
+Don't wait too long! I've learned a great deal about the <ActivityItem>Purified Night Shard</ActivityItem>!
+

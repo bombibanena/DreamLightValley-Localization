@@ -1,0 +1,81 @@
+
+U
+BVillage!Mickey!Donald!VLG_Dona_040_Any_CompletedRequestDescriptionTalk to Donald.
+í
+7Village!Mickey!Donald!VLG_Dona_040_AvailableDescriptionWDonald found something that could hold the secret to finishing his big Village project.
+ñ
+<Village!Mickey!Donald!VLG_Dona_040_CompletedStoryDescriptionVTogether, you and Donald built a Dreamlight Fountain to spruce up the Forgotten Lands.
+I
+.Village!Mickey!Donald!VLG_Dona_040_DisplayNameThe Dreamlight Fountain
+V
+?Village!Mickey!Donald!VLG_Dona_040_Group01_OngoingRequestButtonWhat were we doing?
+{
+MVillage!Mickey!Donald!VLG_Dona_040_Group01_Step21_BringItem04_StepDescription*Search the campsite on the Sunlit Plateau.
+h
+BVillage!Mickey!Donald!VLG_Dona_040_Group01_Step21_ReadyDescription"Bring what you've found to Donald.
+g
+?Village!Mickey!Donald!VLG_Dona_040_Group02_OngoingRequestButton$I can't remember what we were doing.
+ø
+QVillage!Mickey!Donald!VLG_Dona_040_Group02_Step02_RemoveBlocker01_StepDescriptionjDig around the campsite to find the instructions for the <ActivityItem>Dreamlight Fountain</ActivityItem>.
+R
+?Village!Mickey!Donald!VLG_Dona_040_Group03_OngoingRequestButtonWhat about now?
+z
+SVillage!Mickey!Donald!VLG_Dona_040_Group03_Step03_FollowCharacter02_StepDescription#Meet Donald in the Forgotten Lands.
+R
+?Village!Mickey!Donald!VLG_Dona_040_Group04_OngoingRequestButtonWhat about now?
+Z
+KVillage!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess01_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess02_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess04_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess07_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_040_Group04_Step04_Possess08_StepDescription{ItemName}.
+°
+AVillage!Mickey!Donald!VLG_Dona_040_Group04_Step04_StepDescription\Gather the following materials to make the <ActivityItem>Dreamlight Fountain</ActivityItem>:
+\
+?Village!Mickey!Donald!VLG_Dona_040_Group05_OngoingRequestButtonWhat am I supposed to do?
+~
+JVillage!Mickey!Donald!VLG_Dona_040_Group05_Step05_Unlock01_StepDescription0Pick up the <ActivityItem>Memory</ActivityItem>.
+R
+?Village!Mickey!Donald!VLG_Dona_040_Group10_OngoingRequestButtonWhat about now?
+Ö
+MVillage!Mickey!Donald!VLG_Dona_040_Group10_Step14_BringItem01_StepDescription4Make sure you have the {itemName} in your Inventory.
+e
+BVillage!Mickey!Donald!VLG_Dona_040_Group10_Step14_ReadyDescriptionBring the {itemName} to Donald.
+U
+?Village!Mickey!Donald!VLG_Dona_040_Group11_OngoingRequestButtonWhat are we doing?
+É
+SVillage!Mickey!Donald!VLG_Dona_040_Group11_Step11_TalkToCharacter01_StepDescription,Talk to Donald about what you've discovered.
+R
+?Village!Mickey!Donald!VLG_Dona_040_Group12_OngoingRequestButtonWhat about now?
+f
+MVillage!Mickey!Donald!VLG_Dona_040_Group12_Step12_CraftItem01_StepDescriptionCraft the {ItemName}.
+ì
+;Village!Mickey!Donald!VLG_Dona_040_Group12_StoryDescriptionTYou gather everything you need to craft the fountain. Now you just need to build it.
+Y
+?Village!Mickey!Donald!VLG_Dona_040_Group13_OngoingRequestButtonWhat are we doing now?
+ß
+IVillage!Mickey!Donald!VLG_Dona_040_Group13_Step13_Party01_StepDescriptionZCelebrate the new <ActivityItem>Dreamlight Fountain</ActivityItem> in the Forgotten Lands.
+í
+;Village!Mickey!Donald!VLG_Dona_040_Group13_StoryDescriptionSYou've made the Forgotten Lands a more beautiful place. Now it's time to celebrate.
+R
+?Village!Mickey!Donald!VLG_Dona_040_Group15_OngoingRequestButtonWhat about now?
+£
+LVillage!Mickey!Donald!VLG_Dona_040_Group15_Step15_Decorate02_StepDescriptionSPlace the {ItemName} close to the <ActivityItem>Dreamlight Fountain</ActivityItem>.
+R
+?Village!Mickey!Donald!VLG_Dona_040_Group16_OngoingRequestButtonWhat about now?
+Å
+MVillage!Mickey!Donald!VLG_Dona_040_Group16_Step17_VisitArea01_StepDescription0Find the second campsite in the Forgotten Lands.
+‘
+;Village!Mickey!Donald!VLG_Dona_040_Group16_StoryDescriptionîYou discover that Donald was planning to build a grand fountain to rejuvenate the Forgotten Lands. Now you just need to figure out how to finish it.
+R
+?Village!Mickey!Donald!VLG_Dona_040_Group17_OngoingRequestButtonWhat about now?
+ã
+SVillage!Mickey!Donald!VLG_Dona_040_Group17_Step16_FollowCharacter01_StepDescription4Follow Donald to the campsite on the Sunlit Plateau.
+»
+;Village!Mickey!Donald!VLG_Dona_040_Group17_StoryDescriptionàDonald discovered a campsite on the Sunlit Plateau that may hold some clues about the big project he was planning before the Forgetting.
+f
+5Village!Mickey!Donald!VLG_Dona_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

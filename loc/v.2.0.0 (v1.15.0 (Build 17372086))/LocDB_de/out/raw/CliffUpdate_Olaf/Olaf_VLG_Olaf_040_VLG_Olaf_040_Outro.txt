@@ -1,0 +1,36 @@
+TAG: Olaf_000_f
+Oh, {PlayerName}, we brought joy back to the Valley! So many Villagers came out to see our play!
+
+TAG: Olaf_001_f
+Anna, Buzz, Donald, Samantha...
+
+TAG: Player_000_choice_000_f
+That was so much fun, Olaf!
+
+TAG: Player_000_choice_001_f
+Who's Samantha?
+
+TAG: Olaf_002_f
+I feel like we didn't just tell a story together. We lived one.
+
+TAG: Olaf_003_f
+We did! And I want you to take the stage and all the cutouts we made.
+
+TAG: Olaf_004_f
+Now you can use them to decorate the Village however you'd like!
+
+TAG: Olaf_005_f
+Oh! And I've got something special for you...
+
+TAG: Olaf_006_f
+Before Elsa made me my permafrost, she gave me a flurry to follow me around so I wouldn't melt. And I asked her to make you one just like it!
+
+TAG: Olaf_007_f
+It's a little reminder of me that you can have with you always.
+
+TAG: Olaf_008_f
+I hope we get to tell a lot more stories together, {PlayerName}.
+
+TAG: Olaf_009_f
+... I'm not sure, but I hope she enjoyed the play.
+

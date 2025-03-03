@@ -1,0 +1,51 @@
+
+r
+EVillage!Ratatouille!Remy!VLG_Remy_040_Any_CompletedRequestDescription)Возвращайтесь на Реми.
+p
+:Village!Ratatouille!Remy!VLG_Remy_040_AvailableDescription2Реми заблуждается в мыслях.
+�
+?Village!Ratatouille!Remy!VLG_Remy_040_CompletedStoryDescription�Маленький шеф-повар предлагает объединить новый рецепт с классическим вкусом, чтобы сделать его еще лучше.
+X
+1Village!Ratatouille!Remy!VLG_Remy_040_DisplayName#Неизвестный аромат
+�
+BVillage!Ratatouille!Remy!VLG_Remy_040_Group01_OngoingRequestButtonD<smallcaps>{title}</smallcaps><br> Кого мне спросить?
+�
+VVillage!Ratatouille!Remy!VLG_Remy_040_Group01_Step01_TalkToCharacter01_StepDescription,Попроси Мерлин о помощи.
+�
+>Village!Ratatouille!Remy!VLG_Remy_040_Group01_StoryDescription\Он пытается воссоздать рецепт волшебного десерта.
+�
+NVillage!Ratatouille!Remy!VLG_Remy_040_Group02_Step02_Possess01_StepDescription<Найдите записи Мерлин в его доме.
+�
+>Village!Ratatouille!Remy!VLG_Remy_040_Group02_StoryDescription�Волшебник направляет тебя в свой дом, где он уверен, что ты найдешь что-то, что поможет тебе.
+�
+PVillage!Ratatouille!Remy!VLG_Remy_040_Group03_Step03_BringItem01_StepDescription2Соберите {ItemName} для рецепта.
+�
+EVillage!Ratatouille!Remy!VLG_Remy_040_Group03_Step03_ReadyDescription�Найдите кого-нибудь, кто превратит <ActivityItem>Purificed Night Shard</ActivityItem> в порошок.
+�
+>Village!Ratatouille!Remy!VLG_Remy_040_Group03_StoryDescription~Ты найдешь записку, которая поведет тебя на траекторию ингредиентов.
+�
+BVillage!Ratatouille!Remy!VLG_Remy_040_Group04_OngoingRequestButton><smallcaps>{title}</smallcaps><br> Что мне делать?
+l
+PVillage!Ratatouille!Remy!VLG_Remy_040_Group04_Step04_CraftItem01_StepDescriptionРемень {ItemName}.
+�
+BVillage!Ratatouille!Remy!VLG_Remy_040_Group05_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+p
+EVillage!Ratatouille!Remy!VLG_Remy_040_Group05_Step05_ReadyDescription'Принесите Реми {ItemName}.
+�
+DVillage!Ratatouille!Remy!VLG_Remy_040_Group05_Step05_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
+�
+>Village!Ratatouille!Remy!VLG_Remy_040_Group05_StoryDescription�После воссоздания рецепта ты принесёшь его Реми, чтобы он мог попробовать.
+�
+BVillage!Ratatouille!Remy!VLG_Remy_040_Group07_OngoingRequestButtonJ<smallcaps>{title}</smallcaps><br> Что осталось сделать?
+�
+OVillage!Ratatouille!Remy!VLG_Remy_040_Group07_Step07_CookMeal01_StepDescriptionQПриготовить миску <ActivityItem>Vanilla Ice Cream</ActivityItem>.
+}
+BVillage!Ratatouille!Remy!VLG_Remy_040_Group08_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+]
+NVillage!Ratatouille!Remy!VLG_Remy_040_Group08_Step08_Possess04_StepDescription{ItemName}.
+]
+NVillage!Ratatouille!Remy!VLG_Remy_040_Group08_Step08_Possess05_StepDescription{ItemName}.
+h
+DVillage!Ratatouille!Remy!VLG_Remy_040_Group08_Step08_StepDescription Заполните рецепт:
+i
+8Village!Ratatouille!Remy!VLG_Remy_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

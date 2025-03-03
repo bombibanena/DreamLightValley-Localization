@@ -1,0 +1,30 @@
+TAG: Stitch_000_f
+Okay. Yeah, is scary here. But Stitch not scared.
+
+TAG: Player_000_choice_000_f
+It's okay to admit you're scared.
+
+TAG: Player_000_choice_001_f
+Let's not stay in here too long.
+
+TAG: Player_000_choice_002_f
+I'm not scared one bit.
+
+TAG: Stitch_001_f
+Stitch not scared because {PlayerName} here.
+
+TAG: Stitch_004_f
+Eechi don nooba!
+
+TAG: Stitch_005_f
+Go deeper in cave!
+
+TAG: Stitch_006_f
+Akatoo-keeee!
+
+TAG: Stitch_002_f
+Heh-heh. {PlayerName} scared? It's okay. We meet sea monster then go home. I will protect you.
+
+TAG: Stitch_003_f
+Yeah. Yeah. Not scared!
+

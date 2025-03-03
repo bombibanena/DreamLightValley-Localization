@@ -1,0 +1,54 @@
+TAG: Goofy_000_f
+Howdy, {PlayerName}! It's great to see ya! What are ya up to today?
+
+TAG: Goofy_002_f
+I'm looking for a <ActivityItem>Videotape</ActivityItem>...
+
+TAG: Goofy_003_f
+Gawrsh... I, uh... I suppose Uncle Scrooge sent ya, huh?
+
+TAG: Goofy_004_f
+Actually, he did.
+
+TAG: Goofy_005_f
+I knew it. Ya see, I used to rent lots of action movies back when he offered 'em in his shop, but I wasn't so good at bringin' 'em back.
+
+TAG: Player_000_choice_000_f
+I always forget to return what I borrow.
+
+TAG: Player_000_choice_001_f
+It happens to me sometimes too.
+
+TAG: Player_000_choice_002_f
+It bothers me when people don't return my things.
+
+TAG: Goofy_008_f
+Phew! I'm glad I'm not the only one.
+
+TAG: Goofy_006_f
+The <ActivityItem>Videotape</ActivityItem> I'm looking for is not for Mr. McDuck, though. It's for Monster Movie Night.
+
+TAG: Goofy_001_f
+Hot diggity! Does that mean Sulley's bringin' it back?
+
+TAG: Goofy_009_f
+Yes.
+
+TAG: Goofy_013_f
+Wah-hoo! I sure am glad to hear it!
+
+TAG: Goofy_007_f
+Do you remember the last movie you borrowed?
+
+TAG: Goofy_011_f
+I don't remember the title, but I know it was an action movie with lots of funny parts in it too!
+
+TAG: Goofy_012_f
+Any monsters in it?
+
+TAG: Goofy_014_f
+Nope, not a monster in sight. I gotta put on my thinkin' cap and see if I can remember where it is. Welp, good luck with your Monster Movie search!
+
+TAG: Goofy_010_f
+I understand that, {PlayerName}. And I promise I've been tryin' to be better about rememberin' stuff. I even got a reminder note system now! Hmm... where did I put that notepad...?
+

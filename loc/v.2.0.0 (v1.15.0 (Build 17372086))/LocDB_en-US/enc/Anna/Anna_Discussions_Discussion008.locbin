@@ -1,0 +1,41 @@
+
+5
+
+Anna_000_f'Yes? Do you have a question about them?
+;
+Player_000_choice_000_f Do you have magical heat powers?
+D
+Player_000_choice_001_f)She can make ice. Can she make ice cream?
+;
+Player_000_choice_002_f Do you ever get jealous of them?
+
+
+Anna_001_f
+Ha-ha! No.
+9
+
+Anna_002_f+I'm afraid I don't have any special powers.
+5
+
+Anna_009_f'Unless it's making chocolate disappear.
+'
+
+Anna_010_fI am REALLY good at that.
+
+
+Anna_003_f...
+N
+
+Anna_004_f@No. But I WISH Elsa could make ice cream. That would be amazing!
+E
+
+Anna_005_f7I can see why you might think that, but no. Not at all.
++
+
+Anna_006_fElsa's powers are incredible.
+f
+
+Anna_007_fXBut they're... well, they're a part of her. They're a part of the sister I love so much.
+X
+
+Anna_008_fJIt would be like being jealous of her hair color. We're just... different.

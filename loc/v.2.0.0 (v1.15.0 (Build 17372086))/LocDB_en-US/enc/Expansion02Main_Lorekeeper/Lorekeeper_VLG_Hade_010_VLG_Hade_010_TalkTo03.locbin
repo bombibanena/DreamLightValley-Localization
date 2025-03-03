@@ -1,0 +1,31 @@
+
+t
+Lorekeeper_001_f`Hi, Lorekeeper! I heard from some other Villagers that you might know something about lightning?
+K
+Lorekeeper_002_f7Yes indeed, {PlayerName}. It is a tale from long ago...
+#
+Player_000_choice_000_fDo tell!
+J
+Player_000_choice_001_f/Sorry, I don't have time for stories right now.
+P
+Player_000_choice_002_f5Can we stick with the lightning instructions for now?
+B
+Lorekeeper_003_f.Once upon a time there lived a poor scientist.
+_
+Lorekeeper_004_fKHe longed to pierce the veil of ignorance and bring knowledge to the world!
+
+Lorekeeper_005_fkHe was captivated by electricity and worked day and night to uncover how to harness it for the good of all.
+W
+Lorekeeper_006_fCAlas, his work was destroyed! A rival lied and besmirched his name.
+?
+Lorekeeper_007_f+A true tragedy, but his work lives on here.
+©
+Lorekeeper_000_f”For now, the <ActivityItem>Lightning Generator</ActivityItem> can be found in <Lore>the East wing of the Library of Lore, near a globe model</Lore>.
+|
+Lorekeeper_009_fhThe machine is not powered now, but you can activate it by filling it with <Lore>Lightning Spice</Lore>.
+[
+Lorekeeper_010_fGBut beware... Add more than five and the lightning may become unstable!
+'
+Lorekeeper_011_fThanks, Lorekeeper!
+¡
+Lorekeeper_008_fŒI understand Ã¢Â€Â” all stories must be told in their proper season. As to your immediate needs, there is something nearby that should help.

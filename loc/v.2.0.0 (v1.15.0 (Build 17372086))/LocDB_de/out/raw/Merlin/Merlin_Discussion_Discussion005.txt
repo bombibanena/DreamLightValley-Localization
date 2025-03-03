@@ -1,0 +1,27 @@
+TAG: Merlin_000_f
+Before all of this, Dreamlight Valley was a sight to behold, {PlayerName}.
+
+TAG: Merlin_001_f
+So much to discover... so many interesting people to meet. Every day was an opportunity to learn.
+
+TAG: Player_001_f
+Tell me about...
+
+TAG: Player_001_choice_000_f
+A discovery.
+
+TAG: Player_001_choice_001_f
+The people who lived there.
+
+TAG: Player_001_choice_002_f
+Something I could learn.
+
+TAG: Merlin_002_f
+Oh well, let me see... Ah! The constellations here are very different from anywhere else I've visited. Studying them can be quite fascinating.
+
+TAG: Merlin_003_f
+Princesses, great adventurers, intrepid heroes and vexatious villains... and many more that I've forgotten. Perhaps with your help we'll be able to bring them all back.
+
+TAG: Merlin_004_f
+Let's see... Well, we used to have a restaurant. It was a wonderful place to learn and experiment with cooking, if you like that sort of thing.
+

@@ -1,0 +1,55 @@
+
+b
+KStory!Expansion01!MRQS_E01_180_RapunzelPart_Any_CompletedRequestDescriptionReturn to Rapunzel.
+Î
+@Story!Expansion01!MRQS_E01_180_RapunzelPart_AvailableDescription‰In the East Chamber of the Ancient Ruins, you found some sort of musical notes on the wall. Rapunzel might know what to make of them all.
+±
+EStory!Expansion01!MRQS_E01_180_RapunzelPart_CompletedStoryDescriptionhRapunzel has her voice back. Now she ought to be able to help you descend deeper into the Ancient Ruins.
+N
+7Story!Expansion01!MRQS_E01_180_RapunzelPart_DisplayNameAll the Right Notes
+q
+\Story!Expansion01!MRQS_E01_180_RapunzelPart_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Rapunzel.
+¤
+SStory!Expansion01!MRQS_E01_180_RapunzelPart_Group02_Step02_PickUp01_StepDescriptionMFind <ActivityItem>Mother Gothel's Recipe</ActivityItem> in Rapunzel's Tower.
+•
+DStory!Expansion01!MRQS_E01_180_RapunzelPart_Group02_StoryDescriptionÌRapunzel is happy to help you, but she's been struck by a sore throat at exactly the wrong moment. She suggests you try making her an old recipe that Mother Gothel used to whip up for just such occasions.
+|
+CStory!Expansion01!MRQS_E01_180_RapunzelPart_Group03_StepDescription5Pick up Mother Gothel's Recipe from Rapunzel's Tower.
+‘
+XStory!Expansion01!MRQS_E01_180_RapunzelPart_Group04_Step04_ConsumeItem01_StepDescription5Investigate Mother Gothel's Recipe in your Inventory.
+s
+\Story!Expansion01!MRQS_E01_180_RapunzelPart_Group05_Step05_TalkToCharacter02_StepDescriptionReturn to Rapunzel.
+ƒ
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group06_Step06_StepDescription5Dig up Mother Gothel's Purple Seeds in the Promenade.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess03_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess04_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess05_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess06_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess07_StepDescription{ItemName}.
+|
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_StepDescription.Find all the Ingredients for the soup and tea.
+d
+UStory!Expansion01!MRQS_E01_180_RapunzelPart_Group09_Step09_CookMeal01_StepDescription{ItemName}.
+d
+UStory!Expansion01!MRQS_E01_180_RapunzelPart_Group09_Step09_CookMeal02_StepDescription{ItemName}.
+d
+CStory!Expansion01!MRQS_E01_180_RapunzelPart_Group09_StepDescriptionCook Mother Gothel's recipes:
+e
+VStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_BringItem01_StepDescription{ItemName}.
+e
+VStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_BringItem02_StepDescription{ItemName}.
+r
+KStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_ReadyDescription#Bring the soup and tea to Rapunzel.
+„
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_StepDescription6Make sure you have the soup and tea in your Inventory:
+‹
+XStory!Expansion01!MRQS_E01_180_RapunzelPart_Group11_Step11_Conditional01_StepDescription/Let Rapunzel rest and warm up for five minutes.
+Ž
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group12_Step12_StepDescription@Plant, water and harvest Mother Gothel's Herbs after 20 minutes.
+e
+CStory!Expansion01!MRQS_E01_180_RapunzelPart_Group12_StepDescriptionTend to Mother Gothel's Herbs:

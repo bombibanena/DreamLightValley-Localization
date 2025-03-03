@@ -1,0 +1,87 @@
+
+r
+;Realm!WallE!WallE!RWall_010_Any_CompletedRequestDescription3Посмотри, что думает ВАЛЛ·И.
+�
+0Realm!WallE!WallE!RWall_010_AvailableDescription�В этом Религе есть застенчивый маленький робот, вам нужно заслужить его доверие.
+Y
+8Realm!WallE!WallE!RWall_010_Group01_OngoingRequestButtonЧем могу помочь?
+�
+FRealm!WallE!WallE!RWall_010_Group01_Step01_BringItem01_StepDescriptionhОбыщите королевство, чтобы найти способ починить ВАЛЛ·И.
+k
+;Realm!WallE!WallE!RWall_010_Group01_Step01_ReadyDescription,Вы нашли дорожку ВАЛЛ·И!
+Y
+8Realm!WallE!WallE!RWall_010_Group02_OngoingRequestButtonЧем могу помочь?
+�
+GRealm!WallE!WallE!RWall_010_Group02_Step02_MakeGarden01_StepDescription|Установите специальные семена ВАЛЛ·И и помогите им вырасти в Сомне.
+s
+LRealm!WallE!WallE!RWall_010_Group03_Step03_TalkToCharacter01_StepDescription#Исследуйте ВАЛЛ·Иm.
+�
+LRealm!WallE!WallE!RWall_010_Group04_Step04_TalkToCharacter02_StepDescription3Посмотри, что думает ВАЛЛ·И.
+W
+8Realm!WallE!WallE!RWall_010_Group05_OngoingRequestButtonЧто мне делать?
+�
+LRealm!WallE!WallE!RWall_010_Group05_Step05_TalkToCharacter03_StepDescription@Попросите Мерлин о помощи с ВАЛЛ·И.
+W
+8Realm!WallE!WallE!RWall_010_Group06_OngoingRequestButtonЧто мне делать?
+~
+LRealm!WallE!WallE!RWall_010_Group06_Step06_TalkToCharacter04_StepDescription.Поговори с Скрудж Макдак.
+W
+8Realm!WallE!WallE!RWall_010_Group07_OngoingRequestButtonЧто мне делать?
+�
+FRealm!WallE!WallE!RWall_010_Group07_Step07_BringItem02_StepDescriptionOМой для <ActivityItem>Garnets</ActivityItem> вокруг деревни.
+�
+;Realm!WallE!WallE!RWall_010_Group07_Step07_ReadyDescriptionWПриведите <ActivityItem>Garnets</ActivityItem> на Скрудж Макдак.
+W
+8Realm!WallE!WallE!RWall_010_Group08_OngoingRequestButtonЧто мне делать?
+V
+:Realm!WallE!WallE!RWall_010_Group08_Step08_StepDescriptionПоговорить с:
+d
+LRealm!WallE!WallE!RWall_010_Group08_Step08_TalkToCharacter05_StepDescriptionМикки Маус.
+Y
+LRealm!WallE!WallE!RWall_010_Group08_Step08_TalkToCharacter06_StepDescription	Гуфи.
+W
+8Realm!WallE!WallE!RWall_010_Group09_OngoingRequestButtonЧто мне делать?
+�
+DRealm!WallE!WallE!RWall_010_Group09_Step09_Possess01_StepDescription?Соберите мяч внутри Микки Маус House.
+�
+DRealm!WallE!WallE!RWall_010_Group09_Step09_Possess02_StepDescriptionbРыба: <ActivityItem>Sprout Boot</ActivityItem> из одного из прудов Медоу.
+_
+:Realm!WallE!WallE!RWall_010_Group09_Step09_StepDescription!Соберите эти вещи:
+W
+8Realm!WallE!WallE!RWall_010_Group10_OngoingRequestButtonЧто мне делать?
+y
+FRealm!WallE!WallE!RWall_010_Group10_Step10_BringItem03_StepDescription/<ActivityItem>Fire Extinguisher</ActivityItem>.
+l
+FRealm!WallE!WallE!RWall_010_Group10_Step10_BringItem04_StepDescription"<ActivityItem>Ball</ActivityItem>.
+s
+FRealm!WallE!WallE!RWall_010_Group10_Step10_BringItem05_StepDescription)<ActivityItem>Sprout Boot</ActivityItem>.
+i
+;Realm!WallE!WallE!RWall_010_Group10_Step10_ReadyDescription*Принеси вещи на ВАЛЛ·И.
+�
+:Realm!WallE!WallE!RWall_010_Group10_Step10_StepDescription\Убедитесь, что у вас в списке есть следующие вещи...
+P
+8Realm!WallE!WallE!RWall_010_Group11_OngoingRequestButtonЧто дальше?
+�
+3Realm!WallE!WallE!RWall_010_Group11_StepDescriptionM(Пресс {input_catalog} для доступа к Мебель в дом.)
+P
+8Realm!WallE!WallE!RWall_010_Group12_OngoingRequestButtonЧто дальше?
+�
+3Realm!WallE!WallE!RWall_010_Group12_StepDescription�Используйте знак Скрудж Макдак, чтобы оплатить строительство дома ВАЛЛ·И.
+W
+8Realm!WallE!WallE!RWall_010_Group13_OngoingRequestButtonЧто мне делать?
+�
+LRealm!WallE!WallE!RWall_010_Group13_Step13_UnlockCharacter01_StepDescription[Всё готово для ВАЛЛ·И, добро пожаловать в Виллидж.
+Y
+8Realm!WallE!WallE!RWall_010_Group14_OngoingRequestButtonЧем могу помочь?
+�
+DRealm!WallE!WallE!RWall_010_Group14_Step14_Possess03_StepDescriptionSСоберите мусор, удалив <ActivityItem>Trash Piles</ActivityItem>.
+d
+8Realm!WallE!WallE!RWall_010_Group15_OngoingRequestButton(Что мне теперь делать?
+�
+FRealm!WallE!WallE!RWall_010_Group15_Step15_CraftItem01_StepDescription�Используйте станцию крафтинга, чтобы построить несколько <ActivityItem>Trash Cubes</ActivityItem>.
+d
+8Realm!WallE!WallE!RWall_010_Group16_OngoingRequestButton(Что мне теперь делать?
+�
+;Realm!WallE!WallE!RWall_010_Group16_Step16_ReadyDescriptionLВозьмите <ActivityItem>Trash Cubes</ActivityItem> на ВАЛЛ·И.
+�
+:Realm!WallE!WallE!RWall_010_Group16_Step16_StepDescription�Используйте станцию крафтинга, чтобы построить несколько <ActivityItem>Trash Cubes</ActivityItem>.

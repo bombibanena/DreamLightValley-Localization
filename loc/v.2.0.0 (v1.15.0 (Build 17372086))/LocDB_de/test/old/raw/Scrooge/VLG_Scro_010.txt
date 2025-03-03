@@ -1,0 +1,33 @@
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_Any_CompletedRequestDescription
+Поговори с Скрудж Макдак о своих инвестициях.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_AvailableDescription
+Скрудж Макдак имеет планы для экономики долины Мечты, и они включают тебя.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_CompletedStoryDescription
+Пора узнать, что Скрудж Макдак думает о вашей работе.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_DisplayName
+Экономика долины Мечты 101
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_Group01_Step01_SellItem01_StepDescription
+Продай драгоценности в "Столе" Гуфи.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_Group01_StoryDescription
+Во-первых, он хочет, чтобы ты подтолкнул Гуфи к небольшой работе, продав ему несколько драгоценностей.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_Group02_Step02_TalkToCharacter01_StepDescription
+Скрудж Макдак преподает тебе еще один финансовый урок.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно сделать?
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_Group03_Step03_ExpandHouse01_StepDescription
+Инвестируй в свой дом, используя лифт внутри, чтобы добавить больше места.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_Group03_StoryDescription
+Затем он хочет, чтобы ты усвоил ценный урок о вложении средств в недвижимость, улучшив свой Дом.
+
+TAG: Village!Mickey!Scrooge!VLG_Scro_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

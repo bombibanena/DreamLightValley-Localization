@@ -1,0 +1,6 @@
+TAG: Anna_000_f
+Давайте построим семейство <ActivityItem>Snow</ActivityItem>!
+
+TAG: Anna_003_f
+Нам нужен <ActivityItem>Snow</ActivityItem>, <ActivityItem>Pebbles</ActivityItem>, <ActivityItem>Fabric</ActivityItem>, <ActivityItem>Dry Wood</ActivityItem>, и несколько <ActivityItem>Marrots</ActivityItem> для носов!
+

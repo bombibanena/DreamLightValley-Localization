@@ -1,0 +1,33 @@
+
++
+Sally_002_fOh dear! {PlayerName}, look!
+A
+Sally_003_f2It's... knocked over? And all the compost is gone!
+A
+Sally_004_f2After all our hard work! Who could have done this?
++
+Player_000_choice_000_fA compost demon!
+,
+Player_000_choice_001_fI have no idea...
+7
+Player_000_choice_002_fMaybe a critter got into it?
+g
+Sally_005_fXOh! Do you have demons in Dreamlight Valley, too? Ones that make their homes in compost?
+?
+Sally_006_f0Nah, that was just a joke Ã¢Â€Â” I have no idea.
+*
+Sally_007_fWhat do you think happened?
+;
+Sally_009_f,I wonder if one of the critters got into it.
+e
+Sally_010_fVHmm, so what's our next step, then? We need to do something to secure the Compost Bin.
+›
+Sally_011_f‹Well, if it IS a critter, maybe we should try to trap it so it can be relocated to a part of the Valley where it won't disturb the compost.
+Y
+Sally_012_fJGood idea! I can look into crafting a humane trap for our mystery critter.
+ª
+Sally_013_fšI should probably include some <ActivityItem>Dream Shards</ActivityItem>. A little magic should help the trap resize itself for whatever stumbles into it.
+'
+Sally_014_fGood luck, {PlayerName}!
+ 
+Sally_008_fThat seems right.

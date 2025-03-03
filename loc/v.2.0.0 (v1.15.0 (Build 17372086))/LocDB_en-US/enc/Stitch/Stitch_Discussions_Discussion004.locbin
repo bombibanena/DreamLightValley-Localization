@@ -1,0 +1,60 @@
+
+<
+Stitch_000_f,Stitch need new way to raise goodness level.
+/
+Stitch_001_f{PlayerName}, do you have idea?
+2
+Player_000_choice_000_fGive someone ice cream!
+?
+Player_000_choice_001_f$Help an old person cross the street.
+,
+Player_000_choice_002_fTerrorize a city!
+.
+Stitch_002_fYes! Good idea for being good!
+
+Stitch_003_fWhat flavor?
+#
+Player_001_choice_000_fVanilla.
+%
+Player_001_choice_001_f
+Chocolate.
+&
+Player_001_choice_002_fStrawberry.
+*
+Stitch_008_fMMMM! Stitch like vanilla.
+=
+Stitch_011_f-I will go get vanilla ice cream for everyone!
+.
+Stitch_012_f{PlayerName}'s advice is good.
++
+Stitch_009_fOkay! Lilo loves chocolate!
+?
+Stitch_013_f/I will go get chocolate ice cream for everyone!
+.
+Stitch_010_fStrawberry? Blech! But okay...
+K
+Stitch_014_f;I will go get strawberry ice cream for everyone but Stitch.
+(
+Stitch_004_fOOO! Good idea. But who?
+*
+Player_002_choice_000_fScrooge McDuck?
+)
+Player_002_choice_001_fMother Gothel?
+"
+Player_002_choice_002_fUrsula?
+$
+Stitch_015_fHe's very old. Okay.
+T
+Stitch_016_fDStitch will go find old Scrooge McDuck and carry across street. Bye!
+&
+Stitch_017_fHuh? She not look old.
+S
+Stitch_018_fCHmm... Oh! Merlin is old! I will help him! Thank you, {PlayerName}!
+;
+Stitch_019_f+No. Ursula in water. Stitch not like water.
+<
+Stitch_005_f,Gaba?! No! Not good idea. And not GOOD idea.
+9
+Stitch_006_f)Also no cities here. Need different idea.
+<
+Stitch_007_f,I will go ask Merlin. He's blue like Stitch.

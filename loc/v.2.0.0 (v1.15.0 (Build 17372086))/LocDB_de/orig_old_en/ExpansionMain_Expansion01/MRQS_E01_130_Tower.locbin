@@ -1,0 +1,57 @@
+
+Y
+DStory!Expansion01!MRQS_E01_130_Tower_Any_CompletedRequestDescriptionTalk to Rapunzel.
+ñ
+9Story!Expansion01!MRQS_E01_130_Tower_AvailableDescription³You and Rapunzel head to Rapunzel's Tower, hoping to investigate Mother Gothel's chest of belongings within. Rapunzel seems VERY hesitant to go anywhere near the tower... but why?
+ë
+>Story!Expansion01!MRQS_E01_130_Tower_CompletedStoryDescription¨Once banished, Mother Gothel's sand illusion dropped the Jewel of Time! Behind it, you find the real Gothel's chest of precious treasures with Rapunzel's missing paints inside. You return the paints to a grateful Rapunzel, celebrating the fact that you're one step closer to saving Eternity Isle.
+=
+0Story!Expansion01!MRQS_E01_130_Tower_DisplayName	The Tower
+‚
+WStory!Expansion01!MRQS_E01_130_Tower_Group01_Step01_FollowCharacter01_TalkToDescription'The Grove is blocked! Talk to Rapunzel.
+b
+<Story!Expansion01!MRQS_E01_130_Tower_Group01_StepDescription"Follow Rapunzel towards the tower.
+å
+LStory!Expansion01!MRQS_E01_130_Tower_Group02_Step03_Unlock02_StepDescription”(Search for Mist with your Hourglass, or access the Dreamlight menu and investigate your new <Lore>Mist Duties</Lore> by pressing {input_mainmenu}.)
+d
+<Story!Expansion01!MRQS_E01_130_Tower_Group02_StepDescription$Unlock the Grove in the Wild Tangle.
+{
+WStory!Expansion01!MRQS_E01_130_Tower_Group03_Step04_FollowCharacter02_TalkToDescription Talk to Rapunzel near her tower.
+b
+CStory!Expansion01!MRQS_E01_130_Tower_Group03_Step04_StepDescriptionMeet Rapunzel at her tower.
+€
+MStory!Expansion01!MRQS_E01_130_Tower_Group04_Step05_Possess01_StepDescription/Dig up Vine Seeds on the Plains near the Oasis.
+n
+OStory!Expansion01!MRQS_E01_130_Tower_Group05_Step06_VisitArea01_StepDescriptionReturn to Rapunzel's Tower.
+‰
+SStory!Expansion01!MRQS_E01_130_Tower_Group06_Step07_RemoveBlocker01_StepDescription2Remove the Swirling Sands around Rapunzel's Tower.
+j
+UStory!Expansion01!MRQS_E01_130_Tower_Group06_Step08_TalkToCharacter01_StepDescriptionTalk to Rapunzel.
+[
+<Story!Expansion01!MRQS_E01_130_Tower_Group06_StepDescriptionReturn to Rapunzel's Tower:
+š
+QStory!Expansion01!MRQS_E01_130_Tower_Group07_Step09_FillKeyhole01_StepDescriptionEPut all three Vine Seeds in the soil at the base of Rapunzel's Tower.
+Ä
+=Story!Expansion01!MRQS_E01_130_Tower_Group07_StoryDescription‚Rapunzel believes her tower is cursed, claiming she sees Mother Gothel in the window. Despite her fears, she agrees to accompany you inside to help Eternity Isle. You hatch a plan to grow vines to climb into the tower, and set out to find seeds in the Oasis.
+y
+OStory!Expansion01!MRQS_E01_130_Tower_Group08_Step10_VisitArea02_StepDescription&Enter Rapunzel's Tower using the vine.
+‚
+UStory!Expansion01!MRQS_E01_130_Tower_Group09_Step11_TalkToCharacter02_StepDescription)Swirling Sands inside?! Talk to Rapunzel.
+ƒ
+<Story!Expansion01!MRQS_E01_130_Tower_Group10_StepDescriptionCClear away the Swirling Sands to reach Gothel's Chest in the tower.
+a
+<Story!Expansion01!MRQS_E01_130_Tower_Group11_StepDescription!Confront the Sands with Rapunzel.
+w
+UStory!Expansion01!MRQS_E01_130_Tower_Group12_Step16_TalkToCharacter04_StepDescriptionTalk to Rapunzel in her tower.
+´
+=Story!Expansion01!MRQS_E01_130_Tower_Group12_StoryDescriptionòInside the tower, you see the chaos of Time Anomalies on the loose. You also encounter a strange illusion made of sand that looks and sounds like Mother Gothel! You help Rapunzel confront this illusion with her feelings and watch it dissolve.
+o
+QStory!Expansion01!MRQS_E01_130_Tower_Group13_Step17_Interaction01_StepDescriptionCollect the Jewel of Time.
+t
+<Story!Expansion01!MRQS_E01_130_Tower_Group13_StepDescription4You helped Rapunzel banish the Sands from the tower.
+f
+DStory!Expansion01!MRQS_E01_130_Tower_Group14_Step18_ReadyDescriptionReturn the paints to Rapunzel.
+
+CStory!Expansion01!MRQS_E01_130_Tower_Group14_Step18_StepDescription8Investigate the chest in the corner of Rapunzel's Tower.
+
+<Story!Expansion01!MRQS_E01_130_Tower_Group15_StepDescription?Interact with the tower to grow the vines with Hourglass magic.

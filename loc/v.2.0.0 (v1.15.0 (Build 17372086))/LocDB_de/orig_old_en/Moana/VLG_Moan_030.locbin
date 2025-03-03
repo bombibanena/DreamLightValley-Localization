@@ -1,0 +1,73 @@
+
+R
+5Village!Moana!Moana!VLG_Moan_030_AvailableDescriptionMoana is looking for you.
+t
+DVillage!Moana!Moana!VLG_Moan_030_Choice1_CompletedRequestDescription,Discuss what you've just learned with Moana.
+t
+DVillage!Moana!Moana!VLG_Moan_030_Choice2_CompletedRequestDescription,Discuss what you've just learned with Moana.
+t
+DVillage!Moana!Moana!VLG_Moan_030_Choice3_CompletedRequestDescription,Discuss what you've just learned with Moana.
+ô
+:Village!Moana!Moana!VLG_Moan_030_CompletedStoryDescription[Pua hasn't appeared yet. Maybe Moana can tell you when she expects to see her friend again.
+?
+,Village!Moana!Moana!VLG_Moan_030_DisplayNameThe Remembering
+x
+=Village!Moana!Moana!VLG_Moan_030_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What do I need to do?
+w
+HVillage!Moana!Moana!VLG_Moan_030_Group01_Step01_PickUp01_StepDescription+Remove the Night Thorns from Moana's House.
+å
+9Village!Moana!Moana!VLG_Moan_030_Group01_StoryDescriptionONight Thorns invaded Moana's Fale, and you're the only one who can remove them.
+~
+8Village!Moana!Moana!VLG_Moan_030_Group02_StepDescriptionBA <ActivityItem>Memory</ActivityItem> appeared. See what it holds.
+p
+=Village!Moana!Moana!VLG_Moan_030_Group03_OngoingRequestButton/<smallcaps>{title}</smallcaps><br>What do I do?
+Ç
+8Village!Moana!Moana!VLG_Moan_030_Group03_StepDescriptionFInvestigate the new <ActivityItem>Memory</ActivityItem> that appeared.
+r
+=Village!Moana!Moana!VLG_Moan_030_Group04_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+â
+8Village!Moana!Moana!VLG_Moan_030_Group04_StepDescriptionMAnother piece of Moana's <ActivityItem>Memory</ActivityItem>! Investigate it.
+Y
+=Village!Moana!Moana!VLG_Moan_030_Group05_OngoingRequestButton(Continue Helping Moana)
+ä
+8Village!Moana!Moana!VLG_Moan_030_Group05_StepDescriptionNA fourth piece of Moana's <ActivityItem>Memory</ActivityItem>! Investigate it.
+b
+8Village!Moana!Moana!VLG_Moan_030_Group06_StepDescription&Moana had a breakthrough! Talk to her!
+r
+=Village!Moana!Moana!VLG_Moan_030_Group07_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+|
+KVillage!Moana!Moana!VLG_Moan_030_Group07_Step07_BringItem01_StepDescription-Gather <ActivityItem>Coconuts</ActivityItem>.
+z
+@Village!Moana!Moana!VLG_Moan_030_Group07_Step07_ReadyDescription6Bring Moana the <ActivityItem>Coconuts</ActivityItem>.
+Ò
+9Village!Moana!Moana!VLG_Moan_030_Group07_StoryDescription≥Moana realizes she left her friend Pua in Dreamlight Valley. The little pig must be around somewhere. To lure Pua out of hiding, Moana needs <ActivityItem>Coconuts</ActivityItem>.
+r
+=Village!Moana!Moana!VLG_Moan_030_Group08_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+~
+@Village!Moana!Moana!VLG_Moan_030_Group08_Step08_ReadyDescription:Bring Moana the <ActivityItem>Leader Shard</ActivityItem>.
+å
+?Village!Moana!Moana!VLG_Moan_030_Group08_Step08_StepDescriptionIPick up the <ActivityItem>Leader Shard</ActivityItem> that just appeared.
+é
+9Village!Moana!Moana!VLG_Moan_030_Group08_StoryDescriptionQOnce again, your actions make a <ActivityItem>Leader Shard</ActivityItem> appear.
+z
+=Village!Moana!Moana!VLG_Moan_030_Group09_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What do I need to find?
+ç
+?Village!Moana!Moana!VLG_Moan_030_Group09_Step09_StepDescriptionJFind some of the flowers from Moana's <ActivityItem>Memory</ActivityItem>.
+Œ
+9Village!Moana!Moana!VLG_Moan_030_Group09_StoryDescriptionêThe <ActivityItem>Memory</ActivityItem> that appears after clearing the Night Thorns puts you on the trail of Moana's past in Dreamlight Valley.
+x
+=Village!Moana!Moana!VLG_Moan_030_Group10_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>What do I need to do?
+b
+QVillage!Moana!Moana!VLG_Moan_030_Group10_Step10_TalkToCharacter04_StepDescriptionTalk to Maui.
+r
+=Village!Moana!Moana!VLG_Moan_030_Group11_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+n
+?Village!Moana!Moana!VLG_Moan_030_Group11_Step11_StepDescription+Harvest some fruits in the Forest of Valor.
+c
+QVillage!Moana!Moana!VLG_Moan_030_Group12_Step12_TalkToCharacter02_StepDescriptionTalk to Moana.
+c
+QVillage!Moana!Moana!VLG_Moan_030_Group13_Step13_TalkToCharacter03_StepDescriptionTalk to Moana.
+c
+QVillage!Moana!Moana!VLG_Moan_030_Group14_Step14_TalkToCharacter05_StepDescriptionTalk to Moana.
+d
+3Village!Moana!Moana!VLG_Moan_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

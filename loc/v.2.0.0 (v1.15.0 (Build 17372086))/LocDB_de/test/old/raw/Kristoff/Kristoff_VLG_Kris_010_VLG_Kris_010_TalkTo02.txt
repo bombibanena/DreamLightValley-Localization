@@ -1,0 +1,27 @@
+TAG: Kristoff_000_f
+Отлично выглядишь <ActivityItem>Lye</ActivityItem>, {PlayerName}! Отличная работа.
+
+TAG: Kristoff_001_f
+Ладно, следующий ингредиент, который нам нужен <ActivityItem>Soap</ActivityItem>, это <ActivityItem>Oil</ActivityItem>. Обычно я использую <ActivityItem>Carrot</ActivityItem>.
+
+TAG: Kristoff_002_f
+Давай добавим кое-что еще. у Мауи отличные волосы. мы можем узнать, что он использует.
+
+TAG: Player_000_choice_000_f
+Я спрошу его.
+
+TAG: Player_000_choice_001_f
+Полагаю, это как-то связано с <ActivityItem>Coconuts</ActivityItem>.
+
+TAG: Player_000_choice_002_f
+Он любит говорить о себе, так что будет легко получить информацию.
+
+TAG: Kristoff_003_f
+Спасибо!
+
+TAG: Kristoff_004_f
+В этом есть смысл, но я ничего не знаю о кокосах.
+
+TAG: Kristoff_005_f
+Да... Мауи не совсем застенчив, не так ли?
+

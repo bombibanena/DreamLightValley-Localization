@@ -1,0 +1,17 @@
+
+k
+9Story!ORQS_Scro_020_Beach_Any_CompletedRequestDescription.Поговори с Скрудж Макдак.
+�
+.Story!ORQS_Scro_020_Beach_AvailableDescription�Теперь, когда Столб на пляже Даззл был восстановлен, пришло время развивать эту главную недвижимость на побережье.
+�
+3Story!ORQS_Scro_020_Beach_CompletedStoryDescription�Ты украсил Даззл-Бич и развил кое-какую шикарную недвижимость на побережье.
+a
+%Story!ORQS_Scro_020_Beach_DisplayName8Восстановить долину: Даззл-Бич
+x
+6Story!ORQS_Scro_020_Beach_Group01_OngoingRequestButton><smallcaps>{title}</smallcaps><br> Что мне делать?
+n
+CStory!ORQS_Scro_020_Beach_Group01_Step01_Decorate01_StepDescription'Место {TargetAmount} мебель.
+e
+8Story!ORQS_Scro_020_Beach_Group01_Step01_StepDescription)Прекрасный пляж Даззл.
+]
+,Story!ORQS_Scro_020_Beach_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,117 @@
+TAG: Village!Hercules!Hades!VLG_Hade_020_Any_CompletedRequestDescription
+Talk to Hades about his day of management experiments.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_AvailableDescription
+Once more, the Lord of the Underworld rises in bad temper! Will the brave (and long-suffering) {Playername} be able to quiet this new storm?
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_CompletedStoryDescription
+The sun sets now on this chapter of Hades' job hunt (and on his aspirations as well), proving that under Hades' usually calm demeanor lurk constantly the flames of anger and resentment.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_DisplayName
+Yes, Your Lugubriousness
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to {TargetNPC} about Hades taking over Chez Remy for a day.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem02_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem03_StepDescription
+<ActivityItem>Salt</ActivityItem> from Everafter's waters.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_BringItem05_StepDescription
+{itemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_ReadyDescription
+Bring the Ingredients for the <ActivityItem>Grecian Baked Fish</ActivityItem> to {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group02_Step02_StepDescription
+Make sure you have the Ingredients for the <ActivityItem>Grecian Baked Fish</ActivityItem> in your Inventory.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group03_Step03_StepDescription
+Meet Hades in Chez Remy.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group03_StoryDescription
+Alas, Hades' latest scheme is devoted to conquering the beloved culinary institution of Chez Remy, but will Hades be able to withstand the storm of customers that are sure to come?
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group04_Step04_Listen01_StepDescription
+Listen to Vanellope tell Hades exactly what she thinks of his cooking.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group05_Step05_RemoveBlocker01_StepDescription
+Never pour water on a grease fire! Use the Royal Shovel to put out the flames safely.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group06_Step06_TalkToCharacter02_StepDescription
+Debrief Hades about his experience at Chez Remy's.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_DressUp01_StepDescription
+{Style} clothing.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_DressUp02_StepDescription
+{Color} clothing.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_DressUp03_StepDescription
+{Color} clothing.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group07_Step07_StepDescription
+Dress up as a proper salesperson.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group08_Step08_Listen02_StepDescription
+Listen to Hades' sales pitch to Flynn.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group08_StoryDescription
+When Hades' inflated sense of importance was punctured by the sharp wit of Vanellope, he resolved to make full use of his silver tongue, and through sly entreaties act as a vendor for Ursula's many concoctions.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group09_Step09_TalkToCharacter03_StepDescription
+Talk to Hades about his time as a potion salesman.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group10_Step10_VisitArea02_StepDescription
+Visit Ursula's House to find Hades' wages.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group11_Step11_Possess01_StepDescription
+Pick up and read Ursula's note.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group12_Step12_CatchFish01_StepDescription
+Ursula's note said the wages would be in a soggy place safe from Hades' temper...
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group12_StepDescription
+Find Hades' wages somewhere in the Bind.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group13_Step13_ReadyDescription
+Bring {TargetNPC} his wages (the <ActivityItem>Fire Suppression Potion</ActivityItem>).
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group13_Step13_StepDescription
+Make sure you have Hades' wages (the <ActivityItem>Fire Suppression Potion</ActivityItem>) and <ActivityItem>Ursula's Note</ActivityItem> in your Inventory.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group13_StoryDescription
+Catastrophe descends! Poor Hades, first swindled by Flynn and then mocked by Ursula, the beset-upon deity now tries his final attempt at managerial mastery at Scrooge's Store.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group14_Step14_VisitArea03_StepDescription
+Visit Scrooge McDuck's Store.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group15_Step15_TalkToCharacter04_StepDescription
+Talk to {TargetNPC} about hiring Hades for the day.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group16_Step16_Listen03_StepDescription
+Listen to how Hades handles his first customer.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group17_Step17_RemoveBlocker02_StepDescription
+Save Scrooge McDuck's Store! Extinguish the fire.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group18_Step18_Listen04_StepDescription
+Listen to Scrooge McDuck react to Hades' treatment of his shop.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group19_Step19_VisitArea06_StepDescription
+Return to Scrooge McDuck's Store.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_Group20_Step20_VisitArea05_StepDescription
+Leave Scrooge McDuck's Store and return to the Storybook Vale.
+
+TAG: Village!Hercules!Hades!VLG_Hade_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

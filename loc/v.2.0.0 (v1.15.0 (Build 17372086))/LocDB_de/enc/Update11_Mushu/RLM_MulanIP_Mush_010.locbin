@@ -1,0 +1,63 @@
+
+�
+;Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_AvailableDescription�Вы прибыли в королевство Мулан... впереди военный лагерь; может, вам стоит его изучить.
+M
+2Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_DisplayNameНовый призыв
+�
+ERealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group01_Step01_StepDescription7Исследуйте королевство Мулан.
+�
+URealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step02_RemoveBlocker01_StepDescription2Разбить <ActivityItem>Rocks</ActivityItem>.
+�
+URealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step02_RemoveBlocker02_StepDescription8Найдите <ActivityItem>Rice Spills</ActivityItem>.
+g
+ERealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_Step03_StepDescriptionПереверни котёл.
+Z
+>Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_StepDescriptionУбери лагерь.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group02_StoryDescription�Когда вы вошли в лагерь, вы обнаружили Мушу в месте разрушения, после некоторых первоначальных подозрений, он приходит к выводу, что вы, должно быть, последний призывник, которого он и Мулан ждали, и решаете устроить вас на работу.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group03_Step04_TalkToCharacter02_StepDescription)Возвращайтесь на Мушу.
+`
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem02_StepDescription{itemName}.
+`
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem03_StepDescription{itemName}.
+`
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem04_StepDescription{itemName}.
+`
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_BringItem05_StepDescription{itemName}.
+�
+FRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_ReadyDescription]Принесите текст <ActivityItem> Training Universal</ActivityItem> на Мушу.
+�
+ERealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_Step12_StepDescription�Оглянитесь вокруг Королевства, чтобы найти кусочки вашего <ActivityItem> Training Unim</ActivityItem> и принести их Мушу:
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_StoryDescription�Как только закончишь, возвращаешься к маленькому дракону, который объясняет тебе, что тебе нужно хорошо одеться, чтобы начать тренироваться.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group05_Step07_TalkToCharacter03_StepDescription)Возвращайтесь на Мушу.
+�
+PRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_Step08_CookMeal01_StepDescriptiongПриготовить тарелку <ActivityItem>Мушу's Congee</ActivityItem> для Мулан.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_StoryDescription�Теперь, когда вы хорошо одеты, Мушу требует от вас сделать миску Конджи, чтобы Мулан хорошо позавтракала, когда она проснется.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group07_Step09_Interaction04_StepDescriptionhПозвони гонгу рядом с палаткой Мулан, чтобы разбудить ее.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group07_StoryDescription�Завтрак в руке, ты просыпаешься Мулан, взаимодействуя с гонгом рядом с палаткой.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group08_Step10_Conditional01_StepDescription7Смотри, как Мулан просыпается.
+�
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_Step11_BringItem01_StepDescriptionkУбедитесь, что у вас в списке есть <ActivityItem>Мушу Congee</ActivityItem>.
+�
+FRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_Step11_ReadyDescriptionLПередайте <ActivityItem>Мушу Contgee</ActivityItem> Мулан.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_StoryDescriptionKМулан проснулся, пора позавтракать с ней.
+�
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group10_Step05_DressUp01_StepDescriptionBНадень свою тренировочную униформу.
+~
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group04_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group06_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+~
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group08_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group09_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+~
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_010_Group10_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?

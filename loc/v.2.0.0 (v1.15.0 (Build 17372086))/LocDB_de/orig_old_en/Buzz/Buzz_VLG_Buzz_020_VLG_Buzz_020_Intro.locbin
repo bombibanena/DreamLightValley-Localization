@@ -1,0 +1,44 @@
+
+`
+
+Buzz_000_fR{PlayerName}, are you ready to confront your first threat as a Space Ranger cadet?
+ 
+Player_000_choice_001_fSure.
+U
+Player_000_choice_002_f:Sorry, I'm still reading the training manual. Maybe later.
+«
+
+Buzz_007_fœNow, it's time to confront that sea witch, Ursula. I don't know what hostile waters she comes from, but I know she's planning some sort of nefarious scheme.
+?
+
+Buzz_008_f1We need to put an end to it before it's too late.
+5
+Player_001_choice_000_fNo time to lose. Let's go.
+2
+Player_001_choice_001_fWhat proof do you have?
+X
+Player_001_choice_002_f=Let's not bother Ursula. She'll turn both of us into algae...
+ 
+
+Buzz_009_fThat's the spirit!
+d
+
+Buzz_010_fVWell, she's constantly swimming around the Village trying to cut questionable deals...
+F
+
+Buzz_012_f8And she cackles. In my experience, only villains cackle.
+M
+
+Buzz_013_f?Trust me. She's up to something. And it's up to us to stop her!
+d
+
+Buzz_011_fVHey now, we can't let our fear of danger interfere with our mission, cadet. Follow me!
+”
+
+Buzz_004_f…Excellent. And don't worry, {PlayerName}. It's perfectly normal to be nervous about your first mission. But I'll be right beside you.
+J
+
+Buzz_005_f<Of course, but remember: Training will only take you so far.
+d
+
+Buzz_006_fVAt some point, you have to get out there and take on whatever challenge is facing you.

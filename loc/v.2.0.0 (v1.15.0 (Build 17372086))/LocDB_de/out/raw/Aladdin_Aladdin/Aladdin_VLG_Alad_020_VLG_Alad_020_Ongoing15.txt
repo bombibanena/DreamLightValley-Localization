@@ -1,0 +1,6 @@
+TAG: Aladdin_000_f
+Hey, {PlayerName}! Did ya ask Merlin about how to enchant a carpet to fly?
+
+TAG: Aladdin_002_f
+Oh, no... I still need to talk to him.
+

@@ -1,0 +1,18 @@
+TAG: Jafar_001_f
+Excellent. We may now progress!
+
+TAG: Jafar_007_f
+I've got the <ActivityItem>Iron Dust</ActivityItem>!
+
+TAG: Jafar_002_f
+I have prepared all you shall require. Behold, {PlayerName}...
+
+TAG: Jafar_003_f
+With the correct materials, alchemy is simple â merely the combination of various elements.
+
+TAG: Jafar_005_f
+Combine your alchemical resources in the cauldron, and we shall have our gold!
+
+TAG: Jafar_006_f
+Great, I'll give it a shot!
+

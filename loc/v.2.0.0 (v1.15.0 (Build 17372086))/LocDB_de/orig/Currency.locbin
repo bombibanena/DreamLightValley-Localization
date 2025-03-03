@@ -1,0 +1,99 @@
+
+#
+DaisyCoin_DisplayName
+Daisy Coin
+*
+DaisyCoin_PluralDisplayNameDaisy Coins
+#
+DreamDust_DisplayName
+Dreamlight
+)
+DreamDust_PluralDisplayName
+Dreamlight
+
+Dust_DisplayNameDust
+
+Dust_PluralDisplayNameDust
+
+Gem_DisplayName	Moonstone
+#
+Gem_PluralDisplayName
+Moonstones
+
+Heart_DisplayNameHeart
+!
+Heart_PluralDisplayNameHearts
+
+Mist_DisplayNameMist
+
+Mist_PluralDisplayNameMists
+#
+PixelDust_DisplayName
+Pixel Dust
+)
+PixelDust_PluralDisplayName
+Pixel Dust
+#
+ShardsBoo_DisplayName
+Boo Shards
+)
+ShardsBoo_PluralDisplayName
+Boo Shards
+*
+ShardsBoPeep_DisplayNameBo Peep Shards
+0
+ShardsBoPeep_PluralDisplayNameBo Peep Shards
+4
+ShardsMickeyMouse_DisplayNameMickey Mouse Shards
+:
+#ShardsMickeyMouse_PluralDisplayNameMickey Mouse Shards
+4
+ShardsMinnieMouse_DisplayNameMinnie Mouse Shards
+:
+#ShardsMinnieMouse_PluralDisplayNameMinnie Mouse Shards
+%
+ShardsOlaf_DisplayNameOlaf Shards
++
+ShardsOlaf_PluralDisplayNameOlaf Shards
+)
+ShardsRafiki_DisplayNameRafiki Shards
+/
+ShardsRafiki_PluralDisplayNameRafiki Shards
+'
+ShardsShank_DisplayNameShank Shards
+-
+ShardsShank_PluralDisplayNameShank Shards
+!
+StarCoin_DisplayName	Star Coin
+(
+StarCoin_PluralDisplayName
+Star Coins
+-
+StorybookMagic_DisplayNameStorybook Magic
+3
+ StorybookMagic_PluralDisplayNameStorybook Magic
+
+Ticket_DisplayNameTicket
+#
+Ticket_PluralDisplayNameTickets
+F
+!Transmute!AncientPart_DisplayName!{Placeholder}AncientPart_currency
+8
+'Transmute!AncientPart_PluralDisplayNameAncient Parts
+8
+Transmute!Core_DisplayName{Placeholder}Core_currency
+)
+ Transmute!Core_PluralDisplayNameCores
+8
+Transmute!Gift_DisplayName{Placeholder}Gift_currency
+)
+ Transmute!Gift_PluralDisplayNameGifts
+:
+Transmute!Shard_DisplayName{Placeholder}Shard_currency
++
+!Transmute!Shard_PluralDisplayNameShards
+#
+WishToken_DisplayName
+Wish Token
+*
+WishToken_PluralDisplayNameWish Tokens

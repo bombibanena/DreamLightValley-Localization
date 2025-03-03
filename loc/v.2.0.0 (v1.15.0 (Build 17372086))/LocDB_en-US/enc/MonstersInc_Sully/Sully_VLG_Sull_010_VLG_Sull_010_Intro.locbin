@@ -1,0 +1,44 @@
+
+
+Sully_001_frHey, {PlayerName}, you're just who I was lookin' for! There's a project I wanna tell you about. Do you have a sec?
+7
+Player_000_choice_000_fOf course. What is it about?
+)
+Player_000_choice_002_fNot right now.
+ƒ
+Sully_003_ftHave I told you about Monster Movie Night? What am I sayin' Ã¢Â€Â” of course I haven't. I just remembered it myself!
+˜
+Sully_000_fˆIt's pretty simple. Mike and I used to pick one of those monster movies you humans love to make, and we'd watch it with all our friends.
+
+Player_001_fIt sounds...
+&
+Player_001_choice_000_f...awesome!
+3
+Player_001_choice_001_f...like it could be fun.
+/
+Player_001_choice_002_f...too scary for me.
+O
+Sully_005_f@I'm glad you think so, because I'd really like to bring it back.
+Y
+Sully_008_fJI used to rent the movies from Mr. McDuck, but when I went to the store...
+0
+Sully_009_f!There weren't any videos to rent.
+'
+Sully_010_fWhat did Mr. McDuck say?
+
+Sully_011_f
+Nothing...
+,
+Sully_012_fHe was with another customer.
+J
+Sully_013_f;Mr. McDuck always looks so busy. I didn't wanna bother him.
+Y
+Sully_014_fJHe's never too busy when it comes to friends or business! I'll go ask him.
+9
+Sully_015_f*That would be great! Thanks, {PlayerName}.
+M
+Sully_006_f>It was. Even if the movie was bad, we always had a great time.
+’
+Sully_007_f‚Aw, don't worry. Not all of 'em were scary. We watched a different genre each time: horror, comedy... even a monster romance once.
+?
+Sully_004_f0No problem. Come find me when ya have some time.

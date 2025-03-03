@@ -1,0 +1,6 @@
+TAG: Mickey_001_f
+Дейзи возвращается в Долину!
+
+TAG: Mickey_002_f
+Не могли бы вы убедиться, что <ActivityItem>House</ActivityItem> готовы для нее, {PlayerName}?
+

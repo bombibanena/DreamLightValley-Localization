@@ -1,0 +1,21 @@
+TAG: Merlin_000_f
+Ah, {PlayerName}, you've returned. Were you able to close some of the rifts around the Isle?
+
+TAG: Player_000_f
+We closed a few rifts.
+
+TAG: Player_000_choice_000_f
+Imagination really IS powerful.
+
+TAG: Player_000_choice_001_f
+I think it'll take more than imagination to stop Jafar though.
+
+TAG: Merlin_001_f
+That it is. And I've no doubt it's the key to stopping Jafar.
+
+TAG: Merlin_002_f
+We must return to the palace at once. <Lore>Follow me</Lore>!
+
+TAG: Merlin_003_f
+Don't be so sure. I sense you've tapped into one of the most powerful magics of all.
+

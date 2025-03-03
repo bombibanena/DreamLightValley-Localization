@@ -1,0 +1,72 @@
+TAG: Remy_000_f
+Do you know how many different kinds of cooks there are?
+
+TAG: Remy_001_f
+You've got sous chefs, sauciers, pastry chefs... The list goes on!
+
+TAG: Player_000_choice_000_f
+What's a sous chef?
+
+TAG: Player_000_choice_001_f
+What's a saucier?
+
+TAG: Player_000_choice_002_f
+Do pastry chefs only make pastries?
+
+TAG: Remy_002_f
+Oh, a sous chef is very important! They're responsible for the kitchen when the chef's not around.
+
+TAG: Remy_005_f
+A sous chef has to know how everything works.
+
+TAG: Player_001_choice_000_f
+That sounds hard.
+
+TAG: Player_001_choice_001_f
+I bet I could do that.
+
+TAG: Remy_006_f
+It is, so you need someone who's extremely qualified.
+
+TAG: Remy_008_f
+When you were in Paris, you were my sous chef!
+
+TAG: Remy_007_f
+You've already done it!
+
+TAG: Remy_003_f
+Just what it sounds like! They're a chef who's entirely in charge of sauces.
+
+TAG: Player_002_choice_000_f
+I love sauces!
+
+TAG: Player_002_choice_001_f
+That doesn't sound very important.
+
+TAG: Remy_009_f
+You should!
+
+TAG: Remy_011_f
+A good sauce can make or break a dish.
+
+TAG: Remy_010_f
+Oh, but it is! Sauces can add a finishing touch, or infuse an entire dish with flavor.
+
+TAG: Remy_004_f
+Yes. But there's no such thing as "only" a pastry. Pastries are very important.
+
+TAG: Remy_012_f
+Dessert is a customer's final experience with the restaurant.
+
+TAG: Player_003_choice_000_f
+A last chance to make a good impression.
+
+TAG: Player_003_choice_001_f
+I love dessert.
+
+TAG: Remy_013_f
+Exactly. You get it.
+
+TAG: Remy_014_f
+You and most of Paris! Which is why pastry chefs are so important.
+

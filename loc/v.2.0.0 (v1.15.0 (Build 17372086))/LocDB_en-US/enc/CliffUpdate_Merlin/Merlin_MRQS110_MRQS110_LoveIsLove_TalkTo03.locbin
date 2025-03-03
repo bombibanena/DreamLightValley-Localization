@@ -1,0 +1,39 @@
+
+[
+Merlin_000_fKAh, {PlayerName}! Tell me: What did you find at the center of the blizzard?
+Œ
+Merlin_001_f|I found a secret chamber full of strange magical experiments. I think that I must have made it back before the Forgetting...
+=
+Merlin_002_f-How curious. I wonder what purpose it served.
+<
+Merlin_003_f,Oh, and that's not all. I found Olaf inside!
+t
+Merlin_004_fdOlaf! Oh, wonderful! Was the loquacious little snowman helpful in sorting out our magical conundrum?
+=
+Player_000_choice_000_f"Yes! He's helping me find the Orb.
+U
+Player_000_choice_001_f:I'm not sure yet. I need some more help with this mystery.
+P
+Player_000_choice_002_f5Not really. He got me to chase some squirrels around.
+i
+Merlin_005_fYBrilliant! I've always known that Olaf possesses unexpected wisdom. What did he tell you?
+z
+Merlin_006_fjOlaf's arms are missing. He says that the last thing he remembers is that they were holding on to the Orb.
+g
+Merlin_007_fWBut he doesn't know where to find them. He said something about... water having memory?
++
+Merlin_008_fHe's quite right, you know.
+‹
+Merlin_009_f{That was one of the powers your Royal Watering Can used to have. It could <Lore>draw out the memories held by water</Lore>.
+¤
+Merlin_010_f“Do you think my Watering Can still has that power...? Maybe we could find out exactly what happened to the Orb. But I wouldn't know where to start.
+„
+Merlin_011_ftIt's always best to start off where something has begun. <Lore>Investigate the Pillar in the Frosted Heights.</Lore>
+Œ
+Merlin_012_f|Hold out your Watering Can and <Lore>focus your magic</Lore>. If there's anything to be found, that should help you find it.
+d
+Merlin_013_fTWell, I've always known that Olaf possesses unexpected wisdom. What did he tell you?
+v
+Merlin_014_ffOh dear. That's not the best use of time when a magical blizzard is threatening to destroy the Valley.
+
+Merlin_015_foStill, I've always known that Olaf possesses unexpected wisdom. Surely he said something that could be of help?

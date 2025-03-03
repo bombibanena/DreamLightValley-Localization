@@ -1,0 +1,48 @@
+TAG: Elsa_000_f
+You're trying to restore Kristoff's memory? I was hoping to talk to you about that!
+
+TAG: Elsa_001_f
+Anna's so sad. I have to do something to help her.
+
+TAG: Elsa_002_f
+I spoke to Merlin, and he suggested a spell that might help. It's not really my kind of magic, but I know that you're good with spells.
+
+TAG: Elsa_003_f
+Though it seems like a bit of a tricky enchantment.
+
+TAG: Player_001_choice_000_f
+I know we can do this!
+
+TAG: Player_001_choice_001_f
+I don't want to try anything that might be dangerous.
+
+TAG: Elsa_012_f
+So do I. Let's get to work...
+
+TAG: Elsa_014_f
+We'll need to take an important memory that I share with Kristoff.
+
+TAG: Elsa_015_f
+Then we'll enchant a block of ice to put a memory inside.
+
+TAG: Elsa_004_f
+I can make the ice. But the enchantment is Dreamlight Magic. You'll have to take care of that, {PlayerName}.
+
+TAG: Elsa_005_f
+No problem. What do we need for the spell?
+
+TAG: Elsa_016_f
+We'll need some water. <ActivityItem>Swamp Water</ActivityItem>, to be more specific.
+
+TAG: Elsa_017_f
+You should check the <Lore>Glade of Trust</Lore> for that.
+
+TAG: Elsa_018_f
+Then we'll need something from the earth to focus the spell. Try mining some <ActivityItem>Aquamarines</ActivityItem>.
+
+TAG: Elsa_019_f
+I'll be back as soon as I've got everything we need!
+
+TAG: Elsa_013_f
+Don't worry. If we work together, we'll be fine.
+

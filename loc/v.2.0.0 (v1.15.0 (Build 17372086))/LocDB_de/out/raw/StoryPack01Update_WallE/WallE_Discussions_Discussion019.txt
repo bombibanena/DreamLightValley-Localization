@@ -1,0 +1,66 @@
+TAG: WallE_000_f
+Ooh! Ooh!
+
+TAG: WallE_001_f
+You're... moving your arms? Are you pretending that you're swimming?
+
+TAG: WallE_002_f
+WALLÂ·E!
+
+TAG: Player_000_choice_000_f
+A match for Ursula?
+
+TAG: Player_000_choice_001_f
+A match for Ariel?
+
+TAG: WallE_003_f
+No!
+
+TAG: WallE_004_f
+Must be Ariel then.
+
+TAG: WallE_005_f
+Who did you want to match with her?
+
+TAG: WallE_006_f
+Uh... uh... oh!
+
+TAG: WallE_007_f
+Hmm... is that a rowing motion now?
+
+TAG: WallE_008_f
+*whistle*
+
+TAG: Player_001_choice_000_f
+... Maui?
+
+TAG: Player_001_choice_001_f
+... Prince Eric?
+
+TAG: WallE_009_f
+Whew!
+
+TAG: WallE_010_f
+Maui's a great guy, but Ariel is already in love with Prince Eric!
+
+TAG: WallE_011_f
+Oh...
+
+TAG: WallE_012_f
+It's okay, WALLÂ·E. You'll come up with a good pairing next time!
+
+TAG: WallE_013_f
+Ta-da!
+
+TAG: WallE_014_f
+WALLÂ·E, they're already together!
+
+TAG: WallE_015_f
+Oh...
+
+TAG: WallE_016_f
+Don't be sad â you clearly have an eye for compatibility!
+
+TAG: WallE_017_f
+Whoopee!
+

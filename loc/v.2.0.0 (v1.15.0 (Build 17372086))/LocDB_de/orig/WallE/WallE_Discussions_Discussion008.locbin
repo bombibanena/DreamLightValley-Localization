@@ -1,0 +1,29 @@
+
+ 
+WallE_000_fYoo-hoo! WALL·E!
+8
+WallE_001_f)What's that, WALL·E? Oh, it's a toaster.
+!
+WallE_002_fHuh? ... Ooh! Ooh!
+_
+WallE_003_fPYeah, those are the dials. You turn them to set how toasted you want your toast.
+f
+WallE_004_fWWait. You probably don't know what toast is. Toast is bread that you cook and then eat.
+
+WallE_005_fUhh...
+8
+Player_000_f(Bread is human food. It gives us energy.
+<
+Player_000_choice_000_f!Like you get energy from the sun!
+@
+Player_000_choice_001_f%It's great with jam or peanut butter.
+G
+Player_000_choice_002_f,It's an essential part of any good sandwich.
+
+WallE_006_fOoh!
+
+WallE_007_fTa-da!
+
+WallE_008_fWhoa!
+
+WallE_010_fWhoa!

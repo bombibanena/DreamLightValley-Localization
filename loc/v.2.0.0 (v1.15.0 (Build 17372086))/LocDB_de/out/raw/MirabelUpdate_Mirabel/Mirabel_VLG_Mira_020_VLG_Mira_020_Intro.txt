@@ -1,0 +1,69 @@
+TAG: Mirabel_000_f
+{PlayerName}, I'm sorry to bother you but I think...
+
+TAG: Mirabel_001_f
+Well, I think the Forgetting took a memory from me. An important one. And I could use some help getting it back.
+
+TAG: Player_000_choice_000_f
+Oh no, what was it?
+
+TAG: Player_000_choice_001_f
+I promise I'll help you, but not right now.
+
+TAG: Mirabel_002_f
+It's a recipe. You see, I was thinking that since we're back in the Village, and more and more people are coming back to the Valley...
+
+TAG: Mirabel_003_f
+...that calls for a celebration! And I have the perfect food for it. <ActivityItem>BuÃ±uelos</ActivityItem>!
+
+TAG: Mirabel_004_f
+Except, I can't remember the recipe to give to Remy. I can barely even remember what they taste like.
+
+TAG: Mirabel_005_f
+No matter how hard I concentrate, there's nothing but emptiness in my head where it was supposed to be.
+
+TAG: Mirabel_006_f
+Like it's been erased or taken... somehow.
+
+TAG: Mirabel_007_f
+And it's my mamÃ¡'s recipe. Losing it is like losing a part of me.
+
+TAG: Player_001_choice_000_f
+I'm sure we can find it together!
+
+TAG: Player_001_choice_001_f
+You don't remember anything about it?
+
+TAG: Player_001_choice_002_f
+Are you sure you're not just distracted?
+
+TAG: Mirabel_008_f
+Oh, I'm so glad you'll help. And I've got an idea where we can start. Somehow the magic of Mini-Casita kept a fresh plate of them in the cupboard all this time.
+
+TAG: Mirabel_009_f
+Maybe we could do a taste test? See if we can figure out what ingredients go into them.
+
+TAG: Mirabel_010_f
+Though, I'm not nearly as good a cook as MamÃ¡. She's a true artist. Not to mention, her meals can heal you. Literally.
+
+TAG: Mirabel_011_f
+Give me the plate. I'll ask Remy. He's the real food expert around here.
+
+TAG: Mirabel_012_f
+Great idea! Here you go!
+
+TAG: Mirabel_013_f
+No, but I still have a plate of them. Somehow the magic of Mini-Casita kept them fresh in the cupboard all this time. Maybe we could do a taste test? See if we can figure out what ingredients go into them.
+
+TAG: Mirabel_014_f
+No way. It's my mamÃ¡'s recipe, and I can't even remember the taste. That's not something I'd forget just like that... But the important part is that I think I know how to figure it out.
+
+TAG: Mirabel_015_f
+I still have a plate of them. Somehow the magic of Mini-Casita kept them fresh in the cupboard all this time. Maybe we could do a taste test? See if we can figure out what ingredients go into them.
+
+TAG: Mirabel_016_f
+It's a recipe. See, I was thinking that since you've come to the Village, I'm back in the Village, and more and more people are coming back to the Valley...
+
+TAG: Mirabel_017_f
+I understand. I'll be around. Please come see me as soon as you can.
+

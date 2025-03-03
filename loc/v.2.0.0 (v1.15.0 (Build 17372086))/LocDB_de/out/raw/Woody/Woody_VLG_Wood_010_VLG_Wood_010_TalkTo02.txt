@@ -1,0 +1,45 @@
+TAG: Woody_003_f
+What did Remy say?
+
+TAG: Player_000_f
+He had me do a little taste test on the meals you cooked.
+
+TAG: Player_000_choice_000_f
+[LIE] They weren't that bad!
+
+TAG: Player_000_choice_001_f
+How could you not realize they tasted like that?
+
+TAG: Player_000_choice_002_f
+It's so bad it's amazing.
+
+TAG: Woody_004_f
+Thanks partner, but you don't have to lie to make me feel better. I could tell they were pretty horrible.
+
+TAG: Woody_008_f
+Cooking for toys is pretty simple. Everything's made of plastic. And if it looks good, it's good.
+
+TAG: Woody_007_f
+But the meals didn't look good either...
+
+TAG: Woody_009_f
+But they did look fun! So I was hopin' they'd be fun to eat.
+
+TAG: Woody_001_f
+Hey, you can't blame me. I'm a toy! I haven't got any taste buds! I can't tell if it's bad.
+
+TAG: Woody_000_f
+Let me show you how it's done. Then you'll be such a good cook, you won't even need to taste the dishes.
+
+TAG: Woody_010_f
+That would be great! Then we can give whatever we cook together to Remy to help him out. He's still got a lot of orders to fill.
+
+TAG: Woody_002_f
+Here, these were the <ActivityItem>Recipes</ActivityItem> he asked me to prepare.
+
+TAG: Woody_005_f
+Because I couldn't taste it.
+
+TAG: Woody_006_f
+Oh yeah, laugh it up. At least I managed to entertain you.
+

@@ -1,0 +1,21 @@
+TAG: acclink_savefile_reset_progress
+Перезагрузить прогресс
+
+TAG: acclink_tab_linkwithemail
+Счёт ссылки
+
+TAG: acclink_tab_savefiles
+Сохранить файлы
+
+TAG: reset_progress_confirm_desc
+Ты уверена, что хочешь перезагрузить все свои успехи?
+
+TAG: reset_progress_confirm_title
+Повторить подтверждение профиля
+
+TAG: reset_settings_confirm_desc
+Вы уверены, что хотите перенастроить настройки к их нормальным значениям?
+
+TAG: reset_settings_confirm_title
+Перезагрузить в настройки
+

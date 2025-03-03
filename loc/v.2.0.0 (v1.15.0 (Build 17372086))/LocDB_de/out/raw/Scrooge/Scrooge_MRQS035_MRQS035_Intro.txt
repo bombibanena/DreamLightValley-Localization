@@ -1,0 +1,60 @@
+TAG: Scrooge_003_f
+{PlayerName}, I just looked at my quarterly profits. Och! It's a disaster! I'm completely ruined!
+
+TAG: Player_000_choice_000_f
+Calm down!
+
+TAG: Player_000_choice_001_f
+What's wrong?
+
+TAG: Player_000_choice_002_f
+Uh... should I come back later?
+
+TAG: Scrooge_000_f
+Calm down?! How dare you?! I've a right to be as upset as I'd like.
+
+TAG: Scrooge_007_f
+The shop's open... but I've got no customers!
+
+TAG: Scrooge_001_f
+If I don't act fast, my fortune will be lost!
+
+TAG: Scrooge_009_f
+What do you need?
+
+TAG: Scrooge_010_f
+Well, first, we need a way to show the Villagers of Dreamlight Valley that Scrooge McDuck is open for business!
+
+TAG: Player_000_choice_003_f
+I could help you advertise!
+
+TAG: Player_000_choice_004_f
+Spread the word yourself.
+
+TAG: Scrooge_011_f
+That'd be grand!
+
+TAG: Scrooge_012_f
+I'd do it myself, but when folks hear the name "Scrooge McDuck," they think "pillar of the community"!
+
+TAG: Scrooge_014_f
+I can't be seen around the Village like some kind of walking billboard!
+
+TAG: Scrooge_004_f
+Besides, that's why I've got you.
+
+TAG: Scrooge_006_f
+Put together an outfit to wear around the Village to promote my shop.
+
+TAG: Scrooge_005_f
+I'll do no such thing!
+
+TAG: Scrooge_013_f
+When folks hear the name "Scrooge McDuck," they think "pillar of the community"!
+
+TAG: Scrooge_002_f
+A wee bit of everything at the moment!
+
+TAG: Scrooge_008_f
+No, no! I need your help.
+

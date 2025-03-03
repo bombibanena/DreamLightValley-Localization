@@ -1,0 +1,23 @@
+
+(
+Rapunzel_000_fOh, it's so beautiful!
+2
+Rapunzel_001_f But there's something missing...
+6
+Player_000_choice_000_fWe could add some sparkles?
+-
+Player_000_choice_001_fIt's not floating?
++
+Player_000_choice_002_fI give up. What?
+J
+Rapunzel_002_f8That would be pretty, but it's not exactly what I meant.
+p
+Rapunzel_003_f^When I saw those lights in the sky from my tower, it wasn't just the lights that were magical.
+<
+Rapunzel_004_f*It was also the wish I made and held onto.
+€
+Rapunzel_005_fnThat makes sense. So why don't we <Lore>talk to some other Villagers</Lore> to discover what their wishes are?
+}
+Rapunzel_006_fkThen we can write their wishes on the lantern before we throw it in the rift! That's perfect, {PlayerName}!
+A
+Rapunzel_007_f/Well, no, not yet. But that's not what I meant.

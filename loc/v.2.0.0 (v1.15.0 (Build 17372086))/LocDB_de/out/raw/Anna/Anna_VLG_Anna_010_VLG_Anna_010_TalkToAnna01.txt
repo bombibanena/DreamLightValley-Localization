@@ -1,0 +1,57 @@
+TAG: Anna_001_f
+This is the path to the Ice Cavern. And, as you can see... we've got a problem blocking our way.
+
+TAG: Player_000_choice_000_f
+You're a good sister, Anna.
+
+TAG: Player_000_choice_001_f
+Do you think she'll like it?
+
+TAG: Player_000_choice_002_f
+There's gotta be a way to get past these stumps.
+
+TAG: Anna_002_f
+I tried to dig up the stumps, but they're pretty fierce. The roots are all dug in. I don't think a regular shovel is gonna get this done.
+
+TAG: Anna_009_f
+Lucky you. I've got my magic Shovel right here!
+
+TAG: Anna_010_f
+Of course you have a magic Shovel. You're the best, {PlayerName}!
+
+TAG: Anna_000_f
+C'mon, let's clear the bridge.
+
+TAG: Anna_005_f
+Uh oh.
+
+TAG: Anna_011_f
+"Uh oh"? Uh oh... what?
+
+TAG: Anna_012_f
+I don't think even my Shovel's going to do the trick. Those things look like they feed off of Dark Magic.
+
+TAG: Anna_004_f
+Okay... okay... We just have to think of something else. I can't wait for Elsa to see this place!
+
+TAG: Anna_008_f
+Thanks, {PlayerName}. And you're a good friend.
+
+TAG: Anna_015_f
+*gasp* Wait a second... I've got it!
+
+TAG: Anna_016_f
+The other day I was looking at the books in my library and found a book about mystical flora and fauna.
+
+TAG: Anna_003_f
+It was pretty technical, but I bet it has the answer to clearing these stumps away.
+
+TAG: Anna_006_f
+Let's go find that book at my House!
+
+TAG: Anna_013_f
+Of course she will! This Valley is amazing!
+
+TAG: Anna_014_f
+I know, right? Let me think...
+

@@ -1,0 +1,105 @@
+
+2
+Player_000_choice_005_fAlways, for my friends!
+2
+Player_000_choice_006_fSorry, some other time.
+[
+Kristoff_000_fIThanks. Glad you think of me as a friend, 'cause this is a little... odd.
+‡
+Kristoff_001_fuSo, um... While Donald was on the other side of that Dark Portal, I was living in the woods for a pretty long time...
+3
+Player_000_choice_000_fWere you okay out there?
+;
+Player_000_choice_001_f How did you survive by yourself?
+H
+Player_000_choice_002_f-Why didn't you just come back to the Village?
+B
+Kristoff_005_f0Oh yeah, sure. I know how to live in the forest.
+G
+Kristoff_007_f5I can find everything I need, food- and shelter-wise.
+r
+Kristoff_008_f`But... after all that time out there, I could really use some <ActivityItem>Soap</ActivityItem>.
+a
+Kristoff_009_fODonald said I didn't exactly smell very fresh. Actually, he wasn't that polite.
+]
+Kristoff_013_fKWould you be up for helping me make some <ActivityItem>Soap</ActivityItem>?
+4
+Player_000_choice_008_fI'm always happy to help!
+8
+Player_000_choice_009_fIt's a useful skill to learn.
+P
+Player_000_choice_010_f5Sure. So you can stop stinking up the whole Valley...
+ 
+Kristoff_017_fGreat! Thanks!
+r
+Kristoff_023_f`You know, you kind of remind me of someone... but I can't exactly remember who she was. Strange.
+Á
+Kristoff_025_f®Well, to make <ActivityItem>Soap</ActivityItem>, {PlayerName}, we need <ActivityItem>Lye</ActivityItem>... Now, I don't wanna scare you, but it's kind of complicated to make.
+/
+Kristoff_026_fYou might want to take notes.
+c
+Kristoff_015_fQFor <ActivityItem>Lye</ActivityItem>, we need <ActivityItem>Ashes</ActivityItem>.
+@
+Player_001_choice_003_f%I've never found that in the Village.
+@
+Player_001_choice_004_f%I suppose you know where to get them.
+@
+Player_001_choice_005_f%I guess we'll have to burn something?
+1
+Kristoff_019_fDon't worry. I know what to do.
+r
+Kristoff_032_f`Back when I was stuck in the Forest, I made a campfire near the entrance to the Frosted Heights.
+±
+Kristoff_033_fžIf you could get some of the <ActivityItem>Burned Logs</ActivityItem> there, you can grind them into <ActivityItem>Ashes</ActivityItem> at a Crafting Station.
+6
+Player_001_choice_006_fThen I bring you the Ashes?
+-
+Player_001_choice_007_fWhat do I do next?
+V
+Player_001_choice_008_f;It's still definitely NOT <ActivityItem>Lye</ActivityItem>.
+<
+Kristoff_034_f*No, there's one more step, {PlayerName}...
+‹
+Kristoff_002_fyAfter that, you boil the <ActivityItem>Ashes</ActivityItem> like any other meal to make <ActivityItem>Lye</ActivityItem>.
+Z
+Kristoff_016_fHOnce you've got that, come see me and we can talk about what to do next.
+(
+Player_001_choice_009_fOkay, got it!
+8
+Player_001_choice_010_fI'll never remember all this.
+J
+Player_001_choice_011_f/That's one pot I better wash extra carefully...
+
+Kristoff_038_fGreat!
+·
+Kristoff_003_f¤I'll figure out what else we need while you make the <ActivityItem>Lye</ActivityItem>. Remember: My camp was near the entrance to the Frosted Heights in the Forest.
+7
+Kristoff_039_f%Don't worry. I can always remind you.
+l
+Kristoff_040_fZYeah, definitely don't eat <ActivityItem>Lye</ActivityItem>. It can be really bad for you.
+‹
+Kristoff_035_fyAfter that, you boil the <ActivityItem>Ashes</ActivityItem> like any other meal to make <ActivityItem>Lye</ActivityItem>.
+Z
+Kristoff_037_fHOnce you've got that, come see me and we can talk about what to do next.
+–
+Kristoff_036_fƒNo, you need to boil the <ActivityItem>Ashes</ActivityItem> like any other meal recipe to get the <ActivityItem>Lye</ActivityItem>.
+$
+Kristoff_027_fYeah, don't worry.
+D
+Kristoff_031_f2Hold up. Before you start setting stuff on fire...
+3
+Kristoff_021_f!Practical. I like that viewpoint!
+6
+Kristoff_022_f$Hey, I didn't think it was THAT bad.
+Q
+Kristoff_004_f?Easy. I know the plants I can eat, and I made myself a shelter.
+~
+Kristoff_010_flI was pretty comfortable. But when he got back, Donald pointed out that there was one thing I was missing...
+g
+Kristoff_011_fU<ActivityItem>Soap</ActivityItem>. Turns out it's been a while since I've had a bath.
+Ê
+Kristoff_006_f·I wanted to be there in case Donald needed me. When he came back he said... well, he said a lot of things, including that I clearly hadn't found any <ActivityItem>Soap</ActivityItem>.
+U
+Kristoff_012_fCI'm used to living in the woods, but I guess it's not for everyone.
+A
+Kristoff_020_f/Okay, great. I'll be around when you have time.

@@ -1,0 +1,54 @@
+
+
+WallE_000_fYoo-hoo! Uhh...
+:
+WallE_001_f+What is it, WALLÂ·E? You have a question?
+(
+Player_000_fHmm. He's pointing at...
+
+Player_000_choice_000_fMe.
+$
+Player_000_choice_001_f	My hands.
+&
+Player_000_choice_002_fMy clothes.
+<
+WallE_002_f-Do you want to know more about me, WALLÂ·E?
+
+WallE_005_f
+*whistles*
+)
+Player_001_fWhat should I tell you...
+A
+Player_001_choice_000_f&I'm a human! You've met humans before.
+7
+Player_001_choice_001_fI'm in charge of the Valley.
+:
+Player_001_choice_002_fI like long walks on the beach.
+
+WallE_006_f*whistles* Wow!
+
+WallE_007_fWhoa!
+-
+WallE_003_fThose are my hands, WALLÂ·E.
+
+WallE_008_fHmmm...
+-
+Player_002_fYeah, they're not like yours.
+5
+Player_002_choice_000_fMine aren't made of metal.
+8
+Player_002_choice_001_fLook how many fingers I have!
+F
+Player_002_choice_002_f+These little things are called fingernails.
+/
+WallE_004_f These are my clothes, WALLÂ·E.
+
+WallE_009_fHuh?
+,
+Player_003_fHow do I explain clothes...?
+0
+Player_003_choice_000_fThey protect my body.
+-
+Player_003_choice_001_fThey keep me warm.
+1
+Player_003_choice_002_fThey're super stylish.

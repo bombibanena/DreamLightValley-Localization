@@ -1,0 +1,23 @@
+
+�
+7Village!Mickey!Mickey!VLG_Mick_020_AvailableDescription|Микки Маус отсутствует Минни Маус! Посмотрим, как вы сможете помочь.
+�
+<Village!Mickey!Mickey!VLG_Mick_020_CompletedStoryDescription�Когда вы собирались начать пикник, Минни Маус появился из ниоткуда, прежде чем исчезнуть снова. Возможно Микки Маус будет иметь более четкое представление о том, что только что произошло.
+\
+.Village!Mickey!Mickey!VLG_Mick_020_DisplayName*Отсутствует Минни Маус
+�
+?Village!Mickey!Mickey!VLG_Mick_020_Group01_OngoingRequestButtonB<smallcaps>{title}</smallcaps><br> Что мне принести?
+\
+MVillage!Mickey!Mickey!VLG_Mick_020_Group01_Step01_BringItem01_StepDescription{ItemName}.
+\
+MVillage!Mickey!Mickey!VLG_Mick_020_Group01_Step01_BringItem02_StepDescription{ItemName}.
+t
+BVillage!Mickey!Mickey!VLG_Mick_020_Group01_Step01_ReadyDescription.Принесите еду Микки Маус.
+�
+AVillage!Mickey!Mickey!VLG_Mick_020_Group01_Step01_StepDescriptionGПриготовить следующую еду для пикника:
+�
+SVillage!Mickey!Mickey!VLG_Mick_020_Group04_Step05_FollowCharacter02_StepDescriptionYСледуйте за Микки Маус до пикника в "Мирном лугу".
+�
+UVillage!Mickey!Mickey!VLG_Mick_020_Group04_Step05_FollowCharacter02_TalkToDescription(Поговори с Микки Маус.
+f
+5Village!Mickey!Mickey!VLG_Mick_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

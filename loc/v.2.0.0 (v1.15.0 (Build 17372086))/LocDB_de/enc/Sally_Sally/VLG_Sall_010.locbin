@@ -1,0 +1,69 @@
+
+|
+DVillage!Nightmare!Sally!VLG_Sall_010_Any_CompletedRequestDescription4Я постараюсь отвлечь Урсула.
+R
+9Village!Nightmare!Sally!VLG_Sall_010_AvailableDescriptionПолучилось!
+b
+>Village!Nightmare!Sally!VLG_Sall_010_CompletedStoryDescription Поговори с Салли .
+�
+0Village!Nightmare!Sally!VLG_Sall_010_DisplayName`Салли  вернулся, но, кажется, что-то ее расстраивает...
+�
+VVillage!Nightmare!Sally!VLG_Sall_010_Group01_Step01_GardeningHarvest01_StepDescription�Успех Джек Скеллингтон и Салли  вновь обнаружили пламя романтики! Хотя эта романтика может быть более жуткой, чем обычно в Долине, они все еще обязаны вам.
+|
+OVillage!Nightmare!Sally!VLG_Sall_010_Group02_Step02_BringItem01_StepDescription)Сумасшедшая романтика
+�
+DVillage!Nightmare!Sally!VLG_Sall_010_Group02_Step02_ReadyDescriptionxПосадить Смертоносный Ночный Шейд и собрать урожай через 15 минут.
+�
+UVillage!Nightmare!Sally!VLG_Sall_010_Group03_Step03_TalkToCharacter01_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
+�
+OVillage!Nightmare!Sally!VLG_Sall_010_Group04_Step04_BringItem02_StepDescription-Возьмите {ItemName} на {TargetNPC}.
+�
+DVillage!Nightmare!Sally!VLG_Sall_010_Group04_Step04_ReadyDescriptionaПоговори с {TargetNPC} о его предстоящем свидании с Салли .
+�
+=Village!Nightmare!Sally!VLG_Sall_010_Group04_StoryDescriptionOСоберите несколько <ActivityItem>Night Schards</ActivityItem>.
+�
+LVillage!Nightmare!Sally!VLG_Sall_010_Group05_Step05_Listen01_StepDescriptionMВозьмите <ActivityItem>Night Schards</ActivityItem> на {TargetNPC}.
+�
+UVillage!Nightmare!Sally!VLG_Sall_010_Group06_Step06_TalkToCharacter02_StepDescription�Джек Скеллингтон задается вопросом, стесняется ли Салли  после столь долгого времени в одиночестве, но полагает, что новая ночная швейная игла поможет ей почувствовать себя лучше.
+�
+CVillage!Nightmare!Sally!VLG_Sall_010_Group07_Step07_StepDescription@Слушайте Салли  и Джек Скеллингтон.
+�
+UVillage!Nightmare!Sally!VLG_Sall_010_Group07_Step07_TalkToCharacter03_StepDescriptionEПоговори с {targetNPC} о неловком свидании.
+�
+UVillage!Nightmare!Sally!VLG_Sall_010_Group07_Step07_TalkToCharacter04_StepDescription}Спросите у следующих деревенских жителей совета по поводу свиданий:
+]
+MVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step08_Possess01_StepDescription{TargetNPC}.
+]
+MVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step08_Possess02_StepDescription{TargetNPC}.
+R
+CVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step08_StepDescription{itemName}.
+]
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate01_StepDescription{itemName}.
+t
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate02_StepDescription"Выпечка некоторых:
+]
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate03_StepDescription{itemName}.
+n
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate04_StepDescriptionВнешняя мебель.
+g
+CVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_StepDescription Мебель Хэллоуина.
+Z
+<Village!Nightmare!Sally!VLG_Sall_010_Group08_StepDescriptionЧерная Мебель.
+�
+OVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_BringItem03_StepDescription}Создать новую и пугающе прекрасную ночь свиданий в Забытых землях с:
+�
+OVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_BringItem04_StepDescriptionuПодготовить пикник Джек Скеллингтон и Салли  следующим образом:
+S
+DVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_ReadyDescription{itemName}.
+R
+CVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_StepDescription{itemName}.
+�
+LVillage!Nightmare!Sally!VLG_Sall_010_Group10_Step11_Listen02_StepDescriptionAПринесите еду на Хэллоуин на {TargetNPC}.
+�
+UVillage!Nightmare!Sally!VLG_Sall_010_Group11_Step12_TalkToCharacter05_StepDescription^Удостоверься, что у вас есть следующая еда в списке:
+�
+NVillage!Nightmare!Sally!VLG_Sall_010_Group12_Step13_Decorate05_StepDescriptionvПослушайте вторую попытку Салли  и Джек Скеллингтон на свидание.
+�
+KVillage!Nightmare!Sally!VLG_Sall_010_Group13_Step14_Party01_StepDescriptionzПоговорите с {targetNPC} о ее (менее неловкой) беседе с Джек Скеллингтон.
+�
+7Village!Nightmare!Sally!VLG_Sall_010_StartRequestButtonTПоложите {itemName} возле портала Деревья Холидей.

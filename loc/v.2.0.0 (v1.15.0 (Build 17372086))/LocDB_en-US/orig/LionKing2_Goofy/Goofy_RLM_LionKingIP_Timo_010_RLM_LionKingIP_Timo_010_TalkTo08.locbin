@@ -1,0 +1,37 @@
+
+B
+Goofy_000_f3Gawrsh, {PlayerName}, looks like you're in a hurry!
+d
+Goofy_001_fUI am! Pumbaa is stuck in a log in The Lion King Realm and I need to help unstick him.
+2
+Player_001_choice_000_fDo you have any advice?
+1
+Player_001_choice_001_fDo you have any tools?
+-
+Player_001_choice_002_fHELP, GOOFY! HELP!
+=
+Goofy_004_f.What did ya already try to do to get him free?
+J
+Goofy_008_f;We tried using some oil... but he's still stuck in the log.
+R
+Goofy_009_fCSounds like you could use a little leverage to get him outta there.
+[
+Goofy_003_fLI've got a spare plunger in my tools you can have. It's a little old though.
+q
+Goofy_010_fbTo make sure it's up to the job, you'll have to reinforce it. I'll give ya a list of what ya need.
+2
+Player_002_choice_000_fYou're the best, Goofy!
+*
+Player_002_choice_001_fThanks a bunch!
+:
+Player_002_choice_002_fPumbaa will be free in no time!
+"
+Goofy_012_fJust happy to help!
+
+Goofy_011_fYou betcha!
+R
+Goofy_013_fCI hope he and Timon'll be back soon! We miss those two around here.
+
+Goofy_007_fSure do!
+$
+Goofy_005_fI will, {PlayerName}!

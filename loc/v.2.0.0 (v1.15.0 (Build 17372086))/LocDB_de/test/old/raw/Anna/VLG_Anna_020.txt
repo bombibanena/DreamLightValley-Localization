@@ -1,0 +1,84 @@
+TAG: Village!Frozen!Anna!VLG_Anna_020_Any_CompletedRequestDescription
+Посмотрим, как себя чувствует Анна.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_AvailableDescription
+Анна расстроен из-за воспоминаний Кристофф и отчаянно хочет найти способ восстановить их.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_CompletedStoryDescription
+Кристофф Воспоминания начинают возвращаться благодаря вам и Анна!
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_DisplayName
+Потерянные любовь и пропавшие воспоминания
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group01_OngoingRequestButton
+Что нам делать?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group01_Step01_Listen01_StepDescription
+Слушайте, как Анна говорит с Кристофф.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group02_OngoingRequestButton
+Что мы будем делать дальше?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Анна.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group02_StoryDescription
+Кристофф воспоминаний Анна до сих пор не возвращаются.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_OngoingRequestButton
+Что дальше?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_Step03_BringItem01_StepDescription
+Ищите <ActivityItem>Кристофф Climbing Gear</ActivityItem> на пляже Даззл рядом с обрывами.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_Step03_ReadyDescription
+Перенести <ActivityItem>Кристофф Climbing Gear</ActivityItem> на Анна.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group03_StoryDescription
+Вы решили найти старый набор для лазания Кристофф, чтобы посмотреть, пробьет ли это его память.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_OngoingRequestButton
+Чем я могу помочь?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_Step04_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group04_StepDescription
+Соберите материалы для фиксации <ActivityItem>Кристофф Climbing Gear</ActivityItem>:
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group05_OngoingRequestButton
+Что дальше?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group05_Step05_CraftItem01_StepDescription
+Ремонт {itemName} на ремесленной станции.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group06_OngoingRequestButton
+Чем я могу помочь?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group06_Step06_BringItem02_StepDescription
+Убедись, что у тебя {ItemName} в рюкзаке.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group06_Step06_ReadyDescription
+Приведите {ItemName} в Анна.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group07_OngoingRequestButton
+Что нам делать?
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group07_Step07_Listen02_StepDescription
+Слушай, как Анна дает Кристофф его лазание.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_Group07_StoryDescription
+Показывая ему его лазающее снаряжение, вы начали помогать Кристофф восстановить его потерянные воспоминания.
+
+TAG: Village!Frozen!Anna!VLG_Anna_020_StartRequestButton
+Чем могу помочь?
+

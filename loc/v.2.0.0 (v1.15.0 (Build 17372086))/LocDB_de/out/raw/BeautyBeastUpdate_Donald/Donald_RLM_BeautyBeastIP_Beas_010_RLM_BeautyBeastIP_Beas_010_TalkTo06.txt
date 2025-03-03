@@ -1,0 +1,96 @@
+TAG: Donald_003_f
+WAK! That wasn't an offer! I'm in the middle of an emergency!
+
+TAG: Donald_023_f
+No time! I've got a fishing rod to rescue!
+
+TAG: Donald_000_f
+Donald, can I have one of your feathers?
+
+TAG: Donald_001_f
+What?! You want one of my personal feathers?!
+
+TAG: Player_000_choice_000_f
+That would be great, thanks!
+
+TAG: Player_000_choice_001_f
+It's for a good cause!
+
+TAG: Player_000_choice_002_f
+Is this a bad time?
+
+TAG: Donald_005_f
+I was fishing with Goofy, and he got a big bite on his line.
+
+TAG: Donald_006_f
+I jumped up to help him bring it in and knocked my lucky fishing rod into the pond!
+
+TAG: Player_001_choice_000_f
+Use Goofy's rod to fish out your fishing rod!
+
+TAG: Player_001_choice_001_f
+Did Goofy catch the fish?
+
+TAG: Player_001_choice_002_f
+Sounds like an unlucky fishing rod to me...
+
+TAG: Donald_009_f
+Hey, that just might work!
+
+TAG: Donald_011_f
+Great! So, I can get a feathâ
+
+TAG: Donald_012_f
+Bye, {PlayerName}! I gotta go rescue my lucky fishing rod! Thanks for the idea!
+
+TAG: Donald_014_f
+*sigh* ... Guess I'll just <Lore>have to ask someone else for that feather</Lore>.
+
+TAG: Donald_008_f
+No! It wasn't even a fish, it was a huge blob of seaweed tangled up with an old mask and snorkel!
+
+TAG: Donald_013_f
+... Could you use the mask and snorkel to search the pond for your fishing rod?
+
+TAG: Donald_010_f
+Trust me, it's lucky! Before the Forgetting, Daisy gave it to me for my birthday, and I always get the catch of the day with it!
+
+TAG: Player_002_choice_000_f
+You could get a new one?
+
+TAG: Player_002_choice_001_f
+Maybe you can find a new hobby?
+
+TAG: Player_002_choice_002_f
+Won't catch much at the bottom of the pond.
+
+TAG: Donald_017_f
+A new one?
+
+TAG: Donald_019_f
+That's the most preposterous idea I've ever heard.
+
+TAG: Donald_021_f
+I'm gonna get my lucky fishing rod back; you'll see!
+
+TAG: Donald_022_f
+What about a feather? I need one!
+
+TAG: Donald_016_f
+Ha-ha-ha-ha-ha!
+
+TAG: Donald_020_f
+That's hilarious, {PlayerName}! I gotta tell Mickey about that.
+
+TAG: Donald_018_f
+Hey! It won't be at the bottom of the pond forever!
+
+TAG: Donald_002_f
+It's for a gift to help a friend.
+
+TAG: Donald_007_f
+Doesn't matter. I can't help right now â I've got big problems!
+
+TAG: Donald_004_f
+It's a terrible time!
+

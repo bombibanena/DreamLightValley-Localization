@@ -1,0 +1,107 @@
+
+U
+CVillage!ToyStory!Woody!VLG_Wood_020_Any_CompletedRequestDescriptionTalk to Woody.
+µ
+8Village!ToyStory!Woody!VLG_Wood_020_AvailableDescriptionyWoody is ready to start renovating the Carousel and asks for the your help. You decide to go and ask Kristoff for advice.
+•
+=Village!ToyStory!Woody!VLG_Wood_020_CompletedStoryDescriptiondAfter gathering all the pieces of the Claw Machine and the Alien Toys, you bring them back to Woody.
+I
+/Village!ToyStory!Woody!VLG_Wood_020_DisplayNameA Bit of a Fixer Upper
+{
+@Village!ToyStory!Woody!VLG_Wood_020_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+h
+TVillage!ToyStory!Woody!VLG_Wood_020_Group01_Step01_TalkToCharacter01_StepDescriptionGo see Kristoff.
+v
+@Village!ToyStory!Woody!VLG_Wood_020_Group02_OngoingRequestButton2<smallcaps>{title}</smallcaps><br>What do we need?
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess01_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess02_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess03_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_Possess04_StepDescription{ItemName}.
+e
+BVillage!ToyStory!Woody!VLG_Wood_020_Group02_Step02_StepDescriptionGather the following materials:
+±
+<Village!ToyStory!Woody!VLG_Wood_020_Group02_StoryDescriptionqKristoff had a brilliant idea: to craft a Carousel Repair Kit. You set off in search of the materials to make it.
+w
+@Village!ToyStory!Woody!VLG_Wood_020_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+ç
+NVillage!ToyStory!Woody!VLG_Wood_020_Group03_Step03_CraftItem01_StepDescription;Craft the <ActivityItem>Carousel Repair Kit</ActivityItem>.
+ä
+CVillage!ToyStory!Woody!VLG_Wood_020_Group04_Step04_ReadyDescriptionCGive the <ActivityItem>Carousel Repair Kit </ActivityItem>to Woody.
+ö
+BVillage!ToyStory!Woody!VLG_Wood_020_Group04_Step04_StepDescriptionTMake sure the <ActivityItem>Carousel Repair Kit</ActivityItem> is in your Inventory.
+u
+@Village!ToyStory!Woody!VLG_Wood_020_Group05_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+s
+TVillage!ToyStory!Woody!VLG_Wood_020_Group05_Step05_FollowCharacter01_StepDescriptionMeet Woody at the Carousel.
+u
+VVillage!ToyStory!Woody!VLG_Wood_020_Group05_Step05_FollowCharacter01_TalkToDescriptionMeet Woody at the Carousel.
+{
+@Village!ToyStory!Woody!VLG_Wood_020_Group06_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+h
+TVillage!ToyStory!Woody!VLG_Wood_020_Group06_Step06_TalkToCharacter02_StepDescriptionTalk to WALL¬∑E.
+¬
+<Village!ToyStory!Woody!VLG_Wood_020_Group06_StoryDescriptionÅAfter fixing the Carousel's structure, there's only one matter to settle and it's the lights. You decide to ask WALL¬∑E for help.
+u
+@Village!ToyStory!Woody!VLG_Wood_020_Group07_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group07_Step07_Possess05_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group07_Step07_Possess06_StepDescription{ItemName}.
+x
+BVillage!ToyStory!Woody!VLG_Wood_020_Group07_Step07_StepDescription2Find the following materials in the WALL¬∑E Realm:
+ê
+<Village!ToyStory!Woody!VLG_Wood_020_Group07_StoryDescriptionPThe little robot puts you on the trail of a brand-new fuse box for the Carousel.
+u
+@Village!ToyStory!Woody!VLG_Wood_020_Group08_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_Possess07_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_Possess08_StepDescription{ItemName}.
+[
+LVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_Possess09_StepDescription{ItemName}.
+x
+BVillage!ToyStory!Woody!VLG_Wood_020_Group08_Step08_StepDescription2Gather the rest of the materials for the Fuse Box:
+r
+@Village!ToyStory!Woody!VLG_Wood_020_Group09_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Ç
+NVillage!ToyStory!Woody!VLG_Wood_020_Group09_Step09_CraftItem02_StepDescription0Craft the <ActivityItem>Fuse Box</ActivityItem>.
+w
+@Village!ToyStory!Woody!VLG_Wood_020_Group10_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+
+CVillage!ToyStory!Woody!VLG_Wood_020_Group10_Step10_ReadyDescription8Give the <ActivityItem>Fuse Box</ActivityItem> to Woody.
+è
+BVillage!ToyStory!Woody!VLG_Wood_020_Group10_Step10_StepDescriptionIMake sure the <ActivityItem>Fuse Box</ActivityItem> is in your Inventory.
+u
+TVillage!ToyStory!Woody!VLG_Wood_020_Group11_Step11_FollowCharacter02_StepDescriptionFollow Woody to the Carousel.
+h
+VVillage!ToyStory!Woody!VLG_Wood_020_Group11_Step11_FollowCharacter02_TalkToDescriptionTalk to Woody.
+Ï
+<Village!ToyStory!Woody!VLG_Wood_020_Group11_StoryDescription´Following WALL¬∑E's <ActivityItem>Blueprints</ActivityItem>, you craft a <ActivityItem>Fuse Box</ActivityItem>. You and Woody are now ready to light up the Carousel again.
+u
+@Village!ToyStory!Woody!VLG_Wood_020_Group12_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+z
+NVillage!ToyStory!Woody!VLG_Wood_020_Group12_Step12_VisitArea01_StepDescription(Go to the Carousel to assess the damage.
+≥
+<Village!ToyStory!Woody!VLG_Wood_020_Group12_StoryDescriptionsSomething went wrong when Woody tried to turn on the lights on the Carousel. You need to get to the bottom of this.
+f
+TVillage!ToyStory!Woody!VLG_Wood_020_Group13_Step13_TalkToCharacter03_StepDescriptionTalk to Woody.
+u
+@Village!ToyStory!Woody!VLG_Wood_020_Group14_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+]
+NVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_BringItem03_StepDescription{ItemName}.
+]
+NVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_BringItem04_StepDescription{ItemName}.
+]
+NVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_BringItem05_StepDescription{ItemName}.
+a
+CVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_ReadyDescriptionBring everything to Woody.
+j
+BVillage!ToyStory!Woody!VLG_Wood_020_Group14_Step14_StepDescription$Gather everything from the Carousel:
+º
+<Village!ToyStory!Woody!VLG_Wood_020_Group14_StoryDescription|A surge broke the Claw Machine and scattered some Alien Toys around the Carousel. Woody asks you to help pick up the pieces.
+g
+6Village!ToyStory!Woody!VLG_Wood_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

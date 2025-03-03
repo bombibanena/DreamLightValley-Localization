@@ -1,0 +1,30 @@
+TAG: Merlin_000_f
+Ahh. Quite a powerful scent you've stirred up, isn't it? This should do the trick.
+
+TAG: Player_000_choice_000_f
+Smells great!
+
+TAG: Player_000_choice_001_f
+Too perfume-y!
+
+TAG: Player_000_choice_002_f
+Blech!
+
+TAG: Merlin_004_f
+Perhaps Scrooge would like to sell it as a new fragrance... but that's a concern for another day.
+
+TAG: Merlin_001_f
+Let's give this a try...
+
+TAG: Merlin_002_f
+Ah-ha! Just as I surmised. The smell has unlocked the <ActivityItem>Time Capsule</ActivityItem>.
+
+TAG: Merlin_003_f
+As for opening it and investigating whatever's inside... well, I'll leave that to you.
+
+TAG: Merlin_005_f
+Well, you don't need to like it. You just need it to open the <ActivityItem>Time Capsule</ActivityItem> for us.
+
+TAG: Merlin_006_f
+Oh, it's not so bad. Why, I might even use it as a room freshener once we're done opening the <ActivityItem>Time Capsule</ActivityItem>.
+

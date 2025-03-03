@@ -1,0 +1,87 @@
+TAG: FairyGodMother_000_f
+Dreams to me are of interest, you know. Our heart's deepest wishes, they're certain to show.
+
+TAG: FairyGodMother_001_f
+Now, tell me, my dear, what do you dream of?
+
+TAG: Player_000_choice_000_f
+Love.
+
+TAG: Player_000_choice_001_f
+Power.
+
+TAG: Player_000_choice_002_f
+Candy.
+
+TAG: FairyGodMother_002_f
+Ah! You would not be alone. But there are so many kinds of love. What kind do you dream of?
+
+TAG: Player_001_choice_000_f
+Romantic love.
+
+TAG: Player_001_choice_001_f
+Caring love.
+
+TAG: Player_001_choice_002_f
+Friendly love.
+
+TAG: FairyGodMother_003_f
+Ahh, yes... A special evening, flowers, a dance... A moonlit walk in a garden, a look into another's eyes.
+
+TAG: FairyGodMother_004_f
+Romance is a wonderful dream indeed.
+
+TAG: FairyGodMother_005_f
+Ahh, caring love. To be warm and safe.
+
+TAG: FairyGodMother_006_f
+Giving comfort and support.
+
+TAG: FairyGodMother_007_f
+Everyone should have that sort of love.
+
+TAG: FairyGodMother_008_f
+The love of a friend may be less storied than romantic love, but it's no less important.
+
+TAG: FairyGodMother_009_f
+Faithful friends can be as close as family. I believe you may refer to them as a chosen family!
+
+TAG: FairyGodMother_010_f
+Oh, many dream of power. The question is, what sort of power do you want?
+
+TAG: Player_002_choice_000_f
+Physical.
+
+TAG: Player_002_choice_001_f
+Social.
+
+TAG: Player_002_choice_002_f
+Mental.
+
+TAG: FairyGodMother_011_f
+Strength of limb can be a useful thing to have.
+
+TAG: FairyGodMother_012_f
+But, as Merlin would say â all power must be responsibly used.
+
+TAG: FairyGodMother_013_f
+Oh yes. Why that's much subtler than physical strength, yet perhaps more influential.
+
+TAG: FairyGodMother_014_f
+Oh, to be strong of mind is to be both clever and thoughtful! A very great power indeed.
+
+TAG: FairyGodMother_015_f
+Oh-ho-ho! That is certainly a sweet dream. What sort of candy do you love most?
+
+TAG: Player_003_choice_000_f
+Chocolate.
+
+TAG: Player_003_choice_001_f
+Gummy bears.
+
+TAG: Player_003_choice_002_f
+Butterscotch.
+
+TAG: FairyGodMother_016_f
+How delicious!
+

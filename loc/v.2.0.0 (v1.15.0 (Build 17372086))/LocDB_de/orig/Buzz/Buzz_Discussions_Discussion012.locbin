@@ -1,0 +1,40 @@
+
+J
+
+Buzz_000_f<{PlayerName}, I have some knowledge of intergalactic travel.
+‰
+
+Buzz_001_f{But I wonder if I should learn more about traveling the seas so I can look out for dangers in the waters around the Valley.
+H
+
+Buzz_002_f:What do you know about ships of a more... nautical nature?
+A
+Player_000_f1Hmm. Well, you'll need a boat like Moana's and...
+%
+Player_000_choice_000_f
+...a sail.
+2
+Player_000_choice_001_f...some oars to row it.
+&
+Player_000_choice_002_f...a motor.
+6
+
+Buzz_003_f(Harnessing the power of the wind? Right.
+x
+
+Buzz_008_fjBut considering I'm a foot tall, I'm not sure I'd be able to steer properly if the winds get too powerful.
+M
+
+Buzz_009_f?I'll have to search for a toy-sized solution to this challenge.
+ 
+
+Buzz_004_fRow? With my arms?
+p
+
+Buzz_007_fbConsidering I'm a foot tall, I'm not sure I could wield a big enough oar to move a boat like that.
+3
+
+Buzz_005_f%A gasoline-powered combustion engine?
+k
+
+Buzz_006_f]That's a bit old-fashioned, and considering I'm a foot tall, I'm not sure I could control it.

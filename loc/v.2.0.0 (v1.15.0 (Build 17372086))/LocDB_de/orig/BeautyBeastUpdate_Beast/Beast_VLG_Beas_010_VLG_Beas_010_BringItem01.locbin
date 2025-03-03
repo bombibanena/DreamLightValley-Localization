@@ -1,0 +1,71 @@
+
+0
+Beast_000_f!Beast! I've got some furnishings!
+H
+Beast_001_f9We're well on our way to showing Belle a magical evening.
+L
+Beast_002_f=I don't know, {PlayerName}... What if this isn't a good idea?
+<
+Player_000_choice_000_f!Are you saying I had a bad idea?!
+<
+Player_000_choice_001_f!You're stressing again — relax!
+.
+Player_000_choice_002_fWhy wouldn't it be?
+6
+Beast_003_f'No. It's my fault for agreeing to this.
+>
+Beast_012_f/Now one last thing — where do we set this up?
+
+Beast_013_f...
+
+Beast_014_fPlease help.
+b
+Beast_015_fSHmmm, I'll have to think about that... There are so many options around the Valley!
+*
+Beast_016_fPerhaps somewhere outdoors?
+x
+Beast_017_fiSomewhere we could look out onto the horizon and think about our time together. What our future could be.
+?
+Player_001_choice_000_f$Now you're thinking with your heart!
+X
+Player_001_choice_001_f=Who is this suave prince and what did you do with the Beast?!
+;
+Beast_004_f,What if Belle already has something planned?
+2
+Beast_005_f#What if she doesn't enjoy the food?
+�
+Beast_006_frWhat if... what if she's changed since coming here? Learned new things, found new dreams... while I'm still... me.
+'
+Beast_007_fBeast, you're spiraling.
+'
+Beast_008_fDo you care about Belle?
+
+Beast_009_fOf course I do!
+Q
+Beast_010_fBThen just invite her to dinner. If she wants to come, she'll come!
+,
+Beast_011_f... I guess that makes sense.
+W
+Beast_018_fHYou go freshen up, comb your fur and try to relax until it's time, okay?
+O
+Beast_026_f@All right. I'll go and do as you suggested. I will try to relax.
+'
+Beast_027_fThank you, {PlayerName}.
+M
+Beast_019_f>Now... are there any particular foods that Belle really likes?
+\
+Beast_020_fMWell... I know of a few dishes that Belle would often ask my chef to prepare.
+k
+Beast_021_f\Here are the recipes. Some of them may require using utensils, which are difficult for me...
+
+Beast_022_fBut I will try!
+<
+Beast_023_f-These recipes look perfect for a dinner date!
+k
+Beast_024_f\Don't worry about the cooking. I'll make sure they're ready for when you meet up with Belle.
+[
+Beast_025_fLWe can meet again in the evening if the weather is good for sitting outside.
+#
+Beast_028_fI wish I knew how...
+)
+Beast_029_fThere are so many reasons!

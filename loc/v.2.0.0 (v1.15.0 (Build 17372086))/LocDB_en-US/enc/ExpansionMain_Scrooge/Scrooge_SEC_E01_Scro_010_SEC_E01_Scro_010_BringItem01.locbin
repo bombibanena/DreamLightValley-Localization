@@ -1,0 +1,43 @@
+
+r
+Scrooge_000_fa{PlayerName}! I made another discovery! You got time for another tip about automatin' the Island?
+
+Scrooge_017_fLet's hear it.
+ô
+Scrooge_001_fáYou must remember how I was tellin' ya this Isle used to be home to all sorts of <Lore>Ancient Machines</Lore> that helped care for it!
+3
+Scrooge_002_f"I managed to learn more about one!
+L
+Scrooge_003_f;It's some sort of <Lore>Machine that gardens for ya</Lore>!
+!
+Player_001_choice_000_fWHAT?!
+"
+Player_001_choice_001_fNO WAY.
+,
+Player_001_choice_002_fWay ahead of you.
+,
+Player_001_choice_003_fWhat's the catch?
+,
+Scrooge_004_fAye, it's quite remarkable!
+N
+Scrooge_005_f=Reminds me of the sorts of things my dear friend Gyro builds.
+.
+Scrooge_006_fThere's just one wee problem.
+x
+Scrooge_007_fgI don't know where you're goin' to find all the <ActivityItem>ancient parts</ActivityItem> to build it!
+m
+Scrooge_008_f\Ancient parts... that's the sort of thing I'm always finding with my <Lore>Hourglass</Lore>!
+Ö
+Scrooge_009_ftWell then, why don't ya take these <ActivityItem>Ancient Blueprints</ActivityItem> and see what you can do with 'em!
+ì
+Scrooge_010_fÅIt looks like I should have no problem <Lore>finding all of this stuff and building an Ancient Gardener</Lore>! I'll get to work!
+ó
+Scrooge_011_fÖAye, and if it's not gardenin' you're interested in, ya can always make another kind of <ActivityItem>Ancient Machine</ActivityItem>.
+N
+Scrooge_012_f=The potential here is grand! I cannae wait to see what ya do.
+Ö
+Scrooge_013_ftI might need to <Lore>make my Hourglass more powerful at a Timebending Table</Lore> before I can find all of this...
+{
+Scrooge_014_fjIt seems like there are lots of cool things I can <Lore>build using stuff I find with my Hourglass</Lore>!
+%
+Scrooge_015_fAye, there is one...

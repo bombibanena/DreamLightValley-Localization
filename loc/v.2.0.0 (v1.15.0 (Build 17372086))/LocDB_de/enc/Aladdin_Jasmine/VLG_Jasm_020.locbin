@@ -1,0 +1,91 @@
+
+i
+DVillage!Aladdin!Jasmine!VLG_Jasm_020_Any_CompletedRequestDescription!Поговори с Жасмин.
+�
+9Village!Aladdin!Jasmine!VLG_Jasm_020_AvailableDescriptionwПохоже, у Жасмин есть новая информация, которой можно поделиться!
+�
+>Village!Aladdin!Jasmine!VLG_Jasm_020_CompletedStoryDescription�С восстановлением ключа на пляже вы сможете открыть один из замков Секретного Журнала... но что насчет другого?
+\
+0Village!Aladdin!Jasmine!VLG_Jasm_020_DisplayName(Соревнование по сэнди
+x
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group01_Step01_TalkToCharacter01_StepDescriptionПоговори с Моана.
+�
+=Village!Aladdin!Jasmine!VLG_Jasm_020_Group01_StoryDescription�После расшифровки загадочного кода в "Тайном Журнале", Жасмин открывает рецепт для одного из ключей журнала!
+^
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem01_StepDescription{itemName}.
+^
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem02_StepDescription{itemName}.
+^
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem03_StepDescription{itemName}.
+^
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem04_StepDescription{itemName}.
+
+DVillage!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_ReadyDescription7Принесите материалы на {TargetNPC}.
+�
+CVillage!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_StepDescriptioneСобирайте материалы для Моана <ActivityItem> Sea Sand Forch</ActivityItem>.
+�
+=Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_StoryDescription�Морские Песчаные Парки, необходимые для изготовления ключа на пляже, должны быть получены из специального морского песчаного фонаря. Вы должны принести все материалы на Моана, чтобы она могла помочь вам сделать его!
+�
+NVillage!Aladdin!Jasmine!VLG_Jasm_020_Group03_Step03_Decorate01_StepDescriptionUМесто Моана <ActivityItem> Sea Sand Farch</ActivityItem> на Dazzle Beach.
+y
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group04_Step04_TalkToCharacter02_StepDescription Поговори с {TargetNPC}.
+�
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group05_Step05_FollowCharacter01_StepDescriptionhЗнакомьтесь Жасмин на <ActivityItem> Sea Sand Forch</ActivityItem> на Dazzle Beach.
+{
+WVillage!Aladdin!Jasmine!VLG_Jasm_020_Group05_Step05_FollowCharacter01_TalkToDescription Поговори с {TargetNPC}.
+�
+=Village!Aladdin!Jasmine!VLG_Jasm_020_Group05_StoryDescription�Морской Песчаный фонарь, прочно посаженный на пляже Даззл, вы готовы забрать те Морские Песчаные Парки, которые принесут вам и Жасмин на шаг ближе к пляжному ключу.
+y
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group06_Step06_TalkToCharacter03_StepDescription Поговори с {TargetNPC}.
+z
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group07_Step07_TalkToCharacter04_StepDescription!Поговори с Жасмин.
+z
+LVillage!Aladdin!Jasmine!VLG_Jasm_020_Group08_Step08_Listen01_StepDescription*Слушайте Мауи и Жасмин.
+�
+=Village!Aladdin!Jasmine!VLG_Jasm_020_Group08_StoryDescription�Помня о любимой деятельности детей в Аграбе, Жасмин предполагает соревнование за песчаный замок, чтобы выиграть его!
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_Possess01_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_Possess02_StepDescription{itemName}.
+\
+MVillage!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_Possess03_StepDescription{itemName}.
+�
+CVillage!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_StepDescriptionСобирайте материалы для создания <Lore>Winning Sandcastle</Lore> для конкурса Мауи.
+o
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_CraftItem01_StepDescriptionПесчаные башни.
+o
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_CraftItem02_StepDescriptionПесчаные стены.
+o
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_CraftItem03_StepDescriptionПесчаная дверь.
+v
+CVillage!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_StepDescription/<ActivityItem>Sandcastle Кит</ActivityItem>.
+�
+=Village!Aladdin!Jasmine!VLG_Jasm_020_Group10_StoryDescriptiontВы готовы сделать <Lore>Winning Sandcastle</Lore>, достойный бить даже демона!
+z
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group11_Step11_TalkToCharacter05_StepDescription!Поговори с Жасмин.
+n
+NVillage!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate02_StepDescriptionПесчаные башни.
+n
+NVillage!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate03_StepDescriptionПесчаные стены.
+n
+NVillage!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate04_StepDescriptionПесчаная дверь.
+m
+NVillage!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate05_StepDescriptionВ центре замка.
+�
+CVillage!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_StepDescription�Украсить пляж победоносным Сэндкаслом, достойным соревнований с демоном.
+v
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group13_Step13_TalkToCharacter06_StepDescriptionПоговори с Мауи.
+�
+LVillage!Aladdin!Jasmine!VLG_Jasm_020_Group14_Step14_Listen02_StepDescriptionpСлушайте Мауи и Жасмин обсуждайте соревнование по песчанику.
+z
+UVillage!Aladdin!Jasmine!VLG_Jasm_020_Group15_Step15_TalkToCharacter07_StepDescription!Поговори с Жасмин.
+}
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group16_Step16_CraftItem04_StepDescription*Подготовь ключ к пляжу.
+�
+=Village!Aladdin!Jasmine!VLG_Jasm_020_Group16_StoryDescription�Со всеми собранными материалами, наконец-то пришло время подделать ключ от пляжа и выяснить, действительно ли он откроет часть Секретного Журнала.
+�
+OVillage!Aladdin!Jasmine!VLG_Jasm_020_Group17_Step17_VisitArea01_StepDescription:Заходите в дом Жасмин и Аладдин.
+�
+QVillage!Aladdin!Jasmine!VLG_Jasm_020_Group18_Step18_FillKeyhole01_StepDescriptiongИспользуйте ключ Beach в <Lore>unlock в первом замке Secret Journal</Lore>.
+h
+7Village!Aladdin!Jasmine!VLG_Jasm_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

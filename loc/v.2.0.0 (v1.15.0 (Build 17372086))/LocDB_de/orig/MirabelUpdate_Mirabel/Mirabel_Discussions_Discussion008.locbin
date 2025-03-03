@@ -1,0 +1,30 @@
+
+7
+Mirabel_000_f&{PlayerName}, do you have any sisters?
+ 
+Player_000_choice_000_fI do.
+9
+Player_000_choice_001_fNo, but I have other siblings.
+-
+Player_000_choice_002_fI'm an only child.
+)
+Mirabel_001_fAnd... do you get along?
+!
+Player_001_choice_000_fWe do.
+&
+Player_001_choice_001_fNot really.
+%
+Player_001_choice_002_f
+Sometimes.
+M
+Mirabel_002_f<That's great. I've always gotten along with my sister Luisa.
+‚
+Mirabel_003_fqIsabela on the other hand... We had a pretty rocky relationship for a long time, but we're doing really well now!
+p
+Mirabel_004_f_I understand. Siblings can be tough. They're always there, and they know just how to annoy you.
+l
+Mirabel_005_f[My sister Isabela and I had a rocky relationship for a while. But it's gotten a lot better.
+F
+Mirabel_006_f5That's pretty normal, I think. Siblings can be a lot.
+a
+Mirabel_007_fPReally? Wow! With a family as large as mine, that takes a lot for me to imagine.

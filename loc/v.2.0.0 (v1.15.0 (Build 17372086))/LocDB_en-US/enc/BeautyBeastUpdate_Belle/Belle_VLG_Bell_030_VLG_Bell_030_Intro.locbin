@@ -1,0 +1,40 @@
+
+¾
+Belle_000_f®{PlayerName}, I promised I would let you know when the <ActivityItem>Translation Machine</ActivityItem> was done translating the <ActivityItem>Mysterious Book</ActivityItem>.
+S
+Belle_010_fDWould you have time to talk about it? Something... odd has happened.
+)
+Player_000_choice_000_fI'm listening.
+'
+Player_000_choice_002_fMaybe later.
+ƒ
+Belle_002_ftThe <ActivityItem>Translation Machine</ActivityItem> did translate the <ActivityItem>Mysterious Book</ActivityItem>.
+o
+Belle_011_f`At least enough for me to realize the book is actually a <ActivityItem>Journal</ActivityItem>...
+V
+Belle_012_fGWritten by someone called... "Dreamlight Valley's Best Mystery Solver"?
+=
+Player_001_choice_000_f"We need to find out who that is...
+C
+Player_001_choice_001_f(Does anyone remember who it might be...?
+=
+Player_001_choice_002_f"Ironic that they're now a mystery!
+#
+Belle_006_fYes, I think so too!
+T
+Belle_001_fEI've asked but no one here seems to remember who that Villager was...
+a
+Belle_013_fRDoes the <ActivityItem>Journal</ActivityItem> contain any clue to who it might be?
+g
+Belle_014_fXI'm not sure. There are some pages that I can't read. It's as if the words are shifting.
+G
+Belle_015_f8I was wondering if you could take a look at one of them?
+
+Belle_016_f
+Of course.
+
+Belle_017_fHere...
+)
+Belle_007_fYes, that is rather funny.
+5
+Belle_003_f&Oh, of course. Whenever you have time.

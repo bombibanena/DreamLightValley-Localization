@@ -1,0 +1,6 @@
+TAG: Mirabel_000_f
+Это сработало! {PlayerName}!
+
+TAG: Mirabel_001_f
+Мой поющий голос вернулся!
+

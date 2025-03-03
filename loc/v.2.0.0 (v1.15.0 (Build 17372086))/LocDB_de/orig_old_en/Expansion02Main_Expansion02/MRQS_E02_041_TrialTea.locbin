@@ -1,0 +1,33 @@
+
+Y
+GStory!Expansion02!MRQS_E02_041_TrialTea_Any_CompletedRequestDescriptionTalk to Flynn.
+“
+<Story!Expansion02!MRQS_E02_041_TrialTea_AvailableDescriptionÒDeep in Everafter, {PlayerName} uncovered a waterfall made of mysterious, giant tea pots. In their shadow, {PlayerName} found yet another Fairy Tale Trial, and grew one step closer to a meeting with Maleficent.
+C
+3Story!Expansion02!MRQS_E02_041_TrialTea_DisplayNameTeapot Falls
+¢
+RStory!Expansion02!MRQS_E02_041_TrialTea_Group01_Step01_VisitArea01_StepDescriptionLEnter the <ActivityItem>Fairy Tale Trial</ActivityItem> at the Teapot Falls.
+~
+RStory!Expansion02!MRQS_E02_041_TrialTea_Group03_Step03_VisitArea02_StepDescription(Explore the Fairy Tale Trial with Flynn.
+‰
+TStory!Expansion02!MRQS_E02_041_TrialTea_Group04_Step04_Conditional01_StepDescription1Figure out what to do with the clock on the wall.
+ñ
+TStory!Expansion02!MRQS_E02_041_TrialTea_Group06_Step06_FillKeyhole01_StepDescription˜Find the <ActivityItem>Stout Tea Pot</ActivityItem> and <ActivityItem>Tall Tea Pot</ActivityItem> and put them both on the tray at the end of the table.
+{
+XStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step05_TalkToCharacter02_StepDescription(Optional) Check in with Flynn.
+p
+VStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle01_StepDescriptionThe Ornate Pink Chair.
+r
+VStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle02_StepDescriptionThe Sturdy Wooden Chair.
+q
+VStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_SceneryPuzzle03_StepDescriptionThe Elegant Blue Chair.
+¿
+FStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_StepDescriptionu(Press {input_inventory}, then navigate to the Furniture section to pick up and move the items to the correct place!)
+Á
+LStory!Expansion02!MRQS_E02_041_TrialTea_Group07_Step10_StepDescriptionMobileq(Open your Inventory, then navigate to the Furniture section to pick up and move the items to the correct place!)
+^
+?Story!Expansion02!MRQS_E02_041_TrialTea_Group07_StepDescriptionSet the table for tea time.
+Ÿ
+TStory!Expansion02!MRQS_E02_041_TrialTea_Group08_Step08_Interaction01_StepDescriptionGInteract with the source of the corruption inside the Fairy Tale Trial.
+s
+RStory!Expansion02!MRQS_E02_041_TrialTea_Group09_Step09_VisitArea03_StepDescriptionReturn to the Storybook Vale.

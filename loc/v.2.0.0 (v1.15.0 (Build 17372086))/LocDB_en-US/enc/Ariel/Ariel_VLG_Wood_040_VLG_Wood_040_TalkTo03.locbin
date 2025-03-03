@@ -1,0 +1,25 @@
+
+a
+Ariel_001_fRHi, {PlayerName}! It's so great to see you. Is there anything I can help you with?
+V
+Ariel_000_fGWoody and I need some treasured childhood souvenirs for an enchantment.
+G
+Player_000_f7Do you have anything I could borrow in your collection?
+E
+Player_000_choice_000_f*I promise Woody will take good care of it.
+>
+Player_000_choice_001_f#I guarantee you'll love the result.
+K
+Player_000_choice_002_f0This could help declutter your collection a bit.
+B
+Ariel_006_f3Oh, I'm sure he will. And I have the perfect thing!
+i
+Ariel_003_fZIt's a beautiful Whurleesneak, but Eric calls it a <ActivityItem>Music Box</ActivityItem>.
+s
+Ariel_004_fdI'd be happy to lend it to you and Woody. After all you've done to help me, it's the least I can do.
+
+Ariel_005_fHere you go.
+H
+Ariel_007_f9Oh, I'm sure I will. And I've got just the thing for you.
+j
+Ariel_008_f[I suppose my shelves are getting a bit cluttered. I think I have something that might work.

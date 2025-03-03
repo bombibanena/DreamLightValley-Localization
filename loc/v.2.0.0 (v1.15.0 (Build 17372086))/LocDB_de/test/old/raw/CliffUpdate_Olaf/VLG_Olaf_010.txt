@@ -1,0 +1,105 @@
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_AvailableDescription
+Олаф счастлив вернуться в долину Мечты, но что-то не кажется правильным.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_CompletedStoryDescription
+Вы строите сцену для Олаф, вы немного ближе к возвращению радости и историй в долину Мечты.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_DisplayName
+Место для радости
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem03_StepDescription
+{itemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_BringItem05_StepDescription
+{itemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_ReadyDescription
+Принесите то, что вы собрали на Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group01_Step01_StepDescription
+Соберите подарки для деревенских жителей:
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group02_Step09_TalkToCharacter05_StepDescription
+Поговорите с Минни Маус, чтобы получить <ActivityItem>Curtain</ActivityItem>.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group02_Step12_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group02_Step12_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group02_Step12_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group02_StepDescription
+Соберите следующие материалы:
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group02_StoryDescription
+Пытаясь принести радость деревенским жителям, вы обнаруживаете, что Олаф был рассказчиком Dreamlight Valley. Он просит вас помочь ему построить сцену, чтобы он мог снова рассказывать истории.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group03_Step03_Listen01_StepDescription
+Смотреть Олаф, дарить подарок Матушка Готель.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group04_Step04_TalkToCharacter01_StepDescription
+Поговори с Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group05_StepDescription
+Принесите цветы Шрам от имени Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group07_Step07_StepDescription
+Появилась " <ActivityItem>Memory</ActivityItem>"!
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group07_Step07_Unlock01_StepDescription
+Возьмите <ActivityItem>Memory</ActivityItem> возле моста на плато Санлит.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group08_Step08_TalkToCharacter03_StepDescription
+Поговори с Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group09_Step13_FollowCharacter01_StepDescription
+Встречайте Олаф на мосту на плато Санлит.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group09_Step13_FollowCharacter01_TalkToDescription
+Поговори с Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group10_Step10_CraftItem01_StepDescription
+Подготовьте {ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group11_Step11_BringItem08_StepDescription
+Убедитесь, что {ItemName} в вашем списке.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group11_Step11_ReadyDescription
+Возьмите {ItemName} на Олаф.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что нам нужно?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что нам нужно?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что теперь?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Mission.
+

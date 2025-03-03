@@ -1,0 +1,31 @@
+
+.
+Tiana_000_fThat's very kind of you to ask.
+1
+Tiana_001_f"Actually, I could use some advice.
+k
+Tiana_002_f\Mickey's been so sweet helping me get settled in here. Any ideas for a gift I could get him?
+A
+Player_000_choice_000_f&How about some flowers from the Plaza?
+9
+Player_000_choice_001_fSome of your classic beignets?
+B
+Player_000_choice_002_f'Nothing better than a handwritten note!
++
+Tiana_003_fHmm... that just might work.
+=
+Tiana_006_f.Who doesn't love receiving flowers, after all?
+'
+Tiana_007_fThank you, {PlayerName}!
+<
+Tiana_004_f-You're right! They've never failed me before.
+5
+Tiana_008_f&I'll make up a big platter right away.
+'
+Tiana_009_fThank you, {PlayerName}!
+@
+Tiana_005_f1You're right. A simple thank-you note is perfect.
+%
+Tiana_010_fMy mama would approve.
+'
+Tiana_011_fThank you, {PlayerName}!

@@ -1,0 +1,153 @@
+TAG: Ursula_000_f
+Since we're getting so chummy, I'll let you in on a little secret...
+
+TAG: Ursula_022_f
+But before I do, help me with one last thing, won't you?
+
+TAG: Player_000_choice_004_f
+Sure, go on!
+
+TAG: Player_000_choice_005_f
+I can't right now, sorry!
+
+TAG: Ursula_023_f
+Well, I'm looking for a very powerful item.
+
+TAG: Ursula_007_f
+When my little experiment to extract the power from the Valley failed, I learned about a dark and potent power that lurks in the Forgotten Lands.
+
+TAG: Player_000_choice_006_f
+I'm done doing your bidding for free.
+
+TAG: Player_000_choice_007_f
+I'm not sure I should...
+
+TAG: Player_000_choice_008_f
+A power like this should stay where it is.
+
+TAG: Ursula_025_f
+Now you're talking my language, sweetie.
+
+TAG: Ursula_026_f
+And I have EXACTLY what you want.
+
+TAG: Player_000_choice_009_f
+What is it?
+
+TAG: Player_000_choice_024_f
+I'm scared now...
+
+TAG: Ursula_029_f
+Don't tell me you're not dying to save Prince Eric?
+
+TAG: Player_000_choice_021_f
+What?
+
+TAG: Player_000_choice_022_f
+How?
+
+TAG: Player_000_choice_023_f
+!!!
+
+TAG: Ursula_001_f
+Little princie-poo BEGGED me to save his beloved Ariel's <ActivityItem>Memory</ActivityItem> when the Forgetting happened.
+
+TAG: Ursula_050_f
+And so I did, of course... for a price! I sent Ariel away from the Valley so the Forgetting wouldn't affect her.
+
+TAG: Ursula_002_f
+And now he's a guest in my little garden! Such a poor unfortunate soul. Ariel will never know what happened to him!
+
+TAG: Ursula_003_f
+Ahhh... don't we have fun?
+
+TAG: Player_000_choice_000_f
+Free him! It's the right thing to do!
+
+TAG: Player_000_choice_001_f
+Eric? This is all old news to me. Let's move on.
+
+TAG: Player_000_choice_002_f
+You're losing sight of what's important.
+
+TAG: Ursula_004_f
+Free him? UGH! Don't you ever get tired of being so good?
+
+TAG: Ursula_008_f
+Of course, I COULD trade him IF you help me get what I'm looking for.
+
+TAG: Player_001_choice_000_f
+Of course I'll help. Anything for Eric!
+
+TAG: Player_001_choice_001_f
+I'm not sure I trust you with that much power.
+
+TAG: Ursula_009_f
+You are EXHAUSTING! But who am I to look a gift horse in the mouth? Go to the Forgotten Lands and look around.
+
+TAG: Ursula_011_f
+There are ruins there linked to that source of power. Bring me whatever you find. Oh, and before you ask â I PROMISE it's safe.
+
+TAG: Ursula_010_f
+No one likes tough choices, do they? But if you want to save the prince, go to the Forgotten Lands and look around.
+
+TAG: Ursula_012_f
+There are ruins there linked to that source of power. Bring me whatever you find.
+
+TAG: Ursula_005_f
+Don't be rude, dearie. You don't want me in a bad mood.
+
+TAG: Ursula_013_f
+I suppose it could be time to move on, though. New village, new bargains. Of course, I'd be willing to TRADE him for what I want...
+
+TAG: Player_002_choice_000_f
+People would be impressed by me.
+
+TAG: Player_002_choice_001_f
+A good deed could be rewarding...
+
+TAG: Ursula_014_f
+EXACTLY! You'll be everyone's hero. Now here's what I need...
+
+TAG: Ursula_016_f
+Go to the Forgotten Lands and look around. There are ruins there linked to that source of power. Bring me whatever you find.
+
+TAG: Ursula_015_f
+And who doesn't like rewards, right? And bonus â you'll be everyone's hero. Now here's what I need...
+
+TAG: Ursula_017_f
+Go to the Forgotten Lands and look around. There are ruins there linked to that source of power. Bring me whatever you find.
+
+TAG: Ursula_006_f
+Ha-ha-ha! Foolish human. Power is always what's most important!
+
+TAG: Ursula_018_f
+Besides, if Ariel's busy pining for her lost love, it'll keep her out of my way.
+
+TAG: Ursula_051_f
+Now, here's a thought. Have you ever considered starting a garden like mine? I COULD trade him for what I want.
+
+TAG: Player_003_choice_000_f
+I'd consider it.
+
+TAG: Player_003_choice_001_f
+I'll probably just set him free. But sure.
+
+TAG: Ursula_019_f
+Oh, {PlayerName}, you and I are going to do marvelous things! Now about the price...
+
+TAG: Ursula_021_f
+I need you to go to the Forgotten Lands and look around. There are ruins there linked to that source of power. Bring me whatever you find.
+
+TAG: Ursula_020_f
+Oh, they just don't make villains like they used to. Now about the price...
+
+TAG: Ursula_027_f
+Oh, but you haven't heard the best part: You'll get something in return.
+
+TAG: Ursula_028_f
+Oh, but you haven't heard the best part: You'll get something in return.
+
+TAG: Ursula_024_f
+Your loss, dearie. But trust me; you WILL want to hear what I have to say.
+

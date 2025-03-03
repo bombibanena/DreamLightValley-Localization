@@ -1,0 +1,23 @@
+
+N
+Mickey_001_f>Oh, hiya, pal! Did ya have any luck findin' some nice flowers?
+W
+Mickey_002_fGI found some... uh, nice... flowers. Made a bouquet. Gave it to Minnie.
+]
+Mickey_003_fMYou did?! Thanks, pal. But... uh, you didn't have to do all that on your own.
+Å
+Mickey_005_fqYou coulda just given 'em to me, and I woulda taken care of the rest. Or even better, we coulda made it together!
+1
+Player_000_choice_001_f(I messed up again...)
+8
+Player_000_choice_002_fOh... right... makes sense...
+=
+Player_000_choice_003_f"(So why didn't you tell me that?!)
+
+Mickey_006_f...
+=
+Mickey_007_f-Well, it's done. So... whatever... I guess...
+Z
+Mickey_008_fJThat's okay, pal. I'll just go and see how Minnie liked 'em. Thanks again!
+h
+Mickey_009_fXOh, uh... say, I think Goofy's lookin' for ya. Maybe you could <Lore>go find him</Lore>.

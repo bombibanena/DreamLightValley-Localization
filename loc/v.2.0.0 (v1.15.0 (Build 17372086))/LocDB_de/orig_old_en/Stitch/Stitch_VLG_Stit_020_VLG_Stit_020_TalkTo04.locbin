@@ -1,0 +1,23 @@
+
+L
+Stitch_000_f<Aka tiki-bah-bah! <ActivityItem>Coffee Beans</ActivityItem>!
+B
+Player_000_f2How would you like me to make your coffee, Stitch?
+5
+Player_000_choice_000_fWith a little bit of milk?
+1
+Player_000_choice_001_fWith sprinkles on top?
+2
+Player_000_choice_002_fWith some coconut cake?
+$
+Stitch_004_fHmm... I don't know.
+;
+Stitch_006_f+Before Forgetting, Remy make Stitch coffee.
+>
+Stitch_007_f.I guess I should go <Lore>talk to Remy</Lore>.
+`
+Stitch_009_fPWe can tell him he can add <ActivityItem>Coffee</ActivityItem> back to his menu.
+5
+Stitch_005_f%Coconut cake?! Yeah. Yeah. For later.
+&
+Stitch_008_fNow, just coffee good.

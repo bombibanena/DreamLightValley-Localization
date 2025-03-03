@@ -1,0 +1,60 @@
+TAG: Donald_000_f
+There you are! Great job on Dazzle Beach, {PlayerName}!
+
+TAG: Player_000_choice_000_f
+I'm happy to help.
+
+TAG: Player_000_choice_001_f
+Do you need anything else?
+
+TAG: Player_000_choice_002_f
+You left me with the hardest part of the job!
+
+TAG: Donald_001_f
+And that's why you're everyone's favorite friend.
+
+TAG: Donald_005_f
+Now, could you please bring this <ActivityItem>Photo</ActivityItem> to Sulley?
+
+TAG: Donald_007_f
+...
+
+TAG: Donald_008_f
+Donald... Did you modify this <ActivityItem>Photo</ActivityItem>? There was not that much trash on the Beach...
+
+TAG: Donald_009_f
+Um... You noticed that, huh? But I had a good reason!
+
+TAG: Donald_010_f
+I had to make the trash more noticeable for Sulley. Otherwise it might've looked like I was just hanging out on the Beach getting my photo taken.
+
+TAG: Player_001_choice_000_f
+I guess you have a point...
+
+TAG: Player_001_choice_001_f
+It's your decision.
+
+TAG: Player_001_choice_002_f
+I need to see how this is going to go.
+
+TAG: Donald_011_f
+Phew!
+
+TAG: Donald_014_f
+Now, please bring the <ActivityItem>Photo</ActivityItem> to Sulley, so he can see my project for himself.
+
+TAG: Donald_012_f
+It sure is!
+
+TAG: Donald_013_f
+With me named Villager of the Month, that's how!
+
+TAG: Donald_002_f
+Yeah, could you please bring this <ActivityItem>Photo</ActivityItem> to Sulley?
+
+TAG: Donald_003_f
+That's not true!
+
+TAG: Donald_004_f
+You just had to pick up some trash while I was getting this <ActivityItem>Photo</ActivityItem> ready.
+

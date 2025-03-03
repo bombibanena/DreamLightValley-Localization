@@ -1,0 +1,66 @@
+
+ 
+place_your_order_buttonOrder
+
+btn_bundlesBundles
+
+btn_collectCollect
+
+btn_collected	Collected
+
+btn_currencies
+Currencies
+
+btn_freeFree
+
+btn_gemsGems
+
+btn_homeShop
+
+btn_pass	Star Path
+
+btn_presentsPresents
+%
+btn_royal_dutiesDreamlight Duties
+$
+daily_reward_day_leftDay(s) left
+
+daily_reward_daysDays
+-
+daily_reward_extendExtend for {days} days
+,
+error_already_purchasedAlready purchased
+3
+exit_confirmationAre you sure you want to exit?
++
+next_daily_reward_time_leftNext gift in
+i
+order_shopping_cart_bodyMAre you sure you want to buy this? Items will be delivered to your Inventory.
++
+product_bonus_percent{percent}%<br>More
++
+product_discount_percent{percent}% Sale
+"
+product_offer_expire
+Expires in
+h
+#purchase_confirmation_body_currencyAAre you sure you want to spend {amount} {currency}(s) for {item}?
+g
+%purchase_confirmation_body_real_money>Are you sure you want to spend {amount} {currency} for {item}?
++
+purchase_confirmation_titleConfirmation
+A
+purchase_shopping_cart_body"Are you sure you want to buy this?
+:
+purchase_success_body!{item} was successfully purchased
+"
+purchase_success_titlePurchase
+
+shop_buyBuy
+
+
+shop_claimClaim
+0
+shop_confirmation_titlePurchase Confirmation
+a
+shopping_cart_exitKThere are still items in your shopping cart. Leaving will undo all changes.

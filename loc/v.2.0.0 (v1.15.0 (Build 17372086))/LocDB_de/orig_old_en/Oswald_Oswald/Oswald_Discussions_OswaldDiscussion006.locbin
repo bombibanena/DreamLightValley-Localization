@@ -1,0 +1,17 @@
+
+;
+Oswald_000_f+Hey, {PlayerName}, got a question for ya...
+R
+Oswald_001_fBDo ya know what happens when a raspberry trips in an intersection?
+(
+Player_000_choice_000_fI don't know.
+(
+Player_000_choice_001_fWhat happens?
+7
+Player_000_choice_002_fOh, I think I know this one.
+*
+Oswald_002_fA traffic jam! Oh-hoo-hoo!
+'
+Oswald_003_fIs there a traffic jam?
+?
+Oswald_004_f/Hey, are you peeking at my material? The cheek!

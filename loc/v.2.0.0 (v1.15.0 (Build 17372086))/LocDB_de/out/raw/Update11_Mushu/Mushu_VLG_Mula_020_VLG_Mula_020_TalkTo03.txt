@@ -1,0 +1,42 @@
+TAG: Mushu_001_f
+This is ridiculous! I'm a Guardian! I never run outta fire. How come this crazy theater lamp won't stay lit?!
+
+TAG: Mushu_002_f
+Oh! Heh-heh. {PlayerName}, didn't see you there.
+
+TAG: Player_000_choice_000_f
+... You all right, Mushu?
+
+TAG: Player_000_choice_001_f
+What seems to be the problem?
+
+TAG: Player_000_choice_002_f
+You can't light one tiny little lantern?
+
+TAG: Mushu_004_f
+I'm fine. It's the lantern that's got problems!
+
+TAG: Mushu_000_f
+It goes out WAY too fast.
+
+TAG: Mushu_010_f
+So it might go out in the middle of the show?
+
+TAG: Mushu_011_f
+Yeah. And that would NOT be good.
+
+TAG: Mushu_012_f
+Of course, this isn't the first shadow play we've put on in the Valley. We used to do lots of 'em before the Forgetting.
+
+TAG: Mushu_013_f
+And back then, our lantern had a special light source that never went out... Some sorta magic I'm not exactly familiar with.
+
+TAG: Mushu_014_f
+Magical oddity, huh? Time to go speak to Merlin.
+
+TAG: Mushu_006_f
+Well, I can light the lantern for the shadow play...
+
+TAG: Mushu_007_f
+The problem is: It won't stay lit!
+

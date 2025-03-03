@@ -1,0 +1,33 @@
+TAG: Remy_003_f
+{PlayerName}, question for you â when you're cooking, do you prefer to experiment or follow a recipe?
+
+TAG: Player_000_choice_000_f
+Experiment!
+
+TAG: Player_000_choice_001_f
+Follow the recipe.
+
+TAG: Player_000_choice_002_f
+I just hope for the best and try not to burn anything...
+
+TAG: Remy_004_f
+I love that! You'll never find new flavors if you're not willing to combine things in unexpected ways.
+
+TAG: Remy_005_f
+Of course, don't be afraid to follow a recipe sometimes. Making a meal exactly to specifications is an art form in itself.
+
+TAG: Remy_006_f
+Very smart. Making a perfect meal exactly to specifications is an art form.
+
+TAG: Remy_001_f
+But don't be afraid to get messy, play around, and experiment.
+
+TAG: Remy_002_f
+Combine ingredients in unexpected ways and see what happens.
+
+TAG: Remy_007_f
+Hey, don't sell yourself short!
+
+TAG: Remy_008_f
+You're a great cook. Just keep combining things together and you'll find new recipes.
+

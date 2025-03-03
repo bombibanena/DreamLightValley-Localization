@@ -1,0 +1,17 @@
+
+k
+9Story!ORQS_Scro_040_Glade_Any_CompletedRequestDescription.Поговори с Скрудж Макдак.
+�
+.Story!ORQS_Scro_040_Glade_AvailableDescription�Теперь, когда столп в Глэйде Доверия восстановлен, пришло время вернуть немного красоты в старое болото.
+�
+3Story!ORQS_Scro_040_Glade_CompletedStoryDescription�Ты превратил Глэйд Доверия в прекрасное место для деревенских жителей.
+s
+%Story!ORQS_Scro_040_Glade_DisplayNameJВосстановление долины: крепость доверия
+x
+6Story!ORQS_Scro_040_Glade_Group01_OngoingRequestButton><smallcaps>{title}</smallcaps><br> Что мне делать?
+n
+CStory!ORQS_Scro_040_Glade_Group01_Step01_Decorate01_StepDescription'Место {TargetAmount} мебель.
+g
+8Story!ORQS_Scro_040_Glade_Group01_Step01_StepDescription+Украсьте Глэйд Доверия.
+]
+,Story!ORQS_Scro_040_Glade_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

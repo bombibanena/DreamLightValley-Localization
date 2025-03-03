@@ -1,0 +1,75 @@
+TAG: JackSkellington_018_f
+There you go, Jack â all the remaining spider visitors and their web homes!
+
+TAG: JackSkellington_019_f
+Well, come along, my little eight-legged friends. I'll set up a new home for you when I'm back in my lab.
+
+TAG: Player_000_choice_000_f
+It will match the dÃ©cor.
+
+TAG: Player_000_choice_001_f
+Hope you can read the full message now!
+
+TAG: Player_000_choice_002_f
+Better there than my House.
+
+TAG: JackSkellington_005_f
+Precisely!
+
+TAG: JackSkellington_000_f
+Now, to examine the webbing...
+
+TAG: JackSkellington_016_f
+Oh my! {PlayerName}... Sally sent these spiders!
+
+TAG: Player_001_choice_003_f
+That's amazing!
+
+TAG: Player_001_choice_004_f
+Where could she be?
+
+TAG: Player_001_choice_005_f
+Is she going to come back to the Valley?
+
+TAG: JackSkellington_017_f
+Not just amazing, it's inspired!
+
+TAG: JackSkellington_014_f
+Well, let me get started then!
+
+TAG: JackSkellington_020_f
+Let me examine the message more closely...
+
+TAG: JackSkellington_022_f
+Ah yes, now I see the full message! It says...
+
+TAG: JackSkellington_023_f
+"Dear Jack, These helpful spiders have promised to assist in making a portal to bring me to you, but they may need your help. Please give them whatever they need. I miss you! â Love, Sally"
+
+TAG: JackSkellington_024_f
+Incredible! So the spiders are going to make a portal to bring Sally here?
+
+TAG: JackSkellington_010_f
+Isn't that wonderful?! Oh, but look â these poor spiders are quite tired. I suppose travel between worlds must be taxing.
+
+TAG: JackSkellington_011_f
+Oh no! Is there anything I can do to help them feel better?
+
+TAG: JackSkellington_012_f
+Hmm, let me think... Ah, yes! An <ActivityItem>Arachnid Rejuvenation Potion</ActivityItem>!
+
+TAG: JackSkellington_013_f
+After one of those, I'm certain the spiders will be eager to weave a portal bridging us to Sally.
+
+TAG: JackSkellington_006_f
+So do I, {PlayerName}...
+
+TAG: JackSkellington_007_f
+I see. You don't like spiders?
+
+TAG: JackSkellington_008_f
+Nooooooooo.
+
+TAG: JackSkellington_009_f
+Well, I'll tell them not to wander.
+

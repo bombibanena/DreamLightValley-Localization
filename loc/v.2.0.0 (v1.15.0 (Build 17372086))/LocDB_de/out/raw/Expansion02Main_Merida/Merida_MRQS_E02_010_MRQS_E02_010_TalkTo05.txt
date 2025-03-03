@@ -1,0 +1,54 @@
+TAG: Merida_001_f
+Whoo-hoo! You caught some Snippets!
+
+TAG: Merida_002_f
+So the Royal Net was hidden right there all along, under that face in the floor.
+
+TAG: Merida_003_f
+Wait... That's a picture of <Lore>Princess Aurora</Lore>!
+
+TAG: Player_000_choice_000_f
+Who is this princess?
+
+TAG: Player_000_choice_001_f
+Where did the Royal Net come from?
+
+TAG: Player_000_choice_002_f
+No time to waste! What's next?
+
+TAG: Merida_004_f
+Oh, she was a really kind lass who used to live here.
+
+TAG: Merida_005_f
+Not too long ago <Lore>she just up and vanished</Lore>.
+
+TAG: Merida_006_f
+Maybe the Lorekeeper can help us find where Aurora went. But we'll have to help her first.
+
+TAG: Merida_015_f
+There's no time to waste! What's next?
+
+TAG: Merida_010_f
+Well, catching just a few of those paper pests isn't nearly enough. We'll have to catch more <ActivityItem>Snippets</ActivityItem> with that Net...
+
+TAG: Merida_011_f
+...and put all that magic back inside the Lorekeeper.
+
+TAG: Merida_012_f
+I noticed some of them are <Lore>stuck in the wings of the Library</Lore>. Only those parts of the Library are locked up.
+
+TAG: Merida_013_f
+You might be able to open them using those big wheels by the doors. They won't budge for me, but it looks like <Lore>they're made out of the same stuff as the Royal Net</Lore>.
+
+TAG: Merida_014_f
+Try swinging your Net at the wheels! If it were me, I'd <Lore>swing it from above</Lore> to catch what's up high or hold it tight and <Lore>wind up to do a spin</Lore>.
+
+TAG: Merida_007_f
+The Lorekeeper told me that some kindly fairies made it.
+
+TAG: Merida_008_f
+It's the only thing that can catch the Snippets. They put a spell on it so only two people could use it.
+
+TAG: Merida_009_f
+The princess and you, {PlayerName}.
+

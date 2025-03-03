@@ -1,0 +1,51 @@
+TAG: Oswald_001_f
+Hey, Oswald! I'm checking in with everyone that Jafar dealt with. How has he been around you since the trial?
+
+TAG: Oswald_011_f
+Well, that's surprisingly reassuring.
+
+TAG: Oswald_002_f
+How do, {PlayerName}! And, actually, Jafar's been swell!
+
+TAG: Oswald_004_f
+Well, that's good to hear, I suppose. What kind of nice actions has he been doing?
+
+TAG: Oswald_006_f
+Well, he brought me a gift â a set of tools for Trolley repair and maintenance!
+
+TAG: Oswald_008_f
+Oh, that's actually very considerate of him.
+
+TAG: Oswald_009_f
+Yeah! He apologized for before and said that he liked my style.
+
+TAG: Oswald_010_f
+And that the <Lore>traditional</Lore> look was always in fashion.
+
+TAG: Oswald_000_f
+You know, after hearing what everyone has told me... I think that maybe we should do something for Jafar.
+
+TAG: Oswald_013_f
+That idea's tops!
+
+TAG: Oswald_014_f
+It's clear that Jafar is trying to ingratiate himself to everyone now.
+
+TAG: Oswald_015_f
+We should do something to show that we appreciate his effort.
+
+TAG: Oswald_016_f
+Hmm...
+
+TAG: Oswald_017_f
+Let's see... He did kinda show his own interests with his gift choices â we should use that to start!
+
+TAG: Oswald_018_f
+I've got it! We'll decorate around the Palace with furniture that's <Lore>Red</Lore>, <Lore>Black</Lore>, <Lore>Elegant</Lore>, <Lore>Bold</Lore>, and <Lore>Traditional</Lore>!
+
+TAG: Oswald_019_f
+Maybe I should talk to Merlin to get a little something extra special too...
+
+TAG: Oswald_012_f
+Thanks Oswald; I think you've made things way more clear for me.
+

@@ -1,0 +1,18 @@
+TAG: Merlin_006_f
+Focus your magic on the Night Thorns, {PlayerName}.
+
+TAG: Player_002_choice_000_f
+Remove the Night Thorns. (Use {UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)
+
+TAG: Player_002_choice_001_f
+I'm not ready yet.
+
+TAG: Merlin_007_f
+Bravo, {PlayerName}! Bravo! Now we can finally enter the Dream Castle!
+
+TAG: Merlin_010_f
+Your magic isn't strong enough yet. You'll need more Dreamlight to enter the Dream Castle.
+
+TAG: Merlin_008_f
+It's wise of you to acknowledge that. But remember: Only YOU have the magic to enter the Dream Castle. So return as soon as you're ready.
+

@@ -1,0 +1,90 @@
+TAG: Gaston_000_f
+There's definitely some work to do.
+
+TAG: Gaston_001_f
+Olaf follows commands well...
+
+TAG: Gaston_002_f
+But he refuses to simply sit and wait for my instructions!
+
+TAG: Gaston_003_f
+Yeah, about that...
+
+TAG: Player_000_choice_000_f
+You need to ease up on Olaf.
+
+TAG: Player_000_choice_001_f
+You're being way too hard on poor Olaf!
+
+TAG: Gaston_004_f
+What? But he's my sidekick!
+
+TAG: Gaston_005_f
+You're trying to be a hero, aren't you, Gaston?
+
+TAG: Gaston_006_f
+Trying to be? I already am!
+
+TAG: Gaston_007_f
+Then try acting like one! Olaf isn't your lackey. I wanted to find you a friend!
+
+TAG: Gaston_008_f
+You have a responsibility to treat Olaf properly.
+
+TAG: Gaston_009_f
+... That's truly important to you?
+
+TAG: Gaston_010_f
+Yes!
+
+TAG: Gaston_011_f
+Fine. I'll... keep that in mind.
+
+TAG: Gaston_012_f
+Thank you, Gaston.
+
+TAG: Gaston_013_f
+Stitch has... interesting ideas about how a sidekick should behave.
+
+TAG: Player_001_choice_000_f
+That's Stitch for you!
+
+TAG: Player_001_choice_001_f
+What sort of ideas?
+
+TAG: Gaston_014_f
+He keeps telling me to think about my "badness levels."
+
+TAG: Gaston_015_f
+And not to let them control me.
+
+TAG: Gaston_016_f
+Can you imagine it? Me? With some sort of badness level?
+
+TAG: Player_002_choice_000_f
+What a suggestion...
+
+TAG: Player_002_choice_001_f
+Yes, yes, I can imagine it.
+
+TAG: Gaston_017_f
+He'll learn soon enough.
+
+TAG: Gaston_018_f
+Though I must say, the little creature is tough â I like that in a sidekick!
+
+TAG: Gaston_019_f
+All right, Gaston; I'll let you do your thing.
+
+TAG: Gaston_020_f
+But try to be open-minded! Stitch could probably teach you a thing or two about heroism.
+
+TAG: Gaston_021_f
+You should ask him about his adventures. I didn't want to find you a lackey. I wanted to find you a friend.
+
+TAG: Gaston_022_f
+Hmm, I'll keep that in mind.
+
+TAG: Gaston_023_f
+That is why imagination is dangerous...
+

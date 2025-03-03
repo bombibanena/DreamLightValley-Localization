@@ -1,0 +1,51 @@
+
+#
+Gaston_001_fLook at this place!
+3
+Player_000_choice_000_fYeah, it's pretty rough.
+B
+Player_000_choice_001_f'Bit of a fixer-upper, but not that bad.
+5
+Player_000_choice_002_fGaston, it looks terrible.
+F
+Gaston_005_f6Hey! Only I'm allowed to say that. But you're right...
+l
+Gaston_016_f\Well, first we need to clear out all this sand and do something about that portrait of mine.
+<
+Gaston_002_f,It's insulting for it to be in such a state!
+W
+Gaston_017_fGTry using your fancy Hourglass on it, and let me know when you're done.
+.
+Player_001_choice_000_fYou're not helping?
+-
+Player_001_choice_001_f... Okay, I guess.
+ 
+Player_001_choice_002_fSure!
+-
+Gaston_008_fThis will take a bit of work.
+A
+Gaston_009_f1Normally, I'd just tell LeFou to handle things...
+
+Gaston_010_fBut?
+
+Gaston_011_f...
+
+Gaston_012_fGaston? Hello?
+*
+Gaston_013_fOh, uh, what was I saying?
+
+Gaston_014_fRenovations.
+
+Gaston_015_fRight!
+;
+Gaston_018_f+I'm overseeing the work — that's helping!
+/
+Gaston_021_fAll right, time to get to work!
+K
+Gaston_019_f;A poor attitude doesn't make the work easier, {PlayerName}!
+;
+Gaston_020_f+Excellent, LeF— err, I mean {PlayerName}.
+)
+Gaston_006_fJust what I was thinking!
+I
+Gaston_007_f9... I don't often say that other people are right. But...

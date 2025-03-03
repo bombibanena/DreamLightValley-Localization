@@ -1,0 +1,27 @@
+TAG: Village!Oswald!VLG_Oswa_050_AvailableDescription
+Гастон должен иметь интересный вызов для вас и Освальд...
+
+TAG: Village!Oswald!VLG_Oswa_050_DisplayName
+Гастон Вызов
+
+TAG: Village!Oswald!VLG_Oswa_050_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Гастон.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group02_Step02_RemoveBlocker01_StepDescription
+Медные скалы.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group02_Step02_RemoveBlocker02_StepDescription
+Стеклянные сталагмиты.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group02_Step02_StepDescription
+Разбить камни вокруг острова Вечность, чтобы доказать свою силу.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group03_Step03_TalkToCharacter02_StepDescription
+Посмотрим, как Освальд справилась с его заданием.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group04_Step04_Interaction01_StepDescription
+Заполните много дыр Освальд, оставшихся в Бледных Дюнах.
+
+TAG: Village!Oswald!VLG_Oswa_050_Group05_Step05_TalkToCharacter03_StepDescription
+Проверьте с Гастон, кто выиграл вызов.
+

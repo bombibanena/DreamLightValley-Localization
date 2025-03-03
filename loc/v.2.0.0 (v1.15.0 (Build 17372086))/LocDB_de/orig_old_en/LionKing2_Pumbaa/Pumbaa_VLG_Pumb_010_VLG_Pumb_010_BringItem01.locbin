@@ -1,0 +1,65 @@
+
+I
+Pumbaa_000_f9Hey, Pumbaa! Here are a couple of foods for you to try...
+[
+Pumbaa_004_fKOh, I'm so glad you're here! I was gettin' real worried... and real hungry!
+A
+Pumbaa_005_f1Wait ‚Äî what does food have to do with my aroma?
+D
+Player_000_choice_002_f)Eat the Onion Puffs. Then I'll explain...
+B
+Player_000_choice_003_f'We think you have a food intolerance...
+/
+Player_000_choice_004_fIt's cheese's fault.
+
+Pumbaa_007_fNo problem!
+L
+Pumbaa_012_f<So delicious... But... Oof! My tummy doesn't feel so good...
+>
+Player_002_choice_000_f#Eating cheese is causing the smell!
+G
+Player_002_choice_001_f,I feel your pain. I can't eat cheese either!
+D
+Player_002_choice_002_f)Sorry, buddy. No cheese from here on out.
+û
+Pumbaa_013_fçNow, try eating those <ActivityItem>Gingerbread Cookies</ActivityItem> I made you. They're cheese-free, and the ginger can help your stomach.
+)
+Pumbaa_001_fWell, they do smell good.
+&
+Pumbaa_002_f*crunch crunch crunch*
+f
+Pumbaa_018_fVSay, my tummy feels much better now! But... how can I ever go in the restaurant again?
+ô
+Pumbaa_019_fàI'm going to help with that too. I also spoke to Daisy and Elsa. They had a few thoughts to help you feel more comfortable at Chez Remy.
+3
+Player_003_choice_000_fWhen did you last bathe?
+6
+Player_003_choice_001_fAnd I've got just the plan!
+<
+Player_003_choice_002_f!You'll be fine-dining again soon!
+2
+Pumbaa_023_f"Me? Oh... maybe a week or two ago.
+(
+Pumbaa_026_fI can't really remember.
+L
+Pumbaa_028_f<First things first, Pumbaa. I'm gonna get you a bubble bath.
+X
+Pumbaa_030_fHBubbles? But how would bubbles get you clean? We warthogs use mud baths.
+p
+Pumbaa_031_f`It keeps you cool, and when it flakes off ‚Äî you're clean! Gee, I could sure go for a mud bath.
+N
+Pumbaa_032_f>Hmm. All right, Pumbaa. I'll <Lore>make you a mud bath</Lore>.
+L
+Pumbaa_033_f<Thanks! I'm gonna go share some of these cookies with Timon!
+
+Pumbaa_024_fOh boy, really?
+N
+Pumbaa_006_f>What's that? I tolerate all kinds of food! In fact, I love it!
+w
+Pumbaa_010_fgIt means your digestive system doesn't really like certain things. Remy and I think it might be cheese.
+1
+Pumbaa_011_f!Try the Onion Puffs I gave you...
+A
+Pumbaa_008_f1What? NO! Cheese would never hurt me! It's yummy!
+p
+Pumbaa_009_f`It's just the theory Remy and I have... Let's test it, okay? Eat the Onion Puffs I made for you.

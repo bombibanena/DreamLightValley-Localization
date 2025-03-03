@@ -1,0 +1,77 @@
+
+æ
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_025_fOOf course! If you change your mind, you should know precisely where to find me.
+è
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_026_f After all... you placed me here!
+Î
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_000_f|Greetings, Valley Villager! I am a KL-1200 <Lore>Valley Visit Station</Lore>, equipped for rapid interdimensional transport.
+Ç
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_001_fíYour connection to other Valleys is currently <Lore>open</Lore>. Your friends are able to visit your Valley using a special secret code: {roomid}.
+Ç
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_002_fHow can I help you?
+ú
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_000_fBClose the connection to {roomid} ‚Äî I don't want any more visits.
+h
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_001_fInvite Friends
+m
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_002_fManage my visitors.
+í
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_003_f8Leave the connection open ‚Äî I want more Valley Visits!
+µ
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_003_fFPlease wait just a moment as I close your connection to other Valleys.
+‚
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_004_fsYour Valley Visit connection is now <Lore>closed</Lore>. Your friends will no longer be able to visit your Village.
+Ã
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_005_f]If you would like to re-open the connection, <Lore>speak to me to generate a new code</Lore>.
+Ü
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_006_fWhat do you want to do?
+k
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_001_choice_000_fRemove a visitor.
+j
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_001_choice_001_fBlock a visitor.
+l
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_001_choice_002_fI changed my mind.
+ñ
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_007_f'Which visitor would you like to remove?
+Å
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_008_fI changed my mind.
+∞
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_009_fAWould you like to remove "{selectedplayername}" from your Valley?
+]
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_002_choice_000_fYes
+\
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_002_choice_001_fNo
+¨
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_010_f=Operation completed. "{selectedplayername}" has been removed.
+ú
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_011_f-Oops, something went wrong. Please try again.
+í
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_012_f#Which visitor do you want to block?
+Å
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_013_fI changed my mind.
+Í
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_014_f{Would you like to block "{selectedplayername}" from this connection and any other connection you will create in the future?
+]
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_003_choice_000_fYes
+\
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_003_choice_001_fNo
+¨
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_015_f=Operation completed. "{selectedplayername}" has been blocked.
+¡
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_016_fROf course! If you ever want to close the connection, just <Lore>talk to me</Lore>.
+ù
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_017_f.Don't forget ‚Äî your secret code is {roomid}!
+Î
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_018_f|Greetings, Valley Villager! I am a KL-1200 <Lore>Valley Visit Station</Lore>, equipped for rapid interdimensional transport.
+˘
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_019_fâWould you like to <Lore>open a connection for Valley Visits</Lore>? Your friends will be able to visit your Village using a special code!
+Å
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_004_choice_000_f'Open up a connection for Valley Visits!
+p
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_004_choice_001_fMaybe some other time!
+∂
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_020_fGPlease wait just a moment as I generate your Valley's special passcode!
+¿
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_021_fQ... Thank you for your patience. Your code is {roomid}. Be sure to write it down!
+“
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_022_fcYour friends can now visit your Valley by inputting that code in the start menu. {crossplaywarning}

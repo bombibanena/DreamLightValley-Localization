@@ -1,0 +1,6 @@
+TAG: Sally_000_f
+Have you found the things for our compost bin, {PlayerName}?
+
+TAG: Sally_001_f
+Yep. Got the trimmings and the resources â just need to get crafting now.
+

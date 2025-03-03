@@ -1,0 +1,42 @@
+TAG: Simba_005_f
+It's great being back here with Nala. Last time, we didn't get to explore much.
+
+TAG: Simba_006_f
+I want to do something special for her. Show her what life was like for me with Timon and Pumbaa.
+
+TAG: Simba_007_f
+And a special occasion in the jungle always calls for grubs!
+
+TAG: Player_000_f
+Grubs...? Wait, like... bugs?
+
+TAG: Player_000_choice_000_f
+Sounds tasty.
+
+TAG: Player_000_choice_001_f
+Ewwww! Yuck.
+
+TAG: Player_000_choice_002_f
+As long as I don't need to eat any.
+
+TAG: Simba_008_f
+They are! Nala doesn't think they'll taste good, but I bet we can prove her wrong.
+
+TAG: Simba_011_f
+I'll just need some help finding everything.
+
+TAG: Simba_012_f
+There are some really <ActivityItem>Slimy Bugs</ActivityItem> that you can fish out of the river around here.
+
+TAG: Simba_013_f
+And there are some really <ActivityItem>Colorful Bugs</ActivityItem> just outside the jungle, in the dried-out oasis.
+
+TAG: Simba_000_f
+Okay, I'll go collect those while you get everything ready here.
+
+TAG: Simba_009_f
+Yeah, that's what Nala thinks too. But I bet you'll both change your minds.
+
+TAG: Simba_010_f
+You don't. But when you see how tasty they look, you'll change your mind.
+

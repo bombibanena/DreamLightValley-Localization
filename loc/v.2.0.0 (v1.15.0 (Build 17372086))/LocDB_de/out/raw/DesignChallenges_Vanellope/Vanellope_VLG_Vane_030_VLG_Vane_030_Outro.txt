@@ -1,0 +1,33 @@
+TAG: Vanellope_000_f
+Did you see your special loot?
+
+TAG: Vanellope_001_f
+What a well-drawn and cool prize, huh?
+
+TAG: Player_000_choice_000_f
+What do you think it is?
+
+TAG: Player_000_choice_001_f
+Did you draw this, Vanellope?
+
+TAG: Player_000_choice_002_f
+You call this loot?
+
+TAG: Vanellope_002_f
+Uh, it's a map, guhdoy!
+
+TAG: Vanellope_003_f
+It must lead to some sort of treasure hidden in the Valley.
+
+TAG: Vanellope_004_f
+I'd hang on to that, {PlayerName}. It might be good for a future adventure... One I'm not QUITE finished planning yet...
+
+TAG: Vanellope_005_f
+It looks like a sort of... homemade <ActivityItem>Memory</ActivityItem>. Or a map to a treasure hunt? Or both.
+
+TAG: Vanellope_006_f
+You got it!
+
+TAG: Vanellope_007_f
+Hey! I worked hard onâ ... Erm. I mean, it looks like some sort of map to a treasure.
+

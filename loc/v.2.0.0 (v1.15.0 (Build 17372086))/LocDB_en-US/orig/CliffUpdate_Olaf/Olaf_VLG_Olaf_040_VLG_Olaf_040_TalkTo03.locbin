@@ -1,0 +1,104 @@
+
+.
+
+Olaf_000_f Donald Duck...? Is that you...?!
+o
+
+Olaf_001_faHee-hee-hee, I'm just kidding, {PlayerName}! I know it's you under there. But you look wonderful!
+`
+
+Olaf_002_fRFrom a few feet away, someone could really mistake you for the actual Donald Duck.
+#
+Player_000_choice_000_fI agree.
+,
+Player_000_choice_001_fUh... I doubt it.
+Z
+Player_000_choice_002_f?I look nothing like Donald!!! I can hardly see in this thing!!!
+%
+
+Olaf_003_fOkay, let's rehearse...
+_
+
+Olaf_004_fQ<Lore>"Aha! It is I, the courageous woodsman and ice deliverer, Kristoff."</Lore>
+6
+Player_001_f&Uh... <Lore>"And I'm... I'm..."</Lore>
+>
+Player_001_choice_000_f#"...the valiant hero, Donald Duck!"
+B
+Player_001_choice_001_f'"...the dashing, debonair Donald Duck!"
+,
+Player_001_choice_002_f"...Ronald Ruck?"
+3
+
+Olaf_005_f%Psst. Great job so far, {PlayerName}.
+~
+
+Olaf_006_fp<Lore>"Together, my feathered friend and I are on a quest to stop the Forgetting and restore the Valley!"</Lore>
+:
+
+Olaf_007_f,<Lore>"*gasp* Who's that over there?"</Lore>
+W
+
+Olaf_008_fI<Lore>"It's some sort of Dark Entity stealing the Orb of Courage!"</Lore>
+>
+
+Olaf_009_f0Psst. It's time for your big line, {PlayerName}!
+'
+Player_002_choice_000_f"Aw phooey!"
+4
+Player_002_choice_001_f"To infinity and beyond!"
+%
+Player_002_choice_002_f
+"WALL¬∑E!"
+T
+
+Olaf_010_fFPerfect! It's like you're guided by the spirit of Donald Duck himself!
+_
+
+Olaf_011_fQ<Lore>"Quick! The Dark Entity is escaping through that mysterious portal!"</Lore>
+ú
+
+Olaf_012_fçPsst. Okay, {PlayerName}, it's time for your big stunt! Leap into the air like you're jumping through a portal into a dark, mysterious world!
+<
+Player_003_choice_000_f!Don't worry. I'll nail this part.
+:
+Player_003_choice_001_f*gulp* ... Here goes nothing...
+=
+
+Olaf_013_f/<Lore>"I'll stop you, you vile villain!"</Lore>
+6
+
+Olaf_014_f(Perfect! That stunt was very convincing.
+0
+
+Olaf_015_f"As for your performance overall...
+E
+
+Olaf_016_f7It was amazing! This is the role you were born to play.
+j
+
+Olaf_017_f\Now all we need to do is set up the stage in the Frosted Heights, so we can put on the play.
+r
+
+Olaf_018_fdYou've made some very bold choices that are sure to be divisive with the audience. But I liked them!
+9
+
+Olaf_019_f+<Lore>"I'll stop you, you... you‚Äî"</Lore>
+
+
+Olaf_020_fAgh! Whoops!
+\
+
+Olaf_021_fNOkay, that was... well, I guess stunts aren't your strong suit as a performer.
+o
+
+Olaf_022_faUm... I think that's more of a Buzz Lightyear thing to say, but I like that you're experimenting.
+h
+
+Olaf_023_fZUm... I think that's more of a WALL¬∑E thing to say, but I like that you're experimenting.
+K
+
+Olaf_024_f=Psst. You're making some interesting choices, {PlayerName}...
+F
+
+Olaf_025_f8Ooh, try to work that frustration into your performance.

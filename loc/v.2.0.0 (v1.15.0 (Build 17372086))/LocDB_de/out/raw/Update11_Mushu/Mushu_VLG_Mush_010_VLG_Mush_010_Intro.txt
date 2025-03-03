@@ -1,0 +1,96 @@
+TAG: Mushu_001_f
+Hey, {PlayerName}. I need a little help here. It's about the Forgetting. You got a minute?
+
+TAG: Player_000_choice_000_f
+What's on your mind, Mushu?
+
+TAG: Player_000_choice_001_f
+Let's talk later.
+
+TAG: Mushu_017_f
+Well, I'm real happy to be here in the Valley. And everything's starting to come back to me.
+
+TAG: Mushu_018_f
+Like, I remembered that before the Forgetting, I wasn't JUST Mulan's Guardian... I was Guardian for the whole Valley.
+
+TAG: Mushu_019_f
+Problem is, now that I've remembered, I got this worry I can't shake...
+
+TAG: Mushu_020_f
+What happens if I forget everything again?!
+
+TAG: Player_003_choice_000_f
+Your friends will remind you!
+
+TAG: Player_003_choice_001_f
+Dreamlight Valley is safe with me now.
+
+TAG: Player_003_choice_002_f
+Would a song help you make sure you don't forget?
+
+TAG: Mushu_022_f
+Unless THEY forget again too!
+
+TAG: Mushu_024_f
+Hmm... Maybe we can put up a display? Something that will always remind you who you are.
+
+TAG: Player_004_choice_000_f
+Like a big shield, because you're a protector?
+
+TAG: Player_004_choice_001_f
+Like a big, everlasting torch?
+
+TAG: Player_004_choice_002_f
+Like a HUGE statue of YOU?
+
+TAG: Mushu_026_f
+I might not get the message with that. See, there was this time I used a shield as a snow sledâ But, that's not the point.
+
+TAG: Mushu_028_f
+That does give me an idea, though. What if we made something like the <Lore>Great Stone Dragon</Lore> statue from the Fa family's garden?!
+
+TAG: Mushu_029_f
+It's a HUGE Guardian statue that always inspired me to be a Guardian. Here, it could remind me that I AM a Guardian. Like a giant symbol of my sworn duty!
+
+TAG: Player_002_choice_000_f
+Let's do it!
+
+TAG: Player_002_choice_001_f
+That's surprisingly sweet.
+
+TAG: Player_002_choice_002_f
+It won't bruise your ego?
+
+TAG: Mushu_011_f
+Aw, I knew I could count on you!
+
+TAG: Mushu_013_f
+First, we gotta get rid of any bad luck that might mess up the project.
+
+TAG: Mushu_015_f
+Since my pal Cri-Kee isn't here, could you <Lore>go back to our training camp</Lore> and catch a few <ActivityItem>Lucky Bugs</ActivityItem>?
+
+TAG: Mushu_016_f
+While you do that, I'm gonna draw up some plans.
+
+TAG: Mushu_010_f
+Well, you know, even a fearsome dragon can have a soft side. Now...
+
+TAG: Mushu_012_f
+Please! I'm the Guardian of an ENTIRE VALLEY! I'm good. Now...
+
+TAG: Mushu_025_f
+A hot idea! But probably a little too vague.
+
+TAG: Mushu_027_f
+Heh-heh. Now, I do like the sound of that, but I'm not sure it'll help me remember my duty to the Valley. Of course it WOULD make me say, "Whoa! What a handsome statue!"
+
+TAG: Mushu_021_f
+I know, I know. And you're great, {PlayerName}. But I gotta make sure I can always do my part.
+
+TAG: Mushu_023_f
+Ha! I like the way you think, but singing isn't really my thing.
+
+TAG: Mushu_003_f
+Okay. All right. No problem. I'll be around!
+

@@ -1,0 +1,87 @@
+
+V
+AVillage!Brave!Merida!VLG_Meri_020_Any_CompletedRequestDescriptionReturn to Merida.
+ã
+6Village!Brave!Merida!VLG_Meri_020_AvailableDescription–{PlayerName} discovered that Maleficent and Hades weren't the only ones feuding in the Vale. Merida was seething over a slight from Flynn Rider. It would be up to {PlayerName} to sort out the sorry situation.
+“
+;Village!Brave!Merida!VLG_Meri_020_CompletedStoryDescriptioníAfter a thrilling archery competition, Flynn admitted that Merida was the better archer. The two at last came to a moment of peace and friendship.
+G
+-Village!Brave!Merida!VLG_Meri_020_DisplayNameArchery and Archrivals
+j
+RVillage!Brave!Merida!VLG_Meri_020_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
+{
+JVillage!Brave!Merida!VLG_Meri_020_Group02_Step24_Possess06_StepDescription-Remove the wanted posters near Flynn's House.
+â
+AVillage!Brave!Merida!VLG_Meri_020_Group03_Step02_ReadyDescriptionDBring <ActivityItem>Flynn's Wanted Posters</ActivityItem> to Merida.
+ù
+@Village!Brave!Merida!VLG_Meri_020_Group03_Step02_StepDescriptionYMake sure you have <ActivityItem>Flynn's Wanted Posters</ActivityItem> in your Inventory.
+Y
+JVillage!Brave!Merida!VLG_Meri_020_Group04_Step04_Possess01_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_020_Group04_Step04_Possess02_StepDescription{ItemName}.
+e
+@Village!Brave!Merida!VLG_Meri_020_Group04_Step04_StepDescription!Gather the following Ingredients:
+õ
+:Village!Brave!Merida!VLG_Meri_020_Group04_StoryDescription‹{PlayerName} discovered that Merida and Flynn had been arguing over Flynn's attempts to give Merida "helpful" advice. Merida turned things around on Flynn with a prank involving some posters that misrepresented his nose.
+Z
+KVillage!Brave!Merida!VLG_Meri_020_Group05_Step05_CookMeal01_StepDescription{ItemName}.
+`
+9Village!Brave!Merida!VLG_Meri_020_Group05_StepDescription#Cook the meal for Merida and Flynn:
+x
+LVillage!Brave!Merida!VLG_Meri_020_Group06_Step06_VisitArea01_StepDescription(Go inside Merida's cottage for the meal.
+o
+IVillage!Brave!Merida!VLG_Meri_020_Group07_Step07_Listen01_StepDescription"Watch Merida and Flynn's argument.
+q
+9Village!Brave!Merida!VLG_Meri_020_Group07_StepDescription4Uh-oh... Looks like this meal isn't going so well...
+e
+RVillage!Brave!Merida!VLG_Meri_020_Group08_Step08_TalkToCharacter03_StepDescriptionTalk to Merida.
+û
+KVillage!Brave!Merida!VLG_Meri_020_Group09_Step09_Decorate01_StepDescriptionOPlacing the <ActivityItem>Archery Contest Signs</ActivityItem> around the Bind.
+x
+9Village!Brave!Merida!VLG_Meri_020_Group09_StepDescription;Help Merida set up an archery competition against Flynn by:
+Y
+JVillage!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess03_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess04_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess05_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess07_StepDescription{ItemName}.
+{
+@Village!Brave!Merida!VLG_Meri_020_Group10_Step10_StepDescription7Gather the following materials for the Archery Targets:
+e
+LVillage!Brave!Merida!VLG_Meri_020_Group11_Step11_CraftItem01_StepDescriptionCraft the {itemName}.
+i
+AVillage!Brave!Merida!VLG_Meri_020_Group12_Step12_ReadyDescription$Bring the {itemName} to {TargetNPC}.
+x
+@Village!Brave!Merida!VLG_Meri_020_Group12_Step12_StepDescription4Make sure you have the {itemName} in your Inventory.
+ä
+LVillage!Brave!Merida!VLG_Meri_020_Group13_Step13_VisitArea02_StepDescription:Meet Merida inside the Fairy Tale Trial in the Wild Woods.
+Å
+RVillage!Brave!Merida!VLG_Meri_020_Group14_Step14_TalkToCharacter04_StepDescription+Talk to Merida inside the Fairy Tale Trial.
+ö
+RVillage!Brave!Merida!VLG_Meri_020_Group15_Step15_TalkToCharacter05_StepDescriptionDTalk to Flynn in the Fairy Tale Trial to tell him to start shooting.
+}
+NVillage!Brave!Merida!VLG_Meri_020_Group16_Step16_TakePicture01_StepDescription+Take a picture of Flynn next to the target.
+Ç
+RVillage!Brave!Merida!VLG_Meri_020_Group17_Step17_TalkToCharacter06_StepDescription,Talk to {TargetNPC} in the Fairy Tale Trial.
+Ç
+RVillage!Brave!Merida!VLG_Meri_020_Group18_Step18_TalkToCharacter07_StepDescription,Talk to {TargetNPC} in the Fairy Tale Trial.
+f
+JVillage!Brave!Merida!VLG_Meri_020_Group19_Step19_Possess08_StepDescriptionInvestigate the targets.
+o
+@Village!Brave!Merida!VLG_Meri_020_Group19_Step19_StepDescription+There's no way Merida would miss that shot!
+|
+AVillage!Brave!Merida!VLG_Meri_020_Group20_Step20_ReadyDescription7Show {itemName} to {TargetNPC} in the Fairy Tale Trial.
+t
+@Village!Brave!Merida!VLG_Meri_020_Group20_Step20_StepDescription0Make sure you have {itemName} in your Inventory.
+Ç
+RVillage!Brave!Merida!VLG_Meri_020_Group21_Step21_TalkToCharacter08_StepDescription,Talk to {TargetNPC} in the Fairy Tale Trial.
+h
+AVillage!Brave!Merida!VLG_Meri_020_Group22_Step22_ReadyDescription#Show the {itemName} to {TargetNPC}.
+l
+@Village!Brave!Merida!VLG_Meri_020_Group22_Step22_StepDescription(Retrieve the {itemName} from the target.
+i
+IVillage!Brave!Merida!VLG_Meri_020_Group23_Step23_Listen02_StepDescriptionWatch Flynn and Merida chat.
+e
+4Village!Brave!Merida!VLG_Meri_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

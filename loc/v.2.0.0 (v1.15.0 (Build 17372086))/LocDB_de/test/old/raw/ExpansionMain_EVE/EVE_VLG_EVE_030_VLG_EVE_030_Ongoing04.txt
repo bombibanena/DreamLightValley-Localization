@@ -1,0 +1,6 @@
+TAG: EVE_000_f
+Директива: Растение!
+
+TAG: EVE_001_f
+Позвольте мне сначала поближе взглянуть на <ActivityItem>Dreamlight Cobra Lily</ActivityItem>.
+

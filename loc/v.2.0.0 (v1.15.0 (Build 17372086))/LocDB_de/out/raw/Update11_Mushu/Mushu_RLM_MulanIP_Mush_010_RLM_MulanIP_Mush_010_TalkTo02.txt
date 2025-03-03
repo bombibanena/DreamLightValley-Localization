@@ -1,0 +1,48 @@
+TAG: Mushu_002_f
+Excellent work, {PlayerName}... I mean, recruit. The camp looks good as new.
+
+TAG: Mushu_003_f
+Now, we can't start your real training until you're properly dressed.
+
+TAG: Mushu_004_f
+There should be a uniform for you around here somewhere...
+
+TAG: Mushu_005_f
+Well, parts of it, anyway.
+
+TAG: Mushu_000_f
+What do you mean "parts"?
+
+TAG: Mushu_001_f
+Oh, I think the kids... I mean the recruits... were in a hurry to get home and forgot to turn in their <ActivityItem>Uniforms</ActivityItem>.
+
+TAG: Mushu_012_f
+Don't worry: Everything's clean. You just <Lore>gotta look around for the different pieces</Lore>.
+
+TAG: Player_000_choice_000_f
+Oh! Like a treasure hunt! I love it!
+
+TAG: Player_000_choice_001_f
+Sounds simple enough.
+
+TAG: Player_000_choice_002_f
+Is there anything in this camp that isn't a mess?
+
+TAG: Mushu_007_f
+Sure. Yeah. That's it. Have fun!
+
+TAG: Mushu_010_f
+You're gonna have to <Lore>look ALL over the camp and outside it too</Lore>.
+
+TAG: Mushu_011_f
+Make sure you find <ActivityItem>Shoes</ActivityItem>, <ActivityItem>Socks</ActivityItem>, a pair of <ActivityItem>Pants</ActivityItem>, and a <ActivityItem>Shirt</ActivityItem>. Once you find everything, bring 'em back to me.
+
+TAG: Mushu_008_f
+Yeah, I don't know about that.
+
+TAG: Mushu_009_f
+Pfft. You sound like some ancestors I know, always criticizing everybody's work.
+
+TAG: Mushu_014_f
+Now, if you're done with the review, you gotta <Lore>look ALL over the camp and outside it too</Lore>.
+

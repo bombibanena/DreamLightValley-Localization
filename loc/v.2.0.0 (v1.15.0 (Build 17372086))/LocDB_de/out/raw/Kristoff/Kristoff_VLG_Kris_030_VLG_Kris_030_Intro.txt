@@ -1,0 +1,66 @@
+TAG: Kristoff_016_f
+Hey, {PlayerName}, do you have a minute?
+
+TAG: Player_000_choice_000_f
+Yes, of course.
+
+TAG: Player_000_choice_001_f
+Not right now.
+
+TAG: Kristoff_000_f
+Thanks! I could use some advice. I went foraging earlier, and I have all these extra materials... Some <ActivityItem>Softwood</ActivityItem>, <ActivityItem>Sand</ActivityItem>, and good carving <ActivityItem>Stone</ActivityItem>. What do you think I should do with it all?
+
+TAG: Kristoff_008_f
+You could almost start a <ActivityItem>Stall</ActivityItem> with all this...
+
+TAG: Player_000_choice_011_f
+Wait! You SHOULD start a <ActivityItem>Stall</ActivityItem>!
+
+TAG: Player_000_choice_012_f
+Would that be something you'd be interested in?
+
+TAG: Player_000_choice_003_f
+But only if you call it THE KRISTORE.
+
+TAG: Kristoff_001_f
+I guess I do have experience selling things. Ice. I used to sell ice.
+
+TAG: Kristoff_004_f
+But harvesting and selling ice seems pretty different from taking care of a <ActivityItem>Stall</ActivityItem>. I'd need some guidance.
+
+TAG: Kristoff_011_f
+I could ask Goofy for advice on how to build your own <ActivityItem>Stall</ActivityItem>...
+
+TAG: Player_001_choice_000_f
+He's always happy to help.
+
+TAG: Player_001_choice_001_f
+You could come with me.
+
+TAG: Player_001_choice_002_f
+Stay here. I'll ask him.
+
+TAG: Kristoff_006_f
+Funny you mention Goofy. The other day, we were fishing next to each other. Everything was calm, relaxing...
+
+TAG: Kristoff_009_f
+Next thing I know he sneezes, manages to hit me in the head with his fishing rod, and pushes me into the pond.
+
+TAG: Kristoff_010_f
+Definitely not who I'd go to for fishing advice. But he does run a pretty good Stall.
+
+TAG: Kristoff_005_f
+I'd be happy to ask him for you... Just to avoid any potential new head injuries.
+
+TAG: Kristoff_007_f
+Thanks.
+
+TAG: Kristoff_002_f
+I might be...
+
+TAG: Kristoff_003_f
+Yeah, that's not gonna happen. But...
+
+TAG: Kristoff_017_f
+Okay. Some other time, then. See ya!
+

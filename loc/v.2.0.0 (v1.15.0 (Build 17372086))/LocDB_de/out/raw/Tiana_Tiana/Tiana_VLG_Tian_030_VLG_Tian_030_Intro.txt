@@ -1,0 +1,54 @@
+TAG: Tiana_000_f
+Hey, Tiana. What are you up to?
+
+TAG: Tiana_001_f
+{PlayerName}, I've just had the most wonderful idea! Could you help me out with it?
+
+TAG: Player_000_choice_000_f
+Sure, let's do it!
+
+TAG: Player_000_choice_001_f
+It's gonna have to be later, I'm afraid.
+
+TAG: Tiana_002_f
+What's your idea?
+
+TAG: Tiana_003_f
+Well, I want to teach some of the Villagers here how to cook like I do at my restaurant, specifically the Cajun recipes.
+
+TAG: Tiana_004_f
+That's cool!
+
+TAG: Tiana_005_f
+I'm so glad you think so. Sharing cooking tips is always fun, and we can make it even more fun by having a little contest.
+
+TAG: Tiana_006_f
+Plus, if I'm ever not available to cook the meals for Tiana's Meal Stall, it'll be nice to know there are some folks here who can fill in for me.
+
+TAG: Player_001_choice_000_f
+Great!
+
+TAG: Player_001_choice_001_f
+You planning on getting stuck in a cookbook again?
+
+TAG: Tiana_008_f
+Do you have any contestants in mind?
+
+TAG: Tiana_009_f
+You might say I have a tentative menu already!
+
+TAG: Tiana_010_f
+Could you talk to <Lore>Woody</Lore>, <Lore>Anna</Lore>, <Lore>Kristoff</Lore>, <Lore>Mike</Lore>, and <Lore>Mulan</Lore>?
+
+TAG: Tiana_011_f
+I'll work on sources for the Ingredients, decide on recipes and set up the contest kitchen.
+
+TAG: Tiana_012_f
+Sure, you do that and I'll find your contestants for you!
+
+TAG: Tiana_013_f
+Thank you! Once you're done, please <Lore>meet me back in Remy's House</Lore>. It's the perfect spot for an impromptu culinary school!
+
+TAG: Tiana_007_f
+Goodness, no! But I will want to take a day off on occasion.
+

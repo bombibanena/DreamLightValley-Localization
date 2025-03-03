@@ -1,0 +1,96 @@
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Any_CompletedRequestDescription
+Поговори с Принц Эрик.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_AvailableDescription
+Тебе удалось вернуть Принц Эрик, но не так, как ты надеялся.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_CompletedStoryDescription
+После того, как он готовил Принц Эрик еды, чтобы вернуть свою силу, он делится эмоциональным воссоединением с Ариэль. Принц Эрик говорит вам, что Урсула издевался над ним с интригующей тайной, пока она держала его в плену... но это загадка на следующий день.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_DisplayName
+Бедный несчастный принц
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group01_Step01_BringItem01_StepDescription
+Найдите Принц Эрик.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group01_Step01_ReadyDescription
+Приведите <ActivityItem>Poor Unfortunate Принц Эрик</ActivityItem> на Ариэль.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group02_Step02_TalkToCharacter01_StepDescription
+Иди попроси Мерлин о помощи.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group02_StoryDescription
+После разговора с Ариэль вы решили попросить Мерлин о волшебной помощи, чтобы снова сделать Принц Эрик человеком.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group03_Step03_PlaceBuilding01_StepDescription
+Поместите Принц Эрик замок в Виллидж.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group03_StoryDescription
+Мерлин дал вам заклинание для восстановления красивого принца. прежде чем запечатлеть заклинание поцелуем настоящей любви.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group04_StepDescription
+Используйте знак Скрудж Макдак, чтобы оплатить строительство Дома Принц Эрик.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group06_Step06_BringItem02_StepDescription
+Ищите замок Принц Эрик на предмет, дорогой его сердцу.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group06_Step06_ReadyDescription
+Приведите {ItemName} в Ариэль.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group07_Step07_UnlockCharacter01_StepDescription
+Добро пожаловать Принц Эрик в долину Мечты.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group10_Step10_Listen01_StepDescription
+Свидетелю Ариэль и Принц Эрик воссоединение.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group11_Step11_TalkToCharacter03_StepDescription
+Поговори с Принц Эрик.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group11_StoryDescription
+Принц Эрик снова человек.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_CookMeal03_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group12_Step12_StepDescription
+Приготовить Принц Эрик еды.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_ReadyDescription
+Принесите еду Принц Эрик.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_010_Group13_Step13_StepDescription
+Удостоверься, что эти обеды включены в список:
+

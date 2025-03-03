@@ -1,0 +1,39 @@
+TAG: Donald_000_f
+{PlayerName}. Aw, let me guess, my Uncle Scrooge sent you.
+
+TAG: Donald_001_f
+He's mad 'cause he thinks I caused a ruckus in his store. And then Mirabel tried to take us on a hike, and it all went kerplooey!
+
+TAG: Donald_002_f
+What happened?
+
+TAG: Donald_003_f
+Well, Uncle Scrooge started yellin' at me again, so I yelled back. And all that yellin' surprised a gigantic hairy monster that jumped right at us!
+
+TAG: Donald_004_f
+But I was super brave and pushed Uncle Scrooge outta the way, then fought the creature!
+
+TAG: Donald_005_f
+Just when I thought I had it, it tossed me into the river and ran off with Uncle Scrooge's <ActivityItem>Cash Register Key</ActivityItem>!
+
+TAG: Player_000_choice_000_f
+Sounds like you were very brave.
+
+TAG: Player_000_choice_001_f
+I find your story a bit hard to believe...
+
+TAG: Player_000_choice_002_f
+Monster? Wasn't it just a raccoon?
+
+TAG: Donald_006_f
+You bet I was! But Uncle Scrooge didn't see it that way. He's mad as a hornet.
+
+TAG: Donald_007_f
+The only thing that's gonna make him happy is getting his <ActivityItem>Cash Register Key</ActivityItem> back.
+
+TAG: Donald_008_f
+WAAK! That's ridiculous! If I hadn't been there, Uncle Scrooge would've been trampled! Course, he doesn't see it that way...
+
+TAG: Donald_009_f
+WAAAAK!!! Raccoon?! That's ridiculous. It was enormous! And I saved Uncle Scrooge's life. Course, he didn't see it that way.
+

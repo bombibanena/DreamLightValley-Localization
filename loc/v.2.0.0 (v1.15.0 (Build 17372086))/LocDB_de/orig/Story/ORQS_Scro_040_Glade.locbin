@@ -1,0 +1,17 @@
+
+M
+9Story!ORQS_Scro_040_Glade_Any_CompletedRequestDescriptionTalk to Scrooge.
+¨
+.Story!ORQS_Scro_040_Glade_AvailableDescriptionvNow that the Pillar in the Glade of Trust has been restored, it's time to bring a little beauty back to the old swamp.
+|
+3Story!ORQS_Scro_040_Glade_CompletedStoryDescriptionEYou made the Glade of Trust into a beautiful place for the Villagers.
+K
+%Story!ORQS_Scro_040_Glade_DisplayName"Rebuild the Valley: Glade of Trust
+k
+6Story!ORQS_Scro_040_Glade_Group01_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>What must I do?
+p
+CStory!ORQS_Scro_040_Glade_Group01_Step01_Decorate01_StepDescription)Place {TargetAmount} pieces of furniture.
+X
+8Story!ORQS_Scro_040_Glade_Group01_Step01_StepDescriptionDecorate the Glade of Trust.
+]
+,Story!ORQS_Scro_040_Glade_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

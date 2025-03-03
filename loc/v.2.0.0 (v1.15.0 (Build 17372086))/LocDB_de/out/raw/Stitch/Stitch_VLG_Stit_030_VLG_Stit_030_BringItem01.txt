@@ -1,0 +1,81 @@
+TAG: Stitch_000_f
+YAY! Television not broken!
+
+TAG: Stitch_001_f
+Now we watch.
+
+TAG: Player_000_f
+Let's watch something...
+
+TAG: Player_000_choice_000_f
+...scary.
+
+TAG: Player_000_choice_001_f
+...exciting.
+
+TAG: Player_000_choice_002_f
+...thought-provoking.
+
+TAG: Stitch_002_f
+You want to be scared?
+
+TAG: Stitch_005_f
+Okay, I know what to watch...
+
+TAG: Stitch_006_f
+Monster movies!
+
+TAG: Stitch_007_f
+Sit. We watch. Tooki-ba-wabbah! So scary!
+
+TAG: Stitch_008_f
+You see big sea monster knock down buildings? Go, "RAH-WRAW-RAAAAAH!!!"
+
+TAG: Player_001_choice_000_f
+That was terrifying!
+
+TAG: Player_001_choice_001_f
+It looked kind of fun.
+
+TAG: Player_001_choice_002_f
+That was so cheesy.
+
+TAG: Stitch_010_f
+Not scary to Stitch. Just a movie.
+
+TAG: Stitch_013_f
+Movies fun. But Stitch wants hobby to go on adventure like heroes in movie.
+
+TAG: Stitch_014_f
+You take Stitch on adventure?
+
+TAG: Player_002_choice_000_f
+That sounds great.
+
+TAG: Player_002_choice_001_f
+We just need to find somewhere to go on an adventure around here...
+
+TAG: Player_002_choice_002_f
+Good idea. That should tire you out before bedtime.
+
+TAG: Stitch_015_f
+Yeah! Yeah! We go on adventure. Goobaja!
+
+TAG: Stitch_016_f
+Hmm... But {PlayerName} not look ready for adventure.
+
+TAG: Stitch_017_f
+<Lore>Put on adventure clothes</Lore> like hero in movie. Okay?
+
+TAG: Stitch_011_f
+Yeah! So fun to destroy when it not raise badness level... *sigh*...
+
+TAG: Stitch_012_f
+Huh? Stitch didn't see cheese in movie. Or crackers.
+
+TAG: Stitch_003_f
+Exciting... Hmm... Oh!
+
+TAG: Stitch_004_f
+Blech! BORING! Stitch have better idea.
+

@@ -1,0 +1,69 @@
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Any_CompletedRequestDescription
+Проверь Флин, как он себя чувствует.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_AvailableDescription
+Приключения Флин Rider потребовали одного последнего рецензии, прежде чем Флин убедился, что он идеален.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_DisplayName
+Романтическое воссоединение
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group01_Step01_BringItem01_StepDescription
+Убедитесь, что в вашем списке есть <ActivityItem> The Adventures of Флин Rider</ActivityItem>.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group01_Step01_ReadyDescription
+Приведи <ActivityItem> Приключения Флин Rider</ActivityItem> в Рапунцель.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Флин.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group03_Step03_CookMeal01_StepDescription
+Еда с острова Вечность.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group03_Step03_CookMeal02_StepDescription
+Еда из "Сказочной книги".
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group03_Step03_StepDescription
+Приготовить романтическую еду для Флин и Рапунцель:
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group04_Step04_BringItem02_StepDescription
+Еда с острова Вечность.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group04_Step04_BringItem03_StepDescription
+Еда из "Сказочной книги".
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group04_Step04_ReadyDescription
+Принеси готовую еду на Флин.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group04_Step04_StepDescription
+Убедитесь, что в вашем списке есть приготовленная еда:
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group05_Step05_Possess01_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group05_Step05_Possess02_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group05_Step05_Possess03_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group05_Step05_Possess04_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group05_Step05_Possess05_StepDescription
+{ItemName}.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group05_Step05_StepDescription
+Соберите следующие материалы:
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group06_Step06_CraftItem01_StepDescription
+Подготовить лодку <ActivityItem>Dinghy</ActivityItem>.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group07_Step07_Decorate01_StepDescription
+Поместите <ActivityItem>Dinghy Boat</ActivityItem> в Storybook Vale.
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group07_Step07_StepDescription
+(Вариант) Подождите до наступления ночи (18 час. 00 мин. - 8 час. 00 мин.).
+
+TAG: Secret!Expansion02!Tangled!Flynn!SEC_Flyn_010_Group08_Step08_Listen01_StepDescription
+Слушайте Флин и Рапунцель.
+

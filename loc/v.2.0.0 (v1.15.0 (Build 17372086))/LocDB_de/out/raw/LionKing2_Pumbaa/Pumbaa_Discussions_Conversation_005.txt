@@ -1,0 +1,54 @@
+TAG: Pumbaa_000_f
+Oh no. What are ya worried about, {PlayerName}?
+
+TAG: Pumbaa_001_f
+Tell your buddy Pumbaa all your troubles.
+
+TAG: Player_000_choice_000_f
+The Night Thorns. Those spiky purple things.
+
+TAG: Player_000_choice_001_f
+My friends.
+
+TAG: Player_000_choice_002_f
+Just all kinds of stuff.
+
+TAG: Pumbaa_002_f
+Oh... Well, I'm gonna tell ya a secret. Ready?
+
+TAG: Pumbaa_003_f
+Sometimes, I worry about stuff too. 'Specially my friends!
+
+TAG: Pumbaa_004_f
+Like when Simba was just a little lion, and we found him in the desert?
+
+TAG: Pumbaa_005_f
+I was so worried about him!
+
+TAG: Player_001_choice_000_f
+Oh, Pumbaa. That's so sad.
+
+TAG: Player_001_choice_001_f
+You worry about things, too?
+
+TAG: Player_001_choice_002_f
+But you're always saying "hakuna matata"!
+
+TAG: Pumbaa_006_f
+Oh, it's okay, now. Everything worked out great!
+
+TAG: Pumbaa_009_f
+Just goes to show ya, all worries go away after a while. Sometimes ya just gotta help 'em along.
+
+TAG: Pumbaa_007_f
+Sure! And Timon does too, sometimes. But then we talk to each other.
+
+TAG: Pumbaa_011_f
+It helps make the big worries feel not so big.
+
+TAG: Pumbaa_008_f
+Yeah. But it doesn't ALWAYS work...
+
+TAG: Pumbaa_012_f
+Sometimes I gotta talk to Timon or Simba. Or go for a swim. Then I feel better.
+

@@ -1,0 +1,33 @@
+TAG: Anna_000_f
+{PlayerName}! You've been working so hard, I wanted to check in with you.
+
+TAG: Anna_001_f
+Have you eaten lately? Stretched? Had plenty of fluids?
+
+TAG: Player_000_choice_003_f
+I feel okay!
+
+TAG: Player_000_choice_004_f
+Oh! I'm thirsty.
+
+TAG: Player_000_choice_005_f
+I haven't stretched in a while.
+
+TAG: Anna_002_f
+Great! That's good to hear. I just wanted to make sure.
+
+TAG: Anna_005_f
+I like to check in on the people I care about.
+
+TAG: Anna_003_f
+Then you should go get something to drink â right now! It's easy to get dehydrated. It's even happened to Elsa.
+
+TAG: Anna_006_f
+You would think that since she has ice powers it wouldn't, but it doesn't work that way. I have to remind her to drink water a lot.
+
+TAG: Anna_004_f
+Oh, then you should do that and move around! Don't want you getting cramps or pulling any muscles.
+
+TAG: Anna_007_f
+I always stretch before Kristoff and I go hiking. Or skating. Or swimming. Basically, I stretch a lot.
+

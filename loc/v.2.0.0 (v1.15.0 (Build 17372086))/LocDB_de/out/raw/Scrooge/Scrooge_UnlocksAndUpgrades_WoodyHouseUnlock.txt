@@ -1,0 +1,45 @@
+TAG: Scrooge_012_f
+Well, what'll it be? Should I go to the trouble of hauling Woody's Carousel out of storage?
+
+TAG: Player_000_choice_000_f
+I'll pay the fee to get Woody's Carousel out of storage. (Use {UpgradePrice} <sprite="iconCurrencySoft" index=0>)
+
+TAG: Player_000_choice_001_f
+I'm not paying that!
+
+TAG: Scrooge_001_f
+Fine. But it's gonna need a lot of spit and polish. Dinnae worry, though. I promise you won't regret the investment.
+
+TAG: Scrooge_010_f
+Once you've fixed it up, you'll see... there's something magical about it.
+
+TAG: Scrooge_002_f
+Och! You don't have enough Star Coins for me to haul it out of storage! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_003_f
+Well, come back here when you've come to your senses. A treasure like that's too valuable to leave sitting around gathering dust.
+
+TAG: Scrooge_000_f
+So, you're lookin' to build a place in the Village for the wee sheriff with the pull string? Aye, I think I remember him.
+
+TAG: Scrooge_004_f
+And I've got just the thing in storage! It's an old carousel.
+
+TAG: Scrooge_011_f
+Before the Forgetting, Merlin helped Woody by putting all sorts of enchantments on it.
+
+TAG: Scrooge_008_f
+That sounds perfect.
+
+TAG: Scrooge_005_f
+Och, but I'm afraid it's not a showstopper like it used to be. It's been badly damaged.
+
+TAG: Scrooge_006_f
+It'll need some work to restore it. And with all the enchantments... well, I wouldn't know where to start.
+
+TAG: Scrooge_007_f
+Just take it out of storage, and I'll do the rest.
+
+TAG: Scrooge_009_f
+Certainly. There will, of course, be a wee administrative fee.
+

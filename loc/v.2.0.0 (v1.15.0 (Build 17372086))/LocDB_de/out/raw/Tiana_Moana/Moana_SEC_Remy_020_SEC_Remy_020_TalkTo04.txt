@@ -1,0 +1,42 @@
+TAG: Moana_003_f
+Moana, I'm back with the completed dish. Turns out it's an <ActivityItem>Enchanted Shrimp ÃtouffÃ©e</ActivityItem>.
+
+TAG: Moana_004_f
+You've just GOTTA try some of this!
+
+TAG: Moana_005_f
+Oh, I'd love a taste!
+
+TAG: Moana_006_f
+...
+
+TAG: Moana_007_f
+Amazing! That's as good as the seafood dishes my Gramma Tala used to make.
+
+TAG: Player_000_choice_000_f
+High praise!
+
+TAG: Player_000_choice_001_f
+I wish I'd gotten to try your grandmother's cooking...
+
+TAG: Player_000_choice_002_f
+Seafood is just too tasty...
+
+TAG: Moana_009_f
+Any chance the taste jogged any memories of who might have made the meal?
+
+TAG: Moana_010_f
+Hmm...
+
+TAG: Moana_011_f
+Well, I remember... she really liked the <Lore>Glade of Trust</Lore>. She said it reminded her of home.
+
+TAG: Moana_012_f
+Hold on â what's that?
+
+TAG: Moana_001_f
+Something is happening to the cookbook...
+
+TAG: Moana_013_f
+Thanks, Moana; I'll bring the meal around to the other Villagers from the memory. Maybe someone will remember something else.
+

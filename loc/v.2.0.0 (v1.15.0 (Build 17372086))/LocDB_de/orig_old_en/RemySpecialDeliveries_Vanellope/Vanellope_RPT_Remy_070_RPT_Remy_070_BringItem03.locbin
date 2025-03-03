@@ -1,0 +1,33 @@
+
+g
+Vanellope_000_fTHey, thanks, {PlayerName}! These <ActivityItem>Power-Ups</ActivityItem> are perfect.
+>
+Player_000_choice_000_f#What are you going to use them for?
+C
+Player_000_choice_001_f(They're just a sugary tea drink, though?
+P
+Vanellope_001_f=Oh, I need them for the treacherous battle that lies ahead...
+Y
+Vanellope_003_fFI'm about to take on the <Lore>final boss of Dreamlight Valley</Lore>!
+1
+Player_001_choice_000_fThe Forgetting itself?
+8
+Player_001_choice_001_f... Me? Am I the final boss?!
+;
+Player_001_choice_002_f I give up. Who's the final boss?
+i
+Vanellope_004_fVHuh? Oh, you mean all those weird vines and everybody losing their memories and stuff?
+6
+Vanellope_005_f#Nah. Battling that would be BORING!
+9
+Vanellope_006_f&I'm talking about the REAL final boss.
+8
+Vanellope_009_f%Why don't you follow me and find out?
+{
+Vanellope_010_fhJust stay back so you don't get caught in the battle. Unless you wanna help me; it can be a co-op thing.
+m
+Vanellope_007_fZYou? No way! You give me lots of gifts and stuff that I don't even have to battle you for.
+B
+Vanellope_008_f/I'd say you're more like an end-of-level bonus.
+x
+Vanellope_002_feDon't be ridiculous. You just gave me potions for strength, dexterity, health, durability, and magic!

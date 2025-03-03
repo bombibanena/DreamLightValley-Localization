@@ -1,0 +1,23 @@
+
+N
+=Village!LionKing!VLG_Nala_040_Any_CompletedRequestDescriptionTalk to Nala.
+¹
+2Village!LionKing!VLG_Nala_040_AvailableDescription‚Nala is ready to close the rifts once and for all. But you'll need to do some work to create the enchantment that'll do the trick.
+U
+FVillage!LionKing!VLG_Nala_040_Group01_Step01_Possess01_StepDescription{ItemName}.
+W
+HVillage!LionKing!VLG_Nala_040_Group02_Step02_CraftItem01_StepDescription{ItemName}.
+X
+GVillage!LionKing!VLG_Nala_040_Group03_Step03_Decorate01_StepDescriptionDazzle Beach.
+_
+NVillage!LionKing!VLG_Nala_040_Group04_Step04_TalkToCharacter01_StepDescriptionTalk to Nala.
+\
+=Village!LionKing!VLG_Nala_040_Group06_Step06_ReadyDescriptionBring a {ItemName} to Remy.
+f
+GVillage!LionKing!VLG_Nala_040_Group07_Step07_CookMeal01_StepDescriptionCook a {ItemName} for Nala.
+€
+=Village!LionKing!VLG_Nala_040_Group08_Step08_ReadyDescription?Surprise Nala with a {ItemName} to celebrate closing the rifts.
+z
+:Village!LionKing!VLG_Nala_040_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br>What was I doing again...?
+a
+0Village!LionKing!VLG_Nala_040_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

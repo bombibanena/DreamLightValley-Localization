@@ -1,0 +1,81 @@
+
+8
+Woody_001_f)Howdy, partner. You must be {PlayerName}.
+N
+Woody_002_f?Guess I've got you to thank for helping Buzz unlock the window.
+C
+Player_000_choice_000_f(Whatever it takes to help a toy in need.
+;
+Player_000_choice_001_f Ah, don't worry. It was nothing.
+0
+Player_000_choice_002_fYou owe me. Big time.
+-
+Woody_003_fAnd I certainly appreciate it.
+e
+Woody_006_fVBuzz said you got knocked out the window on some kind of mission. What were you doing?
+s
+Woody_007_fdWell, Bonnie's family's off on a vacation, and she left us behind to take care of something for her.
+=
+Woody_008_f.She wants to put on a play when she gets back.
+)
+Woody_009_fA play? What sort of play?
+
+Woody_010_fpWith Bonnie's imagination, you never know. But she made a little farm out of pipe cleaners and ice pop sticks...
+^
+Woody_011_fO...and then she made a whole bunch of animals for it out of construction paper.
+*
+Player_001_choice_000_fThat's so cute!
+.
+Player_001_choice_001_fThat's so creative!
+:
+Player_001_choice_002_fThat sounds like a lot of work.
+!
+Woody_012_fThat's our Bonnie.
+)
+Woody_014_fShe's a real creative kid.
+,
+Woody_015_fBut wait... Where's the farm?
+‚
+Woody_016_fsHeh-heh... Well... uh... Bonnie's farm got... knocked over. And it broke. Pieces of it scattered all over the room.
+/
+Player_003_choice_000_fOh no! That's awful.
+B
+Player_003_choice_001_f'Wait a second... Did you knock it over?
+I
+Woody_025_f:Yep, it just about broke my heart seein' it all in pieces.
+]
+Woody_017_fNSo Buzz and I decided we're gonna rebuild Bonnie's farm, just how she left it.
+*
+Player_002_choice_000_fI want to help.
+4
+Player_002_choice_001_fYou're a good toy, Woody.
+G
+Player_002_choice_002_f,Seems like your plan isn't going too well...
+S
+Woody_019_fDThat's great! Because we could really use some help right about now.
+I
+Woody_000_f:Um... I think I might have some leaves stuck under my hat.
+V
+Woody_023_fGWhy don't you talk to Buzz and he'll brief you on the rest of the plan.
+2
+Woody_018_f#Any kid would be lucky to have you.
+e
+Woody_020_fVAw, shucks. Thanks. I just wanna make sure everything's perfect when Bonnie gets back.
+*
+Woody_021_fYou're right. You're right.
+?
+Woody_022_f0But now, we've got a chance to fix our mistakes.
+
+Woody_026_f	What? No!
+B
+Woody_027_f3... Buzz knocked it over when his wings popped out.
+l
+Woody_028_f]And sure... maybe I happened to bump into him and accidentally pushed his wing button, but...
+
+Woody_029_fpBut that doesn't matter now! What matters is, Buzz and I decided to rebuild Bonnie's farm, just how she left it.
+6
+Woody_013_f'Yeah, but Bonnie loves arts and crafts.
+i
+Woody_004_fZHey, now. Don't sell yourself short. That was a great rescue plan you and Buzz pulled off.
+T
+Woody_005_fEHeh-heh. Okay... Don't worry. You've got a friend in me for life now.

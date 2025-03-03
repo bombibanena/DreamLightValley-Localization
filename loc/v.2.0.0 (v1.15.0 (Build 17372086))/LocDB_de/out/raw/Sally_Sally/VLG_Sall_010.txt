@@ -1,0 +1,102 @@
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Any_CompletedRequestDescription
+Talk to Sally.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_AvailableDescription
+Sally is back, but something seems to be upsetting her...
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_CompletedStoryDescription
+Success â Jack and Sally have once more found the flame of romance! Though that romance may be creepier than typically seen in the Valley, they still owe it all to you.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_DisplayName
+Uncanny Romance
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group01_Step01_GardeningHarvest01_StepDescription
+Plant the Deadly Nightshade and harvest after 15 minutes.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group02_Step02_BringItem01_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group02_Step02_ReadyDescription
+Bring the {ItemName} to {TargetNPC}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group03_Step03_TalkToCharacter01_StepDescription
+Talk to {TargetNPC} about his upcoming date with Sally.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group04_Step04_BringItem02_StepDescription
+Gather some <ActivityItem>Night Shards</ActivityItem>.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group04_Step04_ReadyDescription
+Bring the <ActivityItem>Night Shards</ActivityItem> to {TargetNPC}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group04_StoryDescription
+Jack wonders if Sally feels shy after spending so long alone, but figures that a new Night Shard sewing needle will help her feel better.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group05_Step05_Listen01_StepDescription
+Listen to Sally and Jack.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group06_Step06_TalkToCharacter02_StepDescription
+Talk to {targetNPC} about the awkward date.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group07_Step07_StepDescription
+Ask the following Villagers for dating advice:
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group07_Step07_TalkToCharacter03_StepDescription
+{TargetNPC}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group07_Step07_TalkToCharacter04_StepDescription
+{TargetNPC}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step08_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step08_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step08_StepDescription
+Baking some:
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate01_StepDescription
+{itemName}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate02_StepDescription
+Outdoor Furniture.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate03_StepDescription
+Halloween Furniture.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate04_StepDescription
+Black Furniture.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_Step09_StepDescription
+Create a new and frighteningly lovely date night in the Forgotten Lands with:
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group08_StepDescription
+Prepare Jack and Sally's picnic by:
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group09_Step10_BringItem03_StepDescription
+{itemName}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group09_Step10_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group09_Step10_ReadyDescription
+Bring the Halloween date meals to {TargetNPC}.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group09_Step10_StepDescription
+Make sure you have the following meals in your Inventory:
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group10_Step11_Listen02_StepDescription
+Listen to Sally and Jack's second date attempt.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group11_Step12_TalkToCharacter05_StepDescription
+Talk to {targetNPC} about her (less awkward) talk with Jack.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group12_Step13_Decorate05_StepDescription
+Place the {itemName} near the Holiday Tree Portal.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_Group13_Step14_Party01_StepDescription
+Take a picture of Sally and Jack.
+
+TAG: Village!Nightmare!Sally!VLG_Sall_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

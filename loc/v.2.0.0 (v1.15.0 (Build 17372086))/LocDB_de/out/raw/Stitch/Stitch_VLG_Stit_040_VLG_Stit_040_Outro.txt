@@ -1,0 +1,57 @@
+TAG: Stitch_003_f
+Everybody come see Stitch play music!
+
+TAG: Stitch_004_f
+Morcheeba! Very happy!
+
+TAG: Player_000_choice_000_f
+You sounded great.
+
+TAG: Player_000_choice_001_f
+I loved your dance moves.
+
+TAG: Player_000_choice_002_f
+Not bad for a first concert.
+
+TAG: Stitch_005_f
+Takka, {PlayerName}. Village... it is like <font="JosefinSans-MediumItalic SDF">'ohana</font>.
+
+TAG: Stitch_006_f
+When Stitch was alone on spaceship, I was lost and forgotten.
+
+TAG: Stitch_007_f
+But not lost and forgotten anymore.
+
+TAG: Stitch_008_f
+There's Night Thorns... and Forgetting... but Valley is still good.
+
+TAG: Stitch_009_f
+Yeah. Still good. Thank you, {PlayerName}.
+
+TAG: Player_001_choice_000_f
+Thanks for being part of the Village, Stitch.
+
+TAG: Player_001_choice_001_f
+You've become a model citizen.
+
+TAG: Player_001_choice_002_f
+Your goodness level is SO high right now.
+
+TAG: Stitch_010_f
+Aww...
+
+TAG: Stitch_011_f
+Stitch do something for {PlayerName} to say "doogaba" â thank you!
+
+TAG: Stitch_012_f
+Take broken spaceship to Scroogey, and he send for fixing.
+
+TAG: Stitch_013_f
+Heegada.
+
+TAG: Stitch_014_f
+Spaceship not fly. That okay?
+
+TAG: Stitch_015_f
+Don't worry, Stitch. It may be a little broken, but it's still good.
+

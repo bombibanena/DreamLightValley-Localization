@@ -1,0 +1,125 @@
+
+j
+Hades_001_f[All right! Everyone's here, I've got catering, my DJ table... Let's get this party started!
++
+Hades_002_fAre you ready, {PlayerName}?
+*
+Player_000_choice_000_fReady for what?
+(
+Player_000_choice_001_fProbably not.
++
+Player_000_choice_002_fYeah! Fire away!
+R
+Hades_003_fCTo hear a revolution in music-making! I'm about to outdo the Muses.
+s
+Hades_044_fdI invented a whole new DJ technique â€” I call it the smashup. It's when you play two songs at once.
+1
+Hades_006_f"Wait! You're forgetting something!
+
+Hades_007_fOh?
+‰
+Hades_008_fzYou need to pick a DJ name. You can't just perform as "Hades" or "DJ Hades" â€” you need a proper DJ name. It's tradition!
+'
+Hades_009_fOkay... any suggestions?
+&
+Player_001_choice_000_fDJ Hothead.
+%
+Player_001_choice_001_f
+DJ Sparky.
+4
+Player_001_choice_002_fHmm, let me think more...
+,
+Hades_010_fHmm, DJ Hothead... I like it!
+q
+Hades_011_fbIt could say "my flaw is also my greatest strength" OR "I'm literally on fire!" Either way, I win.
+
+Hades_012_fThere you go!
+V
+Hades_023_fGWell, you've got a proper DJ name now â€” is it time to start the show?
+"
+Hades_024_fAbsolutely! Ahem...
+[
+Hades_025_fLWELCOME, EVERYONE, TO A MOMENTOUS OCCASION â€” THE FIRST SHOW BY DJ HOTHEAD!
+,
+Player_003_choice_000_fThat was amazing!
+/
+Player_003_choice_001_fThat was... amazing?
+F
+Player_003_choice_002_f+... Can I suggest that you keep practicing?
+Ñ
+Hades_027_fÁ<i>What is that horrible racket that begins to emerge from Hades' speakers?! It sounds like he has taken two radically different songs and is attempting to force them to play nice together.</i>
+/
+Hades_000_f <i>It clearly isn't working.</i>
+,
+Hades_028_fOh. Oh yeah. That's the beat.
+
+Hades_029_fHades?
+?
+Hades_030_f0Not now; I'm busy! We're almost at the bridge...
+>
+Hades_031_f/Yeah, that's it! Wonder why nobody's dancing...
+-
+Hades_032_fAnd now the drop... and there!
+;
+Hades_033_f,C'mon, was that amazing or was that amazing?
+t
+Hades_034_feOkay, do you really think that, or are you just saying that because you want to stay on my good side?
+0
+Player_004_choice_000_fNo, it's really good!
+@
+Player_004_choice_001_f%Well, the set... could use some work.
+6
+Player_004_choice_002_fNo, sorry, it was terrible.
+
+Hades_038_f
+I knew it!
+8
+Hades_039_f)Why don't we see how the guests liked it?
+
+Hades_043_fSure!
+
+Hades_040_fUnbelievable!
+]
+Hades_041_fNI know you worked hard on that, but the tunes kinda clashed with each other...
+m
+Hades_042_f^Sure. Maybe. Why don't we ask the guests what they thought? Then you'll see how wrong you are.
+(
+Hades_035_fYou don't seem convinced.
+:
+Hades_036_f+Yeah, sorry Hades; that wasn't good at all.
+
+Hades_037_fWhat?!
+_
+Hades_026_fPWELCOME, EVERYONE, TO A MOMENTOUS OCCASION â€” THE FIRST SHOW BY DJ UNDERGROUND!
+"
+Hades_015_fAre you kidding me?
+*
+Hades_016_fIt shows ironic detachment!
+
+Hades_017_fNo. Try again.
+)
+Player_002_choice_000_fDJ Antifreeze.
+*
+Player_002_choice_001_fDJ Underground.
+$
+Player_002_choice_002_f	DJ Titan.
+=
+Player_002_choice_003_f"What were the first choices again?
+1
+Hades_018_f"What am I, a walking torch to you?
+,
+Hades_019_fI mean, it's kinda funny, no?
+
+Hades_021_fNo! Try again.
+!
+Hades_013_fNow we're talking!
+Q
+Hades_014_fBIt says "I celebrate my background and I'm connected to my roots"!
+]
+Hades_020_fNNo way. You think I want my art associated with that bunch of lurching losers?
+"
+Hades_022_fTry something else.
+e
+Hades_004_fVWell, you're right about that. I'm about to forever change your experience with music.
+?
+Hades_005_f0Revolutions in music-making, make way for Hades!

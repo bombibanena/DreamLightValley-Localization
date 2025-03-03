@@ -1,0 +1,43 @@
+
+©
+Woody_000_f™Say, {PlayerName}, any chance you can help me? I've been tryin' to be a good neighbor to the folks around here, but I've hit a bit of a bump in the road.
+3
+Player_000_choice_000_fOf course. What's wrong?
+-
+Player_000_choice_001_fSome other time...
+E
+Woody_005_f6Well, you know me, always tryin' to do what's right...
+*
+Player_005_fLet's go see Remy first...
+:
+Player_005_choice_000_fI'm sure it's not all that bad.
+:
+Player_005_choice_001_fI need to assess the situation.
+E
+Player_005_choice_002_f*I need to see this train wreck for myself.
+L
+Woody_008_f=And that's what I was doin'. Just helpin' my neighbors out...
+Ž
+Woody_002_fBut it all went sideways pretty fast. First I tried to help Remy, and that didn't go too well. But then I went to help Goofy...
+7
+Woody_003_f(And well, that was a downright disaster.
+B
+Woody_004_f3Okay, one thing at a time. What happened with Remy?
+O
+Woody_023_f@Right. Well, Remy told me he could use some help in the kitchen.
+F
+Woody_024_f7So I just dove right in! I figured, how hard can it be?
+q
+Woody_025_fbHeh-heh. Let's just say it was... not good. Now Remy's got a back order of meals he needs to fill.
+
+Woody_026_fpAnd everybody says that when it comes to cooking, you're the best around. I don't suppose you could lend a hand?
+6
+Woody_027_f'Always looking on the bright side, huh?
+;
+Woody_030_f,But you're right. Let's head over to Remy's.
+7
+Woody_028_f(That's smart. Let's head over to Remy's.
+2
+Woody_029_f#I'm glad one of us is having fun...
+.
+Woody_006_fThat's great! Whenever you can.

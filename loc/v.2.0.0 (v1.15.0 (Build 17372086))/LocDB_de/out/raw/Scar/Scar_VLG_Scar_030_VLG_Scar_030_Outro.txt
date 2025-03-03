@@ -1,0 +1,30 @@
+TAG: Scar_000_f
+Finally! The Sunlit Plateau is whole again!
+
+TAG: Scar_001_f
+I suppose I should thank you, {PlayerName}... You were helpful after all.
+
+TAG: Scar_002_f
+Now, there's one last thing I need to make my kingdom whole again.
+
+TAG: Player_001_choice_000_f
+I'll do whatever I can to help.
+
+TAG: Player_001_choice_001_f
+You better be doing all this for the good of the Valley.
+
+TAG: Player_001_choice_002_f
+You're not plotting against me, are you?
+
+TAG: Scar_010_f
+I'll let you know when I'm in need of your aid again.
+
+TAG: Scar_011_f
+Oh yes. I only wish to lead us all into a great and glorious future.
+
+TAG: Scar_012_f
+If I were, it wouldn't be very smart to tell you about it, now would it?
+
+TAG: Scar_013_f
+But no, {PlayerName}, I'm not planning anything against you. I'm just looking for something.
+

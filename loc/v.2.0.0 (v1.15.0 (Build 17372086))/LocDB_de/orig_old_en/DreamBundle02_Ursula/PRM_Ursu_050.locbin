@@ -1,0 +1,27 @@
+
+¨
+;Premium!LilMermaid!Ursula!PRM_Ursu_050_AvailableDescriptionèUrsula is a little embarrassed to ask, but Moana is late upholding her end of the bargain they made together, and the Sea Witch asks you to go and see the young wayfinder about some advice on how to care for her hair on the surface.
+S
+2Premium!LilMermaid!Ursula!PRM_Ursu_050_DisplayNameDeal of the Day: Bad Hair Day
+i
+WPremium!LilMermaid!Ursula!PRM_Ursu_050_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Moana.
+…
+FPremium!LilMermaid!Ursula!PRM_Ursu_050_Group02_Step02_ReadyDescription;Bring the <ActivityItem>Coconuts</ActivityItem> to WALLÂ·E.
+v
+EPremium!LilMermaid!Ursula!PRM_Ursu_050_Group02_Step02_StepDescription-Gather <ActivityItem>Coconuts</ActivityItem>.
+Ž
+?Premium!LilMermaid!Ursula!PRM_Ursu_050_Group02_StoryDescriptionÊMoana feels guilty to have forgotten her promise and wants to go above and beyond to make up for it. She asks you for help with shredding some coconuts and you go to see WALLÂ·E to speed up the process.
+h
+FPremium!LilMermaid!Ursula!PRM_Ursu_050_Group03_Step03_ReadyDescriptionBring the {itemName} to Moana.
+}
+EPremium!LilMermaid!Ursula!PRM_Ursu_050_Group03_Step03_StepDescription4Make sure you have the {itemName} in your Inventory.
+¤
+?Premium!LilMermaid!Ursula!PRM_Ursu_050_Group03_StoryDescriptionaNow that the coconuts are properly shredded and compacted, it's time to bring them back to Moana.
+~
+CPremium!LilMermaid!Ursula!PRM_Ursu_050_Group01_OngoingRequestButton7<smallcaps>{title}</smallcaps><br>Who should I talk to?
+u
+CPremium!LilMermaid!Ursula!PRM_Ursu_050_Group02_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+x
+CPremium!LilMermaid!Ursula!PRM_Ursu_050_Group03_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+j
+9Premium!LilMermaid!Ursula!PRM_Ursu_050_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

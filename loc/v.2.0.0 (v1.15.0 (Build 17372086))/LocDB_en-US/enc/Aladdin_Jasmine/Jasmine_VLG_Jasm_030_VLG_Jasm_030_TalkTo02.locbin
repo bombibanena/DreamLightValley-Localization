@@ -1,0 +1,23 @@
+
+@
+Jasmine_000_f/Nicely done, {PlayerName}. We have the Ice Key!
+6
+Jasmine_001_f%Now we can go unlock the second lock.
+,
+Player_000_choice_000_fYes! I'm excited!
+2
+Player_000_choice_001_fI'm a little nervous...
+>
+Player_000_choice_002_f#Let's just hope nothing goes wrong.
+G
+Jasmine_002_f6Me too! This has certainly been a wonderful adventure.
+%
+Jasmine_007_fAre you ready to go?
+[
+Jasmine_008_fJYes, let's go <Lore>unlock my Secret Journal</Lore> and see what's inside.
+h
+Jasmine_006_fWWhatever I wanted hidden away in the journal, it must involve some pretty big feelings.
+J
+Jasmine_003_f9Whatever it is, I promise we'll work through it together.
+V
+Jasmine_004_fEI understand if you're nervous. But remember: I'll be there with you.

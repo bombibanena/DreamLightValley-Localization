@@ -1,0 +1,88 @@
+
+i
+
+Remy_000_f[Yes! My <ActivityItem>Bag of Ingredients</ActivityItem>! I thought I'd never get this back.
+d
+
+Remy_001_fVI had a little... misunderstanding... with one of the raccoons in the Forest of Valor.
+[
+
+Remy_002_fMHe grabbed the bag and ran off. I thought I'd never get to finish my errands.
+<
+Player_000_choice_000_f!Can I help you with your errands?
+F
+Player_000_choice_001_f+You're lucky the raccoon didn't eat it all.
+B
+Player_000_choice_002_f'Note to self: Don't mess with raccoons.
+2
+
+Remy_003_f$Actually, now that you mention it...
+.
+
+Remy_004_f ...I could really use your help.
+
+
+Remy_005_fWhat do you need?
+G
+
+Remy_006_f9Well, these were Ingredients for some special deliveries.
+z
+
+Remy_007_flI wanted to make meals to thank everyone who stayed behind to take care of the Valley during the Forgetting.
+-
+Player_001_choice_000_fThat's thoughtful!
+:
+Player_001_choice_001_fI'd love to help however I can.
+P
+Player_001_choice_002_f5Hope you've got a thank-you dessert planned for me...
+
+
+Remy_008_fsAw, thanks. I figured it was the least I could do after Mickey took care of my recipes. There's only one problem...
+s
+
+Remy_009_feI've been pretty busy with the restaurant. So I haven't had time to cook all the meals I had planned.
+™
+
+Remy_010_fŠIf I gave you these Ingredients... do you think you could finish <Lore>making some meals for Merlin, Mickey, Mr. McDuck, and Goofy</Lore>?
+?
+
+Remy_011_f1You've been a pretty great sous chef in the past.
+=
+Player_002_choice_000_f"Of course! I'd be honored to help.
+G
+Player_002_choice_001_f,I'm sure I could whip something up for them.
+Z
+Player_002_choice_002_f?I'll put it on the bottom of my increasingly long to-do list...
+;
+
+Remy_012_f-Thanks, {PlayerName}. I really appreciate it.
+‘
+
+Remy_013_f‚Here, take the Ingredients. Just make sure to <Lore>cook them fresh</Lore>. And they've definitely got to be <Lore>5 Stars</Lore>!
+E
+
+Remy_014_f7Come talk to me if you need any help thinking of meals.
+2
+
+Remy_015_f$I know you can. You're a great cook.
+U
+
+Remy_016_fGI get it. There's no rush, but I'm sure they'll appreciate the gesture.
+P
+
+Remy_017_fBI really appreciate it. My little "thank you" isn't going so well.
+„
+
+Remy_018_fvDon't worry, {PlayerName}. I've definitely got something in mind for you. Just haven't gotten around to making it yet.
+•
+
+Remy_019_f†I'll say. It would've been a huge waste if Ingredients like these were eaten before they could be transformed into spectacular dishes.
+:
+
+Remy_020_f,Oh, hey, and speaking of cooking all this...
+A
+
+Remy_021_f3Ha! No kidding. I, for one, have learned my lesson.
+.
+
+Remy_022_f But say, now that you're here...

@@ -1,0 +1,89 @@
+
+M
+=Village!WallE!EVE!VLG_EVE_010_Any_CompletedRequestDescriptionTalk to EVE.
+Â
+2Village!WallE!EVE!VLG_EVE_010_AvailableDescriptionÆNow that she doesn't have to watch over the Hourglass, EVE finds herself adrift. She asks for your help, and you decide to start by helping her relax by feeding some Monkeys.
+´
+7Village!WallE!EVE!VLG_EVE_010_CompletedStoryDescriptionpWith WALL¬∑E aware that the secret garden is back, EVE should be happy, but there's really only one way to know.
+<
+)Village!WallE!EVE!VLG_EVE_010_DisplayNameA New Directive
+z
+JVillage!WallE!EVE!VLG_EVE_010_Group01_Step01_FeedCritter01_StepDescription,Feed 2 <ActivityItem>Monkeys</ActivityItem>.
+`
+NVillage!WallE!EVE!VLG_EVE_010_Group02_Step02_TalkToCharacter01_StepDescriptionReturn to EVE.
+]
+NVillage!WallE!EVE!VLG_EVE_010_Group03_Step03_FollowCharacter01_StepDescriptionFollow EVE.
+`
+PVillage!WallE!EVE!VLG_EVE_010_Group03_Step03_FollowCharacter01_TalkToDescriptionTalk to EVE.
+X
+<Village!WallE!EVE!VLG_EVE_010_Group03_Step13_StepDescriptionVisit Ancient's Landing.
+‹
+6Village!WallE!EVE!VLG_EVE_010_Group03_StoryDescription°Once it's done, EVE expresses her wish to spend some time with WALL¬∑E but obviously has something in mind first as she guides you toward an unknown destination.
+j
+JVillage!WallE!EVE!VLG_EVE_010_Group04_Step04_Conditional01_StepDescriptionFind a way to open the door.
+{
+NVillage!WallE!EVE!VLG_EVE_010_Group05_Step05_FollowCharacter02_StepDescription)Follow EVE to the other side of the gate.
+]
+NVillage!WallE!EVE!VLG_EVE_010_Group06_Step06_FollowCharacter03_StepDescriptionFollow EVE.
+`
+PVillage!WallE!EVE!VLG_EVE_010_Group06_Step06_FollowCharacter03_TalkToDescriptionTalk to EVE.
+m
+:Village!WallE!EVE!VLG_EVE_010_Group07_OngoingRequestButton/<smallcaps>{title}</smallcaps><br>Where to now?
+c
+HVillage!WallE!EVE!VLG_EVE_010_Group07_Step07_VisitArea01_StepDescriptionExit the secret garden.
+Ü
+6Village!WallE!EVE!VLG_EVE_010_Group07_StoryDescriptionÀShe brings you to what remains of her and WALL¬∑E's secret garden, now ruined after Jafar's experiments, and you understand she'd like to make the place as good as new before showing it to WALL¬∑E again.
+U
+FVillage!WallE!EVE!VLG_EVE_010_Group08_Step08_Possess01_StepDescription{ItemName}.
+U
+FVillage!WallE!EVE!VLG_EVE_010_Group08_Step08_Possess02_StepDescription{ItemName}.
+î
+5Village!WallE!EVE!VLG_EVE_010_Group08_StepDescription[Use your Hourglass to find the lost objects in the Swirling Sands around Ancient's Landing:
+l
+:Village!WallE!EVE!VLG_EVE_010_Group09_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Ä
+FVillage!WallE!EVE!VLG_EVE_010_Group09_Step09_Possess03_StepDescription6<ActivityItem>Orange Birds of Paradise</ActivityItem>.
+Ä
+FVillage!WallE!EVE!VLG_EVE_010_Group09_Step09_Possess04_StepDescription6<ActivityItem>Yellow Birds of Paradise</ActivityItem>.
+
+FVillage!WallE!EVE!VLG_EVE_010_Group09_Step09_Possess05_StepDescription5<ActivityItem>White Birds of Paradise</ActivityItem>.
+
+FVillage!WallE!EVE!VLG_EVE_010_Group09_Step09_Possess06_StepDescription5<ActivityItem>Red Luminescent Flowers</ActivityItem>.
+l
+FVillage!WallE!EVE!VLG_EVE_010_Group09_Step09_Possess07_StepDescription"<ActivityItem>Jade</ActivityItem>.
+l
+<Village!WallE!EVE!VLG_EVE_010_Group09_Step09_StepDescription,Gather <ActivityItem>Flowers</ActivityItem>:
+l
+:Village!WallE!EVE!VLG_EVE_010_Group10_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+y
+HVillage!WallE!EVE!VLG_EVE_010_Group10_Step10_BringItem01_StepDescription-Make sure you have all the materials for EVE:
+W
+HVillage!WallE!EVE!VLG_EVE_010_Group10_Step10_BringItem02_StepDescription{ItemName}.
+Ç
+HVillage!WallE!EVE!VLG_EVE_010_Group10_Step10_BringItem03_StepDescription6<ActivityItem>Orange Birds of Paradise</ActivityItem>.
+Ç
+HVillage!WallE!EVE!VLG_EVE_010_Group10_Step10_BringItem04_StepDescription6<ActivityItem>Yellow Birds of Paradise</ActivityItem>.
+Å
+HVillage!WallE!EVE!VLG_EVE_010_Group10_Step10_BringItem05_StepDescription5<ActivityItem>White Birds of Paradise</ActivityItem>.
+Å
+HVillage!WallE!EVE!VLG_EVE_010_Group10_Step10_BringItem06_StepDescription5<ActivityItem>Red Luminescent Flowers</ActivityItem>.
+n
+HVillage!WallE!EVE!VLG_EVE_010_Group10_Step10_BringItem07_StepDescription"<ActivityItem>Jade</ActivityItem>.
+`
+=Village!WallE!EVE!VLG_EVE_010_Group10_Step10_ReadyDescriptionBring all the materials to EVE.
+p
+EVillage!WallE!EVE!VLG_EVE_010_Group11_Step11_Listen01_StepDescription'Listen to EVE and WALL¬∑E's discussion.
+Æ
+6Village!WallE!EVE!VLG_EVE_010_Group11_StoryDescriptiontNow that the secret garden is back to its former glory, EVE wants to tell WALL¬∑E about it. You decide to tag along.
+q
+JVillage!WallE!EVE!VLG_EVE_010_Group12_Step12_TakePicture01_StepDescription#Take 3 pictures of EVE and WALL¬∑E.
+r
+:Village!WallE!EVE!VLG_EVE_010_Group01_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>What should we do?
+o
+:Village!WallE!EVE!VLG_EVE_010_Group04_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+o
+:Village!WallE!EVE!VLG_EVE_010_Group08_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+q
+:Village!WallE!EVE!VLG_EVE_010_Group11_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+a
+0Village!WallE!EVE!VLG_EVE_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

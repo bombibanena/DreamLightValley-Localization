@@ -1,0 +1,65 @@
+
+x
+Mushu_001_fiOkay, {PlayerName}, now that you've looked at YOUR <ActivityItem>Ink Blot Test</ActivityItem>, tell me...
+>
+Mushu_003_f/What did the ink on the paper look like to you?
+/
+Player_000_choice_000_fThe Peaceful Meadow?
+5
+Player_000_choice_001_fA universe of total chaos.
+B
+Player_000_choice_002_f'It looks like blotches of ink on paper.
+*
+Mushu_005_fHmm... Flowery, peaceful...
+*
+Mushu_007_fYou're pretty content, huh?
+1
+Player_001_choice_000_fWell, I'm an optimist!
+8
+Player_001_choice_001_fThe Valley is my happy place.
+9
+Player_001_choice_002_fI just picked a random option.
+Y
+Mushu_009_fJYou've got reason to be! You're practically a ray of sunshine around here.
+\
+Mushu_019_fMNow that you've done your Ink Blot Test, it's time for the Beast to take his.
+G
+Mushu_020_f8Will you set it up near his House? Castle? Castle-House?
+$
+Mushu_021_fYou know what I mean.
+=
+Mushu_008_f.That's great. It's one of my happy places too!
+\
+Mushu_010_fMThat says "I'm uncertain" to me. And there's no problem with being uncertain.
+Z
+Mushu_004_fKHmm... that tells me you feel kinda uncertain about your direction in life.
+)
+Player_002_choice_000_fAren't we all?
+5
+Player_002_choice_001_fKinda? I'm VERY uncertain!
+0
+Player_002_choice_002_fThat's not me at all!
+N
+Mushu_012_f?Not ME, but it seems to be pretty common with you mortal types.
+Z
+Mushu_014_fKDon't worry. SEEING the chaos means it probably won't take you by surprise.
+5
+Mushu_011_f&Hey, that's not a bad thing. Trust me.
+G
+Mushu_013_f8Oh, so you're someone who CONTROLS the chaos. I see you!
+2
+Mushu_006_f#Oh, I know EXACTLY what that means!
+V
+Mushu_015_fGYou're being literal... Which is hilarious... Or defensive. Maybe both?
+*
+Player_003_choice_000_fI'm very funny!
+<
+Player_003_choice_001_f!Yeah... I'm not ready to open up.
+4
+Player_003_choice_002_fMaybe a bit of both, TBH.
+m
+Mushu_017_f^That IS true. You make me laugh every day. Sometimes with you... sometimes at you. Same thing.
+8
+Mushu_016_f)Hey, that's okay. We can just move along!
+P
+Mushu_018_fAI hear you, and that's okay. Everyone opens up in their own time.

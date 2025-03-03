@@ -1,0 +1,115 @@
+
+R
+
+Elsa_005_fD{PlayerName}, I could use some advice. Do you have a moment to talk?
+7
+Player_001_choice_000_fOf course. What do you need?
+0
+Player_001_choice_001_fNot right now, sorry.
+&
+
+Elsa_028_fWell... have you ever...
+.
+
+Elsa_001_f I guess I'm just wondering if...
+"
+
+Elsa_017_fHmm... This is hard.
+ 
+
+Elsa_018_fI'll start over...
+\
+
+Elsa_029_fNSince I've arrived here, I've tried to find my place, to fit in with everyone.
+E
+
+Elsa_030_f7But I feel a little lost. Have you ever felt like that?
+=
+Player_000_choice_012_f"I understand. I feel the same way.
+:
+Player_000_choice_013_fHave you always felt like that?
+9
+Player_000_choice_014_fI've never had that problem...
+W
+
+Elsa_013_fII'm surprised. You seem so at ease. Running everywhere, helping everyone.
+3
+
+Elsa_037_f%This is rather strange, {PlayerName}.
+z
+
+Elsa_038_flWhen I started reading through these recipe books, they brought back a memory of my past here in the Valley.
+.
+
+Elsa_027_f I was cooking with my friends...
+W
+
+Elsa_039_fIAnd it felt like something we'd done before. I just couldn't remember it.
+Œ
+
+Elsa_040_f~We were making <ActivityItem>Arendellian Fish Pie</ActivityItem> and <ActivityItem>Arendellian Pickled Herring</ActivityItem>.
+S
+
+Elsa_041_fEIt was so nice. Maybe we could make one of the dishes together again.
+ 
+Player_003_fLet's make both!
+(
+Player_003_choice_000_fIt'll be fun.
+@
+Player_003_choice_001_f%I'm super curious about your cuisine.
+=
+Player_003_choice_002_f"You'll feel at home twice as fast.
+Q
+
+Elsa_016_fCBut it's nice to know that I'm not the only one who feels this way.
+±
+
+Elsa_020_f¢Hey, I just thought of something that Remy told me the other day. He was talking about how our senses of smell and taste are the most connected to our memories...
+}
+
+Elsa_026_foIf you want to feel more at home... why don't we try cooking something that reminds you of where you come from?
+T
+
+Elsa_033_fFCooking...? How interesting. But I haven't done much cooking before...
+3
+
+Elsa_034_f%Well, that's another thing Remy says.
+ 
+
+Elsa_035_f"Anyone can cook."
+•
+
+Elsa_032_f†You know, it's funny Ã¢Â€Â” I did see a couple of traditional Arendellian <ActivityItem>Recipe Books</ActivityItem> in the Ice Cavern.
+!
+
+Elsa_036_fI'll go get them...
+4
+
+Elsa_021_f&Oh, thank you! I really appreciate it.
+Ò
+
+Elsa_000_fÃAccording to the <ActivityItem>Recipe Book</ActivityItem>, what makes the <ActivityItem>Arendellian Fish Pie</ActivityItem> so special is that you use <ActivityItem>Dandelion Syrup</ActivityItem> and <ActivityItem>Herring</ActivityItem>, plus some <ActivityItem>Wheat</ActivityItem> and <ActivityItem>Butter</ActivityItem>.
+è
+
+Elsa_024_fÙThe <ActivityItem>Dandelion Syrup</ActivityItem> is made from <ActivityItem>Garlic</ActivityItem>, <ActivityItem>Lemons</ActivityItem>, <ActivityItem>Dandelions</ActivityItem>, and <ActivityItem>Onions</ActivityItem>.
+~
+
+Elsa_019_fpIf you bring me these Ingredients, maybe we can prepare the syrup together. The instructions are all right here.
+˜
+
+Elsa_025_f‰Oh, and the <ActivityItem>Arendellian Pickled Herring</ActivityItem> is fairly easy. Here's the <ActivityItem>Recipe Book</ActivityItem>.
+3
+
+Elsa_022_f%Oh, thank you. I hope you'll like it.
+=
+
+Elsa_023_f/That sounds wonderful. Thank you, {PlayerName}.
+›
+
+Elsa_014_fŒWell, I used to when I was hiding my powers and so isolated. But these last few years, thanks to Anna's help, I've felt a lot more at peace.
+ 
+
+Elsa_015_fYou're very lucky.
+N
+
+Elsa_002_f@Oh, I understand. I'd love to catch up, when you have some time.

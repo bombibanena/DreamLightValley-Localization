@@ -1,0 +1,24 @@
+TAG: Remy_000_f
+Критик ждет своего <ActivityItem>Ratouille</ActivityItem>!
+
+TAG: Remy_001_f
+<ActivityItem>Ratatouille</ActivityItem>, сделанная с помощью <ActivityItem>Tomato</ActivityItem>, трех других конкретных овощей и специи!
+
+TAG: Player_000_choice_000_f
+Мне нужна помощь!
+
+TAG: Player_000_choice_001_f
+Я сам разберусь, экспериментируя!
+
+TAG: Remy_005_f
+Вам понадобится <ActivityItem>a Tomato, яйцо, зучини, лук и любой Spice</ActivityItem>!
+
+TAG: Remy_006_f
+О, для специи, могу я порекомендовать маленький <ActivityItem>Basil</ActivityItem>?
+
+TAG: Remy_002_f
+Я видел, как ты готовишь, ты сможешь.
+
+TAG: Remy_004_f
+Когда будет готово, положи его на служебную шляпу рядом с дверью!
+

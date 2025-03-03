@@ -1,0 +1,21 @@
+TAG: Rapunzel_018_f
+Whoa! Did you feel that? The platform moved a little...
+
+TAG: Rapunzel_003_f
+And it made a ticking sound... Just like a clock!
+
+TAG: Rapunzel_004_f
+A clock that's missing a few parts... I think we have to repair this <Lore>Sundial mechanism</Lore> in the center to get to the far island.
+
+TAG: Rapunzel_000_f
+It looks like someone has pulled out the gears...
+
+TAG: Rapunzel_002_f
+That's strange. Hmm...
+
+TAG: Rapunzel_001_f
+I've seen some <Lore>golden gears floating around the Isle</Lore>. Maybe that's what we need to repair the Sundial?
+
+TAG: Rapunzel_005_f
+It's worth a try. I'll <Lore>search the Isle for Sundial Gears</Lore>.
+

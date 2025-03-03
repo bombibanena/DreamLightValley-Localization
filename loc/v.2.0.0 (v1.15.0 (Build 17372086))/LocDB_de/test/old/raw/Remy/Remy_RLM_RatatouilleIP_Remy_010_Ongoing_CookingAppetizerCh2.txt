@@ -1,0 +1,6 @@
+TAG: Remy_000_f
+Один {ItemName}.
+
+TAG: Remy_001_f
+Вам понадобится <ActivityItem>Bell Pepper</ActivityItem>, несколько <ActivityItem>Cheese</ActivityItem> и <ActivityItem>Egg</ActivityItem>.
+

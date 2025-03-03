@@ -1,0 +1,24 @@
+TAG: Scrooge_000_f
+Aye, you've done a fine job, {PlayerName}.
+
+TAG: Scrooge_001_f
+I'll set these up in the Dream Castle. You just need to find Stitch and bring him there for a photo shoot.
+
+TAG: Scrooge_003_f
+Are you sure the wee lad has the moxie to lead a band?
+
+TAG: Player_000_choice_000_f
+Nobody's more charismatic than Stitch.
+
+TAG: Player_000_choice_001_f
+It'll take some practice.
+
+TAG: Player_000_choice_002_f
+As long as he doesn't eat the microphone.
+
+TAG: Scrooge_004_f
+Well, I'm investing a lot o' my time and resources in this. It best be profitable.
+
+TAG: Scrooge_002_f
+I'll go <Lore>talk to Stitch</Lore>.
+

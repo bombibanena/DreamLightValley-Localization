@@ -1,0 +1,69 @@
+
+ø
+<Story!Expansion02!MRQS_E02_040_IntroTea_AvailableDescription·{PlayerName} journeyed deeper into Everafter, and uncovered a most curious sight: an area marked by a waterfall shaped like a giant teapot! This certainly called for some exploration.
+Q
+3Story!Expansion02!MRQS_E02_040_IntroTea_DisplayNameCuriouser and Curiouser...
+Œ
+RStory!Expansion02!MRQS_E02_040_IntroTea_Group01_Step01_VisitArea01_StepDescription6Explore the <ActivityItem>Teapot Falls</ActivityItem>.
+˜
+?Story!Expansion02!MRQS_E02_040_IntroTea_Group01_StepDescriptionUYou've cleared away the ink blocking the way, and discovered a new part of Everafter.
+„
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group02_Step02_StepDescription:The way forward is blocked by those curious giant teacups.
+o
+TStory!Expansion02!MRQS_E02_040_IntroTea_Group02_Step02_TakePicture01_StepDescriptionTake a picture of them.
+‡
+@Story!Expansion02!MRQS_E02_040_IntroTea_Group02_StoryDescriptionÂ{PlayerName} found it was impossible to get any closer to the Teapot Falls, for some mysterious debris was blocking the way. {PlayerName} decided to snap some pictures for further investigation.
+ 
+TStory!Expansion02!MRQS_E02_040_IntroTea_Group03_Step03_Conditional01_StepDescriptionHExplore the Wild Woods to find a Villager who might be able to help you.
+…
+?Story!Expansion02!MRQS_E02_040_IntroTea_Group03_StepDescriptionBThe way is blocked, and there are no clues about how to proceed...
+•
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group04_Step04_StepDescriptionKMaybe a Villager who's spent more time in Everafter knows what these are...
+t
+XStory!Expansion02!MRQS_E02_040_IntroTea_Group04_Step04_TalkToCharacter01_StepDescriptionShow Flynn the pictures.
+£
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group05_Step05_StepDescriptionYTo clear the way to the Teapot Falls, you'll need some help from someone knowledgeable...
+s
+XStory!Expansion02!MRQS_E02_040_IntroTea_Group05_Step05_TalkToCharacter02_StepDescriptionTalk to the Lorekeeper.
+_
+PStory!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_Possess01_StepDescription{ItemName}.
+_
+PStory!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_Possess06_StepDescription{ItemName}.
+_
+PStory!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_Possess07_StepDescription{ItemName}.
+’
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group06_Step06_StepDescriptionHCatch Snippets to restore the story of Aurora to the Lorekeeper's pages.
+‡
+@Story!Expansion02!MRQS_E02_040_IntroTea_Group06_StoryDescriptionÂThe Lorekeeper told {PlayerName} that Aurora faced this same challenge with the help of the good fairies. {PlayerName} would need to uncover more of Aurora's story to find out how she solved it.
+Í
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group07_Step08_StepDescription‚(Press {input_mainmenu} to access the Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)
+·
+LStory!Expansion02!MRQS_E02_040_IntroTea_Group07_Step08_StepDescriptionMobileg(Open your Collection menu and navigate to the correct section to see your completed Lorekeeper Tales.)
+¸
+?Story!Expansion02!MRQS_E02_040_IntroTea_Group07_StepDescriptionuFind the bookshelf shown in Aurora's story in the Bind and search it for <ActivityItem>Aurora's Notes</ActivityItem>.
+ƒ
+@Story!Expansion02!MRQS_E02_040_IntroTea_Group07_StoryDescription¾{PlayerName} uncovered the tale of Aurora and the good fairies. She was given a special recipe to help remove the debris blocking the way. Now, it was up to {PlayerName} to find those notes.
+_
+PStory!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess02_StepDescription{ItemName}.
+_
+PStory!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess03_StepDescription{ItemName}.
+_
+PStory!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess04_StepDescription{ItemName}.
+_
+PStory!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_Possess05_StepDescription{ItemName}.
+u
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group08_Step09_StepDescription+Gather the Ingredients from Aurora's notes:
+k
+RStory!Expansion02!MRQS_E02_040_IntroTea_Group09_Step10_CraftItem01_StepDescriptionCraft the {ItemName}.
+}
+TStory!Expansion02!MRQS_E02_040_IntroTea_Group10_Step11_ConsumeItem01_StepDescription%Use the {ItemName} in your Inventory.
+‹
+TStory!Expansion02!MRQS_E02_040_IntroTea_Group11_Step12_Conditional03_StepDescription3Activate the Fairy Tale Trial using your Royal Net.
+Œ
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group11_Step12_StepDescriptionBReturn to the Teapot Falls and remove the debris blocking the way.
+£
+@Story!Expansion02!MRQS_E02_040_IntroTea_Group11_StoryDescription_{PlayerName} cleared the way to the Fairy Tale Trial. Now all that remained was to step inside.
+®
+FStory!Expansion02!MRQS_E02_040_IntroTea_Group12_Step07_StepDescriptiondRestore the <ActivityItem>Aurora and the Teapot Falls</ActivityItem> tale to the Lorekeeper's pages.
+™
+DStory!Expansion02!MRQS_E02_040_IntroTea_Group07_OngoingRequestButtonQ<smallcaps>{title}</smallcaps><br>I can't figure out where Aurora left her notes!

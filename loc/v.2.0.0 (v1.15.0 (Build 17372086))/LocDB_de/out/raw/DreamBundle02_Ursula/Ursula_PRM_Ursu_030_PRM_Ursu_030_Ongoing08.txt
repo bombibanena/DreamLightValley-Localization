@@ -1,0 +1,6 @@
+TAG: Ursula_001_f
+Go place the <ActivityItem>Enchanted Stage</ActivityItem> in the Glade of Trust.
+
+TAG: Ursula_002_f
+But wait for the sun to set, dearie. The effect will be more... dramatic then.
+

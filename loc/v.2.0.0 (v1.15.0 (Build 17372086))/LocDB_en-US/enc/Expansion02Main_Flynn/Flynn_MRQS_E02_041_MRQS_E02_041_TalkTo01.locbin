@@ -1,0 +1,33 @@
+
+2
+Flynn_002_f#Okay... This place is... different.
+I
+Flynn_004_f:I wonder what's up with that <Lore>big empty table</Lore>.
+G
+Player_001_choice_000_f,Maybe we need to place the chairs around it?
+C
+Player_001_choice_001_f(Maybe there's supposed to be food on it?
+P
+Player_001_choice_002_f5Maybe we're supposed to build a pillow fort under it?
+M
+Flynn_009_f>That would make sense. Tables, chairs â they go together.
+^
+Flynn_003_fOAnd what do you think's up with that <Lore>clock on the wall</Lore> over there?
+;
+Player_000_choice_000_f Maybe we need to move the hands?
+4
+Player_000_choice_001_fMaybe we should smash it?
+?
+Player_000_choice_002_f$Maybe it's ticking down to our doom?
+'
+Flynn_005_fI say you give it a try!
+o
+Flynn_008_f`Maybe you should <Lore>look for some instructions around here</Lore>. There has to be something!
+�
+Flynn_006_f�Take it from someone who's, shall we say, entered a few spaces uninvited â smashing's an amateur move. Makes a lot of noise, gets glass everywhere...
+{
+Flynn_007_flThat would be exciting. But I don't think it's THAT kind of clock. The hands don't seem to be moving at all.
+u
+Flynn_010_ff"Supposed to"? I don't know. But "should"? Definitely! Or else it's a waste of a perfectly good table.
+T
+Flynn_011_fEI somehow doubt that, not least because I don't see any pillows here.

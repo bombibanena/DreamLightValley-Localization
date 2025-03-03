@@ -1,0 +1,45 @@
+
+Q
+Tiana_000_fBHey Daisy, I heard that you're dipping your toes into mask-making?
+°
+Daisy_000_f That's right! After all, every big occasion calls for the perfect mask. And a parade is certainly a fabulous occasion... Tiana told me you might be stopping by.
+J
+Daisy_001_f;Now hold still a moment; I need to get some measurements...
+$
+Player_000_choice_000_f	So, uhâ€”
+D
+Player_000_choice_001_f)I've never been fitted for a mask before!
+<
+Player_000_choice_002_f!Tiana must have seemed excitedâ€”
+
+Daisy_003_fHold still!
+C
+Daisy_012_f4What if you also wear something <Lore>quirky</Lore>?
+
+Daisy_013_fCan do!
+[
+Daisy_014_fLPerfect. Now, while I'm working on the mask, could you help Tiana some more?
+-
+Daisy_015_fOf course. What does she need?
+W
+Daisy_016_fHShe mentioned that she needed something to mark the start of the parade.
+q
+Daisy_017_fb*gasp* What about a balloon <ActivityItem>Parade Arch</ActivityItem> as a tribute to New Orleans?!
+.
+Daisy_018_fNo problem; I can work on that!
+
+Daisy_004_f...
+u
+Daisy_005_ffAll right, done. I'll start working on your <ActivityItem>Parade Float Mask</ActivityItem> right away.
+B
+Daisy_006_f3So cool â€” can't wait to see how it will turn out!
+|
+Daisy_007_fmAbout that â€” I wouldn't be doing my duty as a designer if I didn't try to match this to your parade outfit.
+(
+Daisy_008_fWhat will you be wearing?
+4
+Daisy_009_f%Hmm, I hadn't thought about that yet.
+—
+Daisy_010_f‡From what I understand about New Orleans, it's full of exciting and fun people. Maybe I should dress up in something <Lore>bold</Lore>?
+b
+Daisy_011_fSAbsolutely! Let's see... Well, Tiana told me that the parades can be quite playful.

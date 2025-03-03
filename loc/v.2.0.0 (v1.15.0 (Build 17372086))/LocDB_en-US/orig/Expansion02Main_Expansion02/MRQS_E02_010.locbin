@@ -1,0 +1,75 @@
+
+S
+>Story!Expansion02!MRQS_E02_010_Any_CompletedRequestDescriptionReturn to Merida.
+Ú
+3Story!Expansion02!MRQS_E02_010_AvailableDescription∫Once upon a time, {PlayerName} received a letter from a mysterious figure known as "The Keeper of the Lore." Eager for adventure, {PlayerName} set out on a journey to the Storybook Vale.
+π
+8Story!Expansion02!MRQS_E02_010_CompletedStoryDescription}You restored a little life to the Lorekeeper, but this is hardly a happily ever after. Your adventure is only just beginning.
+K
+*Story!Expansion02!MRQS_E02_010_DisplayNameWelcome to the Storybook Vale
+9
+.Story!Expansion02!MRQS_E02_010_DisplayName_000Mystery
+d
+OStory!Expansion02!MRQS_E02_010_Group01_Step02_TalkToCharacter06_StepDescriptionReturn to Merida.
+ñ
+7Story!Expansion02!MRQS_E02_010_Group01_StoryDescription[Merida introduced you to the Lorekeeper, a talking tome that rules over the Storybook Vale.
+ﬁ
+LStory!Expansion02!MRQS_E02_010_Group02_Step03_CatchSnippet01_StepDescriptionç(Equip the Royal Net and approach the Snippets. Press {input_usetool} to do a vertical swipe! Hold and release {input_usetool} to do a spin!)
+ß
+6Story!Expansion02!MRQS_E02_010_Group02_StepDescriptionmUse the Royal Net to catch the <ActivityItem>Snippets</ActivityItem> in the main hall of the Library of Lore.
+◊
+KStory!Expansion02!MRQS_E02_010_Group03_Step09_Conditional06_StepDescriptionáOpen your mailbox and claim the content of the message titled <Lore>"The Storybook Vale awaits..."</Lore> to embark on a new adventure.
+ï
+KStory!Expansion02!MRQS_E02_010_Group04_Step04_Conditional01_StepDescriptionFComplete <ActivityItem>"The Port of Many Worlds"</ActivityItem> quest.
+ö
+=Story!Expansion02!MRQS_E02_010_Group04_Step04_StepDescriptionYYou need to find a place called the Stardust Port to continue your adventure to the Vale.
+‹
+7Story!Expansion02!MRQS_E02_010_Group04_StoryDescription†But first, {PlayerName} needed to find a place called the Stardust Port. Like so many adventures, a visit to Merlin was in order before the journey could begin.
+´
+IStory!Expansion02!MRQS_E02_010_Group05_Step05_VisitArea01_StepDescription^Use the gate inside the Dream Castle to access the <ActivityItem>Stardust Port</ActivityItem>.
+w
+7Story!Expansion02!MRQS_E02_010_Group05_StoryDescription<It's time to embark on your adventure to the Storybook Vale.
+Ω
+IStory!Expansion02!MRQS_E02_010_Group06_Step06_VisitArea02_StepDescriptionpEmbark on the <ActivityItem>Hummingbird Airship</ActivityItem> in the Stardust Port to go to the Storybook Vale.
+f
+=Story!Expansion02!MRQS_E02_010_Group07_Step07_StepDescription%You've arrived in the Storybook Vale!
+l
+IStory!Expansion02!MRQS_E02_010_Group07_Step07_VisitArea03_StepDescriptionExplore this strange new world.
+~
+=Story!Expansion02!MRQS_E02_010_Group08_Step01_StepDescription=That strange magical ink seems to have trapped that Villager!
+o
+OStory!Expansion02!MRQS_E02_010_Group08_Step01_TalkToCharacter01_StepDescriptionFree Merida and talk to her.
+p
+KStory!Expansion02!MRQS_E02_010_Group10_Step10_Conditional02_StepDescription!(Optional) Ask Merida for a hint.
+®
+=Story!Expansion02!MRQS_E02_010_Group10_Step10_StepDescriptiongFind the <ActivityItem>Royal Net's secret location</ActivityItem> by investigating the Library of Lore.
+\
+7Story!Expansion02!MRQS_E02_010_Group10_StoryDescription!The Lorekeeper's magic is fading.
+à
+=Story!Expansion02!MRQS_E02_010_Group11_Step11_StepDescriptionGCatch all <ActivityItem>Snippets</ActivityItem> in the Library's wings.
+Ú
+=Story!Expansion02!MRQS_E02_010_Group11_Step19_StepDescription∞Open the gates to each wing using the right Royal Net swing on the golden wheels. (Press {input_usetool} to do a vertical swipe! Hold and release {input_usetool} to do a spin!)
+r
+6Story!Expansion02!MRQS_E02_010_Group11_StepDescription8You found the Royal Net! You can now put it to good use:
+i
+OStory!Expansion02!MRQS_E02_010_Group12_Step12_TalkToCharacter02_StepDescriptionReturn to {TargetNPC}.
+¿
+7Story!Expansion02!MRQS_E02_010_Group12_StoryDescriptionÑWith Merida's help, you found the Royal Net and put it to use catching Snippets, the magical creatures made out of pure Story Magic.
+¬
+KStory!Expansion02!MRQS_E02_010_Group13_Step08_Conditional05_StepDescriptionsRearrange the <ActivityItem>"Once Upon a Time in Storybook Vale..."</ActivityItem> story in the Lorekeeper's pages.
+±
+6Story!Expansion02!MRQS_E02_010_Group13_StepDescriptionw(Rearrange stories in the Lorekeeper's pages by talking to her and selecting "Reorder Stories" from the dialogue menu!)
+g
+OStory!Expansion02!MRQS_E02_010_Group14_Step14_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+j
+OStory!Expansion02!MRQS_E02_010_Group15_Step15_TalkToCharacter04_StepDescriptionTalk to... {TargetNPC}?
+`
+=Story!Expansion02!MRQS_E02_010_Group16_Step16_StepDescriptionYou uncovered the hiding place!
+~
+FStory!Expansion02!MRQS_E02_010_Group16_Step16_Unlock01_StepDescription4Pick up the </ActivityItem>Royal Net</ActivityItem>.
+g
+OStory!Expansion02!MRQS_E02_010_Group17_Step17_TalkToCharacter05_StepDescriptionTalk to {TargetNPC}.
+d
+QStory!Expansion02!MRQS_E02_010_Group18_Step18_FollowCharacter02_TalkToDescriptionTalk to Merida.
+O
+=Story!Expansion02!MRQS_E02_010_Group18_Step18_StepDescriptionFollow Merida.

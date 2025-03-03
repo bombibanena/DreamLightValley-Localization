@@ -1,0 +1,42 @@
+TAG: Jafar_000_f
+{Placeholder} Ты много работаешь с людьми, не так ли, {PlayerName}?
+
+TAG: Jafar_001_f
+{Placeholder}Могу я рекомендовать полезную технику?
+
+TAG: Jafar_002_f
+{Placeholder}Hypnotism.
+
+TAG: Player_000_choice_000_f
+{Placeholder} Вы имеете в виду гипнотизировать людей, чтобы делать то, что я хочу?
+
+TAG: Player_000_choice_001_f
+{Placeholder} Это кажется неэтичным.
+
+TAG: Player_000_choice_002_f
+{Placeholder} Я не гипнотизирую своих друзей Джафар.
+
+TAG: Jafar_003_f
+{Placeholder} Абсолютно.Ты сделаешь это намного быстрее!
+
+TAG: Jafar_004_f
+{Placeholder}Nop, это неправильно.
+
+TAG: Jafar_005_f
+{Placeholder}Секретно это прерогатива таких великих людей, как мы, подняться по поводу мелких забот морали?
+
+TAG: Jafar_006_f
+{Placeholder} Не толкайте его Джафар.
+
+TAG: Jafar_007_f
+{Placeholder}... очень хорошо.
+
+TAG: Jafar_008_f
+{Placeholder}Unetical, возможно, но также эффективен.
+
+TAG: Jafar_009_f
+{Placeholder}I не видит почему. Это не причинит им вреда.
+
+TAG: Jafar_010_f
+{Placeholder} Это просто делает вещи... легче.
+

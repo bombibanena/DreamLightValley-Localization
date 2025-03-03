@@ -1,0 +1,6 @@
+TAG: Jafar_000_f
+Whatever is the matter, {PlayerName}?
+
+TAG: Player_000_exit_000_f
+Sorry, I can't right now.
+

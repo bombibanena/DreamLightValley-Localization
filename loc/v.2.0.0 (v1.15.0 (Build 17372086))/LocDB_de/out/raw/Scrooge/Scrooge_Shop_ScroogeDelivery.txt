@@ -1,0 +1,15 @@
+TAG: Scrooge_000_f
+What type of item are you looking for?
+
+TAG: Player_000_choice_000_f
+Clothing
+
+TAG: Player_000_choice_001_f
+Furniture
+
+TAG: Player_000_choice_002_f
+Never mind
+
+TAG: Scrooge_001_f
+Well, come back if you change your mind!
+

@@ -1,0 +1,31 @@
+
+u
+CVillage!Mickey!Scrooge!VLG_Scro_060_Any_CompletedRequestDescription.Поговори с Скрудж Макдак.
+�
+8Village!Mickey!Scrooge!VLG_Scro_060_AvailableDescriptionFСкрудж Макдак хочет поговорить с вами.
+b
+/Village!Mickey!Scrooge!VLG_Scro_060_DisplayName/Часть 2 Охота на сокровища
+�
+NVillage!Mickey!Scrooge!VLG_Scro_060_Group02_Step02_BringItem01_StepDescriptionkОбыщите все места в Памятье на предмет признаков сокровищ.
+]
+NVillage!Mickey!Scrooge!VLG_Scro_060_Group02_Step02_BringItem02_StepDescriptionГрудь.
+�
+CVillage!Mickey!Scrooge!VLG_Scro_060_Group02_Step02_ReadyDescriptionEПринесите Скрудж Макдак то, что нашли.
+�
+<Village!Mickey!Scrooge!VLG_Scro_060_Group02_StoryDescription�После того, как ты найдёшь грудную клетку и починишь ключ, тебе просто нужно вернуть все обратно на Скрудж Макдак и получить свою долю в добыче.
+[
+LVillage!Mickey!Scrooge!VLG_Scro_060_Group03_Step11_Possess02_StepDescriptionГрудь.
+[
+LVillage!Mickey!Scrooge!VLG_Scro_060_Group03_Step11_Possess04_StepDescriptionКлючи.
+�
+BVillage!Mickey!Scrooge!VLG_Scro_060_Group03_Step11_StepDescriptionOНайдите все кусочки спрятанного сокровища:
+�
+<Village!Mickey!Scrooge!VLG_Scro_060_Group03_StoryDescription�Вооружен как знаниями, так и <ActivityItem>Lenses Теней</ActivityItem>, вы начинаете охотиться за сокровищем.
+�
+<Village!Mickey!Scrooge!VLG_Scro_060_Group06_StoryDescription�Мерлин ставит вас на след ключей и чего-то под названием <ActivityItem>Lenses из Теней</ActivityItem>. Скрудж Макдак имеет <ActivityItem>Lenses из Теней</ActivityItem>. Чтобы найти ключи, вам нужно начать с изучения карты.
+�
+TVillage!Mickey!Scrooge!VLG_Scro_060_Group08_Step10_TalkToCharacter02_StepDescriptionZВозвращайтесь к Скрудж Макдак с тем, что вы нашли.
+�
+<Village!Mickey!Scrooge!VLG_Scro_060_Group09_StoryDescription�Ему удалось собрать части карты, но он озадачен странной надписью и предполагает сотрудничество в поисках сокровищ. Вы получите даже процент прибыли. Ваша первая задача - попросить Мерлин расшифровать слова на карте.
+g
+6Village!Mickey!Scrooge!VLG_Scro_060_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

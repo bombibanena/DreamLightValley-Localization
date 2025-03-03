@@ -1,0 +1,42 @@
+TAG: Jasmine_000_f
+We did it, {PlayerName}! We won the sandcastle competition!
+
+TAG: Jasmine_001_f
+Though, I'm beginning to think Maui didn't really care about winning. He just wanted to have fun. And now we have what we need!
+
+TAG: Player_000_choice_000_f
+I couldn't have done it without you!
+
+TAG: Player_000_choice_001_f
+He did seem impressed, didn't he?
+
+TAG: Player_000_choice_002_f
+I'm just glad we finally have the Special Starfish!
+
+TAG: Jasmine_002_f
+Your centerpiece really added something special to the whole design.
+
+TAG: Jasmine_005_f
+It was my pleasure. And it was nice to offer something from my past. It was... comforting.
+
+TAG: Jasmine_007_f
+I'm glad it helped you, in some small way.
+
+TAG: Jasmine_013_f
+It did. But now's not the time to reminisce.
+
+TAG: Jasmine_011_f
+We need to <Lore>make the Beach Key</Lore> and see if it will unlock one of those locks.
+
+TAG: Jasmine_008_f
+Will you do the honors? I've studied magic, and spent lots of time talking to Genie about it, but I have no idea how to turn Sea Sand Sparks and a starfish into a key.
+
+TAG: Jasmine_003_f
+I think your centerpiece really helped. It added something special to my design.
+
+TAG: Jasmine_004_f
+With your impeccable sandcastle design, it's no wonder we won.
+
+TAG: Jasmine_006_f
+Well, your centerpiece really added something special to the whole design.
+

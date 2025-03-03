@@ -1,0 +1,27 @@
+
+t
+AVillage!Mickey!Goofy!VLG_Goof_010_Any_CompletedRequestDescription/Возвращайся в Гуфи с едой.
+�
+6Village!Mickey!Goofy!VLG_Goof_010_AvailableDescriptionWГуфи хочет поделиться с вами забавным занятием.
+�
+;Village!Mickey!Goofy!VLG_Goof_010_CompletedStoryDescriptionRПора показать Гуфи результат твоих подвигов.
+T
+-Village!Mickey!Goofy!VLG_Goof_010_DisplayName#Теплое приветствие
+�
+>Village!Mickey!Goofy!VLG_Goof_010_Group01_OngoingRequestButtonG<smallcaps>{title}</smallcaps><br> Что мне нужно найти?
+q
+JVillage!Mickey!Goofy!VLG_Goof_010_Group01_Step01_Possess01_StepDescription#<ActivityItem>Basil</ActivityItem>.
+s
+JVillage!Mickey!Goofy!VLG_Goof_010_Group01_Step01_Possess02_StepDescription%<ActivityItem>Oregano</ActivityItem>.
+�
+9Village!Mickey!Goofy!VLG_Goof_010_Group01_StepDescriptionKСоберите следующие травы в Медоу и Плаза:
+�
+:Village!Mickey!Goofy!VLG_Goof_010_Group01_StoryDescription�Он предлагает, чтобы вы вместе готовили, и что сбор Хербса будет хорошим местом для начала.
+s
+RVillage!Mickey!Goofy!VLG_Goof_010_Group02_Step02_TalkToCharacter01_StepDescriptionПоговори с Гуфи.
+�
+KVillage!Mickey!Goofy!VLG_Goof_010_Group03_Step03_CookMeal01_StepDescription�Приготовить еду с использованием <ActivityItem>Basil</ActivityItem> или <ActivityItem>Oregano</ActivityItem>.
+�
+:Village!Mickey!Goofy!VLG_Goof_010_Group03_StoryDescription�Теперь, когда у вас есть качественные Ингредиенты, он призывает вас приготовить еду, которой вы можете поделиться со своими соседями и друзьями.
+e
+4Village!Mickey!Goofy!VLG_Goof_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

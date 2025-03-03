@@ -1,0 +1,102 @@
+TAG: Olaf_004_f
+Olaf, are you ready for your sidekick test?
+
+TAG: Olaf_005_f
+Definitely! But I have an important question first.
+
+TAG: Olaf_006_f
+Sure, what's up?
+
+TAG: Olaf_007_f
+If I offer Gaston a warm hug, would that be considered trying to influence the judge?
+
+TAG: Player_000_choice_000_f
+Hmm, could be!
+
+TAG: Player_000_choice_001_f
+Nah, you're fine.
+
+TAG: Olaf_008_f
+I'm not sure how receptive Gaston would be, though.
+
+TAG: Player_001_choice_000_f
+Great idea, Olaf!
+
+TAG: Player_001_choice_001_f
+I... don't think that Gaston will see things that way.
+
+TAG: Olaf_009_f
+Oh, so I need to become his friend first and then offer a hug? I understand.
+
+TAG: Olaf_010_f
+I... Sure, let's go with that for now.
+
+TAG: Olaf_011_f
+Gaston wants to see how you're able to conquer nature. That's a big thing for him.
+
+TAG: Olaf_012_f
+Conquer nature? How silly. Nature can't be conquered! He must mean something else.
+
+TAG: Olaf_013_f
+Well... he spent a lot of time alone in the Glittering Dunes. Maybe he wants to see how you tackle the <ActivityItem>Swirling Sands</ActivityItem>, <ActivityItem>Glass Stalagmites</ActivityItem>, and <ActivityItem>Copper Rocks</ActivityItem>.
+
+TAG: Olaf_000_f
+I can deal with those with my Royal Tools, but you'll need to tag along and be a good sidekick!
+
+TAG: Olaf_014_f
+Okay, okay... but what if what he REALLY wants is a bouquet of flowers?
+
+TAG: Olaf_015_f
+If I was trying to make a new friend and they brought me flowers, I'd be so happy!
+
+TAG: Olaf_016_f
+Hooray!
+
+TAG: Olaf_003_f
+*gasp* What if we bring him flowers that nobody's ever seen before?!
+
+TAG: Olaf_021_f
+We could find one of those portal things to someplace else, and then bring back flowers for Gaston that are brand-new to the Valley!
+
+TAG: Player_003_choice_000_f
+Gaston doesn't deserve you, Olaf.
+
+TAG: Player_003_choice_001_f
+Whoooaaa... slow down there.
+
+TAG: Olaf_022_f
+Oh, everyone deserves a friend.
+
+TAG: Olaf_024_f
+Why don't we try for something a little simpler and gather flowers from <Lore>Eternity Isle</Lore>?
+
+TAG: Olaf_025_f
+Great idea, {PlayerName}!
+
+TAG: Olaf_019_f
+Let's go conquer nature!
+
+TAG: Olaf_020_f
+And gather flowers!
+
+TAG: Olaf_001_f
+Are you ready to go now?
+
+TAG: Player_002_choice_000_f
+Let's do it!
+
+TAG: Player_002_choice_001_f
+Actually, give me a moment first.
+
+TAG: Olaf_002_f
+Come back soon!
+
+TAG: Olaf_023_f
+Okay...
+
+TAG: Olaf_017_f
+Oh, I'm sure he will once he sees the flowers!
+
+TAG: Olaf_018_f
+Well... it's your contest.
+

@@ -1,0 +1,53 @@
+
+s
+FRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Any_CompletedRequestDescription)Возвращайтесь на Мушу.
+�
+;Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_AvailableDescription�Мулан сказал вам, что Мушу нуждается в помощи для создания новой системы обороны для Империи. Вы должны поговорить с ним.
+�
+@Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_CompletedStoryDescriptioneАрмия Дракона готова. Мушу, должно быть, очень довольна.
+Q
+2Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_DisplayNameАрмия Драконов
+x
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group01_Step01_TalkToCharacter01_StepDescriptionПоговори с Мушу.
+^
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess01_StepDescription{itemName}.
+~
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess02_StepDescription+<ActivityItem>Buckets Water</ActivityItem>.
+y
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess03_StepDescription&<ActivityItem>Firewood</ActivityItem>.
+�
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess04_StepDescription.<ActivityItem>Red Spider Llies</ActivityItem>.
+~
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess05_StepDescription+<ActivityItem>Crysanthemums</ActivityItem>.
+�
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess06_StepDescriptionG<ActivityItem>Dream Shards</ActivityItem> из долины Мечты.
+z
+ERealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step03_StepDescription1Сфотографируй <Lore>Мушу</Lore>.
+�
+>Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_StepDescription[Поиск материалов для Мушу <ActivityItem>Dragon Status</ActivityItem>:
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_StoryDescription�Вы решили создать армию волшебных драконовых Статуй, чтобы защитить Империю, но чтобы начать, вам нужно собрать материалы.
+�
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group03_Step04_CraftItem01_StepDescriptioneПодготовить Статуи Дракона <ActivityItem>Unlost Dragon Status</ActivityItem>.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group03_StoryDescription�Как только у вас есть все материалы, пришло время подготовить Неударные Драконные Статуи.
+�
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group04_Step05_TalkToCharacter02_StepDescription)Возвращайтесь на Мушу.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group05_Step06_FillKeyhole01_StepDescription�Взаимодействие с печью для размещения <ActivityItem>Unlight Dragons Status</ActivityItem> и <ActivityItem>Firewood</ActivityItem>.
+x
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group06_Step07_TalkToCharacter03_StepDescriptionПоговори с Мушу.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group06_StoryDescription�Статуи Дракона на месте, теперь вам нужно сказать Мушу, что все готово к началу процесса стрельбы.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group07_Step08_Conditional01_StepDescription~Подождите, пока будут выпущены четыре партии <ActivityItem>Dragon Status</ActivityItem>.
+�
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group07_Step08_Conditional02_StepDescription-Полная тренировка Мулан.
+�
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group07_StoryDescription�Стрельба Статуи Дракона займет какое-то время, вам просто нужно быть терпеливым.
+�
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+~
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group03_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group05_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?

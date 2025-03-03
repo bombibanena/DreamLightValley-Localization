@@ -1,0 +1,42 @@
+TAG: Beast_000_f
+Grrrrr! Why do they make fishing rods so fragile?
+
+TAG: Player_000_choice_000_f
+Did you break another one?
+
+TAG: Player_000_choice_001_f
+Did you lose your temper?
+
+TAG: Player_000_choice_002_f
+Are you okay?
+
+TAG: Beast_001_f
+Yes. It's in splinters.
+
+TAG: Beast_002_f
+Nothing here is built for claws!
+
+TAG: Player_001_choice_000_f
+That must be hard.
+
+TAG: Player_001_choice_001_f
+Maybe we can make you a metal fishing rod!
+
+TAG: Player_001_choice_002_f
+You're not used to them by now?
+
+TAG: Beast_003_f
+It is. And extremely frustrating.
+
+TAG: Beast_004_f
+Hmm. Perhaps. That might make things easier.
+
+TAG: Beast_005_f
+What?! Yes, of course. It's just that my paws are so much bigger than hands.
+
+TAG: Beast_006_f
+No! I wasn't even angry!
+
+TAG: Beast_007_f
+Yes. I just... I destroyed another fishing rod.
+

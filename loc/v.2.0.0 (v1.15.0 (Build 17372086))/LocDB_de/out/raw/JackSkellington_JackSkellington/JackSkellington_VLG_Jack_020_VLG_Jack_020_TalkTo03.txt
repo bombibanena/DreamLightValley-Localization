@@ -1,0 +1,9 @@
+TAG: JackSkellington_000_f
+What's this?! Something is happening to the Giant Night Thorn!
+
+TAG: JackSkellington_001_f
+Is the potion working? ... It is! The Night Thorn is shrinking!
+
+TAG: JackSkellington_002_f
+Look! It's left a <ActivityItem>Night Thorn Sprout</ActivityItem>! {PlayerName}, would you mind handing it to me?
+

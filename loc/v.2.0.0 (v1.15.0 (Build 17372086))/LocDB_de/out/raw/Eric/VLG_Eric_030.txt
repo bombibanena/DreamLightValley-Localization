@@ -1,0 +1,84 @@
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Any_CompletedRequestDescription
+Talk to Eric.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_AvailableDescription
+Now that Eric has his life back, he has new plans and wants to talk to you about them.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_CompletedStoryDescription
+With the Compass fixed, Eric has everything he needs but wants to show you something in his House.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_DisplayName
+Back on the Waves
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Who should I talk to?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Scrooge McDuck.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group01_StoryDescription
+Eric wants to take to the waves again, but first he needs updated maps. You decide to go ask Scrooge McDuck, his former business partner.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group02_Step02_ReadyDescription
+Bring WALLÂ·E the {ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group02_Step02_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group04_Step04_ReadyDescription
+Bring the {ItemName} to Eric.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group04_Step04_StepDescription
+Get the {ItemName} from Scrooge McDuck.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Where should I go?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group05_Step05_BringItem04_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group05_Step05_ReadyDescription
+Bring the {ItemName} to WALLÂ·E.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group05_StoryDescription
+You've brought Eric a new map from Scrooge McDuck, but Eric's Compass is broken. You decide to ask WALLÂ·E for help.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group06_Step06_StepDescription
+Gather the materials to craft a new <ActivityItem>Dreamlight Magnet</ActivityItem>.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group06_StoryDescription
+After consulting with WALLÂ·E, you learn that Eric's Compass needs a new Dreamlight Magnet. It's up to you to craft one.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group07_Step07_CraftItem02_StepDescription
+Craft the <ActivityItem>Dreamlight Magnet</ActivityItem> at a Crafting Station.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How can I help?
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group09_Step09_BringItem03_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group09_Step09_ReadyDescription
+Bring the <ActivityItem>Compass</ActivityItem> back to Eric.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_Group10_Step10_VisitArea01_StepDescription
+Meet Eric inside his House.
+
+TAG: Village!LilMermaid!Eric!VLG_Eric_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

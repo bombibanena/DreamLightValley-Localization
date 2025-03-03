@@ -1,0 +1,89 @@
+
+C
+
+Olaf_000_f5Hey, Olaf. There's something we need to talk about...
+d
+
+Olaf_001_fVOoo, are we about to have a difficult and grown-up conversation about a serious topic?
+
+
+Olaf_002_fI'm so excited!
+N
+
+Olaf_003_f@Ahem. I will endeavor to display the utmost maturity. Proceed...
+M
+Player_000_f=You've been spending a LOT of time talking to the Lorekeeper.
+?
+Player_000_choice_000_f$She's tired and she needs some rest.
+Q
+Player_000_choice_001_f6We think you'd benefit from also having another hobby.
+L
+Player_000_choice_002_f1Maybe you should diversify your fun-fact sources.
+m
+
+Olaf_004_f_Oh. I had noticed that her fun facts are getting less fun and less frequent each time we speak.
+R
+
+Olaf_008_fDMaybe I should take up a new hobby for when she's too tired to talk.
+4
+
+Olaf_005_f&But what sort of hobby could it be...?
+1
+Player_001_choice_000_fFountain construction?
+ 
+Player_001_choice_001_fOwls?
+(
+Player_001_choice_002_fSecret rooms?
+`
+
+Olaf_010_fRFountains ARE fascinating. But I think the wildlife here is even more interesting!
+P
+
+Olaf_020_fBMaybe the owls around the Bind would be a worthy topic of study...
+h
+
+Olaf_012_fZI don't know much about them. But ignorance is the first step on the journey to knowledge.
+U
+
+Olaf_013_fGBirdwatching could be an excellent source of new facts and information!
+;
+Player_002_choice_000_f I could find you a book on owls?
+@
+Player_002_choice_001_f%I could get you a pair of binoculars?
+B
+Player_002_choice_002_f'I could make you an owl stuffed animal?
+G
+Player_002_choice_003_f,We'll need to get a look at an owl up close.
+e
+
+Olaf_014_fWOh, I would love that! But I also want to watch the cute little feathery owls up close.
+/
+
+Olaf_017_f!Maybe I should try feeding one...
+\
+
+Olaf_018_fNUh, let me handle that. Your nose might look like a delicious treat to an owl.
+á
+
+Olaf_019_fy*gasp* You're right, {PlayerName}! Maybe you can <Lore>feed the owls in the Bind</Lore> while I go consult an owl expert.
+e
+
+Olaf_015_fWOh, I don't need binoculars! I want to get up close to the cute little feathery owls...
+n
+
+Olaf_016_f`While I would love that, I'm afraid it's no replacement for close observation of the real thing.
+)
+
+Olaf_021_fThat's what I was thinking!
+=
+
+Olaf_009_f/*gasp* The owls in the Bind are so fascinating!
+ç
+
+Olaf_011_fSecret rooms are interesting, but after spending so much time stuck in the one in the Valley, I'd like to diversify my studies.
+*
+
+Olaf_006_fAnother hobby? How exciting!
+g
+
+Olaf_007_fYYou know, you're right! A new hobby could provide an endless assortment of new fun facts!

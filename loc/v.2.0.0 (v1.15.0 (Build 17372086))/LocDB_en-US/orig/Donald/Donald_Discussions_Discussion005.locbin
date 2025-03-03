@@ -1,0 +1,43 @@
+
+b
+Donald_000_fRHey! {PlayerName}! Who do you think you are? I just heard you call me a blockhead!
+-
+Player_000_choice_000_fI didn't say that!
+A
+Player_000_choice_001_f&Donald, calm down. Don't be a hothead.
+/
+Player_000_choice_002_fYou are a blockhead.
+B
+Donald_001_f2You didn't? I could've sworn I heard you say that.
+$
+Player_001_choice_000_f	I didn't.
+(
+Player_001_choice_001_fYou misheard.
+5
+Player_001_choice_002_fI called you a nincompoop.
+@
+Donald_002_f0Well... okay. I'm sorry. Guess I made a mistake.
+?
+Donald_003_f/Hmm... maybe. But I'm gonna keep my eye on you.
+
+Donald_004_fWHY YOU...!!!
+B
+Donald_005_f2I'm perfectly calm! Don't say that I'm not calm!!!
+Q
+Donald_006_fAFirst you call me a blockhead, and then you say I'm a hothead?!?!
+6
+Player_002_choice_000_fI didn't call you anything!
+1
+Player_002_choice_001_fYou are clearly angry.
+,
+Player_002_choice_002_fWhat a blockhead.
+P
+Donald_007_f@Even if you didn't the first time, you just called me a hothead!
+
+Donald_008_f~!^$#%@!&?#!
+,
+Donald_009_fI AM PERFECTLY CALM!!!!!!!!!
+(
+Donald_010_fWHAT?!!! Why I oughta...
+,
+Donald_011_fOh, that's the last straw!!!

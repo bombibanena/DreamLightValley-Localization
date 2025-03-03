@@ -1,0 +1,81 @@
+TAG: Gaston_005_f
+Well, you've tested your two candidates â what do you think about the results?
+
+TAG: Gaston_006_f
+*sigh* I'm... disappointed.
+
+TAG: Player_000_choice_000_f
+Yeah, I saw that coming.
+
+TAG: Player_000_choice_001_f
+What?! Why?
+
+TAG: Gaston_007_f
+Stitch did bring me a heroic amount of eggs. And the coconut cake was quite good.
+
+TAG: Player_001_choice_000_f
+I would love to receive flowers from Olaf!
+
+TAG: Player_001_choice_001_f
+Okay, I get your point.
+
+TAG: Gaston_008_f
+But that coffee was terrible! Why would he drink that?!
+
+TAG: Gaston_009_f
+I think he likes the energy boost it gives him.
+
+TAG: Gaston_010_f
+How unnecessary. I get all my energy from my incredible strength of will.
+
+TAG: Gaston_011_f
+So you're going with Olaf, then?
+
+TAG: Gaston_012_f
+Olaf... but he...
+
+TAG: Gaston_013_f
+He brought me flowers!
+
+TAG: Gaston_014_f
+And?
+
+TAG: Gaston_015_f
+And... I asked him to conquer nature, and he brought me flowers!
+
+TAG: Gaston_016_f
+How sad for you.
+
+TAG: Gaston_017_f
+So what do you want to do?
+
+TAG: Gaston_018_f
+Well, they both have potential, so I'll need to give them another test...
+
+TAG: Gaston_019_f
+Extolling my virtues during a party!
+
+TAG: Player_002_choice_000_f
+Of course that's the final test...
+
+TAG: Player_002_choice_001_f
+A party? Count me in!
+
+TAG: Gaston_020_f
+We'll need a proper setting to truly see their skill â make me a <ActivityItem>Gastonian Appreciation Stage</ActivityItem>.
+
+TAG: Gaston_000_f
+Excuse me, what?
+
+TAG: Gaston_001_f
+Exactly what I said, {PlayerName} â a stage where people can hoist me on their shoulders and loudly proclaim how amazing I am!
+
+TAG: Gaston_021_f
+You'll need <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem>Copper</ActivityItem>, and those things you call <ActivityItem>Plastic Scraps</ActivityItem>.
+
+TAG: Gaston_022_f
+Set that up and I'll inform the candidates about the next test and send out invitations to the event.
+
+TAG: Gaston_023_f
+All right, I'll take care of that next.
+

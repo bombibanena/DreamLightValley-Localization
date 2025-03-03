@@ -1,0 +1,43 @@
+
+�
+;Premium!LilMermaid!Ursula!PRM_Ursu_080_AvailableDescriptionQОлаф нуждается в помощи с чем-то... необычным.
+m
+2Premium!LilMermaid!Ursula!PRM_Ursu_080_DisplayName7Сделка дня: как теплое объятие
+x
+WPremium!LilMermaid!Ursula!PRM_Ursu_080_Group01_Step01_TalkToCharacter01_StepDescriptionПоговори с Олаф.
+�
+>Premium!LilMermaid!Ursula!PRM_Ursu_080_Group01_StepDescriptionYОлаф нуждается в вашей помощи с чем-то необычным.
+w
+OPremium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess01_StepDescription$<ActivityItem>Cotton</ActivityItem>.
+v
+OPremium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess02_StepDescription#<ActivityItem>Fiber</ActivityItem>.
+�
+OPremium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess03_StepDescription2<ActivityItem> White Pression Lily</ActivityItem>.
+~
+OPremium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess04_StepDescription+<ActivityItem>Red Bromeliad</ActivityItem>.
+�
+OPremium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_Possess05_StepDescription1<ActivityItem> Blue Pression Lily</ActivityItem>.
+q
+EPremium!LilMermaid!Ursula!PRM_Ursu_080_Group02_Step02_StepDescription(Собирающие материалы:
+�
+?Premium!LilMermaid!Ursula!PRM_Ursu_080_Group02_StoryDescription�Выяснилось, что Урсула дал Олаф проклятое плюшевое животное по какой-то злобной причине, но Олаф не заинтересован в том, чтобы выяснить причину или отомстить. Вместо этого, он хочет вернуть подарок Урсула с букетом цветов, чтобы показать, что она ценится.
+�
+QPremium!LilMermaid!Ursula!PRM_Ursu_080_Group03_Step03_CraftItem01_StepDescription]Ремонт <ActivityItem>Олаф заряженного животного</ActivityItem>.
+`
+QPremium!LilMermaid!Ursula!PRM_Ursu_080_Group03_Step03_CraftItem02_StepDescription{ItemName}.
+�
+EPremium!LilMermaid!Ursula!PRM_Ursu_080_Group03_Step03_StepDescriptionFИспользовать ремесленную станцию для:
+`
+QPremium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_BringItem01_StepDescription{itemName}.
+`
+QPremium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_BringItem02_StepDescription{itemName}.
+�
+FPremium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_ReadyDescription\Приведите <ActivityItem>Gifts для Урсула</ActivityItem> на Урсула.
+�
+EPremium!LilMermaid!Ursula!PRM_Ursu_080_Group04_Step04_StepDescriptionmУбедитесь, что <ActivityItem>Gifts для Урсула</ActivityItem> в вашем списке.
+�
+?Premium!LilMermaid!Ursula!PRM_Ursu_080_Group04_StoryDescriptionyТеперь, когда подарки для Урсула готовы, пришло время отдать их ей.
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_080_Group02_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+~
+CPremium!LilMermaid!Ursula!PRM_Ursu_080_Group03_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?

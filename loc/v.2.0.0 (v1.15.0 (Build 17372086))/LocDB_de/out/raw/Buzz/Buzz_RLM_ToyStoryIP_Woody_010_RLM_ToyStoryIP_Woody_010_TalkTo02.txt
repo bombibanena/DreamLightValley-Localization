@@ -1,0 +1,42 @@
+TAG: Buzz_000_f
+{PlayerName}, how goes the mission?
+
+TAG: Buzz_001_f
+We have almost everything now... except something to hold Bonnie's farm together.
+
+TAG: Buzz_003_f
+Not to worry! While performing a survey of the Valley, I located the perfect thing.
+
+TAG: Buzz_004_f
+It's an extremely powerful <ActivityItem>Adhesive Bonding Agent</ActivityItem>.
+
+TAG: Buzz_011_f
+According to the package, it's strong enough to repair a broken hammer. And we know how much stress those take.
+
+TAG: Buzz_005_f
+Wow. I didn't know we had anything like that in Dreamlight Valley. Let's see it.
+
+TAG: Buzz_006_f
+Here you go.
+
+TAG: Player_000_choice_000_f
+Great work, Space Ranger.
+
+TAG: Player_000_choice_001_f
+This is very futuristic stuff.
+
+TAG: Player_000_choice_002_f
+This is just glue, Buzz...
+
+TAG: Buzz_007_f
+Anything to help Bonnie.
+
+TAG: Buzz_008_f
+If that doesn't hold Bonnie's farm together, nothing will.
+
+TAG: Buzz_009_f
+It is?!
+
+TAG: Buzz_010_f
+Oh. Bonnie's parents use that all the time.
+

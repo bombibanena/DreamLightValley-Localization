@@ -1,0 +1,108 @@
+TAG: Story!MRQS133_TheDarkCastle_AvailableDescription
+Вы собрали достаточно забытых реликвий, чтобы наложить заклинание.
+
+TAG: Story!MRQS133_TheDarkCastle_DisplayName
+Темный замок
+
+TAG: Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS133_TheDarkCastle_Group01_Step01_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Story!MRQS133_TheDarkCastle_Group01_Step01_ReadyDescription
+Возьмите <ActivityItem> Забытые реликвии</ActivityItem> на Мерлин.
+
+TAG: Story!MRQS133_TheDarkCastle_Group02_Step02_FollowCharacter01_StepDescription
+Следуйте за Мерлин до Плазы.
+
+TAG: Story!MRQS133_TheDarkCastle_Group02_Step02_FollowCharacter01_TalkToDescription
+Поговори с Мерлин.
+
+TAG: Story!MRQS133_TheDarkCastle_Group03_Step09_VisitArea10_StepDescription
+Пройдите к соседней двери.
+
+TAG: Story!MRQS133_TheDarkCastle_Group03_StoryDescription
+Вы загадываете путь за дверью, делаете все возможное, используя ингредиенты."механический глаз."
+
+TAG: Story!MRQS133_TheDarkCastle_Group06_Step06_VisitArea01_StepDescription
+Пройдите через портал в Темный Замок.
+
+TAG: Story!MRQS133_TheDarkCastle_Group07_Step07_VisitArea02_StepDescription
+Войдите в Темный Замок.
+
+TAG: Story!MRQS133_TheDarkCastle_Group08_Step08_TalkToCharacter03_StepDescription
+Расследуйте это.
+
+TAG: Story!MRQS133_TheDarkCastle_Group08_StepDescription
+Что-то странное в этой двери...
+
+TAG: Story!MRQS133_TheDarkCastle_Group10_Step10_StepDescription
+Найди здесь что-нибудь, что заставит дверь впустить тебя.
+
+TAG: Story!MRQS133_TheDarkCastle_Group10_StoryDescription
+В замке вы встретите очень сонную дверь, которая не позволит вам пройти, если вы не будете выглядеть как забытая.
+
+TAG: Story!MRQS133_TheDarkCastle_Group11_Step11_TalkToCharacter04_StepDescription
+Поговори с дверью.
+
+TAG: Story!MRQS133_TheDarkCastle_Group12_Step12_VisitArea03_StepDescription
+Идите через дверь.
+
+TAG: Story!MRQS133_TheDarkCastle_Group12_StoryDescription
+Вы находите маскировочную маску, которая делает фокус и продолжаете путь.
+
+TAG: Story!MRQS133_TheDarkCastle_Group13_Step13_VisitArea04_StepDescription
+Расследуйте глубже в Темном Замке.
+
+TAG: Story!MRQS133_TheDarkCastle_Group19_Step19_FillKeyhole02_StepDescription
+Придумай, как пройти через вторую дверь в Темном Замке.
+
+TAG: Story!MRQS133_TheDarkCastle_Group20_Step20_VisitArea05_StepDescription
+Проходите через вторую дверь в Темном Замке.
+
+TAG: Story!MRQS133_TheDarkCastle_Group21_Step21_VisitArea06_StepDescription
+Расследуйте глубже в Темном Замке.
+
+TAG: Story!MRQS133_TheDarkCastle_Group22_Step22_TakePicture01_StepDescription
+Ищите подсказку.
+
+TAG: Story!MRQS133_TheDarkCastle_Group22_StepDescription
+Похоже, этой двери не хватает...
+
+TAG: Story!MRQS133_TheDarkCastle_Group23_Step23_VisitArea07_StepDescription
+Проходите через третью дверь в темном замке.
+
+TAG: Story!MRQS133_TheDarkCastle_Group24_Step03_VisitArea09_StepDescription
+Пройдите через первую дверь, чтобы глубже исследовать Темный Замок.
+
+TAG: Story!MRQS133_TheDarkCastle_Group26_Step26_StepDescription
+Найди способ достать ключ.
+
+TAG: Story!MRQS133_TheDarkCastle_Group26_StepDescription
+Дверь заперта...
+
+TAG: Story!MRQS133_TheDarkCastle_Group28_Step28_Possess05_StepDescription
+Возьми ключ.
+
+TAG: Story!MRQS133_TheDarkCastle_Group28_StepDescription
+Ты расплавил лёд!
+
+TAG: Story!MRQS133_TheDarkCastle_Group29_Step29_FillKeyhole04_StepDescription
+Открой дверь, используя ключ.
+
+TAG: Story!MRQS133_TheDarkCastle_Group30_Step30_VisitArea08_StepDescription
+Проходите через заключительную дверь в Темном Замке и лицом к забытому.
+
+TAG: Story!MRQS133_TheDarkCastle_Group31_Step31_TalkToCharacter05_StepDescription
+Столкнуться с забытым.
+
+TAG: Story!MRQS133_TheDarkCastle_Group31_StoryDescription
+В конце концов, ты встретишь себя лицом к лицу с Забытым. Ты должен тщательно выбирать свои слова. В конце концов, на кону судьба вселенной.
+

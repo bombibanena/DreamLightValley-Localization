@@ -1,0 +1,39 @@
+TAG: Mickey_000_f
+Gosh, that birdhouse looks so good, I kinda wish I was a bird! Ha-ha!
+
+TAG: Mickey_009_f
+It sure is exciting to think that everybody's starting to come back.
+
+TAG: Mickey_001_f
+But there's actually somebody in particular that I'm especially waiting for...
+
+TAG: Mickey_002_f
+My sweetheart, Minnie. I was hoping to find her again when you opened the Meadow, but she wasn't there.
+
+TAG: Mickey_006_f
+Maybe if we bring the Village back to what it was, she can come back...
+
+TAG: Player_000_choice_000_f
+I've been wondering where she was.
+
+TAG: Player_000_choice_001_f
+Let's get her!
+
+TAG: Player_000_choice_002_f
+I'm sure she's fine.
+
+TAG: Mickey_003_f
+Me too! She disappeared, and I don't know how to find her.
+
+TAG: Mickey_007_f
+But now that you're here, I bet that together we can get her back!
+
+TAG: Mickey_008_f
+There's something kinda magical about you, {PlayerName}. I can't help but be hopeful when you're around.
+
+TAG: Mickey_004_f
+Oh, I'd go get her in a second, if I knew where she was.
+
+TAG: Mickey_005_f
+I hope so. I don't know where she is.
+

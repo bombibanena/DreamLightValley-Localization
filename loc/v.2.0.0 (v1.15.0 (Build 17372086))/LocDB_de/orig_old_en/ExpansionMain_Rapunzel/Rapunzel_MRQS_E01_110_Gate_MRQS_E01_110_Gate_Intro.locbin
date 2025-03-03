@@ -1,0 +1,99 @@
+
+M
+Rapunzel_000_f;Oh! Oh wow. You're not a jungle friend. You're a... person!
+ 
+Rapunzel_005_fI mean, hello!
+
+Rapunzel_014_f	Hi there!
+<
+Player_000_choice_000_f!You're surprised to see a person?
+(
+Player_000_choice_001_fAre you lost?
+-
+Player_000_choice_002_fI love your braid!
+g
+Rapunzel_033_fUI haven't seen another person in this jungle since... well, since it became a jungle.
+<
+Rapunzel_001_f*Wow. Okay... Uh, what's a "jungle friend"?
+Ä
+Rapunzel_002_f±Oh. Jungle friends are what I call the animals here. The ones trotting around on all fours? They have fuzzy snouts, the sweetest ears, and come in all sorts of different colors!
+.
+Rapunzel_037_fYou must mean the capybaras!
+p
+Rapunzel_003_f^Capybaras? Is that what they're called? That's amazing! And it's amazing that you're here too!
+:
+Rapunzel_038_f(It's nice to meet you. I'm {PlayerName}.
+N
+Rapunzel_039_f<It's nice to meet you too, {PlayerName}. My name's Rapunzel.
+9
+Player_001_choice_000_fSo, it wasn't always a jungle?
+;
+Player_001_choice_001_f Who was the last person you saw?
+€
+Rapunzel_010_fnNo, it used to be just sand and ruins. You could see all the way to the mainland from the tower where I lived.
+–
+Rapunzel_012_fƒThen one day, I woke up and there was a jungle outside! The tower was suddenly really old and crumbling... and Mother didn't visit!
+E
+Rapunzel_006_f3You mean Mother Gothel? She used to visit you here?
+G
+Rapunzel_029_f5Almost every day. When she stopped, I got so worried.
+k
+Rapunzel_013_fYI left the tower to look for her, and I've been exploring this amazing jungle ever since.
+U
+Rapunzel_040_fCHm... I wonder if you can help me? I'm looking for a Jewel of Time.
+[
+Rapunzel_019_fIShiny? Magical? Vital to keeping Eternity Isle from imminent destruction.
+M
+Rapunzel_020_f;Eternity Isle's in trouble? But... the capybaras live here!
+J
+Rapunzel_021_f8I'm going to stop it... but I need the Jewel to do that.
+¢
+Rapunzel_022_fHmm... I've looked all over this jungle for my missing paints, and I've found lots of beautiful rocks... but not any magical ones before today.
+„
+Rapunzel_023_frSee those <Lore>Gray Floating Rocks</Lore>? I can't get past them to search beyond this <Lore>Ancient Door</Lore>.
+T
+Rapunzel_024_fBThe rocks seem pretty magical... Are they what you're looking for?
+2
+Player_002_choice_000_fThey're time anomalies.
+;
+Player_002_choice_001_f No, but this might be my answer.
+8
+Player_002_choice_002_fHmm, I'll need a closer look.
+a
+Rapunzel_026_fO"Time anomalies"? That sounds so interesting! Do you know how to get past them?
+,
+Rapunzel_004_fI do! Just leave it to me.
+r
+Rapunzel_028_f`I'll <Lore>clear away these Gray Floating Rocks</Lore> so we can get a closer look at this door.
+U
+Rapunzel_025_fCThat would be amazing, if both our answers were just one door away!
+3
+Rapunzel_008_f!There's only one way to find out.
+6
+Rapunzel_027_f$Please do! I'm running out of ideas.
+!
+Rapunzel_016_fWho's "Mother"?
+¡
+Rapunzel_030_fŽOh â€” my mother. Mother Gothel? She raised me in another tower back in our home, and then we came here... She used to visit almost every day.
+2
+Rapunzel_031_f And she just stopped showing up?
+-
+Rapunzel_032_fYes... It was very strange.
+C
+Rapunzel_009_f1Well, I met a man on the desert half of the Isle.
+-
+Rapunzel_011_fI think his name is Gaston?
+•
+Rapunzel_015_f‚I asked him if the Valley is dangerous like Mother always warned me. But he said the mainland is so "not dangerous" it's "boring"!
+¡
+Rapunzel_017_fŽI knew that meant Mother wasn't being honest with me again. It's happened before... Then I came back here to the jungle to think about things.
+U
+Rapunzel_018_fCHe's big, like my friend Attila. And he talked about himself a lot.
+V
+Rapunzel_007_fDMe? Oh, no. I know my way around here pretty well. But you're new...
+u
+Rapunzel_034_fcThank you! The flowers are falling out a little, but... what can you do? That's adventuring, right?
+!
+Rapunzel_035_fIt looks great!
+J
+Rapunzel_036_f8Thanks... Wow, it is so nice to have someone to talk to!

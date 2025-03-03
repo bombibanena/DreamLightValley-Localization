@@ -1,0 +1,18 @@
+TAG: Scrooge_000_f
+{PlayerName}, it's time to take our Dreamlight Parks Fest ambitions to even greater heights!
+
+TAG: Player_000_choice_000_f
+I'm eager to finish this!
+
+TAG: Player_000_choice_001_f
+I'll come back to you on that.
+
+TAG: Scrooge_001_f
+I have one final set of ideas to help make the Valley feel like a proper amusement park.
+
+TAG: Scrooge_003_f
+As before, <Lore>collect all the materials on my list</Lore>, then we'll get started.
+
+TAG: Scrooge_002_f
+Don't take too long, {PlayerName}!
+

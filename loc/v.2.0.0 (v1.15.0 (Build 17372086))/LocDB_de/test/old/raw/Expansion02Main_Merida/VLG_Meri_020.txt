@@ -1,0 +1,129 @@
+TAG: Village!Brave!Merida!VLG_Meri_020_Any_CompletedRequestDescription
+Возвращайтесь на Мерида.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_AvailableDescription
+{PlayerName} обнаружила, что Малефисента и Аид были не единственными, кто враждовал в Вале. Мерида заглядывал в маленький момент из Флин Rider.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_CompletedStoryDescription
+После захватывающего соревнований по стрельбе из лучей Флин признал, что Мерида был лучшим лучником.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_DisplayName
+Архиепископы и архивы
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group02_Step24_Possess06_StepDescription
+Уберите плакаты возле дома Флин.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group03_Step02_ReadyDescription
+Возьмите <ActivityItem>Флин's Wanted Posters</ActivityItem> на Мерида.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group03_Step02_StepDescription
+Убедитесь, что в вашем списке есть "Захотимые плакаты" <ActivityItem>Флин.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group04_Step04_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group04_Step04_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group04_Step04_StepDescription
+Соберите следующие ингредиенты:
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group04_StoryDescription
+{PlayerName} обнаружил, что Мерида и Флин спорили о попытках Флин дать Мерида"Полезно"Мерида перевернулся на Флин с розыгрышом с помощью плакатов, искажавших его нос.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group05_Step05_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group05_StepDescription
+Приготовить еду для Мерида и Флин:
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group06_Step06_VisitArea01_StepDescription
+Зайди внутрь коттеджа Мерида для еды.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group07_Step07_Listen01_StepDescription
+Следите за доводами Мерида и Флин.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group07_StepDescription
+Похоже, эта еда идет не очень хорошо...
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group08_Step08_TalkToCharacter03_StepDescription
+Поговори с Мерида.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group09_Step09_Decorate01_StepDescription
+Помещение знаков конкурса <ActivityItem>Archery</ActivityItem> вокруг бинда.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group09_StepDescription
+Помогите Мерида организовать соревнование по стрельбе из лука против Флин следующим образом:
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group10_Step10_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group10_Step10_StepDescription
+Соберите следующие материалы для целей луковицы:
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group11_Step11_CraftItem01_StepDescription
+Подготовьте {itemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group12_Step12_ReadyDescription
+Возьмите {itemName} на {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group12_Step12_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group13_Step13_VisitArea02_StepDescription
+Познакомьтесь с Мерида в суде Фейри в Диком Вудсе.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group14_Step14_TalkToCharacter04_StepDescription
+Поговори с Мерида в суде сказок.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group15_Step15_TalkToCharacter05_StepDescription
+Поговори с Флин в суде Фейри, чтобы он начал стрелять.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group16_Step16_TakePicture01_StepDescription
+Сфотографируй Флин рядом с целью.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group17_Step17_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC} в суде сказок.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group18_Step18_TalkToCharacter07_StepDescription
+Поговори с {TargetNPC} в суде сказок.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group19_Step19_Possess08_StepDescription
+Расследуйте цели.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group19_Step19_StepDescription
+Не может быть, чтобы Мерида пропустил этот выстрел!
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group20_Step20_ReadyDescription
+Показать {itemName} {TargetNPC} в суде сказки.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group20_Step20_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group21_Step21_TalkToCharacter08_StepDescription
+Поговори с {TargetNPC} в суде сказок.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group22_Step22_ReadyDescription
+Показать {itemName} {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group22_Step22_StepDescription
+Возьмите {itemName} от цели.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_Group23_Step23_Listen02_StepDescription
+Смотрите Флин и Мерида чат.
+
+TAG: Village!Brave!Merida!VLG_Meri_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,21 @@
+TAG: Donald_000_f
+Thank you, {PlayerName}. I feel much better since the fish disappeared.
+
+TAG: Donald_001_f
+It seemed to be a pretty overwhelming situation! I'm glad I could help you out.
+
+TAG: Donald_002_f
+Now that I'm not smelling fish, I remembered something that you might want to know.
+
+TAG: Donald_005_f
+What is it?
+
+TAG: Donald_003_f
+I saw Anna today. Usually, she's pretty happy, but she seemed upset.
+
+TAG: Donald_006_f
+She kept mumbling something about her House being in "chocolate chaos." Seemed peculiar to me.
+
+TAG: Donald_004_f
+Oh boy. I'm going to <Lore>talk to Anna</Lore> and see what's going on.
+

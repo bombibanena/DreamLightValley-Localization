@@ -1,0 +1,24 @@
+TAG: Merlin_005_f
+Ah yes, {PlayerName}. I was pondering the nature of chaos.
+
+TAG: Merlin_006_f
+Which of our residents do you feel best represents the concept of chaos?
+
+TAG: Player_001_choice_000_f
+Stitch.
+
+TAG: Player_001_choice_001_f
+Donald Duck.
+
+TAG: Player_001_choice_002_f
+Olaf.
+
+TAG: Merlin_007_f
+Most certainly! Why, he is a nexus of pandemonium.
+
+TAG: Merlin_008_f
+Really? To me, Donald does not so much embody chaos as he attracts it.
+
+TAG: Merlin_009_f
+No, no. Olaf has childlike curiosity and enthusiasm. That is quite different from chaos.
+

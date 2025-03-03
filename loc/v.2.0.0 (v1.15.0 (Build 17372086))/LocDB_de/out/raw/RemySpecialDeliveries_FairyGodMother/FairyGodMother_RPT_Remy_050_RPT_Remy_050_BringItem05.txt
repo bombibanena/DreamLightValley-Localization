@@ -1,0 +1,27 @@
+TAG: FairyGodMother_000_f
+Oh my! These look delicious. Did you make them, dear?
+
+TAG: Player_000_choice_000_f
+They're a treat from a friend, just for being you.
+
+TAG: Player_000_choice_001_f
+I'm not supposed to say who they're from.
+
+TAG: Player_000_choice_002_f
+They're a thank-you from Minnie.
+
+TAG: FairyGodMother_001_f
+Oh, I see. They're from Minnie, aren't they?
+
+TAG: FairyGodMother_002_f
+She solved the mystery that the gift was from me. Well, bravo to her!
+
+TAG: FairyGodMother_003_f
+I'll just have to be extra mysterious the next time I want to send her something anonymously.
+
+TAG: FairyGodMother_005_f
+Thank you, {PlayerName}. You're everything a good Ruler ought to be â a kind helper and a wonderful friend.
+
+TAG: FairyGodMother_004_f
+But I wasn't supposed to tell you that...
+

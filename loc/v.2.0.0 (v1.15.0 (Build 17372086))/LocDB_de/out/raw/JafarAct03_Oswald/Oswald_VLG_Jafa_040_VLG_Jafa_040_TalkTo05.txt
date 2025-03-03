@@ -1,0 +1,48 @@
+TAG: Oswald_002_f
+OK Oswald, it's your turn. How do you feel about what Jafar did?
+
+TAG: Oswald_011_f
+Jafar keeps yammerin' on that he's got goodness in him, so why not find proof of that?
+
+TAG: Oswald_012_f
+If we can catch some of them lost Memories and prove that he can rate, then I'm happy to let him stay.
+
+TAG: Oswald_013_f
+I'll even bring him a poutine myself!
+
+TAG: Oswald_014_f
+Interesting, thank you for your testimony, Oswald.
+
+TAG: Oswald_015_f
+Court will adjourn for the time being. I need to go <Lore>look for some of those lost Memories</Lore>.
+
+TAG: Oswald_001_f
+When we reconvene, I will either examine evidence of Jafar's past good actions...
+
+TAG: Oswald_016_f
+Or we will decide on his... eternal reward. Heh.
+
+TAG: Oswald_003_f
+Well, if anybody's got a right to accuse him of something, it's me. He almost stole my luck!
+
+TAG: Oswald_004_f
+That's true. What do you want to happen to Jafar?
+
+TAG: Oswald_005_f
+Gee, I'm not sure...
+
+TAG: Oswald_006_f
+He's a tough customer, but shouldn't folks get a second chance in a place like this?
+
+TAG: Oswald_007_f
+Jafar's right â he did used to live here with us.
+
+TAG: Oswald_008_f
+But nobody remembers! For all I know, maybe I used to be a villain, and he stopped me from a whole bunch o' trolley-based mayhem!
+
+TAG: Oswald_009_f
+Do you think we should all just forget and forgive here?
+
+TAG: Oswald_010_f
+No way, judge-o!
+

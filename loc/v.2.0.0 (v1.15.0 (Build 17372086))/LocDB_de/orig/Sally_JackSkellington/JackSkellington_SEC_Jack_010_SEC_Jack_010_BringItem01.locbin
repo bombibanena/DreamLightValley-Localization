@@ -1,0 +1,50 @@
+
+f
+JackSkellington_001_fMHey, Jack. You were right. There were tons of spiders invading Anna's Castle!
+q
+JackSkellington_002_fXOh, how wonderful! I'm so pleased that they've taken a Halloween approach to decoration.
+C
+Player_000_choice_000_f(Okay, I know that YOU would like that...
+N
+Player_000_choice_001_f3I like it, but I don't think the Arendellians do...
+<
+Player_000_choice_002_f!Sorry, the spiders have gotta go.
+N
+JackSkellington_004_f5Do you know where these spiders might have come from?
+O
+JackSkellington_005_f6Hmm... I'm not sure, but let me examine them closer...
+U
+JackSkellington_006_f<*gasp* Look at this! This spiderweb has a message inside it!
+(
+JackSkellington_007_fWow! From whom?
+a
+JackSkellington_008_fHI can't tell. The message is fragmented. I can only make out part of it.
+p
+JackSkellington_003_fWIt says "Dear— ...helpful sp— ...making a por— ...give them wha— ...miss—..."
+A
+JackSkellington_000_f(To understand more, I'll need more webs.
+K
+Player_001_choice_000_f0How do you... leave a message inside spiderwebs?
+@
+Player_001_choice_001_f%How intriguing! I wonder who sent it.
+!
+Player_001_choice_002_fWHAT?!
+~
+JackSkellington_009_feThat, my friend, is a rare form of Halloween magic. You need a special affinity for thread to use it.
+�
+JackSkellington_014_fhCould you <Lore>fetch more web pieces</Lore>? I heard that they've been seen in other Villagers' Houses.
+&
+Player_002_choice_000_fNo problem.
+=
+Player_002_choice_001_f"I'll try, but spiderwebs are icky.
+,
+Player_002_choice_002_fJust this once...
+#
+JackSkellington_015_f
+Wonderful!
+x
+JackSkellington_016_f_I appreciate your help, {PlayerName}. I know that some people don't like spiders or their webs.
+9
+JackSkellington_010_f Me too! We simply must find out.
+1
+JackSkellington_011_fI'm as surprised as you!

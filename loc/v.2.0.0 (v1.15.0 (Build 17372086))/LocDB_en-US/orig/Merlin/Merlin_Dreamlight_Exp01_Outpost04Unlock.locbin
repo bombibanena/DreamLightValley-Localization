@@ -1,0 +1,27 @@
+
+í
+Merlin_008_fÅ{PlayerName}, I see you've found another <Lore>mysterious Time Rift</Lore>. This too is connected to the magic of your Hourglass.
+w
+Merlin_009_fgChannel the magical <ActivityItem>Mist</ActivityItem> within it to mend this wound in time and space...
+i
+Merlin_010_fYWhen you do, you can explore another area of Ancient's Landing... the <Lore>Ruins</Lore>!
+~
+Player_001_choice_000_fcI'll channel the magic of the Hourglass... (Use {UpgradePrice} <sprite="iconCurrencyMist" index=0>)
+5
+Player_001_choice_001_fI'm not quite ready yet...
+î
+Merlin_011_fÉ{PlayerName}, you've gained entry to the Ruins! These old stones have many stories to share with us. But only you can uncover them.
+w
+Merlin_012_fgDash it all! I'm afraid you don't have enough <ActivityItem>Mist</ActivityItem> to mend this Time Rift.
+ò
+Merlin_013_fáRemember... the <ActivityItem>Mist</ActivityItem> is <Lore>connected to the magic of your Hourglass and to Eternity Isle itself</Lore>.
+∑
+Merlin_014_f¶You must keep uncovering wonders with your Hourglass and continue to make Eternity Isle a home. As you do, you'll gain the <ActivityItem>Mist</ActivityItem> required!
+`
+Merlin_015_fPOh? Well, I suppose that's all right. But don't tarry! There is much to explore.
+@
+Merlin_016_f0These <Lore>Time Rifts</Lore> are quite curious.
+Y
+Merlin_017_fIWhy, they, er... they seem to be places where time and space have broken.
+m
+Merlin_018_f]Perhaps there's some way to fix this. But I'm afraid, for now, this requires more research...

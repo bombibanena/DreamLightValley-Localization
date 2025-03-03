@@ -1,0 +1,69 @@
+
+�
+GVillage!PrincessFrog!Tiana!VLG_Tian_020_Any_CompletedRequestDescriptioncСпроси, доволен ли Тиана новым домом Маленького Луиса.
+�
+<Village!PrincessFrog!Tiana!VLG_Tian_020_AvailableDescription�Тиана, кажется, заинтересовался Глэйдом Доверия, поговори с ней, чтобы выяснить почему.
+�
+AVillage!PrincessFrog!Tiana!VLG_Tian_020_CompletedStoryDescription�Благодаря тебе, маленький Луи теперь свободен и у него есть милый маленький домик, в котором можно жить.
+n
+3Village!PrincessFrog!Tiana!VLG_Tian_020_DisplayName7Большой прорыв маленького Луи
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_020_Group01_Step01_FollowCharacter01_StepDescription>Следуйте за Тиана в Глейд доверия.
+�
+ZVillage!PrincessFrog!Tiana!VLG_Tian_020_Group01_Step01_FollowCharacter01_TalkToDescriptionAПоговори с {TargetNPC} о Маленьком Луисе.
+�
+RVillage!PrincessFrog!Tiana!VLG_Tian_020_Group02_Step02_VisitArea01_StepDescription�Идите внутрь Гигантского Виллоу Дерево, спросите Матушка Готель о Маленьком Луисе.
+�
+@Village!PrincessFrog!Tiana!VLG_Tian_020_Group02_StoryDescription�Тиана подружился с одним из крокодилов из Глейда доверия, но, похоже, он пропал!
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_020_Group03_Step03_TalkToCharacter01_StepDescriptionaМаленький Луи в клетке? Спроси Матушка Готель почему.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess01_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess02_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess03_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group04_Step04_Possess04_StepDescription{itemName}.
+�
+?Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_StepDescription_Собирайте материалы для нового сада Матушка Готель.
+�
+@Village!PrincessFrog!Tiana!VLG_Tian_020_Group04_StoryDescription�Матушка Готель посадили бедного Маленького Луи за преступление уничтожения ее сада! возможно, она будет склонна освободить злодейского крокодила.
+f
+WVillage!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_GardeningPlant01_StepDescription{itemName}.
+f
+WVillage!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_GardeningPlant02_StepDescription{itemName}.
+f
+WVillage!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_GardeningPlant03_StepDescription{itemName}.
+t
+FVillage!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step05_StepDescription*Посадить семена в саду.
+�
+QVillage!PrincessFrog!Tiana!VLG_Tian_020_Group05_Step06_Decorate01_StepDescription>Защищайте саженцев новым забором.
+�
+?Village!PrincessFrog!Tiana!VLG_Tian_020_Group05_StepDescription[Восстановить сад Матушка Готель в Глэйде доверия.
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_020_Group06_Step07_TalkToCharacter02_StepDescription�Посмотрим, нравится ли {TargetNPC} ее новый сад достаточно, чтобы освободить Маленького Луиса.
+�
+TVillage!PrincessFrog!Tiana!VLG_Tian_020_Group07_Step08_Conditional01_StepDescription�Открой клетку в доме Матушка Готель, чтобы освободить Маленького Луиса.
+�
+XVillage!PrincessFrog!Tiana!VLG_Tian_020_Group08_Step09_TalkToCharacter03_StepDescriptiondПоговорите с {TargetNPC} о недавно освобожденном крокодиле.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess05_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess06_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess07_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess08_StepDescription{itemName}.
+_
+PVillage!PrincessFrog!Tiana!VLG_Tian_020_Group09_Step10_Possess09_StepDescription{itemName}.
+�
+?Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_StepDescriptioncСобирайте материалы для нового дома Маленького Луиса.
+�
+@Village!PrincessFrog!Tiana!VLG_Tian_020_Group09_StoryDescription�Маленький Луи свободен, Тиана очень рад, и теперь это просто вопрос сделать ему милый маленький домик, чтобы он мог держаться подальше от неприятностей.
+a
+RVillage!PrincessFrog!Tiana!VLG_Tian_020_Group10_Step11_CraftItem01_StepDescription{itemName}.
+�
+QVillage!PrincessFrog!Tiana!VLG_Tian_020_Group11_Step12_Decorate02_StepDescription;Поместите {itemName} в Глейд доверия.
+k
+:Village!PrincessFrog!Tiana!VLG_Tian_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

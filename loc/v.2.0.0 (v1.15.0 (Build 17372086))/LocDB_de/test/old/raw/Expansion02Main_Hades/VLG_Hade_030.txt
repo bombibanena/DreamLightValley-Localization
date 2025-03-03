@@ -1,0 +1,168 @@
+TAG: Village!Hercules!Hades!VLG_Hade_030_AvailableDescription
+Позаботьтесь о новой главе в сказке о хаде! Этот с амбициями, назревающими в Аид' домене, смогут ли мудрые (и, несомненно, расстроенные) {PlayerName} безопасно направить Аид к этой новой цели?
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_CompletedStoryDescription
+Теперь эта история подходит к концу, и Аид должен столкнуться с ошибкой его путей. Его желание контролировать и восхищаться лишь служит тому, чтобы вести его по пути, более отвратительному, чем его изоляция.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_DisplayName
+Ваш личный Аид
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с {TargetNPC} с Аид в Аид' House.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group02_Step02_Possess01_StepDescription
+Общий клуб "Руши".
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group02_Step02_Possess02_StepDescription
+Голубые цветы.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group02_Step02_Possess03_StepDescription
+Магма.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group02_Step02_StepDescription
+Соберите материалы для Аид' merch.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group03_Step03_BringItem01_StepDescription
+Общий клуб "Руши".
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group03_Step03_BringItem02_StepDescription
+Голубые цветы.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group03_Step03_BringItem03_StepDescription
+Магма.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group03_Step03_ReadyDescription
+Принесите материалы для Аид' merch на {TargetNPC}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group03_Step03_StepDescription
+Убедитесь, что материалы для <ActivityItem>Аид Merch</ActivityItem> включены в ваш список.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group04_Step04_DressUp01_StepDescription
+Оденься с <ActivityItem>Аид Merch</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group04_StoryDescription
+Будучи высокомерным быком, Аид теперь пытается достичь высот знаменитости в Мифопии! Бедный Дейзи был втянут в его дебат, но, возможно, {PlayerName} может сдержать его ожидания и помочь Дейзи в выполнении ее управленческих обязанностей.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group05_Step05_TalkToCharacter02_StepDescription
+Посмотри, как {TargetNPC} любит его мерч.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group06_Step06_StepDescription
+Потусуйся с Аид и сфотографируй себя и Аид в различных местах Мифопии.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group06_Step06_TakePicture01_StepDescription
+Элизийские поля.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group06_Step06_TakePicture02_StepDescription
+Огненные равнины.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group06_Step06_TakePicture03_StepDescription
+Тень Статуи.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group07_Step07_Possess04_StepDescription
+Прочитай свое письмо из Дейзи.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group07_Step07_StepDescription
+Возвращайся в свой дом, чтобы проверить почту.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess05_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess06_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group08_Step08_Possess09_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group08_Step08_StepDescription
+Собирайте материалы для создания <ActivityItem>Аид Kiosk</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group08_StoryDescription
+По мере того, как поднимается звезда Аид, так же как и разочарование его помощников, {PlayerName} и Дейзи. Если {PlayerName} следует за руководящими приказами к постройке Аид Kiosk, сможет ли знаменитость обуздать свое эго, чтобы дать правильный публичный адрес?
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group09_Step09_CraftItem01_StepDescription
+Подготовить <ActivityItem>Аид Kiosk</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group10_Step10_TalkToCharacter03_StepDescription
+Посмотрите, как {TargetNPC} готовится к его презентации.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess10_StepDescription
+Лук.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess11_StepDescription
+Оливки.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess12_StepDescription
+Флайф Фета.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess13_StepDescription
+Элизийское зерно.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess14_StepDescription
+Спинах.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess15_StepDescription
+Чеснок.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess16_StepDescription
+Дорогой Мелон.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_Possess18_StepDescription
+Соль Кристал.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group11_Step11_StepDescription
+Соберите ингредиенты, необходимые для Аид' <ActivityItem>Spanakopita</ActivityItem> и <ActivityItem>Olympian Tapenda</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group12_Step12_ReadyDescription
+Свяжитесь с {TargetNPC} менеджером по поводу сделки с поддержкой.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group12_Step12_StepDescription
+Убедитесь, что у вас в списке есть <ActivityItem>Аид Kiosk</ActivityItem>.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group13_Step13_Decorate01_StepDescription
+(Вариант) Аид Кухонная станция.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group13_Step13_Decorate02_StepDescription
+Аид Kiosk.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group13_Step13_StepDescription
+Поместите предметы, необходимые для презентации Аид возле магазина Скрудж Макдак в Вале.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group14_Step14_Party01_StepDescription
+Соберитесь с деревенскими жителями для речи Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group14_StoryDescription
+Остается один шанс для бедняков Аид в его поисках знаменитости! Если он сможет убедить деревенских жителей закупаться в магазине Гуфи's Stall (в то время как {PlayerName} готовит вкусную греческую еду), он может убедить неубеденных деревенских жителей, что он действительно достоин поклонения.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group15_Step15_VisitArea01_StepDescription
+Возвращайся в речевую зону возле магазина Скрудж Макдак.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group16_Step16_CookMeal01_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group16_Step16_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group16_Step16_StepDescription
+Приготовить греческую еду для Аид, пока он выступает со словами поддержки.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group16_Step17_Listen01_StepDescription
+Послушай слова поддержки Аид.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group17_Step18_StepDescription
+Посмотри, как Аид понравилось, когда он был знаменитостью.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group17_Step19_StepDescription
+Поговори с Скрудж Макдак.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_Group18_Step20_VisitArea02_StepDescription
+Познакомьтесь с Дейзи и Аид в Аид' House.
+
+TAG: Village!Hercules!Hades!VLG_Hade_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

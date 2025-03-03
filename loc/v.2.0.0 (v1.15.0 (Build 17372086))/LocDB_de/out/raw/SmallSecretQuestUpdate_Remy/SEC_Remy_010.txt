@@ -1,0 +1,48 @@
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_AvailableDescription
+You've found a bag of Ingredients that Remy must have dropped in the Forest of Valor. He's probably looking for this...
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_DisplayName
+A Three-Course Thank-You
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group01_Step01_ReadyDescription
+Bring the <ActivityItem>Bag of Ingredients</ActivityItem> to Remy.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group01_StepDescription
+You found some Ingredients in the Forest of Valor.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group02_Step02_CookMeal01_StepDescription
+Cook <ActivityItem>5-Star Meals</ActivityItem> for Merlin, Mickey, Scrooge, and Goofy.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group02_StoryDescription
+Remy asks you to help him make "thank you" meals for everyone who helped to take care of Dreamlight Valley during the Forgetting. He offers you the Ingredients he's gathered. With a little ingenuity, you should be able to whip up some perfect meals for the occasion.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group03_Step03_ReadyDescription
+Merlin.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group03_Step04_ReadyDescription
+Mickey.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group03_Step05_ReadyDescription
+Scrooge McDuck.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group03_Step06_ReadyDescription
+Goofy.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group03_StepDescription
+Bring <ActivityItem>5-Star Meals</ActivityItem> to:
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group04_Step07_TalkToCharacter01_StepDescription
+Report back to Remy.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group04_StoryDescription
+The Villagers were so moved by your gesture of thanks. Now all that's left to do is pass on their "you're welcomes" to Remy.
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What was I doing again?
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do now?
+
+TAG: Secret!Ratatouille!Remy!SEC_Remy_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do now?
+

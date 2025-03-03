@@ -1,0 +1,12 @@
+TAG: Sully_000_f
+Что случилось, {PlayerName}?
+
+TAG: Sully_001_f
+Я помогаю Стич найти <ActivityItem> Fifth Clue</ActivityItem>.
+
+TAG: Sully_002_f
+В подсказке говорится:"Под землей есть бильярдный бассейн. Быстрее, брось свой крюк."
+
+TAG: Sully_003_f
+Ну, я скажу тебе, что быть на земле <Lore>higher в Mines</Lore> поможет тебе увидеть вещи яснее.
+

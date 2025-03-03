@@ -1,0 +1,36 @@
+TAG: Jasmine_000_f
+Jasmine, I'm trying to track down remnants of Aladdin's second wish.
+
+TAG: Jasmine_001_f
+He was underwater when he made it, so I don't think I can really find any of the wish magic hanging around here. But, can you tell me any more about this fountain that you were building?
+
+TAG: Jasmine_002_f
+Of course! There aren't many sources of fresh water nearby, so Genie used his magic to enchant a reservoir to change sea water to fresh water.
+
+TAG: Jasmine_003_f
+The reservoir is almost full, but with the work on the fountain halted, we were never able to pump any water into Agrabah.
+
+TAG: Player_000_choice_000_f
+That's quite the infrastructure project!
+
+TAG: Player_000_choice_001_f
+Can you direct me to the reservoir?
+
+TAG: Player_000_choice_002_f
+What work is left on the fountain?
+
+TAG: Jasmine_004_f
+Well, we have some very talented engineers here. And Genie, of course.
+
+TAG: Jasmine_008_f
+If you can help us finish the work on the fountain, the water you need can be piped right to you!
+
+TAG: Jasmine_007_f
+We just have to <Lore>hook up the pipes</Lore>.
+
+TAG: Jasmine_005_f
+It's just a short distance outside of Agrabah.
+
+TAG: Jasmine_006_f
+It's nearly done!
+

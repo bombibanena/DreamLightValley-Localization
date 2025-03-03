@@ -1,0 +1,63 @@
+TAG: Sully_002_f
+Hey there, {PlayerName}. So... uh... where's the winner?
+
+TAG: Player_000_f
+Vanellope thinks I should be the one crowned winner...
+
+TAG: Player_000_choice_000_f
+Isn't she the nicest?
+
+TAG: Player_000_choice_001_f
+I don't know how to feel about that.
+
+TAG: Player_000_choice_002_f
+And she's RIGHT.
+
+TAG: Sully_003_f
+Yeah, she's a great kid.
+
+TAG: Sully_006_f
+And she has a point. Both Stitch and Olaf came to tell me that you were a huge help.
+
+TAG: Sully_000_f
+So congratulations, {PlayerName}. You win the scavenger hunt!
+
+TAG: Player_001_choice_000_f
+Wow, thank you.
+
+TAG: Player_001_choice_001_f
+Did I win anything?
+
+TAG: Player_001_choice_002_f
+That was too easy.
+
+TAG: Sully_001_f
+Hey, you earned it.
+
+TAG: Sully_012_f
+And those three seem to be having a good time together.
+
+TAG: Sully_007_f
+I think they're working on an arts and crafts project now.
+
+TAG: Sully_008_f
+Vanellope said it was top secret, but could ya go check in with her?
+
+TAG: Sully_009_f
+Between her and Stitch, it could be crafts or calamity.
+
+TAG: Sully_010_f
+Your reward is: the fun you had along the way!
+
+TAG: Sully_011_f
+And still too hard for most of the contestants...
+
+TAG: Sully_013_f
+Seems they've moved on to a different kind of fun anyway.
+
+TAG: Sully_004_f
+Be happy. She's a great kid. Plus, she likes you a lot.
+
+TAG: Sully_005_f
+Wow... Okay. Glad you agree with her.
+

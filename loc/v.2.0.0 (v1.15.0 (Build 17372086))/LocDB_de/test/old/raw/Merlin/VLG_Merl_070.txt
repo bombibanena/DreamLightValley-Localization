@@ -1,0 +1,69 @@
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Any_CompletedRequestDescription
+Поговори с Мерлин.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_AvailableDescription
+У Мерлин есть еще один волшебный проект.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_CompletedStoryDescription
+Вы сами улучшили свой Королевский Водяной Банк. Мерлин будет в восторге услышать это.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_DisplayName
+Окончательное судебное разбирательство
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>I нуждается в помощи!
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group01_Step04_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group01_Step04_Possess02_StepDescription
+{ItemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group01_Step04_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group01_StepDescription
+Соберите ингредиентов, упомянутых в книге:
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group01_StoryDescription
+Когда ты вернешься с Ингредиентами, Мерлин говорит тебе, что он хочет, чтобы ты сам сфабриковал заклинание, так как ты готов стать волшебником в своём собственном праве.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно сделать?
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group02_Step06_CraftItem01_StepDescription
+Приготовь чародейство.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group03_StepDescription
+Принесите Мерлин результаты вашей работы.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно сделать?
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group04_Step02_BringItem02_StepDescription
+Корабль <ActivityItem>Purificed Night Shards</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group04_Step02_ReadyDescription
+Поговорите с ВАЛЛ·И за помощь в сокрушении <ActivityItem>Purificed Night Shards</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group04_StoryDescription
+Когда ты принимаешь проект, он дает тебе список Ингредиентов, чтобы собраться.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group05_Step01_TalkToCharacter01_StepDescription
+Поговори с Мерлин.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне теперь делать?
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group06_Step05_RemoveBlocker01_StepDescription
+Удалить адрес <ActivityItem>Big Path-Blocking Mushroom</ActivityItem>.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_Group06_StoryDescription
+Собери ингредиентов и сам сделай заклинание, а теперь пора проверить, сработало ли это.
+
+TAG: Village!SwordInStone!Merlin!VLG_Merl_070_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

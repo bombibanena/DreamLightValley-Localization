@@ -1,0 +1,36 @@
+TAG: TheForgotten_001_f
+Mickey seemed so happy to get those flowers.
+
+TAG: TheForgotten_000_f
+That felt... kind of great?
+
+TAG: TheForgotten_002_f
+Now I want to do something nice for EVERYBODY in the Village!
+
+TAG: Player_000_choice_000_f
+Let's not get carried away. Let's help Goofy first!
+
+TAG: Player_000_choice_001_f
+That's a great attitude to have!
+
+TAG: Player_000_choice_003_f
+Be careful not to burn out trying to do too much.
+
+TAG: TheForgotten_003_f
+Oh! Oh, you're right. I almost forgot, didn't I?
+
+TAG: TheForgotten_007_f
+We'll need to make a <ActivityItem>Bouillabaisse</ActivityItem> for Goofy. But we should try to make it fresh this time...
+
+TAG: TheForgotten_008_f
+I'll show you how to get fresh Ingredients. We'll need to <Lore>do some gardening and fishing</Lore>. Come on!
+
+TAG: TheForgotten_004_f
+Wanting to help people is fantastic. But it's easy to burn out if you don't pace yourself.
+
+TAG: TheForgotten_005_f
+Why don't we start by doing something nice for just Goofy, like we planned?
+
+TAG: TheForgotten_006_f
+If you try to help too many people at once, you may get too overwhelmed to help anyone.
+

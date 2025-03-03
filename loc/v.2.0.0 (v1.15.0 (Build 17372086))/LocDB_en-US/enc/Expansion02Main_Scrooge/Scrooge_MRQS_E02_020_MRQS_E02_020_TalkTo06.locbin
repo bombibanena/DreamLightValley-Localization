@@ -1,0 +1,25 @@
+
+D
+Scrooge_000_f3{PlayerName}, I know an opportunity when I see one.
+_
+Scrooge_001_fNAnd this place is a grand opportunity indeed, or my name's not Scrooge McDuck!
+¡
+Scrooge_002_fØNow, it seems I tried to set up a shop here once before. Which doesn't surprise me. Why, look at all these books just growin' on trees. It's quite a merchandizing opportunity.
+d
+Scrooge_003_fSWould you be willin' to make a wee investment in my shop in the Vale, {PlayerName}?
+m
+Scrooge_004_f\Then I'll be able to sell some <Lore>exclusive items</Lore> available only at this location!
+;
+Player_001_choice_000_f That would be a dream come true!
+?
+Player_001_choice_001_f$What sorts of things would you sell?
+T
+Player_001_choice_002_f9Finally! Your regular merchandise really needs a restock.
+z
+Scrooge_005_fiYou'll soon learn, {PlayerName}, that ALL my dreams come true! Because I work hard to make 'em come true.
+è
+Scrooge_008_f~Let's see... a few <ActivityItem>Gems</ActivityItem> from around here ought to do nicely. Come talk to me once you've got 'em.
+s
+Scrooge_006_fbI'm thinkin' a line of clothing and some furniture would be in order, inspired by the Bind itself.
+S
+Scrooge_007_fBOch, I know. I've been tryin' to find new suppliers for some time.

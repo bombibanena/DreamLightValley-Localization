@@ -1,0 +1,24 @@
+TAG: Scrooge_001_f
+An excellent investment, {PlayerName}! You won't regret it!
+
+TAG: Scrooge_000_f
+Be sure to come back and look over my stock often. I get new things in every day.
+
+TAG: Player_000_choice_000_f
+That's smart business.
+
+TAG: Player_000_choice_001_f
+Always something new to buy!
+
+TAG: Player_000_choice_002_f
+How do I afford everything I want?!
+
+TAG: Scrooge_002_f
+Of course it is! After all, I know how to keep my customers happy. I'm Scrooge McDuck!
+
+TAG: Scrooge_003_f
+Exactly! After all, I know how to keep my customers happy. I'm Scrooge McDuck!
+
+TAG: Scrooge_004_f
+Well, if you just keep selling your wares to Goofy, you'll never go broke!
+

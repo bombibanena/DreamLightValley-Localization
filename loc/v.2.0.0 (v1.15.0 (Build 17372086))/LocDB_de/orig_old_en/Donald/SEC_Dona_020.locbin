@@ -1,0 +1,25 @@
+
+ÿ
+6Secret!Mickey!Donald!SEC_Dona_020_AvailableDescriptionùYou've found another mysterious sock lying on the ground. Now you'll need to find the owner and see if there are any more clues to the mysterious sock thief.
+…
+;Secret!Mickey!Donald!SEC_Dona_020_CompletedStoryDescriptionâThe strange device reacts to the fur you found in Goofy's House. Another DNA match! You're sure you're close to solving this mystery now.
+]
+-Secret!Mickey!Donald!SEC_Dona_020_DisplayName,The Sock-Stealing Space Alien Strikes Again!
+•
+LSecret!Mickey!Donald!SEC_Dona_020_Group01_Step01_BringItem01_StepDescriptionUMake sure you have the <ActivityItem>Chewed-Up Sock</ActivityItem> in your Inventory.
+ê
+ASecret!Mickey!Donald!SEC_Dona_020_Group01_Step01_ReadyDescriptionKFind the Villager who owns the <ActivityItem>Chewed-Up Sock</ActivityItem>.
+u
+9Secret!Mickey!Donald!SEC_Dona_020_Group01_StepDescription8You found another sock! This one has a "G" sewn into it.
+{
+>Secret!Mickey!Donald!SEC_Dona_020_Group02_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+p
+LSecret!Mickey!Donald!SEC_Dona_020_Group02_Step02_VisitArea01_StepDescription Search Goofy's House for a clue.
+Ñ
+ISecret!Mickey!Donald!SEC_Dona_020_Group03_Step03_PickUp01_StepDescription7Look for a clue by removing the trash in Goofy's House.
+|
+JSecret!Mickey!Donald!SEC_Dona_020_Group04_Step04_Possess01_StepDescription.You found a clue in Goofy's House! Pick it up!
+w
+9Secret!Mickey!Donald!SEC_Dona_020_Group05_StepDescription:Bring the <ActivityItem>Blue Fur</ActivityItem> to Donald.
+Ò
+:Secret!Mickey!Donald!SEC_Dona_020_Group05_StoryDescription≤Inside Goofy's House, you find a mysterious patch of blue fur. It might be from a space alien. But it might also be from some kind of critter in the Valley. You can't quite tell.

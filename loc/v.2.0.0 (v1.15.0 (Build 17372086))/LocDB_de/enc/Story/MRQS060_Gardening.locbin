@@ -1,0 +1,65 @@
+
+w
+7Story!MRQS060_Gardening_Any_CompletedRequestDescription<Посмотрим, что думает Микки Маус.
+�
+,Story!MRQS060_Gardening_AvailableDescriptionsТеперь, когда вы нашли рецепт, пришло время испечь с Микки Маус!
+�
+1Story!MRQS060_Gardening_CompletedStoryDescription�Пора узнать, думает ли Микки Маус, что ваши навыки кулинарии соответствуют Реми.
+F
+#Story!MRQS060_Gardening_DisplayNameПродукты питания
+�
+4Story!MRQS060_Gardening_Group01_OngoingRequestButtonM<smallcaps>{title}</smallcaps><br> Как я выращиваю семена?
+�
+GStory!MRQS060_Gardening_Group01_Step01_GardeningPlant01_StepDescriptionZВыкопай дыру и посади немного <ActivityItem>Wheat</ActivityItem>.
+�
+6Story!MRQS060_Gardening_Group01_Step11_StepDescription�Используйте книгу в вашем рюкзаке, чтобы выучить рецепт <ActivityItem>Crackers</ActivityItem>.
+�
+0Story!MRQS060_Gardening_Group01_StoryDescription�Поскольку домашние ингредиенты самые лучшие, Микки Маус проводит вас по тому, как садоводство работает в долине Мечты.
+x
+HStory!MRQS060_Gardening_Group02_Step02_TalkToCharacter01_StepDescription,Поговорите с Микки Маус.
+�
+4Story!MRQS060_Gardening_Group03_OngoingRequestButtona<smallcaps>{title}</smallcaps><br> Где можно найти канистру для воды?
+�
+?Story!MRQS060_Gardening_Group03_Step03_Unlock01_StepDescriptiontНайдите королевский водонапорный канистры рядом с вашим домом.
+�
+0Story!MRQS060_Gardening_Group03_StoryDescription�Чтобы предотвратить высыхание новых посевов, вы начинаете искать канистру для воды.
+�
+4Story!MRQS060_Gardening_Group04_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> Как я выращиваю воду?
+�
+CStory!MRQS060_Gardening_Group04_Step04_WaterPlant01_StepDescriptionpИспользуйте водонапорный канистры, чтобы полить свои посевы.
+�
+IStory!MRQS060_Gardening_Group04_Step04_WaterPlant01_StepDescriptionMobile}Используйте канистру, чтобы полить свои посевы с помощью иконы Руки.
+�
+0Story!MRQS060_Gardening_Group04_StoryDescription�Обнаружив новый инструмент в деревне, вы используете его, чтобы полить свой урожай.
+�
+HStory!MRQS060_Gardening_Group05_Step05_TalkToCharacter02_StepDescriptionWПоговори с Микки Маус, пока не вырастешь урожай.
+�
+BStory!MRQS060_Gardening_Group06_Step06_VisitArea01_StepDescription_Идите в свой дом с Микки Маус, чтобы начать готовить!
+v
+HStory!MRQS060_Gardening_Group07_Step07_TalkToCharacter03_StepDescription*Поговорим с Микки Маус.
+t
+4Story!MRQS060_Gardening_Group08_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Как я готовлю?
+P
+AStory!MRQS060_Gardening_Group08_Step08_CookMeal01_StepDescription{ItemName}.
+P
+AStory!MRQS060_Gardening_Group08_Step08_CookMeal02_StepDescription{ItemName}.
+�
+6Story!MRQS060_Gardening_Group08_Step08_StepDescription]Приготовить следующую еду с помощью своего стоува:
+�
+0Story!MRQS060_Gardening_Group08_StoryDescription�И что лучше, чем начать с <ActivityItem>Fruit Salad</ActivityItem> и некоторых <ActivityItem>Crackers</ActivityItem>?
+t
+AStory!MRQS060_Gardening_Group09_Step09_Decorate01_StepDescription/Положите толов в свой дом.
+�
+/Story!MRQS060_Gardening_Group09_StepDescription�Товар - часть вашей мебели. (Используйте {input_inventory}, чтобы открыть ваш рюкзак и найти меню Мебель.)
+�
+5Story!MRQS060_Gardening_Group09_StepDescriptionMobile�Товар является частью вашей мебели. ( Используйте икону рюкзака, чтобы открыть вашу инвентаризацию и найти раздел мебели.)
+�
+4Story!MRQS060_Gardening_Group10_OngoingRequestButtone<smallcaps>{title}</smallcaps><br> Где я могу найти <ActivityItem>Apples</ActivityItem>?
+O
+@Story!MRQS060_Gardening_Group10_Step10_Possess01_StepDescription{ItemName}.
+O
+@Story!MRQS060_Gardening_Group10_Step10_Possess02_StepDescription{ItemName}.
+u
+6Story!MRQS060_Gardening_Group10_Step10_StepDescription;Соберите следующие ингредиенты:
+�
+HStory!MRQS060_Gardening_Group11_Step12_TalkToCharacter04_StepDescription;Поговори с Микки Маус в его саду.

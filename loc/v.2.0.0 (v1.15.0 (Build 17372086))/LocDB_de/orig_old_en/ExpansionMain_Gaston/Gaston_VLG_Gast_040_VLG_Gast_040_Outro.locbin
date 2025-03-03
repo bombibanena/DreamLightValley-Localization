@@ -1,0 +1,61 @@
+
+A
+Gaston_001_f1How are you doing with your new sidekick, Gaston?
+9
+Gaston_002_f)Well, it's going to take some training...
+=
+Gaston_003_f-But I like having a dedicated sidekick again.
+0
+Player_000_choice_000_fI'm so happy for you!
+L
+Player_000_choice_001_f1Does that mean you're going to be less demanding?
+D
+Player_000_choice_002_f)I hope the sidekick is as happy as you...
+K
+Gaston_004_f;Of course this means you're no longer a tentative sidekick.
+R
+Gaston_005_fBI know it's upsetting, but we can't always get everything we want.
+'
+Gaston_006_fI'll... try to survive.
+0
+Gaston_007_f You're very brave, {PlayerName}.
+
+Gaston_011_fNow then...
+>
+Gaston_012_f.You did do a fair amount of work on my behalf.
+5
+Gaston_013_f%I suppose I should reward you for it.
++
+Player_001_choice_000_fHow kind of you!
+E
+Player_001_choice_001_f*That's one way that people show gratitude.
+2
+Player_001_choice_002_fOh, it's not necessary!
+ 
+Gaston_014_fIt is, isn't it?
+9
+Gaston_015_f)At least you're honest about it, I guess.
++
+Gaston_019_fHere you are, {PlayerName}.
+Y
+Gaston_020_fIWell, despite everything... I'm glad that you've settled into the Valley.
+_
+Gaston_021_fOYes, well... the people here are rather odd and don't properly appreciate me...
+5
+Gaston_022_f%...but I am starting to feel at home.
+8
+Gaston_023_f(Great! If you need me, I'll be around...
+2
+Gaston_024_f"But maybe ask your sidekick first!
+2
+Gaston_016_f"Gratitude? Ugh, don't tell anyone.
+L
+Gaston_017_f<You don't want the gift? I'd be happy to keep it for myself.
+"
+Gaston_018_fI didn't say that!
+3
+Gaston_008_f#No. Why would I lower my standards?
+1
+Gaston_009_f!Their happiness isn't my concern.
+#
+Gaston_010_fDoing their job is!

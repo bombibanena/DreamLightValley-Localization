@@ -1,0 +1,36 @@
+TAG: Merlin_002_f
+Focus your magic on the Relics, {PlayerName}.
+
+TAG: Merlin_003_f
+By harnessing the story magic within them and the tie they have to the Forgotten... we should be able to create a doorway to the other dimension!
+
+TAG: Merlin_004_f
+The portal is open! All that remains is for you to walk through.
+
+TAG: Merlin_005_f
+And hurry! I fear Dreamlight Valley is becoming more unstable as we speak.
+
+TAG: Player_000_choice_000_f
+Piece of cake!
+
+TAG: Player_000_choice_001_f
+I'll do my best.
+
+TAG: Player_000_choice_002_f
+Gulp. Here goes nothing.
+
+TAG: Merlin_006_f
+I admire your bravado. But remember... if you face any troublesome challenges, we'll always be here to aid you.
+
+TAG: Merlin_009_f
+While you're gone... perhaps the Fairy Godmother and I can consult on what to do about all this Dark Magic in the sky.
+
+TAG: Merlin_010_f
+Well, what are you waiting for?! Go on! Work your magic, {PlayerName}, while we stay behind and work ours.
+
+TAG: Merlin_007_f
+We've all seen that your best is more than enough. But if you face any troublesome challenges, remember: We'll always be here to aid you.
+
+TAG: Merlin_008_f
+You mustn't doubt yourself. You have all the knowledge you need to do this. And if you face any troublesome challenges, remember: We'll always be here to aid you.
+

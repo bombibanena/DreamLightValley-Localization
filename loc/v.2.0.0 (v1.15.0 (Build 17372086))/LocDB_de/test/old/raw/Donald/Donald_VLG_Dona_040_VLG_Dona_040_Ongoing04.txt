@@ -1,0 +1,3 @@
+TAG: Donald_000_f
+Нам нужны <ActivityItem>stones</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, <ActivityItem>Soil</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, и <ActivityItem>Clay</ActivityItem> для изготовления фонтана.
+

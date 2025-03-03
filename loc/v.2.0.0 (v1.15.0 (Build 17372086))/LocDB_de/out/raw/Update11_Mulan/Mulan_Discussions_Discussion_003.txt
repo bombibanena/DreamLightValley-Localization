@@ -1,0 +1,69 @@
+TAG: Mulan_000_f
+Fulfill your duties calmly and respectfully...
+
+TAG: Mulan_020_f
+Oh! {PlayerName}! Ha, I was just trying to recite something I memorized back home.
+
+TAG: Mulan_001_f
+Are you good at memorizing things?
+
+TAG: Player_001_choice_000_f
+I'm... okay at it.
+
+TAG: Player_001_choice_001_f
+I'm terrible at memorizing things!
+
+TAG: Player_001_choice_002_f
+I've never forgotten anything, ever.
+
+TAG: Mulan_016_f
+My friend Chien-Po told me that if you need help memorizing a list of things, imagine them each associated with one finger.
+
+TAG: Mulan_018_f
+C'mon, let's try a memory game!
+
+TAG: Mulan_021_f
+I'll say three words, and you say them back to me.
+
+TAG: Mulan_022_f
+Honor.
+
+TAG: Mulan_023_f
+Mushu.
+
+TAG: Mulan_024_f
+Magnolia.
+
+TAG: Mulan_026_f
+Got it?
+
+TAG: Player_002_choice_000_f
+Honor. Discipline. Chrysanthemum.
+
+TAG: Player_002_choice_001_f
+Honor. Mushu. Magnolia.
+
+TAG: Player_002_choice_002_f
+Patience. Mushu. Magnolia.
+
+TAG: Player_002_choice_003_f
+I already forgot what you said!
+
+TAG: Mulan_028_f
+Not quite! Maybe we could try again sometime.
+
+TAG: Mulan_027_f
+That's right! I'll have to challenge you with more words next time.
+
+TAG: Mulan_029_f
+So close. Just one word off!
+
+TAG: Mulan_030_f
+That's all right. Maybe we could try again sometime.
+
+TAG: Mulan_015_f
+It's not my greatest strength, either. I used to put notes on my arm in ink just in case. But it's good to practice.
+
+TAG: Mulan_017_f
+Really? That's impressive.
+

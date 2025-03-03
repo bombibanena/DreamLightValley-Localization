@@ -1,0 +1,63 @@
+TAG: Merlin_000_f
+I spoke to the other Villagers and gathered these <ActivityItem>Dream Shards</ActivityItem>.
+
+TAG: Player_000_choice_000_f
+Is there anything else we need for the spell?
+
+TAG: Player_000_choice_001_f
+I sure hope this enchantment works.
+
+TAG: Player_000_choice_002_f
+Make with the "Higitus Figitus."
+
+TAG: Merlin_001_f
+Spell? What spellâ
+
+TAG: Merlin_002_f
+Oh. Oh dear... I'm... heh... well, I'm afraid we've had a bit of a misunderstanding.
+
+TAG: Merlin_003_f
+I merely needed these <ActivityItem>Dream Shards</ActivityItem> for my research. Terribly sorry.
+
+TAG: Merlin_004_f
+I thought you understood. No, no... I'm afraid there isn't any sort of spell or enchantment that will solve Minnie's problem.
+
+TAG: Player_001_choice_000_f
+But there must be some way to help her?
+
+TAG: Player_001_choice_001_f
+Then why'd you make me do all that work?!
+
+TAG: Merlin_005_f
+Oh, yes. Not to worry. There certainly is.
+
+TAG: Merlin_006_f
+You see, what protects Minnie, what protects all of us here... is an altogether different sort of magic.
+
+TAG: Merlin_007_f
+Friendship, love, care â that's what binds this Valley together. And kind words and small favors are the source of all this magic.
+
+TAG: Merlin_008_f
+Minnie simply needs to be shown that spirit will never leave this place.
+
+TAG: Merlin_009_f
+So that's why you wanted me to talk to some of the other Villagers. If I tell Minnie what they said...
+
+TAG: Merlin_010_f
+...it will remind her of the love that binds us all together... and that everyone is safe here so long as we never forget it again.
+
+TAG: Merlin_015_f
+I'll give it a try! Thanks, Merlin.
+
+TAG: Merlin_011_f
+Just a moment, just a moment! I'm getting to that.
+
+TAG: Merlin_012_f
+Enchantment? What enchantmentâ
+
+TAG: Merlin_013_f
+Now see here! I'm not some sort of machine you put <ActivityItem>Dream Shards</ActivityItem> into and magic comes out!
+
+TAG: Merlin_014_f
+Er, right. Sorry. I just meant... now you have everything for the enchantment, right?
+

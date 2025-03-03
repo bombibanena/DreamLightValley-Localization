@@ -1,0 +1,93 @@
+TAG: Buzz_000_f
+Ah, {PlayerName}! Just the Space Ranger I was looking for.
+
+TAG: Buzz_001_f
+I have another mission for you. It's a Code G-7B.
+
+TAG: Player_000_choice_000_f
+An action figure is missing its removable parts?
+
+TAG: Player_000_choice_001_f
+A doll lost some accessories that were sold separately?
+
+TAG: Player_000_choice_002_f
+A stuffed animal fell into the dog's water dish?
+
+TAG: Player_000_choice_003_f
+A toy's gone missing?
+
+TAG: Buzz_002_f
+Close, Space Ranger. Missing components is a Code G-6B.
+
+TAG: Buzz_006_f
+Code G-7B is a search and rescue.
+
+TAG: Buzz_007_f
+Remember those <ActivityItem>Aliens</ActivityItem> that wandered away from Woody's Carousel? At the time, I suspected a few were unaccounted for.
+
+TAG: Buzz_008_f
+And I was right. I now have intel that many of them are somewhere in the Village.
+
+TAG: Player_001_choice_000_f
+We have to find and rescue them!
+
+TAG: Player_001_choice_001_f
+What if they don't want to be rescued?
+
+TAG: Buzz_009_f
+Precisely. Those toys could be out there frightened and disoriented.
+
+TAG: Buzz_010_f
+And have you seen the size of the squirrels around here?
+
+TAG: Buzz_012_f
+They could turn those <ActivityItem>Aliens</ActivityItem> into chew toys in no time.
+
+TAG: Buzz_013_f
+Okay, where should I start looking?
+
+TAG: Buzz_014_f
+We'll need to do a survey of every sector in the Village.
+
+TAG: Buzz_015_f
+There's no telling where the <ActivityItem>Aliens</ActivityItem> might have gone.
+
+TAG: Buzz_020_f
+Toys are highly skilled at hiding in the backs of closets, behind beds, and between couch cushions.
+
+TAG: Buzz_022_f
+Got it. I'll look everywhere in the Village.
+
+TAG: Buzz_023_f
+Oh, and one final thing.
+
+TAG: Buzz_024_f
+These <ActivityItem>Aliens</ActivityItem> can be a bit shy. They might not all come out of hiding at once.
+
+TAG: Buzz_025_f
+Keep an eye out for them while you complete your regular duties. I suspect they could pop up in multiple locations.
+
+TAG: Buzz_016_f
+Hmm... But there's one sector that's still closed off, isn't there?
+
+TAG: Buzz_017_f
+That's right! I think that place is called the Forgotten Lands...
+
+TAG: Buzz_018_f
+I can't imagine why any toy would want to go there. Being forgotten is a sad thing for a toy.
+
+TAG: Buzz_019_f
+But you'll need to check there too if you want to be sure you've located them all.
+
+TAG: Buzz_011_f
+Unlikely. They're probably out there frightened and disoriented.
+
+TAG: Buzz_003_f
+Not bad, Space Ranger. Missing equipment is a Code G-7A.
+
+TAG: Buzz_004_f
+Not even close, Space Ranger. An aquatic canine incident is a Code G-7C.
+
+TAG: Buzz_005_f
+Exactly! Someone's been reading their Star Command handbook!
+

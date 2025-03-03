@@ -1,0 +1,36 @@
+TAG: MikeWazowski_000_f
+Hello, Mike! I've heard some things are going a little funny over here.
+
+TAG: MikeWazowski_001_f
+{PlayerName}! Am I glad to see you!
+
+TAG: MikeWazowski_002_f
+It's the craziest thing. I was minding my own business, thinking about being the funniest guy in the Valley, and BAM! Wherever I go, EVERYONE laughs at me!
+
+TAG: Player_000_choice_000_f
+So you got what you wanted!
+
+TAG: Player_000_choice_001_f
+You were already the funniest guy here.
+
+TAG: Player_000_choice_002_f
+That doesn't sound right.
+
+TAG: MikeWazowski_003_f
+Not exactly. Now everyone laughs AT me, even if I'm just standin' there. I may be hilarious, but I'm also sensitive! It's complex.
+
+TAG: MikeWazowski_007_f
+I think I need to see this to believe it. Can you demonstrate?
+
+TAG: MikeWazowski_008_f
+Sure. <Lore>Follow me to Mr. McDuck's store</Lore> and I'll show ya what I mean.
+
+TAG: MikeWazowski_004_f
+I am, aren't I? But that's beside the point! I've got a real problem here!
+
+TAG: MikeWazowski_006_f
+Now, everyone's laughing AT me, even if I'm just standing there. To tell ya the truth, it's startin' to hurt my feelings.
+
+TAG: MikeWazowski_005_f
+It ISN'T right! Something has gone terribly WRONG!
+

@@ -1,0 +1,33 @@
+TAG: Sally_000_f
+Oh, I taught myself. Out of necessity, I suppose...
+
+TAG: Sally_001_f
+Do you enjoy sewing, {PlayerName}?
+
+TAG: Player_000_choice_000_f
+I love it!
+
+TAG: Player_000_choice_001_f
+I wish I knew how.
+
+TAG: Player_000_choice_002_f
+It's not my thing.
+
+TAG: Sally_003_f
+Really? That's wonderful.
+
+TAG: Sally_005_f
+I'm sure you sew very well. You seem to have a magical touch.
+
+TAG: Sally_002_f
+Well, if you learn, you can sew clothes, or quilts, or other things.
+
+TAG: Sally_006_f
+It's really very useful.
+
+TAG: Sally_004_f
+I understand. Jack isn't interested in sewing either. He likes experimenting and designing frights.
+
+TAG: Sally_007_f
+As long as it makes you happy and does no harm, any hobby can be wonderful.
+

@@ -1,0 +1,73 @@
+
+�
+DVillage!Nightmare!Sally!VLG_Sall_040_Any_CompletedRequestDescriptionYОтпразднуйте <ActivityItem>Dreamlight Memory Quilt</ActivityItem> с Village.
+j
+9Village!Nightmare!Sally!VLG_Sall_040_AvailableDescription-<smallcaps>{title}</smallcaps><br>Start Quest
+b
+>Village!Nightmare!Sally!VLG_Sall_040_CompletedStoryDescription Поговори с Салли .
+�
+0Village!Nightmare!Sally!VLG_Sall_040_DisplayName�Салли  поселилась в долине и завела новых друзей! Похоже, ей нужна помощь для одного из этих друзей.
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group01_Step01_TalkToCharacter01_StepDescription�Благодаря навыкам Салли  зелья и вашим быстрым действиям катастрофа была предотвращена, планы Урсула были сорваны, и Салли  наконец-то подружились со всеми в Долине.
+z
+MVillage!Nightmare!Sally!VLG_Sall_040_Group02_Step02_Possess01_StepDescription)Нелепые предположения
+`
+<Village!Nightmare!Sally!VLG_Sall_040_Group02_StepDescription Поговори с {targetNPC}.
+}
+OVillage!Nightmare!Sally!VLG_Sall_040_Group03_Step03_VisitArea01_StepDescription*{itemName} в забытых землях.
+�
+OVillage!Nightmare!Sally!VLG_Sall_040_Group04_Step04_BringItem01_StepDescription1Принесите зелье для Салли .
+�
+DVillage!Nightmare!Sally!VLG_Sall_040_Group04_Step04_ReadyDescriptionFГолова в дом Салли  и Джек Скеллингтон.
+R
+CVillage!Nightmare!Sally!VLG_Sall_040_Group04_Step04_StepDescription{itemName}.
+�
+LVillage!Nightmare!Sally!VLG_Sall_040_Group05_Step05_Unlock01_StepDescription=Приведите Ингредиентов на {TargetNPC}.
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group06_Step06_TalkToCharacter02_StepDescriptionhУбедитесь, что у вас в списке есть следующие ингредиенты:
+r
+=Village!Nightmare!Sally!VLG_Sall_040_Group06_StoryDescription1У Салли  было предчувствие?
+�
+OVillage!Nightmare!Sally!VLG_Sall_040_Group07_Step07_VisitArea02_StepDescriptionAПоговори с {TargetNPC} о её предчувствии.
+�
+OVillage!Nightmare!Sally!VLG_Sall_040_Group08_Step08_BringItem02_StepDescription�Салли  пытался подружиться с Урсула и помочь с зельем, но предчувствие пролило новый свет на зловещие намерения Урсула...
+�
+DVillage!Nightmare!Sally!VLG_Sall_040_Group08_Step08_ReadyDescriptionwНайдите пещеру из предчувствия Салли , чтобы найти еще подсказки.
+�
+LVillage!Nightmare!Sally!VLG_Sall_040_Group09_Step09_Unlock02_StepDescription:Поиск подсказки в <Lore>Cerved Cave</Lore>.
+|
+UVillage!Nightmare!Sally!VLG_Sall_040_Group10_Step10_TalkToCharacter03_StepDescription#Вы нашли подсказку!
+�
+CVillage!Nightmare!Sally!VLG_Sall_040_Group11_Step11_StepDescription�Салли  имел еще одно предчувствие! Вмешайтесь с ним внутри <Lore>Cered Cave</Lore>.
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group11_Step11_TalkToCharacter04_StepDescriptionNПоговори с {TargetNPC} о ее втором предчувствии.
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group11_Step11_TalkToCharacter05_StepDescription�Поговорите со следующими деревенскими жителями о предчувствиях Салли :
+e
+UVillage!Nightmare!Sally!VLG_Sall_040_Group12_Step12_TalkToCharacter06_StepDescription{targetNPC}.
+M
+=Village!Nightmare!Sally!VLG_Sall_040_Group12_StoryDescription{targetNPC}.
+�
+OVillage!Nightmare!Sally!VLG_Sall_040_Group13_Step13_VisitArea03_StepDescription�Поговорите с {TargetNPC} о ваших попытках предупредить Скрудж Макдак МакДак и Микки Маус.
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group14_Step14_TalkToCharacter07_StepDescription�Вы и Салли  пытались предупредить Микки Маус и Скрудж Макдак McDuck о планах Урсула но никто не хочет воспринимать Салли  предчувствия всерьез!
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group15_Step15_TalkToCharacter08_StepDescription]Направляйся в пещеру, пока не стало слишком поздно!
+�
+QVillage!Nightmare!Sally!VLG_Sall_040_Group16_Step16_FillKeyhole01_StepDescription?Столкнитесь с {targetNPC} о ее заговоре!
+�
+LVillage!Nightmare!Sally!VLG_Sall_040_Group16_Step17_Listen01_StepDescriptionHПоговори с {TargetNPC} о срыве Урсула сюжета.
+�
+CVillage!Nightmare!Sally!VLG_Sall_040_Group17_Step18_StepDescriptionmПоложи зелье Салли  в Урсула котёл, чтобы остановить ритуал.
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group17_Step18_TalkToCharacter09_StepDescription3Слушай Салли  против Урсула.
+�
+UVillage!Nightmare!Sally!VLG_Sall_040_Group17_Step18_TalkToCharacter10_StepDescriptionHПоговорите с заинтересованными людьми:
+e
+UVillage!Nightmare!Sally!VLG_Sall_040_Group17_Step18_TalkToCharacter11_StepDescription{TargetNPC}.
+_
+OVillage!Nightmare!Sally!VLG_Sall_040_Group18_Step19_VisitArea04_StepDescription{TargetNPC}.
+\
+LVillage!Nightmare!Sally!VLG_Sall_040_Group19_Step20_Listen02_StepDescription{TargetNPC}.
+o
+7Village!Nightmare!Sally!VLG_Sall_040_StartRequestButton4Голову внутрь Микки Маус House.

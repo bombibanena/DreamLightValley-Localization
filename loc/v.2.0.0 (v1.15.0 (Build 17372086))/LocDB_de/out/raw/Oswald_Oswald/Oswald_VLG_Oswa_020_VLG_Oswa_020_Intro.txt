@@ -1,0 +1,54 @@
+TAG: Oswald_000_f
+How are you settling in, Oswald?
+
+TAG: Oswald_001_f
+Well, it's like this, chum... My House is real swell! When I bunk down, I'm out like a candle in a swimmin' pool.
+
+TAG: Oswald_002_f
+But... it's TOO comfortable. I keep sleepin' in till half past the rooster's nap!
+
+TAG: Player_000_choice_000_f
+Well, let's see what we can do about that!
+
+TAG: Player_000_choice_001_f
+That sounds like a problem for future {PlayerName}.
+
+TAG: Oswald_011_f
+Though, I suppose a bunch of alarm clocks might work.
+
+TAG: Oswald_012_f
+Sure!
+
+TAG: Oswald_013_f
+Lemme get ahold of some <ActivityItem>Mechanical Parts</ActivityItem>, <ActivityItem>Bronze Ingots</ActivityItem>, <ActivityItem>Plastic Scraps</ActivityItem>, and some <ActivityItem>Zinc</ActivityItem>.
+
+TAG: Oswald_014_f
+I should be able to craft a bunch of alarm clocks with that.
+
+TAG: Oswald_015_f
+That'd be peachy! Thanks, chum. Guess you're not one to beat your gums â you mean business.
+
+TAG: Oswald_003_f
+Are you missing out on something important when you sleep in?
+
+TAG: Oswald_004_f
+You betcha I am! It's that furry blue fellow, Stitch.
+
+TAG: Oswald_005_f
+I tell ya, one chin session, and I knew we were two sides of the same silver dollar.
+
+TAG: Oswald_006_f
+But he rises earlier than the moon sets!
+
+TAG: Oswald_007_f
+Ah, I see the problem.
+
+TAG: Oswald_008_f
+What if we try to get ahold of an alarm clock for you?
+
+TAG: Oswald_009_f
+... Just one?
+
+TAG: Oswald_010_f
+{PlayerName}, when I'm snoozin', it'll take a brass band to get through these ears.
+

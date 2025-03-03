@@ -1,0 +1,237 @@
+TAG: AccessoryStrawberryOutfit_DisplayName
+Sweet Strawberry Purse
+
+TAG: BagWithCharm!color01_DisplayName
+Wicker Bag with Genie Charm
+
+TAG: BayouFishingRod_DisplayName
+Bayou Fishing Rod
+
+TAG: BayouHourglass_DisplayName
+Bayou Hourglass
+
+TAG: BayouPhone_DisplayName
+Bayou Phone
+
+TAG: BayouPickaxe_DisplayName
+Bayou Pickaxe
+
+TAG: BayouShovel_DisplayName
+Bayou Shovel
+
+TAG: BayouWateringCan_DisplayName
+Bayou Watering Can
+
+TAG: BubbleMachines01!color01_DisplayName
+Sorcerer's Bubble Machine
+
+TAG: BubbleMachines01!color02_DisplayName
+Mickey's Bubble Machine
+
+TAG: BubbleMachines01!color03_DisplayName
+Minnie's Bubble Machine
+
+TAG: CatchingNet_DisplayName
+Royal Net
+
+TAG: EasterDisneyPlush01!EasterDisneyPlush01_DisplayName
+Bunny Costume Plushie
+
+TAG: ElectricalParadeFishingRod_DisplayName
+Electrical Parade Fishing Rod
+
+TAG: ElectricalParadeHourglass_DisplayName
+Electrical Parade Hourglass
+
+TAG: ElectricalParadePhone_DisplayName
+Electrical Parade Phone
+
+TAG: ElectricalParadePickaxe_DisplayName
+Electrical Parade Pickaxe
+
+TAG: ElectricalParadeShovel_DisplayName
+Electrical Parade Shovel
+
+TAG: ElectricalParadeWateringCan_DisplayName
+Electrical Parade Watering Can
+
+TAG: FancyGiftBag01!color01_DisplayName
+Fancy Snowflake Gift Bag
+
+TAG: FancyGiftBag01!color02_DisplayName
+Wintery Tree Gift Bag
+
+TAG: FancyGiftBag01!color03_DisplayName
+Winter Gala Gift Bag
+
+TAG: FishingPoleCaptainHook01_DisplayName
+Hook Fishing Rod
+
+TAG: FishingRod_DisplayName
+Fishing Rod
+
+TAG: GiantHoneyDipper!color01_DisplayName
+Honey Wand
+
+TAG: HandFan01!color01_DisplayName
+Ornate Hand Fan
+
+TAG: Hourglass_DisplayName
+Hourglass
+
+TAG: HourglassMaleficent01_DisplayName
+Maleficent Hourglass
+
+TAG: IncenceLantern01!IncenseLantern01_DisplayName
+Incense Lantern
+
+TAG: MonsterFishingRod_DisplayName
+Monster Fishing Rod
+
+TAG: MonsterHourglass_DisplayName
+Monster Hourglass
+
+TAG: MonsterPhone_DisplayName
+Monster Phone
+
+TAG: MonsterPickaxe_DisplayName
+Monster Pickaxe
+
+TAG: MonsterShovel_DisplayName
+Monster Shovel
+
+TAG: MonsterWateringCan_DisplayName
+Monster Watering Can
+
+TAG: MulanFishingRod_DisplayName
+Mulan Fishing Rod
+
+TAG: MulanHourglass_DisplayName
+Mulan Hourglass
+
+TAG: MulanPhone_DisplayName
+Mulan Phone
+
+TAG: MulanPickaxe_DisplayName
+Mulan Pickaxe
+
+TAG: MulanShovel_DisplayName
+Mulan Shovel
+
+TAG: MulanWateringcan_DisplayName
+Mulan Watering Can
+
+TAG: NBCFishingRod_DisplayName
+Skeletal Fishing Rod
+
+TAG: NBCHourglass_DisplayName
+Skeletal Hourglass
+
+TAG: NBCPhone_DisplayName
+Skelephone
+
+TAG: NBCPickaxe_DisplayName
+Skeletal Pickaxe
+
+TAG: NBCShovel_DisplayName
+Skeletal Shovel
+
+TAG: NBCWateringCan_DisplayName
+Skeletal Watering Can
+
+TAG: NefariousFishingRod_DisplayName
+Nefarious Fishing Rod
+
+TAG: NefariousHourglass_DisplayName
+Nefarious Hourglass
+
+TAG: NefariousPhone_DisplayName
+Nefarious Phone
+
+TAG: NefariousPickaxe_DisplayName
+Nefarious Pickaxe
+
+TAG: NefariousShovel_DisplayName
+Nefarious Shovel
+
+TAG: NefariousWateringCan_DisplayName
+Nefarious Watering Can
+
+TAG: Phone_DisplayName
+Phone
+
+TAG: PhoneCaseCruella01_DisplayName
+De Vil Phone
+
+TAG: Pickaxe_DisplayName
+Pickaxe
+
+TAG: PickaxeEvilQueen01_DisplayName
+Evil Queen Pickaxe
+
+TAG: PlushHandAccessory01_DisplayName
+Handheld Plushie
+
+TAG: RLM_Mula_050_Weights_DisplayName
+Training Weights
+
+TAG: RoyalFishingRod_DisplayName
+Roses and Gold Fishing Rod
+
+TAG: RoyalHourglass_DisplayName
+Roses and Gold Hourglass
+
+TAG: RoyalPhone_DisplayName
+Roses and Gold Phone
+
+TAG: RoyalPickaxe_DisplayName
+Roses and Gold Pickaxe
+
+TAG: RoyalShovel_DisplayName
+Roses and Gold Shovel
+
+TAG: RoyalWateringCan_DisplayName
+Roses and Gold Watering Can
+
+TAG: Shovel_DisplayName
+Shovel
+
+TAG: ShovelQueenOfHearts01_DisplayName
+Queen of Hearts Shovel
+
+TAG: Umbrella01_DisplayName
+Polka Dot Umbrella
+
+TAG: Umbrella02_DisplayName
+Incredible Umbrella
+
+TAG: Umbrella03_DisplayName
+Cloudy Umbrella
+
+TAG: Umbrella04_DisplayName
+Pink & Purple Umbrella
+
+TAG: Umbrella05_DisplayName
+Dreamlight Umbrella
+
+TAG: UmbrellaTiana01_DisplayName
+Dapper Green Umbrella
+
+TAG: UmbrellaWitchesAccessory01_DisplayName
+Witchy Parasol
+
+TAG: ValentinesBasket01!color01_DisplayName
+Wicker Sweetheart Basket
+
+TAG: Village!Oswald!GiantPencil01_DisplayName
+Oswaldian Pencil
+
+TAG: WateringCan_DisplayName
+Watering Can
+
+TAG: WateringCanUrsula01_DisplayName
+Sea Witch Watering Can
+
+TAG: WinterWand01!color01_DisplayName
+Winter Crystal Wand
+

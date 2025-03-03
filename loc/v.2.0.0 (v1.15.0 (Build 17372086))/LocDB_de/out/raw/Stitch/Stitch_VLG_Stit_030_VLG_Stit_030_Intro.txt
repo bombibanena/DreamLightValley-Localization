@@ -1,0 +1,117 @@
+TAG: Stitch_000_f
+*SIGH* So BORING! You find something for Stitch to do?
+
+TAG: Player_000_choice_000_f
+Sure! Let's find you a hobby.
+
+TAG: Player_000_choice_001_f
+We'll talk later. I'm a bit busy.
+
+TAG: Stitch_002_f
+What have you tried doing as a hobby so far?
+
+TAG: Stitch_003_f
+Hmm... First, pranking Donald, but that make badness level too high.
+
+TAG: Stitch_004_f
+Then washing dishes to help Remy. But dishes break... a lot.
+
+TAG: Stitch_005_f
+Then I help Merlin with books.
+
+TAG: Player_001_choice_000_f
+Merlin must have appreciated that.
+
+TAG: Player_001_choice_001_f
+And how did that go?
+
+TAG: Player_001_choice_002_f
+You didn't eat any of the books, did you?
+
+TAG: Stitch_006_f
+Naga-takabah!
+
+TAG: Stitch_009_f
+Stitch put books by size, color, and deliciousness.
+
+TAG: Stitch_010_f
+But Merlin not know where books go.
+
+TAG: Stitch_011_f
+Stitch say, "Taste them to see."
+
+TAG: Stitch_012_f
+Ooh boy. Maybe for your hobby, you need more of a solo activity. Something where you can...
+
+TAG: Player_002_choice_000_f
+...relax.
+
+TAG: Player_002_choice_001_f
+...get some excess energy out.
+
+TAG: Player_002_choice_002_f
+...let your imagination run wild.
+
+TAG: Stitch_013_f
+Relax?
+
+TAG: Stitch_016_f
+Stitch like to relax with television.
+
+TAG: Stitch_019_f
+Watching television! That could be one of your hobbies!
+
+TAG: Stitch_020_f
+But <ActivityItem>Stitch's Television</ActivityItem> is broken.
+
+TAG: Player_003_choice_000_f
+No problem! We'll fix it.
+
+TAG: Player_003_choice_001_f
+Stitch, how did it get broken...?
+
+TAG: Stitch_021_f
+Here. How do we fix?
+
+TAG: Stitch_027_f
+Hm, it's just a little banged up.
+
+TAG: Stitch_028_f
+We'll just need to <Lore>gather some Tinkering Parts, Gold Ingots, and Glass</Lore>.
+
+TAG: Stitch_022_f
+Don't know. Umm... Maybe Donald smash it?
+
+TAG: Stitch_023_f
+Stitch...
+
+TAG: Stitch_024_f
+Chuta! Okay, it was Stitch. But it was accident! Promise!
+
+TAG: Stitch_025_f
+It's okay to make mistakes, but you've got to know how to own up to them.
+
+TAG: Stitch_026_f
+Okay. Stitch do better.
+
+TAG: Stitch_014_f
+Hmm... Use up energy?
+
+TAG: Stitch_017_f
+Stitch get excited watching television!
+
+TAG: Stitch_015_f
+Imagination?
+
+TAG: Stitch_018_f
+Ooh! Stitch imagine lots watching television. Imagine all people in funny hats, eating ice cream!
+
+TAG: Stitch_007_f
+Naga bootifa...
+
+TAG: Stitch_008_f
+Nagatika te! Not eat. Just taste to see deliciousness.
+
+TAG: Stitch_001_f
+Okitaka, we talk later. Yeah.
+

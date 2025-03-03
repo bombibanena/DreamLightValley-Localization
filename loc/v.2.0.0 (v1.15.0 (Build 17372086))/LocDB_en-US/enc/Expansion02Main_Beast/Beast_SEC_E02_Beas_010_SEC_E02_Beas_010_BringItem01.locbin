@@ -1,0 +1,71 @@
+
+�
+Beast_000_ftHey Beast... I found these pages lying around. It's a chapter from a book. It seems like something Belle might like.
+#
+Beast_001_fHrm... let me see...
+@
+Beast_002_f1Oh. I remember Belle telling me about this story.
+e
+Beast_003_fVShe said that she started reading it before the Forgetting but never got to finish it.
+'
+Beast_004_fWhere did you find this?
+3
+Beast_005_f$I found it while exploring the Bind.
+r
+Beast_006_fcThe Bind... I remember. There are many books in the Bind that Belle might enjoy. She loves to read.
+8
+Player_000_choice_000_fMe too! I'm a total bookworm.
+:
+Player_000_choice_001_fI wish I had more time to read.
+M
+Player_000_choice_002_f2Books put me to sleep. I'd rather scroll my phone.
+=
+Beast_007_f.The books in the Valley have worms in them...?
+<
+Beast_008_f-Uh... figure of speech. Don't worry about it.
+M
+Beast_009_f>Er... All right... {PlayerName}, I have a favor to ask of you.
+H
+Beast_010_f9I want... *sigh* It's hard for me to put it into words...
+^
+Beast_011_fO... I want to create a magical day for Belle. Something worthy of her kindness.
+<
+Beast_012_f-The Bind seems like the perfect place for it.
+F
+Player_001_choice_000_f+Ooh! This is so romantic. I'd love to help.
+W
+Player_001_choice_001_f<You're a big ol' softie underneath that fur and those claws.
+F
+Player_001_choice_002_f+What's stopping you from doing it yourself?
+'
+Beast_013_fThank you, {PlayerName}.
+L
+Beast_014_f=All right, so, a perfect day for Belle... How would it start?
+F
+Beast_015_f7Well... a perfect day should begin with a perfect gift.
+B
+Beast_016_f3I don't suppose you've found the rest of this book?
+=
+Beast_017_f.If we found it, I could bind it back together.
+M
+Beast_018_f>Good idea. I'll <Lore>try to find the rest of the book</Lore>.
+�
+Beast_019_f�Perhaps you should start by <Lore>checking the shelves in the Library of Lore</Lore>. Now that you've reminded me of the Bind, I recall that it has a library.
+u
+Beast_020_ffIn the meantime, I'll look around the Bind and try to think of other ways to make Belle's day special.
+b
+Beast_021_fSHrm... Well, my fur has been much softer lately since Mr. McDuck sold me someâ
+2
+Beast_022_f#Oh. You didn't mean that literally.
+<
+Beast_023_f-Well... I suppose I haven't known what to do.
++
+Beast_024_fPerhaps we could discuss it.
+O
+Beast_025_f@So does Belle. That's why... well, I have a favor to ask of you.
+F
+Beast_026_f7I'm not sure I understand. You prefer scrolls to books?
+s
+Beast_027_fdNo, not scrolls, my phoâ Uh, never mind. It would take too long to explain social media to you.
+l
+Beast_028_f]Very well... I won't pry and waste our time because, you see... I have a favor to ask of you.

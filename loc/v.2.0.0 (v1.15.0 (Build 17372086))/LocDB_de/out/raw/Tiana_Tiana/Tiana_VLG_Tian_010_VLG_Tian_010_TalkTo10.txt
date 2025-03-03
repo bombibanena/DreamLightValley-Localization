@@ -1,0 +1,84 @@
+TAG: Tiana_001_f
+Oh my... it's been such a long time since I've been here.
+
+TAG: Tiana_002_f
+It FEELS like just yesterday... but part of me knows it's been a lot longer.
+
+TAG: Player_000_choice_000_f
+Aww, is this place bringing up memories?
+
+TAG: Player_000_choice_001_f
+Well, we're all glad that you're back.
+
+TAG: Player_000_choice_002_f
+It has definitely been too long!
+
+TAG: Tiana_003_f
+Yes, and happy ones, thankfully.
+
+TAG: Tiana_004_f
+Sharing food, bringing folks together. I really missed that.
+
+TAG: Tiana_005_f
+Well, you're back now, so let's make some fresh memories here!
+
+TAG: Tiana_006_f
+That's the plan! I don't know how to thank you, {PlayerName}.
+
+TAG: Player_001_choice_000_f
+Don't worry about it!
+
+TAG: Player_001_choice_001_f
+You said something before about new recipes?
+
+TAG: Player_001_choice_002_f
+Just having you back in the Valley is enough.
+
+TAG: Tiana_007_f
+Well, I'd like to find some way to show my appreciation.
+
+TAG: Tiana_012_f
+Of course! A chef can't be without her proper facilities. I'll get right on that now.
+
+TAG: Tiana_022_f
+I do appreciate it. As soon as that's done, I'll <Lore>go talk to Remy</Lore>. We should probably make sure we don't step on each other's toes with our menus.
+
+TAG: Tiana_008_f
+Oh, I know!
+
+TAG: Tiana_009_f
+Now that I have my restaurant back, I can start testing recipes.
+
+TAG: Tiana_010_f
+I can't wait to show you some of the dishes I've been thinking about.
+
+TAG: Tiana_011_f
+Oh, and I've got a whole new idea for the guests... What if I had a spot by my restaurant where folks could swing by for a meal to take home or eat outside?
+
+TAG: Tiana_018_f
+Oh, like a spot where people can buy pre-made meals to eat later?
+
+TAG: Tiana_019_f
+That's right! That way they can come inside if they'd like to sit down for a more formal restaurant experience, or they can be outside for something casual.
+
+TAG: Tiana_020_f
+I'm going to call it <Lore>Tiana's Meal Stall</Lore>. Think you could help me build it?
+
+TAG: Tiana_021_f
+I thought the alcove might work well, but I'll let your practiced eye help me pick a good spot. Just be sure it's near my restaurant.
+
+TAG: Tiana_013_f
+That I did!
+
+TAG: Tiana_014_f
+My stomach is very intrigued.
+
+TAG: Tiana_015_f
+I'd still like to show my appreciation...
+
+TAG: Tiana_016_f
+So am I! My memories of the Valley are coming back too...
+
+TAG: Tiana_017_f
+Though, not so long that I've forgotten all the wonderful memories I made here...
+

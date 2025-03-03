@@ -1,0 +1,27 @@
+TAG: Timon_000_f
+Ahh... the end of a day in the jungle...
+
+TAG: Player_000_choice_000_f
+Goodnight, Timon!
+
+TAG: Player_000_choice_001_f
+Goodnight, Pumbaa!
+
+TAG: Player_000_choice_002_f
+See you two in the morning.
+
+TAG: Timon_001_f
+You did good today, kid.
+
+TAG: Timon_002_f
+We'll keep up with the lessons tomorrow, okay?
+
+TAG: Timon_003_f
+Sleep tight, {PlayerName}!
+
+TAG: Timon_004_f
+Ya know, it's funny... You just got here, but it feels like I've known you a LOOOONG time...
+
+TAG: Timon_005_f
+Sure thing, kid. Dream some relaxing dreams.
+

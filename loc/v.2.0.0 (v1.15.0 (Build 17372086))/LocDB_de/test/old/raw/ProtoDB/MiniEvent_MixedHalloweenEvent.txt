@@ -1,0 +1,30 @@
+TAG: Description
+{Placeholder}Pup up fruit, Garden and Cook еда на Хэллоуин.
+
+TAG: Description_000
+{Placeholder}P поднимите 10 фруктов.
+
+TAG: Description_001
+{Placeholder}Mak 5 еды с сахаром.
+
+TAG: Description_002
+{Placeholder}Harvest 10 тыквенных.
+
+TAG: Description_003
+{Placeholder}Mak 5 тыквенной еды.
+
+TAG: Name
+{Placeholder}Halloween
+
+TAG: Name_000
+{Placeholder}Sugar везде 1
+
+TAG: Name_001
+{Placeholder}Sugar везде 2
+
+TAG: Name_002
+{Placeholder}Pumpkin на Хэллоуин 1
+
+TAG: Name_003
+{Placeholder}Pumpkin на Хэллоуин 2
+

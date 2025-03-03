@@ -1,0 +1,84 @@
+TAG: Elsa_000_f
+{PlayerName}, I've seen what's going on in the sky over the Village.
+
+TAG: Elsa_003_f
+If there's any way I can help, you only have to ask.
+
+TAG: Player_000_choice_000_f
+Maybe you can make an ice shield around the Village?
+
+TAG: Player_000_choice_001_f
+Just keep being you, Elsa. That's all the help we need.
+
+TAG: Player_000_choice_002_f
+I don't even know how to help myself...
+
+TAG: Elsa_022_f
+If it comes to that, I'm certainly happy to try.
+
+TAG: Elsa_004_f
+Well... I know there's one way you can definitely help.
+
+TAG: Elsa_005_f
+Take a look at this.
+
+TAG: Elsa_006_f
+Does it look familiar?
+
+TAG: Elsa_007_f
+Oh... It... it does look familiar... from a long time ago.
+
+TAG: Elsa_008_f
+We think it belonged to the Forgotten. We need to know the story behind it.
+
+TAG: Elsa_001_f
+I wish I could remember. But it's like there's a mist over my memories of it...
+
+TAG: Elsa_009_f
+That's the Forgetting. Try to focus. Maybe you can fight through it.
+
+TAG: Elsa_011_f
+It's so strange. When I look at you... and when I think of the adventures we've gone on together...
+
+TAG: Elsa_012_f
+It feels like it's only just out of reach.
+
+TAG: Elsa_013_f
+Our friendship... It might be strong enough to bring back your memories. Maybe we just need to spend a little more time together.
+
+TAG: Elsa_014_f
+It's worth a try. And I always enjoy spending time with you.
+
+TAG: Elsa_002_f
+It's funny. Just a second ago, it was like my memories of this were covered over by a mist.
+
+TAG: Elsa_010_f
+But then... I looked at you, and I thought of our friendship, and the adventures we've gone on together...
+
+TAG: Elsa_015_f
+And I remembered... I gave this to you.
+
+TAG: Elsa_016_f
+You were just a child then. You wanted to explore the Ice Cavern with me.
+
+TAG: Elsa_017_f
+But it was so cold in there. So I brought you my favorite blanket from home.
+
+TAG: Elsa_018_f
+And when the Forgotten split off... well, I guess they held onto it until they dropped it in the secret chamber. I wish I could remember this. But I guess the Forgotten has some of those memories.
+
+TAG: Elsa_019_f
+Well, I hope you can help pull the Forgotten back from the edge before it's too late.
+
+TAG: Elsa_020_f
+And if you do manage to bring them back... well, maybe I can talk with them. I know what it's like to go too far.
+
+TAG: Elsa_021_f
+Thanks, Elsa. That's all I need for now. The magic coming off of the blanket seems stronger already...
+
+TAG: Elsa_023_f
+That's nice of you to say. But I just... I can't stand by and watch the Village come apart around us.
+
+TAG: Elsa_024_f
+We'll figure this out. We always have.
+

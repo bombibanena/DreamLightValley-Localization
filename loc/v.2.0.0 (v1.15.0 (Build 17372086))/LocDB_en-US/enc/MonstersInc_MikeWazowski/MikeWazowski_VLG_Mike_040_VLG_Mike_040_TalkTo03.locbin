@@ -1,0 +1,57 @@
+
+B
+MikeWazowski_000_f,Mike... I'm afraid that we've got a problem.
+#
+MikeWazowski_009_fAbout that...
+j
+MikeWazowski_010_fTShe won't speak to you directly. You'll have to talk to her manager, Scrooge McDuck.
+1
+MikeWazowski_011_fShe already has a manager?!
+5
+Player_000_choice_000_fYeah, I was surprised too.
+8
+Player_000_choice_001_fWhy don't you have a manager?
+5
+Player_000_choice_002_fThis is classic Vanellope.
+g
+MikeWazowski_001_fQA problem? Of course we've got a problem! My life is an endless loop of problems!
+A
+MikeWazowski_002_f+*INHALE* *exhale* ... Okay, hit me with it.
+I
+MikeWazowski_003_f3It's Vanellope... She doesn't want to open anymore.
+
+MikeWazowski_004_fWHAT?!
+<
+MikeWazowski_005_f&She wants to be co-headliner with you.
+
+MikeWazowski_006_fWow.
+`
+MikeWazowski_007_fJThe kid hasn't even done her first show and she wants to go big time, huh?
+?
+MikeWazowski_008_f)I gotta go explain to her how this works.
+-
+MikeWazowski_012_fOkay, we need a plan...
+Y
+MikeWazowski_014_fCTalk to her manager... All right, if she wants to play that game...
+7
+MikeWazowski_015_f!I'll get Sulley to be MY manager!
+5
+MikeWazowski_016_fAnd you... you can be my agent.
+ 
+Player_001_choice_000_fCool!
+2
+Player_001_choice_001_fHow much do I get paid?
+%
+MikeWazowski_017_fSo what's next?
+R
+MikeWazowski_019_f<Go put on somethin' spiffy enough to look like a real agent.
+|
+MikeWazowski_022_ffSomethin' <Lore>professional</Lore>, <Lore>elegant</Lore>, or <Lore>modern</Lore> should do the trick.
+>
+MikeWazowski_020_f(And then, we'll have a business meeting.
+T
+MikeWazowski_021_f>Talk to her manager... Fine! Her people can talk to my people!
+]
+MikeWazowski_018_fGHa! Good one, {PlayerName}. Maybe we should have you replace Vanellope.
+$
+MikeWazowski_013_fGood question.

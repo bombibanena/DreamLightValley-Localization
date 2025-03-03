@@ -1,0 +1,36 @@
+
+p
+Kristoff_000_f^Kristoff, I hope you're feeling friendly, because I have someone for you to meet... the Beast!
+V
+Kristoff_001_fDOh, yeah. I've seen him around, but we haven't had a chance to talk.
+B
+Kristoff_002_f0And now you can! He's trying to meet new people.
+î
+Kristoff_003_fÅHuh... That's great. It's just... I'm not one of those SUPER sociable people. So, if he's looking to hang out with a big crowd...
+.
+Kristoff_004_fYou might wanna try Mirabel?
+9
+Kristoff_005_f'Actually, that's why I came to see you!
+e
+Kristoff_006_fSI think you two might get along well ‚Äî I bet you'd have a blast fishing together.
+d
+Kristoff_007_fRWell, if he wants to fish, I'm all in. {PlayerName}, you're joining us too, right?
+%
+Player_000_choice_000_f
+Of course!
+*
+Player_000_choice_001_fI don't know...
+
+Kristoff_008_fGreat!
+`
+Kristoff_009_fNAll right. I've been having a fishing contest, and there are a few guidelines.
+¨
+Kristoff_010_fôYou need to catch at least four fish ‚Äî <Lore>two Saltwater</Lore> and <Lore>two Freshwater</Lore>. You also need a <Lore>Herring</Lore>, a <Lore>Bream</Lore>, and one fish has to be <Lore>at least three pounds</Lore>, but they can be part of the saltwater and freshwater catches.
+c
+Kristoff_011_fQGot it. I just need to talk to the Beast for a sec... and then the contest is on!
+
+Kristoff_012_fI'll be here.
+Ö
+Kristoff_013_fsFrom what I've seen, he seems pretty tense, but I bet he's comfortable with you. It might help if you stuck around.
+"
+Kristoff_014_fOK, fair enough!

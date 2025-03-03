@@ -1,0 +1,93 @@
+TAG: Village!Brave!Merida!VLG_Meri_030_AvailableDescription
+После разговора с Мерида, {PlayerName} узнал о зловещем заговоре лорда Подземного мира. Аид пытался украсть артефакт, связанный с Кланом Данброхом, артефакт, который Аид считал допустимым."изменить свою судьбу."
+
+TAG: Village!Brave!Merida!VLG_Meri_030_DisplayName
+Измени свою судьбу
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group01_Step01_VisitArea01_StepDescription
+Введите коттедж Мерида.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group02_Step02_Interaction01_StepDescription
+Обыщите коттедж Мерида для подсказок.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group03_Step03_Unlock01_StepDescription
+Возьми память, которая появилась в коттедже Мерида.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group04_Step04_TalkToCharacter01_StepDescription
+Поговори с Мерида.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group05_Step05_StepDescription
+Найдите лучшего друга Мерида <Lore>a злобный воин, который хорош в боссе</Lore>.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group06_Step06_VisitArea02_StepDescription
+Ищите следующую подсказку под крылом"Гигантская летающая лошадь."
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group07_Step07_TakePicture01_StepDescription
+Сфотографируй его.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group07_StepDescription
+Что-то спрятано под крылом летающей лошадиной статуи...
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group08_Step08_TalkToCharacter05_StepDescription
+Покажите картинку {TargetNPC} в "Storybook Vale".
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group09_Step09_FollowCharacter01_StepDescription
+Следуйте за Мерида до гигантской конской статуи в Мифопии.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group09_Step09_FollowCharacter01_TalkToDescription
+Поговори с Мерида.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group10_Step10_Unlock02_StepDescription
+Подними Память возле гигантской конской статуи.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group11_Step11_TalkToCharacter06_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group12_StepDescription
+Поиск следующей подсказки"где Волк пьёт пролитый чай."
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group13_Step13_Unlock03_StepDescription
+Возьми подсказку вдоль реки.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group14_Step14_TalkToCharacter07_StepDescription
+Поговори с {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group15_Step15_StepDescription
+Ищите следующую подсказку в библиотеке Лора.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group15_Step15_VisitArea04_StepDescription
+Последняя подсказка сказала что-то о"Найти свое место в мире"...
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group16_Step16_Unlock04_StepDescription
+Возьми подсказку рядом с землёй в библиотеке Лора.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group17_Step17_ReadyDescription
+Вместо семейного артефакта вы нашли записку от Аид.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group17_Step17_StepDescription
+Найдите место с Мерида Память в Бинде и получите артефакт ее семьи.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group18_Step18_TalkToCharacter08_StepDescription
+Поговори с Аид.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group19_Step19_VisitArea05_StepDescription
+Проверьте внутри дома Аид' на сокровище Клана Данброха.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group20_Step20_ReadyDescription
+Отдай {itemName} {TargetNPC}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group20_Step20_StepDescription
+Поиск Аид' дома {itemName}.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group21_Step21_Interaction02_StepDescription
+Расследуйте сумку, которая упала возле гигантских конских статуй.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group21_StepDescription
+Улика упала под гигантской конской статуей!
+
+TAG: Village!Brave!Merida!VLG_Meri_030_Group22_Step22_Conditional01_StepDescription
+Расследуйте мир в библиотеке Лора.
+
+TAG: Village!Brave!Merida!VLG_Meri_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

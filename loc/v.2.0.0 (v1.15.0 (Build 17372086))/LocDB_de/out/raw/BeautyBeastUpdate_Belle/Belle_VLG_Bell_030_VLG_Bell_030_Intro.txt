@@ -1,0 +1,57 @@
+TAG: Belle_000_f
+{PlayerName}, I promised I would let you know when the <ActivityItem>Translation Machine</ActivityItem> was done translating the <ActivityItem>Mysterious Book</ActivityItem>.
+
+TAG: Belle_010_f
+Would you have time to talk about it? Something... odd has happened.
+
+TAG: Player_000_choice_000_f
+I'm listening.
+
+TAG: Player_000_choice_002_f
+Maybe later.
+
+TAG: Belle_002_f
+The <ActivityItem>Translation Machine</ActivityItem> did translate the <ActivityItem>Mysterious Book</ActivityItem>.
+
+TAG: Belle_011_f
+At least enough for me to realize the book is actually a <ActivityItem>Journal</ActivityItem>...
+
+TAG: Belle_012_f
+Written by someone called... "Dreamlight Valley's Best Mystery Solver"?
+
+TAG: Player_001_choice_000_f
+We need to find out who that is...
+
+TAG: Player_001_choice_001_f
+Does anyone remember who it might be...?
+
+TAG: Player_001_choice_002_f
+Ironic that they're now a mystery!
+
+TAG: Belle_006_f
+Yes, I think so too!
+
+TAG: Belle_001_f
+I've asked but no one here seems to remember who that Villager was...
+
+TAG: Belle_013_f
+Does the <ActivityItem>Journal</ActivityItem> contain any clue to who it might be?
+
+TAG: Belle_014_f
+I'm not sure. There are some pages that I can't read. It's as if the words are shifting.
+
+TAG: Belle_015_f
+I was wondering if you could take a look at one of them?
+
+TAG: Belle_016_f
+Of course.
+
+TAG: Belle_017_f
+Here...
+
+TAG: Belle_007_f
+Yes, that is rather funny.
+
+TAG: Belle_003_f
+Oh, of course. Whenever you have time.
+

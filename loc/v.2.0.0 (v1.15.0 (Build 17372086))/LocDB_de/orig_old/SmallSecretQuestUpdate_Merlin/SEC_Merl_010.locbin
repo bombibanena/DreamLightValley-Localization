@@ -1,0 +1,31 @@
+
+i
+GSecret!SwordInStone!Merlin!SEC_Merl_010_Any_CompletedRequestDescriptionСообщите Мерлин.
+�
+<Secret!SwordInStone!Merlin!SEC_Merl_010_AvailableDescription�Во время блуждения по Глэйду Доверия, вы нашли кусок пергамента, покрытого Мерлин набросками. Похоже, это список времен и мест в деревне. Вам нужно поговорить с ним, чтобы увидеть, что происходит.
+�
+ASecret!SwordInStone!Merlin!SEC_Merl_010_CompletedStoryDescription�Урсула обещает вам, что она и Матушка Готель Матушка Готель не занимаются какими-либо отвратительными схемами. Вам придется доложить Мерлин и решить, что ему сказать.
+S
+3Secret!SwordInStone!Merlin!SEC_Merl_010_DisplayNameСекреты и схемы
+�
+GSecret!SwordInStone!Merlin!SEC_Merl_010_Group01_Step01_ReadyDescriptionQВозвращайте ему <ActivityItem>Мерлин ноты</ActivityItem>.
+�
+?Secret!SwordInStone!Merlin!SEC_Merl_010_Group01_StepDescriptionLВы нашли что-то странное в Глэйде Доверия.
+�
+OSecret!SwordInStone!Merlin!SEC_Merl_010_Group02_Step02_Listen01_StepDescription�Слушайте Матушка Готель Матушка Готель и Урсула, когда они встречаются в Глэйде доверия.
+�
+XSecret!SwordInStone!Merlin!SEC_Merl_010_Group03_Step03_TalkToCharacter01_StepDescription*Противостояние Урсула.
+�
+@Secret!SwordInStone!Merlin!SEC_Merl_010_Group03_StoryDescription�Вы видите Урсула и Матушка Готель Матушка Готель разговаривают друг с другом, но не похоже, что они вообще замышляют. Вам нужно поговорить с Урсула, чтобы разобраться в этом.
+�
+TSecret!SwordInStone!Merlin!SEC_Merl_010_Group04_Step04_Conditional01_StepDescription�Подождите до завтра, чтобы выслушать встречу Урсула и Матушка Готель Матушка Готель в Глэйде доверия.
+�
+@Secret!SwordInStone!Merlin!SEC_Merl_010_Group04_StoryDescription�Мерлин просит вас шпионить за Матушка Готель Матушка Готель и Урсула, чтобы выяснить, о чем они замышляют.
+�
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group01_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что мне нужно?
+�
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group02_OngoingRequestButtonC<smallcaps>{title}</smallcaps><br> Что я опять делал?
+�
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group03_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br> Что мне делать дальше?
+�
+DSecret!SwordInStone!Merlin!SEC_Merl_010_Group04_OngoingRequestButtonK<smallcaps>{title}</smallcaps><br> Что мне делать дальше?

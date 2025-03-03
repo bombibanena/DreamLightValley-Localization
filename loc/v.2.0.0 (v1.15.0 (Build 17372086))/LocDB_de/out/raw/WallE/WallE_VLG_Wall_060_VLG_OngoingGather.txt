@@ -1,0 +1,39 @@
+TAG: WallE_000_f
+WALLÂ·E!
+
+TAG: Player_001_f
+Where do you think we could find a...
+
+TAG: Player_001_choice_000_f
+<ActivityItem>Bowling Pin</ActivityItem>?
+
+TAG: Player_001_choice_001_f
+<ActivityItem>Toy Train</ActivityItem>?
+
+TAG: Player_001_choice_002_f
+<ActivityItem>Light Bulb</ActivityItem>?
+
+TAG: Player_001_choice_003_f
+Let's go look for them!
+
+TAG: WallE_002_f
+Ooh! Ooh!
+
+TAG: WallE_001_f
+You're using your hands to make a... long nose... and... a pointy hat? Oh! Do you think Goofy or Merlin would have one? Okay! I can check with them.
+
+TAG: WallE_003_f
+Uh...
+
+TAG: WallE_006_f
+I'm not sure either... Maybe Scrooge or Mickey will have one.
+
+TAG: WallE_004_f
+WALLÂ·E!
+
+TAG: WallE_007_f
+You think you have that in your own collection? That's great!
+
+TAG: WallE_005_f
+Whoopee!
+

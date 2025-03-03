@@ -1,0 +1,64 @@
+
+e
+BVillage!Tangled!Flynn!VLG_Flyn_020_Any_CompletedRequestDescriptionTalk to Flynn about his memory.
+Ù
+7Village!Tangled!Flynn!VLG_Flyn_020_AvailableDescription∏Thanks to {PlayerName}, Flynn had a new understanding of his own heart. However, worry was still etched across his handsome face. {PlayerName} knew they had to see what was the matter.
+=
+.Village!Tangled!Flynn!VLG_Flyn_020_DisplayNameMemory Lane
+q
+JVillage!Tangled!Flynn!VLG_Flyn_020_Group01_Step01_Listen01_StepDescription#Listen to Flynn and the Lorekeeper.
+Ñ
+;Village!Tangled!Flynn!VLG_Flyn_020_Group01_StoryDescriptionƒThe intrepid rogue was suffering terrible nightmares! With {PlayerName}'s gentle guidance, Flynn realized he would need to consult the Lorekeeper if he wanted insight into these mysterious dreams.
+Ü
+JVillage!Tangled!Flynn!VLG_Flyn_020_Group02_Step02_Unlock01_StepDescription8Pick up <Lore>Flynn's Memory</Lore> near the Lorekeeper.
+e
+SVillage!Tangled!Flynn!VLG_Flyn_020_Group03_Step03_TalkToCharacter01_StepDescriptionTalk to Flynn.
+f
+SVillage!Tangled!Flynn!VLG_Flyn_020_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to Ursula.
+Â
+;Village!Tangled!Flynn!VLG_Flyn_020_Group04_StoryDescription•Desperate to recover his memories, Flynn agreed that {PlayerName} should talk to the fearsome sea witch, Ursula. With unbridled bravery, {PlayerName} ventured forth.
+c
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem01_StepDescriptionSea Monster Tooth.
+`
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem02_StepDescriptionPetrified Wood.
+^
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem03_StepDescriptionSalt Crystal.
+[
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem04_StepDescription
+Lightning.
+W
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_BringItem05_StepDescriptionOlive.
+f
+BVillage!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_ReadyDescription Bring the Ingredients to Ursula.
+z
+AVillage!Tangled!Flynn!VLG_Flyn_020_Group05_Step05_StepDescription5Gather the following Ingredients for Ursula's Potion:
+‚
+;Village!Tangled!Flynn!VLG_Flyn_020_Group05_StoryDescription¢The Sea Witch revealed that she did indeed have a potion to help Flynn. Though hesitant to accept her help, {PlayerName} set off to gather the Ingredients needed.
+n
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group06_Step06_VisitArea01_StepDescriptionMeet Flynn back in his House.
+£
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group07_Step07_BringItem06_StepDescriptionRMake sure you have <ActivityItem>Ursula's Potion</ActivityItem> in your Inventory.
+_
+BVillage!Tangled!Flynn!VLG_Flyn_020_Group07_Step07_ReadyDescriptionGive the potion to Flynn.
+r
+JVillage!Tangled!Flynn!VLG_Flyn_020_Group08_Step08_Unlock02_StepDescription$Look at Flynn's Memory in his House.
+e
+SVillage!Tangled!Flynn!VLG_Flyn_020_Group09_Step09_TalkToCharacter03_StepDescriptionTalk to Flynn.
+e
+SVillage!Tangled!Flynn!VLG_Flyn_020_Group10_Step10_TalkToCharacter04_StepDescriptionTalk to Hades.
+â
+;Village!Tangled!Flynn!VLG_Flyn_020_Group10_StoryDescription…Fraught with worry over his past, Flynn felt defeated. With courage and determination, {PlayerName} journeyed on in search of the one who may be able to help: Hades, the feared ruler of the Underworld.
+x
+KVillage!Tangled!Flynn!VLG_Flyn_020_Group11_Step11_Possess01_StepDescription)Look for anything useful at Hades' House.
+n
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group12_Step12_VisitArea02_StepDescriptionMeet Flynn back at his House.
+ù
+MVillage!Tangled!Flynn!VLG_Flyn_020_Group13_Step13_BringItem07_StepDescriptionLMake sure you have the <ActivityItem>Tiara</ActivityItem> in your Inventory.
+^
+BVillage!Tangled!Flynn!VLG_Flyn_020_Group13_Step13_ReadyDescriptionGive the Tiara to Flynn.
+ë
+;Village!Tangled!Flynn!VLG_Flyn_020_Group13_StoryDescription—Beneath the trifles and trinkets in Hades' box, something glittered beautifully... Reaching in, {PlayerName} pulled out Princess Aurora's Tiara. This was the perfect thing to help Flynn with his lost memories.
+r
+JVillage!Tangled!Flynn!VLG_Flyn_020_Group14_Step14_Unlock03_StepDescription$Look at Flynn's Memory in his House.
+f
+5Village!Tangled!Flynn!VLG_Flyn_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

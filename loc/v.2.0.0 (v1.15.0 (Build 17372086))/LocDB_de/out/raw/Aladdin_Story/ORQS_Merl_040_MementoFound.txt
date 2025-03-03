@@ -1,0 +1,9 @@
+TAG: Story!ORQS_Merl_040_MementoFound_AvailableDescription
+You found a strange item with seemingly magical qualities... Better show it to Merlin.
+
+TAG: Story!ORQS_Merl_040_MementoFound_DisplayName
+The Memento
+
+TAG: Story!ORQS_Merl_040_MementoFound_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to {TargetNPC} about the strange, magical object you found.
+

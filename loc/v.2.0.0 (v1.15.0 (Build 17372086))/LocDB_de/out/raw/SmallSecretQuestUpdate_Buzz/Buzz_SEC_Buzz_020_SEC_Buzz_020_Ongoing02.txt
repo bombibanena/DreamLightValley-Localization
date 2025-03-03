@@ -1,0 +1,30 @@
+TAG: Buzz_009_f
+I have intel that there may be a couple of <Lore>Aliens hiding in Merlin's library</Lore>. All those piles of books... A toy could stay camouflaged forever in that kind of terrain!
+
+TAG: Buzz_008_f
+There's no telling which houses they might be hiding in today. So, I recommend you keep an eye out while you do your regular rounds of the Village.
+
+TAG: Buzz_000_f
+Have you tried <Lore>checking Mickey's House</Lore>? They might be hiding in there.
+
+TAG: Buzz_001_f
+I've received intel that there may be a couple of <Lore>Aliens hiding in Goofy's House</Lore>. Have you investigated there?
+
+TAG: Buzz_002_f
+Woody tells me he's <Lore>heard some squeaking at night in his Carousel</Lore>. I recommend making a thorough investigation.
+
+TAG: Buzz_003_f
+Well, I have been hearing <Lore>squeaking in my mobile command center</Lore>. Perhaps we should investigate.
+
+TAG: Buzz_004_f
+Remy just reported that he's <Lore>heard squeaking in his House</Lore>. And, as we know, he's not a rat who squeaks. I trust his intel. We should investigate.
+
+TAG: Buzz_005_f
+Kristoff just reported that <Lore>he's sighted something waddling around Arendelle Castle</Lore>. Could be our missing Aliens.
+
+TAG: Buzz_006_f
+We have a report from Donald Duck. And he did not seem pleased about the intrusion.
+
+TAG: Buzz_007_f
+There's been <Lore>a confirmed sighting of an Alien in his House</Lore>.
+

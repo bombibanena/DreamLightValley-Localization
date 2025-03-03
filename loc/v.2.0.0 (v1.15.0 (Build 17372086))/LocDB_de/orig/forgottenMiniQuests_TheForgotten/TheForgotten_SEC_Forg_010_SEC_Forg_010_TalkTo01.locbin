@@ -1,0 +1,55 @@
+
+,
+TheForgotten_000_fOh! Hey, {PlayerName}.
+O
+TheForgotten_001_f9You wanted to talk to me...? Did I do something wrong...?
+)
+Player_000_choice_000_fOf course not!
+,
+Player_000_choice_001_fJust checking in.
+^
+Player_000_choice_002_fCAs long as you haven't torn open reality again, I think we're good.
+@
+TheForgotten_020_f*I'm just visiting to see how you're doing!
+p
+TheForgotten_013_fZSay, I do remember a few things in the Village that I used to think were really beautiful.
+p
+TheForgotten_014_fZThere was this <Lore>one yellow flower in the Forgotten Lands</Lore> that was really cool.
+Z
+TheForgotten_015_fDAnd there was this <Lore>really neat bird with dark feathers</Lore>!
+µ
+TheForgotten_016_fûOh, and I think the most awesome thing in the whole Valley is that <Lore>giant skull near Dazzle Beach</Lore>! I bet you could get a pretty good shot of that.
+N
+Player_001_f>So your idea of beauty is... flowers, birds, and giant skulls.
+/
+Player_001_choice_000_fI love it!!! Me too.
+K
+Player_001_choice_001_f0Very unconventional choices, but I support them.
+F
+TheForgotten_002_f0Oh. It's... really nice of you to actually care.
+O
+TheForgotten_006_f9I'm doing okay. Everyone in the Village has been so nice.
+¢
+TheForgotten_007_fãBut... I don't know... today I'm feeling a little... bored? Or like... everything I look at today, it just feels so... boring and ordinary.
+ê
+TheForgotten_011_fzI remember when we were younger, everything was cool and exciting and beautiful. I wish I could see things that way again.
+[
+TheForgotten_008_fEWell, everything can be beautiful if you look at it in the right way.
+?
+TheForgotten_010_f)So... it all depends on how you frame it?
+•
+TheForgotten_009_féFrame it...! That's it! Why don't we <Lore>take some pictures</Lore> to show you how beautiful even ordinary things around the Village can be?
+(
+TheForgotten_012_fThat could be fun!
+Y
+TheForgotten_017_fCOh, wow, really? It's nice to have somebody around who understands.
+]
+TheForgotten_019_fGLet's see what we can do. <Lore>Three pictures</Lore>, coming right up!
+!
+TheForgotten_018_fAw, thanks.
+U
+TheForgotten_003_f?Don't worry. I definitely won't be making THAT mistake twice...
+-
+TheForgotten_004_fPhewf. That's a relief.
+N
+TheForgotten_005_f8But really... I just wanted to see how you're adjusting.

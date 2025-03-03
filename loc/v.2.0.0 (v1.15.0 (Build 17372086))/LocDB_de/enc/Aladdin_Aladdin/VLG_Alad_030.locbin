@@ -1,0 +1,87 @@
+
+k
+DVillage!Aladdin!Aladdin!VLG_Alad_030_Any_CompletedRequestDescription#Поговори с Аладдин.
+�
+9Village!Aladdin!Aladdin!VLG_Alad_030_AvailableDescription\Ты видишь, как Аладдин ходит вокруг, собирая цветы.
+�
+>Village!Aladdin!Aladdin!VLG_Alad_030_CompletedStoryDescription�Вместе вы втроем разберётесь с головоломкой и соберете сокровища из колонны. Аладдин понимает, что Жасмин не хочет сокровища.
+P
+0Village!Aladdin!Aladdin!VLG_Alad_030_DisplayNameВсе эти блестки
+`
+OVillage!Aladdin!Aladdin!VLG_Alad_030_Group01_Step01_BringItem01_StepDescriptionЖелтый.
+h
+OVillage!Aladdin!Aladdin!VLG_Alad_030_Group01_Step01_BringItem02_StepDescriptionФиолетовый.
+v
+DVillage!Aladdin!Aladdin!VLG_Alad_030_Group01_Step01_ReadyDescription.Принеси цветы на Аладдин.
+�
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group01_Step01_StepDescriptionAСобирайте цветы в следующих цветах:
+�
+=Village!Aladdin!Aladdin!VLG_Alad_030_Group01_StoryDescription�Аладдин говорит, что хочет сделать букет, чтобы произвести впечатление на Жасмин, и просит вас помочь ему собрать самые красивые цветы Долины.
+�
+LVillage!Aladdin!Aladdin!VLG_Alad_030_Group02_Step02_Listen01_StepDescriptionDПослушай Аладдин, отдай Жасмин букет.
+|
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group03_Step03_TalkToCharacter01_StepDescription#Поговори с Аладдин.
+�
+OVillage!Aladdin!Aladdin!VLG_Alad_030_Group04_Step04_VisitArea01_StepDescriptionИдите к нам."Остров русалки"О чем говорится в свитке сокровищ Аладдин.
+�
+=Village!Aladdin!Aladdin!VLG_Alad_030_Group04_StoryDescription�Аладдин приносит Жасмин букет, и ее огорчает, что она говорит, что это напоминает ей о цветениях во дворце в Аграбе. Он хочет произвести на нее впечатление тем, что она никогда не видела раньше. Он просит вас помочь ему найти сокровище на основе подсказки Скрудж Макдак McDuck.
+y
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group05_Step05_TalkToCharacter02_StepDescription Поговори с {TargetNPC}.
+�
+QVillage!Aladdin!Aladdin!VLG_Alad_030_Group06_Step06_FillKeyhole01_StepDescriptionnРасследуйте остров Ариэль на предмет подсказок о сокровище.
+y
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group07_Step07_TalkToCharacter03_StepDescription Поговори с {TargetNPC}.
+�
+SVillage!Aladdin!Aladdin!VLG_Alad_030_Group08_Step08_RemoveBlocker01_StepDescription?Ищите столб вокруг острова Ариэль.
+�
+=Village!Aladdin!Aladdin!VLG_Alad_030_Group08_StoryDescription�Вы и Аладдин определяете, что подсказка Скрудж Макдак указывает на остров Ариэль. Когда вы посещаете остров и ищете вокруг, вы находите странный камень с иллюстрацией любопытного столба на нем. Вы решаете искать столб вокруг острова.
+�
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group09_Step09_StepDescription_Обыщите недостающие части столба на острове Ариэль.
+�
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group09_Step10_StepDescriptionmРемонт столба на острове Ариэль с его недостающими частями.
+�
+<Village!Aladdin!Aladdin!VLG_Alad_030_Group09_StepDescriptionGТы нашёл кусочек таинственного столба!
+y
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group10_Step11_TalkToCharacter04_StepDescription Поговори с {TargetNPC}.
+d
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group11_Step12_StepDescriptionВмешаюсь с этим.
+m
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group11_Step13_StepDescription&Сфотографировал его.
+�
+<Village!Aladdin!Aladdin!VLG_Alad_030_Group11_StepDescriptionGПоиск информации о столбе посредством:
+�
+OVillage!Aladdin!Aladdin!VLG_Alad_030_Group12_Step14_VisitArea02_StepDescription2Возвращайся в долину Мечты.
+�
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group13_Step15_StepDescription{Спросите следующих деревенских жителей о столбе на острове Ариэль:
+e
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group13_Step15_TalkToCharacter05_StepDescription{TargetNPC}.
+e
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group13_Step15_TalkToCharacter06_StepDescription{TargetNPC}.
+e
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group13_Step15_TalkToCharacter07_StepDescription{TargetNPC}.
+�
+=Village!Aladdin!Aladdin!VLG_Alad_030_Group13_StoryDescription�Ты собираешь столб, но сокровище не появляется, снимаешь фото и решаешь вернуться в Долину, чтобы поговорить с деревенскими жителями, которые могут помочь тебе.
+�
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group14_Step16_StepDescription{Спросите следующих деревенских жителей о столбе на острове Ариэль:
+e
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group14_Step16_TalkToCharacter08_StepDescription{TargetNPC}.
+e
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group14_Step16_TalkToCharacter09_StepDescription{TargetNPC}.
+e
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group14_Step16_TalkToCharacter10_StepDescription{TargetNPC}.
+�
+OVillage!Aladdin!Aladdin!VLG_Alad_030_Group15_Step17_VisitArea03_StepDescription6Возвращайся на остров Ариэль.
+�
+UVillage!Aladdin!Aladdin!VLG_Alad_030_Group16_Step18_TalkToCharacter11_StepDescription.Жасмин на острове Ариэль?
+�
+CVillage!Aladdin!Aladdin!VLG_Alad_030_Group17_Step19_StepDescription�Распределить стойку на острове Ариэль поворачивая части, чтобы привести символы в соответствие.
+�
+=Village!Aladdin!Aladdin!VLG_Alad_030_Group17_StoryDescription�Она говорит, что слышала, что вам может понадобиться помощь, и предположила, что символы на столбе на самом деле загадка...
+w
+OVillage!Aladdin!Aladdin!VLG_Alad_030_Group18_Step20_BringItem03_StepDescription$Соберите сокровища.
+y
+DVillage!Aladdin!Aladdin!VLG_Alad_030_Group18_Step20_ReadyDescription1Принеси сокровище в {TargetNPC}.
+�
+LVillage!Aladdin!Aladdin!VLG_Alad_030_Group19_Step21_Listen02_StepDescriptioniПослушайте Жасмин и Аладдин обсуждайте сокровище столба.
+h
+7Village!Aladdin!Aladdin!VLG_Alad_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

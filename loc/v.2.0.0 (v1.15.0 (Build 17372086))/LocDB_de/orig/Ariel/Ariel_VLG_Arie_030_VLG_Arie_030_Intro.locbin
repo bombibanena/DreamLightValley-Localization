@@ -1,0 +1,71 @@
+
+K
+Ariel_030_f<Would you have time to help me with something, {PlayerName}?
+7
+Player_000_choice_009_fOf course! What do you need?
+7
+Player_000_choice_010_fI don't have time right now.
+b
+Ariel_020_fSWell, now that I'm back in the Valley, I've started working on my collection again.
+2
+Ariel_035_f#I just love collecting human stuff!
+[
+Ariel_003_fLAnd there are a few things I'd love to have, but I can't find them anywhere.
+<
+Ariel_036_f-What are they? I'll keep an eye out for them.
+ˆ
+Ariel_004_fyOh, thank you! I think the first one is called a <ActivityItem>Whisk</ActivityItem>. Humans use it to scratch their feet.
+4
+Player_000_choice_002_fI'll bring you just that.
+4
+Player_000_choice_011_fUh... scratch their feet?
+-
+Player_000_choice_015_fWe use it to cook.
+;
+Ariel_015_f,I knew you'd know how to help, {PlayerName}!
+•
+Ariel_018_f…The second object is called a <ActivityItem>Spinning Top</ActivityItem>. It's so much fun to watch it twirl and twirl until it falls.
+U
+Ariel_019_fFGot it. One <ActivityItem>Spinning Top</ActivityItem> coming right up.
+¨
+Ariel_022_f˜And the third one is a magic box with an odd name. A <ActivityItem>Gramophone</ActivityItem>. Humans put color on it and spin it to make pretty designs.
+>
+Player_000_choice_019_f#I'll get you this very special box.
+3
+Player_000_choice_020_fWho told you about that?
+@
+Player_000_choice_021_f%Ariel... It's for listening to music.
++
+Ariel_023_fOh, that would be fantastic!
+—
+Ariel_025_f‡The last one is called a "story brick." It's a rectangle with words and pretty pictures that tells a story. I'd love to have a new one.
+7
+Player_000_choice_022_fOne "story brick" coming up.
+&
+Player_000_choice_023_fA what now?
+5
+Player_000_choice_024_fOh, you mean a story BOOK.
+'
+Ariel_026_fThank you, {PlayerName}!
+p
+Ariel_033_faMaybe you could ask WALLÂ·E. I'm sure you remember that Memory you found of us exchanging things.
+F
+Ariel_034_f7I'm sure he'll know where to find what I'm looking for.
+(
+Ariel_032_fGreat idea. I'll ask him.
+”
+Ariel_031_f„Before the Forgetting, WALLÂ·E and I used to exchange things from our collections. He might know where to find what I'm looking for.
+n
+Ariel_028_f_Oh, I'm sure you've seen one. They're like the recipe bricks you can find all over the Village.
+e
+Ariel_027_fVBook? Oh, I'll have to remember that. I would love a new story BOOK for my collection.
+P
+Ariel_029_fAMostly my friend Scuttle, but some parts I figured out by myself.
+c
+Ariel_024_fTThat's so interesting! Under the sea, we make music with our voices and instruments.
+_
+Ariel_016_fPUh-huh. You hold the handle and scratch your feet with the teardrop-shaped part.
+4
+Ariel_017_f%Really? Oh, thank you for telling me!
+C
+Ariel_021_f4Oh, I understand. I look forward to seeing you soon!

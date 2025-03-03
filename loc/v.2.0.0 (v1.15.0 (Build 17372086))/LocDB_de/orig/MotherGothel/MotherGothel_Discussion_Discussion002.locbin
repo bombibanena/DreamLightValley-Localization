@@ -1,0 +1,57 @@
+
+p
+MotherGothel_000_fZ{PlayerName}! Did I see a gray hair in my reflection? Look at my hair. Is any of it gray?!
+)
+Player_000_choice_000_fNo gray hairs.
+/
+Player_000_choice_001_fI see one gray hair.
+.
+Player_000_choice_002_fLots of gray hairs!
+c
+MotherGothel_001_fMOh, what a relief! One must be very careful about one's appearance, you know.
+*
+Player_001_choice_000_fYou look great!
++
+Player_001_choice_001_fHow old are you?
++
+Player_001_choice_002_fI see a wrinkle.
+l
+MotherGothel_009_fVThat's kind of you to say. Of course it's true, but it's still sweet of you to say it.
+[
+MotherGothel_010_fEDidn't anyone ever teach you that it's impolite to ask a woman's age?
+W
+MotherGothel_011_fAAnd I know you'd never be impolite to me. Isn't that right, dear?
+3
+MotherGothel_012_fAHHHH! NO! MY BEAUTIFUL SKIN!
+j
+MotherGothel_013_fTGrrr... I must find Rapunzel quickly. If only she cared about her poor, dear mother.
+5
+Player_002_choice_000_fYou're such a good mother.
+2
+Player_002_choice_001_fYou only want her hair.
+b
+MotherGothel_014_fLI am, aren't I? Why ever would Rapunzel run away? She's terribly ungrateful.
+E
+MotherGothel_015_f/What a horrid thing to say! I love my daughter.
+]
+MotherGothel_016_fGIt's the cruelty of the world that wants to take advantage of her gift.
+<
+MotherGothel_017_f&No. NO! I'm becoming old and withered!
+)
+Player_003_choice_000_fYou look fine.
+B
+Player_003_choice_001_f'There's nothing wrong with getting old.
+
+Player_003_choice_002_fYep.
+2
+MotherGothel_018_fDo I? Well. Perhaps for now.
+T
+MotherGothel_019_f>But this is just the start. After the gray comes the wrinkles.
+6
+MotherGothel_020_f I will NOT lose my youthfulness!
+B
+MotherGothel_021_f,Ha! You're almost as deluded as my daughter.
+
+MotherGothel_022_fiWhen you're old, the world discards you. You become... irrelevant. I WILL stay young, no matter the cost!
+p
+MotherGothel_023_fZSo cruel. When YOU are old, I hope YOU have an unfeeling reprobate who taunts you with it.

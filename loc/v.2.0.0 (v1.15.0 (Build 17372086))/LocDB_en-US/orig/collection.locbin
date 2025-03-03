@@ -1,0 +1,117 @@
+
+!
+area_title_all_areas	All Areas
+1
+area_title_dreamlight_valleyDreamlight Valley
+)
+area_title_eternity_isleEternity Isle
++
+area_title_storybook_valeStorybook Vale
+'
+by_progressingUnlock by progressing
+
+desc_be_friendBe a friend!
+
+harvest_givesHARVEST GIVES:
+"
+hourglass_level_xLevel {level}
+
+label_abilities	ABILITIES
+
+label_all_dayAll day
+"
+label_availabilityAVAILABILITY
+"
+label_availableAvailable today
+ 
+label_entry_pointENTRY POINT
+
+label_grows_in	GROWS IN:
+(
+label_hourglass_levelHOURGLASS LEVEL
+"
+label_locationWHERE TO FIND IT
+
+label_movementMOVEMENT
+$
+label_not_availableNot available
+&
+label_not_here_todayNot here today
+&
+label_play_conditionPLAY CONDITION
+
+label_recipeRECIPE
+*
+label_related_activityRELATED ACTIVITY
+
+label_schedule	Schedule:
+>
+label_tooltip_lock(Unlock this to get more details about it
+(
+label_unavailableNot available today
+*
+label_universeUNIVERSE & HANGOUT BONUS
+6
+label_unlock_at_friendshipUnlock at Friendship lv.
+%
+label_where_to_buyWHERE TO BUY IT
+'
+label_where_to_findWHERE TO FIND IT
+_
+(memory_shards_condition_catchingsnippets3Find exclusive Memory Pieces when catching Snippets
+L
+memory_shards_condition_cooking)Find exclusive Memory Pieces when cooking
+L
+memory_shards_condition_digging)Find exclusive Memory Pieces when digging
+[
+!memory_shards_condition_exploring6Find exclusive Memory Pieces when exploring the Valley
+]
+'memory_shards_condition_feedingcritters2Find exclusive Memory Pieces when feeding critters
+L
+memory_shards_condition_fishing)Find exclusive Memory Pieces when fishing
+P
+!memory_shards_condition_gardening+Find exclusive Memory Pieces when gardening
+J
+memory_shards_condition_mining(Find exclusive Memory Pieces when mining
+`
+(memory_shards_condition_removingblockers4Find exclusive Memory Pieces when removing obstacles
+f
+%memory_shards_condition_removingweeds=Find exclusive Memory Pieces when removing small Night Thorns
+]
+'memory_shards_condition_wateringflowers2Find exclusive Memory Pieces when watering flowers
+
+no_abilitiesNone
+
+or_moreor more
+"
+tab_title_board_game
+Board Game
+"
+tab_title_characters
+Characters
+#
+tab_title_clothingClothing Sets
+
+tab_title_craftingCrafting
+
+tab_title_crittersCritters
+
+tab_title_cropsIngredients
+
+tab_title_fishFish
+
+tab_title_foragingForaging
+%
+tab_title_furnitureFurniture Sets
+.
+tab_title_lorekeeper_talesLorekeeper Tales
+
+tab_title_mealsMeals
+
+tab_title_memoriesMemories
+
+tab_title_mineralsGems
+
+tab_title_snippetsSnippets
+%
+tab_title_time_bendingTimebending

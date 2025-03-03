@@ -1,0 +1,69 @@
+
+B
+Merlin_000_f2Ah, what brings you to see me today, {PlayerName}?
+:
+Merlin_001_f*It's, uhh, a bit of a sensitive situation.
+E
+Merlin_002_f5I could use some magical advice if you have a moment.
+8
+Merlin_003_f(Of course! What seems to be the trouble?
+‘
+Merlin_004_f€I'm trying to help the Beast with some self-improvement. He's got some... let's say, anger issues that he's trying to move past.
+X
+Merlin_005_fHI see... Well, has he tried being a squirrel or a fish for an afternoon?
+Y
+Merlin_006_fIIn my experience, spending time in animal form can be quite illuminating!
+I
+Player_000_choice_000_f.I don't think the Beast would appreciate that.
+&
+Player_000_choice_001_fTempting...
++
+Merlin_007_fHmmm, yes, I suppose not...
+c
+Merlin_008_fSThe Beast knows that he has a good heart. He just needs some help connecting to it.
+ 
+Merlin_009_fAh! Say no more.
+
+Merlin_010_foThere's an enchanted item that might be of use here â€” the <ActivityItem>Mirror of True Seeing</ActivityItem>.
+
+Merlin_011_fGo on...
+|
+Merlin_012_flWhen one looks into the Mirror, it shows one's true self without any perceived illusions or self-deceptions.
+0
+Merlin_013_f So if the Beast looks into it...
+m
+Merlin_014_f]He will see his real inner strength, his compassion. Everything he doubts yet carries within.
+*
+Merlin_015_fPerfect! How do I make it?
+Î
+Merlin_016_f½You'll need a <ActivityItem>Gold Ingot</ActivityItem>, <ActivityItem>Glass</ActivityItem>, <ActivityItem>Purified Night Shards</ActivityItem>, and <ActivityItem>Dream Shards</ActivityItem>.
+<
+Merlin_017_f,I'll get started on that â€” thanks, Merlin!
+4
+Merlin_018_f$So if Mother Gothel looks into it...
+C
+Merlin_019_f3She shall see the part of her that acts so cruelly.
+I
+Merlin_020_f9But I think we're looking for more of an internal change.
+j
+Merlin_021_fZWell, we've been having some issues with Mother Gothel's treatment of the other Villagers.
+O
+Merlin_022_f?She was extremely rude to Belle and quite infuriated the Beast.
+M
+Merlin_023_f=Ahh, you wish to turn her into a frog for a bit? Say no more.
+L
+Merlin_024_f<That's a nice offer, but not exactly what I'm looking for...
+4
+Merlin_025_f$Perhaps a squirrel? Or maybe a fish?
++
+Player_001_choice_000_fVery tempting...
+W
+Player_001_choice_001_f<Nah, I think we'll stay away from transformations for now...
+U
+Merlin_026_fESpending time as an animal always teaches a lesson, in my experience.
+a
+Merlin_027_fQWe need something that will show Mother Gothel exactly the kind of person she is.
+›
+Merlin_028_fŠShe's always so self-assured and arrogant! If she saw herself the way so many others see her, I don't think she'd be so quick to lash out.
+
+Merlin_029_fA pity!

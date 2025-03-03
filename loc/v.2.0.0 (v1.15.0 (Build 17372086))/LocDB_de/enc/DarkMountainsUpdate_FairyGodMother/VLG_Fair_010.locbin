@@ -1,0 +1,59 @@
+
+�
+CVillage!Cinderella!FairyGodMother!VLG_Fair_010_AvailableDescription�Фея-крестная любит жить в Забытых землях, но другие деревенские жители, похоже, не разделяют ее энтузиазма. У нее есть теория, что весь пожар должен винить и заставлять вас помочь ей. Она считает, что Мерлин тоже может помочь.
+]
+:Village!Cinderella!FairyGodMother!VLG_Fair_010_DisplayNameПожарная тревога
+�
+VVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group01_Step01_Listen01_StepDescription?Послушайте "Крёстную фею" и Мерлин.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_010_Group02_Step02_TalkToCharacter01_StepDescription.Поговори с Крёстной Феей.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess01_StepDescription{itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess02_StepDescription{itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess03_StepDescription{itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess04_StepDescription{itemName}.
+f
+WVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_Possess05_StepDescription{itemName}.
+�
+MVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_Step03_StepDescriptionXСоберите материалы для <ActivityItem>Icy Enchantment</ActivityItem>:
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_StoryDescription�Фея-крестная и Мерлин понимают, что только вы можете потушить пожары в забытых землях.
+
+YVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group04_Step04_CraftItem01_StepDescription"Подготовьте {itemName}.
+�
+[Village!Cinderella!FairyGodMother!VLG_Fair_010_Group05_Step05_ConsumeItem01_StepDescription=Используйте {itemName} в вашем списке.
+�
+]Village!Cinderella!FairyGodMother!VLG_Fair_010_Group06_Step06_RemoveBlocker01_StepDescription�Используйте свой Vatering Can, чтобы удалить <ActivityItem> Green Fires</ActivityItem> в забытых землях.
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group06_StoryDescription�Теперь, когда ваш Уотеринг Кэн очарователен, осталось сделать только одну вещь - проверить его на некоторых пожарах в забытых землях.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_010_Group07_Step07_TalkToCharacter02_StepDescription)Доложите Крёстной Феи.
+�
+XVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_Decorate01_StepDescription&<ActivityItem> Seating</ActivityItem>.
+�
+XVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_Decorate02_StepDescription,<ActivityItem>Outdorlighting</ActivityItem>.
+
+XVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_Decorate03_StepDescription#<ActivityItem>Paths</ActivityItem>.
+�
+MVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group08_Step08_StepDescription�Украсить забытые земли, чтобы сделать их более привлекательными, добавив:
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group08_StoryDescription�Крёстная фея считает, что пришло время добавить свет, дороги и места в забытых землях.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_010_Group09_Step09_TalkToCharacter03_StepDescription.Поговори с Крёстной Феей.
+�
+_Village!Cinderella!FairyGodMother!VLG_Fair_010_Group10_Step10_FollowCharacter01_StepDescription0Следуйте за Крёстной Феей.
+�
+aVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group10_Step10_FollowCharacter01_TalkToDescription.Поговори с Крёстной Феей.
+�
+GVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group10_StoryDescription�Теперь Крёстная Фея уверена, что деревенские жители смогут насладиться этим местом, но есть кое-что, что она хочет показать тебе и попросить тебя следовать за ней.
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group03_OngoingRequestButtonC<smallcaps>{title}</smallcaps><br> Что мне еще нужно?
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group05_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+KVillage!Cinderella!FairyGodMother!VLG_Fair_010_Group06_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+r
+AVillage!Cinderella!FairyGodMother!VLG_Fair_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

@@ -1,0 +1,3 @@
+TAG: Mushu_000_f
+You got all the <ActivityItem>Wooden Logs</ActivityItem> we need? Great! Now can you <Lore>build the fence</Lore>?
+

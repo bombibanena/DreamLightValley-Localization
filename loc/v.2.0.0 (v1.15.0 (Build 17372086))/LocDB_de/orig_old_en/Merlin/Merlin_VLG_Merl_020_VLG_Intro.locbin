@@ -1,0 +1,39 @@
+
+f
+Merlin_000_fVAh, {PlayerName}, there you are! I'm conducting a study of the magic in the Village...
+D
+Merlin_001_f4...and I could use your assistance. What do you say?
+)
+Player_000_choice_006_fLet's do this!
+9
+Player_000_choice_007_fSorry, I can't help right now!
+Z
+Merlin_009_fJMarvelous! Now, to assist me, you must first hone your own magical skills.
+:
+Merlin_010_f*Tell me: What do you want most from magic?
+5
+Player_000_choice_003_fTo help Dreamlight Valley.
+3
+Player_000_choice_004_fTo understand it better.
+3
+Player_000_choice_005_fTo become more powerful.
+@
+Merlin_011_f0A noble goal! Very worthwhile to pursue, indeed.
+V
+Merlin_003_fFWe shall begin by gathering <ActivityItem>Dream Shards</ActivityItem>.
+L
+Merlin_004_f<They're a potent material, used to craft many magical items.
+@
+Merlin_005_f0You'll find them trapped inside of Night Thorns.
+L
+Merlin_013_f<That is very wise. Learning how to use magic is one thing...
+Q
+Merlin_014_fA...but it's a far different challenge to understand how it works.
+.
+Merlin_015_fYes, yes... WHAT?! No, no, no!
+0
+Merlin_002_f Power is never an end in itself.
+K
+Merlin_007_f;You must reflect on what you wish TO DO with magical power.
+O
+Merlin_006_f?Very well, but return soon. There's much to learn and discover!

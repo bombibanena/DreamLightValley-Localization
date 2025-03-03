@@ -1,0 +1,61 @@
+
+ß
+<Village!Mickey!Donald!VLG_Dona_010_CompletedStoryDescriptionÊOnce you have fixed Donald's House, you find a mysterious <ActivityItem>Rusty Time Capsule</ActivityItem>. Donald hid everything he needed for a special project around the Village... but now he can't remember where to find it all!
+H
+.Village!Mickey!Donald!VLG_Dona_010_DisplayNameA House Fit for a Duck
+Z
+KVillage!Mickey!Donald!VLG_Dona_010_Group02_Step02_Possess01_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_010_Group02_Step02_Possess03_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_010_Group02_Step02_Possess04_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_010_Group02_Step02_Possess05_StepDescription{ItemName}.
+ô
+AVillage!Mickey!Donald!VLG_Dona_010_Group02_Step02_StepDescriptionTGather the following materials for the <ActivityItem>Boat Repair Kit</ActivityItem>:
+ë
+;Village!Mickey!Donald!VLG_Dona_010_Group02_StoryDescriptionRAfter some convincing, Scrooge McDuck tells you how you can fix up Donald's House.
+X
+?Village!Mickey!Donald!VLG_Dona_010_Group04_OngoingRequestButtonWhat should I do now?
+ê
+KVillage!Mickey!Donald!VLG_Dona_010_Group04_Step04_Upgrade01_StepDescriptionAUse the Scrooge McDuck Sign at Donald's House to get it fixed up.
+ä
+;Village!Mickey!Donald!VLG_Dona_010_Group04_StoryDescriptionKDonald needs some more help from Scrooge McDuck to finish fixing his House.
+ä
+?Village!Mickey!Donald!VLG_Dona_010_Group06_OngoingRequestButtonGWhat should I do with the <ActivityItem>Boat Repair Kit</ActivityItem>?
+Ö
+MVillage!Mickey!Donald!VLG_Dona_010_Group06_Step06_BringItem01_StepDescription4Make sure you have the {ItemName} in your Inventory.
+e
+BVillage!Mickey!Donald!VLG_Dona_010_Group06_Step06_ReadyDescriptionBring the {ItemName} to Donald.
+R
+?Village!Mickey!Donald!VLG_Dona_010_Group07_OngoingRequestButtonWhat about now?
+\
+MVillage!Mickey!Donald!VLG_Dona_010_Group07_Step07_BringItem03_StepDescription{itemName}.
+\
+MVillage!Mickey!Donald!VLG_Dona_010_Group07_Step07_BringItem04_StepDescription{itemName}.
+\
+MVillage!Mickey!Donald!VLG_Dona_010_Group07_Step07_BringItem05_StepDescription{itemName}.
+\
+MVillage!Mickey!Donald!VLG_Dona_010_Group07_Step07_BringItem06_StepDescription{itemName}.
+k
+BVillage!Mickey!Donald!VLG_Dona_010_Group07_Step07_ReadyDescription%Bring what you've gathered to Donald.
+n
+AVillage!Mickey!Donald!VLG_Dona_010_Group07_Step07_StepDescription)Help Donald clean his House by gathering:
+z
+;Village!Mickey!Donald!VLG_Dona_010_Group07_StoryDescription;Donald's House is a mess! He asks you for help cleaning up.
+©
+;Village!Mickey!Donald!VLG_Dona_010_Group08_StoryDescriptionjYou found a strange rusty jar in Donald's House. He asks you to open it for him to find out what's inside.
+V
+?Village!Mickey!Donald!VLG_Dona_010_Group09_OngoingRequestButtonWhat were we doing?
+É
+SVillage!Mickey!Donald!VLG_Dona_010_Group09_Step01_TalkToCharacter01_StepDescription,Talk to Scrooge McDuck about Donald's House.
+®
+;Village!Mickey!Donald!VLG_Dona_010_Group09_StoryDescriptioniDonald needs some help fixing his House. He suggests you talk to Scrooge McDuck to get some better tools.
+R
+?Village!Mickey!Donald!VLG_Dona_010_Group10_OngoingRequestButtonWhat about now?
+y
+MVillage!Mickey!Donald!VLG_Dona_010_Group10_Step10_VisitArea03_StepDescription(Go inside Donald's House to clean it up.
+L
+?Village!Mickey!Donald!VLG_Dona_010_Group11_OngoingRequestButton	What now?
+r
+SVillage!Mickey!Donald!VLG_Dona_010_Group11_Step11_FollowCharacter01_StepDescriptionFollow Donald to his House.

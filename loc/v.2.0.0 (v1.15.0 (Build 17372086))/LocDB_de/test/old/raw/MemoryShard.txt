@@ -1,0 +1,507 @@
+TAG: Diaries!BiomeEntries!Beach001_DescriptionText
+Мне нравится стоять на пляже и смотреть в горизонт и думать о том, что новые друзья могут плыть ко мне, пока я жду.
+
+TAG: Diaries!BiomeEntries!Beach002_DescriptionText
+Иногда я оглядываюсь над океаном и думаю о путешествиях за пределы Долины и могу найти совершенно новый мир.
+
+TAG: Diaries!BiomeEntries!Dark001_DescriptionText
+Каждый раз, когда я хожу, я чувствую себя грустно и холодно внутри, может, мы могли бы украсить его и сделать немного ярче...
+
+TAG: Diaries!BiomeEntries!Forest001_DescriptionText
+Лес полон тайн и жизни, от быстрых, тихих жизней енотов на земле до загруженных птичьих волнений через деревья до совы и дикой кошки, тихо плывущей по тьме.
+
+TAG: Diaries!BiomeEntries!Meadow001_DescriptionText
+Мидоу - это справедливое и спокойное место, полное мягкой травы и приятных ветерков, хорошо для пикника или прогулки.
+
+TAG: Diaries!BiomeEntries!Savannah001_DescriptionText
+"Солнечный плато" сегодня так жарко, что я не забуду держаться подальше от кладбища слонов.
+
+TAG: Diaries!BiomeEntries!Tundra001_DescriptionText
+Сверкающий снег здесь прекрасен, но он такой холодный, я лучше не забуду принести теплое пальто, шляпу и перчатки, когда в следующий раз пойду искать.
+
+TAG: Diaries!BiomeEntries!Urban001_DescriptionText
+Плаза - это сердце Долины Мечты, где все жители Долины собираются вместе, чтобы помогать друг другу, когда это необходимо, и праздновать, когда у нас есть оправдание!
+
+TAG: Diaries!DarkCastle!Entry01_DescriptionText
+Если я собираюсь править этим Темным Замком, мне нужны правильные крылья и подходящая корона...
+
+TAG: Diaries!DarkCastle!Entry02_DescriptionText
+Волшебство вернуло дверь к жизни, как я и надеялся."Дверь"Может, если я её накормлю, она меня пропустит...
+
+TAG: Diaries!DarkCastle!Entry03_DescriptionText
+Никто не придумает, как пробраться через эту дверь.
+
+TAG: Diaries!DarkCastle!Entry04_DescriptionText
+...это всего лишь замок и ключ.
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt01_DescriptionText
+Вазовски, документы, я не спрашиваю снова.
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt02_DescriptionText
+Поговорите с Салли, бумажная работа - это проблема гендиректора.
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt03_DescriptionText
+Тебе все еще нужно сдать свою старую бумажную работу, Вазовски.
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt04_DescriptionText
+Что если все эти бумаги случайно попали в измельчитель двери?
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt05_DescriptionText
+Надеюсь, ты любишь головоломки.
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt06_DescriptionText
+Салли, мы можем бросить мои старые бумаги в дверь в Сибирь?
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt07_DescriptionText
+Нашла твою последнюю записку на этаже Смеха Сибирь не спасет тебя, Вазовски.
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt08_DescriptionText
+Невежливо читать липкие ноты других монстров, Роз!
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt09_DescriptionText
+Ты знаешь, что за то время, когда ты написал все это, ты мог заполучить свой портрет?
+
+TAG: Diaries!Dreamlight!MonsterInc!PostIt10_DescriptionText
+NЕВАR!!!!!!!!!
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!EvePlayer01_DescriptionText
+ЕВА и я обнаружили это странное часовое стекло.
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!EvePlayer02_DescriptionText
+Похоже, "Песочные часы" со временем делают странные вещи, я видел что-то странное, когда использовал их...
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!EvePlayer03_DescriptionText
+Между сканером ЕВА и часовым стеклом мы стали великими охотниками за сокровищами!
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!EvePlayer04_DescriptionText
+Часовое стекло слишком мощное... нельзя допустить, чтобы оно попало не в те руки.
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!EvePlayer05_DescriptionText
+ЕВА согласился сохранить часы в безопасности, пока я не поговорю с Мерлин..
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!Lore01_DescriptionText
+Я заметила эти странные статуи вокруг... интересно, для чего они...
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!Lore02_DescriptionText
+Пахнет солёным морским воздухом, сидит на пляже, наслаждается днем...
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!Lore03_DescriptionText
+Много секретов, которые можно раскрыть здесь... похоже, что я никогда не закончила исследовать...
+
+TAG: Diaries!Expansion01!AtlanteanOutpost!Lore04_DescriptionText
+Эти руины, такие впечатляющие... я чувствую себя такой маленькой, когда хожу по ним.
+
+TAG: Diaries!Expansion01!Desert!Desert01_DescriptionText
+...проиграл... я начну натирать коробку на случай, если начну терять память.
+
+TAG: Diaries!Expansion01!Desert!Desert02_DescriptionText
+...что он сделал это?!!!!!!
+
+TAG: Diaries!Expansion01!Desert!Desert03_DescriptionText
+Не могу поверить, что мне нужны книги Гастон dost!
+
+TAG: Diaries!Expansion01!Desert!Desert04_DescriptionText
+Похоже, что они застряли... никто не манипулирует природой, как я!
+
+TAG: Diaries!Expansion01!Desert!Desert05_DescriptionText
+...но... невероятные музы уходят прочь! Мне нужно приготовить кое-какие подтяжки из кокосов?
+
+TAG: Diaries!Expansion01!Desert!Desert06_DescriptionText
+В одиночестве есть что-то приятное, что никто не едит слишком много яиц, не оставляет в покое бокслера!
+
+TAG: Diaries!Expansion01!Desert!Desert07_DescriptionText
+Я мисс Лефу... мило, что он говорит мне, что лучше всего.
+
+TAG: Diaries!Expansion01!Desert!Desert08_DescriptionText
+...и застрял здесь без Лефу, ... не остановит меня... лучший правитель Гастонia!
+
+TAG: Diaries!Expansion01!Desert!Desert09_DescriptionText
+Я надеюсь, что я не опустошил один из них.
+
+TAG: Diaries!Expansion01!Desert!Desert10_DescriptionText
+Иногда я больше всего слышу звон ЛеФу... не скучай по нему так сильно? Гастон, скучаю по кому-то?! Никогда! Он не должен быть там!
+
+TAG: Diaries!Expansion01!Desert!Desert11_DescriptionText
+Я искал ЛеФу, не нашел... глупую маленькую потерянную штуковину! Я сделал... вспышку белого в небе. Что это могло быть?
+
+TAG: Diaries!Expansion01!Desert!Desert12_DescriptionText
+Мне так скучно. Я даже... дерево читало книгу, я думаю.
+
+TAG: Diaries!Expansion01!Desert!Desert13_DescriptionText
+Лефу вернулся!
+
+TAG: Diaries!Expansion01!Desert!Desert14_DescriptionText
+ЛеФу... приспособился к Гастонia. Я стараюсь быть внимательным, рыться в кокосах с тревожной скоростью.
+
+TAG: Diaries!Expansion01!Desert!Desert15_DescriptionText
+Как король Гастонia... Грейшус правитель, нет? Может быть, я должен вознаградить ЛеФу... так преданно.
+
+TAG: Diaries!Expansion01!Desert!Desert16_DescriptionText
+Я чувствую, что проснулась от дрима... нашла большую кучу кокосовых шкур.
+
+TAG: Diaries!Expansion01!Desert!Desert17_DescriptionText
+...приветствую короля Гастон Гастонia! Всё... здесь чисто, дерзко с ЛеФу. ...Может мне сделать его моим сквиром или, возможно, герцогом?
+
+TAG: Diaries!Expansion01!JafarJournals!JafarJournal01_DescriptionText
+Удивительные древние устройства на этом острове, у меня есть множество идей, что я создам вместе с ними.
+
+TAG: Diaries!Expansion01!JafarJournals!JafarJournal02_DescriptionText
+Сила джинна дрожит рядом с этими Машинами, сначала дворец, а теперь Пещера с таким трудом...
+
+TAG: Diaries!Expansion01!JafarJournals!JafarJournal03_DescriptionText
+Если это будет моя пещера Чудес, то только магия моего уважения к кобре откроет путь.
+
+TAG: Diaries!Expansion01!JafarJournals!JafarJournal04_DescriptionText
+Безразличие, взломщики утонут здесь в полной безысходности!
+
+TAG: Diaries!Expansion01!JafarJournals!JafarJournal05_DescriptionText
+Путь сломан, и древняя сила больше не может течь, никто не раскроет секрет этой комнаты.
+
+TAG: Diaries!Expansion01!JafarJournals!JafarJournal06_DescriptionText
+Жемчужина будет в безопасности до тех пор, пока не придёт время реализовать мои планы.
+
+TAG: Diaries!Expansion01!JafarJournals!JafarJournal07_DescriptionText
+Здесь почти слишком тихо без Яго...
+
+TAG: Diaries!Expansion01!Jungle!Jungle01_DescriptionText
+У моей матери было моё доверие<br>but, что доверие может исчезнуть<br>Out в этом большом мире<br> Как мне продолжать?<br>Somehow"одинокие и свободные"<br>Feels как совершенно новый рассвет<br> Что теперь может быть моей жизнью?
+
+TAG: Diaries!Expansion01!Jungle!Jungle02_DescriptionText
+Иногда вы наивны<br>Иногда вы не<br> Вы меняете так легко<br><s>I хочется быть как</s><br><i>No, что не рифмуется.</i>
+
+TAG: Diaries!Expansion01!Jungle!Jungle03_DescriptionText
+Я так испугался всего этого<br>, что просто не мог увидеть<br> Как она пыталась скрыть мир от меня<br> и хотя я все еще скучаю по ней<br>I думаю возможно<br><i>Something, что-то, что-то</i><br>
+
+TAG: Diaries!Expansion01!Jungle!Jungle04_DescriptionText
+"Я знаю лучше"<br> Это то, что она сказала<br>Spent так долго с ее словами в моей голове<br>Shoud ли я должен слушать мое сердце вместо этого?
+
+TAG: Diaries!Expansion01!Jungle!Jungle05_DescriptionText
+Между<br>Tambourine<br>Lean<br>Green<br>Seen<br>Bean<br>Mean<br>Quin<br>Clean<br>Routine<br><br>0 Почему так трудно рифмуться с его именем? Это глупо<br>1
+
+TAG: Diaries!Expansion01!Jungle!Jungle06_DescriptionText
+Я люблю траву под моими ногами<br> и запах цветов так угощаю<br>I никогда не вернётся<br>I никогда не скажет"поражение"
+
+TAG: Diaries!Expansion01!Jungle!Jungle07_DescriptionText
+Возможно, вы думаете, что я плохая дочь<br>I, возможно, нарушила ваши правила <s>heart</s><br> но теперь я бегу как вода
+
+TAG: Diaries!Expansion01!Jungle!Jungle08_DescriptionText
+Она беспокоится обо мне?
+
+TAG: Diaries!Expansion01!Jungle!Jungle09_DescriptionText
+Солнце кормит все<br> Включая меня<br>Out в мире, я тоже расцвела<br>
+
+TAG: Diaries!Expansion01!Jungle!Jungle10_DescriptionText
+Если бы Матушка Готель увидела меня сейчас<br>Wo если бы она поняла?<br>I лучше бы здесь как-то<br><s>Both на твердой земле</s>
+
+TAG: Diaries!Expansion01!Jungle!Jungle11_DescriptionText
+Я хожу по джунглям с легкостью<br>I чувствую себя дома один под деревьями<br> В мире я нахожу свой путь<br> Но внутри, я чувствую себя потерянным сегодня<br>Матушка Готель
+
+TAG: Diaries!Expansion01!Jungle!Jungle12_DescriptionText
+Я начинаю!<br>Out здесь один<br>I убегает на свободу<br> Небо, Солнце, светит на меня
+
+TAG: Diaries!Expansion01!Jungle!Jungle13_DescriptionText
+Я должен был пойти<br>What ошибаться, чувствовал себя правильно<br>I не боюсь, ходя по ночам<br>I найдёт мои краски<br>I найдёт мой свет<br> Это все, что моя жизнь сейчас
+
+TAG: Diaries!Expansion01!Jungle!Jungle14_DescriptionText
+С двумя ступнями на земле<br> Башня выглядит такой высокой<br> Как она была такой высокой<br>Make я чувствую себя такой маленькой?
+
+TAG: Diaries!Expansion01!Jungle!Jungle15_DescriptionText
+Похоже, они так уверены в том, что они делают?<br>I хотел бы, чтобы мой путь был ясным.
+
+TAG: Diaries!Expansion01!Jungle!Jungle16_DescriptionText
+Золотое и сладкое<br>A тропическая обработка<br><s>Better чем тонкий яблок</s>
+
+TAG: Diaries!Expansion01!Jungle!Jungle17_DescriptionText
+Дневная падающая звезда<br>A Белая синяя полоса по небу<br><br>Where?<br> Где ты?<br>Who?<br><br> Почему?
+
+TAG: Diaries!Expansion01!Jungle!Jungle18_DescriptionText
+Мои мечты сбываются<br>Beneath свет<br> Водные блемы<br> Лучшие ночи<br>Was Я ошибаюсь насчет него? Матушка Готель был ли он прав?
+
+TAG: Diaries!Expansion01!Jungle!Jungle19_DescriptionText
+Если бы Матушка Готель увидела меня сейчас<br> Что бы она увидела?<br> Что ее сердце может позволить?<br>W если бы она наконец узнала меня?
+
+TAG: Diaries!Expansion01!Jungle!Jungle20_DescriptionText
+Я люблю солнце<br>I, люблю ветер, поющий листья<br>I, обожаю смеяться над водой<br>I, люблю танцевать в ручьях.
+
+TAG: Diaries!Expansion01!Jungle!Jungle21_DescriptionText
+Мир такой большой<br> И я такой маленький<br>Up такой высокий, но не боюсь падать<br>Теперь я на земле<br> И я стою высокий<br> Какова может быть моя жизнь сейчас?
+
+TAG: Diaries!Expansion02!AuroraJournals!AuroraJournal01_DescriptionText
+Мы больше не можем видеть долину внизу... что они могли сделать?
+
+TAG: Diaries!Expansion02!AuroraJournals!AuroraJournal02_DescriptionText
+Флин,<br><br>T Спасибо, что предупредили меня о Малефисента. Вы сказали, что она пыталась заставить вас помочь ей, но откуда мне знать, что это не уловка?
+
+TAG: Diaries!Expansion02!AuroraJournals!AuroraJournal03_DescriptionText
+Флин,<br><br>Oh, надеюсь, вы получите это вовремя! Я просто должен поблагодарить вас. Наш план увенчался успехом! Малефисента думал, что вы ей поможете. Так что из-за вас я смог проникнуть в ее замок и спрятаться в безопасности. Ты настоящий герой Флин Всадник.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal01_DescriptionText
+Каждый раз, когда я навещаю Лоревера, я чувствую, что ее страницы полны секретов, которые она скрывает от всех нас, может быть, она пытается защитить нас от несчастных концов?
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal02_DescriptionText
+Я не могу найти сеть моих теток, хороших фей, которые говорят, что они спрятались, возможно, она предназначена не для меня, а для кого-то другого...
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal03_DescriptionText
+Тётя Флора называет это"Небытие"потому что это развращение истории магии со стороны как Малефисента, так и Аид.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal04_DescriptionText
+...мои тетки говорят, что как и природа, Story Magic могущественна и должна быть в равновесии.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal05_DescriptionText
+Сказал, что его зовут Флин Всадник, сначала я испугался, когда наткнулся на него, но он тоже видит угрозу для Вале...
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal06_DescriptionText
+Малефисента обнаружило мое присутствие здесь, я знаю, что мне нужно бежать, но вместо этого мы прячемся и задумаемся помешать ей.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal07_DescriptionText
+...это место старше, чем сами истории в самом сердце Долины, наши ответы на вопрос о том, как остановить Тёмную Магию, могут быть там.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal08_DescriptionText
+Аид и Малефисента погрузили Вале в темноту и путаницу.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal09_DescriptionText
+Проклятие Малефисента заставило Флин поверить, что он какой-то зверь! Единственный способ спасти его - это оставаться терпеливым на моем пути. Он преданный друг, поэтому я должен спасти его.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal10_DescriptionText
+Я не сомневаюсь, что они были сломаны в спорах между Аид и Малефисента.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal11_DescriptionText
+Странные чернила и пузыри вверх по земле, что-то ужасно не так в этом месте.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal12_DescriptionText
+Я должен найти способ связаться с тетями, они знают, что делать.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal13_DescriptionText
+Это место когда-то было наполнено радостью и повествованием с тех пор, как его украли, оно сильно изменилось...
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal14_DescriptionText
+Костюмы из доспехов стоят на часах, но над чем? И кого они охраняют?
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal15_DescriptionText
+Флин рассказал мне историю из его юности о рыцаре, который отошел назад в битву, чтобы запутать своего оппонента.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal16_DescriptionText
+Я спросил Лорезера, как добраться до сердца Вейли, но она очень расстроилась, она сказала, что для кого-то слишком опасно даже слышать о... о, я надеюсь, что я не драил ее страницы, бедняжка.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal17_DescriptionText
+Никто не может помочь нам переписать нашу историю?
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal18_DescriptionText
+Тётя Фауна сказала, что ягоды кислые, но не ядовитые.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal19_DescriptionText
+Сегодня я нашел сообщение от тети, я почти плакал, зная, что она и остальные в безопасности, как хорошо, что они продолжают направлять меня, даже если мы расстаемся.
+
+TAG: Diaries!Expansion02!AuroraJournals!Everafter!AuroraJournal20_DescriptionText
+Я чувствую опасность даже ходить по Маршам под тенью замка Малефисента. Это наполняет мое сердце страхом, но мои тетки говорят мне, что я намного храбрее, чем я думаю. Я надеюсь показать им, что они правы.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal01_DescriptionText
+Я беспокоюсь, что если всё не уладится со Сказочной Магией, вся Долина может быть в опасности.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal02_DescriptionText
+Если кто-то найдет это, знайте, что ключ к спасению Вале...
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal03_DescriptionText
+Я думал спрятаться в Мифопии, но один взгляд на его гнев и я знал, что это не безопасно.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal04_DescriptionText
+Я никогда не видел ничего подобного.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal05_DescriptionText
+Я скучаю по своим тетям, хорошим феям, я бы хотел, чтобы они наставили меня на прямой путь.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal06_DescriptionText
+Надеюсь, я не неправильно понял их направления и не потерялся.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal07_DescriptionText
+Маленькие крылатые лошади - это что-то из сна.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal08_DescriptionText
+Мы с Флин сегодня устроили пикник на Филдс, несмотря на опасность и ссоры, приятно знать, что я нашёл хорошего друга.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal09_DescriptionText
+Хорошие феи рассчитывают на меня, как и Флин и Мерида.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal10_DescriptionText
+Она специально не сказала мне правду или просто потеряла след из книг в своих обширных архивах?
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal11_DescriptionText
+Эта чудовищная статуя нависает над всеми нами, и стоит задуматься о том, насколько важен тот, кто строит себе статуи...
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal12_DescriptionText
+Олимп смотрит на нас свысока в облаках, это место, которым я рад восхищаться издалека... славный дворец на небе.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal13_DescriptionText
+Мир между Малефисента и Аид нарушен.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal14_DescriptionText
+Флин Всадник и Мерида попросили меня не ехать, я хотел ускользнуть, но все пошло не так...
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal15_DescriptionText
+...нет выбора, кроме как пойти в Неписаные владения, чтобы найти способ спасти Вену, хотя это может быть опасно, я должен это сделать.
+
+TAG: Diaries!Expansion02!AuroraJournals!Mythopia!AuroraJournal16_DescriptionText
+Мерида сказал, что все это началось, потому что Аид и Малефисента не были приглашены в совет. Малефисента всегда совершала ужасные вещи, когда ее исключали.
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal02_DescriptionText
+Каждый из них изменил свою роль, чтобы соответствовать самому себе, только Бинд не прикасается, может быть, они боятся Лоремена...
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal03_DescriptionText
+...от моих друзей, моих дорогих теток, всех... хотя мои тети, хорошие феи, использовали свою магию, чтобы послать мне сообщения, они пытаются найти способ помочь.
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal04_DescriptionText
+В то время как Малефисента и Аид ладят, Вале мирно, но... изменилась.
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal05_DescriptionText
+Тётя Флора, тетя Фауна и тетя Мерривезер говорят, что есть только один способ остановить Небытие.
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal06_DescriptionText
+...сказал, что волшебство историй лежит в том, как они открывают наши сердца к тому, что правда.
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal07_DescriptionText
+Здесь есть искусный стрелок с славными рыжими волосами, она делает невозможное возможным и дает мне надежду.
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal08_DescriptionText
+Если Малефисента узнает о моем присутствии здесь, это может поставить под угрозу всех нас, но мои тёти говорят, что я должен добраться до замка Малефисента...
+
+TAG: Diaries!Expansion02!AuroraJournals!TheBind!AuroraJournal09_DescriptionText
+...эти странные, бумажные птицы такие очаровательные, я бы хотел, чтобы они пели со мной.
+
+TAG: Diaries!Expansion02!MeridaJournals!MeridaJournal01_DescriptionText
+Я попросил своего близкого друга и союзника в долине Мечты спрятать первую подсказку где ее никто не найдет она жестокий воин с посохом боя я знаю, что могу доверять ей
+
+TAG: Diaries!Expansion02!MeridaJournals!MeridaJournal02_DescriptionText
+Я оставил следующую подсказку, где Волк пьет чай.
+
+TAG: Diaries!Expansion02!MeridaJournals!MeridaJournal03_DescriptionText
+Найди свое место в мире под оком бдительной матери.
+
+TAG: Diaries!PreForgettingEntries!Arendelle001_DescriptionText
+Это замок, где живет Эльза. Нет, подождите, это неправильно. Там живет только ее сестра. Энни? Анджела? Почему я не могу вспомнить ее имя?
+
+TAG: Diaries!PreForgettingEntries!Generic001_DescriptionText
+Конечно, я люблю Долину, но в последнее время я так отвлекаюсь, и мне нужно много других вещей...
+
+TAG: Diaries!PreForgettingEntries!Generic002_DescriptionText
+...я клянусь, где-то поблизости был дом, которому он принадлежал, он был одним из моих друзей, как я мог...
+
+TAG: Diaries!SecretChamber!Entry02_DescriptionText
+Я пытаюсь подружиться с деревенскими, но это как будто между нами что-то разбито внутри меня...
+
+TAG: Diaries!SecretChamber!Entry03_DescriptionText
+Я кое-что здесь оставила, что-то, что мне нужно, я знаю, что это где-то здесь, чтобы снести стену...
+
+TAG: Diaries!SecretChamber!Entry04_DescriptionText
+Ничего не работает, должно быть, магия Полюса остановила меня.
+
+TAG: Diaries!SecretChamber!Entry05_DescriptionText
+Я должен вырвать Сферу, чтобы наложить заклинание.
+
+TAG: Diaries!SecretChamber!Entry06_DescriptionText
+Заклинание... оно пошло не так, нужно найти где-то еще, где-нибудь потише.
+
+TAG: Diaries!SecretChamberEntry01_DescriptionText
+Только когда свет горит, я понимаю, что моя жизнь темная.
+
+TAG: Diaries!VillageEntries!Atlantis001_DescriptionText
+Я выучил новый язык... очень простой для изучения, и вы можете так быстро выразить сложные идеи.
+
+TAG: Diaries!VillageEntries!Donald001_DescriptionText
+Дональд Дак - исследователь в душе, когда моряк, всегда... иногда я боюсь, что он зайдет слишком далеко и попадет в неприятности, но я полагаю, что если он это сделает, мне придётся пойти и найти его.
+
+TAG: Diaries!VillageEntries!Garden001_DescriptionText
+Я всегда думал, что это хорошее место для сада.
+
+TAG: Diaries!VillageEntries!Goofy001_DescriptionText
+У него всегда есть доброе слово и такие глупые идеи, но он имеет в виду так хорошо, и когда он смеется, я не могу не улыбаться.
+
+TAG: Diaries!VillageEntries!IceCavern001_DescriptionText
+Есть секреты, которые можно найти в этой пещере льда, я чувствую их, если бы я только знал кого-то, кто мог бы формировать лед и снег...
+
+TAG: Diaries!VillageEntries!Maui001_DescriptionText
+Он не стесняется петь свои собственные хвалы, но, ну, он не ошибается.
+
+TAG: Diaries!VillageEntries!Merlin001_DescriptionText
+Я всегда консультируюсь с Мерлин, когда принимаю важные решения.
+
+TAG: Diaries!VillageEntries!Mickey001_DescriptionText
+Так хорошо смотреть Микки Маус и Минни Маус вместе. Любовь сияет от их лиц, когда они смотрят друг на друга. Чаще всего. Иногда они спорят, но я полагаю, что это тоже часть любви.
+
+TAG: Diaries!VillageEntries!Mickey002_DescriptionText
+На хорошем фронте, но я могу сказать, что он совершенно разбит. Минни Маус была его второй половиной. Теперь, когда она исчезла, я не знаю, как долго это продлится до...
+
+TAG: Diaries!VillageEntries!Minnie001_DescriptionText
+...это был идеальный день для пикника, и Минни Маус сказала, что она только что сделала шоколадное печенье, что мы могли бы... свежий хлеб и несколько яблок из сада и Микки Маус и я отправились в...
+
+TAG: Diaries!VillageEntries!Rapunzel001_DescriptionText
+Я беспокоюсь о Рапунцель. Матушка Готель ведет себя как хорошая мать, но она так контролирует! Рапунцель нуждается в пространстве, чтобы стать ее собственной личностью. По крайней мере, в какое-то время из башни!
+
+TAG: Diaries!VillageEntries!Restaurant001_DescriptionText
+У меня была самая потрясающая еда в Реми, она превзошла себя меню, он говорит о расширении... посуды, основанной на различных частях долины...
+
+TAG: Diaries!VillageEntries!Scar001_DescriptionText
+Примечание к себе: В этой пещере очень горький лев.
+
+TAG: Diaries!VillageEntries!Scrooge001_DescriptionText
+...убедил знаменитого Скрудж Макдак открыть бизнес в нашей деревне.
+
+TAG: Diaries!VillageEntries!ScroogeShop001_DescriptionText
+Скрудж Макдак не может на всю жизнь понять, почему Стал Гуфи более выгоден Гуфи начал пытаться помочь, и это происходит так же смешно, как помощь Гуфи всегда.
+
+TAG: Diaries!VillageEntries!Timon001_DescriptionText
+Я сказал Тимон, что предпочитаю хлеб или бананы, но он настаивает, что если я попробую жука, то увижу это...
+
+TAG: Diaries!VillageEntries!Ursula001_DescriptionText
+Урсула переехала на пляж. Мерлин обеспокоен, но я думаю, что это хорошо. Как гласит старая поговорка: держать своих друзей близко, и своих опасных сообщников морской ведьмы в близлежащих пещерах, где вы можете наблюдать за ними.
+
+TAG: Diaries!VillageEntries!Walle001_DescriptionText
+ВАЛЛ·И трудно понять, но это стоит усилий. У этого маленького робота большое сердце."Ууууууууууууууу"и"Ааааа"!
+
+TAG: Diaries!VillainEntries!Loneliness001_DescriptionText
+Одиночество в безопасности, если я один, то никто больше не может меня бросить.
+
+TAG: Diaries!VillainEntries!Loneliness002_DescriptionText
+Я чувствую, что внутри меня есть дыра нет, я чувствую, что я в основном дыра, с небольшим количеством человека, которым я когда-то был я достаточно человек, чтобы чувствовать себя одинокой
+
+TAG: Diaries!VillainEntries!Loneliness003_DescriptionText
+Одиночество острое, оно резает меня, как стекло в пальцах, но это гораздо хуже, чем разбитое стекло, потому что я его не вижу или избегаю.
+
+TAG: Diaries!VillainEntries!Loneliness004_DescriptionText
+Одиночество холодно, мой разум онемеет от одиночества, мои мысли вялы и скучны, я думаю, я мог бы согреться, если бы мог поговорить с кем-то, но здесь никого нет.
+
+TAG: Diaries!VillainEntries!NightThorns001_DescriptionText
+Я заснул под деревом, когда проснулся, не мог двигаться, пурпурная виноградная лоза росла вокруг меня и над мной, колючки их порезали меня, но они не могли порезать меня так болезненно, как одиночество, и я вытащил себя на свободу.
+
+TAG: Diaries!VillainEntries!Sleepless001_DescriptionText
+Я не могу уснуть, виноградные лозы будут расти вокруг меня, когда я буду ходить, они будут расти по моим стопам.
+
+TAG: Diaries!VLG_Bell_DescriptionText
+Псалмопевец Древних... все точки... скрытые... остров вдали... я надеюсь... найду его снова...
+
+TAG: DreamlightValley!Diary!VLG_Wood_040_CarouselDiary_DescriptionText
+... игрушечная грудная клетка, полная детских запоминаний от деревенских жителей... даёт свет Каруселя... любит видеть магию Мерлин на работе...
+
+TAG: DreamlightValley!Diary01_DescriptionText
+...время на исходе. ...что бы я ни делал, я должен защищать Мерлин будет знать... как...
+
+TAG: DreamlightValley!Expansion01!MRQS_E01_120_TimeStoneLost_DescriptionText
+Матушка Готель хочет экспериментировать с Жемчужиной Времени.
+
+TAG: DreamlightValley!Expansion01!VLG_Mush_020_RorschachTestPlayer_DescriptionText
+Что ты видишь?
+
+TAG: DreamlightValley!VLG_Pumb_030_MemoryShard_Image_DescriptionText
+Это указывает на различные части долины, где упали метеоритные осколки.
+
+TAG: DreamlightValley!VLG_Remy_050_Menu_MemoryShard_DescriptionText
+Таинственное меню, которое Реми нашли в подвале его ресторана.
+
+TAG: DreamlightValley!VLG_Timo_020_DiaryMG_DescriptionText
+Розы красные, золото подсолнечника, с этими волшебными словами, я никогда не состарюсь.
+
+TAG: DreamlightValley!VLG_Timo_020_DiaryScar_DescriptionText
+План, находящийся сейчас в движении, я звал напрасно, любимое солнце заходит, через гром, я буду править.
+
+TAG: DreamlightValley!VLG_Timo_020_DiaryUrsula_DescriptionText
+И они задаются вопросом о секретах, которые я сохраню?
+

@@ -1,0 +1,72 @@
+TAG: FairyGodMother_001_f
+Goodness, what did you find in the Forgotten's second Memory?
+
+TAG: FairyGodMother_002_f
+You look as if you've seen a ghost.
+
+TAG: Player_000_f
+Not a ghost. Just a Gothel...
+
+TAG: Player_000_choice_000_f
+She betrayed the Forgotten.
+
+TAG: Player_000_choice_001_f
+She showed the Forgotten how to be cruel.
+
+TAG: Player_000_choice_002_f
+She led the Forgotten down a bad path.
+
+TAG: FairyGodMother_003_f
+The Forgotten trusted her and she... she tried to do something horrible.
+
+TAG: FairyGodMother_007_f
+Oh, I'm so sorry, dear. When we feel alone, that's often when we're most vulnerable.
+
+TAG: FairyGodMother_010_f
+Now, I don't know if this brings us any closer to saving the Valley. But perhaps now you understand the Forgotten a bit better...
+
+TAG: Player_001_choice_000_f
+The Forgotten's pain is becoming so real to me.
+
+TAG: Player_001_choice_001_f
+I don't think I'll ever understand.
+
+TAG: FairyGodMother_011_f
+How could the Forgotten ever trust anyone again after what Mother Gothel did?
+
+TAG: FairyGodMother_012_f
+Once all this is over... I'm going to need to have a little talk with her.
+
+TAG: FairyGodMother_018_f
+Trust is fragile, dear. We must beware. Once broken, it's difficult to repair.
+
+TAG: FairyGodMother_015_f
+Now then, I'm afraid we still don't have all the answers we need.
+
+TAG: FairyGodMother_017_f
+But perhaps we'll find them through this final gate. <Lore>Follow me</Lore>.
+
+TAG: FairyGodMother_013_f
+The Forgotten never should have fallen for Mother Gothel's trick in the first place.
+
+TAG: FairyGodMother_014_f
+Nothing excuses all the destruction they caused around here.
+
+TAG: FairyGodMother_016_f
+Perhaps not. But we must always have compassion for those who are hurting.
+
+TAG: FairyGodMother_004_f
+The Forgotten learned a horrible lesson from her.
+
+TAG: FairyGodMother_005_f
+How to be selfish and use people for your own ends.
+
+TAG: FairyGodMother_008_f
+Oh dear. I'm afraid that sometimes when we're hurt... it can be rather easy to turn that hurt towards others.
+
+TAG: FairyGodMother_006_f
+She showed the Forgotten how to remove the Orbs from the Pillars. That's how the Forgotten learned about all of that.
+
+TAG: FairyGodMother_009_f
+Of course... it's when we feel most alone that we behave rashly, trying to find any possible way to extinguish our unhappiness.
+

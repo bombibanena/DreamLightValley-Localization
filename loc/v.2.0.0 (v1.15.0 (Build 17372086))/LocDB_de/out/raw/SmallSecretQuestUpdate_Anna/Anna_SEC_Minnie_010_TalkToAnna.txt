@@ -1,0 +1,51 @@
+TAG: Anna_000_f
+Uh-oh. You have that look on your face, {PlayerName}.
+
+TAG: Anna_001_f
+That "I have something strange and possibly magical to ask you about, so don't ask too many follow-up questions" look.
+
+TAG: Player_000_choice_000_f
+Bingo.
+
+TAG: Player_000_choice_001_f
+It's definitely magical, but only a little bit strange.
+
+TAG: Player_000_choice_002_f
+I didn't realize that was a look I had...
+
+TAG: Anna_002_f
+Ha! I knew it.
+
+TAG: Anna_011_f
+That was perfect, Anna. Thanks for your help.
+
+TAG: Anna_003_f
+Well, let's hear it. How can I help?
+
+TAG: Anna_004_f
+It's simple. Just tell me what you like best about Minnie.
+
+TAG: Anna_005_f
+What I like best about Minnie...? Oh. Hmm...
+
+TAG: Anna_006_f
+That's a tough one. There's so much to like. To love, really!
+
+TAG: Anna_007_f
+I guess if I have to narrow it down, I'd say that what I like best about Minnie is how she always makes me smile.
+
+TAG: Anna_008_f
+She's so kind, but also SO funny. She always notices the little things around here.
+
+TAG: Anna_009_f
+She makes me laugh almost as much as Olaf does!
+
+TAG: Anna_010_f
+Did that help...?
+
+TAG: Anna_012_f
+Ooh, so close!
+
+TAG: Anna_013_f
+Oh, definitely. It's kind of like the look I get on my face when I'm on a search for chocolate.
+

@@ -1,0 +1,48 @@
+TAG: Moana_000_f
+Hey, {PlayerName}. What's that <Lore>Stone Slab</Lore> for?
+
+TAG: Moana_007_f
+Well, I have sort of a weird question to ask you.
+
+TAG: Moana_006_f
+Sure. What is it?
+
+TAG: Moana_010_f
+I need you to hold on to that <ActivityItem>Stone Slab</ActivityItem> and tell me how you feel when you go sailing on the ocean.
+
+TAG: Moana_011_f
+Okay. That's a little strange, but I always love to talk about sailing.
+
+TAG: Moana_001_f
+When I'm out on the ocean with the salt air whipping around me and the wind in my sails, headed for the horizon, I know I'm where I belong.
+
+TAG: Moana_002_f
+It's the greatest feeling in the world!
+
+TAG: Player_001_f
+The way you describe it... it sounds so...
+
+TAG: Player_001_choice_000_f
+...amazing! I want to go sailing.
+
+TAG: Player_001_choice_001_f
+...scary! I'll stick to dry land.
+
+TAG: Moana_012_f
+I'm sure you'd love it.
+
+TAG: Moana_014_f
+Hey... that <ActivityItem>Stone Slab</ActivityItem> you gave me... It's starting to glow. Does that mean I helped?
+
+TAG: Moana_015_f
+Yes! It worked! Now I just need to find somebody who's got <Lore>Seething Anger</Lore>...
+
+TAG: Moana_004_f
+<Lore>Seething Anger</Lore>? Well, Ursula gets pretty mad if you mention Ariel around her.
+
+TAG: Moana_016_f
+Ursula! That's a great idea.
+
+TAG: Moana_013_f
+It can be at first, but once you know what you're doing, it's fantastic!
+

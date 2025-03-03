@@ -1,0 +1,47 @@
+
+=
+Simba_000_f.Nala told me that something was bothering you.
+§
+Simba_002_f—Oh... yeah, I guess it is. Everything that happened with the hyenas... well, it just brought back a lot of memories, and now I'm feeling a little lost.
+Š
+Simba_013_f{My friend Rafiki likes to bop me on the head with his walking stick when I get like this. Just to knock some sense into me.
+2
+Simba_014_f#I wish he were here to do that now.
+5
+Player_000_choice_000_fAnything I can do to help?
+9
+Player_000_choice_001_fI'm a good listener, you know.
+D
+Player_000_choice_002_f)Want me to bop you over the head instead?
++
+Simba_003_fYou've helped a lot already.
+J
+Simba_004_f;But I don't know if you're gonna be able to help with this.
+<
+Simba_006_f-I just keep thinking about my father, Mufasa.
+^
+Simba_007_fOI'm pretty new at being king. There are so many decisions. So much is at stake.
+H
+Simba_008_f9I wish my father were here to help me and give me advice.
+,
+Player_001_choice_000_fI'm sorry, Simba.
+7
+Player_001_choice_001_fI wish I could do something.
+Y
+Player_001_choice_003_f>Maybe I can give you advice instead! I'm a great advice-giver.
++
+Simba_009_fHe told me something once...
+!
+Simba_010_fSomething aboutâ€”
+F
+Simba_011_f7Hey, why don't I just show you? <Lore>Follow me!</Lore>
+q
+Simba_012_fbI'm sure you'd have lots of good advice, but it wouldn't be the same as hearing it from my father.
+Q
+Simba_001_fBI'll bet you are. You've done so much to help Nala and me already.
+D
+Simba_005_f5But I don't know if talking about this is gonna help.
+C
+Simba_015_f4No, that's okay. It's kind of a me and Rafiki thing.
+4
+Simba_016_f%But I appreciate you wanting to help.

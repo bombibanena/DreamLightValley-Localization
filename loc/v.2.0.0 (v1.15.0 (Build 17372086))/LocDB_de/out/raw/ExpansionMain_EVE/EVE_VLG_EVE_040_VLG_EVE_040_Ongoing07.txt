@@ -1,0 +1,6 @@
+TAG: EVE_000_f
+Directive?
+
+TAG: EVE_001_f
+I need to gather <ActivityItem>Dream Shards</ActivityItem> and <ActivityItem>Red Pitcher Plants</ActivityItem>.
+

@@ -1,0 +1,24 @@
+TAG: Mushu_000_f
+Hey, {PlayerName}! What's up?
+
+TAG: Mushu_001_f
+Well... Flynn and I are putting together a team.
+
+TAG: Mushu_002_f
+I'm listening...
+
+TAG: Mushu_003_f
+We need someone who can make fire, an expert in flame, a master of the inferno!
+
+TAG: Mushu_007_f
+Know anyone who might fit that description?
+
+TAG: Mushu_004_f
+Ha! Like you need to ask. You most definitely came to the right dragon.
+
+TAG: Mushu_005_f
+I'll join your team!
+
+TAG: Mushu_006_f
+Excellent! If you go meet up with Flynn, I can come find you once I'm done recruiting the rest of the team.
+

@@ -1,0 +1,3 @@
+TAG: Jasmine_000_f
+We need to gather <ActivityItem>Sand</ActivityItem>, <ActivityItem>Clay</ActivityItem>, and <ActivityItem>Seaweed</ActivityItem> to make a <Lore>Winning Sandcastle</Lore> for our sandcastle competition.
+

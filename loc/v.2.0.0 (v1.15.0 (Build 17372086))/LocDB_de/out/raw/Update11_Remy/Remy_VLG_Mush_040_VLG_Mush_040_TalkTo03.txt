@@ -1,0 +1,12 @@
+TAG: Remy_001_f
+{PlayerName}! Mushu told me about the meeting, and he said you'd be by. I have a GREAT idea for something to serve.
+
+TAG: Remy_002_f
+A <ActivityItem>Miniature Leek Soup</ActivityItem>. Nourishing, delicious, and of course, a nice small portion size!
+
+TAG: Remy_003_f
+First, we'll need to <Lore>grow some miniature leeks</Lore>. Because they're so small, these special leeks are BURSTING with flavor!
+
+TAG: Remy_004_f
+We'll also need other Ingredients, but I know you've got that handled.
+

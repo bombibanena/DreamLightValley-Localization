@@ -1,0 +1,79 @@
+
+¯
+@Story!Expansion01!MRQS_E01_090_JungleScarab_AvailableDescription≥The next piece of the Scarab is likely in the Tangle √¢¬Ä¬î maybe Gaston can help shed some light on the situation... if he's managed to move past the whole Coconut LeFou debacle.
+R
+7Story!Expansion01!MRQS_E01_090_JungleScarab_DisplayNameThe Wild Tangle's Swarm
+p
+\Story!Expansion01!MRQS_E01_090_JungleScarab_Group01_Step01_TalkToCharacter01_StepDescriptionCheck on Gaston.
+q
+\Story!Expansion01!MRQS_E01_090_JungleScarab_Group02_Step02_TalkToCharacter02_StepDescriptionTalk to Rapunzel.
+í
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group03_Step03_StepDescriptionDFind the <ActivityItem>Swarming Insects</ActivityItem> in the Grove.
+Ÿ
+DStory!Expansion01!MRQS_E01_090_JungleScarab_Group03_StoryDescriptionêRapunzel described a strange buzzing sound that she was never able to locate √¢¬Ä¬î if you can find it, maybe it can lead the way to the Scarab.
+ç
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group04_Step04_StepDescription?Those insects are hiding something. But how to get rid of them?
+£
+XStory!Expansion01!MRQS_E01_090_JungleScarab_Group04_Step04_TakePicture01_StepDescriptionGTake a picture of the insects to show Rapunzel. She might have an idea.
+s
+\Story!Expansion01!MRQS_E01_090_JungleScarab_Group05_Step05_TalkToCharacter03_StepDescriptionReturn to Rapunzel.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess01_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess02_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess03_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess04_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_Possess05_StepDescription{ItemName}.
+á
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group06_Step06_StepDescription9Gather the following resources from across Eternity Isle:
+Î
+DStory!Expansion01!MRQS_E01_090_JungleScarab_Group06_StoryDescription¢Rapunzel suggested making Flower Arrangements from the local carnivorous plants √¢¬Ä¬î maybe they'll be able to devour the insects and reveal what they're hiding.
+p
+VStory!Expansion01!MRQS_E01_090_JungleScarab_Group07_Step07_CraftItem01_StepDescriptionCraft some {ItemName}.
+£
+UStory!Expansion01!MRQS_E01_090_JungleScarab_Group08_Step08_Decorate01_StepDescriptionJDecorate using the {ItemName} near the Bug-Infested Pedestal in the Grove.
+â
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group09_Step09_StepDescription;Now all that's left to do is wait. This might take a while.
+ë
+\Story!Expansion01!MRQS_E01_090_JungleScarab_Group09_Step09_TalkToCharacter04_StepDescription1Check on Gaston and how he's doing with his task.
+~
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group10_Step10_StepDescription0The plants should have eaten the insects by now.
+õ
+VStory!Expansion01!MRQS_E01_090_JungleScarab_Group10_Step10_VisitArea02_StepDescriptionAReturn to the <ActivityItem>Pedestal</ActivityItem> in the Grove.
+ß
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group11_Step11_Possess06_StepDescriptionOPick up the <ActivityItem>Jungle Scarab Piece</ActivityItem> from the pedestal.
+p
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group11_Step11_StepDescription"You found the Jungle Scarab Piece!
+°
+XStory!Expansion01!MRQS_E01_090_JungleScarab_Group12_Step12_ConsumeItem01_StepDescriptionEExamine the <ActivityItem>Blueprint</ActivityItem> in your Inventory.
+ü
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group12_Step12_StepDescriptionQThis Scarab piece is completely rusted. Maybe Jafar would know how to restore it?
+Ñ
+\Story!Expansion01!MRQS_E01_090_JungleScarab_Group12_Step12_TalkToCharacter05_StepDescription$Talk to Jafar at a Hologram Station.
+›
+DStory!Expansion01!MRQS_E01_090_JungleScarab_Group12_StoryDescriptionîThe insects have been dealt with, revealing the second piece of the Scarab! However, it's in terrible condition √¢¬Ä¬î maybe Jafar knows what to do.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_Possess07_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_Possess08_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_Possess09_StepDescription{ItemName}.
+Ü
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group13_Step13_StepDescription8Gather what is needed to repair the Jungle Scarab Piece.
+ê
+VStory!Expansion01!MRQS_E01_090_JungleScarab_Group14_Step14_CraftItem02_StepDescription6Repair the Jungle Scarab Piece at a Timebending Table.
+n
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group15_Step15_StepDescription You now hold both Scarab pieces.
+ò
+\Story!Expansion01!MRQS_E01_090_JungleScarab_Group15_Step15_TalkToCharacter06_StepDescription8Talk to Jafar at a Hologram Station about the next step.
+´
+DStory!Expansion01!MRQS_E01_090_JungleScarab_Group15_StoryDescriptioncYou've braved the Wild Tangle and now have both pieces of the Scarab! The Cave of Wonders awaits...
+á
+XStory!Expansion01!MRQS_E01_090_JungleScarab_Group16_Step16_Conditional01_StepDescription+Give Gaston some time to re-center himself.
+à
+XStory!Expansion01!MRQS_E01_090_JungleScarab_Group16_Step16_Conditional02_StepDescription,Explore the Wild Tangle to see who you meet.
+™
+JStory!Expansion01!MRQS_E01_090_JungleScarab_Group16_Step16_StepDescription\Gaston is not yet ready to help you find the next <ActivityItem>Scarab Piece</ActivityItem>.

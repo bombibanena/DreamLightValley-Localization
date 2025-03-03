@@ -1,0 +1,9 @@
+TAG: Secret!SwordInStone!SEC_Merl_PillarUnity_010_Any_CompletedRequestDescription
+Поговори с Мерлин.
+
+TAG: Secret!SwordInStone!SEC_Merl_PillarUnity_010_AvailableDescription
+Очистив Полюс единства на острове Черепа Рок, вы замечаете магию, которая, кажется, резонирует вокруг него.
+
+TAG: Secret!SwordInStone!SEC_Merl_PillarUnity_010_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что происходит?
+

@@ -1,0 +1,96 @@
+TAG: Story!MRQS040_FindingTheFishingRod_Any_CompletedRequestDescription
+Talk to Goofy.
+
+TAG: Story!MRQS040_FindingTheFishingRod_AvailableDescription
+There's a new friend in the Peaceful Meadow. It's time to meet them.
+
+TAG: Story!MRQS040_FindingTheFishingRod_CompletedStoryDescription
+After fishing with him and reopening his Stall, it's time for one last talk with Goofy.
+
+TAG: Story!MRQS040_FindingTheFishingRod_DisplayName
+Fishing Expedition
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are you looking for?
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group01_Step01_BringItem01_StepDescription
+Find Goofy's Lucky Fishing Rod in the Meadow.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group01_Step01_ReadyDescription
+You found Goofy's Lucky Fishing Rod, but it's all jammed up! Bring it to Goofy so he can fix it.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group01_StoryDescription
+Goofy has lost his Lucky Fishing Rod somewhere in the Peaceful Meadow. He asks you to look for it.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group02_Step02_FollowCharacter01_StepDescription
+Follow Goofy to a fishing spot.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group02_StoryDescription
+Now that he is reunited with his Lucky Fishing Rod, he wants to introduce you to his favorite hobby and leads you to a pond in the Peaceful Meadow.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How do I fish?
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group03_Step03_CatchFish01_StepDescription
+Catch something with Goofy.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group04_Step04_TalkToCharacter02_StepDescription
+Show Goofy your big catch.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group05_Step05_FollowCharacter02_StepDescription
+Follow Goofy to his Stall.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group05_Step05_FollowCharacter02_TalkToDescription
+Talk to Goofy.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How do I unlock the Stall?
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group06_Step06_Unlock01_StepDescription
+Use the Scrooge McDuck Sign to reopen Goofy's Stall.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group06_StoryDescription
+Goofy shows you his run-down Stall and asks you to help him by fixing it.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group07_Step07_TalkToCharacter01_StepDescription
+See what Goofy thinks.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are you looking for?
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group08_Step08_BringItem02_StepDescription
+Find Goofy's <ActivityItem>Lucky Fishing Rod</ActivityItem> in the Meadow.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group08_Step08_ReadyDescription
+You found a <ActivityItem>Broken Fishing Rod</ActivityItem>! Give it to Goofy.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group08_StoryDescription
+Goofy has lost his Lucky Fishing Rod somewhere in the Peaceful Meadow. He asks you to look for it.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group09_Step09_FollowCharacter03_StepDescription
+Follow Goofy to a fishing spot.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group09_StoryDescription
+Now that he is reunited with his Lucky Fishing Rod, he wants to introduce you to his favorite hobby and leads you to a pond in the Peaceful Meadow.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>How do I fish?
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group10_Step10_CatchFish02_StepDescription
+Catch something with Goofy.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group11_Step11_ReadyDescription
+You found a <ActivityItem>Broken Fishing Rod</ActivityItem>! Find the person it belongs to.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group11_Step11_StepDescription
+Find the missing <ActivityItem>Lucky Fishing Rod</ActivityItem> in the Meadow.
+
+TAG: Story!MRQS040_FindingTheFishingRod_Group11_StoryDescription
+As you're wandering the Peaceful Meadow, you stumble on a Broken Fishing Rod in the grass. Who could it belong to?
+
+TAG: Story!MRQS040_FindingTheFishingRod_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Goofy! What can I help you with?
+

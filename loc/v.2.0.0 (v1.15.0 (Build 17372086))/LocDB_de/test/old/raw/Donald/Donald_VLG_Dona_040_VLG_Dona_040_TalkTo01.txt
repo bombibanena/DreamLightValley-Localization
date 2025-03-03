@@ -1,0 +1,42 @@
+TAG: Donald_000_f
+Мы нашли мои инструкции по строительству фонтана <ActivityItem>Dreamlight</ActivityItem>!
+
+TAG: Player_000_choice_000_f
+Это сделает забытые земли такими красивыми!
+
+TAG: Player_000_choice_001_f
+Ты наконец-то сможешь закончить свой проект!
+
+TAG: Player_000_choice_002_f
+Надеюсь, это последнее, что вы спрятали...
+
+TAG: Donald_007_f
+Да, как только мы закончим, это будет самое милое место в Виллидж.
+
+TAG: Donald_011_f
+Что мы должны сделать, чтобы построить эту штуку?
+
+TAG: Donald_001_f
+Нам нужно получить все, что я здесь написал...
+
+TAG: Donald_005_f
+<ActivityItem>Stones</ActivityItem>, <ActivityItem>Iron Ingots</ActivityItem>, <ActivityItem>Soil</ActivityItem>, <ActivityItem>Hardwood</ActivityItem>, и <ActivityItem>Clay</ActivityItem>.
+
+TAG: Donald_006_f
+Плюс все части фонтана, которые я закопал раньше.
+
+TAG: Donald_003_f
+Вот, возьми <ActivityItem> Water Pump</ActivityItem>, <ActivityItem>Basins</ActivityItem>, <ActivityItem>Turbine</ActivityItem>, и <ActivityItem> Distributors</ActivityItem>.
+
+TAG: Donald_004_f
+Когда у вас есть все остальное, сделайте <ActivityItem>Dreamlight Funtain</ActivityItem> и встретимся в Забытых землях.
+
+TAG: Donald_008_f
+Тогда я начну думать о других супер-гениальных способах сделать Виллидж лучше!
+
+TAG: Donald_009_f
+Обещаю, это последнее, что я похоронил.
+
+TAG: Donald_010_f
+По крайней мере... последнее, что я помню, чтобы похоронить.
+

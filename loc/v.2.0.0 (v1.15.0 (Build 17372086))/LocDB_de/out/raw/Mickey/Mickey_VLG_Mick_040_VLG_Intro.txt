@@ -1,0 +1,36 @@
+TAG: Mickey_000_f
+{PlayerName}! I've got an idea for how we can bring Minnie back for good!
+
+TAG: Mickey_009_f
+Can you help me?
+
+TAG: Player_000_choice_000_f
+Sure! What do you need?
+
+TAG: Player_000_choice_001_f
+I can't help you right now!
+
+TAG: Mickey_004_f
+Thanks, {PlayerName}!
+
+TAG: Mickey_001_f
+According to Merlin, Minnie's Bow has enough Memories to bring her back.
+
+TAG: Mickey_003_f
+The thing we have to do is stop her from disappearing again!
+
+TAG: Mickey_002_f
+So Merlin invented something new. It's called the Dreamlight Magnifier.
+
+TAG: Mickey_006_f
+We can build it ourselves. We just need some materials...
+
+TAG: Mickey_007_f
+...a few Tinkering Parts, some wood, and an Emerald.
+
+TAG: Mickey_008_f
+And, of course, Minnie's Bow, which I've got right here.
+
+TAG: Mickey_005_f
+Gotcha. Please come back as soon as you can! We have to help Minnie!
+

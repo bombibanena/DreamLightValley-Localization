@@ -1,0 +1,71 @@
+
+®
+0Premium!WallE!PRM_WallE_010_AvailableDescriptionzWith his new outfit, WALLÃ‚Â·E seems excited and wants your attention for something. You talk to him to figure things out.
+c
+LPremium!WallE!PRM_WallE_010_Group02_Step02_FollowCharacter01_StepDescriptionFollow {TargetNPC}.
+…
+FPremium!WallE!PRM_WallE_010_Group03_Step03_VisitArea01_StepDescription;Head inside Mini-Casita to figure out what WALLÃ‚Â·E wants.
+d
+LPremium!WallE!PRM_WallE_010_Group04_Step04_TalkToCharacter02_StepDescriptionTalk to {TargetNPC}.
+n
+FPremium!WallE!PRM_WallE_010_Group05_Step05_BringItem01_StepDescription$Bring the {ItemName} to {TargetNPC}.
+_
+;Premium!WallE!PRM_WallE_010_Group05_Step05_ReadyDescription Show {TargetNPC} the {itemName}.
+‹
+DPremium!WallE!PRM_WallE_010_Group06_Step06_Possess01_StepDescriptionCSearch Dazzle Beach for {itemName} pieces in the sand or the water.
+d
+LPremium!WallE!PRM_WallE_010_Group07_Step07_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+d
+LPremium!WallE!PRM_WallE_010_Group08_Step08_TalkToCharacter04_StepDescriptionTalk to {TargetNPC}.
+z
+HPremium!WallE!PRM_WallE_010_Group11_Step11_TakePicture01_StepDescription.Take selfies in your new hat with {TargetNPC}.
+f
+LPremium!WallE!PRM_WallE_010_Group12_Step12_TalkToCharacter06_StepDescriptionReturn to {TargetNPC}.
+Ž
+;Premium!WallE!WallE!PRM_WallE_010_CompletedStoryDescriptionÎYou've completed the trash can lid hat for WALLÃ‚Â·E and helped him remember a special dance! Now that he's gifted the hat to you, you have a memento with which to forever remember your adventures together.
+A
+-Premium!WallE!WallE!PRM_WallE_010_DisplayNameYour Sunday Best
+j
+RPremium!WallE!WallE!PRM_WallE_010_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
+Ô
+:Premium!WallE!WallE!PRM_WallE_010_Group06_StoryDescription•Mirabel gives you and WALLÃ‚Â·E a trash can lid handle, so the two of you head out to find pieces of metal that could be crafted into a complete lid.
+É
+:Premium!WallE!WallE!PRM_WallE_010_Group08_StoryDescriptionŠYou and WALLÃ‚Â·E find some pieces of scrap metal but not enough to craft a complete lid. Maybe Ursula has a few more in her possession...
+Y
+JPremium!WallE!WallE!PRM_WallE_010_Group09_Step09_Possess03_StepDescription{itemName}.
+Y
+JPremium!WallE!WallE!PRM_WallE_010_Group09_Step09_Possess04_StepDescription{itemName}.
+[
+@Premium!WallE!WallE!PRM_WallE_010_Group09_Step09_StepDescriptionGather these materials:
+ä
+:Premium!WallE!WallE!PRM_WallE_010_Group09_StoryDescription¥The hunt for more pieces of scrap metal continues! You've launched a plan to distract Ursula with a gift while WALLÃ‚Â·E explores her House for more pieces of metal.
+i
+APremium!WallE!WallE!PRM_WallE_010_Group10_Step10_ReadyDescription$Bring the {itemName} to {TargetNPC}.
+x
+@Premium!WallE!WallE!PRM_WallE_010_Group10_Step10_StepDescription4Make sure you have the {itemName} in your Inventory.
+a
+LPremium!WallE!WallE!PRM_WallE_010_Group13_Step13_CraftItem01_StepDescriptionCraft {itemName}.
+³
+:Premium!WallE!WallE!PRM_WallE_010_Group13_StoryDescriptionuYou and WALLÃ‚Â·E have managed to find even more pieces of metal and are ready to turn them into a new trash can lid.
+i
+APremium!WallE!WallE!PRM_WallE_010_Group14_Step14_ReadyDescription$Bring the {itemName} to {TargetNPC}.
+x
+@Premium!WallE!WallE!PRM_WallE_010_Group14_Step14_StepDescription4Make sure you have the {itemName} in your Inventory.
+j
+RPremium!WallE!WallE!PRM_WallE_010_Group15_Step15_TalkToCharacter07_StepDescriptionTalk to {TargetNPC}.
+v
+JPremium!WallE!WallE!PRM_WallE_010_Group16_Step16_Possess02_StepDescription(Fish out the {itemName} from the Meadow.
+f
+JPremium!WallE!WallE!PRM_WallE_010_Group17_Step17_DressUp01_StepDescriptionPut on WALLÃ‚Â·E's Gift.
+©
+LPremium!WallE!WallE!PRM_WallE_010_Group18_Step18_VisitArea02_StepDescriptionYMeet <ActivityItem>Ursula</ActivityItem> in the <ActivityItem>Cursed Cave</ActivityItem>.
+e
+LPremium!WallE!WallE!PRM_WallE_010_Group19_Step19_CraftItem02_StepDescriptionCraft the {itemName}.
+y
+NPremium!WallE!WallE!PRM_WallE_010_Group20_Step21_Conditional04_StepDescription'Equip the Dapper WALLÃ‚Â·E Dream Style.
+e
+NPremium!WallE!WallE!PRM_WallE_010_Group21_Step20_Conditional01_StepDescriptionUnlock {TargetNPC}.
+~
+NPremium!WallE!WallE!PRM_WallE_010_Group21_Step20_Conditional02_StepDescription,Unlock <ActivityItem>Mirabel</ActivityItem>.
+Œ
+NPremium!WallE!WallE!PRM_WallE_010_Group21_Step20_Conditional03_StepDescription:Progress further with <ActivityItem>Ursula</ActivityItem>.

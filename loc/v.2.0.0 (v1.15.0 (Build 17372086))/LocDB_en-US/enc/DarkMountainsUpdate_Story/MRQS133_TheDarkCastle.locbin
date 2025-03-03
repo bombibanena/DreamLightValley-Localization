@@ -1,0 +1,73 @@
+
+è
+0Story!MRQS133_TheDarkCastle_AvailableDescription[You've gathered up enough Forgotten Relics to cast the spell. It's time to speak to Merlin.
+:
+'Story!MRQS133_TheDarkCastle_DisplayNameThe Dark Castle
+U
+FStory!MRQS133_TheDarkCastle_Group01_Step01_BringItem01_StepDescription{ItemName}.
+U
+FStory!MRQS133_TheDarkCastle_Group01_Step01_BringItem02_StepDescription{ItemName}.
+U
+FStory!MRQS133_TheDarkCastle_Group01_Step01_BringItem03_StepDescription{ItemName}.
+U
+FStory!MRQS133_TheDarkCastle_Group01_Step01_BringItem04_StepDescription{ItemName}.
+Å
+;Story!MRQS133_TheDarkCastle_Group01_Step01_ReadyDescriptionBBring the <ActivityItem>Forgotten Relics</ActivityItem> to Merlin.
+k
+LStory!MRQS133_TheDarkCastle_Group02_Step02_FollowCharacter01_StepDescriptionFollow Merlin to the Plaza.
+a
+NStory!MRQS133_TheDarkCastle_Group02_Step02_FollowCharacter01_TalkToDescriptionTalk to Merlin.
+i
+FStory!MRQS133_TheDarkCastle_Group03_Step09_VisitArea10_StepDescriptionMake your way to the next door.
+ß
+4Story!MRQS133_TheDarkCastle_Group03_StoryDescriptionoYou puzzle your way past more doors, doing your best with the ingredients at hand and using a "mechanical eye."
+u
+FStory!MRQS133_TheDarkCastle_Group06_Step06_VisitArea01_StepDescription+Pass through the portal to the Dark Castle.
+`
+FStory!MRQS133_TheDarkCastle_Group07_Step07_VisitArea02_StepDescriptionEnter the Dark Castle.
+_
+LStory!MRQS133_TheDarkCastle_Group08_Step08_TalkToCharacter03_StepDescriptionInvestigate it.
+\
+3Story!MRQS133_TheDarkCastle_Group08_StepDescription%Something is weird about this door...
+
+:Story!MRQS133_TheDarkCastle_Group10_Step10_StepDescriptionAFind something around here to trick the door into letting you in.
+¨
+4Story!MRQS133_TheDarkCastle_Group10_StoryDescriptiontWithin the castle, you meet a very sleepy door that refuses to let you pass unless you look more like the Forgotten.
+a
+LStory!MRQS133_TheDarkCastle_Group11_Step11_TalkToCharacter04_StepDescriptionTalk to the door.
+^
+FStory!MRQS133_TheDarkCastle_Group12_Step12_VisitArea03_StepDescriptionGo through the door.
+}
+4Story!MRQS133_TheDarkCastle_Group12_StoryDescriptionEYou find a disguise that does the trick and continue on your journey.
+n
+FStory!MRQS133_TheDarkCastle_Group13_Step13_VisitArea04_StepDescription$Explore deeper into the Dark Castle.
+ä
+HStory!MRQS133_TheDarkCastle_Group19_Step19_FillKeyhole02_StepDescription>Figure out how to get past the second door in the Dark Castle.
+z
+FStory!MRQS133_TheDarkCastle_Group20_Step20_VisitArea05_StepDescription0Pass through the second door in the Dark Castle.
+n
+FStory!MRQS133_TheDarkCastle_Group21_Step21_VisitArea06_StepDescription$Explore deeper into the Dark Castle.
+^
+HStory!MRQS133_TheDarkCastle_Group22_Step22_TakePicture01_StepDescriptionSearch for a clue.
+W
+3Story!MRQS133_TheDarkCastle_Group22_StepDescription This door seems to be missing...
+y
+FStory!MRQS133_TheDarkCastle_Group23_Step23_VisitArea07_StepDescription/Pass through the third door in the Dark Castle.
+ç
+FStory!MRQS133_TheDarkCastle_Group24_Step03_VisitArea09_StepDescriptionCPass through the first door to explore deeper into the Dark Castle.
+X
+:Story!MRQS133_TheDarkCastle_Group26_Step26_StepDescriptionFind a way to get the key.
+L
+3Story!MRQS133_TheDarkCastle_Group26_StepDescriptionThe door is locked...
+T
+DStory!MRQS133_TheDarkCastle_Group28_Step28_Possess05_StepDescriptionGet the key.
+J
+3Story!MRQS133_TheDarkCastle_Group28_StepDescriptionYou melted the ice!
+j
+HStory!MRQS133_TheDarkCastle_Group29_Step29_FillKeyhole04_StepDescriptionUnlock the door using the key.
+ê
+FStory!MRQS133_TheDarkCastle_Group30_Step30_VisitArea08_StepDescriptionFPass through the final door in the Dark Castle and face the Forgotten.
+g
+LStory!MRQS133_TheDarkCastle_Group31_Step31_TalkToCharacter05_StepDescriptionConfront the Forgotten.
+—
+4Story!MRQS133_TheDarkCastle_Group31_StoryDescriptionòAt last, you find yourself face to face with the Forgotten. You must choose your words carefully √¢¬Ä¬î the fate of the universe is at stake, after all.

@@ -1,0 +1,58 @@
+
+°
+
+Buzz_000_fí{PlayerName}, I have a mission of the utmost importance for us. We need to gather intel on a previous operation in this quadrant. What do you say?
+4
+Player_000_choice_001_fBrief me on this mission!
++
+Player_000_choice_002_fSome other time.
+ü
+
+Buzz_006_fêI was patrolling for threats near the river in the Forest of Valor when I was struck by a strange feeling. It was like... I'd been there before.
+u
+
+Buzz_012_fgI believe it may have been the site of an impressive feat of heroism. But I don't remember what it was.
+9
+Player_001_choice_000_fYour memories are coming back!
+H
+Player_001_choice_001_f-Where in the Forest of Valor did this happen?
+E
+Player_001_choice_002_f*Are you sure about this "feat of heroism"?
+.
+
+Buzz_004_f Ahh, so that's what's happening.
+&
+
+Buzz_013_fHow can I remember more?
+H
+Player_003_f8Let's go investigate the river in the Forest of Valor...
+:
+Player_003_choice_000_fI have to know more about this.
+8
+Player_003_choice_001_fIt's the best place to start.
+;
+Player_003_choice_002_f Let's hope we find a clue there.
+W
+
+Buzz_014_fII knew you'd be the perfect partner for a fact-finding mission. Let's go!
+n
+
+Buzz_017_f`Just remember... whatever transpired happened long ago. We might have to dig to find the answer.
+7
+
+Buzz_015_f)I like that plan, {PlayerName}. Let's go!
+]
+
+Buzz_016_fOI'm sure we will if we put our combined investigative powers to work. Let's go!
+S
+
+Buzz_005_fEI was walking along the river. But I can't be more precise than that.
+
+
+Buzz_007_fDefinitely.
+U
+
+Buzz_008_fGWith your knowledge of the Valley, I'm hoping you can be of assistance.
+,
+
+Buzz_002_fI'm ready when you are, cadet.

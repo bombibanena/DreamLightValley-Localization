@@ -1,0 +1,18 @@
+TAG: EVE_000_f
+Хм...
+
+TAG: EVE_001_f
+Что случилось, консоль не включится?
+
+TAG: EVE_002_f
+Нет.*цифровые сигналы*
+
+TAG: EVE_003_f
+Похоже, нам нужно восстановить электричество.
+
+TAG: EVE_004_f
+Похоже, здесь есть пустой <ActivityItem>Power Sockets</ActivityItem>.
+
+TAG: EVE_005_f
+Возможно, я смогу найти <ActivityItem>Power Coils</ActivityItem>, которые должны быть в них разбросаны.
+

@@ -1,0 +1,18 @@
+TAG: Scrooge_000_f
+Are ya ready to invest? As soon as I open the shop, there will be all sorts of furniture and clothing to purchase. You can trust me or my name isn't Scrooge McDuck!
+
+TAG: Player_000_choice_000_f
+Let's open the shop. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Scrooge_001_f
+Finally, the Grand Opening!
+
+TAG: Scrooge_004_f
+Och! You don't have enough Star Coins to open the shop! Come back when you have the funds, {PlayerName}.
+
+TAG: Scrooge_002_f
+This shop won't open itself, you know. Come back when you're serious about investing in the Valley.
+

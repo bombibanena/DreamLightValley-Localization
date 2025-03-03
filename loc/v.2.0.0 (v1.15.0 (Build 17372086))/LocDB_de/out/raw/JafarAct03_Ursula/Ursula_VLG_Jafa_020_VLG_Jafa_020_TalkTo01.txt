@@ -1,0 +1,99 @@
+TAG: Ursula_001_f
+Hey Ursula, do you have a moment to talk potions?
+
+TAG: Ursula_003_f
+With you, angelfish? Of course!
+
+TAG: Ursula_004_f
+Now, is this a general question about potions, or are you finally coming to me as a customer?
+
+TAG: Ursula_005_f
+The former. I'm helping Jafar with some alchemy, and we're running into trouble.
+
+TAG: Ursula_006_f
+Formulas he's used back in Agrabah don't seem to work here. Think you could give us some advice?
+
+TAG: Ursula_007_f
+Well, normally I don't give information away for free...
+
+TAG: Ursula_008_f
+But I love the idea of Jafar owing me a favor.
+
+TAG: Ursula_002_f
+Can you tell me anything about the Essences here?
+
+TAG: Ursula_029_f
+Certainly! First, do you understand the distinction between Major and Minor Essences?
+
+TAG: Player_000_choice_000_f
+Uhh, I could use a refresher.
+
+TAG: Player_000_choice_001_f
+Sure do!
+
+TAG: Ursula_030_f
+Oh, it's simple really: A Major Essence is comprised of three Minor Essences mixed together.
+
+TAG: Ursula_023_f
+Find one of those, and it should be easy enough to refine it into the <ActivityItem>Minor Essence of Patience</ActivityItem>.
+
+TAG: Ursula_020_f
+Thanks Ursula, I'll go try to find one now!
+
+TAG: Ursula_031_f
+But which three to mix? That's the tricky part...
+
+TAG: Ursula_013_f
+Recently, I've been working on one particular Essence â the <ActivityItem>Major Essence of Will</ActivityItem>.
+
+TAG: Ursula_014_f
+Oh, do you have any that we can use?
+
+TAG: Ursula_015_f
+Afraid not, dearie. I've managed to extract one of the Minor Essences that make it up, but that's as far as I've gotten.
+
+TAG: Ursula_016_f
+Can you tell me how I might find or make some?
+
+TAG: Ursula_017_f
+You'll have to extract it from something that embodies willpower and self-sufficiency.
+
+TAG: Ursula_018_f
+The last time I made some, I found a stone at the bottom of some quicksand in <Lore>the Glittering Dunes</Lore>.
+
+TAG: Ursula_019_f
+It was so perfectly smooth, it must have been tumbling away, polishing itself for centuries!
+
+TAG: Ursula_024_f
+Wait, {PlayerName}... Has anyone told you about the <ActivityItem>Emotive Essences</ActivityItem>?
+
+TAG: Ursula_025_f
+Oh, no â what are those?
+
+TAG: Ursula_026_f
+Very rare and special Essences. They can't be refined from any item or resource. You must perform actions to call them forth from Dreamlight itself.
+
+TAG: Ursula_022_f
+I know of the <ActivityItem>Essence of Benevolence</ActivityItem> and the <ActivityItem>Essence of Wisdom</ActivityItem>, but I suspect there could be more waiting to be found.
+
+TAG: Ursula_027_f
+Oh, cool â thanks for the info!
+
+TAG: Ursula_021_f
+Ta-ta, dearie! Don't forget to tell Jafar about the favor he owes me.
+
+TAG: Ursula_028_f
+And here, take this little note, in case what I told you slips your mind!
+
+TAG: Ursula_009_f
+Tell me... What's the problem?
+
+TAG: Ursula_010_f
+We were trying to turn Iron into Gold, but the yield was rather disappointing. Turns out alchemy works differently here compared to Jafar's Realm.
+
+TAG: Ursula_012_f
+Ah yes, {PlayerName}, I see the problem. Alchemy is all about Essences here!
+
+TAG: Ursula_011_f
+Think of them as magical embodiments of the different emotions that make up our Valley.
+

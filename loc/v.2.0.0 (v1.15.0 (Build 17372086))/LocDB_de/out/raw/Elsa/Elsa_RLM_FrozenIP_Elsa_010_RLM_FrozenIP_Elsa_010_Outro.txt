@@ -1,0 +1,27 @@
+TAG: Elsa_000_f
+Thank you for helping me calm Gale. The Spirits of Nature are back in harmony.
+
+TAG: Elsa_001_f
+And the Enchanted Forest is in balance again.
+
+TAG: Player_000_f
+Sounds like your work is done here. Why not come visit my Village?
+
+TAG: Player_000_choice_001_f
+I want to bring balance there too.
+
+TAG: Player_000_choice_002_f
+I need magical help.
+
+TAG: Elsa_005_f
+I'd love to visit your Village. But for now, my place is here in the Enchanted Forest.
+
+TAG: Elsa_002_f
+I have to make sure that nothing else goes wrong.
+
+TAG: Elsa_006_f
+But after all you've done to help, I am rather curious about where you come from.
+
+TAG: Elsa_007_f
+I promise to visit your Village one day.
+

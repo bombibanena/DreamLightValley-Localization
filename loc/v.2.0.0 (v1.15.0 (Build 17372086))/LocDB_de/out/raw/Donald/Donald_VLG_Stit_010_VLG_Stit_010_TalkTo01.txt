@@ -1,0 +1,87 @@
+TAG: Donald_022_f
+Hey Donald, I found a sign with a picture of you in the Peaceful Meadow. But it looks like someone drew on it...
+
+TAG: Donald_000_f
+WAK! What's the big idea?! Who wouldâ Oh, I know who it was...
+
+TAG: Donald_002_f
+It was Stitch! If he does that again... I'm gonna... I'm gonna... WAAAAAAAKKKK!!!
+
+TAG: Player_000_choice_000_f
+Calm down. Take a deep breath.
+
+TAG: Player_000_choice_001_f
+What's wrong? How can I help?
+
+TAG: Player_000_choice_002_f
+Maybe I should just stay out of this.
+
+TAG: Donald_003_f
+Calm down?! Why should I calm down?!
+
+TAG: Donald_004_f
+Every time I turn around, Stitch wrecks something else.
+
+TAG: Donald_007_f
+What did Stitch do to get you so riled up?
+
+TAG: Donald_008_f
+First, he won't stop bothering me. Leaving teeth marks in my pontoon, stealing the worms out of my tackle box...
+
+TAG: Donald_009_f
+And then he asked me if I was ugly as a duckling!
+
+TAG: Donald_010_f
+I think you might have misunderstood Stitch. See, one of his favorite stories is the Ugly Duckling...
+
+TAG: Donald_011_f
+I didn't misunderstand anything! He's got it in for me.
+
+TAG: Donald_012_f
+So I put up those signs around the Village to tell Stitch to keep out of my favorite places.
+
+TAG: Player_001_choice_000_f
+Smart idea. Good fences make good neighbors.
+
+TAG: Player_001_choice_001_f
+That's not nice. The Village is for everyone.
+
+TAG: Player_001_choice_002_f
+Did Stitch obey the signs?
+
+TAG: Donald_013_f
+Exactly! That way, we won't have any more misunderstandings.
+
+TAG: Donald_014_f
+But did Stitch follow the signs? No! Not once! Not ever!
+
+TAG: Donald_018_f
+But that's not all. He drew funny pictures all over 'em.
+
+TAG: Donald_019_f
+Maybe I can <Lore>talk to Stitch</Lore> and try to teach him to respect your property.
+
+TAG: Donald_020_f
+THANK YOU!
+
+TAG: Donald_021_f
+If Stitch doesn't leave me alone, I'm gonna fix up that spaceship of his and send him to the moon.
+
+TAG: Donald_015_f
+Exactly! And I like sharing the Village with everybody who behaves. But Stitch doesn't behave!
+
+TAG: Donald_016_f
+He won't even follow the signs.
+
+TAG: Donald_017_f
+Of course not! He didn't follow any of them.
+
+TAG: Donald_005_f
+Finally! Somebody around here wants to help me for a change.
+
+TAG: Donald_006_f
+I keep telling everybody we have a Stitch problem, but does anybody listen? No!
+
+TAG: Donald_001_f
+Stay out of it?! You can't! I need your help.
+

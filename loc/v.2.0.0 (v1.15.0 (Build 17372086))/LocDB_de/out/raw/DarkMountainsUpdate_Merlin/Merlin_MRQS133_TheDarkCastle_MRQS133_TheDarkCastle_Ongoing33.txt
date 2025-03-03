@@ -1,0 +1,9 @@
+TAG: Merlin_001_f
+Your way is blocked by a door?
+
+TAG: Merlin_002_f
+Have you tried turning the knob?
+
+TAG: Merlin_003_f
+Or perhaps knocking?
+

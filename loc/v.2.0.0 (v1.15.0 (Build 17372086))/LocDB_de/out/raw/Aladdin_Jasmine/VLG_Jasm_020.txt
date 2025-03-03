@@ -1,0 +1,135 @@
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Any_CompletedRequestDescription
+Talk to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_AvailableDescription
+It looks like Jasmine has some new information to share! Go see what she has for you.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_CompletedStoryDescription
+With the Beach Key recovered, you're able to unlock one of the Secret Journal locks... but what of the other one?
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_DisplayName
+A Sandy Competition
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Moana.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group01_StoryDescription
+After decrypting the mysterious code on the Secret Journal, Jasmine discovers a crafting recipe for one of the journal's keys! Now you just need to find all of the materials...
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem01_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem02_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem03_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_BringItem04_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_ReadyDescription
+Bring the materials to {TargetNPC}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_Step02_StepDescription
+Gather materials for Moana's <ActivityItem>Sea Sand Torch</ActivityItem>.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group02_StoryDescription
+The Sea Sand Sparks needed to craft the Beach Key must be obtained from a special Sea Sand Torch. You need to bring all of the materials to Moana so she can help you make one!
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group03_Step03_Decorate01_StepDescription
+Place Moana's <ActivityItem>Sea Sand Torch</ActivityItem> on Dazzle Beach.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group05_Step05_FollowCharacter01_StepDescription
+Meet Jasmine at the <ActivityItem>Sea Sand Torch</ActivityItem> on Dazzle Beach.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group05_Step05_FollowCharacter01_TalkToDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group05_StoryDescription
+The Sea Sand Torch firmly planted on Dazzle Beach, you're ready to get those Sea Sand Sparks that will bring you and Jasmine one step closer to the Beach Key.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group06_Step06_TalkToCharacter03_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group07_Step07_TalkToCharacter04_StepDescription
+Talk to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group08_Step08_Listen01_StepDescription
+Listen to Maui and Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group08_StoryDescription
+You need a Special Starfish, and Maui is the only one who has it. Remembering a favorite activity of children in Agrabah, Jasmine suggests a sandcastle competition to win it from him!
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_Possess01_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_Possess02_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_Possess03_StepDescription
+{itemName}.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group09_Step09_StepDescription
+Gather materials to build a <Lore>Winning Sandcastle</Lore> for Maui's competition.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_CraftItem01_StepDescription
+Sand towers.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_CraftItem02_StepDescription
+Sand walls.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_CraftItem03_StepDescription
+Sand door.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group10_Step10_StepDescription
+Craft a <ActivityItem>Sandcastle Kit</ActivityItem>.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group10_StoryDescription
+You're ready to make a <Lore>Winning Sandcastle</Lore>, worthy of beating even a demigod! It's time to get creative!
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group11_Step11_TalkToCharacter05_StepDescription
+Talk to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate02_StepDescription
+Sand towers.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate03_StepDescription
+Sand walls.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate04_StepDescription
+Sand door.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_Decorate05_StepDescription
+Castle centerpiece.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group12_Step12_StepDescription
+Decorate the Beach with a Winning Sandcastle worthy of a competition with a demigod.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group13_Step13_TalkToCharacter06_StepDescription
+Talk to Maui.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group14_Step14_Listen02_StepDescription
+Listen to Maui and Jasmine discuss the sandcastle competition.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group15_Step15_TalkToCharacter07_StepDescription
+Talk to Jasmine.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group16_Step16_CraftItem04_StepDescription
+Craft the Beach Key.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group16_StoryDescription
+With all of the materials gathered, it's finally time to craft the Beach Key and find out if it will really unlock part of the Secret Journal.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group17_Step17_VisitArea01_StepDescription
+Go inside Jasmine and Aladdin's House.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_Group18_Step18_FillKeyhole01_StepDescription
+Use the Beach Key to <Lore>unlock the first lock of the Secret Journal</Lore>.
+
+TAG: Village!Aladdin!Jasmine!VLG_Jasm_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

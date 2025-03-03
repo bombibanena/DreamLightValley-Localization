@@ -1,0 +1,67 @@
+
+V
+AVillage!Brave!Merida!VLG_Meri_010_Any_CompletedRequestDescriptionReturn to Merida.
+∏
+6Village!Brave!Merida!VLG_Meri_010_AvailableDescription~As {PlayerName} began to settle in the Bind, Merida offered a few lessons, passed down from her father, on the art of hunting.
+–
+;Village!Brave!Merida!VLG_Meri_010_CompletedStoryDescriptionêMerida gave {PlayerName} a magical frame to commemorate their hunt together. {PlayerName} placed it upon the wall to admire. It was a fine hunt.
+R
+-Village!Brave!Merida!VLG_Meri_010_DisplayName!Clan DunBroch's Rules of the Hunt
+i
+RVillage!Brave!Merida!VLG_Meri_010_Group01_Step01_FollowCharacter01_StepDescriptionFollow {TargetNPC}.
+l
+TVillage!Brave!Merida!VLG_Meri_010_Group01_Step01_FollowCharacter01_TalkToDescriptionTalk to {TargetNPC}.
+w
+NVillage!Brave!Merida!VLG_Meri_010_Group02_Step02_ConsumeItem01_StepDescription%Use the {ItemName} in your Inventory.
+Ö
+PVillage!Brave!Merida!VLG_Meri_010_Group02_Step03_RemoveBlocker01_StepDescription1Remove the <Lore>Mossy Logs</Lore> from the Bind.
+y
+9Village!Brave!Merida!VLG_Meri_010_Group02_StepDescription<Clan DunBroch's first rule of the hunt: Control the terrain!
+ç
+:Village!Brave!Merida!VLG_Meri_010_Group02_StoryDescriptionŒMerida taught {PlayerName} about Clan DunBroch's first rule of the hunt ‚Äî control your terrain. Before the hunt could begin, {PlayerName} would have to clear away the mossy logs scattered around the Bind.
+l
+RVillage!Brave!Merida!VLG_Meri_010_Group03_Step05_TalkToCharacter01_StepDescriptionReturn to {TargetNPC}.
+y
+NVillage!Brave!Merida!VLG_Meri_010_Group04_Step06_ConsumeItem02_StepDescription'Use the {ItemName} from your Inventory.
+Y
+JVillage!Brave!Merida!VLG_Meri_010_Group05_Step07_Possess01_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_010_Group05_Step07_Possess02_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_010_Group05_Step07_Possess03_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_010_Group05_Step07_Possess04_StepDescription{ItemName}.
+Y
+JVillage!Brave!Merida!VLG_Meri_010_Group05_Step07_Possess05_StepDescription{ItemName}.
+Í
+@Village!Brave!Merida!VLG_Meri_010_Group05_Step07_StepDescription•Clan DunBroch's second rule of the hunt: Use everything at your disposal to trap your prey! Gather the materials to make a <ActivityItem>Snippet Trap</ActivityItem>.
+Ñ
+LVillage!Brave!Merida!VLG_Meri_010_Group06_Step08_CraftItem01_StepDescription4Craft a {ItemName} to slow Snippets around the Bind.
+°
+KVillage!Brave!Merida!VLG_Meri_010_Group07_Step09_Decorate01_StepDescriptionRPlace the <ActivityItem>Fall Leaves Slow Trap</ActivityItem> anywhere in the Bind.
+Ö
+:Village!Brave!Merida!VLG_Meri_010_Group07_StoryDescription∆Next, Merida taught {PlayerName} the second rule of the hunt: Use everything at your disposal to trap your prey. {PlayerName} set out to make a magical trap that would slow the Snippets in the Bind.
+l
+RVillage!Brave!Merida!VLG_Meri_010_Group08_Step10_TalkToCharacter02_StepDescriptionReturn to {TargetNPC}.
+ 
+OVillage!Brave!Merida!VLG_Meri_010_Group09_Step11_CatchSnippet01_StepDescriptionw(Remember: Snippets appear over time. Check back regularly! Check your Collections menu to see where to find Snippets!)
+î
+@Village!Brave!Merida!VLG_Meri_010_Group09_Step11_StepDescriptionPCatch <ActivityItem>Snippets</ActivityItem> slowed by the Slow Trap in the Bind.
+p
+9Village!Brave!Merida!VLG_Meri_010_Group09_StepDescription3Clan DunBroch's third rule of the hunt: Be patient!
+l
+RVillage!Brave!Merida!VLG_Meri_010_Group10_Step12_TalkToCharacter03_StepDescriptionReturn to {TargetNPC}.
+¢
+PVillage!Brave!Merida!VLG_Meri_010_Group11_Step16_CompleteStory01_StepDescriptionN(Talk to the Lorekeeper and select "Reorder Tales" from the dialogue submenu.)
+°
+@Village!Brave!Merida!VLG_Meri_010_Group11_Step16_StepDescription]Rearrange any Tale in the Lorekeeper's pages. You may need to catch some more Snippets first!
+~
+9Village!Brave!Merida!VLG_Meri_010_Group11_StepDescriptionAClan DunBroch's fourth rule of the hunt: Let nothing go to waste!
+g
+RVillage!Brave!Merida!VLG_Meri_010_Group12_Step14_TalkToCharacter04_StepDescriptionReturn to Merida.
+{
+KVillage!Brave!Merida!VLG_Meri_010_Group13_Step15_Decorate02_StepDescription,Place the {ItemName} anywhere in your House.
+ä
+@Village!Brave!Merida!VLG_Meri_010_Group13_Step15_StepDescriptionFClan DunBroch's fifth rule of the hunt: Commemorate a successful hunt!
+e
+4Village!Brave!Merida!VLG_Meri_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

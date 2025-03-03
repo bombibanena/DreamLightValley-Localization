@@ -1,0 +1,45 @@
+
+j
+Donald_001_fZHey {PlayerName}, will you help me settle an argument with Goofy and prove that I'm right?
+5
+Player_001_choice_000_fWhat's the argument about?
+;
+Player_001_choice_001_f I'm staying out of this for now.
+>
+Donald_016_f.Goofy says he once caught a catfish in a lake.
+6
+Donald_017_f&But there aren't any catfish in lakes!
+;
+Donald_000_f+Goofy doesn't know what he's talking about!
+K
+Player_000_choice_000_f0He doesn't know as much as you, that's for sure.
+^
+Player_000_choice_001_fCGoofy's kind of goofy, but he's knowledgeable about lots of things.
+`
+Donald_002_fPExactly! He doesn't know anything about fish if he thinks catfish live in lakes.
+:
+Donald_006_f*Everyone knows catfish are from the ocean!
+8
+Player_000_choice_004_fYeah, catfish are ocean fish.
+9
+Player_000_choice_005_fI think catfish are lake fish.
+A
+Player_000_choice_006_f&Catfish are native to the supermarket.
+I
+Donald_007_f9Just like I said! But now we have to prove that to Goofy.
+?
+Donald_011_f/We're going to the ocean to catch some catfish!
+=
+Donald_012_f-And you better look like a real fisherperson.
+x
+Donald_013_fhIf we catch a real catfish, it'll splash all over. You don't want to get wet. Here, put these waders on.
+F
+Donald_008_f6What?! Grr... Now I have to prove you AND Goofy wrong.
+"
+Donald_009_fHa-ha! Very funny.
+*
+Donald_003_fI don't know about that...
+g
+Donald_005_fWBut if he thinks catfish live in lakes, he definitely doesn't know anything about fish!
+‡
+Donald_004_fwFine, but he's just gonna keep thinking he's right unless you come back and prove that I'm right. And that's not right!

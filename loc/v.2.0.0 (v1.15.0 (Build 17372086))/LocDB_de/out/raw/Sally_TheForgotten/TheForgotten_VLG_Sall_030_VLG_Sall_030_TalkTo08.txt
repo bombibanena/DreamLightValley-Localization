@@ -1,0 +1,30 @@
+TAG: TheForgotten_001_f
+Let me guess: You want a food memory from me for your party with Sally and the Fairy Godmother.
+
+TAG: Player_000_choice_000_f
+Yeah! Care to share?
+
+TAG: Player_000_choice_001_f
+Are you psychic?
+
+TAG: TheForgotten_006_f
+I guess one of my good food memories is you cooking <Lore>Bouillabaisse</Lore>.
+
+TAG: TheForgotten_007_f
+After the awful one I â you... we? â cooked for Goofy... there was nothing as delicious as the fresh kind.
+
+TAG: TheForgotten_008_f
+Thanks! I'll add that to my list.
+
+TAG: TheForgotten_009_f
+Thanks for including me, {PlayerName}.
+
+TAG: TheForgotten_004_f
+Ha. No... I'm still getting used to my own thoughts, let alone everyone else's.
+
+TAG: TheForgotten_000_f
+I hear things from the ravens...
+
+TAG: TheForgotten_002_f
+Okay, fine. Sally told me.
+

@@ -1,0 +1,51 @@
+TAG: EVE_001_f
+EVE... *sigh* Directive?
+
+TAG: Player_000_choice_000_f
+Anything you need?
+
+TAG: Player_000_choice_001_f
+Sorry, I'm busy. But we'll talk later!
+
+TAG: EVE_002_f
+It must be a little weird for you, not having anything to do after guarding the Hourglass for so long.
+
+TAG: EVE_004_f
+*frantic digital beeps*
+
+TAG: EVE_005_f
+Directive!
+
+TAG: EVE_008_f
+Okay, you sound a little stressed. Let's do something fun first.
+
+TAG: Player_001_f
+There are lots of <ActivityItem>Monkeys</ActivityItem> around Ancient's Landing. Maybe we could feed some of them?
+
+TAG: Player_001_choice_000_f
+They're so funny and cute.
+
+TAG: Player_001_choice_001_f
+It could be your new directive.
+
+TAG: Player_001_choice_002_f
+No laser cannon.
+
+TAG: EVE_010_f
+Oh!
+
+TAG: EVE_000_f
+Hmmm... Those monkeys probably only eat certain things. I think I'll need to whip up something worthy of at least <ActivityItem>3 Stars</ActivityItem>.
+
+TAG: EVE_006_f
+Maybe they'd like a nice banana-based dessert...
+
+TAG: EVE_009_f
+Directive!
+
+TAG: EVE_011_f
+Oh.
+
+TAG: EVE_003_f
+Oh...
+

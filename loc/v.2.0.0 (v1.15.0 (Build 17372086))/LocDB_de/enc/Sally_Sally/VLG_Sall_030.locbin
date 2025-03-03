@@ -1,0 +1,107 @@
+
+�
+DVillage!Nightmare!Sally!VLG_Sall_030_Any_CompletedRequestDescription�Загадочная тварь, идущая за компостом, была... Майк Вазовски? Может, его чудовищные вкусы привели его к тому, что он увидел его как разносчик еды, так что Салли  должен объяснить ему, где он ошибся.
+j
+9Village!Nightmare!Sally!VLG_Sall_030_AvailableDescription-<smallcaps>{title}</smallcaps><br>Start Quest
+�
+>Village!Nightmare!Sally!VLG_Sall_030_CompletedStoryDescriptionYПоговорите с Салли , чтобы узнать, как все прошло.
+�
+0Village!Nightmare!Sally!VLG_Sall_030_DisplayNamesСалли  хочет немного хитрости в деревне, и ей нужна твоя помощь.
+�
+UVillage!Nightmare!Sally!VLG_Sall_030_Group01_Step01_TalkToCharacter01_StepDescription�С заполненным одеялом вы празднуете его создание и все воспоминания с Салли  и другими деревенскими жителями.
+r
+=Village!Nightmare!Sally!VLG_Sall_030_Group01_StoryDescription1Партия &lt; &lt; Патчворк &gt; &gt;
+�
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem01_StepDescriptioneСпроси {TargetNPC} о сотрудничестве в проекте шитья с Салли .
+�
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem02_StepDescription�Салли  говорит, что она ищет новый швейный проект. Скажи ей, что посмотришь, сможет ли она сотрудничать с Дейзи и Минни Маус.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem03_StepDescription{ItemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_BringItem04_StepDescription{ItemName}.
+S
+DVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_ReadyDescription{ItemName}.
+R
+CVillage!Nightmare!Sally!VLG_Sall_030_Group02_Step02_StepDescription{ItemName}.
+�
+OVillage!Nightmare!Sally!VLG_Sall_030_Group03_Step03_VisitArea01_StepDescription�Принесите материалы на Салли , чтобы она могла помочь с Дейзи и Минни Маус новым проектом.
+�
+LVillage!Nightmare!Sally!VLG_Sall_030_Group04_Step04_Listen01_StepDescriptioniСоберите материалы для нового проекта Дейзи и Минни Маус:
+�
+UVillage!Nightmare!Sally!VLG_Sall_030_Group05_Step05_TalkToCharacter02_StepDescription/Заходите в дом Минни Маус.
+�
+UVillage!Nightmare!Sally!VLG_Sall_030_Group05_Step06_TalkToCharacter03_StepDescriptionVПослушайте Салли  и Дейзи внутри Минни Маус House.
+�
+UVillage!Nightmare!Sally!VLG_Sall_030_Group05_Step06_TalkToCharacter04_StepDescriptionAПоговори с {TargetNPC} о швейном проекте.
+y
+UVillage!Nightmare!Sally!VLG_Sall_030_Group06_Step07_TalkToCharacter05_StepDescription Поговори с {TargetNPC}.
+a
+=Village!Nightmare!Sally!VLG_Sall_030_Group06_StoryDescription Поговори с {TargetNPC}.
+q
+MVillage!Nightmare!Sally!VLG_Sall_030_Group07_Step08_Possess01_StepDescription Поговори с {TargetNPC}.
+�
+CVillage!Nightmare!Sally!VLG_Sall_030_Group07_Step08_StepDescription�После сбора припасов вы, Дейзи и Салли  согласны с тем, что их вкусы сильно отличаются. Салли  хочет найти нового сообщника. Вы согласны поговорить с Крёстной Феей о групповом проекте.
+�
+MVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_Possess02_StepDescription`Рыба: <ActivityItem>Ancient Crystal</ActivityItem> из мистической пещеры.
+�
+MVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_Possess03_StepDescriptioniСоберите и создайте память из своих приключений в Долине:
+�
+MVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_Possess04_StepDescriptionMНайдите <ActivityItem>Feather</ActivityItem> в лесу Валора.
+�
+CVillage!Nightmare!Sally!VLG_Sall_030_Group08_Step09_StepDescriptionhНайдите nose</ActivityItem> <ActivityItem>Snowman в пещере во Фростед Хайтс.
+�
+MVillage!Nightmare!Sally!VLG_Sall_030_Group09_Step10_Possess05_StepDescriptionUНайдите <ActivityItem>Storybook</ActivityItem> в забытых землях.
+�
+MVillage!Nightmare!Sally!VLG_Sall_030_Group09_Step10_Possess06_StepDescriptioniСоберите и создайте память из своих приключений в Долине:
+e
+CVillage!Nightmare!Sally!VLG_Sall_030_Group09_Step10_StepDescriptionФруктовый салат.
+m
+OVillage!Nightmare!Sally!VLG_Sall_030_Group10_Step11_VisitArea02_StepDescriptionКоренное пиво.
+�
+=Village!Nightmare!Sally!VLG_Sall_030_Group10_StoryDescriptionnПриготовьтесь создать память из ваших приключений в Долине:
+�
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem05_StepDescription-Идите в дом Крёстной Феи.
+�
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem06_StepDescription�Фея-крестная и Салли  хотят сделать <ActivityItem>Dreamlight Память Quilt</ActivityItem> и попросить вас собрать память, чтобы они могли волшебно создавать пятна.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem07_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem08_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem09_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_BringItem10_StepDescription{itemName}.
+S
+DVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_ReadyDescription{itemName}.
+R
+CVillage!Nightmare!Sally!VLG_Sall_030_Group11_Step12_StepDescription{itemName}.
+r
+CVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_StepDescription+Принесите все на {TargetNPC}.
+�
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter06_StepDescriptionbУбедитесь, что у вас в списке есть следующие предметы:
+�
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter07_StepDescription~Спросите деревенских жителей о своих любимых пищевых воспоминаниях:
+e
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter08_StepDescription{TargetNPC}.
+e
+UVillage!Nightmare!Sally!VLG_Sall_030_Group12_Step13_TalkToCharacter09_StepDescription{TargetNPC}.
+M
+=Village!Nightmare!Sally!VLG_Sall_030_Group12_StoryDescription{TargetNPC}.
+_
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem11_StepDescription{TargetNPC}.
+�
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem12_StepDescription�Собирая память для одеяла, вы спрашиваете других деревенских жителей об их любимой пищевой памяти для вечеринки по случаю запуска.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem13_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_BringItem14_StepDescription{itemName}.
+S
+DVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_ReadyDescription{itemName}.
+R
+CVillage!Nightmare!Sally!VLG_Sall_030_Group13_Step14_StepDescription{itemName}.
+�
+NVillage!Nightmare!Sally!VLG_Sall_030_Group14_Step15_Decorate01_StepDescriptionBПринеси свою память о Мечте в {TargetNPC}.
+�
+KVillage!Nightmare!Sally!VLG_Sall_030_Group15_Step16_Party01_StepDescription9Приготовить следующее питание:
+}
+7Village!Nightmare!Sally!VLG_Sall_030_StartRequestButtonBПоместите {itemName} где угодно в долину.

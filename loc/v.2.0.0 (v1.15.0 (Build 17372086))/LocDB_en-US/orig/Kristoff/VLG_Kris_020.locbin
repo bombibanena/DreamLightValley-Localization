@@ -1,0 +1,55 @@
+
+Y
+DVillage!Frozen!Kristoff!VLG_Kris_020_Any_CompletedRequestDescriptionTalk to Kristoff.
+ˆ
+9Village!Frozen!Kristoff!VLG_Kris_020_AvailableDescriptionKKristoff is upset that he can't remember Anna, no matter how hard he tries.
+Ç
+>Village!Frozen!Kristoff!VLG_Kris_020_CompletedStoryDescription„Together, you and Elsa managed to bring back some of Kristoff's feelings for Anna... even if not all of his memories have come back.
+C
+0Village!Frozen!Kristoff!VLG_Kris_020_DisplayNameFrozen Memories
+p
+AVillage!Frozen!Kristoff!VLG_Kris_020_Group01_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+f
+UVillage!Frozen!Kristoff!VLG_Kris_020_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Elsa.
+•
+=Village!Frozen!Kristoff!VLG_Kris_020_Group01_StoryDescriptionTHe knows that he should remember her, but he can't. You decide to ask Elsa for help.
+p
+AVillage!Frozen!Kristoff!VLG_Kris_020_Group02_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+|
+OVillage!Frozen!Kristoff!VLG_Kris_020_Group02_Step02_BringItem01_StepDescription)<ActivityItem>Aquamarines</ActivityItem>.
+|
+OVillage!Frozen!Kristoff!VLG_Kris_020_Group02_Step02_BringItem02_StepDescription)<ActivityItem>Swamp Water</ActivityItem>.
+f
+DVillage!Frozen!Kristoff!VLG_Kris_020_Group02_Step02_ReadyDescriptionBring the Ingredients to Elsa.
+l
+CVillage!Frozen!Kristoff!VLG_Kris_020_Group02_Step02_StepDescription%Gather the Ingredients for the spell:
+Ž
+=Village!Frozen!Kristoff!VLG_Kris_020_Group02_StoryDescriptionMTo help Kristoff get his memories back, you need to gather a few Ingredients.
+q
+AVillage!Frozen!Kristoff!VLG_Kris_020_Group03_OngoingRequestButton,<smallcaps>{title}</smallcaps><br>What next?
+€
+UVillage!Frozen!Kristoff!VLG_Kris_020_Group03_Step03_TalkToCharacter02_StepDescription'Talk to Anna to get a lock of her hair.
+§
+=Village!Frozen!Kristoff!VLG_Kris_020_Group03_StoryDescriptionfElsa's memories aren't strong enough for the spell. You'll need something from Anna to make this work.
+p
+AVillage!Frozen!Kristoff!VLG_Kris_020_Group04_OngoingRequestButton+<smallcaps>{title}</smallcaps><br>What now?
+|
+OVillage!Frozen!Kristoff!VLG_Kris_020_Group04_Step04_BringItem03_StepDescription)<ActivityItem>Anna's Hair</ActivityItem>.
+„
+DVillage!Frozen!Kristoff!VLG_Kris_020_Group04_Step04_ReadyDescription<Bring <ActivityItem>Anna's Hair</ActivityItem> back to Elsa.
+•
+CVillage!Frozen!Kristoff!VLG_Kris_020_Group04_Step04_StepDescriptionNMake sure you have <ActivityItem>Anna's Hair</ActivityItem> in your Inventory.
+{
+AVillage!Frozen!Kristoff!VLG_Kris_020_Group05_OngoingRequestButton6<smallcaps>{title}</smallcaps><br>Place the ice block.
+¢
+NVillage!Frozen!Kristoff!VLG_Kris_020_Group05_Step05_Decorate01_StepDescriptionPPlace the <ActivityItem>Magic Ice Block</ActivityItem> somewhere in the Village.
+¦
+=Village!Frozen!Kristoff!VLG_Kris_020_Group05_StoryDescriptioneElsa has made you a block of ice with a Memory inside. Now you'll need to carve the Memory out of it.
+{
+AVillage!Frozen!Kristoff!VLG_Kris_020_Group06_OngoingRequestButton6<smallcaps>{title}</smallcaps><br>Sculpting the block.
+¢
+SVillage!Frozen!Kristoff!VLG_Kris_020_Group06_Step06_RemoveBlocker01_StepDescriptionKSculpt the <ActivityItem>Magic Ice Block</ActivityItem> using your Pickaxe.
+Ÿ
+=Village!Frozen!Kristoff!VLG_Kris_020_Group06_StoryDescription^The only thing left to do is to hope that Kristoff remembers something upon seeing the statue.
+o
+7Village!Frozen!Kristoff!VLG_Kris_020_StartRequestButton4<smallcaps>{title}</smallcaps><br>What's the matter?

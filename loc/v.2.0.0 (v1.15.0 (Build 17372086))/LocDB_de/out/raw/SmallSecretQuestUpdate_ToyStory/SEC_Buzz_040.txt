@@ -1,0 +1,42 @@
+TAG: Secret!ToyStory!SEC_Buzz_040_Any_CompletedRequestDescription
+Report to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_AvailableDescription
+You've found all the Aliens! Buzz has a reward for you... and one last request.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_CompletedStoryDescription
+It's time to return to Buzz and see what he thinks.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_DisplayName
+We Are Eternally Grateful!
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group01_Step01_TalkToCharacter01_StepDescription
+Report to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group01_StepDescription
+Calling all Space Rangers!
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate01_StepDescription
+Place <ActivityItem>Playful Furniture</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate02_StepDescription
+Place the <ActivityItem>Red Furniture</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate03_StepDescription
+Place <ActivityItem>Purple Furniture</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_Step02_Decorate04_StepDescription
+Place <ActivityItem>Alien Toys</ActivityItem>.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_StepDescription
+Create the perfect "Alien Habitat" in the Village:
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group02_StoryDescription
+Buzz asks you to create a special place for the Alien Toys in Dreamlight Valley to make them feel more at home.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group03_Step03_TakePicture01_StepDescription
+Take a picture of your Alien Habitat.
+
+TAG: Secret!ToyStory!SEC_Buzz_040_Group03_StoryDescription
+You created an out-of-this-world habitat for all forms of extraterrestrial life. All that remains is to take a picture to show Buzz.
+

@@ -1,0 +1,51 @@
+TAG: Kristoff_000_f
+Отличный <ActivityItem>Carrot Moap</ActivityItem>, {PlayerName}!
+
+TAG: Kristoff_003_f
+И <ActivityItem> Coconut</ActivityItem> действительно добавляет к этому.
+
+TAG: Kristoff_002_f
+Ладно, я должен спросить: почему <ActivityItem>Marrot</ActivityItem>?
+
+TAG: Player_000_choice_000_f
+Тебе правда нравится запах?
+
+TAG: Player_000_choice_001_f
+Привязано ли к нему конкретное воспоминание?
+
+TAG: Player_000_choice_002_f
+Ты же знаешь, что ты не ешь мыло... верно?
+
+TAG: Kristoff_004_f
+Что может быть лучше морковки?
+
+TAG: Kristoff_001_f
+Ладно, пора мне попробовать это новое мыло.
+
+TAG: Kristoff_007_f
+Знаешь, мне было очень хорошо.*Принюхайся.*Надеюсь, я не пахну тортом.
+
+TAG: Player_001_choice_000_f
+Я рад, что помог.
+
+TAG: Player_001_choice_001_f
+Спасибо, что научил меня делать <ActivityItem>Marrot Moap</ActivityItem>.
+
+TAG: Player_001_choice_002_f
+Запах пропал!
+
+TAG: Kristoff_008_f
+Ну, ты действительно хорошо помогаешь всем здесь, и я знаю, что мы все это ценим.
+
+TAG: Kristoff_009_f
+В любое время!
+
+TAG: Kristoff_010_f
+Всё было не так уж и плохо!
+
+TAG: Kristoff_005_f
+Когда я рос, морковь всегда была большим угощением для меня и моего друга Свена.
+
+TAG: Kristoff_006_f
+С чего бы мне это делать?*Вздыхай.*Нет, я не ем мыло, просто олени обожают запах.
+

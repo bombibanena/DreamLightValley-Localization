@@ -1,0 +1,51 @@
+TAG: Lorekeeper_000_f
+Maleficent and Hades have agreed to meet?
+
+TAG: Lorekeeper_001_f
+They have. But something a little funny came up when I talked to both of them.
+
+TAG: Player_000_choice_000_f
+They both blamed the other for starting the feud.
+
+TAG: Player_000_choice_002_f
+Are we SURE the Neverafter is connected with them?
+
+TAG: Lorekeeper_002_f
+More finger pointing, of course. We should have expected as much.
+
+TAG: Lorekeeper_006_f
+I'm not so sure about that.
+
+TAG: Lorekeeper_004_f
+Maleficent and Hades both said that <Lore>the ink started showing up BEFORE their feud began</Lore>.
+
+TAG: Lorekeeper_005_f
+Why... they must be mistaken. The Neverafter is surely connected to their feud!
+
+TAG: Lorekeeper_007_f
+If it isn't... then I'm afraid I don't have the faintest clue what's really causing all this trouble.
+
+TAG: Lorekeeper_008_f
+No. This MUST be the doing of those vile villains.
+
+TAG: Lorekeeper_009_f
+Oh dear... Speaking of which... the Mistress of All Evil has finally taken it upon herself to come down from her castle!
+
+TAG: Lorekeeper_010_f
+And Hades is sure to be here at any moment.
+
+TAG: Lorekeeper_012_f
+Let the first meeting of the <Lore>Grand Council of the Neverafter</Lore> begin!
+
+TAG: Lorekeeper_011_f
+If fireballs start to fly... do be sure to duck.
+
+TAG: Lorekeeper_013_f
+Let the first meeting of the <Lore>Guardians of the Vale</Lore> begin!
+
+TAG: Lorekeeper_014_f
+Let the first meeting of the <Lore>Lorekeeper's Legion</Lore> begin!
+
+TAG: Lorekeeper_003_f
+What do you mean? Why, it must be!
+

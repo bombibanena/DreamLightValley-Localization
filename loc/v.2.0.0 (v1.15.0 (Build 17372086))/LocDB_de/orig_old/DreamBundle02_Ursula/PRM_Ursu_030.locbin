@@ -1,0 +1,69 @@
+
+w
+FPremium!LilMermaid!Ursula!PRM_Ursu_030_Any_CompletedRequestDescription-Возвращайтесь на Урсула.
+�
+;Premium!LilMermaid!Ursula!PRM_Ursu_030_AvailableDescription�Урсула готовый подумать о том, чтобы вернуть голоса, которые она приняла от деревенских жителей, но сначала вам нужно поймать немного кальмара...
+�
+@Premium!LilMermaid!Ursula!PRM_Ursu_030_CompletedStoryDescription�Теперь, когда жители деревни получили свои голоса обратно, пришло время проверить Урсула.
+M
+2Premium!LilMermaid!Ursula!PRM_Ursu_030_DisplayNameГолос разума
+�
+OPremium!LilMermaid!Ursula!PRM_Ursu_030_Group01_Step01_Possess01_StepDescription�Рыба для <ActivityItem>Voice Squid</ActivityItem> в Глейде доверия, Мирном Мидоу и Лесе Валора.
+a
+EPremium!LilMermaid!Ursula!PRM_Ursu_030_Group02_Step02_StepDescriptionПоговорить с:
+l
+WPremium!LilMermaid!Ursula!PRM_Ursu_030_Group02_Step02_TalkToCharacter01_StepDescriptionМирабель.
+l
+WPremium!LilMermaid!Ursula!PRM_Ursu_030_Group02_Step02_TalkToCharacter02_StepDescriptionКристофф.
+�
+WPremium!LilMermaid!Ursula!PRM_Ursu_030_Group02_Step02_TalkToCharacter03_StepDescription8Матушка Готель Матушка Готель.
+�
+QPremium!LilMermaid!Ursula!PRM_Ursu_030_Group03_Step03_BringItem01_StepDescriptiongУбедитесь, что у вас в списке есть <ActivityItem>Voice Squid</ActivityItem>.
+�
+FPremium!LilMermaid!Ursula!PRM_Ursu_030_Group03_Step03_ReadyDescriptionLВозьмите <ActivityItem>Voice Squid</ActivityItem> на Урсула.
+v
+OPremium!LilMermaid!Ursula!PRM_Ursu_030_Group04_Step04_Possess02_StepDescription#<ActivityItem>Clams</ActivityItem>.
+y
+OPremium!LilMermaid!Ursula!PRM_Ursu_030_Group04_Step04_Possess03_StepDescription&<ActivityItem>Scallops</ActivityItem>.
+u
+OPremium!LilMermaid!Ursula!PRM_Ursu_030_Group04_Step04_Possess04_StepDescription"<ActivityItem>Clay</ActivityItem>.
+y
+OPremium!LilMermaid!Ursula!PRM_Ursu_030_Group04_Step04_Possess05_StepDescription&<ActivityItem>Hardwood</ActivityItem>.
+`
+EPremium!LilMermaid!Ursula!PRM_Ursu_030_Group04_Step04_StepDescriptionСобирайтесь:
+�
+?Premium!LilMermaid!Ursula!PRM_Ursu_030_Group04_StoryDescription�После того, как Морская Ведьма принесла ей как Голосовой кальмар, так и стихи, она поручила тебе собрать материалы и построить для нее новую сцену для ее очарования.
+�
+QPremium!LilMermaid!Ursula!PRM_Ursu_030_Group05_Step05_CraftItem01_StepDescription,<ActivityItem>Enchaned Stage</ActivityItem>.
+�
+QPremium!LilMermaid!Ursula!PRM_Ursu_030_Group06_Step06_BringItem02_StepDescriptionAУбедитесь, что {itemName} в вашем списке.
+x
+FPremium!LilMermaid!Ursula!PRM_Ursu_030_Group06_Step06_ReadyDescription.Возьмите {itemName} на Урсула.
+�
+PPremium!LilMermaid!Ursula!PRM_Ursu_030_Group07_Step07_Decorate01_StepDescription;Поместите {itemName} в Глейд доверия.
+�
+MPremium!LilMermaid!Ursula!PRM_Ursu_030_Group08_Step08_Party01_StepDescription/Обратно проклятие Урсула.
+�
+EPremium!LilMermaid!Ursula!PRM_Ursu_030_Group09_Step09_StepDescription�Убедись, что волшебство сработало, разговаривая с деревенскими жителями:
+l
+WPremium!LilMermaid!Ursula!PRM_Ursu_030_Group09_Step09_TalkToCharacter04_StepDescriptionМирабель.
+l
+WPremium!LilMermaid!Ursula!PRM_Ursu_030_Group09_Step09_TalkToCharacter05_StepDescriptionКристофф.
+�
+WPremium!LilMermaid!Ursula!PRM_Ursu_030_Group09_Step09_TalkToCharacter06_StepDescription8Матушка Готель Матушка Готель.
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_030_Group02_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_030_Group03_OngoingRequestButtongПринесите мне <ActivityItem>Voice Squid</ActivityItem>, как только сможете.
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_030_Group04_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+~
+CPremium!LilMermaid!Ursula!PRM_Ursu_030_Group05_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_030_Group06_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_030_Group07_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+�
+CPremium!LilMermaid!Ursula!PRM_Ursu_030_Group09_OngoingRequestButton<<smallcaps>{title}</smallcaps><br> Что вам нужно?
+j
+9Premium!LilMermaid!Ursula!PRM_Ursu_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

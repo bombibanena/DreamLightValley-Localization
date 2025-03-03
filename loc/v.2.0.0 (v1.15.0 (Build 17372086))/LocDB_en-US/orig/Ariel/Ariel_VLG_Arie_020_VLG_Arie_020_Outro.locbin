@@ -1,0 +1,37 @@
+
+X
+Ariel_000_fI{PlayerName}, have you found out anything else about where Eric might be?
+…
+Player_001_fuEric told you he was going to talk to someone. The <ActivityItem>Memory</ActivityItem> shows him talking to Ursula...
+3
+Player_001_choice_000_fShe must know something.
+0
+Player_001_choice_001_fWhy would he do that?
+:
+Player_001_choice_002_fIs it possible he betrayed you?
+"
+Ariel_005_fOh, I bet she does!
+N
+Ariel_008_f?That worries me. How are we going to get her to tell the truth?
+!
+Player_000_fI'll handle it...
+<
+Player_000_choice_000_f!I don't want you to be in danger.
+D
+Player_000_choice_001_f)This calls for someone with a clear head.
+E
+Player_000_choice_002_f*I'll show her who's in charge around here.
+c
+Ariel_001_fTOh, I'm not afraid of danger. But you're right. Ursula will never tell me the truth.
+~
+Ariel_009_foShe won't share her secrets with just anyone. You'll have to earn her trust... even her friendship, if you can.
+m
+Ariel_003_f^Please be careful! Ursula can be very dangerous. I'll be waiting right here when you get back.
+o
+Ariel_002_f`You're right. I can't hide how upset I am, and Ursula would use that to try and trick me. Now...
+i
+Ariel_004_fZWe're so lucky to have you protecting the Village. Thank you for talking to Ursula for me.
+X
+Ariel_006_fII'm not sure. Maybe he thought she knew something about the Forgetting...
+K
+Ariel_007_f<No, he'd never do that! She must have done something to him.

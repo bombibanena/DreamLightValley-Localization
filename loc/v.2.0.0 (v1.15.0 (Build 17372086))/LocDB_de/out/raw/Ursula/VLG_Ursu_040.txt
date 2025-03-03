@@ -1,0 +1,54 @@
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Any_CompletedRequestDescription
+Talk to Ursula about what you found out.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_AvailableDescription
+Ursula is still back on her hunt for power. She wants to talk to you about it.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_CompletedStoryDescription
+Maybe the Sea Witch will know exactly what this Flower is.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_DisplayName
+Magic Moments
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group01_StepDescription
+Ask Mother Gothel about the curse.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group01_StoryDescription
+Persuaded that Mother Gothel knows more than she lets on, she enlists you to question the witch.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group02_Step02_CookMeal01_StepDescription
+<ActivityItem>Sushi</ActivityItem>.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group02_Step02_CookMeal02_StepDescription
+{ItemName}.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group02_StepDescription
+Cook the following meals for Mother Gothel:
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group02_StoryDescription
+Never letting an opportunity pass her by, Mother Gothel asks you to bring her food in exchange for the answer you need.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group03_StepDescription
+Bring the mysterious flower to Ursula.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group03_StoryDescription
+Upon receiving the meals you promised, Mother Gothel tells you about a mysterious flower. It's clear that you need to bring the plant to Ursula and that's exactly what you do.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What must I do?
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_Group05_StepDescription
+Bring the <ActivityItem>Sushi</ActivityItem> and <ActivityItem>Lobster Roll</ActivityItem> to Mother Gothel.
+
+TAG: Village!LilMermaid!Ursula!VLG_Ursu_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

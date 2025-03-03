@@ -1,0 +1,35 @@
+
+*
+Gaston_000_fOK Gaston, we're all done!
+7
+Gaston_001_f'What did you think of our performances?
+V
+Gaston_002_fFWell, I wouldn't consider EITHER of your actions up to my standards...
+/
+Player_000_choice_000_fI'm not surprised...
+7
+Player_000_choice_001_fWhat?! But I worked so hard!
+V
+Gaston_003_fFOf course, the standards I set for myself would be impossible for you.
+f
+Gaston_005_fVStill, since I'M not competing, I suppose I must pick a winner between the two of you.
+7
+Gaston_006_f'And one of you CLEARLY came out on top.
+3
+Gaston_007_f#That contestant is... {PlayerName}!
+
+Player_001_choice_000_fYES!
++
+Player_001_choice_001_fSorry, Oswald...
+M
+Gaston_008_f=While I must admit I winced at every swing of your Pickaxe...
+N
+Gaston_009_f>...you at least TRIED to use your strength for the task I set.
+E
+Gaston_010_f5The rabbit just... used some sort of strange sorcery.
+v
+Gaston_011_ffIt's clear that you "won." Although the real winner is ME, for being a fair judge of this sad display.
+8
+Gaston_012_f(Gee... Thanks for being a judge, Gaston.
+%
+Gaston_004_fYou did. What a pity.

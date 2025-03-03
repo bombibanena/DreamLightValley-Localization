@@ -1,0 +1,66 @@
+TAG: Mickey_000_f
+Hiya, {PlayerName}! Do you need some help?
+
+TAG: Mickey_002_f
+I do. Donald thinks the Village is under invasion by sock-stealing space aliens.
+
+TAG: Mickey_003_f
+Ha-ha! Yeah, I've heard him talkin' about it.
+
+TAG: Player_000_f
+I've been investigating to try to...
+
+TAG: Player_000_choice_000_f
+...find the space aliens and stop them!
+
+TAG: Player_000_choice_001_f
+...prove there aren't any space aliens.
+
+TAG: Player_000_choice_002_f
+...figure out what's going on.
+
+TAG: Mickey_005_f
+Gosh, so you really think we've got space aliens stealin' socks around here?
+
+TAG: Mickey_006_f
+I know it. I'm on the trail of another clue.
+
+TAG: Mickey_009_f
+I found this <ActivityItem>Knitted Sock</ActivityItem>. Is it yours?
+
+TAG: Mickey_010_f
+I don't think so. It doesn't look like any of my other socks, so even if the Forgetting made me forget, I doubt it's one of mine.
+
+TAG: Mickey_011_f
+Say... I think I remember somebody making those, though.
+
+TAG: Mickey_015_f
+It was the Fairy Godmother!
+
+TAG: Mickey_017_f
+She's always doing whatever she can to make sure everybody in the Village is happy and taken care of... even making sure our feet are warm!
+
+TAG: Mickey_014_f
+I bet she conjured these to give to somebody special as a gift.
+
+TAG: Mickey_013_f
+I guess I'll have to figure out who that someone special was. Thanks, Mickey!
+
+TAG: Mickey_012_f
+It was somebody who used to take care of everybody in the Village... including making sure our feet stayed warm.
+
+TAG: Mickey_016_f
+If I try real hard, I can almost remember what she looked like... but not quite.
+
+TAG: Mickey_007_f
+So you don't think there are space aliens here? But who's stealing all the socks?
+
+TAG: Mickey_008_f
+That's what I'm trying to figure out. I'm on the trail of another clue.
+
+TAG: Mickey_018_f
+Oh boy! So you think there might really be sock-stealin' space aliens around here?
+
+TAG: Mickey_019_f
+We can't rule anything out. I'm on the trail of another clue.
+

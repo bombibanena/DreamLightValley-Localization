@@ -1,0 +1,35 @@
+
+l
+Donald_000_f\Hey, {PlayerName}! I know how we can finish my special project! Do you have time to help me?
+0
+Player_000_choice_000_fSure. How can I help?
+0
+Player_000_choice_001_fI'll come back later.
+m
+Donald_005_f]Well, I was marching around the Sunlit Plateau, keeping an eye out for any sign of trouble...
+7
+Player_001_choice_000_fThat's awfully brave of you.
+>
+Player_001_choice_001_f#Keep YOURSELF out of trouble, okay?
+1
+Player_001_choice_002_fDid you find anything?
+W
+Donald_011_fGYou're always looking out for ways to help the Village. It's inspiring.
+7
+Donald_007_f'Well, I'm very inspirational! Ha-ha-ha!
+<
+Donald_012_f,So, what did you find on the Sunlit Plateau?
+(
+Donald_013_fI found an old campsite.
+}
+Donald_006_fmI think it was the one Kristoff and I made when we were on our quest to save the Village from the Forgetting.
+j
+Donald_004_fZI remember I hid something very important there. Follow me! We can search for it together.
+†
+Donald_008_fvThe last time you went out trying to save the Village, you jumped through a Dark Portal and got lost in another world.
+&
+Donald_009_fSo... just be careful.
+M
+Donald_010_f=I don't know what you're talking about. That worked out fine.
+R
+Donald_003_fBYou don't have time to help?! Then how come you're talking to me?!

@@ -1,0 +1,69 @@
+
+I
+Minnie_000_f9Hey, Minnie. I found this book lying around in the Plaza.
+n
+Minnie_001_f^I thought it might have been Merlin's, but it's got notes in your handwriting stuck inside it.
+E
+Minnie_002_f5Oh, thank you! I've been looking for that everywhere.
+5
+Player_000_f%What were you doing with a spellbook?
+6
+Player_000_choice_000_fLooking to become a wizard?
+3
+Player_000_choice_001_fLooking to hex somebody?
+A
+Player_000_choice_002_f&Did Mickey cause another broom mishap?
+"
+Minnie_003_fOh no, not at all!
+‡
+Minnie_004_fwI borrowed some books from Merlin because... well... I wanted to find out everything I could about what happened to me.
+;
+Minnie_005_f+What happened to you? You mean, when you...
+<
+Minnie_006_f,...when I disappeared to the Here and There.
+b
+Minnie_007_fRI've been having some trouble sleeping. I'm just so worried it might happen again.
+=
+Player_001_choice_000_f"I'm sorry you're feeling that way.
+>
+Player_001_choice_001_f#You don't need to worry about that.
+C
+Player_001_choice_002_f(I'll never let that happen to you again.
+S
+Minnie_008_fCOh, thank you, {PlayerName}. But it's not me I'm worried about now.
+:
+Minnie_010_f*If I could disappear... then anyone could!
+~
+Minnie_011_fnSometimes I look at the other Villagers and I'm frightened they're starting to disappear right before my eyes.
+›
+Minnie_012_fŠI just know there has to be an answer somewhere in Merlin's library. There must be some way we can make sure no one ever disappears again.
+F
+Minnie_013_f6But I can't make heads or tails of any of these books.
+Z
+Player_002_fJI'll go talk to Merlin and see if he has any ideas. We have to solve this.
+@
+Player_002_choice_000_f%I want you to feel safe here, Minnie.
+B
+Player_002_choice_001_f'We can't have people just disappearing.
+I
+Player_002_choice_002_f.The next person who disappears could be... me!
+A
+Minnie_014_f1You're so kind, {PlayerName}. And I do... mostly.
+‰
+Minnie_015_fyI was trying to figure all this out without bothering Merlin. But you're probably right. We should ask him for more help.
+†
+Minnie_016_fvI'll keep trying to see if there's anything in these books that might be a clue while you <Lore>talk to Merlin</Lore>.
+Z
+Minnie_017_fJExactly. We must do whatever we can to make the Village safe for everyone.
+`
+Minnie_018_fPOh, I didn't even think of that! We'd be in a lot of trouble if you disappeared.
+4
+Minnie_009_f$Well, it's not me I'm worried about.
+L
+Minnie_019_f<I'm certain you wouldn't. But it's not me I'm worried about.
+e
+Minnie_020_fUOh no! Even if I were trying to do magic myself, I could never put a spell on anyone.
+w
+Minnie_021_fgWell, unless it was a good spell Ã¢Â€Â” like being able to understand what kittens are saying. Hee-hee.
+]
+Minnie_022_fMOh, no. Hee-hee. I think Mickey learned his lesson about that the first time.

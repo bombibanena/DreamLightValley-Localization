@@ -1,0 +1,41 @@
+
+Y
+GRealm!LionKing!RLM_LionKingIP_Simba_010_Any_CompletedRequestDescriptionTalk to Simba.
+ë
+<Realm!LionKing!RLM_LionKingIP_Simba_010_AvailableDescription–Nala has journeyed to your Village, but Simba has stayed behind in the Realm because he has something on his mind. You'll need to help him solve whatever's bothering him before he'll join you in your Village.
+ã
+XRealm!LionKing!RLM_LionKingIP_Simba_010_Group02_Step02_TalkToCharacter02_StepDescription/Return to Dreamlight Valley and talk to Merlin.
+_
+PRealm!LionKing!RLM_LionKingIP_Simba_010_Group03_Step03_Possess01_StepDescription{ItemName}.
+ê
+RRealm!LionKing!RLM_LionKingIP_Simba_010_Group04_Step04_CraftItem01_StepDescription:Craft <ActivityItem>Rafiki's Walking Stick</ActivityItem>.
+t
+RRealm!LionKing!RLM_LionKingIP_Simba_010_Group05_Step05_VisitArea01_StepDescriptionReturn to The Lion King Realm.
+j
+XRealm!LionKing!RLM_LionKingIP_Simba_010_Group06_Step06_TalkToCharacter03_StepDescriptionTalk to Simba.
+Ä
+XRealm!LionKing!RLM_LionKingIP_Simba_010_Group09_Step09_FollowCharacter01_StepDescription$Follow Simba deeper into the jungle.
+•
+TRealm!LionKing!RLM_LionKingIP_Simba_010_Group10_Step10_FillKeyhole01_StepDescriptionMPlace <ActivityItem>Rafiki's Walking Stick</ActivityItem> on the stone mound.
+l
+XRealm!LionKing!RLM_LionKingIP_Simba_010_Group11_Step11_TalkToCharacter05_StepDescriptionReturn to Simba.
+Ç
+PRealm!LionKing!RLM_LionKingIP_Simba_010_Group12_Step12_Possess02_StepDescription.<ActivityItem>Jungle Fern Seed.</ActivityItem>
+É
+RRealm!LionKing!RLM_LionKingIP_Simba_010_Group16_Step16_VisitArea02_StepDescription-Go back to the dried-out oasis to meet Simba.
+Ñ
+VRealm!LionKing!RLM_LionKingIP_Simba_010_Group17_Step17_RemoveBlocker03_StepDescription*Use your Pickaxe to free the water source.
+j
+XRealm!LionKing!RLM_LionKingIP_Simba_010_Group18_Step18_TalkToCharacter08_StepDescriptionTalk to Simba.
+r
+RRealm!LionKing!RLM_LionKingIP_Simba_010_Group19_Step19_VisitArea03_StepDescriptionReturn to Dreamlight Valley.
+
+XRealm!LionKing!RLM_LionKingIP_Simba_010_Group20_Step20_UnlockCharacter01_StepDescription#Welcome Simba to Dreamlight Valley.
+{
+DRealm!LionKing!RLM_LionKingIP_Simba_010_Group03_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What was I doing?
+v
+DRealm!LionKing!RLM_LionKingIP_Simba_010_Group05_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+Å
+DRealm!LionKing!RLM_LionKingIP_Simba_010_Group10_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What was I doing again?
+}
+DRealm!LionKing!RLM_LionKingIP_Simba_010_Group20_OngoingRequestButton5<smallcaps>{title}</smallcaps><br>What were we doing?

@@ -1,0 +1,45 @@
+TAG: Merlin_000_f
+A fine selection of mystical flora! Excellent work, {PlayerName}.
+
+TAG: Merlin_001_f
+Now, I will weave these into an enchantment for your Watering Can.
+
+TAG: Merlin_003_f
+If all goes well, you can then obliterate some rather bothersome Mushrooms entirely and instantly.
+
+TAG: Player_000_choice_000_f
+Can this magic be used to prevent Night Thorns from growing?
+
+TAG: Player_000_choice_001_f
+What's wrong with those Mushrooms?
+
+TAG: Player_000_choice_002_f
+Is this safe?
+
+TAG: Merlin_004_f
+Very perceptive. THAT is something we can hope to work towards.
+
+TAG: Merlin_008_f
+But don't use this enchantment on the Night Thorns yet.
+
+TAG: Merlin_009_f
+It won't have any effect on magical plants. We should start with the Mushrooms.
+
+TAG: Merlin_005_f
+Oh, this is mostly a test to see if the enchantment works.
+
+TAG: Merlin_010_f
+But also, I rather dislike how they smell.
+
+TAG: Merlin_011_f
+So this will be useful on two fronts: a magical test and landscaping.
+
+TAG: Merlin_007_f
+As safe as anything is, my friend.
+
+TAG: Merlin_012_f
+Which is to say: Possibly not at all.
+
+TAG: Merlin_013_f
+But we must accept what risks come with the adventure that is life.
+

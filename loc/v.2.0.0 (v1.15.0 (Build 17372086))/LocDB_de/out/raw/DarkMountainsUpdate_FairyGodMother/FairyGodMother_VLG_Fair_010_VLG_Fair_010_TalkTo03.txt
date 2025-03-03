@@ -1,0 +1,36 @@
+TAG: FairyGodMother_000_f
+There. That is what I wanted to show you.
+
+TAG: FairyGodMother_001_f
+It's a... Well, let's call it a miracle in progress. After all, even miracles take a little time.
+
+TAG: FairyGodMother_002_f
+Yes, you see, being a fairy godparent isn't always about magic... Sometimes you must do a bit of work without the wand.
+
+TAG: FairyGodMother_003_f
+And thanks to you, {PlayerName}, we now have a way to protect this from the fires.
+
+TAG: Player_000_choice_000_f
+You're so welcome.
+
+TAG: Player_000_choice_001_f
+But what is it supposed to be?
+
+TAG: Player_000_choice_002_f
+Let me guess. It's a pumpkin?
+
+TAG: FairyGodMother_004_f
+Now dear, keep in mind... as leader, you must always be this kind.
+
+TAG: FairyGodMother_005_f
+One thing I CAN tell true... this is a gift for you.
+
+TAG: FairyGodMother_006_f
+Well, toodle-oo, {PlayerName}. We'll meet again soon!
+
+TAG: FairyGodMother_007_f
+Surely you must realize: It is meant as a surprise!
+
+TAG: FairyGodMother_008_f
+That I cannot say. You'll have to find out some other way.
+

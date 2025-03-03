@@ -1,0 +1,57 @@
+
+}
+Mulan_003_fn{PlayerName}, there's something from my childhood that I'd love to bring to the Village. Do you have a moment?
+/
+Player_000_choice_001_fSure, I'm listening.
+5
+Player_000_choice_002_fLet's talk about it later.
+z
+Mulan_004_fkIt's called a shadow play. When I was a little girl, these traveling puppet shows would come to my village.
+f
+Mulan_006_fWThey were... magical. So, I was thinking... what if we brought some of that magic here?
+-
+Player_001_choice_000_fWhat a great idea!
+=
+Player_001_choice_001_f"What story would you like to tell?
+4
+Player_001_choice_002_fPuppets. Are. TERRIFYING.
+L
+Mulan_007_f=I'm glad you think so. It's a tradition I'm excited to share.
+'
+Player_002_fI'm sure she will be...
+4
+Player_002_choice_000_f...delighted to help you.
+J
+Player_002_choice_001_f/...enthusiastic about such a creative endeavor.
+/
+Player_002_choice_002_f...easy to convince.
+≠
+Mulan_008_fùI want the shadow play to be about what happened when Mushu and I left the Village during the Forgetting. Our search for a solution, our journey back home...
+7
+Mulan_000_f(Forgetting and remembering... All of it.
+6
+Mulan_012_f'What can I do to help make this happen?
+ç
+Mulan_018_f~Well, a lot of things go into making a Shadow Theater. I don't think I can write the play AND gather all the materials for it.
+ù
+Mulan_019_fçCould you find the stuff for the theater? I've made a list. I need to go talk to Mushu about what he remembers before I can start the script.
+(
+Mulan_020_fOf course. Anything else?
+ñ
+Mulan_021_fÜYes. We need someone who can actually make the <ActivityItem>Shadow Puppets</ActivityItem>. I'm good at a lot of things, but not that.
+E
+Mulan_022_f6Minnie is so creative. Do you think you could ask her?
+3
+Mulan_023_f$Oh, I hope so. She's always so kind.
+¿
+Mulan_026_f∞All right, gathering supplies for the <ActivityItem>Shadow Theater</ActivityItem> and asking Minnie about making the <ActivityItem>Shadow Puppets</ActivityItem>. I've got this.
+;
+Mulan_027_f,Great. Let's regroup as soon as you're done.
+
+Mulan_024_fOh, I hope so.
+z
+Mulan_025_fkYou're thinking like a tactician, {PlayerName}. That's good, but I'm not sure you'll need that with Minnie.
+X
+Mulan_009_fIOh... But these puppets will be of Mushu and me! That's not scary, right?
+'
+Mulan_005_fOf course. See you soon!

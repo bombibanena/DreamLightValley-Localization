@@ -1,0 +1,123 @@
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Any_CompletedRequestDescription
+Talk to Aladdin.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_AvailableDescription
+Aladdin's got a twinkle in his eye. Something is going on...
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_CompletedStoryDescription
+Scrooge McDuck thanks you and Aladdin for helping to test his security system. Clearly, it's not thief-proof. He'll keep looking, while you and Aladdin celebrate your victory.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_DisplayName
+Good As Gold
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group01_Step01_TalkToCharacter01_StepDescription
+Talk to Scrooge McDuck about testing his shop's new security system.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group02_Step02_VisitArea01_StepDescription
+Visit Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group02_StoryDescription
+Aladdin explains to you that his old friend Scrooge McDuck has asked the two of you to test a new security system for his shop. You agree and speak to Scrooge, who encourages you to explore and scout out the shop before your "heist."
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_StepDescription
+Take photos of the following places in Scrooge McDuck's General Store:
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_TakePicture01_StepDescription
+A door that guards more treasure than the Cave of Wonders.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_TakePicture02_StepDescription
+A way to reach the second floor of the shop.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group03_Step03_TakePicture03_StepDescription
+Ways to make quick escapes from guards.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to {TargetNPC}.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group05_Step05_DressUp01_StepDescription
+Sporty.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group05_Step05_DressUp02_StepDescription
+Dark in color.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group05_Step05_StepDescription
+Dress up in clothing that's:
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group05_Step06_Conditional01_StepDescription
+(Optional) Wait for nightfall (6 p.m. - 6 a.m.) before dressing up.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group06_Step07_VisitArea02_StepDescription
+Go inside Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group06_StoryDescription
+After scouting out the shop, you and Aladdin prepare for your heist by getting dressed in easy-to-move-in clothing and (perhaps) wait for dark.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group07_Step08_FollowCharacter01_StepDescription
+Follow {targetNPC} inside Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group07_Step08_FollowCharacter01_TalkToDescription
+Talk to {targetNPC} inside Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group08_Step09_VisitArea03_StepDescription
+To begin Scrooge McDuck's security system test, go inside his shop and press the button on the wall beside the counter.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group09_Step10_TalkToCharacter03_StepDescription
+Talk to {TargetNPC} inside Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group10_Step11_Conditional02_StepDescription
+Push the button on the upstairs table in Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group11_Step12_Conditional03_StepDescription
+Press buttons to navigate the security system to reach the first floor of Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group12_Step13_Conditional04_StepDescription
+Deactivate Scrooge McDuck's security system by <Lore>pressing the button located on the wall behind the counter</Lore>.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group12_StoryDescription
+You and Aladdin enter Scrooge McDuck's General Store and activate the security system. The lights shut off, and suddenly the system kicks in! You and Aladdin note switches around the store to control the lights, and determine to use them to reach the vault without getting caught.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group13_Step14_FollowCharacter02_StepDescription
+Follow Aladdin to the vault in Scrooge McDuck's General Store.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group13_Step14_FollowCharacter02_TalkToDescription
+Talk to {TargetNPC} next to Scrooge McDuck's vault.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group14_Step15_StepDescription
+The vault shut, and a bunch of enchanted coins escaped! Catch them!
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group15_Step16_BringItem01_StepDescription
+Make sure you have every {itemName} in your Inventory.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group15_Step16_ReadyDescription
+Bring every {itemName} to {targetNPC}.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group15_StoryDescription
+Once you reach the vault, coins escape, zooming out of it. You pursue them with Aladdin to catch them all!
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group16_Step17_VisitArea04_StepDescription
+Go to Dreamlight Valley.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group17_Step18_Possess01_StepDescription
+Catch every remaining {itemName} throughout the Valley.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group18_Step20_VisitArea05_StepDescription
+Go inside Aladdin and Jasmine's House.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group19_Step21_BringItem02_StepDescription
+Make sure you have every {itemName} in your Inventory.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group19_Step21_ReadyDescription
+Give every {itemName} you caught to {TargetNPC}.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group20_Step22_TakePicture04_StepDescription
+Take a picture of Aladdin with Scrooge McDuck's coins.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group20_StoryDescription
+You and Aladdin manage to catch all of Scrooge McDuck's enchanted coins, and regroup at his House.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_Group21_Step23_Listen01_StepDescription
+Listen to Aladdin and Scrooge McDuck discuss the heist in the Valley.
+
+TAG: Village!Aladdin!Aladdin!VLG_Alad_010_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,29 @@
+
+a
+Sally_000_fRI think we're good. We've only recently started seeing each other in this new way.
+;
+Sally_001_f,But it's going very well. He makes me happy.
+>
+Player_000_choice_000_f#How long have you known each other?
++
+Player_000_choice_001_fAre you in love?
+@
+Player_000_choice_002_f%Does this make you the Pumpkin Queen?
+-
+Sally_002_fIt feels like forever, really.
+O
+Sally_005_f@In a small place like Halloween Town, everyone knows each other.
+H
+Sally_006_f9Of course, we didn't used to spend as much time together.
+0
+Sally_007_f!That's new. And really wonderful.
+?
+Sally_003_f0Yes, we are... Oh. That's still exciting to say.
+3
+Sally_008_f$"I'm in love." Such wonderful words.
+>
+Sally_004_f/Oh no. Like I said, this is all very new to us.
+C
+Sally_009_f4Jack and I are just enjoying spending time together.
+'
+Sally_010_fThere's no need to rush.

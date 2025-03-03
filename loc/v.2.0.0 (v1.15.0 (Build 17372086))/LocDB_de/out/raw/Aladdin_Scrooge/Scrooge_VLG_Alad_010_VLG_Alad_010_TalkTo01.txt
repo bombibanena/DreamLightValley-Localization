@@ -1,0 +1,54 @@
+TAG: Scrooge_000_f
+Hey, Mr. McDuck! Aladdin told me you want us to test the new security system in your shop.
+
+TAG: Player_000_choice_000_f
+We accept your challenge!
+
+TAG: Player_000_choice_001_f
+Are you really worried about theft in the Valley?
+
+TAG: Player_000_choice_002_f
+Hope you're ready to lose some Star Coins!
+
+TAG: Scrooge_004_f
+Bless me bagpipes! I knew you'd be interested, {PlayerName}!
+
+TAG: Scrooge_006_f
+Don't know if ya know this, but before the Forgetting, Aladdin and I used to spend whole afternoons swapping stories of the adventures we'd had and the treasures we'd found.
+
+TAG: Scrooge_007_f
+He's a most resourceful lad. So, I'm certain the two of you will be unstoppable! I'd trust no one else to test my new security system.
+
+TAG: Player_001_choice_001_f
+What's next?
+
+TAG: Player_001_choice_002_f
+I guess we'll see...
+
+TAG: Player_001_choice_003_f
+Are you... excited to be robbed?
+
+TAG: Scrooge_009_f
+I want you and Aladdin to <Lore>visit my shop</Lore> and have a good look around.
+
+TAG: Scrooge_012_f
+Any potential thieves would no doubt case the place beforehand. And I want the two of you to have every advantage.
+
+TAG: Scrooge_013_f
+Look around, <Lore>take photos</Lore>, do what you need to do. Don't hold back; my new system is top of the line!
+
+TAG: Scrooge_008_f
+That we will!
+
+TAG: Scrooge_011_f
+Now then, to business...
+
+TAG: Scrooge_010_f
+Not robbed, TESTED!
+
+TAG: Scrooge_003_f
+One can never be too careful, especially with villains about.
+
+TAG: Scrooge_005_f
+Ha! Confident are ya? Good! You're gonna need it!
+

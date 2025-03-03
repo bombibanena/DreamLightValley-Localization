@@ -1,0 +1,171 @@
+TAG: area_title_all_areas
+Все районы
+
+TAG: area_title_dreamlight_valley
+Долина мечты
+
+TAG: area_title_eternity_isle
+Вечный остров
+
+TAG: area_title_storybook_vale
+Сказочная долина
+
+TAG: by_progressing
+Разблокируйте, продвигаясь
+
+TAG: desc_be_friend
+Будь другом!
+
+TAG: harvest_gives
+УРОЖАЙ ДАЕТ:
+
+TAG: hourglass_level_x
+Уровень {level}
+
+TAG: label_abilities
+СПОСОБНОСТИ
+
+TAG: label_all_day
+Весь день
+
+TAG: label_availability
+ДОСТУПНОСТЬ
+
+TAG: label_available
+Доступно сегодня
+
+TAG: label_entry_point
+ТОЧКА ВХОДА
+
+TAG: label_grows_in
+РАСТЕТ В:
+
+TAG: label_hourglass_level
+УРОВЕНЬ ПЕСОЧНЫХ ЧАСОВ
+
+TAG: label_location
+ГДЕ НАЙТИ
+
+TAG: label_movement
+ДВИЖЕНИЕ
+
+TAG: label_not_available
+Недоступно
+
+TAG: label_not_here_today
+Сегодня здесь нет
+
+TAG: label_play_condition
+УСЛОВИЕ ИГРЫ
+
+TAG: label_recipe
+РЕЦЕПТ
+
+TAG: label_related_activity
+СВЯЗАННАЯ АКТИВНОСТЬ
+
+TAG: label_schedule
+Расписание:
+
+TAG: label_tooltip_lock
+Разблокируйте, чтобы получить больше информации
+
+TAG: label_unavailable
+Недоступно сегодня
+
+TAG: label_universe
+UNIVERSE & HANGOUT BONUS
+
+TAG: label_unlock_at_friendship
+Разблокируйся на уровне Дружбы.
+
+TAG: label_where_to_buy
+ГДЕ КУПИТЬ
+
+TAG: label_where_to_find
+ГДЕ НАЙТИ
+
+TAG: memory_shards_condition_catchingsnippets
+Найдите эксклюзивные Части Памяти при ловле Фрагментов
+
+TAG: memory_shards_condition_cooking
+Найдите эксклюзивные Части Памяти при приготовлении пищи
+
+TAG: memory_shards_condition_digging
+Найдите эксклюзивные Части Памяти при раскопках
+
+TAG: memory_shards_condition_exploring
+Найдите эксклюзивные Части Памяти при исследовании Долины
+
+TAG: memory_shards_condition_feedingcritters
+Найдите эксклюзивные Части Памяти при кормлении тварей
+
+TAG: memory_shards_condition_fishing
+Найдите эксклюзивные Части Памяти при рыбалке
+
+TAG: memory_shards_condition_gardening
+Найдите эксклюзивные Части Памяти при садоводстве
+
+TAG: memory_shards_condition_mining
+Найдите эксклюзивные Части Памяти при добыче
+
+TAG: memory_shards_condition_removingblockers
+Найдите эксклюзивные Части Памяти при устранении препятствий
+
+TAG: memory_shards_condition_removingweeds
+Найдите эксклюзивные Части Памяти при удалении маленьких Ночных шипов
+
+TAG: memory_shards_condition_wateringflowers
+Найдите эксклюзивные Части Памяти при поливе цветов
+
+TAG: no_abilities
+Нет
+
+TAG: or_more
+или более
+
+TAG: tab_title_board_game
+Настольная игра
+
+TAG: tab_title_characters
+Персонажи
+
+TAG: tab_title_clothing
+Комплекты одежды
+
+TAG: tab_title_crafting
+Ремесло
+
+TAG: tab_title_critters
+Животные
+
+TAG: tab_title_crops
+Ингредиенты
+
+TAG: tab_title_fish
+Рыба
+
+TAG: tab_title_foraging
+Добыча полезных ископаемых
+
+TAG: tab_title_furniture
+Комплекты мебели
+
+TAG: tab_title_lorekeeper_tales
+Рассказы хранителя знаний
+
+TAG: tab_title_meals
+Блюда
+
+TAG: tab_title_memories
+Воспоминания
+
+TAG: tab_title_minerals
+Драгоценные камни
+
+TAG: tab_title_snippets
+Фрагменты
+
+TAG: tab_title_time_bending
+Искажение времени
+

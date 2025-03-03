@@ -1,0 +1,9 @@
+TAG: JackSkellington_000_f
+Okay, Jack. I'm going to bring Olaf this ice cream. Hopefully that smoothes things over.
+
+TAG: JackSkellington_001_f
+Thank you, {PlayerName}.
+
+TAG: JackSkellington_002_f
+I'm sure there's no problem a frosty treat can't solve.
+

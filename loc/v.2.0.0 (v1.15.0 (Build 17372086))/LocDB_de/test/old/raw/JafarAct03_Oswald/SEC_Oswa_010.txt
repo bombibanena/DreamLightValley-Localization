@@ -1,0 +1,51 @@
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_AvailableDescription
+Некоторые предметы вокруг острова Вечность, кажется, не имеют измерения...
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_DisplayName
+Меньшее зло
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group01_Step01_TalkToCharacter01_StepDescription
+Поговорите с Освальд о странном двухмерном феномене, который вы открыли.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem01_StepDescription
+2D Объект из равнин.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem02_StepDescription
+2D Объект из Грассленда.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_BringItem03_StepDescription
+2D объект из Доксов.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_ReadyDescription
+Принесите странные 2D объекты Мерлин для осмотра.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group02_Step02_StepDescription
+Найдите все странные 2D объекты на острове Вечность:
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group03_Step03_ReadyDescription
+Принесите на Мерлин исследовательские записки Джафар.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group03_Step03_StepDescription
+Найдите заметки Джафар в Лаборатории Дворца.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group04_Step04_Possess01_StepDescription
+Убедись, что у тебя в списке есть лампа.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group04_StoryDescription
+Эксперименты Освальд привели к аномалиям измерения, появившимся на острове Eternity, и Джафар может быть единственным, кто может помочь исправить их.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group05_Step05_FillKeyhole01_StepDescription
+Поместите Лампу в статуе времени в Пещеру Чудес.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group05_StepDescription
+Приготовиться к разрыву Джафар без Лампы:
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group06_Step06_RemoveBlocker01_StepDescription
+Воспользуйся своим часовым стеклом, чтобы сломать Лампу в Пещере Чудес.
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group06_StepDescription
+Приготовиться к разрыву Джафар без Лампы:
+
+TAG: Secret!Expansion01!Oswald!SEC_Oswa_010_Group07_Step07_TalkToCharacter02_StepDescription
+Поговори с Джафар.
+

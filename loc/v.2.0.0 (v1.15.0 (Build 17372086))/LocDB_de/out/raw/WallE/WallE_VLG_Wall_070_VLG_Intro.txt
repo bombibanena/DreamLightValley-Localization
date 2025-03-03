@@ -1,0 +1,57 @@
+TAG: WallE_000_f
+Hello.
+
+TAG: WallE_004_f
+I've found another Memory using that mysterious machine!
+
+TAG: WallE_007_f
+It shows you and a group of people watching the stars...
+
+TAG: WallE_005_f
+Ooooh...
+
+TAG: Player_003_choice_000_f
+Were you researching the stars?
+
+TAG: Player_003_choice_001_f
+Were you stargazing for fun?
+
+TAG: Player_003_choice_002_f
+Were you looking for EVE?
+
+TAG: WallE_011_f
+No.
+
+TAG: WallE_015_f
+Not that then? Maybe more for fun?
+
+TAG: WallE_016_f
+*whistle*
+
+TAG: WallE_017_f
+That sounds awesome! Do you want to get your club back together?
+
+TAG: WallE_018_f
+Wow!
+
+TAG: WallE_019_f
+Merlin was in the Memory! We can start with him.
+
+TAG: WallE_012_f
+*whistle*
+
+TAG: WallE_013_f
+EVE-ah? EEEEEEVE-ah!
+
+TAG: WallE_020_f
+Hah. You sure like her.
+
+TAG: WallE_021_f
+You probably weren't searching the stars for her, though.
+
+TAG: WallE_022_f
+Since this was before the Forgetting, she'd have been here.
+
+TAG: WallE_023_f
+EVE-ah...
+

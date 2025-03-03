@@ -1,0 +1,108 @@
+
+1
+
+Remy_000_f#Oh uh, hello, "human I don't know."
+]
+
+Remy_001_fOI'm Remy and... you look like you're listening to me! Wait! You understand me?!
+L
+Player_000_f<Of course! I can understand everyone here. I'm {PlayerName}.
+I
+Player_000_choice_000_f.But you don't usually see rats in the kitchen.
+*
+Player_000_choice_001_fI'm a huge fan!
+A
+Player_000_choice_002_f&But I've never spoken to a rat before.
+C
+
+Remy_002_f5True. But I happen to be the CHEF of this restaurant.
+H
+
+Remy_013_f:And before you ask, we pass ALL of our health inspections.
+0
+
+Remy_028_f"Sorry. I didn't mean it like that.
+A
+
+Remy_029_f3I know. I know. It's fine. Anyway, no time to talk.
+L
+
+Remy_004_f>The dining room's filling up, and most of my staff's out sick.
+d
+
+Remy_005_fVPlus, there's a food critic visiting tonight! And I've gotta make a good impression...
+E
+
+Remy_015_f7If he gives our food a bad review, it'll be a disaster!
+6
+Player_001_choice_012_fUgh. Critics are the worst!
+3
+Player_001_choice_013_fHe's just doing his job.
+&
+Player_001_choice_014_fCan I help?
+r
+
+Remy_025_fdSome, sure. But every now and then you find one who really gets food, and that can change your life!
+7
+
+Remy_006_f)Have YOU ever worked in a kitchen before?
+-
+Player_001_choice_009_fI'm a master chef!
+,
+Player_001_choice_010_fI'm an okay chef.
+7
+Player_001_choice_011_fCan't even make burnt toast!
+(
+
+Remy_020_fOkay, good to know. But...
+3
+
+Remy_021_f%Right now, I need you to wash dishes.
+0
+Player_001_choice_003_fSure, I'll wash them.
+6
+Player_001_choice_004_fEver heard of a dishwasher?
+,
+Player_001_choice_005_fDirty dishes. Ew.
+?
+
+Remy_007_f1Thank you! And please hurry. I need them quickly!
+O
+
+Remy_008_fAYes, and ours is broken. The repair person will be here tomorrow.
+E
+
+Remy_018_f7But for now, it's a sink, water, soap and elbow grease.
+]
+
+Remy_009_fOOh, please. "Ew" is growing up in a family that gets its food from the garbage.
+T
+
+Remy_019_fFBesides, you can't cook without clean dishes. So... wash them. Please?
+N
+
+Remy_022_f@Well, luckily, I don't need you to do anything too fancy... yet.
+Q
+
+Remy_023_fCHey, anyone can cook! Stick with me, and I'll teach you the basics.
+G
+
+Remy_024_f9But there's something we have to do first before we cook.
+#
+
+Remy_027_fOf course. Of course.
+'
+
+Remy_026_fCan you help?! Of course!
+k
+
+Remy_011_f]You are? You mean you've heard of my restaurant, <ActivityItem>La Ratatouille</ActivityItem>?
+J
+
+Remy_014_f<Ha! Silly me. Of course you have! You're here. That's great!
+H
+
+Remy_030_f:Sorry to cut this chit-chat short, but I gotta get moving.
+
+
+Remy_012_fqHey, we're just like humans. Well... not all of us, and not all humans. Let's just say, I'm kind of a unique rat.

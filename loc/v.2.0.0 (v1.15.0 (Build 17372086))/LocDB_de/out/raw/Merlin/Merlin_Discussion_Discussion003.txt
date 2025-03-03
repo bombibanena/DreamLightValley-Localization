@@ -1,0 +1,57 @@
+TAG: Merlin_000_f
+Have you ever considered being a squirrel?
+
+TAG: Player_000_choice_000_f
+Sounds fun!
+
+TAG: Player_000_choice_001_f
+Sounds dangerous.
+
+TAG: Player_000_choice_002_f
+Can you do that?
+
+TAG: Merlin_001_f
+Well, I suppose the leaping about can be a bit fun at first, but a squirrel's life is hazardous.
+
+TAG: Merlin_009_f
+Downright dangerous, even!
+
+TAG: Merlin_005_f
+Almost all the world is larger than the creature, and a good portion wants to eat it!
+
+TAG: Merlin_012_f
+Now, what do you think we can learn from a squirrel?
+
+TAG: Player_001_choice_000_f
+Empathy for the vulnerable.
+
+TAG: Player_001_choice_001_f
+How to survive.
+
+TAG: Player_001_choice_002_f
+Walnuts are good.
+
+TAG: Merlin_006_f
+Yes, yes. That is a noble lesson to learn. What a promising thought.
+
+TAG: Merlin_007_f
+A practical and important lesson indeed. When life is hard, we must find ways to carry on.
+
+TAG: Merlin_008_f
+I suppose that's technically true, but not really what I was driving at.
+
+TAG: Merlin_002_f
+Indeed it is! The squirrel is a tiny creature with enormous problems!
+
+TAG: Merlin_010_f
+How it's survived throughout the ages is one of nature's big mysteries.
+
+TAG: Merlin_003_f
+I could. Though I won't; not now. We have other things to do.
+
+TAG: Merlin_011_f
+But I still encourage you to CONSIDER being a squirrel. Think about it...
+
+TAG: Merlin_004_f
+The squirrel's life is hazardous. Downright dangerous!
+

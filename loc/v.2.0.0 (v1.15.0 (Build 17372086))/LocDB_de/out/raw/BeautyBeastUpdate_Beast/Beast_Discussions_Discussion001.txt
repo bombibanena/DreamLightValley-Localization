@@ -1,0 +1,60 @@
+TAG: Beast_000_f
+{PlayerName}, Belle is upset! I was TRYING to give her time for herself, but she misunderstood. She said I was being "aloof"!
+
+TAG: Beast_001_f
+What should I do?!
+
+TAG: Player_000_choice_000_f
+Try taking deep breaths.
+
+TAG: Player_000_choice_001_f
+Have you tried controlling your temper?
+
+TAG: Beast_002_f
+I AM breathing deeply! Ugh! How am I ever going to learn what makes her happy?
+
+TAG: Player_001_f
+You just need to...
+
+TAG: Player_001_choice_000_f
+Give it time and grow together.
+
+TAG: Player_001_choice_001_f
+Make sure you always listen.
+
+TAG: Player_001_choice_002_f
+Ask her what makes her happy!
+
+TAG: Beast_003_f
+*sigh* I suppose you're right. I just get so... frustrated!
+
+TAG: Beast_004_f
+I DO LISTEN!!! ... At least I think I do. But... I suppose I must be sure I truly hear her.
+
+TAG: Beast_005_f
+You're right. I suppose it isn't smart to try to guess what people want. Thank you...
+
+TAG: Beast_006_f
+OF COURSE!!! ... I... I'm sorry. I just feel so... lost.
+
+TAG: Player_002_f
+The best thing to do is...
+
+TAG: Player_002_choice_000_f
+Try to explain your intentions.
+
+TAG: Player_002_choice_001_f
+Learn from it and move on.
+
+TAG: Player_002_choice_002_f
+Apologize and ASK what she wants.
+
+TAG: Beast_007_f
+I did! I told her that I wasn't ignoring her. I just wasn't talking to her. Hmm... now that I'm saying it out loud... I'll apologize.
+
+TAG: Beast_008_f
+You're right... I'll trust that she knows I care even if she's irritated with me. Becoming friends is... difficult.
+
+TAG: Beast_009_f
+You're right. I'll go find her and ask her directly. And I'll... I'll apologize as well.
+

@@ -1,0 +1,6 @@
+TAG: Tiana_000_f
+Парад окончен, а теперь пора поесть!
+
+TAG: Tiana_001_f
+Если вы поместите <ActivityItem>Banquet Table</ActivityItem>, мы сможем заказать еду.
+

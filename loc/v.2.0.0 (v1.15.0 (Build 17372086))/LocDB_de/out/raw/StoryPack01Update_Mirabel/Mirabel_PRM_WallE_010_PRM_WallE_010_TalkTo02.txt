@@ -1,0 +1,48 @@
+TAG: Mirabel_000_f
+Hola, {PlayerName}! Hola, WALLÂ·E! What brings you to Mini-Casita?
+
+TAG: Player_000_choice_000_f
+You'll have to ask WALLÂ·E about that...
+
+TAG: Player_000_choice_001_f
+Just being neighborly!
+
+TAG: Player_000_choice_002_f
+We're here for the arepas!
+
+TAG: Mirabel_002_f
+Right! Okay... that might be tricky.
+
+TAG: Mirabel_003_f
+You're telling me!
+
+TAG: Mirabel_009_f
+He's been visiting for awhile and rooting around. Mostly in the trash...
+
+TAG: Mirabel_010_f
+He does love to collect all sorts of things.
+
+TAG: Mirabel_011_f
+I'm pretty sure he's looking for something... and he really likes this metal handle. Why don't you and WALLÂ·E take it?
+
+TAG: Mirabel_012_f
+Maybe you can figure out what he's hoping to do.
+
+TAG: Mirabel_013_f
+Thanks! I'll show it to WALLÂ·E and see how he reacts.
+
+TAG: Mirabel_004_f
+I'm sure WALLÂ·E has something particular in mind...
+
+TAG: Mirabel_005_f
+Do you know what he wants?
+
+TAG: Mirabel_006_f
+Honestly, I have no idea.
+
+TAG: Mirabel_007_f
+Oooh! Sorry, I just ate the last one!
+
+TAG: Mirabel_008_f
+Um, {PlayerName}, WALLÂ·E seems to be on a mission. Do you know what it is?
+

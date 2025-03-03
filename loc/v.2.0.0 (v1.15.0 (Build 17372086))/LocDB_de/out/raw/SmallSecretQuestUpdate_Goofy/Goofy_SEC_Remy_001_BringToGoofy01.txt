@@ -1,0 +1,42 @@
+TAG: Goofy_000_f
+Gawrsh, this smells dee-licious, {PlayerName}!
+
+TAG: Goofy_001_f
+Who's it for?
+
+TAG: Player_000_f
+It's a little gift from me and Remy to you. Thanks for...
+
+TAG: Player_000_choice_000_f
+...taking care of the Village.
+
+TAG: Player_000_choice_001_f
+...watching over the Royal Fishing Rod.
+
+TAG: Player_000_choice_002_f
+...always being yourself.
+
+TAG: Goofy_002_f
+Aw, shucks. I'm speechless.
+
+TAG: Goofy_003_f
+...
+
+TAG: Goofy_004_f
+...
+
+TAG: Player_001_choice_000_f
+Uh. You okay?
+
+TAG: Player_001_choice_001_f
+Hello...?
+
+TAG: Player_001_choice_002_f
+Earth to Goofy!
+
+TAG: Goofy_005_f
+Oh! Sorry, pal. I was just bein' speechless, like I said.
+
+TAG: Goofy_006_f
+Thanks, {PlayerName}. I can't wait to get my favorite double-ended fork spoon and dig in! A-hyuck!
+

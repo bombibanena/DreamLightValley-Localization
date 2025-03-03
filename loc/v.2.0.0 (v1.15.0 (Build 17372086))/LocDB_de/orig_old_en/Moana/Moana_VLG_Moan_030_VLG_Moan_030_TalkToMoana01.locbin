@@ -1,0 +1,35 @@
+
+q
+Moana_008_fbOh, {PlayerName}! How could I forget about my friend Pua?! That cute little pig must be so scared.
+}
+Moana_000_fnPua wasn't with us when Maui and I left the Village after the Forgetting... Pua must be hiding here somewhere!
+0
+Player_000_choice_000_fDon't blame yourself!
+-
+Player_000_choice_001_fPua. Is. So. Cute.
+A
+Player_000_choice_002_f&A pig loose in the Village?! My crops!
+X
+Moana_001_fIThat's nice of you to say. Do you think you could help me find my friend?
+3
+Player_001_f#I will help you find Pua because...
+,
+Player_001_choice_000_fYou're my friend!
+<
+Player_001_choice_001_f!It's what a good leader would do.
+G
+Player_001_choice_002_f,It's another way of fighting the Forgetting!
+>
+Moana_004_f/Thank you! I really appreciate your friendship.
+;
+Moana_007_f,Pua must be hiding somewhere in the Village.
+Å
+Moana_009_frI bet we can lure Pua out of hiding with something to eat. <ActivityItem>Coconuts</ActivityItem> would be perfect!
+(
+Moana_005_fWhich you definitely are!
+:
+Moana_006_f+I didn't see it that way, but you're right!
+g
+Moana_002_fXDefinitely. But also VERY lost. I need to find my friend. Can you help me, {PlayerName}?
+k
+Moana_003_f\Don't worry, Pua's a very good pig... but probably really hungry. We have to find my friend!

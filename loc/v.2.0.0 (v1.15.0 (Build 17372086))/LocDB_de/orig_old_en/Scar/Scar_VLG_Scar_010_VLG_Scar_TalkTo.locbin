@@ -1,0 +1,64 @@
+
+\
+
+Scar_000_fNNow, see? That wasn't SO difficult, was it? Even a warthog could have done it.
+U
+
+Scar_002_fGI suppose I should tell you the reason for my foul mood. It's simple...
+T
+
+Scar_017_fFI'm famished. There's scarcely any prey for me to eat in this Village.
+Q
+
+Scar_016_fCOf course, I did see one of your plump, feathery neighbors about...
+C
+
+Scar_001_f5But I presume you'd mind if I feasted on one of them.
+/
+Player_000_choice_000_fYes! I'd mind a lot.
+;
+Player_000_choice_001_f Scar. They're friends, not food.
+B
+Player_000_choice_002_f'I don't think they'd taste very good...
+X
+
+Scar_003_fJWell, I mind starving, {PlayerName}. A solution must be found — quickly!
+9
+Player_001_choice_000_fI'm sure we'll find something.
+>
+Player_001_choice_001_f#You could eat fish. Cats love fish.
+-
+Player_001_choice_002_fWhat about plants?
+;
+
+Scar_012_f-For the sake of your Villagers, you'd better.
+6
+
+Scar_013_f(Okay, okay. I think Remy's our best bet.
+K
+
+Scar_006_f=The rat? That's barely an appetizer, but if I've no choice—
+K
+
+Scar_011_f=No, no. I meant we could get Remy to help make you some food!
+V
+
+Scar_009_fHUgh. I remember the nauseating meals he made back before the Forgetting.
+^
+
+Scar_010_fPI hope, for his sake, he's improved. I'm not above eating a rodent if I have to.
+P
+
+Scar_018_fBI'll go talk to Remy. You just stay here and... don't eat anybody.
+k
+
+Scar_007_f]Perhaps your little kitty cats do, but I would need a fish meal fit for a lion! I'm famished.
+{
+
+Scar_008_fmOh, you can't be serious. I'm already famished. Wasting away. Grass and leaves are no nourishment for a lion.
+>
+
+Scar_004_f0If you insist. But I must have something to eat.
+N
+
+Scar_005_f@I imagine you're right... but still, I do need something to eat.

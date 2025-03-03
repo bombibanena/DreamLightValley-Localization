@@ -1,0 +1,48 @@
+TAG: JackSkellington_001_f
+How are you feeling, Jack?
+
+TAG: JackSkellington_002_f
+Elated! Excited! Like it's Halloween Eve and energy is COURSING through me!
+
+TAG: Player_000_choice_000_f
+Well, I'm happy that you're happy.
+
+TAG: Player_000_choice_001_f
+Halloween Eve?
+
+TAG: Player_000_choice_002_f
+Bet you've got some plans in mind already!
+
+TAG: JackSkellington_003_f
+I couldn't be more so.
+
+TAG: JackSkellington_006_f
+Thank you, {PlayerName}. I didn't realize how much I missed Sally until the spiders arrived.
+
+TAG: JackSkellington_007_f
+I'd been so busy throwing myself into my research.
+
+TAG: JackSkellington_008_f
+But it will all be that much better now that I can share it with Sally!
+
+TAG: Player_001_choice_000_f
+Always happy to help a couple get back together!
+
+TAG: Player_001_choice_001_f
+I'm happy that you're happy.
+
+TAG: Player_001_choice_002_f
+I bet the two of you could use some space now.
+
+TAG: JackSkellington_011_f
+Thank you again. But please, check back later. I'm sure Sally would love some help settling in.
+
+TAG: JackSkellington_012_f
+Will do! Now you two love-bats have some fun together!
+
+TAG: JackSkellington_004_f
+Yes! The anticipation for all the frights, chills, tricks, and treats just grows and grows as midnight approaches before Halloween. Now then...
+
+TAG: JackSkellington_005_f
+Oh, so many!
+

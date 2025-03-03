@@ -1,0 +1,33 @@
+
+7
+	EVE_001_f*Hey EVE, could you help me with something?
+
+	EVE_002_f
+Directive?
+A
+	EVE_003_f4Jafar and I are exploring the alchemical sciences‚Äî
+
+	EVE_004_f*gasp*
++
+Player_000_choice_000_fHe's being nice!
+*
+Player_000_choice_001_fI know, I know.
+
+	EVE_005_fNo.
+,
+	EVE_013_fWow, great job ‚Äî thanks, EVE!
+
+	EVE_014_f
+Directive!
+9
+	EVE_006_f,I'm keeping a close eye on him; don't worry.
+
+	EVE_007_fHmm...
+P
+	EVE_008_fCSo, I was wondering ‚Äî could we make use of your laser real quick?
+ê
+	EVE_009_fÇI've got some <ActivityItem>Iron Ore</ActivityItem> that I'm trying to reduce to dust. It's to make gold that can help the Valley!
+
+	EVE_010_fOh!
+&
+	EVE_011_f*satisfied digital beeps*

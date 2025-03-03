@@ -1,0 +1,18 @@
+TAG: Mushu_001_f
+The fence is done? Aw, I knew you could do it, {PlayerName}!
+
+TAG: Mushu_002_f
+Now it's time toâ Huh... Mulan and I sent all our trainees off... Our statues are ready to be shipped out...
+
+TAG: Mushu_003_f
+Whoa. I'm... feeling some feelings right now.
+
+TAG: Mushu_004_f
+Let's, uh... <Lore>let's send the signal that the cargo's ready to be shipped out</Lore>.
+
+TAG: Mushu_005_f
+I think you're gonna like this part, {PlayerName}.
+
+TAG: Mushu_000_f
+<Lore>Follow me!</Lore>
+

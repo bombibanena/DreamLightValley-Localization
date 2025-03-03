@@ -1,0 +1,6 @@
+TAG: Beast_000_f
+Спокойной ночи, {PlayerName}.
+
+TAG: Player_000_exit_000_f
+Прямо к тебе!
+

@@ -1,0 +1,54 @@
+TAG: Jasmine_000_f
+Oh {PlayerName}, I'm so glad you're here! I found the oddest note in my House. Do you have a moment to help me figure out what it means?
+
+TAG: Player_000_choice_001_f
+I'd be happy to help!
+
+TAG: Player_000_choice_002_f
+Maybe another time.
+
+TAG: Jasmine_001_f
+The note was at the very back of a drawer. It's clearly written in my handwriting, but I have no memory of it.
+
+TAG: Jasmine_006_f
+Must have been before the Forgetting...
+
+TAG: Jasmine_007_f
+That's what I thought. The note contains instructions for how to make "Enchanted Pots of Blooming." But I have no idea what the pots are meant to be used for.
+
+TAG: Player_001_choice_000_f
+Hmm... That IS strange.
+
+TAG: Player_001_choice_001_f
+Maybe they'll grow something magical!
+
+TAG: Player_001_choice_002_f
+They're probably just regular flower pots... but fancy.
+
+TAG: Jasmine_008_f
+Isn't it?
+
+TAG: Jasmine_011_f
+Looking at the instructions, they wouldn't be just regular flower or vegetable pots.
+
+TAG: Jasmine_012_f
+Whatever it is, we'll figure it out! We just need to decide where to start looking.
+
+TAG: Jasmine_015_f
+Hmm... I used to spend a lot of time researching with Merlin. He always had the most fascinating puzzles to solve. Maybe he knows something about this.
+
+TAG: Jasmine_013_f
+That's a great hunch. I'll go <Lore>talk to Merlin and see what he knows</Lore>. You should keep looking around your House, and maybe see if anything jogs your memory!
+
+TAG: Jasmine_014_f
+I will! Thank you, {PlayerName}. I'm certainly looking forward to getting to the bottom of this.
+
+TAG: Jasmine_009_f
+I suppose it's possible.
+
+TAG: Jasmine_010_f
+Hmm... I don't think so.
+
+TAG: Jasmine_005_f
+I understand. We can talk about it later.
+

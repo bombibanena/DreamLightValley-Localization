@@ -1,0 +1,72 @@
+TAG: Village!Mickey!Goofy!VLG_Goof_030_AvailableDescription
+Гуфи, кажется, работает над секретным проектом.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Choice1_CompletedRequestDescription
+Возвращайся на Гуфи, чтобы показать ему свои фотографии!
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Choice2_CompletedRequestDescription
+Возвращайся на Гуфи, чтобы показать ему свои фотографии!
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Choice3_CompletedRequestDescription
+{Placeholder}NA.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_CompletedStoryDescription
+После того, как вы сняли все фотографии Гуфи, вы возвращаетесь, чтобы показать ему результат.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_DisplayName
+Фотографическая память
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно сделать?
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group01_Step01_TakePicture01_StepDescription
+<ActivityItem>Apple Tree</ActivityItem>.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group01_Step01_TakePicture04_StepDescription
+<ActivityItem>Raspberry Bush</ActivityItem>.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group01_Step01_TakePicture05_StepDescription
+<ActivityItem>Banana Tree</ActivityItem>.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group01_StepDescription
+Сфотографируйтесь со следующими деревьями, когда они пополнятся фруктами:
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group01_StoryDescription
+Волнуясь, что забвение может вернуться, Гуфи хочет создать альбом, чтобы напомнить себе о хороших моментах.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне нужно сделать?
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group02_Step02_TakePicture02_StepDescription
+Белка.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group02_Step02_TakePicture06_StepDescription
+Кролик.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group02_StepDescription
+Сфотографируйте следующее в Плаза и Медоу:
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group03_Step03_TakePicture03_StepDescription
+<ActivityItem>Red Дейзи</ActivityItem>.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group03_Step03_TakePicture07_StepDescription
+<ActivityItem> Green Ring Penstemon</ActivityItem>.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group03_Step03_TakePicture08_StepDescription
+<ActivityItem> White & Pinking Penstemon</ActivityItem>.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group03_Step03_TakePicture09_StepDescription
+<ActivityItem>Dandelion</ActivityItem>.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group03_StepDescription
+Сфотографируйте следующее в Плаза и Медоу:
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group04_Step04_TalkToCharacter01_StepDescription
+Поговори с Гуфи.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_Group05_Step05_TalkToCharacter02_StepDescription
+Поговори с Гуфи.
+
+TAG: Village!Mickey!Goofy!VLG_Goof_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

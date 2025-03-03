@@ -1,0 +1,52 @@
+
+R
+Oswald_001_fBHey Oswald, I found these weird flat objects around Eternity Isle.
+>
+Oswald_002_f.Yeah? What's that got to do with me, friend-o?
+@
+Oswald_003_f0Well, they're flat in a way that screams Oswald.
+&
+Oswald_004_fHuh... Ya don't say...
+:
+Oswald_005_f*All right, fess up — is this your fault?
+
+Oswald_006_f
+... Maybe?
+3
+Player_000_choice_000_fI'll take that as a yes.
+;
+Player_000_choice_001_f Come on, Oswald; I won't be mad.
+.
+Oswald_007_fOkay, ya got me, {PlayerName}!
+'
+Oswald_009_fI'll spill the beans...
+|
+Oswald_010_flSee, I was workin' on some self improvements — ya know, tryin' to be SO interesting it'd make tongues wag!
+:
+Player_001_choice_000_fBut you're already interesting!
+Q
+Player_001_choice_001_f6And how did we get to two-dimensional plants and such?
+W
+Oswald_011_fGCourse YOU'D say that; you're TOO nice! But, what about everybody else?
+v
+Oswald_013_ffI figured I needed some more sides to myself, so I borrowed a few dimensions from the stuff around me.
+c
+Oswald_014_fSProblem is, now I can't figure how to put 'em back. I'm at my wit's end, I tell ya!
+S
+Oswald_015_fCOof, well, lemme go talk to Merlin — maybe he'll know what to do.
+J
+Oswald_016_f:In the meantime... Whatever you did — don't do it again!
+;
+Oswald_017_f+Don't you worry; I learned my lesson, chum!
+A
+Oswald_012_f1I'm gettin' to that! Hold your horses...! Ahem...
+:
+Player_002_choice_000_fBut you're already interesting!
+J
+Player_002_choice_001_f/And how did we get to a two-dimensional object?
+.
+Oswald_008_fOkay, okay, it's all my fault.
+=
+Oswald_018_f-Well, it's flat in a way that screams Oswald.
+L
+Oswald_000_f<Hey Oswald, I found this weird flat object on Eternity Isle.

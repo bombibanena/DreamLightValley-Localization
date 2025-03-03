@@ -1,0 +1,81 @@
+TAG: Village!Moana!Maui!VLG_Maui_040_Any_CompletedRequestDescription
+Поговори с Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_AvailableDescription
+Мауи содержит обновленную информацию о <ActivityItem>Limestone</ActivityItem>, которую вы нашли в прошлый раз, когда помогли ему.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_CompletedStoryDescription
+Мауи, вероятно, будет впечатлена тем, что ты сделал.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_DisplayName
+Сердце долины мечты
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group01_Step01_VisitArea02_StepDescription
+Идите к фонтану на вершине замка.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group01_StoryDescription
+Внутри <ActivityItem>Limestone</ActivityItem> вы обнаруживаете часть <ActivityItem> Heart of Dreamlight Valley</ActivityItem>, созданную Старым Правителем для защиты замка. Другая половина должна быть все еще в Замке; вам просто нужно найти ее.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group02_Step02_CraftItem01_StepDescription
+Сделай <ActivityItem> Heart из долины Мечты</ActivityItem> целым на вашей станции крафтинга.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать?
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group03_Step03_Possess01_StepDescription
+<ActivityItem> Water from the Frosted Highes</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group03_Step03_Possess02_StepDescription
+<ActivityItem> Water from the Забытые земли</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group03_Step03_Possess03_StepDescription
+{ItemName}.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group03_Step03_StepDescription
+Соберите следующие Ингредиенты, чтобы починить <ActivityItem> Heart of Dreamlight Valley</ActivityItem>:
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group04_Step04_StepDescription
+Поговори с Мерлин.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group05_StepDescription
+Возьмите <ActivityItem> Heart из долины Мечты</ActivityItem> на Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group06_Step06_Possess04_StepDescription
+Ищите недостающую часть <ActivityItem> Heart of Dreamlight Valley</ActivityItem>.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group07_Step09_StepDescription
+Поместите <ActivityItem> Heart из долины Мечты</ActivityItem> в руку Статуи в замке.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group07_StoryDescription
+Следуя совету Мерлин, вы восстанавливаете <ActivityItem>Heart of Dreamlight Valley</ActivityItem> и теперь готовы вернуть его на законное место.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group08_Step10_CraftItem02_StepDescription
+Очистить корку от <ActivityItem>Limestone</ActivityItem> на вашей станции крафтинга.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group08_StoryDescription
+Он уверен, что у <ActivityItem>Limestone</ActivityItem> есть секрет и хочет открыть его, чтобы узнать, что внутри.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group09_StepDescription
+Показать <ActivityItem>Shard</ActivityItem>, что вы нашли Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group10_Step12_ReadyDescription
+Поговори с Мауи.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_Group10_Step12_StepDescription
+Убедитесь, что оба оскола сердца в вашем списке.
+
+TAG: Village!Moana!Maui!VLG_Maui_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

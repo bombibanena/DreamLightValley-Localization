@@ -1,0 +1,111 @@
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Any_CompletedRequestDescription
+Talk to Olaf.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_AvailableDescription
+You've got a script and a cast... but now you need a set and some props.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_CompletedStoryDescription
+You put on Olaf's play and brought stories back to Dreamlight Valley. You decide to talk to him to see if he's happy with how it went.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_DisplayName
+Olaf Presents... "Dreamlight Valley"
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group01_Step02_TalkToCharacter01_StepDescription
+Talk to Anna.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group02_StepDescription
+Bring the {ItemName} to Olaf.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group03_Step04_BringItem01_StepDescription
+Search Donald's House to find {ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group03_Step04_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group03_Step04_BringItem05_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group03_Step04_BringItem06_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group03_Step04_ReadyDescription
+Bring what you've gathered to Anna.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group03_Step04_StepDescription
+Gather the following materials:
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group04_Step03_Decorate01_StepDescription
+Place the {ItemName} anywhere in the Frosted Heights.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group06_Step11_BringItem02_StepDescription
+Make sure you have the {ItemName} in your Inventory.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group06_Step11_ReadyDescription
+Talk to Olaf.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group06_StoryDescription
+It turns out that the Donald Duck costume, built to Olaf's exacting specifications, doesn't fit Anna. You're down one Donald Duck performer...
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group07_Step07_DressUp01_StepDescription
+Wear the {ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group08_Step08_TalkToCharacter03_StepDescription
+Rehearse with Olaf.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group08_StoryDescription
+With Anna unable to play the role, Olaf asks you to step in as her understudy.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group09_Step09_Party01_StepDescription
+Put on Olaf's play in the Frosted Heights.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group11_Step12_Possess01_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group11_Step12_Possess04_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group11_Step12_Possess07_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group11_Step12_Possess08_StepDescription
+{ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group11_Step12_StepDescription
+Gather the following materials:
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group12_Step13_CraftItem05_StepDescription
+Craft the {ItemName}.
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What was I doing again?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What was I doing again?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do you need?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What were we doing?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What should I do next?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What now?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What do we need again?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What was I doing again?
+
+TAG: Village!Frozen!Olaf!VLG_Olaf_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Mission.
+

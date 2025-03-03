@@ -1,0 +1,15 @@
+TAG: FairyGodMother_000_f
+Well, if you want to enchant that "camera" of yours, you'll need some magical Ingredients...
+
+TAG: FairyGodMother_001_f
+<ActivityItem>Glass</ActivityItem>, <ActivityItem>Diamonds</ActivityItem>, and <ActivityItem>Crystals</ActivityItem> to reveal the enchantment...
+
+TAG: FairyGodMother_002_f
+<ActivityItem>Dream Shards</ActivityItem> to apply a touch of Dreamlight Magic to set everything...
+
+TAG: FairyGodMother_003_f
+And what else...?
+
+TAG: FairyGodMother_004_f
+Oh yes! You said you'd have to talk to WALLÂ·E for a new <ActivityItem>Lens</ActivityItem>.
+

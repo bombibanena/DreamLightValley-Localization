@@ -2,11 +2,9 @@ package cmd
 
 import (
 	"fmt"
-	"log"
 	"os"
 
 	"github.com/spf13/cobra"
-	"github.com/spf13/cobra/doc"
 
 	"ddv_loc/pkg/types"
 	"ddv_loc/pkg/updater"
@@ -51,11 +49,4 @@ func init() {
 	checkUpdatesCmd.MarkFlagRequired("input-new")
 	checkUpdatesCmd.MarkFlagRequired("report")
 	checkUpdatesCmd.MarkFlagRequired("format")
-}
-
-func main() {
-	err := doc.GenMarkdownTree(checkUpdatesCmd, "../docs")
-	if err != nil {
-		log.Fatal(err)
-	}
 }

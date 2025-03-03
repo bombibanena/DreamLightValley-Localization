@@ -1,0 +1,37 @@
+
+?
+Merlin_000_f/This is it, {PlayerName}. Do you see that door?
+?
+Merlin_001_f/Through there, you'll find the answers we seek.
+5
+Player_000_choice_000_fLet's make with the magic!
+=
+Player_000_choice_001_f"This spell isn't dangerous, is it?
+A
+Player_000_choice_002_f&If only I could swim like a mermaid...
+A
+Merlin_002_f1I... Well, I couldn't have said it better myself.
+C
+Merlin_003_f3Focus the magic of your Hourglass on the doorway...
+Y
+Merlin_004_fIIt worked! And the fabric of reality didn't unravel as I feared it might.
+7
+Player_001_choice_000_fWhoa! That place looks huge!
+L
+Player_001_choice_001_f1Guess it's time to delve into some ancient ruins!
+G
+Player_001_choice_002_f,Excuse me?! Unravel the fabric of what now?!
+b
+Merlin_005_fRIt seems our ancient friends did everything in their power to keep the Spark safe.
+Ê
+Merlin_007_f¹Now then, the Spark of Imagination lies deep within the temple. And I'm sure there will be some vexing mysteries inside. These sorts of ancient ruins are always full of such conundrums.
+\
+Merlin_006_fLWe must <Lore>press on through the doorway to discover what's inside</Lore>.
+b
+Merlin_009_fRThere's nothing as exciting as uncovering the past. Quite literally, in this case!
+s
+Merlin_010_fcOh, never mind that. The odds of a total collapse of the universe were infinitesimal, {PlayerName}.
+‘
+Merlin_011_f€Well, er... meddling with time always has its dangers. But as far as these sorts of things go, the spell ought to be quite safe.
+]
+Merlin_012_fMPerhaps someday, {PlayerName}. But for now, we'll just have to rely on magic.

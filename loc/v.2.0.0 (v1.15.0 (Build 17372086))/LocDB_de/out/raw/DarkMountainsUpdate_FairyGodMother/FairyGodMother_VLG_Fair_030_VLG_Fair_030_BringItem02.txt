@@ -1,0 +1,54 @@
+TAG: FairyGodMother_000_f
+Ah, splendid! Now, let me just...
+
+TAG: FairyGodMother_001_f
+...
+
+TAG: FairyGodMother_002_f
+Yes, that's it... And now for the magic to work, shall we say it together...
+
+TAG: FairyGodMother_003_f
+Bibbidi-Bobbidi...
+
+TAG: Player_000_choice_000_f
+Oops!
+
+TAG: Player_000_choice_001_f
+Boo!
+
+TAG: Player_000_choice_002_f
+Phew!
+
+TAG: FairyGodMother_004_f
+Oh-ho-ho! Though that might be appropriate for the situation, {PlayerName}, it's not what I had in mind. The word you're looking for is "Boo"!
+
+TAG: FairyGodMother_012_f
+And they'll be rather strange and out of place. The objects I enchanted were from that enterprising Scrooge gentleman's shop. Just this and that he had no use for.
+
+TAG: FairyGodMother_005_f
+Now, once you apply this lens to that "camera" of yours, you should be able to fix my enchantments. But the spell will only work from the end of the afternoon to midnight each day.
+
+TAG: FairyGodMother_006_f
+Oh, and while you're out and about, could you look around the Village to see if any of my other enchantments have gone all flibberty-gibbet?
+
+TAG: FairyGodMother_007_f
+Where should I look?
+
+TAG: FairyGodMother_008_f
+Hmm... Let me think... I have been doing quite a lot of enchanting...
+
+TAG: FairyGodMother_009_f
+Goofy wanted a yellow bicycle. Olaf something to make the Beach paradisiacal...
+
+TAG: FairyGodMother_010_f
+Mother Gothel wished to admire herself. And there was a hot beverage contraption for Chez Remy's shelf.
+
+TAG: FairyGodMother_011_f
+Remember: They'll look different if the enchantment has stopped working...
+
+TAG: FairyGodMother_013_f
+That's right, dear! Very well done.
+
+TAG: FairyGodMother_014_f
+Goodness, are you tired already, {PlayerName}? Well, not to worry. The word you're looking for is "Boo."
+

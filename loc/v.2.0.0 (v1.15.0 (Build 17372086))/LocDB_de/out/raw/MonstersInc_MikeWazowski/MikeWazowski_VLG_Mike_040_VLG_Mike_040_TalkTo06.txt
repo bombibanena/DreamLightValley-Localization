@@ -1,0 +1,45 @@
+TAG: MikeWazowski_000_f
+Thanks for cleaning up, {PlayerName}. You're an A+ agent! Now, before we get down to business...
+
+TAG: MikeWazowski_002_f
+How are ya feelin' about the show?
+
+TAG: Player_003_choice_000_f
+Can't wait!
+
+TAG: Player_003_choice_001_f
+Something's gonna go wrong...
+
+TAG: MikeWazowski_022_f
+That's the spirit! Vanellope's gonna get so many zingers thrown her way, her head'll spin!
+
+TAG: MikeWazowski_028_f
+Good... luck?
+
+TAG: MikeWazowski_029_f
+Luck? Who needs luck when you've got skills like mine!
+
+TAG: MikeWazowski_019_f
+Okay, I think we're just about ready to go.
+
+TAG: MikeWazowski_020_f
+There's only one last thing...
+
+TAG: MikeWazowski_021_f
+Sulley's gonna lend us his camera for the show. He likes recording everyday stuff around the Village.
+
+TAG: MikeWazowski_025_f
+Think you could go <Lore>pick it up from Sulley for me<Lore>?
+
+TAG: MikeWazowski_024_f
+On my way!
+
+TAG: MikeWazowski_023_f
+You think?
+
+TAG: MikeWazowski_026_f
+Well, sometimes Vanellope can be a little... chaotic.
+
+TAG: MikeWazowski_027_f
+Huh. I'll hafta keep that in mind. Thanks, {PlayerName}.
+

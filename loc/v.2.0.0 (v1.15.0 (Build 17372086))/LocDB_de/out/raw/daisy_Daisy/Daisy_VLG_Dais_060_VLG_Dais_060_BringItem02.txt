@@ -1,0 +1,102 @@
+TAG: Daisy_004_f
+Blue fur... BLUE FUR?
+
+TAG: Daisy_001_f
+This definitely narrows our suspect list!
+
+TAG: Player_001_choice_000_f
+It HAS to be Stitch.
+
+TAG: Player_001_choice_001_f
+I'm sure Vanellope is involved.
+
+TAG: Player_001_choice_002_f
+I'm totally lost. Help me out here.
+
+TAG: Daisy_002_f
+I think you're right! But I'm certain he wasn't working alone.
+
+TAG: Daisy_017_f
+According to Donald, Stitch is a master prankster. I think he's recruited Vanellope as his partner.
+
+TAG: Daisy_006_f
+Just recently someone switched every one of Goofy's fishing lures for gummy worms.
+
+TAG: Daisy_007_f
+Someone ALSO filled Remy's salt shakers with sugar.
+
+TAG: Daisy_018_f
+And I found blue fiber at every scene. I didn't realize it was fur. I was thinking "fluffy sweater."
+
+TAG: Player_002_choice_000_f
+Sugar and blue fur! It's them.
+
+TAG: Player_002_choice_001_f
+So Scrooge was innocent?
+
+TAG: Player_002_choice_002_f
+What's the motive?
+
+TAG: Daisy_000_f
+I guess I'm just the latest victim in their prank spree.
+
+TAG: Player_003_choice_000_f
+What do we do now?
+
+TAG: Player_003_choice_001_f
+You must be furious.
+
+TAG: Player_003_choice_002_f
+I say we retaliate!
+
+TAG: Daisy_009_f
+They need to be stopped before they anger someone who would, let's say... turn them into algae.
+
+TAG: Daisy_010_f
+{PlayerName}, this calls for a sting! YOU convince them you want in on their next prank and arrange a meeting.
+
+TAG: Daisy_023_f
+I'll surprise them and give them a piece of my mind!
+
+TAG: Player_000_f
+Devious plan...
+
+TAG: Player_000_choice_000_f
+Don't you think it's a little mean?
+
+TAG: Player_000_choice_001_f
+I'm not a good enough actor to do this...
+
+TAG: Player_000_choice_002_f
+I love it. Muwahaha!
+
+TAG: Daisy_013_f
+Believe me, it'd be meaner to wait for them to get in REAL trouble.
+
+TAG: Daisy_016_f
+I'll <Lore>talk to Stitch</Lore>. Convince him to meet me in the Cursed Cave with Vanellope.
+
+TAG: Daisy_024_f
+Perfect!
+
+TAG: Daisy_014_f
+Of course you are! Besides, it can't come from me â that would be WAY too suspicious.
+
+TAG: Daisy_015_f
+Hooray!
+
+TAG: Daisy_021_f
+Annoyed yes, but not furious. We solved a mystery â that's one of my favorite things to do! However...
+
+TAG: Daisy_022_f
+I think a lesson should certainly be learned.
+
+TAG: Daisy_020_f
+You're right. With your evidence, it's clearly Stitch and Vanellope.
+
+TAG: Daisy_005_f
+What if it's Vanellope AND Stitch?
+
+TAG: Daisy_003_f
+Blue fur is definitely a certain fluffy blue alien. But I didn't see Stitch at the gala, so I think he had help from a guest â Vanellope!
+

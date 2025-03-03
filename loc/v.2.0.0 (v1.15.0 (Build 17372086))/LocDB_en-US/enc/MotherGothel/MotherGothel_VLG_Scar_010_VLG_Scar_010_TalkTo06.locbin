@@ -1,0 +1,45 @@
+
+\
+MotherGothel_000_fF{PlayerName}! And to what do I owe the pleasure of your company today?
+T
+MotherGothel_018_f>So we have this lion who lives on the Sunlit Plateau andÃ¢Â€Â”
+w
+MotherGothel_019_faLet me guess! You want to get rid of him before he hunts and eats someone. I have just the thing.
+‘
+MotherGothel_020_f{Uh... no. I'm trying to convince Scar to talk to me, but he won't unless my "coat" looks a little more worthy of a ruler...
+?
+MotherGothel_021_f)I was hoping you could help me with that.
+]
+MotherGothel_010_fGPossibly. But why would you allow this... beast to stay in the Village?
+f
+MotherGothel_001_fPMy dear, the quickest solution would be to turn this foolish feline INTO a coat.
+7
+Player_001_choice_000_fMother Gothel! That's awful.
+?
+Player_001_choice_001_f$I can't. Scar might be useful to me.
+F
+Player_001_choice_002_f+Sorry, but I only wear plant-based fabrics.
+C
+MotherGothel_007_f-Awful? Debatable. Practical? Most definitely.
+Ž
+MotherGothel_006_fx*sigh* But if you insist on doing it your way and want me to help you make a coat, bring me the materials, {PlayerName}.
+Ó
+MotherGothel_005_f¼I'll need <ActivityItem>Fiber</ActivityItem>, pieces of <ActivityItem>Fabric</ActivityItem>, a pair of <ActivityItem>Citrines</ActivityItem> and an <ActivityItem>Iron Ingot</ActivityItem>.
+n
+MotherGothel_022_fX<ActivityItem>Citrines</ActivityItem>? For a coat? Why do you want me to find gemstones?
+?
+MotherGothel_014_f)To teach you not to ask stupid questions!
+*
+MotherGothel_016_fOh, I'm just joking.
+c
+MotherGothel_017_fMYou should really learn to smile more, {PlayerName}. You're always so gloomy.
+i
+MotherGothel_023_fSNow, run along, and don't come back until you've fetched everything I've asked for.
+u
+MotherGothel_008_f_Hmm... Keeping Scar around to manipulate him to your own ends? I can't say that I disapprove...
+i
+MotherGothel_002_fSNow, if you want me to help you make a coat, you'll have to bring me the materials.
+-
+MotherGothel_009_fOf course you do, dear.
+j
+MotherGothel_003_fTWell, if you want me to help you make a coat, you'll have to bring me the materials.

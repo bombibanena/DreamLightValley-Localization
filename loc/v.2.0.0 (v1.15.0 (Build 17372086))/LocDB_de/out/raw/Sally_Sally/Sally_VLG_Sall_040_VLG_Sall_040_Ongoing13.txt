@@ -1,0 +1,9 @@
+TAG: Sally_000_f
+Hello, {PlayerName}. Were you able to find that <ActivityItem>Arcane Sprout</ActivityItem>?
+
+TAG: Sally_001_f
+I... think I'm going to have a little chat with Ursula first to make sure everything is above board here.
+
+TAG: Sally_002_f
+Oh, well if you think that's necessary...
+

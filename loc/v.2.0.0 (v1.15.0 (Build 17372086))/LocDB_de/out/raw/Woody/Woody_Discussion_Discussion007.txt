@@ -1,0 +1,18 @@
+TAG: Woody_000_f
+Say, {PlayerName}, is there a favorite toy around here?
+
+TAG: Player_000_choice_000_f
+What does it mean to be a favorite toy?
+
+TAG: Player_000_choice_001_f
+We'd need a kid to have a favorite toy.
+
+TAG: Woody_001_f
+Well, when you're a kid's favorite toy, you have responsibilities. You've gotta take care of the other toys. Make sure they're safe.
+
+TAG: Woody_003_f
+Keep things organized. And whatever you do, make sure no one gets lost!
+
+TAG: Woody_002_f
+Oh, right! Heh-heh. Gotta say, it's a bit strange bein' part of a community that's not organized around kids.
+

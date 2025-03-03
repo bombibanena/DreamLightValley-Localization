@@ -1,0 +1,36 @@
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_AvailableDescription
+Свяжитесь с Мерлин о его прогрессе в исследовании Ночных Митов.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_CompletedStoryDescription
+Вы празднуете конец нашествия Пумба, Тимон и Симба!
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_DisplayName
+Окончание нашествия
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group01_Step01_VisitArea01_StepDescription
+Познакомься с Мерлин в его библиотеке.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group01_StoryDescription
+Вы уничтожили Ночные Миты из долины и Темного Замка, пора отправиться в Мерлин, чтобы узнать, нашел ли он способ нейтрализовать Миты для Тимон и Пумба для еды.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_BringItem01_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_BringItem02_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_BringItem03_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group02_Step02_ReadyDescription
+Возьмите {itemName} на {TargetNPC}.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group03_StepDescription
+Поместите {itemName} где угодно в долину.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group03_StoryDescription
+Мерлин представляет вам буфет с безопасными, нейтрализованными Ночными Митами. Вы можете разместить его где угодно в Долине, чтобы поделиться им с Тимон, Пумба и Симба.
+
+TAG: Secret!SwordInStone!Merlin!SEC_Merl_050_Group04_Step04_Party01_StepDescription
+Праздновать, как остановить нашествие ночных митов.
+

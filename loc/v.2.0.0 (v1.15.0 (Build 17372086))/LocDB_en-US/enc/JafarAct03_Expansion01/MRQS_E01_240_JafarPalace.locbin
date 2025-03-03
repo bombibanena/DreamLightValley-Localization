@@ -1,0 +1,33 @@
+
+—
+?Story!Expansion01!MRQS_E01_240_JafarPalace_AvailableDescriptionTAt last, the way into the palace is clear. It's time to stop Jafar once and for all.
+L
+6Story!Expansion01!MRQS_E01_240_JafarPalace_DisplayNameThe Palace of Time
+˜
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group01_Step01_VisitArea01_StepDescription?Enter the palace through the trap door hidden in the Promenade.
+|
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group02_Step02_VisitArea02_StepDescription#Find a way to get across the chasm.
+ü
+CStory!Expansion01!MRQS_E01_240_JafarPalace_Group02_StoryDescription´You find the inside of the palace littered with puzzles and mysterious hourglasses. They must be remnants of Jafar's experiments with the ancient technology found on Eternity Isle.
+|
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group03_Step03_VisitArea03_StepDescription#Find a way to get through the door.
+x
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group04_Step04_VisitArea04_StepDescriptionExplore further in the passage.
+}
+WStory!Expansion01!MRQS_E01_240_JafarPalace_Group05_Step05_Conditional01_StepDescription"Find a way to deactivate the door.
+n
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group06_Step06_VisitArea05_StepDescriptionGet through the door.
+{
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group07_Step07_VisitArea06_StepDescription"Confront Jafar in the throne room.
+b
+CStory!Expansion01!MRQS_E01_240_JafarPalace_Group07_StoryDescriptionAt last... you reach Jafar!
+†
+IStory!Expansion01!MRQS_E01_240_JafarPalace_Group08_Step08_StepDescription9Explore the palace to find the key that unlocks the gate.
+Â
+CStory!Expansion01!MRQS_E01_240_JafarPalace_Group08_StoryDescription{But he's barred the door, stopping you from reaching him in the palace throne room. You'll need to find the key to proceed.
+t
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group09_Step09_VisitArea07_StepDescriptionGet inside the throne room.
+™
+UStory!Expansion01!MRQS_E01_240_JafarPalace_Group10_Step10_VisitArea08_StepDescription@Step inside the mysterious <Lore>Time Rift</Lore> in the palace.
+e
+BStory!Expansion01!MRQS_E01_240_JafarPalace_Group10_StepDescriptionThere's no way to get to Jafar!

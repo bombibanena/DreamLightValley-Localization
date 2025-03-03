@@ -1,0 +1,19 @@
+
+h
+IStory!Expansion02!MRQS_E02_081_TrialFlame_Any_CompletedRequestDescriptionПоговори с Аид.
+�
+>Story!Expansion02!MRQS_E02_081_TrialFlame_AvailableDescription�{PlayerName} столкнулся с ещё одним мифическим испытанием во время путешествия через Мифопию.
+�
+CStory!Expansion02!MRQS_E02_081_TrialFlame_CompletedStoryDescription�{PlayerName} обнаружил вызов Прометея внутри суда: укради огонь и доставь его в его законное место.
+\
+5Story!Expansion02!MRQS_E02_081_TrialFlame_DisplayName#Прометейское пламя
+�
+TStory!Expansion02!MRQS_E02_081_TrialFlame_Group01_Step01_VisitArea01_StepDescription^Введите мифическое испытание на огненных равнинах.
+y
+ZStory!Expansion02!MRQS_E02_081_TrialFlame_Group02_Step02_TalkToCharacter01_StepDescriptionПоговори с Аид.
+�
+HStory!Expansion02!MRQS_E02_081_TrialFlame_Group03_Step03_StepDescriptionpПеренесите каждый <ActivityItem>Flaming Forch</ActivityItem> в правильное место.
+�
+ZStory!Expansion02!MRQS_E02_081_TrialFlame_Group04_Step04_TalkToCharacter02_StepDescription'Возвращайтесь на Аид.
+�
+VStory!Expansion02!MRQS_E02_081_TrialFlame_Group06_Step06_Interaction01_StepDescriptionoВзаимодействовать с волшебной коррупцией в центре процесса.

@@ -1,0 +1,105 @@
+TAG: Ursula_000_f
+Hey Ursula, can we have a little chat?
+
+TAG: Player_000_choice_000_f
+It's so nice that you're making friends with Sally!
+
+TAG: Player_000_choice_001_f
+What are you going to use the potion for?
+
+TAG: Player_000_choice_002_f
+You better not be plotting anything here...
+
+TAG: Ursula_001_f
+Why, angelfish, of course! And what would you like to discuss? Oh hello, Sally dear!
+
+TAG: Ursula_020_f
+Hello, Ursula!
+
+TAG: Ursula_002_f
+I'm trying to help Sally out with gathering the Ingredients for the potion you two are working on.
+
+TAG: Ursula_003_f
+Well, aren't you the helpful little guppy?
+
+TAG: Ursula_004_f
+I was having a hard time finding more of that <ActivityItem>Arcane Sprout</ActivityItem> you need. Do you know in which Biome we can find it?
+
+TAG: Ursula_005_f
+Certainly! That one's typically found in <Lore>the Forgotten Lands</Lore>.
+
+TAG: Ursula_006_f
+Now if that's all, I have some important work to attendâ
+
+TAG: Ursula_007_f
+Actually, there is one more thing I wanted to discuss.
+
+TAG: Ursula_008_f
+Oh, I adore her. She's such a doll!
+
+TAG: Ursula_009_f
+I mean... yeah â literally.
+
+TAG: Ursula_010_f
+So kind, sweet, gullible...
+
+TAG: Ursula_011_f
+... Gullible?
+
+TAG: Ursula_012_f
+What? No. Did I say that? I meant flexible! She can change potion strategies in the blink of an eye! She's really quite talented.
+
+TAG: Ursula_018_f
+That's nice of you to say, Ursula. I think we'll get back to hunting for those plants now.
+
+TAG: Ursula_023_f
+{PlayerName}, if you find the sprout before me, could you <Lore>bring it to my House</Lore>? I need to use Jack's cauldron for some preparations.
+
+TAG: Ursula_024_f
+Sure!
+
+TAG: Ursula_019_f
+Ta-ta, my two angelfish!
+
+TAG: Ursula_013_f
+Oh, nothing much, I assure you. It's for... a hair tonic.
+
+TAG: Player_001_choice_000_f
+Okay, that doesn't sound too wild.
+
+TAG: Player_001_choice_001_f
+Well, you do both have hair...
+
+TAG: Player_001_choice_002_f
+I don't believe that for a second!
+
+TAG: Ursula_014_f
+How are you finding working with Sally?
+
+TAG: Ursula_025_f
+Indeed! And mine's in salt water most of the time. It needs some extra care.
+
+TAG: Ursula_026_f
+Please, {PlayerName}, it's all right. I trust Ursula.
+
+TAG: Ursula_027_f
+Hmm, one last question...
+
+TAG: Ursula_028_f
+Ursula, what's it like working with Sally?
+
+TAG: Ursula_021_f
+Oh, {PlayerName}...
+
+TAG: Ursula_015_f
+Me? Plotting something with Sally? I'd never!
+
+TAG: Ursula_016_f
+I was more concerned about you plotting something involving Sally, to be honest.
+
+TAG: Ursula_017_f
+But I simply adore working with her!
+
+TAG: Ursula_022_f
+You see? She's my friend!
+

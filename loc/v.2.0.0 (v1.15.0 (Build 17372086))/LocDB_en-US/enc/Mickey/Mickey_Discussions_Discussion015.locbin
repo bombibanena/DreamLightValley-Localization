@@ -1,0 +1,29 @@
+
+^
+Mickey_000_fNMickey, you took care of all the gardening around the Village for a long time.
+%
+Mickey_001_fDo you have any tips?
+)
+Mickey_002_fOh, gosh. Let me think...
+f
+Mickey_003_fVOh! I got one! Certain crops seem to grow a lot faster in certain parts of the Valley.
+@
+Mickey_005_f0Hm... I guess it must be the climate and soil...
+|
+Mickey_004_flYep. So if you wanna grow a lot of vegetables fast, you've gotta start lots of gardens all over the Village.
+A
+Player_000_f1Thanks for the tip. When it comes to gardening...
+N
+Player_000_choice_000_f3...I'm great at it, but I can always use more help.
+K
+Player_000_choice_001_f0...I'm getting better, but still need some tips.
+J
+Player_000_choice_002_f/...I'm hopeless! I need all the help I can get.
+7
+Mickey_007_f'Well, I'm always around if you need me!
+R
+Mickey_006_fBAw, you're learning pretty fast. Soon I'll be asking you for tips!
+3
+Mickey_008_f#Aw, don't sell yourself short, pal.
+c
+Mickey_009_fSJust keep planting things and harvesting 'em. I bet you'll get the hang of it soon.

@@ -1,0 +1,162 @@
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Any_CompletedRequestDescription
+Поговори с Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_AvailableDescription
+Дейзи приходит к вам с большим новым проектом. Она хочет организовать праздник, чтобы отпраздновать жизнь в деревне. На самом деле, она проделала большую часть работы и нуждается только в том, чтобы вы получили еду от Реми.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_CompletedStoryDescription
+Всё прояснилось, но есть только один способ убедиться, что Дейзи счастлив.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_DisplayName
+Блестящая Гала
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Реми.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group02_Step02_ReadyDescription
+Возьмите {itemName} на {TargetNPC}.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group02_Step02_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group03_Step03_DressUp01_StepDescription
+{ItemName}.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group03_Step03_DressUp02_StepDescription
+<ActivityItem>Elegant</ActivityItem>
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group03_Step03_StepDescription
+Одевайтесь для Дейзи гала.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group03_StoryDescription
+Как только вы доставите еду для гала, Дейзи заставит вас собрать элегантный костюм.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group04_Step04_StepDescription
+Прямо в замок Мечты, чтобы начать праздник.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group04_StoryDescription
+Теперь, когда вы готовы, пришло время присоединиться к празднику в замке Мечты.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group05_Step05_StepDescription
+Поговори с Дейзи, когда закончишь общаться.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group05_StepDescription
+Наслаждайтесь вечеринкой!
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group06_Step06_TakePicture01_StepDescription
+Сфотографируйся со всеми в замке.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group06_StoryDescription
+Дейзи думает, что лучший способ закончить праздник - это сфотографировать всех.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group07_Step07_TalkToCharacter07_StepDescription
+Поговори с Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group07_StepDescription
+Повсюду блестит блеск.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group07_StoryDescription
+Гала закончилась взрывом, так как сейчас повсюду блеск... тебе следует поговорить об этом с Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group08_Step08_TalkToCharacter08_StepDescription
+Ваниллопа.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group08_Step08_TalkToCharacter09_StepDescription
+Кристофф.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group08_StepDescription
+Расследуйте ситуацию, спросив гостей, что они видели.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group08_StoryDescription
+Дейзи хочет выяснить, кто саботировал ее гала. Она поручает вам спросить Ваниллопа и Кристофф если они что-то видели.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group09_Step09_TalkToCharacter10_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group09_StoryDescription
+После опроса ваших двух свидетелей вы возвращаетесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group10_Step10_TalkToCharacter11_StepDescription
+Поговори с Скрудж Макдак МакДаком.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group10_StoryDescription
+Дейзи нашла доказательства того, что Скрудж Макдак стоит за бомбой с блеском, и просит вас противостоять ему от ее имени.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group11_Step11_VisitArea02_StepDescription
+Следуйте по следу блеска на пляже Даззл.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group11_StoryDescription
+Скрудж Макдак МакДак отрицает свою причастность и указывает на какой-то блеск на пляже Даззл.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group12_Step12_VisitArea03_StepDescription
+Идите внутрь проклятой пещеры.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group13_Step13_Possess01_StepDescription
+Обыщите Проклятую Пещеру для <ActivityItem>Clue</ActivityItem>.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group14_Step14_ReadyDescription
+Возьмите {itemName} на {TargetNPC}.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group14_Step14_StepDescription
+Убедитесь, что {itemName} в вашем списке.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group14_StoryDescription
+Вы нашли подсказку внутри пещеры Проклятых.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group15_Step15_TalkToCharacter12_StepDescription
+Поговори с Стич.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group15_StoryDescription
+Дейзи понимает, что Стич и Ваниллопа ответственны за блестящий гала. Она решает обмануть их, чтобы признать истину, и заставляет вас помочь.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group16_Step16_TalkToCharacter13_StepDescription
+Возвращайтесь на Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group16_StoryDescription
+Стич согласился. Он и Ваниллопа встретятся с вами в пещере Проклятых. Пора рассказать Дейзи об этом.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group17_Step17_VisitArea04_StepDescription
+Идите в проклятую пещеру с Дейзи.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group18_Step18_Listen01_StepDescription
+Слушайте, как Дейзи противостоит Ваниллопа и Стич.
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне надеть?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Куда мне идти?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что вам нужно?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_Group15_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+
+TAG: Village!Mickey!Daisy!VLG_Dais_060_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

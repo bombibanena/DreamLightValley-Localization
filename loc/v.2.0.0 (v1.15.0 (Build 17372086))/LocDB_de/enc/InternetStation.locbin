@@ -1,0 +1,77 @@
+
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_025_fZЕсли передумаешь, ты должен знать, где меня найти.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_026_fFВ конце концов... ты поместил меня сюда!
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_000_f�Приветствую вас, деревенщина Вэлли! Я - станция для посещений KL-1200 <Lore>Valley</Lore>, оборудованная для быстрого межмерного транспорта.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_001_f�Ваша связь с другими долинами в настоящее время <Lore>open</Lore>. Ваши друзья могут посетить Вашу Долину, используя специальный секретный код: {roomid}.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_002_fЧем могу помочь?
+�
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_000_fZЗакройте связь с {roomid}. Я не хочу больше посещений.
+{
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_001_f!Приглашать друзей
+�
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_002_f9Управляйте моими посетителями.
+�
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_000_choice_003_fmОставьте связь открытой. Мне нужно больше посещений Долины!
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_003_f�Пожалуйста, подождите минутку, пока я закрою вашу связь с другими долинами.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_004_f�Ваша связь с Вэлли сейчас <Lore>boxd</Lore>. Ваши друзья больше не смогут посетить Виллидж.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_005_f�Если вы хотите снова открыть соединение, <Lore>spic для меня, чтобы создать новый код</Lore>.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_006_f(Что ты хочешь сделать?
+|
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_001_choice_000_f"Убрать посетителя.
+�
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_001_choice_001_f*Заблокируй посетителя.
+p
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_001_choice_002_fЯ передумал.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_007_f?Какой посетитель вы хотите убрать?
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_008_fЯ передумал.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_009_f]Не хотите ли вы удалить"{selectedplayername}"из твоей долины?
+^
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_002_choice_000_fДа
+`
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_002_choice_001_fНет
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_010_fNОперация завершена."{selectedplayername}"был удален.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_011_f+Упс, что-то пошло не так.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_012_f6Кого ты хочешь заблокировать?
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_013_fЯ передумал.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_014_f�Хотите заблокировать?"{selectedplayername}"из этой связи и любой другой связи, которую вы создадите в будущем?
+^
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_003_choice_000_fДа
+`
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_003_choice_001_fНет
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_015_fZОперация завершена."{selectedplayername}"был заблокирован.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_016_f}Если вы когда-нибудь захотите закрыть связь, просто <Lore>talk ко мне</Lore>.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_017_f?Не забудь, твой секретный код {roomid}!
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_018_f�Приветствую вас, деревенщина Вэлли! Я - станция для посещений KL-1200 <Lore>Valley</Lore>, оборудованная для быстрого межмерного транспорта.
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_019_f�Вы хотите <Lore>open связь с Valley Vises</Lore>? Ваши друзья смогут посетить вашу деревню по специальному коду!
+�
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_004_choice_000_fCОткройте связь для посещений Долины!
+�
+VPlayerDialog/InternetStation.Dialog_Designing_InternetStationDialogue_004_choice_001_f,Может быть, в другой раз!
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_020_f�Пожалуйста, подождите минутку, пока я создам специальный пароль вашей долины!
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_021_fuСпасибо за ваше терпение, ваш код {roomid}, не забудьте записать его!
+�
+kDialog/InternetStation.Dialog_Designing_InternetStationDialogue.Building.Internet_Station_DisplayName_022_f�Теперь ваши друзья могут посетить Вашу Долину, введя этот код в меню для начала. {crossplaywarning}

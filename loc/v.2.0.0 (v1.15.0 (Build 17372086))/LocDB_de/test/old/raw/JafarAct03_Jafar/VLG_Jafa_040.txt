@@ -1,0 +1,147 @@
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Any_CompletedRequestDescription
+Отдай свое окончательное решение Джафар.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_AvailableDescription
+Джафар был сорван, но остается один вопрос: "Какие последствия он столкнется?"
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_DisplayName
+Вечное испытание
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group01_Step01_TalkToCharacter01_StepDescription
+Рапунцель.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group01_Step01_TalkToCharacter02_StepDescription
+Гастон.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group01_Step01_TalkToCharacter03_StepDescription
+Освальд.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group01_Step01_TalkToCharacter04_StepDescription
+Реми.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group01_Step01_TalkToCharacter05_StepDescription
+ЕВА.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group01_Step01_TalkToCharacter06_StepDescription
+Скрудж Макдак МакДак.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group01_StepDescription
+Приготовьтесь к судебному процессу с деревенскими жителями:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group02_Step02_Possess01_StepDescription
+Тропическая древесина.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group02_Step02_Possess02_StepDescription
+Брасс Инготс.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group02_Step02_Possess03_StepDescription
+Пластиковые шрамы.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group02_Step02_Possess04_StepDescription
+Бамбук.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group02_Step02_Possess05_StepDescription
+Фибер.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group02_StepDescription
+Соберите ресурсы, необходимые для изготовления первой мебели:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group02_StoryDescription
+После того, как судебные функции и снаряжение будут выполнены, правосудие может начаться.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group03_Step03_CraftItem01_StepDescription
+Адвокат стоит.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group03_Step03_CraftItem02_StepDescription
+Бамбуковые скамьи.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group03_StepDescription
+Приготовить пробную мебель:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group04_Step04_VisitArea01_StepDescription
+Отправляйтесь в Древние Руины, чтобы следить за прогрессом в зале суда.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group05_Step05_BringItem01_StepDescription
+Адвокат стоит.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group05_Step05_BringItem02_StepDescription
+Скамейки.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group05_Step05_ReadyDescription
+Принесите мебель на Гастон.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group05_Step05_StepDescription
+Убедись, что у тебя есть:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group06_Step06_TalkToCharacter07_StepDescription
+Свяжитесь с Освальд о его охоте на судью Мечты.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group07_Step07_DressUp01_StepDescription
+Пороховая Вига Коммодора.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group07_Step07_DressUp02_StepDescription
+Немного элегантной одежды.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group07_Step07_StepDescription
+Одевайся, как шикарный судья, используя:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group07_Step08_StepDescription
+(Вариант: закажи Commodore's Powdered Wig из магазина Скрудж Макдак.)
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group07_StoryDescription
+Подготовка к судебному разбирательству завершена, и все жители деревни согласны с тем, что ты должен быть судьей.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group08_Step09_VisitArea02_StepDescription
+Возвращайся в Древние Руины, чтобы начать процесс.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group09_Step10_VisitArea03_StepDescription
+Подойдите к председателю судьи в Древних Руинах.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group09_Step11_Listen01_StepDescription
+Позволь Скрудж Макдак и Джафар обсудить.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group09_StepDescription
+Начать процесс:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group10_Step12_TalkToCharacter08_StepDescription
+Поговори с Гастон, чтобы услышать его показания.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group11_Step14_StepDescription
+Слушайте дебаты в зале суда.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group12_Step15_TalkToCharacter09_StepDescription
+Поговори с Освальд, чтобы услышать его показания.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group12_StepDescription
+Позволь Освальд приехать на стойку свидетеля.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group13_Step16_ConsumeItem01_StepDescription
+Пограничные земли.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group13_Step16_ConsumeItem02_StepDescription
+Лагун.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group13_Step16_ConsumeItem03_StepDescription
+Переоценка.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group13_StepDescription
+Воспользуйтесь часовым стеклом, чтобы отследить хорошие воспоминания Джафар в:
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group13_StoryDescription
+Суд заслушал показания нескольких деревенских жителей, но Джафар бросил гаечный ключ в процесс, указав, что из-за забвения никто не помнит о том, что он вел себя хорошо.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group14_Step17_VisitArea05_StepDescription
+Возвращайся в кресло судьи в зале суда в Древних Руинах.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group15_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что дальше?
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group15_Step18_VisitArea07_StepDescription
+Оставайтесь рядом с председателем судьи в Древних Руинах.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_Group15_StepDescription
+Позволь Освальд приехать на стойку свидетеля.
+
+TAG: Village!Aladdin!Jafar!VLG_Jafa_040_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

@@ -1,0 +1,9 @@
+TAG: Gaston_000_f
+Эй Гастон, можешь напомнить мне о требованиях к вызову?
+
+TAG: Gaston_001_f
+Сомневаюсь, что ты съел завтрак достаточно большой, чтобы стимулировать память, как моя.
+
+TAG: Gaston_002_f
+Очистить <ActivityItem>3 Copper Rocks</ActivityItem> и <ActivityItem>3 Sclass Stalagmites</ActivityItem> в <Lore>Glittering Dunes</Lore>.
+

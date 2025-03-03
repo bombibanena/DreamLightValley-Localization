@@ -1,0 +1,39 @@
+TAG: EVE_000_f
+WALLÂ·E?
+
+TAG: Player_000_f
+You want to talk about WALLÂ·E?
+
+TAG: Player_000_choice_000_f
+Do you like him?
+
+TAG: Player_000_choice_001_f
+He's adorable!
+
+TAG: Player_000_choice_002_f
+He's a funny little box.
+
+TAG: EVE_001_f
+...
+
+TAG: EVE_002_f
+Classified...
+
+TAG: Player_001_choice_000_f
+That's adorable.
+
+TAG: Player_001_choice_001_f
+EVE and WALLÂ·E, sitting in a tree...
+
+TAG: EVE_003_f
+*giggle*
+
+TAG: EVE_004_f
+Huh?
+
+TAG: EVE_005_f
+*giggle*
+
+TAG: EVE_006_f
+No! ... *sigh* WALLÂ·E.
+

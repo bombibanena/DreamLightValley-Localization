@@ -1,0 +1,51 @@
+TAG: MikeWazowski_023_f
+So, how are you feeling about the Valley now?
+
+TAG: MikeWazowski_024_f
+Well, a lotta folks here have some very strange tastes...
+
+TAG: MikeWazowski_008_f
+I know it can't be fun when other people don't share your interests...
+
+TAG: MikeWazowski_009_f
+...but at least you got to catch up with your best bud and share a nostalgia-inducing treat!
+
+TAG: MikeWazowski_025_f
+And even if the Villagers don't like the same food as you, they're still super happy that you found your way back here.
+
+TAG: MikeWazowski_010_f
+Aww shucks. You're choking me up here, {PlayerName}.
+
+TAG: MikeWazowski_011_f
+How am I supposed to keep up my air of cool sophistication when you're makin' me misty-eyed?
+
+TAG: Player_001_choice_000_f
+Right, I forgot that you're a cool city guy!
+
+TAG: Player_001_choice_001_f
+Don't hide from your emotions, Mike!
+
+TAG: Player_001_choice_002_f
+You're right; my apologies.
+
+TAG: MikeWazowski_026_f
+And don't you forget it!
+
+TAG: MikeWazowski_029_f
+Oh, and one last thing, {PlayerName}...
+
+TAG: MikeWazowski_030_f
+Yes, Mike?
+
+TAG: MikeWazowski_013_f
+Even if your taste is questionable...
+
+TAG: MikeWazowski_014_f
+You're still the best.
+
+TAG: MikeWazowski_027_f
+You're right. I gotta appreciate how welcoming everyone is.
+
+TAG: MikeWazowski_028_f
+Listen, us city folk have an image to maintain!
+

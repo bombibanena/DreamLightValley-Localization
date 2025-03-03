@@ -1,0 +1,29 @@
+
+s
+ORepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Any_CompletedRequestDescription Return to Remy for your rewards.
+ã
+DRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_AvailableDescriptionCRemy has a special delivery order! Today's hungry Villager: Donald!
+V
+;Repeatable!Ratatouille!Remy!RPT_Remy_020_Donald_DisplayNameBon App√É¬©tit, Donald!
+ó
+YRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group01_Step01_CookMeal01_StepDescription:Cook <ActivityItem>5-Star Meals</ActivityItem> for Donald.
+ö
+YRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group02_Step02_CookMeal02_StepDescription=Cook <ActivityItem>5-Star Desserts</ActivityItem> for Donald.
+ò
+YRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group03_Step03_CookMeal03_StepDescription;Cook <ActivityItem>Seafood Meals</ActivityItem> for Donald.
+ë
+ORepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group04_Step04_ReadyDescription>Bring the <ActivityItem>5-Star Meals</ActivityItem> to Donald.
+ã
+NRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group04_Step04_StepDescription9Get <ActivityItem>5-Star Meals</ActivityItem> for Donald.
+ê
+ORepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group05_Step05_ReadyDescription=Bring <ActivityItem>5-Star Desserts</ActivityItem> to Donald.
+é
+NRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group05_Step05_StepDescription<Get <ActivityItem>5-Star Desserts</ActivityItem> for Donald.
+ê
+ORepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group06_Step06_ReadyDescription=Bring 5 <ActivityItem>Seafood Meals</ActivityItem> to Donald.
+é
+NRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group06_Step06_StepDescription<Get 5 <ActivityItem>Seafood Meals</ActivityItem> for Donald.
+Ö
+WRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_Group07_Step07_Listen01_StepDescription*Follow Donald to find out what he's up to.
+s
+BRepeatable!Ratatouille!Remy!RPT_Remy_020_Donald_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

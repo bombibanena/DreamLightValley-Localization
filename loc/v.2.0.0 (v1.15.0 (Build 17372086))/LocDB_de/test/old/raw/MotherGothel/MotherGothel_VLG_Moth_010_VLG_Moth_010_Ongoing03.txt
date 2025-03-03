@@ -1,0 +1,9 @@
+TAG: MotherGothel_000_f
+Скрудж Макдак хочет, чтобы ты приготовила что-нибудь для него?
+
+TAG: MotherGothel_001_f
+Ну, не стойте там, идите и делайте то, что вам нужно!
+
+TAG: MotherGothel_002_f
+Не спрашивай меня, дорогая."<ActivityItem>Micberry Дерево</ActivityItem>"?
+

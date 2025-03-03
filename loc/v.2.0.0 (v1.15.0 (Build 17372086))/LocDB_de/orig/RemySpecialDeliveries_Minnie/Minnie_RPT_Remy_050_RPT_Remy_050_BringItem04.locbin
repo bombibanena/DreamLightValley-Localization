@@ -1,0 +1,42 @@
+
+H
+Minnie_000_f8Oh! These look delicious, {PlayerName}. Are they for me?
+
+Minnie_001_f
+Thank you!
+M
+Minnie_002_f=These aren't from me. Somebody else asked me to deliver them.
+/
+Player_000_choice_000_fBut I can't say who.
+>
+Player_000_choice_002_f#It was a very nice lady. Guess who?
+6
+Player_000_choice_003_fIt was the Fairy Godmother.
+H
+Minnie_003_f8Someone asked you to bring me these... What a mystery...
+g
+Minnie_005_fWNow, who would be so thoughtful, knows I like mysteries... and works with dreams... Oh!
+/
+Minnie_004_fIt must be the Fairy Godmother!
+-
+Player_001_choice_000_fHow did you guess?
+$
+Player_001_choice_001_f	Uh... no.
+X
+Minnie_007_fHThe Fairy Godmother is always so kind. She only thinks of everyone else.
+L
+Minnie_008_f<She must let someone do something nice for her for a change.
+s
+Minnie_013_fcOh, I know! I just made a few batches of my <ActivityItem>Gingerbread Cookies</ActivityItem>. Here.
+l
+Minnie_014_f\Please give them to the Fairy Godmother. And be sure NOT to tell her that they came from me.
+@
+Minnie_015_f0Oh, and try not to eat them on the way! *giggle*
+f
+Minnie_009_fVOh, {PlayerName}. I hope I don't offend you by saying you're not very good at fibbing.
+/
+Minnie_010_fThe Fairy Godmother sent these?
+6
+Minnie_011_f&Whoops. I wasn't supposed to tell you.
+B
+Minnie_012_f2*giggle* Don't worry; your secret is safe with me.

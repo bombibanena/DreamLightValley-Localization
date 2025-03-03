@@ -1,0 +1,36 @@
+TAG: Aladdin_001_f
+{PlayerName}, thanks to your help, we did it!
+
+TAG: Aladdin_002_f
+It was definitely tricky up there, but now Agrabah can start getting back to normal.
+
+TAG: Player_000_choice_000_f
+Mission accomplished!
+
+TAG: Player_000_choice_001_f
+I couldn't have done it without you and Jasmine.
+
+TAG: Player_000_choice_002_f
+No way am I letting weird ancient magical wind structures mess with my friends!
+
+TAG: Aladdin_003_f
+Not every visitor would have stuck around and helped like that. You're a real friend.
+
+TAG: Aladdin_006_f
+So, what's next? Are you ready to visit Dreamlight Valley with me now?
+
+TAG: Aladdin_007_f
+I better make sure everything's settled down here first.
+
+TAG: Aladdin_008_f
+But why don't you <Lore>talk to Jasmine</Lore>? She definitely deserves a break. She's been so worried since this whole mess started.
+
+TAG: Aladdin_009_f
+True! The fountain is done and the people of Agrabah are safe. She does deserve to relax.
+
+TAG: Aladdin_004_f
+And we couldn't have done it without you!
+
+TAG: Aladdin_005_f
+Well, we â and Carpet â are happy to be considered your friends.
+

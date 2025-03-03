@@ -1,0 +1,66 @@
+TAG: Mirabel_000_f
+Mirabel, do you think you could help me out with something?
+
+TAG: Mirabel_001_f
+Of course, {PlayerName}! What can I do?
+
+TAG: Mirabel_002_f
+Have you met the Beast yet? He's a little new to the Valley.
+
+TAG: Mirabel_003_f
+I have! We've spoken a little.
+
+TAG: Mirabel_004_f
+He's... not really a chatterbox, huh?
+
+TAG: Player_000_choice_000_f
+You could say that.
+
+TAG: Player_000_choice_001_f
+That's... an understatement.
+
+TAG: Player_000_choice_002_f
+That's what I need help with!
+
+TAG: Mirabel_005_f
+You could even go further than that!
+
+TAG: Mirabel_006_f
+Not everyone finds it easy to meet new people.
+
+TAG: Mirabel_007_f
+When we finally talked my TÃ­o Bruno into moving out of the walls, he was still pretty shy in crowds. Lots of people are just shy.
+
+TAG: Player_001_choice_000_f
+You sure you're up to this?
+
+TAG: Player_001_choice_001_f
+I thought we weren't supposed to talk about him...
+
+TAG: Mirabel_008_f
+Absolutely!
+
+TAG: Mirabel_009_f
+I'd be happy to spend some time with the Beast.
+
+TAG: Mirabel_010_f
+So what's the plan?
+
+TAG: Mirabel_011_f
+Why don't you ask him to come see me later? I have a sewing project he could help with.
+
+TAG: Mirabel_012_f
+If we do something together, that might help him feel more comfortable.
+
+TAG: Mirabel_013_f
+Perfect! I'll pass along your suggestion and see if the Beast is up to it.
+
+TAG: Mirabel_014_f
+Oh, did I tell you about that? Well, that's all in the past.
+
+TAG: Mirabel_015_f
+Phew!
+
+TAG: Mirabel_016_f
+But, hey, it's okay.
+

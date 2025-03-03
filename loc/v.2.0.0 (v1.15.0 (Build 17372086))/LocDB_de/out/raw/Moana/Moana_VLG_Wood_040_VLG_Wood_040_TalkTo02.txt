@@ -1,0 +1,39 @@
+TAG: Moana_002_f
+Hey, {PlayerName}. Off on another great adventure?
+
+TAG: Moana_000_f
+Woody and I are trying to fix his Carousel.
+
+TAG: Moana_001_f
+Merlin enchanted an old toy chest to power the lights, but for it to work we need some treasured childhood items.
+
+TAG: Player_000_f
+I was wondering if we could borrow something of yours...
+
+TAG: Player_000_choice_000_f
+I bet the ocean gave you tons of gifts.
+
+TAG: Player_000_choice_001_f
+It would help the Village.
+
+TAG: Player_000_choice_002_f
+Anything with a cute backstory will do, really.
+
+TAG: Moana_003_f
+The ocean is definitely a friend of mine. I remember the first time I realized that...
+
+TAG: Moana_007_f
+I was really young and I'd run off to the beach on my own.
+
+TAG: Moana_004_f
+A baby turtle needed to reach the water, so I protected it from some birds. Then the ocean gave me some shells... and the heart of Te Fiti.
+
+TAG: Moana_006_f
+I'd be happy to share one of the shells with Woody. Here you go. It's a <ActivityItem>Conch Shell</ActivityItem>.
+
+TAG: Moana_008_f
+You know I always like to help. And I have just the thing...
+
+TAG: Moana_009_f
+Oh, I have just the thing!
+

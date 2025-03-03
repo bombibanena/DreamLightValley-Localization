@@ -1,0 +1,30 @@
+TAG: Minnie_000_f
+You've done a wonderful job, {PlayerName}! The <ActivityItem>Rustic Clock Tower</ActivityItem> looks as good as new â both elegant and useful!
+
+TAG: Minnie_001_f
+You know, seeing you do so many useful things reminds me of the Cheerful Chums Club.
+
+TAG: Player_000_choice_000_f
+What's the Cheerful Chums Club?
+
+TAG: Player_000_choice_001_f
+I like being useful!
+
+TAG: Minnie_002_f
+Well, I don't recall exactly who was in the club.
+
+TAG: Minnie_003_f
+But I know we made sure everyone in the Village had what they needed.
+
+TAG: Minnie_005_f
+If the club were around today, I might just nominate you to be the president!
+
+TAG: Minnie_006_f
+Oh, before I forget, I made these clothes as a thank-you present for all your wonderful work.
+
+TAG: Minnie_007_f
+I hope you like them!
+
+TAG: Minnie_004_f
+And we're all very grateful for your help!
+

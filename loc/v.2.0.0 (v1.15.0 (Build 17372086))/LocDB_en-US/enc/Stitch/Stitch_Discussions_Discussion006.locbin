@@ -1,0 +1,17 @@
+
+B
+Stitch_000_f2Hello, {PlayerName}! Stitch making new hula dance!
++
+Stitch_001_fWhat should dance be about?
+#
+Player_000_choice_001_fFlowers.
+"
+Player_000_choice_002_fFamily.
+4
+Stitch_003_f$Yeah! Stitch's family likes flowers.
+?
+Stitch_006_f/Flowers are good for hula. Flowers mean family!
+>
+Stitch_004_f.Okay! Stitch has good family. Little but good.
+k
+Stitch_005_f[I will make hula about <font="JosefinSans-MediumItalic SDF">'ohana</font> â my family.

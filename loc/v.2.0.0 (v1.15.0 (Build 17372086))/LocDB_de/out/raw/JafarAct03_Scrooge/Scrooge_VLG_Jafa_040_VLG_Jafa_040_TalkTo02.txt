@@ -1,0 +1,33 @@
+TAG: Scrooge_001_f
+Hey Mr. McDuck, I've got a bit of a favor to ask you.
+
+TAG: Scrooge_010_f
+Well, if you want to do this right, I'd suggest crafting some <ActivityItem>Bamboo Benches</ActivityItem> and <ActivityItem>Attorney Stands</ActivityItem>.
+
+TAG: Scrooge_011_f
+Crafting them will require <ActivityItem>Tropical Wood</ActivityItem>, <ActivityItem>Brass Ingots</ActivityItem>, <ActivityItem>Plastic Scraps</ActivityItem>, <ActivityItem>Bamboo</ActivityItem>, and <ActivityItem>Fiber</ActivityItem>.
+
+TAG: Scrooge_012_f
+Thanks, Mr. McDuck; I'll get on that now!
+
+TAG: Scrooge_002_f
+Of course, {PlayerName}; how can I help ya?
+
+TAG: Scrooge_003_f
+So I'm putting together everything we'll need for a trial for Jafarâ
+
+TAG: Scrooge_004_f
+Well, it's about time!
+
+TAG: Scrooge_006_f
+I need someone to act as prosecuting attorney. Would you be interested?
+
+TAG: Scrooge_007_f
+Bless me bagpipes! You bet I would!
+
+TAG: Scrooge_008_f
+I'll even help ya with the furnishings. You'll want some official-looking benches and stands for the whole affair, I imagine?
+
+TAG: Scrooge_009_f
+Yes, actually! That's the next thing on my to-do list.
+

@@ -1,0 +1,78 @@
+TAG: Ursula_001_f
+{PlayerName}? What brings you here? Beyond my sparkling conversation, that is.
+
+TAG: Ursula_003_f
+I have a surprise for you!
+
+TAG: Ursula_021_f
+Can you meet me in the <ActivityItem>Cursed Cave</ActivityItem>? I still need to fetch it.
+
+TAG: Ursula_022_f
+Ha! You don't fool me, angelfish. Do you really think I'm going back in there to be locked away again?
+
+TAG: Player_002_choice_000_f
+It's nothing nefarious, I promise!
+
+TAG: Player_002_choice_001_f
+It's symbolic â I want to make that a place of happy memories.
+
+TAG: Player_002_choice_002_f
+Oh... this is awkward...
+
+TAG: Ursula_024_f
+Really? Would you promise... your voice?
+
+TAG: Ursula_025_f
+Absolutely!
+
+TAG: Ursula_034_f
+Keep talking. An offer like this doesn't happen every day. Naturally, I'm... suspicious.
+
+TAG: Player_000_choice_000_f
+And I feel bad about that.
+
+TAG: Player_000_choice_001_f
+Well, it's time to change that!
+
+TAG: Player_000_choice_002_f
+We want to turn over a new... tentacle.
+
+TAG: Ursula_007_f
+Hmph. As you should!
+
+TAG: Ursula_018_f
+You've been a... nearly model citizen, and we want to reward you.
+
+TAG: Ursula_019_f
+I have, haven't I? And I agree, I deserve a reward.
+
+TAG: Ursula_020_f
+What's this gift you want to give me?
+
+TAG: Ursula_032_f
+It's a brand-new <ActivityItem>Potion Set</ActivityItem>! Lovingly handcrafted from <ActivityItem>Glass</ActivityItem> and <ActivityItem>Softwood</ActivityItem>.
+
+TAG: Ursula_031_f
+I do need one of those. All right, I'll meet you. See you soon, dear.
+
+TAG: Ursula_008_f
+Go on.
+
+TAG: Ursula_009_f
+It's about time!
+
+TAG: Ursula_010_f
+Right... Okay...
+
+TAG: Ursula_026_f
+Hmm, then you wouldn't mind if I take certain... precautions?
+
+TAG: Ursula_027_f
+Not at all!
+
+TAG: Ursula_028_f
+I didn't mean it like that at all!
+
+TAG: Ursula_029_f
+Please, Ursula, I just want to make things better between us.
+

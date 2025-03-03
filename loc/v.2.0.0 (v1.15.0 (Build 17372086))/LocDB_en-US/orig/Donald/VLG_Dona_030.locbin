@@ -1,0 +1,75 @@
+
+ž
+7Village!Mickey!Donald!VLG_Dona_030_AvailableDescriptioncDonald thinks he's figured out how to open the <ActivityItem>Time Capsule</ActivityItem> you found!
+Ä
+<Village!Mickey!Donald!VLG_Dona_030_CompletedStoryDescriptionƒYou found the parts for some sort of grand fountain on the Sunlit Plateau. Now Donald will just have to figure out how to build it.
+G
+.Village!Mickey!Donald!VLG_Dona_030_DisplayNameThe Forgotten Project
+\
+?Village!Mickey!Donald!VLG_Dona_030_Group02_OngoingRequestButtonWhat were we doing again?
+š
+SVillage!Mickey!Donald!VLG_Dona_030_Group02_Step12_TalkToCharacter03_StepDescriptionCTalk to Merlin about the <ActivityItem>Time Capsule</ActivityItem>.
+ 
+;Village!Mickey!Donald!VLG_Dona_030_Group02_StoryDescriptionaDonald sends you to Merlin to ask about the mysterious <ActivityItem>Time Capsule</ActivityItem>.
+R
+?Village!Mickey!Donald!VLG_Dona_030_Group03_OngoingRequestButtonWhat about now?
+Z
+KVillage!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess01_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess07_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess08_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess09_StepDescription{ItemName}.
+Z
+KVillage!Mickey!Donald!VLG_Dona_030_Group03_Step03_Possess10_StepDescription{ItemName}.
+ 
+AVillage!Mickey!Donald!VLG_Dona_030_Group03_Step03_StepDescription[Gather the Ingredients for the <ActivityItem>Odorous Magnificus</ActivityItem> enchantment:
+á
+;Village!Mickey!Donald!VLG_Dona_030_Group03_StoryDescription¡Merlin reveals that the <ActivityItem>Time Capsule</ActivityItem> will only open up for the right smell. You set out to gather the Ingredients needed to open it.
+V
+?Village!Mickey!Donald!VLG_Dona_030_Group04_OngoingRequestButtonWhere should we go?
+¦
+AVillage!Mickey!Donald!VLG_Dona_030_Group04_Step04_StepDescriptionaGo to the Sunlit Plateau and find the locations shown in the <ActivityItem>Memory</ActivityItem>.
+Ö
+;Village!Mickey!Donald!VLG_Dona_030_Group04_StoryDescription–The <ActivityItem>Time Capsule</ActivityItem> contained a <ActivityItem>Memory</ActivityItem> showing that Donald hid something on the Sunlit Plateau.
+R
+?Village!Mickey!Donald!VLG_Dona_030_Group05_OngoingRequestButtonWhat about now?
+|
+MVillage!Mickey!Donald!VLG_Dona_030_Group05_Step05_CraftItem01_StepDescription+Craft the {itemName} at a Crafting Station.
+R
+?Village!Mickey!Donald!VLG_Dona_030_Group06_OngoingRequestButtonWhat about now?
+e
+BVillage!Mickey!Donald!VLG_Dona_030_Group06_Step06_ReadyDescriptionBring the {itemName} to Merlin.
+y
+AVillage!Mickey!Donald!VLG_Dona_030_Group06_Step06_StepDescription4Make sure you have the {itemName} in your Inventory.
+K
+?Village!Mickey!Donald!VLG_Dona_030_Group07_OngoingRequestButtonAnd now?
+›
+JVillage!Mickey!Donald!VLG_Dona_030_Group07_Step07_Unlock01_StepDescriptionMOpen the <ActivityItem>Time Capsule</ActivityItem> to discover what's inside.
+‚
+SVillage!Mickey!Donald!VLG_Dona_030_Group09_Step09_TalkToCharacter01_StepDescription+Talk to Donald about what you've uncovered.
+R
+?Village!Mickey!Donald!VLG_Dona_030_Group12_OngoingRequestButtonWhat about now?
+Ÿ
+KVillage!Mickey!Donald!VLG_Dona_030_Group12_Step16_Possess02_StepDescriptionPMake sure you have the <ActivityItem>Dreamlight Magnifier</ActivityItem> on you.
+š
+;Village!Mickey!Donald!VLG_Dona_030_Group12_StoryDescription[You borrow Mickey's <ActivityItem>Dreamlight Magnifier</ActivityItem> to use on the crates.
+c
+?Village!Mickey!Donald!VLG_Dona_030_Group13_OngoingRequestButton And now? I'm not exactly sure...
+Ì
+MVillage!Mickey!Donald!VLG_Dona_030_Group13_Step13_BringItem03_StepDescription{Use the <ActivityItem>Dreamlight Magnifier</ActivityItem> on the <ActivityItem>Crates</ActivityItem> on the Sunlit Plateau.
+~
+BVillage!Mickey!Donald!VLG_Dona_030_Group13_Step13_ReadyDescription8Bring the <ActivityItem>Crates</ActivityItem> to Donald.
+L
+?Village!Mickey!Donald!VLG_Dona_030_Group14_OngoingRequestButton	What now?
+˜
+AVillage!Mickey!Donald!VLG_Dona_030_Group14_Step14_StepDescriptionSTalk to Mickey about the <ActivityItem>Dreamlight Magnifier</ActivityItem> he owns.
+Y
+?Village!Mickey!Donald!VLG_Dona_030_Group15_OngoingRequestButtonWhat should we do now?
+¦
+SVillage!Mickey!Donald!VLG_Dona_030_Group15_Step15_TalkToCharacter06_StepDescriptionOTalk to Donald about the mysterious <ActivityItem>Wooden Crates</ActivityItem>.
+û
+;Village!Mickey!Donald!VLG_Dona_030_Group15_StoryDescription»You found a bunch of <ActivityItem>Wooden Crates</ActivityItem> buried on the Sunlit Plateau. But they're stuck between worlds in the Here and There. You'll need some way to get them out.
+f
+5Village!Mickey!Donald!VLG_Dona_030_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

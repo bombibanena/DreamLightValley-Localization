@@ -1,0 +1,42 @@
+TAG: EVE_000_f
+*giggle* *giggle*
+
+TAG: Player_000_f
+You look so happy! Is it because...
+
+TAG: Player_000_choice_000_f
+...WALLÂ·E is here?
+
+TAG: Player_000_choice_001_f
+...you like the Village?
+
+TAG: Player_000_choice_002_f
+...there are so many plants?
+
+TAG: EVE_001_f
+WALLLLÂ·EEEEEEEEEE!
+
+TAG: EVE_002_f
+Earth!
+
+TAG: Player_001_f
+Oh! This is not Earth, this is...
+
+TAG: Player_001_choice_000_f
+...some place in a dream...
+
+TAG: Player_001_choice_001_f
+...another planet!
+
+TAG: Player_001_choice_002_f
+...so much better!
+
+TAG: EVE_003_f
+Classified?
+
+TAG: EVE_004_f
+Home?
+
+TAG: EVE_005_f
+Plants!
+

@@ -1,0 +1,162 @@
+TAG: Aladdin!Jafar_DisplayName
+Джафар
+
+TAG: BeautyBeast!Beast_DisplayName
+Зверь
+
+TAG: BeautyBeast!Belle_DisplayName
+Белль
+
+TAG: BeautyBeast!Gaston_DisplayName
+Гастон
+
+TAG: Brave!Merida_DisplayName
+Мерида
+
+TAG: Cinderella!FairyGodMother_DisplayName
+Фея-крестная
+
+TAG: DreamlightValley!DarkCastleDoor_DisplayName
+{Placeholder} Dark Castle Door
+
+TAG: DreamlightValley!Lorekeeper_DisplayName
+The Lorekeeper
+
+TAG: DreamlightValley!PortalSecretChamber_DisplayName
+Dark Portal
+
+TAG: DreamlightValley!Raven_DisplayName
+Palace Raven
+
+TAG: DreamlightValley!TheForgotten_DisplayName
+The Forgotten
+
+TAG: DreamlightValley!TheForgottenIce_DisplayName
+{Placeholder}The Forgotten Ice
+
+TAG: DreamlightValley!WolfDoor_DisplayName
+The Wolf of the Wilds
+
+TAG: Encanto!Mirabel_DisplayName
+Мирабель
+
+TAG: Frozen!Anna_DisplayName
+Анна
+
+TAG: Frozen!Elsa_DisplayName
+Эльза
+
+TAG: Frozen!Kristoff_DisplayName
+Кристофф
+
+TAG: Frozen!Olaf_DisplayName
+Олаф
+
+TAG: Hercules!Hades_DisplayName
+Аид
+
+TAG: LilMermaid!Ariel_DisplayName
+Ариэль
+
+TAG: LilMermaid!PrinceEric_DisplayName
+Принц Принц Эрик
+
+TAG: LilMermaid!Ursula_DisplayName
+Урсула
+
+TAG: LiloStitch!Stitch_DisplayName
+Стич
+
+TAG: LionKing!Nala_DisplayName
+Нала
+
+TAG: LionKing!Pumbaa_DisplayName
+Пумба
+
+TAG: LionKing!Scar_DisplayName
+Шрам
+
+TAG: LionKing!Simba_DisplayName
+Симба
+
+TAG: LionKing!Timon_DisplayName
+Тимон
+
+TAG: Mickey!Daisy_DisplayName
+Дейзи
+
+TAG: Mickey!Donald_DisplayName
+Дональд Дак
+
+TAG: Mickey!Goofy_DisplayName
+Гуфи
+
+TAG: Mickey!Mickey_DisplayName
+Микки Маус
+
+TAG: Mickey!Minnie_DisplayName
+Минни Маус Мышь
+
+TAG: Mickey!Scrooge_DisplayName
+Скрудж Макдак
+
+TAG: Moana!Maui_DisplayName
+Мауи
+
+TAG: Moana!Moana_DisplayName
+Моана
+
+TAG: MonsterInc!MikeWazowski_DisplayName
+Майк Вазовски
+
+TAG: MonsterInc!Sully_DisplayName
+Салли
+
+TAG: Mulan!Mulan_DisplayName
+Мулан
+
+TAG: Mulan!Mushu_DisplayName
+Мушу
+
+TAG: Nightmare!JackSkellington_DisplayName
+Джек Скеллингтон Skellington
+
+TAG: Oswald!Oswald_DisplayName
+Освальд
+
+TAG: PrincessFrog!Tiana_DisplayName
+Тиана
+
+TAG: Ralph!Vanellope_DisplayName
+Ваниллопа
+
+TAG: Ratatouille!Remy_DisplayName
+Реми
+
+TAG: SleepBeauty!Maleficent_DisplayName
+Малефисента
+
+TAG: SwordInStone!Merlin_DisplayName
+Мерлин
+
+TAG: Tangled!Flynn_DisplayName
+Флин
+
+TAG: Tangled!MotherGothel_DisplayName
+Матушка Готель
+
+TAG: Tangled!Rapunzel_DisplayName
+Рапунцель
+
+TAG: ToyStory!Buzz_DisplayName
+Базз Лайтер Световой год
+
+TAG: ToyStory!Woody_DisplayName
+Вуди
+
+TAG: WallE!EVE_DisplayName
+ЕВА
+
+TAG: WallE!WallE_DisplayName
+ВАЛЛ·И
+

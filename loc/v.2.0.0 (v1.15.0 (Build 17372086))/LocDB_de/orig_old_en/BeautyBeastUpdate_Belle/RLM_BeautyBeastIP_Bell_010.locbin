@@ -1,0 +1,77 @@
+
+d
+RRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Any_CompletedRequestDescriptionTalk to Belle.
+¬
+GRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_AvailableDescriptionaYou enter the Realm to find an empty castle. You'll need to explore to see if anyone is inside...
+Å
+LRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_CompletedStoryDescriptionôAs Belle shared the memory of Beast feeding the birds, the canvas came to life. Although you were both concerned he might be angry, Beast loves the painting and thanks you. You tell Belle you will try to convince him to visit Dreamlight Valley.
+U
+>Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_DisplayNameInto the West Wing!
+u
+JRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group01_StepDescription'Explore the Beauty and the Beast Realm.
+e
+JRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group02_StepDescriptionFollow the flying book.
+{
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group03_Step04_TalkToCharacter01_StepDescriptionTalk to {TargetNPC}.
+{
+QRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group04_Step05_StepDescription&Catch the flying books in the library.
+Ö
+KRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group04_StoryDescription†You find Belle in the library, surrounded by a storm of flying books. She asks for your help in catching them and calming things down.
+—
+]Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group05_Step06_BringItem01_StepDescription6Make sure you have every {ItemName} in your Inventory.
+v
+RRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group05_Step06_ReadyDescription Bring every {ItemName} to Belle.
+œ
+_Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group06_Step07_FillKeyhole01_StepDescription9Find a way to get into the secret passage in the library.
+€
+KRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group06_StoryDescription°Belle explains that she and the Beast had an argument because she snuck into the West Wing. You volunteer to find the secret passage in the library to check on him in his room.
+{
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group07_Step08_TalkToCharacter02_StepDescriptionTalk to {TargetNPC}.
+l
+]Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group08_Step09_BringItem02_StepDescription{ItemName}.
+l
+]Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group08_Step09_BringItem03_StepDescription{ItemName}.
+l
+]Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group08_Step09_BringItem04_StepDescription{ItemName}.
+€
+RRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group08_Step09_ReadyDescription*Bring what you've gathered to {TargetNPC}.
+ž
+QRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group08_Step09_StepDescriptionIGather the following materials throughout the Beauty and the Beast Realm:
+u
+[Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group09_Step10_DressUp01_StepDescriptionPut on the {itemName}.
+u
+[Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group09_Step10_DressUp02_StepDescriptionPut on the {itemName}.
+ª
+_Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group10_Step11_Interaction01_StepDescriptionGPass through the curtain in the secret passage to get to the West Wing.
+{
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group11_Step12_TalkToCharacter03_StepDescriptionTalk to {TargetNPC}.
+{
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group12_Step13_TalkToCharacter04_StepDescriptionTalk to {TargetNPC}.
+Š
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group13_Step14_TalkToCharacter05_StepDescription#Talk to {TargetNPC} in the Village.
+‘
+KRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group13_StoryDescriptionÁYou find Beast brooding in the West Wing. He's upset because he caught Belle trying to fix his old portrait. To help him, you and Belle decide to make him a new portrait using Dreamlight Magic.
+j
+[Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group14_Step15_Possess01_StepDescription{ItemName}.
+j
+[Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group14_Step15_Possess02_StepDescription{ItemName}.
+j
+[Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group14_Step15_Possess03_StepDescription{ItemName}.
+j
+[Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group14_Step15_Possess04_StepDescription{ItemName}.
+j
+[Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group14_Step15_Possess05_StepDescription{ItemName}.
+t
+QRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group14_Step15_StepDescriptionGather the following materials:
+u
+]Realm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group15_Step16_CraftItem01_StepDescriptionCraft an {itemName}.
+œ
+RRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group16_Step17_ReadyDescriptionFBring the {itemName} to {TargetNPC} in the Beauty and the Beast Realm.
+‰
+QRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group16_Step17_StepDescription4Make sure you have the {itemName} in your Inventory.
+‡
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group17_Step18_FollowCharacter01_StepDescription Follow Belle into the West Wing.
+Œ
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group18_Step19_TalkToCharacter06_StepDescription%Talk to {TargetNPC} in the West Wing.
+Œ
+cRealm!BeautyBeast!Belle!RLM_BeautyBeastIP_Bell_010_Group19_Step20_TalkToCharacter07_StepDescription%Talk to {TargetNPC} in the West Wing.

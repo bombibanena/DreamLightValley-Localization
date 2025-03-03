@@ -1,0 +1,55 @@
+
+c
+Pumbaa_000_fS{PlayerName}, am I glad to see you. I want to hobby! Do ya think you could help me?
+@
+Player_000_choice_000_f%What do you mean you "want to hobby"?
+<
+Player_000_choice_001_f!I'm a little busy... Maybe later?
+e
+Pumbaa_002_fUWell, since ya helped me with bathing and brushing my teeth, I've been feelin' GREAT!
+]
+Pumbaa_004_fMNow, I want to go hobby-ing. Mickey said a hobby is somethin' you do for fun.
+
+Pumbaa_005_fAnd I LOVE fun!
+}
+Pumbaa_006_fmRight... Okay. So a hobby could actually be anything... Is there something you're interested in specifically?
+#
+Player_001_choice_000_fFishing?
+*
+Player_001_choice_001_fFlower picking?
+"
+Player_001_choice_002_fMining?
+:
+Pumbaa_008_f*Gee... I'm not sure what I'd use fish for.
+b
+Pumbaa_010_fRDo ya think I could do somethin' artistic like my pal Rafiki does with his paints?
+;
+Pumbaa_013_f+Sure! We just need to find the right art...
+S
+Pumbaa_014_fCSay, have you ever thought about pottery? Making stuff out of clay?
+^
+Pumbaa_015_fNI don't know what that is, but it sounds fun. Do ya think Timon could join in?
+?
+Player_002_choice_001_f$Sure! Let's make it a pottery class!
+2
+Player_002_choice_002_fAre you two ever apart?
+?
+Player_002_choice_003_f$Pottery might be hard with hooves...
+:
+Pumbaa_017_f*Oh boy! I can't wait to try somethin' new!
+g
+Pumbaa_019_fWAll right, Pumbaa. You go talk to Timon. I'll see about getting a pottery class set up.
+e
+Pumbaa_020_fURapunzel knows lots about pottery. I'll <Lore>talk to her</Lore> to see what we need.
+~
+Pumbaa_021_fnMinnie is our resident art expert â she's so creative! I'll <Lore>talk to her</Lore> to see what we need.
+&
+Pumbaa_016_fNot if we can help it!
+2
+Pumbaa_018_f"Maybe. But I'll try anything once!
+M
+Pumbaa_007_f=Well, I do love SMELLING flowers, but I don't wanna pick 'em.
+_
+Pumbaa_009_fOYa mean, diggin' up fancy rocks like you do? I think that might hurt my hooves.
+.
+Pumbaa_003_fThat's okay! I'll see ya soon!

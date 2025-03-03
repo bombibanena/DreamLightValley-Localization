@@ -1,0 +1,60 @@
+TAG: Sally_000_f
+Well, I think we can close the book on that issue with Ursula!
+
+TAG: Sally_001_f
+I suppose...
+
+TAG: Player_000_choice_000_f
+Are you still sad about Ursula betraying you?
+
+TAG: Player_000_choice_001_f
+Cheer up; you saved Mickey and Uncle Scrooge!
+
+TAG: Player_000_choice_002_f
+I know this whole affair was kinda intense.
+
+TAG: Sally_002_f
+A little. I really thought we were going to be friends.
+
+TAG: Sally_013_f
+You're a part of the Valley! That means I've got your back â no question.
+
+TAG: Sally_014_f
+Well, thank you. I only hope I can find a way to repay you in the future, but... I hope this will do for now...
+
+TAG: Sally_015_f
+Thank you Sally, but you didn't have to do this! Just pass it along. Happiness shared is happiness doubled.
+
+TAG: Sally_016_f
+Oh... I never thought of it like that. I'll definitely do so.
+
+TAG: Sally_003_f
+She seemed like an outsider, someone who needed companionship.
+
+TAG: Sally_004_f
+I wanted to be that friend for her.
+
+TAG: Sally_007_f
+Ursula took advantage of your good nature. That's what villains do.
+
+TAG: Sally_008_f
+You're right... But I still think everyone deserves a second chance.
+
+TAG: Sally_009_f
+Thank you, {PlayerName}, for reminding me that I do have friends here who enjoy my company.
+
+TAG: Sally_010_f
+You helped me reconnect with Jack, sort out the compost bin issue with Mike Wazowski... Now we even garden together.
+
+TAG: Sally_011_f
+And you helped me create a quilting circle with the Fairy Godmother.
+
+TAG: Sally_012_f
+I... thank you, {PlayerName}. Without you, I'd still be stuck in the holiday travel path and missing Jack terribly.
+
+TAG: Sally_005_f
+You're right. And I am happy that nothing bad happened to them.
+
+TAG: Sally_006_f
+I just feel like I should have known better.
+

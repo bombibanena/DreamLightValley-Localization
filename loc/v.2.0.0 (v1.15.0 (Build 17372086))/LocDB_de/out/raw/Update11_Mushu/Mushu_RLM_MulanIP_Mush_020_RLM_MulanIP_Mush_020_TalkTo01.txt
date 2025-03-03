@@ -1,0 +1,30 @@
+TAG: Mushu_002_f
+{PlayerName}, those <ActivityItem>Dragon Statues</ActivityItem> are phenomenal! You are one talented artist!
+
+TAG: Player_000_choice_000_f
+You're too kind.
+
+TAG: Player_000_choice_001_f
+I did my best.
+
+TAG: Player_000_choice_002_f
+These old things... Pff.
+
+TAG: Mushu_003_f
+Hey, you deserve it. You did a very impressive job.
+
+TAG: Mushu_006_f
+And I know they'll look even more ferocious once they've been fired!
+
+TAG: Mushu_007_f
+You just need to put the <ActivityItem>Unfired Dragon Statues</ActivityItem> and the <ActivityItem>Firewood</ActivityItem> in the kiln, then I'll light it up.
+
+TAG: Mushu_004_f
+Well, your best is great! They look just like me!
+
+TAG: Mushu_005_f
+I don't know if you're bragging or just being humble.
+
+TAG: Mushu_000_f
+But I know they'll look even more ferocious and impressive once they're fired.
+

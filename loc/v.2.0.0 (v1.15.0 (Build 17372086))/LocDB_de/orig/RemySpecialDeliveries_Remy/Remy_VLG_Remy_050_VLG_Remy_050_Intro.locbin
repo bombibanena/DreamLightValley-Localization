@@ -1,0 +1,50 @@
+
+T
+
+Remy_000_fF{PlayerName}, you know, you're getting to be a pretty incredible chef.
+5
+
+Remy_001_f'Feel like you're ready for a challenge?
+&
+Player_001_choice_000_fDefinitely!
+(
+Player_001_choice_001_fI'm not sure.
+Q
+Player_001_choice_002_f6Even cooking cereal is too much of a challenge for me.
+
+
+Remy_007_fGreat!
+ƒ
+
+Remy_003_fuI was thinking we could open up some new culinary possibilities by <Lore>testing your cooking skills each day</Lore>.
+ˆ
+
+Remy_004_fzAnd since you're a pro now, <Lore>I WON'T be giving you the recipes first</Lore>. You'll have to figure them out yourself.
+g
+
+Remy_009_fYDon't worry. I'm not asking you to work for free. If this works, we'll both get rewarded.
+,
+
+Remy_010_fWhat do you say, {PlayerName}?
+M
+Player_000_choice_000_f2Yes, chef! I'd love some daily cooking challenges!
+7
+Player_000_choice_001_fSounds like it's not for me.
+
+
+Remy_002_fThat's great!
+|
+
+Remy_012_fnNow, before we get started... feast your eyes on this. It's an old Chez Remy menu I found in the stock room...
+M
+
+Remy_005_f?No problem. If you ever change your mind, just come talk to me.
+t
+
+Remy_006_ffI think this would be a great way to help the whole Village... and test those cooking skills of yours!
+M
+
+Remy_008_f?That's fair. Why don't I tell you a little more about it first?
+;
+
+Remy_011_f-Don't sell yourself short! Hear me out first.

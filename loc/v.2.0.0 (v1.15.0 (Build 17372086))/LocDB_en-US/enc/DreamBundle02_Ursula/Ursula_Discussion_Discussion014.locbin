@@ -1,0 +1,39 @@
+
+ 
+Ursula_000_fOf course I can!
+:
+Ursula_001_f*In fact, my singing voice is far superior!
+8
+Player_000_choice_000_fWhy'd you steal Ariel's then?
+<
+Player_000_choice_001_f!Really? What makes yours special?
+4
+Player_000_choice_002_fI'm not sure I'd agree...
+1
+Ursula_002_f!Oh, no need to rehash all that...
+4
+Ursula_003_f$What about you, dearie? Do you sing?
+(
+Player_001_choice_000_fAll the time!
++
+Player_001_choice_001_fOnce in a while.
+@
+Player_001_choice_002_f%Never â I'm really not a singer.
+
+Ursula_004_fGood for you.
+<
+Ursula_005_f,You'd make a marvelous backup singer for me.
+5
+Ursula_006_f%Oh, there's no need to feel insecure.
+a
+Ursula_007_fQPerhaps we can come to an arrangement later. I'm very good with voices, you know.
+
+Ursula_008_fWhat a shame...
+!
+Ursula_009_fWhere do I start?
+L
+Ursula_010_f<Ariel's soprano is... well, it's just that â a soprano.
+K
+Ursula_011_f;Whereas my own alto is warm, luscious, and full of... body.
+6
+Ursula_012_f&Well, there's no accounting for taste.

@@ -1,0 +1,45 @@
+TAG: Aladdin_000_f
+Hey, this is great! You got everything we need. Thanks, {PlayerName}.
+
+TAG: Player_000_choice_000_f
+What's the next step?
+
+TAG: Player_000_choice_001_f
+You're welcome!
+
+TAG: Player_000_choice_002_f
+I'm pretty used to it.
+
+TAG: Aladdin_004_f
+Next step is you sit back and relax while I get to work. This might take a while.
+
+TAG: Aladdin_006_f
+Here it is! What do you think?
+
+TAG: Player_001_choice_000_f
+It's really beautiful.
+
+TAG: Player_001_choice_001_f
+I'm really impressed!
+
+TAG: Player_001_choice_002_f
+Your weaving needs a little work.
+
+TAG: Aladdin_009_f
+Thanks! I'm pretty proud of it.
+
+TAG: Aladdin_010_f
+Now all we have to do is use this <Lore>Magic Scroll</Lore> that was stored inside the Fabric Enchantment book. Care to do the honors?
+
+TAG: Aladdin_011_f
+Once this carpet's enchanted, I have a surprise for ya!
+
+TAG: Aladdin_007_f
+Always nice to know I can impress someone as impressive as you.
+
+TAG: Aladdin_008_f
+Heh. Yeah, it was harder than I thought. Hey, maybe the magic will fix it!
+
+TAG: Aladdin_005_f
+Well, now you can get some rest while I go to work.
+

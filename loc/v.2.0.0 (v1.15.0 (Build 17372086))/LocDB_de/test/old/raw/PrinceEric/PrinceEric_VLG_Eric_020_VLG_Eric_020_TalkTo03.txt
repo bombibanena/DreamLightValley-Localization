@@ -1,0 +1,27 @@
+TAG: PrinceEric_000_f
+Я впечатлена, {PlayerName}.
+
+TAG: Player_000_choice_000_f
+Спасибо!
+
+TAG: Player_000_choice_001_f
+Надеюсь, это поможет тебе и Ариэль.
+
+TAG: Player_000_choice_002_f
+Да, я лучший, я знаю.
+
+TAG: PrinceEric_001_f
+Эй, это я должна благодарить тебя.
+
+TAG: PrinceEric_005_f
+Теперь я просто соберу очарование, которое вы сделали с раковиной Наутилуса...
+
+TAG: PrinceEric_004_f
+Теперь мы просто должны отдать <ActivityItem>Nautilus Pendant</ActivityItem> Ариэль.
+
+TAG: PrinceEric_002_f
+Есть только один способ узнать.
+
+TAG: PrinceEric_003_f
+И вы, конечно, уверены.
+

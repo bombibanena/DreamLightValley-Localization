@@ -1,0 +1,27 @@
+TAG: Secret!ToyStory!SEC_Buzz_010_Any_CompletedRequestDescription
+Report to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_AvailableDescription
+Buzz Lightyear has been scouting for the missing Alien Toys around Dreamlight Valley. It seems like he may have found something. You'll need to talk to him to find out.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_DisplayName
+Collect 'Em All: Little Green Men!
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group01_Step01_TalkToCharacter01_StepDescription
+Report to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group01_StepDescription
+Calling all Space Rangers! Star Command alert!
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_Step02_BringItem01_StepDescription
+Keep an eye out for <ActivityItem>Alien Toys</ActivityItem> scattered around the Biomes of the Village!
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_Step02_ReadyDescription
+Bring the <ActivityItem>Alien Toys</ActivityItem> to Buzz.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_StoryDescription
+Buzz tasks you with finding Alien Toys scattered in every Biome of Dreamlight Valley. He warns you that they're shy, and you may only be able to find a few each day. You should keep an eye out for them while you do your regular work in the Village.
+
+TAG: Secret!ToyStory!SEC_Buzz_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Any signs of Alien life?
+

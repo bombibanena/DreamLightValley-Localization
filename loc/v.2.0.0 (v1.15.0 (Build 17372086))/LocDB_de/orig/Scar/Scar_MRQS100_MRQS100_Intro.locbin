@@ -1,0 +1,200 @@
+
+j
+
+Scar_005_f\Well, well. If it isn't {PlayerName}. It's been far too long since you came 'round to visit.
+N
+
+Scar_006_f@I was beginning to think you'd leave me trapped in here forever.
+!
+Player_000_choice_000_fScar?!
+1
+Player_000_choice_001_fDo we know each other?
+L
+Player_000_choice_002_f1You're so cute! Can I scratch you behind the ear?
+(
+
+Scar_007_fAh, so you do remember me.
+P
+
+Scar_013_fBBefore the Forgetting, you were one of my most loyal assistants...
+8
+
+Scar_015_f*...when *I* ruled over this entire Valley.
+'
+Player_001_choice_000_fHuh? Really?
+(
+Player_001_choice_001_fI doubt it...
+5
+Player_001_choice_002_fYou're exaggerating, Scar.
+W
+
+Scar_016_fIAbsolutely. Why, I may have let you watch over the rest of the Village...
+@
+
+Scar_057_f2Yes. This all began when YOU abandoned the Valley.
+M
+
+Scar_023_f?Though perhaps, with my guidance, you could set it all right...
+1
+Player_002_choice_000_fWhy should I help you?
+6
+Player_002_choice_001_fWhy did the Pillar dry out?
+:
+Player_002_choice_002_fJust tell me what I need to do.
+d
+
+Scar_017_fV...but when it comes to the Sunlit Plateau, everyone knows that I'M the rightful king.
+e
+
+Scar_019_fWOf course, there's little worth ruling over here since <Lore>the river dried up</Lore>.
+)
+
+Scar_059_fWhat happened to the river?
+v
+
+Scar_020_fhI can only presume that something's blocking it. And the land has grown so parched that there's no prey.
+q
+
+Scar_046_fcWithout water, there's no life. <Lore>The power within the Pillar of Nurturing has died out.</Lore>
+õ
+
+Scar_050_fåAnd now there's all sorts of pesky dark power in the air. If someone doesn't fix this soon, the whole Plateau will become an arid wasteland.
+A
+
+Scar_055_f3And the most tragic part is... it's all your fault.
+
+
+Scar_056_fMy fault?! What?
+Ä
+
+Scar_022_frBecause it's your place in the food chain. The Valley was a far better place when I ruled it, with you at my side.
+H
+Player_003_choice_000_f-Hm. I could always use more help around here.
+?
+Player_003_choice_001_f$Uh... I have trouble believing that.
+L
+Player_003_choice_002_f1You're not the king of Dreamlight Valley, Scar!!!
+K
+
+Scar_024_f=You see? It's a fine arrangement. A quid pro quo, as it were.
+9
+
+Scar_030_f+Of course, if you're still not convinced...
+ç
+
+Scar_027_f...then don't do it for me. Do it to help the Village. Restoring the Sunlit Plateau will make life so much better for everyone.
+E
+
+Scar_039_f7Isn't that what a good ruler ought to do, {PlayerName}?
+N
+
+Scar_025_f@Trust me, {PlayerName}, and I promise: All will be as it should.
+!
+
+Scar_026_fPerhaps not... yet.
+<
+
+Scar_031_f.You're not exactly making me want to help you.
+)
+
+Scar_032_fWell, if that's the case...
+P
+
+Scar_028_fBBecause it's connected to the river that runs through the Plateau.
+;
+
+Scar_033_f-Without water, the Pillar has utterly broken.
+å
+
+Scar_034_f~And it seems to be connected to all the life on the Plateau. When one flourishes, so does the other. But when one is broken...
+|
+
+Scar_035_fnHuh. So they're connected to each other... feeding off each other, in a balance... almost like some sort of...
+-
+Player_004_choice_000_f...Circle of Life?
+;
+Player_004_choice_001_f ...oval of biological existence?
+L
+
+Scar_036_f>Ugh. Yes. But don't ever say that phrase in my presence again.
+I
+
+Scar_037_f;All the annoyance started when something blocked the river.
+n
+
+Scar_040_f`I've no idea what that could be, but I do know that it began at the same time as the Forgetting.
+l
+
+Scar_045_f^And not long after, those blasted rocks fell on my lair. I've been trapped in here ever since.
+F
+
+Scar_058_f8Now, wasn't that also when you abandoned the Village...?
+4
+Player_005_choice_000_fNone of this is my fault!
+B
+Player_005_choice_001_f'I'm sorry. I didn't mean to cause this.
+;
+Player_005_choice_002_f Hey, do you want my help or not?
+5
+
+Scar_002_f'Oh, {PlayerName}. Everyone knows it is.
+X
+
+Scar_021_fJBut if you fix all this... it might make up for the trouble you've caused.
+`
+
+Scar_003_fROh, I know you didn't, {PlayerName}. It seems disaster just naturally follows you.
+L
+
+Scar_004_f>I'll help you... but you need to stop trying to manipulate me.
+>
+
+Scar_042_f0Ugh. You used to be so much more... persuadable.
+?
+
+Scar_038_f1Not exactly a poet, are you? But that's the idea.
+X
+
+Scar_029_fJ*sigh* Must I do everything myself...? Find out what's blocking the river.
+y
+
+Scar_041_fkThe water flows from the depths of the <Lore>Vitalys Mines</Lore> beneath the cliffs on the Sunlit Plateau.
+M
+
+Scar_047_f?There are mines beneath cliffs...? What did they mine in there?
+L
+
+Scar_048_f>I haven't the faintest idea, as it was nothing of value to me.
+T
+
+Scar_049_fFSearch the mines until you find what's blocking the flow of the river.
+8
+
+Scar_053_f*And then ‚Äî and don't forget this part‚Äî
+
+
+Scar_054_fFix it.
+j
+
+Scar_052_f\Only then will you restore life to my kingdom... and earn your way back into my good graces.
+R
+
+Scar_018_fDOh, fine. If you insist... you ruled over the rest of the Village...
+8
+
+Scar_008_f*... Oh, you really don't remember, do you?
+
+
+Scar_009_fYou could try...
+B
+
+Scar_010_f4...if you'd like to become acquainted with my claws.
+
+
+Scar_011_fUh... no thanks.
+:
+
+Scar_012_f,Don't mistake my conviviality for √©galit√©.
+,
+
+Scar_014_fIn fact, quite the contrary...

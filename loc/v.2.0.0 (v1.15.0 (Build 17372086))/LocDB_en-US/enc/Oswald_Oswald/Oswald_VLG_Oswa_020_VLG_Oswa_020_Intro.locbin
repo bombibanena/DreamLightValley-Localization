@@ -1,0 +1,37 @@
+
+0
+Oswald_000_f How are you settling in, Oswald?
+Å
+Oswald_001_fqWell, it's like this, chum... My House is real swell! When I bunk down, I'm out like a candle in a swimmin' pool.
+a
+Oswald_002_fQBut... it's TOO comfortable. I keep sleepin' in till half past the rooster's nap!
+E
+Player_000_choice_000_f*Well, let's see what we can do about that!
+N
+Player_000_choice_001_f3That sounds like a problem for future {PlayerName}.
+E
+Oswald_011_f5Though, I suppose a bunch of alarm clocks might work.
+
+Oswald_012_fSure!
+‹
+Oswald_013_fÀLemme get ahold of some <ActivityItem>Mechanical Parts</ActivityItem>, <ActivityItem>Bronze Ingots</ActivityItem>, <ActivityItem>Plastic Scraps</ActivityItem>, and some <ActivityItem>Zinc</ActivityItem>.
+L
+Oswald_014_f<I should be able to craft a bunch of alarm clocks with that.
+p
+Oswald_015_f`That'd be peachy! Thanks, chum. Guess you're not one to beat your gums √¢¬Ä¬î you mean business.
+M
+Oswald_003_f=Are you missing out on something important when you sleep in?
+E
+Oswald_004_f5You betcha I am! It's that furry blue fellow, Stitch.
+d
+Oswald_005_fTI tell ya, one chin session, and I knew we were two sides of the same silver dollar.
+8
+Oswald_006_f(But he rises earlier than the moon sets!
+&
+Oswald_007_fAh, I see the problem.
+F
+Oswald_008_f6What if we try to get ahold of an alarm clock for you?
+
+Oswald_009_f... Just one?
+c
+Oswald_010_fS{PlayerName}, when I'm snoozin', it'll take a brass band to get through these ears.

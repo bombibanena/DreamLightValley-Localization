@@ -1,0 +1,39 @@
+TAG: Merlin_000_f
+{PlayerName}, all is coming along splendidly!
+
+TAG: Merlin_001_f
+I invited all the guests and arranged for catering. But our little celebration is missing something...
+
+TAG: Merlin_002_f
+Something elegant... Something that wouldn't look out of place during a royal ball... or in a fairy tale.
+
+TAG: Player_000_f
+Maybe I could build a gazebo right out of a fairy tale...
+
+TAG: Player_000_choice_000_f
+It'll be lovely.
+
+TAG: Player_000_choice_001_f
+It checks all the boxes.
+
+TAG: Player_000_choice_002_f
+It'll be a bit cheesy, but that's okay.
+
+TAG: Merlin_003_f
+Yes! Yes! A fine idea! Our dear friend is sure to love it.
+
+TAG: Merlin_004_f
+I'll probably need some <ActivityItem>Dry Wood</ActivityItem>, <ActivityItem>Glass</ActivityItem>, <ActivityItem>Fabric</ActivityItem> and for the flowers, some <ActivityItem>Yellow Daisies</ActivityItem>.
+
+TAG: Merlin_005_f
+Brilliant! And when you're done, place it on Dazzle Beach. It's the perfect place for a party to help the Fairy Godmother feel refreshed.
+
+TAG: Merlin_006_f
+Yes! Yes! A fine idea! And marvelous use of the scientific approach, {PlayerName}.
+
+TAG: Merlin_007_f
+Yes! Yes! A fine idea!
+
+TAG: Merlin_008_f
+There's nothing wrong with a bit of sentimentality every now and then, {PlayerName}. Love and friendship are the greatest forces in the universe, after all.
+

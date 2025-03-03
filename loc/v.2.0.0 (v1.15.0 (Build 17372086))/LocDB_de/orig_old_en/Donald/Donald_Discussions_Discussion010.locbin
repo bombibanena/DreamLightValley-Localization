@@ -1,0 +1,43 @@
+
+8
+Donald_000_f(Do you like to go sailing, {PlayerName}?
+#
+Player_000_choice_000_fLove it!
+#
+Player_000_choice_001_fI don't.
+I
+Donald_001_f9That's great! I knew you had the look of a fellow sailor.
+c
+Donald_002_fSWhat's your favorite part? The salty air? The sea spray? The wind in your feathers?
+)
+Player_001_choice_000_fThe salty air!
+)
+Player_001_choice_001_fThe sea spray!
+3
+Player_001_choice_002_fThe wind in my feathers!
+A
+Donald_003_f1Me too! There's nothin' like bein' out on a boat.
+
+Donald_004_fMe too!
+O
+Donald_005_f?Wait a minute... you don't have feathers! What's the big idea?!
+ 
+Donald_006_fWhat?! Why not?!
+/
+Player_002_choice_000_fI've never tried it.
+'
+Player_002_choice_001_fIt's boring.
+)
+Player_002_choice_002_fI get seasick.
+D
+Donald_007_f4Then I'll have to take you sometime! You'll love it!
+S
+Donald_008_fCWhat?! But the salty air! The sea spray! The wind in your feathers!
+^
+Donald_009_fNThere's nothing better than sailing! You don't know what you're talking about.
+#
+Donald_010_fOh, that's not fun.
+E
+Donald_011_f5You just gotta keep trying it, so you get used to it.
+$
+Donald_012_fThen you'll be fine!

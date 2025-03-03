@@ -1,0 +1,31 @@
+
+�
+:Story!Expansion01!MRQS_E01_140_Ending_AvailableDescription�Джафар поручил вам найти две драгоценности Времени, которые все еще отсутствуют из часового стекла. Вы не сможете добраться до дворца, пока не дойдете. Он предлагает начать с исследования "Сияющих Дюнов" и "Диких Танков". Возможно, вы найдете новых деревенских жителей, которые помогут вам...
+P
+1Story!Expansion01!MRQS_E01_140_Ending_DisplayNameВечная награда
+j
+RStory!Expansion01!MRQS_E01_140_Ending_Group01_Step01_Conditional01_StepDescriptionДикий стул.
+r
+RStory!Expansion01!MRQS_E01_140_Ending_Group01_Step01_Conditional02_StepDescriptionБлестящие Дюны.
+�
+=Story!Expansion01!MRQS_E01_140_Ending_Group01_StepDescriptionyНайти оставшиеся два <ActivityItem>Jewels of Time</ActivityItem> путем расследования:
+�
+=Story!Expansion01!MRQS_E01_140_Ending_Group02_StepDescriptionJПоговори с Джафар на станции Голограммы.
+�
+>Story!Expansion01!MRQS_E01_140_Ending_Group02_StoryDescription�С помощью Рапунцель и практически никакой помощи из Гастон вам удалось найти обе драгоценности времени.
+�
+DStory!Expansion01!MRQS_E01_140_Ending_Group03_Step03_StepDescription�(Поищите Mist со своим часовым стеклом или зайдите в меню DreamLight и проследите ваш новый <Lore>Mist Debligations</Lore> нажав {input_mainmenu}.)
+�
+=Story!Expansion01!MRQS_E01_140_Ending_Group03_StepDescription|Разблокируйте <Lore> Priginallands</Lore> в Glittering Dunes, чтобы добраться до дворца.
+�
+RStory!Expansion01!MRQS_E01_140_Ending_Group04_Step07_Interaction01_StepDescription�Интерактивировать с <ActivityItem>Time Anomaly</ActivityItem> перед дверью в Джафар дворец.
+{
+VStory!Expansion01!MRQS_E01_140_Ending_Group05_Step05_TalkToCharacter02_StepDescription!Поговори с Джафар.
+�
+>Story!Expansion01!MRQS_E01_140_Ending_Group05_StoryDescriptionjВы решили проблему аномалии времени вокруг дворца Джафар.
+{
+VStory!Expansion01!MRQS_E01_140_Ending_Group06_Step06_TalkToCharacter03_StepDescription!Поговори с Мерлин.
+�
+=Story!Expansion01!MRQS_E01_140_Ending_Group06_StepDescriptionXДжафар исчез, но ты чувствуешь, что он вернётся...
+�
+>Story!Expansion01!MRQS_E01_140_Ending_Group06_StoryDescription�Но когда вы столкнулись с Джафар, вы узнали его истинные мотивы Джафар охотится за древним сокровищем, известным как Спарк воображения.

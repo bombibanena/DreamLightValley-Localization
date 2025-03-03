@@ -1,0 +1,81 @@
+TAG: Donald_000_f
+Hello, Donald! I heard you were having a problem with some fish?
+
+TAG: Donald_001_f
+That's one way to put it.
+
+TAG: Donald_002_f
+I'm being TORMENTED by old stinky fish!
+
+TAG: Donald_003_f
+Fish, fish, fish! Everywhere fish! And not even nice fresh fish either!
+
+TAG: Player_000_choice_000_f
+Did someone bring them to you?
+
+TAG: Player_000_choice_001_f
+Why not throw them out?
+
+TAG: Player_000_choice_002_f
+Sounds like you need less fish.
+
+TAG: Donald_004_f
+No! They just appeared out of nowhere!
+
+TAG: Donald_007_f
+It must be some sort of FISH MAGIC!
+
+TAG: Donald_008_f
+Wait... Fish magic or WISH magic?
+
+TAG: Donald_009_f
+Huh?
+
+TAG: Player_001_choice_000_f
+Did you wish for these fish to appear?
+
+TAG: Player_001_choice_001_f
+You know what I mean.
+
+TAG: Player_001_choice_002_f
+Never mind; it's probably just fish magic.
+
+TAG: Donald_010_f
+Um... Maybe. BUT IT'S NOT MY FAULT! I was just so frustrated by how few fish I was catching.
+
+TAG: Donald_017_f
+And did you WISH for them?
+
+TAG: Donald_018_f
+Well sure, I guess I did, but what does that have to do with anything?
+
+TAG: Donald_019_f
+I think some sort of wish magic is loose in the Valley, but I can't be sure just yet.
+
+TAG: Donald_022_f
+Let me <Lore>clean up the stinky fish</Lore> for you, and then I'll figure out how to get to the bottom of this.
+
+TAG: Donald_011_f
+No, I don't.
+
+TAG: Donald_013_f
+Come on; something tells me you wished for these fish, didn't you?
+
+TAG: Donald_015_f
+Maybe I WAS frustrated by how few fish I was catching...
+
+TAG: Donald_012_f
+Okay, but WHAT is fish magic, anyway?!
+
+TAG: Donald_014_f
+I have no idea. Has anything else unusual happened lately?
+
+TAG: Donald_016_f
+No. But I HAVE been frustrated by how few fish I've been catching...
+
+TAG: Donald_005_f
+I tried that! But the more I pick up, the more appear all over my House!
+
+TAG: Donald_006_f
+I KNOW that! But they just appeared out of nowhere!
+

@@ -1,0 +1,27 @@
+TAG: Ariel_000_f
+A gift from Eric? What is it?
+
+TAG: Player_000_f
+It's enchanted. It should help you turn human or mermaid at will, so...
+
+TAG: Player_000_choice_000_f
+You can have the best of both worlds.
+
+TAG: Player_000_choice_001_f
+You and Eric can be together.
+
+TAG: Player_000_choice_002_f
+You can go back to the sea if you need a break from Eric.
+
+TAG: Ariel_002_f
+You mean I can join you all on land, but I won't have to say goodbye to the sea?! That's amazing!
+
+TAG: Ariel_005_f
+Thank you, {PlayerName}! I'll put it on right now.
+
+TAG: Ariel_003_f
+You mean we can be together on land, but I won't have to give up a part of myself? That's all I ever wanted!
+
+TAG: Ariel_004_f
+Oh, that would never happen. But I'm so happy we can finally be together, and I can still return to the sea when I want to.
+

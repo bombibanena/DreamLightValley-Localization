@@ -1,0 +1,21 @@
+TAG: Stitch_000_f
+Ooh! Ooh! {PlayerName}, I have idea for cooking!
+
+TAG: Stitch_001_f
+You put food in stove to cook. Right?
+
+TAG: Stitch_002_f
+But if shoot food with LASERS, it cooks FASTER!
+
+TAG: Player_000_choice_000_f
+That's an amazing idea.
+
+TAG: Player_000_choice_001_f
+That's an extremely unsafe idea.
+
+TAG: Stitch_003_f
+YES! Stitch go tell Remy!
+
+TAG: Stitch_004_f
+Appotooka! Safe sooooo boring!
+

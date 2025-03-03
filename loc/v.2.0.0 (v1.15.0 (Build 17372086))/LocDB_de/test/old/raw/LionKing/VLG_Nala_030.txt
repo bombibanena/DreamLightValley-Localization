@@ -1,0 +1,27 @@
+TAG: Village!LionKing!VLG_Nala_030_Any_CompletedRequestDescription
+Поговори с Нала.
+
+TAG: Village!LionKing!VLG_Nala_030_AvailableDescription
+Мистические разломы привели к хаосу для деревенских жителей, и тебе нужно что-то сделать, чтобы помочь им.
+
+TAG: Village!LionKing!VLG_Nala_030_Group04_Step04_PickUp01_StepDescription
+Расследуйте скрижали Лайона на стене в Прайд-Рок.
+
+TAG: Village!LionKing!VLG_Nala_030_Group05_Step05_ConsumeItem01_StepDescription
+Исследуйте Память в Прайд Рок.
+
+TAG: Village!LionKing!VLG_Nala_030_Group06_Step06_TalkToCharacter03_StepDescription
+Поговори с Нала.
+
+TAG: Village!LionKing!VLG_Nala_030_Group07_Step07_CatchFish01_StepDescription
+Поймать <ActivityItem>Weird Fish</ActivityItem> с разломов.
+
+TAG: Village!LionKing!VLG_Nala_030_Group09_Step09_CraftItem01_StepDescription
+Подготовить <ActivityItem>Enchaned Hearts</ActivityItem>.
+
+TAG: Village!LionKing!VLG_Nala_030_Group12_Step12_ReadyDescription
+Возьмите <ActivityItem>Enchaned Hearts</ActivityItem> на Нала.
+
+TAG: Village!LionKing!VLG_Nala_030_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

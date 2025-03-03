@@ -1,0 +1,57 @@
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_AvailableDescription
+Пройдя через таинственный разрыв во времени, вы оказались на странном острове.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_CompletedStoryDescription
+Спарк воображения наконец-то в безопасности!
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_DisplayName
+Время и время
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group01_Step01_VisitArea01_StepDescription
+Исследуйте загадочный <Lore> Black and White Island</Lore>.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group02_Step02_TalkToCharacter01_StepDescription
+Поговори с Микки Маус.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group02_StepDescription
+Как он сюда попал?
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group02_StoryDescription
+В центре черно-белого мира, раскрытого заклинанием Джафар, вы находите необычный пароход... и Микки Маус!
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group03_Step03_BringItem01_StepDescription
+Обыскать остров"старинный проектор"Микки Маус пил.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group03_Step03_ReadyDescription
+Перенести проектор <ActivityItem>Film</ActivityItem> на Микки Маус.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group04_Step04_ReadyDescription
+Принесите все на Микки Маус.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group04_Step04_StepDescription
+Обыщите на черно-белом острове вещи, которые вы можете использовать, чтобы что-то построить.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group05_Step05_TalkToCharacter02_StepDescription
+Столкнитесь с Джафар во дворцовом тронном зале.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group05_StoryDescription
+С помощью Микки Маус вы понимаете, что есть только один способ победить Джафар: использовать силу вашего воображения. Вы смонтируете летающее устройство, чтобы сбежать от черно-белого острова. Теперь все, что осталось, это противостоять Джафар в его тронном зале.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group06_Step06_TalkToCharacter03_StepDescription
+Поговори с Микки Маус.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group06_StoryDescription
+Немного поразмыслив, ты обманываешь Джафар, чтобы запечатать себя в лампе джинна.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group07_Step07_Possess01_StepDescription
+Возьми <ActivityItem>Джафар Lamp</ActivityItem>.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group08_Step08_Possess02_StepDescription
+Хватай Спарк воображения.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group09_Step09_TalkToCharacter04_StepDescription
+Поговори с Мерлин внутри Джафар Дворца.
+
+TAG: Story!Expansion01!MRQS_E01_250_OldValley_Group10_Step10_VisitArea02_StepDescription
+Встретимся на Мерлин возле дворца Джафар на острове Вечность.
+

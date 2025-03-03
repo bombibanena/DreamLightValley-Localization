@@ -1,0 +1,66 @@
+TAG: Scar_000_f
+A pile of <ActivityItem>Old Bones</ActivityItem>, {PlayerName}? Don't tell me she's trying to frighten me with these?
+
+TAG: Scar_001_f
+Mother Gothel says I need to turn these to <ActivityItem>Ashes</ActivityItem> and then... she said a bunch of stuff about the Circle of Life.
+
+TAG: Scar_002_f
+She also said that you tried to turn her into a three-course meal once.
+
+TAG: Scar_015_f
+Oh, THAT again? Bah! I wasn't hunting her...
+
+TAG: Scar_009_f
+I was merely patrolling the Sunlit Plateau to ensure the safety of the whole Village.
+
+TAG: Player_000_choice_000_f
+I believe you.
+
+TAG: Player_000_choice_001_f
+Come on, Scar. I'm not buying this.
+
+TAG: Scar_004_f
+Oh, goody. Then you'll believe what I have to say next.
+
+TAG: Scar_028_f
+Yes, well, I may have a solution.
+
+TAG: Scar_029_f
+There's a <Lore>Volcanic Geyser</Lore> inside my cave. Put the bones in there. The heat and pressure should do the trick.
+
+TAG: Scar_003_f
+Then I suppose you'll just have to gather the <ActivityItem>Ashes</ActivityItem> and bury them.
+
+TAG: Scar_008_f
+That's all? Sounds pretty simple.
+
+TAG: Scar_031_f
+Don't forget to water the <ActivityItem>Flower</ActivityItem>, or it will never grow.
+
+TAG: Scar_016_f
+I saw her burying something in the ground before scurrying away. Naturally, I was worried for the safety of the Village so I decided to investigate.
+
+TAG: Scar_017_f
+A mysterious <ActivityItem>Flower</ActivityItem> grew where I'd seen her digging. It wasn't long before she came back, so I pounced!
+
+TAG: Scar_018_f
+She was planting a flower? That's strange.
+
+TAG: Scar_006_f
+Yes, and she was looking through some item she'd pilfered from that windbag with the pointy blue head feather.
+
+TAG: Scar_025_f
+She buried the <ActivityItem>Ashes</ActivityItem> from <ActivityItem>Old Bones</ActivityItem>... and a <ActivityItem>Flower</ActivityItem> grew there.
+
+TAG: Scar_026_f
+This is what she meant by the Circle of Life! The <ActivityItem>Old Bones</ActivityItem> grew into a <ActivityItem>Flower</ActivityItem>... literally.
+
+TAG: Scar_027_f
+Oh dear. You're starting to babble like my brother's unhinged mandrill...
+
+TAG: Scar_007_f
+We've only got one problem. How do we turn these bones to ash?
+
+TAG: Scar_005_f
+But it's the truth. I swear.
+

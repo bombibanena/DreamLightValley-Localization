@@ -1,0 +1,17 @@
+
+e
+ORepeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Any_CompletedRequestDescriptionTalk to WALLÂ·E.
+�
+DRepeatable!Event!Spring!RPT_WallE_WeeklyBunnies_AvailableDescriptionDBunnies are on the run! Catch them and bring them back to WALLÂ·E.
+Q
+;Repeatable!Event!Spring!RPT_WallE_WeeklyBunnies_DisplayNameBunnies on the Run
+�
+LRepeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What should I do today?
+y
+GRepeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group01_StepDescription.Catch the Bunnies running around in the Plaza.
+�
+LRepeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_OngoingRequestButton9<smallcaps>{title}</smallcaps><br>What should I do today?
+r
+GRepeatable!Event!Spring!RPT_WallE_WeeklyBunnies_Group02_StepDescription'Bring the Runaway Bunnies to WALLÂ·E.
+z
+BRepeatable!Event!Spring!RPT_WallE_WeeklyBunnies_StartRequestButton4<smallcaps>{title}</smallcaps><br>Start Weekly Quest

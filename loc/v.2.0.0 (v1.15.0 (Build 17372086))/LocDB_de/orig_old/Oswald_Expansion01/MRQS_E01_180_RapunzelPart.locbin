@@ -1,0 +1,55 @@
+
+�
+KStory!Expansion01!MRQS_E01_180_RapunzelPart_Any_CompletedRequestDescription3Возвращайтесь на Рапунцель.
+�
+@Story!Expansion01!MRQS_E01_180_RapunzelPart_AvailableDescription�В Восточной палате Древних Руин вы нашли какие-то музыкальные ноты на стене. Рапунцель может знать, что из них сделать.
+�
+EStory!Expansion01!MRQS_E01_180_RapunzelPart_CompletedStoryDescription�Рапунцель вернула свой голос, и теперь она должна помочь тебе спуститься глубже в Древние Руины.
+e
+7Story!Expansion01!MRQS_E01_180_RapunzelPart_DisplayName*Все правильные заметки
+�
+\Story!Expansion01!MRQS_E01_180_RapunzelPart_Group01_Step01_TalkToCharacter01_StepDescription'Поговори с Рапунцель.
+�
+SStory!Expansion01!MRQS_E01_180_RapunzelPart_Group02_Step02_PickUp01_StepDescriptionkНайдите <ActivityItem>Матушка Готель Recipe</ActivityItem> в Рапунцель Tower.
+�
+DStory!Expansion01!MRQS_E01_180_RapunzelPart_Group02_StoryDescription�Рапунцель рада помочь вам, но ее ударило горло в неподходящий момент, она предлагает сделать ей старый рецепт, который Матушка Готель Матушка Готель использовал для таких случаев.
+�
+CStory!Expansion01!MRQS_E01_180_RapunzelPart_Group03_StepDescriptionRВозьмите Матушка Готель Recipe из Рапунцель Tower.
+�
+XStory!Expansion01!MRQS_E01_180_RapunzelPart_Group04_Step04_ConsumeItem01_StepDescriptionUРасследуйте Матушка Готель Recipe в вашем списке.
+�
+\Story!Expansion01!MRQS_E01_180_RapunzelPart_Group05_Step05_TalkToCharacter02_StepDescription3Возвращайтесь на Рапунцель.
+�
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group06_Step06_StepDescriptionNНайдите Матушка Готель Purple Seeds в Променаде.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess03_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess04_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess05_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess06_StepDescription{ItemName}.
+c
+TStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_Possess07_StepDescription{ItemName}.
+�
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group08_Step08_StepDescriptionKНайдите всех Ингредиентов для супа и чая.
+d
+UStory!Expansion01!MRQS_E01_180_RapunzelPart_Group09_Step09_CookMeal01_StepDescription{ItemName}.
+d
+UStory!Expansion01!MRQS_E01_180_RapunzelPart_Group09_Step09_CookMeal02_StepDescription{ItemName}.
+}
+CStory!Expansion01!MRQS_E01_180_RapunzelPart_Group09_StepDescription6Повар Матушка Готель рецепты:
+e
+VStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_BringItem01_StepDescription{ItemName}.
+e
+VStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_BringItem02_StepDescription{ItemName}.
+�
+KStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_ReadyDescription3Принеси суп и чай Рапунцель.
+�
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group10_Step10_StepDescriptionAУбедись, что в списке есть суп и чай:
+�
+XStory!Expansion01!MRQS_E01_180_RapunzelPart_Group11_Step11_Conditional01_StepDescriptionhПозволь Рапунцель отдохнуть и разогреться на пять минут.
+�
+JStory!Expansion01!MRQS_E01_180_RapunzelPart_Group12_Step12_StepDescriptionkРастение, вода и урожай Матушка Готель Гербс через 20 минут.
+�
+CStory!Expansion01!MRQS_E01_180_RapunzelPart_Group12_StepDescription>Настроиться на Матушка Готель Herbs:

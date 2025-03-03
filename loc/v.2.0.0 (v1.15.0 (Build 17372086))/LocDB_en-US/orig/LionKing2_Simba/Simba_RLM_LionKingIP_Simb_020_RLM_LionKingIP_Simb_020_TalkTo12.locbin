@@ -1,0 +1,41 @@
+
+Z
+Simba_000_fKHey {PlayerName}... Could I talk to you about my friends, Timon and Pumbaa?
++
+Player_000_choice_000_fWhat about them?
+7
+Player_000_choice_001_fLet's talk about them later.
+j
+Simba_001_f[Well, they're two of my best friends, and I had a really weird dream about them last night.
+ñ
+Simba_002_fÜI was in a strange jungle, and I heard them calling my name, but I couldn't reach them. In the dream, I searched the jungle for hours.
+*
+Simba_003_fWhat do you think it means?
+1
+Player_001_choice_000_fYou miss your friends.
+9
+Player_001_choice_001_fYou're afraid of getting lost?
+;
+Player_001_choice_002_f I didn't know lions could dream!
+%
+Simba_004_fYou're probably right.
+W
+Simba_005_fHI'd really like to find them. I hope they're back in my Realm somewhere.
+=
+Player_002_choice_000_f"I don't remember them being there.
+=
+Player_002_choice_001_f"I can go back and search for them.
+…
+Simba_006_fπIt's funny... Sort of hazy, like a dream? Before you arrived, they were there, and then they weren't. It's like once they were out of sight, they sort of drifted away... out of my mind.
+ê
+Simba_007_fÄDon't blame yourself, Simba. Realms are funny like that. But I bet if I <Lore>went back to your Realm, I could find them</Lore>.
+Z
+Simba_008_fKWould you really go and look? I can't shake the feeling I left them behind.
+]
+Simba_009_fNI usually don't get lost. My sense of smell helps me keep track of where I am.
+
+Simba_010_fpOh, sure. Usually I dream about running across the savanna, or chasing off hyenas. Nala says I roar in my sleep.
+I
+Simba_011_f:But I can't stop thinking about Timon and Pumbaa though...
+:
+Simba_012_f+Okay, come find me when you have some time.

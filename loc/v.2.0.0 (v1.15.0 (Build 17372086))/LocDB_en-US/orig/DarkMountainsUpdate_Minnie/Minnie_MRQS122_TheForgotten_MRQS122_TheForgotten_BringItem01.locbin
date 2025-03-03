@@ -1,0 +1,33 @@
+
+*
+Minnie_001_fOh, goodness! What's this?
+)
+Minnie_002_fIt's a gift. From Mickey.
+<
+Minnie_003_f,A bouquet! Oh, {PlayerName}, it's... it's...
+3
+Minnie_004_f#...so original. Did Mickey make it?
+
+Minnie_005_fNo. I did...
+ 
+Minnie_006_fHow kind of you.
+0
+Minnie_007_f I'm very grateful, {PlayerName}.
+€
+Minnie_008_fpBut before you go, I wanted to make sure that everything is all right. You haven't seemed quite yourself lately.
+A
+Player_000_choice_000_f&(Why does everyone keep saying that?!)
+;
+Player_000_choice_001_f (I just want to be left alone!!)
++
+Player_000_choice_002_f(UGH! UGH! UGH!)
+
+Minnie_009_f...
+
+Minnie_010_f	I'm fine.
+\
+Minnie_011_fLThat's good to hear. And thank you for the flowers. It was a lovely gesture.
+‰
+Minnie_012_fyI'll go find a vase for them right away. They look like they just need a little love and care. Like all of us, sometimes.
+K
+Minnie_013_f;<Forgotten>(I don't think that's gonna help...)</Forgotten>

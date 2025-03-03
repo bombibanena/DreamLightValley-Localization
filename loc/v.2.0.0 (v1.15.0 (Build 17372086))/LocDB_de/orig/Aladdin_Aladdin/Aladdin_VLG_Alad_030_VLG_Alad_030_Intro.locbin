@@ -1,0 +1,45 @@
+
+{
+Aladdin_000_fj{PlayerName}, am I glad to see you! I could really use your help making an unforgettable gift for Jasmine.
+2
+Player_000_choice_000_fTell me how I can help!
+/
+Player_000_choice_001_fI'm a little busy...
+4
+Aladdin_002_f#Well, I'm making Jasmine a bouquet.
+r
+Aladdin_004_faShe loves flowers and studying botany. The palace garden is one of her favorite places back home.
+ž
+Aladdin_003_fŒI've picked some already, but I need a few more. I want to impress her with something even more beautiful than what they have at the palace.
+?
+Player_001_choice_000_f$Let's pick some flowers for Jasmine!
+G
+Player_001_choice_001_f,You have a bunch. How many more do you need?
+C
+Aladdin_005_f2Thanks, {PlayerName}! I knew I could count on you.
+o
+Aladdin_006_f^I know it sounds a little... much, but Jasmine grew up surrounded by so many beautiful things.
+S
+Aladdin_007_fBShe doesn't NEED to be impressed, but I still wanna impress her...
+&
+Aladdin_008_fDoes that make sense?
+/
+Player_002_choice_000_fMakes perfect sense!
++
+Player_002_choice_001_fYou're adorable.
+.
+Player_002_choice_002_fI was just teasing!
+B
+Aladdin_010_f1Phew! Okay, let's <Lore>pick some flowers</Lore>.
+L
+Aladdin_009_f;What? No, I'm just trying to do something nice for Jasmine.
+K
+Aladdin_012_f:And that's ADORABLE. Let's <Lore>pick some flowers</Lore>.
+#
+Aladdin_011_fOh, ha! Of course.
+,
+Aladdin_014_fI'll help you out, Aladdin.
+C
+Aladdin_013_f2Thanks, {PlayerName}! I knew I could count on you.
+L
+Aladdin_001_f;I get it. But hey, let's talk when you have a moment, okay?

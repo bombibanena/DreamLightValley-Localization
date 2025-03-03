@@ -1,0 +1,28 @@
+
+W
+
+Buzz_000_fI¡{ PlayerName }! ¡Necesito tu ayuda! ¡Mi modo español está atascado!
+?
+Player_000_choice_000_f$Oh no! you're stuck in Spanish mode!
+2
+Player_000_choice_001_fYou feeling okay, Buzz?
+1
+Player_000_choice_002_f¡No! ¡Modo español!
+V
+
+Buzz_001_fH¡Me caí, y cuando desperté estaba atascado en modo español! ¡Ayuda!
+1
+Player_001_choice_000_fMaybe Donald can help?
+3
+Player_001_choice_001_fDoes Goofy know Spanish?
+3
+Player_001_choice_002_fCould Belle help, maybe?
+S
+
+Buzz_002_fE¿Pato Donald? ¡Sí! Por supuesto. ¡Muchas gracias, { PlayerName }!
+d
+
+Buzz_003_fV¿Goofy? ¡Absolutamente no! Continuaré mi búsqueda en otro lado. Buen día, colega.
+�
+
+Buzz_004_frQuizás tiene un libro que puede explicar cómo revertir esta aflicción. Gracias, colega. Has sido de gran ayuda.

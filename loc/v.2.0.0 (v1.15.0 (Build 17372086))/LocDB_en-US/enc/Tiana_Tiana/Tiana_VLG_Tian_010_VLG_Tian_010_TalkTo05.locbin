@@ -1,0 +1,25 @@
+
+N
+Tiana_001_f?Hey Tiana, I've got all your outdoor seating and tables set up!
+0
+Tiana_002_f!I saw. It looks just peachy keen!
+n
+Tiana_003_f_It's looking a lot less cluttered in here too. I guess Merlin's enchantment did the trick, huh?
+‚
+Tiana_004_fsOh, it was a timesaver and a half! Though one of the brushes did keep trying to clean the dishes I was still using.
+1
+Tiana_005_f"Still, I think we're nearly ready!
+j
+Tiana_006_f[{PlayerName}, would you do the honor of officially opening Tiana's Meal Stall for business?
+/
+Player_000_choice_000_fOh wow, I'd love to!
+6
+Player_000_choice_001_fYou sure you don't want to?
+Ž
+Tiana_010_fHere you go. I'll make sure the guests are all here, and you can place this to kick off the inauguration whenever you're ready!
+#
+Tiana_008_fGreat, thanks Tiana!
+c
+Tiana_011_fTYou've been such a huge part of making this happen, so I'd really like you to do it.
+$
+Tiana_012_fAww, that's too nice.

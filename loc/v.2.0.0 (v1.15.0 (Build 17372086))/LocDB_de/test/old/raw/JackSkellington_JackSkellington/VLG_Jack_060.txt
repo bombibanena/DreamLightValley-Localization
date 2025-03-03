@@ -1,0 +1,42 @@
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_AvailableDescription
+Джек Скеллингтон нужны специальные овощи для Шрам...
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_DisplayName
+Отдых для Шрам
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group01_Step01_GardeningHarvest01_StepDescription
+Цуккини.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group01_Step01_GardeningHarvest02_StepDescription
+Картофель.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group01_Step01_GardeningHarvest03_StepDescription
+Помидор.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group01_Step01_GardeningHarvest04_StepDescription
+Белл Пеппер.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group01_Step01_StepDescription
+Растение, выращивание и сбор следующих овощей в забытых землях:
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group01_StoryDescription
+Для подарка Шрам вам было поручено выращивать некоторые овощи в Забытых землях.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group02_Step02_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group02_Step02_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group02_Step02_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group02_Step02_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group02_Step02_ReadyDescription
+Принеси овощи в Джек Скеллингтон Skellington.
+
+TAG: Village!Nightmare!JackSkellington!VLG_Jack_060_Group02_Step02_StepDescription
+Убедитесь, что у вас в списке есть следующие овощи:
+

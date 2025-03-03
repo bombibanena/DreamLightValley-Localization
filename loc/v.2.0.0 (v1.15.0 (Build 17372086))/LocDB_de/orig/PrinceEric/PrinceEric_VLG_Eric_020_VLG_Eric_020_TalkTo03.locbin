@@ -1,0 +1,19 @@
+
+<
+PrinceEric_000_f(You did it! I'm impressed, {PlayerName}.
+)
+Player_000_choice_000_fOh, thank you!
+;
+Player_000_choice_001_f I hope it'll help you and Ariel.
+6
+Player_000_choice_002_fYeah, I'm the best, I know.
+:
+PrinceEric_001_f&Hey, I should be the one thanking you.
+b
+PrinceEric_005_fNNow I'll just put together the enchantment you made with the Nautilus shell...
+o
+PrinceEric_004_f[There! Now we just have to give the <ActivityItem>Nautilus Pendant</ActivityItem> to Ariel.
+5
+PrinceEric_002_f!There's only one way to find out.
+4
+PrinceEric_003_f And you certainly are confident.

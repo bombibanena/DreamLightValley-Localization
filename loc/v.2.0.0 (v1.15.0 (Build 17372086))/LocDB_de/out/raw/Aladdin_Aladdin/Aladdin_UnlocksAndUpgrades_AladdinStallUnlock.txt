@@ -1,0 +1,18 @@
+TAG: Player_000_choice_000_f
+Let's finish the Gem Stall. (Use <nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>)</nobr>
+
+TAG: Player_000_choice_001_f
+Perhaps some other time.
+
+TAG: Aladdin_001_f
+Hey, look at that. It's ready!
+
+TAG: Aladdin_002_f
+Seems like we need a little more coin to get this stall up and running...
+
+TAG: Aladdin_000_f
+Our stall's almost ready to open for business. We just need to put on the finishing touches...
+
+TAG: Aladdin_003_f
+You sure? All right, I'll be here when you're ready.
+

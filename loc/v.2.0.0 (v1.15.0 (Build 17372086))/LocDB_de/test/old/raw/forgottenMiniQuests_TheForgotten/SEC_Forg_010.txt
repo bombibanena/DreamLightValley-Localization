@@ -1,0 +1,69 @@
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Any_CompletedRequestDescription
+Возвращайся в "Забытый".
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_AvailableDescription
+The Forgotten имеет некоторое время, чтобы приспособиться к жизни в деревне, но, кажется, все еще проводит много времени в Темном Замке.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_CompletedStoryDescription
+Ты создаешь место в своем доме, которое должно быть идеально для забытых.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_DisplayName
+Магия во всем
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Забытым.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group01_StepDescription
+The Forgotten проводит ужасно много времени в Темном Замке...
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_Step02_StepDescription
+Клёвый желтый цветок, который растет только в Забытых землях.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_Step06_StepDescription
+Опрятная птица с самыми тёмными перьями в Долине.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_Step07_StepDescription
+Гигантский череп на пляже Даззл.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_StepDescription
+Сфотографируй вещи вокруг деревни, которые забытые могут понравиться:
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_StoryDescription
+The Forgotten пытается найти красоту и волнение в жизни. Вы приглашаете их присоединиться к вам, чтобы сделать несколько фотографий вокруг Долины, запечатлев снимки нетрадиционной красоты, где бы вы ее ни нашли.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group03_Step03_TalkToCharacter02_StepDescription
+Покажи фотографии забытым.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate01_StepDescription
+Успокойся.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate02_StepDescription
+Элегантно.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate03_StepDescription
+Черный.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate04_StepDescription
+Фиолетовый.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate05_StepDescription
+Садись.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_Step04_Decorate06_StepDescription
+Искусство.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_StepDescription
+Украсить комнату в вашем доме для забытой мебели, которая:
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_StoryDescription
+The Forgotten сейчас чувствует себя намного больше дома в Виллидж, так что дома, на самом деле, им бы понравилось, если бы ты украсил для них место в своем доме!
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group05_Step05_TakePicture04_StepDescription
+Сфотографируй комнату, которую ты сделал для забытого.
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group02_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мы делали?
+
+TAG: Secret!DreamlightValley!TheForgotten!SEC_Forg_010_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Как мне украсить?
+

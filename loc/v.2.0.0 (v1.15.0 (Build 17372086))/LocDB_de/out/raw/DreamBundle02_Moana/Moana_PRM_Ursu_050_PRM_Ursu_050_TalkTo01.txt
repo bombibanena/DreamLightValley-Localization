@@ -1,0 +1,54 @@
+TAG: Moana_002_f
+Is there anything I can do for you, {PlayerName}?
+
+TAG: Moana_003_f
+Well, there's something you promised Ursula...
+
+TAG: Moana_004_f
+Oh no!
+
+TAG: Moana_005_f
+I forgot Ursula!
+
+TAG: Moana_006_f
+She gave me this amazing star chart of the sky around the Valley... And I got totally lost in it.
+
+TAG: Moana_007_f
+It completely slipped my mind to get back to her.
+
+TAG: Moana_008_f
+Maybe you can just tell me the advice and I...
+
+TAG: Moana_009_f
+No, I can do better than that. I'm going to make her some coconut oil for her hair!
+
+TAG: Player_000_choice_000_f
+Wow, so simple.
+
+TAG: Player_000_choice_001_f
+I should've known.
+
+TAG: Player_000_choice_002_f
+Somewhere Maui is yelling, "You're welcome!"
+
+TAG: Moana_010_f
+Yes, but it works really well!
+
+TAG: Moana_014_f
+Why don't I help you whip up some coconut oil for her?
+
+TAG: Moana_015_f
+That would be great! We need someone to shred the coconuts...
+
+TAG: Moana_016_f
+Oh, I bet WALLÂ·E can probably do it in the blink of an eye! I'll bring him some <ActivityItem>Coconuts</ActivityItem> and be right back.
+
+TAG: Moana_017_f
+You're amazing!
+
+TAG: Moana_011_f
+What can I say? The coconut is a pretty incredible fruit.
+
+TAG: Moana_012_f
+And in this case, he's right.
+

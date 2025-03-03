@@ -1,0 +1,29 @@
+
+‰
+5Story!MRQS010_Welcome_Any_CompletedRequestDescriptionPIt's a <ActivityItem>Memory</ActivityItem>! Talk to Merlin to see what it means.
+Ç
+*Story!MRQS010_Welcome_AvailableDescription˜You arrive in a strange, desolate Village called Dreamlight Valley and encounter Merlin. Seems like he was expecting someone. Could that someone be you?
+ 
+/Story!MRQS010_Welcome_CompletedStoryDescriptionmThe Orb shows you an image of Mickey and Merlin in front of Dream Castle. You should talk to Merlin about it.
+A
+!Story!MRQS010_Welcome_DisplayNameWelcome to Dreamlight Valley
+X
+=Story!MRQS010_Welcome_Group01_Step01_Unlock03_StepDescriptionTry to enter the House.
+y
+2Story!MRQS010_Welcome_Group02_OngoingRequestButtonC<smallcaps>{title}</smallcaps><br>How do I remove the Night Thorns?
+a
+4Story!MRQS010_Welcome_Group02_Step02_StepDescription)Remove the Night Thorns inside the House.
+‘
+.Story!MRQS010_Welcome_Group02_StoryDescription_The Night Thorns have spread in the deserted building. Merlin asks for your help removing them.
+u
+FStory!MRQS010_Welcome_Group04_Step04_TalkToCharacter02_StepDescription+Talk to Merlin to find out what to do next.
+t
+=Story!MRQS010_Welcome_Group05_Step05_Unlock02_StepDescription3Investigate the glowing Orb using {input_interact}.
+j
+.Story!MRQS010_Welcome_Group05_StoryDescription8A glowing Orb appears after removing the Night Thorns...
+X
+@Story!MRQS010_Welcome_Group12_Step12_VisitArea01_StepDescriptionGo inside the House.
+•
+.Story!MRQS010_Welcome_Group12_StoryDescriptioncFocusing your magic on the door, you remove the Night Thorns, gaining access to an abandoned House.
+n
+(Story!MRQS010_Welcome_StartRequestButtonB<smallcaps>{title}</smallcaps><br>Go see who wants to talk to you.

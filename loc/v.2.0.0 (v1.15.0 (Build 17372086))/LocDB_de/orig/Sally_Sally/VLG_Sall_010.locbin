@@ -1,0 +1,69 @@
+
+V
+DVillage!Nightmare!Sally!VLG_Sall_010_Any_CompletedRequestDescriptionTalk to Sally.
+v
+9Village!Nightmare!Sally!VLG_Sall_010_AvailableDescription9Sally is back, but something seems to be upsetting her...
+Ì
+>Village!Nightmare!Sally!VLG_Sall_010_CompletedStoryDescription™Success ‚Äî Jack and Sally have once more found the flame of romance! Though that romance may be creepier than typically seen in the Valley, they still owe it all to you.
+C
+0Village!Nightmare!Sally!VLG_Sall_010_DisplayNameUncanny Romance
+ì
+VVillage!Nightmare!Sally!VLG_Sall_010_Group01_Step01_GardeningHarvest01_StepDescription9Plant the Deadly Nightshade and harvest after 15 minutes.
+á
+OVillage!Nightmare!Sally!VLG_Sall_010_Group02_Step02_BringItem01_StepDescription4Make sure you have the {ItemName} in your Inventory.
+l
+DVillage!Nightmare!Sally!VLG_Sall_010_Group02_Step02_ReadyDescription$Bring the {ItemName} to {TargetNPC}.
+ê
+UVillage!Nightmare!Sally!VLG_Sall_010_Group03_Step03_TalkToCharacter01_StepDescription7Talk to {TargetNPC} about his upcoming date with Sally.
+â
+OVillage!Nightmare!Sally!VLG_Sall_010_Group04_Step04_BringItem02_StepDescription6Gather some <ActivityItem>Night Shards</ActivityItem>.
+ã
+DVillage!Nightmare!Sally!VLG_Sall_010_Group04_Step04_ReadyDescriptionCBring the <ActivityItem>Night Shards</ActivityItem> to {TargetNPC}.
+À
+=Village!Nightmare!Sally!VLG_Sall_010_Group04_StoryDescriptionâJack wonders if Sally feels shy after spending so long alone, but figures that a new Night Shard sewing needle will help her feel better.
+i
+LVillage!Nightmare!Sally!VLG_Sall_010_Group05_Step05_Listen01_StepDescriptionListen to Sally and Jack.
+Ñ
+UVillage!Nightmare!Sally!VLG_Sall_010_Group06_Step06_TalkToCharacter02_StepDescription+Talk to {targetNPC} about the awkward date.
+u
+CVillage!Nightmare!Sally!VLG_Sall_010_Group07_Step07_StepDescription.Ask the following Villagers for dating advice:
+e
+UVillage!Nightmare!Sally!VLG_Sall_010_Group07_Step07_TalkToCharacter03_StepDescription{TargetNPC}.
+e
+UVillage!Nightmare!Sally!VLG_Sall_010_Group07_Step07_TalkToCharacter04_StepDescription{TargetNPC}.
+\
+MVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step08_Possess01_StepDescription{itemName}.
+\
+MVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step08_Possess02_StepDescription{itemName}.
+S
+CVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step08_StepDescriptionBaking some:
+]
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate01_StepDescription{itemName}.
+d
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate02_StepDescriptionOutdoor Furniture.
+f
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate03_StepDescriptionHalloween Furniture.
+b
+NVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_Decorate04_StepDescriptionBlack Furniture.
+î
+CVillage!Nightmare!Sally!VLG_Sall_010_Group08_Step09_StepDescriptionMCreate a new and frighteningly lovely date night in the Forgotten Lands with:
+c
+<Village!Nightmare!Sally!VLG_Sall_010_Group08_StepDescription#Prepare Jack and Sally's picnic by:
+^
+OVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_BringItem03_StepDescription{itemName}.
+^
+OVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_BringItem04_StepDescription{itemName}.
+v
+DVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_ReadyDescription.Bring the Halloween date meals to {TargetNPC}.
+Ä
+CVillage!Nightmare!Sally!VLG_Sall_010_Group09_Step10_StepDescription9Make sure you have the following meals in your Inventory:
+
+LVillage!Nightmare!Sally!VLG_Sall_010_Group10_Step11_Listen02_StepDescription/Listen to Sally and Jack's second date attempt.
+ï
+UVillage!Nightmare!Sally!VLG_Sall_010_Group11_Step12_TalkToCharacter05_StepDescription<Talk to {targetNPC} about her (less awkward) talk with Jack.
+Ñ
+NVillage!Nightmare!Sally!VLG_Sall_010_Group12_Step13_Decorate05_StepDescription2Place the {itemName} near the Holiday Tree Portal.
+p
+KVillage!Nightmare!Sally!VLG_Sall_010_Group13_Step14_Party01_StepDescription!Take a picture of Sally and Jack.
+h
+7Village!Nightmare!Sally!VLG_Sall_010_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

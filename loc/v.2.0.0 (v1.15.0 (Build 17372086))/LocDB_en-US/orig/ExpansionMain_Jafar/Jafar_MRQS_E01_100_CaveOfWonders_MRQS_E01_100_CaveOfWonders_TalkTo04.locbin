@@ -1,0 +1,29 @@
+
+5
+Jafar_002_f&Jafar, I'm stuck. Can you help me out?
+5
+Jafar_003_f&Very well. How may I be of assistance?
+>
+Player_000_choice_003_f#Tell me about the room on the left.
+?
+Player_000_choice_004_f$Tell me about the room on the right.
+C
+Player_000_choice_005_f(Actually, never mind; I'll do it myself.
+Ø
+Jafar_004_füThere you will see more of the <Lore>lever and mirror structures</Lore>. If you find the proper configuration, you will <Lore>divert the light beam</Lore> out.
+∑
+Jafar_001_fßIn addition, there is a spot where something <Lore>used to hang on the wall</Lore> near the entrance to the room. <Lore>Return the object to its rightful place</Lore>.
+&
+Jafar_000_fIs there anything else?
+E
+Player_001_choice_000_f*Yeah, lemme hear those hint options again.
+)
+Player_001_choice_001_fNah, I'm good.
+8
+Jafar_006_f)Thanks, Jafar. I'll give it another shot.
+∞
+Jafar_005_f†The statue head on the right has lost its power source. Use the <Lore>charging station</Lore> within the room to obtain a fully charged <Lore>power coil</Lore>.
+ç
+Jafar_008_f~Also, the dials on the floor tiles will let you <Lore>route the power flow to all of the charging station's connectors</Lore>.
+9
+Jafar_007_f*And yet you decided to bother me anyway...

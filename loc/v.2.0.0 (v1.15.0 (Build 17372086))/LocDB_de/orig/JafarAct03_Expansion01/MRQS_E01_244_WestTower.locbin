@@ -1,0 +1,25 @@
+
+∞
+=Story!Expansion01!MRQS_E01_244_WestTower_AvailableDescriptionoTo find the key to unlock the throne room, you'll have to explore Jafar's Laboratory on the palace's west side.
+J
+4Story!Expansion01!MRQS_E01_244_WestTower_DisplayNameJafar's Laboratory
+Å
+SStory!Expansion01!MRQS_E01_244_WestTower_Group01_Step01_VisitArea01_StepDescription*Explore the palace to try to find the key.
+x
+YStory!Expansion01!MRQS_E01_244_WestTower_Group02_Step02_TalkToCharacter01_StepDescriptionExplore Jafar's Laboratory.
+g
+HStory!Expansion01!MRQS_E01_244_WestTower_Group03_Step03_ReadyDescriptionBring the meal to the bird.
+•
+GStory!Expansion01!MRQS_E01_244_WestTower_Group03_Step03_StepDescriptionZTry to figure out what the bird wants to eat by mixing Ingredients at the Cooking Station.
+å
+UStory!Expansion01!MRQS_E01_244_WestTower_Group03_Step04_Interaction01_StepDescription3Look around for a clue about what to feed the bird.
+Ñ
+UStory!Expansion01!MRQS_E01_244_WestTower_Group04_Step05_FillKeyhole01_StepDescription+Search for where the "shiny thing" belongs.
+
+UStory!Expansion01!MRQS_E01_244_WestTower_Group05_Step06_Conditional01_StepDescription&Align the light beam to open the door.
+t
+QStory!Expansion01!MRQS_E01_244_WestTower_Group06_Step07_Possess01_StepDescriptionPick up the key in the chamber.
+ã
+UStory!Expansion01!MRQS_E01_244_WestTower_Group07_Step08_FillKeyhole02_StepDescription2Use the key to unlock the gate to the throne room.
+≤
+AStory!Expansion01!MRQS_E01_244_WestTower_Group07_StoryDescriptionmWith a little help from an annoying bird, you manage to get the key. Surely this will unlock the palace gate.

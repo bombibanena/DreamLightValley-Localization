@@ -1,0 +1,63 @@
+TAG: Hades_000_f
+NO.
+
+TAG: Hades_001_f
+No. It's okay. It's fine. Fine. I'm cool. I'm fine.
+
+TAG: Player_000_choice_000_f
+Did something happen?
+
+TAG: Player_000_choice_001_f
+It's funny how your hair got all smolder-y for a second.
+
+TAG: Player_000_choice_002_f
+It's okay to be angry.
+
+TAG: Hades_002_f
+Nothing big. A minor setback in a plan I'm not talkin' about.
+
+TAG: Hades_005_f
+Because I don't want SOMEONE meddling with it.
+
+TAG: Hades_006_f
+I'll just move a few things around and make it work.
+
+TAG: Player_001_choice_000_f
+It's funny how your hair got all smolder-y for a second.
+
+TAG: Player_001_choice_001_f
+It's okay to be angry.
+
+TAG: Hades_003_f
+Funny. Great. Yeah, that's really funny. I'm so glad I amuse you.
+
+TAG: Hades_004_f
+Oh, I know. Believe me, I know! And there is a LOT that makes me angry.
+
+TAG: Hades_008_f
+But I'm guessin' you don't wanna see me REALLY angry.
+
+TAG: Hades_009_f
+Let's just say furniture tends to incinerate.
+
+TAG: Player_002_choice_000_f
+Oh, I'm sorry.
+
+TAG: Player_002_choice_001_f
+That's inconvenient.
+
+TAG: Player_002_choice_002_f
+I can build new furniture.
+
+TAG: Hades_010_f
+It's fine. Whatever. I'm fine.
+
+TAG: Hades_011_f
+Yeah. A bit. Not for me. Others, yeah. But not me.
+
+TAG: Hades_012_f
+Oh. Nice. Yeah, you would say that.
+
+TAG: Hades_013_f
+Always the helpful little do-gooder, aren't ya?
+

@@ -1,0 +1,91 @@
+
+è
+HStory!Expansion01!MRQS_E01_060_Hourglass_Any_CompletedRequestDescriptionCTalk to Jafar at the <ActivityItem>Hologram Station</ActivityItem>.
+∫
+=Story!Expansion01!MRQS_E01_060_Hourglass_AvailableDescription¯If you want to stop the Time Rifts from spreading, you'll need to fix the bridge. To do that, you'll need a new Royal Tool... the Hourglass. Jafar told you it's guarded by a "pesky metal nuisance." You'll have to search for it in Ancient's Landing.
+°
+BStory!Expansion01!MRQS_E01_060_Hourglass_CompletedStoryDescription[Armed with the new Royal Tool, you go back to the bridge to learn what you need to do next.
+Q
+4Story!Expansion01!MRQS_E01_060_Hourglass_DisplayNameThe Flying Metal Nuisance
+≤
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group01_Step01_VisitArea01_StepDescription[Search around Ancient's Landing for the "flying metal nuisance" to get the Royal Hourglass.
+Å
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group02_Step02_TalkToCharacter01_StepDescription$Talk to the "flying metal nuisance."
+â
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group02_StoryDescriptionDYou ran into a hostile robot. Maybe you should try to talk to her...
+¡
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group03_Step03_TalkToCharacter02_StepDescriptiondTalk to Jafar at one of the <ActivityItem>Hologram Stations</ActivityItem> around Ancient's Landing.
+Ç
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group04_Step04_VisitArea02_StepDescription+Go inside EVE's House in Ancient's Landing.
+ô
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group04_StoryDescription”You run into EVE, a little robot with a lot of determination. She's not about to hand over the Hourglass to just anyone. Jafar suggests you search EVE's House to find some way to make her more friendly with you.
+¨
+PStory!Expansion01!MRQS_E01_060_Hourglass_Group05_Step05_PickUp01_StepDescriptionXRemove the <ActivityItem>Piles of Junk</ActivityItem> inside EVE's House to find a clue.
+t
+PStory!Expansion01!MRQS_E01_060_Hourglass_Group06_Step06_Unlock01_StepDescription Pick up the paper on the ground.
+√
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group07_Step07_TalkToCharacter03_StepDescriptionfReturn to Jafar at one of the <ActivityItem>Hologram Stations</ActivityItem> around Ancient's Landing.
+·
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group07_StoryDescriptionõYour search yields a Memory showing EVE and someone dressed in a Robot Costume sharing what looks like a meal in an unknown location. You go back to Jafar.
+Ä
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_DressUp01_StepDescription+The <ActivityItem>Robot Hat</ActivityItem>.
+Ñ
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_DressUp02_StepDescription/The <ActivityItem>Robot Costume</ActivityItem>.
+Å
+GStory!Expansion01!MRQS_E01_060_Hourglass_Group08_Step08_StepDescription6Dress up using the items you found in the hidden area:
+—
+YStory!Expansion01!MRQS_E01_060_Hourglass_Group09_Step09_TalkToCharacter04_StepDescriptiontTalk to EVE while wearing the <ActivityItem>Robot Hat</ActivityItem> and <ActivityItem>Robot Costume</ActivityItem>.
+í
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group09_StoryDescriptionMAfter finding the costume, you return to EVE, hoping to allay her suspicions.
+¬
+UStory!Expansion01!MRQS_E01_060_Hourglass_Group10_Step10_Conditional01_StepDescriptioni(Find the broken half Goofy's Stall Sign in Ancient's Landing, then complete the "Give Me a Sign" Quest.)
+n
+@Story!Expansion01!MRQS_E01_060_Hourglass_Group10_StepDescription*Unlock Goofy's Stall in Ancient's Landing.
+ñ
+RStory!Expansion01!MRQS_E01_060_Hourglass_Group11_Step11_CookMeal01_StepDescription@Cook the <ActivityItem>Best Fish Forever</ActivityItem> for EVE.
+©
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group12_Step12_BringItem01_StepDescriptionRMake sure the <ActivityItem>Best Fish Forever</ActivityItem> is in your Inventory.
+b
+HStory!Expansion01!MRQS_E01_060_Hourglass_Group12_Step12_ReadyDescriptionBring the food to EVE.
+ç
+PStory!Expansion01!MRQS_E01_060_Hourglass_Group13_Step13_Unlock02_StepDescription9Pick up the <ActivityItem>Royal Hourglass</ActivityItem>.
+ê
+AStory!Expansion01!MRQS_E01_060_Hourglass_Group13_StoryDescriptionKEVE doesn't see you as a threat anymore, and lets you access the Hourglass.
+s
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group14_Step14_VisitArea03_StepDescriptionReturn to the Broken Bridge.
+Ñ
+SStory!Expansion01!MRQS_E01_060_Hourglass_Group15_Step15_VisitArea04_StepDescription-Look for the hidden area shown in the Memory.
+w
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group17_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+±
+UStory!Expansion01!MRQS_E01_060_Hourglass_Group17_Step17_ConsumeItem01_StepDescriptionXInvestigate the <ActivityItem>Best Fish Forever Recipe</ActivityItem> in your Inventory.
+w
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group18_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+`
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess03_StepDescription{ItemName}.
+ö
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess04_StepDescriptionE{ItemName}. (Some of the white flowers around here might be cumin...)
+`
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess05_StepDescription{ItemName}.
+`
+QStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_Possess06_StepDescription{ItemName}.
+ê
+GStory!Expansion01!MRQS_E01_060_Hourglass_Group18_Step18_StepDescriptionEGather the following items from Ancient's Landing to make the recipe:
+ª
+GStory!Expansion01!MRQS_E01_060_Hourglass_Group19_Step19_StepDescriptionpSearch for both parts of the <ActivityItem>Robot Costume</ActivityItem> in the secret area behind the waterfall.
+Å
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group01_OngoingRequestButton8<smallcaps>{title}</smallcaps><br>What am I looking for?
+z
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group04_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?
+w
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group06_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+w
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group10_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+w
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group11_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+w
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group12_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+w
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group13_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+}
+EStory!Expansion01!MRQS_E01_060_Hourglass_Group14_OngoingRequestButton4<smallcaps>{title}</smallcaps><br>Where should I go?

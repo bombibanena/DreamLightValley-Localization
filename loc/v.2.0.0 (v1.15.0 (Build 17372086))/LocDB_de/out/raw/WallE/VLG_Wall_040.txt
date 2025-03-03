@@ -1,0 +1,69 @@
+TAG: Village!WallE!WallE!VLG_Wall_040_Any_CompletedRequestDescription
+Go see WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_AvailableDescription
+You found a weird <ActivityItem>Memory</ActivityItem> about WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_CompletedStoryDescription
+Now that it is functional, WALLÂ·E will surely be able to tell you what it does.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_DisplayName
+The Broken Memory
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group01_Step01_TalkToCharacter01_StepDescription
+Go see WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group01_StoryDescription
+If you want to learn more about this strange <ActivityItem>Memory</ActivityItem>, you're going to need to talk him.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group03_Step03_FollowCharacter01_StepDescription
+Follow WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group03_StoryDescription
+Obviously, the <ActivityItem>Memory</ActivityItem> is connected to the Machine you've found in the garbage. WALLÂ·E wants to help you fix it and puts you on the trail to find <ActivityItem>Electronic Components</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group04_Step04_TalkToCharacter02_StepDescription
+Talk to WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>(Continue crafting.)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group05_Step05_CraftItem01_StepDescription
+Craft some <ActivityItem>Tinkering Parts</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>(Continue bringing the item.)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_Step06_ReadyDescription
+Bring the <ActivityItem>Electronic Components</ActivityItem> you found to WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_Step06_StepDescription
+Search WALLÂ·E's House for <ActivityItem>Electronic Components</ActivityItem>.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group06_StoryDescription
+Discussing with WALLÂ·E didn't give you the answers you need, and he decides to show you directly.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>(Continue repairing the machine.)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group07_Step07_CraftItem02_StepDescription
+Craft the repaired <ActivityItem>F02937 M3 N07</ActivityItem> machine.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group07_StoryDescription
+After gathering the components, you fix the <ActivityItem>F02937 M3 N07</ActivityItem> machine.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>(Continue crafting.) What was I doing?
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group08_StepDescription
+Bring the repaired <ActivityItem>F02937 M3 N07</ActivityItem> machine to WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>(Continue searching the Realm.)
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group09_Step09_ReadyDescription
+Bring the <ActivityItem>Electronic Component</ActivityItem> to WALLÂ·E.
+
+TAG: Village!WallE!WallE!VLG_Wall_040_Group09_Step09_StepDescription
+Explore WALLÂ·E Realm to find another <ActivityItem>Electronic Component</ActivityItem>.
+

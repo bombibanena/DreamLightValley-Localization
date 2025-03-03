@@ -1,0 +1,25 @@
+
+'
+Ursula_001_fTHIS is where you live?
+"
+Ursula_003_fYou don't like it?
+y
+Ursula_004_fiWell... I like what you've managed to do with the place... but it's not quite the palace I was expecting.
+6
+Ursula_005_f&I was hoping to see something grander.
+A
+Player_000_f1I guess I can take you for dinner at Chez Remy...
+/
+Player_000_choice_000_fIt's got five stars!
+7
+Player_000_choice_001_fPeople love to gather there.
+F
+Player_000_choice_002_f+Maybe you'll find that more to your liking.
+*
+Ursula_006_fI'll be the judge of that.
+I
+Ursula_009_f9And maybe I can <Lore>cook something for you</Lore>, too!
+L
+Ursula_007_f<Hmm, sounds like a perfect place to negotiate a deal or two.
+!
+Ursula_008_fPerhaps. Show me.

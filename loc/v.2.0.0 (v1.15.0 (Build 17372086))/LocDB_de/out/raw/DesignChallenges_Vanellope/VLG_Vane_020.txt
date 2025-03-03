@@ -1,0 +1,132 @@
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Any_CompletedRequestDescription
+Return to Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_AvailableDescription
+Vanellope needs help adjusting to life in the Valley.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_CompletedStoryDescription
+You've conquered Vanellope's mini-games. You are the Hiding-and-Seeking, Mine Racing, EXTREME Fishing champion!
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_DisplayName
+Press Start!
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group01_Step01_MineMineral01_StepDescription
+Mine any gem.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group01_Step11_CatchFish02_StepDescription
+Catch any fish.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group01_Step12_StepDescription
+Harvest any crops or fruit.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group01_Step19_StepDescription
+Plant any crops.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group01_StepDescription
+Show Vanellope some Valley hobbies:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group01_StoryDescription
+Without game rules to follow, she doesn't know what to do with herself. You volunteer to help show her what other Villagers do for fun.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group02_Step02_TalkToCharacter01_StepDescription
+Talk to Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group03_Step03_Conditional01_StepDescription
+Finish your Hangout with Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group03_StoryDescription
+Vanellope wants to find something a little more extreme to do and challenges you to a game of "Extreme" Hide-and-Seek.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group04_Step04_VisitArea01_StepDescription
+Find Vanellope's "dark and dangerous" hiding spot.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group04_Step13_StepDescription
+(Optional) Ask Villagers for hints about Vanellope's hiding spot:
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group04_Step13_TalkToCharacter02_StepDescription
+{TargetNpc}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group04_Step13_TalkToCharacter03_StepDescription
+{TargetNpc}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group04_Step13_TalkToCharacter04_StepDescription
+{TargetNpc}.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group05_Step05_VisitArea02_StepDescription
+Search for Vanellope in a dark and dusty place on the Sunlit Plateau.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group06_Step06_TalkToCharacter05_StepDescription
+You found her! Talk to Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Did I win Hide and Seek?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group07_Step07_Conditional03_StepDescription
+Stop hanging out with Vanellope to resume the Hide and Seek game.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group09_Step09_CatchFish01_StepDescription
+Catch any fish as fast as you can.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group09_Step10_Conditional02_StepDescription
+You have THREE minutes! GO GO GO!
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group09_StepDescription
+Catch three fish before time runs out.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group09_StoryDescription
+Vanellope has one final mini-game in mind â EXTREME fishing. The game begins, and you rush to catch three fish in three minutes while Vanellope keeps time.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group10_StepDescription
+Go into Scrooge McDuck's Store to let Vanellope hide.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group10_StoryDescription
+You head indoors to let Vanellope pick her hiding spot.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group11_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Did I win Hide and Seek?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group11_Step15_Conditional04_StepDescription
+Stop hanging out with Vanellope to resume the Hide and Seek game.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group12_Step16_VisitArea05_StepDescription
+Follow the candy trail inside the Vitalys Mines to find Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group13_Step17_FollowCharacter02_StepDescription
+Race Vanellope to the outside entrance of the Mine.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group13_Step17_FollowCharacter02_TalkToDescription
+Talk to Vanellope.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group13_StoryDescription
+You find Vanellope deep in the Vitalys Mines. She proposes another game â a race back to the entrance.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group14_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Did I win Hide and Seek?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group14_Step18_Conditional05_StepDescription
+Stop hanging out with Vanellope to resume the Hide and Seek game.
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group01_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we doing?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What did I need to do again?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group04_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Is this your mysterious hiding spot?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group05_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Is this your mysterious hiding spot?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What's next?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group12_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>Is this your mysterious hiding spot?
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_Group13_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br>What are we doing?!
+
+TAG: Village!Ralph!Vanellope!VLG_Vane_020_StartRequestButton
+<smallcaps>{title}</smallcaps><br>Start Quest
+

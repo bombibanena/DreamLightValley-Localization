@@ -1,0 +1,77 @@
+
+^
+FVillage!BeautyBeast!Beast!VLG_Beas_020_Any_CompletedRequestDescriptionReturn to the Beast.
+v
+;Village!BeautyBeast!Beast!VLG_Beas_020_AvailableDescription7Something's up with the Beast again... What's going on?
+Ü
+@Village!BeautyBeast!Beast!VLG_Beas_020_CompletedStoryDescription—To your surprise and the Beast's delight, Kristoff seems like the perfect friend for the Beast Ã¢Â€Â” calm, stoic and not inclined to excited chatting.
+C
+2Village!BeautyBeast!Beast!VLG_Beas_020_DisplayNameBe Our Friend
+y
+FVillage!BeautyBeast!Beast!VLG_Beas_020_Group01_Step01_ReadyDescription/Bring the books to Belle on the Beast's behalf.
+v
+EVillage!BeautyBeast!Beast!VLG_Beas_020_Group01_Step01_StepDescription-Gather books for Belle from Merlin's library.
+¦
+?Village!BeautyBeast!Beast!VLG_Beas_020_Group01_StoryDescriptioncThe Beast wants to feel useful, so he's roped you into acquiring some books to pass along to Belle.
+g
+WVillage!BeautyBeast!Beast!VLG_Beas_020_Group02_Step02_TalkToCharacter01_StepDescription{TargetNPC}.
+g
+WVillage!BeautyBeast!Beast!VLG_Beas_020_Group02_Step02_TalkToCharacter02_StepDescription{TargetNPC}.
+s
+>Village!BeautyBeast!Beast!VLG_Beas_020_Group02_StepDescription1Ask these Villagers about meeting with the Beast:
+Ô
+?Village!BeautyBeast!Beast!VLG_Beas_020_Group02_StoryDescriptionBelle is concerned for the Beast as well, so the two of you cooked up a plan Ã¢Â€Â” encourage the Beast to develop a friendship with a Villager!
+o
+WVillage!BeautyBeast!Beast!VLG_Beas_020_Group03_Step03_TalkToCharacter03_StepDescriptionReturn to the Beast.
+É
+?Village!BeautyBeast!Beast!VLG_Beas_020_Group03_StoryDescription…Both Mirabel and WALLÃ‚Â·E seem open to getting to know the Beast so it's time to present him with some potential friendship options.
+š
+SVillage!BeautyBeast!Beast!VLG_Beas_020_Group04_Step04_Conditional01_StepDescriptionCHang out with the Beast to make sure a catastrophe doesn't develop.
+m
+VVillage!BeautyBeast!Beast!VLG_Beas_020_Group05_Step05_GardeningPlant01_StepDescriptionHow to plant crops.
+q
+XVillage!BeautyBeast!Beast!VLG_Beas_020_Group05_Step06_GardeningHarvest01_StepDescriptionHow to harvest crops.
+k
+>Village!BeautyBeast!Beast!VLG_Beas_020_Group05_StepDescription)Teach the Beast the secrets of gardening:
+f
+QVillage!BeautyBeast!Beast!VLG_Beas_020_Group06_Step07_CraftItem01_StepDescriptionCraft {ItemName}.
+f
+QVillage!BeautyBeast!Beast!VLG_Beas_020_Group06_Step07_CraftItem02_StepDescriptionCraft {ItemName}.
+u
+>Village!BeautyBeast!Beast!VLG_Beas_020_Group06_StepDescription3Show the Beast how to craft what Mirabel will need:
+m
+WVillage!BeautyBeast!Beast!VLG_Beas_020_Group07_Step08_TalkToCharacter04_StepDescriptionTalk to the Beast.
+º
+?Village!BeautyBeast!Beast!VLG_Beas_020_Group07_StoryDescriptionwThe Beast has diligently observed as you showed him the hobby of his potential friend. Time to see how they hit it off!
+h
+>Village!BeautyBeast!Beast!VLG_Beas_020_Group08_StepDescription&Take the Beast to meet with WALLÃ‚Â·E.
+m
+EVillage!BeautyBeast!Beast!VLG_Beas_020_Group09_Step10_StepDescription$Take the Beast to meet with Mirabel.
+q
+WVillage!BeautyBeast!Beast!VLG_Beas_020_Group10_Step11_TalkToCharacter05_StepDescriptionCheck up on the Beast.
+‚
+WVillage!BeautyBeast!Beast!VLG_Beas_020_Group11_Step12_TalkToCharacter06_StepDescription'Ask Kristoff about his fishing contest.
+à
+?Village!BeautyBeast!Beast!VLG_Beas_020_Group11_StoryDescriptionœYour first attempts at finding the Beast a friend didn't go too well, but perhaps he needs someone as stoic and silent as himself with whom to make friends.
+m
+WVillage!BeautyBeast!Beast!VLG_Beas_020_Group12_Step13_TalkToCharacter07_StepDescriptionTalk to the Beast.
+É
+?Village!BeautyBeast!Beast!VLG_Beas_020_Group12_StoryDescription…Kristoff is holding a fishing tournament... which just might be the perfect activity to inspire friendship between him and the Beast!
+
+>Village!BeautyBeast!Beast!VLG_Beas_020_Group13_StepDescription=Stop hanging out with the Beast so he can go fish on his own.
+{
+QVillage!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish01_StepDescription&Saltwater fish from Dreamlight Valley.
+|
+QVillage!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish02_StepDescription'Freshwater fish from Dreamlight Valley.
+l
+QVillage!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish03_StepDescriptionFish of 3 lbs. or more.
+b
+QVillage!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish04_StepDescriptionA {ItemName}.
+b
+QVillage!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_CatchFish05_StepDescriptionA {ItemName}.
+y
+EVillage!BeautyBeast!Beast!VLG_Beas_020_Group14_Step15_StepDescription0Participate in the contest by catching at least:
+y
+NVillage!BeautyBeast!Beast!VLG_Beas_020_Group15_Step16_Listen03_StepDescription'Meet with the Beast and Kristoff again.
+H
+9Village!BeautyBeast!Beast!VLG_Beas_020_StartRequestButtonSTART QUEST

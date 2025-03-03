@@ -1,0 +1,53 @@
+
+Z
+FRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Any_CompletedRequestDescriptionReturn to Mushu.
+Æ
+;Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_AvailableDescriptionoMulan told you that Mushu needed help to create a new system of defense for the Empire. You should talk to him.
+ç
+@Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_CompletedStoryDescriptionIThe Dragon Army is ready. Mushu must be overjoyed. You should go see him.
+E
+2Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_DisplayNameThe Dragon Army
+i
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group01_Step01_TalkToCharacter01_StepDescriptionTalk to Mushu.
+^
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess01_StepDescription{itemName}.
+Å
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess02_StepDescription.<ActivityItem>Buckets of Water</ActivityItem>.
+y
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess03_StepDescription&<ActivityItem>Firewood</ActivityItem>.
+Ç
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess04_StepDescription/<ActivityItem>Red Spider Lilies</ActivityItem>.
+
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess05_StepDescription,<ActivityItem>Chrysanthemums</ActivityItem>.
+î
+ORealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step02_Possess06_StepDescriptionA<ActivityItem>Dream Shards</ActivityItem> from Dreamlight Valley.
+n
+ERealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_Step03_StepDescription%Take a picture of <Lore>Mushu</Lore>.
+è
+>Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_StepDescriptionMSearch for materials for Mushu's <ActivityItem>Dragon Statues</ActivityItem>:
+æ
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_StoryDescription{You decide to create an army of magical Dragon Statues to defend the Empire, but to start you need to gather the materials.
+ì
+QRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group03_Step04_CraftItem01_StepDescription>Craft the <ActivityItem>Unfired Dragon Statues</ActivityItem>.
+î
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group03_StoryDescriptionQOnce you've got all the materials, it's time to craft the Unfired Dragon Statues.
+k
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group04_Step05_TalkToCharacter02_StepDescriptionReturn to Mushu.
+ﬁ
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group05_Step06_FillKeyhole01_StepDescriptionÜInteract with the kiln to place the <ActivityItem>Unfired Dragon Statues</ActivityItem> and the <ActivityItem>Firewood</ActivityItem>.
+i
+WRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group06_Step07_TalkToCharacter03_StepDescriptionTalk to Mushu.
+∏
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group06_StoryDescriptionuThe Dragon Statues are in place. Now you just need to tell Mushu everything is ready for the firing process to start.
+¨
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group07_Step08_Conditional01_StepDescriptionUWait for the four batches of <ActivityItem>Dragon Statues</ActivityItem> to be fired.
+q
+SRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group07_Step08_Conditional02_StepDescriptionComplete Mulan's training.
+ë
+?Realm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group07_StoryDescriptionNFiring the Dragon Statues will take some time; you'll just have to be patient.
+z
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group02_OngoingRequestButton3<smallcaps>{title}</smallcaps><br>What do you need?
+u
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group03_OngoingRequestButton.<smallcaps>{title}</smallcaps><br>What's next?
+x
+CRealm!Mulan!Mushu!RLM_MulanIP_Mush_020_Group05_OngoingRequestButton1<smallcaps>{title}</smallcaps><br>How can I help?

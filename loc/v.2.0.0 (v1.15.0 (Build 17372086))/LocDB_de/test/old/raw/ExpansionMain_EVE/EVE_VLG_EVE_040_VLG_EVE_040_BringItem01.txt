@@ -1,0 +1,33 @@
+TAG: EVE_000_f
+Директива.
+
+TAG: EVE_001_f
+Когда будете готовы, ЕВА, вы можете проверить <ActivityItem> Experiment Fireworks</ActivityItem>...
+
+TAG: EVE_002_f
+*цифровые сигналы*
+
+TAG: EVE_003_f
+Ох...
+
+TAG: Player_000_f
+<ActivityItem>Fires</ActivityItem>.... снова...
+
+TAG: Player_000_choice_000_f
+Надеюсь, это в последний раз.
+
+TAG: Player_000_choice_001_f
+Это начинает становиться темой.
+
+TAG: Player_000_choice_002_f
+Обожаю поджигать мир ради науки!
+
+TAG: EVE_005_f
+*Вздыхай.*
+
+TAG: EVE_006_f
+*Вздыхай.*
+
+TAG: EVE_007_f
+Хм...
+

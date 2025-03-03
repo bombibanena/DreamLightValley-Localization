@@ -1,0 +1,45 @@
+TAG: Donald_000_f
+My friends always say I have a bit of a temper, but I don't know what they're talking about.
+
+TAG: Donald_001_f
+What do YOU do when you're really mad? Not that I'm asking for any particular reason...
+
+TAG: Player_000_choice_000_f
+I meditate to try to calm down.
+
+TAG: Player_000_choice_001_f
+I punch a pillow.
+
+TAG: Player_000_choice_002_f
+I yell and flail around.
+
+TAG: Donald_002_f
+Meditate? How do you do that?
+
+TAG: Player_001_choice_000_f
+Close your eyes and breathe deeply... in... out...
+
+TAG: Player_001_choice_001_f
+Stand on your head and spin for three minutes.
+
+TAG: Player_001_choice_002_f
+I just listen to music to zone out.
+
+TAG: Donald_006_f
+... ... ... zzzzzzzzzzz...
+
+TAG: Donald_007_f
+Oh, I knew that!
+
+TAG: Donald_008_f
+I'll try that!
+
+TAG: Donald_003_f
+That sounds pretty useful. I'm gonna write that down.
+
+TAG: Donald_004_f
+But NOT because I'll ever need to do it!
+
+TAG: Donald_005_f
+So do I! Wait, are you making fun of me?!
+

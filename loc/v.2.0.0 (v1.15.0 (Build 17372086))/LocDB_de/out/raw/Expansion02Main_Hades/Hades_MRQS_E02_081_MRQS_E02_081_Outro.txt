@@ -1,0 +1,84 @@
+TAG: Hades_000_f
+That was some adequate work, {PlayerName}.
+
+TAG: Hades_006_f
+And just to show you I'm all about your development as a minion...
+
+TAG: Hades_012_f
+I'm promoting you again! You're going from associate minion to intermediate minion.
+
+TAG: Player_001_choice_000_f
+How about "director of minion operations"?
+
+TAG: Player_001_choice_001_f
+I deserve to at least be "senior minion" by now.
+
+TAG: Player_001_choice_002_f
+For the last time. I am NOT your minion.
+
+TAG: Hades_019_f
+Take my word for it, kid. You're a great contributor. Don't be too eager to get into management. You would not believe the headaches!
+
+TAG: Hades_001_f
+Now, it looks like the rest of the torches around the gate to Mount Olympus have lit up!
+
+TAG: Hades_002_f
+And since you already cleared all the ink blocking the way...
+
+TAG: Hades_003_f
+It's time to head inside the palace on Mount Olympus. Which is great! Don't get me wrong. Except for the mess.
+
+TAG: Hades_004_f
+You've got your work cut out for ya, {PlayerName}. So, get to it!
+
+TAG: Hades_005_f
+But first, you're gonna have to clear all that ink blocking the way.
+
+TAG: Hades_007_f
+Oh, hey! Looks like another one of those torches around the gate to Mount Olympus lit up.
+
+TAG: Hades_018_f
+Which means we need to find one more of these Mythic Trials to open the gate.
+
+TAG: Hades_008_f
+Try <Lore>investigating the Colossus</Lore> to the west.
+
+TAG: Hades_009_f
+You'll have to start by <Lore>clearing away all the ink</Lore> around the place, though.
+
+TAG: Hades_010_f
+You already cleared away the ink blocking <Lore>the Colossus</Lore>. So try looking around there for another Mythic Trial.
+
+TAG: Hades_020_f
+Ambition noted, but you gotta start small and work your way up. It's business; what can I say?
+
+TAG: Hades_021_f
+*sigh* Look, fine. At your next annual review, we can talk title change.
+
+TAG: Hades_022_f
+Flunky, lackey, henchperson, whatever. We'll work something out.
+
+TAG: Hades_011_f
+Tell you what. I think it's time for a promotion.
+
+TAG: Hades_013_f
+I'm moving you up from junior minion to associate minion.
+
+TAG: Player_000_choice_000_f
+Do I have any new responsibilities?
+
+TAG: Player_000_choice_001_f
+Will there be a pay increase?
+
+TAG: Player_000_choice_002_f
+I'm not your minion, Hades.
+
+TAG: Hades_015_f
+Obviously. I expect you to work at least twice as hard. Minimum.
+
+TAG: Hades_016_f
+Yeah, afraid not. But really, you're in this for the experience, aren't ya?
+
+TAG: Hades_017_f
+With that attitude, you won't be for long.
+

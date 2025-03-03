@@ -1,0 +1,67 @@
+
+p
+DVillage!LilMermaid!Eric!VLG_Eric_020_Any_CompletedRequestDescription(Поговори с Принц Эрик.
+�
+9Village!LilMermaid!Eric!VLG_Eric_020_AvailableDescription�Принц Эрик хочет начать расследование того, что Урсула сказал, пока он был ее пленником.
+�
+>Village!LilMermaid!Eric!VLG_Eric_020_CompletedStoryDescription�С небольшой помощью Реми и Мауи вы смогли создать очаровательный кулон, который позволяет Ариэль изменить форму, чтобы она могла ходить по земле по своему желанию.
+N
+0Village!LilMermaid!Eric!VLG_Eric_020_DisplayNameЧасть его мира
+v
+UVillage!LilMermaid!Eric!VLG_Eric_020_Group01_Step01_TalkToCharacter01_StepDescriptionПоговори с Мауи.
+�
+UVillage!LilMermaid!Eric!VLG_Eric_020_Group02_Step02_TalkToCharacter02_StepDescription4Возвращайтесь на Принц Эрик.
+�
+AVillage!LilMermaid!Eric!VLG_Eric_020_Group03_OngoingRequestButtonI<smallcaps>{title}</smallcaps><br> С кем мне поговорить?
+o
+DVillage!LilMermaid!Eric!VLG_Eric_020_Group03_Step03_ReadyDescription'Принесите Реми {ItemName}.
+|
+CVillage!LilMermaid!Eric!VLG_Eric_020_Group03_Step03_StepDescription5Возьмите {ItemName} из Принц Эрик.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem02_StepDescription{ItemName}.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem03_StepDescription{ItemName}.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem04_StepDescription{ItemName}.
+^
+OVillage!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_BringItem05_StepDescription{ItemName}.
+�
+DVillage!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_ReadyDescriptionKПринесите Реми Ингредиенты для приманки.
+�
+CVillage!LilMermaid!Eric!VLG_Eric_020_Group04_Step04_StepDescriptionBСоберите Ингредиентов для приманки:
+|
+AVillage!LilMermaid!Eric!VLG_Eric_020_Group07_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+QVillage!LilMermaid!Eric!VLG_Eric_020_Group07_Step07_ConsumeItem01_StepDescription�Используйте <ActivityItem>Nautilus Bat</ActivityItem> в вашем списке, чтобы применить его к вашей рыболовецкой родине.
+�
+AVillage!LilMermaid!Eric!VLG_Eric_020_Group08_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+OVillage!LilMermaid!Eric!VLG_Eric_020_Group08_Step08_CatchFish01_StepDescription�Рыба <ActivityItem>Nautilus</ActivityItem> на пляже Даззл, где река встречается с морем.
+�
+AVillage!LilMermaid!Eric!VLG_Eric_020_Group09_OngoingRequestButtonE<smallcaps>{title}</smallcaps><br> Что я могу сделать?
+\
+MVillage!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_Possess01_StepDescription{ItemName}.
+\
+MVillage!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_Possess04_StepDescription{ItemName}.
+\
+MVillage!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_Possess09_StepDescription{ItemName}.
+�
+CVillage!LilMermaid!Eric!VLG_Eric_020_Group09_Step09_StepDescriptionhСоберите ингредиенты для <ActivityItem>Shapebreporting Enchantment</ActivityItem>:
+�
+=Village!LilMermaid!Eric!VLG_Eric_020_Group09_StoryDescription�Чтобы помочь Принц Эрик и Ариэль быть вместе на земле, вы узнаете, что вам нужно собрать очаровательный предмет, который позволит ей изменить форму.
+|
+AVillage!LilMermaid!Eric!VLG_Eric_020_Group10_OngoingRequestButton7<smallcaps>{title}</smallcaps><br> Что дальше?
+�
+OVillage!LilMermaid!Eric!VLG_Eric_020_Group10_Step10_CraftItem02_StepDescriptionIПриготовьте {ItemName} на станцию крафтинга.
+�
+AVillage!LilMermaid!Eric!VLG_Eric_020_Group11_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+<Village!LilMermaid!Eric!VLG_Eric_020_Group11_StepDescription�Возьмите <ActivityItem>Shapetransporting Enchantment</ActivityItem> и <ActivityItem>Nautilus</ActivityItem> на Принц Эрик.
+�
+AVillage!LilMermaid!Eric!VLG_Eric_020_Group12_OngoingRequestButton@<smallcaps>{title}</smallcaps><br> Чем могу помочь?
+�
+OVillage!LilMermaid!Eric!VLG_Eric_020_Group12_Step12_BringItem01_StepDescriptionAУбедитесь, что {ItemName} в вашем списке.
+v
+DVillage!LilMermaid!Eric!VLG_Eric_020_Group12_Step12_ReadyDescription.Возьмите {ItemName} на Ариэль.
+h
+7Village!LilMermaid!Eric!VLG_Eric_020_StartRequestButton-<smallcaps>{title}</smallcaps><br>Start Quest

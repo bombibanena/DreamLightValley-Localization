@@ -1,0 +1,47 @@
+
+P
+
+Remy_000_fB{PlayerName}! Always good to see you. What can I do for you today?
+n
+
+Remy_001_f`Belle and I are gathering <ActivityItem>Books</ActivityItem> borrowed from the Library andâ
+;
+
+Remy_002_f-And you want me to return the one I borrowed.
+S
+
+Remy_003_fETrust me, I wish I could. Unfortunately, there's one small problem...
+
+
+Remy_004_f
+I lost it.
+(
+Player_000_choice_000_fI'll find it.
+)
+Player_000_choice_001_fWhat happened?
+9
+Player_000_choice_002_fBut you're usually so careful.
+`
+
+Remy_006_fRThat would be great! If anybody can do it, it's you. Okay, here's what happened...
+�
+
+Remy_007_f�I was reading the novel â <ActivityItem>Extraordinary RATventures</ActivityItem>, about a rat adventurer â on the pontoon on Dazzle Beach...
+F
+
+Remy_014_f8But then Donald tripped on a turtle and started yelling.
+
+
+Remy_009_fqHe startled me so much I dropped the <ActivityItem>Book</ActivityItem> in the water. It's gotta be ruined, right?
+�
+
+Remy_010_fyKnowing Merlin, he must have enchanted all of the books from the Dreamlight Library to protect them from getting damaged.
+N
+
+Remy_011_f@You think so? I guess that would be a pretty Merlin thing to do.
+s
+
+Remy_012_feI'll <Lore>try to fish it out from Dazzle Beach</Lore> once I get the rest of the books back. Thanks!
+3
+
+Remy_008_f%I know... I feel just awful about it.

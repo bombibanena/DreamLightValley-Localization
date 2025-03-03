@@ -1,0 +1,30 @@
+
+H
+
+Buzz_000_f:Nice work, cadet. Now let's hop in and head out on patrol.
+|
+Player_000_flEr, I made the <ActivityItem>Space Ranger Ship</ActivityItem> to your specifications, so it's kinda small...
+C
+Player_000_choice_000_f(It's going to be a tight squeeze for me.
+5
+Player_000_choice_001_fI can't fit in that thing!
+4
+Player_000_choice_002_fEr... let's patrol later.
+~
+
+Buzz_004_fpAh, yes. I see how that could be a problem. Also, you're not exactly ready for official Space Ranger duties yet.
+a
+
+Buzz_001_fSBefore we do anything else, you need a proper <ActivityItem>Uniform</ActivityItem>.
+k
+
+Buzz_002_f]I understand Scrooge McDuck is in charge of commerce around here. I suggest you speak to him.
+l
+
+Buzz_005_f^It's a spaceship, {PlayerName}. From the films I've seen, they are often bigger on the inside.
+U
+
+Buzz_003_fGBut you are missing one thing that's essential for all Space Rangers...
+Š
+
+Buzz_006_f|Good call, {PlayerName}. I just realized, we can't go on patrol yet. You're missing something critical to all Space Rangers.

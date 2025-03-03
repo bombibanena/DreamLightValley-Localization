@@ -1,0 +1,90 @@
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Any_CompletedRequestDescription
+Добро пожаловать Вуди в деревню.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_AvailableDescription
+Вуди нуждается в вашей помощи в восстановлении специального художественного и ремесленного проекта Бонни.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_CompletedStoryDescription
+Вуди прибыл в долину Мечты. Вы подозреваете, что ему нужно немного приспособиться. Жизнь здесь немного сложнее, чем в комнате Бонни.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_DisplayName
+Ты мой любимый помощник.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group01_Step01_TalkToCharacter01_StepDescription
+Поговори с Вуди в "Истории игрушек".
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group02_Step02_BringItem01_StepDescription
+{ItemName}.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group02_Step02_BringItem02_StepDescription
+{ItemName}.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group02_Step02_ReadyDescription
+Принесите материалы на Вуди.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group02_Step02_StepDescription
+Соберите следующие материалы в "Истории игрушек":
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group03_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я опять делал?
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group03_Step03_Possess01_StepDescription
+{ItemName}.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group03_Step04_TalkToCharacter02_StepDescription
+Поговори с Базз Лайтер о чем-нибудь, чтобы удержать ферму.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group03_StepDescription
+Соберите остальные материалы в долине Мечты:
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group04_Step05_BringItem03_StepDescription
+{ItemName}.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group04_Step05_BringItem04_StepDescription
+{ItemName}.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group04_Step05_ReadyDescription
+Принесите материалы на Вуди в игрушечном стиле.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group04_Step05_StepDescription
+Убедитесь в том, что у вас в списке имеются следующие материалы:
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group05_Step06_VisitArea01_StepDescription
+Встречайся с Вуди на ферме Бонни рядом с кроватью.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group06_Step07_TalkToCharacter03_StepDescription
+Поговори с Вуди.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group07_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что я опять делал...?
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group07_Step08_ReadyDescription
+Принесите зверей <ActivityItem>Origami</ActivityItem> на Вуди.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group07_Step08_StepDescription
+Обыщите комнату <ActivityItem>Origami Animals</ActivityItem>.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group07_StoryDescription
+Теперь, когда ты перестроил ферму Бонни, тебе просто нужно поспорить с животными, чтобы убедиться, что всё так, как она ушла.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group08_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать дальше?
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group08_Step09_PlaceBuilding01_StepDescription
+Место Вуди Карусель в долине Мечты.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group08_StoryDescription
+Вы ругаетесь с животными Бонни и покидаете комнату так же, как она оставила его. Теперь, когда вы решили этот кризис, Вуди соглашается приехать в долину Мечты, но сначала ему нужно где-то остановиться.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group09_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать дальше?
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group09_Step10_Unlock01_StepDescription
+Используйте знак Скрудж Макдак для оплаты строительства Вуди Carusel.
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group10_OngoingRequestButton
+<smallcaps>{title}</smallcaps><br> Что мне делать дальше?
+
+TAG: Realm!ToyStory!Woody!RLM_ToyStoryIP_Woody_010_Group10_Step11_UnlockCharacter01_StepDescription
+Используйте знак Скрудж Макдак для оплаты строительства Вуди Carusel.
+

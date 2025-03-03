@@ -1,0 +1,42 @@
+TAG: Scrooge_000_f
+{PlayerName}! I... I'm not sure what I'm doin' here.
+
+TAG: Scrooge_001_f
+It was Ursula! You almost fell under the effects of her potion!
+
+TAG: Scrooge_002_f
+What?! That villain! She'll be hearin' from me. You can count on that!
+
+TAG: Scrooge_003_f
+As for you... Thank you, {PlayerName}, for the kind rescue.
+
+TAG: Player_000_choice_000_f
+Thank Sally!
+
+TAG: Player_000_choice_001_f
+I'll always be here to help.
+
+TAG: Player_000_choice_002_f
+It was a group effort, to be honest.
+
+TAG: Scrooge_004_f
+Aye, I'll be sure to!
+
+TAG: Scrooge_007_f
+So, next time Sally has a vision, are you going to give her the benefit of the doubt?
+
+TAG: Scrooge_008_f
+Most certainly!
+
+TAG: Scrooge_009_f
+Now tell me: Has Sally ever had visions about the stock market?
+
+TAG: Scrooge_010_f
+That... you may need to discuss with her later.
+
+TAG: Scrooge_005_f
+And we are all grateful for that!
+
+TAG: Scrooge_006_f
+Well, I'm grateful to ya both.
+

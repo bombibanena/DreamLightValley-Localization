@@ -1,0 +1,30 @@
+TAG: Merlin_000_f
+{PlayerName}, have you spent much time feeding the creatures around the Valley?
+
+TAG: Player_000_choice_000_f
+Oh yes!
+
+TAG: Player_000_choice_001_f
+A little bit. But I should do it more.
+
+TAG: Player_000_choice_002_f
+Every time I get close, they run or hide!
+
+TAG: Merlin_001_f
+Wonderful! We must remember that the Valley has quite a peculiar ecosystem.
+
+TAG: Merlin_002_f
+The tiniest creatures are of vital importance... even if we don't quite understand how yet.
+
+TAG: Merlin_003_f
+Well, heed my advice. I've been observing them closely for quite some time.
+
+TAG: Merlin_004_f
+Some of these small animals are timid, while others are more friendly and playful.
+
+TAG: Merlin_005_f
+If you're ever in doubt... just stand utterly still and observe them.
+
+TAG: Merlin_006_f
+In fact, that's not terrible advice for life in general...
+
